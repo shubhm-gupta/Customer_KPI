@@ -1,0 +1,1607 @@
+This article was downloaded by: [152.15.47.133] On: 03 February 2017, At: 07:52
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+
+Management Science
+
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+Exploring the Locus of Profitable Pollution Reduction
+
+Andrew King, Michael Lenox,
+
+To cite this article:
+Andrew King, Michael Lenox,  (2002) Exploring the Locus of Profitable Pollution Reduction. Management Science
+48(2):289-299. http://dx.doi.org/10.1287/mnsc.48.2.289.258
+
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+
+© 2002 INFORMS
+
+Please scroll down for article—it is on subsequent pages
+
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.org
+
+
+Exploring the Locus of Proﬁtable
+
+Pollution Reduction
+
+Andrew King • Michael Lenox
+
+Stern School of Business, New York University, 40 West 4th St. Suite 717,
+
+New York, New York 10012
+
+aking@stern.nyu.edu • mlenox@stern.nyu.edu
+
+In this paper, we explore the locus of proﬁtable pollution reduction. We propose that man-
+
+agers underestimate the full value of some means of pollution reduction and so under
+exploit these means. Based on evidence from previous studies, we argue that waste pre-
+vention often provides unexpected innovation offsets, and that onsite waste treatment often
+provides unexpected cost. We use statistical methods to test the direction and signiﬁcance of
+the relationship between the various means of pollution reduction and proﬁtability. We ﬁnd
+strong evidence that waste prevention leads to ﬁnancial gain, but we ﬁnd no evidence that
+ﬁrms proﬁt from reducing pollution by other means. Indeed, we ﬁnd evidence that the ben-
+eﬁts of waste prevention alone are responsible for the observed association between lower
+emissions and proﬁtability.
+(Environmental Strategy; Waste Prevention; Information Economics)
+
+Historically, scholars have argued that discretionary
+reductions in pollution by ﬁrms should lead to lower
+ﬁnancial performance (Friedman 1970). According to
+this view, the cost of pollution is borne by the pub-
+lic. Reducing this public harm represents philan-
+thropy, not proﬁt maximization. Recently, however,
+some scholars have argued that pollution reduction
+provides both a public and a private beneﬁt (Hart
+1995, Porter and van der Linde 1995, Russo and
+Fouts 1997). Reducing pollution may increase pro-
+duction efﬁciency,
+increase demand from environ-
+mentally sensitive consumers, discourage stakeholder
+activism, and allow a ﬁrm to attract better workers
+(Reinhardt 1999).
+
+The dispute over whether and where it “pays
+to be green” is more than simply a debate over
+the private cost of pollution: It is a debate about
+whether managers systematically miss proﬁt oppor-
+tunities. Whatever the private cost of pollution, ratio-
+nal managers should choose the level of pollution
+that balances the costs and beneﬁts (McWilliams and
+Siegel 2001). Beyond this level, additional pollution
+
+reduction should reduce proﬁts. As Palmer et al. (1995)
+note, a viable “pays to be green” theory must explain
+why “[the private sector] systematically overlooks
+proﬁtable opportunities” (p. 91).
+
+Most scholars argue that managers tend to underes-
+timate one particular method of pollution reduction—
+waste prevention (Majumdar and Marcus 2001,
+Klassen and Whybark 1999, Hart 1995, Porter and van
+der Linde 1995). They argue that preventing waste (as
+opposed to treating waste once produced) provides
+unexpected and valuable information about process
+improvement opportunities. According to these schol-
+ars, such process improvements may more than offset
+the cost of pollution reduction (Ashford and Heaton
+1983, Porter and van der Linde 1995).
+
+While central to most “pays to be green” argu-
+ments, this provocative idea has not been directly
+tested. A number of scholars have found evidence
+that less-polluting ﬁrms have higher ﬁnancial perfor-
+mance (e.g., Hart and Ahuja 1996). Scholars have also
+uncovered evidence that waste prevention, in partic-
+ular, can provide unexpected learning beneﬁts (King
+
+0025-1909/02/4802/0289$5.00
+1526-5501 electronic ISSN
+
+Management Science © 2002 INFORMS
+Vol. 48, No. 2, February 2002 pp. 289–299
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+1995, Klassen and Whybark 1999, Majumdar and
+Marcus 2001). In this paper, we disaggregate pollution
+reduction into its component factors and jointly test
+for the proﬁtability of each factor. We account for
+unobserved differences among ﬁrms to determine if
+the link between pollution reduction methods and
+ﬁnancial performance is real or merely an artifact of
+some other ﬁrm attribute. In our analysis, we ﬁnd
+support for the “pays to be green” hypothesis, but we
+show that this ﬁnding is likely caused by one factor
+alone—increased waste prevention.
+
+Theory and Hypotheses
+Firms can reduce their pollution in a number of
+ways. Firms may reduce their emissions by treating
+waste onsite, transferring waste to a third party pro-
+cessor, or by preventing waste at the source (often
+referred to as source reduction or pollution preven-
+tion). A proﬁt-maximizing manager should choose
+among these means of pollution reduction so that the
+ratio of the marginal productivity of each activity to
+the cost of that activity is the same. As a result, for a
+proﬁt-maximizing ﬁrm, the marginal cost of reducing
+a unit of pollution will be the same for all pollution
+reduction options and equal to the marginal beneﬁt
+of pollution reduction.
+
+However, if information about the value of each
+pollution reduction factor is costly to acquire, some
+factors may be under exploited while others may
+be overused. Theories of information search propose
+that prior expectations combined with costly infor-
+mation acquisition can cause managers to under (or
+over) invest in some forms of process improvement
+(Arrow 1974, von Hippel 1994). Absent new infor-
+mation, managers’ prior expectations determine the
+location and intensity of search for proﬁtable oppor-
+tunities (Arrow 1974, Jensen 1982). If managers expect
+little beneﬁt from certain pollution reduction strate-
+gies, they may not search for such proﬁtable pollution
+reduction opportunities, and thus, may not ﬁnd them.
+Research has shown that differences in search costs
+can inﬂuence the degree to which managers exploit
+other production techniques like lean production and
+quality management (Ocana and Zemel 1996). Juran
+(1988) argues that managers underestimate the value
+
+of total quality management (TQM) because infor-
+mation about the value of defect reduction is often
+both delayed and obscured (Juran 1988). On the other
+hand, the value of catching and ﬁxing defects at the
+end of the line is clear (e.g., doing so allows the ﬁrm
+to meet customer requirements). As a result, man-
+agers often overuse rework departments to ﬁx quality
+problems at the end of the line and underuse practices
+that improve quality in the production process (Flynn
+and Schroeder 1995). Womack et al. (1990) argue that
+the difﬁculty of observing the true value of lean pro-
+duction and TQM practices delayed their diffusion for
+years. During this time, managers who understood
+the value of such practices could improve their ﬁrm’s
+ﬁnancial performance by improving process quality
+and reducing end of line quality control.
+
+Similarly, a number of authors argue that waste
+prevention provides hard-to-observe beneﬁts and thus
+is underexploited (Hart and Ahuja 1995, Klassen
+and Whybark 1999, Russo and Fouts 1997). Waste
+prevention requires both conceptual and operational
+learning (Larpe et al. 2000). Cebon (1992) argues
+that the “contextual embeddedness” of waste pre-
+vention makes it difﬁcult for managers to measure
+its full value. King (1999) ﬁnds that while waste
+prevention improves worker incentives and encour-
+ages development of worker skills, these beneﬁts
+are often overlooked. Hart (1995) argues the beneﬁts
+of waste prevention are distributed and thus difﬁ-
+cult to attribute to waste prevention. Other scholars
+argue that unexpected synergies may exist between
+waste prevention and lean production techniques
+(Rothenberg 1999, King and Lenox 2001).
+
+Increased process innovation is often cited as an
+example of unexpected beneﬁt from waste preven-
+tion (Porter and van der Linde 1995). Ashford and
+Heaton (1983) argue that managers often overlook the
+abundant innovations from waste prevention. Berube
+et al. (1992) provide an explanation for this oversight.
+They argue that waste prevention allows improved
+measurement of the production process, and thereby
+facilitates process innovation. They describe one strik-
+ing example where mandated waste prevention led to
+numerous unexpected and highly proﬁtable process-
+improving innovations. King (1995) shows that, in
+industry, pollution prevention
+the printed circuit
+
+290
+
+Management Science/Vol. 48, No. 2, February 2002
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+activities contributed a disproportionate number of
+process-improving innovations. Porter and van der
+Linde (1995) argue that these innovation offsets are
+often hard to link to their source, and thus, managers
+underestimate the value of the underlying process
+that engendered them. If managers do not factor in
+the value of such innovation, they will underinvest in
+waste prevention, and those ﬁrms that increase their
+investment in such activities will improve their ﬁnan-
+cial performance.
+
+Hypothesis 1. The more a ﬁrm prevents waste, the
+
+higher its ﬁnancial performance.
+
+While waste prevention may provide unexpected
+beneﬁts, several scholars have argued that waste
+treatment activities often entail unexpected costs
+(Cebon 1992, Hart 1995). The idea that end-of-
+pipe treatment might entail hidden costs derives
+from Thompson’s (1967) argument that organizational
+buffers both insulate the ﬁrm from disturbances and
+reduce the information ﬂowing to managers. Cebon
+(1992) extends this argument by suggesting that waste
+treatment activities reduce the incentives to improve
+the production process. Waste-processing operations
+allow the ﬁrm to continue to engage in sloppy prac-
+tices and then clean up the resulting problems “at the
+end of the pipe” (Cebon 1992, Hart 1995). King (1999)
+ﬁnds evidence that managers in one industry system-
+atically overinvested in waste treatment activities and
+that reduction in the size and capacity of these end-of-
+pipe operations encouraged waste treatment person-
+nel to improve the process itself. If managers overlook
+the hidden cost of waste treatment, they will choose
+to do more onsite waste treatment than is economical.
+
+Hypothesis 2. The less a ﬁrm treats waste onsite, the
+
+higher its ﬁnancial performance.
+
+Data and Measures
+Our sample is drawn from publicly traded U.S. man-
+ufacturing ﬁrms that are both listed in the Compus-
+tat database and have at least one facility that meets
+the reporting requirements of the U.S. EPA’s Toxic
+Release Inventory (TRI). Facilities must complete TRI
+reports if they manufacture or process 25,000 pounds
+of any listed chemical during a calendar year, use
+
+more than 10,000 pounds, and employ 10 or more
+full-time people. Prior to 1991, ﬁrms did not pro-
+vide detailed information about waste generation or
+waste-processing onsite, thus we cannot use data
+from the years 1987–1990. At the initiation of this
+paper, 1996 was the last year of reported data. By
+matching the two sets, we created an unbalanced sam-
+ple of 614 ﬁrms constituting 2,837 ﬁrm-year observa-
+tions for the years 1991–1996.
+
+Financial Performance
+We measure ﬁnancial performance in two ways:
+return on assets (ROA) and Tobin’s q. ROA is a stan-
+dard accounting measure of ﬁnancial performance
+found commonly in strategy research. ROA is calcu-
+lated by dividing earnings before interest by average
+total ﬁrm assets. We use Tobin’s q in addition to ROA,
+because Tobin’s q better reﬂects the inherent value
+of the ﬁrm. Tobin’s q reﬂects expected future gains
+and is in accordance with more recent “pays to be
+green” studies (see Dowell et al. 2000). We calculated
+Tobin’s q by dividing the sum of ﬁrm equity value,
+book value of long-term debt, and net current liabil-
+ities by total assets (see Chung and Pruitt 1995). We
+do not use the more complicated measure of Tobin’s q
+as proposed by Lindenberg and Ross (1981), because
+past research has found little qualitative difference
+between this measure and the simpliﬁed version used
+in this analysis (Chung and Pruitt 1995).
+
+Pollution Reduction
+Previous research has measured ﬁrm pollution by
+dividing annual ﬁrm emissions of toxic chemicals by
+ﬁrm size (Hart and Ahuja 1996). We improve on this
+measure by analyzing performance at the facility level
+and by separating out the various means of pollution
+reduction. By comparing performance at the facility
+level, we can better control for industry effects. By dis-
+tinguishing among waste prevention and onsite and
+offsite waste treatment, we can explore where proﬁt
+opportunities lie.
+
+To measure each facility’s emissions, we sum
+releases of the 246 “core” toxic chemicals that have
+been consistently reported in the U.S. EPA’s Toxic
+Release Inventory. We weigh each chemical by its tox-
+icity using the Reportable Quantities (RQ) list in the
+
+Management Science/Vol. 48, No. 2, February 2002
+
+291
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+CERCLA statute (cf., King and Lenox 2000). To mea-
+sure the ﬁrm’s total pollution, we create a ﬁrm-level
+variable (total emissions) by taking the natural log of
+the total toxicity weighted emissions across all of a
+ﬁrm’s facilities.
+
+Total emissions are the outcome of a ﬁrm’s waste
+generation and its efforts to reduce this waste by
+prevention and treatment. Creating measures of each
+of these requires several steps. We ﬁrst measure the
+total toxic waste generated at a facility in a given
+year by calculating the toxicity-weighted sum of all
+core chemicals released into the environment, treated
+onsite, and transferred offsite. Next, we estimate a
+quadratic function between facility size and total
+waste generation for each 4-digit Standard Industry
+Classiﬁcation (SIC) code within each year using stan-
+dard OLS regression.
+Wit = e(cid:6)jt s(cid:9)1jt
+ln Wit = (cid:6)jt + (cid:9)1jt(cid:10)ln sit(cid:11)+ (cid:9)2jt(cid:10)ln sit(cid:11)2 + (cid:12)jt(cid:13)
+
+ln(cid:10)s(cid:11)∗(cid:9)2jt
+it
+
+(1)
+
+(2)
+
+e(cid:12)jt
+
+s
+
+it
+
+where Wit is aggregate waste generated for facility i
+in year t, sit is facility size, (cid:6)jt, (cid:9)1jt, and (cid:9)2jt are the
+estimated coefﬁcients for sector j in year t, and (cid:12)jt is
+the residual.
+
+We use the estimated function to predict
+
+the
+amount of waste each facility would generate given
+its size, industry, and year. We use the residual to
+measure the relative performance of each facility in
+reducing this waste generation.
+it = e(cid:6)jt s(cid:9)1jt
+W ∗
+it S
+RWit = −e(cid:12)jt /(cid:17)(cid:12)jt (cid:13)
+
+ln(cid:10)s(cid:11)∗(cid:9)2jt
+it
+
+(3)
+
+(4)
+
+where W ∗
+it is predicted waste generation for facility
+i in year t, RWit is the standardized relative perfor-
+mance for facility i in year t, and (cid:17)(cid:12)jt
+is the standard
+error of the residual for the SIC and year pair. We use
+the exponential form of the equation because we wish
+to sum these estimates for all facilities in ﬁrm before
+taking the log. We standardize the residuals to reﬂect
+the relative conﬁdence of different estimations and we
+change the sign of the residual so that positive scores
+indicate more waste prevention. Unweighted aggre-
+gations and nonstandardized residuals deliver similar
+results.
+
+Our ﬁnancial performance measures are at the cor-
+porate level, so we must aggregate our facility level
+data up to the company level. Waste generation is
+calculated as the sum of predicted waste generation
+(W ∗
+it) across all facilities owned by a ﬁrm. Essentially,
+this is our best guess for how much waste the com-
+pany would have generated if it were an average per-
+former for its size in its industry. Waste prevention is
+the weighted average of a ﬁrm’s facility-level scores
+(RWit) based on the percentage of total production
+that each facility represents for the company.
+
+We also construct measures of relative waste treat-
+ment. We ﬁrst calculate the ratio of the material
+treated onsite (e.g., treated, burned, or recycled) to
+the total waste generated. We then calculate the aver-
+age and standard deviations for these amounts for
+each SIC code in each year. From this, we calculate a
+deviation for each facility. These deviations are then
+summed to form a ﬁrm measure of onsite manage-
+ment (waste treatment). Similarly, waste transfer mea-
+sures the percentage of waste that is processed offsite
+and is calculated in the same way.
+
+Controls
+We include a number of measures commonly used in
+the analysis of ﬁnancial performance as controls (e.g.,
+Berger and Ofek 1995). A company’s size (ﬁrm size)
+is calculated as the log of the company’s assets. The
+amount a ﬁrm is growing (growth) is calculated as the
+annual percent change in sales. The capital intensity
+(capital intensity) of the ﬁrm is calculated by dividing
+capital expenditures by sales. The degree to which the
+ﬁrm is leveraged (leverage) is expressed as the ratio of
+its debt to assets. Finally, the research and develop-
+ment intensity of the ﬁrm (R&D intensity) is calculated
+by dividing research and development expenses by
+total assets.
+
+In addition to these common ﬁnancial controls, we
+also include an estimate of a ﬁrm’s labor prices in our
+regressions (regional wages). Because employees were
+used as a proxy for facility level production, differ-
+ences in labor efﬁciency among the ﬁrms in our study
+might bias our analysis. Lower labor prices would
+encourage managers to substitute labor for waste. For
+example, managers could hire workers to search for
+problems, engage in maintenance, or improve existing
+
+292
+
+Management Science/Vol. 48, No. 2, February 2002
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+Table 1
+
+Descriptive Statistics
+
+Variable
+
+Description
+
+Tobin’s q
+ROA
+Total emissions
+Waste generation
+Waste prevention
+Waste treatment
+Waste transfer
+Firm size
+Capital intensity
+Growth
+R&D intensity
+Leverage
+Regional wages
+Regulatory stringency
+Permits
+Note. n = 2(cid:3) 837 except for ROA, where n = 2(cid:3) 120.
+
+Market valuation over replacement values of assets
+Return on assets
+Log of total emissions of ﬁrm (+1)
+Log of predicted waste generation of ﬁrm (+1)
+Deviation of actual to predicted waste generation
+Std. ratio of onsite treatment to waste generation
+Std. ratio of offsite transfers to waste generation
+Natural log of ﬁrm assets
+Capital expenditures over sales
+Change in sales over sales
+R&D outlays over ﬁrm assets
+The ratio of debt to ﬁrm assets
+Labor price for the states the ﬁrm operates in
+Stringency of the states the ﬁrm operates in
+Firm environmental permits over ﬁrm size
+
+Mean
+
+1(cid:1)67
+5(cid:1)75
+5(cid:1)40
+5(cid:1)52
+−0(cid:1)24
+0(cid:1)08
+0(cid:1)04
+6(cid:1)35
+0(cid:1)06
+0(cid:1)13
+0(cid:1)04
+0(cid:1)17
+12(cid:1)58
+0(cid:1)47
+0(cid:1)51
+
+Std. Dev.
+
+1(cid:1)02
+6(cid:1)18
+3(cid:1)31
+2(cid:1)96
+0(cid:1)73
+0(cid:1)83
+0(cid:1)69
+1(cid:1)92
+0(cid:1)06
+0(cid:1)45
+0(cid:1)05
+0(cid:1)16
+1(cid:1)98
+0(cid:1)78
+0(cid:1)75
+
+Min
+
+0(cid:1)28
+−19(cid:1)90
+
+0
+0
+−2(cid:1)40
+−2(cid:1)65
+−2(cid:1)45
+0(cid:1)76
+0
+−0(cid:1)82
+0
+0
+8(cid:1)53
+0
+0
+
+Max
+
+12(cid:1)05
+39(cid:1)94
+13(cid:1)49
+18(cid:1)00
+5(cid:1)25
+14(cid:1)21
+4(cid:1)97
+12(cid:1)52
+0(cid:1)86
+13(cid:1)24
+1(cid:1)03
+1(cid:1)93
+19(cid:1)36
+6(cid:1)87
+5(cid:1)95
+
+Finally, environmental
+
+processes. These lower labor prices would also reduce
+the marginal cost of production and increase proﬁts.
+To rule out this rival explanation, we gathered infor-
+mation on annual state-level labor prices for unskilled
+labor from the county business pattern database of the
+U.S. Census Department. We create our measure by
+calculating the weighted average of state labor prices
+of all the states in which a ﬁrm has facilities operating.
+regulation varies across
+regions and imposes greater or lesser penalties for
+pollution. We measure a state’s regulatory stringency
+by calculating the inverse of the log of state toxic
+emissions divided by total employees in four main
+polluting industries: chemicals, petroleum, pulp and
+paper, and materials processing (Meyer 1995). We cre-
+ate a ﬁrm-level measure, regulatory stringency, by cal-
+culating the weighted average of the state regulatory
+stringency of all the states in which a ﬁrm has facil-
+ities operating. We created an alternative measure of
+regulatory stringency, permits, by summing the num-
+ber of federal waste water and hazardous waste per-
+mits possessed by a ﬁrm.
+
+In Table 1, we present summary statistics for each
+of our measures. In Table 2, we present the pairwise
+correlation matrix for our measures. Please note that
+the sample is smaller for ROA than for Tobin’s q.
+This is primarily a result of missing data on ﬁrm
+income levels. Misreported data caused elimination of
+
+29 observations where ROA was more than ﬁve stan-
+dard deviations away from the mean.
+
+Analysis and Results
+We hypothesize that some types of pollution reduc-
+tion activities directly affect a ﬁrm’s ﬁnancial per-
+formance. However,
+it is possible that other ﬁrm
+attributes
+jointly affect both a ﬁrm’s pollution
+reduction activities and its ﬁnancial performance
+(Christmann 2000). It is difﬁcult to include all of
+the possibly confounding ﬁrm attributes in statis-
+tical analysis; we use a ﬁxed-effects regression to
+account for unobserved differences among our ﬁrms
+that might truly explain ﬁnancial performance. The
+ﬁxed-effect speciﬁcation allows each ﬁrm to have a
+separate intercept and, thus, has the attractive prop-
+erty that it controls for stable ﬁrm attributes like the
+date of ﬁrm founding. In essence, a ﬁxed-effect regres-
+sion requires that changes in independent variables
+(rather than their baseline level) be associated with
+changes in dependent variables. Fixed effects, along
+with our use of lagged dependent variables, allow
+us to argue that changes in our independent vari-
+ables are associated with and precede changes in our
+dependent variables.
+
+We estimate a number of models over the entire
+panel controlling for both ﬁrm and year ﬁxed effects
+
+Management Science/Vol. 48, No. 2, February 2002
+
+293
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+Table 2
+
+Correlations
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+0(cid:1)04
+
+1(cid:1)00
+0(cid:1)73∗
+
+1(cid:1)00
+0(cid:1)54∗
+
+1 Tobin’s q
+2 ROA
+1(cid:1)00
+3 Total emissions −0(cid:1)13∗ −0(cid:1)05
+4 Waste generation −0(cid:1)09∗ −0(cid:1)00
+1(cid:1)00
+0(cid:1)02 −0(cid:1)44∗ −0(cid:1)11
+5 Waste prevention
+0(cid:1)05
+1(cid:1)00
+6 Waste treatment −0(cid:1)04
+0(cid:1)08∗ −0(cid:1)05
+0(cid:1)00
+1(cid:1)00
+0(cid:1)04 −0(cid:1)13∗ −0(cid:1)03 −0(cid:1)01∗ −0(cid:1)34∗
+7 Waste transfer
+0(cid:1)04
+1(cid:1)00
+0(cid:1)54∗ −0(cid:1)13∗
+−0(cid:1)03
+0(cid:1)48∗
+1(cid:1)00
+0(cid:1)04
+0(cid:1)01
+8 Firm size
+0(cid:1)04
+0(cid:1)04 −0(cid:1)05
+0(cid:1)03 −0(cid:1)01
+0(cid:1)17∗
+0(cid:1)14∗
+0(cid:1)08∗
+9 Capital intensity
+0(cid:1)04
+0(cid:1)06 −0(cid:1)06 −0(cid:1)07∗
+0(cid:1)04 −0(cid:1)07∗
+0(cid:1)16∗
+10 Growth
+0(cid:1)00
+0(cid:1)01
+0(cid:1)09∗ −0(cid:1)19∗ −0(cid:1)14∗
+0(cid:1)08∗ −0(cid:1)01 −0(cid:1)01 −0(cid:1)06
+0(cid:1)32∗
+11 R&D intensity
+0(cid:1)01 −0(cid:1)01
+0(cid:1)06∗ −0(cid:1)06
+−0(cid:1)20∗ −0(cid:1)27∗
+12 Leverage
+0(cid:1)13∗ −0(cid:1)05 −0(cid:1)23∗ −0(cid:1)13∗
+0(cid:1)14∗ −0(cid:1)02
+0(cid:1)04
+13 Regional wage
+0(cid:1)36∗ −0(cid:1)05
+0(cid:1)00
+14 Reg. stringency
+0(cid:1)00
+0(cid:1)02
+0(cid:1)01
+−0(cid:1)12∗ −0(cid:1)04
+0(cid:1)55∗ −0(cid:1)16∗
+0(cid:1)04 −0(cid:1)01
+15 Permits
+Note. n =2,837 except for correlations with ROA, where n =2,120, ∗p < 0(cid:1)001.
+
+0(cid:1)28∗
+0(cid:1)56∗
+
+0(cid:1)11∗
+
+1(cid:1)00
+0(cid:1)06
+1(cid:1)00
+0(cid:1)18∗
+1(cid:1)00
+0(cid:1)04
+0(cid:1)08∗ −0(cid:1)07∗
+0(cid:1)00 −0(cid:1)22∗
+1(cid:1)00
+0(cid:1)28∗ −0(cid:1)03
+0(cid:1)18∗
+0(cid:1)08∗
+1(cid:1)00
+0(cid:1)00
+0(cid:1)07∗ −0(cid:1)08∗
+0(cid:1)15∗ −0(cid:1)05∗ −0(cid:1)08∗
+0(cid:1)22∗
+0(cid:1)06 −0(cid:1)15∗
+0(cid:1)47∗ −0(cid:1)01 −0(cid:1)07∗ −0(cid:1)16∗
+
+1(cid:1)00
+0(cid:1)26∗
+
+1(cid:1)00
+
+(see Table 3). In Models 1 and 2, we ﬁnd that lower
+emissions (total emissions) are signiﬁcantly associated
+with higher ﬁnancial performance as measured by
+future Tobin’s q and future ROA. We therefore cor-
+roborate Hart and Ahuja’s (1996) ﬁnding that reduced
+emissions are correlated with future ﬁnancial perfor-
+mance. Our ﬁndings are consistent with the general
+ﬁndings of the empirical “pays to be green” literature
+(e.g., Russo and Fouts 1997, Klassen and Whybark
+1999, Cohen et al. 2000).
+
+Next, we explore by what means such reductions
+occurred (see Table 3). To explore the locus of prof-
+itable pollution reduction, we disaggregate pollution
+reduction into its component parts (waste generation,
+waste prevention, waste treatment, and waste transfer).
+In combination, these separate measures explain over
+90% of total emissions. Regressing these measures on
+future Tobin’s q, we ﬁnd a signiﬁcant, positive rela-
+tionship with waste prevention (Model 3). We also ﬁnd
+a signiﬁcant, positive relationship between waste pre-
+vention and future ROA (Model 4). We ﬁnd no evi-
+dence in either model that onsite waste treatment
+or offsite transfer is associated with ﬁnancial perfor-
+mance.
+
+Our ﬁxed-effects analysis helps reduce the effect
+of unobserved heterogeneity, but it does not demon-
+strate the direction of causality. For example, man-
+agers may invest in waste prevention when they
+
+have an unusually proﬁtable year. We extend our
+analysis by performing a test for Granger causal-
+ity (see Table 4). Granger causality may be inferred
+when the lagged dependent variable is included in a
+regression and the independent variables continue to
+have explanatory power (Greene 1993, Granger 1969).
+In Model 5, we ﬁnd a moderately signiﬁcant posi-
+tive relationship between waste prevention and future
+Tobin’s q in a model that includes Tobin’s q as a
+regressor. In Model 6, we also ﬁnd a moderately
+signiﬁcant relationship between waste prevention and
+future ROA when including current ROA as a regres-
+sor.1 Thus, we ﬁnd support for Hypothesis 1. We note,
+however, that this more stringent model reduced the
+signiﬁcance of our waste prevention coefﬁcient esti-
+mates (from p < 0(cid:20)028 to p < 0(cid:20)05 in Table 3). This may
+be due to the reduction in our sample size as a result
+of including additional lagged variables.
+
+Models 7 and 8 explore the extent to which our
+measure of waste prevention explains the observed
+
+1 Please note that in Models 5 and 6, we use an instrumental vari-
+ables approach proposed by Anderson and Hsiao (1982) to correct
+for potential serial correlation that may arise because of the lagged
+dependent variable. In this approach, heterogeneity is reduced by
+taking ﬁrst differences (Greene 1993). Two-year lagged values of the
+dependent variable are used as instruments. We also tested an alter-
+native method proposed by Arellano and Bond (1991) and found
+consistent results.
+
+294
+
+Management Science/Vol. 48, No. 2, February 2002
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+Table 3
+
+Analysis of Aggregated and Decomposed Emissions
+
+Method:
+Dependent variable:
+
+Total emissions
+
+Waste generation
+
+Waste prevention
+
+Waste treatment
+
+Waste transfer
+
+Controls
+Firm size
+
+Capital intensity
+
+Growth
+
+R&D intensity
+
+Leverage
+
+Regional wages
+
+Regulatory stringency
+
+Permits
+
+N
+Firms
+R2 (cid:7)adjusted(cid:9)
+F stat
+
+Model 1
+
+Fixed Effects
+Tobin’s q (cid:7)t+ 1(cid:9)
+
+−0(cid:1)025∗∗
+(cid:7)0(cid:1)011(cid:9)
+
+Model 2
+
+Fixed Effects
+ROA (cid:7)t+ 1(cid:9)
+−0(cid:1)279∗∗
+(cid:7)0(cid:1)112(cid:9)
+
+−0(cid:1)495∗∗∗
+(cid:7)0(cid:1)049(cid:9)
+−0(cid:1)290
+(cid:7)0(cid:1)297(cid:9)
+0(cid:1)061∗∗
+(cid:7)0(cid:1)028(cid:9)
+1(cid:1)437∗
+(cid:7)0(cid:1)617(cid:9)
+0(cid:1)158
+(cid:7)0(cid:1)148(cid:9)
+0(cid:1)039
+(cid:7)0(cid:1)023(cid:9)
+−0(cid:1)030
+(cid:7)0(cid:1)130(cid:9)
+−0(cid:1)106
+(cid:7)0(cid:1)061(cid:9)
+
+2837
+614
+80(cid:1)0%
+16(cid:1)70∗∗∗
+
+−4(cid:1)454∗∗∗
+(cid:7)0(cid:1)555(cid:9)
+−8(cid:1)282∗∗∗
+(cid:7)3(cid:1)019(cid:9)
+1(cid:1)861∗∗∗
+(cid:7)0(cid:1)363(cid:9)
+−30(cid:1)288∗∗∗
+(cid:7)9(cid:1)504(cid:9)
+−0(cid:1)681
+(cid:7)1(cid:1)560(cid:9)
+0(cid:1)754∗∗∗
+(cid:7)0(cid:1)216(cid:9)
+2(cid:1)036
+(cid:7)1(cid:1)170(cid:9)
+−0(cid:1)199
+(cid:7)0(cid:1)569(cid:9)
+
+2120
+537
+57(cid:1)1%
+14(cid:1)76∗∗∗
+
+Model 3
+
+Fixed Effects
+Tobin’s q (cid:7)t+ 1(cid:9)
+
+Model 4
+
+Fixed Effects
+ROA (cid:7)t+ 1(cid:9)
+
+0(cid:1)012
+(cid:7)0(cid:1)012(cid:9)
+0(cid:1)058∗
+(cid:7)0(cid:1)028(cid:9)
+−0(cid:1)021
+(cid:7)0(cid:1)025(cid:9)
+0(cid:1)018
+(cid:7)0(cid:1)032(cid:9)
+−0(cid:1)479∗∗∗
+(cid:7)0(cid:1)049(cid:9)
+−0(cid:1)331
+(cid:7)0(cid:1)298(cid:9)
+0(cid:1)062∗
+(cid:7)0(cid:1)028(cid:9)
+1(cid:1)430∗
+(cid:7)0(cid:1)617(cid:9)
+0(cid:1)149
+(cid:7)0(cid:1)149(cid:9)
+0(cid:1)042
+(cid:7)0(cid:1)022(cid:9)
+−0(cid:1)016
+(cid:7)0(cid:1)130(cid:9)
+−0(cid:1)118
+(cid:7)0(cid:1)061(cid:9)
+
+2837
+614
+78(cid:1)8%
+13(cid:1)87∗∗∗
+
+−0(cid:1)063
+(cid:7)0(cid:1)115(cid:9)
+0(cid:1)800∗∗
+(cid:7)0(cid:1)306(cid:9)
+−0(cid:1)311
+(cid:7)0(cid:1)272(cid:9)
+−0(cid:1)149
+(cid:7)0(cid:1)304(cid:9)
+−4(cid:1)153∗∗∗
+(cid:7)0(cid:1)561(cid:9)
+−8(cid:1)772∗∗∗
+(cid:7)3(cid:1)029(cid:9)
+1(cid:1)811∗∗∗
+(cid:7)0(cid:1)364(cid:9)
+−29(cid:1)894∗∗∗
+(cid:7)9(cid:1)517(cid:9)
+−0(cid:1)709
+(cid:7)1(cid:1)565(cid:9)
+0(cid:1)769∗∗∗
+(cid:7)0(cid:1)216(cid:9)
+2(cid:1)005
+(cid:7)1(cid:1)173(cid:9)
+−0(cid:1)251
+(cid:7)0(cid:1)570(cid:9)
+
+2120
+537
+56(cid:1)0%
+12(cid:1)10∗∗∗
+
+Note. Firm level and year dummies included but not presented in all models.
+Standard errors are in parentheses.
+∗p < 0(cid:1)05(cid:3) ∗∗p < 0(cid:1)01(cid:3) ∗∗∗p < 0(cid:1)001 (one-tailed tests).
+
+relationship between total emissions and ﬁnancial per-
+formance (see Table 4). Since total emissions is the out-
+come of different pollution reduction measures, we
+use a two-stage-least squares (2SLS) speciﬁcation to
+compare the relative effect of emissions versus waste
+prevention on proﬁtability. We ﬁrst estimate total emis-
+sions as a function of waste generation, prevention,
+treatment, and transfer. We then estimate the effect
+of total emissions, waste prevention, and our control
+
+variables on ﬁnancial performance. The ﬁrst stage
+of the model predicts total releases based on opera-
+tional choices and industry. The second stage predicts
+proﬁts based on both releases and waste prevention.
+As shown in Models 7 and 8, we ﬁnd evidence that
+more waste prevention is associated with Tobin’s q and
+ROA, respectively. Controlling for the effect of waste
+prevention, we ﬁnd no evidence that pollution (total
+emissions) is associated with ﬁnancial performance. In
+
+Management Science/Vol. 48, No. 2, February 2002
+
+295
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+Table 4
+
+Analysis of Temporal Precedence
+
+Method:
+Dependent variable:
+
+Total emissions
+
+Waste generation
+
+Waste prevention
+
+Waste treatment
+
+Waste transfer
+
+Controls
+Firm size
+
+Capital intensity
+
+Growth
+
+R&D intensity
+
+Leverage
+
+Regional wages
+
+Regulatory stringency
+
+Permits
+
+Lagged dependent variable
+
+N
+Firms
+R2(cid:7)adjusted(cid:9)
+(cid:19)2 stat
+
+Model 5
+
+IV w/FD
+
+Tobin’s q (cid:7)t+ 1(cid:9)
+
+Model 6
+
+IV w/FD
+ROA (cid:7)t+ 1(cid:9)
+
+Model 7
+
+2SLS w/FE
+
+Tobin’s q (cid:7)t+ 1(cid:9)
+
+−0(cid:1)003
+(cid:7)0(cid:1)016(cid:9)
+0(cid:1)063∗
+(cid:7)0(cid:1)037(cid:9)
+−0(cid:1)037
+(cid:7)0(cid:1)034(cid:9)
+−0(cid:1)024
+(cid:7)0(cid:1)040(cid:9)
+−0(cid:1)071
+(cid:7)0(cid:1)105(cid:9)
+−0(cid:1)726∗
+(cid:7)0(cid:1)383(cid:9)
+−0(cid:1)100∗
+(cid:7)0(cid:1)042(cid:9)
+−1(cid:1)207
+(cid:7)0(cid:1)822(cid:9)
+0(cid:1)548∗
+(cid:7)0(cid:1)214(cid:9)
+−0(cid:1)011
+(cid:7)0(cid:1)031(cid:9)
+0(cid:1)076
+(cid:7)0(cid:1)181(cid:9)
+−0(cid:1)048
+(cid:7)0(cid:1)083(cid:9)
+0(cid:1)540∗∗∗
+(cid:7)0(cid:1)187(cid:9)
+
+1621
+494
+77(cid:1)2%
+58(cid:1)66∗∗∗
+
+−0(cid:1)137
+(cid:7)0(cid:1)153(cid:9)
+0(cid:1)682∗
+(cid:7)0(cid:1)405(cid:9)
+−0(cid:1)073
+(cid:7)0(cid:1)363(cid:9)
+0(cid:1)131
+(cid:7)0(cid:1)400(cid:9)
+−1(cid:1)751∗
+(cid:7)0(cid:1)996(cid:9)
+−12(cid:1)960∗∗∗
+(cid:7)4(cid:1)021(cid:9)
+−0(cid:1)693
+(cid:7)0(cid:1)563(cid:9)
+−23(cid:1)200
+(cid:7)17(cid:1)614(cid:9)
+3(cid:1)558
+(cid:7)2(cid:1)173(cid:9)
+0(cid:1)519∗
+(cid:7)0(cid:1)313(cid:9)
+0(cid:1)953
+(cid:7)1(cid:1)713(cid:9)
+0(cid:1)270
+(cid:7)0(cid:1)833(cid:9)
+0(cid:1)158
+(cid:7)0(cid:1)120(cid:9)
+
+1198
+456
+54(cid:1)7%
+52(cid:1)00∗∗∗
+
+0(cid:1)024
+(cid:7)0(cid:1)030(cid:9)
+
+0(cid:1)086∗
+(cid:7)0(cid:1)041(cid:9)
+
+−0(cid:1)474∗∗∗
+(cid:7)0(cid:1)050(cid:9)
+−0(cid:1)318
+(cid:7)0(cid:1)298(cid:9)
+0(cid:1)063∗
+(cid:7)0(cid:1)028(cid:9)
+1(cid:1)396∗
+(cid:7)0(cid:1)620(cid:9)
+0(cid:1)152
+(cid:7)0(cid:1)149(cid:9)
+0(cid:1)047∗
+(cid:7)0(cid:1)023(cid:9)
+−0(cid:1)030
+(cid:7)0(cid:1)130(cid:9)
+−0(cid:1)122∗
+(cid:7)0(cid:1)062(cid:9)
+
+2837
+614
+75(cid:1)3%
+29(cid:1)79∗∗∗
+
+Model 8
+
+2SLS w/FE
+ROA (cid:7)t+ 1(cid:9)
+
+0(cid:1)084
+(cid:7)0(cid:1)288(cid:9)
+
+0(cid:1)836∗
+(cid:7)0(cid:1)390(cid:9)
+
+−4(cid:1)191∗∗∗
+(cid:7)0(cid:1)571(cid:9)
+−8(cid:1)969∗∗∗
+(cid:7)3(cid:1)041(cid:9)
+1(cid:1)820∗∗∗
+(cid:7)0(cid:1)365(cid:9)
+−30(cid:1)24∗∗∗
+(cid:7)9(cid:1)539(cid:9)
+−0(cid:1)713
+(cid:7)1(cid:1)562(cid:9)
+0(cid:1)803∗∗∗
+(cid:7)0(cid:1)220(cid:9)
+2(cid:1)034∗
+(cid:7)1(cid:1)171(cid:9)
+−0(cid:1)262
+(cid:7)0(cid:1)573(cid:9)
+
+2120
+537
+56(cid:1)1%
+42(cid:1)61∗∗∗
+
+Note. Firm level and year dummies included but not presented in all models.
+Standard errors are in parentheses.
+∗p < 0(cid:1)05(cid:3) ∗∗p < 0(cid:1)01(cid:3) ∗∗∗p < 0(cid:1)001 (one-tailed tests).
+
+other words, we ﬁnd evidence that reducing pollution
+by preventing waste is proﬁtable but have no evidence
+that reducing pollution by other means is proﬁtable.
+
+Discussion
+In general, our analysis supports the “pays to be
+green” hypothesis. We ﬁnd a signiﬁcant, negative
+
+relationship between ﬁrm emissions and ﬁnancial
+performance. More importantly, we show that ﬁrms
+underexploit one means of reducing pollution—waste
+prevention. We ﬁnd no evidence that managers
+underexploit other factors, or pollution reduction in
+total. Indeed, we ﬁnd evidence that the beneﬁts of
+waste prevention alone may be responsible for the
+association between lower emissions and proﬁtability.
+
+296
+
+Management Science/Vol. 48, No. 2, February 2002
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+While our analysis covers many industries and a
+time period of six years, there are reasons to be
+cautious about the generalizability of our ﬁndings.
+The U.S. regulatory environment is a rather unique
+one. Compared to European and Asian nations, U.S.
+regulators are less conciliatory. In countries with a
+more cooperative relationship between government
+and industry, managers may be more likely to explore
+the beneﬁts of pollution prevention and less likely to
+miss opportunities for proﬁtable pollution prevention.
+We hope that future research will test our ﬁndings in
+different institutional and regulatory environments.
+
+While we infer from our ﬁndings that managers
+underexploit opportunities for proﬁtable waste pre-
+vention, other rival hypotheses cannot be completely
+ruled out. We would ﬁnd similar results if (1) man-
+agers tend to invest in pollution prevention only
+when they already possess other valuable ﬁrm capa-
+bilities, and (2) the market does not fully value these
+other capabilities until they observe the ﬁrm pre-
+venting waste. If so, pollution prevention might act
+only as an indicator of existing underlying capabili-
+ties (Morrison and Siegel 1997). Pollution prevention
+may be part of a moving technological frontier and
+ﬁrms only jump to this frontier when it is in their
+interest to do so. Jumping to the new frontier then
+provides information to the market about the ﬁrm’s
+capabilities.
+
+Within this rival theory, our explanation may still
+have merit. Search costs and prior expectations may
+inﬂuence the valuation that managers place on reach-
+ing the new frontier. Alternatively, it may be that pol-
+lution prevention is often part of a bundle of activ-
+ities that are deployed together. For example, lean
+production and waste prevention may frequently be
+deployed together—making it difﬁcult to untangle
+the ﬁnancial effects of the entire bundle.2 Waste pre-
+vention may represent the observed part of a bun-
+dle of complementary activities that provide ﬁnancial
+gain. Such an analysis represents only a short walk
+from our claim that waste prevention provides hidden
+
+2 To try to distinguish this particular bundle, we also estimated each
+ﬁrm’s participation in the ISO 9,000 quality standard and their max-
+imum inventory levels for listed chemicals. We found that inclusion
+of these variables did not change the signiﬁcance of our ﬁndings.
+
+ancillary beneﬁts. Nevertheless, we should be cau-
+tious in not overextending our ﬁndings. It is possible
+that a combination of fortuitous resources and man-
+agerial choice could cause the statistical results we
+observe.
+
+It is important to recognize that we do not directly
+measure what managers know or what manager’s
+expect to be the cost of identifying proﬁt opportu-
+nities. We infer these search costs and expectations
+by evaluating the use of pollution reduction factors.
+While we try to rule out other rival explanations for
+our observed results, our inability to actually measure
+expectations and search costs suggests the need for
+additional work at multiple levels of analysis.
+
+Conclusions
+The dispute over whether it “pays to be green” is
+more than simply a debate over the private cost of
+pollution. It is a debate about whether and when
+managers systematically miss proﬁt opportunities.
+Drawing upon theories of information search, we pro-
+pose that prior expectations combined with costly
+information acquisition can cause managers to under-
+exploit (or overexploit) some process factors and thus
+miss potential proﬁt opportunities. Lacking informa-
+tion on the locus of proﬁt opportunities, managers’
+prior expectations may determine the location and
+intensity of search (Arrow 1974, Jensen 1982).
+
+In this study, we extend the “pays to be green” lit-
+erature by distinguishing among methods for reduc-
+ing emissions. We argue that the value of one method
+(pollution prevention) is hard to observe, while the
+cost of another (end-of-pipe waste treatment) is often
+obscured. As a result, we hypothesize that managers
+underexploit waste prevention and overexploit waste
+treatment. In a longitudinal analysis of U.S. manufac-
+turing ﬁrms, we ﬁnd evidence that waste prevention
+is indeed underused, and that ﬁrms can improve their
+ﬁnancial performance by engaging in more waste pre-
+vention.
+
+Our analysis reinforces the similarity between the-
+ories of waste prevention and quality. We extend
+theories developed to explain the effect of quality
+programs to argue that managers underestimate the
+beneﬁt of solving waste problems at their source. We
+
+Management Science/Vol. 48, No. 2, February 2002
+
+297
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+ﬁnd evidence that this tendency does exist and that
+ﬁrms can reap proﬁts by further investing in waste
+prevention. More generally, we provide a frame-
+work for predicting when such proﬁt opportuni-
+ties are likely to go underexploited. We propose
+that costly information acquisition and prior expec-
+tations can determine where opportunities for prof-
+itable improvements go unexploited.
+
+In this paper, we propose that ﬁrms sometimes fail
+to adopt proﬁtable practices. One may be tempted
+to conclude from our analysis that government reg-
+ulation is needed to correct such market failure. This
+need not be the case. Governing authorities may
+gather information and provide statistics to managers
+to update their expectations about the proﬁtability
+of engaging in certain practices (Lenox 1999). In the
+environmental realm, the U.S. Environmental Protec-
+tion Agency has created a number of programs to
+inform businesses of the value of energy efﬁciency
+and waste minimization and to help them ﬁnd these
+opportunities (e.g., the Green Lights Program). Trade
+associations often try to provide such information
+to their member ﬁrms (King and Lenox 2000). Our
+research extends analysis of whether and when such
+programs are likely to be useful. In future research,
+we hope to further explore these types of information
+provision programs.
+
+Acknowledgments
+Both authors contributed equally to this paper. The authors thank
+Patricia Velasquez for her contributions to this work. Bernard
+Yeung and Larry White generously provided their expertise and
+insight. The authors thank the participants at the New York Univer-
+sity Research Workshop, the Academy of Management Meetings,
+Toronto, and the EPA Workshop on Environmental and Financial
+Performance for their helpful comments. Finally, the authors thank
+the editor Linda Argote, our associate editor, and three anonymous
+reviewers for their detailed and insightful comments.
+
+References
+Anderson, T., C. Hsiao. 1982. Formulation and estimation of
+
+dynamic models using panel data. J. Econometrics 18 47–82.
+
+Arellano, M., S. Bond. 1991. Some tests of speciﬁcation for panel
+
+data. Rev. Econom. Stud. 58(2) 277–297.
+
+Arrow, K. J. 1974. The Limits of Organization. Norton, New York.
+Ashford, N. A., G. R. Heaton. 1983. Environmental, health, safety
+regulation and technological
+J. M.
+Utterback, eds. Technological Innovation for a Dynamic Economy.
+Peragon Press, Oxford, U.K.
+
+innovation. C. T. Hill,
+
+Berger, P., E. Ofek. 1995. Diversiﬁcations effect on ﬁrm value.
+
+J. Financial Econom. 37 39–65.
+
+Berube, M., J. Nash, J. Maxwell, J. Ehrenfeld. 1992. From pollution
+control to zero discharge: How the Robbins company overcame
+the obstacles. Pollution Prevention Rev. 2(2) 187–207.
+
+Cebon, P. B. 1992. Twixt cup and lip: Organizational behavior, tech-
+nical procedures and conservation practice. Energy Policy 20(9)
+802–814.
+
+Christmann, P. 2000. Effects of best practices of environmental man-
+agement on cost advantage: The role of complementary assets.
+Acad. Management J. 43(4) 663–680.
+
+Chung, K., S. W. Pruitt. 1994. A simple approximation of Tobin’s
+
+Q. Financial Management 5(Autumn) 70–74.
+
+Cohen, M., S. Fenn, J. Naimon. 2000. Environmental and ﬁnan-
+cial performance: Are they related? Investor Responsibility
+Research Center Monograph, Vanderbilt University, Nashville,
+TN.
+
+Dowell, G., S. Hart, B. Yeung. 2000. Do corporate global envi-
+ronmental standards create or destroy value? Management Sci.
+46(8) 1059–1074.
+
+Flynn, B., G. Schroeder. 1995. The impact of quality management
+practices on performance and competitive advantage. Decision
+Sci. 26(5) 659–691.
+
+Friedman, M. 1970. The social responsibility of business is to
+
+increase its proﬁts. New York Times Magazine. 33+(Sept. 13).
+
+Granger, C. 1969.
+
+Investigating causal relations by economet-
+ric models and cross-spectral methods. Econometrica 37
+424–438.
+
+Greene, W. 1993. Econometric Analysis. Prentice-Hall, Englewood
+
+Cliffs, NJ.
+
+Hart, S. 1995. A natural resource based view of the ﬁrm. Acad.
+
+Management Rev. 20(4) 985–1014.
+, G. Ahuja. 1996. Does it pay to be green? An empiri-
+cal examination of the relationship between emissions reduc-
+tion and ﬁrm performance. Bus. Strategy Environment 5
+30–37.
+
+Jensen, R. 1982. Adoption and diffusion of an innovation of uncer-
+
+tain proﬁtability. J. Econom. Theory 27 182–193.
+
+Juran, J. M. 1988. Juran on Planning for Quality. The Free Press,
+
+New York.
+
+King, A. 1995. Innovation from differentiation: Pollution control
+departments and innovation in the printed circuit industry.
+IEEE Trans. Engrg. Management 42(3) 270–278.
+. 1999. Retrieving and transferring embodied data: Implica-
+tions for management of interdependence within organiza-
+tions. Management Sci. 45(7) 918–935.
+, M. Lenox. 2000. Industry self-regulation without sanctions:
+The chemical industry’s responsible care program. Acad. Man-
+agement J. 43(4) 698–716.
+,
+. 2001. Lean and green: Exploring the spillovers from
+lean production to environmental performance. Production
+Oper. Management 10(3) 244–256.
+
+Klassen, R., D. Whybark. 1999. The impact of environmental tech-
+nologies on manufacturing performance. Acad. Management J.
+42(6) 599–615.
+
+298
+
+Management Science/Vol. 48, No. 2, February 2002
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 
+KING AND LENOX
+
+The Locus of Proﬁtable Pollution Reduction
+
+Larpe, M., A. Mukherjee, L. Van Wassenhove. 2000. Behind the
+learning curve: Linking learning activities to waste reduction.
+Management Sci. 46(5) 597–611.
+
+Lenox, M. 1999. Agency and Information Costs in the Intra-Firm
+Diffusion of Practice. Unpublished Ph.D., Massachusetts Insti-
+tute of Technology, Cambridge, MA.
+
+Palmer, K., W. E. Oates, P. R. Portney. 1995. Tightening environ-
+mental standards: The beneﬁt-cost or the no-cost paradigm?
+J. Econom. Perspectives 9(4) 119–132.
+
+Porter, M. E., C. van der Linde. 1995. Toward a new conception of
+the environment-competitiveness relationship. J. Econom. Per-
+spectives 9(4) 97–118.
+
+Lindenberg, E., S. Ross, 1981. Tobin’s q ratio and industrial organi-
+
+Reinhardt, F. 1999. Market failure and the environmental policies
+
+zation. J. Bus. 54(1) 1–32.
+
+Majumdar, S., A. Marcus. 2001. Rules versus discretion: The pro-
+ductivity consequences of ﬂexible regulation. Acad. Manage-
+ment J. 44(1) 170–189.
+
+McWilliams, A., D. Siegel. 2001. Corporate social responsibility: A
+theory of the ﬁrm perspective. Acad. Management Rev. 26(1)
+117–127.
+
+Meyer, S. 1995. The economic impact of environmental regulation.
+
+J. Environ. Law Practice 3(2) 4–15.
+
+Morrison, C., D. Siegel. 1997. External capital factors and increas-
+ing returns in U.S. manufacturing. Rev. Econom. Statist. 79(4)
+647–654.
+
+Nehrt, C. 1996. Timing and intensity of environmental investments.
+
+Strategic Management J. 17 535–547.
+
+Ocana, C., E. Zemel. 1996. Learning from mistakes: A note on just-
+
+in-time system. Oper. Res. 44(1) 206–214.
+
+of ﬁrms. J. Indust. Ecology 3(1).
+
+Russo, M., P. Fouts. 1997. A resource-based perspective on corpo-
+rate environmental performance and proﬁtability. Acad. Man-
+agement J. 40(3) 534–559.
+
+Rothenberg, S. 1999. Is lean green? The relationship between man-
+ufacturing processes and environmental performance within
+different regulatory contexts. Working paper, Massachusetts
+Institute of Technology, Cambridge, MA.
+
+Thompson,
+
+J. D. 1967. Organizations in Action. McGraw-Hill,
+
+New York.
+
+Womack, J., D. Jones, D. Roos. 1990. The Machine that Changed
+the World: The Story of Lean Production. Harper Perennial,
+New York.
+
+Von Hippel, E. 1994. Sticky information and the locus of prob-
+lem solving: Implications for innovation. Management Sci. 40(4)
+429–439.
+
+Accepted by Linda Argote; received August 3, 2001. This paper was with the authors 7 months for 2 revisions.
+
+Management Science/Vol. 48, No. 2, February 2002
+
+299
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:52 . For personal use only, all rights reserved. 

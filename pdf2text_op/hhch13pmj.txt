@@ -1,0 +1,13023 @@
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of
+User Coproduction in Information
+System Development Projects
+
+Jack S. Hsu, National Sun Yat-Sen University, Taiwan, R.O.C.
+Yu Wen Hung, National Sun Yat-Sen University, Taiwan, R.O.C.
+Yin-Hung Chen, National Sun Yat-Sen University, Taiwan, R.O.C.
+Hsieh-Hong Huang, National Taitung University, Taiwan, R.O.C.
+
+ABSTRACT  ■
+
+INTRODUCTION ■
+
+Based on a coproduction concept highlighted by
+service-dominant logic, this study attempts to
+understand the antecedents and consequences
+of  user  coproduction  in  information  system
+development projects. As a key contribution, we
+posit  that  user  coproduction  is  influenced  by
+social capital between users and developers; we
+then postulate that user coproduction determines
+the project outcomes. Paired data collected from
+both  user  representatives  and  developers  by
+using a survey approach was used to test pro-
+posed  hypotheses.  The  results  showed  that
+user  coproduction  has  a  positively  significant
+influence on project outcomes, and social capi-
+tal between user representatives and develop-
+ers is also associated with user coproduction.
+
+KEYWORDS: user participation; informa-
+tion system development project; user copro-
+duction; social capital; project outcomes
+
+Project Management Journal, Vol. 44, No. 2, 67–87
+© 2013 by the Project Management Institute
+Published online in Wiley Online Library
+(wileyonlinelibrary.com). DOI: 10.1002/pmj.21330
+
+The management information system department of an organization
+
+has long been considered a support function. In addition, informa-
+tion system development (ISD) work is regarded as the crafting of an
+artifact  to  support  business  operation.  ISD  is  viewed  as  a  process
+through  which  developers  transform  users’  requirements  into  system
+design. As a process for transforming users’ needs into a specific informa-
+tion technology (IT) artifact, the complex nature of ISD projects raises diffi-
+culties  in  fully  capturing  those  user  needs;  as  a  result,  many  ISD  projects
+suffer high failure rates. The largest cause of problems is that final systems
+do  not  meet  users’  desired  functionality  and  requirements. This  may  not
+only lead to extra financial and time costs but also lower users’ satisfaction
+(Procaccino & Verner, 2009; Wallace, Keil, & Rai, 2004a). It is important for
+users to engage in the design, development, and implementation process to
+ensure  that  it  meets  users’  needs,  to  avoid  delay  of  the  project  and  addi-
+tional costs, to minimize the difficulties in effectively controlling the proj-
+ect, and to maximize the value created (He & King, 2008; Ives & Olson, 1984;
+Wallace et al., 2004a).
+
+Recently, some studies urged researchers to view the information systems
+(IS)  department  from  a  service  provider  perspective  (e.g.,  Jia  &  Reich,  2011;
+Kettinger, Park, & Smith, 2009). As an internal service provider, the goal of the IS
+department is to satisfy users’ needs through a simultaneous exchange of pro-
+duction and consumption, transformation in the experience, and value (Rai &
+Sambamurthy,  2006).  The  IS  department  aims  at  maximizing  values  of  cus-
+tomers  through  providing  high-quality  service.  The  value  delivering  is  mainly
+done  through  ISD.  The  above  idea  aligns  with  an  emerging  concept,  service-
+dominant (S-D) logic, which views service delivering as a value-generating process
+(Vargo  &  Akaka,  2009; Vargo  &  Lusch,  2008).  Service  delivery  in  a  knowledge-
+intensive business area, such as ISD, is complicated, unstructured, and highly
+customized. One important thing for the attainment of the clients’ specific goals
+is active involvement in the projects of the clients themselves. S-D logic high-
+lights  the  importance  of  coproduction  in  which  service  receivers  should  be
+viewed as coproducers in the value-generating process. Customers become one
+primary operant resource (in terms of competence or knowledge) that should 
+be essential during the service-providing process (Vargo & Lusch, 2004). Their
+contribution  to  the  service-delivering  process  is  as  vital  as  that  of  the  service
+providers  for  the  maximization  of  the  value  delivered  (Bettencourt,  Ostrom,
+Brown, & Roundtree, 2002). Customers should be more active in identifying the
+
+April 2013   ■ Project Management Journal ■ DOI: 10.1002/pmj   67
+
+
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of User Coproduction in Information System
+
+most significant value to them as well as
+in  helping  providers  to  customize  and
+deliver the most appropriate service.
+
+Through  applying  S-D  logic  in  an
+ISD  context,  one  may  predict  that  the
+quality of the final system is a function
+of the extent to which users and system
+developers  are  able  to  work  together
+smoothly to coproduce a system capa-
+ble  of  supporting  the  business  opera-
+tion. Empirical studies have shown that
+user coproduction benefits ISD project
+process  performance  by  enhancing
+knowledge  coproduction  and  coordi-
+nation  between  developers  and  users
+(Hsu,  Lo,  Lin,  &  Cheng,  2010;  Shim,
+Sheu, Chen, Jiang, & Klein, 2010).
+
+However,  two  major  issues  are
+noticeable.  First,  it  is  important  for
+project  performance  to  be  evaluated
+through the two dimensions of process
+and  product  (Nidumolu,  1995; Wallace
+et  al.,  2004a).  While  process  perfor-
+mance  evaluates  the  efficiency  of  the
+development work, product performance
+represents  the  actual  value  cocreated,
+which  should  be  strongly  emphasized.
+This indicates the importance of a multi-
+dimensional evaluation of value cocre-
+ation; therefore, in addition to process
+outcome,  there  is  a  need  to  consider
+product quality, such as system quality
+and user satisfaction. This leads to our
+first  research  question:  Can  coproduc-
+tion  benefit  major  project  outcomes,
+including  project  performance, system
+quality,
+satisfaction?
+Furthermore,  given  the  importance  of
+user coproduction, understanding how
+to  enhance  the  effectiveness  of  copro-
+duction becomes a critical question to
+address. Another objective of this study
+is  to  explore  the  antecedents  of  user
+coproduction in an ISD project, guided
+by the following research question: Can
+social  capital  between  users  and  devel-
+opers affect coproduction?
+
+user 
+
+and 
+
+Social capital perspective is adopted
+because, by viewing the information sys-
+tems developed as one type of intellectu-
+al capital, the creation of such capital also
+relies  on  the  maturity  of  social  capital
+(Nahapiet  &  Ghoshal,  1998). We  further
+
+argue that coproduction is a process that
+users  and  developers  exchange  and  use
+resources jointly to create new intellectu-
+al capital. Because users and developers
+are  two  major  stakeholders  in  ISD  proj-
+ects,  social  capital  between  these  two
+parties should play a critical role in boost-
+ing  coproduction.  By  shedding  light  on
+the above issues, this study is expected to
+contribute to both academia and practi-
+tioners.  For  ISD  project  management
+research, we examine the importance of
+user coproduction with respect to differ-
+ent project outcomes and explore possi-
+ble  antecedents.  For  practitioners,  this
+study highlights the importance of treat-
+ing  users  as  coproducers  and  provides
+possible  guidance  for  promoting  copro-
+duction between users and developers.
+
+The  paper  is  organized  as  follows.
+The next section presents a brief review
+of the extant literature on user partici-
+pation,  user  coproduction,  and  social
+capital,  whereas  the  third  section  pre-
+sents  the  description  of  the  research
+methodology  and  data  collection  pro-
+cedure. We  then  present  the  results  of
+the  data  analysis  and  related  discus-
+sions. Finally, we draw conclusions and
+discuss the implications of the study for
+future research.
+Literature Review
+From Goods-Dominant Logic to
+Service-Dominant Logic
+The product has long been the focus of
+the  traditional  business  model  utilized
+in a manufacturing-oriented economy.
+The  traditional  perception  of  value  as
+being  generated  through  a  change  in
+form during the manufacturing process
+is referred to as goods-dominant (G-D)
+logic  and  is  based  on  the  value-in-
+exchange  meaning  of  value  (Vargo  &
+Lusch, 2004). In G-D logic, value is cre-
+ated  (manufactured)  by  the  firm  and
+distributed  in  the  market,  usually
+through  the  exchange  of  goods  and
+money. From this perspective, the roles
+of  “producers”  and  “consumers”  are
+distinct, with value creation often being
+regarded  as  a  series  of  activities  per-
+formed by the firm.
+
+During the last century, the market-
+ing  field  has  grown  to  encompass  the
+study  of  positive  issues  (such  as  how
+firms and customers go to market) and
+normative  issues  (such  as  how  firms
+should  market  to  customers;  Vargo  &
+Lusch,  2008).  These  changes  have
+resulted  in  a  shift  toward  a  new 
+economic  environment—a  service
+economy,  an  outcome  of  which  is  the
+replacement  of  G-D  logic  with  S-D
+logic.  The  primary  tenets  of  S-D  logic
+are: (1) the conceptualization of service
+as a process, rather than a unit of out-
+put;  (2)  a  focus  on  dynamic  resources,
+such  as  knowledge  and  skills,  rather
+than  static  resources,  such  as  natural
+resources;  and  (3)  an  understanding  of
+value as a collaborative process between
+providers and customers, rather than as
+the result of the product created by the
+producers  and  subsequently  delivered
+to customers.
+
+From  an  S-D  perspective,  organiza-
+tions  are  service  systems  in  which 
+consumers  are  viewed  as  collaborative
+partners  with  whom  value  is  shared
+(Lusch, Vargo,  & Wessels,  2008; Vargo  &
+Lusch,  2004).  Coproduction,  thus,  may
+be viewed as “buyer-seller social interac-
+tion  and  adaptability  with  a  view  to
+attaining further value” (Wikström, 1996,
+p.  10).  In  contrast  to  the  traditional
+goods-dominant logic, service-dominant
+logic emphasizes the importance of the
+service  provider  coordinating  with  the
+client, who actively participates in prod-
+uct design and development. From this
+perspective, the customer is viewed as a
+collaborative  partner  and  can  provide 
+a  complement 
+the  knowledge,
+resources,  and  equipment  provided  by
+the company. Higher new value can be
+generated jointly through effective coor-
+dination  of 
+those  complementary
+resources (Wikström, 1996).
+
+to 
+
+From User Participation to User
+Coproduction
+Because ISD requires the expertise and
+insights  of  many  stakeholders,  such  as
+developers and users, user participation
+in ISD has been receiving considerable
+
+68
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+
+attention from researchers for a decade
+(Aladwani,  Rai,  &  Ramaprasad,  2000;
+Cavaye, 1995; He & King, 2008; Lynch &
+Gregor,  2004;  Olson  &  Ives,  1981;
+Swanson, 1974). Generally, user partici-
+pation  refers  to  “user  and  developer
+who  are  cooperatively  involved  to  the
+extent  that  the  activities  of  each  facili-
+tate  the  attainment  of  the  ends  of  the
+others”  (Swanson,  1974,  p.  181).  In  the
+ISD  context,  user  participation 
+is
+viewed  as  the  behaviors  and  activities
+that  users  or  their  representatives  col-
+laborate on with the developers during
+the project. These activities include dis-
+cussions  to  obtain  specifications,  feed-
+back,  and  review  (Wagner  &  Piccoli,
+2007).  Although  many  studies  assert
+that  user  participation  in  an  ISD  can
+increase  system  quality  and  enhance
+user  satisfaction,  the  actual  effect  of
+such participation is debatable (Harris &
+Weistroffer,  2009).  Furthermore,  some
+researchers continue to report that proj-
+ect  performance  is  undermined  by
+user–IS  conflicts,  communication  gaps,
+and  frequent  modifications  to  require-
+ments (Maruping, Venkatesh, & Agarwal,
+2009; Shim et al., 2010). This implies the
+need to redefine the role of the user in
+ISD  projects.  Indeed,  the  relationship
+between  user  and  software  developer
+continues to evolve into more complex
+relations, including client partnerships,
+because  systems  and  application  areas
+have  become  increasingly  complex
+(Markus,  Majchrzak,  &  Gasser,  2002;
+Markus & Mao, 2004).
+
+Users  should  be  viewed  as  taking
+full responsibility with developers dur-
+ing  the  project,  not  just  a  source  of
+requirements (Shim et al., 2010); hence,
+Bettencourt  and  his  colleagues  (2002)
+brought up the term “coproduction”—a
+range  of  behaviors  and  activities  that
+can contribute to effective functioning
+of  the  organization  and  increase  goal
+achievement.  Originated  from  public
+administration,  coproduction  refers  to
+the  activities  that  service  agents  and
+citizens  contribute  to  the  delivery  of
+service  (Brudney  &  England,  1983;
+Sharp,  1980; Whitaker,  1980).  Different
+
+from pure participation in which users
+are  viewed  as  passive  requirement
+providers,  coproduction  emphasizes
+the  active  roles  of  users  and  the  pro-
+social  behaviors,  which  can  facilitate
+developers to maximize the value created
+(Bettencourt et al., 2002).
+
+The  importance  of  coproduction
+has been highlighted in a few studies in
+the  general  project  management  area;
+for  example,  Yates  (2006)  highlighted
+the importance of coconstruct between
+users  and  technologies.  Chiocchio,
+Forgues, Paradis, and Iordanova (2011)
+emphasized  the  mediating  role  of 
+collaboration  between  different  stake-
+holders;  however,  the  coproduction
+perspective is relatively new to the ISD
+area. We  argue  that  when  information
+systems  are  coproduced  by  users  and
+developers,  the  final  value  is  deter-
+mined  by  the  effectiveness  of  the
+coproduction;  therefore,  users  should
+be actively involved in the development
+process  to  maximize  the  value  created
+and  to  ensure  that  the  developed  sys-
+tem meets their needs.
+
+In  an  outsourcing  context,  client
+coproduction  is  viewed  as  the  client
+behaving in a collaborative way to con-
+tribute  to  more  optimal  knowledge-
+based  project  solutions,  to  maintain
+effective working relationships with the
+KIBS  (Knowledge  Intensive-Business
+Services) firm, and to increase the like-
+lihood of goal achievement (Bettencourt
+et  al.,  2002).  Based  on  a  concept  by
+Bettencourt  and  his  colleagues  (2002),
+ISD is viewed as a value coproduction
+process  in  which  IS  developers  are
+service providers and users are clients.
+In  that  process,  users  and  developers
+work closely together to determine the
+specific  system  requirements  and
+implement the final system to support
+the  organization’s  daily  operation.  In
+other  words,  users  are  considered  as
+the  final  customers  of  the  ISD  service
+while  they  operate  the  developed  sys-
+tem 
+lives.
+Developers, as service providers, apply
+their  technical  capabilities  to  resolve
+business problems, the effectiveness of
+
+their  daily  work 
+
+in 
+
+which depends on how well users and
+developers  are  able  to  collaboratively
+integrate their own domain knowledge
+to  generate  innovative  solutions  to
+problems.
+
+Bettencourt  and  his  colleagues
+(2002)  proposed  seven  major  copro-
+duction  behaviors,  which  go  beyond
+traditional user participation: commu-
+nication openness, shared problem solv-
+ing, involvement in project governance,
+personal  dedication,  tolerance,  advoca-
+cy,  and  accommodation.  Communica-
+tion  openness refers  to  the  sharing  of
+related  information  between  partners,
+such as details of plans, objectives, and
+evaluation criteria through formal and
+informal  channels  (Smith  &  Barclay,
+1997). In our research context, commu-
+nication  openness  is  regarded  as  the
+extent to which the client and develop-
+er  openly  share  with  each  other  infor-
+mation  about  the  project  (Bettencourt
+et al.). Many projects fail simply as the
+result of inadequate information trans-
+parency within the development team.
+For  example,  developers  tend  to  con-
+ceal news about delays to avoid censure
+from  stakeholders 
+(Petter,  2008).
+Developers also complain of not being
+informed  about  users’  special  require-
+ments or their concerns relating to the
+project;  thus,  misunderstandings  and
+conflicts  result  from  limited  informa-
+tion availability.
+
+Shared  problem  solving refers  to
+users acting on their own initiative and
+sharing  responsibility  for  developing
+solutions  as  well  as  resolving  issues
+and  problems  arising 
+in  projects
+(Bettencourt  et  al.,  2002).  In  contrast
+to  the  traditional  user  participation
+concept,  the  notion  of  coproduction
+emphasizes  the  importance  of  users
+engaging 
+the  problem-solving
+process.  Simply  providing  require-
+ments and then waiting for developers
+to create the final system is inadequate
+and inappropriate. Users need to con-
+tribute  expertise  and  effort  to  effec-
+tively  resolve  those  non-technical
+issues  that  arise  during  the  course  of
+the project.
+
+in 
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   69
+
+
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of User Coproduction in Information System
+
+Involvement  in  project  governance
+implies the importance of users taking
+an  active  role  in  monitoring  project
+progress toward predefined project goals
+and  of  their  determining  jointly  with
+the  developers  the  milestones  of  the
+project  (Bettencourt  et  al.,  2002).  This
+has  been  highlighted  in  the  measure-
+ment  of  user  participation  (Barki  &
+Hartwick,  1994).  This  process  also
+ensures  that  the  direction  of  the  ISD
+project is correct and actually meets the
+users’ current requirements in a highly
+uncertain  context  (Hsu,  Chan,  Liu,  &
+Chen, 2008).
+
+Personal dedication reflects a sense
+of  personal  obligation  toward  project
+success (Bettencourt et al., 2002). Users
+are  occupied  not  only  by  project 
+work,  but  also  by  their  routine  work.
+Responsible users should perform indi-
+vidual  responsibilities  in  a  persistently
+conscientious  and  responsive  manner.
+Thus, rather than users attending meet-
+ings  but  not  paying  attention  to  the
+content  or  contributing  to  the  project,
+it is imperative that they actively partic-
+ipate  and  influence  the  development
+process  in  order  to  ensure  the  devel-
+oped system fully accommodates their
+needs.
+
+Tolerance refers  to  users’  ability  to
+respond  with  understanding  and
+patience  to  minor  project  encum-
+brances,  glitches,  and  inconveniences
+(Bettencourt  et  al.,  2002).  It  is  well
+accepted that conflicts are unavoidable
+due  to  the  diverse  backgrounds  and
+perspectives  of  users  and  developers
+(Barki & Hartwick, 1994). To run a proj-
+ect  smoothly,  users  and  developers
+have  to  weather  such  clashes  and
+maintain their focus on the main issue.
+Advocacy refers to a vocal advocate
+who acts as a salesperson for the proj-
+ect,  promoting  its  merits  (Bettencourt
+et  al.,  2002).  Because  not  all  end  users
+engage in the development process, it is
+critical for those who participate in the
+process  to  keep  those  non-participant
+users updated about the current status
+of the project (Markus & Mao, 2004). In a
+vein similar to organizational members
+
+who  promote  organizational  ideas  to
+outsiders,  user  representatives  should
+promote  the  system  concepts  to  non-
+representative users in order to increase
+the  acceptance  rate  (Moorman  &
+Blakely, 1995).
+
+Accommodation refers to the extent
+to which users demonstrate the willing-
+ness  to  accommodate  the  desires,
+approaches,  and  expert  judgment  of
+the  developers  (Bettencourt  et  al.,
+2002).  Irrational  insistence  may  cause
+project  delay  and  harm  the  relation-
+ships between users and developers as
+well.  It  is  vital,  therefore,  to  reach  a
+compromise between users and devel-
+opers on certain issues; moreover, users
+should  accept  the  expert’s  advice  as
+long  as  in  so  doing,  the  initial  project
+goal  can  be  achieved.  It  is  crucial  for
+users  and  developers  to  adapt  their
+ideas and behaviors to the needs of the
+other (Heide & Miner, 1992).
+
+Social Capital Theory
+In  this  study,  we  proposed  that  social
+capital between users and developers is
+an important antecedent of user copro-
+duction.  This  perspective  is  adopted,
+because  coproduction  requires  both
+users and developers to work coopera-
+tively to reach the project goal. By view-
+ing the developed system as one type of
+intellectual  capital  cocreated  by  users
+and developers, social capital serves as
+one important facilitator in the forming
+of  high-quality 
+intellectual  capital
+(Nahapiet & Ghoshal, 1998).
+
+Social capital, initially appearing in
+sociology  studies,  may  be  viewed  as
+“the aggregate of the actual or potential
+resources,  which  are  linked  to  posses-
+sion  of  a  durable  network  of  more  or
+less  institutionalized  relationships  of
+mutual  acquaintance  or  recognition”
+(Bourdieu, 1986, p. 248). With social capi-
+tal, individual actors in one social struc-
+ture can obtain resources that they do not
+possess but are needed to perform certain
+actions; in this way, the performance of the
+individual actor can be improved. In recent
+years,  social  capital  concepts  have  been
+offered as  explanations  for  a  variety  of
+
+social  behaviors,  such  as  common
+actions  and  community  participation.
+For  example,  Nahapiet  and  Ghoshal
+(1998) highlighted social capital’s influ-
+ence on the creation of intellectual cap-
+ital; Atuahene-Gima and Murray (2007)
+investigated the impact of social capital
+on  exploratory  and  exploitative  learn-
+ing  and  new  product  development  in
+China;  and  Tsai  and  Ghoshal  (1998)
+indicated that social capital influences
+resource  exchange.  In  the  IS  arena,
+social  capital  has  been  shown  to  have
+effects on knowledge sharing (Chiu, Hsu, &
+Wang, 2006), knowledge transfer (Rottman,
+2008),  knowledge  management  system
+usage (He, Qiao, & Wei, 2009), and con-
+intention  of 
+tinuance 
+the  online 
+auction 
+(Wang  &  Chiang,  2009).
+Although  those  studies  adopted  social
+capital  theory,  to  our  best  knowledge,
+none  of  them  has  attempted  to  apply
+social  capital  in  an  SD  context  to
+understanding the coproduction issue.
+Given the importance of social cap-
+ital on the forming of intellectual capi-
+tal and that the ISD can be viewed as a
+process  of  creating  new  intellectual
+capital, we argue that social capital may
+serve  as  a  critical  antecedent  of  copro-
+duction. For example, open communica-
+tion  allows  developers  and  users  to
+exchange 
+information—an
+important  resource  in  ISD  project.
+Tolerance  allows  developers  to  focus  on
+main  functions—a  major  component  of
+new intellectual capital. Accommodation
+reduces the barriers resulting from con-
+flicts,  thereby  enhancing  resource
+exchange. Involvement in project gov-
+ernance  allows  users  to  jointly  deter-
+mine  the  direction  and  understand
+the  current  progress  of  the  project.
+Users  may  help  acquire  required
+resources  to  improve  the  progress.
+Advocacy allows information about the
+project  to  be  shared  within  the  user
+group. With better understanding of the
+systems,  users  who  do  not  engage  in
+the  development  are  more  likely  to
+embrace  the  new  system  (new  intel-
+lectual capital). Shared problem solv-
+ing  allows  users  to  contribute  their
+
+critical 
+
+70
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+
+resources  to  identify  problems,  help
+generate  solutions,  and  evaluate  pos-
+sible  solutions.  The  new  developed
+system  (intellectual  capital)  is  more
+likely  to  be  of  high  quality.  Last,  per-
+sonal dedication represents the input
+of resources that benefit the quality of
+the  new  system,  given  that  resources
+from  both  the  user  and  developer
+sides are needed to develop new intel-
+lectual capital.
+
+the 
+
+Among  previous  studies  that  have
+adopted  social  capital  theory,  two
+research streams can be classified: treat-
+ing three dimensions of social capital as
+parallel  elements  (Nahapiet  &  Ghoshal,
+1998)  or  as  causal  relationships  among
+three constructs (Tsai & Ghoshal, 1998).
+We  adopted 
+first  approach,
+because there is no congruence about
+the directions of relationships between
+paired  social  capitals.  For  example,
+structural  social capital  may  enhance
+relational  social  capital,  whereas  rela-
+tional  social  capital  can  also  lead  to
+structural  social  capital.  Given  that
+cross-sectional data are not able to clar-
+ify the above issue, a parallel perspective
+was then adopted in this study.
+
+Nahapiet  and  Ghoshal  (1998)  first
+classified  social  capital  into  structural
+social  capital,  relational  social  capital,
+and  cognitive  social  capital.  Whereas
+structural  social  capital  depicts  the
+interaction  patterns  between  actors,
+relational  social  capital  refers  to  the
+quality  of  personal  relationships,  such
+as  trust  and  trustworthiness,  norms
+and  sanctions,  obligations,  and  expec-
+tations. Cognitive social capital reflects
+the  extent  to  which  members  in  the
+same  community  have  shared  repre-
+sentation,  shared  language,  shared
+interpretation,  and  shared  mental
+models  (Nahapiet  &  Ghoshal).  In  the
+next section, we introduce each capital
+separately.
+
+Structural Social Capital
+In general, structural social capital refers
+to the structure of connection or config-
+uration  of  an  interacting  network;  it
+reflects the modes of interactions among
+
+group  members  (Nahapiet  &  Ghoshal,
+1998).  The  frequency  and  intensity  of
+interaction often serve as the manifesta-
+tions  of  structural  social  capital  (Burt,
+1987), which has also been adopted in a
+recent IS study to reflect the connection
+between users and developers (van den
+Hooff  &  Huysman,  2009).  We  followed
+past  studies  and  defined  structural
+social capital as the frequency of interac-
+tions  between  user  representatives  and
+developers.  Because  social  interactions
+are the power to ensure that both sides
+are  able  to  achieve  targets  (Atuahene-
+Gima & Murray, 2007), it is expected that
+more  interactions  between  users  and
+developers  lead  to  increasingly  positive
+effects  on  project  performance.
+Interaction  between  developers  and
+users can be formal or informal, the for-
+mer occurring when users attend devel-
+opment  meetings.  Informal  interaction
+refers  to  non–work-related  interaction
+between  two  parties  (e.g.,  communica-
+tion  during  leisure  activities  or  during
+lunchtime.)
+
+Relational Social Capital
+Social capital theory describes relation-
+al social capital in terms of the interper-
+sonal  relationships  developed  through
+the interaction process and the ways in
+which  those  ongoing  relationships
+affect individuals’ attitudes and behav-
+iors  (Granovetter,  1992).  In  this  study,
+mutual  trust  between  user  representa-
+tives and developers is adopted to rep-
+resent relationships between these two
+parties.
+
+Mayer,  Davis,  and  Schoorman
+(1995) defined trust as “the willingness of
+a  party  to  be  vulnerable  to  the  actions 
+of another party based on the expecta-
+tion that the other will perform a partic-
+ular  action  important  to  the  trustee,
+irrespective of the ability to monitor or
+control  that  other  party”(p.  712). In
+addition to not performing opportunistic
+behaviors,  people  in  a  relationship  of
+trust have greater motivation to engage in
+social exchange in general, and coopera-
+tive interaction in particular (Nahapiet &
+Ghoshal,  1998).  An  empirical  study  has
+
+also indicated that trust plays an impor-
+tant role in the willingness of structural
+network  participants  to  share  and
+exchange  knowledge  (Inkpen  &  Tsang,
+2005). Trust between users and IS devel-
+opers  enhances  their  belief  in  one
+another and increases their willingness
+to maintain the relationship (Atuahene-
+Gima  &  Murray,  2007). With  trust,  user
+representatives  and  IS  developers  are
+more  likely  to  respect  and  commit  to
+each other (Simons & Peterson, 2000).
+
+Cognitive Social Capital
+The cognitive dimension of social capi-
+tal theory describes the extent to which
+members possess shared meaning and
+understanding  (Nahapiet  &  Ghoshal,
+1998). The importance of shared under-
+standing  has  been  emphasized  in  the
+team  mental  model  research  stream.
+Good  team  performance  results  from
+the  developing  of  a  common  mental
+model  among  team  members,  which
+encompasses  every  aspect  of  the  sys-
+tem  with  which  the  members  interact
+(Klimoski  &  Mohammed, 
+1994;
+Levesque,  Wilson,  &  Wholey,  2001).  A
+common  or  shared  mental  model  or
+shared  understanding  allows  project
+team members to translate information
+in  the  same  way  and  to  share  similar
+expectations  about  future  situations
+(Mohammed,  Ferzandi,  &  Hamilton,
+2010;  Rouse,  Cannon-Bowers,  &  Salas,
+1992).  Such  a  model  can  also  speed 
+up information processing by reducing
+information  acquisition  and 
+the
+searching,  filtering,  coding,  storing,
+and retrieval processes.
+
+In  the  ISD  context,  shared  under-
+standing or a shared mental model can
+be  viewed  as  the  sharing  of  similar
+knowledge,  experiences,  and  view-
+points  toward  the  project  goal  and
+development process among user rep-
+resentatives and developers (Ko, Kirsch,
+&  King,  2005;  Nelson  &  Cooprider,
+1996).  Such  common  knowledge  and
+vision  allow  developers  and  user  repre-
+sentatives jointly to make decisions in an
+efficient way (Davis, Kettinger, & Kunev,
+2009);  therefore,  a  better  outcome  can
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   71
+
+
+Antecedents and Consequences of User Coproduction in Information System
+
+S
+R
+E
+P
+A
+P
+
+Interaction
+User Side 
+
+Interaction
+
+IS Side
+
+Mutual Trust
+
+User Side
+
+Mutual Trust
+
+IS Side
+
+Relational
+
+Social Capital
+
+Structural
+
+Social Capital
+
+H4
+
+H6
+
+H5
+
+User
+Coproduction 
+
+Cognitive
+
+Social Capital
+
+Shared
+
+Understanding
+
+IS Side
+
+Shared
+
+Understanding
+
+User Side
+
+Control Variable
+
+(cid:127) Project size
+(cid:127) Project duration
+(cid:127) Project budget
+
+H1
+
+H2
+
+H3
+
+System
+Quality
+
+User
+
+Satisfaction
+
+Project
+
+Performance
+
+User-IS Co-production
+(cid:127) Communication
+   openness
+(cid:127) Shared problem solving
+(cid:127) Tolerance
+(cid:127) Accommodation
+(cid:127) Advocacy
+(cid:127) Involvement in project
+   governance
+(cid:127) Personal dedication
+
+Figure 1: Conceptual model.
+
+be  achieved  (Nelson  &  Cooprider,
+1996).
+Research Method
+Research Model
+The  research  model  of  this  study  is
+shown in Figure 1. As indicated, social
+capital has an impact on coproduction,
+which,  in  turn,  leads  to  better  project
+outcomes. In the following, all hypothe-
+ses are presented.
+
+Hypotheses
+
+The Relationship Between User
+Coproduction and Project Outcomes
+System  quality  refers  to  reliability,
+response time, ease of use, and ease of
+learning  of 
+(Belardo,
+Karwan, & Wallace, 1982) and can also
+be  viewed  as  the  efficiency,  reliability,
+accuracy,  ease  of  using,  and  ability  to
+generate  the  information  that  users
+
+the  system 
+
+need  (He  &  King,  2008).  High-system
+quality can be achieved when informa-
+tion  is  fully  exchanged  between  users
+and  developers  in  the  coproduction
+process (Hsu et al., 2008). For example,
+users’  needs  can  be  assured  through
+open  communication  between  users
+and  developers.  User  representatives
+may  help  by  providing  possible  solu-
+tions to solving problems, which may in
+turn  enhance  the  system’s  reliability
+(Moorman & Blakely, 1995).
+
+H1: Uer coproduction is positive-
+ly associated with system quality.
+User  satisfaction  is  high  when  users
+feel  the  developed  system  meets  their
+needs,  requirements,  and  expectations
+(He & King, 2008). Users are more satisfied
+when effective coproduction is observed.
+First, users can have a better understand-
+ing  of  the  functions,  limitations, and
+strengths  of  the  system,  which  can  be
+
+obtained by participating in the devel-
+opment  process.  Without  irrational
+expectations  of  the  system,  users  are
+much  less  likely  to  be  dissatisfied.
+Second,  according 
+to  Locke  and
+Schweiger (1979), a high level of engage-
+ment  increases  satisfaction,  because  a
+sense of psychological belonging toward
+the  system  is  developed  during  the
+engaging  process.  User  representatives
+take a project as part of their life through
+the joint decision-making and problem-
+resolving  processes,  through  helping
+project governance, and through devot-
+ing their individual time to the project.
+the  coproduction
+Third, 
+through 
+process,  users’ 
+requirements  are
+assured and the developed system can
+better  reflect  their  actual  needs.  Higher
+satisfaction  is,  therefore,  expected.  Last,
+effective coproduction requires user rep-
+resentatives  to  promote  the  system  to
+
+72
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+
+other  users  of  the  group  (Smith  &
+Barclay, 1997). Because of this, it will be
+easier for other users to accept the sys-
+tem  when  they  receive  the  promotion
+from user representatives, not develop-
+ers; therefore, we hypothesize that:
+H2: User and developer’s copro-
+duction  is  positively  associated
+with user satisfaction.
+An  ISD  project  is  a  series  of 
+processes—initialization, planning and
+control,  execution,  and  termination—
+with  a  beginning,  an  end,  and  clearly
+identified  inputs  and  outputs  (Cooke-
+Davies,  2004).  Project  perfor-mance  is
+defined  as  the  efficiency  of  system
+development  work  (He  &  King,  2008)
+and can be determined by the extent to
+which  those  processes  can  be  accom-
+plished  with  efficiency  (Cooke-Davies,
+2004).  Project  performance  can  be
+improved  with  user  coproduction  for
+the  following  reasons.  First,  informa-
+tion  exchange  between  users  and
+developers allows developers to acquire
+real  business  needs  in  the  early  stage
+and avoid rework in the later stage. The
+project  is  more  likely  to  be  accom-
+plished within budget and on schedule.
+Second,  project  performance 
+is
+enhanced  when  user  representatives
+are  involved  in  problem  resolving
+(Tesch,  Sobol,  Klein,  &  Jiang,  2009).
+Third,  users  involved  in  project  gover-
+nance  help  developers  to  move  in  the
+right direction and drive developers to
+accomplish  predefined  goals  on  time
+(Jones  &  Harrison,  1996).  In  addition,
+empirical study has also shown a signif-
+icant  relationship  between  coproduc-
+tion and development project outcome
+(Shim  et  al.,  2010);  therefore,  we
+hypothesize that:
+
+H3: User and developer’s copro-
+duction  is  positively  associated
+with project performance.
+
+From Social Capital to User
+Coproduction
+Structural social capital refers to the fre-
+quency  of  interaction  between  users
+and  developers  in  an  ISD  context.  It  is
+the  basis  for  information  exchange
+
+(Wasko  &  Faraj,  2005)  and  knowledge
+sharing  (van  den  Hooff  &  de  Winter,
+2011).  Interaction  can  be  formal  or
+informal;  the  former  refers  to  interac-
+tions  that  happen  in  specified  project-
+related working contexts (such as review
+meetings),  whereas  the  latter  refers  to
+interactions that take place in non-work
+situations (such as casual conversation).
+Without  formal  or  informal  interaction
+mechanisms,  user  engagement  is  not
+likely  to  happen.  Previous  studies  have
+indicated that structural social capital is
+the  means  to  ensuring  that  things  are
+done  and  goals  are  achieved  (Adler  &
+Kwon,  2002;  Atuahene-Gima  &  Murray,
+2007) and significantly affects informa-
+tion 
+(Bolino,  Turnley,  &
+Bloodgood, 2002; Hanson & Krackhardt,
+1993). The informal interaction mecha-
+nism serves as a complementary chan-
+nel,  which  allows  users  to  openly 
+communicate with developers. With the
+formal interaction mechanism, such as
+participation  in  direction  determina-
+tion, 
+requirement  elicitation,  and
+progress  review,  users  are  allowed  to
+jointly  solve  problems  and  involve
+themselves 
+in  project  governance;
+therefore, we hypothesize that:
+
+transfer 
+
+H4: Structural  social  capital  is
+positively  associated  with  co-
+production.
+Coproduction  requires  users  and
+developers  to  communicate  with  each
+other, and the effectiveness of commu-
+nication is determined by the extent to
+which  a  shared  understanding  exists
+(Bettencourt  et  al.,  2002;  Moorman  &
+Blakely,  1995).  By  having  the  same
+understanding toward the goal and the
+procedure to reach that goal, developers
+can accommodate themselves to users’
+needs, and users can adjust themselves
+to fit the developers’ needs. Good com-
+munication  can  possibly  reduce  con-
+flicts  and  enhance  joint  problem  solv-
+ing; therefore, we hypothesize that:
+H5: Cognitive  social  capital  is
+positively  associated  with  co-
+production.
+Trust  is  the  basis  of  interaction. 
+It  can  improve  communication  and
+
+information  exchange 
+(Duhan  &
+Sandvik, 2009; Heide & John, 1992), can
+enhance both parties’ emotions, and is
+the basis for fostering solidarity, which
+also  refers  to  shared  problem  solving
+(Duhan  &  Sandvik,  2009;  Kaufmann  &
+Stern,  1988).  When  problems  occur,  a
+high  level  of  trust  allows  users  and
+developers to possess an open attitude
+toward  each  other,  which  facilitates
+joint problem solving. Trust also refers
+to one’s belief that another party won’t
+exhibit  opportunistic  behavior  when
+there  is  a  chance  to  do  so;  therefore,
+users and developers can adjust them-
+selves 
+to  align  with  each  other
+(Bettencourt et al., 2002; Heide & John,
+1992). Moreover, trust also allows both
+parties to ignore minor issues, such as
+deviation  from  predefined  plans,  and
+leads  to  commitment,  which  is  the
+basis for resource devotion (Bettencourt
+et  al.,  2002;  Borman  &  Motowidlo,
+1993). Finally, successful system devel-
+opment  requires  not  only  developers
+but also users to dedicate themselves to
+the  development  work.  User  represen-
+tatives  are  more  willing  to  spend  time
+on  the  project  when  they  have  strong
+trust with the developers; therefore, we
+hypothesize that:
+
+H6: Relational  social  capital  is
+positively  associated  with  co-
+production.
+
+Research Methods
+
+Sample and Data Collection
+A field survey was conducted to empir-
+ically  test  the  hypotheses.  The  target
+sample consisted of projects, including
+an  in-house  project  and  outsourcing
+system  project  in  Taiwan.  Data  were
+collected  through  a  matched  pair  sur-
+vey  of  user  representatives  and  devel-
+opers  from  each  project.  Given  that
+coproduction  is  the  process  used  to
+engage  in  the  development  process,
+there is a need to obtain data from both
+developers  and  users  to  comprehend
+their respective viewpoints; therefore,
+two  versions  of  the  questionnaires
+were  developed.  The  measurement
+items  used  in  the  survey  were  based
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   73
+
+
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of User Coproduction in Information System
+
+from  Chinese 
+
+on a comprehensive review of the lit-
+erature  as well  as  on  expert  opinion.
+The measurement was translated from
+English into Chinese to make comple-
+tion  of  the  questionnaires  easier.  To
+assure  the  quality  of  translation,  a
+back-translation 
+to
+English  was  made  by  the  second
+author of this study. The survey instru-
+ment  was  pretested  with  three  aca-
+demic  field  experts  and  three  practic-
+ing system developers, and a pilot test
+was conducted by delivering question-
+naires  to  the  information  department
+of a steel company in southern Taiwan.
+The pretest and pilot test were used to
+assure quality of the operational meas-
+ures of the survey. Minor modifications
+were made according to feedback from
+pretest and pilot test participants.
+
+Data  collection  was  conducted
+from  March  through  June  2011.  We
+first  contacted  members  of 
+the
+Information  Manager  Association  in
+Taiwan  to  introduce  the  purpose  of
+this study and obtain their willingness
+to  participate.  A  total  of  500  survey
+packages  were  then  sent  to  project
+managers  who  agreed  to  participate.
+One  survey  package  contained  two
+instruments: one for project managers
+and  one  for  the  user’s  representative.
+In addition to filling the developer ver-
+sion  instrument,  project  managers
+were  asked  to  recommend  one  user
+representative  heavily  involved  in  the
+project  to  fill  the  user  version  instru-
+ment. In order to avoid selection bias,
+both project managers and users were
+asked to answer all questions based on
+their  experiences  of  the  same  system
+development project, which had been
+completed most recently. A total of 130
+managers  returned  the  survey  and
+only  103  users  completed  the  survey;
+therefore, the 27 one-side only surveys
+were  not  included  in  the  following
+analysis.  The  final  response  rate  was
+20.6%.  The  demographic  information
+sample of 103 pairs is shown in Table 1,
+and  the  corresponding  project  demo-
+graphic is shown in Table 2.
+
+Constructs and Measurement
+The  research  model  includes  seven
+constructs:  structural  social  capital,
+relational social capital, cognitive social
+capital,  user  coproduction,  system
+quality,  user  satisfaction,  and  project
+performance.  The  measurement  items
+were  adopted  from  past  studies  and
+revised  based  on  pretest  results.  In
+order to fully capture the actual interac-
+tion  between  both  parties,  responses
+from  both  sides  were  collected.  Both
+user  representatives  and  developers
+were  asked  to  provide  information  for
+social  capital  and  coproduction.  With
+respect  to  the  dependent  variables
+(excluding project performance, which
+had  to  be  assessed  by  project  man-
+agers), user representatives were asked
+to  detail  their  perceptions  of  system
+quality  and  levels  of  satisfaction  with
+the  developed  system.  Likert  scales
+(ranging  from  1  to  5),  with  anchors
+ranging  from  “strongly  disagree”  to
+“strongly agree,” were adopted to mea-
+sure all indicators. Constructs and their
+corresponding  measurements  were
+described as follows.
+
+Three 
+
+frequently 
+
+types  of  social  capital
+between  user  representatives  and
+developers  were  measured.  The  pur-
+pose  in  measuring  structural  social
+capital was to capture the frequency of
+interaction  between  the  two  parties. 
+A  total  of  three  items  obtained  from
+Patnayakuni,  Rai,  and  Tiwana  (2007)
+were  used  to  measure  the  extent  to
+which these two parties worked closely
+together  and  interacted  with  each
+other 
+routinely.
+Cognitive  social  capital reflected  the
+extent  to  which  shared  understanding
+existed  between  user  representatives
+and  developers.  A  total  of  six  items
+adopted  from  Simons  and  Peterson
+(2000) were used to capture the extent
+to which these two parties were able to
+understand  each  other  while  commu-
+nicating,  had  similar  previous  experi-
+ence,  agreed  on  what  was  important,
+and  used  similar  problem-solving
+approaches. The purpose in measuring
+
+and 
+
+74
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+relational  social  capital was  to  assess
+the degree of trust between user repre-
+sentatives  and  developers.  A  total  of
+five  items  adopted  from  Ko  and  col-
+leagues (2005) were used to capture the
+extent  to  which  users  and  developers
+respected each other, showed integrity,
+expected  each  other  to  be  truthful,  as
+well  as  trusted  and  relied  on  each
+other.
+
+User coproduction is a multidimen-
+sional construct involving communica-
+tion openness, shared problem solving,
+personal dedication, tolerance, advoca-
+cy,  accommodation,  and  involvement
+in  project  governance  (Bettencourt 
+et al., 2002). Because the coproduction
+concept is complex and data were col-
+lected from both users and developers,
+user coproduction was operationalized
+as  a  second-order  latent  variable.  The
+first-order construct contains all seven
+components  mentioned  above.  For
+communication openness, we used four
+items  to  measure  the  extent  to  which
+user  representatives  were  willing  to
+exchange  information  with  developers
+without  reservation  (Heide  &  Miner,
+1992).  Shared  problem  solving,  the
+extent  to  which  user  representatives
+shared  the  responsibility  for  resolving
+problems  faced,  was  measured  with
+four  items  adopted  from  Heide  and
+Miner (1992). For personal dedication, a
+total of four items were used to capture
+whether  users  worked  above  and
+beyond their defined duties (Moorman &
+Blakely, 1995). Tolerance was measured,
+with three items aimed at capturing the
+willingness 
+than 
+ideal  conditions  without  complaint
+(MacKenzie, Podsakoff, & Fetter, 1993).
+For  advocacy,  a  total  of  four  items
+adopted  from  Moorman  and  Blakely
+(1995) were used to ascertain the extent
+to  which  user  representatives  encour-
+aged  other  users  to  use  the  system. 
+A total of four items for accommodation
+were  used  to  capture  the  degree  to
+which  user  representatives  adjusted
+their  behavior  to  meet  the  needs  of
+developers  (Heide  &  Miner,  1992).
+
+tolerate 
+
+less 
+
+to 
+
+
+Measure
+Gender
+
+Categories
+
+Male
+
+Female
+
+Missing
+
+Tenure
+
+Less than 1 year
+
+Position
+
+Age
+
+1–3 years
+
+4–6 years
+
+7–10 years
+
+11–15 years
+
+16–20 years
+
+21–30 years
+
+Missing
+
+Programmer
+
+System analyst
+
+Project leader
+
+Department head
+
+Network maintainer
+
+Project manager
+
+Other professionals
+
+21–25
+
+26–30
+
+31–35
+
+36–40
+
+41–45
+
+46–50
+
+More than 51
+
+Missing
+
+Education
+
+Less than College
+
+College
+
+Bachelor
+
+Master
+
+Doctor
+
+Missing
+
+User Job Title
+
+Functional manager
+
+Employee
+
+Other professionals
+
+Missing
+
+Table 1: Sample demographics (N ⫽ 206).
+
+#
+49
+
+51
+
+3
+
+3
+
+22
+
+19
+
+12
+
+20
+
+11
+
+13
+
+3
+
+13
+
+15
+
+23
+
+19
+
+20
+
+6
+
+5
+
+2
+
+5
+
+9
+
+54
+
+30
+
+1
+
+4
+
+29
+
+64
+
+8
+
+2
+
+Users
+
+%
+47.6
+
+49.5
+
+2.9
+
+2.9
+
+21.4
+
+18.4
+
+11.7
+
+19.4
+
+10.7
+
+12.6
+
+2.9
+
+12.6
+
+14.6
+
+22.3
+
+18.4
+
+19.4
+
+5.8
+
+4.9
+
+1.9
+
+4.9
+
+8.7
+
+52.4
+
+29.1
+
+1.0
+
+3.9
+
+28.2
+
+62.1
+
+7.8
+
+1.9
+
+Developers
+
+%
+63.1
+
+35.0
+
+1.9
+
+7.8
+
+27.2
+
+16.5
+
+26.2
+
+16.5
+
+2.9
+
+2.9
+
+0.0
+
+27.2
+
+11.7
+
+6.8
+
+4.9
+
+3.9
+
+3.9
+
+39.7
+
+17.5
+
+15.5
+
+35.0
+
+17.5
+
+11.7
+
+1.0
+
+1.9
+
+0.0
+
+0.0
+
+2.9
+
+65.0
+
+28.2
+
+0
+
+3.9
+
+1.9
+
+#
+65
+
+36
+
+2
+
+8
+
+28
+
+17
+
+27
+
+17
+
+3
+
+3
+
+0
+
+28
+
+12
+
+7
+
+5
+
+4
+
+4
+
+41
+
+18
+
+16
+
+36
+
+18
+
+12
+
+1
+
+2
+
+0
+
+0
+
+3
+
+67
+
+29
+
+0
+
+4
+
+2
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   75
+
+
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of User Coproduction in Information System
+
+Measure
+Industry Type
+
+Project Budget (Millions)
+
+Size of Project Team
+
+Project Duration
+
+Size of IT Department
+
+Categories
+Manufacturing
+
+Service
+
+Government
+
+Education
+
+Others
+
+Missing
+Less than 1
+
+1–5
+
+5–10
+
+10–30
+
+30–100
+
+More than 100
+
+Missing
+Less than 5
+
+6–10
+
+11–15
+
+16–20
+
+21–30
+
+More than 31
+Less than 3 months
+
+3–6 months
+
+6 months–1 year
+
+1–1.5 years
+
+1.5–2 years
+
+2–2.5 years
+
+2.5–3 years
+
+More than 3 years
+
+Missing
+Less than 5
+
+6–10
+
+11–15
+
+16–20
+
+21–40
+
+41–60
+
+61–80
+
+81–100
+
+More than 100
+
+#
+37
+
+34
+
+3
+
+21
+
+6
+
+2
+63
+
+23
+
+5
+
+2
+
+1
+
+2
+
+7
+71
+
+19
+
+7
+
+2
+
+2
+
+2
+18
+
+20
+
+17
+
+22
+
+12
+
+2
+
+4
+
+6
+
+2
+11
+
+5
+
+12
+
+27
+
+13
+
+14
+
+2
+
+1
+
+18
+
+%
+35.9
+
+29.1
+
+1.0
+
+20.4
+
+5.8
+
+1.9
+61.2
+
+22.3
+
+4.9
+
+1.9
+
+1.0
+
+1.9
+
+6.8
+68.9
+
+18.4
+
+6.8
+
+1.9
+
+1.9
+
+1.9
+17.5
+
+19.4
+
+16.5
+
+21.4
+
+11.7
+
+1.9
+
+3.9
+
+5.8
+
+1.9
+10.7
+
+4.9
+
+11.7
+
+26.2
+
+12.6
+
+13.6
+
+1.9
+
+1.0
+
+17.5
+
+Table 2: Project demographics (N ⫽ 103).
+
+Finally,  involvement  in  project  gover-
+nance refers  to  user  representatives’
+capacity  to  keep  abreast  of  changes  in
+the  project  team  and  was  measured
+with 
+from
+MacKenzie and colleagues (1993).
+
+items  adopted 
+
+four 
+
+System quality is defined as the suc-
+cess  of  the  developed  system  (Wallace,
+Keil, & Rai, 2004b). A total of five items
+adopted  from  Wallace  and  colleagues
+(2004b) were used to capture the extent
+to  which  end  users  thought  the  devel-
+oped  system  was  reliable,  adaptable,
+and  easy  to  use.  User  satisfaction is
+defined  as  the  extent  to  which  users
+believe the information system available
+to them meets their expectations (Chan,
+Yim, & Lam, 2010). A total of three items
+adopted from Chan and colleagues were
+used to measure the perceptions of end
+users about the completed information
+system. Project performance refers to the
+success of the developed system, such as
+achieving  the  predefined  schedule  and
+budget (Wallace et al., 2004b). A total of
+five items adopted from Wallace and col-
+leagues  (2004b)  were  used  to  measure
+the extent to which system development
+work adhered to the predefined budget
+and schedule.
+
+In  addition  to  proposed  indepen-
+dent  variables,  project  performance
+could  be  influenced  by  a  number  of
+project characteristics. In order to both
+reduce  the  possibility  of  interference
+and  understand  the  real  impact  of
+coproduction, we controlled the effects
+of  project  size,  duration,  and  budget.
+These three variables were suspected of
+impacting  project  performance,  system
+quality,  and  user  satisfaction  and  were
+controlled  in  many  studies  (e.g.,  Hsu,
+Liang,  Wu,  Klein,  &  Jiang,  2011;  Sauer,
+Gemino,  &  Reich,  2007).  Those  three
+variables,  in  some  sense,  reflect  the
+scope of the project; specifically, coordi-
+nation  and  communication  costs
+increase  as  the  team  size  increases,
+longer  project  duration  implies  a  more
+complex project, and projects with high-
+er budgets often contain new technolo-
+gies. The possibility of meeting the pre-
+defined goal with the given resources is
+lower when the project is complex.
+
+
+Reliability and Validity
+Reliability and validity are often used to
+ensure the quality of the measurement.
+Reliability  can  be  ensured  through
+composite  reliability,  item-total  corre-
+lation 
+loading,  and
+Cronbach’s alpha. Composite reliability
+and alpha values should be higher than
+0.7,  the  ITC  should  not  be  lower 
+than  0.3,  and  factor  loadings  should
+exceed 0.7.
+
+factor 
+
+(ITC), 
+
+Convergent  validity  should  be
+ensured  when  multiple  indicators  are
+used to assess the construct (Anderson
+& Gerbing, 1988) and can be examined
+by composite reliability (CR) as well as
+average  variance  extracted 
+(AVE);
+(Fornell  &  Lareker,  1981).  The  conver-
+gence indicator AVE is calculated to the
+mean  variance  extracted  of  item  load-
+ing on the construct. The AVE should be
+higher  than  0.5  to  meet  the  validity
+standard.  Discriminant  validity  is  the
+extent to which indicators of one con-
+cept  differ  from  indicators  of  another
+concept (Bagozzi & Phillips, 1982). The
+results are shown in Table 3. The corre-
+lation  between  paired  constructs
+should be less than 0.9 and lower than
+the  square  root  of  AVE  (Fornell  &
+Lareker, 1981). The relevant correlation
+information is provided in Table 4. The
+results indicate that all values meet the
+minimum requirements and, therefore,
+the  quality  of  our  measurement  is
+assured.
+
+Common  method  bias  might  be  a
+potential  problem  when  both  depen-
+dent and independent variables are col-
+lected from the same respondent at the
+same time. In this study, Harman’s one-
+factor test was used to examine the pos-
+sibility of a common method bias. The
+results showed that more than one fac-
+tor was extracted, and the variance was
+explained  by  a  first  factor  below  30%.
+This  indicates  that  common  method
+bias is not an issue in this study.
+
+Hypothesis Test: Structural Model
+We  applied  partial  least  square  (PLS)
+with  a  bootstrapping  technique  to
+examine  the  proposed  model  (Chin,
+
+1998). PLS was adopted because several
+variables  cannot  meet  the  normality
+assumption  required  by  other  tech-
+niques  (e.g.,  covariance  structural
+equation  modeling).  For  example,  as
+shown in Table 4, the kurtosis indices of
+almost half the variables exceed the rec-
+ommended cut-off value (1.0). Because
+data were collected from one developer
+and one user for each project, we aver-
+aged opinions from both sides to repre-
+sent each project; in addition, we treat
+coproduction  as  a  second  order  con-
+struct. The coefficient and significance
+level of each path and R-square of each
+dependent are shown in Figure 2.
+
+The  path  coefficients  from  user
+coproduction  to  project  performance,
+system quality, and user satisfaction are
+all positively significant (β ⫽ 0.52, p ⬍
+0.01;  β ⫽ 0.60, p ⬍ 0.01;  β ⫽ 0.52,
+p ⬍ 0.01;  respectively),  indicating  that
+user  coproduction  can  effectively  pro-
+mote  project  outcomes;  therefore,  H1,
+H2, and H3 are supported. User copro-
+duction  explains  a  34.3%  variance  of
+system quality, a 26.8% variance of user
+satisfaction,  and  a  28.4%  variance  of
+project  performance.  Furthermore,
+structural  social  capital,  relational
+social capital, and cognitive social capi-
+tal together explain the 68.4% variance
+of  user  coproduction. The  path  coeffi-
+cients  from  cognitive,  relational,  and
+structural  social  capitals  to  coproduc-
+tion  are  all  positively  significant 
+(β ⫽ 0.36, p  ⬍ 0.01; β ⫽ 0.33,  p ⬍
+0.01; β ⫽ 0.26, p  ⬍ 0.01; respectively),
+indicating  that  all  three  types  of  social
+capital  contribute  to  coproduction;
+therefore, H4,  H5,  and  H6  are  all  sup-
+ported. These three forms of social cap-
+ital  in  total  explain  the  69.7%  variance
+of user coproduction.
+
+Discussion
+The results of the research supported the
+main  premises  of  the  research:  (1)  user
+coproduction has an important impact on
+system quality, project performance, and
+user satisfaction; and (2) all three forms of
+social  capital  have  significant  influences
+on user coproduction.
+
+First,  the  results  showed  that  the
+paths  from  user  coproduction  to  sys-
+tem  quality,  project  performance,  and
+user  satisfaction  are  significant.  The
+findings were consistent with previous
+research, which indicated that high sys-
+tem quality is achieved when users par-
+ticipate  in  the  development  process
+and help to identify the actual require-
+ments.  Because  the  developed  system
+is able to reflect actual business needs,
+a  higher  satisfaction  level  can  be
+achieved, and project performance can
+also  be  improved  through  clarification
+of  the  requirements.  Because  extra
+costs and rework effort can be avoided,
+the project team is better able to meet
+the predefined goal within budget and
+on schedule. Furthermore, user copro-
+duction  has  more  impact  on  system
+quality,  followed  by  project  perfor-
+mance  and  user  satisfaction.  Although
+the  difference  is  not  extremely  signifi-
+cant,  users  are  encouraged  to  perform
+coproduction  behaviors  to  assure  the
+developed  system  can  better  respond
+to their needs.
+
+Second,  the  results  indicated  that
+social capital between users and devel-
+opers  has  a  positive  impact  on  copro-
+duction.  Among  the  three  types  of
+social  capital,  cognitive  social  capital
+has the most significant effect, followed
+by relational and structural social capi-
+tal,  respectively. This  implies  that  hav-
+ing  shared  understanding  is  the  most
+critical  driver  for  coproduction.  In  an
+in-house  software  development  con-
+text,  given  that  all  functional  depart-
+ments  work  together  to  achieve  the
+common  goal  of  organizational  suc-
+cess,  the  most  essential  foundation  is
+the extent to which different players are
+able to work together effectively, which
+is  heavily  contingent  on  having  a
+shared understanding among different
+parties.  In  addition,  mutual  trust  also
+plays  an  important  role  because  it
+reduces barriers (e.g., conflicts), which
+may  undermine  users’  willingness  to
+engage 
+in  the  value  coproducing
+process.  Moreover,  although  structural
+social  capital  has  a  positive  effect  on
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   77
+
+
+2
+4
+5
+0
+
+.
+
+7
+4
+4
+0
+
+.
+
+1
+4
+6
+0
+
+.
+
+8
+3
+8
+0
+
+.
+
+5
+6
+8
+0
+
+.
+
+1
+7
+6
+0
+
+.
+
+8
+1
+8
+0
+
+.
+
+2
+1
+8
+0
+
+.
+
+1
+8
+6
+0
+
+.
+
+6
+0
+7
+0
+
+.
+
+1
+5
+7
+0
+
+.
+
+1
+6
+6
+0
+
+.
+
+5
+7
+6
+0
+
+.
+
+1
+3
+7
+0
+
+.
+
+1
+6
+6
+0
+
+.
+
+4
+0
+6
+0
+
+.
+
+1
+7
+0
+
+.
+
+9
+6
+6
+0
+
+.
+
+7
+1
+8
+0
+
+.
+
+7
+1
+7
+0
+
+.
+
+4
+7
+8
+0
+
+.
+
+2
+0
+9
+0
+
+.
+
+0
+2
+9
+0
+
+.
+
+5
+7
+7
+0
+
+.
+
+8
+8
+8
+0
+
+.
+
+3
+8
+8
+0
+
+.
+
+2
+8
+7
+0
+
+.
+
+0
+0
+8
+0
+
+.
+
+1
+3
+8
+0
+
+.
+
+6
+6
+7
+0
+
+.
+
+9
+8
+7
+0
+
+.
+
+5
+2
+8
+0
+
+.
+
+5
+1
+8
+0
+
+.
+
+5
+7
+7
+0
+
+.
+
+9
+4
+8
+0
+
+.
+
+5
+2
+8
+0
+
+.
+
+8
+2
+7
+0
+
+.
+
+3
+1
+6
+0
+
+.
+
+7
+4
+7
+0
+
+.
+
+5
+1
+7
+0
+
+.
+
+3
+7
+8
+0
+
+.
+
+9
+5
+7
+0
+
+.
+
+3
+4
+8
+0
+
+.
+
+4
+1
+8
+0
+
+.
+
+0
+5
+6
+0
+
+.
+
+6
+8
+5
+0
+
+.
+
+8
+5
+6
+0
+
+.
+
+9
+2
+7
+0
+
+.
+
+5
+9
+6
+0
+
+.
+
+6
+7
+6
+0
+
+.
+
+2
+2
+8
+0
+
+.
+
+6
+8
+7
+0
+
+.
+
+0
+9
+7
+0
+
+.
+
+5
+3
+8
+0
+
+.
+
+ 
+
+)
+e
+g
+a
+p
+ 
+t
+x
+e
+n
+n
+o
+s
+e
+u
+n
+i
+t
+n
+o
+C
+(
+
+ 
+
+0
+9
+8
+0
+
+.
+
+3
+1
+8
+0
+
+.
+
+8
+9
+8
+0
+
+.
+
+4
+1
+8
+0
+
+.
+
+4
+2
+9
+0
+
+.
+
+3
+4
+8
+0
+
+.
+
+5
+0
+9
+0
+
+.
+
+5
+8
+8
+0
+
+.
+
+5
+6
+7
+0
+
+.
+
+3
+0
+7
+0
+
+.
+
+3
+6
+7
+0
+
+.
+
+0
+3
+8
+0
+
+.
+
+5
+0
+8
+0
+
+.
+
+0
+9
+7
+0
+
+.
+
+.
+
+ 
+
+ 
+
+i
+
+s
+s
+a
+b
+e
+n
+i
+t
+u
+o
+r
+ 
+a
+n
+o
+ 
+r
+e
+h
+t
+o
+h
+c
+a
+e
+h
+t
+i
+w
+ 
+t
+c
+a
+r
+e
+t
+n
+
+ 
+
+ 
+
+i
+ 
+
+ 
+
+ 
+
+s
+r
+e
+s
+u
+d
+n
+a
+s
+r
+e
+p
+o
+e
+v
+e
+D
+
+l
+
+.
+
+ 
+
+y
+l
+t
+n
+e
+u
+q
+e
+r
+f
+ 
+r
+e
+h
+t
+o
+h
+c
+a
+e
+h
+t
+i
+w
+ 
+t
+c
+a
+r
+e
+t
+n
+
+ 
+
+i
+ 
+
+l
+
+s
+r
+e
+p
+o
+e
+v
+e
+d
+d
+n
+a
+s
+r
+e
+s
+u
+
+ 
+
+ 
+
+ 
+,
+l
+l
+
+a
+r
+e
+v
+O
+
+.
+
+ 
+
+ 
+
+e
+c
+n
+e
+t
+e
+p
+m
+o
+c
+s
+’
+r
+e
+h
+t
+o
+h
+c
+a
+e
+ 
+t
+c
+e
+p
+s
+e
+r
+ 
+s
+r
+e
+p
+o
+e
+v
+e
+d
+S
+I
+ 
+
+l
+
+ 
+
+ 
+
+d
+n
+a
+s
+r
+e
+s
+U
+
+.
+
+ 
+
+ 
+
+l
+
+s
+r
+e
+p
+o
+e
+v
+e
+d
+h
+t
+i
+w
+y
+e
+s
+o
+c
+k
+r
+o
+w
+s
+r
+e
+s
+U
+
+l
+
+l
+
+ 
+
+ 
+
+.
+
+y
+t
+i
+r
+g
+e
+t
+n
+
+i
+ 
+
+ 
+
+j
+
+w
+o
+h
+s
+ 
+t
+c
+e
+o
+r
+p
+e
+h
+t
+ 
+n
+o
+s
+r
+e
+p
+o
+e
+v
+e
+d
+S
+I
+ 
+
+l
+
+ 
+
+ 
+
+ 
+
+d
+n
+a
+s
+r
+e
+s
+U
+
+.
+
+d
+r
+o
+w
+
+ 
+r
+i
+e
+h
+t
+ 
+o
+t
+ 
+p
+u
+e
+v
+
+ 
+
+i
+l
+ 
+
+ 
+
+ 
+
+o
+t
+ 
+r
+e
+h
+t
+o
+h
+c
+a
+e
+n
+o
+ 
+t
+n
+u
+o
+c
+s
+r
+e
+p
+o
+e
+v
+e
+d
+S
+I
+ 
+
+l
+
+ 
+
+ 
+
+ 
+
+d
+n
+a
+s
+r
+e
+s
+U
+
+.
+t
+n
+a
+t
+r
+o
+p
+m
+
+i
+ 
+
+ 
+
+ 
+
+ 
+
+s
+’
+t
+a
+h
+w
+n
+o
+e
+e
+r
+g
+a
+s
+r
+e
+p
+o
+e
+v
+e
+d
+d
+n
+a
+s
+r
+e
+s
+U
+
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+.
+r
+e
+h
+t
+o
+h
+c
+a
+e
+m
+o
+r
+f
+ 
+h
+t
+u
+r
+t
+ 
+e
+h
+t
+ 
+t
+c
+e
+p
+x
+e
+s
+r
+e
+p
+o
+e
+v
+e
+d
+S
+I
+ 
+
+l
+
+ 
+
+ 
+
+ 
+
+d
+n
+a
+s
+r
+e
+s
+U
+
+ 
+
+.
+r
+e
+h
+t
+o
+h
+c
+a
+e
+ 
+t
+s
+u
+r
+t
+ 
+n
+a
+c
+s
+r
+e
+p
+o
+e
+v
+e
+d
+S
+I
+ 
+
+l
+
+ 
+
+ 
+
+ 
+
+d
+n
+a
+s
+r
+e
+s
+U
+
+ 
+
+ 
+
+ 
+
+i
+
+.
+r
+e
+h
+t
+o
+h
+c
+a
+e
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+y
+t
+l
+u
+c
+i
+f
+f
+i
+d
+e
+v
+a
+h
+ 
+t
+’
+n
+o
+d
+s
+r
+e
+p
+o
+e
+v
+e
+d
+d
+n
+a
+s
+r
+e
+s
+U
+
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+.
+
+l
+
+k
+a
+t
+ 
+y
+e
+h
+t
+ 
+n
+e
+h
+w
+
+ 
+
+ 
+
+ 
+r
+e
+h
+t
+o
+h
+c
+a
+e
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+s
+r
+e
+p
+o
+e
+v
+e
+d
+d
+n
+a
+s
+r
+e
+s
+U
+
+l
+
+ 
+
+ 
+
+ 
+
+.
+
+ 
+
+ 
+
+ 
+
+l
+
+y
+a
+w
+e
+m
+a
+s
+e
+h
+t
+ 
+s
+m
+e
+b
+o
+r
+p
+e
+v
+o
+s
+s
+r
+e
+p
+o
+e
+v
+e
+d
+d
+n
+a
+s
+r
+e
+s
+U
+
+l
+
+l
+
+ 
+
+ 
+
+ 
+
+.
+
+ 
+
+j
+
+s
+t
+c
+e
+o
+r
+p
+n
+o
+i
+t
+a
+t
+n
+e
+m
+e
+p
+m
+
+l
+
+i
+
+ 
+
+e
+m
+
+ 
+
+i
+t
+ 
+e
+h
+t
+ 
+t
+a
+d
+o
+o
+t
+s
+r
+e
+d
+n
+u
+
+ 
+l
+l
+
+ 
+
+ 
+
+e
+w
+s
+a
+w
+n
+o
+i
+t
+a
+t
+n
+e
+m
+e
+p
+m
+
+l
+
+i
+ 
+r
+o
+f
+ 
+s
+s
+e
+c
+o
+r
+p
+ 
+r
+u
+O
+
+j
+
+.
+t
+c
+e
+o
+r
+p
+s
+h
+t
+ 
+f
+o
+
+i
+
+ 
+
+ 
+
+ 
+
+h
+t
+i
+w
+e
+c
+n
+e
+i
+r
+e
+p
+x
+e
+ 
+r
+o
+i
+r
+p
+ 
+r
+a
+
+l
+i
+
+ 
+
+ 
+
+ 
+
+i
+
+m
+s
+y
+r
+e
+v
+e
+v
+a
+h
+s
+r
+e
+p
+o
+e
+v
+e
+d
+d
+n
+a
+s
+r
+e
+s
+U
+
+l
+
+ 
+
+ 
+
+4
+0
+9
+0
+
+.
+
+ 
+t
+h
+g
+m
+
+i
+
+ 
+t
+a
+h
+t
+ 
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+ 
+
+y
+n
+a
+ 
+t
+a
+h
+t
+ 
+d
+e
+t
+c
+e
+p
+x
+e
+s
+
+ 
+
+i
+ 
+t
+i
+ 
+,
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+s
+h
+t
+ 
+n
+
+i
+
+l
+
+I
+
+1
+8
+8
+0
+
+.
+
+1
+8
+8
+0
+
+.
+
+9
+0
+9
+0
+
+.
+
+ 
+
+ 
+
+l
+
+y
+l
+t
+n
+e
+u
+q
+e
+r
+f
+ 
+e
+c
+a
+p
+s
+e
+k
+a
+t
+ 
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+s
+h
+t
+ 
+n
+
+i
+
+l
+
+i
+
+i
+ 
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+ 
+
+i
+ 
+f
+o
+e
+g
+n
+a
+h
+c
+x
+E
+
+ 
+
+ 
+
+ 
+
+.
+t
+n
+e
+m
+e
+e
+r
+g
+a
+d
+e
+i
+f
+i
+c
+e
+p
+s
+-
+e
+r
+p
+a
+o
+t
+ 
+g
+n
+d
+r
+o
+c
+c
+a
+y
+n
+o
+ 
+t
+o
+n
+d
+n
+a
+y
+
+l
+
+i
+
+ 
+
+ 
+
+ 
+
+l
+l
+
+a
+m
+r
+o
+f
+n
+
+i
+ 
+
+d
+n
+a
+
+.
+
+m
+e
+h
+t
+ 
+o
+t
+ 
+d
+e
+d
+v
+o
+r
+p
+e
+b
+
+i
+
+ 
+
+ 
+l
+l
+i
+
+ 
+
+w
+y
+t
+r
+a
+p
+ 
+r
+e
+h
+t
+o
+e
+h
+t
+ 
+p
+e
+h
+
+l
+
+ 
+
+ 
+t
+i
+ 
+f
+i
+ 
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+ 
+
+y
+r
+a
+t
+e
+i
+r
+p
+o
+r
+p
+e
+d
+v
+o
+r
+p
+
+i
+
+ 
+
+ 
+l
+l
+i
+
+ 
+
+ 
+
+w
+s
+e
+i
+t
+r
+a
+p
+e
+h
+t
+ 
+t
+a
+h
+t
+ 
+d
+e
+t
+c
+e
+p
+x
+e
+s
+
+ 
+
+i
+ 
+t
+I
+
+ 
+
+ 
+r
+e
+h
+t
+o
+h
+c
+a
+e
+p
+e
+e
+k
+
+ 
+
+ 
+l
+l
+i
+
+ 
+
+w
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+u
+ 
+t
+a
+h
+t
+ 
+d
+e
+t
+c
+e
+p
+x
+e
+s
+
+ 
+
+i
+ 
+t
+I
+
+ 
+
+j
+
+.
+t
+c
+e
+o
+r
+p
+e
+h
+t
+ 
+t
+c
+e
+f
+f
+a
+y
+a
+m
+
+ 
+
+ 
+
+ 
+t
+a
+h
+t
+ 
+s
+e
+g
+n
+a
+h
+c
+ 
+r
+o
+s
+t
+n
+e
+v
+e
+ 
+t
+u
+o
+b
+a
+d
+e
+m
+r
+o
+f
+n
+
+ 
+
+i
+
+.
+
+ 
+
+l
+
+s
+r
+e
+p
+o
+e
+v
+e
+d
+e
+h
+t
+ 
+p
+e
+h
+n
+a
+c
+
+l
+
+ 
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+2
+
+3
+
+4
+
+)
+5
+3
+8
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+3
+5
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+1
+0
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+)
+5
+2
+7
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+8
+4
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+6
+4
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+)
+3
+2
+9
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+6
+6
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+2
+4
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+)
+2
+2
+9
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+6
+6
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+2
+4
+9
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+t
+s
+u
+r
+T
+ 
+:
+l
+
+a
+t
+i
+p
+a
+C
+
+ 
+l
+
+i
+
+a
+c
+o
+S
+
+ 
+l
+
+a
+n
+o
+i
+t
+a
+e
+R
+
+l
+
+l
+
+e
+d
+o
+M
+
+ 
+l
+
+ 
+
+a
+t
+n
+e
+M
+d
+e
+r
+a
+h
+S
+
+ 
+:
+l
+
+a
+t
+i
+p
+a
+C
+
+ 
+l
+
+ 
+
+i
+
+a
+c
+o
+S
+e
+v
+i
+t
+i
+n
+g
+o
+C
+
+)
+8
+6
+8
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+0
+0
+5
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+1
+0
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+)
+7
+8
+8
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+5
+2
+5
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+4
+1
+9
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+s
+s
+e
+n
+n
+e
+p
+O
+n
+o
+i
+t
+a
+c
+n
+u
+m
+m
+o
+C
+
+i
+
+ 
+ 
+:
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+)
+6
+1
+9
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+9
+9
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+1
+4
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+)
+3
+3
+8
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+7
+6
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+9
+8
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+n
+o
+i
+t
+c
+a
+r
+e
+t
+n
+
+I
+ 
+:
+l
+
+a
+t
+i
+p
+a
+C
+
+ 
+l
+
+i
+
+a
+c
+o
+S
+
+ 
+l
+
+a
+r
+u
+t
+c
+u
+r
+t
+S
+
+r
+e
+p
+o
+l
+e
+v
+e
+D
+S
+I
+
+ 
+
+r
+e
+s
+U
+
+C
+T
+I
+
+i
+
+s
+g
+n
+d
+a
+o
+L
+
+C
+T
+I
+
+i
+
+s
+g
+n
+d
+a
+o
+L
+
+s
+m
+e
+t
+I
+
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+
+r
+e
+p
+o
+l
+e
+v
+e
+D
+S
+I
+
+ 
+
+4
+6
+7
+0
+
+.
+
+C
+T
+I
+
+1
+7
+7
+0
+
+.
+
+8
+3
+8
+0
+
+.
+
+6
+2
+7
+0
+
+.
+
+4
+7
+6
+0
+
+.
+
+9
+8
+6
+0
+
+.
+
+6
+2
+7
+0
+
+.
+
+3
+6
+3
+0
+
+.
+
+8
+7
+5
+0
+
+.
+
+7
+6
+0
+
+.
+
+1
+6
+0
+
+.
+
+8
+2
+6
+0
+
+.
+
+7
+3
+7
+0
+
+.
+
+1
+5
+7
+0
+
+.
+
+1
+1
+7
+0
+
+.
+
+9
+3
+4
+0
+
+.
+
+5
+9
+3
+0
+
+.
+
+8
+0
+7
+0
+
+.
+
+8
+8
+5
+0
+
+.
+
+i
+
+s
+g
+n
+d
+a
+o
+L
+
+2
+7
+8
+0
+
+.
+
+5
+7
+8
+0
+
+.
+
+4
+1
+9
+0
+
+.
+
+5
+4
+8
+0
+
+.
+
+3
+4
+8
+0
+
+.
+
+1
+6
+8
+0
+
+.
+
+6
+8
+8
+0
+
+.
+
+3
+4
+5
+0
+
+.
+
+4
+6
+7
+0
+
+.
+
+1
+3
+8
+0
+
+.
+
+6
+8
+7
+0
+
+.
+
+5
+0
+8
+0
+
+.
+
+5
+8
+8
+0
+
+.
+
+3
+9
+8
+0
+
+.
+
+0
+7
+8
+0
+
+.
+
+0
+8
+6
+0
+
+.
+
+1
+1
+6
+0
+
+.
+
+9
+7
+8
+0
+
+.
+
+8
+9
+7
+0
+
+.
+
+6
+1
+8
+0
+
+.
+
+C
+T
+I
+
+1
+2
+8
+0
+
+.
+
+7
+6
+8
+0
+
+.
+
+7
+9
+7
+0
+
+.
+
+6
+6
+6
+0
+
+.
+
+6
+7
+7
+0
+
+.
+
+2
+8
+7
+0
+
+.
+
+4
+0
+6
+0
+
+.
+
+6
+2
+7
+0
+
+.
+
+9
+4
+7
+0
+
+.
+
+9
+4
+7
+0
+
+.
+
+5
+1
+7
+0
+
+.
+
+3
+2
+7
+0
+
+.
+
+5
+9
+7
+0
+
+.
+
+7
+5
+7
+0
+
+.
+
+0
+8
+6
+0
+
+.
+
+2
+6
+6
+0
+
+.
+
+0
+9
+5
+0
+
+.
+
+1
+7
+6
+0
+
+.
+
+ 
+
+)
+e
+g
+a
+p
+ 
+t
+x
+e
+n
+n
+o
+s
+e
+u
+n
+i
+t
+n
+o
+C
+(
+
+ 
+
+r
+e
+s
+U
+
+i
+
+s
+g
+n
+d
+a
+o
+L
+
+s
+m
+e
+t
+I
+
+0
+0
+9
+0
+
+.
+
+1
+0
+9
+0
+
+.
+
+8
+2
+9
+0
+
+.
+
+7
+8
+8
+0
+
+.
+
+9
+0
+8
+0
+
+.
+
+2
+9
+8
+0
+
+.
+
+0
+9
+8
+0
+
+.
+
+2
+6
+7
+0
+
+.
+
+6
+4
+8
+0
+
+.
+
+8
+6
+8
+0
+
+.
+
+.
+
+s
+e
+i
+t
+i
+l
+i
+
+i
+
+b
+s
+n
+o
+p
+s
+e
+r
+ 
+l
+
+i
+
+a
+u
+d
+v
+d
+n
+
+i
+
+i
+ 
+
+n
+a
+h
+t
+ 
+r
+e
+h
+t
+a
+r
+ 
+t
+n
+o
+
+i
+
+j
+ 
+
+ 
+
+s
+a
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+r
+e
+s
+u
+e
+h
+t
+
+ 
+
+ 
+
+ 
+
+e
+r
+a
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+r
+e
+s
+u
+e
+h
+t
+ 
+,
+
+ 
+
+i
+
+l
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+s
+h
+t
+ 
+f
+o
+s
+t
+c
+e
+p
+s
+a
+ 
+t
+s
+o
+m
+n
+
+ 
+
+ 
+
+I
+
+.
+
+ 
+
+i
+
+e
+n
+o
+d
+s
+g
+n
+h
+t
+ 
+g
+n
+i
+t
+t
+e
+g
+ 
+r
+o
+f
+ 
+e
+b
+s
+n
+o
+p
+s
+e
+r
+ 
+y
+l
+t
+n
+o
+
+i
+
+i
+
+l
+
+j
+
+ 
+
+ 
+
+i
+
+y
+b
+d
+e
+t
+a
+e
+r
+t
+ 
+e
+r
+a
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+s
+h
+t
+ 
+f
+o
+e
+s
+r
+u
+o
+c
+e
+h
+t
+ 
+n
+
+i
+
+l
+
+ 
+
+ 
+
+i
+ 
+
+e
+s
+i
+r
+a
+ 
+t
+a
+h
+t
+ 
+s
+m
+e
+b
+o
+r
+P
+
+l
+
+ 
+
+ 
+
+i
+
+h
+c
+a
+e
+g
+n
+w
+o
+d
+n
+m
+
+i
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+t
+o
+n
+o
+d
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+s
+h
+t
+ 
+n
+
+i
+
+l
+
+i
+ 
+
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+u
+e
+h
+T
+
+ 
+
+ 
+
+i
+
+l
+
+ 
+r
+o
+f
+ 
+s
+k
+r
+o
+w
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+e
+h
+t
+ 
+t
+a
+h
+t
+ 
+e
+r
+u
+s
+g
+n
+k
+a
+m
+
+i
+
+ 
+
+ 
+r
+o
+f
+ 
+y
+t
+i
+l
+i
+
+i
+
+b
+s
+n
+o
+p
+s
+e
+r
+ 
+e
+h
+T
+
+.
+
+s
+r
+o
+v
+a
+f
+ 
+r
+e
+h
+t
+o
+
+.
+
+y
+l
+t
+n
+o
+
+i
+
+j
+ 
+
+d
+e
+r
+a
+h
+s
+s
+
+ 
+
+i
+ 
+r
+e
+
+i
+l
+
+ 
+
+i
+
+p
+p
+u
+s
+s
+h
+t
+ 
+d
+n
+a
+s
+u
+h
+t
+o
+b
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+j
+
+.
+t
+c
+e
+o
+r
+p
+e
+h
+t
+ 
+f
+o
+s
+u
+t
+a
+t
+s
+e
+h
+t
+ 
+h
+t
+i
+w
+p
+u
+p
+e
+e
+k
+s
+r
+e
+s
+U
+
+ 
+
+ 
+
+ 
+
+.
+
+s
+r
+o
+r
+r
+e
+w
+e
+f
+ 
+y
+
+ 
+
+l
+l
+
+ 
+
+ 
+
+a
+u
+s
+u
+n
+u
+h
+t
+i
+w
+s
+e
+i
+t
+u
+d
+ 
+r
+i
+e
+h
+t
+ 
+s
+m
+r
+o
+f
+r
+e
+p
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+ 
+
+s
+r
+e
+s
+U
+
+.
+
+ 
+
+i
+
+o
+s
+g
+n
+o
+d
+ 
+r
+o
+f
+ 
+n
+o
+s
+a
+e
+r
+ 
+e
+t
+a
+m
+
+i
+t
+i
+g
+e
+
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+e
+v
+a
+h
+y
+e
+h
+t
+ 
+n
+e
+h
+w
+n
+e
+v
+e
+k
+r
+o
+w
+s
+s
+m
+y
+e
+r
+a
+r
+ 
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+l
+
+i
+
+ 
+
+s
+r
+e
+s
+U
+
+ 
+
+i
+
+i
+
+s
+n
+o
+s
+c
+e
+d
+ 
+r
+o
+a
+m
+
+j
+
+ 
+
+ 
+t
+u
+o
+b
+a
+d
+e
+m
+r
+o
+f
+n
+
+ 
+
+ 
+
+i
+ 
+t
+p
+e
+k
+e
+r
+a
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+U
+
+ 
+
+j
+
+.
+t
+c
+e
+o
+r
+p
+e
+h
+t
+ 
+g
+n
+n
+r
+e
+c
+n
+o
+c
+
+i
+
+.
+
+i
+
+l
+
+j
+
+g
+n
+n
+n
+a
+p
+ 
+t
+c
+e
+o
+r
+p
+o
+t
+ 
+n
+o
+i
+t
+n
+e
+t
+t
+a
+
+ 
+
+ 
+l
+
+ 
+
+i
+
+a
+c
+e
+p
+s
+y
+a
+p
+s
+r
+e
+s
+U
+
+ 
+
+.
+
+l
+
+s
+e
+u
+d
+e
+h
+c
+s
+d
+n
+a
+
+ 
+
+ 
+
+ 
+
+l
+
+j
+
+s
+a
+o
+g
+ 
+t
+c
+e
+o
+r
+p
+ 
+f
+o
+s
+n
+o
+i
+t
+i
+n
+i
+f
+e
+d
+e
+h
+t
+ 
+n
+
+ 
+
+i
+ 
+
+ 
+
+i
+
+e
+t
+a
+p
+c
+i
+t
+r
+a
+p
+y
+e
+v
+i
+t
+c
+a
+s
+r
+e
+s
+U
+
+l
+
+ 
+
+8
+6
+8
+0
+
+.
+
+.
+
+e
+r
+a
+c
+
+ 
+l
+
+ 
+
+i
+
+a
+c
+e
+p
+s
+-
+a
+r
+t
+x
+e
+h
+t
+i
+w
+s
+e
+i
+t
+u
+d
+b
+o
+
+ 
+
+ 
+
+j
+ 
+r
+i
+e
+h
+t
+ 
+
+ 
+
+m
+r
+o
+f
+r
+e
+p
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+U
+
+8
+3
+8
+0
+
+.
+
+5
+7
+8
+0
+
+.
+
+3
+1
+9
+0
+
+.
+
+4
+9
+8
+0
+
+.
+
+7
+3
+8
+0
+
+.
+
+8
+2
+8
+0
+
+.
+
+7
+5
+7
+0
+
+.
+
+0
+2
+8
+0
+
+.
+
+ 
+
+l
+
+g
+n
+i
+t
+e
+p
+m
+o
+c
+ 
+r
+o
+f
+ 
+s
+e
+n
+
+i
+l
+
+ 
+
+d
+a
+e
+d
+ 
+t
+a
+e
+b
+ 
+r
+o
+ 
+t
+e
+e
+m
+s
+y
+a
+w
+a
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+l
+
+ 
+
+s
+r
+e
+s
+U
+
+.
+
+i
+
+d
+e
+n
+g
+s
+s
+a
+k
+r
+o
+w
+
+ 
+
+ 
+r
+e
+h
+t
+a
+r
+ 
+,
+
+ 
+
+ 
+
+ 
+
+i
+
+i
+
+s
+t
+n
+e
+m
+e
+v
+e
+h
+c
+a
+n
+a
+m
+e
+h
+t
+ 
+n
+o
+s
+u
+c
+o
+f
+ 
+s
+y
+a
+w
+a
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+l
+
+ 
+
+s
+r
+e
+s
+U
+
+.
+
+ 
+
+e
+r
+a
+y
+e
+h
+t
+ 
+n
+a
+h
+t
+ 
+r
+e
+g
+g
+b
+s
+m
+e
+b
+o
+r
+p
+e
+k
+a
+m
+
+l
+
+i
+
+ 
+
+ 
+
+ 
+
+ 
+r
+e
+v
+e
+n
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+U
+
+.
+
+s
+r
+e
+t
+t
+a
+m
+
+ 
+l
+
+i
+
+a
+v
+i
+r
+t
+
+t
+i
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+e
+z
+c
+i
+t
+i
+r
+c
+s
+r
+e
+s
+u
+d
+n
+e
+ 
+r
+e
+h
+t
+o
+n
+e
+h
+w
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+d
+n
+e
+f
+e
+D
+
+ 
+
+ 
+
+.
+
+s
+e
+k
+a
+t
+s
+m
+
+i
+
+ 
+
+i
+
+ 
+r
+o
+n
+m
+e
+h
+t
+ 
+n
+a
+h
+t
+
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+e
+z
+
+ 
+
+i
+l
+i
+t
+u
+o
+t
+ 
+y
+
+ 
+
+l
+i
+
+ 
+
+m
+a
+f
+ 
+d
+n
+a
+s
+d
+n
+e
+i
+r
+f
+ 
+e
+g
+a
+r
+u
+o
+c
+n
+E
+
+s
+r
+e
+s
+u
+
+ 
+l
+
+ 
+
+ 
+
+ 
+
+i
+
+a
+i
+t
+n
+e
+t
+o
+p
+o
+t
+ 
+s
+e
+c
+v
+r
+e
+s
+d
+n
+a
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+e
+t
+o
+m
+o
+r
+p
+y
+e
+v
+i
+t
+c
+A
+
+l
+
+ 
+
+ 
+
+c
+
+i
+l
+
+b
+u
+p
+n
+
+ 
+
+i
+ 
+
+ 
+
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+g
+n
+i
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+n
+e
+h
+w
+e
+d
+i
+r
+p
+w
+o
+h
+S
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+t
+u
+o
+b
+a
+g
+n
+n
+a
+p
+m
+o
+c
+e
+m
+
+l
+
+i
+
+ 
+
+i
+t
+ 
+f
+o
+ 
+t
+o
+
+l
+ 
+
+ 
+
+ 
+
+a
+d
+n
+e
+p
+s
+ 
+r
+e
+v
+e
+n
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+U
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+4
+
+e
+c
+n
+a
+n
+r
+e
+v
+o
+G
+ 
+t
+c
+e
+o
+r
+P
+n
+
+j
+
+ 
+
+i
+ 
+t
+n
+e
+m
+e
+v
+o
+v
+n
+
+l
+
+I
+ 
+:
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+)
+9
+9
+8
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+9
+6
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+0
+3
+9
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+)
+5
+9
+7
+0
+α
+
+)
+9
+5
+8
+0
+α
+
+.
+
+:
+
+.
+
+:
+
+ 
+;
+
+ 
+;
+
+.
+
+6
+0
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+5
+0
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+.
+
+3
+3
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+0
+7
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+)
+7
+7
+8
+0
+α
+
+.
+
+:
+
+n
+o
+i
+t
+a
+c
+d
+e
+D
+
+i
+
+ 
+l
+
+a
+n
+o
+s
+r
+e
+P
+
+ 
+:
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+ 
+;
+
+.
+
+1
+3
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+6
+1
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+)
+8
+0
+8
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+5
+3
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+4
+7
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+)
+4
+7
+8
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+9
+9
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+3
+2
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+e
+c
+n
+a
+r
+e
+o
+T
+ 
+:
+
+l
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+)
+8
+5
+8
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+9
+7
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+4
+1
+9
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+y
+c
+a
+c
+o
+v
+d
+A
+
+ 
+:
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+)
+6
+2
+8
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+8
+5
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+5
+8
+8
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+)
+1
+3
+7
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+1
+6
+5
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+4
+3
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+i
+
+l
+
+l
+
+g
+n
+v
+o
+S
+m
+e
+b
+o
+r
+P
+d
+e
+r
+a
+h
+S
+
+ 
+
+)
+5
+2
+9
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+7
+1
+8
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+7
+4
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+ 
+:
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+
+r
+e
+p
+o
+l
+e
+v
+e
+D
+S
+I
+
+ 
+
+C
+T
+I
+
+i
+
+s
+g
+n
+d
+a
+o
+L
+
+3
+7
+5
+0
+
+.
+
+1
+2
+7
+0
+
+.
+
+7
+8
+6
+0
+
+.
+
+4
+6
+7
+0
+
+.
+
+7
+2
+7
+0
+
+.
+
+0
+2
+7
+0
+
+.
+
+8
+5
+6
+0
+
+.
+
+4
+6
+6
+0
+
+.
+
+3
+4
+5
+0
+
+.
+
+9
+3
+7
+0
+
+.
+
+6
+5
+8
+0
+
+.
+
+5
+3
+8
+0
+
+.
+
+6
+8
+8
+0
+
+.
+
+1
+6
+8
+0
+
+.
+
+6
+6
+8
+0
+
+.
+
+4
+2
+8
+0
+
+.
+
+7
+6
+7
+0
+
+.
+
+1
+5
+6
+0
+
+.
+
+3
+7
+5
+0
+
+.
+
+C
+T
+I
+
+6
+1
+7
+0
+
+.
+
+4
+1
+7
+0
+
+.
+
+2
+0
+7
+0
+
+.
+
+2
+4
+7
+0
+
+.
+
+0
+3
+6
+0
+
+.
+
+3
+5
+8
+0
+
+.
+
+8
+7
+7
+0
+
+.
+
+4
+0
+8
+0
+
+.
+
+3
+2
+8
+0
+
+.
+
+8
+5
+8
+0
+
+.
+
+3
+2
+8
+0
+
+.
+
+r
+e
+s
+U
+
+i
+
+s
+g
+n
+d
+a
+o
+L
+
+s
+m
+e
+t
+I
+
+8
+3
+7
+0
+
+.
+
+6
+5
+8
+0
+
+.
+
+5
+5
+8
+0
+
+.
+
+1
+5
+8
+0
+
+.
+
+7
+3
+8
+0
+
+.
+
+4
+4
+7
+0
+
+.
+
+8
+1
+9
+0
+
+.
+
+8
+6
+8
+0
+
+.
+
+5
+8
+8
+0
+
+.
+
+2
+2
+9
+0
+
+.
+
+9
+3
+9
+0
+
+.
+
+2
+2
+9
+0
+
+.
+
+ 
+
+s
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+’
+
+s
+r
+e
+s
+u
+e
+h
+t
+ 
+,
+
+ 
+
+ 
+
+ 
+
+s
+e
+s
+i
+r
+a
+n
+o
+i
+t
+a
+u
+t
+i
+s
+d
+e
+t
+c
+e
+p
+x
+e
+n
+u
+e
+m
+o
+s
+n
+e
+h
+W
+
+ 
+
+ 
+
+.
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+ 
+s
+h
+t
+ 
+f
+o
+
+i
+
+l
+
+ 
+l
+
+ 
+
+i
+
+a
+n
+g
+i
+r
+o
+e
+h
+t
+ 
+o
+t
+ 
+r
+e
+h
+t
+o
+h
+c
+a
+e
+d
+o
+h
+n
+a
+h
+t
+ 
+l
+
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+e
+d
+w
+e
+n
+a
+ 
+t
+u
+o
+k
+r
+o
+w
+
+ 
+
+ 
+r
+e
+h
+t
+a
+r
+ 
+d
+u
+o
+w
+
+l
+
+.
+
+s
+m
+r
+e
+t
+
+ 
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+a
+s
+
+ 
+
+ 
+
+i
+ 
+
+s
+e
+g
+n
+a
+h
+c
+ 
+r
+o
+f
+ 
+s
+t
+s
+e
+u
+q
+e
+r
+ 
+o
+t
+ 
+e
+s
+n
+o
+p
+s
+e
+r
+ 
+n
+
+i
+ 
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+F
+
+l
+
+ 
+,
+
+ 
+
+ 
+
+l
+
+l
+
+s
+r
+e
+p
+o
+e
+v
+e
+d
+e
+h
+t
+ 
+y
+b
+ 
+t
+u
+o
+d
+e
+u
+r
+ 
+t
+o
+n
+e
+r
+a
+s
+n
+o
+i
+t
+i
+d
+n
+o
+c
+e
+m
+o
+s
+n
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+ 
+
+s
+e
+g
+n
+a
+h
+C
+
+ 
+
+ 
+
+.
+r
+u
+c
+c
+o
+s
+t
+n
+e
+v
+e
+d
+e
+t
+c
+e
+p
+x
+e
+n
+u
+ 
+f
+i
+ 
+
+s
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+l
+
+d
+e
+t
+e
+p
+m
+o
+c
+k
+r
+o
+w
+
+ 
+
+ 
+f
+o
+ 
+t
+n
+u
+o
+m
+a
+d
+e
+t
+c
+e
+p
+x
+E
+
+ 
+
+l
+
+d
+e
+t
+e
+p
+m
+o
+c
+k
+r
+o
+w
+
+ 
+
+ 
+
+ 
+f
+o
+y
+t
+i
+l
+
+ 
+
+a
+u
+q
+h
+g
+H
+
+i
+
+ 
+
+l
+
+e
+u
+d
+e
+h
+c
+s
+o
+t
+ 
+e
+c
+n
+e
+r
+e
+h
+d
+A
+
+ 
+
+t
+e
+g
+d
+u
+b
+o
+t
+ 
+e
+c
+n
+e
+r
+e
+h
+d
+A
+
+l
+
+j
+
+s
+a
+o
+g
+ 
+t
+c
+e
+o
+r
+p
+ 
+t
+e
+e
+m
+o
+t
+ 
+y
+t
+i
+l
+i
+
+ 
+
+b
+A
+
+.
+
+ 
+
+y
+r
+a
+s
+s
+e
+c
+e
+n
+d
+e
+r
+e
+d
+s
+n
+o
+c
+n
+e
+h
+w
+
+i
+
+ 
+
+.
+
+l
+
+e
+b
+a
+
+i
+l
+
+e
+r
+ 
+s
+
+i
+ 
+
+l
+
+d
+e
+p
+o
+e
+v
+e
+d
+n
+o
+i
+t
+a
+c
+
+ 
+
+i
+l
+
+p
+p
+a
+e
+h
+T
+
+ 
+
+.
+
+ 
+
+i
+
+i
+
+n
+a
+t
+n
+a
+m
+o
+t
+ 
+y
+s
+a
+e
+s
+
+ 
+
+i
+ 
+
+n
+o
+i
+t
+a
+c
+
+i
+l
+
+p
+p
+a
+e
+h
+T
+
+ 
+
+.
+
+e
+m
+
+i
+t
+ 
+e
+s
+n
+o
+p
+s
+e
+r
+ 
+o
+t
+ 
+t
+c
+e
+p
+s
+e
+r
+ 
+h
+t
+i
+w
+s
+n
+o
+i
+t
+a
+t
+c
+e
+p
+x
+e
+
+ 
+
+ 
+’
+
+ 
+
+s
+r
+e
+s
+u
+s
+t
+e
+e
+m
+m
+e
+t
+s
+y
+s
+e
+h
+T
+
+ 
+
+ 
+
+.
+
+s
+t
+n
+e
+m
+e
+r
+i
+u
+q
+e
+r
+
+ 
+l
+
+a
+n
+o
+i
+t
+c
+n
+u
+f
+ 
+d
+e
+d
+n
+e
+t
+n
+
+i
+ 
+
+ 
+
+ 
+
+e
+h
+t
+ 
+s
+t
+e
+e
+m
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+t
+a
+h
+t
+ 
+e
+v
+e
+c
+r
+e
+p
+s
+r
+e
+s
+u
+e
+h
+T
+
+i
+
+ 
+
+ 
+
+.
+
+i
+
+h
+g
+h
+s
+
+ 
+
+i
+ 
+
+n
+o
+i
+t
+a
+c
+
+i
+l
+
+ 
+
+l
+
+p
+p
+a
+d
+e
+p
+o
+e
+v
+e
+d
+e
+h
+t
+ 
+f
+o
+y
+t
+i
+l
+
+ 
+
+ 
+
+a
+u
+q
+
+ 
+l
+l
+
+a
+r
+e
+v
+o
+e
+h
+T
+
+ 
+
+.
+
+s
+n
+o
+i
+t
+a
+t
+c
+e
+p
+x
+e
+
+ 
+’
+
+ 
+
+s
+r
+e
+s
+u
+s
+t
+e
+e
+m
+
+ 
+
+j
+
+i
+
+ 
+t
+c
+e
+o
+r
+p
+s
+h
+t
+ 
+f
+o
+m
+e
+t
+s
+y
+s
+e
+h
+T
+
+ 
+
+ 
+
+.
+
+ 
+
+ 
+
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+h
+t
+i
+w
+d
+e
+i
+f
+s
+i
+t
+a
+s
+e
+r
+a
+s
+r
+e
+s
+u
+d
+n
+e
+
+ 
+
+ 
+
+ 
+
+ 
+,
+l
+l
+
+a
+r
+e
+v
+O
+
+.
+
+ 
+
+ 
+
+s
+u
+t
+a
+t
+s
+m
+e
+t
+s
+y
+s
+e
+h
+t
+ 
+h
+t
+i
+w
+d
+e
+i
+f
+s
+i
+t
+a
+s
+e
+r
+a
+s
+r
+e
+s
+u
+d
+n
+E
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+r
+i
+e
+h
+t
+ 
+g
+n
+y
+f
+i
+d
+o
+m
+o
+t
+ 
+n
+e
+p
+o
+e
+b
+
+ 
+
+ 
+
+ 
+l
+l
+i
+
+ 
+
+ 
+
+w
+s
+e
+i
+t
+r
+a
+p
+e
+h
+t
+ 
+t
+a
+h
+t
+ 
+d
+e
+t
+c
+e
+p
+x
+e
+s
+
+ 
+
+i
+ 
+t
+I
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+n
+o
+i
+t
+a
+d
+o
+m
+m
+o
+c
+c
+A
+
+)
+4
+4
+8
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+3
+8
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+6
+9
+8
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+ 
+:
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+)
+9
+4
+8
+0
+α
+
+:
+
+.
+
+ 
+;
+
+.
+
+0
+9
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+9
+9
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+ 
+t
+c
+e
+o
+r
+P
+
+j
+
+)
+4
+5
+8
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+6
+3
+6
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+:
+
+7
+9
+8
+0
+R
+C
+(
+v
+e
+D
+S
+I
+
+ 
+
+)
+5
+0
+9
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+7
+2
+7
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+0
+3
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+ 
+r
+e
+s
+U
+
+)
+9
+1
+9
+0
+α
+
+.
+
+:
+
+ 
+;
+
+.
+
+1
+6
+8
+0
+E
+V
+A
+
+:
+
+ 
+;
+
+.
+
+9
+4
+9
+0
+R
+C
+(
+
+:
+
+ 
+r
+e
+s
+U
+
+y
+t
+i
+l
+
+ 
+
+a
+u
+Q
+m
+e
+t
+s
+y
+S
+
+l
+
+n
+o
+i
+t
+a
+e
+r
+r
+o
+C
+
+ 
+l
+
+a
+t
+o
+t
+-
+
+m
+e
+t
+I
+
+l
+
+—
+C
+T
+I
+ 
+;
+r
+e
+p
+o
+e
+v
+e
+D
+S
+I
+—
+v
+e
+D
+S
+I
+ 
+;
+
+ 
+
+y
+t
+i
+l
+i
+
+b
+a
+
+i
+l
+
+ 
+
+e
+R
+e
+t
+i
+s
+o
+p
+m
+o
+C
+—
+R
+C
+
+ 
+;
+
+ 
+
+d
+e
+t
+c
+a
+r
+t
+x
+E
+e
+c
+n
+a
+i
+r
+a
+V
+e
+g
+a
+r
+e
+v
+A
+—
+E
+V
+A
+
+ 
+
+ 
+;
+
+’
+
+ 
+
+l
+
+a
+h
+p
+a
+s
+h
+c
+a
+b
+n
+o
+r
+C
+—
+␣
+
+.
+
+e
+t
+o
+N
+
+.
+
+i
+
+l
+
+s
+s
+y
+a
+n
+a
+ 
+r
+o
+t
+c
+a
+f
+ 
+f
+o
+ 
+t
+l
+u
+s
+e
+r
+ 
+e
+h
+T
+:
+
+ 
+
+3
+e
+l
+b
+a
+T
+
+
+P
+P
+
+T
+S
+U
+
+Q
+S
+
+P
+O
+C
+
+C
+A
+
+D
+A
+
+O
+T
+
+D
+P
+
+P
+I
+
+P
+S
+
+C
+O
+
+C
+S
+C
+
+C
+S
+R
+
+C
+S
+S
+
+4
+M
+
+ 
+
+x
+i
+r
+t
+a
+M
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+0
+8
+0
+
+.
+
+3
+9
+0
+
+.
+
+5
+3
+0
+
+.
+
+5
+8
+0
+
+.
+
+2
+8
+0
+
+.
+
+7
+3
+0
+
+.
+
+—
+
+8
+5
+0
+
+.
+
+0
+5
+0
+
+.
+
+1
+5
+0
+
+.
+
+3
+8
+0
+
+.
+
+1
+7
+0
+
+.
+
+2
+4
+0
+
+.
+
+0
+4
+0
+
+.
+
+4
+3
+0
+
+.
+
+*
+5
+7
+0
+
+.
+
+3
+4
+0
+
+.
+
+2
+7
+0
+
+.
+
+1
+5
+0
+
+.
+
+2
+4
+0
+
+.
+
+5
+3
+0
+
+.
+
+9
+8
+0
+
+.
+
+2
+5
+0
+
+.
+
+9
+5
+0
+
+.
+
+7
+7
+0
+
+.
+
+6
+3
+0
+
+.
+
+1
+3
+0
+
+.
+
+0
+5
+0
+
+.
+
+4
+8
+0
+
+.
+
+6
+6
+0
+
+.
+
+0
+5
+0
+
+.
+
+8
+4
+0
+
+.
+
+4
+8
+0
+
+.
+
+9
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+1
+4
+0
+
+.
+
+5
+8
+0
+
+.
+
+6
+6
+0
+
+.
+
+4
+4
+0
+
+.
+
+0
+6
+0
+
+.
+
+3
+3
+0
+
+.
+
+7
+7
+0
+
+.
+
+5
+5
+0
+
+.
+
+9
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+0
+9
+0
+
+.
+
+8
+5
+0
+
+.
+
+0
+7
+0
+
+.
+
+1
+6
+0
+
+.
+
+0
+5
+0
+
+.
+
+9
+5
+0
+
+.
+
+7
+8
+0
+
+.
+
+3
+4
+0
+
+.
+
+7
+3
+0
+
+.
+
+2
+4
+0
+
+.
+
+7
+8
+0
+
+.
+
+7
+7
+0
+
+.
+
+8
+6
+0
+
+.
+
+8
+6
+0
+
+.
+
+9
+5
+0
+
+.
+
+1
+6
+0
+
+.
+
+0
+6
+0
+
+.
+
+9
+8
+0
+
+.
+
+8
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+1
+8
+0
+
+.
+
+5
+6
+0
+
+.
+
+7
+6
+0
+
+.
+
+7
+5
+0
+
+.
+
+4
+6
+0
+
+.
+
+3
+5
+0
+
+.
+
+1
+5
+0
+
+.
+
+5
+5
+0
+
+.
+
+4
+7
+0
+
+.
+
+5
+4
+0
+
+.
+
+8
+3
+0
+
+.
+
+1
+5
+0
+
+.
+
+9
+8
+0
+
+.
+
+0
+7
+0
+
+.
+
+1
+7
+0
+
+.
+
+2
+7
+0
+
+.
+
+6
+4
+0
+
+.
+
+7
+5
+0
+
+.
+
+1
+6
+0
+
+.
+
+3
+5
+0
+
+.
+
+3
+6
+0
+
+.
+
+6
+7
+0
+
+.
+
+2
+4
+0
+
+.
+
+4
+3
+0
+
+.
+
+4
+4
+0
+
+.
+
+7
+8
+0
+
+.
+
+7
+6
+0
+
+.
+
+8
+5
+0
+
+.
+
+7
+6
+0
+
+.
+
+4
+6
+0
+
+.
+
+6
+5
+0
+
+.
+
+9
+4
+0
+
+.
+
+5
+4
+0
+
+.
+
+0
+5
+0
+
+.
+
+3
+5
+0
+
+.
+
+9
+6
+0
+
+.
+
+9
+4
+0
+
+.
+
+4
+4
+0
+
+.
+
+8
+4
+0
+
+.
+
+.
+
+6
+0
+0
+⫺
+
+9
+0
+0
+
+.
+
+1
+9
+0
+
+.
+
+7
+0
+0
+
+.
+
+3
+6
+0
+
+.
+
+6
+6
+0
+
+.
+
+1
+3
+0
+
+.
+
+6
+1
+2
+
+.
+
+9
+3
+0
+
+.
+
+6
+7
+2
+
+.
+
+4
+6
+1
+
+.
+
+.
+
+0
+4
+0
+⫺
+
+.
+
+2
+7
+0
+⫺
+
+6
+2
+0
+
+.
+
+3
+M
+
+.
+
+4
+2
+0
+⫺
+
+.
+
+2
+0
+0
+⫺
+
+2
+6
+0
+
+.
+
+6
+0
+0
+
+.
+
+.
+
+3
+0
+0
+⫺
+
+3
+0
+0
+0
+⫺
+
+.
+
+2
+0
+0
+0
+⫺
+
+.
+
+5
+6
+0
+
+.
+
+1
+3
+0
+
+.
+
+.
+
+6
+4
+0
+⫺
+
+3
+6
+0
+
+.
+
+7
+0
+0
+
+.
+
+4
+3
+0
+
+.
+
+.
+
+1
+2
+0
+⫺
+
+d
+r
+a
+d
+n
+a
+t
+S
+
+n
+o
+i
+t
+a
+i
+v
+e
+D
+
+n
+a
+e
+M
+
+1
+5
+0
+
+.
+
+8
+4
+0
+
+.
+
+6
+4
+0
+
+.
+
+5
+4
+0
+
+.
+
+1
+5
+0
+
+.
+
+1
+5
+0
+
+.
+
+6
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+3
+4
+0
+
+.
+
+6
+3
+0
+
+.
+
+0
+6
+0
+
+.
+
+3
+6
+0
+
+.
+
+3
+6
+0
+
+.
+
+1
+1
+4
+
+.
+
+8
+0
+4
+
+.
+
+5
+6
+3
+
+.
+
+3
+0
+4
+
+.
+
+6
+8
+3
+
+.
+
+0
+6
+3
+
+.
+
+6
+7
+3
+
+.
+
+4
+4
+3
+
+.
+
+2
+7
+3
+
+.
+
+7
+8
+3
+
+.
+
+9
+6
+3
+
+.
+
+0
+8
+3
+
+.
+
+2
+7
+3
+
+.
+
+3
+8
+3
+
+.
+
+C
+S
+S
+
+C
+S
+R
+
+C
+S
+C
+
+C
+O
+
+P
+S
+
+P
+I
+
+D
+P
+
+O
+T
+
+D
+A
+
+C
+A
+
+P
+O
+C
+
+Q
+S
+
+T
+S
+U
+
+P
+P
+
+i
+
+-
+a
+c
+d
+e
+d
+
+ 
+l
+
+a
+n
+o
+s
+r
+e
+p
+—
+D
+P
+
+ 
+;
+
+ 
+
+s
+s
+e
+n
+n
+e
+p
+o
+n
+o
+i
+t
+a
+c
+n
+u
+m
+m
+o
+c
+—
+C
+O
+
+i
+
+ 
+;
+t
+n
+e
+m
+n
+r
+e
+v
+o
+g
+ 
+t
+c
+e
+o
+r
+p
+n
+
+j
+
+ 
+
+l
+
+i
+ 
+t
+n
+e
+m
+e
+v
+o
+v
+n
+—
+G
+P
+
+i
+
+I
+ 
+;
+l
+
+a
+t
+i
+p
+a
+c
+
+ 
+l
+
+ 
+
+i
+
+a
+c
+o
+s
+e
+v
+i
+t
+i
+n
+g
+o
+c
+—
+C
+S
+C
+
+ 
+;
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+c
+—
+P
+O
+C
+
+ 
+;
+
+y
+c
+a
+c
+o
+v
+d
+a
+—
+D
+A
+
+ 
+;
+
+n
+o
+i
+t
+a
+d
+o
+m
+m
+o
+c
+c
+a
+—
+C
+A
+
+.
+
+e
+t
+o
+N
+
+.
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+ 
+r
+e
+s
+u
+—
+T
+S
+U
+
+ 
+;
+
+l
+
+e
+c
+n
+a
+r
+e
+o
+t
+—
+O
+T
+ 
+;
+l
+
+a
+t
+i
+p
+a
+c
+
+ 
+l
+
+i
+
+a
+c
+o
+s
+
+ 
+l
+
+a
+r
+u
+t
+c
+u
+r
+t
+s
+—
+C
+S
+S
+
+ 
+;
+
+y
+t
+i
+l
+
+ 
+
+a
+u
+q
+m
+e
+t
+s
+y
+s
+—
+Q
+S
+
+ 
+;
+
+ 
+
+i
+
+l
+
+l
+
+g
+n
+v
+o
+s
+m
+e
+b
+o
+r
+p
+d
+e
+r
+a
+h
+s
+—
+P
+S
+
+ 
+
+ 
+;
+l
+
+a
+t
+i
+p
+a
+c
+
+ 
+l
+
+i
+
+a
+c
+o
+s
+
+ 
+l
+
+l
+
+a
+n
+o
+i
+t
+a
+e
+r
+—
+C
+S
+R
+
+ 
+;
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+ 
+t
+c
+e
+o
+r
+p
+—
+P
+P
+
+j
+
+ 
+;
+
+n
+o
+i
+t
+
+.
+
+ 
+
+s
+r
+e
+b
+m
+u
+n
+e
+c
+a
+f
+d
+o
+b
+n
+
+l
+
+ 
+
+i
+ 
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+l
+
+l
+
+a
+n
+o
+g
+a
+d
+e
+h
+t
+ 
+g
+n
+o
+a
+s
+r
+a
+e
+p
+p
+a
+s
+e
+u
+a
+v
+)
+E
+V
+A
+(
+d
+e
+t
+c
+a
+r
+t
+x
+e
+e
+c
+n
+a
+i
+r
+a
+v
+e
+g
+a
+r
+e
+v
+a
+e
+h
+t
+ 
+f
+o
+ 
+t
+o
+o
+r
+ 
+e
+r
+a
+u
+q
+s
+e
+h
+T
+—
+e
+c
+a
+f
+d
+o
+B
+
+l
+
+ 
+
+ 
+
+ 
+
+.
+
+ 
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+:
+
+ 
+
+4
+e
+l
+b
+a
+T
+
+
+Antecedents and Consequences of User Coproduction in Information System
+
+S
+R
+E
+P
+A
+P
+
+t 
+e
+g
+d
+u
+B
+
+ 
+e
+z
+i
+S
+
+4
+0
+.
+0
+−
+
+*
+9
+0
+.
+0
+−
+
+2
+0
+.
+0
+−
+
+7
+0
+.
+0
+−
+
+*
+4
+1
+.
+0
+−
+
+2
+0
+.
+0
+−
+
+1
+0
+.
+0
+−
+
+5
+0
+.
+0
+−
+
+n 
+o
+i
+t
+a
+r
+u
+D
+
+*
+0
+1
+.
+0
+−
+
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+l
+
+a
+u
+Q
+
+3
+4
+3
+
+.
+
+ 
+
+0
+=
+2
+R
+
+ 
+
+*
+*
+0
+6
+0
+
+.
+
+*
+*
+3
+3
+0
+
+.
+
+l
+
+a
+n
+o
+i
+t
+a
+e
+R
+
+l
+
+l
+
+i
+
+a
+c
+o
+S
+
+l
+
+a
+t
+i
+p
+a
+C
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+
+4
+8
+2
+
+.
+
+ 
+
+0
+=
+2
+R
+
+ 
+
+j
+
+t
+c
+e
+o
+r
+P
+
+*
+*
+2
+5
+0
+
+.
+
+*
+*
+6
+3
+0
+
+.
+
+e
+v
+i
+t
+i
+n
+g
+o
+C
+
+l
+
+i
+
+a
+c
+o
+S
+
+l
+
+a
+t
+i
+p
+a
+C
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+S
+
+8
+6
+2
+
+.
+
+ 
+
+0
+=
+2
+R
+
+ 
+
+r
+e
+s
+U
+
+*
+*
+2
+5
+0
+
+.
+
+r
+e
+s
+U
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+o
+C
+
+.
+
+7
+9
+6
+0
+=
+2
+R
+
+ 
+
+ 
+
+*
+*
+6
+2
+0
+
+.
+
+l
+
+a
+r
+u
+t
+c
+u
+r
+t
+S
+
+l
+
+a
+t
+i
+p
+a
+C
+
+i
+
+ 
+l
+a
+c
+o
+S
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+ 
+l
+
+o
+r
+t
+n
+o
+C
+
+r 
+e
+d
+r
+o
+d
+n
+2
+
+ 
+
+ 
+
+1
+0
+
+.
+
+ 
+
+ 
+
+0
+<
+p
+ 
+*
+*
+ 
+;
+
+.
+
+ 
+
+1
+0
+<
+p
+*
+
+ 
+
+.
+
+i
+
+s
+t
+n
+e
+c
+i
+f
+f
+e
+o
+c
+h
+t
+a
+p
+d
+n
+a
+
+ 
+
+ 
+
+ 
+l
+
+e
+d
+o
+m
+
+ 
+l
+
+a
+r
+u
+t
+c
+u
+r
+t
+S
+:
+
+ 
+
+2
+e
+r
+u
+g
+i
+F
+
+82
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+
+user  coproduction,  its  impact  is  less
+than  that  of  cognitive  and  relational
+social  capital.  In  other  words,  shared
+understanding  and  trust  are  more
+important  than  interaction  frequency.
+Last,  three  forms  of  social  capital  are
+critical for user coproduction, in terms
+of  variance  explained;  almost  a  70%
+variance of coproduction is explained.
+
+Limitations
+Although all proposed hypotheses were
+confirmed  in  this  study,  the  research  is
+not  without  limitations.  First,  regional
+data  were  collected  from  Taiwan  only.
+Although social capital theory is a well-
+developed  concept  with  a  degree  of
+validity,  extending  our  results  to  other
+areas should be done with care, because
+the weightings of different types of social
+capital might vary, depending on the cir-
+cumstances. In addition, it is reasonable
+to  believe  that  the  importance  of  three
+types  of  social  capital  may  vary  under
+different  conditions.  Second,  a  cross-
+sectional  study  was  used  to  verify  the
+proposed relationships. In our research
+setting,  user  representatives  and  IS
+developers  were  asked  to  respond  to
+each  question  after  completion  of  the
+project.  Because  social  capital  may  be
+dynamic, 
+longitudinal  data  might 
+be  required  to  understand  the  relative
+importance of each type of social capital
+at  different  stages  of  the  project. Third,
+to limit our instrument in a manageable
+manner, we included only one variable in
+each  type  of  social  capital.  Future
+research may extend the current study by
+including other potential variables (such
+as  identification,  norms,  or  shared  lan-
+guage)  mentioned  by  Nahapiet  and
+Ghoshal  (1998).  Finally,  we  included
+only  one  user  representative  and  one
+developer  for  each  project.  Because
+more than one user may participate in a
+single project, future studies are encour-
+aged to collect data from more than one
+respondent  from  each  side  to  truly
+reflect actual coproduction.
+Conclusions
+The purpose of the research has been to
+(1)  examine  the  influence  of  user
+
+coproduction  on  different  project  out-
+comes (including project performance,
+system  quality,  and  user  satisfaction);
+and  (2)  explore  the  critical  determi-
+nants  of  coproduction  based  on  social
+capital theory. A total of 103 data pairs
+from  both  developers  and  user  repre-
+sentatives  on  the  same  project  in
+Taiwan  confirmed  our  proposed
+hypotheses.  The  results  indicate  that
+user  coproduction  can  effectively  pro-
+mote  project  outcomes  and  that  all
+three types of social capital have effects
+on coproduction. This finding produces
+several 
+for  academic
+researchers  and  practitioners,  as  indi-
+cated in the next section.
+
+implications 
+
+Academic Implications
+Although  user  participation  has  been
+widely  studied,  this  is  one  of  the  few
+studies  based  on  service-dominant
+logic used to understand the important
+roles of user representatives in ISD proj-
+ects. We successfully demonstrated that
+user  coproduction  can  lead  to  higher
+project  performance,  better  system
+quality,  and  higher  levels  of  user  satis-
+faction. Those benefits are obtained by
+user  representatives  acting  as  copro-
+ducers  who  are  able  to  communicate
+openly,  solve  problems  jointly,  tolerate
+project glitches, be dedicated to the devel-
+opment  process,  adapt  to  the  changing
+environment, advocate the new system to
+potential users, and be involved in proj-
+ect governance. Our results imply that,
+rather  than  demonstrating  passive
+engagement  in  the  system  develop-
+ment  process,  users  should  regard
+themselves as service receivers and act
+as  active  coproducers  to  ensure  that
+value is maximized.
+
+For  social  capital  research,  this
+study  provides  further  empirical  evi-
+dence  to  show  how  social  capital
+between users and developers encour-
+ages  users  to  adopt  coproduction
+behaviors. Although the importance of
+social  capital  on  intellectual  capital
+generation  or  resource  exchange  has
+been explored in past studies (e.g., Tsai
+& Ghoshal, 1998), ours is one of the few
+
+studies to apply this concept in the ISD
+context.  The  results  confirmed  our
+hypotheses that social capital between
+user  representatives  and  IS  developers
+is  a  key  antecedent  of  user  coproduc-
+tion.  Although  the  importance  of  each
+individual  social  capital  has  been
+emphasized  by  different  studies,  the
+significance  of  all  three  types  of  social
+capital also suggests that future studies
+should  take  all  types  of  social  capital
+into  consideration  when  constructing
+research models. We contribute to this
+research  stream  by  proposing  a  com-
+prehensive  model  to  include  all  three
+forms of social capital and by illustrat-
+ing  the  relative  importance  of  each
+social  capital  for  user  coproduction.
+Because  ISD  is  knowledge  intensive
+and the final outcomes of such projects
+are determined by how well user repre-
+sentatives  and  developers  incorporate
+their  own  domain  knowledge  to  craft
+the final product, it is hardly surprising
+that  cognitive  social  capital  has  been
+found  to  have  the  greatest  weighting,
+followed by relational social capital. We
+also  suspect  that  the  relative  impor-
+tance of these three types of social cap-
+ital  varies  in  different  contexts.  Future
+research  is  encouraged  to  clarify  this
+issue by introducing different modera-
+tors in order to understand the relative
+importance of each social capital under
+different conditions.
+
+For  user  participation  studies,  we
+followed  the  concept  proposed  by
+Bettencourt  et  al.  (2002)  and  provided
+empirical  evidence  to  confirm  the
+importance  of  coproduction.  In  addi-
+tion  to  demonstrating  its  impact  on
+project outcomes, we explored possible
+antecedents  based  on  social  capital
+theory. Specifically, we filled the gap in
+the extant literature by illustrating that
+users  engaged  in  the  coproduction
+process  can  indeed  increase  value.
+Effective  coproduction  leads  to  higher
+system  quality  and  greater  user  satis-
+faction; however, this result is not total-
+ly  comprehensive  because  we  did  not
+include  the  developers’  perceptions  in
+the study.
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   83
+
+
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of User Coproduction in Information System
+
+Finally, we examined our proposed
+ideas by collecting opinions from both
+developers  and  users.  Because  social
+capital exists between users and devel-
+opers,  exclusive  reliance  on  one  party
+only is insufficient to depict the whole
+picture. We believe our result, based on
+a  more  comprehensive  perception,  is
+able to generate a more robust and pre-
+cise conclusion.
+
+Practical Implications
+For  practitioners,  the  significant  and
+positive  impacts  of  coproduction  on
+project  performance,  system  quality,
+and  user  satisfaction  affirmed  its  criti-
+cal role. In addition, the importance of
+social  capital  in  coproduction  implies
+that  (1)  managers  should  pay  more
+attention  to  user  representative  selec-
+tion;  and  (2)  actions  should  be  taken
+when  social  capital  is  low  or  even
+absent. Among the three types of social
+capital,  cognitive  social  capital  is  rela-
+tively important, followed by relational
+social capital and structural social cap-
+ital,  respectively;  therefore,  users  with
+ISD experience and knowledge are rec-
+ommended because strong ISD experi-
+ence  or  knowledge  allows  representa-
+tives to adopt more effective coproduc-
+tion behaviors. Although users can con-
+tribute to projects even without strong
+ISD  knowledge,  relevant  experience
+and knowledge allow representatives to
+better  engage  in  project  governance
+and  joint  problem-solving  activities.  A
+lack  of  required  knowledge  reduces
+users’ capability to express ideas effec-
+tively, and in ways that developers can
+capture easily, which blocks them from
+making effective contributions. On the
+other hand, users who have strong rela-
+tionships  with  developers  should 
+be  chosen  as  representatives.  In  a  cli-
+mate  of  mutual  trust,  representatives
+are more willing to tolerate minor flaws
+and to focus on main functions, making
+them  more  likely  to  accommodate
+developers’ ideas and to dedicate indi-
+vidual time and effort to the project. In
+order  to  increase  users’  willingness  to
+contribute  to  the  project,  we  strongly
+
+encourage  project  managers  to  nomi-
+nate  possible  candidates,  based  on
+their  IT  knowledge,  their  relationships
+between  development  team  members,
+and  their  history  of  interaction  with
+developers.  Finally,  some  current  user
+participation  practices  should  be
+enhanced; for example, users are often
+invited  to  engage  in  the  requirement
+eliciting stage only. We suggest that they
+should be included in regular meetings
+to  increase  the  interaction  between
+users and developers so as to promote
+users’ willingness to perform coproduc-
+tion behaviors.
+
+It 
+
+is  not  uncommon  for  new
+employees  or  users  without  any  ISD
+experience  or  IT  knowledge  to  be
+selected  to  participate  in  projects.
+When  a  strong  relationship  between
+these  two  parties  or  experienced  users
+is not available, interventions should be
+made  to  enhance  the  social  capital
+between  users  and  the  development
+team. Workshops  or  training  programs
+may  be  provided  to  strengthen  repre-
+sentatives’ knowledge and understand-
+ing of ISD to facilitate their engagement
+to  deepen  their  contributions  toward
+the  project.  In  addition,  managers
+should  provide  mechanisms  to  allow
+users  and  developers  to  interact  with
+each other frequently. Orientations, for-
+mal meetings, or even informal parties
+allow  both  user  representatives  and
+developers 
+to  exchange  opinions 
+and  help  users  to  better  understand
+project progress. ■
+
+References
+Adler, P. S., & Kwon, S.-W. (2002).
+Social capital: Prospects for a new con-
+cept. Academy of Management Review,
+27(1), 17–40.
+Aladwani, A. M., Rai, A., &
+Ramaprasad, A. (2000). Formal partici-
+pation and performance of the system
+development group: The role of group
+heterogeneity and group-based
+rewards. ACM SIGMIS Database, 31(4),
+25–40.
+
+Anderson, J. C., & Gerbing, D. W.
+(1988). Structural equation modeling
+
+in practice: A review and recommend-
+ed two-step approach. Psychological
+Bulletin, 103(3), 411–423.
+Atuahene-Gima, K., & Murray, J. Y.
+(2007). Exploratory and exploitative
+learning in new product development:
+A social capital perspective on new
+technology ventures in China. Journal
+of International Marketing, 15(2), 1–29.
+Bagozzi, R. P., & Phillips, L. W. (1982).
+Representing and testing organization-
+al theories: A holistic construal.
+Administrative Science Quarterly, 27(3),
+459–489.
+Barki, H., & Hartwick, J. (1994).
+Measuring user participation, user
+involvement, and user attitude. MIS
+Quarterly, 18(1), 59–82.
+Belardo, S., Karwan, K., & Wallace, W.
+(1982, December). DSS component
+design through field experimentation:
+An application to emergency manage-
+ment. Paper presented at the Third
+International Conference on
+Information Systems, Ann Arbor, MI.
+Bettencourt, L. A., Ostrom, A. L.,
+Brown, S. W., & Roundtree, R. I. (2002).
+Client coproduction in knowledge-
+intensive business services. California
+Management Review, 44(4), 100–128.
+Bolino, M. C., Turnley, W. H., &
+Bloodgood, J. M. (2002). Citizenship
+behavior and the creation of social
+capital in organizations. Academy of
+Management Review, 27(4), 505–522.
+Borman, W. C., & Motowidlo, S. J.
+(1993). Expanding the criterion
+domain to include elements of con-
+textual performance. In N. Schmitt,
+W. C. Borman, & Associates (Eds.),
+Personnel selection in organizations
+(pp. 71–98). San Francisco, CA:
+Jossey-Bass.
+Bourdieu, P. (Ed.). (1986). The forms of
+social capital. New York, NY:
+Greenwood.
+Brudney, J. L., & England, R. E. (1983).
+Toward a definition of the coproduc-
+tion concept. Public Administration
+Review, 43(1), 59–65.
+Burt, R. S. (1987). Social contagion and
+innovation: Cohesion versus structural
+
+84
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+
+equivalence. American Journal of
+Sociology, 92(6), 1287–1335.
+Cavaye, A. L. M. (1995). User participa-
+tion in system development revisited.
+Information & Management, 28(5),
+311–323.
+Chan, K. W., Yim, C. K., & Lam, S. S. K.
+(2010). Is customer participation in
+value creation a double-edged sword?
+Evidence from professional financial
+services across cultures. Journal of
+Marketing, 74(3), 48–64.
+Chin, W. W. (1998). The partial lease
+squares approach to structural equa-
+tion modeling. In G. A. Marcoulides,
+Modern methods for business research
+(pp. 295–336). New York, NY: Lawrence
+Erlbaum Associates.
+
+Chiocchio, F., Forgues, D., Paradis, D., &
+Iordanova, I. (2011). Teamwork in inte-
+grated design projects: Understanding
+the effects of trust, conflict, and collab-
+oration on performance. Project
+Management Journal, 42(6), 78–91.
+
+Chiu, C. M., Hsu, M. H., & Wang, E. T.
+G. (2006). Understanding knowledge
+sharing in virtual communities: An
+integration of social capital and social
+cognitive theories. Decision Support
+Systems, 42(3), 1872–1888.
+
+Cooke-Davies, T. (2004). Project man-
+agement maturity models. In P. W. G.
+Morris & J. K. Pinto, The Wiley guide to
+managing projects (pp. 1234–1255).
+Hoboken, NJ: Wiley.
+
+Davis, J. M., Kettinger, W. J., & Kunev,
+D. G. (2009). When users are IT experts
+too: The effects of joint IT competence
+and partnership on satisfaction with
+enterpise-level systems implementa-
+tion. European Journal of Information
+Systems, 18(1), 26–37.
+
+Duhan, D. F., & Sandvik, K. (2009).
+Outcomes of advertiser: Agency rela-
+tionships. International Journal of
+Advertising, 28(5), 881–919.
+
+Fornell, C., & Lareker, D. (1981).
+Evaluating structural equation models
+with unobservable variables and mea-
+surement error. Journal of Marketing
+Research, 18(3), 39–50.
+
+Granovetter, M. (Ed.). (1992). Problems
+of explanation in economic sociology.
+Boston, MA: Harvard Business School
+Press.
+Hanson, J. R., & Krackhardt, D. (1993).
+Informal networks: The company
+behind the chart. Harvard Business
+Review, 71(4), 104–111.
+Harris, M. A., & Weistroffer, H. R.
+(2009). A new look at the relationship
+between user involvement in systems
+development and system success.
+Communications of the Association for
+Information Systems, 24(1), 739–756.
+He, J., & King, W. R. (2008). The role of
+user participation in information sys-
+tems development: Implications from
+a meta-analysis. Journal of
+Management Information Systems,
+25(1), 301–331.
+He, W., Qiao, Q., & Wei, K. K. (2009).
+Social relationship and its role in
+knowledge management systems
+usage. Information & Management,
+46(3), 175–180.
+Heide, J. B., & John, G. (1992). Do
+norms matter in marketing relation-
+ships? Journal of Marketing, 56(2),
+32–44.
+Heide, J. B., & Miner, A. S. (1992). The
+shadow of the future: Effects of antici-
+pated interaction and frequency of
+contact on buyer-seller cooperation.
+The Academy of Management Journal,
+35(2), 265–291.
+Hsu,J.S.,Liang,T.P.,Wu,S.P.J.,Klein,G.,&
+Jiang, J. J. (2011). Promoting the inte-
+gration of users and developers to
+achieve a collective mind through the
+screening of information system proj-
+ects. International Journal of Project
+Management, 29(5), 514–524.
+Hsu, J. S.-C., Chan, C.-L., Liu, J. Y.-C., &
+Chen, H.-G. (2008). The impacts of
+user review on software responsive-
+ness: Moderating requirements uncer-
+tainty. Information & Management,
+45(4), 203–210.
+Hsu, J. S.-C., Lo, C.-F., Lin, T.-C., &
+Cheng, K.-T. (2010, July). Understanding
+the role of knowledge coproduction
+between users and developers in ISD
+
+project: An intellectual capital perspec-
+tive. Paper presented at the PACIS 2010,
+Taipei, Taiwan.
+Inkpen, A. C., & Tsang, E. W. K. (2005).
+Social capital, networks, and knowl-
+edge transfer. Academy of Management
+Review, 30(1), 146–165.
+Ives, B., & Olson, M. H. (1984). User
+involvement and MIS success: A review
+of research. Management Science,
+30(5), 586–603.
+Jia, R., & Reich, B. H. (2011). IT Service
+climate: An essential managerial tool
+to improve client satisfaction with IT
+service quality. Information Systems
+Management, 28(2), 174–179.
+Jones, M. C., & Harrison, A. W. (1996).
+IS project team performance: An
+empirical assessment. Information &
+Management, 31(2), 57–65.
+Kaufmann, P. J., & Stern, L. W. (1988).
+Relational exchange norms, percep-
+tions of unfairness, and retained hos-
+tility in commercial litigation. Journal
+of Conflict Resolution, 32(3), 534–552.
+Kettinger, W. J., Park, S. H., & Smith, J.
+(2009). Understanding the conse-
+quences of information systems serv-
+ice quality on IS service reuse.
+Information & Management, 46(6),
+335–341.
+Klimoski, R., & Mohammed, S. (1994).
+Team mental model: Construct or
+metaphor? Journal of Management,
+20(2), 403–437.
+
+Ko, D. G., Kirsch, L. J., & King, W. R.
+(2005). Antecedents of knowledge
+transfer from consultants to clients in
+enterprise system implementations.
+MIS Quarterly, 29(1), 59–85.
+
+Levesque, L.,Wilson, J., & Wholey, D.
+(2001). Cognitive divergence and shared
+mental models in software development
+project teams. Journal of Organizational
+Behavior, 22(2), 135–144.
+
+Locke, E. A., & Schweiger, D. M. (Eds.).
+(1979). Participation in decision-
+making: One more look (Vol. 1).
+Greenwich, CT: JAI Press.
+
+Lusch, R. F.,Vargo, S. L., & Wessels, G.
+(2008). Toward a conceptual foundation
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   85
+Project Management Journal ■ DOI: 10.1002/pmj   85
+
+
+S
+R
+E
+P
+A
+P
+
+Antecedents and Consequences of User Coproduction in Information System
+
+for service science: Contributions from
+service-dominant logic. IBM Systems
+Journal, 47(1), 5–14.
+Lynch, T., & Gregor, S. (2004). User
+participation in decision support sys-
+tems development: Influencing system
+outcomes. European Journal of
+Information Systems, 13(4), 286–301.
+MacKenzie, S. B., Podsakoff, P. M., &
+Fetter, R. (1993). The impact of organi-
+zational citizenship behavior on evalu-
+ations of salesperson performance.
+Journal of Marketing, 57(1), 70–80.
+Markus, M. L., Majchrzak, A., & Gasser, L.
+(2002). A design theory for systems
+that support emergent knowledge
+processes. MIS Quarterly, 26(3),
+179–212.
+Markus, M. L., & Mao, J. Y. (2004).
+Participation in development and
+implementation: Updating an old,
+tired concept for today’s IS contexts.
+Journal of the Association for
+Information Systems, 5(11), 514–544.
+Maruping, L. M., Venkatesh, V., &
+Agarwal, R. (2009). A control theory
+perspective on agile methodology use
+and changing user requirements.
+Information Systems Research, 20(3),
+377–399.
+Mayer, R., Davis, J., & Schoorman, F.
+(1995). An integrative model of organi-
+zational trust. Academy of
+Management Review, 20(3), 709–734.
+
+Mohammed, S., Ferzandi, L., &
+Hamilton, K. (2010). Metaphor no
+more: A 15-year review of the team
+mental model construct. Journal of
+Management, 36(4), 876–910.
+
+Moorman, R., & Blakely, G. (1995).
+Individualism-collectivism as an indi-
+vidual difference predictor of organiza-
+tional citizenship behavior. Journal of
+Organizational Behavior, 16(2),
+127–142.
+
+Nahapiet, J., & Ghoshal, S. (1998).
+Social capital, intellectual capital, and
+the organizational advantage. Academy
+of Management Review, 23(2), 242–266.
+
+Nelson, K. M., & Cooprider, J. G.
+(1996). The contribution of shared
+
+knowledge to IS group performance.
+MIS Quarterly, 20(4), 409–432.
+Nidumolu, S. (1995). The effect of
+coordination and uncertainty on soft-
+ware project performance: Residual
+performance risk as an intervening
+variable. Information Systems Research,
+6(3), 191–219.
+Olson, M. H., & Ives, B. (1981). User
+involvement in system design: An
+empirical test of alternative approach-
+es. Information & Management, 4(4),
+183–195.
+Patnayakuni, R., Rai, A., & Tiwana, A.
+(2007). Systems development process
+improvement: A knowledge integration
+perspective. IEEE Transactions on
+Engineering Management, 54(2),
+286–300.
+Petter, S. (2008). Managing user expec-
+tations on software projects: Lessons
+from the trenches. International
+Journal of Project Management, 26(7),
+700–712.
+Procaccino, J. D., & Verner, J. M. (2009).
+Software developers’ views of end-
+users and project success.
+Communications of the ACM, 52(5),
+113–116.
+Rai, A., & Sambamurthy, V. (2006).
+Editorial notes–the growth of interest
+in services management: Oppor-
+tunities for information systems schol-
+ars. Information Systems Research,
+17(4), 327–331.
+Rottman, J. W. (2008). Successful
+knowledge transfer within offshore
+supplier networks: A case study explor-
+ing social capital in strategic alliances.
+Journal of Information Technology,
+23(1), 31–43.
+Rouse, W. B., Cannon-Bowers, J. A., &
+Salas, E. (1992). The role of mental
+models in team performance in com-
+plex systems. IEEE Transactions on
+Systems, Man, and Cybernetics 22(6),
+1296–1308.
+Sauer, C., Gemino, A., & Reich, B. H.
+(2007). The impact of size and volatili-
+ty on IT project performance.
+Communications of the ACM 50(11),
+79–84.
+
+Sharp, E. B. (1980). Toward a new
+understanding of urban services and
+citizen participation: The coproduc-
+tion concept. The American Review of
+Public Administration, 14(2), 105–118.
+Shim, J. T., Sheu, T. S., Chen, H. G.,
+Jiang, J. J., & Klein, G. (2010).
+Coproduction in successful software
+development projects. Information
+and Software Technology, 52(10),
+1062–1068.
+Simons, T. L., & Peterson, R. S. (2000).
+Task conflict and relationship conflict
+in top management teams: The pivotal
+role of intragroup trust. Journal of
+Applied Psychology, 85(1), 102–111.
+Smith, J. B., & Barclay, D. W. (1997).
+The effects of organizational differ-
+ences and trust on the effectiveness of
+selling partner relationships. Journal of
+Marketing, 61(1), 3–21.
+Swanson, E. B. (1974). Management
+information systems: Appreciation and
+involvement. Management Science,
+21(2), 178–188.
+Tesch, D., Sobol, M. G., Klein, G., &
+Jiang, J. J. (2009). User and developer
+common knowledge: Effect on the suc-
+cess of information system develop-
+ment projects. International Journal of
+Project Management, 27(7), 657–664.
+Tsai, W., & Ghoshal, S. (1998). Social
+capital and value creation: The role of
+intrafirm networks. The Academy of
+Management Journal, 41(4), 464–476.
+van den Hooff, B., & de Winter, M.
+(2011). Us and them: A social capital
+perspective on the relationship
+between the business and IT depart-
+ments. European Journal of
+Information Systems, 20(3), 255–266.
+van den Hooff, B., & Huysman, M.
+(2009). Managing knowledge sharing:
+Emergent and engineering approach-
+es. Information & Management,
+46(1), 1–8.
+Vargo, S. L., & Akaka, M. A. (2009).
+Service-dominant logic as a founda-
+tion for service science: Clarifications.
+Service Science, 1(1), 32–41.
+Vargo, S. L., & Lusch, R. F. (2004).
+Evolving to a new dominant logic for
+
+86
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj 
+
+
+marketing. Journal of Marketing, 68(1),
+1–17.
+Vargo, S. L., & Lusch, R. F. (2008).
+Service-dominant logic: Continuing
+the evolution. Journal of the Academy
+of Marketing Science, 36(1), 1–10.
+Wagner, E. L., & Piccoli, G. (2007).
+Moving beyond user participation to
+achieve successful IS design.
+Communications of the ACM, 50(12),
+51–55.
+Wallace, L., Keil, M., & Rai, A. (2004a).
+How software project risk affects proj-
+ect performance: An investigation of
+the dimensions of risk and an
+exploratory model. Decision Sciences,
+35(2), 289–321.
+Wallace, L., Keil, M., & Rai, A. (2004b).
+Understanding software project risk: A
+cluster analysis. Information &
+Management, 42(1), 115–125.
+Wang, J. C., & Chiang, M. J. (2009).
+Social interaction and continuance
+intention in online auctions: A social
+capital perspective. Decision Support
+Systems, 47(4), 466–476.
+Wasko, M. M. L., & Faraj, S. (2005).
+Why should I share? Examining social
+capital and knowledge contribution in
+electronic networks of practice. MIS
+Quarterly, 29(1), 35–57.
+
+Whitaker, G. P. (1980). Coproduction:
+Citizen participation in service deliv-
+ery. Public Administration Review,
+40(3), 240–246.
+Wikström, S. (1996). The customer as
+coproducer. European Journal of
+Marketing, 30(4), 6–19.
+Yates, J. (2006). The social construction
+of technological systems: New direc-
+tions in the sociology and history of
+technology/how users matter: The co-
+construction of users and technologies.
+Book review. Business History Review,
+80(1), 144–147.
+
+Jack S. Hsu, PhD, is an assistant professor in
+the Department of Information Management,
+National Sun Yat-Sen University, Taiwan. He
+received his PhD from the University of Central
+Florida. His research interests include knowl-
+edge management and team management in
+information system development projects. His
+research has been accepted or published in aca-
+demic journals such as Decision Sciences,
+Information Systems Journal, Information &
+Management, Communications of the AIS, and
+International Journal of Project Management.
+
+Yu Wen Hung is a PhD student in the
+Department of Information Management,
+National Sun Yat-Sen University. She earned her
+
+master’s degrees from both Southern New
+Hampshire University in the United States and
+National Sun Yat-Sen University in Taiwan. Her
+current research interests include information
+system project management, information secu-
+rity, and electronic commerce. She has pub-
+lished several papers in International Journal of
+Project Management and several proceedings of
+academic conferences.
+
+Yin-Hung Chen is fulfilling his mandatory mili-
+tary service in Taiwan. He received bachelor’s
+and master’s degrees in information manage-
+ment from National Sun Yat-Sen University in
+Taiwan.
+
+Hsieh-Hong Huang, PhD, is an assistant profes-
+sor of the Department of Information Science
+and Management Systems at National Taitung
+University, Taiwan. He received his PhD in MIS
+from National Chung Cheng University in Taiwan.
+His research interests include information sys-
+tems development, decision support systems,
+and medical informatics. His work has been
+published in several journals including Decision
+Support Systems, Communications of the
+Association of Information Systems, Journal of
+Educational Technology & Society, Expert
+Systems and Applications, and Journal of
+Medical Systems.
+
+April 2013 ■ Project Management Journal ■ DOI: 10.1002/pmj   87
+
+
+Copyright of Project Management Journal is the property of John Wiley & Sons, Inc. and its content may not be
+copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
+

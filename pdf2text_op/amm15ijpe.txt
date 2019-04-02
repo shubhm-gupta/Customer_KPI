@@ -1,0 +1,3472 @@
+Int. J. Production Economics 162 (2015) 242–257
+
+Contents lists available at ScienceDirect
+
+Int. J. Production Economics
+
+journal homepage: www.elsevier.com/locate/ijpe
+
+An analysis of the direct and mediated effects of employee
+commitment and supply chain integration
+on organisational performance$
+Rafaela Alfalla-Luque a,n, Juan A. Marin-Garcia b, Carmen Medina-Lopez a
+a GIDEAO Research Group, Departamento de Economía Financiera y Dirección de Operaciones, Universidad de Sevilla, Avda. Ramón y Cajal, 1,
+41005 Sevilla, Spain
+b Polytechnic University of Valencia, ROGLE–Dept. Organización de Empresas, Camino de Vera s/n, 46022 Valencia, Spain
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received December 2012
+Accepted 5 July 2014
+Available online 14 July 2014
+
+Keywords:
+Supply chain integration
+Commitment
+Performance
+Mediation
+Human resources management
+
+This paper focuses on the interrelationships among the different dimensions of supply chain integration.
+Speciﬁcally, it examines the relationship between employee commitment and supply chain integration
+dimensions to explain several performance measures, such as ﬂexibility, delivery, quality, inventory and
+customer satisfaction. Very little research has been conducted onto this topic, since employee
+commitment is rarely included as an antecedent of the effect of supply chain integration on
+performance. Seven research models have been analysed with Structural Equation Models using a
+multiple-informant international sample of 266 mid-to-large-size manufacturing plants. The ﬁndings
+suggest that the relationship between employee commitment and operational performance is fully
+mediated by supply chain integration. Employee commitment contributes to improving internal
+integration, and internal
+integration affects performance both directly and indirectly. Moreover,
+obtaining internal integration helps to achieve supplier and customer integration. As a result, companies
+should strive to achieve both employee commitment and internal integration, as they mutually reinforce
+each other. Similarly, managers should achieve internal integration before external integration and
+include external integration at the strategic level in order to reap the greatest advantages from supply
+chain integration. Meanwhile, managers should promote employee commitment not only for better
+supply chain success, but also to mitigate the barriers of supply chain management implementation.
+
+& 2014 Elsevier B.V. All rights reserved.
+
+1.
+
+Introduction
+
+Supply chain management (SCM) has strategic relevance because
+increased competitive pressures have pushed many ﬁrms to turn their
+supply chains into competitive weapons to enhance performance
+(Fine, 1998). Effective SCM is a source of potentially sustainable
+competitive advantage for organisations and supply chain integration
+(SCI) plays a crucial role in this (Van der Vaart and Van Donk, 2008).
+
+☆This article was selected from papers presented at the 4th World Conference on
+Production and Operations Management (P&OM Amsterdam 2012), co-organized
+by the European Operations Management Association (EurOMA), The Production
+and Operations Management Society (POMS) and the Japanese Operations Manage-
+ment and Strategy Association (JOMSA). The original paper has followed the
+standard review process for the International Journal of Production Economics.
+The process was managed by Andreas Groessler (EurOMA) and Yoshiki Matsui
+(JOMSA) and supervised by Bart L. MacCarthy (IJPE Editor, Europe).
+
+n Corresponding author. Tel.: þ 34 954 556 456; fax: þ34 954 557 570.
+E-mail addresses: alfalla@us.es (R. Alfalla-Luque),
+
+jamarin@omp.upv.es (J.A. Marin-Garcia), cmedina@us.es (C. Medina-Lopez).
+
+http://dx.doi.org/10.1016/j.ijpe.2014.07.004
+0925-5273/& 2014 Elsevier B.V. All rights reserved.
+
+However, despite the potential beneﬁts of SCI, the effective integration
+of value-added activities along the supply chain (SC) and the compe-
+titive inﬂuence of SCI have been questioned. Thus, more empirical
+research is needed in this topic (Leuschner et al., 2013).
+
+Despite the fact that numerous studies have addressed SCI, it
+can be seen that it is not a well-deﬁned concept (Fabbe-Costes and
+Jahre, 2008). SCI does not have a single, accepted deﬁnition or
+operationalisation (Pagell, 2004). SCI should consider the strategic,
+tactical and operational levels. SCI could be deﬁned as the degree
+to which SC members achieve collaborative inter- and intra-
+organisational management on the strategic, tactical and opera-
+tional levels of activities (and their corresponding physical and
+information ﬂows) that, starting with raw materials suppliers, add
+value to the product to satisfy the needs of the ﬁnal customer at
+the lowest cost and the greatest speed (Alfalla-Luque et al., 2013b).
+SCI needs both intra and inter-company integration across the
+entire SC in order to work as a single entity (Alfalla-Luque and
+Medina-Lopez, 2009). In consequence, SCI research should take
+into account internal integration (INTI) and external integration
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+243
+
+(EI) with supplier (SI) and customer (CI), as well as the external
+integration orientation (EIO).
+
+However, previous research has not always taken the different
+dimensions of SCI into account (Fabbe-Costes and Jahre, 2008).
+Droge et al. (2004) suggest that the joint use of EI and INTI has a
+synergistic effect on ﬁrm performance. Other studies show that
+one of the reasons that prevents a high level of EI being achieved is
+a low level of INTI (Gimenez and Ventura, 2005). Moreover, INTI
+seems to be the starting point for broader integration across the
+SC. However, there is over emphasis on customer integration (CI)
+and supplier integration (SI) alone, excluding the important
+central link of INTI (Flynn et al., 2010). As stated by Zhao et al.
+(2011), despite increasing research interest in SCI, we still have a
+very limited understanding of what inﬂuences SCI and what the
+relationships between INTI and EI are. This paper seeks to provide
+empirical evidence on this relationship.
+
+The prior literature is not unanimous in stating that the relation-
+ship between SCI and performance is positive. Some papers conclude
+that a higher level of SCI positively inﬂuences performance (Li et al.,
+2009), but others have not been able to demonstrate this relationship
+(Swink et al., 2007). So, additional research is necessary to test the
+relationship between SCI (separated out into its various dimensions)
+and performance. This relationship could be affected by the existence
+of variables that act as antecedents. Some studies have found that SCI
+has a mediating effect on performance (Vanichchinchai, 2012), but a
+limited number of studies have been conducted in this respect. As a
+result, determining the antecedents and performance consequences
+of SCI is a key focus of recent SCM research (Droge et al., 2012).
+
+The apparent inconsistency in the ﬁndings and doubt about the
+relationship between SCI and performance suggest a missing vari-
+able. Taking into account the literature, our interest lies in including
+employee commitment (EC) as an antecedent in this relationship.
+Previous research has analysed the effect as an antecedent of work-
+force practices on performance for some operations management
+(OM) practices, e.g. TQM, JIT and TPM (Cua et al., 2001) but little
+research has been done on the effect of workforce practices in SCI, or
+even in SCM in general (Fisher et al., 2010). However, Fawcett et al.
+(2008) state that human nature is the primary barrier to successful
+SC collaboration both internally and with external SC partners.
+
+This paper therefore focuses on the relationships among the
+different dimensions of SCI themselves, and on the relationship
+between EC and the SCI dimensions to explain several performance
+measures. It analyses EC as an antecedent of the effect of SCI on
+performance. For this we use a multiple-informant international
+sample originating from the third round of the High Performance
+Manufacturing (HPM) project. Fig. 1 shows the research framework.
+The paper is structured as follows. Section 2 establishes the
+theories supporting the research, analyses earlier studies and estab-
+lishes the hypotheses, objectives and proposed model to be tested.
+Section 3 describes the sample and the methodology employed. This
+is followed by the results of the study. Finally, the discussion, main
+conclusions, contributions, implications for practitioners and aca-
+demics, limitations and future research are presented.
+
+2. Theoretical background, research hypotheses and proposed
+model
+
+In this section, ﬁrstly an analysis is conducted of the theories
+that support the research (Section 2.1). Next, the relationship
+among performance, SCI and EC is analysed and seven sets of
+hypotheses are established on the basis of a thorough literature
+review. Section 2.2 focuses on the relationship between SCI and
+performance. The ﬁrst set of hypotheses addresses whether inter-
+nal integration is directly related to external integration (H1 and
+H2). The second set of hypotheses covers the relationship between
+customer and supplier integration and external integration orien-
+tation (H3 and H4). The third set analyses whether SCI dimensions
+are directly related to performance (H5 and H8). The fourth set
+examines whether external
+integration orientation acts as a
+mediator in the relationship between customer/supplier integra-
+tion and performance (H9 and H10) and whether external inte-
+gration acts as a mediator in the relationship between internal
+integration and performance (H10 and H11). Section 2.3 focuses on
+the relationships among EC, SCI and performance. The ﬁfth set of
+hypotheses addresses the question whether EC is directly related
+to performance (H12). The sixth set covers the relationships
+between EC and SCI dimensions (H13–H15). Finally, the seventh
+set analyses the mediated effect of internal integration and SCI
+(H16–H18). Section 2.4 describes the objective of the paper and
+the proposed model.
+
+2.1. Theories supporting the research
+
+In this paper our primary theoretical focus is on the theoretical
+framework of the value chain (Porter, 1986) and the resource-
+based view (RBV) of the ﬁrm (Peteraf, 1993; Barney, 1991). These
+are the two most commonly identiﬁed theories in SCM (Defee
+et al., 2010) and workforce management research.
+
+Porter (1986) demonstrated that competitive advantage does
+not come about only with the efﬁciency with which any individual
+company is managed, but with that of the value chain as a whole.
+As such, the value that a company achieves will depend to a great
+extent on the relationships it has with its customers and suppliers
+(Porter, 1986), i.e. the degree of SCI. SCI is directly involved in the
+value-adding processes required to achieve efﬁcient and effective
+upstream and downstream ﬂows of products, services, decisions,
+and information (Bowersox et al., 2000; Mentzer et al., 2001). An
+analysis of a company's SC enables its capabilities to be identiﬁed
+by determining the activities in which it has, or can have, a
+competitive advantage, and the relationships that exist among
+them. The company can then identify the activities it prefers to
+carry out itself and those that would be better acquired externally.
+Therefore, the organisation has to take a series of strategic
+decisions based on the analysis of these business capabilities that
+will affect SCM and SCI directly. SCI enables a company to excel at
+speciﬁc value-added activities for which it possesses unique
+
+Employee
+Commitment
+
+(EC)
+
+EC Indirect effect
+
+Internal Integration (INTI)
+
+Supply Chain Integration (SCI):
+•
+(cid:129) Supplier Integration (SI)
+(cid:129) Customer Integration (CI)
+(cid:129) External Integration Orientation (EIO)
+
+SCI Direct effect
+
+EC Direct effect
+
+Fig. 1. Research framework.
+
+Performancei:
+(cid:129) Flexibility 
+(cid:129) Delivery
+(cid:129) Quality
+(cid:129)
+(cid:129) Customer satisfaction
+
+Inventory  
+
+
+244
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+advantages while relying on SC partners to provide the comple-
+mentary capabilities it lacks (Dyer and Singh, 1998).
+
+The resource-based view (RBV) considers ﬁrms as collections of
+resources, some of which can be considered strategic resources
+(Wernerfelt, 1984). The RBV argues that ﬁrms are able to generate
+sustained competitive advantage by developing unique ﬁrm
+resources and capabilities (Barney, 1991; Peteraf, 1993). Previous
+research has recognised the relevancy of the RBV focus for SCM/
+SCI (Olavarrieta and Ellinger, 1997; Leuschner et al., 2013) and for
+workforce management (Schroeder et al., 2002; Samad, 2013).
+
+Best-value supply chains reﬂect the assumption that unique
+resources exist at the SC level, and that supply chains can be
+inimitable competitive weapons (Ketchen and Hult, 2007). SCM
+seeks
+improved performance through the effective use of
+resources and capabilities via the development of internal and
+external linkages in order to create a seamlessly coordinated SC;
+thus elevating inter-ﬁrm competition to inter-supply chain com-
+petition (Barratt and Barratt, 2011). SCI can be seen as a strategic
+resource that could result
+in a competitive advantage and
+improved ﬁrm performance (Barney, 2012). Fine (1998) considers
+SCI as the ultimate core capability. SCI
+involves restructuring
+activities used to link and simplify processes to help ﬁrms allocate,
+align, and utilise both internal and external resources (Chen et al.,
+2009). INTI and EI can be complex and require unique capabilities
+that may be difﬁcult or costly to implement (Barney, 2012).
+Therefore, the relevancy of RBV to SCI becomes evident because
+of the engagement of both internal and external resources (Chen
+et al., 2009).Meanwhile, the workforce can emerge as a key
+element for achieving competitive advantage in the SC from the
+point-of-view of the RBV (Marin-Garcia et al., 2009; deSarbo et al.,
+2007; Schroeder et al., 2002).
+
+Theory suggests that trust-based relationships, common goals,
+and system-based rewards are necessary conditions for successful
+ﬁrms in the SC (Menon, 2012). Appropriate workforce practices
+and a high degree of EC that help these objectives to be accom-
+plished can be responsible for developing specialised forms of
+human capital that can be difﬁcult to imitate and enable a
+sustained competitive advantage to be achieved. According to
+Becker and Huselid (1998), this human capital will result in
+improved productivity and proﬁtability. Consequently, EC could
+play a major role in achieving a sustained competitive advantage
+in the context of an integrated SC.
+
+2.2. Supply chain integration and performance
+
+SCI has been a highly researched topic during the last 20 years
+(Leuschner et al., 2013), but no consensus has been achieved on
+how to measure SCI and operationalisation (Alfalla-Luque et al.,
+2013a; Kim, 2013). Some authors examined SCI as a single
+construct (Vickery et al., 2003; Sezen, 2008). However, SCI multi-
+dimensional constructs have been developed due to the complex
+nature of the concept (Gimenez and Ventura, 2005; Kim, 2009).
+The most common approach used focuses on inter- and intra-
+company integration (Flynn et al., 2010; Droge et al., 2012; Zhao
+et al., 2013). An internal–external perspective is essential for
+understanding the phenomenon (Chen et al., 2009). The key to
+SCI is to develop uninterrupted links with upstream suppliers and
+downstream customers along with total
+functional
+synergy (Flynn et al., 2010). INTI links internally performed work
+into a seamless process to support customer requirements
+(Bowersox et al., 2003; Chen et al., 2009). It is a process of inter-
+departmental interaction and collaboration that brings depart-
+ments together into a cohesive organisation (Kahn and Mentzer,
+1996). It implies integration between functions or departments
+within a single ﬁrm (Koufteros et al., 2010). EI should be achieved
+implies working in close
+with supplier and customer. SI
+
+internal
+
+cooperation with key suppliers in order to generate advantages,
+such as a reduction in inventory or a decrease in supplier lead time
+(Thun, 2010). CI deals with a better understanding of key custo-
+mers' needs and with their considerations in the company's
+business processes (Thun, 2010). SCI includes both upstream and
+downstream players, while INTI provides the foundation for both
+(Chen et al., 2009). In consequence, every SC could have a different
+level of INTI, CI and SI (Frohlich and Westbrook, 2001).
+
+Several papers, including this research, analyse SCI using the
+triple SCI scope – INTI, SI, and CI (Swink et al., 2007; Wong and
+Boon-itt, 2008; Kim, 2009; Flynn et al., 2010). The literature
+suggests that ﬁrms must achieve a relatively high degree of
+collaboration between internal processes before initiating EI
+(Fawcett and Magnan, 2002; Harrison and Van Hoek, 2005;
+Cagliano et al., 2006). One of the major obstacles to fully inte-
+grated materials and information ﬂows across the SC seems to be
+the inadequacy of the individual ﬁrms'
+internal management
+systems (Mentzer, 2004). Coordination between functions is a
+key factor for achieving intra-organisational integration (Fawcett
+and Magnan, 2002). INTI is a prerequisite for EI with supplier and
+customer (Vickery et al., 2003; Menon, 2012) and must be well-
+established before companies integrate with external parties
+(Handﬁeld and Nichols, 2002). Successful SCM presumes INTI
+and EI to be in place, but neither is sufﬁcient in itself for having
+a successful SC (Min, 2001). The lack of INTI becomes the biggest
+obstacle to turning collaborative activities into operational efﬁ-
+ciency (Baihaqi and Sohal, 2013). INTI has the potential to affect EI
+(Kim, 2013; Germain and Iyer, 2006). A signiﬁcant positive
+correlation between INTI and EI has been reported in previous
+research (Gimenez and Ventura, 2005; Eng, 2006; Baihaqi and
+Sohal, 2013). However, there is a need for more research in this
+area to ascertain how INTI interacts with other types of integration
+(Zhao et al., 2011; Kim, 2013; Alfalla-Luque et al., 2013a). The
+following hypotheses have been proposed in the quest to provide
+empirical evidence for these relationships:
+
+H1. INTI is directly and positively related to SI;
+
+H2. INTI is directly and positively related to CI.
+
+The SCI focus frequently fails to consider its strategic nature
+(Flynn et al., 2010). Firms need to view organisations as part of a
+collaborative network (Menon, 2012) and to strategically collabo-
+rate with their SC partners to achieve effective SCI (Flynn et al.,
+2010). Partners should work together to jointly achieve greater
+success
+(efﬁciencies, ﬂexibility, and sustainable competitive
+advantage) than can be attained in isolation (Nyaga et al., 2010).
+Partnership management has been classiﬁed as a form of core
+competency leading to competitive advantage (Miller and
+Shamsie, 1996). Bearing this in mind, apart from the analysis of
+INTI, SI and CI, our research also considers a strategy perspective,
+the external integration orientation (EIO), which implies that the
+ﬁrm believes in a collaborative orientation towards key suppliers
+and customers (and not an adversarial relationship with them) as
+a part of its company strategy. While strategy is different from
+operations, integration between the two is critical (Porter, 1986;
+Miles and Snow, 1978). While operational collaboration can only
+lead to shop-ﬂoor beneﬁts, strategic collaboration should not only
+afford shop-ﬂoor beneﬁts, but also strategic beneﬁts (Sanders,
+2008). Strategic collaboration with supplier and customer is
+considered to be one of the core capabilities that companies need
+to remain viable in the current business environment (Bowersox
+et al., 2000). Strategic collaborative relationships are expected to
+provide greater beneﬁts than transaction-oriented relationships
+(Whipple et al., 2010). Taking into account previous research, we
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+245
+
+will analyse whether SI and CI are positively associated with EIO.
+We propose the following hypotheses:
+
+H3. SI is directly and positively related to EIO;
+
+H4. CI is directly and positively related to EIO.
+
+A wide range of different studies on SCI have been carried out,
+many of them focusing on the relationship between SCI and
+performance (e.g., Sezen, 2008; Kim, 2009; Thun, 2010; Zhao
+et al., 2013). In general terms, some papers agree that the higher
+the level of integration, the greater the potential beneﬁts (Frohlich
+and Westbrook, 2001; Bagchi et al., 2005; Li et al., 2009). Other
+studies have not always found a clear relationship between the
+level of SCI and performance improvement (Hertz, 2001; Swink et
+al., 2007). Therefore, results are not conclusive (Jin et al., 2013).
+Detailed tables summarising the relationships between SCI and
+performance in previous research can be found in, among others,
+Table VII in Fabbe-Costes and Jahre (2008), Table 3 in Van der
+Vaart and Van Donk (2008), Table 1 in Sofyalıoğlu and Öztürk
+(2012), Table 1 in Jin et al. (2013) and Tables 1 and 2 in Kim (2013).
+Two recent meta-analyses of SCI and performance have been
+carried out by Leuschner et al. (2013) and Sofyalıoğlu and Öztürk
+(2012) based on a sample of peer-reviewed journal articles (86 and 22,
+respectively). Both studies have tested the hypothesis “SCI is positively
+related to ﬁrm performance” taking into account four scopes of SCI (SI,
+CI, EI and INTI) and different measures of performance. Table 1
+summarises the results. The comparison of both meta-analyses
+conﬁrms the lack of consensus in prior empirical research on how
+SCI affects performance. There is, therefore, no consistency in the
+ﬁndings on the relationship between SCI and performance. Perhaps
+
+Table 1
+Comparison between meta-analyses of SCI and performance.
+
+Relationship
+
+Leuschner et al.
+(2013)
+
+Sofyalıoğlu and Öztürk
+(2012)
+
+the lack of consensus could be attributed to the different SCI
+deﬁnitions, dimensions and operationalisations used in each of the
+studies and their different scopes (Van der Vaart and Van Donk, 2008;
+Alfalla-Luque et al., 2013a; Jin et al., 2013). For example, studies that
+aggregate SI and CI
+in a single construct (EI) may be drawing
+inaccurate conclusions (Flynn et al., 2010). The same may be true
+when we analyse the performance measures grouped into a single
+construct. In the same way, the performance measures tested are very
+wide and also apply at different levels of analysis: team, project, plant,
+and SC (Turkulainen and Ketokivi, 2012). Another reason could be that
+SCI does not have the same impact on performance depending on the
+country, industry, plant age, product complexity and plant size (Flynn
+et al., 2010). For example, in some contexts it might be better to
+negotiate for each purchase than have partnerships (in line with
+Transaction Cost Economics). However, SCI is a key element for
+improvement in sectors such as the car industry (Gimenez and
+Ventura, 2003). In other words, as with RBV, SCI achieves sustainable
+competitive advantages and improved performance if partners possess
+unique complementary capabilities that can produce distinctive value
+and the governance skills needed for effective integration (Jin et al.,
+2013; Fawcett et al., 2007). Another factor that could create ambiguity
+in the effect of SCI on performance is that the relationship could be
+nuanced (Jin et al., 2013). For example, some authors have found that
+various operational performance measures mediate the relationship
+between SCI and ﬁnancial performance (Vickery et al., 2003; Allred
+et al., 2011). Other papers conclude that there are variables that act as
+antecedents and SCI has a mediating effect between these antecedents
+and performance (Vanichchinchai and Igel, 2011; Vanichchinchai,
+2012; Wu et al., 2014).
+
+Sofyalıoğlu and Öztürk (2012) state that there are a few studies
+in the literature that test the direct relationship between SCI and
+performance, so they suggest more studies to test this relationship.
+Leuschner et al. (2013) state the need for additional research to
+make statements generalisable. We analyse this relationship in
+response to this demand. Although there is no consensus, we
+propose the following hypotheses in a positive sense1:
+
+SCI/Firm performance
+
+EI/Firm performance
+
+SI/Firm performance
+CI/Firm performance
+INTI/Firm performance
+
+Positive and
+signiﬁcant
+Positive and
+signiﬁcant
+Weak
+Non-signiﬁcant
+Positive and
+signiﬁcant
+
+SCI/Business performance Weak
+CI/Business performance —
+SI/Business performance —
+INTI/Business
+—
+
+performance
+
+SCI/Financial
+
+performance
+
+SCI/Customer-oriented
+
+SCI/Relational
+performance
+SCI/Operational
+performance
+CI/Operational
+performance
+SI/Operational
+performance
+
+INTI/Operational
+
+performance
+
+SCI/Delivery
+
+SCI/Quality
+
+SCI/Innovation
+
+SCI/Cost
+SCI/Flexibility
+
+Non-signiﬁcant
+
+Positive and
+signiﬁcant
+Positive and
+signiﬁcant
+Positive and
+signiﬁcant
+—
+
+—
+
+—
+
+Positive and
+signiﬁcant
+Positive and
+signiﬁcant
+Positive and
+signiﬁcant
+Non-signiﬁcant
+Non-signiﬁcant
+
+Non-signiﬁcant
+
+H5. INTI is directly and positively related to performance;
+
+—
+
+—
+—
+—
+
+Non-signiﬁcant
+Non-signiﬁcant
+Non-signiﬁcant
+Positive and signiﬁcant
+
+—
+
+—
+
+—
+
+Non-signiﬁcant
+
+Positive and signiﬁcant
+
+Non-signiﬁcant
+
+Non-signiﬁcant
+
+—
+
+—
+
+—
+
+—
+—
+
+H6. SI is directly and positively related to performance;
+
+H7. CI is directly and positively related to performance;
+
+H8. EIO is directly and positively related to performance.
+
+Also, taking into account the possible existence of mediated
+variables (Jin et al., 2013), we analyse, ﬁrstly, whether the
+existence of EIO in a ﬁrm can act as a mediating variable between
+either SI or CI and performance. We therefore propose the
+following hypotheses:
+
+H9. EIO acts as a mediator in the relationship between SI and
+performance;
+
+H10. EIO acts as a mediator in the relationship between CI and
+performance.
+
+Secondly, as already indicated, there are many prior studies
+that state that having INTI is a prerequisite for attaining adequate
+EI (Eng, 2006; Menon, 2012; Kim, 2013; Baihaqi and Sohal, 2013).
+For this reason we propose to analyse INTI empirically as an
+antecedent of EI, examining the mediating effect of EI (analysed
+through the block formed of the SI/CI/EIO constructs) in the INTI-
+performance relationship, with the following hypothesis:
+
+H11. The SI/CI/EIO block acts as a mediator in the relationship
+between INTI and performance.
+
+1 All the performance-related hypotheses analyse each measure separately.
+
+
+246
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+2.3. Employee commitment, supply chain integration and
+performance
+
+EC is deﬁned as the degree to which a worker identiﬁes with
+his/her ﬁrm and shares its goals and values (Fields, 2002; Meyer
+et al., 1993; Mowday and Steers, 1979). Employees with high
+commitment consider that their company is an organisation for
+which it is worth working and which they are proud of working for
+(Alfalla-Luque et al., 2012). As a result, they put all their efforts into
+working well for the organisation, do so with greater autonomy,
+develop core competencies more quickly and, moreover, tend to be
+more accepting of any task given to them. The likelihood that the
+ﬁrm will achieve better performance therefore rises (Kuo, 2013).
+
+There is clear evidence of the mediating role of EC between
+workforce management practices and ﬁrm performance in pre-
+vious research in the area of human resources (Elorza et al., 2011;
+Patterson et al., 2010). In other words, when the effects of work-
+force management practices on performance are analysed without
+including EC in the model, these effects are signiﬁcant and
+positive. However, when the mediating variable is included, the
+direct relationship between workforce management practices and
+performance disappears, and only the relationship between work-
+force management and EC and the relationship between EC and
+performance remain signiﬁcant.
+
+Recent models in the literature on workforce management
+(Den Hartog et al., 2004; Elorza et al., 2011; Guest and Conway,
+2011; Marin-Garcia, 2013) consider EC as the main mediating
+construct for explaining operational performance and customer
+satisfaction, both of which affect ﬁnancial performance (Table 2).
+Table 2 synthesises the relationships identiﬁed in the prior
+literature. The majority of these studies analyse performance
+measures grouped into operational and ﬁnancial performances.
+This paper has analysed each of the performance measures
+(ﬂexibility, delivery, quality, inventory and customer satisfaction)
+separately with the aim of providing more detailed empirical
+evidence. Therefore, we propose that:
+
+H12. EC is directly and positively related to performance.
+
+Previous literature shows that workforce management is one of
+the less studied topics in SCM/SCI (Giunipero et al., 2008; Pandey
+et al., 2012; Fisher et al., 2010). This lack of research may perhaps
+be due to the research emphasis being put on hard OM topics, such
+as JIT, TQM or IT, so more empirical testing needs to be done (Shub
+and Stonebraker, 2009). While the relationship between SCI and
+performance has been widely analysed in the literature, we ﬁnd a
+lack of research with respect to any possible antecedents of this
+
+Table 2
+Relationship between EC and performance in previous research.
+
+Relationship
+
+Direct, positive and signiﬁcant
+
+relationship (Jin et al., 2013). In other respects, the relationship
+among workforce management, EC and performance has also been
+studied widely in previous research. However, there are a few
+studies that extend the model and connect the two lines of
+research. Consequently, this paper seeks to make a contribution
+to this line by studying EC as a possible antecedent of SCI.
+
+Opportunities for competitive advantage increasingly lie in
+managing people within and between ﬁrms in SC relationships
+(Ketchen and Hult, 2007; Fawcett et al., 2008; Fisher et al., 2010;
+Pandey et al., 2012). In this regard, Mentzer et al. (2001) identify
+commitment as one of the antecedents of SCM and Gundlach et al.
+(1995) and Lambert et al. (1998) state that it is an important
+ingredient for the successful implementation of SCM.
+
+In the SCM literature the studies that address workforce
+management usually focus on the inﬂuence that human resources
+has on the relationships between the organisations that it com-
+prises. Vanichchinchai (2012) states that most SCM frameworks,
+such as the SCM frameworks proposed by the Global Supply Chain
+Forum (GSCF), include business partner issues but almost totally
+ignore the internal employee component. However, the successful
+implementation of SCM requires integrating internal functions of
+the ﬁrm and effectively linking them with the external operations
+of its partner ﬁrms in the SC (Holmberg, 2000). When commit-
+ment is encouraged within an individual ﬁrm it will lead that ﬁrm
+to act cooperatively with other ﬁrms in implementing SCM (Mello
+and Stank, 2005). Therefore, EC issues within the organisation
+should be critical in achieving SCM excellence (Halldorsson et al.,
+2008; Gowen and Tallon, 2003; Shub and Stonebraker, 2009).
+Despite this, the inﬂuence of an organisation's EC on achieving SCI
+is a less studied topic (Bayo-Moriones and Merino-Díaz, 2004). We
+formulate the following hypotheses in order to provide empirical
+evidence on the topic:
+
+H13. EC is directly and positively related to INTI;
+
+H14. EC is directly and positively related to SI;
+
+H15. EC is directly and positively related to CI.
+
+In other respects, as far as we know, only a few studies analyse
+the relationships among EC, SCM/SCI and performance (Gowen
+and Tallon, 2003; Vanichchinchai and Igel, 2011; Vanichchinchai,
+2012). The conclusion of Vanichchinchai and Igel (2011) is that the
+SCM practices mediate the effect of TQM on company perfor-
+mance, and the explanation for this result is that the EC on which
+TQM focuses is a critical foundation for SCM, as it facilitates INTI.
+Gowen and Tallon (2003) concludes that EC is crucial for SCM
+practices to succeed. EC makes a critical independent contribution
+
+EC/Cost
+EC/Delivery
+EC/Flexibility
+EC/Productivity
+EC/Quality
+EC/Innovation and
+
+development
+
+Guest (2001), Paul and Anantharaman (2003), Young and Choi (2011), Vanichchinchai (2012)
+Paul and Anantharaman (2003)
+Vanichchinchai (2012)
+Guest (2001), Samad (2013), Boselie et al. (2005), Paul and Anantharaman (2003), Young and Choi (2011), Brown et al. (2011)
+Guest (2001), Boselie et al. (2005), Paul and Anantharaman (2003), Young and Choi (2011), Katou (2011)
+Katou (2011), Young and Choi (2011)
+
+EC/Customer satisfaction
+EC/Financial performance
+
+Moynihan et al. (2001), Kuo (2013), Nishii et al. (2008)
+Brown et al. (2011), Samad (2013)
+
+Relationship
+EC/Financial performance
+
+Mediated by
+Productivity and quality: Boselie et al. (2005)
+Employee retention, employee productivity, product quality, speed of delivery, operating cost: Paul and Anantharaman (2003)
+New product development, efﬁciency of task procedures, cost reduction, product quality, and overall productivity and defect reduction:
+Young and Choi (2011)
+Productivity and quality: Guest (2001)
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+247
+
+to the success of all of the SC practices. They also conclude that EC
+mediates the adverse impact of SCM implementation barriers on
+SCM success. Vanichchinchai (2012) found that employee involve-
+ment does not only have a direct positive impact on relationships
+with suppliers and customers (EI) and performance, but also an
+indirect positive impact on performance through EI. Thus, he
+found a mediating effect of EI
+in the relationship between
+employee involvement and performance.
+
+In conclusion, a few prior studies that exist seem to identify a
+possible mediating effect of SCI in the relationship between EC and
+performance, as has been demonstrated in other OM practices (e.g.
+TQM, JIT and TPM). As they analyse both SCI and performance
+aggregated into a single construct they do not examine the
+relationships between the SCI dimensions or with regard to the
+various performance measures. In this study we have analysed the
+SCI dimensions and the performance measures in disaggregation
+in order to provide more detailed empirical evidence and thus
+respond to the demand for greater research into EC as a possible
+antecedent of SCI and performance identiﬁed in the literature. The
+following hypotheses have been proposed in order to contribute to
+progress in this line:
+
+performance measure. This paper contributes to the prior litera-
+ture by providing empirical evidence in the six analysis groups
+(direct and indirect) by analysing the effects on the ﬁve perfor-
+mance measures separately (in H5–H12 and H18).
+
+3. Methodology
+
+3.1. Sample
+
+Our empirical analysis is based on the HPM project database,
+the data for which was collected during the project's third round
+in 266 mid-to-large-sized manufacturing plants (more than 100
+employees) in three industries in 2005–2008 in nine countries
+(Table 3). The unit of observation is the manufacturing plant.
+A stratiﬁed sampling design (Forza, 2002) was used to obtain an
+approximately equal number of plants for each industry–country
+combination. All plants within a given country were from different
+parent corporations. The average response rate was approximately
+65%. Given the sample's characteristics, this research is framed in a
+manufacturing context.
+
+H16. INTI acts as a mediator in the relationship between EC
+and SI;
+
+3.2.
+
+Instrument
+
+H17. INTI acts as a mediator in the relationship between EC
+and CI;
+
+H18. SCI acts as a mediator in the relationship between EC and
+performance.
+
+2.4. Objectives and proposed model
+
+The general objective of this research is to analyse the relation-
+ships between EC (as an antecedent) and SCI to explain several
+performance measures. However, in the proposed model (Fig. 2)
+we have established hypotheses focusing not only on the media-
+tion relationships, but also on the direct relationships between
+variables that need more research taking into account the previous
+literature. We have therefore analysed the direct relationships
+between: (1) the different dimensions of SCI, paying particular
+attention to INTI, traditionally underestimated in previous studies
+(H1–H4); (2) SCI dimensions and performance (H5–H8); (3) EC
+and performance (H12); (4) EC and SCI dimensions (H13–H15). We
+have also analysed the mediation relationships of: (5) EI between
+INTI and performance (H9–H11); and (6) SCI dimensions between
+EC and performance (H16–H18).
+
+Five performance measures have been analysed separately:
+ﬂexibility, delivery, quality, inventory and customer satisfaction.
+The results have therefore been obtained individually for each
+
+This research uses the HPM third round questionnaire. The
+original survey items were based on a wide-ranging review of the
+prior OM literature. A panel of experts reviewed the instruments
+in order to ensure content validity and a pilot test was conducted
+at several plants with pre-tests that had been analysed for
+reliability, validity and internal consistency. The international
+HPM research questionnaires were reviewed during the ﬁrst and
+second rounds. The construction validity, internal consistency and
+nomological validity therefore presented strong values in the
+scales that were ﬁnally used (Schroeder and Flynn, 2001; Flynn
+et al., 1995).
+
+Table 3
+Characteristics of the sample.
+
+Countries
+
+Automotive components
+
+Electronics Machinery
+
+Total
+
+Austria
+Finland
+Germany
+Italy
+Japan
+Korea
+Spain
+Sweden
+USA
+Total
+
+10
+14
+9
+10
+10
+10
+9
+7
+9
+88
+
+7
+6
+13
+10
+12
+10
+9
+10
+11
+88
+
+21
+30
+41
+27
+35
+31
+28
+24
+29
+266
+
+4
+10
+19
+7
+13
+11
+10
+7
+9
+90
+
+H8
+
+Performance i
+
+EC
+
+H14
+
+H13 
+
+H15
+
+H1 
+
+INTI
+
+H2
+
+H3
+
+SI
+
+EIO
+
+H6
+
+H5
+
+H4
+
+CI
+
+H7
+
+H12 
+
+Mediated effects: H9, H10, H11, H16, H17, H18
+
+Fig. 2. Proposed model and hypotheses.
+
+
+248
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+Each questionnaire in this research was tailored to the exper-
+tise of the focal informant following the key informant method
+(Bagozzi et al., 1991). The items used in the present research were
+responded to by at least two different managers/workers (plant
+accounting managers, direct labour, human resource managers,
+inventory managers, process engineers, plant managers, quality
+managers, supervisors) in the plant for information to be triangu-
+lated. This gives a transversal
+image of a plant so that key
+informant bias can be avoided (Van Bruggen et al., 2002) while
+simultaneously increasing the validity.
+
+3.3. Operationalisation
+
+The items concerning EC,
+
+INTI, CI, SI, EOI and customer
+satisfaction are measured on a 1–7 Likert scale asking informants
+for their perception (1¼strongly disagree, 4¼neither agree nor
+disagree, 7¼strongly agree). The items concerning operational
+performance (delivery, ﬂexibility, inventory and quality) are mea-
+sured on a 1–5 Likert scale asking key informants for their
+perception of past performance compared to competitors
+(1¼poor, low end of industry, 5¼superior). Table 4 shows the
+items of each construct. For each item, plant-level data are
+calculated as an average value of all the valid responses at the
+company. All the constructs used are ﬁrst-order constructs.
+
+3.4. Method of analysis
+
+The HPM project data constitute a broad sample, which enables
+the Structural Equation Model (SEM) to be used (Marin-Garcia
+et al., 2013). The analyses have been done with the EQS programme
+
+using the maximum verisimilitude parameter estimation method
+(Bentler, 2002). Goodness of ﬁt will be evaluated with a robust
+method to prevent departures from multivariate normality in the
+data. The two-step modelling approach (Schumacker and Lomax,
+1996) will be used to check the measurement model and the full
+latent structural model. In all cases, an analysis will be carried out
+on the psychometric properties of the construct measurement
+models. This will verify each construct's goodness of ﬁt, the
+signiﬁcance of the load on each of the items and that their
+standardised values are greater than 0.6. Composite reliability and
+Cronbach's Alpha will also be tested to ensure that they are over
+0.7 and that the variance extracted is over 0.4 (Hair et al., 1995).
+Discriminant validity will be tested using the conﬁdence interval for
+correlations method (Anderson and Gerbing, 1988).
+
+Apart from analysing direct relationships between constructs,
+this paper also analyses possible mediating relationships. Media-
+tion is one of several different relationships that can occur when a
+third construct Z (called the mediator) is included in the analysis
+between two other constructs (X-Y, where X is the independent
+construct and Y the dependent construct) in such a way that X is
+the cause of Z which, in turn, is the cause of Y. Mediation can be
+full or partial.
+In the case of full mediation the direct effect
+between X and Y is no longer signiﬁcant when the mediating
+variable (Z) is introduced. In partial mediation the direct effect
+diminishes but does not disappear altogether and a direct effect
+(X-Y) and an indirect effect (X-Z-Y) exist alongside each other
+with the full effect being the sum of the direct and indirect effects.
+An alternative situation to mediation may also occur: suppression.
+In suppression the direct and indirect effects have opposite
+arithmetic signs (Alto and Vallejo, 2011).
+
+Table 4
+Construct items.
+
+Constructs
+
+Description
+
+Standardised
+loads
+
+Convergent
+validitya
+
+Customer integration (CI)
+
+External integration orientation
+
+(EOI)
+
+Supplier integration (SI)
+
+Internal integration (INTI)
+
+Employee commitment (EC)
+
+Delivery (Del)
+
+Flexibility (Flex)
+
+We frequently are in close contact with our customers
+Our customers give us feedback on our quality and delivery performance
+We strive to be highly responsive to our customers' needs
+We work as a partner with our suppliers, rather than having an adversarial relationship
+We believe that cooperative relationships will lead to better performance than adversarial
+relationships
+We believe than an organisation should work as a partner with its surrounding community
+We maintain close communication with suppliers about quality considerations and design
+changes
+We maintain cooperative relationships with our suppliers
+We strive to establish long-term relationships with suppliers
+Departments in the plant communicate frequently with each other
+Management works together well on all important decisions
+Generally speaking, everyone in the plant works well together
+I talk up this organisation to my friends as a great organisation to work for
+I am proud to tell others that I am part of this organisation
+I am extremely glad that I chose this organisation to work for, over others I was considering at the
+time I joined
+On time delivery performance
+
+Fast delivery
+
+Flexibility to change product mix
+
+Flexibility to change volume
+
+Inventory (Inv)
+
+Inventory turnover
+
+Quality (Q)
+
+Conformance to product speciﬁcations
+
+Cycle time (from raw materials to delivery)
+
+Product capability and performance
+
+0.745
+0.822
+0.711
+0.734
+0.619
+
+0.654
+0.857
+
+0.656
+0.643
+0.730
+0.745
+0.755
+0.861
+0.901
+0.840
+
+0.812
+0.767
+
+0.664
+0.828
+
+0.647
+0.881
+
+0.681
+0.611
+
+Customer satisfaction (CS)
+
+0.880
+Our customers are pleased with the products and services we provide for them
+0.729
+Our customers seem happy with our responsiveness to their problems
+Customer standards are always met by our plant
+0.735
+Our customers have been well satisﬁed with the quality of our products, over the past three years 0.862
+
+a α (Cronbach's Alpha), CR (compound reliability), EV (Extracted Variance).
+
+α: 0.77
+CR:0.80
+EV:0.58
+α: 0.72
+CR:0.71
+EV:0.45
+
+α: 0.74
+CR:0.77
+EV:0.53
+
+α: 0.79
+CR:0.79
+EV:0.55
+α: 0.89
+CR:0.90
+EV:0.75
+
+α: 0.77
+CR:0.77
+EV:0.63
+α: 0.70
+CR:0.72
+EV0.56
+α: 0.73
+CR:0.74
+EV:0.60
+α: 0.62
+CR:0.59
+EV:0.42
+α: 0.88
+CR:0.88
+EV:0.65
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+249
+
+Flexibility
+
+Delivery
+
+Quality
+
+Model 4
+
+Inventory
+
+Customer 
+satisfaction
+
+EIO
+
+Model 5
+
+Flexibility
+Delivery
+Quality
+Inventory
+Customer-
+satisfaction
+
+EC
+
+INTI
+
+EC
+
+INTI
+
+EC
+
+INTI
+
+CI
+
+SI
+
+CI
+
+SI
+
+CI
+
+SI
+
+EC
+
+EIO
+
+Model 1
+
+EC
+
+INTI
+
+Pi
+
+Model 2
+
+EIO
+
+Pi
+
+Model 3
+
+EC
+
+INTI
+
+SI
+
+CI
+
+Flexibility
+
+Delivery
+
+Quality
+
+Model6
+
+Inventory
+
+Customer
+satisfaction
+
+Model 7
+
+CI
+
+SI
+
+Fig. 3. Models for analysis.2
+
+EC
+
+Three steps must be taken to test whether a construct acts as a
+mediator between other constructs. The standardised loads and
+their signiﬁcance must be calculated separately in each of these
+three steps (Baron and Kenny, 1986). The ﬁrst step is to analyse the
+relationship between X and Z. During the second step, the
+relationship between X and Y is analysed. Lastly, X, Y and Z are
+included in the model. For a mediating relationship to exist, the
+following conditions must all be met simultaneously: a) in step 1,
+X must have a signiﬁcant load in the direct path on Z; b) in step 2,
+X must have direct effect on Y; c) in step 3, Z must have a
+signiﬁcant load in the direct path on Y; and d) X's direct load on
+
+2 The measurement model is also included in the analyses but for greater
+clarity only the model's structure is shown. In model 5 each performance construct
+has its own path (similar to models 4 and 6), but we have combined several paths
+in a single line to make the ﬁgure clearer.
+
+Y should be lower in step 3 than in step 2. In short, testing
+mediation implies the prior analysis of the direct relationships
+between the constructs, whereby all our hypotheses for both
+mediation and direct relationships will be based on the signiﬁ-
+cance of the paths of the analyses undertaken in these three steps.
+We seek to verify several mediating blocks in our research. The
+three steps proposed by Baron and Kenny (1986) have been
+followed for each of these three proposed mediating blocks. For
+this we have established different models (Fig. 3). (1) The ﬁrst
+block veriﬁes the possible mediation of EIO in the relationship
+between SI or CI and the performance measures (H9 and H10). For
+this analysis we shall use models 1, 2 and 3. Versions of model
+2 and 3 were constructed and analysed separately for each of the
+ﬁve performance constructs in order to prevent pivoting problems
+in the SEM parameter estimation process. These models enable the
+parameters required for testing hypotheses H3, H4, H6–H8 to be
+
+
+250
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+estimated. (2) The second block, studies the possible joint media-
+tion of all the EI dimensions in block 1 (SI/CI/EIO) between INTI
+and the performance measures (H11). The use of models 1, 3 and
+4 is proposed for this and these same models provide the data for
+testing hypotheses H1, H2, H5. (3) The third block tests whether
+INTI mediates in the relationship between EC and CI and SI (H16
+and H17). For this we propose models 1, 5 and 7, which also enable
+hypotheses H13, H14 and H15 to be tested. (4) The fourth and last
+block enables us to test whether SCI (sequence established in
+blocks 1, 2 and 3) acts as a mediator between EC and the
+performance measures (H18). Models 4, 5 and 6 are used for this
+fourth block and the results can be used to assess hypothesis H12.
+Models 4, 5 and 6 in Fig. 3 include all the performance variables
+simultaneously, but not integrated in a single construct. Model 5 is
+a generalisation of model 3, but only includes the direct paths
+among CI, SI and EOI and the performance measures that are
+signiﬁcant or do not cause a net suppression effect.
+
+4. Results
+
+Table 5 summarises the descriptive statistics of the constructs
+analysed. All of the correlations are positive, and most are
+signiﬁcant and of moderate or low intensity. The high correlation
+between CI and customer satisfaction stands out while, at the
+other extreme, so does the absence of signiﬁcant correlation
+between CI and inventory and quality, or between SI and ﬂexibility
+and inventory. There is moderate to low correlation between the
+performance variables (except in the case of
+inventory and
+customer satisfaction, which is not signiﬁcant).
+The measurement model of all the constructs has adequate
+goodness-of-ﬁt indices (normed Chi-squared o5; CFI40.90; IFI
+40.90; MIFI 40.90; AGFI 40.90; GFI40.85; and RMSEAo0.08). In
+addition (Table 4), all the factor loadings of the items associated with
+the ﬁrst-order constructs are signiﬁcant with values of over 0.6 and
+the Cronbach's Alpha and compound reliability are over 0.7 (except for
+
+Table 5
+Descriptive statistics and correlation between constructs.
+
+CI
+
+SI
+
+EIO
+
+INTI
+
+EC
+
+Del
+
+Flex
+
+Inv
+
+Q
+
+CS
+
+CI
+SI
+EIO
+INTI
+EC
+Del
+Flex
+Inv
+Q
+CS
+Meana
+Variance
+N Valid
+
+0.539nnn
+
+0.324nnn
+0.537nnn
+
+0.542nnn
+0.398nnn
+0.452nnn
+
+0.377nnn
+0.363nnn
+0.374nnn
+0.638nnn
+
+0.293nnn
+0.218nn
+0.414nnn
+0.344nnn
+0.161nn
+
+0.285nnn
+0.132
+0.340nnn
+0.397nnn
+0.348nnn
+0.613nnn
+
+0.082
+0.081
+0.335nnn
+0.171n
+0.173nn
+0.451nnn
+0.413nnn
+
+5.7
+0.55
+240
+
+5.5
+0.50
+240
+
+5.8
+0.50
+240
+
+5.3
+0.63
+240
+
+5.4
+0.37
+240
+
+3.8
+0.58
+240
+
+3.9
+0.45
+240
+
+3.4
+0.52
+240
+
+0.100
+0.190nn
+0.342nnn
+0.269nnn
+0.322nnn
+0.577nnn
+0.408nnn
+0.473nnn
+
+3.9
+0.38
+240
+
+0.700nnn
+0.541nnn
+0.272nnn
+0.566nnn
+0.494nnn
+0.260nnn
+0.222nnn
+0.120
+0.262nnn
+
+5.3
+0.33
+240
+
+n α signiﬁcance: 10%.
+nn α signiﬁcance: 5%.
+nnn α signiﬁcance: 1%.
+a All the constructs are calculated as the mean of the items in the construct. For EC, CI, SI, EIO and INTI construct values are scaled from 1 to 7, for all other constructs
+
+values are scaled from 1 to 5.
+
+Table 6
+Results for models 2 and 3.
+
+Dependent construct-
+
+Flexibility
+
+Delivery
+
+Mod 2
+
+Mod 3
+
+Mod 2
+
+Mod 3
+
+0.085
+ 0.085
+—
+0.383nnn
+—
+—
+0.582nnn
+0.428nnn
+0.659nnn
+0.168
+107.7
+71
+0.003
+0.94
+0.91
+0.97
+0.97
+0.93
+0.005
+
+0.073
+ 0.184n
+0.224nnn
+0.348nnn
+0.163n
+0.449nnn
+0.589nnn
+0.447nnn
+0.659nnn
+0.192
+165.5
+110
+0.001
+0.92
+0.89
+0.96
+0.96
+0.89
+0.046
+
+0.132
+0.039
+—
+0.233nnn
+—
+—
+0.572nnn
+0.442nnn
+0.645nnn
+0.119
+94.7
+71
+0.03
+0.94
+0.92
+0.98
+0.98
+0.95
+0.037
+
+0.120
+ 0.093
+0.330nnn
+0.179
+0.159
+0.453nnn
+0.579nnn
+0.438nnn
+0.647nnn
+0.195
+160.1
+110
+0.001
+0.92
+0.89
+0.96
+0.96
+0.90
+0.040
+
+CI-Perf
+SI-Perf
+EIO-Perf
+INTI-Perf
+CI-EIO
+SI-EIO
+INTI-CI
+INTI-SI
+EC-INTI
+R2
+Chi-square
+Df
+Sig
+GFI
+AGFI
+CFI
+IFI
+MIFI
+RMSEA
+
+n α signiﬁcance: 10%.
+nn α signiﬁcance: 5%.
+nnn α signiﬁcance: 1%.
+
+Quality
+
+Mod 2
+ 0.152
+0.092
+—
+0.347nnn
+—
+—
+0.577nnn
+0.443nnn
+0.659nnn
+0.112
+88.2
+71
+0.08
+0.95
+0.92
+0.98
+0.99
+0.96
+0.032
+
+Inventory
+
+Customer satisfaction
+
+Mod 3
+ 0.150
+ 0.031
+0.291nnn
+0.256nnn
+0.170nn
+0.456nnn
+0.585nnn
+0.466nnn
+0.658nnn
+0.135
+150.3
+110
+0.006
+0.93
+0.90
+0.97
+0.97
+0.92
+0.040
+
+Mod 2
+ 0.045
+0.084
+—
+0.175
+—
+—
+0.574nnn
+0.431nnn
+0.661nnn
+0.041
+99.0
+71
+0.016
+0.94
+0.91
+0.98
+0.98
+0.94
+0.041
+
+Mod 3
+ 0.038
+ 0.171
+0.381nnn
+0.102
+0.097
+0.510nnn
+0.579nnn
+0.451nnn
+0.660nnn
+0.115
+161.9
+110
+0.000
+0.92
+0.89
+0.96
+0.96
+0.90
+0.045
+
+Mod 2
+
+Mod 3
+
+0.503nnn
+0.178nnn
+—
+0.243nnn
+—
+—
+0.600nnn
+0.431nnn
+0.647nnn
+0.574
+181.9
+98
+0.000
+0.92
+0.88
+0.95
+0.95
+0.85
+0.058
+
+0.519nnn
+0.255nnn
+ 0.164nn
+0.255nnn
+0.160n
+0.483nnn
+0.611nnn
+0.454nnn
+0.648nnn
+0.598
+263.7
+143
+0.000
+0.90
+0.87
+0.94
+0.94
+0.79
+0.057
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+251
+
+quality). Discriminant validity has been veriﬁed as none of the
+correlations includes one in its 95% conﬁdence interval.
+
+Starting with the ﬁrst block explained in the methodology
+section, models 1, 2 and 3 have been analysed in order to test
+hypotheses H3, H4 and H6–H10. Table 6 summarises the analyses
+for models 2 and 3. The results of model 1 can be seen in
+Tables 7 and 9. All three models show good goodness-of-ﬁt. In
+addition, all the estimated factor loadings are signiﬁcant. In other
+respects, although the correlations between the constructs are all
+positive (Table 5), some of the standardised loadings are negative
+(Table 6). This is due to a negative net suppression effect which is
+produced when the effects of the explanatory constructs reduce
+the mediating constructs' variance of error rather than explaining
+variation in performance directly (Darmawan and Keeves, 2006;
+Howell, 2010).
+
+The analysis of the ﬁrst mediation block (models 1, 2 and 3)
+shows that the direct relationships between SI and EIO and
+between CI and EIO are signiﬁcant, positive and with a path of
+0.473 and 0.169, respectively (model 1, Table 9). This supports H3
+and H4. Meanwhile, the direct relationships between SI or CI and
+the performance measures are only signiﬁcant in the case of
+customer satisfaction (model 2, Table 6) with values of 0.503 for
+CI and 0.178 for SI. Therefore hypotheses H6 and H7 have only
+been supported for customer satisfaction and not for operational
+performance (ﬂexibility, delivery,
+inventory and quality). With
+respect to the relationship between EIO and performance, the
+paths are signiﬁcant and positive for ﬂexibility, delivery, inventory
+and quality, but negative for customer satisfaction (model 3,
+Table 6). In this case, H8 is accepted for all the performance
+measures except customer satisfaction. These results mean that
+the mediation of EIO between SI or CI and the operational
+
+Table 7
+Goodness-of-ﬁt of models 1, 4, 5, 6, 7 and the ﬁnal model.
+
+Mod 1 Mod 4 Mod 5 Mod 6 Mod 7
+
+Final model
+
+Chi-square
+Df
+Sig
+GFI
+AGFI
+CFI
+IFI
+MIFI
+RMSEA
+
+140.3
+85
+0.000
+0.93
+0.90
+0.96
+0.96
+0.90
+0.050
+
+269.07
+129
+0.000
+0.871
+0.829
+0.914
+0.815
+0.737
+0.069
+
+507.60
+301
+0.000
+0.847
+0.808
+0.914
+0.915
+0.637
+0.055
+
+232.65
+85
+0.000
+0.862
+0.806
+0.893
+0.894
+0.724
+0.087
+
+53.92
+25
+0.001
+0.955
+0.918
+0.964
+0.965
+0.946
+0.067
+
+521.40
+311
+0.000
+0.844
+0.811
+0.912
+0.913
+0.632
+0.054
+
+Table 8
+Results for models 4 and 5.
+
+performance measures can be considered. There is no mediation
+with regard to customer satisfaction, and the relationship between
+EIO and customer satisfaction sustains a negative net suppression
+when the direct relationships of SI and CI with customer satisfac-
+tion are included. As these direct relationships are signiﬁcant, we
+shall only consider the direct relationship between SI and CI and
+customer satisfaction in subsequent models. To conclude, hypoth-
+eses H9 and H10 have been supported for operational performance
+but not for customer satisfaction.
+
+Similarly, the second mediation block tests hypotheses H1, H2,
+H5 and H11 by analysing models 1, 3 and 4. The direct relation-
+ships between INTI and SI or CI are signiﬁcant, with paths of 0.447
+and 0.604, respectively (model 1, Table 9). This conﬁrms hypoth-
+eses H1 and H2. Likewise, INTI has a direct and signiﬁcant effect on
+all the performance measures. The value of the paths is 0.60 for
+customer satisfaction, slightly over 0.40 for delivery, ﬂexibility and
+quality and 0.30 for inventory (model 4, Table 8). Despite the fact
+that model 4 presents a poor ﬁt (Table 7), all the estimated factor
+loadings were signiﬁcant and the paths have values that are
+consistent with those in model 3, which presents a good ﬁt. As
+such, the data support H5.
+
+If we compare the values of the direct effects of INTI on
+performance with the constructs relative to EI (SI/CI/EIO) not
+included in the model (model 4 in Table 8) with the direct effects
+in the model with the mediation block (EI) included (model 3 in
+Table 6), we see that there is partial mediation in ﬂexibility, quality
+and customer satisfaction (the direct effects are reduced but they
+continue to be signiﬁcant and, therefore, there is a direct effect
+between INTI and these performance measures, and a separate
+indirect effect through EI (SI/CI/EIO)). In other respects, mediation
+is full in delivery and inventory. This conﬁrms H11.
+
+For the third mediation block, which tests hypotheses H13–
+H17, we shall use models 1, 5 and 7, which present ﬁt indices that
+can be considered acceptable on the whole (Table 7). The direct
+relationship between EC and INTI is signiﬁcant with a path of
+0.636 (model 1, Table 9), which conﬁrms H13. Similarly, the direct
+relationships between EC and CI or SI are signiﬁcant, with paths of
+0.385 and 0.349, respectively (model 7, Table 9), which enables
+hypotheses H14 and H15 to be conﬁrmed. If we compare the
+values of the direct relationship between EC and CI or SI in model
+5, which includes construct INTI as a mediator (0.017 and 0.153,
+respectively, neither of which are signiﬁcant in Table 8), with those
+of model 7 (Table 9), it can be observed that there is full mediation
+of INTI, the presence of which in the model prevents the direct
+relationship from being signiﬁcant when INTI is included as the
+
+Dependent variable-
+
+Delivery
+
+Flexibility
+
+Inventory
+
+Quality
+
+Customer satisfaction
+
+Mod 4
+
+Mod 5
+
+Mod 4
+
+Mod 5
+
+Mod 4
+
+Mod 5
+
+Mod 4
+
+Mod 5
+
+Mod 4
+
+Mod 5
+
+—
+—
+—
+0.419nnn
+—
+—
+—
+—
+—
+—
+—
+0.675nnn
+0.176
+
+—
+—
+0.521nnn
+0.293nnn
+-0.192nn
+0.156n
+0.412nnn
+0.574nnn
+0.017
+0.348nnn
+0.153
+0.641nnn
+0.363
+
+—
+—
+—
+0.440nnn
+—
+—
+—
+—
+—
+—
+—
+0.675nnn
+0.194
+
+—
+—
+0.399nnn
+0.230nn
+0.064
+0.156n
+0.412nnn
+0.574nnn
+0.017
+0.348nnn
+0.153
+0.641nnn
+0.235
+
+—
+—
+—
+0.303nn
+—
+—
+—
+—
+—
+—
+—
+0.675nnn
+0.092
+
+—
+—
+0.426nnn
+-0.005
+0.022
+0.156n
+0.412nnn
+0.574nnn
+0.017
+0.348nnn
+0.153
+0.641nnn
+0.185
+
+—
+—
+—
+0.401nnn
+—
+—
+—
+—
+—
+—
+—
+0.675nnn
+0.161
+
+—
+—
+0.439nnn
+0.016
+0.145
+0.156n
+0.412nnn
+0.574nnn
+0.017
+0.348nnn
+0.153
+0.641nnn
+0.248
+
+—
+—
+—
+0.601nnn
+—
+—
+—
+—
+—
+—
+—
+0.675nnn
+0.362
+
+0.495nnn
+0.206nnn
+—
+0.106
+0.165nn
+0.156n
+0.412nnn
+0.574nnn
+0.017
+0.348nnn
+0.153
+0.641nnn
+0.572
+
+CI-Perf
+SI-Perf
+EIO-Perf
+INTI-Perf
+EC-Perf
+CI-EIO
+SI-EIO
+INTI-CI
+EC-CI
+INTI-SI
+EC-SI
+EC-INTI
+R2
+
+n α signiﬁcance: 10%.
+nn α signiﬁcance: 5%.
+nnn α signiﬁcance: 1%.
+
+
+252
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+Table 9
+Results for models 1, 6 and 7.
+
+Dependent construct- EIO Mod 1 Delivery Mod 6
+
+Flexibility Mod 6
+
+Inventory Mod 6 Quality Mod 6
+
+Customer satisfaction Mod 6
+
+CI/SI Mod 7
+
+—
+0.169nn
+0.473nnn
+0.604nnn
+—
+0.447nnn
+—
+0.636nnn
+0.296
+
+0.205nnn
+—
+—
+—
+—
+—
+—
+—
+0.042
+
+0.353nnn
+—
+—
+—
+—
+—
+—
+—
+0.124
+
+0.252nnn
+—
+—
+—
+—
+—
+—
+—
+0.064
+
+0.359nnn
+—
+—
+—
+—
+—
+—
+—
+0.129
+
+0.505nnn
+—
+—
+—
+—
+—
+—
+—
+0.225
+
+—
+—
+—
+—
+0.385nnn
+—
+0.349nnn
+—
+0.148 (for CI)
+0.122 (for SI)
+
+EC-Perf
+CI-EIO
+SI-EIO
+INTI-CI
+EC-CI
+INTI-SI
+EC-SI
+EC-INTI
+R2
+
+n α signiﬁcance: 10%.
+nn α signiﬁcance: 5%.
+nnn α signiﬁcance: 1%.
+
+mediator. All this allows us to conﬁrm that EC explains INTI
+directly and it is through INTI that it acts on the components of
+EI. As a result, these data enable us to support H16 and H17.
+
+Lastly, the fourth mediation block uses models 4, 5 and 6 to test
+H12 and H18. EC presents a direct relationship with the perfor-
+mance measures if no other construct is included in the model.
+The path values are signiﬁcant, with values of 0.205 for delivery,
+0.252 for inventory, 0.353 for ﬂexibility, 0.359 for quality, and
+0.505 for customer satisfaction (model 6, Table 9). These data
+conﬁrm H12 for all the performance measures.
+
+In other respects, model 4 (Table 8) conﬁrmed the direct
+relationship between EC and INTI and between INTI and the
+performance measures. Comparing the direct
+relationships
+between EC and the performance measures when no other
+constructs are included (model 6, Table 9) with the direct relation-
+ships between EC and performance measures when the remaining
+constructs are included (model 5, Table 8), it can be seen that SCI
+(INTI/SI/CI/EIO) acts as a full mediator for EC in ﬂexibility, inven-
+tory and quality, as when SCI is included in model 5 the signiﬁcant
+paths are no longer signiﬁcant. This generates negative net
+suppression for delivery (the direct relationship changes its
+arithmetical sign and the direct effects of INTI and EIO increase
+compared to model 3, Table 6). If we therefore eliminate this direct
+relationship from the ﬁnal model it will be fully mediated. As far as
+customer satisfaction is concerned, SCI produces partial mediation,
+reducing the direct effect of EC on performance, but without
+cancelling it out or making it non-signiﬁcant. For all these reasons
+we can therefore consider that H18 has been conﬁrmed.
+
+Given all the above results, the ﬁnal model was established on
+the basis of model 5 and omitting all the non-signiﬁcant paths
+(EC-ﬂexibility, EC-inventory, EC-quality, EC-CI, EC-SI,
+INTI-inventory, INTI-quality, INTI-customer satisfaction) and
+those that cause a negative net suppression effect (EC-delivery,
+INTI-delivery). The ﬁnal model presents a similar ﬁt to model 5.
+The standardised paths are shown in Table 10. These data enable
+the direct and indirect effects of the different constructs on the
+performance measures to be calculated (Table 11). The ﬁnal model
+explains 37.6% of variance in delivery, 25.1% in ﬂexibility, 20.4% in
+inventory, 27.0% in quality and 57.5% of variance in customer
+satisfaction.
+
+Table 11 summarises the effects of the constructs analysed.
+Following Chin (1988), a 40.20 path can be considered strong (as
+opposed to simply statistically signiﬁcant). In this case, there are
+strong direct relationships between EIO and delivery, quality,
+inventory and ﬂexibility. CI only shows strong direct effects on
+customer satisfaction and does not appear to strongly affect the
+other performance measures. However, SI presents a strong direct
+effect on customer satisfaction and moderate indirect effects on
+
+Table 10
+Results for the ﬁnal model.
+
+Dependent
+construct-
+
+Delivery
+ﬁnal
+model
+
+Flexibility
+ﬁnal
+model
+
+Inventory
+ﬁnal
+model
+
+Quality
+ﬁnal
+model
+
+Customer
+satisfaction
+ﬁnal model
+
+EIO-Perf
+CI-Perf
+SI-Perf
+INTI-Perf
+EC-Perf
+CI-EIO
+SI-EIO
+INTI-CI
+EC-CI
+INTI-SI
+EC-SI
+EC-INTI
+R2
+
+0.613nnn
+—
+—
+—
+—
+0.198nn
+0.393nnn
+0.603nnn
+—
+0.478nnn
+—
+0.657nnn
+0.376
+
+0.386nnn
+—
+—
+0.222nnn
+—
+0.198nn
+0.393nnn
+0.603nnn
+—
+0.478nnn
+—
+0.657nnn
+0.251
+
+0.451nnn
+—
+—
+—
+—
+0.198nn
+0.393nnn
+0.603nnn
+—
+0.478nnn
+—
+0.657nnn
+0.204
+
+0.519nnn —
+—
+—
+—
+—
+0.198nn
+0.393nnn
+0.603nnn
+—
+0.478nnn
+—
+0.657nnn
+0.270
+
+0.540nnn
+0.219nnn
+—
+0.215nnn
+0.198nn
+0.393nnn
+0.603nnn
+—
+0.478nnn
+—
+0.657nnn
+0.575
+
+n α signiﬁcance: 10%.
+nn α signiﬁcance: 5%.
+nnn α signiﬁcance: 1%.
+
+ﬂexibility and inventory; a strong indirect effect on delivery and
+quality. Meanwhile, INTI presents strong direct and full effects on
+ﬂexibility. Its indirect effects on the performance variables are
+strong on customer satisfaction and moderate on delivery, inven-
+tory and quality. EC has strong direct and indirect effects on
+customer satisfaction and a moderate indirect effect on delivery
+and ﬂexibility.
+
+As can be seen in Table 12, the majority of the hypotheses
+tested have been supported. The ﬁndings will be discussed in the
+following section.
+
+5. Discussion and conclusions
+
+5.1. Research ﬁndings and the previous literature
+
+The hypotheses H1–H4 have been supported. This implies that
+the higher the level of INTI, the higher the levels of CI and SI.
+In other respects, the existence of SI and CI helps the ﬁrm to believe
+in EI's strategic importance (EIO) and this contributes to its future
+strategies continuing to seek collaborative relationships with sup-
+pliers and customers rather than adversarial relationships, in their
+quest for generating processes with added value that enable them
+to achieve sustainable competitive advantages (Porter, 1986). The
+hypotheses tested provide new empirical evidence and respond to
+the call for more research on this topic (Zhao et al., 2011; Kim, 2013;
+Alfalla-Luque et al., 2013a). The results are in line with previous
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+253
+
+Table 11
+Direct and indirect paths (standardised loads).
+
+Delivery
+
+Flexibility
+
+Inventory
+
+Quality
+
+Customer satisf.
+
+EIO
+CI
+
+SI
+
+INTI
+
+EC
+
+Signiﬁcant direct path 0.613
+Non-signiﬁcant direct path
+Indirect path 0.121
+Non-signiﬁcant direct path
+Indirect path 0.241
+Non-signiﬁcant direct path.
+
+Indirect path 0.188
+Non-signiﬁcant direct path
+Indirect path 0.107
+
+Signiﬁcant direct path 0.386
+Non-signiﬁcant direct path
+Indirect path 0.076
+Non-signiﬁcant direct path
+Indirect path 0.152
+Signiﬁcant direct path 0.222
+Indirect path 0.119
+Total path 0.341
+Non-signiﬁcant direct path
+Indirect path 0.193
+
+Signiﬁcant direct path 0.451
+Non-signiﬁcant direct path
+Indirect Path 0.089
+Non-signiﬁcant direct path
+Indirect path 0.177
+Non-signiﬁcant direct path.
+
+Signiﬁcant direct path 0.519
+Non-signiﬁcant direct path
+Indirect path 0.103
+Non-signiﬁcant direct path
+Indirect path 0.204
+Non-signiﬁcant direct path
+
+Indirect path 0.139
+Non-signiﬁcant direct path
+Indirect path 0.079
+
+Indirect path 0.159
+Non-signiﬁcant direct path
+Indirect path 0.090
+
+Non-signiﬁcant direct path
+Signiﬁcant direct path 0.540
+
+Signiﬁcant direct path 0.219
+
+Non-signiﬁcant direct path
+
+Indirect path 0.430
+Signiﬁcant direct path 0.215
+Indirect path 0.244
+Total path 0.459
+
+empirical research that found a signiﬁcant positive correlation
+between INTI and EI (Gimenez and Ventura, 2005; Koufteros
+et al., 2005; Eng, 2006; Koufteros et al., 2010; Zhao et al., 2011;
+Baihaqi and Sohal, 2013). INTI seems to be the starting point for
+broader integration across the SC (Harrison and Van Hoek, 2005).
+The direct and mediated effects of INTI and EI dimensions on
+the performance measures have also been analysed. As explained
+in Section 2, the previous literature is not in complete agreement
+on this point. The ﬁndings of this research show that INTI has a
+direct and signiﬁcant positive effect on all the performance
+measures (H5). This result is consistent with several studies
+(Droge et al., 2004; Stank et al., 2001; Germain and Iyer, 2006;
+Flynn et al., 2010; Huo, 2012; Liu et al., 2012; Zhao et al., 2013;
+Danese et al., 2013).
+
+The direct relationships between SI and CI and performance are
+only signiﬁcant for customer satisfaction (H6 and H7). However,
+the presence of EIO directly affects all the performance measures
+except customer satisfaction (H8). EIO is therefore the element
+that generates the organisation's strategic commitment to suppli-
+ers and customers and enables “operational” efﬁciency to be
+improved. This is consistent with Swink et al. (2007) when they
+state that the simultaneous strategic integration of customers and
+suppliers is considered to be a necessary condition for ensuring
+the achievement of signiﬁcant beneﬁts. This seems to show the
+importance of including the EI strategic vision with respect to both
+customers and suppliers (EIO) achieving operational results com-
+pared to either SI or CI individually. On the other hand, customer
+satisfaction seems to be directly linked to the existence of SI or CI.
+In line with the RBV, EIO can be considered one of the core
+capabilities (Bowersox et al., 2000) that provide greater beneﬁts
+than adversarial relationships (Whipple et al., 2010). Like the
+present research, some studies found that CI did not have a
+signiﬁcant direct effect on operational performance (Devaraj
+et al., 2007; Danese and Romano, 2011; Danese and Romano,
+2013) and that CI and SI had a positive effect on customer
+satisfaction (signiﬁcantly higher for CI) (Zhao et al., 2013). Further-
+more, there has also been support for SI not being directly related
+to operational performance (Stank et al., 2001; Koufteros et al.,
+2007; Song and Thieme, 2009, Flynn et al., 2010).
+
+If we were only to take these direct relationships into account,
+the above results would be the deﬁnitive ﬁndings, but, as we have
+demonstrated, some of the relationships are mediated. As sug-
+gested by Jin et al. (2013), a possible origin of the lack of consensus
+on the relationships between SCI dimensions and performance is
+that these relationships can be nuanced. Indeed, EIO acts as a
+mediator in the relationship between SI or CI and the operational
+performance measures, but not customer satisfaction (H9 and
+H10).
+is therefore the inclusion of EIO, considering both
+suppliers and customers, what seems to generate an indirect effect
+between SI or CI and the improvement in operational perfor-
+mance. The full mediation of EI (SI/CI/EIO) between INTI and
+
+It
+
+Table 12
+Conclusions of hypothesis testing.
+
+Hypothesis
+
+Result
+
+H1, H2, H3,
+
+Supported
+
+H4
+
+H5
+H6, H7
+
+H8, H9, H10
+
+H11
+
+H12
+H13, H14,
+
+H15
+
+H16 , H17
+H18
+
+Supported for all the performance measures
+Supported for customer satisfaction
+Not supported for delivery, ﬂexibility, inventory and quality
+Supported for ﬂexibility, delivery, inventory and quality
+Not supported for customer satisfaction
+Supported
+
+Full mediation for delivery and inventory
+Partial mediation for ﬂexibility, quality and customer
+
+satisfaction
+Supported for all the performance measures
+Supported
+
+Supported (full mediation)
+Supported with:
+
+Full mediation for delivery, ﬂexibility, inventory and quality
+Partial mediation for customer satisfaction
+
+delivery and inventory, and a partial mediation for ﬂexibility,
+quality and customer satisfaction (H11) has also been conﬁrmed.
+In consequence, EI channels the effect of INTI and allows improve-
+ments to all the performances measures (with full or partial
+mediation). In other words, there are two indirect paths between
+INTI and all the performance measures (P), which goes through SI
+(INTI-SI-EIO-P) and CI (INTI-CI-EIO-P) and, at the same
+time there is also a direct effect on some performance measures
+(customer satisfaction, ﬂexibility and quality). These ﬁndings seem
+to show that INTI plays a direct role in achieving higher customer
+satisfaction, higher ﬂexibility and better quality. However, the
+importance of INTI's direct role recedes while EI gains in impor-
+tance for explaining the improvement in delivery and inventory.
+To put it another way, the initially identiﬁed INTI direct relation-
+ship disappears when EI is included in the model, and EI acts with
+the full mediation of delivery and inventory. The SCI dimensions
+are therefore not independent of each other. These results are in
+line with Gimenez and Ventura (2005), who found that EI
+mediates the relationship between INTI and operational perfor-
+mance measures.
+
+However, the proposed model becomes even more complex
+when we include the analysis of the inﬂuence that EC has as an
+antecedent of the relationship between SCI and performance. This
+paper conﬁrms the existence of the direct relationship between EC
+and performance (H12) when no other constructs are identiﬁed as
+possibly mediating in this relationship. This result is consistent
+with the widely-accepted conclusions found in the literature
+that determine that EC contributes to better operational perfor-
+mance (Guest, 2001; Samad, 2013; Boselie et al., 2005; Paul and
+Anantharaman, 2003; Young and Choi, 2011; Katou 2011; Brown
+
+
+254
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+et al., 2011; Vanichchinchai, 2012) and customer satisfaction
+(Moynihan et al., 2001; Nishii et al., 2008).
+
+However, EC's inﬂuence on performance could be nuanced by
+other factors in the company, such as SCI. Responding to the call
+for knowledge of how this relationship is produced (Cua et al.
+2001), SCI has been included as the mediator in the analysis. The
+results show that EC has a direct effect on INTI (H13). Having a
+committed workforce helps to achieve adequate INTI. Meanwhile,
+EC's inﬂuence on SI and CI is conﬁrmed if the analysis of INTI is not
+included (H14 and H15). This result is consistent with the prior
+literature (Koulikoff-Souviron and Harrison, 2007; Vanichchinchai,
+2012). However, when the way that these four aspects interact is
+analysed in a more complex model, the full mediation of INTI in
+the relationship between EC and SI
+is
+conﬁrmed, while the direct relationship disappears. This indicates
+that the contribution of EC to greater SI and CI is due to the
+existence of INTI. As Mentzer et al. (2001) stated, commitment is a
+precondition that needs to be in place in order for a company to
+achieve inter-ﬁrm coordination, and without INTI, EI cannot
+achieve its full potential. Our ﬁndings state that EC directly
+beneﬁts INTI and EI through INTI. EC therefore contributes to SCI
+through INTI (Vanichchinchai and Igel, 2011).
+
+(H16) and CI
+
+(H17)
+
+When these results are compared to the relationships identi-
+ﬁed in the analysis of the SCI dimensions and performance, a
+model is identiﬁed in which EC helps SCI to be achieved through
+its inﬂuence on INTI. INTI in turn contributes to better perfor-
+mance being obtained both directly and through its mediating
+inﬂuence on EI. EI also contributes to performance. This would
+mean that SCI is mediating the relationship between EC and
+performance (H18). The results conﬁrm a full mediation of SCI in
+the relationship of EC with each of the operational performance
+measures. Having committed employees is therefore an important
+element for SCI to achieve better results in delivery, ﬂexibility,
+inventory and quality. However, SCI mediation is partial
+for
+customer satisfaction, as EC has a strong direct effect.
+
+The mediation detected between EC and performance conﬁrms
+the results of Gowen and Tallon (2003) and is consistent with past
+studies on EC that indicate that it is crucial for the success of SCM
+(Dooley and Fryxell, 1999; Dow et al., 1999). Furthermore, the
+contribution that EC makes to better SCI plays a core role in
+mitigating the adverse impact of SC implementation barriers on
+the success of SC practices (Gowen and Tallon, 2003). It is thus clear
+that it is necessary to focus on the workforce management factor to
+obtain an added advantage/improvement that can become the
+source of competitive advantage for the organisation and the SC.
+This paper conﬁrms these results by demonstrating that EC, a main
+outcome of workforce management, beneﬁts SCI and, through SCI,
+improves operational performance. Vanichchinchai (2012) identi-
+ﬁed that the relationship between EC and performance was
+mediated by EI. Our research completes the relationships identiﬁed
+by said author as his model did not consider INTI.
+
+Our results therefore conﬁrm previous research (Pandey et al.,
+2012; Gowen and Tallon, 2003; Vanichchinchai and Igel, 2011;
+Vanichchinchai, 2012) and contribute greater evidence by specifying
+a more complex model which veriﬁes the existence of intermediate
+variables to explain the relationships that enable organisational
+performance to be improved through workforce management and
+SCI. Fawcett et al. (2008) state that workforce management will not
+only bridge the current gaps encountered in SCM but allow success
+to be improved and greater rewards of SC to be reaped. So, one of
+the pillars of SCM success is founded on people.
+
+Summarising our ﬁnal model, we conclude that:
+
+(1) The relationship between EC and the other research constructs
+is entirely mediated by INTI, except for the relationship with
+customer satisfaction, on which it has strong direct and indirect
+
+effects. The relationship between EC and operational perfor-
+mance is fully mediated by SCI, which it affects through INTI,
+with the moderate indirect effects of EC on delivery and
+ﬂexibility standing out. In consequence, EC plays a key role in
+explaining the results obtained with the implementation of SCI.
+(2) EC is necessary for INTI to be achieved effectively, and INTI
+affects performance both directly and indirectly. INTI has a
+direct strong effect on ﬂexibility. However, as we have identi-
+ﬁed that EI (SI/CI/EIO) mediates the relationship between INTI
+and performance, INTI contributes to customer satisfaction
+with a strong indirect effect through EI and to operational
+performance with a moderate indirect effect.
+
+(3) With respect to EI, INTI is necessary for EI to achieve results.
+We have identiﬁed that EIO mediates the relationships of both
+SI and CI with performance. SI and CI only have a direct
+inﬂuence on customer satisfaction and they have a strong
+effect. The indirect effect of SI is strong on delivery and quality
+and moderate on ﬂexibility and inventory. Meanwhile, CI
+affects operational performance indirectly and delivery and
+quality moderately. Finally, EIO has a strong direct effect on all
+operational performance measures, but no relationship is
+identiﬁed with customer satisfaction.
+
+(4) All the relationships among EC, SCI dimensions and perfor-
+mance analysed in the ﬁnal model explain 37.6% of variance in
+delivery, 25.1% in ﬂexibility, 20.4% in inventory, 27.0% in quality
+and 57.5% of variance in customer satisfaction (Table 10).
+
+5.2. Contributions
+
+This research makes several contributions. Firstly, this study
+has contributed to ﬁlling the gap that exists in the relationships
+(direct and mediated) among EC, SCI (considering its dimensions)
+and performance (Shub and Stonebraker, 2009; Fisher et al., 2010).
+The ﬁnal model contributes new evidence to the literature,
+analysing a complex model that relates a set of variables that to
+date had not been studied jointly or in such detail. Workforce
+management has not been greatly addressed in OM research and a
+very few studies have analysed SCI acting as a mediator between
+EC and performance (Gowen and Tallon, 2003; Vanichchinchai,
+2012). In general terms, the paper attempts to clarify the mediat-
+ing effects of SCI between EC and performance in a deﬁnitive
+model that nuances the direct relationships initially found.
+
+Secondly, this study contributes to the literature by providing a
+detailed study of the direct and indirect effects of each SCI
+dimension on each performance measure. Different models were
+created for this that enabled the way that the relationships
+became nuanced to be observed as mediating constructs and
+antecedents were added. With this we provide empirical evidence
+that can explain the heterogeneous results in the prior research
+that analyses the relationship between SCI and performance.
+
+Thirdly, the paper analyses SCI not as a single construct, but
+distinguishing between its various dimensions,
+including INTI,
+which has been excluded from many papers (Flynn et al., 2010).
+This research reinforces the key role of INTI in achieving EI and
+performance. It also demonstrates the important role of EIO in
+improving operational performance.
+
+Finally, the performance measures have been analysed indepen-
+dently and this enables the inﬂuence that EC and SCI dimensions
+have on each measure to be seen, as well as more detailed results to
+be achieved than if performance are analysed in aggregate terms.
+
+5.3.
+
+Implications for managers
+
+From a practical standpoint, our research offers managers evidence
+of the beneﬁts of EC as an antecedent of SCI. Firms could achieve a
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+255
+
+greater competitive advantage by improving their EC and SCI. In this
+regard, senior management should pay special attention to EC and
+INTI to achieve all the performance potentials that SCI is capable of,
+while also being mindful that EC is a social process that is built up over
+a long period of time. The results show that if a ﬁrm achieves EC and
+SCI this will impact on all the performance measures (Table 10). The
+strongest impact will be on customer satisfaction. Although there will
+be less impact on delivery, quality, ﬂexibility and, ﬁnally, on inventory,
+it will nonetheless be sufﬁciently strong. Koulikoff-Souviron and
+Harrison (2007) stress the central role of workforce practices in
+supporting and operationalising SC relationships, but also point out
+that, despite this, human resources managers are barely involved in
+the management of these relationships. In this line, McCarter et al.
+(2005) state that managers assert that workforce management is
+fundamental for the success of SCI but, in practice, priority is given to
+technical questions, and this huge potential is lost. It would therefore
+seem that greater importance should be placed on workforce manage-
+ment in the process to accomplish SCI. Studies such as that which we
+present here conﬁrm the need for genuinely undertaking the practice
+of workforce management and coordinating it with SCM in order to
+achieve EC given the evident beneﬁts that it provides to the ﬁrm. EC
+can be developed through the implementation or deployment of High
+Commitment Work Practices, such as job-based skill training, formal
+performance management, job security, job enrichment, work teams,
+and suggestion systems. All these practices aim to drive up skill levels,
+motivation and empowerment, which are the levers that deploy
+worker commitment (Guest, 2001; Patterson et al., 2010; Marin-
+Garcia, 2013).
+
+As we have demonstrated, by achieving EC the ﬁrm contributes to
+improving INTI and by obtaining INTI it helps to achieve SI and CI.
+The results indicate that neither CI nor SI on its own is enough to
+improve operational performance, but that EIO is necessary for the
+organisation to achieve improvements in operational performance.
+As a result, companies should strive to achieve both EC and INTI as
+they mutually reinforce each other. Similarly, managers should
+achieve INTI before EI and include EI at the strategic level in order
+to reap the greatest advantages from SCI. Meanwhile, managers
+should promote EC not only for better SC success but also to mitigate
+the barriers of SCM implementation (Gowen and Tallon, 2003).
+
+5.4. Limitations and future research
+
+As with all empirical research, our study has its limitations.
+Firstly, we share one limitation with the majority of studies
+undertaken in the area. We use cross-data and, although we have
+used the causality sequence proposed in the prior literature, we
+are fully aware that this type of data does not enable the direction
+of the causality to be fully tested. Secondly, we have assumed that
+EC fully mediates workforce management, not only with respect to
+performance, which is an aspect on which evidence can be found
+in the prior literature, but also with respect to SCI. This last point
+has not been the object of study in the references found.
+
+The data set used was collected during the 2005–2008 period.
+Since then, the deployment levels of the constructs analysed may
+have changed. In other words, it is very likely that the mean scores
+of the constructs would have varied during this time. One reason
+for this might be evolving technology; another, the worldwide
+economic crisis that had affected all the countries in the sample
+population and all productive sectors, impacting especially on the
+three sectors in the sample used here. Nonetheless, the objectives
+of this research would seem to indicate that, rather than any
+changes in the deployment levels of each of the practices, what
+might be a limitation of the study is that the measurement or
+structural invariance between the date on which the data were
+collected and a sample taken at the present time might not be
+complied with. In other words, the relationships between the
+
+constructs may have changed due to the new technologies facil-
+itating greater internal integration or integration with customers
+and suppliers, or due to the economic crisis, or some other variable
+that constitutes a change of paradigm between 2005–2008 and
+the current time. It would be of great interest to develop future
+research with a study using new data, which would address this
+issue by analysing whether the more widespread use of informa-
+tion technologies or undergoing deep and long-lasting crises have
+any effects on construct loads.
+
+Another limitation is that the data are taken from three
+industries (electronics, machinery, and automotive components)
+that all produce manufacturing products. The results should
+therefore be analysed in the context of these sectors, and the
+results cannot be stated to hold in other contexts. However, this
+research is based on a powerful data set, which allows many of the
+limitations of previous studies to overcome, including those linked
+to multiple-informant data gathering, sample size, the breadth of
+the set of variables envisaged, the use of reliable multi-item scales
+and a sampling design by industry and country.
+
+This study's proposed further research model focuses on two
+elements, ﬁrstly by extending the analysed model to the left to
+include workforce management practices as an antecedent of EC.
+This would enable an analysis to be done of whether EC mediates
+the relationship between workforce management practices and
+SCI and performance (as we have assumed on the basis of the
+existing prior literature); thus allowing empirical evidence to be
+provided as to whether this mediation exists or not and, if it does,
+whether it is full or partial. Secondly, it would be desirable to
+extend the model to the right to take in ﬁnancial performance
+measures and to analyse whether operational performance med-
+iates the relationship between SCI and ﬁnancial performance, as
+the prior literature states. The proposed model would thus be
+completed and include new causality relationships that would
+allow advances to be made in the ﬁeld.
+
+The review of the previous literature on this topic shows that
+research has mainly focused on the manufacturing sector, so it
+would be interesting to analyse the proposed research model in
+the services sector and to conduct a comparative intersectoral
+analysis. Also, given the prior literature's lack of consensus on the
+results, it would be interesting to carry out qualitative research
+(case studies) to help theory building in the ﬁeld.
+
+In other respects, as stated in the literature review, a reason for
+the lack of consensus in prior empirical research on how SCI affects
+performance can be that SCI does not have the same impact on
+performance depending on the country, industry, plant age, product
+complexity or plant size. In consequence, further research will go
+deeper into the analysis in an attempt to clarify the speciﬁc contexts
+in which achieving SCI may not be interesting for improving
+organisational performance and competitive advantages.
+
+Acknowledgements
+
+This paper has been made possible thanks to Grants DPI2009-
+11148 and DPI2010-18243 awarded by the Spanish Ministry of
+Science and Innovation and the Project of Excelence P08 SEJ 3841
+awarded by the Junta de Andalucia.
+
+References
+
+Alfalla-Luque, R., Medina-Lopez, C., 2009. Supply chain management: unheard of in
+
+the 1970s, core to today's company. Bus. Hist. 51 (2), 202–221.
+
+Alfalla-Luque, R., Marin-Garcia, J.A., Medina-Lopez, C., 2012. Is worker commitment
+necessary for achieving competitive advantage and customer satisfaction when
+companies use HRM and TQM practices? Univ. Bus. Rev. 36, 64–89.
+
+Alfalla-Luque, R., Medina-Lopez, C., Dey, P.K., 2013a. Supply chain integration
+
+framework using literature review. Prod. Plan. Control 24 (8–9), 800–817.
+
+
+256
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+Alfalla-Luque, R., Medina-Lopez, C., Schrage, H., 2013b. A study of supply chain
+
+integration in the aeronautics sector. Prod. Plan. Control 24 (8–9), 769–784.
+
+Allred, C.R., Fawcett, S.E., Wallin, C., 2011. The evolving role of a collaboration
+orientation in mitigating functional and inter-organizational conﬂict. Decis. Sci.
+J. 42 (1), 129–161.
+
+Alto, M., Vallejo, G., 2011. Los efectos de terceras variables en la investigación
+
+psicológica. An. Psicol. 27 (2), 550–561.
+
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modelling in practice: a
+review and recommended two-step approach. Psychol. Bull. 103 (3), 411–423.
+Bagchi, P.K., Ha, B.C., Skjoett-Larsen, T., Soerensen, L.B., 2005. Supply chain
+
+integration: a European survey. Int. J. Logist. Manag. 16 (2), 275–294.
+
+Dyer, J.H., Singh, H., 1998. The relational view: cooperative strategy and sources of
+interorganizational competitive advantage. Acad. Manag. Rev. 23 (4), 660–679.
+Elorza, U., Aritzeta, A., Ayestaran, S., 2011. Exploring the black box in Spanish ﬁrms:
+the effect of the actual and perceived system on employees' commitment and
+organizational performance. Int. J. Hum. Res. Manag. 22 (7), 1401–1422.
+
+Eng, T.Y., 2006. An investigation into the mediating role of cross-functional
+coordination on the linkage between organizational norms and SCM perfor-
+mance. Ind. Mark. Manag. 35 (6), 762–773.
+
+Fabbe-Costes, N., Jahre, M., 2008. Supply chain integration and performance: a
+
+review of the evidence. Int. J. Logist. Manag. 19 (2), 130–154.
+
+Fawcett, S.E., Magnan, G.M., 2002. The rhetoric and reality of supply chain
+
+Bagozzi, R.P., Yi, Y.J., Phillips, L.W., 1991. Assessing construct-validity in organiza-
+
+integration. Int. J. Phys. Distrib. Logist. Manag. 32 (5), 339–361.
+
+tional research. Adm. Sci. Q. 36 (3), 421–458.
+
+Baihaqi, I., Sohal, A.S., 2013. The impact of information sharing in supply chains on
+organisational performance: an empirical study. Prod. Plan. Control 24 (8–9),
+743–758.
+
+Barney, J.B., 2012. Purchasing, supply chain management and sustained competitive
+advantage: the relevance of resource-based theory. J. Supply Chain Manag. 48
+(2), 3–6.
+
+Barney, J., 1991. Firm resources and sustained competitive advantage. J. Manag. 17 (1),
+
+99–120.
+
+Baron, R.M., Kenny, D.A., 1986. The moderator-mediator variable distinction in
+social psychological research: conceptual, strategic, and statistical considera-
+tions. J. Personal. Soc. Psychol. 51 (6), 1173–1182.
+
+Barratt, M., Barratt, R., 2011. Exploring internal and external supply chain linkages:
+
+evidence from the ﬁeld. J. Oper. Manag. 29 (5), 514.
+
+Bayo-Moriones, A., Merino-Díaz, J., 2004. Employee involvement: its interaction
+with advanced manufacturing technologies, quality management, and inter-
+ﬁrm collaboration. Hum. Factors Manag. 14, 117–134.
+
+Becker, B.E., Huselid, M.A., 1998. High performance work systems and ﬁrm
+performance: a synthesis of research and managerial applications. Res. Person.
+Hum. Resour. Manag. 16, 53–101.
+
+Bentler, P.M., 2002. EQS 6 Structural Equations Program Manual. Multivariate
+
+Software, Inc., Encino, CA.
+
+Boselie, J.P., Dietz, G., Boon, C., 2005. Commonalities and contradictions in research
+on human resource management and performance. Hum. Resour. Manag. 15
+(3), 67–94.
+
+Bowersox, D.J., Closs, D.J., Stank, T.P., 2000. Ten mega-trends that will revolutionize
+
+supply chain logistics. J. Bus. Logist. 21 (2), 1–16.
+
+Bowersox, D.J., Closs, D.J., Stank, T.P., 2003. How to master cross-enterprise
+
+collaboration. Supply Chain Manag. Rev. 7 (4), 18–27.
+
+Brown, S., McHardy, J., McNabb, R., Taylor, K., 2011. Workplace Performance, Worker
+
+Commitment and Loyalty. IZA Discussion Paper Series no. 5447.
+
+Cagliano, R., Caniato, F., Spina, G., 2006. The linkage between supply chain
+integration and manufacturing improvement programmes. Int. J. Oper. Prod.
+Manag. 26 (3), 282–299.
+
+Chen, H., Daugherty, P.J., Landry, T.D., 2009. Supply chain process integration: a
+
+theoretical framework. J. Bus. Logist. 30 (2), 27–46.
+
+Chin, W., 1988. Issues and opinions on structural equation modelling. MIS Q. 22 (1),
+
+7–16.
+
+Cua, K.O., McKone, K.E., Schroeder, R.G., 2001. Relationships between implementation
+of TQM, JIT, and TPM and manufacturing performance. J. Oper. Manag. 19 (6),
+675–694.
+
+Danese, P., Romano, P., 2011. Supply chain integration and efﬁciency performance: a
+study on the interactions between customer and supplier integration. Supply
+Chain Manag.: Int. J. 16 (4), 220–230.
+
+Danese, P., Romano, P., 2013. The moderating role of supply network structure on
+the customer integration-efﬁciency relationship. Int. J. Oper. Prod. Manag. 33 (4),
+372–393.
+
+Danese, P., Romano, P., Formentini, M., 2013. The impact of supply chain integration
+on responsiveness: the moderating effect of using an international supplier
+network. Transp. Res. E: Logist. Transp. Rev. 49 (1), 125–140.
+
+Darmawan, I.G.N., Keeves, J.P., 2006. Suppressor variables and multilevel mixture
+
+modelling. Int. Educ. J. 7 (2), 160–173.
+
+Fawcett, S.E., Magnan, G.M., McCarter, M.W., 2008. Beneﬁts, barriers, and bridges to
+effective supply chain management. Supply Chain Manag.: Int. J. 13 (1), 35–48.
+Fawcett, S.E., Magnan, G.M., Ogden, J.A., 2007. Achieving World-Class Supply Chain
+Collaboration: Managing the Transformation. Institute for Supply Management,
+Tempe, AZ.
+
+Fields, D.L., 2002. Taking the Measure of Work: A Guide to Validated Scales for
+Organizational Research and Diagnosis. SAGE Publications, Thousand Oaks,
+California.
+
+Fine, C.H., 1998. Clockspeed. The Winning Industry Control in the Age of Temporary
+
+Advantage. Perseus Books, Reading, MA.
+
+Fisher, S.L., Graham, M.E., Vachon, S., Vereecke, A., 2010. Guest editors' note: don't
+miss the boat: research on HRM and supply chains. Hum. Res. Manag., 49; pp.
+813–828, http://dx.doi.org/10.1002/hrm.20386.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on
+performance: a contingency and conﬁguration approach. J. Oper. Manag. 28,
+58–71.
+
+Flynn, B.F., Sakakibara, S., Schroeder, R.G., 1995. Relationship between JIT and TQM.
+
+Practices and performance. Acad. Manag. J. 38 (5), 1325–1360.
+
+Forza, C., 2002. Survey research in operations management: a process-based
+
+perspective. Int. J. Oper. Prod. Manag. 22 (2), 152–194.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an international study of
+
+supply chain strategies. J. Oper. Manag. 19 (2), 185–200.
+
+Germain, R., Iyer, K., 2006. The interaction of internal and downstream integration
+
+and its association with performance. J. Bus. Logist. 27 (2), 29–52.
+
+Gimenez, C., Ventura, E., 2003. Supply chain management as a competitive
+
+advantage in the Spanish grocery sector. Int. J. Logist. Manag. 14 (1), 77–88.
+
+Gimenez, C., Ventura, E., 2005. Logistics-production,
+
+logistics-marketing and
+external integration, their impact on performance. Int. J. Oper. Prod. Manag.
+25 (1), 20–38.
+
+Giunipero, L.C., Hooker, R., Joseph-Matthews, S., Yoon, E., Brudvig, S., 2008. A
+decade of SCM literature: past, present and future implications. J. Supply Chain
+Manag.: Glob. Rev. Purch. Supply 44 (4), 66–86.
+
+Gowen III, C.R., Tallon, W.J., 2003. Enhancing supply chain practices through human
+
+resource management. J. Manag. Dev. 22 (1), 32–44.
+
+Guest, D., Conway, N., 2011. The impact of HR practices, HR effectiveness and a
+‘strong HR system' on organizational outcomes: a stakeholder perspective. Int.
+J. Hum. Res. Manag. 22, 1686–1702.
+
+Guest, D.E., 2001. Human resource management: when research conforts theory.
+
+Int. J. Hum. Res. Manag. 127 (7), 1092–1106.
+
+Gundlach, G.T., Achrol, R.S., Mentzer, J.T., 1995. The structure of commitment in
+
+exchange. J. Mark. 59, 78–92.
+
+Hair, J.F., Anderson, R.E., Tatham, R.L., Black, W.C., 1995. Multivariate Data Analysis.
+
+Prentice Hall, New Jersey.
+
+Halldorsson, A., Larson, P.D., Poist, R.F., 2008. Supply chain management: a
+comparison of Scandinavian and American perspectives. Int. J. Phys. Distrib.
+Logist. Manag. 38 (2), 126–142.
+
+Handﬁeld, R.B., Nichols, E.L., 2002. Supply Chain Redesign – Transforming Supply
+
+Chains into Integrated Value Systems. Prentice-Hall, London.
+
+Harrison, A., Van Hoek, R., 2005. Logistics Management and Strategy. Pearson
+
+Education, Harlow, England.
+
+Hertz, S., 2001. Dynamics of alliances in highly integrated supply chain networks.
+
+Int. J. Logist.: Res. Appl. 4 (2), 237–256.
+
+Defee, C.C., Williams, B., Randall, W.S., Thomas, R., 2010. An inventory of theory in
+
+Holmberg, S., 2000. A systems perspective on supply chain measurements. Int. J.
+
+logistics and SCM research. Int. J. Logist. Manag. 21 (3), 404–489.
+
+Phys. Distrib. Logist. Manag. 30 (10), 847–868.
+
+Den Hartog, D.N., Boselie, P., Paauwe, J., 2004. Performance management: a model
+
+Howell, D.C., 2010. Fundamental Statistics for the Behavioral Sciences. Wadsworth
+
+and research agenda. Appl. Psychol.: Int. Rev. 53 (4), 556–569.
+
+deSarbo, W., Di Benedetto, A., Song, M., Bloch, H.V., 2007. A heterogeneous resource
+based view for exploring relationships between ﬁrm performance and cap-
+abilities. J. Model. Manag. 2 (2), 103–130.
+
+Devaraj, S., Krajewski, L., Wei, J.C., 2007. Impact of eBusiness technologies on
+operational performance: the role of production information integration in the
+supply chain. J. Oper. Manag. 25 (6), 1199–1216.
+
+Dooley, R.S., Fryxell, G.E., 1999. Attaining decision quality and commitment from
+dissent: the moderating effects of loyalty and competence in strategic decision-
+making teams. Acad. Manag. J. 42 (4), 389–402.
+
+Dow, D., Samson, D., Ford, S., 1999. Exploding the myth: do all quality management
+practices contribute to superior quality performance? Prod. Oper. Manag. 8 (1),
+1–27.
+
+Droge, C., Jayaram, J., Vickery, S.K., 2004. The effects of internal versus external
+integration practices on time-based performance and overall ﬁrm performance.
+J. Oper. Manag. 22 (6), 557–573.
+
+Droge, C., Vickery, S.K., Jacobs, M.A., 2012. Does supply chain integration mediate
+the relationships between product/process strategy and service performance?
+An empirical study. Int. J. Prod. Econ. 137 (2), 250–262.
+
+Publishing, Belmont, California.
+
+Huo, B., 2012. The impact of supply chain integration on company performance: an
+J. 17 (6),
+
+organizational capability perspective. Supply Chain Manag.: Int.
+596–610.
+
+Jin, Y.H., Fawcett, A.M., Fawcett, S.E., 2013. Awareness is not enough: commitment
+and performance implications of supply chain integration. Int. J. Phys. Distrib.
+Logist. Manag. 43 (3), 205–230.
+
+Kahn, K.B., Mentzer, J.T., 1996. Logistics and interdepartmental integration. Int. J.
+
+Phys. Distrib. Logist. Manag. 26 (8), 6–14.
+
+Katou, A., 2011. Test of a causal Human Resource Management-Performance
+Linkage Model: evidence from the Greek manufacturing sector. Int. J. Bus. Sci.
+Appl. Manag. 6 (1), 16–29.
+
+Ketchen, D.J., Hult, T.M., 2007. Bridging organization theory and supply chain
+management: the case of best value supply chains. J. Oper. Manag. 25 (2),
+573–580.
+
+Kim, D.Y., 2013. Relationship between supply chain integration and performance.
+
+Oper. Manag. Res. 6 (1–2), 74–90.
+
+Kim, S.W., 2009. An investigation on the direct and indirect effect of supply chain
+
+integration on ﬁrm performance. Int. J. Prod. Econ. 119 (2), 328–346.
+
+
+R. Alfalla-Luque et al. / Int. J. Production Economics 162 (2015) 242–257
+
+257
+
+Koufteros, X., Cheng, T.C.E., Lai, K.H., 2007. Black-box and gray box supplier
+integration in product development: antecedents, consequences and the
+moderating role of ﬁrm size. J. Oper. Manag. 25 (4), 847–870.
+
+Koufteros, X., Rawski, G.E., Rupak, R., 2010. Organizational integration for product
+development: the effects on glitches, on-time execution of engineering change
+orders, and market success. Decis. Sci. 41 (1), 49–80.
+
+Koufteros, X., Vonderembse, M., Jayaram, J., 2005. Internal and external integration
+for product development: the contingency effects of uncertainty, equivocality,
+and platform strategy. Decis. Sci. 36 (1), 97–133.
+
+Koulikoff-Souviron, M., Harrison, A., 2007. The pervasive human resource picture in
+
+interdependent supply relationships. J. Oper. Manag. 27 (1), 8–27.
+
+Kuo, Y.-K., 2013. Organizational commitment in an intense competition environ-
+
+ment. Ind. Manag. Data Syst. 113 (1), 39–56.
+
+Lambert, D.M., Cooper, M.C., Pagh, J.D., 1998. Supply chain management: imple-
+mentation issues and research opportunities. Int. J. Logist. Manag. 9 (2), 1–19.
+Leuschner, R., Rrogers, D.S., Charvet, F.F., 2013. A meta-analysis of supply chain
+
+integration and ﬁrm performance. J. Supply Chain Manag. 49 (2), 34–57.
+
+Li, G., Yang, H., Sun, L., Sohal, A.S., 2009. The impact of IT implementation on supply
+
+chain integration and performance. Int. J. Prod. Econ. 120 (1), 125–138.
+
+Liu, G., Shah, R., Schroeder, R.G., 2012. The relationships among functional
+integration, mass customization, and ﬁrm performance. Int. J. Prod. Res. 50
+(3), 677–690.
+
+Marin-Garcia, J.A., Alfalla-Luque, R., Medina-López, C., 2013. Supply chain integra-
+tion scales validation and benchmark values. J. Ind. Eng. Manag. 6 (2), 423–440.
+Marin-Garcia, J.A., 2013. What do we know about the relationship between high
+involvement work practices and performance? Work. Pap. Oper. Manag. 4 (2),
+01–15.
+
+Marin-Garcia,
+
+J.A., Bonavia, T., Pardo, M., 2009. Los sistemas productivos, el
+aprendizaje interno y los resultados del área de producción de baldosas-
+cerámicas. Inf. Tecnol. 20 (1), 39–51.
+
+McCarter, M., Fawcett, S., Magnan, G., 2005. The effect of people on the supply chain
+
+world: some overlooked issues. Hum. Syst. Manag. 24 (2005), 197–208.
+
+Mello, J.E., Stank, T.P., 2005. Linking ﬁrm culture and orientation to supply chain
+
+success. Int. J. Phys. Distrib. Logist. Manag. 35, 542–554.
+
+Menon, S.T., 2012. Human resource practices, supply chain performance, and
+
+wellbeing. Int. J. Manpow. 33 (7), 769–785.
+
+Mentzer, J.T., 2004. Fundamentals of Supply Chain Management. Twelve Drivers of
+
+Competitive Advantage. Sage Publications, USA.
+
+Mentzer, J.T., DeWitt, W., Keebler, J.S., Min, S., Nix, N.W., Smith, C.D., Zacharia, Z.G.,
+
+2001. Deﬁning supply chain management. J. Bus. Logist. 22 (2), 1–24.
+
+Meyer,
+
+J.P., Allen, N.J., Smith, C.A., 1993. Commitment to organizations and
+occupations: extension and test of a three-component conceptualization. J.
+Appl. Psychol. 78 (4), 538–551.
+
+Miles, R.E., Snow, C.C., 1978. Organizational Strategy, Structure and Process.
+
+McGraw-Hill, New York.
+
+Miller, D., Shamsie, J., 1996. The resource based view of the ﬁrm in two environ-
+ments: the Hollywood ﬁlm studios from 1936–1965. Acad. Manag. J. 39 (3),
+519–543.
+
+Min, S., 2001. Inter-functional coordination in supply chain management.
+
+In:
+J.T. (Ed.), Supply Chain Management. Sage, Thousand Oaks, CA,
+
+Mentzer,
+pp. 371–389.
+
+Mowday, R., Steers, R.M., 1979. The measurement of organizational commitment. J.
+
+Vocat. Behav. 14, 224–227.
+
+Moynihan, L.M., Gardner, T.M., Park, H.J., Wright, P.M., 2001. HR Practices and
+Customer Satisfaction: The Mediating Link of Commitment (CAHRS Working
+Paper #01–14). Cornell University, School of Industrial and Labor Relations,
+Center for Advanced Human Resource Studies, Ithaca, NY 〈http://digitalcom
+mons.ilr.cornell.edu/cahrswp/77〉.
+
+Nishii, L., Lepak, D., Schneider, B., 2008. Employee attributions of the ‘why’ of HR
+practices: their effects on employee attitudes and behavior and customer
+satisfaction. Pers. Psychol. 61, 503–545.
+
+Nyaga, G.N., Whipple, J.M., Lynch, D.F., 2010. Examining supply chain relationships:
+do buyer and supplier perspectives on collaborative relationships differ? J.
+Oper. Manag. 28, 101–114.
+
+Olavarrieta, S., Ellinger, A.E., 1997. Resource-based theory and strategic logistics
+
+research. Int. J. Phys. Distrib. Logist. Manag. 27 (9/10), 559–587.
+
+Pagell, M., 2004. Understanding the factors that enable and inhibit the integration
+
+of operations, purchasing and logistics. J. Oper. Manag. 22 (5), 459–487.
+
+Pandey, P., Bhattacharyya, S., Kaur, A., 2012. Exploring the role of HR practices in
+
+supply chain. J. Adv. Manag. Res. 9 (1), 113–123.
+
+Patterson, M., Rick, J., Wood, S., Carroll, C., Balain, S., Booth, A., 2010. Systematic
+review of the links between human resource management practices and
+performance. Health Technol. Assess. 14 (51), 1–363.
+
+Paul, A.K., Anantharaman, R.N., 2003. Impact of people management practices on
+organizational performance: analysis of a causal model. Int. J. Hum. Res. Manag.
+14, 1246–1266.
+
+Peteraf, M.A., 1993. The cornerstones of competitive advantage: a resource-based
+
+view. Strateg. Manag. J. 14 (3), 179–191.
+
+Porter, ME., 1986. Competitive Advantage. Free Press, New York.
+Samad, S., 2013. Assessing the contribution of human capital on business perfor-
+
+mance. Int. J. Trade Econ. Financ. 4 (6), 393–397.
+
+Sanders, N.R., 2008. Pattern of information technology use: the impact on buyer-
+
+suppler coordination and performance. J. Oper. Manag. 26 (3), 349–367.
+
+Schroeder, R.G., Flynn, B.B., 2001. High Performance Manufacturing – Global
+
+Perspectives. Wiley, New York, NY.
+
+Schroeder, R.G., Bates, K.A., Junttila, M.A., 2002. A resource-based view of manu-
+facturing strategy and the relationship to manufacturing performance. Strateg.
+Manag. J. 23, 105–117.
+
+Schumacker, R.E., Lomax, R.G., 1996. A Beginner's Guide to Structural Equation
+
+Modeling. Lawrence Erlbaum, Mahwah, NJ.
+
+Sezen, B., 2008. Relative effects of design, integration and information sharing.
+
+Supply Chain Manag.: Int. J. 13 (3), 233–240.
+
+Shub, A.N., Stonebraker, P.W., 2009. The human impact on supply chains: evaluat-
+ing the importance of soft areas on integration and performance. Supply Chain
+Manag.: Int. J. 14 (1), 31–40.
+
+Sofyalıoğlu, C., Öztürk, Ş., 2012. Meta analysis of the relationship between supply
+chain integration dimensions and ﬁrm performance. Eur. J. Econ. Financ. Adm.
+Sci. 52, 99–119.
+
+Song, M., Thieme, J., 2009. The role of suppliers in market intelligence gathering for
+
+radical and incremental innovation. J. Prod. Innov. Manag. 26 (1), 43–57.
+
+Stank, T.P., Keller, S.B., Daugherty, P.J., 2001. Supply chain collaboration and
+
+logistical service performance. J. Bus. Logist. 22 (1), 29–48.
+
+Swink, M., Narasimhan, R., Wang, C., 2007. Managing beyond the factory walls:
+effects of four types of strategic integration on manufacturing plant perfor-
+mance. J. Oper. Manag. 25 (1), 148–164.
+
+Thun, J., 2010. Angles of integration: an empirical analysis of the alignment of
+internet-based information technology and global supply chain integration. J.
+Supply Chain Manag. 46 (2), 30–44.
+
+Turkulainen, V., Ketokivi, M., 2012. Cross-functional integration and performance –
+
+what are the real beneﬁts? Int. J. Oper. Prod. Manag. 32 (4), 447–467.
+
+Van Bruggen, G.H., Lilien, G.L., Kacker, M., 2002. Informants in organizational
+marketing research: why use multiple informants and how to aggregate
+responses. J. Mark. Res. 39 (4), 469–478.
+
+Van der Vaart, T., Van Donk, D.P., 2008. A critical review of survey-based research in
+
+supply chain integration. Int. J. Prod. Econ. 111 (1), 42–55.
+
+Vanichchinchai, A., 2012. The relationship between employee involvement, part-
+nership management and supply performance: ﬁndings from a developing
+country. Int. J. Prod. Perform. Manag. 61 (2), 157–172.
+
+Vanichchinchai, A., Igel, B., 2011. The impact of total quality management on supply
+chain management and ﬁrm's supply performance. Int. J. Prod. Res. 49 (11),
+3405–3424.
+
+Vickery, S.K., Jayarm, J., Droge, C., Calantone, R., 2003. The effects of an integrative
+supply chain strategy on customer service and ﬁanancial performance: an
+analysis of direct versus indirect relationships. J. Oper. Manag. 21, 532–539.
+
+Wernerfelt, B., 1984. A Resource-Based View of the Firm. Strateg. Manag. J. 5 (April–
+
+June), 171–180.
+
+Whipple, J.D., Lynch, D.F., Nyaga, G.N., 2010. A buyer's perspective on collaborative
+
+versus transactional relationships. Ind. Mark. Manag. 39, 507–518.
+
+Wong, C.Y., Boon-itt, S., 2008. The inﬂuence of institutional norms and environ-
+mental uncertainty on supply chain integration in the Thai automotive
+industry. Int. J. Prod. Econ. 115 (2), 400–410.
+
+Wu, I.L., Chuang, C.H., Hsu, C.H., 2014. Information sharing and collaborative
+behaviors in enabling supply chain performance: a social exchange perspective.
+Int. J. Prod. Econ. 148, 122–132.
+
+Young, S., Choi,
+
+J.N., 2011. The Effects of Human Resource Development on
+Operational and Financial Performance of Manufacturing Companies: A
+Large-Scale, Longitudinal Analysis. The Institute for Research on Labor and
+Employment, UCLA, Los Angeles, California 〈http://escholarship.org/uc/item/
+5xz8p7bk〉.
+
+Zhao, L., Huo, B., Sun, L., Zhao, X., 2013. The impact of supply chain risk on supply
+chain integration and company performance: a global investigation. Supply
+Chain Manag.: Int. J. 18 (2), 115–131.
+
+Zhao, X., Huo, B., Selen, W., Yeung, J.H.Y., 2011. The impact of internal integration and
+relationship commitment on external integration. J. Oper. Manag. 29 (1–2), 17–32.
+

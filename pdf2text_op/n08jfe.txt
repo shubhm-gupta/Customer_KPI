@@ -1,0 +1,5045 @@
+ARTICLE IN PRESS
+
+Journal of Financial Economics 90 (2008) 127–151
+
+Contents lists available at ScienceDirect
+
+Journal of Financial Economics
+
+journal homepage: www.elsevier.com/locate/jfec
+
+Managing Editor:
+G. WILLIAM SCHWERT
+
+Founding Editor:
+MICHAEL C. JENSEN
+
+Advisory Editors:
+EUGENE F. FAMA
+KENNETH FRENCH
+WAYNE MIKKELSON
+JAY SHANKEN
+ANDREI SHLEIFER
+CLIFFORD W. SMITH, JR.
+RENÉ M. STULZ
+
+Associate Editors:
+HENDRIK BESSEMBINDER
+JOHN CAMPBELL
+HARRY DeANGELO
+DARRELL DUFFIE
+BENJAMIN ESTY
+RICHARD GREEN
+JARRAD HARFORD
+PAUL HEALY
+CHRISTOPHER JAMES
+SIMON JOHNSON
+STEVEN KAPLAN
+TIM LOUGHRAN
+MICHELLE LOWRY
+KEVIN MURPHY
+MICAH OFFICER
+LUBOS PASTOR
+NEIL PEARSON
+JAY RITTER
+RICHARD GREEN
+RICHARD SLOAN
+JEREMY C. STEIN
+JERRY WARNER
+MICHAEL WEISBACH
+KAREN WRUCK
+
+Volume 88, Issue 1, April 2008
+ISSN 0304-405X
+
+JOURNAL OF
+Financial
+ECONOMICS
+
+Published by ELSEVIER
+in collaboration with the
+WILLIAM E. SIMON GRADUATE SCHOOL 
+OF BUSINESS ADMINISTRATION, 
+UNIVERSITY OF ROCHESTER
+
+Available online at www.sciencedirect.com
+
+Venture capital reputation and investment performance$
+
+Rajarishi Nahata
+
+Baruch College, City University of New York, New York, NY 10010, USA
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 5 July 2007
+Received in revised form
+23 October 2007
+Accepted 26 November 2007
+Available online 13 September 2008
+
+JEL classiﬁcation:
+G24
+
+Keywords:
+Venture capital
+Reputation
+Certiﬁcation
+Initial public offerings
+Mergers and acquisitions (M&A)
+
+I propose a new measure of venture capital (VC) ﬁrm reputation and analyze its
+performance implications on private companies. Controlling for portfolio company
+quality and other VC-speciﬁc factors including experience, connectedness, syndication,
+industry competition, exit conditions, and investment environment, I ﬁnd companies
+backed by more reputable VCs by initial public offering (IPO) capitalization share (based
+on cumulative market capitalization of IPOs backed by the VC), are more likely to exit
+successfully, access public markets faster, and have higher asset productivity at IPOs.
+Further tests suggest VCs’
+IPO Capitalization share effectively captures both VC
+screening and monitoring expertise. My ﬁndings have ﬁnancial implications for limited
+partners and entrepreneurs regarding their VC-sorting activities.
+
+& 2008 Elsevier B.V. All rights reserved.
+
+1.
+
+Introduction
+
+Reputation of ﬁnancial services providers and the cost-
+beneﬁt analyses of association with reputed actors are
+important considerations for companies interested in
+raising capital. Absent credible and adequate information
+about the companies, external investors tend to rely on
+the reputation of the companies’ associates as certiﬁers of
+the companies’ own quality. For example, a substantial
+body of
+research exists in the realms of auditing,
+investment banking, and venture capital
+that
+examines the performance implications of reputation of
+ﬁnancial services providers on public ﬁrms, both in the
+
+(VC)
+
+$ I thank an anonymous referee for very valuable comments. Linda
+Allen, Wolfgang Bessler, Nick Bollen, Paul Chaney, Shulamith Gross, Matt
+Johnson, Julia Kwok, Craig Lewis, Ron Masulis, Hans Stoll, and seminar
+participants at Baruch College, FMA Annual Meetings, FMA European
+Meetings, and Vanderbilt University provided helpful comments and
+suggestions. I gratefully acknowledge the ﬁnancial support from the
+Baruch College Fund, PSC-CUNY, and the Financial Markets Research
+Center at Vanderbilt.
+
+E-mail address: raj_nahata@baruch.cuny.edu
+
+0304-405X/$ - see front matter & 2008 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jﬁneco.2007.11.008
+
+short-term (for instance, IPO underpricing) and long-run.1
+However, academic work documenting the impact of
+reputation of ﬁnancial intermediaries on performance of
+private ﬁrms is limited.2 Given the information-opacity
+
+1 See, among others, Beatty (1989), Feltham, Hughes, and Simunic
+(1991), Hogan (1997), Menon and Williams (1991), and Michaely and
+Shaw (1995) for studies on auditor reputation, Beatty and Ritter (1986),
+Carter and Manaster (1990), Carter, Dark, and Singh (1998), and Titman
+and Trueman (1986) on investment bank reputation and IPO under-
+pricing, McLaughlin, Saﬁeddine, and Vasudevan (2000) on impact of
+investment bank reputation on long-run performance of seasoned equity
+issuers, and Lerner (1994a), Gompers (1996), and Krishnan, Masulis, and
+Singh (2006) on inﬂuence of venture capital reputation on initial public
+offerings and their long-run performance. Also see Megginson and Weiss
+(1991), Lee and Wahal (2004), and Li and Masulis (2006) for the impact
+of VC certiﬁcation in initial public offerings.
+
+2 As expected the VC literature provides most of the evidence in this
+area. Lerner (1994a) concludes that seasoned venture capitalists appear
+to be particularly proﬁcient at taking companies public near market
+peaks. Gompers (1996) conﬁrms that younger VC ﬁrms strive for quick
+formation of reputation in the VC industry by taking their portfolio
+companies public sooner. Hochberg, Ljungqvist, and Lu (2007) analyze
+the positive impact of VC ﬁrms’ network centrality on the likelihood of
+successful exits of their portfolio companies. Sorensen (2007) measures
+
+
+128
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+of private ﬁrms, the certiﬁcation-based approach relying
+on ﬁnancial intermediaries’ reputation capital assumes
+extreme importance for the performance of such ﬁrms
+that lack a publicly known track record. Venture capital
+offers a fertile area to study the performance implications
+of reputation on private ﬁrms and that is the main subject
+of this study.
+
+Although contextual use of measures of VC reputation
+exists in VC literature as mentioned earlier (footnote #2),
+there is little research on formulating a consistent
+measure of VC reputation or evaluating the impact of
+diverse measures suggested by the literature on VC
+investment outcomes, in a rigorous econometric frame-
+work. This is surprising considering both the importance
+of reputation in the VC industry and the preponderance of
+studies in other areas, notably the auditing and invest-
+ment banking literatures that highlight the performance
+implications of reputation of ﬁnancial intermediaries on
+public ﬁrms. This study has two primary objectives. First,
+it provides a comparable evaluation of different VC
+reputation measures that can be easily constructed from
+publicly available data, and relates them to multiple
+yardsticks of company performance, the likelihood of a
+successful exit being one of them. In so doing, I propose a
+new measure of VC reputation that consistently predicts
+future performance of private ﬁrms. Second, the study
+directly controls for connections and networks that
+reputable VC ﬁrms are more likely to be tied into, and
+documents the performance consequences of VC connec-
+tions as distinct from those arising out of VC reputation
+that
+is largely based on the VC’s ability and past
+performance.
+
+Measures of VC experience such as age, cumulative
+aggregate investment, and number of investment rounds
+have been used in previous studies such as Lerner (1994a),
+Gompers (1996), Hochberg, Ljungqvist, and Lu (2007), and
+Sorensen (2007). In addition, Hochberg, Ljungqvist, and Lu
+(2007)’s measures of VC network centrality are also likely
+to be correlated with VC reputation. After accounting for
+these measures of VC experience, connectedness, and
+network
+additional
+VC-speciﬁc factors that are likely to impact performance
+such as syndication,
+investment
+environment, and exit conditions, I show that one of my
+measures of VC reputation emerges as the only consis-
+tently robust predictor of VC and portfolio company
+performance.3
+
+industry competition,
+
+and controlling
+
+centrality,
+
+for
+
+(footnote continued)
+the differential impact of VC screening and value-addition services on
+IPO success and ﬁnds companies funded by more experienced VCs are
+more likely to go public primarily due to their ability to source better
+investments. By way of contrast, Hsu (2004) analyzes the costs borne by
+the entrepreneurs for afﬁliating with more reputable VCs.
+
+3 In this study, my intention is not to separate VC reputation from VC
+experience or ability or to show their individual impact on VC ﬁrm or
+portfolio company performance. Rather, I am interested in formulating a
+measure of VC reputation that consistently predicts VC investment
+outcomes. Moreover, reputation is diligently built upon experience,
+ability, and past performance, and is expected to broadly incorporate
+facets of each. In that sense, VC reputation, at least in the context of this
+study, should be viewed as an inclusive measure of VC experience,
+ability, and past performance. Nonetheless, I use alternate measures of
+
+While as a certiﬁcation agent, VC reputation is
+important for the portfolio companies, the VCs themselves
+are also concerned about their reputation if they seek to
+be active long-term players in the ﬁnancial markets. Given
+the highly networked nature of
+the venture capital
+industry and the repeated need for funds, maintaining
+and enhancing reputation is critical
+for the venture
+capitalists. A good reputation attracts potential investors
+and helps in developing useful working relationships with
+entrepreneurs, lawyers, investment bankers, auditors, and
+others who provide useful services to portfolio companies
+(Sahlman, 1990). Reputable VCs can also beneﬁt from less
+costly and larger fund raising for future partnerships. As
+well, reputation affects VC compensation, which in
+established funds is signiﬁcantly more sensitive to
+performance, as shown by Gompers and Lerner (1999a).
+Consequently to preserve and enhance reputation, repu-
+table VC ﬁrms, to a certain extent, are more likely to invest
+in companies that have a greater potential to succeed.
+
+The resulting selection bias is important to control for
+to rule out concerns that the performance of VC ﬁrms and
+their portfolio companies may be due to the quality of the
+companies themselves rather than VCs’ reputation and
+their capabilities. In other words, do reputable VCs truly
+add incremental value to their portfolio companies, or do
+they simply have access to a more promising investment
+opportunity set? To address concerns regarding selection
+I develop a proxy for capturing the portfolio
+bias,
+company’s quality, and explicitly control
+for the co-
+investment networks and syndication relationships of
+the VCs. Hochberg, Ljungqvist, and Lu (2007) argue that
+VCs that actively syndicate with other industry partici-
+pants and are better connected have superior access to
+deal ﬂow, investment opportunity sets, and information.
+In addition,
+I use a variation of Heckman’s (1979)
+endogeneity correction procedure, and ﬁnd the results to
+be robust.4
+
+In the Heckman correction procedure, I ﬁrst model a
+reputable VC’s likelihood of
+investing in a portfolio
+company in a probit framework. The empirical speciﬁca-
+tion of the selection equation reﬂects characteristics of the
+portfolio company and the VC ﬁrm, location of the VC
+ﬁrm, and industry conditions at the time of initial VC
+funding. In the second-step regressions, I add the inverse
+Mills ratio received from the ﬁrst-step probit regression as
+an additional regressor for estimating each measure of
+
+(footnote continued)
+VC experience, previously used in the literature, as additional control
+variables to show the robustness of my results.
+
+4 Sorensen (2007) employs a structural model to separate the effects
+of sorting from value-addition to study their individual inﬂuences on the
+IPO rates. However, estimation of the structural model is numerically
+intensive and only parsimonious speciﬁcations are numerically tractable.
+In contrast, I employ a richer speciﬁcation to include all variables that
+have been previously shown to or that can possibly inﬂuence the
+performance of portfolio companies. Furthermore, Sorensen’s focus is on
+measuring the differential impact of VC screening and value-addition on
+IPO success. In contrast my focus is on proposing a new measure of VC
+reputation that is robust across several measures of performance and
+should ideally reﬂect both VC monitoring and screening expertise. In
+addition, when I control for Sorensen’s measure of VC experience in my
+analyses, I ﬁnd my results to be robust.
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+129
+
+company performance. My ensuing analyses provide
+evidence consistent with Sorensen (2007) that more
+reputable VC ﬁrms select superior VC investments as well
+as add incremental value to their portfolio companies.
+
+I use two VC reputation measures to relate to the
+outcome of VC investments. The ﬁrst is based on the
+cumulative market capitalization of IPOs backed by the VC
+ﬁrm in the IPO market. As Gompers and Lerner (1999b)
+point out, IPOs are the most successful of all venture exits
+and fetch the highest returns to the venture investors. In
+guiding a portfolio company from a private start-up to an
+IPO, the VC ﬁrm adds to its reputation of being a
+successful venture investor. Furthermore, an IPO exit
+creates a ‘buzz’ and enhances VC visibility in the industry.
+For each VC ﬁrm, I cumulate the dollar market value of all
+companies taken public by the VC ﬁrm until a given
+calendar year and normalize it by the aggregate market
+value of all VC-backed companies that went public until
+the same calendar year. Kaplan and Schoar (2005) report a
+fair degree of return persistence in the private equity
+industry, and Megginson and Weiss (1991) and Krishnan,
+Masulis, and Singh (2006) argue that VCs enjoying
+continuing success create a greater visibility for them-
+selves. The cumulative nature of the measure of VC
+reputation captures this effect.
+
+My second measure of VC reputation is based on the
+VC’s share of aggregate investment in the VC industry.
+This measure is motivated by two observations. First, a
+higher share of aggregate investment denotes a higher
+share of fund commitments by limited partners (LPs) who
+select and invest in VC funds largely based on their
+reputation.5 Second, Hsu (2004) shows that start-ups are
+often willing to turn down higher valuation offers in favor
+of more reputable VCs even if valuation offers are lower.
+This implies reputable VCs have a larger investment
+opportunity set and are likely to have a higher share of
+aggregate VC investment as well. To create the second
+measure, for each VC ﬁrm, I cumulate its dollar investment
+until a given calendar year and normalize it by the overall
+aggregate investment in the VC industry until the same
+calendar year.
+
+The empirical analysis relates measures of VC reputa-
+tion to the performance of portfolio companies whose VC
+funding occurred between 1991 and 2001. I ﬁrst examine
+whether the portfolio company achieved a successful
+exit—IPO or acquisition—by the beginning of 2006 in a
+logit framework. Controlling for a variety of factors known
+to affect VC ﬁrm performance, I ﬁnd reputable VC ﬁrms
+are more likely to lead their companies to successful exits.
+This evidence holds when I analyze the performance of
+individual VC investments as well as the performance of
+the lead VC ﬁrm at the portfolio company level.
+
+Second, I investigate whether or not reputable VC ﬁrms
+are more likely to speed up a portfolio company’s exit. To
+analyze this, I use the time to exit Cox hazard models,
+which also account for the right-censoring since compa-
+nies in existence beyond December 2005 may yet exit
+
+5 The correlation of aggregate VC investment and LPs’
+
+funds
+
+commitment, measured between 1980 and 2005 exceeds 0.98.
+
+successfully. I ﬁnd that reputable VCs are more likely to
+exit successfully with a lower expected duration. This is
+valid for both individual VC investments as well as the
+lead VC ﬁrm at the portfolio company level.
+
+Third, when I restrict the sample to successful exits,
+I ﬁnd IPOs are associated with more reputable VCs, even
+relative to acquisitions. Thus, a monotonic pattern
+emerges in which top brand VCs are more likely to be
+associated with IPOs, followed by medium brand VCs with
+acquisitions, and the least reputable VCs with unsuccess-
+ful exits. Since IPOs, on average, fetch the highest returns
+to the venture investors followed by acquisitions, this
+pattern is anticipated as the best VCs are expected to both
+select and nurture their portfolio companies toward the
+most successful exit. My VC reputation measure ade-
+quately captures this pattern, which is a testament to its
+robustness.
+
+Finally, I examine the asset productivity of companies,
+speciﬁcally analyzing the ratio of revenues to total book
+assets when the portfolio companies go public.6 Asset
+productivity is a means to determine the efﬁciency by
+which a company converts its investment in assets into
+sales. I ﬁnd that companies backed by more reputable VCs
+have higher asset productivity at the time of their IPOs.
+Reputable VCs are more likely to provide better value-
+added services that
+translate into higher operating
+efﬁciency for their portfolio companies.
+
+I apply the VC reputation measures to my analysis in a
+manner so that reverse causality (better performance
+leads to a better reputation) is unlikely to explain the
+observed performance patterns. Speciﬁcally, I measure the
+reputation of a given VC ﬁrm at the end of the year prior to
+the year of its ﬁrst investment in the portfolio company.
+Since a substantial time gap is likely to exist between the
+ﬁrst investment by the VC ﬁrm and its exit, I relate a VC
+ﬁrm’s past reputation to its future performance. Thus, by
+construction, the reputation measures are free of look-
+ahead bias. I ﬁnd my ﬁrst VC reputation measure, based
+on the cumulative dollar capitalization of IPOs backed by
+the VC, to be a consistently better predictor of VC
+investment and portfolio company performance. Addi-
+tional tests suggest VC’s dollar capitalization share of IPOs
+effectively captures both VC screening and monitoring
+expertise. The Appendix provides a ranking of the top 30
+VC ﬁrms, by VC’s dollar capitalization share in the IPO
+market. The second reputation measure, based on VC’s
+aggregate investment in the venture capital industry, is
+not as consistent
+in predicting portfolio companies’
+performance.
+
+This study differs from the existing literature on VC
+reputation and experience primarily in three ways. First,
+I test and propose a new measure of VC reputation that is
+
+6 I do not analyze M&A exits on this dimension due to non-
+availability of target-speciﬁc ﬁnancial information in a wide majority of
+cases. Most acquisitions are reported to the Securities and Exchange
+Commission (SEC) as 8K ﬁlings. SEC rules do not require target ﬁnancials
+to be reported unless the acquisition is at least 10% of an acquirer’s value.
+Private targets are likely to be much smaller in size relative to their
+acquirers and therefore, ﬁnancial and accounting information on targets
+is seldom available.
+
+
+130
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+intuitive, is publicly available, and is the only measure
+that consistently predicts VC investment and portfolio
+company performance. This is after accounting for VC
+connectedness (Hochberg, Ljungqvist, and Lu, 2007) and
+other measures of VC experience such as VC age (Lerner,
+1994a; Gompers, 1996; Gompers and Lerner, 1999a),
+cumulative number of investment rounds made by the
+VC ﬁrm (Sorensen, 2007), and VC’s aggregate investment
+in the venture capital industry (Hochberg, Ljungqvist, and
+Lu, 2007). Second, in addition to analyzing the likelihood
+of a successful VC exit using the logit and hazard models,
+I dig deeper into successful exits and study two additional
+performance measures: ﬁrst, whether the most reputable
+VCs are able to take their companies public more often
+rather than sell them to potential acquirers, and second,
+whether the asset productivity of portfolio companies
+backed by reputable VCs is higher. Third, I analyze the
+performance implications of VC reputation on private
+ﬁrms, unlike Krishnan, Masulis, and Singh (2006) who
+study the impact of VC reputation on the long-run
+performance of IPOs.
+
+Finally, whether VCs display capability in sorting
+companies or in providing value-added services to their
+portfolio companies, their reputation is enhanced on
+account of proﬁtable fulﬁllment of either activity.
+A consistently performing measure of VC reputation,
+which incorporates into itself both the VC’s screening
+and value-addition abilities, can be of good use to limited
+partners and entrepreneurs in their VC-sorting activities.
+The paper proceeds as follows. Section 2 discusses
+the data, methodology, and construction of variables.
+Section 3 presents the effect of VC reputation on the
+performance of VC investments. Section 4 analyzes the
+impact of reputation on portfolio company performance.
+Section 5 investigates robustness of the results. Finally,
+Section 6 concludes.
+
+2. Data, variables, and methodology
+
+I source the data from the Securities Data Corporation’s
+VentureXpert database provided by Thomson Financial.
+I focus on investments made by U.S. based VC ﬁrms in
+private companies headquartered in the U.S. The primary
+sample includes all VC investments made between 1991
+and 2001, in companies that received their ﬁrst round of
+VC funding beginning in 1991. The private equity invest-
+ments in buy-outs of relatively mature companies do not
+form a part of the study. Since, I track the performance of
+portfolio companies until the beginning of 2006, the
+methodology provides for a minimum of 4 years for a
+successful exit, consistent with the analysis in Gompers
+and Lerner (2000a) and Hochberg, Ljungqvist, and Lu
+(2007). Companies that do not exit successfully by the
+beginning of 2006 are classiﬁed as unsuccessful exits. The
+information on successful exits—IPOs and acquisitions—is
+available in the VentureXpert database, and I cross-verify
+it with the New Issues database (for IPOs) and M&A
+database (for acquisitions), also provided by Thomson
+Financial. The data consist of 33,539 identiﬁable VC
+investments in 12,124 portfolio companies, for which
+
+Table 1
+Year-wise distribution of VC investments
+
+The table presents year-wise distribution of VC investments between
+1991 and 2001, in companies that received their ﬁrst round of VC
+funding beginning in 1991, and for which relevant data are available.
+Companies that went public or were acquired between 1991 and 2005,
+inclusive, are classiﬁed as ‘Successful’ exits, otherwise denoted ‘Un-
+successful’ exits.
+
+Funding year
+
+VC investments at beginning of 2006
+
+%Successful
+
+Successful
+
+Unsuccessful
+
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+Total
+
+178
+399
+399
+500
+751
+1066
+1306
+1374
+2008
+2290
+972
+
+11243
+
+196
+328
+331
+406
+799
+1168
+1673
+2189
+4207
+7715
+3284
+22296
+
+47.59
+54.88
+54.66
+55.19
+48.45
+47.72
+43.84
+38.56
+32.31
+22.89
+22.84
+33.52
+
+relevant company and VC ﬁrm data are available. In the
+analyses of 33,539 VC investments, each VC-portfolio
+company pair is unique, even though the VC may have
+participated in multiple rounds of ﬁnancing.
+
+Table 1 presents the year-wise distribution of VC
+investments made between 1991 and 2001, and their
+status at the beginning of 2006. As observed, the VC
+investment activity gathered momentum in the mid-
+1990s, peaked in the late-1990s, and slowed considerably
+following the ‘‘bubble burst’’ of the dot-com era. The
+proportion of successful VC investments has decreased
+since the mid-1990s, coinciding with the growth in the
+venture capital industry; however the investments under-
+taken particularly in the late-1990s have also had a
+shorter timeframe to exit (relative to those made in the
+early- or mid-1990s) since the sample period is right-
+censored at the beginning of year 2006. Since these
+investments may eventually exit successfully, the Cox
+hazard model employed explicitly accounts for the right-
+censoring involved.
+
+2.1. Measure of success
+
+The portfolio companies are treated as successful if
+they go public or are acquired. Gompers and Lerner
+(2000a), Brander, Amit, and Antweiler (2002), Hochberg,
+Ljungqvist, and Lu (2007), Sorensen (2007), and Zarutskie
+(2007) use similar measures to evaluate success of
+portfolio companies. Hochberg, Ljungqvist, and Lu
+(2007) also show that this measure is a reasonable proxy
+for VC fund returns. It is well known that VC ﬁrms reap
+most of
+their
+investments that exit either through IPOs or acquisitions
+(Cumming and MacIntosh, 2003; Cochrane, 2005). In my
+sample, roughly 25% of the portfolio companies exited
+successfully by the beginning of 2006, which is compar-
+able to the 26% reported by Hochberg, Ljungqvist, and Lu
+(2007). In terms of VC investments, about 34% succeeded,
+
+their proﬁts from the sub-sample of
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+131
+
+the success percentage being slightly lower than the 41.8%
+reported by Cochrane (2005) during the 1987–2000
+timeframe using a different data set collected by
+VentureOne.
+
+2.2. VC reputation
+
+I construct two measures of VC reputation to analyze
+the likelihood of successful exits. The ﬁrst is based on the
+cumulative market capitalization of IPOs backed by the VC
+ﬁrm in the IPO market. For each VC ﬁrm, I cumulate the
+dollar market value of all companies taken public by the
+VC ﬁrm from the beginning of calendar year 1987 up until
+a given calendar year and normalize it by the aggregate
+market value of all VC-backed companies that went public
+from the beginning of 1987 up until the same calendar
+year (I hereafter refer to this measure as ‘IPO Capitaliza-
+tion share’). The market value of portfolio companies is
+based on the initial day closing price and shares out-
+standing on that date, both of which are sourced from
+Center for Research in Security Prices (CRSP) records.
+Since the lead VC reputation is measured at the time of
+the portfolio company’s initial funding round, the con-
+structed measure based on the market value of companies
+taken public incorporates at least 4 years of VC perfor-
+mance in the case of companies initially funded in 1991,
+since the lead VC reputation is based on companies taken
+public between 1987 and 1990. For companies initially
+funded in 1997, this VC reputation measure incorporates
+10 years of VC performance from 1987 until 1996.
+
+The second measure of reputation is based on the VC’s
+share of aggregate investment in the VC industry. A higher
+share of aggregate investment denotes a bigger share of
+fund commitments by limited partners who select and
+invest in VC funds largely based on their reputation. For
+each VC ﬁrm, I cumulate the dollar investment from the
+beginning of year 1980 up until a given calendar year and
+normalize it by the overall aggregate investment in the VC
+industry in those years (I hereafter refer to this measure as
+‘VC investment share’).7 Thus for example, in the case of
+companies initially funded in 1991, lead VC reputation is
+based on aggregate investments made by the VC between
+1980 and 1990. The data for constructing this measure
+come from VentureXpert. In both cases, a larger number
+or share denotes more reputable VCs.
+
+I analyze both the outcome of VC investments as well
+as the fate of portfolio companies. At the investments
+level, the reputation is measured for each VC investor at
+the time of its ﬁrst investment in the portfolio company. At
+the portfolio company level, I take the reputation of the
+lead VC as the primary explanatory variable. Usually, the
+lead VC originates the deal and is among the ﬁrst venture
+investors in the start-up.
+It is often the most active
+investor and extensively helps in monitoring, professio-
+nalizing the company, and locating follow-on VCs for
+
+7 Unlike my ﬁrst measure of VC reputation based on the market
+value of companies taken public, to construct this measure, I start from
+before 1987 in order to capture the pattern of VC investments that may
+have then culminated in successful or unsuccessful outcomes in later
+years including 1987.
+
+syndicated investments. I determine the lead VC as the
+ﬁrm that participated in the ﬁrst round and made the
+largest total investment in the company across all rounds
+of funding. Absent the identity of investors in the ﬁrst
+round, I apply the same logic to determine the lead VC
+ﬁrm based on identities of the second round investors.
+This classiﬁcation, based on the identities of the ﬁrst or
+second round investors,
+is preferred to the one that
+determines the lead VC ﬁrm based on the total VC
+investment across all rounds of ﬁnancing irrespective of
+when the VC started its association with the portfolio
+company. For instance, later funding rounds involve larger
+amounts based on higher company valuations and a VC
+ﬁrm that participated only in the last round of funding but
+invested the largest amount would be classiﬁed as the
+lead VC, which would not be a meaningful classiﬁcation.
+Table 2, Panel A shows the average IPO Capitalization
+share of
+lead VC ﬁrms that led their companies to
+successful exits is 1.66%. This differs signiﬁcantly from
+the average IPO Capitalization share of 1.00% for lead VCs
+who back unsuccessful companies. A similar pattern is
+observed on analyzing the share of aggregate investment
+in the VC industry. The average VC investment share is
+0.29% (0.18%) for the lead VCs who back successful
+(unsuccessful) portfolio companies, the difference being
+statistically signiﬁcant.
+In Table 2, Panel B, a similar
+pattern emerges for both the reputation measures
+pertaining to individual VC ﬁrms that invest in these
+portfolio companies.
+
+2.3. Other VC characteristics: experience and connectedness
+
+I use the age of the VC ﬁrm to measure its VC industry
+experience. The average age of the lead VCs whose
+portfolio companies exit successfully (unsuccessfully) is
+13.46 (12.12) years, the difference being statistically
+signiﬁcant. The pattern in Panel B of Table 2 is likewise
+with experienced VCs more likely to be associated with
+successful exits.
+
+As mentioned earlier, the measures of VC reputation
+developed are likely to be correlated both with VC
+experience in general, and with VC ﬁrm’s age in particular.
+In my sample, for the lead VCs, the correlations of VC age
+with IPO Capitalization share and VC investment share are
+0.40 and 0.32 respectively. I include VC age to maintain
+consistency with prior literature and also as an additional
+control variable. For robustness, I also use the cumulative
+number of investment rounds as an alternative proxy for
+VC experience (Sorensen, 2007); the results are qualita-
+tively similar.
+
+I measure the VC connectedness or how networked the
+VC is in the spirit of Hochberg, Ljungqvist, and Lu (2007).
+I measure the number of relationships each VC has had in
+5 years on a rolling basis. Speciﬁcally, I count the number
+of unique VCs each VC has syndicated with in 5 years on a
+rolling basis and normalize it by the number of relation-
+ships possible during those 5 years. VCs that actively
+syndicate with other industry participants and are better
+connected have arguably better access to deal ﬂow,
+investment opportunity sets, and access to information
+
+
+132
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+Table 2
+Descriptive statistics for VC-backed companies funded between 1991 and 2001 that ‘exited’ by beginning of 2006
+
+IPOs/Acquisitions are classiﬁed as ‘Successful’ exits; companies that did not exit successfully are denoted ‘Unsuccessful’ exits. Panel A presents statistics
+on VC-backed portfolio companies that were initially funded between 1991 and 2001, and for which relevant data are available. The reputation of the
+venture capitalist backing the portfolio company is proxied for by two variables. The ﬁrst is based on the VC ﬁrm’s dollar capitalization share in the IPO
+market, determined by the cumulative market capitalization of the companies taken public by the VC ﬁrm, relative to other VC ﬁrms. The second
+measures the VC’s share of aggregate investment in the VC industry. In both cases, the higher the number, the higher the VC’s reputation. Other
+characteristics of the VC are the VC’s connectedness measured by the normalized number of unique VCs the VC has syndicated with in previous 5 years,
+and age of the VC ﬁrm. VC reputation, VC connectedness, and VC age are measured prior to VC’s ﬁrst investment in the portfolio company. VC syndication
+is characterized by the size of the VC syndicate in the portfolio company, percentage of companies involving a corporate investor as one of the VCs, and
+percentage of companies involving an arm of an investment bank as one of the VCs. The portfolio company characteristics include the total VC funding to
+the portfolio company across all ﬁnancing rounds, and percent of companies that were funded at the early/seed stage of development. VC industry
+competition at the time of VC’s initial funding of the portfolio company is captured by the aggregate funds inﬂow into the VC industry in the year prior.
+The investment opportunities available to VCs at the time of their initial investment in the portfolio company are captured by the median market to book
+ratio in the high-tech industry (deﬁned in footnote 11), in that year. The exit market conditions are proxied by the lagged quarterly number of IPO and
+M&A transactions prior to exit (in the case of unsuccessful exits, average of the lagged number of transactions since the company’s initial VC funding).
+Panel B presents statistics on all VC (including the lead) investments made between 1991 and 2001, in companies that received their ﬁrst round of VC
+funding beginning in 1991, and for which relevant data are available. p-Values pertaining to a t-test for equality of means and Wilcoxon test for equality of
+medians are reported.
+
+Panel A: VC-backed portfolio companies
+Lead VC reputation measures
+
+IPO Capitalization share %
+VC investment share %
+
+Lead VC characteristics
+VC connectedness %
+Age (years)
+
+VC syndication
+
+Successful exits
+
+Unsuccessful exits
+
+Tests of equality
+
+(p-values)
+
+Number
+
+Mean
+
+Median
+
+Number
+
+Mean
+
+Median Mean Median
+
+3008
+3008
+
+1.66
+0.29
+
+0.59
+0.10
+
+9116
+9116
+
+1.00
+0.18
+
+0.13
+0.04
+
+0.00
+0.00
+
+0.00
+0.00
+
+3008
+2978
+
+6.86
+13.46
+
+4.34
+11.72
+
+9116
+8972
+
+4.19
+12.12
+
+1.82
+9.75
+
+0.00
+0.00
+
+0.00
+0.00
+
+VC syndicate size
+% Of companies backed by a corporate VC
+% Of companies having an investment bank as a VC
+
+3008
+3008
+3008
+
+5.32
+35.26
+23.10
+
+4.00
+
+9116
+9116
+9116
+
+3.71
+24.20
+15.86
+
+3.00
+
+Portfolio company characteristics
+
+Total VC funding across all rounds ($M)
+% Of companies funded at the seed or early stage
+
+2947
+3008
+
+31.42
+66.97
+
+18.96
+
+8545
+9116
+
+21.57
+62.65
+
+9.78
+
+0.00
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+
+0.00
+
+VC industry competition
+
+Aggregate VC fund inﬂows in the year prior to the lead VC’s
+
+3008
+
+36.86
+
+17.75
+
+9116
+
+56.64
+
+45.49
+
+0.00
+
+0.00
+
+ﬁrst investment in the portfolio company ($billion)
+
+VC investment environment
+
+Median M/B ratio in the high-tech industry in the year of lead
+
+3008
+
+2.29
+
+2.19
+
+9116
+
+2.30
+
+2.11
+
+0.40
+
+0.00
+
+VC’s ﬁrst investment in the portfolio company
+
+IPO and M&A market conditions
+
+Lagged quarterly number of IPOs prior to VC exit
+Lagged quarterly number of M&A deals prior to VC exit
+
+3008
+3008
+
+101.69
+2719.69
+
+86
+
+2580
+
+9116
+9116
+
+69.37
+
+2461.57
+
+64
+
+2413
+
+0.00
+0.00
+
+0.00
+0.00
+
+Panel B: VC investments
+VC reputation measures
+
+IPO Capitalization share %
+VC investment share %
+
+VC characteristics
+
+VC connectedness %
+Age (years)
+
+VC syndication
+
+11243
+11243
+
+1.44
+0.21
+
+0.40
+0.06
+
+22296
+22296
+
+1.04
+0.16
+
+0.15
+0.03
+
+0.00
+0.00
+
+0.00
+0.00
+
+11243
+10896
+
+6.14
+12.66
+
+3.56
+10.67
+
+22296
+21699
+
+4.35
+11.72
+
+2.10
+8.56
+
+0.00
+0.00
+
+0.00
+0.00
+
+% Of VC investments made by traditional VCs
+% Of VC investments made by corporate VCs
+% Of VC investments made by investment banks
+
+11243
+11243
+11243
+
+62.36
+12.64
+7.76
+
+22296
+22296
+22296
+
+62.55
+10.80
+7.52
+
+0.73
+0.00
+0.44
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+133
+
+Table 2 (continued )
+
+Successful exits
+
+Unsuccessful exits
+
+Tests of equality
+
+(p-values)
+
+Number
+
+Mean
+
+Median
+
+Number
+
+Mean
+
+Median Mean Median
+
+VC investment characteristics
+
+% Of VC investments made at the seed or early stage
+% Of traditional VC investments at the seed or early stage
+% Of corporate VC investments at the seed or early stage
+
+11243
+11243
+11243
+
+41.02
+48.08
+24.92
+
+22296
+22296
+22296
+
+48.25
+54.29
+35.46
+
+0.00
+0.00
+0.00
+
+VC industry competition
+
+Aggregate VC fund inﬂows in the year prior to VC’s ﬁrst
+
+11243
+
+46.71
+
+30.75
+
+22296
+
+65.07
+
+45.49
+
+0.00
+
+0.00
+
+investment in the portfolio company ($billion)
+
+VC investment environment
+
+Median M/B ratio in the high-tech industry in the year of
+
+11243
+
+2.34
+
+2.11
+
+22296
+
+2.29
+
+1.95
+
+0.00
+
+0.00
+
+VC’s ﬁrst investment in the portfolio company
+
+(Hochberg, Ljungqvist, and Lu, 2007). Controlling for VC
+connectedness and the likelihood of a better deal ﬂow is
+one of the ways I try to address the selection bias arising
+from VC access to more promising investment opportu-
+nities.
+
+Table 2, Panel A shows that the average normalized
+connectedness (hereafter referred to as VC connectedness)
+of a lead VC is 6.86% (4.19%) when it backs successful
+(unsuccessful) portfolio companies. These statistics are
+comparable to the average VC connectedness of 4.24%
+reported by Hochberg, Ljungqvist, and Lu (2007). The
+difference in VC connectedness for successful and un-
+successful companies is signiﬁcant at the 1% level. In Panel B
+of Table 2, I present the average VC connectedness for all
+individual VCs that invested in the portfolio companies.
+The average normalized connectedness of VCs that led
+their portfolio companies to successful (unsuccessful) exits
+is 6.14% (4.35%), the difference being signiﬁcant at the 1%
+level. The average connectedness of lead VCs at 4.85% is
+slightly lower than that of all VCs since it is measured at
+the time of ﬁrst round of investment in the portfolio
+company. VC investors in later rounds seem to have
+improved their connectedness because of a ﬂurry of
+investments and syndications from the mid- to late-1990s.
+
+2.4. VC syndication
+
+Brander, Amit, and Antweiler (2002) provide evidence
+that syndicated VC deals have higher returns. I control for
+the performance implications of syndication by measur-
+ing the size of the VC syndicate in each portfolio company.
+The median VC syndicate comprises of four (three) VCs for
+successful (unsuccessful) portfolio companies. The med-
+ian syndicate comprising three VCs across all U.S. based
+portfolio companies is similar to the ﬁndings in Lerner
+(1994b) but higher than the median VC syndicate size
+comprising of a single VC reported by Brander, Amit, and
+Antweiler (2002) on their data set of Canadian venture
+investments.
+
+In addition, I create an indicator variable denoting
+presence of corporate venture capitalists in the VC
+
+syndicate. Gompers and Lerner (2000a) provide evi-
+dence that corporate backing is beneﬁcial to the perfor-
+mance of VC-backed companies. Of
+the portfolio
+companies that exited successfully (unsuccessfully), 35%
+(24%) involved a corporate investor in the VC syndi-
+cate (Table 2, Panel A). On the whole, 27% of the
+companies had a corporate investor as one of the VC
+syndicate members. Also, in Table 2, Panel B, I show that
+12.6% (10.8%) of all VC investments that translated into
+success (failure) were made by corporations. On the
+whole, corporate investors represent 11.4% of the VC
+investments, the percentage being much higher than the
+6% reported by Gompers and Lerner (2000a) during the
+1983–1994 period, suggesting a dramatic increase in
+venture capital activity by corporations in the latter part
+of the 1990s.
+
+It is also well known that VCs provide more than
+ﬁnancial capital to develop their portfolio companies.8
+They help attract other investors including banks, exten-
+sively develop the human capital in the portfolio com-
+pany, professionalize the company, bring in potential
+customers and suppliers using their extended network,
+help forge strategic alliances, and also draw in lawyers,
+investment bankers, auditors, and other service providers
+who are capable of providing useful services to portfolio
+companies.
+It takes time to develop proﬁciency and
+expertise in the VC industry to nurture and guide portfolio
+companies toward proﬁtable exits. The last decade has
+witnessed a lot of activity in the VC industry, one being an
+appreciable entry of investment banks. To determine the
+performance of investment banks in the VC industry,
+I create an indicator variable denoting presence of invest-
+ment banks in the VC syndicate. As observed in Table 2,
+Panel A, of the portfolio companies that exit successfully
+(unsuccessfully), 23.10% (15.86%) involve an investment
+bank in the VC syndicate, the numbers being signiﬁcantly
+
+8 For evidence on positive inﬂuence of venture capitalists on their
+portfolio companies, see Barry, Muscarella, Peavy, and Vetsuypens
+(1990), Brav and Gompers (1997), Gompers (1995), Gompers and Lerner
+(1999b), Hellmann and Puri (2000, 2002), Hochberg (2005), Lerner
+(1994a, 1995), Lindsey (2008), and Megginson and Weiss (1991).
+
+
+134
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+different from each other. However, at the investments
+level, 7.76% (7.52%) of all VC investments that translate into
+success (failure) are made by investment banks, the
+percentages being not signiﬁcantly different from each
+other.
+
+2.5. Portfolio company characteristics
+
+The performance of portfolio companies is likely to
+depend on their quality. As well, better quality companies
+are more likely to afﬁliate with more reputed VC investors.
+As discussed earlier, I control for VC connectedness, which
+is one way of addressing the selection bias on account of
+VC access to more promising deal ﬂow. A second way to
+mitigate the resulting selection bias is to explicitly create
+a variable that is a proxy for company quality. I create a
+variable that measures the total VC investment in the
+portfolio company across all ﬁnancing rounds. The greater
+the total VC investment, the better the likelihood of a
+successful exit. VCs engage in extensive monitoring of
+their companies and continually evaluate their ventures’
+promise, need for additional capital, use of capital, and
+whether to liquidate their equity investments. As Gom-
+pers (1995) illustrates, a follow-on funding occurs only if
+companies continue to do well. Furthermore, VC funds are
+organized largely as self-liquidating partnerships and the
+need to terminate the fund at the end of 10–12 years
+imposes a healthy discipline on fund managers. It forces
+the venture capitalists to refuse additional rounds of
+capital for weak ventures. Thus, all else equal, greater VC
+funding reﬂects a better quality portfolio company. As
+observed in Table 2, Panel A, successful (unsuccessful)
+companies received on average, an aggregate VC invest-
+ment of $31.4 ($21.6) million. This difference is signiﬁcant
+at the 1% level.
+Admittedly,
+
+this measure of company quality is
+imperfect and involves look-ahead bias since the cumu-
+lative funding to the portfolio company (before the exit)
+is unknown at the time of
+initial or even later VC
+funding. However, data limitations prevent me from
+capturing a more adequate measure of portfolio company
+quality. The VentureXpert database provides very
+little information on portfolio companies other than
+funding rounds, amounts invested, venture investors,
+and eventual exits. As a robustness check, upon excluding
+the variable capturing company quality—cumulative VC
+funding to the portfolio company—all results remain
+qualitatively similar. Apart
+from VC connectedness
+and cumulative VC funding, I also try to account for
+portfolio company quality using the Heckman (1979)
+selection framework that models the likelihood of more
+reputable VCs associating with better quality companies
+(Section 5).
+
+I also create an indicator variable denoting whether the
+ﬁrst investment by a VC in the portfolio company occurred
+at the ‘seed’ or ‘early’ stage of development. Companies in
+early stages of development are likely to be riskier and
+this may impact their performance. I observe that 46% of
+the VC investments occurred when the companies were in
+their seed/early developmental stages, which is higher
+
+than the 39% reported in Gompers (1995).9 As observed in
+Panel B of Table 2, among successful (unsuccessful) exits,
+41.02% (48.25%) of all VC investments were made at the
+seed/early stage, the difference being statistically signiﬁ-
+cant. Similar patterns emerge when I study the perfor-
+mance of
+and corporate VC investors
+separately. For both types of investors, a larger proportion
+of their investments were unsuccessful when the initial
+funding was at the seed/early stage.
+
+traditional
+
+It is notable that the percentage of seed/early stage
+investments made by traditional VCs far exceeds those
+made by corporate VCs (CVCs). This is likely for multiple
+reasons. Early-stage companies are arguably riskier which
+makes them unattractive investments for the relatively
+more risk-averse corporations. CVCs in general are less
+experienced in venture investing than traditional VCs;
+furthermore, CVC managers often have weaker perfor-
+mance incentives compared to the general partners in the
+traditional VC ﬁrms.10 These factors are likely to make the
+CVC managers unwilling to take additional risks asso-
+ciated with investing in early-stage start-ups. Moreover,
+business relations between the start-ups and corporations
+such as customer–supplier
+relations, marketing and
+advertising support, strategic alliances, or joint ventures
+are more likely at a relatively later stage of the start-up’s
+lifecycle. Such business relations are often accompanied
+by equity investments from CVCs’ parent corporations.
+Allen and Phillips (2000) provide evidence on block
+ownership by corporations and the resultant beneﬁts in
+product market relationships.
+
+2.6. VC industry competition
+
+Hochberg, Ljungqvist, and Lu (2007) present evidence
+that competition among VCs for deal ﬂow adversely
+affects the subsequent performance of their portfolio
+companies, which is consistent with the ‘money chasing
+deals’ scenario ﬁrst shown by Gompers and Lerner
+(2000b) in the VC context.
+I control for VC industry
+competition in my models by using the aggregate fund
+inﬂows in the VC industry in the year prior to the VC’s ﬁrst
+investment in a portfolio company. Table 2, Panel A shows
+that the median fund inﬂows in the VC industry at the
+time of the lead VC’s initial investment in a successful
+(unsuccessful) portfolio company was $17.75 ($45.49)
+
+9 For proper comparison, I group the following developmental stages
+reported in Table V in Gompers (1995) into seed/early stage: Seed,
+Startup, Early, First, and Other Early. However, the 39% reported in
+Gompers (1995) likely understates the true percentage since the same
+venture capitalist may have participated in both early and expansion/
+later stages of a company’s development and would be counted multiple
+times. Recall that in my analysis, each VC-portfolio company pair is
+unique even though the VC may have participated in multiple rounds of
+ﬁnancing.
+
+10 For example, General Partners in traditional VC ﬁrms are primarily
+compensated through ‘carried interest’ which is typically 20–30% of the
+proﬁts realized by the VC fund. In contrast, CVC managers seldom receive
+similar compensation because corporations are typically reluctant to
+make large payments to their venture managers, payments that can
+substantially exceed those paid to other employees of the parent
+corporations. See Gompers and Lerner (2000a), Hellmann (2002), and
+Masulis and Nahata (2008) for issues about CVC investing.
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+135
+
+billion, the difference being statistically signiﬁcant. The
+average VC fund inﬂow is higher than that reported in
+Hochberg, Ljungqvist, and Lu (2007) because as noted
+earlier, a signiﬁcant
+fraction of VC investments is
+concentrated in the late 1990s, a period of boisterous VC
+activity. The pattern in Table 2, Panel B is similar with
+signiﬁcantly higher VC industry inﬂows at the time of the
+VC’s initial investment being associated with unsuccessful
+exits.
+
+2.7. VC investment environment
+
+I control
+
+In the spirit of Gompers and Lerner (2000b), Gompers,
+Kovner, Lerner, and Scharfstein (2008), and Hochberg,
+Ljungqvist, and Lu (2007),
+for investment
+environment available to VCs using the market to book
+ratios of all public ﬁrms that belong to the high-tech
+industries.11 It is plausible the investment opportunities
+available to investors affect their investment decisions
+and their performance. On one hand, high market to book
+ratios in an industry can be an indication of favorable
+growth prospects. On the other, high market to book ratios
+may point toward excessive optimism and over-valuation
+in an industry, which may lead to inefﬁcient investment
+decisions and poor performance (Baker and Wurgler,
+2002).
+
+As a proxy for the VC investment environment, I use
+the median market to book ratio for the high-tech
+industries in the year of the ﬁrst VC investment in a
+portfolio company. Table 2, Panel A shows the median
+market to book ratio of 2.19 at the time of lead VC’s ﬁrst
+investment
+in the portfolio company is signiﬁcantly
+higher for successful exits, indicating VCs appear to select
+more promising companies in an upbeat investment
+climate. A similar pattern emerges when analyzing
+individual VC investments in Table 2, Panel B, which is
+consistent with the evidence in Hochberg, Ljungqvist, and
+Lu (2007). However, given the insigniﬁcant impact of VC
+investment environment on success probability as
+reported in Gompers, Kovner, Lerner, and Scharfstein
+(2008), the incremental impact of VC investment environ-
+ment on VC ﬁrm and company performance can only be
+measured in a multivariate setup.
+
+2.8.
+
+IPO and M&A market conditions
+
+Starting with Lerner (1994a), several studies have
+shown VCs timing their exits, particularly the IPOs, with
+‘better’ market conditions. Since VC exits from their
+portfolio companies, through IPOs or acquisitions, are at
+least in part likely to be a function of conditions in the IPO
+
+11 The public ﬁrms are drawn from the Compustat universe and their
+industry is classiﬁed by their primary three-digit Standard Industry
+Classiﬁcation (SIC) codes. High-tech industries are classiﬁed as belonging
+to SIC codes 283 (biological products, genetics, and pharmaceuticals),
+481 (high-tech communications), 365–369 (electronic equipment),
+482–489 (communication services), 357 (computers), and 737 (software
+services). The market to book ratio is measured as the market value of
+equity plus the book value of assets minus the book value of equity
+divided by the book value of assets.
+
+and M&A markets, I speciﬁcally control for the exit market
+environment using two variables, each measuring the
+state of the respective markets. First,
+I measure the
+quarterly number of IPOs—number of IPOs over a period
+of 3 months—prior to the portfolio company’s exit. This
+measure is lagged by a quarter so as to allow a typical
+company and its investors up to 3 months to prepare for
+an impending exit by way of an IPO or an acquisition.
+Second, I likewise measure the quarterly number of M&A
+deals prior to the portfolio company’s exit. The higher the
+number of IPO/M&A transactions, the more conducive the
+environment is for VCs trying to exit successfully during
+that period.
+
+In Table 2, Panel A,
+
+I report the lagged quarterly
+number of IPO and M&A transactions, prior to company
+exits. For unsuccessful exits, I measure the average of the
+lagged quarterly number of IPO/M&A transactions over
+the entire time period, starting from the portfolio
+companies’ initial date of VC funding. Though imprecise,
+this is necessary to compare the exit market conditions
+across successful and unsuccessful exits, at least in the
+univariate setting, since it is not obvious when to measure
+exit market conditions for unsuccessful portfolio company
+exits. In the Cox hazard framework, I allow for time-
+varying exit market conditions, which alleviates this
+concern, as detailed in the next sub-section. I ﬁnd that
+in the case of successful exits, the previous quarter
+witnessed on average, 102 IPO and 2,720 M&A transac-
+tions, the numbers being signiﬁcantly higher than those
+during average exit market conditions. This is consistent
+with the evidence reported in Lerner
+(1994a) and
+Hochberg, Ljungqvist, and Lu (2007).
+
+2.9. Methodology
+
+furthermore,
+
+To measure the likelihood of a successful exit I use both
+the logit and hazard models. The hazard model allows for
+analyzing the timing of events;
+it also
+accounts for the right-censored feature of the data, since
+companies that have not exited successfully by the
+beginning of 2006 are treated as liquidations, though
+they may still exit successfully. I measure most of the
+explanatory variables including the VC reputation mea-
+sures at the time of the ﬁrst VC investment in the portfolio
+company. Speciﬁcally, I measure the reputation of a given
+VC ﬁrm just prior to the year of its ﬁrst investment in the
+portfolio company. I do likewise for VC experience and its
+network connectedness. The variable proxying for com-
+petition in the VC industry, aggregate VC fund inﬂows into
+the industry, is also measured as of the year prior to
+the VC’s ﬁrst investment in the portfolio company. The
+variable proxying for VC investment environment, the
+market
+is
+measured as of the year of the VC’s ﬁrst investment in
+the portfolio company. Since a substantial time gap is
+likely to exist between the ﬁrst investment by the VC ﬁrm
+and its exit, I relate a VC ﬁrm’s past reputation to its future
+performance. This is important to rule out concerns
+regarding reverse causality that better performance can
+lead to better reputation.
+
+to book ratio in the high-tech industry,
+
+
+136
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+I allow for time-varying exit market conditions in the
+hazard framework to enable the portfolio companies and
+their investors to follow trends in exit markets and reach
+their exit decisions. The hazard framework has the added
+advantage of capturing exit market conditions on a
+periodic (in this case, quarterly) basis, to determine their
+impact on the incidence of successful exits, which a
+simple logit model cannot. However, upon using the
+average quarterly number of IPO/M&A transactions mea-
+sured over the entire VC-funded timeframe of unsuccess-
+ful companies, and the lagged quarterly number of IPO/
+M&A transactions for successful companies,
+I obtain
+similar qualitative results in the logit framework.
+
+3. Performance of VC investments
+
+I ﬁrst estimate the impact of VC reputation on
+performance of
+individual venture investments. The
+dependent variable in Table 3 equals one if the VC
+investment is successful and zero otherwise. I estimate
+the determinants of success/failure of VC investment in a
+logit framework.
+I relate the likelihood of company
+success to the following variables: VC’s reputation, VC’s
+connectedness, VC’s experience, portfolio company’s qual-
+ity, VC syndicate size, VC industry competition as
+measured by aggregate fund inﬂows in the year prior to
+the VC’s ﬁrst investment in the company, VC investment
+environment as measured by the market to book ratio in
+the high-tech industry in the year of VC’s ﬁrst investment
+in the company, exit market conditions, and indicator
+variables denoting (i) investment by a traditional VC ﬁrm,
+(ii) investment by a corporate investor, (iii) investment by
+an arm of an investment bank, (iv) investment at the seed
+or early stage of company’s development, (v) investment
+by a traditional VC ﬁrm at the seed or early stage in
+the company’s lifecycle, and (vi) investment by a corpo-
+rate investor at the seed or early stage of company’s
+development.
+
+Though not reported, I include industry indicators for
+each portfolio company, using the VentureXpert industry
+deﬁnitions. Broadly,
+the data cover and specify the
+following 10 industries: biotechnology, communications/
+media, computer hardware, computer software/services,
+consumer related,
+internet speciﬁc,
+medical/health, semiconductors/other electronics, and
+other products.12 By including industry indicators, I also
+partially account for differences in technological and
+industrial characteristics of
+the portfolio companies.
+I also include year ﬁxed effects, based on the initial VC
+funding in the portfolio company, as additional control
+variables.
+
+industrial/energy,
+
+In models 1 through 3, I separately include the two VC
+reputation measures and the VC connectedness variable.
+All three are found to have an appreciable positive impact
+
+12 VentureXpert database does not report the conventional SIC codes
+for a large fraction of companies. As a further check, my results
+are robust to inclusion of the broader six-industry classiﬁcation of
+VentureXpert, which includes the following industries: biotechnology,
+communications/media, computer related, medical/health/life science,
+non-high-technology, and semiconductors/other electronics.
+
+on VC investment performance. In model 4, I introduce
+the IPO Capitalization share and VC connectedness
+variables together. Both continue to positively affect the
+likelihood of VC success. However, the impact of IPO
+Capitalization share is reduced. In economic terms, one
+standard deviation increase in the IPO Capitalization share
+increases the odds of a successful exit by more than 12%.
+In model 5, I include both VC investment share and VC
+connectedness variables. As before, VC connectedness is
+found to positively impact VC performance whereas VC
+investment share is rendered ineffective in predicting the
+success probability. The insigniﬁcant coefﬁcient on VC
+investment share can be attributed to multicollinearity
+problems because of the simultaneous introduction of the
+two variables; the correlation between VC investment
+share and VC connectedness is a signiﬁcant 0.62.
+
+Several other factors affect VC performance. As ex-
+pected, the quality of the portfolio company denoted by
+the total VC funding to the portfolio company, positively
+affects performance of VC investments. Consistent with
+the evidence in Brander, Amit, and Antweiler (2002), VC
+syndication also results in improved performance. As well,
+investments by corporate venture investors are more
+likely to succeed which is consistent with the evidence
+reported in Gompers and Lerner (2000a). VCs that make
+investments at the seed or early stage in a company’s
+lifecycle are more likely to fail, perhaps a reﬂection of the
+riskier nature of early stage investments. The age of the VC
+ﬁrm, a measure of VC experience, is insigniﬁcant after
+controlling for VC reputation and connectedness.
+
+Both aggregate VC fund inﬂow—a proxy for competi-
+tion in the VC industry, and the market to book ratio in the
+high-tech industry—a proxy for VC investment environ-
+ment, have signiﬁcant negative coefﬁcients suggesting
+that their higher values reduce the probability of success
+of individual VC investments in the multivariate frame-
+work. On the other hand, consistent with the evidence in
+Lerner (1994a) and Hochberg, Ljungqvist, and Lu (2007),
+the incidence of successful VC exits rises when exit
+market conditions are more conducive for IPO and M&A
+transactions.
+
+I next turn to analyzing the likelihood of a successful
+exit using the Cox hazard model where the logarithm of
+time to exit is the dependent variable. The time to exit is
+measured from the date of each VC’s ﬁrst investment in
+the portfolio company. The Cox model
+is a semi-
+parametric model in which the hazard function is not
+dependent on a speciﬁc distribution of the survival time.
+The time to exit is censored for unsuccessful VC invest-
+ments that have not exited by the beginning of 2006.
+
+The results are reported in Table 4. In the Cox hazard
+framework, a positive (negative) coefﬁcient on the vari-
+able implies a higher (lower) hazard for that variable and
+hence a lower (higher) expected duration. The uncondi-
+tional time to exit of an average VC investment is ﬁve and
+one-half years. I ﬁnd most results mirror the evidence
+IPO Capitalization share, one of the
+reported earlier.
+measures of VC reputation,
+in
+explaining performance of VC investments. In terms of
+economic signiﬁcance, based on the estimates in model 4,
+one standard deviation increase in VC’s IPO Capitalization
+
+is highly signiﬁcant
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+137
+
+Table 3
+Logit regression analysis of the status of VC investments in the beginning of year 2006
+
+The sample in the regressions consists of VC investments between 1991 and 2001, in companies that received their ﬁrst round of VC funding beginning
+in 1991, and for which relevant data are available. The dependent variable in all models takes the value of one if the portfolio company backed by VC
+investment, has gone public or been acquired and zero if it is still private by the beginning of year 2006. The reputation of the venture capitalist backing
+the portfolio company is proxied for by two variables. The ﬁrst is based on the VC ﬁrm’s dollar capitalization share in the IPO market, determined by the
+cumulative market capitalization of the companies taken public by the VC ﬁrm, relative to other VC ﬁrms. The second measures the VC’s share of
+aggregate investment in the VC industry. In both cases, the higher the number, the higher the VC’s reputation. Other control variables are as follows: VC’s
+connectedness measured by the normalized number of unique VCs each VC has syndicated with in previous 5 years, size of the VC syndicate, total VC
+funding to the portfolio company across all ﬁnancing rounds, market to book ratio in the high-tech industry (deﬁned in footnote #11) proxying for VC
+investment environment, aggregate VC industry funds inﬂow proxying for industry competition, exit market conditions proxied by lagged quarterly
+number of IPO and M&A transactions prior to exit (in the case of unsuccessful exits, average of the lagged number of transactions since each VC’s initial
+funding), age of the VC ﬁrm, and indicator variables denoting whether the VC is a traditional ﬁrm, a corporate investor, or an arm of an investment bank.
+Other indicator variables denote whether the VC investment occurred when the portfolio company was at an early/seed stage of development, whether
+the traditional VC invested at an early/seed stage, and whether the corporate investor invested at an early/seed stage. Industry and initial funding year
+ﬁxed effects are included in all regressions but their coefﬁcients are suppressed for brevity.
+Intercepts are not reported. Robust p-values,
+heteroskedasticity-adjusted, are in brackets next to the parameter estimates. ** And * denote signiﬁcance at 1% and 5% levels respectively.
+
+VC reputation
+
+IPO Capitalization share
+VC investment share
+
+VC connectedness
+VC syndicate size
+Total VC funding across all rounds
+Median market to book ratio in high-tech industry in the year
+of VC’s ﬁrst investment in the portfolio company
+Log of aggregate fund inﬂows in the VC industry in the year
+prior to the VC’s ﬁrst investment in the portfolio company
+IPO and M&A market conditions
+Log of lagged number of IPOs
+Log of lagged number of M&A deals
+
+Indicator ¼ 1 if VC is a traditional VC ﬁrm
+Indicator ¼ 1 if VC is a corporate investor
+Indicator ¼ 1 if VC is an arm of an investment bank
+Indicator ¼ 1 if VC investment is at an early/seed stage
+Indicator ¼ 1 if traditional VC invested at early/seed stage
+Indicator ¼ 1 if corporate VC invested at early/seed stage
+Log of VC’s age
+Industry and year ﬁxed effects
+ Log likelihood
+Number of observations
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+0.088 [0.00]**
+
+0.058
+
+[0.00]**
+
+0.327 [0.00]**
+
+0.118
+[0.06]
+0.025 [0.00]**
+[0.00]**
+0.071
+0.070
+[0.00]**
+0.004 [0.00]** 0.004 [0.00]**
+0.004 [0.00]**
+ 0.482 [0.00]**  0.498 [0.00]**  0.459 [0.00]**  0.469 [0.00]**  0.464 [0.00]**
+
+0.030
+[0.00]**
+0.069 [0.00]**
+0.004 [0.00]**
+
+[0.02]*
+0.014
+[0.00]**
+0.070
+0.004 [0.00]**
+
+[0.00]**
+
+0.073
+
+ 0.483 [0.00]**  0.486 [0.00]**  0.447 [0.00]**  0.464 [0.00]**  0.449 [0.00]**
+
+1.257
+
+1.260
+
+1.263
+
+[0.00]**
+
+[0.00]**
+
+[0.00]**
+
+[0.00]**
+
+[0.36]
+[0.00]**
+[0.24]
+
+1.258
+1.260
+[0.00]**
+8.587 [0.00]** 8.596 [0.00]** 8.586 [0.00]** 8.585 [0.00]** 8.590
+[0.00]**
+0.062
+0.057
+[0.32]
+0.314
+0.313
+[0.00]**
+0.098
+0.080
+[0.33]
+ 0.536 [0.00]**  0.531 [0.00]**  0.537 [0.00]**  0.537 [0.00]**  0.534 [0.00]**
+[0.33]
+0.106
+[0.61]
+0.074
+0.008
+[0.96]
+
+0.063
+[0.31]
+0.306 [0.00]**
+0.084
+[0.31]
+
+[0.34]
+0.097
+[0.60]
+0.076
+[0.97]  0.002
+
+[0.29]
+0.089
+[0.59]
+0.074
+[0.93]  0.001
+
+[0.54]
+[0.00]**
+[0.55]
+
+[0.31]
+[0.00]**
+[0.23]
+
+[0.22]
+[0.67]
+[0.05]*
+
+[0.25]
+[0.60]
+[0.61]
+
+0.112
+0.062
+0.033
+
+0.038
+0.318
+0.050
+
+0.063
+0.312
+0.100
+
+0.088
+0.076
+0.001
+
+Present
+17388
+31898
+
+Present
+17401
+31898
+
+Present
+17392
+31898
+
+Present
+17385
+31898
+
+Present
+17383
+31898
+
+share is associated with a 7% increase in the hazard of a
+VC’s successful exit.
+
+As for VC’s network centrality, the higher the value of
+VC connectedness, the shorter the expected duration,
+which is consistent with the evidence in Hochberg,
+Ljungqvist, and Lu (2007). In other words, more reputable
+and better-connected VCs are more likely to lead their
+portfolio companies to successful exits. However, when
+introduced simultaneously with IPO Capitalization share,
+VC connectedness is rendered statistically insigniﬁcant in
+explaining success of VC investments. The other VC
+reputation measure, VC investment share, is insigniﬁcant
+in explaining the likelihood of VC success when it is
+included along with VC connectedness. By itself, however,
+it is signiﬁcant in predicting success of VC investments.
+
+As before, portfolio company quality, beneﬁcial effects
+of VC syndication, and presence of a corporate VC
+positively affect VC performance and result in shorter
+expected times to proﬁtable exits. Furthermore, portfolio
+companies that witnessed investments at the seed or
+early stage in their lifecycles are more likely to result in
+
+failures. One signiﬁcant difference from the earlier results
+is VC investments that occur when the median market to
+book ratio in the high-tech industry is higher, have a
+higher probability to succeed. Finally, when exit market
+conditions are more favorable, VC investments are more
+likely to exit successfully.
+
+4. Portfolio company performance
+
+I next estimate the impact of lead VC’s reputation on
+portfolio company performance where the unit of analysis
+is each portfolio company. I determine the lead VC as the
+ﬁrm that participated in the ﬁrst round and made the
+largest total investment in the company across all rounds
+of funding.
+If information on ﬁrst round investors is
+unavailable, I follow the same logic to identify the lead VC
+from among the second round investors. As mentioned
+earlier, this classiﬁcation of lead VCs is more meaningful
+compared to the one that classiﬁes
+lead VCs as
+the investors who have made the largest cumulative
+
+
+138
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+Table 4
+Hazard analysis of VC investments in the beginning of year 2006
+
+The sample in the regressions consists of VC investments between 1991 and 2001, in companies that received their ﬁrst round of VC funding beginning
+in 1991, and for which relevant data are available. The Cox Hazard Model is estimated with log of time to exit being the dependent variable. The time to
+exit of a successful VC (that backed a portfolio company that either went public or was acquired) is the calendar time taken to exit from the date of VC’s
+ﬁrst investment in that portfolio company. Time to exit of VCs yet to exit successfully by beginning of 2006 is right censored at the end of calendar year
+2005. Positive (negative) coefﬁcient indicates that the covariate increases the hazard and shortens (lengthens) the expected duration. The reputation of
+the venture capitalist backing the portfolio company is proxied for by two variables. The ﬁrst is based on the VC ﬁrm’s dollar capitalization share in the
+IPO market, determined by the cumulative market capitalization of the companies taken public by the VC ﬁrm, relative to other VC ﬁrms. The second
+measures the VC’s share of aggregate investment in the VC industry. In both cases, the higher the number, the higher the VC’s reputation. Other control
+variables are as follows: VC’s connectedness measured by the normalized number of unique VCs each VC has syndicated with in previous 5 years, size of
+the VC syndicate, total VC funding to the portfolio company across all ﬁnancing rounds, market to book ratio in the high-tech industry (deﬁned in footnote
+#11) proxying for VC investment environment, aggregate VC industry funds inﬂow proxying for industry competition, time-varying exit market
+conditions proxied by lagged quarterly number of IPO and M&A transactions, age of the VC ﬁrm, and indicator variables denoting whether the VC is a
+traditional ﬁrm, a corporate investor, or an arm of an investment bank. Other indicator variables denote whether the VC investment occurred when the
+portfolio company was at an early/seed stage of development, whether the traditional VC invested at an early/seed stage, and whether the corporate
+investor invested at an early/seed stage. Industry and initial funding year ﬁxed effects are included in all regressions but their coefﬁcients are suppressed
+for brevity. Robust p-values, cluster-adjusted on VC ﬁrm, are in brackets next to the parameter estimates. ** And * denote signiﬁcance at 1% and 5% levels
+respectively.
+
+VC reputation
+
+IPO Capitalization share
+VC investment share
+
+VC connectedness
+VC syndicate size
+Total VC funding across all rounds
+Median market to book ratio in high-tech industry in the year
+of VC’s ﬁrst investment in the portfolio company
+Log of aggregate fund inﬂows in the VC industry in the year
+prior to the VC’s ﬁrst investment in the portfolio company
+IPO and M&A market conditions
+
+Log of number of IPOs in the previous quarter
+Log of number of M&A deals in the previous quarter
+
+Indicator ¼ 1 if VC is a traditional VC ﬁrm
+Indicator ¼ 1 if VC is a corporate investor
+Indicator ¼ 1 if VC is an arm of an investment bank
+Indicator ¼ 1 if VC investment is at an early/seed stage
+Indicator ¼ 1 if traditional VC invested at early/seed stage
+Indicator ¼ 1 if corporate VC invested at early/seed stage
+Log of VC’s age
+Industry and year ﬁxed effects
+ 2Log likelihood
+Number of observations
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+0.041
+
+[0.00]**
+
+0.034 [0.00]**
+
+0.132
+
+[0.01]**
+
+0.032
+0.001
+0.074
+
+[0.00]**
+[0.00]**
+[0.00]**
+
+0.033 [0.00]**
+[0.00]**
+0.001
+0.066
+[0.02]*
+
+[0.00]**
+0.012
+[0.00]**
+0.031
+0.001
+[0.00]**
+0.082 [0.00]**
+
+0.003
+[0.34]
+0.032 [0.00]**
+[0.00]**
+0.001
+0.077
+[0.00]**
+
+[0.08]
+0.063
+[0.00]**
+0.010
+[0.00]**
+0.031
+0.001
+[0.00]**
+0.079 [0.00]**
+
+ 0.056 [0.03]*  0.060 [0.02]*  0.044
+
+[0.08]  0.052 [0.04]*  0.045
+
+[0.07]
+
+0.416
+3.475
+0.002
+0.260
+0.066
+
+[0.00]**
+[0.00]**
+[0.95]
+[0.00]**
+[0.14]
+
+[0.00]**
+0.408
+[0.00]**
+0.408 [0.00]**
+[0.00]**
+3.474
+[0.00]** 3.468 [0.00]**
+3.471
+0.016
+[0.71]
+0.013
+0.017
+[0.69]
+[0.75]
+0.266 [0.00]**
+0.266 [0.00]**
+0.263 [0.00]**
+0.092
+[0.05]*
+[0.06]
+0.082
+[0.04]*
+0.093
+ 0.395 [0.00]**  0.395 [0.00]**  0.397 [0.00]**  0.395 [0.00]**  0.395 [0.00]**
+[0.38]
+0.050
+ 0.035
+[0.68]
+0.004
+[0.89]
+
+0.409 [0.00]**
+[0.00]**
+3.472
+0.013
+[0.75]
+0.258 [0.00]**
+[0.05]*
+0.084
+
+[0.33]
+0.057
+[0.66]  0.040
+0.017
+[0.72]
+
+[0.38]
+0.047
+[0.70]  0.033
+0.001
+[0.81]
+
+[0.35]
+0.045
+[0.68]  0.032
+0.002
+[0.92]
+
+[0.26]
+0.044
+[0.62]  0.030
+0.003
+[0.12]
+
+0.411
+
+Present
+207621
+31666
+
+Present
+207605
+31666
+
+Present
+207638
+31666
+
+Present
+207620
+31666
+
+Present
+207580
+31666
+
+investment across all
+funding rounds. Moreover, the
+evidence from the previous section indicates reputable
+VCs, based on IPO Capitalization share, are signiﬁ-
+cantly more likely to be associated with successful
+exits, irrespective of their classiﬁcation into lead or non-
+lead VCs.
+
+4.1. Likelihood of a successful exit
+
+As earlier, I ﬁt the logit and hazard models to study the
+likelihood of a successful exit.
+I relate the company
+success to the same variables used earlier to model VC
+investment performance: lead VC’s reputation, lead VC’s
+connectedness, lead VC’s experience, portfolio company’s
+quality, VC syndicate size, VC industry competition as
+measured by aggregate fund inﬂows in the year prior to
+the ﬁrst round of funding, VC investment environment as
+measured by the market to book ratio in the high-tech
+industry in the year of ﬁrst round of funding, exit market
+
+conditions as measured by the lagged number of IPO and
+M&A transactions, industry and year ﬁxed effects, and
+indicator variables denoting (i) presence of a corporate
+investor in the VC syndicate, (ii) presence of an invest-
+ment bank in the VC syndicate, and (iii) initiation of VC
+funding at the seed or early stage in the company’s
+lifecycle.
+
+In Table 5,
+
+I report the determinants of success
+(or failure) of portfolio companies using the logit frame-
+work. In models 1 through 3, when separately including
+the two VC reputation measures and the VC connected-
+ness variable, all three are found to positively affect the
+portfolio company performance. In model 4, I introduce
+the IPO Capitalization share and VC connectedness
+variables together. The impact of VC connectedness is
+substantially reduced and rendered insigniﬁcant. How-
+ever, IPO Capitalization share continues to strongly predict
+portfolio company performance. Finally,
+in model 5,
+I include both VC investment share and VC connected-
+ness variables. Both the VC investment share and VC
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+139
+
+Table 5
+Logit regression analysis of the status of VC-backed portfolio companies in the beginning of year 2006
+
+The sample in the regressions consists of VC-backed companies initially funded between 1991 and 2001, and for which relevant data are available. The
+dependent variable in all models takes the value of one if the portfolio company has gone public or been acquired and zero if it is still private by the
+beginning of year 2006. The reputation of the lead venture capitalist backing the portfolio company is proxied for by two variables. The ﬁrst is based on
+the lead VC ﬁrm’s dollar capitalization share in the IPO market, determined by the cumulative market capitalization of the companies taken public by the
+VC ﬁrm, relative to other VC ﬁrms. The second measures the lead VC’s share of aggregate investment in the VC industry. In both cases, the higher the
+number, the higher the lead VC’s reputation. Other control variables are as follows: lead VC’s connectedness measured by the normalized number of
+unique VCs each VC has syndicated with in previous 5 years, size of the VC syndicate, total VC funding to the portfolio company across all ﬁnancing
+rounds, market to book ratio in the high-tech industry (deﬁned in footnote #11) proxying for VC investment climate, aggregate VC industry funds inﬂow
+proxying for industry competition, exit market conditions proxied by lagged quarterly number of IPO and M&A transactions prior to exit (in the case of
+unsuccessful exits, average of the lagged number of transactions since company’s initial VC funding), age of the lead VC ﬁrm, and indicator variables
+denoting involvement of a corporate investor in the VC syndicate, presence of an investment bank as one of the VC syndicate members, and whether the
+VC investment occurred when the portfolio company was at an early/seed stage of development. Industry and initial funding year ﬁxed effects are
+included in all regressions but their coefﬁcients are suppressed for brevity. Intercepts are not reported. Robust p-values, heteroskedasticity-adjusted, are
+in brackets next to the parameter estimates. ** denotes signiﬁcance at 1% level.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+0.119
+
+[0.00]**
+
+0.126
+
+[0.00]**
+
+0.370
+
+[0.00]**
+
+[0.00]**
+0.275
+[0.00]**
+0.020
+0.076
+0.082 [0.00]**
+0.076
+[0.00]**
+0.004 [0.00]** 0.004 [0.00]**
+0.004 [0.00]**
+ 0.302 [0.00]**  0.318 [0.00]**  0.293 [0.00]**  0.301 [0.00]**  0.296 [0.00]**
+
+[0.00]**  0.003
+[0.73]
+0.077
+[0.00]**
+0.004 [0.00]**
+
+0.030
+0.069 [0.00]**
+0.005 [0.00]**
+
+[0.00]**
+
+ 0.728 [0.00]**  0.733 [0.00]**  0.694 [0.00]**  0.740 [0.00]**  0.701 [0.00]**
+
+Lead VC reputation
+
+IPO Capitalization share
+VC investment share
+Lead VC connectedness
+VC syndicate size
+Total VC funding across all rounds
+Median market to book ratio in high-tech industry in the year
+of ﬁrst VC investment in the portfolio company
+Log of aggregate fund inﬂows in the VC industry in the year
+prior to ﬁrst VC investment in the portfolio company
+IPO and M&A market conditions
+Log of lagged number of IPOs
+Log of lagged number of M&A deals
+
+0.661 [0.00]**
+4.980
+Indicator ¼ 1 if VC syndicate involves a corporate investor
+0.317
+Indicator ¼ 1 if VC syndicate includes an investment bank
+0.055
+Indicator ¼ 1 if lead VC investment is at an early/seed stage  0.053
+Log of lead VC’s age
+0.013
+Industry and year ﬁxed effects
+ Log likelihood
+Number of observations
+
+5628
+11327
+
+Present
+
+0.667 [0.00]**
+
+0.672
+[0.00]** 4.968 [0.00]** 4.980
+[0.00]**
+0.320
+[0.00]**
+0.315
+[0.48]
+0.058
+[0.55]
+0.063
+[0.47]  0.034
+[0.65]  0.071
+0.037
+[0.08]
+0.052
+[0.68]
+
+0.662 [0.00]**
+
+0.662 [0.00]**
+[0.00]**
+[0.00]** 4.988 [0.00]** 4.982 [0.00]**
+[0.00]**
+0.322 [0.00]**
+[0.00]**
+0.321
+[0.47]
+[0.52]
+0.066
+[0.52]
+0.059
+[0.51]  0.053
+[0.34]  0.048
+[0.47]
+0.022
+[0.55]
+0.019
+[0.25]
+[0.49]
+
+Present
+
+5637
+11327
+
+Present
+
+5627
+11327
+
+Present
+
+5614
+11327
+
+Present
+
+5619
+11327
+
+connectedness are signiﬁcantly effective in predicting
+portfolio companies’ success probability.
+
+The other factors that signiﬁcantly affect portfolio
+company performance in a positive way include portfolio
+company quality (proxied by the total VC funding to the
+portfolio company), VC syndication, presence of a corpo-
+rate investor, and better exit market conditions. On the
+other hand, portfolio companies funded in a buoyant
+investment environment, or funded in times of increased
+VC competition, are more likely to fail. These results are
+consistent with the earlier reported ﬁndings on individual
+VC investments. I next employ the Cox hazard model to
+analyze the portfolio company performance.
+
+In Table 6, the logarithm of time to exit (time between
+exit and initial VC funding) is the dependent variable and
+is censored for portfolio companies that were neither
+acquired nor went public by the beginning of 2006. In
+models 1 through 3, I separately include the two VC
+reputation measures and the VC connectedness variable.
+As before, more reputable and better-connected VCs have
+a higher likelihood of achieving successful exits with a
+lower expected duration.
+
+In model 4, I introduce the IPO Capitalization share and
+VC connectedness variables together. This speciﬁcation
+
+renders VC connectedness insigniﬁcant at the conven-
+tional levels. IPO Capitalization share continues to be
+signiﬁcantly effective in predicting the likelihood of
+successful outcomes. It has a large effect economically
+as well. One standard deviation increase in lead VC’s IPO
+Capitalization share is associated with a 16% increase in
+the hazard of a portfolio company’s successful exit. Finally,
+in model 5, I include both VC investment share and VC
+connectedness variables. However, only VC investment
+share is found to positively impact VC performance and
+the positive coefﬁcient indicates that better reputation
+increases the likelihood of a successful exit.
+
+Taking the right-censored nature of the data into
+account, I continue to ﬁnd that the presence of a corporate
+VC in the VC syndicate has a signiﬁcant effect on the
+success probability. Also, better exit market conditions in
+the IPO and M&A markets are more likely to be associated
+with successful exits. As before, portfolio company quality
+and VC syndication have a positive impact on the
+likelihood of a successful exit. On the other hand, higher
+aggregate VC fund inﬂow—a proxy for competition in the
+VC industry—signiﬁcantly reduces the likelihood of
+success of portfolio companies. This is consistent with
+VCs making poorer investment decisions when capital is
+
+
+140
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+Table 6
+Hazard analysis of VC-backed portfolio companies in the beginning of year 2006
+
+The sample in the regressions consists of VC-backed companies initially funded between 1991 and 2001, and for which relevant data are available. The
+Cox Hazard Model is estimated with log of time to exit being the dependent variable. The time to exit of a successful portfolio company that has either
+gone public or been acquired is the calendar time taken to exit from the date of its initial VC funding. Time to exit of portfolio companies yet to exit
+successfully by beginning of 2006 is right censored at the end of calendar year 2005. Positive (negative) coefﬁcient indicates that the covariate increases
+the hazard and shortens (lengthens) the expected duration. The reputation of the lead venture capitalist backing the portfolio company is proxied for by
+two variables. The ﬁrst is based on the lead VC ﬁrm’s dollar capitalization share in the IPO market, determined by the cumulative market capitalization of
+the companies taken public by the VC ﬁrm, relative to other VC ﬁrms. The second measures the lead VC’s share of aggregate investment in the VC industry.
+In both cases, the higher the number, the higher the lead VC’s reputation. Other control variables are as follows: lead VC’s connectedness measured by the
+normalized number of unique VCs each VC has syndicated with in previous 5 years, size of the VC syndicate, total VC funding to the portfolio company
+across all ﬁnancing rounds, market to book ratio in the high-tech industry (deﬁned in footnote #11) proxying for VC investment climate, aggregate VC
+industry funds inﬂow proxying for industry competition, time-varying exit market conditions proxied by lagged quarterly number of IPO and M&A
+transactions, age of the lead VC ﬁrm, and indicator variables denoting involvement of a corporate investor in the VC syndicate, presence of an investment
+bank as one of the VC syndicate members, and whether the VC investment occurred when the portfolio company was at an early/seed stage of
+development. Industry and initial funding year ﬁxed effects are included in all regressions but their coefﬁcients are suppressed for brevity. Robust
+p-values, cluster-adjusted on lead VC ﬁrm, are in brackets next to the parameter estimates. ** And * denote signiﬁcance at 1% and 5% levels respectively.
+
+Lead VC reputation
+
+IPO Capitalization share
+VC investment share
+Lead VC connectedness
+VC syndicate size
+Total VC funding across all rounds
+Median market to book ratio in high-tech industry in the year
+of ﬁrst VC investment in the portfolio company
+Log of aggregate fund inﬂows in the VC industry in the year
+prior to ﬁrst VC investment in the portfolio company
+IPO and M&A Market conditions
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+0.058
+
+[0.00]**
+
+0.074
+
+[0.00]**
+
+0.176
+
+[0.00]**
+
+[0.02]*
+0.015
+0.002 [0.00]**
+0.002
+
+[0.95]  0.006
+
+[0.01]**
+0.018
+0.002 [0.00]**
+[0.88]
+
+[0.00]**  0.007
+[0.26]
+0.011
+[0.01]**
+0.016
+[0.05]*
+0.012
+0.002 [0.00]**
+0.003 [0.00]**
+0.006
+[0.87]
+0.001
+[0.97]
+
+[0.00]**
+0.154
+[0.12]
+0.006
+[0.01]**
+0.016
+0.002 [0.00]**
+0.003
+[0.94]
+
+ 0.210 [0.00]**  0.214 [0.00]**  0.200 [0.00]**  0.226 [0.00]**  0.204 [0.00]**
+
+Log of number of IPOs in the previous quarter
+Log of number of M&A deals in the previous quarter
+
+1.043
+1.280
+Indicator ¼ 1 if VC syndicate involves a corporate investor
+0.180
+Indicator ¼ 1 if VC syndicate includes an investment bank
+0.051
+Indicator ¼ 1 if lead VC investment is at an early/seed stage  0.010
+0.022
+Log of lead VC’s age
+Industry and year ﬁxed effects
+ 2Log likelihood
+Number of observations
+
+Present
+49678
+11260
+
+[0.00]**
+[0.01]**
+[0.00]**
+[0.31]
+[0.85]
+[0.27]
+
+1.061
+1.245
+0.175
+0.056
+0.002
+0.042
+
+[0.00]**
+1.055
+[0.02]*
+1.303
+[0.00]**
+0.177
+[0.26]
+0.052
+[0.97]  0.020
+0.041
+[0.03]*
+
+[0.00]**
+1.043
+[0.01]**
+1.308
+[0.00]**
+0.182
+[0.29]
+0.052
+[0.68]  0.001
+0.030
+[0.05]*
+
+[0.00]**
+1.052
+[0.01]**
+1.282
+[0.00]**
+0.178
+[0.29]
+0.056
+[0.97]  0.005
+0.030
+[0.15]
+
+[0.00]**
+[0.01]**
+[0.00]**
+[0.25]
+[0.92]
+[0.13]
+
+Present
+49689
+11260
+
+Present
+49596
+11260
+
+Present
+49551
+11260
+
+Present
+49562
+11260
+
+plentiful. The ‘money chasing deals’ phenomenon, ﬁrst
+shown by Gompers and Lerner (2000b) in the context of
+VC industry, drives VCs into making inferior investments.
+Finally, consistent with the evidence reported in Gompers,
+Kovner, Lerner, and Scharfstein (2008), the VC investment
+environment at the time of initial funding, proxied by the
+median market to book ratio in the high-tech industries, is
+insigniﬁcant in explaining the likelihood of company
+success.
+
+An interesting issue is the differential impact of my VC
+reputation measures on the success of portfolio compa-
+nies that received funding in their early stages versus
+those that were funded relatively later in their lifecycle.
+VCs spend considerable time and effort in screening as
+well as monitoring their portfolio companies (see among
+others, Lerner, 1995; Kaplan and Stromberg, 2001, 2003)
+and their reputation should ideally reﬂect both of these
+important characteristics. Arguably, VCs are likely to
+expend more effort on monitoring, relative to screening,
+on the early-stage portfolio companies. At the later stages
+of development, when companies are relatively closer to
+exits, the VC screening expertise assumes relatively more
+importance. One way to test whether VC reputation
+measured by IPO Capitalization share effectively incorpo-
+
+rates both VCs’ selection as well as monitoring abilities,
+and predicts success of portfolio companies irrespective of
+their lifecycle position, is by dividing the sample by the
+developmental stage of portfolio companies when they
+were initially funded.
+I divide my sample based on
+companies’ being in seed/early or later/expansion stages
+at the time of their initial funding, and replicate the
+analyses of Table 6.
+IPO
+Capitalization share signiﬁcantly predicts the success of
+portfolio companies in terms of an increased likelihood of
+a successful exit, suggesting that it effectively captures
+VCs’ screening as well as monitoring expertise. I do not
+report the results in order to conserve space; however,
+details are available upon request.
+
+In both the sub-samples,
+
+4.2.
+
+IPOs versus acquisitions
+
+In hazard analyses, I ﬁnd that more reputable VCs are
+able to exit successfully with a lower expected duration. In
+this sub-section I focus on the sub-sample of successful
+companies (VC backed IPOs and acquisitions) and analyze
+whether VCs backing the IPO ﬁrms are more reputable
+relative to those backing the target ﬁrms. There are two
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+141
+
+primary reasons I analyze this issue. First,
+IPOs and
+acquisitions are the two primary methods through which
+privately held ﬁrms move to dispersed public ownership.
+Although the ‘going public’ decision has been extensively
+studied both theoretically and empirically,
+limited
+research exists on the acquisitions of private ﬁrms,
+particularly those that are VC-backed. Recent studies by
+Brau, Francis, and Kohers (2003), and Poulsen and
+Stegemoller (2008) show factors that determine the ﬁrm’s
+choice of an IPO or an acquisition, for a broad sample of
+privately held ﬁrms. In a VC-speciﬁc narrower context,
+Bayar and Chemmanur (2006) theoretically model the
+choice of exit strategy by entrepreneurs and venture
+capitalists focusing again on the two most proﬁtable exit
+routes. By empirically analyzing the choice between IPOs
+and acquisitions for VC-backed ﬁrms, I am able to shed
+light on the determinants of the exit choice for an
+important subset of ﬁrms desiring to move to public
+status after being privately held.
+
+The second reason is I am able to provide additional
+robustness about the proposed measure of VC reputation,
+by analyzing its impact on the likelihood of exits via IPOs
+or acquisitions. If a monotonic pattern emerges in which
+top brand VCs are more likely to be associated with IPOs,
+followed by medium brand VCs with acquisitions, and the
+least reputable VCs with unsuccessful exits,
+it would
+indicate the VC reputation measure performs well.
+
+In the logit framework, I ﬁrst relate the company’s
+choice of exit via an IPO or an acquisition to my measures
+of VC reputation. The dependent variable is one if the
+company goes public and zero if it is acquired. As earlier,
+I estimate models adding sequentially the two variables
+that proxy for VC reputation. Models 1 and 2 in Table 7
+show that the most reputable VCs are associated with
+IPOs more often, even relative to acquisitions. As the VC’s
+share of cumulative IPO capitalization and investment
+rises, the probability of an IPO exit over an acquisition exit
+rises as well.
+
+Other observations are as follows. Among the sub-
+sample of successful exits, companies with higher VC
+funding, indicating better quality companies, are more
+likely to exit via IPOs. This is consistent with Bayar and
+Chemmanur (2006) who hypothesize that better quality
+companies have an increased probability of success in the
+product markets as standalone ﬁrms and are more likely
+to go public. I ﬁnd companies that are VC funded when the
+market to book ratios in the high-tech industries are
+higher, are less likely to go public. Also, companies that
+receive their ﬁrst funding when the investment capital is
+plentiful are less likely to exit through IPOs. This indicates
+that the best quality companies receive funding when the
+available capital in the industry is not as plentiful, which
+is consistent with earlier results. Furthermore, I ﬁnd that
+IPOs are more likely during better IPO market conditions,
+which echoes the ﬁndings in Brau, Francis, and Kohers
+(2003) in the IPO versus acquisition context. Finally,
+companies that received their VC funding when they were
+in early stages of development are more likely to be
+acquired, which is consistent with the evidence in Poulsen
+and Stegemoller (2008). Later-stage companies can better
+withstand product market competition, and are more
+
+likely to survive as standalone ﬁrms, relative to early-
+stage companies, and this guides their exit choice as well.
+As a further robustness check, I next examine the
+likelihood of a portfolio company exit via the three major
+routes—IPOs, acquisitions, and liquidations—in a multi-
+nomial setting. The exit likelihood is regressed on my
+measures of VC reputation along with the other indepen-
+dent variables used in earlier analyses. The results are
+presented in Table 7, models 3 and 4 that are estimated in
+a multinomial
+In model 3, the VC
+reputation is measured by the IPO Capitalization share,
+which continues to be robust in predicting the likelihood
+of successful exits. In summary, I ﬁnd top brand VCs are
+more likely to be associated with IPOs,
+followed by
+medium brand VCs with acquisitions, and the least
+reputable VCs with unsuccessful exits. This monotonic
+pattern successfully captured by IPO Capitalization share
+is a further testament to its robustness. In contrast, as
+presented in model 4, the other measure of VC reputation,
+VC investment share, is not able to capture this monotonic
+pattern in a signiﬁcant way.
+
+logit framework.
+
+4.3. Asset productivity of VC-backed IPOs
+
+turnover
+
+Jain and Kini
+
+Finally, I analyze the asset productivity (asset turnover)
+of VC-backed portfolio companies when they go public.
+Asset productivity is a means to determine the efﬁciency
+by which a company converts its investment in assets into
+(1994), and Purnanandam and
+sales.
+Swaminathan (2004) analyze asset
+in the
+context of long-run IPO performance. In the VC context,
+recent research by Puri and Zarutskie (2007) suggests that
+the scale of investment and production is an important
+criterion for company ﬁnancing by VCs. They also report
+that subsequent to receipt of venture funding, VC-backed
+companies exhibit larger levels of investment in assets
+relative to non-VC-backed ﬁrms but do not exhibit larger
+levels of sales. However, they do not differentiate among
+VCs and treat all VCs as a single class of investors, when
+comparing VC-backed and non-VC-backed companies.
+
+Since some VCs are more reputable than others, it is
+worthwhile to examine the impact of VC reputation on
+asset productivity of their portfolio companies. VCs play
+an extensive role in professionalizing start-up ﬁrms
+through human resource policies, executive compensation
+design, and stafﬁng of adequate personnel, particularly in
+sales and marketing (Hellmann and Puri, 2002). Since
+reputable VCs are more likely to provide better value-
+added services in professionalizing their portfolio compa-
+nies,
+I hypothesize that companies backed by more
+reputable VCs have higher asset productivity at IPOs.
+
+As earlier, the sample includes all companies that
+received initial VC funding between 1991 and 2001 and
+went public by the beginning of 2006. Recall
+that
+VC-backed IPOs are the most successful of all portfolio
+companies and as such are likely to be backed by the
+most reputable and active venture investors. To analyze
+asset productivity for each company,
+I measure the
+ratio of annual sales to total book assets prior to the IPO
+year. I obtain similar, but stronger qualitative results,
+
+
+142
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+Table 7
+Logit analysis of IPO and M&A exits during 1991–2005
+
+The sample in models 1 and 2 consists of VC-backed companies initially funded between 1991 and 2001 that exited via an IPO or an acquisition
+between 1991 and 2005, and for which relevant data are available. Models 1 and 2 are estimated in a logit framework with the choice of IPO being the
+dependent variable. The dependent variable is coded 1 for IPOs and 0 for acquisitions. The sample in models 3 and 4 consists of all venture-backed
+companies funded between 1991 and 2001, and for which relevant data are available. Models 3 and 4 are estimated in a multinomial logit framework
+determining the likelihood of IPOs and acquisitions. The dependent variable in models 3 and 4 takes three discrete values constituting IPOs, acquisitions,
+and unsuccessful exits. The reputation of the lead venture capitalist backing the portfolio company is proxied for by two variables. The ﬁrst is based on the
+lead VC ﬁrm’s dollar capitalization share in the IPO market, determined by the cumulative market capitalization of the companies taken public by the VC
+ﬁrm, relative to other VC ﬁrms. The second measures the lead VC’s share of aggregate investment in the VC industry. In both cases, the higher the number,
+the higher the lead VC’s reputation. Other control variables are as follows: lead VC’s connectedness measured by the normalized number of unique VCs
+each VC has syndicated with in previous 5 years, size of the VC syndicate, total VC funding to the portfolio company across all ﬁnancing rounds, market to
+book ratio in the high-tech industry (deﬁned in footnote #11) proxying for VC investment climate, aggregate VC industry funds inﬂow proxying for
+industry competition, time-varying exit market conditions proxied by lagged quarterly number of IPO and M&A transactions, age of the lead VC ﬁrm, and
+indicator variables denoting involvement of a corporate investor in the VC syndicate, presence of an investment bank as one of the VC syndicate members,
+and whether the VC investment occurred when the portfolio company was at an early/seed stage of development. Industry and initial funding year ﬁxed
+effects are included in all regressions but their coefﬁcients are suppressed for brevity. Intercepts are not reported. Robust p-values are in brackets next to
+the parameter estimates. ** And * denote signiﬁcance at 1% and 5% levels respectively.
+
+Lead VC reputation
+
+IPO Capitalization share
+VC investment share
+Lead VC connectedness
+VC syndicate size
+Total VC funding across all rounds
+Median market to book ratio in high-tech industry
+in the year of ﬁrst VC investment in the portfolio
+company
+Log of aggregate fund inﬂows in the VC industry in
+the year prior to ﬁrst VC investment in the portfolio
+company
+IPO and M&A market conditions
+
+Log of number of IPOs in the previous quarter
+Log of number of M&A deals in the previous
+
+quarter
+Indicator ¼ 1 if VC syndicate involves a corporate
+investor
+Indicator ¼ 1 if VC syndicate includes an
+investment bank
+Indicator ¼ 1 if lead VC investment is at an early/
+seed stage
+Log of lead VC’s age
+Industry and year ﬁxed effects
+ Log likelihood
+Number of observations
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+IPO vs. M&A
+
+IPO vs. M&A
+
+IPO
+
+M&A
+
+IPO
+
+M&A
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+0.152 [0.00]**
+
+0.159 [0.00]** 0.047 [0.03]*
+
+0.399 [0.00]**
+
+0.292 [0.00]** 0.047
+[0.52]
+ 0.024 [0.10]  0.002 [0.84]  0.013 [0.17]
+0.014 [0.03]* 0.016 [0.00]**
+0.007
+0.057 [0.00]** 0.058 [0.00]** 0.055 [0.00]** 0.056 [0.00]**
+0.029 [0.00]** 0.029 [0.00]** 0.013 [0.00]** 0.003 [0.01]** 0.013 [0.00]** 0.003 [0.02]*
+ 0.513 [0.00]**  0.514 [0.00]**  0.406 [0.00]**  0.071 [0.17]  0.405 [0.00]**  0.068 [0.19]
+
+[0.46]
+
+[0.81]
+
+[0.80]
+
+0.006
+
+0.006
+
+ 0.926 [0.00]**  0.881 [0.00]**  0.478 [0.00]**  0.450 [0.00]**  0.422 [0.00]**  0.435 [0.00]**
+
+1.720 [0.00]** 1.737 [0.00]** 2.361 [0.00]**  1.307 [0.00]** 2.386 [0.00]**  1.308 [0.00]**
+3.148 [0.00]** 3.648 [0.00]** 3.105 [0.00]** 3.644 [0.00]**
+0.632
+
+[0.15]
+
+[0.13]
+
+0.601
+
+ 0.019 [0.91]  0.018 [0.91]
+
+0.263 [0.01]** 0.232 [0.00]** 0.263 [0.01]** 0.232 [0.00]**
+
+0.111
+
+[0.52]
+
+0.126
+
+[0.46]
+
+0.188
+
+[0.08]
+
+0.026
+
+[0.72]
+
+0.200
+
+[0.06]
+
+0.026
+
+[0.72]
+
+ 0.461 [0.00]**  0.474 [0.00]**  0.223 [0.01]** 0.041
+
+[0.50]  0.236 [0.01]** 0.036
+
+[0.55]
+
+ 0.116 [0.10]  0.113 [0.11]  0.020 [0.64]
+
+0.039
+
+[0.13]  0.011 [0.79]
+
+0.042
+
+[0.10]
+
+Present
+
+1386
+2917
+
+Present
+
+1387
+2917
+
+Present
+13510
+11327
+
+Present
+13525
+11327
+
+when I analyze asset productivity using sales and assets
+reported in the year of the IPO. I procure the data from
+Compustat and ﬁll in any missing observations using the
+IPO prospectuses. In the multivariate analysis I relate a
+company’s sales-to-book assets ratio to my measures of
+VC reputation. The dependent variable is logarithm of one
+plus the sales-to-book and the models are estimated using
+the Tobit framework. Most of the other independent
+variables are the same used in earlier analyses: VC
+connectedness, VC syndicate size, portfolio company’s
+quality,
+lead VC’s age, VC industry competition as
+measured by aggregate fund inﬂows in the year prior to
+the ﬁrst round of VC funding, VC investment environment
+as measured by the market to book ratio in the high-tech
+industry in the year of ﬁrst round of VC funding, IPO and
+M&A market conditions prior to the IPO, and indicator
+variables denoting (i) presence of a corporate investor in
+
+the VC syndicate, (ii) presence of an investment bank in
+the VC syndicate, and (iii) initiation of VC funding at the
+seed or early stage in the company’s lifecycle. In addition,
+I include the: (i) median market to book ratio in IPO ﬁrm’s
+industry in the year of exit, (ii) a measure of the lead
+underwriter’s reputation, (iii) company’s equity market
+capitalization at the IPO, (iv) median sales-to-book assets
+ratio in IPO ﬁrm’s industry in the year of exit, and (v)
+industry and exit year indicators. The industries are
+classiﬁed into 30 categories based on the SIC codes, which
+are available for all companies, since the sample compa-
+nies are publicly held. I source the industry deﬁnitions
+from Ken French’s Web site (http://mba.tuck.dartmouth.
+edu/pages/faculty/ken.french/data_library.html).
+
+The industry market
+
+to book ratio captures the
+industry conditions in the year of exit, while the under-
+writer reputation measures the quality of underwriting
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+143
+
+Table 8
+Tobit analyses of asset productivity (sales to assets) of VC-backed IPOs
+
+The sample in the regressions consists of VC-backed companies that were initially funded between 1991 and 2001 and went public between 1991 and
+2005, inclusive. The dependent variable is the logarithm of one plus the sales-to-book assets ratio of the VC-backed portfolio company at the IPO. IPO
+company’s sales and book assets are the last reported annual revenues and total book assets of the company prior to the IPO. The reputation of the lead
+venture capitalist backing the portfolio company is proxied for by two variables. The ﬁrst is based on the lead VC ﬁrm’s dollar capitalization share in the
+IPO market, determined by the cumulative market capitalization of the companies taken public by the VC ﬁrm, relative to other VC ﬁrms. The second
+measures the lead VC’s share of aggregate investment in the VC industry. In both cases, the higher the number, the higher the lead VC’s reputation. Other
+control variables are as follows: lead VC’s connectedness measured by the normalized number of unique VCs each VC has syndicated with in previous
+5 years, size of the VC syndicate, total VC funding to the portfolio company across all ﬁnancing rounds, market to book ratio in the high-tech industry
+(deﬁned in footnote #11) proxying for VC investment environment, aggregate VC industry funds inﬂow proxying for industry competition, exit market
+conditions proxied by lagged quarterly number of IPO and M&A transactions, age of the lead VC ﬁrm, and indicator variables denoting involvement of a
+corporate investor in the VC syndicate, presence of an investment bank as one of the VC syndicate members, and whether or not the VC investment
+occurred when the portfolio company was at an early/seed stage of development. I add reputation of the lead underwriter, median market to book ratio in
+IPO ﬁrm’s industry in the year of exit, company’s equity market capitalization at the IPO, and the median sales to assets ratio in IPO ﬁrm’s industry in the
+exit year as additional controls. Industry and exit year ﬁxed effects are included in all regressions, but their coefﬁcients are suppressed for brevity.
+Intercepts are not reported. Robust p-values, heteroskedasticity-adjusted, are in brackets next to the parameter estimates. ***, **, And * denote signiﬁcance
+at 1%, 5%, and 10% levels respectively.
+
+Log(1+sales-to-
+
+book assets)
+
+(1)
+
+Log(1+sales-to-
+
+book assets)
+
+(2)
+
+Log(1+sales-to-
+
+book assets)
+
+(3)
+
+Log(1+sales-to-
+
+book assets)
+
+(4)
+
+Lead VC reputation
+
+IPO Capitalization share
+
+VC investment share
+
+Lead VC connectedness
+
+VC syndicate size
+
+Total VC funding across all rounds
+
+Median market to book ratio in high-tech industry in the
+year of ﬁrst VC investment in the portfolio company
+Log of aggregate fund inﬂows in the VC industry in the
+year prior to ﬁrst VC investment in the portfolio company
+IPO and M&A market conditions
+
+Number of IPOs in the previous quarter
+
+Number of M&A deals in the previous quarter
+
+Indicator ¼ 1 if VC syndicate has a corporate investor
+
+Indicator ¼ 1 if VC syndicate has an investment bank as a
+VC
+Indicator ¼ 1 if ﬁrst VC investment is at an early/seed
+stage
+Log of lead VC’s age
+
+Indicator ¼ 1 if lead underwriter is in top quartile by rank
+
+Median market to book ratio in IPO ﬁrm’s industry in the
+year of exit
+Log of IPO company’s equity market capitalization
+
+Median sales to book assets ratio in IPO ﬁrm’s industry in
+the year of exit
+Industry and year ﬁxed effects
+Number of observations
+ Log likelihood
+
+0.013***
+
+[0.01]
+
+ 0.017***
+
+[0.00]
+
+ 0.002***
+
+[0.00]
+0.069**
+[0.03]
+ 0.048**
+[0.02]
+
+ 0.075*
+[0.07]
+ 0.255
+[0.28]
+
+ 0.110***
+
+[0.00]
+ 0.045
+[0.11]
+
+ 0.139***
+
+[0.00]
+ 0.001
+[0.96]
+ 0.048*
+[0.07]
+ 0.033
+[0.19]
+ 0.007
+[0.32]
+
+0.296***
+
+[0.00]
+Present
+
+974
+
+355.46
+
+0.013
+[0.44]
+
+ 0.017***
+
+[0.00]
+
+ 0.001***
+
+[0.00]
+0.068**
+[0.03]
+ 0.048**
+[0.02]
+
+ 0.072*
+[0.09]
+ 0.257
+[0.27]
+ 0.111***
+[0.00]
+ 0.045
+[0.11]
+
+ 0.139***
+
+[0.00]
+0.009
+[0.43]
+ 0.045*
+[0.09]
+ 0.036
+[0.15]
+ 0.007
+[0.30]
+
+0.303***
+
+[0.00]
+Present
+
+974
+
+358.31
+
+0.003
+[0.12]
+
+ 0.019***
+
+[0.00]
+
+ 0.001***
+
+[0.00]
+0.074**
+[0.02]
+ 0.048**
+[0.02]
+
+ 0.072*
+[0.09]
+ 0.273
+[0.24]
+
+ 0.109***
+
+[0.00]
+ 0.045*
+[0.10]
+
+ 0.141***
+
+[0.00]
+0.005
+[0.68]
+ 0.050*
+[0.06]
+ 0.034
+[0.16]
+ 0.007
+[0.32]
+
+0.347***
+
+[0.00]
+Present
+
+974
+
+353.16
+
+0.014**
+[0.04]
+
+ 0.001
+[0.79]
+
+ 0.018***
+
+[0.00]
+
+ 0.001***
+
+[0.00]
+0.074**
+[0.02]
+
+ 0.051***
+
+[0.01]
+
+ 0.073*
+[0.08]
+ 0.272
+[0.24]
+
+ 0.109***
+
+[0.00]
+ 0.043
+[0.12]
+
+ 0.136***
+
+[0.00]
+0.001
+[0.95]
+ 0.050**
+[0.05]
+ 0.030
+[0.22]
+ 0.007
+[0.29]
+
+0.342***
+
+[0.00]
+Present
+
+974
+
+351.18
+
+services provided to the company at the IPO. The under-
+writer reputation measures are downloaded from Jay
+Ritter’s Web site (http://bear.cba.uﬂ.edu/ritter/ipodata.
+htm). In particular, I create an indicator variable denoting
+whether or not the lead underwriter is in the top quartile
+of the underwriter ﬁrms at the time of the IPO. Since the
+dependent variable is based on revenues, I control for
+company size and the median sales-to-book assets ratio in
+
+the IPO ﬁrm’s industry. Finally, the industry and year
+indicators capture the heterogeneity across industries and
+time periods.
+
+The results are presented in Table 8. In models 1
+through 3, I introduce the measures of VC reputation and
+connectedness sequentially, the dependent variable being
+the natural logarithm of one plus the asset turnover ratio
+at the IPO. I observe a signiﬁcantly positive coefﬁcient on
+
+
+144
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+IPO Capitalization share indicating that companies backed
+by reputable VCs have greater asset productivity at
+their IPOs. As well, in a univariate regression, the IPO
+Capitalization share is statistically signiﬁcant at the 2%
+level in explaining asset productivity of companies at their
+initial public offerings. The coefﬁcients on VC investment
+share and VC connectedness are, however, insigniﬁcant.
+When I
+introduce IPO Capitalization share and VC
+connectedness simultaneously in model 4, the VC reputa-
+tion measure continues to be statistically signiﬁcant in
+explaining asset turnover. This is consistent with the
+evidence reported in Hellmann and Puri (2002) on value-
+added services provided by the VCs in terms of professio-
+nalizing the ﬁrms. Based on the estimates of model 4, in
+terms of economic signiﬁcance, one standard deviation
+increase in the IPO Capitalization share is associated with
+a nearly 4% increase in asset productivity for VC-backed
+companies going public.
+
+Successful
+
+companies whose
+
+Several signiﬁcant predictors of asset productivity
+emerge from the analyses. Companies that are backed by
+larger VC syndicates and receive larger VC funding have
+lower asset turnover ratios. A possible explanation is
+since these companies receive greater VC funding, their
+turnover
+asset base is larger, depressing the asset
+ratio.
+initial
+funding
+occurred when the market to book ratios of the high-tech
+industries were higher, have higher asset turnover ratios
+at IPO suggesting that formation and able nurturing of
+some better quality companies does depend on invest-
+ment environment. On the other hand, IPO companies
+that were funded when capital availability in the VC
+industry was plentiful have lower asset turnover ratios.
+Companies also have lower asset turnover ratios when
+they exit amidst better IPO market conditions, suggesting
+that companies with lower asset productivity are able to
+go public,
+taking advantage of better capital-raising
+conditions.
+
+Furthermore,
+
+I ﬁnd companies that are backed by
+corporate venture investors, or have an investment bank
+as one of the VC syndicate members, or are associated
+with more reputable underwriters at their initial public
+offerings, have lower asset productivity. This suggests that
+association with certain prominent actors beneﬁts the
+portfolio companies in their endeavor to go public despite
+their lower asset turnover ratios. Also, companies that
+received their initial VC funding in their later stages of
+development have higher asset turnover ratios. Finally,
+I observe a signiﬁcantly positive coefﬁcient on the median
+asset productivity in the IPO ﬁrm’s industry in the year
+of exit.
+
+5. Robustness tests
+
+From previous analyses, the IPO Capitalization share
+has emerged as a consistent predictor of company and VC
+ﬁrm performance, and also distinguishes among reputable
+VCs backing IPOs and acquisitions. In this section, I discuss
+additional sensitivity tests to analyze the robustness of
+my earlier results and in particular my measure of VC
+reputation, the IPO Capitalization share.
+
+5.1. Correction for selection bias using Heckman’s procedure
+
+The parameter estimates in previous tables could be
+biased because of the selection bias arising out of likely
+matching of better portfolio companies with more
+reputable VCs. As a result, the performance of VC ﬁrms
+and their portfolio companies may be due to the quality of
+the companies themselves rather than VCs’ reputation. In
+previous analyses, I try to capture the quality of portfolio
+companies using two proxies—total VC funding and VC
+connectedness. As an additional check, to address con-
+cerns on account of endogeneity, I use Heckman’s (1979)
+correction procedure. I model a reputable VC’s likelihood
+of investing in a portfolio company using the probit
+model. This ﬁrst-step model estimates the likelihood of
+reputable VCs making venture investments in these
+privately held ﬁrms.
+In the second-step regressions,
+I add l, the inverse Mills ratio, received from the ﬁrst-
+step probit model as an additional regressor to estimate
+each measure of company performance: likelihood of a
+successful exit, probability of an IPO versus acquisition,
+and asset productivity at IPOs. Formally, I have:
+
+First step (selection equation):
+Pr ðReputable VC ¼ 1Þ
+
+ðProbitÞ :
+
+¼ a0 þ a1 Control variables þ 
+
+Second step:
+ðCox HazardÞ :
+
+Time to Exit ¼ b0 þ b1 Reputable VC
+þ b2 Control variables
+þ b3 l þ Z
+
+(1)
+
+ðLogitÞ :
+
+Pr ðIPO or AcquisitionÞ
+
+¼ b0 þ b1 Reputable VC þ b2 Control variables
+(2)
+
+þ b3l þ Z
+
+ðTobitÞ : Asset productivity ¼ b0 þ b1 Reputable VC
+þ b2 Control variables
+þ b3l þ Z
+
+(3)
+
+The empirical speciﬁcation of the selection equation
+reﬂects characteristics of the portfolio company and the
+VC ﬁrm, location of the VC ﬁrm, and industry conditions at
+the time of initial VC funding. The dependent variable in
+the selection equation is an indicator variable denoting
+whether the lead VC backing the portfolio company
+belongs to the top quartile of VCs based on IPO
+Capitalization share at the time of initial VC funding.
+I relate the likelihood that the portfolio company is backed
+by a reputable VC to the following variables: VC
+connectedness, VC age, number of companies the VC has
+invested in since inception, portfolio company quality as
+measured by total VC funding, an indicator variable
+denoting initiation of VC funding at company’s seed/early
+stage, VC industry competition measured by aggregate
+fund inﬂows in the year prior to the ﬁrst round of
+company’s funding, VC investment environment mea-
+sured by the market to book ratio in the high-tech
+industry in the year of ﬁrst round of company’s funding,
+and indicator variables denoting whether the VC ﬁrm is
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+145
+
+the selection equation as well. Also,
+
+based in the states of California, Massachusetts, New York,
+Texas, or Virginia, states where most VC ﬁrms are located.
+The logic for inclusion of explanatory variables in the
+selection equation is as follows. Reputable VCs are likely
+to have better connections in the industry, which
+motivates inclusion of VC connectedness. Since reputation
+is at least partially based on experience, I allow the VC age
+to enter
+the
+cumulative number of IPOs and the market capitalizations
+of portfolio companies at IPO, on which the measure of VC
+reputation is based, are likely a function of the number
+of portfolio companies funded by the VC. Therefore,
+I construct the number of companies funded by a VC
+since its inception as an additional regressor in the
+selection equation predicting a more reputable VC.
+Sorensen (2007) shows reputable VCs are more likely to
+match with better quality companies, which calls for
+inclusion of a proxy for company quality. Reputable VCs
+by virtue of their experience are less likely to invest in
+times of increased VC competition because of higher
+expected valuations since a number of VCs are vying for
+the same deals.
+investment
+environment, as proxied by the industry market to book
+ratio, VC competition is likely to increase, again predicting
+a lower likelihood of investment by reputable VCs. Finally,
+more reputable VCs are likely to have access to a larger set
+of investment opportunities relative to less reputable VCs
+who may have to invest in relatively more risky early/seed
+stage deals in order to generate returns and establish
+reputation in the industry.
+
+In times of an upbeat
+
+All but one of these explanatory variables use VC-,
+company-, and market characteristics known at the time
+of a VC’s initial investment. In the absence of a suitable
+proxy that measures the quality of portfolio companies at
+the initiation of VC funding, the measure I use is the total
+VC funding which of course is not known at the inception
+of VC funding. The results, however, remain qualitatively
+unaltered upon exclusion of this variable. As a further
+robustness check, I also include indicators denoting the
+portfolio company’s industry in the selection equation.
+While all the primary results remain qualitatively similar,
+none of the indicators emerge statistically signiﬁcant in
+predicting the likelihood of a reputable VC.
+
+Table 9, model 1, reports the results of estimating
+Eq. (1) along with the selection equation. Eq. (1) pertains
+to the fourth model estimated in Table 6. The model
+includes VC reputation based on the VC’s IPO Capitaliza-
+tion share along with other control variables including VC
+connectedness. However, along with the earlier variables,
+I also add the inverse Mills ratio to control for the
+selection bias. The results from the selection equation
+estimation indicate that an investment by a reputable VC
+is more likely if the VC is better connected (indication of
+better access to deal ﬂow and a wider choice of deals), if
+the VC is more experienced (aged), if the VC possesses
+more investment experience by virtue of the number of
+companies it has invested in, and if the portfolio company
+is of a better quality. Also, reputable VCs are less likely to
+invest during periods of higher fund inﬂows in the VC
+industry and in an investing environment characterized
+by higher market to book ratios in high-tech industries.
+
+Furthermore, whether or not the portfolio company is in
+its seed/early stage of developmental lifecycle also has a
+signiﬁcant impact on the investment behavior of repu-
+table VCs. Finally, VCs based in California are more likely
+to be reputable relative to those based in other states that
+include Massachusetts and Texas, states well-known for
+concentration of VC investments. The speciﬁcation of the
+selection equation is notable since most of the explana-
+tory variables in the predictive model of reputable VC
+backing are statistically signiﬁcant.
+
+I
+
+In the ﬁrst model,
+
+I estimate the likelihood of a
+successful exit in the Cox hazard framework. Based on
+the results of earlier analyses,
+focus on the IPO
+Capitalization share of the VC ﬁrm as the measure of VC
+reputation, while controlling for other variables including
+the inverse Mills ratio. I ﬁnd that the IPO Capitalization
+share continues to be a signiﬁcantly positive determinant
+of portfolio company performance. The inverse Mills ratio
+derived from the ﬁrst-step estimation is signiﬁcant
+suggesting it is important to control for the selection bias
+associated with VCs’ choice of their portfolio companies
+(Sorensen, 2007).
+
+reputable VCs,
+
+I turn next to analyzing the likelihood of an IPO versus
+acquisition in the case of successful portfolio companies
+after adjusting for potential selection bias. Among suc-
+cessful exits, companies that exited via IPOs are likely to
+be backed by the most
+relative to
+acquisitions. I estimate model 2 in Table 9 to replicate
+the results of the ﬁrst model in Table 7. When contrasting
+IPOs and acquisitions,
+I continue to ﬁnd the most
+reputable VCs based on the IPO Capitalization share are
+able to lead their portfolio companies to IPOs. The inverse
+Mills ratio derived from the ﬁrst-step estimation is,
+however,
+I estimate the asset
+productivity of VC-backed IPOs by estimating the model 3.
+The results observed qualitatively mirror those reported in
+the fourth model of Table 8. Companies backed by
+reputable VCs have higher asset productivity, as proxied
+by asset turnover ratios, at their IPOs. However, the
+inverse Mills ratio derived from the ﬁrst-step estimation is
+not signiﬁcant in this speciﬁcation. As a robustness check,
+the analysis of asset productivity of VC-backed IPOs in the
+Ordinary Least Squares (OLS) framework yields qualita-
+tively similar results.
+In summary, all my results are
+robust to the correction of selection bias possibly induced
+by VCs’ choice of portfolio companies.
+
+insigniﬁcant. Finally,
+
+5.2. VC reputation and IPOs
+
+IPOs, and in particular their underpricing, have been a
+fascinating topic of research in academic ﬁnance. One of
+the questions that arises in the context of this study is
+whether VC reputation (and the measures proposed) has
+an impact on IPO underpricing, say by reducing the
+underpricing of shares at IPOs through their certiﬁcation,
+and thereby fetching higher prices for the companies
+relative to their market prices (Megginson and Weiss,
+1991). On the other hand, if reputable VCs bring better
+quality companies to the IPO market as evidenced earlier,
+theoretical work by Allen and Faulhaber (1989) and Welch
+
+
+1
+4
+6
+
+R
+
+.
+
+N
+a
+h
+a
+t
+a
+
+/
+
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+F
+i
+n
+a
+n
+c
+i
+a
+l
+
+E
+c
+o
+n
+o
+m
+i
+c
+s
+
+9
+0
+
+(
+2
+0
+0
+8
+)
+
+1
+2
+7
+–
+1
+5
+1
+
+A
+R
+T
+C
+L
+E
+
+I
+
+I
+
+N
+
+P
+R
+E
+S
+S
+
+Table 9
+Analyses of VC-backed portfolio companies’ performance controlling for endogeneity arising from receipt of reputable VC funding
+
+The sample in the ﬁrst model consists of venture-backed companies initially funded between 1991 and 2001. The Cox Hazard Model is estimated with log of time to exit being the dependent variable. The time
+to exit of a successful portfolio company that has either gone public or been acquired is the calendar time taken to exit from the date of its initial VC funding. Time to exit of portfolio companies yet to exit
+successfully by beginning of 2006 is right censored at the end of calendar year 2005. Positive (negative) coefﬁcient indicates that the covariate increases the hazard and shortens (lengthens) the expected
+duration. The sample in the second model consists of venture-backed companies initially funded between 1991 and 2001 that subsequently went public or were acquired by the beginning of 2006. The model is
+estimated in a logit framework with the choice of IPO being the dependent variable. The dependent variable is coded 1 for IPOs and 0 for acquisitions. The sample in the third model consists of venture-backed
+companies that were initially funded between 1991 and 2001 and went public between 1991 and 2005, inclusive. The dependent variable in the model is the logarithm of one plus the sales-to-book assets ratio
+(S/B) of the VC-backed portfolio company at the IPO. IPO company’s sales and assets are the last reported annual revenues and total book assets of the company prior to the IPO.
+
+The reputation of the lead venture capitalist backing the portfolio company is proxied by the VC ﬁrm’s dollar capitalization share in the IPO market, determined by the cumulative market capitalization of
+the companies taken public by the VC ﬁrm, relative to other VC ﬁrms. The higher the number, the higher the lead VC’s reputation. Other control variables are as follows: VC’s connectedness measured by the
+normalized number of unique VCs each VC has syndicated with in previous 5 years, size of the VC syndicate, total VC funding to the portfolio company across all ﬁnancing rounds, market to book ratio in the
+high-tech industry (deﬁned in footnote #11) proxying for VC investment environment, aggregate VC industry funds inﬂow proxying for industry competition, exit market conditions proxied by lagged quarterly
+number of IPO and M&A transactions (time-varying in the case of hazard model), age of the lead VC ﬁrm, and indicator variables denoting involvement of a corporate investor in the VC syndicate, presence of an
+investment bank as one of the VC syndicate members, and whether the VC investment occurred when the portfolio company was at an early/seed stage of development. The inverse Mills ratio derived from the
+ﬁrst stage probit estimation is added to account for selection bias, if any, on account of likelihood of more reputable VCs selecting better portfolio companies on average. In addition, reputation of the lead
+underwriter, the median market to book ratio in IPO ﬁrm’s industry in the year of exit, company size measured by log of equity market capitalization at the IPO, and median sales to book assets ratio (S/B) in IPO
+ﬁrm’s industry in the year of exit are included as additional controls in estimation of the third model. Industry and year ﬁxed effects are included in all regressions, but their coefﬁcients are suppressed for
+brevity. Intercepts are not reported. Robust p-values are in brackets next to the parameter estimates. ***, **, And * denote signiﬁcance at 1%, 5%, and 10% levels respectively.
+
+Additional explanatory variables used in the estimation of selection equation (probit model) predicting reputable VC investments (lead VCs that reside in the top quartile based on their IPO capitalization
+share) are VC connectedness, portfolio company quality measured by total VC funding to the portfolio company across all ﬁnancing rounds, market to book ratio in the high-tech industry proxying for VC
+investment environment, aggregate VC industry fund inﬂow proxying for industry competition, an indicator denoting whether the VC investment occurred at the seed/early stage of company’s development, VC
+age, number of companies VC has invested in until the year of its ﬁrst investment in the portfolio company, and indicators for whether the VC ﬁrm is based in California, Massachusetts, New York, Texas, or
+Virginia.
+
+Pr (Reputable VC ¼ 1)
+
+Cox Hazard
+
+Pr (Reputable VC ¼ 1)
+
+IPO vs. M&A Logit
+
+Pr (Reputable VC ¼ 1)
+
+Log (1+S/B) Tobit
+
+(1)
+
+(2)
+
+(3)
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+Coeff.
+
+p-Val
+
+0.254
+
+[0.00]***
+
+0.003
+ 0.058
+
+ 0.104
+
+[0.00]***
+[0.06]*
+
+[0.00]***
+
+0.079
+ 0.017
+0.016
+0.002
+0.004
+
+ 0.237
+
+[0.00]***
+[0.05]**
+[0.01]***
+[0.00]***
+
+[0.92]
+
+[0.00]***
+
+0.180
+
+[0.00]***
+
+0.003
+ 0.048
+
+ 0.139
+
+[0.03]**
+[0.50]
+
+[0.00]***
+
+0.152
+ 0.022
+0.007
+0.029
+ 0.513
+
+ 0.919
+
+[0.00]***
+
+[0.18]
+[0.78]
+
+[0.00]***
+[0.00]***
+
+[0.00]***
+
+0.116
+
+[0.00]***
+
+0.003
+0.065
+
+ 0.085
+
+[0.05]**
+[0.67]
+
+[0.26]
+
+0.013
+ 0.002
+ 0.018
+ 0.001
+0.074
+
+ 0.053
+
+[0.05]**
+[0.44]
+
+[0.00]***
+[0.00]***
+[0.02]**
+
+[0.01]***
+
+Lead VC reputation
+
+IPO Capitalization share
+
+Lead VC connectedness
+VC syndicate size
+Total VC funding across all rounds
+Median market to book ratio in high-tech industry in the
+year of ﬁrst VC investment in the portfolio company
+Log of aggregate fund inﬂows in the VC industry in the
+year prior to ﬁrst VC investment in portfolio company
+IPO and M&A Market conditions
+
+
+Log of number of IPOs in the previous quarter
+Log of number of M&A deals in the previous quarter
+
+Indicator ¼ 1 if VC syndicate involves a corporate investor
+Indicator ¼ 1 if VC syndicate includes an investment bank
+Indicator ¼ 1 if VC investment is at an early/seed stage
+Log of lead VC’s age
+Number of companies lead VC has invested in
+Indicator ¼ 1 if VC ﬁrm is based in California
+Indicator ¼ 1 if VC ﬁrm is based in Massachusetts
+Indicator ¼ 1 if VC ﬁrm is based in Texas
+Indicator ¼ 1 if VC ﬁrm is based in Virginia
+Indicator ¼ 1 if VC ﬁrm is based in New York
+Inverse Mills Ratio
+Indicator ¼ 1 if lead underwriter is in the top quartile
+Median M/B ratio in IPO ﬁrm’s industry in exit year
+Log of IPO company’s equity market capitalization
+Median S/B ratio in IPO ﬁrm’s industry in exit year
+Industry and year ﬁxed effects
+ 2Log likelihood
+Number of observations
+
+ 0.141
+0.220
+0.029
+0.250
+0.023
+ 0.086
+ 0.705
+0.124
+
+[0.00]***
+[0.00]***
+[0.00]***
+[0.00]***
+
+[0.77]
+[0.46]
+
+[0.00]***
+[0.05]**
+
+1.050
+1.274
+0.187
+0.055
+0.005
+ 0.034
+
+[0.00]***
+[0.01]***
+[0.00]***
+
+[0.25]
+[0.91]
+[0.22]
+
+ 0.163
+
+[0.01]***
+
+ 0.299
+0.194
+0.038
+0.161
+ 0.142
+ 0.426
+0.133
+0.164
+
+[0.00]***
+[0.00]***
+[0.00]***
+
+[0.15]
+[0.39]
+[0.19]
+[0.83]
+[0.23]
+
+1.729
+0.619
+ 0.020
+0.113
+ 0.465
+ 0.096
+
+[0.00]***
+
+[0.13]
+[0.91]
+[0.51]
+
+[0.00]***
+
+[0.30]
+
+0.050
+
+[0.75]
+
+ 0.252
+0.095
+0.021
+ 0.111
+0.112
+0.010
+0.086
+ 0.213
+
+[0.04]**
+[0.14]
+
+[0.00]***
+
+[0.45]
+[0.56]
+[0.98]
+[0.88]
+[0.31]
+
+6024
+11327
+
+Present
+49515
+11260
+
+1402
+2917
+
+Present
+
+2770
+2917
+
+584
+982
+
+ 0.073
+ 0.279
+ 0.106
+ 0.042
+ 0.129
+ 0.009
+
+[0.08]*
+[0.23]
+
+[0.00]***
+
+[0.13]
+
+[0.00]***
+
+[0.54]
+
+ 0.042
+ 0.049
+ 0.030
+ 0.008
+0.341
+
+[0.27]
+[0.06]*
+[0.22]
+[0.24]
+
+[0.00]***
+
+Present
+
+701
+974
+
+A
+R
+T
+C
+L
+E
+
+I
+
+I
+
+N
+
+P
+R
+E
+S
+S
+
+R
+
+.
+
+N
+a
+h
+a
+t
+a
+
+/
+
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+F
+i
+n
+a
+n
+c
+i
+a
+l
+
+E
+c
+o
+n
+o
+m
+i
+c
+s
+
+9
+0
+
+(
+2
+0
+0
+8
+)
+
+1
+2
+7
+–
+1
+5
+1
+
+1
+4
+7
+
+
+148
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+ARTICLE IN PRESS
+
+that
+
+(1989) suggest
+these companies may be more
+underpriced than lower quality companies.13 I acknowl-
+edge these are not the only explanations for low or high
+IPO underpricing in the context of this study; Ritter and
+Welch (2002) present a comprehensive review of IPO
+activity, pricing, and allocations. They merely illustrate
+the tenuous relation between VC reputation,
+issuer
+quality, and IPO underpricing, which can only be mea-
+sured in an empirical setup.
+
+To analyze the impact of VC reputation on IPO under-
+pricing, I construct a measure of IPO underpricing, deﬁned
+as the difference between the market price on the ﬁrst
+day’s close and the IPO offer price, normalized by the IPO
+offer price. In my analysis however, I do not observe a
+signiﬁcant relation between IPO underpricing and VC
+reputation in the multivariate framework, suggesting that
+neither prediction dominates the other. Even though the
+coefﬁcient on VC reputation is negative suggesting
+reduced underpricing for reputable VC-backed IPOs, the
+evidence about the insigniﬁcant impact of VC reputation
+on IPO underpricing is also somewhat consistent with the
+ﬁndings in Lee and Wahal (2004) who report that IPOs
+backed by VCs are more underpriced, relative to non-
+VC-backed ones. Lee and Wahal (2004) also report that
+the subsequent inﬂow of funds into the VC ﬁrms is more
+pronounced following the market ‘buzz’ observed when
+the companies are more underpriced. The initial return
+(or underpricing), also referred to as the ‘‘ﬁrst day pop,’’
+generates a lot of publicity in the press and among the
+capital market constituents including institutional and
+retail investors. As a result, the incentive to attract large
+inﬂows of funds that enhance reputation but also serve as
+an incentive to underprice more to generate the ‘‘pop’’
+may have a confounding effect on VC motivation to certify
+their portfolio companies, which is predicted to reduce
+underpricing. This may also lead to the insigniﬁcant
+relation observed between VC reputation and IPO under-
+pricing. On the other hand, consistent with recent studies
+(Beatty and Welch, 1996; Hansen, 2001; Banerjee et al.,
+2006), I ﬁnd the reputation of the lead underwriter has a
+signiﬁcant positive impact on the extent of underpricing.14
+
+13 The common feature in these models is higher-quality issuers
+purposely underprice their shares at IPOs to deter lower-quality issuers
+from imitating; however, they are able to recover the resultant shortfall
+at IPO through future stock issues at higher prices or favorable market
+responses to future dividend announcements. See, also, Chemmanur
+(1993) who models better quality ﬁrms trying to induce outsiders to
+engage in costly information production. The deliberate underpricing at
+IPO compensates outsiders for producing information which is subse-
+quently reﬂected in higher secondary market prices for better quality
+ﬁrms.
+
+14 In additional tests on other company-speciﬁc variables at IPO, I do
+not ﬁnd the propensity to bring proﬁt- or loss-making companies to the
+market to be signiﬁcantly related to my measures of VC reputation,
+suggesting reputable VCs do not seem to be associated with lower
+quality exits. A ﬁnal IPO-speciﬁc variable analyzed is the IPO Float
+deﬁned as the fraction of shares sold in the IPO relative to the total
+outstanding shares of the company post-IPO. However, I fail to ﬁnd a
+signiﬁcant relation between the IPO Float and VC reputation. The ability
+of a company to sell a higher fraction of shares depending purely on VC
+reputation (or certiﬁcation) is likely confounded by the company’s
+funding needs at the time, which also affects the number of shares
+offered and thus, the IPO Float.
+
+When companies go public, issuer insiders including
+the venture capitalists are often under lock-up periods in
+which they may not be allowed to cash out of their
+shareholdings. It may therefore be helpful to analyze the
+impact of VC reputation on long-run performance of
+the issuers to gauge whether companies and VCs realize
+ﬁnancial beneﬁts, particularly after lock-up expirations. In
+a complementary study, Krishnan, Masulis, and Singh
+(2006) report that the VC’s dollar market share of the IPO
+market is signiﬁcantly positively associated with long-run
+IPO issuer performance measured by industry-adjusted
+return on assets (ROA), market to book ratio, and listing
+survival.15 Thus, reputable VCs are associated with a
+higher value creation for their portfolio companies when
+their prote´ ge´ s go public, and do not seem to be associated
+with lower quality exits.
+
+5.3. Alternative deﬁnitions of VC reputation, VC experience,
+and VC connectedness
+
+I construct another measure of VC reputation, a short-
+run measure, based on the cumulative dollar capitaliza-
+tion of IPOs backed by the VC ﬁrm. For each VC ﬁrm,
+I cumulate the dollar market value of all companies taken
+public by the VC ﬁrm in the previous ﬁve years on a rolling
+basis, and normalize it by the aggregate market value of
+all VC-backed companies that went public during those
+ﬁve years. As before, the VC reputation is measured at the
+time of VC’s ﬁrst investment in the portfolio company
+resulting in a substantial time gap between the measure-
+ment of VC reputation and portfolio company exit.
+Although the earlier results relating reputation to VC ﬁrm
+and portfolio company performance are robust to the
+adoption of this measure based on VC’s more recent
+performance, the originally constructed long-run cumu-
+lative measure, based on IPO capitalization, has more
+explanatory power, both statistically and economically.
+This is further evidence of the efﬁcacy of
+long-run
+cumulative IPO capitalization as a measure of VC reputa-
+tion since reputation is expected to incorporate the long-
+term track record of the VC ﬁrm, a property the measure
+appears to capture effectively.
+
+Sorensen (2007) argues that the cumulative number of
+investment rounds made by each VC is a better measure of
+VC experience relative to VC’s age, since age cannot
+properly distinguish between active and inactive inves-
+tors. I re-estimate all my results using VC’s cumulative
+number of investment rounds as a proxy for VC experi-
+ence. As earlier, VC experience is measured at the time of
+the VC’s ﬁrst
+in the portfolio company.
+However, all the earlier results relating VC reputation by
+
+investment
+
+15 A slight difference between the VC reputation based on cumula-
+tive IPO capitalization and Krishnan, Masulis, and Singh (2006)’s
+measure of VC reputation—IPO Market share—is their measure is based
+on IPO gross proceeds rather than the IPO ﬁrm’s market capitalization.
+IPO gross proceeds is a less attractive measure of VC reputation since it
+reﬂects the company’s need for funds at the time of IPO rather than the
+VC ﬁrm’s involvement in providing expertise and value-added services
+which are more adequately captured by IPO ﬁrm’s market capitalization.
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+149
+
+IPO Capitalization share, to VC ﬁrm and portfolio company
+performance remain qualitatively robust.
+
+The measure of VC connectedness utilized so far
+captures the number of unique relationships each VC
+has had with other VCs in ﬁve years on a rolling basis.
+However, this measure does not differentiate VCs who
+lead VC syndicates from those that are invited to be
+syndicate members by other lead VCs. In the spirit of
+Hochberg, Ljungqvist, and Lu (2007),
+I construct two
+directed measures of VC connectedness. The ﬁrst measures
+the number of relationships a VC ﬁrm has with other lead
+VCs when it is invited to co-invest in other VCs’ deals. The
+second counts the number of other VCs a VC ﬁrm has
+invited into its own syndicates. Clearly, the directed
+measures of VC connectedness have one additional thread
+of information—number of relationships forged when VCs
+led (or did not lead) their syndicates—that motivates their
+usage. As before, I normalize both the directed measures
+by the number of relationships possible during those
+5 years. Next, I re-estimate all the results by using these
+alternative deﬁnitions of VC connectedness. I continue to
+ﬁnd that VC reputation based on the cumulative IPO
+capitalization remains a consistent predictor of portfolio
+company and VC ﬁrm performance.
+
+5.4.
+
+Including VC fund size as an explanatory variable
+
+Kaplan and Schoar (2005) show that VC fund size is
+positively related with fund performance. As a further
+robustness check, I also include the VC fund size as an
+additional explanatory variable in all previous tests
+analyzing VC ﬁrm and portfolio company performance.
+However, this does not qualitatively affect the results and
+the IPO Capitalization share as a measure of VC reputation
+continues to be a signiﬁcant predictor of performance. I do
+not report the results both for reasons of brevity and the
+reduced sample size due to unavailable information on
+fund size for a number of VC funds.
+
+6. Conclusion
+
+Like all ﬁnancial intermediaries, it is important for
+venture capitalists to maintain a favorable reputation if
+they seek to be active long-term players in the ﬁnancial
+markets. Moreover, better reputation confers ﬁnancial
+beneﬁts, which provide VCs the incentives to invest in
+acquiring reputation in the ﬁrst place. For example, Hsu
+(2004) provides evidence that offers made by reputable
+VCs are more likely to be accepted, and more reputable
+VCs acquire start-up equity at a signiﬁcant discount,
+compared to less reputable VCs. Thus, while reputation is
+primarily based on ability and past performance, the
+actors are also concerned about preserving and enhancing
+their reputation through better future performance. In
+this study, I analyze whether association with reputable
+venture capitalists confers performance beneﬁts to their
+portfolio companies and if so, in what form? In so doing,
+I propose a measure of VC reputation that consistently
+predicts VC and portfolio company performance.
+
+Controlling for the portfolio company’s quality, exit
+market conditions, and a number of VC speciﬁc factors
+that impact performance including experience, connect-
+edness, syndication, industry competition, and investment
+environment, I ﬁnd that companies led by more reputable
+VCs based on the cumulative market capitalization of IPOs
+backed by the VC ﬁrm, are more likely to exit successfully,
+access public markets faster, and have higher asset
+productivity at
+results being economically
+meaningful. On the other hand, the other likely measures
+of VC reputation such as age, cumulative aggregate
+investment, cumulative number of investment rounds,
+or VC connectedness do not emerge as consistent
+predictors of private company performance.
+
+IPOs—all
+
+In exploring whether the positive relation between VC
+reputation and portfolio company performance is robust
+to adjusting for superior VC investment selectivity, I ﬁnd
+evidence that even though more reputable VC ﬁrms are
+found to select superior VC investments, they also add
+incremental value to their portfolio companies resulting
+in better performance. Whether VCs display capability in
+sorting companies or in providing value-added services to
+their portfolio companies, their reputation is enhanced on
+account of proﬁtable fulﬁllment of either activity. A
+consistently performing measure of VC reputation—as
+suggested in this study—which incorporates into itself
+both the VC’s screening and value-addition abilities, can
+be of good use to limited partners in their VC-sorting
+activity. In a similar vein, entrepreneurs can also choose to
+associate with brand name VCs for a higher likelihood of
+better future performance.
+
+Appendix. Ranking of the top 30 venture capital ﬁrms
+
+VC ﬁrm rankings are based on the dollar capitalization
+share of a VC ﬁrm in the IPO market, cumulated until the
+end of year 2005. As a comparison, the 1998 rankings
+based on the dollar capitalization share of the VC ﬁrm in
+the IPO market until the end of that year are also
+presented. * Indicates the VC ﬁrm was outside the top
+100 bracket.
+
+2005
+Rank
+
+1
+
+2
+
+3
+4
+5
+6
+7
+8
+9
+10
+
+11
+
+12
+13
+14
+
+Venture capital ﬁrm
+
+IPO Capitalization
+
+J.P. Morgan Chase Capital
+Partners
+Kleiner Perkins Cauﬁeld &
+Byers
+Integral Capital Partners
+Goldman, Sachs & Co.
+New Enterprise Associates
+Sequoia Capital
+Cisco Systems, Inc.
+Intel Capital
+Accel Partners
+Amerindo Investment
+Advisors, Inc.
+Worldview Technology
+Partners
+Benchmark Capital
+Vulcan Capital
+Institutional Venture
+Partners
+
+share (%)
+
+13.36
+
+12.55
+
+9.24
+8.13
+8.03
+7.98
+7.37
+6.99
+6.16
+5.91
+
+5.55
+
+5.48
+5.42
+4.94
+
+1998
+Rank
+
+2
+
+1
+
+3
+11
+7
+5
+*
+*
+13
+*
+
+*
+
+*
+*
+26
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+150
+
+15
+16
+17
+18
+19
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+Bowman Capital
+Crosspoint Venture Partners
+Meritech Capital Partners
+Matrix Partners
+Technology Crossover
+Ventures
+Oak Investment Partners
+GE
+Comdisco Ventures
+Mayﬁeld Fund
+Microsoft Corporation
+Sprout Group
+Greylock
+U.S. Venture Partners
+Norwest Venture Partners
+Kinetic Ventures LLC
+Bessemer Venture Partners
+
+4.92
+4.80
+4.73
+4.66
+4.61
+
+4.54
+4.47
+4.45
+4.42
+4.06
+4.01
+3.94
+3.72
+3.72
+3.64
+3.54
+
+*
+60
+*
+41
+25
+
+15
+*
+*
+16
+*
+24
+20
+10
+17
+72
+19
+
+References
+
+Allen, F., Faulhaber, G., 1989. Signaling by underpricing in the IPO market.
+
+Journal of Financial Economics 23, 303–323.
+
+Allen,
+
+J., Phillips, G., 2000. Corporate equity ownership, strategic
+alliances, and product market relationships. Journal of Finance 55,
+2791–2815.
+
+Baker, M., Wurgler, J., 2002. Market timing and capital structure. Journal
+
+of Finance 57, 1–32.
+
+Banerjee, S., Hansen, R., Hrnjic, E., 2006. IPO underpricing to buy holding.
+
+Unpublished working paper, Tulane University.
+
+Barry, C., Muscarella, C., Peavy, J., Vetsuypens, M., 1990. The role of
+venture capital in the creation of public companies: evidence from
+the going-public process.
+Journal of Financial Economics 27,
+447–472.
+
+Bayar, O., Chemmanur, T., 2006. IPOs or acquisitions?: a theory of the
+choice of exit strategy by entrepreneurs and venture capitalists.
+Unpublished working paper, Boston College.
+
+Beatty, R.P., 1989. Auditor reputation and the pricing of initial public
+
+offerings. The Accounting Review 64, 693–709.
+
+Beatty, R.P., Ritter, J.R., 1986. Investment banking, reputation, and the
+underpricing of initial public offerings. Journal of Financial Econom-
+ics 15, 213–232.
+
+Beatty, R., Welch, I., 1996. Issuer expenses and legal liability in initial
+
+public offerings. Journal of Law and Economics 39, 545–602.
+
+Brander, J., Amit, R., Antweiler, W., 2002. Venture capital syndication:
+improved venture selection versus the value-added hypothesis.
+Journal of Economics and Management Strategy 11, 423–452.
+
+Brau, J., Francis, F., Kohers, N., 2003. The choice of IPO versus takeover:
+
+empirical evidence. Journal of Business 76, 583–612.
+
+Brav, A., Gompers, P., 1997. Myth or reality? The long-run under-
+performance of initial public offerings: evidence from venture and
+non-venture capital-backed companies.
+Journal of Finance 52,
+1791–1821.
+
+Carter, R.B., Dark, F.H., Singh, A.K., 1998. Underwriter reputation, initial
+returns, and the long run performance of IPO stocks. Journal of
+Finance 53, 285–311.
+
+Carter, R.B., Manaster, S., 1990. Initial public offerings and underwriter
+
+reputation. Journal of Finance 45, 1045–1068.
+
+Chemmanur, T., 1993. The pricing of initial public offerings: a dynamic
+Journal of Finance 48,
+
+model with information production.
+285–304.
+
+Cochrane, J., 2005. The risk and return of venture capital. Journal of
+
+Financial Economics 75, 3–52.
+
+Cumming, D.J., MacIntosh, J.G., 2003. A cross-country comparison of full
+and partial venture capital exits. Journal of Banking and Finance 27,
+511–548.
+
+Feltham, G.A., Hughes, J.S., Simunic, D.A., 1991. Empirical assessment of
+the impact of auditor quality on the valuation of new issues. Journal
+of Accounting and Economics 14, 375–399.
+
+Gompers, P.A., 1995. Optimal investment, monitoring, and the staging of
+
+venture capital. Journal of Finance 50, 1461–1489.
+
+Gompers, P.A., 1996. Grandstanding in the venture capital industry.
+
+Journal of Financial Economics 43, 133–156.
+
+Gompers, P.A., Lerner, J., 1999a. An analysis of compensation in the US
+venture capital partnerships. Journal of Financial Economics 51,
+3–44.
+
+Gompers, P.A., Lerner, J., 1999b. The Venture Capital Cycle. The MIT Press.
+Gompers, P.A., Lerner, J., 2000a. The determinants of corporate venture
+capital successes: organizational structure, incentives and comple-
+mentarities. In: Morck, R. (Ed.), Concentrated Corporate Ownership.
+University of Chicago Press for the National Bureau of Economic
+Research, pp. 17–50.
+
+Gompers, P.A., Lerner, J., 2000b. Money chasing deals? The impact of
+Journal of Financial
+
+fund inﬂows on private equity valuations.
+Economics 55, 281–325.
+
+Gompers, P.A., Kovner, A., Lerner, J., Scharfstein, D., 2008. Venture capital
+investment cycles: the impact of public markets. Journal of Financial
+Economics 87, 1–23.
+
+Hansen, R.S., 2001. Do investment banks compete in IPOs?: the advent of
+the ‘‘7% plus contract’’. Journal of Financial Economics 59, 313–346.
+J., 1979. Sample selection bias as a speciﬁcation error.
+
+Heckman,
+
+Econometrica 47, 153–161.
+
+Hellmann, T., 2002. A theory of strategic venture investing. Journal of
+
+Financial Economics 64, 285–314.
+
+Hellmann, T., Puri, M., 2000. The interaction between product market
+and ﬁnancing strategy: the role of venture capital. Review of
+Financial Studies 13, 959–984.
+
+Hellmann, T., Puri, M., 2002. Venture capital and the professionalization
+of start-up ﬁrms: empirical evidence. Journal of Finance 57, 169–197.
+Hochberg, Y., 2005. Venture capital and corporate governance in the
+newly public ﬁrm. Unpublished working paper, Northwestern
+University.
+
+Hochberg, Y., Ljungqvist, A., Lu, Y., 2007. Venture capital networks and
+
+investment performance. Journal of Finance 62, 251–301.
+
+Hogan, C.E., 1997. Costs and beneﬁts of audit quality in the IPO market: a
+
+self-selection analysis. The Accounting Review 72, 67–86.
+
+Hsu, D., 2004. What do entrepreneurs pay for venture capital afﬁliation?
+
+Journal of Finance 59, 1805–1844.
+
+Jain, B., Kini, O., 1994. The post-issue operating performance of IPO ﬁrms.
+
+Journal of Finance 49, 1699–1726.
+
+Kaplan, S.N., Schoar, A., 2005. Private equity returns: persistence and
+
+capital ﬂows. Journal of Finance 60, 1791–1823.
+
+Kaplan, S.N., Stromberg, P., 2001. Venture capitalists as principals:
+contracting, screening, and monitoring. American Economic Review
+91, 426–430.
+
+Kaplan, S.N., Stromberg, P., 2003. Financial contracting theory meets the
+real world: an empirical analysis of venture capital contracts. Review
+of Economic Studies 70, 281–315.
+
+Krishnan, C.N.V., Masulis, R.W., Singh, A., 2006. Does venture capital
+reputation affect subsequent IPO performance? Unpublished work-
+ing paper, Case Western Reserve University.
+
+Lee, P.M., Wahal, S., 2004. Grandstanding, certiﬁcation, and the under-
+Journal of Financial
+
+pricing of venture capital backed IPOs.
+Economics 73, 375–407.
+
+Lerner, J., 1994a. Venture capitalists and the decision to go public. Journal
+
+of Financial Economics 35, 293–316.
+
+Lerner,
+
+J., 1994b. The syndication of venture capital
+
+investments.
+
+Financial Management 23, 16–27.
+
+Lerner, J., 1995. Venture capitalists and the oversight of private ﬁrms.
+
+Journal of Finance 50, 301–318.
+
+Li, X., Masulis, R.W., 2006. Venture capital investments by IPO under-
+interest, or moral hazard?
+
+writers: certiﬁcation, alignment of
+Unpublished working paper, Vanderbilt University.
+
+Lindsey, L., 2008. Blurring ﬁrm boundaries: the role of venture capital in
+
+strategic alliances. Journal of Finance 63, 1137–1168.
+
+Masulis, R.W., Nahata, R., 2008. Financial contracting with strategic
+investors: evidence from corporate venture capital. Unpublished
+working paper, Baruch College and Vanderbilt University.
+
+McLaughlin, R., Saﬁeddine, A., Vasudevan, G.K., 2000. Investment banker
+reputation and the performance of seasoned equity issuers. Financial
+Management 29, 96–110.
+
+Megginson, W.L., Weiss, K.A., 1991. Venture capitalist certiﬁcation in
+
+initial public offerings. Journal of Finance 46, 879–903.
+
+Menon, K., Williams, D.D., 1991. Auditor credibility and initial public
+
+offerings. The Accounting Review 66, 313–332.
+
+Michaely, R., Shaw, W.H., 1995. Does the choice of auditor convey quality
+
+in an initial public offering? Financial Management 24, 15–30.
+
+Poulsen, A., Stegemoller, M., 2008. Moving from private to public
+ownership: selling out to public ﬁrms vs. initial public offerings.
+Financial Management 37, 81–101.
+
+Puri, M., Zarutskie, R., 2007. On the lifecycle dynamics of venture-capital-
+and non-venture-capital-ﬁnanced ﬁrms. Unpublished working paper,
+Duke University.
+
+Purnanandam, A., Swaminathan, B., 2004. Are IPOs really underpriced?
+
+17, 811–848.
+
+
+ARTICLE IN PRESS
+
+R. Nahata / Journal of Financial Economics 90 (2008) 127–151
+
+151
+
+Ritter, J., Welch, I., 2002. A review of IPO activity, pricing, and allocations.
+
+Titman, S., Trueman, B., 1986. Information quality and the valuation of
+
+Journal of Finance 57, 1795–1828.
+
+new issues. Journal of Accounting and Economics 8, 159–621.
+
+Sahlman, W.A., 1990. The structure and governance of venture capital
+
+Welch, I., 1989. Seasoned offerings, imitation costs, and the underpricing
+
+organizations. Journal of Financial Economics 27, 473–521.
+
+of initial public offerings. Journal of Finance 44, 421–450.
+
+Sorensen, M., 2007. How smart
+
+matching model of venture capital.
+2725–2762.
+
+is smart money? A two-sided
+Journal of Finance 62,
+
+Zarutskie, R., 2007. Do venture capitalists affect investment perfor-
+mance? Evidence from ﬁrst-time funds. Unpublished working paper,
+Duke University.
+

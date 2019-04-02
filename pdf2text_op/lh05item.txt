@@ -1,0 +1,1407 @@
+30
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+The Impact of New Product Development
+
+Acceleration Approaches on Speed and Proﬁtability:
+
+Lessons for Pioneers and Fast Followers
+
+Fred Langerak and Erik Jan Hultink
+
+Abstract—This paper investigates the impact of nine new
+product development (NPD) acceleration approaches (supplier
+involvement, lead user involvement, speeding up activities and
+tasks, reduction of parts and components, training and rewarding
+of employees,
+implementation of support systems and tech-
+niques, stimulating interfunctional cooperation, emphasis on the
+customer, and simpliﬁcation of organizational structure) on devel-
+opment speed and new product proﬁtability. Our ﬁndings from
+233 manufacturing ﬁrms show that lead user involvement and
+training/rewarding of employees increase both development speed
+and proﬁtability. Supplier involvement, speeding up activities and
+tasks, and a simpliﬁcation of the organizational structure also
+enhance development speed, while an emphasis on the customer
+has an additional positive impact on new product proﬁtability.
+Both new product speed and proﬁtability increase ﬁrm ﬁnancial
+performance. Our results further show that pioneers and fast
+followers should not select the same NPD acceleration approaches
+as the speed and proﬁtability impact of the majority of the acceler-
+ation approaches depends on the new product strategy of the ﬁrm.
+These results are important as they provide guidance for pioneers
+and fast followers regarding which NPD acceleration approaches
+to select in order to enhance speed and proﬁtability and, hence,
+ﬁrm ﬁnancial performance.
+
+Index Terms—Cycle time reduction, ﬁrst mover advantages, new
+product development (NPD) acceleration approaches, new product
+strategy, time-to-market.
+
+“There are two kinds of ﬁrms—the quick and the dead.”
+(President of Intel).
+
+I. INTRODUCTION
+
+N EW PRODUCT DEVELOPMENT (NPD) speed is crit-
+
+ical because product life cycles are shrinking and obsoles-
+cence is occurring more quickly than in the past, while competi-
+tion has also intensiﬁed [55]. To grow, it has become imperative
+for ﬁrms to move products to market faster [9], [21], [62]. Firms
+such as Xerox, Motorola, and Compaq are often cited as exam-
+ples of ﬁrms that compete on time to market. Firms that succeed
+
+Manuscript received April 1, 2003; revised August 1, 2004. Review of this
+
+manuscript was arranged by Department Editor A. S. Bean.
+
+F. Langerak is with the Department of Marketing Management, Rotterdam
+School of Management, Erasmus University Rotterdam, NL-3000 DR
+Rotterdam, The Netherlands (e-mail: f.langerak@fbk.eur.nl).
+
+E. J. Hultink is with the Faculty of Industrial Design Engineering, Delft
+University of Technology, NL-2628 CE Delft, The Netherlands (e-mail:
+e.j.hultink@io.tudelft.nl).
+
+Digital Object Identiﬁer 10.1109/TEM.2004.839941
+
+in developing and marketing new products faster than competi-
+tors can obtain ﬁrst mover advantages [5], [23], [32]. They may
+command higher prices, and then garner dominant market share
+and customer loyalty. Signiﬁcant cost beneﬁts can also accrue
+from compressing NPD cycle time [53]. Not surprisingly, the
+interest in techniques to accelerate NPD has remained steadfast
+for its strategic importance [18].
+
+Research by the Product Development and Management As-
+sociation (PDMA) on NPD practices reveals that ﬁrms have
+made substantial progress in reducing NPD cycle times [20].
+This reduction is often achieved through the implementation
+of speciﬁc acceleration techniques. Academics have in the past
+decade widely published on these techniques, e.g., [5], [17],
+[39], [43], [46], and [48]. However, a closer look at this body
+of research reveals that there is limited empirical evidence as
+to if and how the use of acceleration techniques impacts NPD
+speed and proﬁtability [12]. In addition, the current body of lit-
+erature has not yet investigated if ﬁrms with different strategies
+should implement the same NPD acceleration techniques to in-
+crease speed and proﬁtability. This is unfortunate given the po-
+tentially sweeping effects of the appropriate acceleration tech-
+niques on NPD cycle time, and the importance of capitalizing
+on ﬁrst mover advantages.
+
+The purpose of the present study is to ﬁll a part of this gap
+in extant knowledge by investigating the impact of a compre-
+hensive list of 47 acceleration techniques on development speed
+and proﬁtability. Whereas, the study of the effectiveness of indi-
+vidual techniques is important, Millson et al. [43], Nijssen et al.
+[48], and Dröge et al. [12] suggest that the study of acceleration
+approaches (i.e., groups of techniques) can lead to a better un-
+derstanding of the determinants of NPD cycle time reduction.
+Therefore, we grouped the 47 individual techniques into nine
+NPD acceleration approaches and examine the impact of these
+approaches on NPD speed and proﬁtability. As the ability to ac-
+celerate NPD and to capitalize on ﬁrst mover advantages is in-
+creasingly viewed as a key to competitive advantage, we also
+investigate the impact of NPD speed and proﬁtability on ﬁrm
+ﬁnancial performance. We ﬁnally respond to Langerak et al.’s
+[34] suggestion to address the potential intricacies of the rela-
+tionships between the acceleration approaches and speed/prof-
+itability for ﬁrms with different innovation strategies. Therefore,
+we also examine how new product strategy moderates the effects
+of the acceleration approaches on speed and proﬁtability.
+
+This paper makes four primary contributions to the NPD and
+technology management literatures. First, this paper focuses on
+a comprehensive list of 47 techniques that belong to nine NPD
+
+0018-9391/$20.00 © 2005 IEEE
+
+
+LANGERAK AND HULTINK: IMPACT OF NEW PRODUCT DEVELOPMENT ACCELERATION APPROACHES ON SPEED AND PROFITABILITY
+
+31
+
+acceleration approaches. To date, research has either been re-
+stricted to ﬁve groups that fail to explicate the individual tech-
+niques that belong to each cluster [48], or to a limited number
+(i.e., 14) of explicit techniques clustered into four NPD accel-
+eration approaches [12]. Second, this paper investigates the im-
+pact of nine acceleration approaches on both development speed
+and proﬁtability. This is important because faster NPD can ei-
+ther lower the development costs [53], or raise the development
+costs due to the hidden costs of accelerated NPD [9]. No study
+has, to our knowledge, jointly considered development speed
+and proﬁtability. Third, this paper investigates the impact of de-
+velopment speed and new product proﬁtability on ﬁrm ﬁnancial
+performance. No other study has yet investigated these contin-
+gencies empirically. Finally, we investigate which acceleration
+approaches are effective for ﬁrms with different new product
+strategies.
+
+The remainder of this paper is structured as follows. First,
+we review the literature on NPD acceleration techniques. Then,
+we present the conceptual framework and the proposed relation-
+ships. Next, we explain the research design and review the ﬁnd-
+ings from a sample of 233 manufacturing ﬁrms. In the ﬁnal sec-
+tions, we will discuss the results and managerial implications,
+and propose suggestions for further research.
+
+II. NPD ACCELERATION APPROACHES
+
+Millson et al. [43] developed the earliest knowledge on the
+use of techniques to accelerate NPD by suggesting a hierarchy
+of approaches. Each approach is composed of similar tech-
+niques aimed at: 1) simplifying NPD operations; 2) eliminating
+unnecessary NPD activities; 3) paralleling NPD activities;
+4) eliminating delays in the NPD process; and 5) speeding
+up NPD operations. They conclude that if these ﬁve NPD ap-
+proaches are employed in a thoughtful manner, “a ﬁrm’s time to
+develop important new products can be signiﬁcantly reduced”
+[43, p. 67]. Unfortunately, they fail to empirically investigate if
+the ﬁve NPD acceleration approaches reduce development time
+and improve proﬁtability.
+
+Nijssen et al. [48] provided the ﬁrst empirical support for the
+contention that the implementation of Millson et al.’s [43] accel-
+eration approaches has a positive effect on development speed.
+However, like Millson et al. [43], they do not specify the in-
+dividual techniques that belong to each NPD acceleration ap-
+proach. As a result, it is not evident which individual techniques
+new product teams can adopt to accelerate NPD and to capitalize
+on ﬁrst mover advantages.
+
+To nullify this omission, Dröge et al. [12] speciﬁed a set
+of fourteen individual techniques and investigated their impact
+on NPD cycle time reduction. They found that only three (i.e.,
+computer aided design and engineering, group technology, and
+cross-functional teams) techniques reduced NPD cycle time.
+Following Millson et al. [43], they subsequently clustered the
+14 techniques into four groups: 1) human resource management;
+2) synergistic integration; 3) supplier closeness; and 4) design
+manufacturing interface, and investigated the impact of each
+group on NPD cycle time. Their rationale was that the study
+of approaches to accelerate NPD leads to a better understanding
+of the determinants of NPD cycle time reduction. Dröge et al.
+
+[12] found that two of the four approaches (i.e., synergistic in-
+tegration and supplier closeness) were signiﬁcantly related to
+development speed. This is an important ﬁnding because the
+composition of these two approaches, in terms of the individual
+techniques, is also known. This allows new product teams to se-
+lect and adopt individual techniques from these two approaches
+that help to accelerate NPD. As such, Dröge et al. [12] pro-
+vided important empirical knowledge on the effectiveness of
+NPD acceleration approaches of which the exact composition
+was known (i.e., in terms of individual techniques that belong
+to each approach).
+
+There are, however, many more techniques that new
+product teams can use to accelerate NPD besides the 14 that
+Dröge et al. [12] speciﬁed. Langerak et al. [34], for example,
+identiﬁed 50 individual techniques that teams can adopt to
+achieve cycle time reduction. To better understand the use
+of these techniques they formed nine NPD acceleration ap-
+proaches by clustering similar techniques aimed at: 1) supplier
+involvement; 2) lead user involvement; 3) speeding up activities
+and tasks; 4) reduction of parts and components in the new
+product; 5) training and rewarding employees; 6) implementing
+support systems and techniques; 7) stimulating cross-functional
+cooperation; 8) emphasizing value for customers; and 9) simpli-
+fying the organizational structure. To expose a logical sequence
+of implementation they used a technique called laddering to
+uncover the objectives that ﬁrm strive for by adopting each
+NPD acceleration approach. They found that new product teams
+implement the acceleration approaches not just to accomplish
+development speed, but also to attain other strategic objectives,
+such as cost reduction and customer value creation. Langerak
+et al. [34] did not empirically investigate the impact of the nine
+NPD acceleration approaches on development speed. This is
+unfortunate as it would better inform new product teams about
+the effectiveness of the NPD acceleration approaches. Not
+surprisingly, Langerak et al. [34], therefore, suggest that there
+is an opportunity to move the research ﬁeld forward by empiri-
+cally testing the impact of the NPD acceleration approaches on
+development speed and on other strategic NPD objectives such
+as proﬁtability.
+
+III. CONCEPTUAL FRAMEWORK AND PROPOSITIONS
+
+Our literature review led to the development of a conceptual
+framework, shown in Fig. 1, that guided our research. This
+framework shows that we expect the NPD acceleration ap-
+proaches to increase new product speed and proﬁtability. We
+also expect that increased development speed and improved
+new product proﬁtability enhances ﬁrm ﬁnancial performance.
+In addition, we investigate whether new product strategy mod-
+erates the impact of the acceleration approaches on NPD speed
+and proﬁtability.
+
+A. Effect of the NPD Acceleration Approaches on Speed and
+Proﬁtability
+
+Appendix A describes the primary mechanisms through
+which the nine NPD acceleration approaches affect devel-
+opment speed and proﬁtability. This overview suggests that
+the main reasons for implementing the NPD acceleration
+
+
+32
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+Fig. 1. Conceptual framework.
+
+approaches can be classiﬁed as: 1) competitive advantage,
+such as ﬁrst-to-market beneﬁts [15], [59]; 2) costs reductions
+through simpliﬁcation, the elimination of delays and/or steps,
+and parallel processing [43], [53]; and 3) enhanced new product
+proﬁtability through higher initial prices, greater market share,
+and customer loyalty [12]. For example, Gupta et al. [23] and
+Lieberman and Montgomery [35] found that ﬁrms that succeed
+in developing new products at high speed can be ﬁrst to market
+and reap pioneering advantages. With regard to development
+costs, Crawford [9] has questioned whether it is always appro-
+priate to accelerate NPD because of the potentially hidden costs
+of accelerated NPD. However, Rosenau [53] reports that faster
+NPD can lower developments costs. Gonzáles and Palacios
+[18] concur, noting that a short NPD cycle time is associated
+with lower development costs. With regard to enhanced prof-
+itability, Menon et al. [41] argue that ﬁrms with the ability to be
+consistently ﬁrst-to-market are likely to be perceived in a more
+positive light by customers. Finally, pioneers can beneﬁt from
+early entry by using a skim pricing strategy for a new product,
+while still delivering superior customer value until competition
+can match its source of advantage [60]. Therefore, these ﬁrms
+achieve high initial margins and garner dominant market share
+and customer loyalty. Together, these ﬁndings suggest that the
+implementation of the nine acceleration approaches enhances
+development speed and proﬁtability. Thus, we hypothesize the
+following.
+
+The greater the use of the NPD acceleration ap-
+proaches, the higher a) development speed and b) new
+product proﬁtability.
+
+B. Effect of Speed and Proﬁtability on Firm Financial
+Performance
+
+tages including higher margins, increased market share, estab-
+lishing industry standards, and locking up distribution channels.
+Nonetheless, many of the key beneﬁts of ﬁrst mover advantages
+are located within the organization. They are associated with
+higher levels of ﬁrm ﬁnancial performance, because procedures
+and programs required for achieving high development speed
+also reduce overheads and boost productivity [41]. Moorman
+and Miner [45] found that emphasizing cycle time reduction al-
+lowed for a convergence of planning. A short cycle time affords
+more learning loops. That is, ﬁrms that adopt time-to-market
+goals learn faster than their competitors since they have more
+opportunities to complete the full business cycle associated with
+the product [41]. They also mention that the adoption of a speed
+orientation involves measures that are easily communicated and
+widely understood.
+
+Short NPD cycles are also associated with higher produc-
+tivity and lower levels of inventory and working capital [11].
+Meyer [42] argues that quick turn around times provide all levels
+of organizational participants with frequent positive feedback
+and aid in motivating the entire ﬁrm. Literature on the motiva-
+tional effects of outcome feedback corroborates this viewpoint
+[30]. A speed orientation involves the adoption of performance
+goals and schedules. Research in organizational behavior pro-
+vides strong evidence in favor of the notion that adoption of
+performance goals improves employee productivity [36]. More-
+over, empirical investigations show that when goal-setting and
+feedback are used simultaneously, they have a synergistic effect
+on performance and productivity [14]. Finally, Ittner and Lar-
+cker [29] found a positive relationship between NPD cycle time
+and ﬁrm ﬁnancial performance for the computer industry. Ac-
+cordingly, we hypothesize the following.
+
+Most ﬁrm beneﬁts of accelerating NPD are also related to ﬁrst
+mover advantages. Meyer [42] lists a number of spillover advan-
+
+The higher development speed, the higher the ﬁrm’s
+ﬁnancial performance.
+
+
+LANGERAK AND HULTINK: IMPACT OF NEW PRODUCT DEVELOPMENT ACCELERATION APPROACHES ON SPEED AND PROFITABILITY
+
+33
+
+An important part of the NPD-literature has identiﬁed new
+product performance as an important driver of ﬁrm ﬁnancial
+performance [22], [28], [44]. The rationale for new product per-
+formance becoming increasingly important for ﬁrm ﬁnancial
+performance is that ﬁrms are confronted with increased levels
+of competition, rapidly changing market environments, higher
+rates of technical obsolescence and shorter product life cycles
+[19]. In these conditions new products serve to accommodate
+the uncertainties that a ﬁrm faces in its entrepreneurial envi-
+ronment [10]. Empirical research also reveals the importance
+of new product performance for ﬁrm ﬁnancial performance. For
+example, Grifﬁn [20] reports that best practice ﬁrms realize 49%
+of their sales from products developed and launched in the last
+ﬁve years and that new product performance accounts for one
+fourth of the variability in organizational performance. Simi-
+larly, Terwiesh et al. [57] report that new product proﬁtability
+explains, depending upon the market context, between 30% and
+70% of organizational proﬁtability variance. Thus, we hypoth-
+esize the following.
+
+The higher new product proﬁtability, the higher the
+ﬁrm’s ﬁnancial performance.
+
+C. Moderating Effect of New Product Strategy
+
+In the structure-conduct-performance paradigm the market
+environment affects ﬁrm ﬁnancial performance through the con-
+duct or behavior of the ﬁrm [61]. In this paradigm, it is the ﬁrm’s
+strategy that incorporates, articulates and reﬂects on the man-
+agement’s perceived market environment and which shapes the
+organization’s behavior [37]. Management communicates and
+implements the direction and focus of the strategy by speci-
+fying performance goals, criteria and actions. Strategy, perfor-
+mance goals, and marketing activities have contingent relation-
+ships [63]. Managers choose a strategy to excel on a particular
+dimension of performance, and execute each strategy by the
+most appropriate activities. Strategy, as a general direction of
+a management’s response based on ﬁltered environmental in-
+formation, therefore, can conceivably explain the varying mag-
+nitudes of relationships between performance measures, such
+as development speed and proﬁtability, and speciﬁc activities
+by the ﬁrm, such as the use of NPD acceleration approaches (cf.
+[38]). This reasoning implies that the degree to which the NPD
+acceleration approaches are related to development speed and
+new product proﬁtability will vary across new product strategies
+as these strategies (e.g., pioneering versus following) differ in
+the extent to which they emphasize the performance dimension
+of capitalizing on ﬁrst mover advantages. Thus, we hypothesize
+the following.
+
+The impact of the use of the NPD acceleration ap-
+proaches on a) development speed and b) new product
+proﬁtability is greater for pioneers than for all later
+entrants.
+
+IV. METHODOLOGY
+
+In line with current practice in the marketing and NPD liter-
+atures, our quantitative scale development, data collection, and
+scale validation phases were preceded by a qualitative research
+
+phase, in which a literature review was conducted and free-form
+interviews were held with ﬁve academics and six new product
+team managers to assess the appropriateness of Langerak et al.’s
+[34] overview of 50 NPD acceleration techniques. Our qualita-
+tive research revealed that three techniques (i.e., using limited
+roll outs, project champions and Total Quality Management)
+were not considered appropriate for accelerating NPD or were
+highly ﬁrm speciﬁc. After puriﬁcation, a total of 47 techniques
+remained as input for the survey.
+
+A. Sample and Data Collection
+
+Our sample consisted of 600 manufacturing ﬁrms with in-
+dependent R&D, production, and marketing/sales departments
+in the primary metal, fabricated metal, machinery equipment,
+electrical equipment, transportation equipment, and measuring
+instruments industries (SIC-codes 33–38). Through a telephone
+presurvey, we identiﬁed 528 ﬁrms with: 1) a new product that
+had been in the market for at least 12 months and that was
+representative of the ﬁrm’s product development program and
+2) a knowledgeable informant. A total of 344 (65.2%) knowl-
+edgeable informants willing to cooperate with the research re-
+ceived a personalized letter explaining the purpose of the study,
+a questionnaire, and preaddressed, postage paid envelopes. Non-
+respondents received a reminder letter and a second question-
+naire. These efforts yielded 233 usable responses, a response
+rate of 44.1% (67.7% of those who received a questionnaire).
+
+A routine check for respondent bias and industry bias in-
+dicated no signiﬁcant differences in the mean responses on
+any construct across respondents with different functional
+backgrounds and across ﬁrms from different industries. We
+used Armstrong and Overton’s [1] time-trend extrapolation
+procedure to test for nonresponse bias. In comparing early (ﬁrst
+quartile) and late (fourth quartile) respondents, no signiﬁcant
+differences emerged in the mean responses on any of the
+constructs. Together, these results suggest that respondent bias,
+industry bias, and nonresponse bias were not a major problem.
+Table I shows the sample characteristics.
+
+B. Measure Development and Pretesting
+
+We generated a pool of items for each construct using liter-
+ature search and interviews with academics and practitioners.
+Pretests of these items occurred in two phases: 1) face-to-face
+interviews with four academics and 2) face-to-face interviews
+with eight new product team managers. At each stage, partici-
+pants identiﬁed items that were confusing, tasks that were dif-
+ﬁcult to respond to, and any other problems they encountered.
+We revised or eliminated problematic items, and developed new
+ones. By the end of the second phase of pretesting the practi-
+tioners reported no concerns, and the questionnaire was, there-
+fore, ready for ﬁnal administration.
+
+C. Measures
+
+All responses were recorded on a ﬁve point scale unless men-
+tioned, otherwise. To measure the extent of use of the NPD ac-
+celeration techniques, we developed 47 items by drawing upon
+Langerak et al. [34]. The respondents were asked to rate the new
+product team’s use of each technique during the development
+
+
+34
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+TABLE I
+
+SAMPLE CHARACTERISTICS (n = 233)
+
+of a representative new product that the ﬁrm introduced in the
+market at least 12 months ago. We speciﬁcally targeted products
+that were representative of the ﬁrm’s NPD program. The time
+interval of 12 months was chosen to ensure that they had sufﬁ-
+cient data on new product performance. We anchored the extent
+of use scale by “extremely low use or omitted altogether” (1)
+and “extremely high use” (5).
+
+We measured development speed using two items based on
+Dröge et al. [12]. We deﬁned development speed as “the ability
+to minimize the time it takes to develop new products.” We asked
+respondents to rate how well the new product had performed on
+new product development time relative to 1) similar products
+that their ﬁrm developed in the past and 2) relative to competi-
+tors that had developed similar products. We anchored the scale
+by “very much slower” (1) and “very much faster” (5).
+
+We used two items adapted from Grifﬁn and Page [22] to
+measure new product proﬁtability. We asked respondents to rate
+how satisﬁed they were about the new product’s performance
+with regard to 1) the degree to which the new product met proﬁt
+goals and 2) the degree to which the new product met margin
+goals. We anchored the scales by “not at all satisﬁed” (1) and
+“highly satisﬁed” (5).
+
+We used two items adapted from Naman and Slevin [47] to
+measure ﬁrm ﬁnancial performance. These items have a positive
+effect on the ﬁrm’s economic value. We asked respondents to
+rate how satisﬁed they were about their ﬁrm’s ﬁnancial perfor-
+mance over the last year relative to major competitors on prof-
+itability and ROI/IRR. We anchored the scales by “not at all
+satisﬁed” (1) and “highly satisﬁed” (5).
+
+As control variables, we measured two ﬁrm characteristics
+(i.e., R&D expenditures and ﬁrm size) and one market character-
+istic (i.e., market turbulence) by means of one item each. These
+ﬁrm and market characteristics have a recognized inﬂuence on
+ﬁrm ﬁnancial performance.
+
+We measured new product strategy by asking respondents to
+indicate which one of four timing strategies they used for the in-
+troduction of their representative new product. The four strate-
+gies offered were: ﬁrst to market [pioneer], fast follower, late
+follower, and laggard. These measures have been used exten-
+sively in the literature [33] and [35]. Laggards lack, in sharp
+contrast to pioneers, fast followers and late followers, a con-
+sistent strategic behavioral pattern and simply respond to envi-
+ronmental pressures when forced to do so [37], [38]. Because
+of this ambiguous behavior among laggards, only the three vi-
+able strategy types (i.e., pioneer, fast follower, and late follower)
+were purposed to be used for the test of moderating effects. This
+
+also implies that the response categories of late followers and
+laggards cannot be lumped into a single category. The laggard
+type was only included as a response category in the question-
+naire to screen ﬁrms with no strategic behavioral pattern. The
+response frequencies for each strategy type were 75 (32.2%) pi-
+oneers, 95 (40.8%) fast followers, 44 (18.9%) late followers, and
+19 (8.2%) laggards. Given the response pattern among the viable
+strategy types, we only used the pioneers and fast followers to
+test for moderating effects. The size of the late followers cat-
+egory was too small to be included in our test for moderating
+effects using regression analysis [24].
+
+D. Unidimensionality, Reliability, and Validity
+
+We considered each acceleration approach as an individual
+reﬂective multi-item scale consisting of similar techniques that
+ﬁrms can use to accelerate NPD. The grouping of the techniques
+belonging to each individual approach was based on previous
+research by Langerak et al. [34]. We adopted this approach be-
+cause the ratio between our sample size and the number of ac-
+celeration techniques was insufﬁcient to simultaneously submit
+all techniques to a test for unidimensionality, reliability and
+validity [56].
+
+To obtain unidimensionality for all reﬂective multi-item
+scales, we calculated the interitem correlations and corrected
+item-to-total correlations for each item, taking one scale at a
+time. We eliminated items for which these correlations were
+not signiﬁcant
+. Principal axis factoring explored the
+unidimensionality of each puriﬁed scale using an eigenvalue
+of 1.0 and factor loadings of 0.25 as the cutoff points [56].
+Computing reliability coefﬁcients explored the reliability of
+each puriﬁed, unidimensional scale. When the coefﬁcient alpha
+was smaller than 0.7, we removed the item with the lowest
+corrected item-to-total correlation until meeting the 0.7 level.
+The deleted items are marked in Appendix B.
+
+We additionally investigated the convergent validity within
+each scale by performing a series of conﬁrmatory factor
+analyses taking one scale at a time [4]. The criterion of all
+factor loadings being signiﬁcant at the 0.05 level was used
+as indicator of convergent validity [3]. We assessed the dis-
+criminant validity between the scales by examining the 95%
+conﬁdence intervals (plus or minus 1.96 standard errors)
+around all pairwise latent-trait correlations [2]. The results
+show that discriminant validity is obtained because none of
+the conﬁdence intervals encompasses 1.0. Table II shows the
+means, standard deviations, Cronbach alpha’s, and intercon-
+struct correlations.
+
+
+LANGERAK AND HULTINK: IMPACT OF NEW PRODUCT DEVELOPMENT ACCELERATION APPROACHES ON SPEED AND PROFITABILITY
+
+35
+
+MEANS, STANDARD DEVIATIONS, CRONBACH ALPHA, AND INTERCONSTRUCT CORRELATIONS
+
+TABLE II
+
+EFFECT OF NPD ACCELERATION APPROACHES ON SPEED AND PROFITABILITY#
+
+TABLE III
+
+Together the results of the tests indicated a sufﬁcient degree
+of unidimensionality, reliability and validity. Based on this evi-
+dence, we formed the constructs by averaging the responses to
+each item in a particular scale. After we formed the constructs,
+we submitted the constructs to be used as independent variables
+to a varimax rotated principal components analysis to overcome
+potential problems due to multicollinearity [24].
+
+V. RESULTS
+
+A. Impact of the NPD Acceleration Approaches on Speed and
+Proﬁtability
+
+and
+
+To test
+
+, we used multiple regression analysis.
+Table III reveals that the models explain 43% and 35% of the
+variance in speed and proﬁtability, respectively. The results
+reveal that the NPD acceleration approaches of “supplier in-
+,
+volvement”
+, “training and
+“speeding up activities and tasks”
+
+, “lead user involvement”
+
+, and “simpliﬁcation of
+rewarding of employees”
+have positive effects on
+organizational structure”
+development speed. “Implementation of support systems and
+, and “stimulating interfunctional
+techniques”
+have negative effects on develop-
+coordination”
+ment speed. The “reduction of part and components” and an
+“emphasis on the customer” have no effect on development
+speed. Thus, we ﬁnd partial support for
+
+.
+
+Table III further shows that “lead user involvement”
+
+, “training and rewarding of employees”
+
+, and
+have positive effects on
+,
+, and “im-
+
+“emphasizing the customer”
+proﬁtability. “Speeding up activities and tasks”
+“reduction of part and components”
+plementation of support systems and techniques”
+have negative effects on proﬁtability. “Supplier involvement,”
+“stimulating interfunctional cooperation,” and “simpliﬁcation
+of the organizational structure” have no effect on proﬁtability.
+Thus, we ﬁnd partial support for
+
+.
+
+
+36
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+EFFECT OF SPEED AND PROFITABILITY ON FIRM FINANCIAL PERFORMANCE
+
+TABLE IV
+
+B. Effects of Speed and Proﬁtability on Firm Financial
+Performance
+
+and
+
+To test
+
+, we also used multiple regression anal-
+ysis. Table IV reveals that the model explains 34% of the vari-
+ance in ﬁrm ﬁnancial performance. The results indicate that
+and new product proﬁtability
+development speed
+have positive effects on ﬁrm ﬁnancial performance.
+
+The two ﬁrm-speciﬁc control variables of ﬁrm size
+and R&D expenditure
+also have positive effects on
+ﬁrm ﬁnancial performance. Market turbulence has no effect on
+ﬁrm ﬁnancial performance. Thus, our results provide support
+for
+
+and
+
+.
+
+C. Moderating Effect of the New Product Strategies of
+Pioneering and Fast Following
+
+and
+
+To test
+
+, we used multiple regression analysis for
+the subgroups of pioneers and fast followers, as suggested by
+Sharma et al. [54]. Late followers and laggards were, for reasons
+explained earlier, left out of the test for the moderating effect of
+new product strategy. This accounts for the differences in the
+results reported in Table III in comparison to those in Table V.
+These differences will be discussed in the additional analysis
+section.
+
+The results in Table V reveal that the models used to test for
+the moderating effect of the new product strategies of pioneering
+and fast following explain between 67% and 76% of the vari-
+ance in development speed and between 56% and 79% in prof-
+itability. We used a Chow-test to test for the equality between the
+coefﬁcients in the regression equations for the different strategic
+types [50]. The results indicate that the coefﬁcients in the re-
+gressions with the dependent variables of, respectively, devel-
+and new product
+opment speed
+are unequal for pio-
+proﬁtability
+.
+neers and fast followers. Thus, we ﬁnd support for
+Table V shows that “lead user involvement,” “training and
+rewarding of employees,” and “stimulating interfunctional
+cooperation” have positive effects on development speed for
+, as well as
+both pioneers
+fast followers
+. “Supplier
+involvement” and “simpliﬁcation of organizational structure”
+have a positive effect on development speed for pioneers
+, but a negative effect for fast followers
+. In contrast, the “reduction of
+parts and components” has a positive effect on speed for fast
+, but a negative effect for the pioneers
+followers
+
+and
+
+. “Speeding up activities and tasks” has a posi-
+and “implementing support
+tive impact on speed
+systems and techniques” has a negative impact on speed for
+, while both approaches are not
+the pioneers
+signiﬁcantly related to speed for the followers. Finally, an
+“emphasis on the customer” is negatively related to speed for
+both pioneers
+
+and fast followers
+
+.
+
+This “emphasis on the customer” is, however, the only ap-
+proach that positively impacts new product proﬁtability both
+for the pioneers
+
+, as well as the followers
+
+. “Training and rewarding of employees” and “stimulating
+interfunctional cooperation” have a positive impact on prof-
+, but a neg-
+itability for the followers
+. In
+ative effect for the pioneers
+contrast, “implementing support systems and techniques” has
+,
+a positive impact on proﬁtability for the pioneers
+. For the
+but a negative effect for the followers
+followers, “lead user involvement” and “reduction of parts and
+components” have a positive effect
+and “speeding up activities and parts” have a negative effect
+while these three approaches are
+on proﬁtability
+not signiﬁcantly related to proﬁtability for the pioneers. Finally,
+“supplier involvement” and “simpliﬁcation of the organizational
+structure” have a negative effect on proﬁtability for both pi-
+oneers
+
+and fast followers
+
+.
+
+VI. ADDITIONAL ANALYSIS FOR LATE FOLLOWERS
+
+The size of the late followers category was, as previously
+mentioned, too small to be included in our test for the mod-
+erating effect of new product strategy using regression analysis
+[24]. To extract some meaning from the study for late followers
+and to explain the differences in the results reported in Tables III
+and V, we additionally performed a correlation analysis between
+development speed, new product proﬁtability, and the nine ac-
+celeration approaches for ﬁrms with this type of new product
+strategy.
+
+The results reveal that “supplier involvement,” “lead user in-
+volvement,” “speeding up activities and tasks,” “emphasis on
+customer,” and “simpliﬁcation of the organizational structure”
+are positively
+associated with development speed
+. The
+
+“stimulation of interfunctional coordination” is negatively
+
+associated with new product proﬁtability
+
+.
+The ﬁndings with regard to the positive association of “emphasis
+on customers” and the negative association of “stimulating inter-
+functional coordination” are the most interesting, because they
+differ from the results found for pioneers and fast followers. For
+these strategy types “emphasis on customer” has a negative and
+“interfunctional coordination” a positive effect on development
+speed. These opposing ﬁndings explain the differences in the
+results reported in Tables III and V with regard to the effect of
+these two acceleration approaches on development speed.
+
+The correlation analysis also reveals that “supplier involve-
+ment,” “training and rewarding of employees,” “emphasis on
+customer,” and “simpliﬁcation of the organizational structure”
+
+
+LANGERAK AND HULTINK: IMPACT OF NEW PRODUCT DEVELOPMENT ACCELERATION APPROACHES ON SPEED AND PROFITABILITY
+
+37
+
+EFFECT OF NPD ACCELERATION APPROACHES ON SPEED AND PROFITABILITY FOR PIONEERS AND FAST FOLLOWERS#
+
+TABLE V
+
+are positively
+associated with new product prof-
+itability
+. The “reduc-
+tion of parts and components” is negatively
+associ-
+ated with new product proﬁtability
+. The ﬁndings
+with regard to the positive associations of “supplier involve-
+ment” and the “simpliﬁcation of the organizational structure”
+are the most noteworthy, because they oppose the results found
+for pioneers and fast followers. For these strategy types “sup-
+plier involvement” and the “simpliﬁcation of the organizational
+structure” have negative effects on new product proﬁtability.
+These contrasting results explain the differences in the ﬁndings
+in Tables III and V with regard to the impact of these two accel-
+eration approaches on new product proﬁtability.
+
+VII. DISCUSSION AND IMPLICATIONS
+
+The aim of this study was to investigate the inﬂuence of nine
+acceleration approaches on NPD speed and proﬁtability. We
+also examined the impact of speed and proﬁtability on ﬁrm
+ﬁnancial performance. In addition, we studied the moderating
+effect of the new product strategies of pioneering and fast
+following on the relationships between the NPD acceleration
+approaches, and speed and proﬁtability. The discussion and
+implications section is again organized around the hypothesized
+relationships.
+
+A. Effect of the NPD Acceleration Approaches on Speed and
+Proﬁtability
+
+Our results show that ﬁve out of nine NPD acceleration
+approaches (i.e., supplier involvement, lead user involvement,
+speeding up activities and tasks, training and rewarding of
+employees, and simpliﬁcation of the organizational structure)
+increase development speed. Implementing support systems
+and techniques and stimulating interfunctional coordination
+decrease development speed. The results further show that three
+approaches (i.e., lead user involvement, training and rewarding
+of employees, and an emphasis on the customer) improve
+new product proﬁtability, while three other approaches (i.e.,
+
+speeding up activities and tasks, reduction of parts and compo-
+nents, and implementation of support systems and techniques)
+decrease new product proﬁtability.
+
+An important ﬁrst conclusion is, therefore, that not all NPD
+acceleration approaches suggested to improve speed and prof-
+itability are effective. The implication is that new product teams
+must carefully select which NPD acceleration approaches are
+useful to achieve their NPD objectives expressed in terms of
+speed or proﬁtability. This is especially imperative, because
+our results also reveal that the use of only two approaches
+(i.e., lead user involvement and training and rewarding of
+employees) simultaneously improves speed and proﬁtability.
+This ﬁnding is important, because although it has been argued
+that certain acceleration practices that improve speed also save
+costs and, hence, improve proﬁtability, such a relationship
+has not been tested empirically [53]. The ﬁndings also reveal
+that the adoption of one approach (i.e., speeding up activi-
+ties and tasks) improves development speed, but aggravates
+proﬁtability. This ﬁnding is consistent with rival theories that
+suggest a tradeoff between development speed and proﬁtability
+because of possible hidden costs of accelerated NPD [9]. Thus,
+new product teams should realize that speed can contribute
+to proﬁts, as well as to disaster. An example of the latter was
+Ashton Tate, the now-defunct maker of dBase software. When
+the Windows operating system was ﬁrst released, Ashton Tate
+scrambled to port its software and ended up shipping a product
+so defective that developers rejected it, dealers returned it, and
+Ashton Tate went into a free fall from which it never recovered.
+Shareholders lost almost $700 million in value, and the dBase
+technology was eventually sold at auction for a few hundred
+thousand dollars.
+
+A second important conclusion is, therefore, that there is, de-
+pending upon which NPD acceleration approaches ﬁrms intend
+to adopt, a potential tradeoff between proﬁtability and speed.
+This is acknowledged by A. Wellener, business development
+manager for Goodrich Aerospace by stating that “If you speed
+, it adds to time and it adds to cost.”
+it up and make a mistake
+[49]. The implication is that new product teams should tailor
+
+
+38
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+the implementation of the apt acceleration approaches to their
+NPD objectives, because the adoption of NPD acceleration ap-
+proaches can have mutually exclusive, reinforcing, or contradic-
+tory effects on speed and proﬁtability. Thus, new product teams
+will need to think carefully about whether speed or proﬁtability
+is more important for the new product that is developed and
+marketed. This recommendation represents a departure from the
+widely accepted notion that time is money in NPD.
+
+B. Effect of Speed and Proﬁtability on Firm Financial
+Performance
+
+This paper provides empirical conﬁrmation that development
+speed contributes to ﬁrm ﬁnancial performance. This is an im-
+portant ﬁnding because although numerous researchers have
+posited a relationship between development speed and ﬁrm ﬁ-
+nancial performance [21], [41], to date only a few have found
+empirical evidence to support this contention, e.g., [29]. The
+conclusion is, therefore, that pursuing shorter development cy-
+cles provides performance beneﬁts to a ﬁrm. The implication
+is that an emphasis on cycle time reduction, through the im-
+plementation of the appropriate NPD acceleration approaches,
+increases the overall ﬂexibility of a ﬁrm’s processes, reduces
+costs, and improves services to end users [11]. This provides
+product development teams with a rationale for putting effort
+into shortening cycle times through the implementation of the
+appropriate NPD acceleration approaches.
+
+Our study also shows that new product proﬁtability con-
+tributes to ﬁrm ﬁnancial performance. This ﬁnding is in
+agreement with previous studies that have posited the impor-
+tance of new product proﬁtability for ﬁrm ﬁnancial performance
+[25], [28]. The conclusion is, therefore, that the adoption of the
+proper approaches to accelerate NPD is vital to ﬁrm ﬁnancial
+performance through improved new product proﬁtability. This
+ﬁnding also reafﬁrms that ﬁrms cannot depend on their current
+product offerings only to meet their sales and proﬁt objec-
+tives. For this reason, new products are referred to as “secret
+weapons,” at Manco Inc., Avon, OH, and preemptive strikes to
+be ﬁrst-to-market and capitalize on ﬁrst-mover advantages are
+encouraged [49].
+
+The overall implication of our ﬁnding that speed and prof-
+itability improve ﬁrm ﬁnancial performance is that effective
+management of the various NPD acceleration approaches is a
+matter of strategic signiﬁcance that has repercussions for an
+organization’s performance and competitive position. Thus,
+management should encourage new product teams to adopt
+suitable acceleration approaches to improve ﬁrm ﬁnancial per-
+formance through increased new product speed and improved
+proﬁtability. This is important because new product teams must
+learn how to implement these approaches, which can be difﬁ-
+cult, because they require changes in organizational structures,
+processes, and activities [18]. Moreover, implementing these
+approaches takes time and, therefore, teams should not expect
+to implement these approaches instantly and obtain immediate
+results.
+
+C. Moderating Effect of the New Product Strategies of
+Pioneering and Fast Following
+
+Our results provide support for the notion that the new
+product strategies of pioneering and fast following inﬂuence
+the impact of speciﬁc NPD acceleration approaches on de-
+velopment speed. The results of the test for the moderating
+effect of show that pioneers can use six acceleration approaches
+(i.e., supplier involvement, lead user involvement, speeding
+up activities and tasks, training and rewarding employees,
+stimulating interfunctional coordination, and simpliﬁcation of
+the organizational structure) to reduce NPD cycle time, while
+fast followers can only implement four approaches (i.e., lead
+user involvement, reduction of parts and components, training
+and rewarding of employees, and stimulating interfunctional
+coordination) effectively. A comparison of the speed impact
+of the NPD acceleration approaches for both strategy types
+shows that the effectiveness of three approaches (i.e., lead
+user involvement, training and rewarding of employees and
+interfunctional coordination) is independent upon the ﬁrm’s
+new product strategy. The impact on development speed of the
+other approaches depends on the ﬁrm’s new product strategy.
+
+Our results also show that new product strategy inﬂuences
+the impact of certain NPD acceleration approaches on new
+product proﬁtability. Pioneers can use only two NPD acceler-
+ation approaches (i.e., implementation of support systems and
+techniques, and emphasis on customer) to improve proﬁtability,
+while fast followers can implement ﬁve approaches (i.e., lead
+user involvement, reduction of parts and components, training
+and rewarding of employees, stimulating interfunctional co-
+ordination, and emphasis on the customer). A comparison
+of the proﬁt impact of the acceleration approaches between
+both strategy types shows that the effectiveness of only one
+NPD acceleration approach (i.e., emphasis on customer) is
+independent upon the ﬁrm’s new product strategy. The impact
+on new product proﬁtability of the other approaches depends
+on the ﬁrm’s new product strategy.
+
+An important conclusion with regard to these ﬁndings, es-
+pecially if we also keep the ﬁndings from our additional anal-
+ysis with regard to late followers in mind, is that new product
+strategy is a major factor internal to organizations that deter-
+mine the speed and proﬁtability effectiveness of adopting spe-
+ciﬁc NPD acceleration approaches. This ﬁnding does not sug-
+gest that the external environment is not important with regard
+to the implementation decision, because the ﬁrm’s new product
+strategy incorporates, articulates and reﬂects on management’s
+perceived market environment [37], [61], [63]. The implica-
+tion is that the ﬁrm’s new product strategy, as a response to
+the market environment, should guide the new product team’s
+decision with regard to which NPD acceleration approaches
+to use to increase development speed or improve new product
+proﬁtability.
+
+VIII. SUMMARY
+
+To summarize, this papers message is that ﬁrms should
+implement the appropriate NPD acceleration approaches to
+
+
+LANGERAK AND HULTINK: IMPACT OF NEW PRODUCT DEVELOPMENT ACCELERATION APPROACHES ON SPEED AND PROFITABILITY
+
+39
+
+achieve the distinct NPD objectives of development speed and
+new product proﬁtability. Moreover, our research provides
+empirical conﬁrmation that speed and proﬁtability yield signif-
+icant improvements in ﬁrm ﬁnancial performance. Our results
+also suggest that the inﬂuence of the apposite NPD acceleration
+approaches on development speed and new product proﬁtability
+depends on the ﬁrm’s new product strategy.
+
+IX. LIMITATIONS AND SUGGESTIONS FOR FURTHER RESEARCH
+
+As with any research, our study possesses certain caveats
+that should be addressed in future research. First, although
+the study used data on industrial products from ﬁrms in dif-
+ferent industries, the hypothesized relationships need testing
+with other independent samples. This is especially important
+because the products included in our sample do not fully rep-
+resent the complete range of industrial products. Second, our
+data were collected using the key informant approach, which
+precludes a thorough analysis of validity and measurement
+error issues. An alternative may be to use multiple respondents
+
+from new product teams in future research. Third, out study
+used a single new product that was representative of the ﬁrm’s
+NPD-program. Future research might also consider using
+data on multiple new products embedded within the ﬁrms’
+NPD-program. Such a methodology would also enable us to
+use multilevel modeling techniques to test the hypotheses.
+Finally, because of the cross-sectional nature of this study,
+causal inferences need to be conﬁrmed by longitudinal studies.
+Besides issues arising from the limitations of this study,
+we have deﬁned three other avenues for future research. First,
+systematic research should be conducted that focuses on how
+the NPD acceleration approaches that have a positive effect on
+speed and proﬁtability are best implemented. Second, future
+research could investigate whether the effectiveness of the
+NPD acceleration approaches depends on the organizational
+structure of the NPD-process. Third, future research may also
+look at the impact of NPD acceleration approaches on market
+penetration time. Finally, it may be interesting to establish a
+logical and purposeful order of implementation of the NPD
+acceleration approaches.
+
+DESCRIPTION OF THE NINE NPD ACCELERATION APPROACHES
+
+APPENDIX A
+
+
+40
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+USE OF INDIVIDUAL TECHNIQUES WITHIN EACH ACCELERATION APPROACH
+
+APPENDIX B
+
+
+LANGERAK AND HULTINK: IMPACT OF NEW PRODUCT DEVELOPMENT ACCELERATION APPROACHES ON SPEED AND PROFITABILITY
+
+41
+
+REFERENCES
+
+[1] J. S. Armstrong and T. S. Overton, “Estimating nonresponse bias in mail
+
+surveys,” J. Market. Res., vol. 14, pp. 396–402, Aug. 1977.
+
+[2] R. P. Bagozzi and Y. Youjae, “On the evaluation of structural equation
+
+models,” J. Acad. Market. Sci., vol. 16, no. 1, pp. 74–94, 1988.
+
+[3] R. P. Bagozzi, Y. Yi, and L. W. Phillips, “Assessing construct validity in
+organizational research,” Admin. Sci. Quart., vol. 36, no. 3, pp. 421–458,
+1991.
+
+[4] H. Baumgartner and C. Homburg, “Applications of structural equation
+modeling in marketing and consumer research: A review,” Int. J. Res.
+Market., vol. 13, no. 2, pp. 139–161, 1996.
+
+[5] E. Carmel, “Cycle time in packages software ﬁrms,” J. Proc. Innov.
+
+Manage., vol. 12, no. 2, pp. 110–123, 1995.
+
+[6] K. B. Clark and T. Fujimoto, Product Development Performance:
+in the World Auto In-
+
+Strategy, Organization, and Management
+dustry. Boston, MA: Harvard Business School Press, 1991.
+
+[7] R. Cordero, “Managing for speed to avoid product obsolescence:
+A survey of techniques,” J. Proc. Innov. Manage., vol. 8, no. 4, pp.
+283–294, 1991.
+
+[8] A. Craig and S. Hart, “Where to now in new product development re-
+
+[28] E. J. Hultink, A. Grifﬁn, H. S. J. Robben, and S. Hart, “In search of
+generic launch strategies for new products,” Int. J. Res. Market., vol. 15,
+no. 3, pp. 269–285, 1998.
+
+[29] C. D. Ittner and D. F. Larcker, “Product development cycle time and
+organizational performance,” J. Market. Res., vol. 34, pp. 13–23, Feb.
+1997.
+
+[30] B. J. Jaworski and A. K. Kohli, “Supervisory feedback: Alternative types
+and their impact on salespeople’s performance satisfaction,” J. Market.
+Res., vol. 28, no. 2, pp. 190–201, 1991.
+
+[31] E. H. Kessler and A. K. Chakrabarti, “Speeding up the pace of new
+product development,” J. Proc. Innov. Manage., vol. 16, no. 3, pp.
+231–247, 1999.
+
+[32] T. D. Kuczmarksi, Managing New Products. Englewood Cliffs, NJ:
+
+Prentice-Hall, 1992.
+
+[33] M. Lambkin, “Order of entry and performance in new markets,”
+
+Strategic Manage. J., vol. 9, pp. 127–140, 1988. special issue.
+
+[34] F. Langerak, E. Peelen, and E. Nijssen, “A laddering approach to the use
+of methods and techniques to reduce the cycle time of new-to-the-ﬁrm
+products,” J. Proc. Innov. Manage., vol. 16, no. 2, pp. 173–182, 1999.
+
+[35] M. B. Lieberman and D. B. Montgomery, “First mover advantages,”
+
+Strategic Manage. J., vol. 9, no. 1, pp. 41–58, 1988.
+
+search,” Eur. J. Market., vol. 26, no. 11, pp. 1–49, 1992.
+
+[36] E. A. Locke and G. P. A. Lathman, Theory of Goal Setting and Task
+
+[9] C. M. Crawford, “The hidden costs of accelerated product development,”
+
+Performance. Englewood Cliffs, NJ: Prentice-Hall, 1990.
+
+J. Proc. Innov. Manage., vol. 9, no. 3, pp. 188–199, 1992.
+
+[10] F. Damanpour, K. A. Szabat, and W. M. Evan, “The relationship be-
+tween types of innovation and organizational performance,” J. Manage.
+Studies, vol. 26, pp. 587–601, Nov. 1989.
+
+[11] P. S. Davis, C. C. Dibrell, and B. D. Janz, “The impact of time on
+the strategy-performance relationship: Implications for managers,” Ind.
+Market. Manage., vol. 31, no. 4, pp. 339–347, 2002.
+
+[12] C. Dröge, J. Jayaram, and S. K. Vickery, “The ability to minimize the
+timing of new product development and introduction: An examination of
+antecedent factors in the North American automobile supplier industry,”
+J. Proc. Innov. Manage., vol. 17, no. 1, pp. 24–40, 2000.
+
+[13] B. Dumaine, “How managers can succeed through speed,” Fortune, vol.
+
+13, pp. 102–104, Feb. 1989.
+
+[14] P. C. Earley, G. B. Northcraft, C. Lee, and T. R. Lituchy, “Impact of
+process and outcome feedback on the relation of goal setting to task
+performance,” Acad. Manage. J., vol. 33, no. 1, pp. 87–105, 1990.
+
+[15] A. P. Emmanuelides, “Determinants of product development time: A
+framework for analysis,” Acad. Manage. Best Paper Proc., pp. 342–346,
+1991.
+
+[16] D. J. Flint, “Compressing new product success-to-success cycle time:
+Deep customer value understanding and idea generation,” Ind. Market.
+Manage., vol. 31, no. 4, pp. 305–315, 2002.
+
+[17] B. Gold, “Approaches to accelerating product and process development,”
+
+J. Proc. Innov. Manage., vol. 1, no. 1, pp. 81–88, 1987.
+
+[18] F. J. M. Gonzáles and T. M. B. Palacios, “The effect of new product
+development techniques on new product success in Spanish ﬁrms,” Ind.
+Market. Manage., vol. 31, no. 3, pp. 261–271, 2002.
+
+[19] A. Grifﬁn, “The effect of project and process characteristics on product
+development cycle time,” J. Market. Res., vol. 34, no. 1, pp. 24–35,
+1997a.
+
+[20]
+
+, “PDMA research on new product development practices:
+Updating trends and benchmarking best practices,” J. Proc. Innov.
+Manage., vol. 14, no. 6, pp. 429–458, 1997b.
+
+[21] A. Grifﬁn, “Product development cycle time for business-to-business
+
+products,” Ind. Market. Manage., vol. 31, no. 4, pp. 291–304, 2002.
+
+[22] A. Grifﬁn and A. L. Page, “PDMA success measurement project: Rec-
+ommended measures for product development success and failure,” J.
+Proc. Innov. Manage., vol. 13, no. 6, pp. 478–496, 1996.
+
+[23] A. K. Gupta, K. Brockhoff, and U. Weisenfeld, “Making trade-offs in
+the new product development process: A German/US comparison,” J.
+Proc. Innov. Manage., vol. 9, no. 1, pp. 11–18, 1992.
+
+[24] J. F. Hair, R. E. Anderson, R. L. Tatham, and W. C. Black, Multivariate
+
+Data Analysis. Englewood Cliffs, NJ: Prentice-Hall, 1998.
+
+[25] J. K. Han, N. Kim, and R. K. Srivastava, “Market orientation and orga-
+nizational performance: Is innovation a missing link?,” J. Market., vol.
+62, pp. 30–45, Oct. 1998.
+
+[26] J. L. Hartley, B. J. Zirger, and R. R. Kamath, “Managing the buyer-
+supplier interface for on-time performance in product development,” J.
+Oper. Manage., vol. 15, no. 1, pp. 57–70, 1997.
+
+[27] J. W. Henke, R. A. Krachenburg, and T. F. Lyons, “Cross-functional
+teams: Good concept, poor implementation,” J. Proc. Innov. Manage.,
+vol. 10, no. 3, pp. 216–229, 1993.
+
+[37] K. Matsuno and J. T. Mentzer, “The effects of strategy type on the market
+orientation-performance relationship,” J. Market., vol. 64, pp. 1–16, Oct.
+2000.
+
+[38] S. W. McDaniel and J. W. Kolari, “Marketing strategy implications of
+the miles and snow strategic typology,” J. Market., vol. 51, pp. 19–30,
+Oct. 1987.
+
+[39] E. F. McDonough, “Faster new product development: Investigating the
+effect of technology and characteristics of the project leader and team,”
+J. Proc. Innov. Manage., vol. 10, no. 3, pp. 241–250, 1993.
+
+[40] E. F. McDonough and G. Barczak, “Speeding up new product develop-
+ment: The effects of leadership style and source of technology,” J. Proc.
+Innov. Manage., vol. 8, no. 3, pp. 203–211, 1991.
+
+[41] A. Menon, J. Chowdhury, and B. A. Lukas, “Antecedents and outcomes
+of new product development speed: An interdisciplinary conceptual
+framework,” Ind. Market. Manage., vol. 31, no. 4, pp. 317–328, 2002.
+[42] C. Meyer, Fast Cycle Time: How to Align Purpose, Strategy, and Struc-
+
+ture of Speed. New York: Free Press, 1993.
+
+[43] M. R. Millson, S. P. Raj, and D. Wilemon, “Survey of major approaches
+for accelerating new product development,” J. Proc. Innov. Manage., vol.
+9, no. 1, pp. 53–69, 1992.
+
+[44] M. M. Montoya-Weiss and R. J. Calantone, “Determinants of new
+product performance: A review and meta-analysis,” J. Proc. Innov.
+Manage., vol. 11, no. 5, pp. 397–418, 1994.
+
+[45] C. Moorman and A. S. Miner, “The convergence of planning and exe-
+cution: Improvization in new product development,” J. Market., vol. 62,
+no. 3, pp. 1–20, 1998.
+
+[46] P. A. Murmann, “Expected development time reductions in the German
+mechanical engineering industry,” J. Proc. Innov. Manage., vol. 11, no.
+3, pp. 236–252, 1994.
+
+[47] J. C. Naman and D. P. Slevin, “Entrepreneurship and the concept of ﬁt: A
+model and empirical tests,” Strategic Manage. J., vol. 14, pp. 137–153,
+Feb. 1993.
+
+[48] E. Nijssen, A. R. Arbouw, and H. R. Commandeur, “Accelerating new
+product development: A preliminary empirical test of a hierarchy of im-
+plementation,” J. Proc. Innov. Manage., vol. 12, no. 2, pp. 99–109, 1995.
+[49] R. Osborne, “New product development—Lesser royals,” Industry-
+
+Week.com, Apr. 2002.
+
+[50] R. S. Pindyck and D. L. Rubinfeldt, Econometric Models & Economic
+
+Forecasting, 4th ed. New York: McGraw-Hill, 1998.
+
+[51] J. C. Polakoff, “Reducing manufacturing costs by reducing cycle time,”
+
+Corp. Controller, vol. 4, no. 2, pp. 62–64, 1991.
+
+[52] M. D. Rosenau, “Faster new product development,” J. Proc. Innov.
+
+Manage., vol. 5, no. 2, pp. 150–163, 1988.
+
+[53]
+
+, Faster New Product Development: Getting the Right Product to
+
+the Market Quickly. New York: AMACOM, 1990.
+
+[54] S. Sharma, R. M. Durand, and O. Gur-Arie, “Identiﬁcation and anal-
+ysis of moderator variables,” J. Market. Res., vol. 18, pp. 291–300, Aug.
+1981.
+
+[55] J. D. Sherman, W. E. Souder, and S. A. Jenssen, “Differential effects of
+the primary forms of cross functional integration on product develop-
+ment cycle time,” J. Proc. Innov. Manage., vol. 17, no. 4, pp. 257–267,
+2000.
+
+
+42
+
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 52, NO. 1, FEBRUARY 2005
+
+[56] J. B. E. M. Steenkamp and H. C. M. Van Trijp, “The use of LISREL in
+validating marketing constructs,” Int. J. Res. Market., vol. 8, no. 4, pp.
+283–299, 1991.
+
+[57] C. Terwiesh, C. Loch, and M. Niederkoﬂer, “When product development
+performance makes a difference: A statistical analysis in the electronics
+industry,” J. Proc. Innov. Manage., vol. 15, no. 1, pp. 3–15, 1998.
+
+[58] S. Thomke and E. von Hippel, “Customers as pioneers: A new way to
+
+create value,” Harvard Bus. Rev., vol. 80, no. 4, pp. 74–81, 2002.
+
+[59] G. L. Urban and J. R. Hauser, Design and Marketing of New Products,
+
+2nd ed. Englewood Cliffs, NJ: Prentice-Hall, 1993.
+
+[60] M. Vandenbosch and T. Clift, “Dramatically reducing cycle times
+through ﬂash development,” Long Range Planning, vol. 35, no. 6, pp.
+567–589, 2002.
+
+[61] J. M. Vernon, Market Structure and Industrial Performance: A Review
+
+of Statistical Findings. Boston, MA: Allyn & Bacon, 1972.
+
+[62] J. T. Vesey, “Time-to-market: Put speed in product development,” Ind.
+
+Market. Manage., vol. 21, no. 2, pp. 151–158, 1992.
+
+[63] O. C. Walker and R. W. Ruekert, “Marketing’s role in the implementa-
+tion of business strategies: A critical review and conceptual framework,”
+J. Market., vol. 51, pp. 15–33, Jul. 1987.
+
+[64] S. C. Wheelwright and K. B. Clark, Revolutionizing Product Develop-
+ment: Quantum Leaps in Speed, Efﬁciency, and Quality. New York:
+Free Press, 1992.
+
+[65] Z. Zhu, P. H. Meredith, and S. Makboonprasith, “Deﬁning critical ele-
+ments in JIT implementation: A survey,” Ind. Manage. Data Syst., vol.
+94, no. 5, pp. 3–10, 1994.
+
+Fred Langerak received the M.Sc. and Ph.D.
+degrees in economics and business from the Rot-
+terdam School of Economics, Erasmus University of
+Rotterdam, Rotterdam, The Netherlands.
+
+Currently, he is an Associate Professor of
+Marketing Strategy at
+the Rotterdam School of
+Management, Erasmus University. His papers have
+been published in such journals as the Journal of
+Product Innovation Management, the International
+Journal of Research in Marketing, R&D Manage-
+ment, and the Journal of Strategic Marketing and
+Industrial Marketing Management. His research interests include new product
+development, market orientation, and increasing returns.
+
+Dr. Langerak is a member of the American Marketing Association. He is on
+the Editorial Review Board of the Journal of Product Innovation Management
+
+Erik Jan Hultink received the M.Sc. degree in
+economics from the University of Amsterdam,
+Amsterdam, The Netherlands, and the Ph.D. degree
+from Delft University of Technology, Delft, The
+Netherlands.
+
+the Faculty of
+
+Currently, he is a Professor of New Product
+Marketing at
+Industrial Design
+Engineering, Delft University of Technology. His
+papers have been published in such journals as the
+International Journal of Research in Marketing, the
+Journal of High Technology Management Research,
+the Journal of Product Innovation Management, and in the PDMA Handbook of
+New Product Development. His research interests include new product launch,
+smart products, and new product success measures.
+
+Dr. Hultink is a member of the Product Development Management Organiza-
+tion. He is on the Editorial Review Board of the Journal of Product Innovation
+Management.
+

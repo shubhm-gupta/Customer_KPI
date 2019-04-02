@@ -1,0 +1,1866 @@
+Total Quality Management
+Vol. 18, No. 5, 555 – 569, July 2007
+
+An Empirical Investigation on the
+Economic Consequences of
+Customer Satisfaction
+
+SUI-HUA YU
+
+Department of Accounting & Information Technology, National Chung Cheng University, Chiayi, Taiwan
+
+ABSTRACT The relationship between customer satisfaction and economic returns has received
+growing attention in the customer satisfaction literature. However, there has been limited work
+linking customer satisfaction to customer proﬁtability. Speciﬁcally, most empirical studies
+conduct ﬁrm-wide or business-level tests, but few investigate if individual customers’ satisfaction
+with products or services drives their purchase intentions and economic contributions to the ﬁrm.
+Using panel data from 36 retail branch banks managed by an international ﬁnancial institution
+(RBANK), which consists of two customer satisfaction data-points over nine months and monthly-
+activity based customer proﬁtability data,
+this study examines how individual customers’
+satisfaction impacts customer revenue, customer costs, and customer proﬁtability. The results
+indicate that several dimensions of customer satisfaction are positively associated with individual
+customers’ repurchase intentions and ﬁrm reputation. The effect of the responsiveness dimension
+dominates the effect of other dimensions in most tests. At RBANK, individual-level customer
+revenue and costs both increase as customer satisfaction improves, but no signiﬁcant relation
+exists between customer satisfaction and customer proﬁtability. These ﬁndings shed light on
+several management
+retention, and the
+implementation of a balanced scorecard. Furthermore, this study highlights a way for managers
+to analyze customer value, which is beneﬁcial for long-term customer relationship management.
+
+segmentation, customer
+
+such as market
+
+issues,
+
+KEY WORDS: Customer satisfaction, customer proﬁtability, activity-based costing, banking
+industry
+
+Introduction
+
+In response to an increasingly competitive marketplace, a growing number of organiz-
+ations are actively using customer satisfaction measures in developing, monitoring, and
+evaluating product and service offerings (Anderson et al., 1994). More and more research
+
+Correspondence Address: Sui-Hua Yu, Department of Accounting & Information Technology, National Chung
+Cheng University, 168 University Rd. Min-Hsiung, Chia-Yi 621, Taiwan, Republic of China. Email:
+actshy@ccu.edu.tw
+
+1478-3363 Print/1478-3371 Online/07/050555 – 15 # 2007 Taylor & Francis
+DOI: 10.1080/14783360701240493
+
+
+556
+
+S.-H. Yu
+
+attention is also being devoted to factors contributing to desirable customer outcome (Liao
+& Chuang, 2004). It is widely believed that higher customer satisfaction leads to superior
+economic returns.
+
+To date, however, the empirical evidence is still mixed, although how customer satis-
+faction measures relate to ﬁnancial performance has been examined in some studies
+(e.g. Anderson et al., 1994; Ittner & Larcker, 1998a; Banker et al., 2000; Riley et al.,
+2003). Most of those studies used traditional accounting performance for a speciﬁc aggre-
+gated unit, such as ﬁrm-wide operating proﬁts or business-level returns on assets to
+measure ﬁnancial performance. Thus, the general belief that higher economic returns
+come from more satisﬁed customers still remains unproved.
+
+Using panel data from 36 retail branch banks managed by an international ﬁnancial
+institution, which consists of two customer satisfaction data-points over nine months
+and monthly-activity based proﬁt data, this study empirically examines two research ques-
+tions. (1) How will customer satisfaction affect existing customers’ purchase behavior? (2)
+Does higher customer satisfaction lead to higher customer revenue, costs, and proﬁtabil-
+ity? The evidence indicates that several dimensions of customer satisfaction are positively
+associated with individual customers’ repurchase intentions and ﬁrm reputation. The
+effect of the responsiveness dimension dominates the effect of other dimensions in most
+tests. Individual customer revenue and costs both increase as customer satisfaction
+improves. Surprisingly, no signiﬁcant relation exists between customer satisfaction and
+customer proﬁtability.
+
+Findings from this study shed light on several management areas. The ﬁrst is customer
+relationship management. Understanding how each dimension of customer satisfaction
+relates to repurchase intentions, customer revenue, costs, and proﬁts can assist managers
+in ﬁnding out those attributes most valued by customers and thus gives them guidance in
+delivering customer value to existing customers. The second is market segmentation.
+Cross-analyzing customers along two dimensions, i.e. customer satisfaction and proﬁtabil-
+ity, helps managers segment the market and further target customers. The third manage-
+ment area is a balanced scorecard. While implementing a balanced scorecard, managers
+have to translate missions and strategy into measurable objectives (Kaplan & Norton,
+1997). The ﬁnding on the link between customer satisfaction measures and future
+economic returns is beneﬁcial for managers to select lead indicators in the customer
+perspective of a balanced scorecard.
+
+The reminder of this study is organized as follows: related literature is reviewed in the
+next section. Research site and data collection are described in the third section. Esti-
+mation models and tests are developed in the fourth section. The results are presented
+in the ﬁfth section. Conclusions are summarized in the sixth section.
+
+Literature Review
+
+The beneﬁts of customer satisfaction are well recognized both in practice and in the mar-
+keting literature. In the academics, consistently providing high customer satisfaction is
+well acknowledged to be associated with higher customer loyalty and enhanced reputation
+(Fornell, 1992; Anderson & Sullivan, 1993; Wangnheim & Bayon, 2004). An enhanced
+reputation can further aid in introducing new products by providing instant awareness
+and the lowers costs of attracting new customers (Robertson & Gatignon, 1986;
+Schmalansee, 1978). Customer loyalty can lead to increased purchase intentions, helps
+
+
+Economic Consequences of Customer Satisfaction
+
+557
+
+to secure future revenues (Fornell, 1992; Rust & Zahorik, 1993; Rust & Keiningham,
+1994), reduces the costs of future transactions (Reichheld & Sasser, 1990), decreases
+price elasticity (Anderson, 1996), and minimizes the likelihood that customers will
+defect (Anderson & Sullivan, 1993). With the above fundamental belief, ﬁrms strive for
+higher customer satisfaction. Among 203 ﬁrms surveyed in 1996 on the uses, quality,
+and perceived importance of ﬁnancial and non-ﬁnancial performance measures, 85% of
+them highly valued customer satisfaction information and 37% link customer satisfaction
+measures to compensation (Ittner & Larcker, 1998b).
+
+Improving customer satisfaction is not costless. In economics, customer satisfaction is
+deﬁned as the function of product and service attributes. Offering more attributes desired
+by customers usually increases costs. Anderson et al. (1997) further divided quality into
+customization quality and standardization quality, demonstrating that customer satisfac-
+tion should trade off with productivity, while it is more dependent on customization
+quality. Costs of resources may be spent on activities not valued by customers. In addition,
+a time lag between when customer investments are done and when revenues are realized
+may hinder the relation between customer satisfaction and ﬁnancial performance (Foster
+& Gupta, 1997).
+
+To examine the causal relation between customer satisfaction and economic returns,
+several studies have adopted ﬁrm level and business unit level tests. Anderson et al.
+(1994) investigated how customer satisfaction is associated with ﬁnancial returns using
+a national customer satisfaction index and a traditional accounting measure, ROI
+(return on investment), and found that ﬁrm-wide ROI is positively affected by customer
+satisfaction, but not immediately realized. However, Anderson et al. (1997) saw that
+the relation is less signiﬁcant or even negative in service ﬁrms. Using a quarterly
+branch-level customer satisfaction index and four accounting performance variables
+from 73 retail branch banks, Ittner & Larcker (1998a) demonstrated that the increase in
+many measures of branch-level ﬁnancial performances come indirectly through growth
+in new customers, not directly through increased proﬁts from existing customers.
+
+Banker et al. (2000) used operating proﬁts per available room to measure ﬁnancial per-
+formance and veriﬁed its lead-lag relation with customer satisfaction (proxy by likelihood
+of customer return and customer complaints) for 18 hotels managed by one hotel corpor-
+ation. They also used Akaike’s Information Criterion (AIC) to determine the lag length
+and found that six months are appropriate. Westlund & Lothgren (2001) examined the
+interactions between quality, productivity, and economic performance in Swedish phar-
+macies and showed that improving customer satisfaction leads to an increase in pro-
+ductivity and cost efﬁciency. Using ﬁrm-level customer complaints and stock returns,
+Riley et al. (2003) found that customer dissatisfaction is negatively associated with
+stock returns. Matzler et al. (2005) analyzed 9-year data of the American Customer
+Satisfaction Index and Tobin’s Q from 99 companies and suggest that there is a positive
+relationship between ﬁrm-level customer satisfaction and shareholder value.
+
+Although the overall impact of customer satisfaction on ﬁnancial performance is partly
+revealed from these studies, we cannot see if individual customers’ purchase behaviors are
+driven by their satisfaction with services and/or products. Firm-wide or business-level
+analysis is not helpful for us to manage the relationship with individual customers
+either. However, until now, few studies have examined the link between a customer-
+level evaluation of a ﬁrm’s product or service offerings and customer-level proﬁtability.
+Foster & Gupta (1997) represented the ﬁrst examination of the relationship. They
+
+
+558
+
+S.-H. Yu
+
+developed an activity-based model to evaluate customer proﬁtability and collected satis-
+faction data from a wholesale beverage distributor company to examine the cross-section
+relation between customer satisfaction and customer proﬁtability. Using customer-level
+data from a telecommunications ﬁrm, Ittner & Larcker (1998a) discovered that future
+retention and revenues are positively associated with customer satisfaction, but they did
+not examine the impact of customer satisfaction on costs and proﬁts.
+
+To complement the above studies, this study not only examines the cross-sectional
+relation between customer satisfaction and individual customers’ purchase behavior as
+well as contemporaneous economic contributions, but also investigates how customer sat-
+isfaction affects future customer revenue, costs, and proﬁts. Furthermore, this study col-
+lects data from 36 retail branch banks managed by an international ﬁnancial institution.
+Compared with the beverage distributor company in Foster & Gupta (1997), the retail
+banks examined in this study are relatively more dependent on customization quality. In
+addition, both Foster & Gupta (1997) and Ittner & Larcker (1998a) investigated business
+customers, while this study focuses on consumers. Incremental evidence is provided on the
+link between individual-level customer satisfaction and economic contributions.
+
+Research Site and Data Collection
+
+Research Site
+
+The research site for this study is an international ﬁnancial institution (hereafter referred to
+as RBANK) having several lines of businesses such as credit cards, foreign exchange,
+savings, and loans. RBANK has a long history and high reputation in the market. It had
+36 domestic retail branch banks and 10 branch banks abroad during the period of this
+study. The focus of this study is on those customers having savings accounts in branches
+located within Taiwan.
+
+RBANK has implemented activity-based costing since 1996. The management consult-
+ant has been entrusted with the responsibility for directing an Activity-Based Costing
+(ABC) team to construct the system since then. Until the present, monthly customer
+revenue, costs and proﬁts are provided periodically to managers for decision-making.
+
+More and more private banks have been established in Taiwan since 1991, because of
+deregulation. The high level of competition in the banking industry has made it so that cus-
+tomer satisfaction cannot be overemphasized in Taiwan. Ever since 1996, RBANK has
+hired an international consulting ﬁrm to be responsible for periodical customer surveys
+and analysis every half year. In order to motivate better service quality, those customer
+satisfaction measures are also used to evaluate the performance of each bank branch
+and its employees.
+
+The researcher began to participate in designing the periodical customer survey in 1998.
+Data used in this study are from two surveys implemented in the beginning and the middle
+of 1998 respectively (hereafter referred to as the ﬁrst survey and the second survey).
+Although we would like to analyze earlier customer satisfaction data as well, we cannot
+do so, because of data unavailability. During the period of this study, the author worked
+with the management in RBANK to jointly develop the survey while the marketing con-
+sulting ﬁrm interviewed customers and collected data. For observing the dynamic change
+in customer satisfaction, consistency of the survey and subjects is maintained. The same
+survey was used in the second survey and the same customers were interviewed.
+
+
+Economic Consequences of Customer Satisfaction
+
+559
+
+Data Collection
+
+Monthly sales, expenses, and proﬁt data are obtained for a period of up to 9 months (begin-
+ning with January 1998) for the 891 customers from 36 branches. Originally, 900 custo-
+mers interviewed both in the ﬁrst survey and in the second survey were included in the
+sample, but some were excluded due to data incompleteness. Hence, the ﬁnal sample
+includes only 891 customers. The ﬁnancial data for individual customers are provided
+from the department responsible for the Activity-Based Costing system. Other data on cus-
+tomers’ characteristics are directly retrieved from the customer database of RBANK.
+Company documents and interviews with senior managers and corporate staff provides
+qualitative data on the implementation of the Activity-Based Costing and savings business.
+
+Variable Measurement
+
+Customer Satisfaction Measures
+
+At least two different conceptualizations of customer satisfaction can be distinguished:
+transaction-speciﬁc and cumulative (Boulding et al., 1993). The cumulative perspective
+is used in this study, because we want to examine how customers’ aggregate consumption
+experiences with services impact their proﬁt contributions to the ﬁrm over time.
+
+Kaplan & Norton (1997) indicated that the three important performance drivers of custo-
+mer satisfaction are price, time, and quality. Using the original SERVQUAL scales designed
+by Parasuraman et al. (1988) as a guide to measure service quality and after making necess-
+ary revisions, we group 26 – 33 questions to form multiple measures for the six dimensions of
+customer satisfaction. They are price, speed, reliability, responsiveness, empathy, and tan-
+gibles. A seven-point scale (from the most satisﬁed to the most dissatisﬁed) is used in the
+design of the survey. The customer satisfaction survey was pre-tested. Ratings on those
+questions corresponding to the same dimension are averaged. The six average ratings are
+then obtained to measure each dimension of customer satisfaction.
+
+Repurchase Intentions and Reputation Measures
+
+Two questions relating to customers’ willingness to have an ongoing relation with
+RBANK are used to measure customers’ repurchase intentions. As for reputation, one
+question about how likely is it that customers will recommend the services of RBANK
+to others is designed.
+
+Customer Proﬁtability Measure
+
+According to Kaplan & Cooper (1998), an activity-based costing system allows companies
+to measure individual and aggregate customer proﬁtability. Customer revenue, costs, and
+proﬁt data used in this study are all provided by RBANK’s internal cost accounting
+system. They are all outputs of an activity-based cost system. The computation of custo-
+mer proﬁtability in the system is described as follows.
+
+Monthly transaction data are downloaded from RBANK’s mainframe. Interest reven-
+ues and interest costs are then directly traced to each account. No matter if the trans-
+actions are traded in front of the counters or through automated teller machines
+(ATM), activity costs are accrued to each account based on each savings account’s con-
+sumption of activity drivers. There are more than 30 activities provided, such as cash
+
+
+560
+
+S.-H. Yu
+
+deposit, cash withdrawal, and account opening. After deducting each account’s interest
+costs and activity costs from interest revenues, each account’s proﬁtability is produced.
+Finally, customer proﬁtability is determined by summing all of the individual customer-
+related accounts’ proﬁtability.
+
+In this study, activity cost and customer proﬁt data from the activity-based costing
+system are used to estimate the relation between customer satisfaction and customer
+costs and proﬁts. The average account balance, not interest revenue, is used to evaluate
+the relation between customer satisfaction and customer revenue, because we want to
+investigate the direct effect of customer satisfaction on customers’ changes in their pur-
+chases. Thus, this removes the effect of a varying yield rate in different kinds of
+savings businesses. The variables of this study are shown in Table 1.
+
+Control Variables
+
+Individual customer’s preferences and purchase powers vary. Dummy variables for demo-
+graphic variables, such as sex and education degree, are used to capture individual effects
+on ﬁnancial performance.
+
+Estimation Models and Tests
+
+The Impact of Customer Satisfaction on Repurchase Intentions and Reputation
+
+Figure 1 summarizes the hypothesized link relating customer satisfaction to repurchase
+intentions, reputation, and economic returns in this study. First of all, the relation
+between overall customer satisfaction and each dimension of customer satisfaction
+measures is estimated in the following speciﬁcation:
+
+1 Fi þ hT
+
+0 þ dT
+TSATim ¼ aT
+3 EDU03i þ gT
+þ gT
+þ bT
+3 EMPim þ bT
+
+2 AGE02i þ hT
+
+3 AGE03i þ hT
+
+4 EDU04i þ gT
+4 RELim þ bT
+
+5 RESim þ bT
+
+5 EDU05i þ bT
+
+4 AGE04i þ gT
+1 PRIim þ bT
+m þ 1T
+
+6 TANim þ mT
+
+im
+
+2 EDU02i
+
+2 SPEim
+
+(1)
+
+Variable
+
+(L)RES
+(L)SPE
+(L)EMP
+(L)REL
+(L)TAN
+(L)PRI
+TSAT
+CONT
+
+REC
+
+(F )PROFIT
+(F )REV
+(F )COST
+
+Table 1. Deﬁnitions of variables
+
+Deﬁnitions
+
+(Lagged) Customer rating on customer satisfaction dimension: responsiveness.
+(Lagged) Customer rating on customer satisfaction dimension: speed.
+(Lagged) Customer rating on customer satisfaction dimension: empathy.
+(Lagged) Customer rating on customer satisfaction dimension: reliability.
+(Lagged) Customer rating on customer satisfaction dimension: tangibles.
+(Lagged) Customer rating on customer satisfaction dimension: price.
+Current rating on total customer satisfaction.
+Current rating on individual customer’s willingness to continually
+trade with RBANK.
+Current ratings on individual customer’s willingness to recommend
+the service of RBANK to others.
+(Future) Current proﬁts per customer.
+(Future) Current revenues per customer.
+(Future) Current activity costs per customer.
+
+
+Economic Consequences of Customer Satisfaction
+
+561
+
+Figure 1. Relation between customer satisfaction, repurchase intentions, enhanced reputation, and
+ﬁnancial performance. (The area surrounded by dotted lines is beyond the scope of this research.
+It is shown to present the overall conceptual framework and to highlight the differences between
+
+this study and prior related studies.)
+
+Model (1) speciﬁes total customer satisfaction as a function of the six customer satisfac-
+tion measures. Demographic dummies are also included to control for the impact of the
+individual effect on customer satisfaction measures. Because the customers in our
+sample are from 36 different branches, the varying differences between those branches
+in location, service, size, and functions may impact those relations we want to investi-
+gate. Thus, mT
+m, the random disturbances characterizing branch m, is used to capture the
+impact of those factors speciﬁc to each branch (Greene, 1997). Actually, the ﬁxed effect
+model is another approach in controlling for group effects, which is an appropriate
+model speciﬁcation only when we are conﬁdent that the differences between units can
+be viewed as parametric shifts of the regression function. According to Greene
+(1997), the Hausman test is used in this study to test which model ﬁts the data better.
+Most results accept
+is correct.
+Hence, the random effect model is adopted.
+
+the random effect model
+
+the null hypothesis that
+
+We next focus on the ﬁrst research question. How customer satisfaction affects
+repurchase intentions is evaluated by estimating the relation between the six customer
+satisfaction measures and customers’ willingness
+to have an ongoing relation
+with RBANK. Furthermore, we regress customers’ willingness to recommend services
+on each customer satisfaction measures to evaluate the reputation impact. The
+following models are speciﬁed for estimation using panel data for 891 customers
+
+
+562
+
+S.-H. Yu
+
+1 Fi þ hC
+
+from 36 branches:
+CONTim ¼ aC
+0 þ dC
+3 EDU03i þ gC
+þ gC
+þ bC
+4 RELim þ bC
+0 þ dR
+RECim ¼ aR
+1 Fi þ hR
+3 EDU03i þ gR
+þ gR
+þ bR
+4 RELim þ bR
+
+2 AGE02i þ hC
+
+3 AGE03i þ hC
+
+4 EDU04i þ gC
+5 RESim þ bC
+2 AGE02i þ hR
+
+6 TANim þ mC
+3 AGE03i þ hR
+
+5 EDU05i þ bC
+m þ 1C
+4 AGE04i þ gR
+1 PRIim þ bR
+
+4 EDU04i þ gR
+5 RESim þ bR
+
+5 EDU05i þ bR
+m þ 1R
+
+6 TANim þ mR
+
+im
+
+im
+
+4 AGE04i þ gC
+1 PRIim þ bC
+
+2 EDU02i
+2 SPEim þ bC
+
+3 EMPim
+
+(2)
+
+2 EDU02i
+2 SPEim þ bR
+
+3 EMPim
+
+(3)
+
+The Impact of Customer Satisfaction on Customer Revenue
+
+The ﬁrst test of the second research question concerns how customer satisfaction measures
+affect current customer revenue and future customer revenue. We model the relation as
+equation (4). Since the formation of customer satisfaction is a dynamic process, Bolton
+& Drew (1991) examined the impact of service changes on customer attitudes using longi-
+tudinal data and found that current attitudes are inﬂuenced by prior attitudes. We regress
+current customer revenue, one-period ahead customer revenue, and two-period ahead cus-
+tomer revenue on six dimensions of current customer satisfaction (in the second survey)
+while controlling for the impact of past customer satisfaction measures (in the ﬁrst
+survey).
+0 þ dF
+(F)REVim ¼ aF
+3 EDU03i þ gF
+þ gF
+þ bF
+3 LEMPim þ bF
+9 EMPim þ bF
+þ bF
+
+4 AGE04i þ gF
+1 LPRIim þ bF
+6 LTANim þ bF
+m þ 1F
+
+5 EDU05i þ bF
+5 LRESim þ bF
+11RESim þ bF
+
+4 EDU04i þ gF
+4 LRELim þ bF
+10RELim þ bF
+
+2 LSPEim
+7 PRIim þ bF
+
+2 AGE02i þ hF
+
+3 AGE03i þ hF
+
+12TANim þ mF
+
+1 Fi þ hF
+
+2 EDU02i
+
+8 SPEim
+
+(4)
+
+im
+
+The Impact of Customer Satisfaction on Customer Costs
+
+We test the relation between customer satisfaction and customer costs in this subsection
+to investigate further the second research question. Anderson et al. (1997) showed that
+the association between changes in customer satisfaction and changes in productivity is
+positive for goods, but negative for services. Using our data in the service sector, we
+would like to gain further implications about whether higher satisfaction leads to higher
+costs. The speciﬁcation is as follows:
+
+2 AGE02i þ hO
+
+3 AGE03i þ hO
+
+1 Fi þ hO
+
+(F)COSTim ¼ aO
+0 þ dO
+3 EDU03i þ gO
+þ gO
+þ bO
+3 LEMPim þ bO
+8 SPEim þ bO
+þ bO
+þ bO
+11RESim þ bO
+
+4 EDU04i þ gO
+4 LRELim þ bO
+9 EMPim þ bO
+12TANim þ mO
+
+10RELim
+m þ 1O
+
+m
+
+4 AGE04i þ gO
+1 LPRIim þ bO
+6 LTANim þ bO
+
+5 EDU05i þ bO
+5 LRESim þ bO
+
+2 EDU02i
+
+2 LSPEim
+
+7 PRIim
+
+(5)
+
+
+Economic Consequences of Customer Satisfaction
+
+563
+
+The Impact of Customer Satisfaction on Customer Proﬁtability
+
+For the ﬁnal test of the second research question, model (6) is speciﬁed. The relation
+between customer satisfaction and proﬁtability is estimated by regressing current cus-
+tomer proﬁts, one-period ahead customer proﬁts, and two-period ahead customer
+proﬁts on six dimensions of current customer satisfaction (in the second survey)
+while controlling for the impact of past customer satisfaction measures (in the ﬁrst
+survey) in model (6).
+
+1Fi þ hI
+
+0 þ dI
+(F)PROFITim ¼ aI
+3EDU03i þ gI
+þ gI
+3LEMPim þ bI
+þ bI
+þ bI
+8SPEim þ bI
+12TANim þ mI
+þ bI
+
+4EDU04i þ gI
+4LRELim þ bI
+9EMPim þ bI
+m þ 1I
+
+m
+
+2AGE02i þ hI
+
+3AGE03i þ hI
+
+4AGE04i þ gI
+
+2EDU02i
+
+5EDU05i þ bI
+5LRESim þ bI
+
+1LPRIim þ bI
+6LTANim þ bI
+
+2LSPEim
+
+7PRIim
+
+10RELim þ bI
+
+11RESim
+
+(6)
+
+Empirical Results
+
+Descriptive Statistics
+
+Table 2 presents descriptive statistics for all 891 customers. On average, the ratings in six
+customer satisfaction dimensions fall within the range of four to six points, indicating
+acceptable to very satisﬁed degrees. The standard deviations of the ratings in those dimen-
+sions are mostly smaller than one, which shows a small rating variation.
+
+Table 3 presents the correlation matrix. Total customer satisfaction is 1% signiﬁcantly
+positively associated with each satisfaction dimension and the responsiveness (RES )
+dimension has the highest correlation (r ¼ 0.69) coefﬁcient. All of the six customer satis-
+faction measures are positively correlated with customers’ willingness to have an ongoing
+relation with RBANK and customers’ willingness to recommend services to others, which
+is consistent with our hypothesized relation between customer satisfaction measures and
+repurchase intentions as well as ﬁrm reputation. As for the correlation between satisfaction
+measures and customer revenue and costs, most dimensions of customer satisfaction are
+
+Table 2. Summary statistics on customer satisfaction measures
+
+Variable
+
+RES
+SPE
+EMP
+REL
+TAN
+PRI
+TSAT
+CON
+REC
+
+N
+
+891
+891
+891
+890
+891
+878
+891
+891
+891
+
+Mean
+
+5.75
+5.37
+5.47
+5.95
+5.64
+4.92
+5.84
+5.95
+5.33
+
+Std Dev.
+
+0.70
+0.83
+0.84
+0.63
+0.62
+0.91
+0.72
+0.64
+1.08
+
+(See Table 1 for deﬁnitions of variables).
+
+
+564
+
+S.-H. Yu
+
+Variable
+
+S1
+
+S2
+
+S3
+
+S4
+
+S5
+
+S6
+
+TS
+
+CT
+
+RC
+
+Table 3. Correlation matrix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.61
+
+0.62
+0.60
+
+
+
+
+
+
+
+
+
+
+0.65
+0.49
+0.49
+
+0.52
+0.46
+0.44
+0.48
+
+0.34
+0.38
+0.37
+0.30
+0.39
+
+0.63
+0.66
+0.68
+0.49
+0.32
+0.69
+0.30
+0.33
+
+RES (S1)
+0.65
+SPE (S2)
+0.55
+EMP (S3)
+0.58
+REL (S4)
+0.55
+TAN (S5)
+0.51
+PRI (S6)
+0.39
+TSAT (TS )
+0.37
+0.07 0.24
+CONT (CT )
+REC (RC )
+0.39
+0.19
+PROFIT (PR) 0.01 0.01 -0.01 -0.00 0.02 -0.06
+-0.02 -0.01 0.02
+REV (RE)
+0.00 0.04
+0.03
+0.04 0.01 -0.06
+0.65
+0.07 0.08 0.23
+COST (AC )
+0.01 0.01 -0.03
+0.05
+
+0.30
+0.22
+0.27
+0.25
+0.26
+0.19
+0.34
+0.42
+
+0.06
+0.00
+0.07 0.07 0.02
+
+0.24
+0.15
+0.18
+0.17
+0.24
+0.06
+0.18
+
+0.62
+0.51
+0.43
+0.35
+0.56
+0.22
+0.24
+
+0.54
+0.45
+0.36
+0.59
+0.22
+0.29
+
+0.47
+0.31
+0.58
+0.21
+0.25
+
+0.40
+0.48
+0.26
+0.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+þ
+þ
+
+0.42
+
+0.06
+
+
+
+
+þ
+
+þ
+
+
+
+
+
+
+
+
+
+
+þ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PR
+RE
+0.08 0.09
+0.01
+-0.01
+-0.00
+0.01
+0.01
+0.01
+0.07 0.07
+-0.08 -0.11
+0.03
+0.03
+0.13
+0.09
+0.11
+0.14
+0.79
+
+
+
+
+
+
+
+0.34
+
+AC
+0.07
+0.02
+0.02
+0.02
+0.03
+-0.11
+0.04
+0.14
+0.09
+0.32
+0.62
+
+
+
+
+
+
+
+
+
+
+þ
+
+
+
+
+
+
+
+
+Spearman coefﬁcients in the upper triangle and Pearson coefﬁcients in the lower triangle.
+ ,  and þ indicate signiﬁcance at 1%, 5%, and 10% two-tails, respectively.
+All correlations are based on the polled data and should be interpreted with caution.
+(See Table 1 for deﬁnitions of variables).
+
+positively correlated with revenues and costs, except for the price dimension. However, no
+signiﬁcant and consistent relation exists between customer satisfaction measures and cus-
+tomer proﬁts. Given that, all correlations are based on pooled data and should not provide
+direct persuasive evidence for the tests in this study.
+
+Relation between Customer Satisfaction and Repurchase Intentions
+
+Table 4 shows that overall customer satisfaction depends more on the responsiveness
+dimension while reliability and the price dimension have the least impact on overall evalu-
+ation. Table 4 presents GLS estimates of the relation between customer satisfaction and
+customers’ repurchase intentions. Customer satisfaction dimensions, responsiveness
+(RES ) and tangible (TAN ), are both 1% signiﬁcantly positively associated with customers’
+willingness for an ongoing business relationship. The result supports that customer satis-
+faction positively impacts customers’ repurchase intentions. This is consistent with the
+hypothesized relation.
+
+Relation between Customer Satisfaction and Reputation
+
+As shown in Table 4, responsiveness (RES ), tangible (TAN ), and empathy dimension
+(EMP) all signiﬁcantly and positively impact customers’ likelihood of recommending
+the services to others and the responsiveness (RES ) dimension has the greatest impact.
+Hence, the hypothesis that customer satisfaction has a positive effect on reputation is
+strongly supported.
+
+Relation between Customer Satisfaction and Financial Performance
+
+From Table 5, we ﬁnd that the impact of current customer satisfaction on current rev-
+enues, one-period ahead revenues, and two-period ahead revenues is signiﬁcantly
+
+
+Economic Consequences of Customer Satisfaction
+
+565
+
+Table 4. Regression results relating six dimensions of customer satisfaction to total customer satis-
+
+faction, repurchase intentions, and reputation
+
+Coefﬁcient
+
+Variables
+
+(Predicted sign)
+
+Intercept
+F
+AGE02
+AGE03
+AGE04
+EDU02
+EDU03
+EDU04
+EDU05
+PRI
+SPE
+EMP
+REL
+RES
+TAN
+
+R 2
+
+a0
+d1
+h1
+h2
+h3
+g1
+g2
+g3
+g4
+
+b1 (þ)
+b2 (þ)
+b3 (þ)
+b4 (þ)
+b5 (þ)
+b6 (þ)
+
+Total customer
+
+satisfaction
+
+Repurchase
+intentions
+
+
+
+2.599
+
+(0.009)
+
+
+
+10.163
+
+(0.000)
+
+20.342 (0.732)
+0.479 (0.632)
+20.117 (0.907)
+20.255 (0.799)
+0.117 (0.907)
+0.059 (0.953)
+0.560 (0.575)
+0.838 (0.402)
+1.148 (0.251)
+(0.000)
+4.585
+2.497 (0.013)
+1.553 (0.121)
+6.948
+5.595
+
+(0.000)
+(0.000)
+
+
+
+
+
+
+0.532 (0.594)
+1.020 (0.308)
+0.591 (0.555)
+20.270 (0.787)
+0.170 (0.865)
+20.466 (0.641)
+0.630 (0.528)
+0.460 (0.645)
+21.985 (0.047)
+0.562 (0.574)
+20.694 (0.488)
+0.877 (0.380)
+4.516
+3.607
+
+
+
+
+(0.000)
+(0.000)
+
+0.387
+
+0.110
+
+Reputation
+
+
+
+(0.003)
+
+3.013
+1.411 (0.158)
+0.697 (0.486)
+1.393 (0.164)
+1.423 (0.155)
+20.969 (0.333)
+20.036 (0.971)
+0.535 (0.593)
+0.642 (0.521)
+1.630 (0.103)
+0.371 (0.710)
+2.269 (0.023)
+21.104 (0.270)
+
+(0.000)
+(0.006)
+
+
+
+
+4.156
+2.777
+
+0.127
+
+p-value in parentheses.
+ ,  and þ indicate signiﬁcance at 1%, 5%, and 10% two-tails, respectively.
+F is a dummy variable representing the sex of customers, ¼ 1 for female, and ¼ 0 for male customers.
+AGE is a dummy variable representing the age classiﬁcations of customers:
+AGE02 ¼ 1 for ages 30 – 39, and ¼ 0 otherwise.
+AGE03 ¼ 1for ages 40 – 49, and ¼ 0 otherwise.
+AGE04 ¼ 1 for ages 50 and above, and ¼ 0 otherwise.
+EDU is a dummy variable representing the education classiﬁcations of customer:
+EDU02 ¼ 1 for university degree, and ¼ 0 otherwise.
+EDU03 ¼ 1 for college degree, and ¼ 0 otherwise.
+EDU04 ¼ 1 for senior high school degree, and ¼ 0 otherwise.
+EDU05 ¼ 1 for junior high school degree and under, and ¼ 0 otherwise.(See Table 1 for deﬁnitions of other
+variables).
+
+positive in the responsiveness dimension (RES ) after controlling for the effect of past
+customer satisfaction measures. This ﬁnding supports the fact that improving customer
+satisfaction has a positive effect on customer revenue. As for the cost side, a signiﬁcant
+positive relation exists between the speed dimension (SPE), current customer costs,
+one-period ahead customer costs, and two-period ahead customer costs after controlling
+for the past customer satisfaction measures. However,
+the impact of the empathy
+dimension (EMP) is negative. It is shown that different economic impacts have been
+realized along different dimensions of customer satisfaction. However, from Table 6
+there is no signiﬁcant relation between current customer satisfaction and proﬁts, one-
+period-ahead proﬁts, and two-period-ahead proﬁts after controlling for the lagged
+customer satisfaction. Furthermore, the responsiveness dimension of customer satisfac-
+tion explained most variances in repurchase intentions and customer revenue. This
+implies that multi-dimensional customer satisfaction measures are necessary for
+managers to investigate what customers value most. Single customer satisfaction
+offers limited implications.
+
+
+Table 5. Regression results relating six dimensions of customer satisfaction to current and future customer revenue/costs
+
+Revenue
+
+Costs
+
+Variables
+
+(Predicted sign)
+
+Current
+
+One-period ahead
+
+Two-period ahead
+
+Current
+
+One-period ahead
+
+Two-period ahead
+
+Coefﬁcients
+
+Intercept
+F
+AGE02
+AGE03
+AGE04
+EDU02
+EDU03
+EDU04
+EDU05
+LPRI
+LSPE
+LEMP
+LREL
+LRES
+LTAN
+PRI
+SPE
+EMP
+REL
+RES
+TAN
+
+R 2
+
+a0
+d1
+h1
+h2
+h3
+g1
+g2
+g3
+g4
+b1 (þ)
+b2 (þ)
+b3 (þ)
+b4 (þ)
+b5 (þ)
+b6 (þ)
+b7 (þ)
+b8 (þ)
+b9 (þ)
+b10 (þ)
+b11 (þ)
+b12 (þ)
+
+
+
+
+1.122 (0.262)
+0.517 (0.605)
+2.856
+(0.004)
+4.178
+(0.000)
+2.530 (0.011)
+21.027 (0.305)
+20.599 (0.549)
+21.504 (0.133)
+0.052 (0.959)
+0.736 (0.462)
+21.027 (0.305)
+0.756 (0.450)
+0.128 (0.898)
+21.332 (0.183)
+20.610 (0.542)
+20.971 (0.332)
+1.502 (0.133)
+21.347 (0.178)
+20.211 (0.833)
+
+þ
+
+(0.054)
+
+1.925
+0.428 (0.669)
+0.456
+
+þ
+
+
+
+
+(0.070)
+
+0.660 (0.510)
+0.550 (0.583)
+3.094
+(0.002)
+4.447
+(0.000)
+2.251 (0.024)
+21.184 (0.236)
+20.763 (0.446)
+21.816
+20.043 (0.966)
+0.759 (0.448)
+20.666 (0.506)
+0.457 (0.647)
+20.116 (0.907)
+21.052 (0.293)
+20.376 (0.707)
+20.902 (0.367)
+1.460 (0.144)
+21.127 (0.260)
+20.094 (0.925)
+
+þ
+
+(0.057)
+
+1.901
+0.367 (0.713)
+0.590
+
+0.385 (0.701)
+0.836 (0.403)
+2.998
+4.572
+1.929
+
+(0.003)
+(0.000)
+(0.054)
+
+
+
+þ
+
+21.358 (0.174)
+20.957 (0.339)
+22.113 (0.035)
+20.210 (0.834)
+0.706 (0.480)
+20.162 (0.871)
+0.103 (0.918)
+20.301 (0.763)
+20.905 (0.366)
+20.248 (0.804)
+20.765 (0.444)
+1.376 (0.169)
+20.918 (0.359)
+0.204 (0.838)
+1.837
+0.049 (0.961)
+0.616
+
+þ
+
+(0.066)
+
+0.252 (0.801)
+0.809 (0.419)
+0.944 (0.345)
+1.255 (0.209)
+0.839 (0.402)
+1.108 (0.268)
+0.924 (0.355)
+1.031 (0.303)
+20.312 (0.755)
+0.149 (0.882)
+0.580 (0.562)
+20.714 (0.476)
+21.058 (0.290)
+0.109 (0.913)
+20.703 (0.482)
+0.000 (0.999)
+2.648 (0.008)
+(0.095)
+
+21.670
+
+þ
+
+0.322 (0.747)
+1.458 (0.145)
+20.060 (0.953)
+
+0.317
+
+20.1041 (0.298)
+
+þ
+
+0.494 (0.613)
+1.477 (0.140)
+1.801
+(0.072)
+2.229 (0.026)
+0.191 (0.848)
+0.094 (0.925)
+0.431 (0.666)
+20.651 (0.515)
+0.192 (0.847)
+21.348 (0.178)
+0.291 (0.771)
+20.217 (0.828)
+0.400 (0.689)
+1.235 (0.217)
+20.083 (0.934)
+2.318 (0.021)
+23.177 (0.002)
+1.256 (0.209)
+0.343 (0.732)
+0.474 (0.636)
+0.345
+
+1.164 (0.244)
+0.161 (0.538)
+1.568 (0.117)
+1.211 (0.226)
+0.386 (0.700)
+0.467 (0.640)
+20.157 (0.875)
+0.812 (0.417)
+0.087 (0.930)
+0.838 (0.402)
+20.950 (0.342)
+20.540 (0.589)
+20.526 (0.599)
+0.421 (0.674)
+20.689 (0.491)
+0.350 (0.727)
+1.944
+
+þ
+
+(0.052)
+
+20.535 (0.593)
+21.359 (0.174)
+0.955 (0.340)
+20.326 (0.744)
+
+0.232
+
+5
+6
+6
+
+S
+.
+-
+
+H
+
+.
+
+Y
+u
+
+p-value in parentheses.
+ ,  and þ indicate signiﬁcance at 1%, 5%, and 10% two-tails, respectively.
+F is a dummy variable representing the sex of customers, ¼ 1 for female, and ¼ 0 for male customers.
+AGE is a dummy variable representing the age classiﬁcations of customers:
+AGE02 ¼ 1 for ages 30-39, and ¼ 0 otherwise.
+AGE03 ¼ 1for ages 40-49, and ¼ 0 otherwise.
+AGE04 ¼ 1 for ages 50 and above, and ¼ 0 otherwise.
+EDU is a dummy variable representing the education classiﬁcations of customer:
+EDU02 ¼ 1 for university degree, and ¼ 0 otherwise.
+EDU03 ¼ 1 for college degree, and ¼ 0 otherwise.
+EDU04 ¼ 1 for senior high school degree, and ¼ 0 otherwise.
+EDU05 ¼ 1 for junior high school degree and under, and ¼ 0 otherwise.
+(See Table 1 for deﬁnitions of other variables).
+
+
+Economic Consequences of Customer Satisfaction
+
+567
+
+Table 6. Regression results relating six dimensions of customer satisfaction to current and future
+
+customer proﬁtability
+
+Coefﬁcient
+
+Variables
+
+(Predicted sign)
+
+Current
+
+Proﬁts
+
+One-period
+
+ahead
+
+Two-period
+
+ahead
+
+Intercept
+F
+AGE02
+AGE03
+AGE04
+EDU02
+EDU03
+EDU04
+EDU05
+LPRI
+LSPE
+LEMP
+LREL
+LRES
+LTAN
+PRI
+SPE
+EMP
+REL
+RES
+TAN
+R 2
+
+a0
+d1
+h1
+h2
+h3
+g1
+g2
+g3
+g4
+b1 (þ)
+b2 (þ)
+b3 (þ)
+b4 (þ)
+b5 (þ)
+b6 (þ)
+b7 (þ)
+b8 (þ)
+b9 (þ)
+b10 (þ)
+b11 (þ)
+b12 (þ)
+
+þ
+
+
+
+
+1.760
+
+(0.078)
+21.112 (0.266)
+
+2.966
+(0.006)
+4.454
+(0.000)
+2.091 (0.037)
+20.744 (0.457)
+20.858 (0.391)
+21.015 (0.310)
+20.113 (0.910)
+0.171 (0.864)
+22.488 (0.013)
+1.518 (0.129)
+20.468 (0.640)
+20.508 (0.612)
+0.969 (0.332)
+20.970 (0.332)
+0.888 (0.375)
+21.262 (0.207)
+20.699 (0.485)
+1.132 (0.258)
+20.015 (0.988)
+
+0.600
+
+0.755 (0.450)
+20.525 (0.600)
+
+
+
+
+2.885
+4.102
+
+(0.004)
+(0.000)
+
+10.172 (0.241)
+20.917 (0.360)
+21.171 (0.241)
+21.577 (0.115)
+20.798 (0.425)
+0.443 (0.656)
+21.152 (0.249)
+1.478 (0.139)
+20.905 (0.366)
+20.281 (0.779)
+0.956 (0.340)
+20.905 (0.365)
+1.364 (0.173)
+20.647 (0.518)
+20.850 (0.395)
+1.019 (0.308)
+20.237 (0.813)
+
+0.507
+
+
+
+þ
+
+(0.059)
+
+0.038 (0.970)
+20.504 (0.614)
+2.429 (0.015)
+4.098
+(0.000)
+0.980 (0.327)
+21.239 (0.215)
+21.236 (0.216)
+21.889
+21.189 (0.235)
+20.007 (0.994)
+0.391 (0.696)
+0.944 (0.345)
+20.871 (0.384)
+20.387 (0.699)
+1.334 (0.182)
+20.801 (0.423)
+1.382 (0.167)
+20.810 (0.418)
+20.167 (0.867)
+0.732 (0.464)
+20.674 (0.501)
+
+0.490
+
+p-value in parentheses.
+ ,  and þ indicate signiﬁcance at 1%, 5%, and 10% two-tails, respectively.
+F is a dummy variable representing the sex of customers, ¼ 1 for female, and ¼ 0 for male customers.
+AGE is a dummy variable representing the age classiﬁcations of customers:
+AGE02 ¼ 1 for ages 30 – 39, and ¼ 0 otherwise.
+AGE03 ¼ 1for ages 40 – 49, and ¼ 0 otherwise.
+AGE04 ¼ 1 for ages 50 and above, and ¼ 0 otherwise.
+EDU is a dummy variable representing the education classiﬁcations of customer:
+EDU02 ¼ 1 for university degree, and ¼ 0 otherwise.
+EDU03 ¼ 1 for college degree, and ¼ 0 otherwise.
+EDU04 ¼ 1 for senior high school degree, and ¼ 0 otherwise.
+EDU05 ¼ 1 for junior high school degree and under, and ¼ 0 otherwise.
+(See Table 1 for deﬁnitions of other variables).
+
+Conclusions
+
+Given the belief of practitioners on customer satisfaction and its importance for customer
+management decisions, some studies have empirically examined its relation with ﬁnancial
+performance and provided mixed evidence. However, most of these studies conduct ﬁrm-
+wide or business-level tests while few have investigated customer-level economic conse-
+quences. Although all three tests belong to the test of the ﬁnancial outcome of customer
+satisfaction, the implications behind them are quite different.
+
+
+568
+
+S.-H. Yu
+
+This study examines how individual customers’ satisfaction with services impacts their
+purchases and proﬁt contributions to the ﬁrm. From our empirical results, customer satis-
+faction is found to be positively associated with customers’ repurchase intentions and the
+ﬁrms’ reputation. The impact of overall customer satisfaction is largely attributable to the
+impact of the responsiveness dimension. While there is no signiﬁcant and positive relation
+between customer satisfaction and customer proﬁtability, customer satisfaction does have
+a positive impact on customer revenue and costs. This ﬁnding reveals that higher customer
+satisfaction leads to higher customer revenue and higher customer costs at the same time,
+and thus customer proﬁts remain unaffected.
+
+From the interviews with customers, we have found that customers feel safe depositing
+their money into RBANK and they believe interest rates are similar among different banks.
+This implies that service quality plays a more important role affecting customers’ satisfac-
+tion with RBANK. Looking back on the empirical results in this study, the effect of the
+responsiveness dimension is found to dominate the effect of the other dimensions in
+various tests. This dimension measures the front-end employees’ attitudes toward custo-
+mers. Combining this evidence altogether, the responsiveness dimension is demonstrated
+to be a key determinant of customer value and thus it signiﬁcantly affects customer’
+purchases at RBANK.
+
+In summary, our study makes two contributions to the literature. First, it provides evi-
+dence on the outcome of customer satisfaction in consumer research. The impacts of cus-
+tomer satisfaction on ﬁrm reputation and customers’ repurchase intentions are empirically
+validated. Second, using data from an activity-based system, we have documented the
+direct link between customer satisfaction and customer proﬁtability. The surprising ﬁnd-
+ings provide a different insight for the claim that higher customer satisfaction always
+comes with higher proﬁt contributions. Consistent with Anderson et al. (1997), a trade-
+off between customer satisfaction and productivity does exist in the service sector. Prac-
+tically, this study also highlights a way for managers to analyze customer value and its
+relation with customers’ purchase behavior. This is beneﬁcial for long-term customer
+relationship management.
+
+There are a number of limitations to this study. First of all, the results are derived based
+on data from a speciﬁc research site and thus may be generalized to other corporations
+with caution. Second, the interaction between six dimensions of customer satisfaction is
+not considered in this study. Taking those factors into account can offer a deeper under-
+standing of customer value and its relation with customers’ purchase behavior. In addition,
+future studies can extend to investigate more ﬁrms in the same industry or to examine ﬁrms
+from different industries for a better comparison. Another extension is to use more data-
+points over time to observe the longitudinal relation between the change in individual cus-
+tomer satisfaction and future proﬁtability. A more challenging extension is to measure
+individual customers’ lifelong economic contributions and to examine whether more sat-
+isﬁed customers have higher lifetime values.
+
+Acknowledgements
+
+The author would like to thank Professor Anne Wu and Professor Chee W. Chow for their
+insightful comments. In particular, data support from the research company is gratefully
+acknowledged.
+
+
+Economic Consequences of Customer Satisfaction
+
+569
+
+References
+
+Anderson, E. W. (1996) Customer satisfaction and price tolerance, Marketing Letters, 7(3), pp. 19 – 30.
+Anderson, E. W. & Sullivan, M.W. (1993) The antecedents and consequences of customer satisfaction for ﬁrms,
+
+Marketing Science, 12(2), pp. 125– 143.
+
+Anderson, E. W. et al. (1994) Customer satisfaction, market share, and proﬁtability: ﬁndings from Sweden,
+
+Journal of Marketing, 58, pp. 53 – 66.
+
+Anderson, E. W. et al. (1997) Customer satisfaction, productivity, and proﬁtability: differences between goods
+
+and services, Marketing Science, 16(2), pp. 129– 145.
+
+Banker, R. D. et al. (2000) An empirical investigation of an inventive plan that includes nonﬁnancial performance
+
+measures, The Accounting Review, 75 (1), pp. 65 – 92.
+
+Bolton, R. N. & Drew, J. H. (1991) A longitudinal analysis of the impact of service changes on customer attitudes,
+
+Journal of Marketing, 55, pp. 1 – 9.
+
+Boulding, W. et al. (1993) A dynamic process model of service quality: from expectation to behavioral intentions,
+
+Journal of Marketing Research, 30, pp. 7 – 27.
+
+Fornell, C. (1992) A national customer satisfaction barometer: the Swedish experience, Journal of Marketing, 56,
+
+pp. 6 – 21.
+
+Foster, G. & Gupta, M. (1997) The customer proﬁtability implications of customer satisfaction, Working paper,
+
+Stanford University and Washington University.
+
+Greene, W. (1997) Econometric Analysis, 3rd edn (New Jersey: Prentice-Hall).
+Ittner, C. D. & Larcker, D. F. (1998a) Are nonﬁnancial measures leading indicators of ﬁnancial performance? An
+
+analysis of customer satisfaction, Journal of Accounting Research, 36, pp. 1 – 35.
+
+Ittner, C. D. & Larcker, D. F. (1998b) Innovations in performance measurement: trends and research implications,
+
+Journal of Management Accounting Research, pp. 205 – 238.
+
+Kaplan, R. S. & Norton, D. P. (1997) The Balanced Scorecard: Translating Strategy into Action (Harvard
+
+Business School Press).
+
+Kaplan, R. S. & Cooper, R. (1998) Cost and Effect: Using Integrated Cost Systems to Drive Proﬁtability and Per-
+
+formance (Harvard Business School Press).
+
+Liao, H. & Chuang, A. (2004) A multilevel investigation of factors inﬂuencing employee service performance
+
+and customer outcomes, Academy of Management Journal, 47(1), pp. 41 – 58.
+
+Matzler, K. et al. (2005) The relationship between customer satisfaction and shareholder value, Total Quality
+
+Management and Business Excellence, 16(5), pp. 671– 680.
+
+Parasuraman, A. et al. (1988) SERVQUAL: a multiple-item scale for measuring consumer perceptions of service
+
+quality, Journal of Retailing, 64(1), pp. 12 – 40.
+
+Reichheld, F. F. & Sasser, W. E. (1990) Zero defections: quality comes to services, Harvard Business Review, 68
+
+(September/October), pp. 105 – 111.
+
+Riley, A. R. et al. (2003) The value relevance of non-ﬁnancial performance variables and accounting information:
+
+the case of the airline industry, Journal of Accounting and Public Policy, 22, pp. 231– 254.
+
+Robertson, T. S. & Gatignon, H. (1986) Competitive effects on technology diffusion, Journal of Marketing,
+
+50(July), pp. 233– 255.
+
+Rust, R. T. & Zahorik, A. J. (1993) Customer satisfaction, customer retention, and market share, Journal of
+
+Retailing, 69(summer), pp. 145– 156.
+
+Rust, R. T. & Keiningham, T. L. (1994) Return on Quality: Measuring the Financial Impact of Your Company’s
+
+Quest for Quality (Chicago, IL: Probus).
+
+Schmalansee, R. (1978) A model of advertising and product quality, Journal of Political Economy, 86
+
+(September), pp. 485– 503.
+
+Wangnheim, F. & Bayon, T. (2004) Satisfaction, loyalty and word of mouth within the customer base of a utility
+provider: differences between stayers, switchers and referral switchers, Journal of Consumer Behavior, 3,
+pp. 211 – 220.
+
+Westlund, A. & Lothgren, M. (2001) The interactions between quality, productivity and economic performance:
+
+the case of Swedish pharmacies, Total Quality Management,12(3), pp. 385 – 396.
+
+
+

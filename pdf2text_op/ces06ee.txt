@@ -1,0 +1,4075 @@
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+ava i l a b l e a t w w w. s c i e n c e d i r e c t . c o m
+
+w w w. e l s ev i e r. c o m / l o c a t e / e c o l e c o n
+
+ANALYSIS
+
+Globalization, firm-level characteristics and environmental
+management: A study of Japan
+
+Matthew A. Cole, Robert J.R. Elliott⁎, Kenichi Shimamoto
+
+Department of Economics, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Using Japanese firm-level data, we identify and quantify the factors that influence the
+environmental management of Japanese firms. We measure 14 different aspects of a
+firm's environmental management and investigate how firm-level characteristics and
+external pressures affect the quantity and effectiveness of environmental management
+systems and structures. Our results show that one consequence of the growth in
+international trade and FDI
+is that Japanese firms are increasingly aware of their
+environmental obligations and that both regulatory and non-regulatory factors play a role
+in a firm's decision to quantify and manage the impact their activities have on the
+environment.
+
+© 2005 Elsevier B.V. All rights reserved.
+
+Article history:
+Received 27 April 2005
+Received in revised form
+27 October 2005
+Accepted 27 October 2005
+Available online 13 December 2005
+
+Keywords:
+Globalization
+Environment
+Firm characteristics
+Management
+
+JEL classification:
+D21
+Q20
+Q56
+
+1.
+
+Introduction
+
+In recent years corporations over the world have become
+increasingly aware of the environmental damage associated
+with their activities and have, sometimes reluctantly, made
+efforts to lessen this damage. The pressure for firms to employ
+appropriate structures and systems to control pollution comes
+from both formal and informal sources (see Pargal and
+Wheeler, 1996). The former are those usually defined by law
+and enforced by regulators. The latter encompass the pres-
+sures exerted by, for example, non-governmental organisa-
+tions,
+local communities and market agents such as
+consumers and investors.
+
+⁎ Corresponding author. Tel.: +44 121 414 6639; fax: +44 121 414 7377.
+
+E-mail  addr ess:  r.j.elliot t@bham.ac.uk  (R. J.R.  Elliott).
+
+0921-8009/$ - see front matter © 2005 Elsevier B.V. All rights reserved.
+doi:10.1016 /j.ecolecon.2005. 10.019
+
+In a developed country such as Japan these pressures have
+resulted in significant reductions in air pollution over the last
+20–30 years (OECD, 1994) despite rapid economic growth over
+the same period. However, data provided by Nihon Keizai
+Shimbun (2000) together with the results of Nakamura et al.
+(2001), indicate that patterns of environmental management
+practices across Japanese firms demonstrate considerable dif-
+ferences. Some firms have incorporated environmental goals
+into the very heart of their decision-making processes while
+others appear to largely ignore environmental considerations
+or do the minimum required by legislation. For example, the
+adoption of voluntary practices such as ISO14001 certification
+and the promotion of employee awareness of environmental
+
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+313
+
+practices is relatively patchy. Furthermore, a growing body of
+literature suggests that this variation in environmental man-
+agement practices is not limited to Japan (see e.g. Gunning-
+ham et al., 2003, 2004). A natural question to ask therefore is
+what causes these differences across firms.
+
+This paper aims to answer this question by employing a
+Japanese firm-level dataset, previously unused for the pur-
+poses of economic analysis, to identify and quantify the fac-
+tors that influence the environmental management practices
+of Japanese firms. Our dataset allows us to examine 14 differ-
+ent aspects of a firm's environmental management process,
+covering both the management of specific environmental
+issues and more general structure and systems management.
+We are therefore able to examine all aspects of a firm's envir-
+onmental management processes and are not dependent on
+far narrower measures of environmental management as, for
+example, used by previous studies (e.g. Nakamura et al., 2001).
+Specifically, we make the following contributions to the lit-
+erature. First, we examine the extent to which a range of firm-
+specific factors such as firm size, profitability and the average
+age of employees influences environmental management.
+Thus, we identify those firm-level characteristics that appear
+to encourage and discourage the adoption of a wide range of
+environmental management practices. Second we assess the
+extent to which factors external to the firm may influence its
+environmental management. Specifically we ask whether the
+‘forces of globalization’, as captured by participation in export
+markets or undertaking foreign investment, stimulates envir-
+onmental management. Anti-globalization protestors clearly
+see the environment as a victim of free market forces
+although globalization may encourage the absorption of inno-
+vative technology, expose the firm to greater international
+monitoring and generally, perhaps via the role of the media,
+increase the public visibility of a firm. By assessing whether
+exposure to globalization encourages or discourages the adop-
+tion of environmental management practices, we contribute
+to the wider globalization and the environment debate (see
+e.g. Antweiler et al., 2001; Neumayer, 2001; Cole and Elliott,
+2003). Finally, we examine whether the inherent pollution
+intensity of the industry to which each firm belongs plays
+any role in determining the extent to which environmental
+management practices are adopted. We therefore assess
+whether firms in more pollution intensive industries are
+more or less likely to have sophisticated environmental man-
+agement systems.
+
+With regard to the previous literature, theoretically, Sin-
+clair-Desgagné and Gabel (1997) demonstrate how firms can
+design environmental audits that can improve environmental
+management systems without adversely affecting other activ-
+ities. Drawing on the organisational management literature,
+Aragon-Correa and Sharma (2003) argue that the extent to
+which a firm's resources and capabilities (which include tech-
+nology, managerial skills and attitudes) will affect environ-
+mental management is contingent upon a number of factors
+including the complexity and uncertainty of the business
+environment and the munificence of the firm in question.
+Although more numerous, empirical studies that analyse the
+determinants of firm's environmental management decisions
+are limited. Henriques and Sadorsky (1996) examine the exter-
+nal pressure exerted by customers, shareholders and local
+
+communities on firms' environmental performance in Canada
+while Levy (1995) examines the relationship between consu-
+mers and community pressure groups on the environmental
+performance of transnational corporations (TNCs). Gunning-
+ham et al. (2003, 2004) continue this theme by arguing that
+firms are subject to a ‘social license’, enforced by stakeholders
+such as pressure groups and community action groups, which
+encourages firms to go beyond minimum standards, often
+with regard to reputational consequences. In a related study,
+Pargal and Wheeler (1996) examine the impact of informal
+factors such as education and income per capita on the emis-
+sions of a specific pollutant by Indonesian firms. In addition to
+external pressures, firm specific factors have also been shown
+to have an impact on a firm's environmental performance.
+DeCanio and Watkins (1998), in a study for the US, find that
+firm-specific factors such as size and shareholder structure
+affect the decision to participate in the Green Light program
+(a voluntary pollution prevention program). Also for the US,
+Arora and Cason (1995, 1996) show that firm size and industry
+effects are important determinants of a firm's participation
+decision in the Environmental Protection Agency's 33/50 pro-
+gram. In the closest study to our own, Nakamura et al. (2001)
+examine the relationship between ISO14001 certification and
+firm-level characteristics for Japanese firms. Finally, Gray and
+Deily (1996) examine firm-level characteristics and the deci-
+sion of firms in the US Steel industry to comply with air pollu-
+tion regulations while Cole et al.
+(2005b), examine the
+determinants of UK industry level emissions.
+
+The remainder of the paper is organized as follows: Section
+2 reviews the methodology and describes our data; Section 3
+presents the results and Section 4 concludes.
+
+2.
+
+Methodology and data
+
+In this paper we merge two firm-level datasets, Nihon Keizai
+Shimbun (2000) and Toyo Keizai Shinpo (2000a,b). As far as we
+are aware these datasets have not previously been combined.
+In this section we outline our main hypotheses and discuss
+our dependent and independent variables.
+
+The Nihon Keizai Shimbun (2000) dataset was constructed
+from the survey results of a questionnaire that was sent to all
+publicly quoted companies and a random selection of major
+non-public companies in the Japanese manufacturing sector
+and selected non-manufacturing industries (construction and
+electricity and gas).1 The survey was conducted between the
+beginning of October and the middle of November 1999. The
+purpose of the questionnaire was to gather detailed informa-
+tion regarding the environmental management practices of
+Japanese firms.
+
+In total, data were obtained from 875 firms representing a
+response rate of 44%. Of the 875 responses, we were able to
+match other firm-level data from Toyo Keizai Shinpo (2000a,b)
+to approximately half of them. The result is an overall sample
+of around 400 firms. Each of our environmental performance
+
+1 See Appendix 1 for a list of industries. Those in bold are those
+designated as “dirty” industries based on Mani and Wheeler's
+(1998) classification system where an industry is defined as dirty if
+it is ranked within the top ten in terms of overall emissions.
+
+
+314
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+indicators is derived from the marks ascribed to the answers
+to one of thirteen multi-part questions. To allow comparison
+across indicators, each measure is standardised around a
+mean of fifty with a standard deviation of ten.2
+
+Thirteen of our fourteen indicators are allocated to one of
+two distinct groups with the fourteenth being an overall sum-
+mary statistic. The first six relate to the management, and
+control, of specific environmental problems. Examples
+include the management of total CO2 emissions and the out-
+sourcing of the treatment of industrial waste. The other seven
+are concerned with the quality of the general structure and
+systems that firms employ to handle environmental issues.
+Examples include the disclosure of environmental informa-
+tion (on products and on the treatment of chemicals) and the
+award of ISO 14001 certification. The overall environmental
+management performance measure is constructed from a
+principal components analysis of the other thirteen indices.
+To help interpret the basic scores a firm receives for each
+variable it is useful to briefly clarify how the survey results were
+constructed. Each indicator is constructed from the answer to
+one of thirteen questions, each of which contains a number of
+parts, although our data do not allow us to distinguish between
+the answers or weightings that are given to the different parts of
+each question. However, with the exceptions of Total Industrial
+Waste Management, Total Treated Industrial Waste Manage-
+ment and Management of CO2 emissions, each indicator is
+derived purely from questions relating to environmental man-
+agement rather than actual environmental performance. Even
+for these exceptions, only one part in six of the question relates
+to changes in actual emissions or waste.3
+
+Table 1 provides index numbers for our 14 indicators
+grouped by industry. Detailed descriptions of each variable
+can be found in Appendix 1. From Table 1 we can see that
+firms in the Gas and Electricity and Iron and Steel industries have
+the best record for overall management performance while
+those firms in Construction, Machinery and Textiles industries
+have the worst. What is interesting, however, is that there are
+significant differences across industry by indicator, so that an
+industry with a high score in one measure may have a rela-
+tively low score in another. For example Gas and Electricity has
+high scores across the board except for Industrial Waste Out-
+sourcing. Likewise, Iron and Steel performs badly on the Land
+and Ground Water Pollution Control indicator.
+
+Our additional firm-level characteristics were obtained
+from Toyo Keizai Shinpo (2000a,b). The term in brackets is
+the variable name used in the regression analysis.
+
+To test the globalization hypothesis, we consider the vari-
+ables that relate more generally to the openness of a firm and
+how they impact on environmental management. The first
+
+2 The standardisation procedure is 50+10*(X−X¯ /S.D.) where X
+is the initial value for each environmental management indicator.
+It should be noted that the standardisation applies to our
+matched sample of firms and not the 875 replies from the
+original survey. The result is that the means are generally greater
+than the standardised level of 50. This reflects the fact that the
+matching data was biased towards larger firms that, ceteris
+paribus, are more likely to have environmental management
+systems in place.
+3 For reasons of space, an English translation of the original
+questionnaire can be found Cole et al. (2005a).
+
+variable is Foreign Direct Investment (FDI). It is hypothesised
+that firms that embark on direct investment abroad are more
+likely to exhibit higher levels of environmental management.
+Possible explanations include (1) that such firms are likely to
+employ similar operational standards across countries (Levy,
+1995) so that if a Japanese firm invested in a country with
+higher regulations then standards would subsequently be
+raised in Japan; (2) that overseas affiliates are more likely to
+employ advanced technological solutions in order to maintain
+a competitive edge and to thus compensate for any lack of
+local knowledge (Kindleberger, 1969; Hymer, 1976). This infor-
+mation, in turn, could then form the foundation for technolo-
+gical
+firms may choose to
+centralize the environmental management systems of over-
+seas affiliates in the source country giving the impression of
+strong domestic investment in environmental management
+systems; (4) multinational enterprises may be subject to closer
+national and international monitoring than domestically
+owned firms. FDI is measured as a dummy that equals one if
+the firm undertook overseas investment in 1999.
+
+improvements at home;
+
+(3)
+
+Our second globalization variable is exports (Exports). It is
+hypothesised that those firms that export a certain proportion
+of their output are more likely to be influenced by interna-
+tional competition and the pervasive forces of globalization
+and hence will be more receptive to innovative production
+technologies or goods. Similarly, firms that compete in the
+global marketplace come under closer international monitor-
+ing from the products markets, the capital markets and non-
+governmental organisations. The overall effect may be to
+encourage good environmental management. Exports are
+measured as a dummy that is equal to one if a firm exported
+some of its products in 1999.4
+
+The wider globalization and environment literature has
+been subject to a number of endogeneity concerns. Specifi-
+cally, the standard concern is that trade and FDI are endogen-
+ously related to environmental regulations at the national
+level i.e. rather than causality moving from FDI to regulations
+it may, instead, move in the opposite direction. This can occur
+if countries set their regulations artificially low in order to
+attract FDI. Moreover, it is possible that foreign owned firms
+may lobby governments for lower regulations (or slower
+increases) in the future (Damania et al., 2003). We believe this
+problem to be minimised in our dataset for the following rea-
+sons. First, firms undertake a large proportion of environmen-
+tal management practices voluntarily and hence the link
+between formal government regulations and firm-level envir-
+onmental management is likely to be limited.5 Thus, if levels of
+FDI (or exports) influence regulations they may not influence
+environmental management. Secondly, we concentrate on
+firm-level data and it is unlikely that a firm's decision to invest
+abroad or to enter the export market is related to how well it
+chooses to manage its domestic environmental obligations.
+
+4 We would ideally lag FDI and exports since their impact on
+environmental management is unlikely to be instantaneous.
+Unfortunately, data limitations prevent his and hence we are
+implicitly assuming that FDI and exports in 1999 were represen-
+tative of FDI and exports in years immediately prior to 1999.
+5 Although, in principle, regulatory agencies may encourage
+firms to adopt certain management practices, as far as we are
+aware, Japanese firms are in no way forced to do this.
+
+
+Table 1 – Mean of each environmental performance for each industry
+Variable
+
+Chemicals
+
+Textile
+
+Construction Food and
+Beverages
+
+Paper
+and
+Pulp
+
+Refined
+
+Rubber and
+
+and Chemical
+
+Products
+
+Petroleum
+Products
+
+Plastics
+Products
+
+Clay
+and
+Glass
+
+Iron
+and
+Steel
+
+Non-Ferrous
+Metals and
+
+Metals Products
+
+Machinery
+
+Electrical
+Machinery
+
+Motor
+Vehicle
+
+Other
+
+Precision
+
+Other
+
+Transport
+
+Instruments
+
+Manufacturing
+
+Gas and
+Electricity
+
+Overall
+
+environmental
+management
+performance
+Total industrial
+
+waste
+management
+
+Total treated
+
+industrial waste
+
+CO2 emission
+
+management
+Land and ground
+water pollution
+control
+
+Industrial waste
+
+outsourcing
+Management of
+
+global warming
+
+Environmental
+accounting
+Environmental
+management
+structure
+Disclosure of
+
+environmental
+statement
+Disclosure of
+chemical
+treatment
+
+ISO 14001
+Environmentally
+
+friendly
+products
+
+Environmental
+cooperation
+
+48.05
+
+54.91
+
+50.54
+
+55.04
+
+54.93
+
+53.83
+
+57.18
+
+55.63
+
+61.29
+
+51.47
+
+50.36
+
+58.58
+
+54.68
+
+52.97
+
+53.59
+
+52.26
+
+70.25
+
+48.34
+
+55.68
+
+55.50
+
+48.84
+
+53.62
+
+50.69
+
+57.30
+
+49.89
+
+52.10
+
+49.44
+
+50.93
+
+52.98
+
+50.65
+
+56.63
+
+50.83
+
+49.24
+
+74.00
+
+46.84
+
+44.80
+
+46.80
+
+51.48
+
+47.03
+
+47.19
+
+54.55
+
+51.84
+
+50.82
+
+54.67
+
+52.00
+
+50.91
+
+50.00
+
+51.32
+
+49.37
+
+51.50
+
+57.52
+
+50.46
+
+47.84
+
+53.92
+
+50.23
+
+65.50
+
+54.60
+
+51.69
+
+59.34
+
+56.32
+
+49.28
+
+54.67
+
+55.60
+
+53.62
+
+50.80
+
+53.44
+
+52.07
+
+51.10
+
+54.38
+
+55.94
+
+55.32
+
+50.44
+
+51.94
+
+56.13
+
+49.19
+
+54.69
+
+58.80
+
+52.78
+
+58.46
+
+57.50
+
+53.56
+
+56.55
+
+51.10
+
+50.00
+
+50.00
+
+57.40
+
+53.34
+
+64.55
+
+56.70
+
+53.67
+
+62.19
+
+52.20
+
+54.67
+
+59.28
+
+52.20
+
+54.45
+
+60.28
+
+50.54
+
+51.90
+
+54.14
+
+52.20
+
+50.00
+
+48.84
+
+51.07
+
+50.87
+
+49.51
+
+52.19
+
+50.72
+
+50.25
+
+49.55
+
+50.84
+
+56.50
+
+59.42
+
+54.25
+
+54.91
+
+56.07
+
+53.13
+
+59.98
+
+50.42
+
+51.25
+
+54.82
+
+51.52
+
+49.88
+
+56.13
+
+54.36
+
+53.13
+
+57.88
+
+53.23
+
+49.50
+
+55.76
+
+53.07
+
+58.00
+
+51.36
+
+51.42
+
+58.65
+
+52.83
+
+52.24
+
+51.65
+
+55.00
+
+50.89
+
+53.59
+
+48.24
+
+51.83
+
+54.24
+
+53.12
+
+50.65
+
+63.50
+
+66.50
+
+58.50
+
+50.00
+
+76.00
+
+66.50
+
+65.00
+
+50.07
+
+55.00
+
+51.05
+
+53.67
+
+56.60
+
+52.75
+
+50.10
+
+58.12
+
+58.46
+
+49.57
+
+48.51
+
+56.00
+
+53.04
+
+46.88
+
+49.53
+
+51.48
+
+72.00
+
+42.36
+
+51.00
+
+51.32
+
+52.67
+
+57.55
+
+54.94
+
+55.70
+
+54.45
+
+56.64
+
+51.74
+
+50.14
+
+57.70
+
+54.84
+
+49.88
+
+51.71
+
+51.53
+
+67.00
+
+50.90
+48.17
+
+51.24
+53.84
+
+50.19
+47.78
+
+53.84
+50.50
+
+53.52
+51.91
+
+54.19
+51.32
+
+56.60
+54.30
+
+58.45
+55.23
+
+59.28
+60.73
+
+51.77
+50.47
+
+51.84
+50.40
+
+58.12
+58.50
+
+54.49
+49.81
+
+54.13
+50.38
+
+57.42
+52.48
+
+50.95
+53.42
+
+61.50
+78.50
+
+52.71
+
+53.68
+
+48.00
+
+53.17
+
+53.76
+
+48.82
+
+61.60
+
+53.78
+
+60.00
+
+53.17
+
+47.97
+
+52.98
+
+52.88
+
+53.63
+
+50.48
+
+51.77
+
+60.50
+
+E
+
+C
+
+O
+
+L
+
+O
+
+G
+
+I
+
+C
+
+A
+
+L
+
+E
+
+C
+
+O
+
+N
+
+O
+M
+
+I
+
+C
+
+S
+
+5
+
+9
+
+(
+
+2
+
+0
+
+0
+
+6
+
+)
+
+3
+
+1
+
+2
+
+–
+
+3
+
+2
+
+3
+
+3
+1
+5
+
+
+316
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+That said, we do acknowledge that a firm possessing a good
+environmental record may be more attractive to global part-
+ners or recipients of its exports. Although it is therefore not
+possible to state that endogeneity concerns have been
+removed we do, however, believe them to be less of a problem
+than industry and country level studies that examine the rela-
+tionship between the environment and FDI and trade.
+
+In addition to our openness variables we employ a range of
+regressors to measure formal and informal factors that may
+influence the environmental management practices of Japa-
+nese firms. To capture a firm's factor endowments we include
+physical capital intensity (PCI). It is hypothesised that the
+higher the physical capital intensity of a firm the more likely
+it is to have highly capital-intensive and complex production
+facilities. This, in turn, provides greater opportunities and
+scope for the introduction of clean technologies during the
+normal course of upgrading production facilities. Further-
+more, there is an additional effect as a result of the estab-
+lished positive relationship between PCI and actual emission
+levels (see e.g. Antweiler et al., 2001; Cole and Elliott, 2003).
+Pollution intensive (and capital intensive) industries would be
+expected, therefore, to adopt more stringent environmental
+management practices due to the additional demands of reg-
+ulators. The expected sign is therefore positive. We measure
+PCI as capital stock per worker.
+
+A second endowment variable is human capital intensity
+(HCI). Following on from the argument above, it is supposed
+that those firms where a large proportion of the workforce is
+defined as skilled are more likely to have technologically
+advanced and complex production lines, larger R&D divisions
+and hence better environmental management systems. More-
+over, if such a complex process results in greater emissions
+intensity, we may again expect to see a more comprehensive
+environmental management system in place. The expected
+sign is therefore positive. HCI is measured as total wages per
+worker.
+
+The next group of variables is a set of firm specific controls.
+First, firm size (Size). Larger firms have a number of potential
+advantages over smaller firms when it comes to the introduc-
+tion of environmental management systems. Larger firms are
+more likely to have the resources and infrastructure to enable
+them to dedicate staff to environmental management. Large
+firms are also more likely to appear ‘on the radar’ of monitor-
+ing organisations which may act as a disciplinary device
+(Zarsky, 1999). It is hypothesised that firm size will have a
+positive impact on environmental management (DeCanio
+and Watkins, 1998; Nakamura et al., 2001). Firm size is mea-
+sured by total employment.
+
+It is predicted that the lower the debt ratio (Debt) of a firm
+the freer that firm is to employ its capital for environmental
+related expenditure. The expected sign on debt ratio is there-
+fore negative (Nakamura et al., 2001). The debt ratio is mea-
+sured as both long and short-term debt relative to assets.
+Related to the increasing public awareness of environmen-
+tal issues encouraged by non-governmental organisations
+such as Greenpeace and Friends of the Earth, we attempt to
+investigate the relationship between public exposure and
+environmental performance. It is envisaged that the higher
+the marketing expenditure of a firm (Marketing), the stronger
+the relationships between the firm and consumers, the
+
+media, and other external stakeholders. An increase in the
+value of the firm's brand as a result of marketing activity
+means that a firm is more likely to internalize the environ-
+mental values held by the general public. The expected sign is
+therefore positive. Marketing intensity is measured as the cost
+of advertising as a proportion of sales.
+
+It is generally assumed that R&D intensive firms (R&D) are
+more likely to be the most technologically advanced. If we
+imagine that a certain percentage of R&D expenditure is tar-
+geted specifically at the development of clean technologies
+then it is supposed that these firms are more able to adopt
+technological solutions to environmental problems. It could
+be argued that forward looking firms who engage in R&D
+generally, would also have environmental management sys-
+tems in place to investigate the role of R&D in helping to avoid
+regulatory costs. The expected sign is therefore positive. R&D
+intensity is measured as the share of R&D expenditures rela-
+tive to sales.
+
+To control for the overall economic performance of a firm
+we include a measure of productivity (TFP). The more produc-
+tive and hence efficient a firm is the more likely it is to have
+efficient environmental management systems and structures
+in place. The expected sign is positive. Our measure of produc-
+tivity is calculated using a Cobb–Douglas production function.6
+Similarly, the profitability of a firm (Profits) is included and
+is measured as the return on assets. More profitable firms are
+assumed to have access to the funds (via retained profits or
+capital markets) to make the necessary investments required
+to improve environmental management (Nakamura et al.,
+2001). The expected sign is therefore positive. Profitability is
+measured as a firm's ordinary profit relative to it total assets.
+Our penultimate variable is a measure of the average age of
+employees (Age) under the premise that younger employees
+are generally more trainable, adaptable,
+less resistant to
+change and perhaps more environmentally aware. As a result,
+it is hypothesised that the lower the average age of a firm's
+employees, the more likely the firm will be to implement
+environmental policies and practices.7 The expected sign is
+therefore negative.
+
+Finally we include a Keiretsu dummy (Keiretsu) to capture
+the unique corporate structure of some Japanese firms known
+as the keiretsu and to see whether being a member of a
+Keiretsu has a systematic effect on a firm's environmental
+performance. One result of keiretsu membership is that the
+firm should have less rigid liquidity restrictions that should
+enable the firm to raise sufficient funds to undertake environ-
+mental improvements when required (Hoshi et al., 1991).
+There may also be positive technological and managerial spil-
+lover effects from other firms within the keiretsu so that
+member firms share information and make joint business
+and investment decisions including the decision to adopt
+greener policies and technologies.
+In contrast, however,
+there may be a competing effect where membership of a
+keiretsu adversely affects the efficiency and freedom with
+which a firm can operate. Moreover, the strength of the legal
+
+6 Estimation details are available from the authors upon
+request.
+7 A superior measure would perhaps be the average age of each
+firm's management, but such a variable is not available.
+
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+317
+
+0
+0
+1
+
+.
+
+0
+0
+0
+
+.
+
+8
+7
+0
+
+.
+
+4
+1
+0
+
+.
+
+0
+1
+8
+
+.
+
+4
+0
+0
+
+.
+
+5
+0
+0
+
+.
+
+9
+0
+1
+
+.
+
+0
+0
+0
+
+.
+
+8
+2
+0
+
+.
+
+0
+0
+1
+
+.
+
+0
+6
+2
+4
+
+.
+
+7
+5
+0
+
+.
+
+1
+7
+0
+
+.
+
+0
+2
+0
+
+.
+
+8
+0
+0
+
+.
+
+3
+7
+7
+
+.
+
+4
+0
+0
+
+.
+
+3
+1
+0
+
+.
+
+4
+3
+0
+
+.
+
+8
+1
+0
+
+.
+
+8
+0
+0
+
+.
+
+8
+4
+0
+
+.
+
+.
+
+2
+3
+7
+3
+
+8
+7
+0
+
+.
+
+5
+9
+0
+
+.
+
+3
+1
+0
+
+.
+
+8
+0
+0
+
+.
+
+7
+7
+7
+
+.
+
+3
+0
+0
+
+.
+
+6
+1
+0
+
+.
+
+0
+3
+0
+
+.
+
+5
+1
+0
+
+.
+
+6
+3
+0
+
+.
+
+3
+5
+0
+
+.
+
+.
+
+4
+5
+9
+3
+
+3
+7
+0
+
+.
+
+0
+0
+1
+
+.
+
+7
+1
+0
+
+.
+
+7
+0
+0
+
+.
+
+9
+5
+7
+
+.
+
+2
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+4
+5
+0
+
+.
+
+5
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+7
+8
+0
+
+.
+
+8
+6
+0
+
+.
+
+5
+1
+0
+
+.
+
+8
+0
+0
+
+.
+
+9
+6
+7
+
+.
+
+2
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+4
+0
+1
+
+.
+
+5
+0
+0
+
+.
+
+5
+0
+0
+
+.
+
+7
+8
+0
+
+.
+
+7
+9
+0
+
+.
+
+2
+1
+0
+
+.
+
+8
+0
+0
+
+.
+
+6
+8
+7
+
+.
+
+3
+0
+0
+
+.
+
+0
+2
+0
+
+.
+
+0
+7
+0
+
+.
+
+0
+1
+0
+
+.
+
+6
+2
+0
+
+.
+
+0
+5
+0
+
+.
+
+.
+
+0
+5
+1
+4
+
+5
+5
+0
+
+.
+
+7
+5
+8
+3
+
+.
+
+0
+5
+0
+
+.
+
+.
+
+2
+8
+7
+3
+
+2
+6
+0
+
+.
+
+7
+9
+0
+
+.
+
+5
+1
+0
+
+.
+
+8
+0
+0
+
+.
+
+2
+6
+7
+
+.
+
+2
+0
+0
+
+.
+
+5
+1
+0
+
+.
+
+5
+3
+0
+
+.
+
+4
+0
+0
+
+.
+
+6
+1
+0
+
+.
+
+5
+6
+0
+
+.
+
+0
+3
+9
+3
+
+.
+
+7
+5
+0
+
+.
+
+7
+5
+0
+
+.
+
+5
+2
+0
+
+.
+
+9
+0
+0
+
+.
+
+0
+6
+7
+
+.
+
+1
+0
+0
+
+.
+
+1
+1
+0
+
+.
+
+9
+2
+0
+
+.
+
+2
+0
+0
+
+.
+
+1
+1
+0
+
+.
+
+7
+6
+0
+
+.
+
+5
+1
+8
+3
+
+.
+
+d
+n
+a
+
+s
+a
+G
+
+r
+e
+h
+t
+O
+
+n
+o
+i
+s
+i
+c
+e
+r
+P
+
+r
+e
+h
+t
+O
+
+y
+t
+i
+c
+i
+r
+t
+c
+e
+l
+E
+
+g
+n
+i
+r
+u
+t
+c
+a
+f
+u
+n
+a
+M
+
+s
+t
+n
+e
+m
+u
+r
+t
+s
+n
+
+I
+
+t
+r
+o
+p
+s
+n
+a
+r
+T
+
+r
+o
+t
+o
+M
+
+e
+l
+c
+i
+h
+e
+V
+
+l
+a
+c
+i
+r
+t
+c
+e
+l
+E
+
+i
+
+y
+r
+e
+n
+h
+c
+a
+M
+
+i
+
+y
+r
+e
+n
+h
+c
+a
+M
+
+s
+u
+o
+r
+r
+e
+F
+-
+n
+o
+N
+
+s
+l
+a
+t
+e
+M
+d
+n
+a
+
+s
+l
+a
+t
+e
+M
+
+s
+t
+c
+u
+d
+o
+r
+P
+
+n
+o
+r
+I
+
+d
+n
+a
+
+l
+e
+e
+t
+S
+
+2
+6
+0
+
+.
+
+0
+0
+1
+
+.
+
+8
+4
+0
+
+.
+
+0
+1
+0
+
+.
+
+4
+5
+7
+
+.
+
+.
+
+1
+0
+0
+−
+
+1
+1
+0
+
+.
+
+1
+9
+0
+
+.
+
+1
+0
+0
+
+.
+
+0
+1
+0
+
+.
+
+2
+8
+0
+
+.
+
+2
+0
+1
+4
+
+.
+
+y
+a
+l
+C
+
+d
+n
+a
+
+s
+s
+a
+l
+G
+
+d
+n
+a
+
+r
+e
+b
+b
+u
+R
+
+s
+c
+i
+t
+s
+a
+l
+P
+
+s
+t
+c
+u
+d
+o
+r
+P
+
+d
+e
+n
+i
+f
+e
+R
+
+m
+u
+e
+l
+o
+r
+t
+e
+P
+
+s
+t
+c
+u
+d
+o
+r
+P
+
+d
+n
+a
+
+s
+l
+a
+c
+i
+m
+e
+h
+C
+
+l
+a
+c
+i
+m
+e
+h
+C
+
+s
+t
+c
+u
+d
+o
+r
+P
+
+r
+e
+p
+a
+P
+
+d
+n
+a
+
+l
+
+p
+u
+P
+
+e
+l
+i
+t
+x
+e
+T
+
+d
+n
+a
+
+d
+o
+o
+F
+
+s
+e
+g
+a
+r
+e
+v
+e
+B
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+e
+l
+b
+a
+i
+r
+a
+V
+
+y
+r
+t
+s
+u
+d
+n
+
+i
+
+h
+c
+a
+e
+
+r
+o
+f
+
+e
+l
+b
+a
+i
+r
+a
+v
+
+c
+i
+
+m
+o
+n
+o
+c
+e
+h
+c
+a
+e
+
+f
+o
+n
+a
+e
+M
+–
+2
+
+e
+l
+b
+a
+T
+
+3
+6
+0
+
+.
+
+8
+7
+0
+
+.
+
+2
+4
+0
+
+.
+
+8
+0
+0
+
+.
+
+1
+6
+7
+
+.
+
+2
+0
+0
+
+.
+
+3
+1
+0
+
+.
+
+7
+4
+0
+
+.
+
+5
+0
+0
+
+.
+
+5
+2
+0
+
+.
+
+5
+4
+0
+
+.
+
+2
+5
+9
+3
+
+.
+
+1
+9
+0
+
+.
+
+0
+9
+0
+
+.
+
+8
+1
+0
+
+.
+
+9
+0
+0
+
+.
+
+8
+8
+7
+
+.
+
+4
+0
+0
+
+.
+
+9
+0
+0
+
+.
+
+7
+3
+0
+
+.
+
+0
+1
+0
+
+.
+
+3
+0
+0
+
+.
+
+0
+0
+1
+
+.
+
+5
+2
+0
+4
+
+.
+
+7
+5
+0
+
+.
+
+2
+8
+0
+
+.
+
+5
+4
+0
+
+.
+
+9
+0
+0
+
+.
+
+4
+9
+7
+
+.
+
+7
+0
+0
+
+.
+
+0
+2
+0
+
+.
+
+9
+3
+0
+
+.
+
+5
+2
+0
+
+.
+
+4
+0
+1
+
+.
+
+9
+6
+0
+
+.
+
+6
+5
+9
+3
+
+.
+
+6
+7
+0
+
+.
+
+8
+7
+0
+
+.
+
+9
+2
+0
+
+.
+
+8
+0
+0
+
+.
+
+6
+7
+7
+
+.
+
+3
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+8
+2
+0
+
+.
+
+7
+0
+0
+
+.
+
+0
+3
+0
+
+.
+
+2
+6
+0
+
+.
+
+1
+9
+9
+3
+
+.
+
+4
+5
+0
+
+.
+
+4
+3
+0
+
+.
+
+8
+4
+0
+
+.
+
+9
+0
+0
+
+.
+
+9
+5
+7
+
+.
+
+1
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+8
+4
+0
+
+.
+
+1
+0
+0
+
+.
+
+5
+0
+0
+
+.
+
+7
+6
+0
+
+.
+
+4
+6
+0
+
+.
+
+9
+1
+0
+
+.
+
+7
+0
+0
+
+.
+
+9
+4
+7
+
+.
+
+2
+0
+0
+
+.
+
+3
+1
+0
+
+.
+
+7
+2
+0
+
+.
+
+8
+0
+0
+
+.
+
+0
+2
+0
+
+.
+
+0
+5
+0
+
+.
+
+4
+0
+0
+
+.
+
+0
+4
+0
+
+.
+
+9
+0
+0
+
+.
+
+6
+0
+8
+
+.
+
+4
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+7
+2
+0
+
+.
+
+3
+3
+0
+
+.
+
+6
+0
+0
+
+.
+
+7
+6
+0
+
+.
+
+.
+
+5
+6
+0
+4
+
+5
+5
+0
+
+.
+
+9
+1
+8
+3
+
+.
+
+8
+6
+0
+
+.
+
+.
+
+2
+5
+8
+3
+
+9
+5
+0
+
+.
+
+1
+2
+0
+
+.
+
+3
+1
+0
+
+.
+
+9
+0
+0
+
+.
+
+4
+6
+7
+
+.
+
+2
+0
+0
+
+.
+
+8
+0
+0
+
+.
+
+5
+3
+0
+
+.
+
+5
+0
+0
+
+.
+
+1
+0
+0
+
+.
+
+5
+7
+0
+
+.
+
+.
+
+5
+3
+9
+3
+
+s
+t
+r
+o
+p
+x
+E
+
+I
+
+D
+F
+
+I
+
+C
+P
+
+I
+
+C
+H
+
+P
+F
+T
+
+s
+t
+i
+f
+o
+r
+P
+
+t
+b
+e
+D
+
+e
+z
+i
+S
+
+g
+n
+i
+t
+e
+k
+r
+a
+M
+
+u
+s
+t
+e
+r
+i
+e
+K
+
+D
+&
+R
+
+e
+g
+A
+
+teams and resources available to Keiretsu members may
+result in greater lobbying pressures on the Japanese govern-
+ment to keep regulations low and to fight any civil or govern-
+ment action to impose fines or reduce emissions in the
+industry of the Keiretsu firm. The expected sign of the coeffi-
+cient is therefore undetermined. Following Fukao et al. (1994),
+if the largest percentage of a firm's loan is from the same
+main bank for over 3 years then it is considered a keiretsu of
+the bank and the firm is given a dummy variable of one.8
+In our sensitivity analysis we replace industry dummies
+with a dummy variable to capture the inherent dirtiness of
+an industry. This allows us to investigate whether, over and
+above the effect of other variables, dirty industries tend to
+have better environmental management systems than non-
+dirty industries. As mentioned above in the context of phy-
+sical capital intensity, there is the possibility that dirty indus-
+tries face more stringent environmental regulations, are
+more visible to external agencies and generally require
+more developed environmental management practices due
+to the greater volumes of pollution and waste that are ge-
+nerated. Appendix 1 provides the list of dirty and clean
+industries while Fig. A1 provides the average value of each
+environmental management index for firms in both ‘dirty’
+and ‘clean’
+this
+argument.
+
+industries, offering some support
+
+for
+
+Table 2 provides a table of means for each variable,
+grouped by industry. Table 2 reveals, for example, that the
+largest firms are in Motor Vehicles and Gas and Electricity. The
+largest debt levels are recorded for those firms in Precision
+Instruments and Refined Petroleum Products while marketing
+spend is highest for firms in the Food and Beverages, Refined
+Petroleum Products and Other Manufacturing Industries. Our aver-
+age export variable ranges from a low of 0.04 for Food and
+Beverages to a high of 1 for Iron and Steel illustrating the varia-
+tion in trade patterns across firms.
+
+Our final estimating equation is therefore:
+
+EnvPeri ¼ a1 þ a2iExports þ a3iFDI þ a4iPCI þ a5iHCI
+
+þ a6iðTFP or ProfitsÞ þ a8iDebt þ a9iSize þ a10imarketing
+þ a11R&D þ a12iAge þ a13iKeiretsu þ ei
+
+ð1Þ
+
+Total factor productivity and profits were included sepa-
+rately to avoid possible co-linearity problems. All estimations
+employ OLS analysis with heteroskedastic-robust error
+terms. Industry dummies are included to control for industry
+specific effects. A correlation matrix is provided in Appendix
+1. The nature of the relationships that we are investigating
+means that the endogeneity issues that plague the globaliza-
+tion and the environment literature are unlikely to be pre-
+sent. Subsequently we are able to run standard OLS analysis
+without recourse to instrumental variables or complicated
+lag structures. Finally, it should be noted that, due to data
+limitations, the FDI and export variables are dummy vari-
+ables. Although it would be interesting to analyse how the
+
+8 The six main banks listed in the firms' ‘keiretsu’ list of Toyo
+Keizai Shinpo (2000c) are Mitsui (now Sakura), Mitsubishi (now
+Tokyo-Mitsubishi), Sumitomo, Fuji, Sanwa and Ikkan.
+
+
+318
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+Table 3 – Overall environmental management performance and environmental management for specific environmental
+issues
+Variable
+
+Total treated
+
+Industrial
+
+Land and
+
+Overall
+
+Total
+
+environmental
+management
+performance (1)
+
+industrial
+
+waste
+
+industrial
+
+waste
+
+management
+
+management
+
+(2)
+
+(3)
+
+CO2 emission
+management
+
+(4)
+
+ground water
+
+pollution
+control (5)
+
+waste
+
+outsourcing
+and recycling
+
+(6)
+
+Management of
+global warming
+
+and energy
+saving (7)
+
+FDI
+Exports
+PCI
+HCI
+TFP
+Debt
+Size
+Marketing
+R&D
+Age
+Keiretsu
+Constant
+R2
+Obs
+
+3.73**
+5.49***
+3.67**
+12.83
+1.84**
+−8.27***
+5.60***
+2.06***
+5.21***
+−0.14
+−1.40*
+29.90***
+0.53
+
+397
+
+−1.91
+0.68
+−5.47**
+−0.14
+1.68**
+−11.78***
+
+0.96
+−0.90
+2.05
+−0.29*
+0.05
+47.06***
+0.19
+
+399
+
+3.47**
+6.19***
+1.83**
+12.24
+1.73***
+−14.25***
+3.42***
+−1.28
+4.57**
+−0.23
+−1.20
+37.42***
+0.39
+
+392
+
+−0.24
+3.55***
+−3.54
+14.05
+0.85
+
+−14.92***
+4.45***
+−1.75
+3.53
+−0.38**
+−2.09**
+52.95***
+0.30
+
+398
+
+1.80
+2.43**
+−4.43*
+23.46*
+0.31
+−8.71**
+2.06***
+0.07
+2.24
+−0.08
+−0.92
+44.97***
+0.33
+
+395
+
+2.38
+5.00***
+2.90
+−15.50
+0.22
+
+−12.65***
+3.88***
+3.08
+2.12
+0.02
+−0.77
+45.67**
+0.30
+
+394
+
+−1.30
+4.89***
+8.62***
+−1.59
+1.00
+−8.60***
+4.89***
+−1.20
+0.31
+−0.17*
+−1.54**
+43.85***
+0.50
+
+399
+
+Standard errors are excluded due to space considerations although *, ** and *** denote statistical significance at the 10%, 5% and 1%, respectively.
+
+growth in trade and FDI has affected environmental manage-
+ment activity, data limitations mean it is beyond the scope of
+this paper.
+
+3.
+
+Results
+
+3.1.
+
+Estimation results
+
+Our results are split into three distinct sections. The first
+considers the overall environmental management variable
+that also provides the basis for our sensitivity analysis. Our
+remaining thirteen environmental management indicators
+are split into two groups, those that measure the manage-
+ment of specific environmental problems and those that con-
+sider each firm's general systems and structure for dealing
+with environmental issues.
+
+Table 3 reports the result of an OLS analysis for our overall
+environmental management indicator and our six problem
+specific variables.9
+
+For our overall environmental management variable
+reported as regression (1) in Table 3, the significance of our
+explanatory variables is high with the majority of variables
+exhibiting significance at the 5% level or better. The results
+reveal that the coefficient on FDI is positive and significant,
+confirming the expectation that firms that undertake FDI are
+more likely to have higher standards of environmental man-
+agement. The coefficient on exports is also positive and sig-
+nificant reflecting, we believe, the effects of international
+competition on the adoption of innovative technologies or
+products and the possibilities of greater
+international
+monitoring.
+
+9 The results for our industry dummies are not included for
+reasons of space. In our sensitivity analysis we report the results
+of a regression with no industry dummies and others that include
+a ‘dirty’ industry dummy.
+
+We now consider our other explanatory variables. Physical
+capital intensity (PCI) is a significant and positive determinant
+of overall management, implying that firms with more physi-
+cal capital
+intensity have more advanced environmental
+management systems. This concords with prior expectations
+and reflects, we believe, the positive correlation found to exist
+between pollution intensity and emissions intensity (Antwei-
+ler et al., 2001; Cole and Elliott, 2003). Human capital intensity
+(HCI) generally has no significant effect. Firm size is strongly
+significant and positive as expected. This implies that larger
+firms have a greater capacity to invest in mechanisms to
+handle environmental concerns. The results also show that
+total factor productivity (TFP) has a significantly positive
+impact on overall environmental management, suggesting
+that efficient firms make greater efforts to lessen their envir-
+onmental impact. The ratio of debt to assets, Debt, is negative
+and significant as expected under the premise that distressed
+companies are less likely to have environmental concerns as a
+top priority.
+
+Of the other variables in regression (1), marketing intensity
+(marketing) is positive and significant suggesting that firms
+with higher marketing intensity are reacting to pressures
+from consumers and NGOs to be environmentally friendly or
+risk damaging the brand and corporate reputation of the com-
+pany. The coefficient on R&D also has the expected positive
+and significant sign.
+
+The average age of employees (Age) seems to have little
+effect. Finally, our Keiretsu dummy variable is negative and
+significant (at the 10% level). The sign on the relationship
+between Keiretsu membership and environmental manage-
+ment was undetermined although it now seems that such
+membership may represent a hindrance to environmental
+management perhaps via an inherent inflexibility, or the
+bureaucracy, of internal procedures. A second explanation
+may be that members of a Keiretsu will have greater access
+to legal teams and resources to enable them to fight civil and
+government actions to increase regulations or demand lower
+
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+319
+
+Table 4 – Structure and systems environmental management
+Disclosure of
+Variable Environmental
+environmental
+accounting (8)
+statement (10)
+
+Environmental
+management
+structure (9)
+
+FDI
+Exports
+PCI
+HCI
+TFP
+Debt
+Size
+Marketing
+R&D
+Age
+Keiretsu
+Constant
+R2
+Obs
+
+0.65
+1.20
+1.34*
+18.39*
+1.76***
+−4.55
+7.00***
+1.62
+3.65**
+−0.16
+−2.17***
+35.77**
+0.46
+
+402
+
+6.00***
+5.65***
+2.10
+−12.60
+1.35**
+−12.72***
+3.22***
+−2.63**
+2.01*
+−0.29***
+−0.73
+52.75***
+0.42
+
+395
+
+1.82
+4.68***
+4.95*
+−15.02
+
+2.04***
+−6.25**
+6.95***
+4.24***
+3.76**
+−0.10
+−1.35
+33.51***
+0.49
+
+397
+
+Disclosure of
+
+chemical
+
+treatment (11)
+
+1.44
+4.39***
+5.03***
+2.39
+0.12
+−6.08
+4.45***
+3.93***
+4.28***
+−0.07
+−0.98
+40.40***
+0.52
+
+ISO
+14001
+(12)
+
+6.84***
+5.48***
+2.92*
+−9.29
+2.49***
+−8.60**
+2.62***
+2.92
+0.89
+−0.10
+−1.16
+30.74***
+0.36
+
+Environmentally
+
+Environmental
+
+friendly
+
+products (13)
+
+cooperation
+
+(14)
+
+4.31***
+1.33
+−1.31
+12.30
+1.49**
+−4.91*
+5.47***
+6.39**
+4.24**
+−0.10
+−1.35
+35.69***
+0.39
+
+3.85***
+1.65*
+3.72
+7.22
+−0.66
+−1.80
+5.91**
+−1.71*
+4.11***
+−0.08
+0.38
+53.21***
+0.32
+
+386
+
+394
+
+397
+
+409
+
+Standard errors are excluded due to space considerations although *, ** and *** denote statistical significance at the 10%, 5% and 1% respectively.
+
+emissions. This supports the findings of DeCanio and Watkins
+(1998) for US firms while Nakamura et al. (2001) find mixed
+results with their Keiretsu dummy largely insignificant.
+
+Of interest in this paper is whether our determinants vary
+across indicators. Regressions (2)–(7) consider the environ-
+mental management of specific environmental problems. In
+terms of openness, only Total Industrial Waste Management
+(2) appears unaffected by a firm's entry into export markets or
+by the firm's decision to invest abroad. Other interesting
+results include the finding that CO2 Emissions Management
+(4) and Management of Global Warming (7) are both nega-
+tively related to Keiretsu membership (the two indicators
+that are given the highest profile by NGOs and consumer
+pressure groups outside Japan).
+
+The sign on PCI is also inconsistent across regressions with
+unexpected negative coefficients on Total Industrial Waste
+Management (2) and Land and Ground Water Pollution Con-
+trol (5). Finally, contrary to regression (1), it is interesting to
+note that marketing intensity (marketing) is not significant in
+any of the other six regressions. Interestingly, Age is signifi-
+cantly negative in regressions (2), (4) and (7) giving some sup-
+port
+firms are more
+environmentally aware and quick to adapt to specific envir-
+onmental problems.
+
+for the hypothesis that
+
+‘younger’
+
+We now turn to Table 4 that considers the determinants of
+a firm's environmental system and structures. In most cases
+the evidence is supportive of the overall management results
+(1). Of particular note is that, like our overall environmental
+management indicator (1), for three indicators (10), (11) and
+(13), we find marketing to be a positive and significant deter-
+minant of environmental management. This suggests that
+those firms most concerned about their external image are
+those most likely to disclose an environmental statement
+(10), disclose a statement relating to chemical treatment (11)
+and claim to produce environmental friendly products (13).
+The fact that we find the marketing effect to be more signifi-
+cant for these ‘structure and systems’ variables compared to
+those in Table 3, presumably reflects the fact that the sys-
+tems and structures indicators in Table 4 are more general
+
+and more publicly visible. A firm that is keen to present a
+positive public image is therefore more likely to ensure that
+their environmental systems and structures are suitably
+stringent. It is also worth noting that the R&D variable is
+generally more significant in Table 4 than Table 3, suggesting
+that those firms with the highest levels of R&D tend to have
+more developed environmental systems and structures in
+place.
+
+3.2.
+
+Sensitivity analysis
+
+In Table 5 we undertake a range of sensitivity estimations to
+test for robustness across our variables concentrating, for
+reason of space, on the overall environmental management
+variable.10
+
+In regression (15) we replace TFP with a measure of profits
+(measured as the return on assets). The results seem to sug-
+gest that profits have no significant effect on overall perfor-
+mance.11 Regressions (16) and (17) drop FDI and exports
+alternately. Both remain positive and significant suggesting
+that the openness effect is robust.
+
+To examine the relationship between the dirtiness of an
+industry and its environmental performance, regressions (18)
+
+10 Similar tables for other performance indicators are available
+from the authors upon request. It is notable that exports generally
+have a larger, more significant, effect on environmental manage-
+ment than FDI, perhaps reflecting the greater exposure to
+overseas competition faced by exporters. A firm that competes
+in global markets may have to meet minimum environmental
+standards in order to enter certain export markets or may choose
+to develop environmental management systems in order to
+enhance its reputation. Compared to this mechanism, the
+manner in which FDI may influence environmental management
+may be less direct and perhaps weaker in magnitude.
+11 When profits and TFP are included jointly, profits are usually
+negative and significant suggesting that, over and above TFP, a
+firm with high profitability has little regard for environmental
+related issues.
+
+
+320
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+Table 5 – Sensitivity analysis on overall environmental management performance
+Variable
+Clean (19)
+
+DIRTY (18)
+
+Full (15)
+
+Full (16)
+
+Full (17)
+
+FDI
+Exports
+PCI
+HCI
+TFP
+Profits
+Debt
+Size
+Marketing
+R&D
+Age
+Keiretsu
+Dirty
+Constant
+R2
+Obs
+
+3.10**
+5.35***
+3.84**
+20.42**
+
+−4.41
+6.34***
+5.64***
+2.32***
+4.58***
+−0.15
+−1.68**
+
+48.32***
+0.46
+
+397
+
+5.59***
+3.85**
+13.71
+1.60**
+
+−7.61***
+5.68***
+2.15**
+5.06***
+−0.16
+−1.27*
+
+38.56***
+0.52
+
+397
+
+4.23**
+
+2.81
+12.41
+1.55**
+
+−5.98**
+5.92***
+2.13**
+6.76***
+−0.11
+−0.92
+
+35.34***
+0.49
+
+397
+
+6.95***
+3.52***
+2.31
+
+103.87**
+
+0.87
+
+−20.91***
+10.36***
+9.36***
+7.91***
+−0.21
+−1.14*
+
+38.46***
+0.77
+
+146
+
+4.29***
+6.35***
+8.38***
+4.71
+2.40***
+
+−12.63**
+5.19***
+1.89
+4.20**
+−0.08
+−1.92**
+
+27.28***
+0.58
+
+254
+
+Full No dummies (20)
+
+Full (21)
+
+4.31***
+5.09***
+5.31***
+16.95
+1.59***
+
+−8.05***
+6.14***
+2.47***
+2.97***
+0.10
+−1.00
+
+33.14***
+0.45
+
+397
+
+3.73***
+5.49***
+3.67**
+12.83
+1.84***
+
+−8.27***
+5.60***
+2.06***
+5.21***
+−0.14
+−1.40**
+13.58***
+33.90***
+0.53
+
+397
+
+Standard errors are excluded due to space considerations although *, ** and *** denotes statistical significance at the 10%, 5% and 1%,
+respectively.
+
+and (19) split the sample into firms from clean and dirty
+industries. It is notable that marketing intensity is only sig-
+nificant for firms in dirty industries suggesting that firms that
+pollute and have a strong corporate identity spend more try-
+ing to give the impression of caring for the environment. Less
+clear is why human capital intensity is positive and signifi-
+cant for dirty firms only. This explanation may be linked to
+the findings of Cole et al. (2005b) who demonstrate, for US
+industries, that HCI and pollution intensity are positively
+related.
+
+Finally, regression (20) presents the results with no dum-
+mies for the full sample, while (21) includes a ‘dirty’ dummy
+instead of industry dummies. Regression (20) demonstrates
+the robustness of our general results. Regression (21) is gen-
+erally supportive of our previous results but does exhibit a
+positive and significant coefficient for the dirty industry
+dummy. This suggests that, as expected, over and above
+the effect of our other explanatory variables, those firms
+that pollute the most also have the best overall environ-
+mental management. That dirty firms have some of the
+best environmental management systems may not be that
+surprising as it would appear to be rational behaviour in the
+face of increasing environmental regulations and ever-closer
+scrutiny from a range of governmental and non-governmen-
+tal organisations.
+
+4.
+
+Discussion and conclusions
+
+The results in this paper go some way towards explaining the
+differences in environmental management behaviour across
+Japanese firms. One of the main results of this paper is the
+seemingly positive relationship between our measures of glo-
+balization and environmental management. Perhaps one con-
+sequence of the growth in multinational activity is that such
+firms are becoming increasingly aware of their environmental
+obligations. In an information and media-led world, the reper-
+cussions for a company that obtains a reputation as an abuser
+
+of the environment can be severe for future profits and even
+for the survival of the firm. This is reflected, for example, in
+the fact that a firm's expenditure on advertising and brand
+building is a positive determinant of environmental
+management.
+
+Another inference we can draw from this study is that
+governments need to consider two aspects of a firm's envir-
+onmental performance. A distinction can be made between
+managing a firm's pollution and managing how the general
+public perceive the firm's management of pollution. Measures
+to encourage a greater take up of ISO 4001 would, for example,
+more closely align a firm's aims with its actual environmental
+outcomes.
+
+A final point of interest is the generally negative sign
+on the ‘Keiretsu’ variable that suggests that the traditional
+corporate structure of the Japanese economy may act to
+hinder improvements in the environmental management
+of Japanese firms. They may reflect an inherent lack of
+‘Keiretsu’ members to adapt
+flexibility and inability of
+quickly to changing public and governmental perceptions
+on the importance of environmental
+issues. The other
+possible explanation is
+the financial and legal
+resources available to Keiretsu members may enable them
+to fight civil and government actions aimed at increasing
+regulations or reducing emissions in the firm's area of
+business.
+
+that
+
+There is a considerable scope for future research in this
+area. Measures of firm-level emissions and more direct mea-
+sures of regulations would enable us to examine more closely
+the relationship between environmental management and
+actual performance.
+
+Acknowledgement
+
+We gratefully acknowledge the support of ESRC grant number
+RES-000-22-0016 and Leverhulme Trust grant number F/
+00094/AG.
+
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+321
+
+Appendix A
+Data definitions
+
+Each of our firms falls into one of the following industries: Food and Beverages, Textiles, Paper and Pulp, Chemicals and
+Chemical Products, Refined Petroleum Products, Rubber and Plastics Products, Clay and Glass, Iron and Steel, Non-Ferrous
+Metals and Metal Products, Machinery, Electrical Machinery, Motor Vehicle, Other Transport Equipment, Precision Instru-
+ments, Other Manufacturing, Gas and Electrical and Construction. Industries in bold are those defined as ‘dirty’ by Mani and
+Wheeler (1998). The exception is the Gas and Electrical industry that is classified as dirty based on UK emission data.
+
+Table A1 – Definitions of dependent variables (source: Nihon Keizai Shimbun, 2000)
+Variable
+
+Definition/source
+
+Total industrial waste management Management to control total industrial waste. The variable uses progress in setting targets for managing
+total industrial waste, the value of the targets and actual reduction of total industrial waste in percentage
+terms. The results for each part of the question are then summed.
+Management of total amount of industrial waste.
+
+Total treated industrial waste
+
+management
+
+CO2 emission management
+Land and ground water pollution
+
+control
+
+Industrial waste outsourcing and
+
+recycling
+
+Management of CO2 emissions.
+Management of land and ground water pollution and the activities concerning environmental pollution
+prevention. The value evaluated a firms understanding of their land and ground water pollution and the
+implications of dioxin reducing practices.
+The variable uses the degree of control firms have over the outsourced treatment of industrial waste.
+
+Management of global warming and
+
+The variable uses the amount of effort put into, for example, for tree planting and energy saving.
+
+energy saving
+
+Environmental accounting
+
+Disclosure of environmental
+
+statement
+
+Environmental management
+
+structure
+
+Environmental friendly products
+
+Environmental cooperation
+
+Disclosure of chemical treatment
+
+ISO 14001
+
+Overall environmental management
+
+performance
+
+Measures the structure of the costs associated with managing environmental programs. The variable
+uses the amount of effort applied to environmental accounting.
+The variable evaluates whether environmental statements are provided to shareholders and the level of
+content.
+Records whether a firm has a department designed to focus on environmental affairs, who is in charge
+and whether there are methods of imparting environmental information to employees.
+The variable measures the progress in the implementation of Life Cycle Assessment (LCA) and the level
+of parts and materials that are bought from green sources.
+Measures how a firm cooperates and partners with external agencies such as other firms or research
+organisations concerning environmental issues.
+Disclosure of information concerning chemicals and their treatment. The value measures the
+understanding of the situation concerning the amount of usage and emission of chemicals, and the
+degree of disclosure of information.
+Acquirement of the ISO 14001 certification. A firm with ISO 14001 certification has an environmental
+management programme that is recognised to meet a range of internationally agreed standards.
+The overall environmental management performance is calculated by using principle component
+analysis on the 13 indices listed above.
+
+Table A2 – Correlation matrix of economic variables and overall environmental management performance
+
+Overall environmental
+
+management
+performance
+
+FDI
+
+Exports PCI HCI TFP Debt Size Marketing R&D Age Keiretsu
+
+Overall environmental
+
+management
+performance
+
+FDI
+Exports
+PCI
+HCI
+TFP
+Debt
+Size
+Marketing
+R&D
+Age
+Keiretsu
+
+1.00
+
+0.20
+0.25
+0.16
+0.10
+0.15
+−0.01
+0.53
+0.07
+0.20
+0.06
+−0.02
+
+1.00
+0.24
+0.09
+−0.02
+−0.06
+0.13
+0.09
+0.05
+0.12
+−0.04
+0.02
+
+1.00
+−0.20
+−0.07
+−0.09
+0.21
+0.14
+−0.06
+0.28
+0.05
+0.04
+
+1.00
+0.21
+
+1.00
+1.00
+0.27
+0.19
+0.18
+−0.16 −0.08
+−0.01
+0.02 −0.10
+0.04
+−0.04 −0.05 −0.02
+0.08
+0.05
+
+0.05 −0.02 −0.11 1.00
+0.05 0.01
+0.19 0.13
+0.16 −0.01 −0.16 0.04
+0.05 −0.19 −0.36 0.06
+
+1.00
+
+1.00
+0.08
+−0.11
+−0.03
+
+1.00
+0.03
+0.05
+
+1.00
+0.23
+
+1.00
+
+
+322
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+Fig. A1 – Mean environmental management indicators for ‘dirty’ and ‘non-dirty’ industries.
+
+R E F E R E N C E S
+
+Antweiler, W., Copeland, B.R., Taylor, M.S., 2001. Is free trade good
+
+for the environment? American Economic Review 91 (4),
+877–908.
+
+Aragon-Correa, J.A., Sharma, S., 2003. A contingent resource-based
+
+view of proactive environmental strategy. Academy of Man-
+agement Review 28 (1), 71–88.
+
+Arora, S., Cason, T.N., 1995. An experiment in voluntary environ-
+
+mental regulation: participation in EPA's 33/50 program.
+Journal of Environmental Economics and Management 28,
+271–286.
+
+Arora, S., Cason, T.N., 1996. Why do firms exceed environmental
+regulations?: understanding participation in EPA's 33/50 pro-
+gram. Land Economics 72, 413–432.
+
+Cole, M.A., Elliott, R.J.R., 2003. Determining the trade-environment
+composition effect: the role of capital, labor and environmental
+regulations. Journal of Environmental Economics and Man-
+agement 46 (3), 363–383.
+
+Cole, M.A., Elliott, R.J.R., Shimamoto, K. 2005a. Globalization, firm-
+level characteristics and environmental management: a study
+of Japan, University of Birmingham Discussion Paper 05-17.
+Cole, M.A., Elliott, R.J.R., Shimamoto, K., 2005b. Industrial char-
+acteristics, environmental regulations and air pollution: an
+analysis of the UK manufacturing sector. Journal of Environ-
+mental Economics and Management 50, 121–143.
+
+Damania, R., Fredriksson, P.G., List, J.A., 2003. Trade liberalization,
+
+corruption, and environmental policy formation: theory and
+evidence. Journal of Environmental Economics and Manage-
+ment 46 (3), 490–512.
+
+DeCanio, S.J., Watkins, W.E., 1998. Investment in energy efficiency:
+
+do the characteristics of firms matter? Review of Economics
+and Statistics 80, 95–107.
+
+Fukao, K., Izawa, T., Kuninori, M., Nakakita, T., 1994. Determinants
+of Japanese foreign direct investment—the empirical study on
+the electronics industry firms using panel data (in Japanese)
+Keizai Kenkyu 45 (3), 261–278.
+
+Henriques, Sadorsky, 1996. The determinants of an environmen-
+
+tally responsive firm: an empirical approach. Journal of
+Environmental Economics and Management 30, 381–395.
+
+Hoshi, T., Kashyap, A., Scharfstein, D., 1991. Corporate structure,
+liquidity, and investment: evidence from Japanese industrial
+groups. The Quarterly Journal of Economics 107, 33–60
+(February).
+
+Hymer, S., 1976. The Location of Industry and International
+
+Competitiveness. Oxford University Press, Oxford.
+
+Gray, W.B., Deily, M.E., 1996. Compliance and enforcement:
+
+air pollution regulation in the U.S. steel industry.
+of Environmental Economics and Management 31 (1),
+96–111.
+
+Journal
+
+Gunningham, N., Kagan, R., Thornton, D., 2003. Shades of Green:
+
+Business, Regulation and Environment. Stanford University
+Press, Stanford, CA.
+
+Gunningham, N., Kagan, R., Thornton, D., 2004. Social license and
+environmental protection: why businesses go beyond compli-
+ance. Law and Social Inquiry 29 (2), 307–341.
+
+Kindleberger, C.P., 1969. American Business Abroad: Six Lectures
+
+on Direct Investment. Yale University Press, New Haven,
+London.
+
+Levy, D.L., 1995. The environmental practices and performance of
+transnational corporations. Transnational Corporations 4 (1),
+44–68.
+
+Mani, M., Wheeler, D., 1998. In search of pollution havens: dirty
+industry in the world economy 1960–95. Journal of Environ-
+ment and Development 7 (3), 215–247.
+
+Nakamura, M., Takahashi, T., Vertinsky, I., 2001. Why Japanese
+
+firms choose to certify: a study of the managerial response to
+
+
+E C O L O G I C A L E C O N O M I C S 5 9 ( 2 0 0 6 ) 3 1 2 – 3 2 3
+
+323
+
+environmental issues. Journal of Environmental Economics
+and Management 42 (1), 23–52.
+
+Neumayer, E., 2001. Greening Trade and Investment: Environ-
+
+Sinclair-Desgagné, B., Gabel, H.L., 1997. Environmental auditing in
+
+management systems and public policy. Journal of Environ-
+mental Economics and Management 33 (3), 331–346.
+
+mental Protection Without Protectionism. Earthscan, London.
+
+Toyo Keizai Shinpo, 2000a. Foreign Investing Companies Profiles.
+
+Nihon Keizai Shimbun, 2000. Report on 3rd Study of Environ-
+
+Toyo Keizai Shinpo, Tokyo (in Japanese).
+
+mental Management, (in Japanese), Tokyo, Nihon Keizai
+Shimbun, Inc./ Nikkei Research, Inc.
+
+OECD, 1994. OECD Environmental Performance Review: Japan.
+
+Toyo Keizai Shinpo, 2000b. Corporate Finance Carte. Toyo Keizai
+
+Shinpo, Tokyo (in Japanese).
+
+Toyo Keizai Shinpo, 2000c. ‘Keiretsu’ Profile. Toyo Keizai Shinpo,
+
+OECD, Paris.
+
+Tokyo (in Japanese).
+
+Pargal, S., Wheeler, D., 1996. Informal regulation of industrial
+
+Zarsky, L., 1999. Havens, Halos and Spaghetti: Untangling the
+
+pollution in developing countries: evidence from Indonesia.
+Journal of Political Economy 104 (6), 1314–1327.
+
+Evidence about Foreign Direct Investment and the Environ-
+ment. OCED, Paris.
+

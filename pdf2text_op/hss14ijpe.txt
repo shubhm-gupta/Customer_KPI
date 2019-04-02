@@ -1,0 +1,2013 @@
+Int. J. Production Economics 153 (2014) 54–65
+
+Contents lists available at ScienceDirect
+
+Int. J. Production Economics
+
+journal homepage: www.elsevier.com/locate/ijpe
+
+Internal integration as a pre-condition for external integration in global
+sourcing: A social capital perspective
+
+Philipp Horn n, Paul Schefﬂer, Holger Schiele
+
+University of Twente, School of Management and Governance, P.O. Box 217, NL-7500 AE Enschede, The Netherlands
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 10 December 2012
+Accepted 25 March 2014
+Available online 1 April 2014
+
+Keywords:
+Global sourcing
+Integration
+Social capital
+
+The purpose of this study is to explore the link between integration and global sourcing success in
+international operations and by doing so, to clarify the ambiguous picture that prevails in the existing
+literature. Speciﬁcally, this quantitative study aims at identifying the role of the buying companies’
+internal and external integration with suppliers using a social capital lens. Data were collected from the
+central purchasing department of a multinational automotive OEM located in Germany. A sample of 82
+purchasers was surveyed about their assessment of global sourcing projects, focusing on internal cross-
+functional integration, external supplier integration and project success. The data were analyzed with
+structural equation modeling procedures, using SmartPLS. The ﬁndings indicate that internal integration
+is a precondition for external integration with suppliers, which accordingly has a strong positive
+inﬂuence on global sourcing success. Surprisingly, the direct relationship between internal and external
+integration was not signiﬁcant, indicating a mediating role of social capital within this relationship. The
+theoretical originality lies in the use of the social capital theory and its three dimensions: cognitive,
+structural and relational capital for both internal and external integration, and in the connection
+between integration and global sourcing success. From a practical perspective, it can be recommended
+that managers distinguish between an internal and an external perspective. Internally, the focus should
+lie on the clear communication of common goals and norms, whereas externally, the deﬁnition of
+mutual contact points between organizations is of higher importance.
+
+& 2014 Elsevier B.V. All rights reserved.
+
+1.
+
+Introduction
+
+Following the idea of lower factor costs in certain supply
+markets, there seems to be a strong consensus,
+in particular
+among practitioners, that international sourcing is either inevita-
+ble and/or beneﬁcial
+for ﬁrms (Kotabe and Mudambi, 2009;
+Nassimbeni, 2006; Schiele et al., 2011a; Steinle and Schiele,
+2008). Global sourcing has been called “an automatic expectation
+to respond to competition” (Carter et al., 2008, p. 225). However,
+previous ﬁndings concerning the results of global sourcing initia-
+tives are somewhat contradictory; they show effects that range
+from negative to neutral (Kotabe and Omura, 1989; Murray et al.,
+1995; Schiele et al., 2011a) to 20% savings (Petersen et al., 2000;
+Trent and Monczka, 2003b; Weber et al., 2010). Some scholars
+argue that global sourcing is primarily a means of generating
+short-term cost advantages on a unit price level (Petersen et al.,
+2000; Schiele et al., 2011a), omitting a longer-term total cost
+perspective (Holweg et al., 2011; Murray, 2001; Trent and
+Monczka, 2003b).
+
+n Corresponding author.
+
+E-mail address: p.horn@utwente.nl (P. Horn).
+
+http://dx.doi.org/10.1016/j.ijpe.2014.03.020
+0925-5273/& 2014 Elsevier B.V. All rights reserved.
+
+It has been argued that the success of global sourcing is based
+on the “worldwide integration of engineering, operations, and
+procurement centers within the upstream portion of a ﬁrm's
+supply chain” (Trent and Monczka, 2003b, p. 608). Thus, organiza-
+tions face the challenge of integrating their internal functions with
+the entire supply chain (Golini and Kalchschmidt, 2011; Pagell,
+2004). Apart from internal integration, recent research has inves-
+tigated the link between external supplier integration and perfor-
+mance; the results suggest a positive effect of supplier integration
+on the buying ﬁrm's performance (Golini and Kalchschmidt, 2011;
+Lawson et al., 2008; Leana and Pil, 2006; Villena et al., 2011; Zhao
+et al., 2011) as well as a positive effect in the global sourcing
+context (Zhao et al., 2011).
+
+Dyadic success factors for global sourcing, such as external
+integration between companies, have been widely researched, e.g.,
+under a transaction cost economics view (Kotabe, 1994; Murray,
+2001; Murray et al., 1995; Schneider et al., 2013) or the resource-
+based view (Espino-Rodríguez and Padrón-Robaina, 2006). This
+research has employed case studies (Forza, 2009), surveys
+(Frohlich and Westbrook, 2001) and simulations. However, despite
+a call for research from various scholars (Petersen et al., 2000;
+Trent and Monczka, 2003b; Weber et al., 2010), the internal
+prerequisites for a ﬁrm's global sourcing success have been largely
+
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+55
+
+under-researched (Hartmann et al., 2008), although the impor-
+tance of the integration of various functions within the ﬁrm for
+knowledge transfer and cooperation, e.g., for new product devel-
+opment
+(Moses and
+Ahlstroem, 2009), and the general performance of the ﬁrm
+(Maltz and Kohli, 1996) has been shown.
+
+(Kahn, 1996), make-or-buy decisions
+
+Previous studies have also explored the interplay of internal
+and external integration in contexts such as product development
+(Koufteros et al., 2005) and general corporate performance out-
+comes (Droge et al., 2004). The results of these studies suggest that
+there may be a positive link between the two types of integration.
+However, it has not yet been shown how the joint effects of
+internal and external integration inﬂuence global sourcing success.
+Based on the prevailing literature, it cannot be stated a priori that
+internal and external integration also contribute to global sourcing
+success because global sourcing often incorporates special needs
+and particular ﬁrm characteristics (Trent and Monczka, 2003b,
+2005).
+
+This research paper aims to demonstrate that global sourcing is
+more than simply a set of tools designed to provide short-term
+cost savings. Speciﬁcally, the inﬂuence of intensiﬁed integration
+efforts is of interest. At the core of this research is the question of
+whether a high level of
+integration
+contributes to a higher level of external integration (Koufteros et
+al., 2005) in a global sourcing context. Consequently, this work
+explores whether internal and external integration can serve as
+antecedents for successful global sourcing.
+
+internal cross-functional
+
+Because integration usually involves various elements of social
+interaction (Rabbiosi and Santangelo, 2013) and in line with prior
+research on integration in supply chain management, social capital
+theory has been chosen as the theoretical framework of the
+present research (Krause et al., 2007; Villena et al., 2011; Zhang
+and Huo, 2013). This leads, ﬁnally, to the main research question:
+Are internal integration of the functions within the buying ﬁrm
+and the accumulation of social capital prerequisites for external
+supplier integration, ultimately leading to increased global sour-
+cing success?
+
+The paper is structured as follows. After a brief literature
+review, our hypotheses regarding the relationship between social
+capital and internal and external integration, as well as the role of
+integration in the success of global sourcing, are presented. The
+chosen method of empirical analysis, which involves a sample of
+82 global sourcing purchasing projects,
+is explained, and the
+results of our survey are discussed. The paper concludes with a
+discussion of the limitations of the research setting and some
+suggestions for further research.
+
+2. Theoretical considerations
+
+2.1. Global sourcing and the internal – external integration link
+
+Since the 1990s, global business transactions have been grow-
+ing considerably faster than domestic economies (Bowersox and
+Calantone, 1998), and multinational business has received increas-
+ing attention (Schiele et al., 2011a). The clear focus for ﬁrms on
+traditional western purchasing markets has been shown to lie in
+the cost-saving aspects of global sourcing (Alguire et al., 1994;
+Monczka and Giunipero, 1985; Spekman, 1991). While many
+terms, some of which have been precisely deﬁned and some of
+which have been used interchangeably, have been used to describe
+global sourcing (Schiele et al., 2011a), the term “global sourcing” is
+herein employed as an umbrella term for cross-border sourcing
+aiming at cost savings.
+
+As suggested in the literature,
+
+integrated global sourcing
+activities are usually more successful than sourcing activities that
+
+focus on arm's-length transactions (Horn et al., 2013; Pagell, 2004;
+Trent and Monczka, 2003a, b). As a consequence, integration has
+recently received increased attention in the context of operations
+management. In addition to pioneering publications such as that
+of Trent and Monczka (2003b), which elaborates on integrated
+global sourcing, a growing number of researchers have discussed
+the beneﬁcial effects of internal integration (e.g. Foerstl et al.,
+2013; Pagell, 2004; Quintens et al., 2006; Trautmann et al., 2009)
+and external integration (e.g. Cousins and Menguc, 2006; Das et
+al., 2006; Fabbe-Costes and Jahre, 2007; Wiengarten et al., 2014)
+on operational performance. In contrast to publications that focus
+on internal cross-functional integration or on integration with
+external supply chain members, there has been a shift to research
+settings that examine both types of integration (e.g. Droge et al.,
+2004; Flynn et al., 2010; Kim, 2006; Koufteros et al., 2005;
+Wiengarten et al., 2014; Yang et al., 2013; Zhao et al., 2013).
+Nevertheless, despite the fact that the number of studies addres-
+sing internal and external integration has increased considerably,
+the proposed relationships among the effects and their modera-
+tors and mediators remain undeﬁned, and a well-developed
+suitable theoretical framework is lacking.
+
+inter-organizational
+
+In the reviewed literature, Schoenherr and Swink (2012)
+provide evidence concerning the moderating effect of internal
+integration on external integration, whereas Zhao et al. (2011)
+show a moderating role of supplier integration in customer
+integration. Gimenez and Ventura (2005) investigated Spanish
+companies and found evidence for the existence of a positive
+relationship between internal integration of the logistics function
+with the functions of other departments such as marketing and
+production and with external
+integration.
+However, Gimenez and Ventura (2005) assumed a bidirectional
+effect, meaning that internal integration facilitates external inte-
+gration and vice versa. In contrast, Schoenherr and Swink (2012)
+emphasized the positive effect of internal
+integration on the
+relationship between external integration and delivery/ﬂexibility
+performance. Their work broadly supports the ﬁndings of Droge
+et al. (2004), who analyzed a sample of ﬁrst-tier suppliers from
+North American automotive OEMs. Their results indicate that “(…)
+the joint use of external and internal integration has synergistic
+effects on ﬁrm performance outcomes” (Droge et al., 2004, p. 570),
+implying that both types of integration deserve managerial atten-
+tion. Still, Droge et al. (2004) conclude that the effects of interac-
+tion between internal and external integration has to a large
+extent been left unnoted, calling for further research. In a more
+recent study, Zhao et al. (2011) argued that external integration
+with market partners is positively inﬂuenced by internal func-
+tional integration and relationship commitment.
+
+The results cited above indicate that internal integration is
+likely to exert an inﬂuence on external integration and on various
+measures of performance. However, the relationship between
+internal and external integration in purchasing and the mechan-
+isms underlying this relationship are still ambiguous.
+In an
+attempt to close this gap, the present paper focuses on the link
+between the two types of integration.
+
+2.2. Social capital theory
+
+Within a supply chain management context, the importance of
+integration is emphasized in the literature (e.g. Fabbe-Costes and
+Jahre, 2007; Hamprecht et al., 2005; Pagell, 2004). The view of the
+positive effects of integration is not limited to an internal per-
+spective (Pagell, 2004) but also covers external integration with
+suppliers (Krause et al., 2007; Lawson et al., 2008). Because
+integration refers to the process of interaction and collaboration
+to achieve mutually acceptable outcomes (Pagell, 2004), we posit a
+close linkage between social interaction and social capital and
+
+
+56
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+integration. The underlying idea is that buyer–supplier relation-
+ships represent multi-organization social processes in which the
+partners interact, exchange information, and form relationships
+based on interdependencies, exchanges, and mutual problem-
+solving (Hughes and Perrons, 2011). The positive conditions
+necessary for the exchange of such resources depend upon the
+development of social capital within these relationships (Hughes
+and Perrons, 2011).
+
+The concept of social capital has gained increasing attention in
+the last decade (Krause et al., 2007; Lawson et al., 2008; Tsai and
+Ghoshal, 1998), and it has been investigated in the context of
+relationships between individuals and organizations (Ahuja, 2000;
+Tsai, 2000; Tsai and Ghoshal, 1998). Scholars within the supply
+chain management ﬁeld have also used this theory as a “theore-
+tical lens” (e.g. Krause et al., 2007; Lawson et al., 2008; Min et al.,
+2008). Despite these scientiﬁc efforts, our understanding of social
+capital and its role in a ﬁrm's value creation remains to a large
+extent unclear
+(Hughes and Perrons, 2011). According to
+Coleman's (1994) broadly shared view, social capital covers any
+aspect of social structure that facilitates the creation of value and
+supports the actions of individuals who belong to the social
+structure under investigation (Seibert et al., 2001). Based on this
+understanding, social capital can be deﬁned as “the sum of the
+actual and potential resources embedded within, available through,
+and derived from the network of relationships possessed by an
+individual or social unit” (Nahapiet and Ghoshal, 1998, p. 243).
+Put another way, the guiding idea of social capital is the recogni-
+tion of another's goodwill towards a certain entity as a valuable
+resource (Adler and Kwon, 2002).
+
+Nahapiet and Ghoshal (1998) identify and delineate three
+dimensions of social capital, namely cognitive, structural and
+relational capital. The cognitive dimension includes shared inter-
+pretations; these are comparable to codes or paradigms that
+facilitate the understanding of the social system and its respective
+goals in terms of norms, values, attitudes, and beliefs (Tsai and
+Ghoshal, 1998; Uphoff and Wijayaratna, 2000). As emphasized by
+Inkpen and Tsang (2005), shared culture and congruent goals are
+substantive dimensions of cognitive capital (Villena et al., 2011). In
+this context, “shared culture refers to the degree to which norms of
+behavior govern relationships, whereas congruent goals represent the
+degree to which parties share a common understanding and
+approach to the achievement of common tasks and outcomes”
+(Villena et al., 2011, p. 562). Hence, it can be expected that the
+similarity of organizational cultures and also cultural differences
+on an individual level inﬂuence the corporate success of alliances
+(Parkhe, 1993). The reasons for this relationship are manifold. The
+reasons often mentioned are, among others, constraints on unde-
+sirable behavior in favor of collective interests (Coleman, 1994),
+improved harmony, and the reduction of opportunistic behavior
+(Ouchi, 1980).
+
+The common understanding of structural social capital is that
+of a certain pattern of connections between entities,
+i.e., the
+connections an individual or an organization has and how these
+can be used (Burt, 1997; Villena et al., 2011). Hence, the presence
+or absence of network ties between participants is an important
+facet of this dimension (Nahapiet and Ghoshal, 1998). Depending
+on the structural conﬁguration of the pattern, valuable resources
+that can lead to competitive advantages (Barney, 1991) can be
+accessed. For this reason, closure and density within the social
+structure are of primary interest because they facilitate the
+exchange of resources (Zaheer and Bell, 2005). In addition, various
+scholars have suggested that partnering entities can foster the
+exchange of reliable and diverse information (Guido et al., 2006;
+Koka and Prescott, 2002; Villena et al., 2011). As a result,
+particularly dense structures are assumed to be beneﬁcial insofar
+as they permit reception of the right information at the right time
+
+(Zaheer and Bell, 2005). Another potential beneﬁt of dense
+relationship structures is that they make it possible to validate
+information and therefore increase its reliability as well as its
+diversity (Chen et al., 2009; Villena et al., 2011). For this reason,
+social capital theory argues that structural social capital
+is a
+valuable resource both for relationships within organizations and
+for relationships between them.
+
+The relational dimension of social capital is ultimately based on
+the notion of Granovetter and Swedberg (1992) concern-
+ing embeddedness and refers to the relationships that people
+have developed with each other over time through interac-
+tions (Nahapiet and Ghoshal, 1998). Thus, relational social capital
+reﬂects the view that sources of competitive advantage can be
+based on relationships, extending the boundaries of the resource-
+based view of the ﬁrm (Koufteros et al., 2010). In this regard, the
+basis for learning and know-how transfer within a relationship is
+based on mutual trust and interaction (Kale et al., 2000). Further-
+more, because mutual trust and commitment play a major role in
+the relational component (e.g. Lee and Cavusgil, 2006), the
+relational dimension is delineated into trust and commitment.
+As a result of relational capital, the risk of opportunistic behavior
+as well as the possible leakage of critical knowledge is reduced
+(Kale et al., 2000). Hence, relational capital can improve corporate
+performance (Lawson et al., 2008).
+
+It has been argued by scholars that there are certain relation-
+ships and dependencies between the social capital dimensions (e.
+g. Carey et al., 2011; Nahapiet and Ghoshal, 1998; Tsai and Ghoshal,
+1998). To illustrate the associations between the social capital
+dimensions, Tsai and Ghoshal (1998) state that structural capital
+may stimulate the relational dimension of social capital. In this
+context, structural social capital, which is represented by social
+interaction ties, might induce trust and trustworthiness, leading to
+the accumulation of relational capital (Tsai and Ghoshal, 1998).
+This is reasonable assuming that trust between organizations or
+functions can be seen as an agglomeration of trust between
+individuals (Kale et al., 2000). Hence, this conclusion further
+supports the idea that individual social interaction ties (structural
+capital) are positively related to the emergence of relational
+capital. Similarly, the cognitive dimension of social capital can
+also be seen as an antecedent of relational capital. Prior research
+has indicated that trust, as an essential ingredient of relational
+capital, particularly emerges in relationships in which common
+goals and values (cognitive capital) exist between the parties
+(Carey et al., 2011). Thus, knowing about relevant norms and
+acting in accordance to them is likely to breed trust between
+partners (Carey et al., 2011; Nahapiet and Ghoshal, 1998).
+
+Taking all aspects into consideration, we conclude that social
+capital and its respective dimensions (structural, relational, and
+cognitive) can be seen as beneﬁcial for an organization's perfor-
+mance. We take this as the point of departure from which to
+investigate the applicability of the social capital theory in the
+domain of supply chain integration. Furthermore, in line with
+Murray (2001), we assume that companies that possess a higher
+level of external integration with suppliers in their global sourcing
+activities are particularly successful. Similarly, internal integration
+is expected to be indirectly beneﬁcial for the performance of global
+sourcing organizations (Trautmann et al., 2009) due to the
+mediating role of social capital
+in this relationship. Thus, we
+extend the research on integration and ﬁrm performance (e.g.
+Schoenherr and Swink, 2012) by explicitly linking different forms
+of integration to global sourcing success.
+
+2.3. Hypotheses
+
+Internal integration, also often called cross-functional integra-
+tion, refers to “the magnitude of interaction and communication,
+
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+57
+
+the level of information sharing, the degree of coordination, and
+the extent of joint involvement across functions” (Montoya-Weiss
+et al., 2001, p. 65). Cross-functional integration can be beneﬁcial
+for communication, interaction, information sharing and coordi-
+nation between functions, leading to a collaborative and inter-
+active forum for different functions within a ﬁrm (Cheng et al.,
+2012; Hirunyawipada et al., 2010; Kahn, 1996; Montoya-Weiss et
+al., 2001). This collaborative environment is likely to be facilitated
+by the existence and accumulation of social capital (Leana and Pil,
+2006; Sparrowe et al., 2001).
+
+For a deeper understanding of the roles of individual social
+capital dimensions and in line with prior research, we argue that
+the development of relational capital within a ﬁrm is fostered by
+the accumulation of cognitive and structural capital (Carey et al.,
+2011; Tsai and Ghoshal, 1998). The rationale underlying this
+argument is that common values and a shared vision may
+encourage the development of trust, reducing tendencies to
+opportunistic behavior (Panayides and Venus Lun, 2009) and
+leading to the development of
+(Tsai and
+Ghoshal, 1998). Thus, the availability of common cognitive capital,
+that is, the ability of participants to make sense of their joint
+experiences, is seen as a precondition for the build-up of relational
+capital (Carey et al., 2011; Nahapiet and Ghoshal, 1998).
+
+relational capital
+
+Similarly, the network of relationships, which is labeled struc-
+tural capital, permits a ﬂow of information and knowledge, paving
+the way for the beneﬁts of relational capital (Carey et al., 2011).
+Previous research has shown that trust stems from social interac-
+tion ties, particularly those developed over time. This leads to the
+assumption that structural capital is beneﬁcial for the accumula-
+tion of relational capital (Tsai and Ghoshal, 1998). To sum up, we
+assume that there is a positive relationship between both cogni-
+tive and structural capital and the development of relational
+capital. Relational capital, in turn, is likely to be positively related
+to successful internal integration. In this regard, Tsai and Ghoshal
+(1998, p. 467) state: “When two parties begin to trust each other,
+they become more willing to share their resources without worrying
+that they will be taken advantage of by the other party.” Given the
+above-explained connection between relational capital and inter-
+nal integration, we hypothesize that there is a positive relationship
+between relational capital and internal integration. As a result,
+hypotheses H1 and H2 have been formulated:
+
+(H1a) The existence of internal cognitive capital
+related to the accumulation of internal relational capital.
+
+is positively
+
+(H1b) The existence of internal structural capital
+related to the accumulation of internal relational capital.
+
+is positively
+
+(H2) Internal relational capital is positively related to internal
+integration.
+
+Once a cooperative environment has been developed within an
+organization, various beneﬁcial effects can occur. Accordingly, it
+can be expected that if a ﬁrm's structures and processes are
+fragmented, the ﬁrm is less likely to possess the capabilities
+needed to resolve potential conﬂicts and actively support integra-
+tion with external market partners (Zhao et al., 2011). Hence, it is
+not surprising that Gimenez and Ventura (2005) found a connec-
+tion between a ﬁrm's ability to plan and work internally across
+functions and its planning and working performance with external
+supply chain partners. Because coordination of internal functions
+can also facilitate coordination with external market partners,
+some scholars argue that the establishment of a good relationship
+in terms of information sharing with the supplier and other
+functions can be seen as a precondition for successful supplier
+integration (e.g. Hughes and Perrons, 2011; Ragatz et al., 2002;
+Zhao et al., 2011). Therefore, we hypothesize a positive and direct
+
+relationship between internal cross-functional
+external supplier integration, as reﬂected in H3:
+
+integration and
+
+(H3) Cross-functional integration is positively related to external
+supplier integration.
+
+In addition to the direct relationship, we also expect the
+existence of an indirect path between cross-functional integration
+and supplier integration. Comparable to integration within the
+organization, social capital is likely to exert a signiﬁcant inﬂuence.
+Beyond the purely functional perspective, social aspects of the
+buyer–supplier relationship have also begun to receive increasing
+attention from practitioners as well as from scholars (e.g. Adler
+and Kwon, 2002; Krause et al., 2007; Lawson et al., 2008).
+
+In cross-functional integrated organizations, there is usually
+extensive cooperation and communication between departments
+(Rosenzweig et al., 2003; Sherman et al., 2000). In this collabora-
+tive environment, it is likely that the buying organization and the
+supplier can build up external social capital more easily than
+in situations in which the levels of internal integration are rather
+low (Caldwell and Hayes, 2007; Narasimhan and Kim, 2001).
+Often,
+integration incorporates the establishment of
+cross-functional teams that provide an appropriate means of
+creating structural ties between individuals and departments
+(Ellegaard and Koch, 2012; Schoenherr and Swink, 2012; Vickery
+et al., 2003). Put in another way, internal integration can support
+the structural connections between individuals or functions in an
+organization.
+
+internal
+
+Similarly, it can be argued that the same capabilities that are
+necessary to create internal social and structural ties are likely to
+be beneﬁcial to the accumulation of cognitive and structural
+capital with external partners because “(…) internal integration
+breaks down functional barriers and engenders cooperation in order
+to meet the requirements of customers (…)” (Flynn et al., 2010, p.
+60). In this context, it can be argued that internally well-integrated
+organizations are experienced in managing social exchange pro-
+cesses, i.e., those organizations are able to use social exchange
+processes to encourage the communication of shared norms, goals,
+and values with other organizations (Thompson and Fine, 1999).
+As a consequence, H4a has been formulated.
+
+Successful internal integration could also facilitate the creation
+of structural capital with external partners. The underlying ratio-
+nale of this relationship is that members of the supplier's organi-
+zation can more easily ﬁnd their respective counterparts in the
+buying organization when a dense network exists (Burt, 1997).
+Even if the right person is not contacted on the ﬁrst attempt, it is
+likely that in a well-integrated organization the employees know
+each other's areas of expertise (Reagans and McEvily, 2003) and
+thus can assist the supplier in ﬁnding the suitable contact person.
+Therefore, it is hypothesized in H4b:
+
+(H4a) Internal cross-functional integration is positively related to
+the accumulation of external cognitive capital with suppliers.
+
+(H4b) Internal cross-functional integration is positively related to
+the accumulation of structural capital with suppliers.
+
+There is evidence that social capital strengthens supplier
+relations (e.g. Gerlach, 1992; Helper, 1990; Smitka, 1991; Uzzi,
+1997), and research has shown that investments in supplier
+development can lead to the build-up of social capital between
+the buyer and the supplier (Krause et al., 2007; Villena et al., 2011).
+The development of cognitive capital between the buyer and the
+supplier creates the potential for alignment of their business
+philosophies and fosters the negotiation of congruent goals
+(Villena et al., 2011). On the other hand, the existence of structural
+capital with the supplier makes it possible for the buying ﬁrm to
+
+
+58
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+beneﬁt greatly from the supplier's extent and diversity of informa-
+tion, as well as for social ties to emerge (Leana and Pil, 2006). We
+further argue that personal relationships developed with the
+suppliers’ organization, i.e., the external relational capital (trust
+and commitment) (Sambasivan et al., 2013; Villena et al., 2011),
+mediate the relationship between cognitive/structural capital and
+external integration (Carey et al., 2011; Tsai and Ghoshal, 1998;
+Vijayasarathy, 2010). In line with Tessarolo (2007, p. 73), external
+integration is deﬁned as follows: “External integration is a strategic
+approach of the ﬁrm aimed at key boundary-spanning initiatives for
+fostering high-level coordination between a ﬁrm and its suppliers
+(…)”. To conclude, we hypothesize that in addition to the direct
+link between internal cross-functional integration and external
+integration with suppliers there is also a path consisting of the
+three dimensions of social capital. As a result, H5 and H6 were
+developed:
+
+(H5a) External cognitive capital with suppliers is positively
+related to the build-up of external relational capital with suppliers.
+
+(H5b) External structural capital is positively related to the build-
+up of external relational capital with suppliers.
+
+(H6) External relational capital with suppliers is positively related
+to external supplier integration.
+
+In recent years, various scholars have investigated the link
+between external supplier integration and performance (e.g.
+Lawson et al., 2008; Leana and Pil, 2006). Most of this research
+suggests that supplier integration is beneﬁcial to the buying ﬁrm's
+performance at the project or ﬁrm level (van der Vaart and van
+Donk, 2008). Furthermore, internal purchasing capabilities such as
+the alignment of purchasing strategy with other functional stra-
+tegies have been shown to be beneﬁcial for global sourcing success
+(Hartmann et al., 2008). This supports the view that global
+sourcing is “an advanced approach to sourcing and supply manage-
+ment that involves integrating and coordinating common materials,
+processes, designs,
+technologies and suppliers across worldwide
+buying, design and operating locations” (Trent and Monczka, 2005,
+p. 24). We also expect a positive relationship due to the assump-
+tion that the buying company can gain access to and leverage
+resources through collaborative relationships with its suppliers
+(Villena et al., 2011; Wagner, 2011), thereby beneﬁting from the
+existence of social capital between the organizations. This leads to
+H7, which is presented below. An overview of the proposed model
+is given in Fig. 1.
+
+(H7) External supplier integration is positively related to global
+sourcing success.
+
+3. Research methodology
+
+3.1. Data collection
+
+The aim of the paper is to investigate internal and external
+supply chain integration and its links to global sourcing perfor-
+mance. For the research at hand, a group of purchasers from the
+central purchasing department of a multinational automotive
+original equipment manufacturer (OEM) located in Germany were
+surveyed. By pursuing this research approach, we were able to
+beneﬁt from the experience of purchasers who operate under
+comparable conditions in diverse industries.
+
+A single-ﬁrm inductive research setting reduces confounding
+factors from industry and ﬁrm differences. The automotive indus-
+try was chosen for this study because it is of major importance in
+the world economy (Taylor and Taylor, 2008) and because it is of
+trend-anticipating character (Schiele et al., 2011a). The sampling
+method used in the study is purposive judgment sampling, a form
+of non-probability sampling, ensuring that the surveyed indivi-
+duals were selected for conformity to a predetermined criterion, in
+this case that the purchaser is responsible for acquiring a part in a
+global sourcing context and that the purchaser is afﬁliated with
+the buying company (Blumberg et al., 2008). Using this method, a
+population of 186 purchasers involved in global sourcing activities
+within the focal company was identiﬁed. It was assumed that the
+relevant values, beliefs, and attitudes of this population are likely
+to be normally distributed and that representative inferences
+could thus be drawn from the data (Marshall, 1996). Because all
+the purchasers surveyed worked in the same division of one large
+OEM, it is reasonable to argue that all of them had passed through
+a comparable socialization process that allowed them to become
+acquainted with the companies’ guidelines for doing business. This
+socialization process partly consisted of a three-month-long man-
+datory corporate qualiﬁcation program for purchasers.
+
+Purchasing projects were chosen at random from various
+countries and from a variety of industries. The purchasing depart-
+ment of the focal company is divided into ﬁve units, each
+specializing in one speciﬁc group of items (commodities). The
+survey was conducted among purchasers of electronics, interior
+equipment, exterior equipment, powertrain, and metal commod-
+ities. Each purchaser was asked in detail about his or her
+experiences with a supplier for one speciﬁc item that she or he
+sourced from a low-wage country. This ensured that relationships
+between the automotive OEM and many different suppliers with
+different
+in other
+words, the research setting covers relationships between a large
+focal company and a diverse set of suppliers, generating increased
+credibility and generalizability of the study.
+
+industrial backgrounds were investigated;
+
+Fig. 1. Summary of the hypotheses.
+
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+59
+
+To maintain anonymity, two emails were sent to the purcha-
+sers. The ﬁrst email contained information about a certain item
+purchased by that purchaser. The second email contained an
+automatically generated code number as well as a link to an
+online survey. If the system did not register an answer after 10
+days, an automatically generated reminder email was sent to the
+purchaser. If there was no response within an additional ten days,
+follow-up calls were made to increase the response rate.
+
+We achieved a ﬁnal sample size of 82, which represents a
+response rate of approximately 44.1%. Response rates in the ﬁeld
+have generally been low (o30%) (Forza, 2009; van der Vaart and
+van Donk, 2008). Higher response rates have been linked to close
+relationships of the researcher with the surveyed company (e.g.
+Vickery et al., 2003). The questionnaire was provided in German;
+to verify translation accuracy, the items on the questionnaire were
+translated into German and then translated back into English by a
+different researcher (Harkness et al., 2004). Pre-testing with
+selected purchasers (Forza, 2009) resulted in minor adjustments
+to the questionnaire.
+
+3.2. Measures
+
+Our measure generation process followed Churchill Jr (1979).
+As a ﬁrst step, the domain of each construct was deﬁned and the
+items to be included or excluded were stated. The second step
+consisted of a search for appropriate scales (Roth et al., 2007).
+Within the survey design, we employed proven measures for all
+latent variables, measuring the items by means of ﬁve-point
+Likert-type scales. Apart from the commitment measure, which
+together with the trust measure forms the relational capital
+construct, we used similar measures for all social capital con-
+structs for internal and external social capital
+to maximize
+comparability. Cognitive capital was measured using the items
+designed by Mohr and Spekman (1994). Structural capital was
+measured according to Rindﬂeisch and Moorman (2001).
+
+As introduced by Lee and Cavusgil (2006), relational capital
+included items concerning trust and commitment. For commit-
+ment on the supplier side, Kumar et al. (1994) measures were
+used; commitment on the internal side was measured using the
+items described by Rodríguez et al. (2007). Trust was measured
+taking items from (Kaufman et al., 2006). We used a general
+integration construct introduced by Monczka et al. (1998) for
+supplier integration and (Rodríguez et al., 2007) for internal
+integration.
+
+According to van der Vaart and van Donk (2008, p. 51),
+performance was measured at the project level to “acquire reliable,
+less subjective, performance measures for the performance of a single
+relationship”, following measures by Hoegl and Gemuenden (2001)
+in combination with Tatikonda and Montoya-Weiss (2001) as an
+alternative to overall and ﬁnancial performance measures, which
+
+have been shown to be critical in many surveys (van der Vaart and
+van Donk, 2008). As control variables, we included length of
+relationship with the supplier for external social capital and
+external integration and job tenure for internal social capital and
+internal integration (Subramani, 2004).
+
+3.3. Analysis approach and psychometric properties
+
+The parameter estimates for the measurements and the struc-
+tural model were obtained by partial least squares (PLS) path
+modeling with latent variables (Fornell and Cha, 1994; Ringle et al.,
+2005; Wold, 1982). The software package SmartPLS (Ringle et al.,
+2005) was used to carry out a conﬁrmatory factor analysis (CFA)
+and to develop a structured equation model. SmartPLS uses a
+series of interdependent ordinary least squares (OLS) regressions
+to minimize residual variances (Chin, 1998) and has been shown to
+be suitable for estimating complex structural equation models and
+particularly for predicting dependent endogenous variables (Chin,
+1998; Henseler et al., 2009). The PLS approach is particularly
+useful in cases involving small sample sizes and has been shown to
+result in robust ﬁndings (Chin, 1998), one of the core reasons we
+decided to apply this method. We used bootstrap re-sampling
+(Nevitt and Hancock, 2001) with replacement using 1000 rounds
+to assign measures of accuracy to our sample (Schiele et al.,
+2011b). Missing values were dealt with by mean replacement.
+The standardized path coefﬁcients associated with our structural
+model are shown in Fig. 2.
+
+The psychometric properties of the measurement instruments
+were measured using Smart PLS and SPSS and included reliability,
+convergent validity and discriminant validity (Burton et al., 2002;
+Tenenhaus et al., 2005). Because all of our constructs are reﬂec-
+tive in nature (Edwards and Bagozzi, 2000), we assessed internal
+consistency and reliability using composite reliability (CR) (Fornell
+and Larcker, 1981; Wetzels et al., 2009) with average variance
+extracted (AVE) and with factor loadings (Edwards and Bagozzi,
+2000; Hair et al., 2006). To assess the indicator reliability of the
+model, the individual item loadings with their respective con-
+structs were analyzed as a ﬁrst step. In all, seven items were
+removed due to insufﬁcient factor loadings. In general, the items
+well exceeded the 0.7 threshold (Chin, 1998; Henseler et al., 2009).
+However, in line with Hulland (1999), we retained four items with
+factor loadings of 0.6  .
+
+With respect to convergent validity, each item strongly corre-
+lates with the construct to which it is related. Thus, convergent
+validity is satisfactory because all items load positively and with
+signiﬁcant t-values on their respective constructs (t43.211). As
+shown in Table 1, all values exceed the recommended thresholds
+of 0.5 for AVE, 0.7 for CR (Edwards and Bagozzi, 2000; Fornell and
+Larcker, 1981; Nunnally and Bernstein, 1994) and 0.7 for Cron-
+bach's alpha (Nunnally and Bernstein, 1994).
+
+Fig. 2. PLS results of the structural model.
+
+
+60
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+Table 1
+Convergent validity, reliability assessment and intercorrelations.
+
+Construct
+
+AVEb
+
+CRc
+
+Cronb. αd
+
+1. Ext_ Cog
+
+2. Ext_ Integr
+
+3. Ext_ Rel
+
+4. Ext_ Str
+
+5. GS_ Suc
+
+6. Int_ Cog
+
+7. Int_ Integr
+
+8. Int_ Rel
+
+9. Int_ Str
+
+1. Ext_Cog
+2. Ext_Integr
+3. Ext_Rel
+4. Ext_Str
+5. GS_Suc
+6. Int_Cog
+7. Int_Integr
+8. Int_Rel
+9. Int_Str
+
+0.58
+0.74
+0.60
+0.66
+0.60
+0.77
+0.64
+0.64
+0.67
+
+0.85
+0.90
+0.90
+0.85
+0.92
+0.93
+0.90
+0.91
+0.86
+
+0.76
+0.82
+0.86
+0.74
+0.91
+0.90
+0.86
+0.88
+0.75
+
+0.76
+0.60
+0.58
+0.63
+0.34
+0.44
+0.31
+0.49
+0.43
+
+0.86
+0.76
+0.70
+0.45
+0.30
+0.27
+0.23
+0.31
+
+0.77
+0.70
+0.36
+0.28
+0.23
+0.34
+0.33
+
+0.81
+0.30
+0.38
+0.37
+0.39
+0.45
+
+aSquare root of AVE on the diagonal in bold.
+
+b AVE ¼ average variance extracted; CR ¼ composite reliability; Cronb. α ¼ Cronbach's α.
+c CR ¼ composite reliability.
+d Cronb. α ¼ Cronbach's α.
+
+0.78
+0.24
+-0.06
+0.07
+0.16
+
+0.88
+0.54
+0.64
+0.56
+
+0.80
+0.62
+0.60
+
+0.80
+0.54
+
+0.82
+
+To assess discriminant validity for the constructs, we used the
+Fornell–Larcker criterion (Fornell and Larcker, 1981), which sug-
+gests that the AVE of a latent variable should be higher than the
+squared correlations between that latent variable and other latent
+variables. In this way, latent variables explain the variance of their
+own indicators better than they explain the variance of other
+latent variables. Table 1 shows that the square roots of the AVE
+scores (presented in bold on the diagonal) are all larger than the
+cross-correlation scores. Because the data were collected by means
+of a questionnaire, Harman's one-factor test (Podsakoff and Organ,
+1986) was used to check for common method variance (CMV),
+which could inﬂuence the modeled relationships. All items were
+loaded into a principal components factor analysis (PCA) with an
+unrotated solution. If one general factor were to account for most
+of the variance, CMV would pose a threat (Podsakoff and Organ,
+1986).
+In our study, the ﬁrst factor explained 32.53% of the
+variance. Therefore, CMV is not a concern.
+
+4. Findings
+
+Predictive validity within the model
+
+is medium to high.
+Approximately half of the variance in relational capital within
+the ﬁrm (45.6%) and in relational capital with the supplier (52.5%)
+can be explained by cognitive and structural capital. The existence
+of relational capital accounts for 38.9% of internal integration and
+integration, and 20% of global sourcing
+for 59.4% of external
+project success is explained by external
+integration with the
+supplier. All signiﬁcant estimates have high statistical power with
+t-values exceeding 2.576 (Table 2).
+
+Hypothesis 1 states that cognitive (1a) and structural (1b)
+capital positively inﬂuence relational capital. These hypotheses
+are strongly supported: both paths are positive and signiﬁcant (β
+0.481; t¼5.105/β 0.277; t¼2.774). In Hypothesis 2, we stated that
+relational capital has a positive effect on supplier integration.
+Again, the effect was positive and statistically signiﬁcant (β 0.623;
+t¼10.434). No empirical support was found for Hypothesis 3,
+which was based on the assumption that internal cross-functional
+integration would lead to external integration with the supplier. In
+the two-tailed test, the effect was small and not statistically
+signiﬁcant (β 0.102; t¼1.599). We furthermore hypothesized a
+positive relationship between internal cross-functional integration
+and cognitive capital with the suppliers (H4a) and between
+internal cross-functional integration and structural capital with
+the suppliers (H4b). We found support for Hypothesis 4a (β 0.310;
+t¼3.341) as well as for Hypothesis 4b (β 0.373; t¼4.113). Similar to
+internal social capital, both cognitive and structural capital lead to
+relational capital with the supplier, as suggested in Hypotheses 5a
+(β 0.232; t¼2.593) and 5b (β 0.555; t¼7.003); both results are
+
+statistically signiﬁcant and positive. We found strong support for
+Hypothesis 6, which states that relational capital with the suppli-
+integration with the suppliers (β 0.741;
+ers leads to external
+t¼15.656). In addition, the data suggest that external integration
+is indeed positively related to global sourcing success, as stated in
+Hypothesis 7 ( β 0.447; t¼5.371). Our two control variables, length
+of relationship with the supplier and tenure within the job, had no
+statistically relevant effect on our ﬁndings.
+
+5. Discussion
+
+The accumulation of cognitive and structural capital within an
+organization has been shown to facilitate the build-up of relational
+capital (Carey et al., 2011). Thus, the results of Tsai and Ghoshal (1998)
+as well as those of Carey et al. (2011) concerning the relationships
+between the social capital dimensions have been conﬁrmed. Addi-
+tionally, the study presents empirical evidence for the existence of a
+positive relationship between cross-functional integration and the
+build-up of social capital with suppliers. One insight gained from the
+results of the research at hand is that internal cross-functional
+integration does not directly lead to successful external integration
+with suppliers. This is somewhat surprising given that in a recent
+study (Zhao et al., 2011) found a signiﬁcant relationship between
+internal
+integration and supplier integration. Our results instead
+indicate the need for an accumulation of social capital with the
+partnering organization (Villena et al., 2011) as a precondition for
+successful external integration. Thus, external integration with sup-
+pliers is a consequence of internal cross-functional integration and is
+inﬂuenced by the social capital between the two organizations.
+Hence, social capital plays a mediating role. This suggests that shared
+norms and values, in connection with social ties, pave the way for
+accessing resources associated with the relationships and that by
+doing so they facilitate external integration. Thus, the apparently
+simple link between internal integration and external integration is
+shown to be more complicated than expected.
+
+The external social capital dimensions and their relationships
+to each other are congruent with the social capital relationships
+that exist within the company. Interestingly, the strength of the
+relationships differs. Whereas within the company the cognitive
+dimension of social capital exerts a stronger positive inﬂuence on
+the relational capital dimension, in the inter-organizational per-
+spective this relationship is reversed; i.e., for the build-up of
+relational capital with suppliers, external structural capital is more
+beneﬁcial than external cognitive capital. One possible interpreta-
+tion of this ﬁnding is that within a single company cognitive
+capital in terms of shared values, attitudes, norms, etc. (Tsai and
+Ghoshal, 1998; Uphoff and Wijayaratna, 2000) is more important
+than the pattern of relationships between individuals or functions
+
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+61
+
+Table 2
+Path coefﬁcients.
+
+Path/hypothesis
+
+Internal cognitive capital - internal relational capital (H1a)
+Internal structural capital - internal relational capital (H1b)
+Internal relational capital - internal cross-functional integration (H2)
+Internal cross-functional integration - external integration with suppliers (H3)
+Internal cross-functional integration - cognitive capital with suppliers (H4a)
+Internal cross-functional integration - structural capital with suppliers (H4b)
+Cognitive capital with suppliers - relational capital with suppliers (H5a)
+Structural capital with suppliers - relational capital with suppliers (H5b)
+Relational capital with suppliers - external integration with suppliers (H6)
+External integration with suppliers - global sourcing success (H7)
+
+*po0.05.
+Two-tailed tests.
+n.s. ¼ not signiﬁcant.
+
+nn po0.01.
+
+Path coefﬁcient
+
+0.481
+0.277
+0.623
+0.102
+0.310
+0.373
+0.232
+0.555
+0.741
+0.447
+
+t-value
+
+5.105**
+2.774**
+10.434**
+1.599 n.s.
+3.341**
+4.113**
+2.593**
+7.003**
+15.656**
+5.371**
+
+(Burt, 1997). In contrast, between organizations, the structural
+dimension of social capital seems to be of higher value than the
+cognitive one. A potential explanation of this ﬁnding could be that
+the membership of an individual in an organization is already
+equivalent to an initial endowment of structural capital in terms of
+the individual's ties to other organizational members. On the other
+hand, the existence of shared goals and visions (cognitive capital)
+might act as a framework for the alignment of actions and
+initiatives, facilitating exchange of and access to information that
+lies in relationships (relational capital). In contrast,
+in buyer–
+supplier relationships, shared norms and values are indeed of
+interest but are not as important as the presence of certain contact
+points in the partnering company, which are the precondition for
+the exchange of resources such as information and knowledge.
+This interesting ﬁnding could potentially provide a new avenue for
+future research on social capital in buyer–supplier relationships.
+Furthermore, in line with scholars such as Lawson et al. (2008) and
+Carey et al. (2011), it was conﬁrmed that external integration with
+suppliers has a signiﬁcant positive impact on performance, which
+we operationalized as global sourcing success.
+
+Taking all aspects of our ﬁndings into consideration, we have
+made a signiﬁcant contribution to the operations management
+literature insofar as we investigated internal as well as external
+organizational integration under a social capital lens. In addition,
+integration was linked to global sourcing performance, and new
+avenues for future research were identiﬁed. Thus, the knowledge
+base of global sourcing has been extended.
+
+In our data, we were not able to ﬁnd evidence for the existence of
+“the dark side of buyer–supplier relationships”, the idea that cogni-
+tive structural and relational capital can impede value creation in
+buyer–supplier relationships, as proposed by Villena et al. (2011). The
+main reasons posited for the presumed negative effects of too much
+social capital were the reduced ability to make effective decisions as
+well as increased opportunistic behavior by suppliers (Villena et al.,
+2011). On the contrary, the overall results of our study emphasize the
+high relevance of integration (internal and external) as well as social
+capital in buyer–supplier relationships.
+
+To conclude, our study expands the existing body of knowledge
+regarding social capital theory with the following three points. First,
+social capital theory has been used to explain internal as well as
+external
+integration in the global sourcing context. Second, we
+showed that the strength of the relationships between the social
+capital dimensions within the buying company differs from the
+strength of the relationships between the buyer and the supplier.
+Third, our data showed that there is no direct and signiﬁcant link
+between internal cross-functional integration and external integration
+with suppliers. Consequently, by investigating the internal perspective
+as well as the external perspective of social capital and integration, we
+
+have made valuable contributions to the ﬁeld and have paved the way
+for further research in this domain, e.g., in the area dealing with the
+differing effect strengths of the social capital dimensions.
+
+Considering that global sourcing by deﬁnition already involves
+various aspects of internal as well as external coordination and
+integration (Trent and Monczka, 2005), the existence of a positive
+relationship between external
+integration with suppliers and
+global sourcing success has been conﬁrmed. In the light of this
+evidence, ﬁrms may wish to draw more attention to internal cross-
+functional integration when facing problems in global sourcing.
+Some ﬁrms may lack the maturity needed for global sourcing –
+not in terms of language or cultural skills, but due to deﬁcits in
+internal integration. Knowledge of this positive relationship can
+support organizations in carefully developing their global sourcing
+and integration strategies to realize improvement opportunities
+and to shift toward globally integrated and coordinated sourcing
+strategies (Samli et al., 1998; Trent and Monczka, 2005). Conse-
+quently, integration is stimulated, potentially leading to improved
+global sourcing success.
+
+6.
+
+Implications for managers
+
+In the previous section, the theoretical
+
+implications of our
+ﬁndings were discussed. However, the results of the study also have
+implications for management practice. Because social capital accu-
+mulation and integration have been shown to be beneﬁcial for global
+sourcing success, managers should facilitate integrative efforts
+(Pagell, 2004; Trent and Monczka, 2003b; Zhao et al., 2011). In
+contrast, when recommending procedures for increased global sour-
+cing success, it is important to acknowledge that global competition
+forces companies to act in an efﬁcient manner (Baily et al., 1995). For
+this reason, it is often necessary for companies to focus on activities
+that promise the most efﬁcient use of the resources invested.
+
+In this context, the data suggest that it is reasonable to distin-
+guish between internal and external perspectives. To facilitate
+internal cross-functional
+integration, managers could focus on
+activities that support the accumulation of internal cognitive
+capital because this dimension has been shown to be fairly
+beneﬁcial for successful internal integration. As a consequence,
+it is recommended that common goals and norms be clearly
+communicated, particularly within organizations, to increase the
+amount of cognitive capital.
+
+Applying an external perspective, the data indicate that man-
+agerial activities should further aim at creating structural capital
+between organizations. While the results of our study suggest that
+it may indeed be beneﬁcial to have similar norms, goals, and
+values (cognitive capital) between organizations, structural social
+
+
+62
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+capital was shown to be especially conducive to successful
+external integration. In accordance with these insights, clear paths
+should be deﬁned among functions and individuals to create
+possible contact points between the members of the organizations
+and foster the build-up of structural capital. This approach might
+also support the emergence of relational capital and thus allow
+beneﬁting from the resources (e.g., knowledge and information)
+that lie within the relationships, potentially leading to increased
+organizational performance.
+
+Taking these points into consideration, the results of our study
+suggest that social capital can be an efﬁcient and effective tool that
+practitioners can use to support their integrative efforts and to
+increase corporate global sourcing success.
+
+7. Conclusion
+
+Based on the results of our survey, we conclude that internal
+cross-functional integration can be seen as a precondition for
+external integration with suppliers and global sourcing success.
+Surprisingly, the direct relationship between internal and external
+integration was not signiﬁcant, indicating a mediating role of the
+three dimensions of social capital within this relationship. This
+ﬁnding emphasizes the importance of social capital within the
+ﬁrm as a facilitator for the development of social capital with
+external market partners such as suppliers. Put another way,
+internal integration is indeed beneﬁcial for external integration
+under the condition of the presence of social capital.
+
+Despite its contributions to the current body of knowledge, the
+present study has some limitations. First, only subjective measures
+were used to investigate the proposed model; this approach is,
+however, common in social sciences (Dess and Robinson Jr, 1984).
+
+Table 3
+Measures.
+
+Construct
+
+Internal Cognitive Capital
+
+(Mohr and Spekman, 1994)
+
+Item
+
+Second, a relatively small sample size (N¼82) was used to obtain
+our data, which were gathered through purposive judgment sam-
+pling within a large European automotive OEM. Despite the trend-
+anticipating character of the automotive industry (Schiele et al.,
+2011a), this could limit the generalizability of the ﬁndings.
+
+Despite these limitations, the results of our study are still mean-
+ingful because we carried out structural equation modeling in
+connection with PLS, which has minimal requirements regarding
+sample size, measurement scales, and residual distributions (Chin,
+1998). Furthermore, van der Vaart and van Donk (2008) argue that
+high response rates, as were achieved in our case, should increase
+generalizability. Although our data were collected within only one
+German automotive OEM, industry bias has been alleviated to some
+extent by surveying the purchasers of
+items from a variety of
+industries such as plastics, metal and electronics in different countries.
+In future research, this study could be used as a point of
+departure from which to elaborate further on the relationship
+between internal and external integration, which was not signiﬁ-
+cant in our research setting. Furthermore, future studies could
+investigate whether the impact of the social capital dimensions
+and integration differs among industries. From a methodological
+perspective, highly credible results could be obtained from long-
+itudinal research settings in combination with secondary data, as
+well as from in-depth case studies. In particular, studies involving
+larger samples and diverse buying organizations from different
+industries could provide an interesting avenue for future research
+to enrich the ﬁndings of this study.
+
+Appendix A. Measures
+
+See Table 3
+
+Internal Structural Capital
+
+(Rindﬂeisch and Moorman, 2001)
+
+Internal Relational Capital
+Trust (Kaufman et al., 2006; Rodríguez
+
+et al., 2007)
+
+Commitment (Rodríguez et al., 2007)
+
+Internal Integration (Rodríguez et al.,
+
+2007)
+
+External Cognitive Capital (Mohr and
+
+Spekman, 1994)
+
+Other departments participate in goal setting.
+Other departments participate in planning activities.
+We encourage other departments to come with suggestions for improvements.
+Other departments participate in forecasting activities.
+
+Our employees share close social relationships with the employees from other departments.
+We like to spend time with employees from the other departments
+We spent a long time working together with other departments.
+
+When making decisions, other departments consider our business interest as well as their own.
+We trust that other departments keep our best interest in mind.
+Other departments are sincere and honest with us.
+We believe the information, other departments provide.
+
+My department is committed to the relationship with other departments.
+We consider other departments as part of ours.
+
+Our departments help each other to accomplish their tasks in the most effective way.
+The departments try to achieve goals jointly.
+The departments share ideas, information and/ or resources.
+The departments work together as a team.
+The departments take the project`s technical and operative decisions together.
+
+We ask the supplier for advice and counsel.
+We encourage the supplier to come with suggestions for iprovements.
+
+Loading CRa
+
+AVEb
+
+0.773
+
+0.913
+0.900
+0.825
+0.877
+
+0.837
+0.875
+0.73
+
+0.798
+0.816
+0.874
+0.797
+
+0.68
+0.803
+
+0.816
+0.798
+0.773
+0.904
+0.708
+
+0.687
+0.778
+
+0.856 0.667
+
+0.912 0.635
+
+0.9
+
+0.644
+
+0.846 0.579
+
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+63
+
+Table 3 (continued )
+
+Construct
+
+Item
+
+We ask the supplier to take part in our forecasting activities.
+The supplier is collaborative.
+
+Our employees share close social relationships with the employees from the supplier.
+We like to spend time with employees from the supplier.
+We feel indebted to the supplier for what it has done for us.
+
+When making decisions, the supplier considers our business interest as well as its own.
+We trust that the supplier keeps our best interest in mind.
+The supplier is sincere and honest with us.
+We believe the information, the supplier provide.
+
+We want to remain a customer of the supplier.
+Our decision to remain customer of the supplier is also based on the attraction to the things that the
+supplier represents as a company.
+
+The supplier makes an effort to help us during emergencies.
+When an agreement is made, we can always rely on the supplier to fulﬁll requirements.
+Please indicate the overall degree of satisfaction concerning the collaboration with the supplier in
+comparison to your most successful global sourcing project.
+
+From the departments perspective one could be satisﬁed with how the project progressed.
+Overall, the project was done in a cost-efﬁcient way.
+From the companies perspective, the project goals were achieved.
+The project was within schedule.
+The original product performance objectives were met.
+The original product unit-cost obejectives were met.
+The original time to market objectives were met.
+We received the planned and budgeded amount of goods.
+
+External Structural Capital
+
+(Rindﬂeisch and Moorman, 2001)
+
+External Relational Capital
+Trust (Kaufman et al., 2006; Rodríguez
+
+et al., 2007)
+
+Commitment (Kumar et al., 1994)
+
+External Integration (Monczka et al.,
+
+1998)
+
+Sourcing Success (Hoegl and
+
+Gemuenden, 2001;
+
+Tatikonda and Montoya-Weiss, 2001)
+
+a CR ¼ composite reliability.
+b AVE ¼ average variance extracted.
+
+Loading CRa
+
+AVEb
+
+0.851 0.656
+
+0.897 0.595
+
+0.895 0.741
+
+0.924 0.604
+
+0.792
+0.781
+
+0.882
+0.766
+0.778
+
+0.827
+0.888
+0.854
+0.787
+
+0.663
+0.627
+
+0.84
+0.851
+0.89
+
+0.846
+0.717
+0.889
+0.702
+0.802
+0.748
+0.754
+0.742
+
+References
+
+Adler, P.S., Kwon, S.W., 2002. Social capital: prospects for a new concept. Acad.
+
+Manag. Rev. 27, 17–40.
+
+Ahuja, G., 2000. Collaboration networks, structural holes, and innovation: a long-
+
+itudinal study. Adm. Sci. Q. 45, 425–455.
+
+Alguire, M., Frear, C., Metcalf, L., 1994. An examination of the determinants of global
+
+sourcing strategy. J. Bus. Ind. Market. 9, 62–74.
+
+Baily, M.N., Gersbach, H., Scherer, F., Lichtenberg, F.R., 1995. Efﬁciency in manu-
+facturing and the need for global competition. Brookings Papers on economic
+activity. Microeconomics 1995, 307–358.
+
+Barney, J., 1991. Firm resources and sustained competitive advantage. J. Manag. 17,
+
+99–120.
+
+Blumberg, B., Cooper, D., Schindler, P., 2008. Business Research Methods: Second
+
+European edition. McGraw-Hill Higher Education, Maidenhead, UK.
+
+Bowersox, D.J., Calantone, R.J., 1998. Global logistics. J. Int. Mark. 6, 83–93.
+Burt, R.S., 1997. The contingent value of social capital. Adm. Sci. Q. 42, 339–365.
+Burton, G., Carrol, G., Wall, S., 2002. Quantitative Methods for Business and
+
+Economics. Pearson Education, Harlow, UK.
+
+Caldwell, C., Hayes, L.A., 2007. Leadership, trustworthiness, and the mediating lens.
+
+J. Manag. Dev. 26, 261–281.
+
+Carey, S., Lawson, B., Krause, D.R., 2011. Social capital conﬁguration, legal bonds and
+
+performance in buyer-supplier relationships. J. Oper. Manag. 29, 277–288.
+
+Carter, J.R., Maltz, A., Yan, T., Maltz, E., 2008. How procurement managers view low
+cost countries and geographies. Int. J. Phys. Distrib. Logist. Manag. 38, 224–243.
+Chen, H.H., Lee, P.Y., Lay, T.J., 2009. Drivers of dynamic learning and dynamic
+competitive capabilities in international strategic alliances. J. Bus. Res. 62,
+1289–1295.
+
+Cheng, T.C.E., Yip, F.K., Yeung, A.C.L., 2012. Supply riskmanagement via guanxi in the
+Chinese business context: the buyer'sperspective. Int. J. Prod. Econ. 139, 3–13.
+Chin, W.W., 1998. The Partial Least Squares Approach for Structural Equation
+
+Modeling. Lawrence Erlbaum, Mahwah, NJ.
+
+Churchill Jr, G.A., 1979. A paradigm for developing better measures of marketing
+
+constructs. J. Mark. Res. 16, 64–73.
+
+Coleman, J.S., 1994. Foundations of Social Theory. Belknap Press, Cambridge, MA.
+Cousins, P.D., Menguc, B., 2006. The implications of socialization and integration in
+
+supply chain management. J. Oper. Manag. 24, 604–620.
+
+Das, A., Narasimhan, R., Talluri, S., 2006. Supplier integration – ﬁnding an optimal
+
+conﬁguration. J. Oper. Manag. 24, 563–582.
+
+Dess, G.G., Robinson Jr, R.B., 1984. Measuring organizational performance in the
+absence of objective measures: the case of the privately‐held ﬁrm and
+conglomerate business unit. Strateg. Manag. J. 5, 265–273.
+
+Droge, C., Jayaram, J., Vickery, S.K., 2004. The effects of internal versus external
+integration practices on time-based performance and overall ﬁrm performance.
+J. Oper. Manag. 22, 557–573.
+
+Edwards, J.R., Bagozzi, R.P., 2000. On the nature and direction of relationships
+
+between constructs and measures. Psychol. Methods. 5, 155–174.
+
+Ellegaard, C., Koch, C., 2012. The effects of low internal
+
+integration between
+purchasing and operations on suppliers’ resource mobilization. J. Purch. Supply
+Manag. 18, 148–158.
+
+Espino-Rodríguez, T., Padrón-Robaina, V., 2006. A review of outsourcing from the
+
+resource-based view of the ﬁrm. Int. J. Manag. Rev. 8, 49–70.
+
+Fabbe-Costes, N., Jahre, M., 2007. Supply chain integration improves performance:
+
+the Emperor's new suit? Int. J. Phys. Distrib. Logist. Manag. 37, 835–855.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on
+performance: a contingency and conﬁguration approach. J. Oper. Manag. 28,
+58–71.
+
+Foerstl, K.D., Hartmann, E., Wynstra, F., Moser, R., 2013. Cross-functional integration
+and functional coordination in purchasing and supply management: antece-
+dents and effects on purchasing and ﬁrm performance. Int. J. Oper. Prod.
+Manag. 33 (4-4).
+
+Fornell, C., Cha, J., 1994. Partial least squares. In: Bagozzi, R.P. (Ed.), Advanced
+
+Methods of Marketing Research. Blackwell, Cambridge, MA, pp. 52–78.
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unob-
+
+servable variables and measurement error. J. Mark. Res. 18, 39–50.
+
+Forza, C., 2009. Surveys. In: Karlsson, C. (Ed.), Researching Operations Management.
+
+Routledge, New York and London, pp. 85–161.
+
+
+64
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+Frohlich, M., Westbrook, R., 2001. Arcs of integration: an international study of
+
+supply chain strategies. J. Oper. Manag. 19, 185–200.
+
+Gerlach, M.L., 1992. Alliance Capitalism: The Social Organization of Japanese
+
+Business. University of California Press, Berkeley, CA.
+Gimenez, C., Ventura, E., 2005. Logistics-production,
+
+logistics-marketing and
+external integration: their impact on performance. Int. J. Oper. Prod. Manag.
+25, 20–38.
+
+Golini, R., Kalchschmidt, M., 2011. Moderating the impact of global sourcing on
+inventories through supply chain management. Int. J. Prod. Econ. 133, 86–94.
+Granovetter, M.S., Swedberg, R., 1992. The Sociology of Economic Life, CO.
+
+Westview press, Boulder.
+
+Guido, C., Luca, I., Giuseppe, Z., 2006. A situationalist perspective to competency
+
+management. Hum. Resour. Manage. 45, 429–448.
+
+Hair, J.F., Anderson, R.E., Tatham, R.L., Black, W.C., 2006. Multivariate Data Analysis,
+
+6th ed.. Pearson, Upper Saddle River, NJ.
+
+Hamprecht, J., Corsten, D., Noll, M., Meier, E., 2005. Controlling the sustainability of
+
+food supply chains. Supply Chain Manag.: Int. J. 10, 7–10.
+
+Harkness, J., Pennell, B.E., Schoua, G., A., 2004. Survey questionnaire translation and
+assessment. In: Presser, S., Rothgeb, J.M., Couper, M.P. (Eds.), Methods for
+Testing and Evaluating Survey Questionnaires. John Wiley and Sons, New York,
+NY, pp. 453–473.
+
+Hartmann, E., Bals, L., Kaiser, G., 2008. The impact of internal purchasing resources
+and capabilities on low-cost country sourcing. Zeitschrift für Betriebswirtschaft
+78, 31–54.
+
+Helper, S., 1990. Comparative supplier relations in the U.S. and Japanese auto
+
+industries: an exit/voice approach. Bus. Econ. Hist. 19, 153–162.
+
+Henseler, J., Ringle, C.M., Sinkovics, R.R., 2009. The use of partial least squares path
+modeling in international marketing. Advances in International Marketing 20,
+277–319.
+
+Hirunyawipada, T., Beyerlein, M., Blankson, C., 2010. Cross-functional integration as
+a knowledge transformation mechanism: implications for new product devel-
+opment. Ind. Market. Manag. 39, 650–660.
+
+Hoegl, M., Gemuenden, H., 2001. Teamwork quality and the success of innovative
+projects: a theoretical concept and empirical evidence. Organ. Sci. 12, 435–449.
+Holweg, M., Reichhart, A., Hong, E., 2011. On risk and cost in global sourcing. Int. J.
+
+Prod. Econ. 131, 333–341.
+
+Horn, P., Schiele, H., Werner, W., 2013. The ugly twins: failed low-wage-country
+sourcing projects and their expensive replacements. J. Purch. Supply Manag. 19,
+27–38.
+
+Hughes, M., Perrons, R.K., 2011. Shaping and re-shaping social capital in buyer-
+
+supplier relationships. J. Bus. Res. 64, 164–171.
+
+Hulland,
+
+J., 1999. Use of partial
+
+least squares (PLS) in strategic management
+
+research: a review of four recent studies. Strateg. Manag. J. 20, 195–204.
+
+Inkpen, A.C., Tsang, E.W.K., 2005. Social capital, networks, and knowledge transfer.
+
+Acad. Manag. Rev. 30, 146–165.
+
+Kahn, K.B., 1996. Interdepartmental integration: a deﬁnition with implications for
+
+product development performance. J. Prod. Innov. Manag. 13, 137–151.
+
+Kale, P., Singh, H., Perlmutter, H., 2000. Learning and protection of proprietary
+J.
+
+assets in strategic alliances: building relational capital. Strateg. Manag.
+21 (217-137).
+
+Kaufman, P., Jayachandran, S., Rose, R.L., 2006. The role of relational embeddedness
+
+in retail buyers’ selection of new products. J. Mark. Res. 43, 580–587.
+
+Kim, S.W., 2006. The effect of supply chain integration on the alignment between
+corporate competitive capability and supply chain operational capability. Int. J.
+Oper. Prod. Manag. 26, 1084–1107.
+
+Koka, B.R., Prescott, J.E., 2002. Strategic alliances as social capital: a multidimen-
+
+sional view. Strateg. Manag. J. 23, 795–816.
+
+Kotabe, M., 1994. Global sourcing strategy: R&D, manufacturing, & marketing
+
+interfaces. J. Glob. Mark. 7 (157-157).
+
+Kotabe, M., Mudambi, R., 2009. Global sourcing and value creation: opportunities
+
+and challenges. J. Int. Manag. 15, 121–125.
+
+Kotabe, M., Omura, G., 1989. Sourcing strategies of European and Japanese multi-
+
+nationals: a comparison. J. Int. Bus. Stud. 20, 113–130.
+
+Koufteros, X., Vonderembse, M., Jayaram, J., 2005. Internal and external integration
+for product development: the contingency effects of uncertainty, equivocality,
+and platform strategy. Decisi. Sci. 36, 97–133.
+
+Koufteros, X.A., Rawski, G.E., Rupak, R., 2010. Organizational integration for product
+development: the effects on glitches, on‐time execution of engineering change
+orders, and market success. Decis. Sci. 41, 49–80.
+
+Krause, D.R., Handﬁeld, R.B., Tyler, B.B., 2007. The relationships between supplier
+development, commitment, social capital accumulation and performance
+improvement. J. Oper. Manag. 25, 528–545.
+
+Kumar, N., Scheer, L.K., Steenkamp,
+
+J.B.E.M., 1994. The effects of perceived
+
+interdependence on dealer attitudes. J. Mark. Res. 32, 348–356.
+
+Lawson, B., Tyler, B.B., Cousins, P.D., 2008. Antecedents and consequences of social
+
+capital on buyer performance improvement. J. Oper. Manag. 26, 446–460.
+
+Leana, C.R., Pil, F.K., 2006. Social capital and organizational performance: evidence
+
+from urban public schools. Organ. Sci. 17, 353–366.
+
+Lee, Y., Cavusgil, S.T., 2006. Enhancing alliance performance: the effects of
+contractual-based versus relational-based governance. J. Bus. Res. 59, 896–905.
+Maltz, E., Kohli, A., 1996. Market intelligence dissemination across functional
+
+boundaries. J. Mark. Res. 33, 47–61.
+
+Marshall, M.N., 1996. Sampling for qualitative research. Family Pract. 13, 522–526
+Min, S., Kim, S.K., Chen, H., 2008. Developing social identity and social capital for
+
+supply chain management. J. Bus. Logist. 29, 283–304.
+
+Mohr, J., Spekman, R., 1994. Characteristics of partnership success: partnership
+attributes, communication behavior, and conﬂict resolution techniques. Strateg.
+Manag. J. 15, 135–152.
+
+Monczka, R.M., Giunipero, L.C., 1985. International purchasing: characteristics and
+
+implementation. Int. Exec. 27, 2–9.
+
+Monczka, R.M., Petersen, K.J., Handﬁeld, R.B., Ragatz, G.L., 1998. Success factors in
+strategic supplier alliances: the buying company perspective. Decis. Sci. 29,
+553–577.
+
+Montoya-Weiss, M.M., Massey, A.P., Song, X.M., 2001. Getting it together: temporal
+coordination and conﬂict management in global virtual teams. Acad. Manag. J.
+44, 1251–1262.
+
+Moses, A., Ahlstroem, P., 2009. Nature of functional involvement in make or buy
+
+decision processes. Int. J. Oper. Prod. Manag. 29, 894–920.
+
+Murray, J.Y., 2001. Strategic alliance-based global sourcing strategy for competitive
+advantage: a conceptual framework and research propositions. J. Int. Mark. 9, 30–58.
+Murray, J.Y., Kotabe, M., Wildt, A.R., 1995. Strategic and ﬁnancial performance
+implications of global sourcing strategy: a contingency analysis. J. Int. Bus. Stud.
+26, 181–202.
+
+Nahapiet, J., Ghoshal, S., 1998. Social capital, intellectual capital, and the organiza-
+
+tional advantage. Acad. Manag. Rev. 23, 242–266.
+
+Narasimhan, R., Kim, S.W., 2001. Information system utilization strategy for supply
+
+chain integration. J. Bus. Logist. 22, 51–75.
+
+Nassimbeni, G., 2006. International sourcing: empirical evidence from a sample of
+
+Italian ﬁrms. Int. J. Prod. Econ. 103, 694–706.
+
+Nevitt, J., Hancock, G.R., 2001. Performance of bootstrapping approaches to model
+test statistics and parameter standard error estimation in structural equation
+modeling. Struct. Equ. Model. 8, 353–377.
+
+Nunnally, J.C., Bernstein, I.H., 1994. Psychometric Theory. McGraw, New York, NY.
+Ouchi, W.G., 1980. Markets, bureaucracies, and clans. Adm. Sci. Q. 25, 129–141.
+Pagell, M., 2004. Understanding the factors that enable and inhibit the integration
+
+of operations, purchasing and logistics. J. Oper. Manag. 22, 459–487.
+
+Panayides, P.M., Venus Lun, Y.H., 2009. The impact of trust on innovativeness and
+
+supply chain performance. Int. J. Prod. Econ. 122, 35–46.
+
+Parkhe, A., 1993. Strategic alliance structuring: a game theoretic and transaction
+
+cost examination of interﬁrm cooperation. Acad. Manag. J. 36, 794–829.
+
+Petersen, K.J., Prayer, D.J., Scannell, T.V., 2000. An empirical investigation of global
+
+sourcing strategy effectiveness. J. Supply Chain Manag. 36, 29–38.
+
+Podsakoff, P.M., Organ, D.W., 1986. Self-reports in organizational research: pro-
+
+blems and prospects. J. Manag. 12, 531–544.
+
+Quintens, L., Pauwels, P., Matthyssens, P., 2006. Global purchasing strategy:
+
+conceptualization and measurement. Ind. Mark. Manag. 35, 881–891.
+
+Rabbiosi, L., Santangelo, G.D., 2013. Parent company beneﬁts from reverse knowl-
+edge transfer: the role of the liability of newness in MNEs. J. World Bus. 48,
+160–170.
+
+Ragatz, G.L., Handﬁeld, R.B., Petersen, K.J., 2002. Beneﬁts associated with supplier
+integration into new product development under conditions of technology
+uncertainty. J. Bus. Res. 55, 389–400.
+
+Reagans, R., McEvily, B., 2003. Network structure and knowledge transfer: the
+
+effects of cohesion and range. Adm. Sci. Q. 48, 240–267.
+
+Rindﬂeisch, A., Moorman, C., 2001. The acquisition and utilization of information in
+
+new product alliances: a strength-of-ties perspective. J. Mark. 65, 1–18.
+
+Ringle, C.M., Wende, S., Will, A., 2005. SmartPLS 2.0 (beta).
+Rodríguez, N.G., Pérez, M.J.S., Gutiérrez, J.A.T., 2007. Interfunctional climate and a
+new product performance: dependence as a moderator. J. Bus. Ind. Mark. 22,
+459–473.
+
+Rosenzweig, E.D., Roth, A.V., Dean Jr, J.W., 2003. The inﬂuence of an integration
+strategy on competitive capabilities and business performance: an exploratory
+study of consumer products manufacturers. J. Oper. Manag. 21, 437–456.
+
+Roth, A.V., Schroeder, R.G., Huang, X., 2007. Handbook of Metrics for Research in
+Operations Management: Multi-item Measurement Scales and Objective Items.
+Sage Publications, Inc, Thousand Oaks, CA.
+
+Sambasivan, M., Siew-Phaik, L., Mohamed, Z.A., Leong, Y.C., 2013. Factors inﬂuen-
+cing strategic alliance outcomes in a manufacturing supply chain: role of
+alliance motives, interdependence, asset speciﬁcity and relational capital. Int. J.
+Prod. Econ. 141, 339–351.
+
+Samli, A.C., Browning, J.M., Busbia, C., 1998. The status of global sourcing as a
+critical tool of strategic planning: opportunistic versus strategic dichotomy.
+J. Bus. Res. 43, 177–187.
+
+Schiele, H., Horn, P., Vos, B., 2011a. Estimating cost-saving potential from interna-
+tional sourcing and other sourcing levers: relative importance and trade-offs.
+Int. J. Phys. Distrib. Logist. Manag. 41, 315–336.
+
+Schiele, H., Veldman, J., Huettinger, L., 2011b. Supplier innovativeness and supplier
+
+pricing: the role of preferred customer status. Int. J. Innov. Manag. 15, 1–27.
+
+Schneider, C.O., Bremen, P., Schönsleben, P., Alard, R., 2013. Transaction cost
+economics in globalsourcing: assessing regional differences and implications
+for performance. Int. J. Prod. Econ. 141, 243–254.
+
+Schoenherr, T., Swink, M., 2012. Revisiting the arcs of integration: cross-validations
+
+and extensions. J. Oper. Manag. 30, 99–115.
+
+Seibert, S.E., Kraimer, M.L., Liden, R.C., 2001. A social capital theory of career
+
+success. Acad. Manag. J. 44, 219–237.
+
+Sherman, J.D., Souder, W.E., Jenssen, S.A., 2000. Differential effects of the primary
+integration on product development cycle time.
+
+forms of cross functional
+J. Prod. Innov. Manag. 17, 257–267.
+
+Smitka, M., 1991. Competitive Ties: Subcontracting in the Japanese Automotive
+
+Industry. Columbia University Press, New York, NY.
+
+
+P. Horn et al. / Int. J. Production Economics 153 (2014) 54–65
+
+65
+
+Sparrowe, R.T., Liden, R.C., Wayne, S.J., Kraimer, M.L., 2001. Social networks and the
+
+Uzzi, B., 1997. Social structure and competition in interﬁrm networks: the paradox
+
+performance of individuals and groups. Acad. Manag. J. 44, 316–325.
+
+of embeddedness. Adm. Sci. Q. 42, 35–67.
+
+Spekman, R., 1991. U.S. buyers’ relationships with Paciﬁc Rim sellers. Int. J. Purch.
+
+van der Vaart, T., van Donk, D.P., 2008. A critical review of survey-based research in
+
+Mater. Manag. 27, 1–10.
+
+Steinle, C., Schiele, H., 2008. Limits to global sourcing? Strategic consequences of
+dependency on international suppliers: cluster theory, resource-based view
+and case studies. J. Purch.Supply Manag. 14, 3–14.
+
+Subramani, M., 2004. How do suppliers beneﬁt from information technology use in
+
+supply chain relationships? MIS Q. 28, 45–73.
+
+Tatikonda, M.V., Montoya-Weiss, M.M., 2001. Integrating operations and marketing
+perspectives of product innovation: the inﬂuence of organizational process
+factors and capabilities on development performance. Manage. Sci. 47, 151–172.
+Taylor, M., Taylor, A., 2008. Operations management research in the automotive
+
+sector. Int. J. Oper. Prod. Manag. 28, 480–489.
+
+Tenenhaus, M., Vinzi, V.E., Chatelin, Y.M., Lauro, C., 2005. PLS path modeling.
+
+Comput. Stat. Data. Anal. 48, 159–205.
+
+Tessarolo, P., 2007.
+
+Is integration enough for fast product development?: an
+empirical investigation of the contextual effects of product vision. J. Prod.
+Innov. Manag. 24, 69–82.
+
+Thompson, L., Fine, G.A., 1999. Socially shared cognition, affect, and behavior: a
+review and integration. Personality and Social Psychology Review 3, 278–302.
+Trautmann, G., Turkulainen, V., Hartmann, E., Bals, L., 2009. Integration in the global
+sourcing organization - An information processing perspective. J. Supply Chain
+Manag. 45, 57–74.
+
+Trent, R.J., Monczka, R.M., 2003a. International purchasing and global sourcing -
+
+what are the differences? J. Supply Chain Manag. 39, 26–36.
+
+Trent, R.J., Monczka, R.M., 2003b. Understanding integrated global sourcing. Int. J.
+
+Phys. Distrib. Logist. Manag. 33, 607–629.
+
+supply chain integration. Int. J. Prod. Econ. 111, 42–55.
+
+Vickery, S.K., Jayaram, J., Droge, C., Calantone, R.J., 2003. The effects of an integrative
+supply chain strategy on customer service and ﬁnancial performance: an
+analysis of direct versus indirect relationships. J. Oper. Manag. 21, 523–539.
+
+Vijayasarathy, L.R., 2010. Supply integration: an investigation of
+
+its multi-
+
+dimensionality and relational antecedents. Int. J. Prod. Econ. 124, 489–505.
+
+Villena, V.H., Revilla, E., Choi, T.Y., 2011. The dark side of buyer–supplier relation-
+
+ships: a social capital perspective. J. Oper. Manag. 29, 561–576.
+
+Wagner, S.M., 2011. Supplier development and the relationship life-cycle. Int. J.
+
+Prod. Econ. 129, 277–283.
+
+Weber, M., Hiete, M., Lauer, L., Rentz, O., 2010. Low cost country sourcing and its
+effects on the total cost of ownership structure for a medical devices
+manufacturer. J. Purch.Supply Manag. 16, 4–16.
+
+Wetzels, M., Odekerken-Schroder, G., Van Oppen, C., 2009. Using PLS path
+modeling for assessing hierarchical construct models: guidelines and empirical
+illustration. MIS Q. 33, 177–195.
+
+Wiengarten, F., Pagell, M., Ahmed, M.U., Gimenez, C., 2014. Do a country's logistical
+integration performance relationship?
+
+capabilities moderate the external
+J. Oper. Manag. 32, 51–63.
+
+Wold, H., 1982. Soft modeling: the basic design and some extensions. Syst. Under
+
+Indirect Obs. 2, 589–591.
+
+Yang, J., Rui, M., Rauniar, R., Ikem, F.M., Xie, H., 2013. Unravelling the link between
+knowledge management and supply chain integration: an empirical study. Int.
+J. Logist. Res. Appl., 1–12.
+
+Zaheer, A., Bell, G.G., 2005. Beneﬁting from network position: ﬁrm capabilities,
+
+Trent, R.J., Monczka, R.M., 2005. Achieving excellence in global sourcing. Sloan.
+
+structural holes, and performance. Strateg. Manag. J. 26, 809–825.
+
+Manage. Rev. 47, 24–32.
+
+Zhang, M., Huo, B., 2013. The impact of dependence and trust on supply chain
+
+Tsai, W., 2000. The formation of intraorganizational linkages. Strat. Manag. J. 21,
+
+integration. Int. J. Phys. Distrib. Logist. Manag. 43, 544–563.
+
+925–939.
+
+Tsai, W., Ghoshal, S., 1998. Social capital and value creation: the role of intraﬁrm
+
+networks. Acad. Manag. J. 41, 464–476.
+
+Uphoff, N., Wijayaratna, C., 2000. Demonstrated beneﬁts from social capital: the
+productivity of farmer organizations in Gal Oya, Sri Lanka. World Dev. 28,
+1875–1890.
+
+Zhao, L., Huo, B., Sun, L., Zhao, X., 2013. The impact of supply chain risk on supply
+chain integration and company performance: a global investigation. Supply
+Chain Manag. Int. J. 18, 115–131.
+
+Zhao, X., Huo, B., Selen, W., Yeung, J.H.Y., 2011. The impact of internal integration
+and relationship commitment on external integration. J. Oper. Manag. 29,
+17–32.
+

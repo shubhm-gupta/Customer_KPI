@@ -1,0 +1,9194 @@
+This article was downloaded by: [131.193.251.47] On: 02 August 2017, At: 10:41
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+
+Organization Science
+
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+The Liability of Good Reputation: A Study of Product
+Recalls in the U.S. Automobile Industry
+
+Mooweon Rhee, Pamela R. Haunschild,
+
+To cite this article:
+Mooweon Rhee, Pamela R. Haunschild,  (2006) The Liability of Good Reputation: A Study of Product Recalls in the U.S.
+Automobile Industry. Organization Science 17(1):101-117. https://doi.org/10.1287/orsc.1050.0175
+
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+
+Copyright © 2006, INFORMS
+
+Please scroll down for article—it is on subsequent pages
+
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.org
+
+
+OrganizationScience
+Vol. 17, No. 1, January–February 2006, pp. 101–117
+issn 1047-7039(cid:1) eissn 1526-5455(cid:1) 06(cid:1) 1701(cid:1) 0101
+
+informs ®
+
+doi 10.1287/orsc.1050.0175
+© 2006 INFORMS
+
+The Liability of Good Reputation: A Study of Product
+
+Recalls in the U.S. Automobile Industry
+
+College of Business Administration, University of Hawaii, 2404 Maile Way, Honolulu, Hawaii 96822, mooweon@hawaii.edu
+
+Mooweon Rhee
+
+Pamela R. Haunschild
+
+McCombs School of Business, University of Texas at Austin, CBA 4.202/B6300, Austin, Texas 78712-0210,
+
+pamela.haunschild@mccombs.utexas.edu
+
+In this paper, we explore opposing theoretical claims about how organizational reputation affects market reactions to
+
+product defects. On the one hand, good reputation could be a disadvantage because expectations about product quality
+are more likely to be violated by defects in highly reputed products. On the other hand, a good reputation could be
+an advantage because of strong inertial effects on reputation orderings. We empirically test these competing hypotheses
+using data on product recalls in the U.S. automobile industry from 1975 to 1999. Our results support for the idea that
+reputation can be an organizational liability in that highly reputed ﬁrms suffer more market penalty as a result of their
+product recalls. We also propose that the reputational effects are moderated by two important factors: substitutability and
+generalism/specialism. Our results show that having few substitutes with an equivalent level of reputation, or a focused
+product identity stemming from specialism, buffers the negative market reactions to product recalls. We conclude with a
+discussion on the implications of these results for institutional, reputation, and status theories.
+
+Key words: organizational reputation; product recalls; substitutability; specialism; quality
+
+Over the past 20 years, it has become increasingly
+apparent from work by organizational theorists, sociol-
+ogists, and information economists that the possession
+of good reputation provides a number of beneﬁts to
+ﬁrms. These beneﬁts include lower costs and the ability
+to charge higher prices (Shapiro 1983, Podolny 1993,
+Sullivan 1998, Benjamin and Podolny 1999), growth in
+sales and status (Podolny and Phillips 1996), protection
+against market entrants (Milgrom and Roberts 1982),
+increased return to actual quality (Benjamin and Podolny
+1999), easier access to capital (Stuart et al. 1999),
+greater survival rates (Rao 1994), and superior ﬁnan-
+cial performance (Roberts and Dowling 2002). A posi-
+tive reputation is also important to a ﬁrm’s competitive
+advantage because it is a positive signal to potential buy-
+ers and suppliers, increasing their willingness to contract
+with a ﬁrm (Fombrun and Shanley 1990, Weigelt and
+Camerer 1988).
+
+Despite this extensive work in the area of reputation,
+there has been very little exploration of the ways orga-
+nizational reputation responds to the revelation of orga-
+nizational errors in the form of product defects. Is the
+possession of a good reputation an asset or a liability in
+such cases? Although there has been work investigating
+the reactions of various organizational constituencies to
+errors (e.g., Haunschild and Sullivan 2002), defects (e.g.,
+Haunschild and Rhee 2004), and various forms of con-
+troversial organizational actions (e.g., Elsbach 1994), the
+role of ﬁrm reputation or status in this process has not
+been investigated. Therefore, in this study we investigate
+
+how an organization’s reputation moderates the negative
+impact of defect disclosure on its subsequent market per-
+formance. Prior research on the disclosure of product
+defects (such as recalls and airline accidents) measures
+the damages caused by such defects, including losses in
+stock market valuation (Barber and Darrough 1996) and
+product sales (Reilly and Hoffer 1983). In this study we
+investigate how an organization’s reputation might mod-
+erate the extent of these damages. In particular, while
+most researchers claim that good reputation serves as an
+organizational asset (e.g., Shapiro 1983, Fombrun and
+Shanley 1990, Fombrun 1996), we also explore the pos-
+sibility that good reputation might be a liability in these
+cases, causing ﬁrms with a good reputation to suffer
+more market penalty than ﬁrms with a poor reputation.
+Second, we also investigate the possibility that the role
+of reputation in the relationship between product defects
+and subsequent market outcomes is affected by two
+important factors: product uniqueness or substitutabil-
+ity (the number of competing products with compara-
+ble levels of reputation) and identity focus in terms of
+whether the ﬁrm is a generalist or specialist. Previous
+research has documented several mechanisms by which
+substitutability lowers a ﬁrm’s market power (Burt 1982,
+White 2002). Also, the focused identity associated with
+specialism has been shown to facilitate the valuation and
+authenticity of ﬁrm products (Carroll and Swaminathan
+2000, Carroll et al. 2002, Zuckerman and Kim 2003).
+Yet
+to date there has been little research investigat-
+ing the role of these factors on reputational effects.
+
+101
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+102
+
+Therefore, we also explore how the effects of reputa-
+tion on responses to product defects are moderated by
+product substitutability and generalism/specialism.
+
+In the literature there are two general perspectives on
+reputation. From an economic perspective, a ﬁrm’s rep-
+utation is closely tied to the value of its previous efforts
+(e.g., Shapiro 1983). From an organizational and soci-
+ological perspective, reputation derives not only from
+past performance, but also from the status of the ﬁrm’s
+exchange partners (e.g., Podolny and Phillips 1996) and
+other organizational attributes, such as ﬁrm age and size
+(e.g., Perrow 1961, Han 1994, Fombrun 1996). Differ-
+ent terms for the general concept of reputation have
+been used in different literatures, for example, “status”
+or “prestige” (e.g., Blau 1964, Podolny 1993), “reputa-
+tion” (Fombrun and Shanley 1990), “brand reputation,”
+or “image” (e.g., Shapiro 1983). In much work, the con-
+cepts of status and reputation are not easily disentangled
+(Sine et al. 2003, Washington and Zajac 2005), and often
+one concept is used to deﬁne another (Washington and
+Zajac 2005). Organizational status, however, is essen-
+tially concerned with perceptions of an organization’s
+standing relative to others (Sine et al. 2003) and is
+often deﬁned relative to the standing of network partners
+(Podolny and Phillips 1996). Reputation is often dis-
+cussed in terms of the perceptions of an organization’s
+“goodness” or “badness” (Fombrun 1996, Roberts and
+Dowling 2002) in the eyes of a particular audience.
+
+In this paper, however, we will not address such dif-
+ferences. Instead, we deﬁne and use the term reputation
+to mean the consumer’s subjective evaluation of the per-
+ceived quality of the producer. While ﬁrms may bear
+different types of reputations, such as that of a socially
+concerned ﬁrm or a ﬁrm that treats employees well (cf.
+Fombrun 1996), we concentrate on quality reputation as
+our underling construct. We do this because we are inter-
+ested in investigating the effects of ﬁrm reputation when
+product quality is at issue. We then draw on multiple
+literatures to understand the effects of quality reputation
+on market responses to defects.
+
+Our study has important implications for theories of
+reputation and status. First, as noted earlier, there has
+been very little focus on the possibility that a good rep-
+utation may be a liability in some cases. By liability,
+we mean that it is possible that good-reputation ﬁrms
+may suffer more penalties in some situations (i.e., obtain
+fewer gains or suffer more losses) than poor-reputation
+ﬁrms. Exploring this possibility could lead to a more
+balanced view of the effects of ﬁrm reputation. Second,
+while most studies on organizational reputation have
+shown a unilateral effect of reputation on various out-
+comes, we investigate the possibility that because the
+efﬁcacy of reputation is entwined with organizational
+identity (generalism/specialism) and uniqueness (substi-
+tutability), reputational effects may not be as simple as
+previously thought.
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+Context
+Our context is the U.S. automobile industry and the
+product recalls of all automakers in this industry over
+a 25-year period (1975–1999). We examine the role of
+reputation in the market response to product defects by
+investigating how an automaker’s reputation affects mar-
+ket share changes in response to these recalls and how
+the automakers’ substitutability and level of general-
+ism/specialism moderate reputational effects. The auto-
+mobile industry provides a context that allows us to use
+several well-established sources of information about
+organizational reputation. Automaker reputations carry
+an expectation of product quality, and good-reputation
+automakers are generally believed to have higher-quality
+products than poor-reputation automakers (Devaraj et al.
+2001, Podolny and Hsu 2003). There is also, how-
+ever, a degree of uncertainty about the actual underly-
+ing quality of each automaker’s products, which means
+that consumers tend to rely on the historical results
+of road tests, consumer surveys, and the market analy-
+ses of prestigious institutions as sources of information
+about product quality. This means that consumers’ use
+of automobile brand as a signal of quality can lead to
+perceptions that differ from the actual underlying qual-
+ity of products. For example, “one study showed that
+GM-marqued cars rolling off its joint plant with Toyota
+in California were worth less after a few years than iden-
+tical cars with Toyota badges” (The Economist 2002),
+suggesting that although actual quality was identical in
+this case, perceptions of quality differed.
+
+two separate mechanisms that
+
+Reputational Disadvantage in Market
+Reaction to Defects
+lead
+We ﬁrst suggest
+to the prediction that good-reputation ﬁrms are more
+likely to suffer penalties from product defects than poor-
+reputation ﬁrms are. The ﬁrst mechanism relates to con-
+sumers’ differing reactions to defects across levels of
+reputation. The second mechanism concerns differential
+media reactions.
+
+The Expectancy Violation Effect
+The differentiating role of reputation on market penal-
+ties is predicted by the proposition that ﬁrm reputation
+helps create expectations about a ﬁrm’s products among
+potential buyers (Shapiro 1983). A good reputation con-
+ferred on a ﬁrm enhances a buyer’s expectation that the
+ﬁrm’s products will be of high quality, which in turn
+increases the buyer’s quality reliance. However, buy-
+ers do not place high expectations on a product from
+a ﬁrm with a low reputation. The marketing literature
+has long shown the existence of market segments, with
+some consumers focused on high quality/high price and
+others focused on low quality/low price (e.g., Heath and
+Chatterjee 1995). As long as buyers share expectations
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+about product quality across reputations, the order of
+reputation naturally translates into the ordering of qual-
+ity expectations.
+
+Furthermore, quality expectations can be viewed as an
+implicit promise from ﬁrms to their potential customers
+to produce goods with a quality level commensurate with
+reputation and product expectations. Given this, the bet-
+ter a ﬁrm’s reputation, the greater the extent to which
+its product defects will be perceived as a breach of
+this implicit promise. Consequently, the negative reper-
+cussions from the disclosure of product defects will
+be stronger for high-reputation products. This specula-
+tion has also been interpreted as an expectancy-violation
+effect (Burgoon and LePoire 1993), where people react
+more strongly to actions that violate their previous
+expectations of how the other party is likely to behave.
+Marketing research has shown that different market
+segments are likely to react differently to expectancy
+violations (Heath and Chatterjee 1995). There is also
+work suggesting that consumers of high-reputation (i.e.,
+high-quality) ﬁrms might be more sensitive to product
+defects by these ﬁrms and more likely to penalize these
+automakers by switching to other brands. First, comfort
+and low maintenance costs are important predictors of
+luxury car ownership (and by implication, not as impor-
+tant to lower-end car ownership) (Sukhdial et al. 1995).
+A recall is a threat to low maintenance costs and might
+cause switching. Also, losing quality is generally quite
+aversive to consumers (Hardie et al. 1993) and is more
+likely to occur at the higher end of the quality distribu-
+tion than the lower end (Simonson and Tversky 1992).
+Thus, consumers at the low end have lower expectations
+about defects, which means that the high end of the mar-
+ket gets hurt more than the low end in a recall situation.
+This reputational disadvantage in the social penalty
+associated with the disclosure of product defects can be
+formally modeled using a Bayesian learning model of
+beliefs. With Bayesian learning, consumers begin with
+prior beliefs of producers’ product quality. They then
+make buying decisions based on these beliefs, and they
+modify their beliefs in the light of their direct and/or
+indirect experience using Bayes’ rule (Stigler 1983). An
+essential notion in the Bayesian learning model is that
+consumers modify their beliefs on the basis of the extent
+to which observed quality performance differs from their
+prior beliefs (Cyert and DeGroot 1987). When con-
+sumers believe that a producer has a high-quality product
+(e.g., Lexus), they are more likely to modify their beliefs
+after observing a defect in that producer’s products than
+they are with a defect in a relatively poor-quality prod-
+uct (e.g., Kia). This mechanism thus provides a plausible
+way in which the disclosure of product defects entails
+more market penalty for good reputation products.
+
+Differential Attention from the Media
+A second explanation for why good-reputation ﬁrms
+might suffer more market penalty is that the product
+
+103
+
+defects of good-reputation ﬁrms are likely to receive
+more attention from the mass media. Many noticeable
+defects in ﬁrms’ products or services, such as product
+recalls and operational accidents/incidents, are reported
+and evaluated by the mass media. In the year 2000,
+for example, The Wall Street Journal included about
+100 articles dealing with product recalls and about
+80 articles reporting airline accidents. As there are likely
+to be time and energy constraints on the extent to which
+the media can attend to product defects (Cyert and
+March 1963), the media are likely to engage in pay-
+ing selective, rather than exhaustive, attention to the dis-
+closure of product defects (cf. Hayward et al. 2004,
+Rindova et al. 2006).
+
+An important criterion in selecting product defects to
+publicize would be how much potential attention the
+event is likely to attract. Journalists have long insisted
+that prominence is an obvious attention trigger, and peo-
+ple are likely to pay more attention to articles that report
+on a prominent target or set of events (Hoffman and
+Ocasio 2001). Fombrun and Shanley (1990) posit that
+reputation is positively related to media attention (cf.
+Deephouse 2000). And individuals tend to pay more
+attention to salient information (Tversky and Kahneman
+1974). These arguments suggest the product defects of
+high-reputation ﬁrms are more likely to be spotlighted
+than those of low-reputation ﬁrms, because prestigious
+products are widely and popularly known, and, more
+important, the defects of those prestigious products are
+an unexpected and salient event.
+
+To examine whether this process might be occurring,
+we looked at the media attention paid to the recalls
+of a high-reputation and a low-reputation auto ﬁrm.
+According to Consumer Reports, Kia has the least cus-
+tomer satisfaction of any of the major car brands, and
+Lexus has the most (Consumer Reports, 1995–1999).
+Lexus announced six product recalls over the 1995–1999
+period, and Kia announced four recalls. According to a
+Lexis/Nexis search of general interest publications, the
+Lexus recalls were reported 27 times in general newspa-
+pers and 18 times in The Wall Street Journal. The Kia
+recalls were mentioned six times in the general newspa-
+pers and four times in The Wall Street Journal. Thus, the
+Lexus coverage was approximately 7 newspaper reports
+per recall, while the Kia coverage was approximately
+2.5 newspaper reports per recall. While this is obviously
+not conclusive evidence, it does suggest disproportion-
+ate media coverage for high-reputation ﬁrms’ product
+defects, which seems to support the idea that product
+defects of high-reputation ﬁrms draw a larger reaction
+than those of low-reputation ﬁrms.
+
+To summarize thus far, it may be that good-reputation
+ﬁrms suffer a “liability” when their products are shown
+to be defective, relative to poor-reputation ﬁrms. This
+is because of the expectancy-violation effect, combined
+with the fact that mass media are more likely to draw
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+104
+
+consumer attention to the defects of good-reputation
+ﬁrms than poor-reputation ﬁrms.
+
+Reputational Advantage in Market
+Reaction to Defects
+In contrast to the arguments for the disadvantage of rep-
+utation above, several sociological (and sociopsycholog-
+ical) works on prestige and status support mechanisms
+that lead in the opposite direction—suggesting that good
+reputation could be an advantage in the product-defect
+case.
+
+First, an institutional perspective suggests that rep-
+utation and reputation orderings are fairly stable and
+thus resistant to change in the face of quality prob-
+lems. Goffman’s (1956) study of deference systems in
+society suggests that reputation orderings will acquire
+ritual properties and legitimacy over time. Through a
+sequence of institutionalization processes—e.g., habit-
+ualization, objectiﬁcation, and sedimentation (Tolbert
+and Zucker 1996)—reputational orderings are likely to
+become resistant to change. Because the legitimization
+of reputation orderings involves connecting this order-
+ing to wider cultural frames or rules by ascribing cog-
+nitive validity to its meanings (Berger and Luckmann
+1967), organizations with good reputations will enjoy
+support from their audiences. The legitimacy and cul-
+tural support vested in reputation might then provide
+the high-reputation organizations with an institutionally
+based advantage that helps decrease market losses from
+their product defects.
+
+The operation of legitimation processes (Scott 2001)
+in reputational orderings is likely to enhance the sta-
+bility of these reputation structures. Legitimacy implies
+the support of market actors through the mechanism
+of authorization; consequently, a given market actor is
+less likely to engage in destabilizing activity. Simi-
+larly, the results of Zucker’s (1977) experiment suggest
+that a reputation structure that has become institutional-
+ized and legitimized is one that is taken for granted as
+being efﬁcacious and necessary. This taken-for-granted
+status can serve as an important source of cultural
+persistence and stability in good reputation. Therefore,
+good-reputation organizations might be resilient to the
+revelation of product defects that could hurt their rep-
+utations, because market analysts and consumers resist
+changes in reputation ordering, which is collectively
+regarded as appropriate.
+
+Second, social cognition processes underlying the
+reputational advantage in cushioning the disclosure of
+product defects can be derived from the tendency of
+industry experts to commit to their previous decision
+rules in evaluating each ﬁrm’s product quality. In gen-
+eral, consumers’ perceptions of product quality rely
+heavily on a variety of consumer audience media that
+cover industry experts’ reports on each ﬁrm’s product
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+(Fombrun 1996; Zuckerman 1999, 2000; Podolny and
+Hsu 2003). These experts employ their own decision cri-
+teria and procedures, which are expected to be valid and
+reliable. Yet the judgments of these experts are subject
+to biases and inﬂuences from various factors (Vaaler and
+McNamara 2004). Objectively, if the ﬁrms score high by
+expert decision criteria, then produce defective products,
+the credibility of these criteria should be questioned. Yet
+in this case, research on escalation of commitment sug-
+gests that experts might be trapped in the “escalation
+phenomenon,” or the tendency to adhere to a course of
+action even in the face of negative information concern-
+ing the viability of that course of action (Staw 1981).
+That is, industry experts may escalate commitment to
+their decision rules and criteria in judging product qual-
+ity following the receipt of negative feedback on the
+rules, rather than reducing their commitment, as would
+be predicted by trial-and-error learning.
+
+These commitment effects on prior decisions have
+been demonstrated in several contexts and across many
+populations of individuals, including those with sub-
+stantial managerial experience and expertise (e.g., Staw
+and Ross 1987, Schoorman 1988). Research on auditors
+can enlighten the process behind auto industry experts
+because in both cases, the “expert” is supposed to be an
+objective outsider evaluating the quality of a given ﬁrm’s
+product. Yet a series of studies (Messier and Quilliam
+1992, Church and Schneider 1993, Tan 1995, Brody and
+Kaplan 1996, Moore et al. 2006) shows that auditors,
+whether internal or external, who have been involved in
+prior auditing decisions will tend to engage in escalation
+behavior because of fear of damage to their self-image
+and are thus reluctant to change their earlier decisions.
+In sum, expectancy-violation effects and selective
+attention of the media to the defects of good-reputation
+ﬁrms suggest these ﬁrms will be especially penalized
+by the market for their defects. On the other hand,
+institutional processes and escalation of commitment to
+quality rankings by experts suggest that good-reputation
+ﬁrms will be buffered from market reactions to product
+defects. We therefore propose the following competing
+hypotheses:
+
+Hypothesis 1a. The better a ﬁrm’s reputation, the
+greater the market penalty that results from the disclo-
+sure of a product defect by that ﬁrm.
+
+Hypothesis 1b. The better a ﬁrm’s reputation, the
+lower the market penalty that results from the disclosure
+of a product defect by that ﬁrm.
+
+Boundary Conditions
+As noted earlier, we are also interested in examin-
+ing the boundary conditions that affect a relationship
+between reputation and market penalty. While most stud-
+ies on organizational reputation have shown a unilateral
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+effect of reputation on various outcomes, we investigate
+the possibility that because the reputation is entwined
+with the situational context (substitutability) and organi-
+zational attributes (generalism/specialism), reputational
+effects may not be as simple as previously thought.
+
+Substitutability
+White’s socioeconomic model of production (2002)
+implies that substitutability between producers that share
+similar locations in a quality ordering serves as a root
+of buyer power and also puts considerable pressure on
+producers to lower prices. Burt’s structural model (1982)
+suggests that structurally equivalent actors are redun-
+dant and substitutable, and thus vulnerable to potential
+devaluation by others. Given that similar quality reputa-
+tion positions indicate structurally equivalent deference
+and endorsements from the market (cf. Podolny and Hsu
+2003), it can be argued that the efﬁcacy of a ﬁrm’s repu-
+tation in the product defect situation is likely to be lim-
+ited by its substitutability with other ﬁrms. For example,
+it is possible that when other ﬁrms with a comparable
+level of reputation exist and switching costs are low, con-
+sumers will easily withdraw their attachment to a high-
+reputation ﬁrm when it experiences product problems.1
+Generalizing the work of Gould (2002) on the dynam-
+ics of status hierarchies provides more direct insight
+into the conditions under which attachment to a high-
+reputation ﬁrm is lessened. Gould’s model suggests that
+attachments to a high-reputation ﬁrm depend not only
+on reputational attributes but also on the substitutability
+of that ﬁrm. In a market with substitutes of comparable
+reputation, the disclosure of product defects by a high-
+reputation ﬁrm is likely to shift attention to substitutes
+for that ﬁrm’s product.
+
+On the other hand, if potential consumers have few
+comparable alternatives to a high-reputation ﬁrm, they
+might be reluctant to retract those attachments, even if
+the ﬁrm experiences a product defect. Under such a low
+level of substitutability, the costs and risks (e.g., costs in
+searching alternatives with lower levels of reputation and
+the potential dissatisfaction after choosing among those
+alternatives) of deviating from a high-reputation ﬁrm are
+likely to be much larger than the costs and risks (e.g.,
+potential repetition of the same product defect and sub-
+sequent repair costs) of staying with the high-reputation
+ﬁrm, even given the higher uncertainty from the revela-
+tion of a product defect. Thus, the low level of substi-
+tutability may counteract the Bayesian model of market
+learning by making consumers less sensitive to the dis-
+closure of product defects.
+
+The above arguments suggest that substitutability will
+weaken the beneﬁcial effects of a good reputation. This
+means that if it is true that good-reputation ﬁrms suf-
+fer more market penalty from recalls (Hypothesis 1a),
+this effect should be stronger with more substitutabil-
+ity (i.e., they suffer more penalty). On the other hand,
+
+105
+
+if it is true that good-reputation ﬁrms suffer less mar-
+ket penalty from recalls (Hypothesis 1b),
+this effect
+should be weaker with substitutability (i.e., they get less
+beneﬁt). Applying the above arguments to the product
+defect situation, we hypothesize the following contin-
+gency effects on Hypotheses 1a and 1b:
+
+Hypothesis 2a. The negative effect of an organiza-
+tion’s reputation on market response to its product defect
+is strengthened by substitutability (more competitors at
+a comparable level of reputation).
+
+Hypothesis 2b. The positive effect of an organiza-
+tion’s reputation on market response to its product defect
+is weakened by substitutability (more competitors at a
+comparable level of reputation).
+
+Generalism/Specialism
+Several recent studies have found that organizational
+identity is related to whether that organization is a spe-
+cialist or a generalist (cf. Carroll et al. 2002). In their
+study of American beer brewing, for example, Carroll
+and Swaminathan (2000) found that small specialist
+breweries (microbreweries and brewpubs) remained suc-
+cessful even after large generalist breweries (mass pro-
+duction breweries and contract breweries) learned to
+produce beers with a comparable or higher level of qual-
+ity. The authors attribute the success of specialist brew-
+eries to the appeal of specialists’ identity as producers
+who use authentic and legitimized production methods.
+Due to market norms about how specialty beer should
+be produced, consumers believe that specialist breweries
+have more expertise in high-quality beers.
+
+Carroll et al. (2002) enter into a more direct dis-
+cussion on how market evaluations relate to general-
+ism/specialism. They claim that this evaluation depends
+on uncertainty in production process2 and the costs of
+a breakdown. When both uncertainty in the produc-
+tion process and the costs of a breakdown are high
+(e.g., investment banking and auditing), consumers eval-
+uate generalists more favorably, as shown by Park and
+Podolny (2000). However, when both production pro-
+cess uncertainty and the costs of a breakdown are low
+(e.g., beer), specialist organizations will receive higher
+product valuations from the market. Because automotive
+production is likely to be a case where production pro-
+cess uncertainty is low and breakdowns are fairly low
+cost (Podolny and Hsu 2003), it is likely that specialist
+automakers are more likely than generalists to command
+higher product valuations as a result of their specialist
+identity.
+
+Similarly, Zuckerman and Kim (2003) ﬁnd the pos-
+itive effect of a focused, clear identity on valuation in
+their study of the feature ﬁlm market. They show that
+a prerequisite for a ﬁlm’s success in obtaining a high
+valuation is that the ﬁlm be assigned membership in a
+category (independent or major) by critics. Films not
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+106
+
+classiﬁed face an identity crisis, resulting from conﬂicts
+with the set of identities critics use. Thus, a primary
+strategic imperative in the ﬁlm market is to pursue pure
+specialization. Zuckerman and Kim (2003) claim that
+in addition to feature ﬁlms, this argument is applicable
+to other industries where a categorical system is ﬁrmly
+established, such as the auto market.
+
+The above arguments suggest that specialization will
+strengthen the beneﬁcial effects of a good reputation.
+This means that if it is true that good-reputation ﬁrms
+suffer more market penalty from recalls (Hypothesis 1a),
+this effect should be weaker for specialists (i.e., they
+suffer less penalty). On the other hand, if it is true that
+good-reputation ﬁrms suffer less market penalty from
+recalls (Hypothesis 1b), this effect should be stronger
+for specialists (i.e., they get more beneﬁt). Applying
+the above arguments to the product defect situation,
+we hypothesize the following contingency effects on
+Hypotheses 1a and 1b:
+
+Hypothesis 3a. The negative effect of an automaker’s
+reputation on market response to its product defect is
+weaker for specialists.
+
+Hypothesis 3b. The positive effect of an automaker’s
+reputation on market response to its product defect is
+stronger for specialists.
+
+Method
+As noted earlier, our research setting is the automobile
+industry. Our sample is all automakers that sold passen-
+ger cars in the United States during at least one year
+from 1975 to 1999. We chose the automaker (e.g., Buick,
+Lexus) rather than the auto ﬁrm (e.g., GM, Toyota)
+or model (e.g., Regatta, Regal) as our unit of analy-
+sis. There is research in marketing that suggests that
+automaker brands (e.g., Jaguar) are more important than
+model brands (e.g., S-type) or company brands (e.g.,
+Ford) in market reputation (Sullivan 1998, Taran 2001).
+Also, to the extent that any of our proposed processes
+apply to the model rather than the maker level, our anal-
+yses represent a conservative test of our hypotheses.
+
+During our study period, 54 automakers sold pas-
+senger cars; 72% of these automakers were non-U.S.
+companies. Some automakers operated over the whole
+research period, while others entered or exited the U.S.
+auto market at certain times. We identiﬁed the sam-
+ple companies using the biennial Ward’s Automotive
+Yearbook and the weekly Automotive News between
+1975 and 1999,
+inclusive. A few automakers that
+have sold a small ﬁxed number of cars (e.g., Ferrari,
+Lamborghini, Maserati, Aston Martin, Austin, Lotus,
+and Rolls/Bentley) are excluded from the study due to
+limited availability of information. Moreover, because
+loss in market sales is included as a key variable for
+testing our hypotheses, it seems inappropriate to include
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+these automakers, whose product sales are determined
+by the ﬁxed numbers of cars, as demand may be higher
+than supply in these cases. Triumph was also excluded,
+as information on key variables was not available for this
+maker. The ﬁnal sample includes 15 U.S. automakers
+and 31 foreign automakers.
+
+Independent Variable: Product Defects
+We use ofﬁcial product recalls as our measure of prod-
+uct defects for these automakers. Product recall informa-
+tion was obtained from National Highway Trafﬁc Safety
+Administration (NHTSA) reports that were provided to
+the U.S. Department of Transportation. Since Congress
+passed the National Trafﬁc and Motor Vehicle Safety
+Act (NTMVSA) in 1966, which is enforced through
+the NHTSA, automakers have been required to produce
+vehicles that meet federally determined safety standards.
+Federal Motor Vehicle Safety Standards set minimum
+performance levels for those parts of the vehicle that
+affect safe operation (brakes, engine, steering system,
+tires, and lighting) and that protect drivers and passen-
+gers from death and serious injury in the event of a crash
+(e.g., air bags, safety belts, and child restraints). These
+standards are applicable to all vehicles and equipment
+manufactured for sale in the United States and certi-
+ﬁed for use on public roads and highways. Automak-
+ers whose vehicles are deemed not to be in compliance
+with standards are subject to motor vehicle or equipment
+recalls. Since the act was passed, approximately 225 mil-
+lion cars, trucks, buses, recreational vehicles, motorcy-
+cles and mopeds, as well as 25 million tires have been
+recalled to correct safety defects. We obtained data on
+all recalls and their dates for our sampled ﬁrms from the
+NHTSA database. The 46 automakers sampled in this
+study experienced a total of 1,853 recalls over the period
+studied, for an average of 2.26 recalls per automaker per
+year. Figure 1 presents both total and average numbers
+of recalls by year (1975–1999). Both total and average
+number of recalls appear to ﬂuctuate, with no clear lin-
+ear trend over the period studied. In general, however,
+there were more recalls during Democratic administra-
+tions than Republican ones.
+
+Given that market responses to a product recall may
+be different depending on the severity of the recall
+(Reilly and Hoffer 1983), we present a separate analysis
+of severe and nonsevere recalls. The NHTSA has estab-
+lished several criteria to judge the severity of each recall.
+The NHTSA reports list the hazard level of each recall,
+with Type A representing signiﬁcant hazard without the
+manufacturer’s warning, Type B representing signiﬁcant
+hazard with warning, Type C potential safety hazard,
+and Type D low risk of signiﬁcant harm. As part of our
+analysis, we separate severe recalls (those involving sig-
+niﬁcant hazard—A or B) from nonsevere recalls (Type C
+or D).
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+Figure 1 Total and Average Numbers of Recalls by Year,
+
+1975–1999
+
+120
+
+100
+
+s
+
+l
+l
+
+a
+c
+e
+r
+ 
+f
+
+o
+ 
+r
+e
+b
+m
+u
+n
+
+ 
+l
+
+t
+
+a
+o
+T
+
+s
+
+l
+l
+
+a
+c
+e
+r
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+n
+ 
+e
+g
+a
+r
+e
+v
+A
+
+1975 1977 1979 1981 1983 1985 1987 1989 1991 1993 1995 1997 1999
+
+Year
+
+80
+
+60
+
+40
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1975 1977 1979 1981 1983 1985 1987 1989 1991 1993 1995 1997 1999
+
+Year
+
+Independent Variable: Reputation
+The auto industry has many potentially fruitful mea-
+sures of automaker reputation. However, because it is
+not clear exactly what speciﬁc measures of reputation
+would be appropriate, we used a combined approach to
+identify and test multiple measures. We ﬁrst searched for
+measures that have been used in published studies. We
+also used an inductive approach by distributing a short
+questionnaire to 19 persons with extensive auto indus-
+try experience who had agreed to provide information
+about their opinions of automaker reputations. We asked
+each respondent to identify indicators that they thought
+might serve as a signal of an automaker’s product qual-
+ity and thus affect consumers’ subjective evaluation of
+the quality. Our approach produced two broad types of
+indicators.
+
+Third-Party Ratings. First, previous quality ratings
+provided by third parties is one key component affect-
+ing perceptions of quality. Levin (2000), Deveraj et al.
+(2001), and Podolny and Hsu (2003) discuss how third-
+party ratings are a key component of quality judgments
+on automotive products (and thus reputation/status order-
+ings). In our questionnaire, all respondents noted previ-
+ous quality ratings as a key component of consumers’
+
+107
+
+collective perception of product quality. Almost all the
+respondents suggested Consumer Reports: Buying Guide
+and J. D. Power & Associates as the most important
+car-rating sources in the United States. Both of these rat-
+ing services use data that is based on the experiences of
+actual owners of new or used vehicles. Using the experi-
+ences of actual owners is relevant for this study because
+those direct experiences with cars are easily expanded
+to a collective perception of the cars through word of
+mouth.
+
+We therefore developed a measure of reputation using
+previous quality ratings in Consumer Reports and J. D.
+Power and Associates publications. We use the ﬁve-point
+scale “trouble indexes” in Consumer Reports. We cal-
+culate the mean of the “overall problem rate” scores of
+each model for the most recent three years of owner-
+ship. We choose the scores only for these three years of
+ownership because a survey implemented by WardsAuto
+Corporation revealed in 1999 that most readers (82%)
+of Consumer Reports paid attention to the scores for
+the most recent three years of ownership, and the mean
+of those scores were highly correlated with that for the
+older model years (corr. = 0(cid:1)87 in the 1999 issues of
+Consumer Reports). We then create an overall problem
+rate score for an automaker in a year by averaging the
+overall problem rate scores of all car models with the
+automaker in that year. Because an automaker’s reputa-
+tion is assumed to derive from the prior quality ratings
+of the maker, an average score over the ﬁve years prior
+to the selected year is used.3
+
+Second, we use “initial ratings,” which have been
+published by the J. D. Power Consumer Center since
+1990, as another source of previous quality ratings for an
+automaker. Initial ratings consist of six scores, ranging
+from 2 to 5, across different criteria, and are obtained by
+J. D. Power from consumer ratings of vehicles purchased
+after the ﬁrst few months of ownership. We ﬁrst calcu-
+late the mean of the six scores for each model and then
+create an automaker’s score in a year by averaging those
+mean scores of all car models within the automaker in
+that year. Again, an average score over the ﬁve years
+prior to the selected year was measured.
+
+We then combine these two scores (trouble index and
+initial ratings) into a single index of an automaker’s
+reputation using principal components analysis (Jackson
+1991). A separate factor analysis conﬁrms that those two
+scores load on a single factor accounting for 86.6% of
+the two scores’ combined variance. Following Podolny
+and his colleagues (e.g., Benjamin and Podolny 1999),
+who highlight the relativistic property of reputation, this
+single measure is then rescaled so that the highest repu-
+tation automaker in a given year has a reputation score
+of 1 and the lowest reputation automaker has a score
+of 0.
+
+Depreciation Rates. Many questionnaire respondents
+also encouraged us to consider the depreciation rate of
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+108
+
+an automaker’s price over time to measure its reputation.
+The earlier example of the study showing the GM cars to
+be worth less than identical Toyota cars after a few years
+also suggests the value of using the depreciation rate as
+an indicator of quality reputation. The price of new cars
+is ﬁxed by the manufacturers’ objectives, cost analyses,
+and quality analyses. However, the price of a used car
+is an indication of the collective valuation of that car,
+because the used car price can be regarded as a car’s
+value that results from “the implicit negotiation between
+sellers and buyers” (personal conversation, December 5,
+2002, information manager at the Kelley Blue Book in
+Irvine, CA). Thus, the price of a used car weighted by
+its original new car price, which can be formulated as
+the depreciation rate, is likely to be highly correlated
+with collective perceptions of that car’s quality (Sullivan
+1998) and thus the automaker’s reputation. This suggests
+that the lower the depreciation rate of a car’s price, the
+higher the car’s reputation.
+
+To calculate depreciation rate, we use the Kelley Blue
+Book: Used Car Guide (Western edition) series, which
+was ﬁrst published in 1926. We use the last
+issue
+(November–December) of each year to calculate “list
+prices” (the original suggested retail price) and “sug-
+gested retail values,” which represent the Kelley Blue
+Book’s estimated asking price. We measure a car model’s
+depreciation rate of price in selected year T as the depre-
+ciation rate of its T − 3 year-model price during the
+three-year period. We calculate an automaker’s deprecia-
+tion rate of price in a year by averaging the depreciation
+rates of all car models’ prices of that automaker in that
+year. The depreciation rate is then rescaled such that the
+automaker with the lowest depreciation rate in any given
+year has a score of 1 and the automaker with the highest
+depreciation rate has a score of 0.
+
+Composite Measure. The third measure of reputation
+is created by combining third-party ratings and depreci-
+ation rates into a single variable using principal compo-
+nents analysis. A separate factor analysis conﬁrms that
+those two scores load on a single factor accounting for
+83.3% of the two scores’ combined variance. The com-
+posite variable is then rescaled again such that the high-
+est reputation automaker has a reputation score of 1 and
+the lowest 0.
+
+The left three columns in Table 1 present the scores
+of our three reputation measures for the automakers in
+our sample in 1999. In general, Japanese and German
+automakers possess higher reputations than the automak-
+ers from other countries. Despite their overall high
+correlation (see Table 2), however, there are some dis-
+crepancies between the three indicators of reputation.
+For example, although Lexus, Inﬁniti, and Acura have
+the highest reputation scores measured by third-party
+ratings, they receive much lower reputation scores mea-
+sured by depreciation rates. Some industry experts con-
+sulted for this study speculate that because those makers
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+are newer than their sister makers (Toyota, Nissan, and
+Honda), they receive lower resale valuations. In contrast,
+BMW and Volkswagen have higher scores in deprecia-
+tion rates than in third-party ratings. Our interviewees
+note that these makers have become popular with the
+public due to other features (e.g., excitement), which
+allows the makers to enjoy higher resale values. Regard-
+less of these discrepancies, however, it should be noted
+that reputation orderings will never be completely uni-
+form across different indicators.
+
+Independent Variable: Substitutability
+In our study, substitutability is proxied by the extent
+to which a reputation level is crowded by automak-
+ers. We thus measure an automaker’s substitutability as
+the total number of other automakers whose reputation
+scores are within one standard deviation of reputation
+scores, which is measured on the industry level in a
+given year. The greater the number of such automakers,
+the more substitutable the focal automaker. To check the
+robustness of our results, we also use different criteria
+of deﬁning substitutability boundaries, ranging from a
+half standard deviation to two standard deviations, and
+ﬁnd very little change in the results (results are available
+from the authors).4
+
+Independent Variable: Generalism/Specialism
+We use two measures of generalism/specialism. Follow-
+ing Dobrev et al. (2002), we ﬁrst use the spread of
+engine capacity (measured in liters) over all car mod-
+els that an automaker produced in a given year. The
+choice of engine capacity reveals the range of automak-
+ers’ technological offerings and their competitive market
+strategies, because technological space directly affects
+automakers’ marketing and supply chain management
+(for a more detailed rationale for this measure, see the
+papers cited above). The spread of engine capacity is
+measured as the largest minus the smallest engine capac-
+ity. Specialists tend to produce a small number of vehi-
+cles with a narrow range of engine capacity, such as
+Kia. Generalists tend to produce vehicles over a large
+range of capacities, such as Ford, which has the Festiva
+(∼1.5 liter), the Focus (1.5 liter–2.0 liter), the Contour
+(2.0 liter–3.0 liter), the Mustang (3.0 liter–4.0 liter), and
+the Excursion (∼4.0 liter). Thus, the lower the value
+for the spread of engine size, the greater the level of
+specialism.
+
+However, as each car model within an automaker may
+represent a distinctive market segment that is captured
+not only by engine capacity but also by price and con-
+sumer taste, we use a second, less technologically exclu-
+sive indicator of generalism/specialism: the number of
+car models an automaker produced in a given year, with
+fewer models being an indicator of specialism. We ﬁnd
+a high correlation (cid:3)=0(cid:1)60(cid:4) between these two compo-
+nents and thus combine them into a single index using
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+109
+
+Table 1 Sampled Scores of Reputation and Generalism, 1999
+
+Reputation:
+
+third-party ratings
+
+Reputation:
+
+depreciation rates
+
+Reputation:
+
+composite measure
+
+Level of generalism
+
+Order
+
+Automaker
+
+Score
+
+Automaker
+
+Score
+
+Automaker
+
+Score
+
+Automaker
+
+Score
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+
+Lexus
+Inﬁniti
+Acura
+BMW
+Toyota
+Volvo
+Honda
+Audi
+
+Mercedes-Benz
+
+Subaru
+Porsche
+Saturn
+Lincoln
+
+Oldsmobile
+
+Nissan
+Mazda
+Saab
+Buick
+Jaguar
+Mercury
+Cadillac
+
+Volkswagen
+
+Ford
+
+Pontiac
+Suzuki
+Chrysler
+Mitsubishi
+Plymouth
+Dodge
+Chevrolet
+Daewoo
+Hyundai
+
+Kia
+
+Porsche
+
+Chrysler
+
+Volkswagen
+
+BMW
+Lexus
+Honda
+Acura
+Saturn
+Volvo
+
+Toyota
+Audi
+Subaru
+Inﬁniti
+Nissan
+Mazda
+
+1.000
+0.993
+0.859
+0.792
+0.755
+0.705
+0.698
+0.687 Mercedes-Benz
+0.682
+0.658
+0.635
+0.631
+0.606
+0.553
+0.543
+0.515
+0.492
+0.457
+0.447
+0.408
+0.401
+0.396
+0.370
+0.280
+0.276
+0.273
+0.259
+0.250
+0.244
+0.236
+0.126
+0.021
+0.000
+
+Pontiac
+Jaguar
+Plymouth
+Dodge
+Ford
+
+Lincoln
+Mercury
+Chevrolet
+
+Cadillac
+Mitsubishi
+
+Saab
+Suzuki
+Buick
+
+Daewoo
+Hyundai
+
+Oldsmobile
+
+Kia
+
+Volkswagen
+Oldsmobile
+
+Saturn
+Audi
+Subaru
+Nissan
+Mazda
+
+Lexus
+BMW
+Acura
+Porsche
+Inﬁniti
+Honda
+Volvo
+Toyota
+
+1.000
+0.931
+0.907
+0.901
+0.824
+0.810
+0.803
+0.789
+0.738 Mercedes-Benz
+0.726
+0.623
+0.608
+0.546
+0.544
+0.539
+0.471
+0.427
+0.413
+0.386
+0.377
+0.376
+0.353
+0.349
+0.344
+0.324
+0.316
+0.311
+0.293
+0.280
+0.267
+0.263
+0.061
+0.000
+
+Ford
+Suzuki
+Mercury
+Pontiac
+Plymouth
+Dodge
+
+Lincoln
+Saab
+Buick
+Jaguar
+Chrysler
+Cadillac
+
+Mitsubishi
+Chevrolet
+
+Daewoo
+Hyundai
+
+Kia
+
+Mitsubishi
+
+Buick
+Ford
+
+Oldsmobile
+
+Toyota
+Audi
+
+Dodge
+Chevrolet
+
+Honda
+Acura
+Chrysler
+
+BMW
+Pontiac
+Cadillac
+Mercury
+Lincoln
+
+1.000
+0.902
+0.881
+0.856
+0.838 Mercedes-Benz
+0.837
+0.789
+0.780
+0.769
+0.753
+0.738
+0.669
+0.567
+0.540
+0.484
+0.482
+0.466
+0.459
+0.436
+0.413
+0.384
+0.370
+0.357
+0.354
+0.354
+0.337
+0.307
+0.296
+0.291
+0.256
+0.129
+0.088
+0.000
+
+Inﬁniti
+Lexus
+Subaru
+Mazda
+Nissan
+Volvo
+Saturn
+Plymouth
+Hyundai
+Daewoo
+Porsche
+
+Saab
+Jaguar
+Suzuki
+
+Volkswagen
+
+Kia
+
+2(cid:1)045
+2(cid:1)040
+1(cid:1)349
+1(cid:1)041
+0(cid:1)981
+0(cid:1)844
+0(cid:1)770
+0(cid:1)711
+0(cid:1)488
+0(cid:1)375
+0(cid:1)299
+0(cid:1)251
+0(cid:1)186
+−0(cid:1)015
+−0(cid:1)019
+−0(cid:1)023
+−0(cid:1)207
+−0(cid:1)273
+−0(cid:1)424
+−0(cid:1)440
+−0(cid:1)450
+−0(cid:1)474
+−0(cid:1)504
+−0(cid:1)590
+−0(cid:1)627
+−0(cid:1)668
+−0(cid:1)668
+−0(cid:1)833
+−0(cid:1)842
+−0(cid:1)897
+−1(cid:1)079
+−1(cid:1)192
+−1(cid:1)315
+
+principal components analysis. A factor analysis con-
+ﬁrms that the two scores load on a single factor, account-
+ing for 78.7% of the two scores’ combined variance. The
+right column in Table 1 presents the scores of general-
+ism for the automakers in our sample in 1999. Overall,
+U.S. automakers are more likely to be generalists than
+foreign automakers are.
+
+Dependent Variable (Market Share Change) and
+Model Speciﬁcation
+In our hypotheses, we predict that an automaker’s repu-
+tation affects the (negative) impact of its product defects
+(recalls in our data). We use market share as the depen-
+dent variable in this analysis because market shares,
+unlike sales units, are not affected by temporal ﬂuctu-
+ations in seasonal demand. The dependent variable is
+therefore, the rate of change in an automaker’s market
+share over the observation period. Consistent with prior
+studies of auto recalls (Crafton et al. 1981, Reilly and
+Hoffer 1983, Borenstein and Zimmerman 1988), we use
+month as the unit of time on the assumption that a longer
+
+period would make it difﬁcult to detect the effect of a
+recall event because there are so many intervening events
+that could affect market share. For example, automak-
+ers may increase their advertising and public relations
+efforts after a recall in an attempt to manage the negative
+publicity that comes with the recall. Our interviews with
+industry experts suggest that this is the case. However, as
+noted later in this paper, we also model and test different
+market share lags. Data on automakers’ monthly market
+share come from their reports to Automotive News.
+
+We model the change rate of an automaker’s market
+
+shares using the following power function:
+Mi(cid:7) t = M (cid:9)
+
+it−1exp(cid:3)(cid:10)(cid:5)SEit−1+(cid:13)(cid:5)NEit−1+(cid:15)(cid:5)Rit−1+(cid:17)(cid:5)Sit−1
+(1)
+
++ (cid:18)(cid:5)Nit−1 + (cid:19)(cid:5)Iit−1 + (cid:21)(cid:5)Cit−1(cid:4)(cid:23)(cid:1)
+
+Here, Mit−1 is the market share of automaker i at month
+t − 1; SEit−1 refers to a dummy variables indicating
+whether automaker i experienced a severe product recall
+(1) or not (0) during month t − 1; NEit−1 refers to
+a dummy indicating the event of a nonsevere product
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+110
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+5
+1
+
+4
+1
+
+3
+1
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+.
+x
+a
+M
+
+.
+
+i
+
+n
+M
+
+.
+
+D
+S
+
+.
+
+n
+a
+e
+M
+
+l
+
+e
+b
+a
+i
+r
+a
+V
+
+(cid:5)
+0
+9
+2
+(cid:4)
+9
+=
+N
+
+(cid:2)
+
+9
+9
+9
+1
+–
+5
+7
+9
+1
+
+,
+
+i
+
+s
+t
+n
+e
+c
+ﬁ
+f
+e
+o
+C
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+n
+o
+s
+r
+a
+e
+P
+d
+n
+a
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+S
+e
+v
+
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+2
+
+l
+
+e
+b
+a
+T
+
+9
+4
+7
+
+.
+
+0
+
+4
+0
+7
+
+.
+
+0
+
+0
+2
+4
+0
+−
+
+(cid:1)
+
+3
+3
+4
+0
+−
+
+(cid:1)
+
+9
+5
+3
+0
+−
+
+(cid:1)
+
+5
+9
+0
+0
+
+(cid:1)
+
+3
+9
+0
+0
+
+(cid:1)
+
+5
+0
+2
+0
+
+(cid:1)
+
+1
+8
+2
+0
+
+(cid:1)
+
+6
+7
+1
+0
+
+(cid:1)
+
+7
+1
+4
+
+.
+
+0
+
+3
+9
+4
+0
+−
+
+(cid:1)
+
+2
+8
+4
+0
+−
+
+(cid:1)
+
+9
+4
+4
+0
+−
+
+(cid:1)
+
+3
+0
+1
+0
+
+(cid:1)
+
+5
+8
+0
+0
+
+(cid:1)
+
+9
+4
+2
+0
+
+(cid:1)
+
+1
+4
+2
+0
+
+(cid:1)
+
+5
+5
+0
+0
+
+(cid:1)
+
+4
+5
+0
+0
+−
+
+(cid:1)
+
+8
+1
+4
+0
+−
+
+(cid:1)
+
+0
+5
+0
+0
+−
+
+(cid:1)
+
+6
+5
+4
+0
+−
+
+(cid:1)
+
+0
+5
+3
+0
+
+(cid:1)
+
+0
+2
+1
+0
+
+(cid:1)
+
+0
+9
+3
+0
+
+(cid:1)
+
+6
+8
+0
+0
+
+(cid:1)
+
+6
+9
+2
+0
+−
+
+(cid:1)
+
+2
+2
+3
+0
+−
+
+(cid:1)
+
+6
+3
+2
+0
+−
+
+(cid:1)
+
+7
+3
+0
+0
+
+(cid:1)
+
+1
+0
+1
+0
+
+(cid:1)
+
+1
+8
+0
+0
+
+(cid:1)
+
+8
+5
+2
+0
+
+(cid:1)
+
+1
+6
+1
+0
+
+(cid:1)
+
+5
+0
+0
+0
+
+(cid:1)
+
+6
+9
+3
+0
+−
+
+(cid:1)
+
+7
+3
+3
+0
+
+(cid:1)
+
+4
+0
+0
+0
+
+(cid:1)
+
+5
+4
+9
+0
+
+(cid:1)
+
+3
+4
+9
+0
+
+(cid:1)
+
+1
+9
+0
+0
+−
+
+(cid:1)
+
+6
+9
+0
+0
+−
+
+(cid:1)
+
+2
+2
+2
+0
+−
+
+(cid:1)
+
+5
+4
+2
+0
+−
+
+(cid:1)
+
+6
+3
+0
+0
+−
+
+(cid:1)
+
+2
+2
+0
+0
+
+(cid:1)
+
+1
+3
+5
+0
+
+(cid:1)
+
+1
+0
+4
+0
+−
+
+(cid:1)
+
+7
+2
+0
+0
+
+(cid:1)
+
+2
+8
+7
+0
+
+(cid:1)
+
+9
+7
+0
+0
+−
+
+(cid:1)
+
+8
+0
+1
+0
+−
+
+(cid:1)
+
+0
+0
+2
+0
+−
+
+(cid:1)
+
+4
+7
+2
+0
+−
+
+(cid:1)
+
+3
+6
+0
+0
+−
+
+(cid:1)
+
+2
+0
+1
+0
+
+(cid:1)
+
+9
+7
+4
+0
+
+(cid:1)
+
+9
+5
+4
+0
+−
+
+(cid:1)
+
+1
+3
+0
+0
+−
+
+(cid:1)
+
+3
+9
+0
+0
+−
+
+(cid:1)
+
+1
+1
+1
+0
+−
+
+3
+7
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+0
+6
+0
+0
+
+(cid:1)
+
+2
+9
+1
+0
+
+(cid:1)
+
+8
+1
+2
+0
+
+9
+1
+2
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+2
+6
+0
+0
+
+7
+8
+1
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+3
+2
+0
+0
+
+7
+0
+0
+0
+−
+
+4
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+3
+9
+0
+0
+−
+
+8
+0
+1
+0
+−
+
+0
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+7
+8
+0
+0
+−
+
+3
+0
+1
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+4
+2
+5
+0
+
+(cid:1)
+
+2
+4
+1
+0
+
+(cid:1)
+
+3
+5
+1
+0
+
+7
+9
+2
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+9
+4
+1
+0
+
+(cid:1)
+
+1
+7
+1
+0
+
+(cid:1)
+
+2
+8
+0
+0
+
+(cid:1)
+
+4
+6
+0
+0
+
+(cid:1)
+
+1
+1
+0
+0
+−
+
+(cid:1)
+
+3
+5
+2
+0
+−
+
+(cid:1)
+
+7
+4
+2
+0
+−
+
+(cid:1)
+
+4
+6
+3
+0
+
+(cid:1)
+
+8
+0
+4
+0
+
+(cid:1)
+
+1
+4
+2
+
+.
+
+0
+
+0
+7
+2
+
+.
+
+0
+
+3
+5
+1
+
+.
+
+0
+
+2
+8
+2
+0
+−
+
+(cid:1)
+
+8
+0
+3
+0
+−
+
+(cid:1)
+
+4
+2
+2
+0
+−
+
+(cid:1)
+
+2
+1
+2
+0
+
+(cid:1)
+
+6
+6
+1
+0
+
+(cid:1)
+
+2
+0
+5
+0
+
+(cid:1)
+
+7
+9
+3
+0
+
+(cid:1)
+
+8
+1
+0
+0
+−
+
+(cid:1)
+
+0
+1
+4
+0
+−
+
+(cid:1)
+
+9
+0
+3
+0
+−
+
+(cid:1)
+
+1
+3
+5
+0
+
+(cid:1)
+
+8
+4
+6
+0
+
+(cid:1)
+
+3
+6
+0
+
+.
+
+4
+
+0
+5
+5
+1
+−
+
+(cid:1)
+
+6
+0
+0
+
+.
+
+1
+
+6
+5
+0
+0
+
+(cid:1)
+
+1
+
+1
+
+4
+2
+
+0
+1
+
+9
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+2
+
+8
+1
+
+8
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+9
+6
+6
+
+.
+
+1
+
+7
+2
+2
+0
+
+(cid:1)
+
+t
+e
+k
+r
+a
+m
+d
+e
+g
+g
+a
+l
+(
+
+g
+o
+L
+
+.
+
+1
+
+2
+7
+8
+
+.
+
+0
+
+7
+3
+4
+
+.
+
+0
+
+7
+7
+4
+
+.
+
+0
+
+9
+7
+2
+
+.
+
+7
+
+0
+3
+1
+
+.
+
+1
+
+3
+4
+5
+3
+
+(cid:1)
+
+8
+5
+2
+0
+
+(cid:1)
+
+1
+5
+3
+0
+
+(cid:1)
+
+8
+8
+9
+0
+
+(cid:1)
+
+1
+9
+2
+2
+1
+
+(cid:1)
+
+5
+2
+4
+
+.
+
+1
+
+2
+5
+1
+1
+
+(cid:1)
+
+8
+8
+2
+
+.
+
+0
+
+1
+1
+3
+
+.
+
+0
+
+9
+6
+2
+
+.
+
+0
+
+1
+9
+0
+0
+
+(cid:1)
+
+8
+0
+1
+0
+
+(cid:1)
+
+4
+8
+4
+0
+
+(cid:1)
+
+(cid:5)
+1
+−
+
+e
+r
+e
+v
+e
+s
+n
+o
+n
+
+)
+(cid:5)
+2
+1
+−
+
+t
+(cid:2)
+–
+(cid:5)
+2
+−
+
+)
+(cid:5)
+2
+1
+−
+
+t
+(cid:2)
+–
+(cid:5)
+2
+−
+
+e
+r
+e
+v
+e
+s
+
+l
+
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+l
+
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+t
+(cid:2)
+(
+
+s
+
+l
+l
+
+a
+c
+e
+r
+
+t
+(cid:2)
+(
+
+s
+
+l
+l
+
+a
+c
+e
+r
+
+t
+(cid:2)
+
+(cid:5)
+1
+−
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+s
+n
+o
+N
+
+t
+(cid:2)
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+)
+e
+g
+a
+
+l
+
+s
+e
+a
+s
+(
+
+i
+
+n
+g
+i
+r
+o
+
+g
+o
+L
+
+i
+
+a
+s
+A
+
+5
+7
+9
+1
+
+e
+c
+n
+s
+
+i
+
+s
+r
+a
+e
+Y
+
+i
+
+n
+g
+i
+r
+o
+
+n
+a
+e
+p
+o
+r
+u
+E
+
+)
+e
+r
+a
+h
+s
+
+.
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+5
+
+.
+
+6
+
+.
+
+7
+
+.
+
+8
+
+.
+
+9
+
+y
+t
+r
+a
+p
+-
+d
+r
+i
+h
+t
+
+:
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+.
+0
+1
+
+2
+7
+2
+
+.
+
+0
+
+4
+6
+4
+0
+
+(cid:1)
+
+n
+o
+
+i
+t
+
+i
+
+a
+c
+e
+r
+p
+e
+d
+
+s
+g
+n
+i
+t
+a
+r
+
+:
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+.
+
+1
+1
+
+s
+e
+t
+a
+r
+
+5
+5
+2
+
+.
+
+0
+
+4
+7
+4
+0
+
+(cid:1)
+
+e
+
+t
+i
+s
+o
+p
+m
+o
+c
+
+:
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+.
+
+2
+1
+
+5
+8
+5
+
+.
+
+3
+
+3
+4
+3
+8
+
+(cid:1)
+
+3
+2
+1
+
+.
+
+4
+
+0
+9
+6
+8
+
+(cid:1)
+
+5
+6
+6
+
+.
+
+3
+
+1
+7
+3
+8
+
+(cid:1)
+
+r
+o
+f
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+S
+
+s
+g
+n
+i
+t
+a
+r
+
+y
+t
+r
+a
+p
+-
+d
+r
+i
+h
+t
+
+r
+o
+f
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+S
+
+s
+e
+t
+a
+r
+
+i
+
+n
+o
+i
+t
+a
+c
+e
+r
+p
+e
+d
+
+.
+3
+1
+
+.
+4
+1
+
+e
+r
+u
+s
+a
+e
+m
+e
+t
+i
+s
+o
+p
+m
+o
+c
+
+m
+s
+
+i
+l
+
+a
+r
+e
+n
+e
+g
+
+f
+o
+
+l
+
+e
+v
+e
+L
+
+.
+
+6
+1
+
+r
+o
+f
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+S
+
+.
+
+5
+1
+
+e
+r
+u
+s
+a
+e
+m
+
+.
+h
+t
+n
+o
+m
+
+t
+n
+e
+r
+r
+u
+c
+
+e
+h
+
+t
+
+s
+e
+
+t
+
+o
+n
+e
+d
+
+t
+
+.
+
+e
+
+t
+
+o
+N
+
+5
+9
+0
+0
+
+(cid:1)
+
+9
+2
+1
+0
+−
+
+7
+2
+2
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+3
+3
+4
+0
+−
+
+(cid:1)
+
+8
+5
+1
+0
+
+6
+1
+2
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+9
+4
+5
+0
+−
+
+7
+9
+0
+0
+−
+
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+5
+5
+3
+0
+
+(cid:1)
+
+4
+9
+0
+0
+
+8
+6
+6
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+9
+4
+0
+0
+
+(cid:1)
+
+4
+6
+3
+0
+
+(cid:1)
+
+1
+0
+4
+0
+
+(cid:1)
+
+9
+5
+6
+
+.
+
+4
+
+0
+4
+1
+
+.
+
+3
+
+4
+8
+8
+8
+−
+
+(cid:1)
+
+3
+9
+6
+0
+−
+
+(cid:1)
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+recall; Rit−1 refers to the reputation of automaker i; Sit−1
+refers to substitutability; Nit−1 refers to level of general-
+ism; Iit−1 represents a set of interaction terms (two-way
+interaction of recall and reputation, three-way interac-
+tion of recall, reputation, substitutability, and three-way
+interaction of recall, reputation, and generalism); Cit−1
+is a vector of control variables (described below); and (cid:23)
+is a log normally distributed error term. Because there
+could be cumulative effects of product recalls over a
+longer period, we also include the number of recalls dur-
+ing months (cid:3)t− 1(cid:4)–(cid:3)t− 12(cid:4) in our model. By transform-
+ing Equation (1) to its natural logarithm, we obtain the
+linear equation with a normally distributed error term,
+(cid:24):
+
+log(cid:3)Mi(cid:7) t(cid:4)
+
+= (cid:9) log(cid:3)Mit−1(cid:4)+ (cid:10)(cid:5)SEit−1 + (cid:13)(cid:5)NEit−1 + (cid:15)(cid:5)Rit−1
++ (cid:17)(cid:5)Sit−1 + (cid:18)(cid:5)Nit−1 + (cid:19)(cid:5)Iit−1 + (cid:21)(cid:5)Cit−1 + (cid:24)(cid:1)
+
+(2)
+
+Estimation
+We estimate the parameters of Equation (2) on unbal-
+anced, pooled, cross-section,
+time-series data with
+monthly time periods; the number of observations varies
+among automakers. Following recent analyses of lon-
+gitudinal data (Baron et al. 2001, Dobrev et al. 2001),
+we use generalized estimating equations (GEE) or
+population-averaged (or marginal) estimators to analyze
+both inter- and intraﬁrm variation (cf. Liang and Zeger
+1986). Like quasilikelihood, GEE speciﬁes the relation-
+ship between the mean and variance of the dependent
+variable, rather than the full distribution of population, as
+is required for the cluster-speciﬁc maximum likelihood
+estimators, such as random effects or ﬁxed-effects mod-
+els. GEE has solutions that are consistent and asymptot-
+ically Gaussian, even when the time dependence is mis-
+speciﬁed. We use the XTGEE procedure in STATA 7.0
+by choosing the Gaussian distribution and the iden-
+tity link. In addition, because repeated observations are
+made on each automaker, we correct for correlation in
+an automaker’s measurements using the “exchangeable”
+version of the working correlation matrix. The serial
+correlation of the residuals is constant across time lags.
+Finally, we report robust standard errors using the “sand-
+wich” estimators developed by Huber (1967) and White
+(1982).
+
+Control Variables
+We control for three other factors that may affect an
+automaker’s market share and its change. First, we
+expect market share to vary with an automaker’s expe-
+rience, which is proxied by sales age in our analysis.
+Findings by organizational ecologists on the relation-
+ship between age and organizational growth are not con-
+sistent (cf. Carroll and Hannan 2000). Thus, we also
+include squared sales age to explore a nonlinear relation-
+ship. Sales age is measured as the differences between
+
+111
+
+the current month and the time the automaker entered the
+U.S. automobile industry. As sales age is highly skewed,
+we log it before entering it into the analysis.
+
+Second, we create two dummy variables for foreign
+automakers (Asian automakers and European automak-
+ers), with the U.S. automakers as the reference cat-
+egory, because foreign automakers may face different
+market challenges/opportunities and governmental regu-
+lations than domestic automakers do. Finally, we include
+a variable measuring years elapsed from 1975 to capture
+any time trend effects associated with changes in market
+share.5
+
+Results
+Table 2 presents descriptive statistics and correlations
+for variables used in the analysis. Mean monthly mar-
+ket share is 3.19%, with a standard deviation of 3.89%.
+Several of the control variables are fairly highly corre-
+lated. Sales age, for example, has a somewhat high cor-
+relation with generalism, and foreign automakers tend
+to be more specialized than U.S. automakers. Asian
+automakers entered the market later than U.S. makers
+but generally have higher reputations than U.S. mak-
+ers. The high correlations among these controls may
+point to possible problems with multicollinearity. Fol-
+lowing Sine and his colleagues (Sine et al. 2003, 2005),
+we orthogonalized highly correlated variables (cumula-
+tive recalls, level of generalism, and country of origin)
+using a modiﬁed Gram-Schmidt procedure (cf. Saville
+and Wood 1991) so that all variance-inﬂation factors and
+condition indexes become less than 2.5 and 30, respec-
+tively (cf. Belsley et al. 1980). This technique partials
+out the common variance and constructs an orthonor-
+mal basis for any set of linearly independent vectors.6
+We used the “orthog” command in Stata 8 to generate
+orthogonalized variables. We also address potential mul-
+ticollinearity between main effects and interaction terms
+by centering variables prior to calculating interactions
+(cf. Cronbach 1987).
+
+Table 3 presents the results from GEE estimates of
+the change in market share model shown in Equa-
+tion (2). Model 1 of Table 3 is the base model, con-
+taining only the control variables. The second-order
+effect of sales age is positive and signiﬁcant, indicat-
+ing a U-shaped relationship between sales experience
+and market share growth. Asian automakers have greater
+market share growth, but European automakers have less
+market share growth than U.S. automakers. The sig-
+niﬁcant, negative effect of time trend on market share
+growth might indicate increasing competition in the U.S.
+automotive industry over the study period.7 The num-
+bers of both severe and nonsevere recalls during months
+(cid:3)t − 2(cid:4)–(cid:3)t − 12(cid:4) produce no signiﬁcant effects. These
+nonsigniﬁcant results for older recalls are consistent with
+other studies (Crafton et al. 1981, Reilly and Hoffer
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+(cid:5)
+7
+1
+0
+0
+0
+(cid:2)
+
+2
+2
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+7
+1
+0
+0
+0
+(cid:2)
+
+4
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+1
+0
+0
+0
+(cid:2)
+
+9
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+1
+0
+0
+0
+(cid:2)
+
+8
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+0
+2
+0
+0
+0
+(cid:2)
+
+9
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+0
+2
+0
+0
+0
+(cid:2)
+
+9
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+112
+
+e
+r
+u
+s
+a
+e
+m
+e
+
+t
+i
+s
+o
+p
+m
+o
+C
+
+s
+e
+a
+r
+
+t
+
+n
+o
+
+i
+t
+
+i
+
+a
+c
+e
+r
+p
+e
+D
+
+s
+g
+n
+
+i
+t
+
+a
+r
+
+y
+t
+r
+a
+p
+-
+d
+r
+i
+h
+T
+
+(cid:5)
+0
+9
+2
+(cid:4)
+9
+=
+N
+
+(cid:2)
+
+9
+9
+9
+1
+–
+5
+7
+9
+1
+
+,
+e
+g
+n
+a
+h
+C
+e
+r
+a
+h
+S
+
+t
+e
+k
+r
+a
+M
+
+f
+o
+
+s
+e
+t
+a
+m
+
+i
+t
+s
+E
+E
+E
+G
+
+3
+
+l
+
+e
+b
+a
+T
+
+∗
+∗
+
+8
+9
+1
+9
+0
+
+(cid:1)
+
+3
+-
+4
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+8
+9
+1
+9
+0
+
+(cid:1)
+
+2
+-
+4
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+9
+0
+2
+9
+0
+
+(cid:1)
+
+1
+-
+4
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+9
+7
+1
+9
+0
+
+(cid:1)
+
+3
+-
+3
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+9
+7
+1
+9
+0
+
+(cid:1)
+
+2
+-
+3
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+5
+1
+2
+9
+0
+
+(cid:1)
+
+1
+-
+3
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+5
+1
+2
+9
+0
+
+(cid:1)
+
+3
+-
+2
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+4
+1
+2
+9
+0
+
+(cid:1)
+
+2
+-
+2
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+5
+2
+2
+9
+0
+
+(cid:1)
+
+1
+-
+2
+
+l
+
+e
+d
+o
+M
+
+∗
+∗
+
+7
+5
+2
+9
+0
+
+(cid:1)
+
+1
+
+l
+
+e
+d
+o
+M
+
+)
+e
+r
+a
+h
+s
+
+t
+e
+k
+r
+a
+m
+d
+e
+g
+g
+a
+l
+(
+
+g
+o
+L
+
+l
+
+e
+b
+a
+i
+r
+a
+V
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+†
+7
+1
+5
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+†
+1
+0
+5
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+1
+1
+4
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+4
+0
+0
+0
+(cid:2)
+
+6
+1
+4
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+4
+0
+0
+0
+(cid:2)
+
+0
+4
+3
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+0
+3
+3
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+2
+9
+4
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+1
+9
+4
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+4
+0
+0
+0
+(cid:2)
+
+4
+3
+4
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+0
+9
+2
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+4
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+0
+2
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+2
+5
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+4
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+0
+2
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+1
+5
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+0
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+7
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+2
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+8
+4
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+4
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+9
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+4
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+4
+5
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+4
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+6
+9
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+4
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+3
+5
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+0
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+6
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+2
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+9
+4
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+5
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+8
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+4
+4
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+5
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+8
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+4
+4
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+1
+0
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+7
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+2
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+2
+4
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+∗
+∗
+
+(cid:5)
+0
+1
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+6
+1
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+5
+4
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+3
+2
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+3
+2
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+5
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+0
+2
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+7
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+7
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+5
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+0
+2
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+1
+2
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+5
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+1
+2
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+5
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+0
+2
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+0
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+6
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+9
+3
+0
+0
+0
+(cid:2)
+
+1
+0
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+9
+3
+0
+0
+0
+(cid:2)
+
+2
+0
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+8
+3
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+0
+4
+0
+0
+0
+(cid:2)
+
+3
+0
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+2
+1
+0
+0
+(cid:2)
+
+7
+9
+5
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+2
+1
+0
+0
+(cid:2)
+
+0
+0
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+6
+2
+1
+0
+0
+(cid:2)
+
+7
+2
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+2
+1
+0
+0
+(cid:2)
+
+6
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+2
+1
+0
+0
+(cid:2)
+
+6
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+7
+2
+1
+0
+0
+(cid:2)
+
+5
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+3
+1
+0
+0
+(cid:2)
+
+2
+3
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+3
+1
+0
+0
+(cid:2)
+
+5
+3
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+3
+3
+1
+0
+0
+(cid:2)
+
+9
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+3
+3
+1
+0
+0
+(cid:2)
+
+9
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+6
+2
+1
+0
+0
+(cid:2)
+
+7
+2
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+7
+2
+1
+0
+0
+(cid:2)
+
+9
+2
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+7
+2
+1
+0
+0
+(cid:2)
+
+6
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+2
+1
+0
+0
+(cid:2)
+
+5
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+7
+2
+1
+0
+0
+(cid:2)
+
+9
+2
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+2
+1
+0
+0
+(cid:2)
+
+5
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+5
+2
+1
+0
+0
+(cid:2)
+
+5
+3
+6
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+7
+2
+1
+0
+0
+(cid:2)
+
+4
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+4
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+4
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+6
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+6
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+6
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+4
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+1
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+0
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+†
+9
+1
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+2
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+4
+2
+0
+0
+0
+(cid:2)
+
+1
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+3
+2
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+5
+5
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+0
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+†
+0
+2
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+2
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+0
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+2
+2
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+4
+5
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+4
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+†
+8
+1
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+4
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+2
+0
+0
+0
+(cid:2)
+
+1
+3
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+9
+1
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+6
+0
+0
+0
+(cid:2)
+
+4
+5
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+6
+3
+1
+0
+0
+(cid:2)
+
+8
+9
+5
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+3
+1
+0
+0
+(cid:2)
+
+0
+2
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+6
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+3
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+1
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+2
+2
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+0
+1
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+6
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+0
+1
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+6
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+6
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+6
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+5
+6
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+4
+5
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+0
+1
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+5
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+0
+1
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+5
+1
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+5
+1
+0
+0
+
+(cid:1)
+
+∗
+
+(cid:5)
+2
+4
+0
+0
+0
+(cid:2)
+
+4
+9
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+4
+0
+0
+0
+(cid:2)
+
+0
+1
+2
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+1
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+∗
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+2
+8
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+3
+4
+0
+0
+0
+(cid:2)
+
+8
+1
+2
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+1
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+∗
+
+(cid:5)
+1
+4
+0
+0
+0
+(cid:2)
+
+0
+0
+2
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+1
+4
+0
+0
+0
+(cid:2)
+
+2
+0
+2
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+1
+4
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+r
+e
+k
+a
+m
+o
+t
+u
+a
+
+i
+
+n
+g
+i
+r
+o
+-
+n
+a
+e
+p
+o
+r
+u
+E
+
+5
+7
+9
+1
+
+e
+c
+n
+s
+
+i
+
+s
+r
+a
+e
+Y
+
+r
+e
+k
+a
+m
+o
+t
+u
+a
+
+i
+
+n
+g
+i
+r
+o
+-
+n
+a
+s
+A
+
+i
+
+)
+e
+g
+a
+
+l
+
+s
+e
+a
+s
+(
+
+g
+o
+L
+
+2
+)
+e
+g
+a
+
+l
+
+s
+e
+a
+s
+(
+
+g
+o
+L
+
+)
+(cid:5)
+2
+1
+−
+
+e
+r
+e
+v
+e
+s
+n
+o
+n
+
+t
+(cid:2)
+–
+(cid:5)
+2
+−
+
+)
+(cid:5)
+2
+1
+−
+
+(cid:5)
+1
+−
+
+t
+(cid:2)
+–
+(cid:5)
+2
+−
+
+e
+r
+e
+v
+e
+s
+
+l
+
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+t
+(cid:2)
+(
+
+s
+
+l
+l
+
+a
+c
+e
+r
+
+l
+
+e
+v
+i
+t
+a
+u
+m
+u
+C
+
+t
+(cid:2)
+(
+
+s
+
+l
+l
+
+a
+c
+e
+r
+
+t
+(cid:2)
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+s
+n
+o
+N
+
+(cid:5)
+1
+−
+
+t
+(cid:2)
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+S
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+n
+o
+
+i
+t
+a
+t
+u
+p
+e
+r
+
+×
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+m
+s
+
+i
+l
+
+a
+r
+e
+n
+e
+g
+
+f
+o
+
+l
+
+e
+v
+e
+L
+
+(cid:5)
+9
+7
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+7
+0
+0
+0
+0
+
+(cid:1)
+
+)
+8
+6
+0
+0
+0
+(
+
+(cid:1)
+
+0
+1
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+6
+7
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+2
+1
+0
+0
+0
+
+(cid:1)
+
+)
+6
+6
+0
+0
+0
+(
+
+3
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+9
+7
+0
+0
+0
+(cid:2)
+
+0
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+)
+6
+6
+0
+0
+0
+(
+
+0
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+y
+t
+i
+l
+i
+
+b
+a
+
+t
+u
+t
+i
+t
+s
+b
+u
+s
+×
+
+)
+1
+
+i
+
+s
+s
+e
+h
+t
+o
+p
+y
+H
+
+(
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+∗
+∗
+
+(cid:5)
+6
+5
+0
+0
+0
+(cid:2)
+
+4
+2
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+5
+0
+0
+0
+(cid:2)
+
+5
+2
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+)
+0
+2
+0
+0
+0
+(
+
+0
+3
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+†
+3
+6
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+3
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+0
+0
+0
+0
+
+(cid:1)
+
+∗
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+0
+5
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+2
+8
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+5
+3
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+8
+0
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+)
+5
+6
+0
+0
+0
+(
+
+(cid:1)
+
+7
+3
+6
+0
+0
+−
+
+(cid:1)
+
+†
+7
+5
+6
+0
+0
+−
+
+(cid:1)
+
+†
+1
+4
+7
+0
+0
+−
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+9
+8
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+2
+
+2
+0
+6
+(cid:4)
+0
+7
+
+∗
+∗
+
+(cid:5)
+9
+8
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+1
+
+5
+9
+7
+(cid:4)
+9
+6
+
+∗
+∗
+
+(cid:5)
+6
+8
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+1
+
+1
+3
+4
+(cid:4)
+7
+6
+
+(cid:5)
+3
+3
+0
+0
+0
+(cid:2)
+
+2
+0
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+2
+4
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+)
+7
+1
+0
+0
+0
+(
+
+†
+9
+2
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+)
+8
+6
+0
+0
+0
+(
+
+(cid:1)
+
+∗
+
+2
+3
+9
+0
+0
+−
+
+(cid:1)
+
+(cid:5)
+1
+9
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+5
+1
+
+,
+
+0
+7
+
+1
+2
+
+∗
+∗
+
+(cid:5)
+7
+5
+0
+0
+0
+(cid:2)
+
+2
+2
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+5
+0
+0
+0
+(cid:2)
+
+2
+2
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+7
+0
+0
+0
+0
+(cid:2)
+
+†
+4
+6
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+7
+0
+0
+0
+0
+(cid:2)
+
+†
+4
+6
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+3
+3
+0
+0
+0
+(cid:2)
+
+3
+0
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+∗
+
+)
+9
+1
+0
+0
+0
+(
+
+1
+3
+1
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+2
+5
+9
+0
+0
+−
+
+(cid:1)
+
+∗
+
+1
+0
+9
+0
+0
+−
+
+(cid:1)
+
+)
+4
+6
+0
+0
+0
+(
+
+(cid:1)
+
+6
+7
+4
+0
+0
+−
+
+(cid:1)
+
+8
+7
+4
+0
+0
+−
+
+(cid:1)
+
+4
+2
+5
+0
+0
+−
+
+(cid:1)
+
+∗
+
+5
+6
+8
+0
+0
+−
+
+(cid:1)
+
+∗
+
+(cid:5)
+1
+9
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+1
+
+0
+3
+3
+(cid:4)
+9
+6
+
+∗
+∗
+
+(cid:5)
+8
+8
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+1
+
+0
+4
+1
+(cid:4)
+7
+6
+
+∗
+∗
+
+(cid:5)
+0
+9
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+2
+
+8
+9
+3
+(cid:4)
+0
+7
+
+∗
+∗
+
+(cid:5)
+0
+9
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+9
+1
+
+6
+6
+5
+(cid:4)
+9
+6
+
+∗
+∗
+
+(cid:5)
+1
+9
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+3
+1
+
+9
+8
+1
+(cid:4)
+7
+6
+
+∗
+∗
+
+(cid:5)
+0
+9
+3
+0
+0
+(cid:2)
+
+(cid:1)
+
+0
+6
+0
+(cid:4)
+2
+6
+
+8
+
+.
+
+h
+
+t
+
+n
+o
+m
+
+t
+
+n
+e
+r
+r
+u
+c
+
+e
+h
+
+t
+
+s
+e
+
+t
+
+o
+n
+e
+d
+
+t
+
+;
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+n
+
+i
+
+e
+r
+a
+
+s
+r
+o
+r
+r
+e
+
+.
+s
+t
+s
+e
+t
+
+d
+e
+
+l
+i
+
+a
+t
+-
+2
+
+(cid:1)
+
+;
+1
+0
+0
+<
+p
+
+∗
+∗
+
+d
+r
+a
+d
+n
+a
+t
+s
+
+(cid:1)
+
+;
+5
+0
+0
+<
+p
+
+∗
+
+t
+s
+u
+b
+o
+R
+
+;
+
+(cid:1)
+
+0
+1
+0
+<
+p
+†
+
+∗
+∗
+
+(cid:5)
+4
+5
+0
+0
+0
+(cid:2)
+
+9
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+0
+1
+0
+0
+0
+(cid:2)
+
+†
+8
+6
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+6
+3
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+1
+0
+0
+0
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+8
+0
+0
+0
+0
+(cid:2)
+
+7
+5
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+∗
+
+(cid:5)
+2
+5
+0
+0
+0
+(cid:2)
+
+8
+1
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+∗
+
+(cid:5)
+0
+1
+0
+0
+0
+(cid:2)
+
+8
+7
+0
+0
+0
+−
+
+(cid:1)
+
+(cid:1)
+
+(cid:5)
+6
+3
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+1
+1
+0
+0
+0
+
+(cid:1)
+
+(cid:5)
+9
+0
+0
+0
+0
+(cid:2)
+
+(cid:1)
+
+m
+s
+
+i
+l
+
+a
+r
+e
+n
+e
+g
+
+f
+o
+
+l
+
+l
+
+e
+v
+e
+×
+y
+t
+i
+l
+i
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+S
+
+m
+s
+
+i
+l
+
+a
+r
+e
+n
+e
+g
+
+f
+o
+
+l
+
+e
+v
+e
+×
+
+l
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+m
+s
+
+i
+l
+
+a
+r
+e
+n
+e
+g
+
+f
+o
+
+l
+
+l
+
+e
+v
+e
+×
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+s
+×
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+)
+2
+
+i
+
+s
+s
+e
+h
+
+t
+
+o
+p
+y
+H
+
+(
+
+y
+t
+i
+l
+i
+
+n
+o
+
+i
+t
+a
+t
+u
+p
+e
+r
+
+b
+a
+t
+u
+t
+i
+t
+s
+b
+u
+s
+×
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+m
+s
+
+i
+l
+
+a
+r
+e
+n
+e
+g
+
+f
+o
+
+l
+
+e
+v
+e
+×
+
+l
+
+n
+o
+
+i
+t
+a
+t
+u
+p
+e
+r
+
+l
+l
+
+a
+c
+e
+r
+
+e
+r
+e
+v
+e
+S
+
+×
+
+×
+
+)
+3
+
+i
+
+s
+s
+e
+h
+t
+o
+p
+y
+H
+
+(
+
+t
+n
+a
+t
+s
+n
+o
+C
+
+e
+r
+a
+u
+q
+s
+-
+i
+h
+C
+d
+a
+W
+
+l
+
+.
+
+e
+
+t
+
+o
+N
+
+(cid:1)
+f
+(cid:1)
+
+D
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+1983, Borenstein and Zimmerman 1988) and support the
+idea that using one month prior recalls is best because it
+minimizes potential noise in the data due to automaker
+responses to their recalls (e.g., sales promotions).8
+
+Models 2-1, 2-2, and 2-3 include third-party ratings
+as the measure of reputation, and Models 3-1, 3-2, and
+3-3 include depreciation rates. Models 4-1, 4-2, and 4-3
+include the combined measure, which produces the best
+model ﬁt. All results are consistent across the different
+measures of reputation.
+
+Models 2-1, 3-1, and 4-1 add the main effects of all
+key variables in our study. As shown in these mod-
+els, automakers with a severe product recall in the prior
+month do suffer more market penalty (i.e., decreased
+market share) in the following month, but nonsevere
+recalls produce no damage. The lack of signiﬁcance
+for nonsevere recalls may be due to such recalls being
+perceived by consumers as a signal of an automaker’s
+diligence in attending to quality control issues, as they
+found and ﬁxed a potential (but minor) problem. Thus, it
+might be the case that such minor recalls help automak-
+ers maintain public conﬁdence in their product.
+
+Continuing with control variable results, Models 2-1,
+3-1, and 4-1 show that all measures of automaker rep-
+utation have positive and signiﬁcant effects on market
+share growth (cf Shapiro 1983, Podolny and Phillips
+1996, Sullivan 1998, Benjamin and Podolny 1999).
+To illustrate the magnitude of the reputation effect
+in Model 4-1, a one standard deviation (cid:3)=0(cid:1)255(cid:4)
+increase in an automaker’s reputation score results in a
+0.54% increase in the automaker’s monthly market share
+(cid:3)= exp(cid:25)0(cid:1)0208 × 0(cid:1)255(cid:26) − 1 = 0(cid:1)0054(cid:4). The measure of
+substitutability has no signiﬁcant main effect on mar-
+ket share. Consistent with prior ﬁndings in the growth
+rate models (e.g., Barnett et al. 2000), however, gen-
+eralists have a greater market share growth rate than
+specialists do.
+
+In Models 2-2, 3-2, and 4-2, we present our test
+of Hypotheses 1a and 1b, whether good reputation
+increases (Hypothesis 1a) or decreases (Hypothesis 1b)
+the market penalty resulting from a product recall.
+Because our hypotheses concern the role of reputation
+on the negative effect of product recalls, we test only for
+the interaction of reputation with severe recalls, as only
+severe recalls produce this negative effect. In support
+of Hypothesis 1a (and not Hypothesis 1b), the coefﬁ-
+cients of the interaction of severe recall and reputation
+are signiﬁcant and negative. This can be interpreted as
+evidence that high-reputation automakers suffer more
+market penalty as a result of severe product recalls
+than low-reputation automakers do. To illustrate this
+effect, Model 4-2 shows that a severe recall decreases
+a low reputation (0.2) automaker’s market share by
+1.64% (cid:3)= exp(cid:25)0(cid:1)0230× 0(cid:1)2(cid:26)− exp(cid:25)−0(cid:1)0123+ 0(cid:1)0230×
+0(cid:1)2 − 0(cid:1)0210 × 0(cid:1)2(cid:26) = 0(cid:1)0164(cid:4) but decreases a high-
+reputation automaker’s (0.8) market share by 2.92%
+
+113
+(cid:3)= exp(cid:25)0(cid:1)0230 × 0(cid:1)8(cid:26) − exp(cid:25)−0(cid:1)0123 + 0(cid:1)0230 × 0(cid:1)8 −
+0(cid:1)0210 × 0(cid:1)8(cid:26) = 0(cid:1)0292(cid:4). Chi-square difference tests
+show that all two-way interaction term models (Mod-
+els 2-2, 3-2, and 4-2) signiﬁcantly increase model ﬁt
+(cid:3)p < 0(cid:1)01(cid:4) relative to the models with main effects alone
+(Models 2-1, 3-1, and 4-1).
+
+Models 2-3, 3-3, and 4-3 show that the moderating
+effects of reputation in response to a severe product
+recall are contingent on substitutability and general-
+ism/specialism. In these models, we add two three-
+way interaction terms: several recall × reputation ×
+substitutability and severe recall × reputation × level of
+generalism. In Hypothesis 2a we had predicted that the
+negative effect of reputation on market response to a
+product defect would be strengthened by substitutabil-
+ity. In support of Hypothesis 2a, all three models show
+negative and signiﬁcant three-way interaction effects.
+These results provide support for the idea that market
+share penalty for good-reputation automakers is greater
+when that automaker is more substitutable, that is, has
+more competitors with a comparable level of reputa-
+tion. In Hypothesis 3a we had predicted that the neg-
+ative effect of reputation on market response would be
+weaker for specialists (i.e., specialists would be buffered
+from the negative effects). In support of Hypothesis 3a,
+all three models show negative three-way interaction
+effects, though the effect for the depreciation reputation
+measure is only marginally signiﬁcant using a two-tailed
+test (i.e., p < 0(cid:1)10). All three models are statistically sig-
+niﬁcant improvements over the prior two-way interaction
+models (p < 0(cid:1)05 for Models 2-2 and 4-2; p < 0(cid:1)10 for
+Model 3-2). This provides evidence that market share
+penalty for good-reputation automakers is weaker for
+specialists (and thus stronger for generalists).
+
+Discussion
+We started this paper by noting the importance of under-
+standing how reputation effects operate in the con-
+text of product recalls. Many theories support the idea
+that good reputation provides beneﬁts: Firms with good
+reputations enjoy lower costs and can charge higher
+prices (e.g., Shapiro 1983, Podolny 1993, Sullivan 1998,
+Benjamin and Podolny 1999), experience greater growth
+in sales/status (e.g., Podolny and Phillips 1996), enjoy
+protection against market entrants (e.g., Milgrom and
+Roberts 1982), and experience greater returns relative
+to actual quality (e.g., Benjamin and Podolny 1999).
+Our contribution is in showing that, while reputation
+has these beneﬁts, it is a “double-edged sword” in that
+it also has a signiﬁcant downside. When ﬁrms make
+mistakes, those with good reputations suffer more mar-
+ket penalty than those with poor reputations do. To our
+knowledge, there has been little discussion in the lit-
+erature of the liabilities of a good reputation on ﬁrm
+reputation. Responding to this gap in our understand-
+ing of reputation effects, we theorized and modeled the
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+114
+
+effects of product defects on market responses to ﬁrms
+and found that high-reputation ﬁrms suffer liabilities in
+this case.
+
+One might think that a good reputation would buffer
+ﬁrms from the vagaries of the market because of the
+inertial properties of such reputations. Indeed, as noted
+earlier, several status and institutional theories suggest
+exactly this: Reputation orderings are inertial, and suc-
+cess breeds success (and failure breeds failure) (e.g.,
+Podolny 1993). If that is true, then the moderating effect
+of reputation would be nonsigniﬁcant or perhaps even
+positive. As we ﬁnd negative effects, our results high-
+light the fact that the inertial effects of reputation are
+limited in the case of product defects. This demonstrates
+an important boundary condition on inertial effects. The
+durability of reputation orderings does not seem to nec-
+essarily mean that there are no counteractive forces, and
+a product recall is one such force.
+
+Why are these inertial effects not present in our study?
+One possibility is that a serious product recall presents
+consumers with information about quality that is rela-
+tively unambiguous. The inertial properties of reputation
+orderings depend on uncertainty about the underlying
+quality of that ﬁrm’s products (White 2002, Podolny
+and Hsu 2003). While there is some degree of uncer-
+tainty surrounding an automotive ﬁrm’s quality, the level
+of uncertainty is likely to be less than in some other
+contexts, such as the arts or other industries where pro-
+fessionalization is more important (Podolny and Hsu
+2003). In addition, the presence of a regulatory agency
+(NHTSA) helps consumers resolve uncertainty, and reg-
+ulatory agencies are important in other industries as well
+(e.g., pharmaceuticals). Thus, the level of uncertainty
+surrounding the quality of a ﬁrm’s product, and the pres-
+ence of regulatory agencies designed to help resolve
+uncertainty, may be a limiting condition on the inertial
+properties of reputation.
+
+It could also be that the escalation of commitment
+tendencies on the part of raters, which we hypothesized
+earlier, just does not apply in a situation where there are
+no penalties for the expert raters changing their ratings.
+Unlike the earlier-mentioned situation where auditors
+did not change their endorsements of ﬁrms’ account-
+ing procedures, the automotive analysts do not stand to
+personally beneﬁt from retaining their earlier endorse-
+ments, nor are there any potential penalties in terms of
+losing clients (e.g., readers of auto-rating magazines) by
+changing ratings. Thus, the reward structure surround-
+ing the situation is likely to affect experts’ escalation of
+commitment.
+
+Our study also offers evidence to conﬁrm the rela-
+tively unstudied ideas that substitutability and general-
+ism will inﬂuence the effect of reputation on market
+penalty. Our results demonstrate that nonsubstitutability
+signals uniqueness within quality reputation categories
+and helps buffer good-reputation organizations from
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+market penalties. In contrast, high levels of substitutabil-
+ity cause greater market penalties for good-reputation
+organizations by facilitating the detachment of potential
+consumers from their products. The paper also demon-
+strates that specialism has a synergistic relationship with
+organizational reputation, increasing the inertial effects
+of reputation. Good-reputation specialists are more pro-
+tected from market penalties than good-reputation gen-
+eralists are. This leads us to suspect that in an industry
+where most ﬁrms are specialists, we might still ﬁnd an
+inertial effect of reputation. In short, whether reputa-
+tion is sensitive (Hypothesis 1a) or not (Hypothesis 1b)
+to product defects seems to be contingent on substi-
+tutability and generalism/specialism. While sociological
+research has theorized and evidenced the effect of sub-
+stitutability and specialism on the valuation of products
+themselves (e.g., Burt 1982, Carroll and Swaminathan
+2000, Carroll et al. 2002, White 2002, Zuckerman and
+Kim 2003), our study demonstrates that these factors can
+also condition reputational (dis-)advantages.
+
+Our study also suggests the importance of investi-
+gating boundary conditions on status/reputation effects.
+We have focused on the two organizational characteris-
+tics, substitutability and generalism, which are closely
+related to organizational uniqueness and identity, respec-
+tively. However, there are likely to be many additional
+characteristics that accelerate or decelerate the reputa-
+tional effects. As we discussed above, uncertainty about
+the actual quality of products may increase reputational
+effects, leading consumers to be more like to rely on
+reputation as a signal (cf. Podolny 1994). The extent
+to which organizational reputation is dimensionalized
+could provide another condition. One limitation of our
+study is our exclusive focus on the quality dimen-
+sion of reputation. There are many other dimensions
+underlying organizational reputation,
+including ﬁnan-
+cial performance, social responsiveness, and institutional
+ownership (Fombrun and Shanley 1990). Thus, it would
+be of great value to examine how a ﬁrm’s reputation
+measured by the quality dimension affects reputation
+measured by other dimensions. For example, studies
+could investigate whether an automaker’s social respon-
+sibility reputation increases or decreases the negative
+effect of its quality reputation when a recall occurs (cf.
+Zyglidopoulos 2001).
+
+In addition, our
+
+results showing that
+
+the market
+penalty only applies to severe recalls suggest that the lia-
+bility effect may be sensitive to how a recall is perceived
+by the market. In our study, we suggest that the nonneg-
+ative market response to nonsevere recalls may be due
+to the fact that mass media and other audiences are less
+likely to focus attention on minor recalls. For example,
+among the 98 recalls announced by the automakers in
+our sample in 1998, all major recalls (63) were reported
+by The Wall Street Journal, while only 60% of the minor
+recalls were reported. However, this differential effect
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+may only apply to situations where companies have rel-
+atively frequent problems (like recalls) and/or situations
+where some events are minor and others are not, as the
+minor events then provide a comparison with the major
+events. Situations where the problems are less frequent
+and/or all events are major, such as airline accidents or
+other types of disasters, are likely to have more uniform
+market penalties.
+
+Conclusion
+Our results have implications for both institutional the-
+ories and work on organizational reputation. Our study
+suggests that the institutional context surrounding rep-
+utational orderings is subject to change, as consumers
+do seem to penalize automakers that violate expecta-
+tions and norms. Cultural support is withheld from these
+ﬁrms. This is consistent with recent arguments about
+changes in institutions and the need for more research on
+these changes (e.g., Dacin et al. 2002, Strang and Sine
+2002). In addition, the idea that the press is involved
+in disseminating more information about the defects of
+good-reputation ﬁrms (relative to poor-reputation ﬁrms)
+suggests that these institutional logics for the mean-
+ing of good reputation means might be reﬂected in the
+press, and thus the press serves as a mediating struc-
+ture for the dissemination of reputation standards/norms.
+As our results cannot distinguish between individual
+expectancy-violation effects and the effects of the busi-
+ness press on the relationship between reputation and
+penalty for recalls, future research attempting to disen-
+tangle these explanations would be useful.
+
+Our ﬁndings about the role of reputation and mar-
+ket response by automotive ﬁrms suggest important fea-
+tures of the interaction of ﬁrm errors and reputation.
+Beyond automotive ﬁrms, the research presented here
+points to the importance of studying reputation in other
+areas. Other important product recalls like drugs and
+children’s toys might be similarly affected by reputation
+and moderated by substitutability and generalism. For
+example, good-reputation drug ﬁrms may suffer more
+market penalty for having to withdraw a drug from the
+market, especially if there are other similar substitutes
+available. Our results suggest this is especially likely for
+generalist drug ﬁrms.
+
+Other error situations, such as airline accidents and
+corporate malfeasance, might also be affected by repu-
+tation. As noted earlier, these errors are both less fre-
+quent and less easily segmented into those that are minor
+and those that are severe. For example, good-reputation
+airlines (which might be those with few prior acci-
+dents) might lose more customers after an accident than
+poorer-reputation airlines would. The effects of reputa-
+tion, market responses, and ﬁrm characteristics in these
+error situations are clearly important and deserving of
+further study.
+
+115
+
+And ﬁnally, the implication that ﬁrm reputation does
+not provide protection in an error situation (e.g., a recall)
+suggests that managers of good-reputation ﬁrms need
+to be especially vigilant in their learning processes—
+detecting and correcting errors. While there are many
+beneﬁts from a good reputation, such a reputation cannot
+be relied on as a buffer from negative reactions in all
+situations.
+
+Acknowledgments
+The authors thank Bill Barnett, Andy Henderson, Jim March,
+Stewart Miller, Joel Podolny, Dick Scott, Jim Westphal, Ed
+Zajac, and Ezra Zuckerman for helpful comments. Henrich
+Greve and three anonymous reviewers provided excellent feed-
+back. An earlier version of the paper received the Best Paper
+Award from the OMT division of the Academy of Manage-
+ment in 2003. This manuscript was supported by a fellowship
+from the IC2 Institute to Pamela Haunschild.
+
+Endnotes
+1The resource-based view of the ﬁrm (e.g., Barney 1997) sug-
+gests similar argument by showing that ﬁrms lose competitive
+advantages when followers attain substitutable capabilities and
+knowledge.
+2Uncertainty in production process, which is deﬁned as uncer-
+tainty in the stages and parts of manufacturing and services
+provided, should be distinguished from uncertainty in prod-
+uct quality. For example, although there is a low level of
+uncertainty in the production process of wine (i.e., the man-
+ufacturing stages are routine and predictable), uncertainty
+surrounding wine product quality is fairly high (Benjamin
+and Podolny 1999). In contrast,
+there is a relatively high
+level of uncertainty in the service processes of ﬂight atten-
+dants, although their service quality can be judged with little
+uncertainty.
+3We also attempted to include a set of weighted averages
+of previous quality ratings (e.g., heavier weight in the cur-
+rent period) and found similar results. We use the unweighted
+scores because they produced better model ﬁt.
+4In this paper we measure only functional substitutability
+because prior research suggests that
+the substitutability of
+products can be conceptualized by their proximity on one
+attribute important to the product category (e.g., quality repu-
+tation), even when they differ on other attributes (Sujan 1985,
+White 2002). Given the multidimensional nature of the sub-
+stitutability construct (cf. Ding 2004), however, future studies
+incorporating measures of nonfunctional substitutability stem-
+ming from other product attributes such as social prestige and
+style of cars would be valuable.
+5We also modeled time effects using other speciﬁcations (e.g.,
+pre-1979 vs. post-1979; dummies for presidential adminis-
+tration; and dummy variables for major changes in safety
+standards) and found no changes in the signiﬁcance of our
+hypothesized variables. We do not include these variables in
+our model because they decrease model ﬁt.
+6See Golub and Van Loan (1996) to understand how the mod-
+iﬁed Gram-Schmidt procedure generates a better conditioned
+set of vectors than the traditional Gram-Schmidt procedure.
+7In a separate analysis, we found a signiﬁcant, positive inter-
+action effect of Asian automakers and time trend, which sup-
+ports the idea that Asian automakers have been increasing their
+market share over time. We also found that U.S. automakers
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+116
+
+showed signiﬁcantly higher market share growth during the
+Reagan administration than during the Clinton administration.
+Results are available on request from the authors.
+8We have also done some robustness checks for changes in the
+time window, which produced some interesting ﬁndings. First,
+we found that the number of severe recalls during months
+(cid:3)t−13(cid:4)–(cid:3)t−60(cid:4) has signiﬁcant (cid:3)p < 0(cid:1)05(cid:4) and negative effect
+on market share, after controlling for the number of recalls
+during months (cid:3)t − 2(cid:4)–(cid:3)t − 12(cid:4). Nonsevere recalls had no
+such effect. Second, this negative effect is greater for good-
+reputation automakers (cid:3)p < 0(cid:1)05(cid:4). This implies, therefore, that
+our ﬁndings on the liability of good reputation represent both
+short-term and long-term phenomena (but not medium term).
+The longer-term penalty may be due to a decline in the effec-
+tiveness of sales promotions undertaken in response to a recall.
+This interpretation is necessarily speculative, which means that
+more research examining timing effects is needed.
+
+References
+Barber, B. M., M. N. Darrough. 1996. Product reliability and ﬁrm
+value: The experience of American and Japanese automakers,
+1973–1992. J. Political Econom. 104 1084–1099.
+
+Barnett, W. P., G. A. Mischke, W. Ocasio. 2000. The evolution
+of collective strategies among organizations. Organ. Stud. 21
+325–354.
+
+Barney, J. B. 1997. Gaining and Sustaining Competitive Advantage.
+
+Prentice Hall, Englewood Cliffs, NJ.
+
+Baron, J. N., M. T. Hannan, M. D. Burton. 2001. Labor pains: Change
+in organizational models and employee turnover in young, high-
+tech ﬁrms. Amer. J. Sociology 106 960–1012.
+
+Belsley, D. A., E. Kuh, R. E. Welsch. 1980. Regression Diagnostics:
+Identifying Inﬂuential Data and Sources of Collinearity. John
+Wiley, New York.
+
+Benjamin, B. A., J. M. Podolny. 1999. Status, quality, and social order
+in the California wine industry. Admin. Sci. Quart. 44 563–589.
+Berger, P. L., T. Luckmann. 1967. The Social Construction of Reality.
+
+Doubleday, New York.
+
+Blau, Peter M. 1964. Exchange and Power in Social Life. Wiley,
+
+New York.
+
+Borenstein, S., M. B. Zimmerman. 1988. Market incentives for safe
+commercial airline operation. Amer. Econom. Rev. 78 913–935.
+Brody, R. G., S. E. Kaplan. 1996. Escalation of commitment among
+
+internal auditors. Auditing 15 1–13.
+
+Burgoon, J. K., B. A. LePoire. 1993. Effects of communication
+expectancies, actual communication, and expectancy disconﬁr-
+mation on evaluations of communicators and their communica-
+tion behavior. Human Comm. Res. 20 67–96.
+
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+Crafton, S. M., G. E. Hoffer, R. J. Reilly. 1981. Testing the impact
+of recalls on the demand for automobiles. Econom. Inquiry 19
+694–703.
+
+Cronbach, L. J. 1987. Statistical tests for moderator variables: Flaws
+
+in analysis recently proposed. Psych. Bull. 102 414–417.
+
+Cyert, R. M., M. H. DeGroot. 1987. Bayesian Analysis and Uncer-
+tainty in Economic Theory. Rowman & Littleﬁeld, Totowa, NJ.
+Cyert, R. M., J. G. March. 1963. A Behavioral Theory of the Firm.
+
+Prentice Hall, Englewood Cliffs, NJ.
+
+Dacin, M. T., J. Goodstein, W. R. Scott. 2002. Institutional theory and
+institutional change: Introduction to the special research forum.
+Acad. Management J. 45 45–57.
+
+Deephouse, D. L. 2000. Media reputation as a strategic resource: An
+integration of mass communication and resource-based theories.
+J. Management 26 1091–1112.
+
+Devaraj, S., K. F. Matta, E. Conlon. 2001. Product and service quality:
+The antecedents of customer loyalty in the automotive industry.
+Production Oper. Management 10 424–439.
+
+Ding, W. W. 2004. Why do for-proﬁt ﬁrms adopt open science? Work-
+ing paper, Graduate School of Business, University of Chicago,
+Chicago, IL.
+
+Dobrev, S. D., T.-Y. Kim, G. R. Carroll. 2002. The evolution of orga-
+nizational niches: U.S. automobile manufacturers 1885–1981.
+Admin. Sci. Quart. 47 233–264.
+
+Dobrev, S. D., T.-Y. Kim, M. T. Hannan. 2001. Dynamics of
+niche width and resource partitioning. Amer. J. Sociology 106
+1299–1337.
+
+Economist, The. 2002. Twenty years down the road. 364 62–63.
+Elsbach, K. D. 1994. Managing organizational
+
+identity in the
+California cattle industry: The construction and effectiveness of
+verbal accounts. Admin. Sci. Quart. 39 57–88.
+
+Fombrun, C. 1996. Reputation: Realizing Value from the Corporate
+
+Image. Harvard Business School Press, Boston, MA.
+
+Fombrun, C., M. Shanley. 1990. What’s in a name? Reputation build-
+ing and corporate strategy. Acad. Management J. 33 233–258.
+Goffman, E. 1956. The nature of deference and demeanor. Amer.
+
+Anthropologist 58 473–499.
+
+Golub, G. H., C. F. Van Loan. 1996. Matrix Computations, 3rd ed.
+
+Johns Hopkins University Press, Baltimore, MD.
+
+Gould, R. V. 2002. The origins of status hierarchies: A formal theory
+
+and empirical test. Amer. J. Sociology 107 1143–1178.
+
+Han, S.-K. 1994. Mimetic isomorphism and its effect on the audit
+
+services market. Soc. Forces 73 637–663.
+
+Hardie, B. G. S., E. J. Johnson, P. S. Fader. 1993. Modeling loss aver-
+sion and reference dependence effects on brand choice. Market-
+ing Sci. 12 378–394.
+
+Burt, R. S. 1982. Toward a Structural Theory of Action: Network
+Models of Social Structure, Perception, and Action. Academic
+Press, New York.
+
+Haunschild, P. R., M. Rhee. 2004. The role of volition in orga-
+learning: The case of automotive product recalls.
+
+nizational
+Management Sci. 50 1545–1560.
+
+Carroll, G. R., M. T. Hannan. 2000. The Demography of Corporations
+
+and Industries. Princeton University Press, Princeton, NJ.
+
+Carroll, G. R., A. Swaminathan. 2000. Why the microbrewery move-
+ment? Organizational dynamics of resource partitioning in the
+U.S. brewing industry. Amer. J. Sociology 106 715–762.
+
+Carroll, G. R., S. D. Dobrev, A. Swaminathan. 2002. Organiza-
+tional process of resource partitioning. B. Staw, R. M. Kramer,
+eds. Research in Organization Behavior, Vol. 24. JAI Press,
+Greenwich, CT, 1–40.
+
+Haunschild, P. R., B. N. Sullivan. 2002. Learning from complexity:
+Effects of prior accidents and incidents on airlines’ learning.
+Admin. Sci. Quart. 47 609–643.
+
+Hayward, M. L. A., V. P. Rindova, T. G. Pollock. 2004. Believing
+one’s own press: The causes and consequences of chief execu-
+tive ofﬁcer celebrity. Strategic Management J. 25 637–653.
+
+Heath, T. B., S. Chatterjee. 1995. Asymmetric decoy effects on lower-
+quality versus higher-quality brands: Meta-analytic and experi-
+mental evidence. J. Consumer Res. 22 268–284.
+
+Church, B. K., A. Schneider. 1993. Auditor objectivity: The effect of
+prior involvement in audit program design. Accounting Finance
+33 61–78.
+
+Hoffman, A. J., W. Ocasio. 2001. Not all events are attended equally:
+Toward a middle-range theory of industry attention to external
+events. Organ. Sci. 12 414–434.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 
+Rhee and Haunschild: The Liability of Good Reputation
+Organization Science 17(1), pp. 101–117, © 2006 INFORMS
+
+117
+
+Huber, P. J. 1967. The behavior of maximum likelihood estimates
+under nonstandard conditions. L. M. Le Cam, J. Neyman, eds.
+Proc. 5th Berkeley Sympos. Math. Statist. Probability. University
+of California Press, Berkeley, CA, 221–233.
+
+Jackson, J. E. 1991. A User’s Guide to Principal Components. John
+
+Wiley & Sons, New York.
+
+Levin, D. Z. 2000. Organizational learning and the transfer of knowl-
+edge: An investigation of quality improvement. Organ. Sci. 11
+630–647.
+
+Liang, K.-Y., S. L. Zeger. 1986. Longitudinal data analysis using gen-
+
+eralized linear model. Biometrika 73 13–22.
+
+Messier, W. F., Jr., W. C. Quilliam. 1992. The effects of accountability
+on judgment: Development of hypotheses for auditing. Auditing
+11 123–138.
+
+Milgrom, P., J. Roberts. 1982. Predation, reputation and entry deter-
+
+rence. J. Econom. Theory 27 253–279.
+
+Moore, D. A., P. E. Tetlock, L. Tanlu, M. H. Bazerman. 2006. Con-
+ﬂicts of interest and the case of auditor independence: Moral
+seduction and strategic issue cycling. Acad. Management Rev.
+Forthcoming.
+
+Sine, W. D., S. Shane, D. DiGregorio. 2003. The halo effect and
+technology licensing: The inﬂuence of institutional prestige
+on the licensing of university inventions. Management Sci. 49
+478–496.
+
+Staw, B. M. 1981. The escalation of commitment to a course of action.
+
+Acad. Management Rev. 6 577–587.
+
+Staw, B. M., J. Ross. 1987. Knowing when to pull the plug. Harvard
+
+Bus. Rev. 65 68–74.
+
+Stigler, S. M. 1983. Who discovered Bayes’ theorem? Amer. Statisti-
+
+cian 37 290–296.
+
+Strang, D., W. D. Sine. 2002. Interorganizational institutions. J. A. C.
+Baum, ed. Companion to Organizations. Blackwell, Oxford,
+UK, 497–519.
+
+Stuart, T. E., H. Hoang, R. C. Hybels. 1999. Interorganizational
+endorsements and the performance of entrepreneurial ventures.
+Admin. Sci. Quart. 44 315–349.
+
+Sujan, M. 1985. Consumer knowledge: Effects on evaluation strate-
+gies mediating consumer judgments. J. Consumer Res. 12
+31–46.
+
+Park, D. Y., J. M. Podolny. 2000. The competitive dynamics of status
+and niche width: U.S. investment banking, 1920–1949. Indust.
+Corporate Change 9 377–414.
+
+Sukhdial, A. S., G. Chakraborty, E. K. Steger. 1995. Measuring values
+can sharpen segmentation in the luxury auto market. J. Adver-
+tising Res. 35 9–22.
+
+Perrow, C. 1961. Organizational prestige: Some functions and dys-
+
+functions. Amer. J. Sociology 66 335–341.
+
+Sullivan, M. W. 1998. How brand names affect the demand for twin
+
+automobiles. J. Marketing Res. 35 154–165.
+
+Podolny, J. M. 1993. A status-based model of market competition.
+
+Amer. J. Sociology 98 829–872.
+
+Podolny, J. M. 1994. Market uncertainty and the social character of
+
+economic exchange. Admin. Sci. Quart. 39 458–483.
+
+Podolny, J. M., G. Hsu. 2003. Quality, exchange, and Knightian uncer-
+tainty. W. Raub, V. Buskens, C. Snijders, eds. Research in the
+Sociology of Organizations, Vol. 20. JAI Press, Greenwich, CT,
+77–103.
+
+Podolny, J. M., D. J. Phillips. 1996. The dynamics of organizational
+
+status. Indust. Corporate Change 5 453–471.
+
+Rao, H. 1994. The sociological construction of reputation: Certiﬁca-
+tion contests, legitimization, and the survival of organizations in
+the American automobile industry: 1985–1912. Strategic Man-
+agement J. 15(Winter Special Issue) 29–44.
+
+Reilly, Robert J., George E. Hoffer. 1983. Will retarding the infor-
+mation ﬂow on automotive recalls affect consumer demand?
+Econom. Inquiry 21 444–447.
+
+Rindova, V. P., T. G. Pollock, M. L. A. Hayward. 2006. Celebrity
+ﬁrms: The social construction of market popularity. Acad. Man-
+agement Rev. 31 1–22.
+
+Roberts, P. W., G. R. Dowling. 2002. Corporate reputation and sus-
+tained superior ﬁnancial performance. Strategic Management J.
+23 1077–1093.
+
+Saville, D., G. R. Wood. 1991. Statistical Methods: The Geometric
+
+Approach. Springer-Verlag, New York.
+
+Schoorman, F. D. 1988. Escalation bias in performance appraisals:
+An unintended consequence of supervisor participation in hiring
+decisions. J. Appl. Psych. 73 58–62.
+
+Scott, W. R. 2001. Institutions and Organizations, 2nd ed. Sage,
+
+Thousand Oaks, CA.
+
+Shapiro, C. 1983. Premiums for high-quality products as returns to
+
+reputations. Quart. J. Econom. 98 659–679.
+
+Simonson, I., A. Tversky. 1992. Choice in context: Tradeoff contrast
+
+and extremeness aversion. J. Marketing Res. 29 281–295.
+
+Sine, W. D., H. A. Haveman, P. S. Tolbert. 2005. Risky business?
+Entrepreneurship in the new independent power sector. Admin.
+Sci. Quart. 50 200–232.
+
+Tan, H.-T. 1995. Effects of expectations, prior involvement, and
+review awareness on memory for audit evidence and judgment.
+J. Accounting Res. 33 113–135.
+
+Taran, Z. 2001. Competitive Aspects of Brand Value for Passenger
+Cars: The Inverse Demand Model Analysis. Unpublished doc-
+toral dissertation, Rutgers University.
+
+Tolbert, P. S., L. G. Zucker. 1996. The institutionalization of institu-
+tional theory. S. R. Clegg, C. Hardy, W. R. Nord, eds. Handbook
+of Organization Studies. Sage, London, UK, 175–190.
+
+Tversky, A., D. Kahneman. 1974. Judgment under uncertainty: Heu-
+
+ristics and biases. Science 185 1124–1131.
+
+Vaaler, P., G. McNamara. 2004. Crisis and competition in expert orga-
+
+nizational decision making. Organ. Sci. 15 687–703.
+
+Washington, M., E. J. Zajac. 2005. Status evolution and competition:
+
+Theory and evidence. Acad. Management J. 48 282–296.
+
+Weigelt, K., C. Camerer. 1988. Reputation and corporate strategy:
+A review of recent theory and applications. Strategic Manage-
+ment J. 9 443–454.
+
+White, H. 1982. Maximum likelihood estimation of misspeciﬁed mod-
+
+els. Econometrica 50 1–25.
+
+White, H. C. 2002. Markets from Networks: Socioeconomic Models
+
+of Production. Princeton University Press, Princeton, NJ.
+
+Zucker, L. G. 1977. The role of institutionalization in cultural persis-
+
+tence. Amer. Sociological Rev. 42 726–743.
+
+Zuckerman, E. W. 1999. The categorical imperative: Securities ana-
+lysts and the illegitimacy discount. Amer. J. Sociology 104
+1398–1438.
+
+Zuckerman, E. W. 2000. Focusing the corporate product: Secu-
+rities analysts and de-diversiﬁcation. Admin. Sci. Quart. 45
+591–619.
+
+Zuckerman, E. W., T.-Y. Kim. 2003. The critical trade-off: Identity
+assignment and box-ofﬁce success in the feature ﬁlm industry.
+Indust. Corporate Change 12 27–66.
+
+Zyglidopoulos, S. C. 2001. The impact of accidents on ﬁrms’ reputa-
+
+tion for social performance. Bus. Soc. 40 416–441.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 10:41 . For personal use only, all rights reserved. 

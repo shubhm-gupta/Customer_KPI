@@ -1,0 +1,4364 @@
+Journal of Applied Psychology
+2005, Vol. 90, No. 3, 468 – 482
+
+Copyright 2005 by the American Psychological Association
+0021-9010/05/$12.00 DOI: 10.1037/0021-9010.90.3.468
+
+The Role of Change in the Relationship Between Commitment and
+
+Turnover: A Latent Growth Modeling Approach
+
+Kathleen Bentein
+
+University of Quebec at Montreal
+
+Robert Vandenberg
+University of Georgia
+
+Christian Vandenberghe
+
+E´ cole des Hautes E´ tudes Commerciales Montreal
+
+Florence Stinglhamber
+
+E´ cole des Hautes E´ tudes Commerciales Liege
+
+Through the use of affective, normative, and continuance commitment in a multivariate 2nd-order factor
+latent growth modeling approach, the authors observed linear negative trajectories that characterized the
+changes in individuals across time in both affective and normative commitment. In turn, an individual’s
+intention to quit the organization was characterized by a positive trajectory. A significant association was
+also found between the change trajectories such that the steeper the decline in an individual’s affective
+and normative commitments across time, the greater the rate of increase in that individual’s intention to
+quit, and, further, the greater the likelihood that the person actually left the organization over the next 9
+months. Findings regarding continuance commitment and its components were mixed.
+
+Employee turnover has been a focus of concentrated investiga-
+tion for more than 2 decades, and researchers have proposed and
+tested a variety of models of the turnover process (Griffeth, Hom,
+& Gaertner, 2000; Hom & Griffeth, 1995; Maertz & Campion,
+1998). The reason for so much attention is that even if some forms
+of turnover are desirable (e.g., losing poorly performing employ-
+ees), voluntary turnover is generally considered a negative index of
+organizational effectiveness (Alexander, Bloom, & Nuchols, 1994;
+Cascio, 1991; Dalton, Todor, & Krackhardt, 1982; Griffeth &
+Hom, 2001; Staw, 1980). Understanding the process leading em-
+ployees to leave voluntarily is thus critical for building an effective
+retention policy and increasing organizational effectiveness (Grif-
+feth & Hom, 2001).
+
+Generally, turnover models include two major categories of
+predictor variables: job attitudes and job alternatives (Griffeth et
+al., 2000; Mitchell, Holtom, Lee, Sablynski, & Erez, 2001).
+Among job attitudes, organizational commitment has widely at-
+tracted the attention of researchers because it has been found
+consistently to possess negative associations with the cognitive
+(i.e., turnover intention [TI]) and behavioral components of turn-
+over (Griffeth et al., 2000; Mathieu & Zajac, 1990; Tett & Meyer,
+1993). It has been proposed that commitment is a particularly
+
+Kathleen Bentein, University of Quebec at Montreal, Montreal, Quebec,
+Canada; Robert Vandenberg, Department of Psychology, University of
+Georgia; Christian Vandenberghe, E´ cole des Hautes E´ tudes Commerciales
+Montreal, Montreal, Quebec, Canada; Florence Stinglhamber, E´ cole des
+Hautes E´ tudes Commerciales Liege, Liege, Belgium.
+
+This research was supported by grants from the Special Fund for
+Research of the Catholic University of Louvain to Christian Vandenberghe
+while he was affiliated with that university.
+
+Correspondence concerning this article should be addressed to Kathleen
+Bentein, School of Business Administration (ESG), University of Quebec
+at Montreal (UQAM), C. P. 6192, Succursale Centre-Ville, Montreal,
+Quebec, Canada H3C 4R2. E-mail: bentein.kathleen@uqam.ca
+
+468
+
+powerful predictor in the turnover process because of its presumed
+sensitivity to the characteristics of the work environment (Brock-
+ner, Tyler, & Cooper-Schneider, 1992; Meyer & Allen, 1991;
+Mowday, Porter, & Steers, 1982). That is, the ties between the
+employee and the organization, of which organizational commit-
+ment is an indicator, develop through exchange processes with the
+organization (Meyer & Allen, 1991). Further, those ties may be
+strengthened or weakened (i.e., change) depending on the per-
+ceived benefits or losses accrued during the exchanges. This think-
+ing underlies much previous research regarding, for example,
+when employees perceive their expectations as being met by their
+organization (Wanous, 1992; Wanous, Poland, Premack, & Davis,
+1992) or simply see a benefit from the general experience of work
+within a given organization (Irving & Meyer, 1994; Meyer, Irving,
+& Allen, 1998). The latter example suggests that when the ties
+psychologically linking the
+to the organization
+strengthen, the probability of engaging in the turnover process
+decreases. In short, the assumption is that employees adjust their
+level of organizational commitment as a function of the way they
+interpret and make sense of their work context (Vandenberg &
+Self, 1993). The “evolution” of commitment over time is thus a
+critical index of the way the relationship between a given em-
+ployee and his or her organization evolves over time.
+
+employee
+
+Emphasis on “evolution” in the last sentence denotes, however,
+a serious shortcoming in the commitment literature. Namely, with
+rare exception (Lance, Vandenberg, & Self, 2000b), and even in
+the case of the most carefully conducted longitudinal studies,
+commitment as a determinant has been treated as a static variable
+(i.e., one point in time) in the vast majority of studies. While this
+research has unquestionably yielded a wealth of knowledge re-
+garding the commitment construct and its attendant antecedents
+and consequences, the fact remains that a basic, yet fundamental
+premise underlying this cumulative knowledge has remained rel-
+atively unexamined. Specifically, does an individual experience
+meaningful (as opposed to random) changes in his or her level of
+
+
+CHANGE IN COMMITMENT
+
+469
+
+psychological attachment to the organization over time, and if so,
+is the change truly a critical index in that the individual alters his
+or her actions within or toward the organization as a direct function
+of that change? The issue underlying this question is not trivial.
+Practitioners, for one, have long been concerned with employees’
+attachment to the organization in light of economic events such as
+mergers, acquisitions, or layoffs, all of which change the nature of
+the relationship between employees and the organization (Brock-
+ner, Grover, Reed, DeWitt, & O’Malley, 1987; Brockner et al.,
+1992; Brockner, Wiesenfeld, Reed, Grover, & Martin, 1993;
+Luthans & Sommer, 1999; Mottola, Bachman, Gaertner, &
+Dovidio, 1997). The practical implication is that perhaps some
+intervention may be implemented to soften the negative change in
+attachment or to make it positive when negative change is ex-
+pected. As most recently reiterated by Lance et al. (2000b; see also
+Vandenberg & Self, 1993), however, the issue is not trivial be-
+cause the notion of individual change in attachment is also funda-
+mental to many prominent theories such as those governing so-
+cialization (e.g., Feldman, 1976), workplace adjustment (e.g.,
+Dawis & Lofquist, 1984), or realistic job previews (e.g., Wanous,
+1992) to name a few. The implication is that change in attachment
+is relevant for all models of long term individual productivity.
+
+The purpose of this study, therefore, is to directly examine
+change in commitment. The focus of this study is the trajectory of
+change across time in an individual’s level of organizational com-
+mitment and its relationship with turnover-relevant outcomes. To
+develop this purpose, we turn next to a brief overview of the
+commitment framework adopted in this study. The discussion then
+turns to a summary of issues surrounding the incorporation of
+change in research frameworks, following which the hypotheses
+for the current study are presented.
+
+Organizational Commitment
+
+Research on organizational commitment has dramatically
+shifted during the last 15 years. One shift, in particular, is that
+commitment
+is now generally conceived as multidimensional
+rather than unidimensional (Mayer & Schoorman, 1992, 1998;
+Meyer & Allen, 1991, 1997; O’Reilly & Chatman, 1986). Com-
+mon to the multidimensional approaches are two assumptions. The
+first assumption is that the term commitment by itself (without a
+reference point) refers to a psychological stabilizing or obliging
+force that binds individuals to courses of action relevant to the
+target of the force (Meyer & Herscovitch, 2001). In the current
+study, the target is obviously the organization and the actions of
+relevance related to turnover. The second assumption is that this
+force is “experienced as a mind-set that can take different forms.
+These mind sets reflect distinguishable components of the under-
+lying commitment construct” (Meyer & Herscovitch, 2001, p.
+308).
+
+For purposes of the current study, the forms or mind sets were
+conceptualized through the use of the multidimensional perspec-
+tive of commitment developed originally by Allen and Meyer
+(Allen & Meyer, 1990, 1996; Meyer & Allen, 1991, 1997; Meyer
+& Herscovitch, 2001). The first dimension or form is affective
+commitment (AC), which represents the idea that one’s commit-
+ment to the organization is driven simply by an emotional attach-
+ment to and identification with the organization. In simpler terms,
+it is a mind-set characterized by a personal desire to follow a
+
+course of action, which in this case is staying with the organiza-
+tion. The second form is normative commitment (NC) or a feeling
+of perceived or moral obligation to stay with a particular course of
+actions (i.e., stay with one’s organization). The third form is
+continuance commitment (CC) or an attachment based on the
+perceived costs of not continuing with a course of action (i.e., what
+would be given up if one left the organization). Since the original
+proposition, it has been suggested that the following two, distinct
+subdimensions could better characterize the CC dimension: (a) the
+perceived sacrifice associated with leaving (high-sacrifice commit-
+ment; HS), and (b) the costs resulting from a lack of employment
+alternatives (low-alternatives commitment; LA) (McGee & Ford,
+1987). The HS and LA subcomponents have been found consis-
+tently to be related to one another, but differentially related to other
+constructs, suggesting that the Allen and Meyer framework may be
+defined through four, rather than three, dimensions (Dunham,
+Grube, & Castan˜eda, 1994; Hackett, Bycio, & Hausdorf, 1994;
+Meyer, Allen, & Gellatly, 1990).
+
+Common to the Allen and Meyer (Allen & Meyer, 1990, 1996;
+Meyer & Allen, 1991, 1997; Meyer & Herscovitch, 2001) com-
+mitment dimensions is the notion that each component should
+impact the employee’s intentions, and decision, to remain a mem-
+ber of the organization. The notion that each component plays a
+role in the turnover process is the conceptual linchpin that unifies
+these constructs as “components” of organizational commitment
+(Jaros, 1997). Indeed, a common model, and the one adopted for
+purposes of the current study,
+is to view commitment as an
+antecedent to individual intentions to quit, and in turn, to place
+intentions to quit as the immediate precursor to actual turnover
+behavior (Griffeth et al., 2000; Maertz & Campion, 1998; Tett &
+Meyer, 1993). Reinforcing this perspective are the results from a
+recent meta-analysis (Meyer, Stanley, Herscovitch, & Topol-
+nytsky, 2002). With the original three-component perspective,
+though statistically significant and negative, the average effect
+sizes between the three commitment dimensions and actual turn-
+over behavior were small in magnitude (AC: ␳ ⫽ ⫺.17; NC: ␳ ⫽
+⫺.16; CC: ␳ ⫽ ⫺.10). In contrast, the effect sizes with withdrawal
+cognitions, such as TI, were much stronger in magnitude (AC: ␳⫽
+⫺.56; NC: ␳ ⫽ ⫺.33; CC: ␳ ⫽ ⫺.18). Further, the effects on
+withdrawal cognitions across studies were consistently strongest
+for AC, then for NC, and followed by CC. It is interesting to note
+that within CC, only the HS subcomponent correlated significantly
+with withdrawal cognitions (␳ ⫽ ⫺.21), whereas the LA subcom-
+ponent did not (␳ ⫽ ⫺.01). Overall, these findings in conjunction
+with those typically found in turnover research (e.g., Griffeth et al.,
+2000) support the view that the role of organizational commitment
+in the turnover process is one that has a direct impact on with-
+drawal cognitions, such as TI, which are the direct antecedents to
+actual turnover behavior.
+
+Operationalizing Change
+
+Although the importance of change in commitment to under-
+standing employee reactions to the work place is conceptually
+recognized, the vast majority of researchers to date have analyzed
+static levels of commitment rather than assessed actual changes in
+commitment. For example, using cross-sectional designs, some
+researchers compared the mean commitment levels of groups of
+employees of different ages or career stages interpreting the mean
+
+
+470
+
+BENTEIN ET AL.
+
+differences as indices of change (Allen & Meyer, 1993; Gregersen,
+1993; Morrow & McElroy, 1987). Others used longitudinal data
+(repeated measures within groups) and interpreted change through
+a comparison of group means over time through analysis of vari-
+ance (ANOVA), correlation, and regression procedures (Farkas &
+Tetrick, 1989; Lee, Ashford, Walsh, & Mowday, 1992; Meyer &
+Allen, 1987, 1988; Meyer, Bobocel, & Allen, 1991; Mowday &
+McDade, 1980; Van Maanen, 1975). Finally, Beck and Wilson
+(2000) attempted to operationalize change in organizational com-
+mitment by combining cross-sectional and longitudinal data col-
+lections, which they termed a cross-sequential design approach
+(for technical details, see Beck & Wilson, 2001; Schaie & Baltes,
+1975). However, as underscored by Chan and Schmitt (2000, p.
+190), important questions concerning intraindividual change can-
+not be adequately conceptualized and empirically examined with
+any of these traditional approaches. These questions concern (a)
+the form of the intraindividual change trajectories (i.e., whether
+linear or nonlinear, positive or negative), (b) the systematic indi-
+vidual differences at initial status and in the rate of intraindividual
+change, (c) the consequences and antecedents of both an individ-
+ual’s initial status on the construct of interest and his or her rate of
+change on that construct across time, (d) whether there is a
+relationship between an individual’s initial status and rate of
+change on the construct of interest, and (e) whether the change in
+one variable is related to the change in another.
+
+Latent growth modeling (LGM) has recently gained widespread
+acceptance as a powerful approach to the description, measure-
+ment, and analysis of longitudinal change and, therefore, as a
+means to address the above questions (Lance et al., 2000b, p. 108).
+Its acceptance is due in large part to the fact that LGM overcomes
+many of the problems characterizing other approaches (e.g., re-
+peated measures, regression, difference scores) encountered in
+attempting to operationalize longitudinal change (for comparative
+reviews, see Chan, 1998; Duncan, Duncan, Strycker, Li, & Alpert,
+1999; Lance, Meade, & Williamson, 2000a). To capture intrain-
+dividual change, LGM develops a trajectory of change along each
+of the focal constructs for each individual across time, aside from
+the individual’s initial status on the constructs (McArdle & Ep-
+stein, 1987; Meredith & Tisak, 1990; Muthen, 1991; Willett &
+Sayer, 1994). The LGM approach requires that the constructs be
+measured at several occasions (at least three) in order to define
+second-order or higher order latent constructs, initial status, and
+change (i.e., slope) of the variable(s) of interest. More precisely,
+the first-order latent constructs representing the variable of interest
+(e.g., latent commitment constructs at Times 1, 2, and 3), display
+a separate loading on second-order latent factors, one defining
+initial status and the other defining the rate of change along the
+first-order constructs (i.e., the commitment construct). This is
+referred to as second-order factor (SOF) LGM.
+
+In summary, applying SOF LGM into the turnover process
+model presented above, allows us to not only isolate change in
+commitment but also to isolate the concomitant change in individ-
+ual TIs. Thus, it permits us to potentially test the hypothesized
+association between changes in those constructs. Further, by iso-
+lating individual vectors of change in TI, we can examine the
+expected influence that this change will have on actual turnover
+behavior. In short, by isolating change in this manner, we are more
+accurately representing the true conceptual premises regarding the
+evolution of change in commitment that underlies many of our
+
+conceptual frameworks. Discussion now turns to specific hypoth-
+eses regarding change in the commitment dimensions and the
+impact of those changes in the turnover process.
+
+Hypotheses
+
+Change in Commitment
+
+One reason why we expected our sample to display a decrease
+in commitment over time stems from the fact that during the period
+of this study, the host country, Belgium, encountered a radical
+change in the reasons why downsizing was implemented in com-
+panies. As documented in a study conducted by Price-Waterhouse-
+Coopers Consulting (Hollanders, 2002) that concerned changes in
+the Belgian economic environment between 1999 and 2001, a
+majority of companies at
+time justified their downsizing
+practices by the willingness to increase the value of their shares.
+Unlike in the United States, where such reasoning is acceptable,
+this represents a radical departure in European economies in which
+worker rights have traditionally transcended those of the organi-
+zation’s stockholders. Hence, breaches in psychological contracts
+may have been quite salient to the current sample during the time
+period of the study (i.e., 2000 –2001), and thus, for reasons pro-
+vided in the previous paragraph, declines in commitment may have
+been particularly pronounced.
+
+that
+
+The latter anecdotal evidence is substantiated to some degree by
+the empirical literature as well, and this literature has also indi-
+cated that the declines are more likely for AC and NC than for HS
+and LA. First, as noted previously, even though researchers may
+not have relied on LGM to operationalize change, the studies
+nonetheless indicated that AC and NC typically declined in levels
+across time, particularly when that time period included the first
+few months of work (Farkas & Tetrick, 1989; Meyer & Allen,
+1988; Meyer et al., 1991; Vandenberg & Self, 1993). Beck and
+Wilson (2000) also reported a steady, persistent decrease of AC
+over long periods of time (i.e., from 1 to 9 years and from 15 to 19
+years). Similarly, Lance et al. (2000b), who did use LGM, also
+reported a significant decline in a form of commitment quite
+similar conceptually to AC (i. e., internalization; cf. O’Reilly &
+Chatman, 1986). However, previous findings regarding CC have
+shown basically no change. For example, Meyer et al. (1991)
+reported no change in CC. Vandenberg and Self (1993) also found
+no change in CC, but these results may not be reliable given
+reasons outlined in their article. Finally, in the one study that used
+LGM, Lance et al. (2000b) also reported a flat trajectory (no
+change) in their form of commitment that was closest conceptually
+to CC (i.e., compliance; cf. O’Reilly & Chatman, 1986).
+
+One reason we may expect change in AC and NC rather than in
+CC and its HS and LA variants may have to do with the attributes
+underlying the sets of commitments. Specifically, the psycholog-
+ical contract literature has typically supported the existence of two
+broad bases (i.e., relational and transactional; Rousseau & McLean
+Parks, 1993) underlying individuals’ relationships to the employ-
+ing organizations. The relational bases dictate that some part of
+psychological attachment is due to the socio-emotional or social
+exchange elements of the workplace (e.g., value congruence with
+the organization, positive affect toward colleagues). In contrast,
+the transactional bases emphasize that some elements of commit-
+ment may be due in part to tangible facets (e.g., having a great deal
+
+
+CHANGE IN COMMITMENT
+
+471
+
+vested in the organization, not having a suitable employment
+alternative). Of relevance to the current study, however, is the
+work of Morrison and Robinson (1997), who stressed that rela-
+tional bases of the employment relationship are more sensitive
+than are transactional ones to unforeseen changes in or breaches of
+obligations on the part of the employer, particularly those falling
+within the social exchange area—the very types of changes that
+have been going on in the general economy and most saliently
+within Belgium. As both AC and NC can be considered as repre-
+sentations of relational-based psychological contracts because of
+their inclusion of socio-emotional elements, we can expect these
+dimensions to be most susceptible to the types of changes in the
+work environment outlined above. It is for this reason that in the
+current study we expected declines in AC and NC but not in HS
+and LA, which represent elements of the relationship stemming
+from transactional bases. Therefore, the first hypotheses were the
+following:
+
+Hypothesis 1A: During the time period of this study, a de-
+creasing trajectory of change will occur in employees’ AC.
+
+Hypothesis 1B: During the time period of this study, a de-
+creasing trajectory of change will occur in employees’ NC.
+
+Hypothesis 1C: During the time period of this study, no
+change (flat trajectory) will occur in employees’ HS.
+
+Hypothesis 1D: During the time period of this study, no
+change (flat trajectory) will occur in employees’ LA.
+
+Change in Turnover
+
+Based on the role of commitment in the turnover process as
+reviewed previously, it stands to reason that a potential conse-
+quence of a negative change in commitment should be the accen-
+tuation of the withdrawal process; that is, if negative change occurs
+across the AC and NC constructs in this study, and if the observed
+negative associations from previous research are indeed valid
+reflections of the true underlying relationship between organiza-
+tional commitment and withdrawal cognitions, then an increasing
+change in TI should be observed in the current sample as an
+employee’s sense of personal desire (i.e., AC), or perceived obli-
+gation (i.e., NC) to remain in the organization declines. The
+declines in AC and NC free the employee to begin thinking about
+other employment alternatives. Thus, there is weakened cognitive
+dissonance between at least the socio-emotional forms of commit-
+ment (AC and NC) and engaging in withdrawal cognitions, such as
+stating an increased intention or probability of leaving the organi-
+zation in the near future. Hence, we fully expected to observe an
+increasing trajectory (strengthening) of an employee’s TI during
+the course of the current study. Given also that this increase in
+intention is purportedly driven by decreases in the perceived
+socio-emotional bases defining the employment relationship, it is
+reasonable to assume that the changes in AC and NC would be
+associated with the change in TI. Further, given the past support
+for an association between TI and actual turnover behavior (Grif-
+feth et al., 2000),
+it would be reasonable to assume that an
+increasing trajectory in TI would be predictive of actual turnover
+behavior for the months following the last data collection. Thus,
+
+the second, third, and fourth hypotheses of the current study were
+the following:
+
+Hypothesis 2: During the time period of this study, an in-
+creasing trajectory of change will occur in employees’ stated
+intention to quit the organization.
+
+Hypothesis 3A: The greater the rate of declining change in
+affective commitment,
+the greater the rate of increasing
+change in TI.
+
+Hypothesis 3B: The greater the rate of declining change in
+normative commitment, the greater the rate of increasing
+change in TI.
+
+Hypothesis 4: The greater the rate of increasing change in
+individual TI, the stronger the actual turnover behavior.
+
+In as much as Hypotheses 1 through 4 focus on the dynamic or
+changing attributes of commitment and TI, the cumulative evi-
+dence from prior research would support expected associations
+among the static elements of these constructs as well. Recall that
+LGM creates two latent variables (initial status and change). The
+initial status latent variable closely approximates that used in the
+cross-sectional (one point in time) designs characterizing the vast
+majority of prior research. Thus, given the cumulative evidence
+(Meyer et al., 2002), the initial status of AC, NC, and HS would be
+expected to have negative associations with initial status on TI.
+The evidence did not support an association of LA with TI, and
+thus, no expectations for it were forthcoming. Finally, the evidence
+would support a positive association between the initial status on
+TI and actual turnover behavior. Thus, the fifth and sixth hypoth-
+eses of the current study were:
+
+Hypothesis 5A: Initial status on AC will be negatively asso-
+ciated with initial status on TI.
+
+Hypothesis 5B: Initial status on NC will be negatively asso-
+ciated with initial status on TI.
+
+Hypothesis 5C: Initial status on HS will be negatively asso-
+ciated with initial status on TI.
+
+Hypothesis 6: Initial status on TI will be positively associated
+with actual turnover behavior.
+
+Method
+
+Sample and Procedures
+
+A random sample of 1,277 university alumni who graduated from a
+university located in Belgium between 1988 and 1997 was selected for this
+study. Prospective participants understood that they would complete three
+waves of surveys at 3-month intervals (Time 1 [TI], Time 2 [T2], and Time
+3 [T3]). The study was conducted during the years 2000 and 2001.
+Questionnaire packets included measures of commitment (AC, NC, HS,
+and LA) and TI at each occasion. Nine months after T3, participants who
+responded at all three measurement periods were contacted to obtain
+information about turnover. All questionnaires were sent directly to the
+individual’s residential address. A cover letter accompanying the question-
+naire explained the objectives of the study and assured participants that
+responses would be confidential. Participants returned their completed
+
+
+472
+
+BENTEIN ET AL.
+
+questionnaires to the researchers’ office in a prestamped, preaddressed
+envelope. Two weeks after questionnaire delivery, follow-up letters were
+sent to noncompliant individuals stressing the value of the survey and the
+importance of their participation. Questionnaires were coded to allow
+researchers to send the reminder memo and also to match respondents
+across time.
+
+Of the 1,277 alumni who were contacted at T1, 578 responded to the first
+questionnaire (45%). A total of 486 of the T1 respondents completed
+questionnaires at T2 (84%), and 443 of the T2 respondents returned their
+questionnaire at T3 (91%). Finally, 364 out of the 443 individuals (82%)
+responded to the Time 4 [T4] measure (i.e., turnover).
+
+Because they changed organizations between T1 and T3, 34 of the
+respondents were excluded from the sample, leaving a final sample of 330
+employees. This final sample of employees had an average age of 30.7
+years (SD ⫽ 4.03) and had been employed by their organization an average
+of 3.8 years (SD ⫽ 3.16) at T1. Among participants, 70.3% were men and
+29.7% were women. The 330 employees worked in a variety of organiza-
+tions, the most common of which was industrial (17.3%). The rest were in
+public administration (13.9%), banking and insurance (12.1%), computer
+science (10.3%), consulting (9.7%), transportation and communication
+(7.0%), research (6.4%), or construction (5.8%). Among respondents, 38%
+worked in large organizations (more than 1,000 employees), 34% in
+midsize organizations (100 –1,000 employees), and 28% in small organi-
+zations (fewer than 100 employees).
+
+To determine whether attrition produced any detectable outlying re-
+sponses or demographic differences in the usable sample, we conducted
+several analyses. Specifically, we used dummy variables to classify re-
+spondents into four groups: (a) Group 1 represented those who completed
+measures only at T1 (n ⫽ 93); (b) Group 2 represented those who
+completed measures only at T1 and T2 (n ⫽ 42); (c) Group 3 represented
+those who completed measures only at T1, T2, and T3 (n ⫽ 79); (d) and,
+finally, Group 4 represented individuals who completed measures at all
+four measurement times. Three waves of analyses were conducted. First,
+we examined whether the four groups differed on age, gender, type of job,
+the size of the organization, and organizational tenure. No differences were
+found between the four groups on any of those variables. The second wave
+of analyses tested whether there were any differences across the four
+commitment dimensions used at each time. We conducted a multivariate
+analysis of variance (MANOVA) to detect whether there was an overall
+response bias across the T1 measures as a function of group memberships.
+We conducted a second MANOVA on the T2 responses to the four
+commitment dimensions measures, which we limited to Groups 2, 3, and
+4. And finally, we conducted a MANOVA on the T3 responses to the four
+commitment dimensions measures, which we limited to Groups 3 and 4.
+All three multivariate analyses of variance were nonsignificant, F(12,
+1719) ⫽ 1.02; F(8, 956) ⫽ .92; and F(4, 434) ⫽ 1.10, respectively. The
+third wave of analyses tested whether there were differences on the
+intention to quit the organization used at each time. We conducted the first
+ANOVA on the T1 measures of intent to leave on all four groups; the
+second on the T2 measures of intent to leave on Groups 2, 3, and 4; and the
+third on the T3 measures of intent to leave on Groups 3 and 4. All three
+ANOVAs yielded nonsignificant results, F(3, 572) ⫽ 1.74; F(2, 482) ⫽
+.32; F(1, 437) ⫽ .18, respectively. In summary, at least within the confines
+of the current study, respondent attrition did not appear to create any sort
+of bias along the primary variables.
+
+Measures
+
+Because this study was conducted in a French-speaking context, all
+measures were translated from English to French by one translator and then
+back-translated independently by a second translator (cf., Brislin, 1980).
+Minor discrepancies among translated versions were observed but were
+resolved by a short discussion among translators. All items were anchored
+with a 5-point Likert-type scale ranging from 1 (strongly disagree) to 5
+(strongly agree).
+
+Organizational commitment. We operationalized organizational com-
+mitment using a revised version of the Meyer, Allen, and Smith (1993)
+scales that was adapted for international contexts (cf., Meyer, Barak, &
+Vandenberghe, 1996). The version contained six items each for the AC and
+NC dimensions and three items each for the HS and LA dimensions
+(Stinglhamber, Bentein, & Vandenberghe, 2002). The four scales were
+administered at the first three measurement times.
+
+Intent to leave.
+
+Intent to leave was measured with two items: “I often
+think about quitting this organization” and “I intend to search for a position
+with another employer within the next year.” These items were adapted
+from Hom and Griffeth (1991) and Jaros (1997). This scale was adminis-
+tered at the first three measurement times.
+
+Turnover. Turnover was obtained 9 months after the T3 survey (T4).
+Voluntary leavers were given a rating of “2,” whereas stayers were given
+a rating of “1.” The percentage of turnover was 13%.
+
+Tenure. To avoid the interpretation that findings could be attributed to
+tenure in the organization rather than to the evolution of the employee–
+employer relationships, we controlled for this variable in all analyses.
+Tenure was measured with one item at T1: “How many years have you
+been working in your current organization?”
+
+Data Analysis
+
+There were two phases of analysis. The first phase followed the proce-
+dures and process as detailed in Chan (1998) and applied by Lance et al.
+(2000b). This phase of analysis consisted of (a) the tests for measurement
+invariance and (b) the three waves of the LGM analysis. Structural equa-
+tion modeling (SEM) procedures were used within this phase. As such, the
+same standards for interpreting the fit of a model were applied in each
+wave. Specifically, we used the following five fit indices to assess model
+fit: (a) the chi-square goodness of fit test, (b) the comparative fit index
+(CFI; Bentler, 1990), (c) Bentler and Bonett’s (1980) nonnormed fit index
+(NNFI), which is a generalization of the Tucker–Lewis index (Tucker &
+Lewis, 1973), (d) the standardized root mean square residual (SRMR;
+Bentler, 1995), and (e) the root mean square error of approximation
+(RMSEA; Steiger, 1990). For comparing the fit of any two nested models,
+the ⌬␹2 statistic was applied (Bentler & Bonett, 1980; Medsker, Williams,
+& Holahan, 1994). This first phase was designed to examine Hypotheses
+1–3 and Hypothesis 5. The second phase of analysis consisted of hierar-
+chical logistic regression. Switching to this form of analysis was necessi-
+tated by the categorical nature of the turnover variable. Thus, this analysis
+was undertaken to specifically examine Hypotheses 4 and 6, which in-
+cluded the use of turnover.
+
+Measurement invariance. Due to space constraints, no results from this
+wave of analysis are presented in the forthcoming Results section (the
+authors may be contacted for a written description of the details and
+outcomes). The procedures outlined in Chan (1998, particularly pp. 448 –
+449) were strictly adhered to in the context of the current study. Briefly,
+measurement invariance tests are a prerequisite to LGM. Invariance within
+an LGM context is said to exist if (a) the nature of the construct that is
+operationalized by measured variables remains unchanged across measure-
+ment occasions (configural invariance) and (b) the relations between mea-
+sures and their corresponding constructs are invariant across measurement
+occasions (metric invariance). Both forms of invariance were strongly
+supported for the four commitment dimensions and TI in this study.
+Finally, as per the procedures outlined in Chan (1998), the invariance
+constraints were kept in place during the LGM analyses.
+
+LGM analyses. A SOF LGM procedure was applied to test the hy-
+potheses regarding longitudinal change in commitment dimensions and TI
+and the relationships between the two. SOF LGM modeling has been
+discussed recently by Chan (1998, 2002), and examples of its application
+may be found in Chan and Schmitt (2000) and Lance et al. (2000b). The
+analyses proceeded in three phases.
+
+Univariate SOF LGM analyses were performed in Phase I of the LGM
+procedure to determine the basic form of the growth trajectory for each of
+
+
+CHANGE IN COMMITMENT
+
+473
+
+the five focal variables (AC, NC, HS, LA, and TI). To establish the final
+model that most adequately depicted the change trajectory, a series of
+nested univariate SOF LGM models were fitted to the data for each
+variable. Because metric invariance was established, all univariate models
+included equality constraints on the first-order factor (FOF) loadings for
+like items across the three measurement times. In addition, same-item
+residuals were allowed to covary across measurement occasions. The
+intercept factor loadings on the three FOFs were fixed at 1.0 (cf. Chan,
+1998).
+
+For each variable, four univariate SOF LGM models were fitted. These
+models tested (a) the functional form of longitudinal change as captured by
+the change variable and (b) the structure of the FOF residuals. First, the
+functional form of longitudinal change may be strictly linear, which is
+obtained by fixing the change factor loadings at 0.0, 1.0, and 2.0 (a straight
+line growth over the three measurement occasions). Alternately, it can be
+optimally estimated, with the first two factor loadings on the change
+variable being fixed at 0.0 and 1.0 and the third one being freely estimated.
+The linear change trajectory model is nested under the optimal change
+model. Second, the FOF residuals may be homoscedastic (i.e., constrained
+to be equal across repeated measurements) or heteroscedastic (i.e., freely
+estimated; Willett & Sayer, 1994). In the first case, the distribution of
+errors associated with FOFs are thought to be homogeneous over time,
+whereas in the second case, this assumption is not made. The homosce-
+dastic structure model is nested under the heteroscedastic structure model.
+Investigators often assume that measurement errors are homoscedastic over
+time (classical test theory). However, with consecutive measurements on
+individuals changing over time, this assumption may be unrealistic (cf.
+Willett & Sayer, 1994). Hence, this second set of tests allowed us to
+examine the reasonableness of the homoscedasticity assumption.
+
+During Phase II of the LGM analysis, a multivariate SOF LGM model
+was tested to assess relationships between the initial status and change
+variables across commitment dimensions. This was achieved by combining
+the four univariate SOF LGM models retained for commitment into a
+single model. In this model, the factor covariances between intercepts
+(initial statuses) and slopes (changes) were freely estimated. This stage is
+crucial for identifying cross-domain relationships among attributes of the
+different change trajectories.
+
+Finally, an augmented multivariate SOF LGM model was specified in
+Phase III of the LGM analysis in order to estimate structural relationships
+among initial status and change variables of commitment dimensions and
+TI. Specifically, this model included paths from (a) initial status of com-
+mitment dimensions to initial status of TI, (b) initial status of commitment
+dimensions to change in TI, and (c) change of commitment dimensions to
+change in TI.
+
+All analyses were conducted using SEM, with the LISREL 8.54 statis-
+
+tical package (Jo¨reskog, So¨rbom, Du Toit, & Du Toit, 2001).
+
+Logistic regression. As our dependent variable (i.e., turnover) for
+Hypotheses 4 and 6 was binary by nature, and the LGM analyses, like all
+SEM models, are predicated on the assumption of a linear relationship, a
+hierarchical logistic regression analysis was undertaken in which turnover
+was regressed on the initial status and change in TI whereas the forms of
+commitment were held constant. The parameter estimates from this anal-
+ysis permitted the development of different scenarios in which the pre-
+dicted probability of turnover could be evaluated along varying levels of
+change in commitment and change in TI.
+
+Results
+
+Before conducting the substantive analyses, we examined the
+factor structure of the commitment scales for each measurement
+occasion. In addition to exhibiting high absolute fit indices, the
+four-factor CFA model (in which HS and LA are distinguished)
+yielded a significantly better fit to the data than did the three-factor
+model (including CC as a unidimensional measure) at T1, ⌬␹2(3,
+
+N ⫽ 330) ⫽ 219.73, at T2, ⌬␹2(3, N ⫽ 330) ⫽ 267.86, and at T3,
+⌬␹2(3, N ⫽ 330) ⫽ 363.11. The descriptive statistics and corre-
+lations for the study variables are presented in Table 1. All study
+variables had strong reliabilities, ranging from .74 to .92, with a
+mean of .83.
+
+Univariate SOF LGM Analyses
+
+Table 2 presents the results of the analysis in which univariate
+LGM models were fitted separately for each variable. Nearly
+equivalent fit was obtained for homoscedastic and heteroscedastic
+residual structure models (contrasts between Model 1 vs. Model 2
+and Model 3 vs. Model 4; see Table 2) for all variables except NC.
+Thus, the more parsimonious homoscedastic structure was pre-
+ferred for AC, HS, LA, and TI. For NC, the heteroscedastic model
+improved significantly over the homoscedastic structure, indicat-
+ing that NC was not captured with the same precision across time.
+The heteroscedastic structure model was thus preferred in this
+case. One possible explanation for the superiority of the heterosce-
+dastic model for NC would be that NC is more sensitive to even
+minor changes in employers’ obligations toward employees across
+time (recall that NC items emphasize the “felt obligation” of
+employees toward the organization), hence it may be difficult for
+employees to determine their NC with a constant reliability across
+time. Results also indicated that the optimal change function did
+not improve model fit significantly over the linear function (cf.
+contrasts between Model 1 vs. Model 3 and Model 2 vs. Model 4;
+see Table 2), for AC, HS, LA and TI. The linear function was thus
+retained in these cases. For NC, given that its heteroscedastic
+residual structure has been established, we decided to select the
+linear change trajectory model (cf. contrast between Model 1 vs.
+Model 3: see Table 2) as being more realistic.
+
+An examination of the SOF LGM parameter estimates (factor
+means, variances, and covariance) in each of the five selected
+models (see Table 3) was used to develop an understanding of the
+form of the growth trajectory within our sample. In support of
+Hypotheses 1A and 1B, the slope (i.e., change) factor mean was
+negative and statistically significant for AC and NC; that is, the
+extent to which employees felt affectively and normatively com-
+mitted toward their organizations decreased linearly across the
+time period of this study. Further, the slope (change) factor vari-
+ances for both variables were also statistically significant, indicat-
+ing that some employees declined at much faster rates than did
+others over the same time period. Similarly, the intercept factor
+variances for both AC and NC were statistically significant, re-
+vealing that systematic individual differences in AC and NC
+existed at initial status (some people had higher mean levels than
+others at T1). Finally, the factor covariance between intercept and
+slope for both AC and NC was negative and statistically signifi-
+cant, indicating that respondents who had a high mean level of AC
+or NC at T1 (initial status) decreased in AC or NC, respectively, at
+much faster rates over time (had steeper declining slopes) than
+those who started off with a lower mean level of AC or NC.
+
+With respect to HS and LA, their slope factor means were not
+statistically significant, as seen in Table 3, indicating that these
+forms of commitment remained stable within the 6-month period
+of the study (had a flat trajectory). These findings supported
+Hypotheses 1C and 1D. As a consequence, a no-growth model that
+specified only a single SOF representing those variables’ initial
+
+
+474
+
+BENTEIN ET AL.
+
+7
+1
+
+6
+1
+
+5
+1
+
+4
+1
+
+3
+1
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+D
+S
+
+M
+
+e
+l
+b
+a
+i
+r
+a
+V
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+
+y
+d
+u
+t
+S
+
+e
+h
+t
+
+g
+n
+o
+m
+A
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+d
+n
+a
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+S
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+1
+
+e
+l
+b
+a
+T
+
+—
+
+—
+
+*
+1
+1
+⫺
+
+.
+
+*
+*
+4
+4
+
+8
+8
+
+.
+
+.
+
+1
+0
+⫺
+
+.
+
+*
+*
+6
+7
+
+*
+*
+5
+3
+
+3
+0
+
+7
+8
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+5
+7
+
+*
+*
+0
+7
+
+*
+*
+0
+3
+
+2
+0
+
+3
+8
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+8
+
+5
+0
+
+0
+0
+
+0
+0
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+3
+2
+
+.
+
+*
+2
+1
+⫺
+
+.
+
+*
+*
+1
+7
+
+2
+0
+
+3
+8
+
+.
+
+.
+
+.
+
+*
+*
+6
+2
+
+.
+
+0
+0
+
+.
+
+1
+0
+⫺
+
+.
+
+4
+0
+⫺
+
+.
+
+*
+*
+9
+6
+
+*
+*
+4
+6
+
+1
+8
+
+8
+0
+
+3
+0
+
+7
+0
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+5
+2
+
+.
+
+4
+0
+⫺
+
+.
+
+*
+*
+8
+1
+
+*
+*
+2
+2
+
+*
+*
+9
+2
+
+1
+8
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+3
+2
+⫺
+
+.
+
+*
+*
+4
+2
+⫺
+
+.
+
+*
+*
+3
+3
+⫺
+
+.
+
+*
+*
+7
+2
+⫺
+
+.
+
+9
+0
+
+.
+
+*
+*
+6
+6
+
+*
+*
+8
+2
+
+*
+*
+8
+2
+
+*
+*
+8
+2
+
+8
+7
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+2
+2
+⫺
+
+.
+
+*
+*
+6
+2
+⫺
+
+.
+
+*
+*
+4
+2
+⫺
+
+.
+
+*
+*
+6
+1
+⫺
+
+.
+
+*
+1
+1
+
+.
+
+*
+*
+8
+5
+
+*
+*
+9
+5
+
+*
+*
+9
+2
+
+*
+*
+8
+1
+
+*
+*
+1
+2
+
+4
+7
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+9
+2
+⫺
+
+.
+
+*
+*
+3
+2
+⫺
+
+.
+
+*
+*
+6
+2
+⫺
+
+.
+
+*
+3
+1
+⫺
+
+.
+
+0
+1
+
+.
+
+2
+9
+
+0
+1
+
+6
+0
+
+.
+
+.
+
+.
+
+.
+
+*
+4
+1
+
+9
+0
+⫺
+
+.
+
+9
+0
+⫺
+
+.
+
+6
+0
+⫺
+
+.
+
+*
+*
+1
+2
+⫺
+
+.
+
+*
+*
+7
+2
+⫺
+
+.
+
+*
+*
+5
+2
+⫺
+
+.
+
+*
+*
+5
+1
+⫺
+
+.
+
+*
+*
+5
+1
+⫺
+
+.
+
+*
+*
+0
+8
+
+*
+2
+1
+
+*
+3
+1
+
+9
+0
+
+2
+9
+
+.
+
+.
+
+.
+
+.
+
+.
+
+5
+0
+⫺
+
+.
+
+5
+0
+⫺
+
+.
+
+5
+0
+⫺
+
+.
+
+*
+*
+3
+2
+⫺
+
+.
+
+*
+*
+8
+2
+⫺
+
+.
+
+*
+*
+9
+1
+⫺
+
+.
+
+*
+3
+1
+⫺
+
+.
+
+*
+3
+1
+⫺
+
+.
+
+*
+*
+4
+7
+
+*
+*
+4
+7
+
+1
+9
+
+9
+0
+
+.
+
+.
+
+.
+
+.
+
+6
+0
+
+.
+
+1
+0
+⫺
+
+.
+
+0
+1
+⫺
+
+.
+
+9
+0
+⫺
+
+.
+
+*
+*
+5
+2
+⫺
+
+.
+
+*
+*
+7
+2
+⫺
+
+.
+
+*
+*
+8
+1
+⫺
+
+.
+
+*
+1
+1
+⫺
+
+.
+
+*
+*
+7
+1
+⫺
+
+.
+
+3
+0
+⫺
+
+.
+
+*
+*
+6
+2
+
+*
+*
+5
+2
+
+*
+*
+0
+3
+
+*
+*
+1
+2
+
+*
+*
+6
+1
+
+*
+*
+0
+2
+
+3
+8
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+4
+1
+⫺
+
+.
+
+*
+1
+1
+⫺
+
+.
+
+*
+4
+1
+⫺
+
+.
+
+*
+*
+7
+3
+⫺
+
+.
+
+*
+*
+6
+3
+⫺
+
+.
+
+*
+*
+2
+4
+⫺
+
+.
+
+*
+3
+1
+⫺
+
+.
+
+*
+4
+1
+
+.
+
+*
+*
+0
+8
+
+*
+*
+0
+3
+
+*
+*
+0
+3
+
+*
+*
+0
+3
+
+*
+*
+0
+2
+
+*
+*
+8
+1
+
+*
+*
+7
+1
+
+8
+7
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+4
+1
+⫺
+
+.
+
+*
+4
+1
+⫺
+
+.
+
+*
+*
+9
+1
+⫺
+
+.
+
+*
+*
+5
+3
+⫺
+
+.
+
+*
+*
+5
+3
+⫺
+
+.
+
+*
+*
+5
+3
+⫺
+
+.
+
+4
+0
+⫺
+
+.
+
+*
+2
+1
+
+.
+
+*
+*
+9
+7
+
+*
+*
+5
+7
+
+*
+*
+8
+3
+
+*
+*
+9
+2
+
+*
+*
+0
+3
+
+*
+*
+8
+1
+
+1
+8
+
+9
+0
+
+8
+0
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+9
+1
+⫺
+
+.
+
+*
+*
+4
+1
+⫺
+
+.
+
+*
+*
+3
+2
+⫺
+
+.
+
+*
+*
+4
+3
+⫺
+
+.
+
+*
+*
+1
+3
+⫺
+
+.
+
+*
+*
+6
+2
+⫺
+
+.
+
+9
+0
+
+.
+
+2
+0
+⫺
+
+.
+
+5
+8
+
+8
+7
+
+1
+8
+
+4
+0
+
+1
+0
+
+1
+9
+
+6
+9
+
+7
+9
+
+7
+9
+
+6
+9
+
+7
+9
+
+0
+9
+
+7
+1
+
+0
+2
+
+3
+2
+
+4
+3
+
+6
+1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3
+
+7
+1
+
+1
+1
+
+0
+1
+
+5
+2
+
+0
+2
+
+5
+0
+
+2
+8
+
+6
+8
+
+0
+8
+
+9
+8
+
+2
+9
+
+3
+8
+
+5
+4
+
+9
+5
+
+4
+7
+
+3
+1
+
+0
+8
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+
+3
+
+3
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+2
+
+.
+
+.
+
+.
+
+.
+
+2
+
+2
+
+1
+
+3
+
+/
+
+1
+T
+C
+A
+
+/
+
+2
+T
+C
+A
+
+/
+
+3
+T
+C
+A
+
+/
+
+1
+T
+C
+N
+
+/
+
+2
+T
+C
+N
+
+/
+
+3
+T
+C
+N
+
+1
+T
+/
+S
+H
+
+2
+T
+/
+S
+H
+
+3
+T
+/
+S
+H
+
+/
+
+1
+T
+A
+L
+
+/
+
+2
+T
+A
+L
+
+/
+
+3
+T
+A
+L
+
+1
+T
+/
+I
+T
+
+2
+T
+/
+I
+T
+
+3
+T
+/
+I
+T
+
+O
+T
+
+U
+N
+E
+T
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0
+1
+
+1
+1
+
+2
+1
+
+3
+1
+
+4
+1
+
+5
+1
+
+6
+1
+
+7
+1
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+c
+
+i
+
+;
+3
+e
+m
+T
+⫽
+3
+T
+
+e
+c
+n
+a
+u
+n
+i
+t
+n
+o
+c
+⫽
+S
+H
+
+;
+n
+o
+i
+t
+a
+z
+i
+n
+a
+g
+r
+o
+
+e
+h
+t
+
+o
+t
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+c
+
+i
+
+;
+2
+e
+m
+T
+⫽
+2
+T
+
+i
+
+;
+1
+e
+m
+T
+⫽
+1
+T
+
+;
+n
+o
+i
+t
+n
+e
+t
+n
+i
+
+r
+e
+v
+o
+n
+r
+u
+t
+
+⫽
+
+I
+T
+
+;
+n
+o
+i
+s
+n
+e
+m
+i
+d
+b
+u
+s
+
+s
+e
+v
+i
+t
+a
+n
+r
+e
+t
+l
+a
+-
+w
+o
+l
+–
+n
+o
+i
+t
+a
+z
+i
+n
+a
+g
+r
+o
+e
+h
+t
+o
+t
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+c
+
+e
+v
+i
+t
+a
+m
+r
+o
+n
+⫽
+C
+N
+
+;
+n
+o
+i
+t
+a
+z
+i
+n
+a
+g
+r
+o
+
+e
+h
+t
+
+o
+t
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+c
+
+e
+v
+i
+t
+c
+e
+f
+f
+a
+⫽
+C
+A
+
+e
+c
+n
+a
+u
+n
+i
+t
+n
+o
+c
+⫽
+A
+L
+
+;
+n
+o
+i
+s
+n
+e
+m
+i
+d
+b
+u
+s
+
+e
+c
+i
+f
+i
+r
+c
+a
+s
+-
+h
+g
+i
+h
+–
+n
+o
+i
+t
+a
+z
+i
+n
+a
+g
+r
+o
+e
+h
+t
+o
+t
+
+.
+l
+a
+n
+o
+g
+a
+i
+d
+
+e
+h
+t
+
+n
+o
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+e
+r
+a
+
+s
+t
+n
+e
+i
+c
+i
+f
+f
+e
+o
+c
+
+a
+h
+p
+l
+A
+
+.
+
+0
+3
+3
+⫽
+N
+
+.
+e
+t
+o
+N
+
+.
+e
+r
+u
+n
+e
+t
+
+⫽
+U
+N
+E
+T
+
+;
+r
+e
+v
+o
+n
+r
+u
+t
+
+.
+
+1
+0
+
+.
+
+⬍
+p
+
+*
+*
+
+.
+
+5
+0
+
+.
+
+⫽
+O
+T
+
+⬍
+p
+
+*
+
+status was used for subsequent SOF latent growth analyses includ-
+ing HS and LA.
+
+Finally, the results for TI revealed that the slope factor mean
+was positive and significant. That is, intention to quit increased
+linearly over the time period of this study and, thus, supported
+Hypothesis 2. Also, the slope (change) factor variance was statis-
+tically significant revealing that individuals differed in their rates
+of increase in intention to quit. In a related vein, the statistically
+significant intercept factor variance indicated that some individu-
+als possessed significantly greater intention to quit at initial status
+than did other individuals. However, the covariance between the
+initial status and change latent variables was statistically nonsig-
+nificant. This is quite interesting because it means that no matter
+what an individual’s initial status was on TI, he or she experienced
+an increase in intention to quit over the period of the study.
+
+Multivariate SOF LGM Analysis
+
+Recall that a multivariate SOF LGM model was performed for
+all commitment dimensions together by combining the four uni-
+variate SOF LGM models described in the previous section. This
+model fit the data quite well, ␹2(1432, N ⫽ 330) ⫽ 2231.17, p ⬍
+.01, CFI ⫽ .93, NNFI ⫽ .93, SRMR ⫽ .08, RMSEA ⫽ .04. The
+values of the growth factor means, factor variances, and within-
+domain covariances (not reported in Table 4) were virtually iden-
+tical to their corresponding values obtained in the univariate mod-
+els reported in the previous section, suggesting that there were no
+anomalies in the results when the univariate models were com-
+bined, and most importantly, that Hypotheses 1A through 1D
+remained viable.
+
+The results reported in Table 4 provided interesting information
+regarding the pattern of cross-domain associations among the
+commitment initial status and change latent variables. First, the
+AC and NC initial status latent variables were positively associated
+(.46). Second, the association between their respective change
+latent variables was also statistically significant (.65). That is, the
+steeper the rate of decline in AC for an individual, the steeper the
+rate of decline in NC. Third, the initial status of AC was associated
+in the same way with the rate of change in NC (⫺.26) as with its
+own rate of change (⫺.32). Finally, the initial status of NC was
+associated in the same way with the rate of change in AC (⫺.36)
+as with its own rate of change (⫺.37). These results indicated,
+therefore, that an individual who started off with a higher level of
+AC decreased this level and the level of NC at a faster rate than an
+individual who started off with a lower level of AC. Similarly, an
+individual who started off at initial status with a higher level of NC
+decreased this level and the level of AC at a faster rate than an
+individual who started off with a lower level of NC.
+
+Augmented Multivariate SOF LGM Analysis
+
+The last aspect of the LGM analyses specified a multivariate
+SOF LGM that included the commitment dimensions and TI.
+Results from these analyses were directly relevant to evaluating
+Hypotheses 3 and 5. First, it should be noted that this model
+yielded a good fit to the data, ␹2(1773, N ⫽ 330) ⫽ 2909.84, p ⬍
+.01, CFI ⫽ .92, NNFI ⫽ .92, SRMR ⫽ .13, RMSEA ⫽ .04. Table
+5 presents the standardized structural parameter estimates of the
+direct effects from this augmented model. In complete support of
+
+
+Table 2
+Univariate SOF LGMs: Tests of Alternative SOF LGM Specifications
+
+CHANGE IN COMMITMENT
+
+475
+
+Model
+
+Change
+function
+
+FOF residuals
+
+structure
+
+␹2
+
+Linear
+Linear
+Optimal
+Optimal
+
+Heteroscedastic
+Homoscedastic
+Heteroscedastic
+Homoscedastic
+
+331.53***
+332.22***
+331.52***
+332.20***
+
+Linear
+Linear
+Optimal
+Optimal
+
+Heteroscedastic
+Homoscedastic
+Heteroscedastic
+Homoscedastic
+
+345.77***
+358.58***
+343.48***
+350.41***
+
+Linear
+Linear
+Optimal
+Optimal
+
+Heteroscedastic
+Homoscedastic
+Heteroscedastic
+Homoscedastic
+
+47.15**
+48.45**
+45.60**
+47.58**
+
+Linear
+Linear
+Optimal
+Optimal
+
+Heteroscedastic
+Homoscedastic
+Heteroscedastic
+Homoscedastic
+
+52.53***
+57.47***
+49.06***
+
+—
+
+Linear
+Linear
+Optimal
+Optimal
+
+Heteroscedastic
+Homoscedastic
+Heteroscedastic
+Homoscedastic
+
+17.38**
+17.44*
+17.35***
+17.36*
+
+Model 1 (M1)
+Model 2 (M2)
+Model 3 (M3)
+Model 4 (M4)
+M1 vs. M2
+M1 vs. M3
+M3 vs. M4
+M2 vs. M4
+
+Model 1
+Model 2
+Model 3
+Model 4
+M1 vs. M2
+M1 vs. M3
+M3 vs. M4
+M2 vs. M4
+
+Model 1
+Model 2
+Model 3
+Model 4
+M1 vs. M2
+M1 vs. M3
+M3 vs. M4
+M2 vs. M4
+
+Model 1
+Model 2
+Model 3
+Model 4a
+M1 vs. M2
+M1 vs. M3
+M3 vs. M4
+M2 vs. M4
+
+Model 1
+Model 2
+Model 3
+Model 4
+M1 vs. M2
+M1 vs. M3
+M3 vs. M4
+M2 vs. M4
+
+df
+
+AC
+
+140
+142
+139
+141
+
+NC
+
+140
+142
+139
+141
+
+HS
+
+26
+28
+25
+27
+
+LA
+
+26
+28
+25
+—
+
+TI
+
+6
+8
+5
+7
+
+CFI
+
+NNFI
+
+SRMR
+
+RMSEA
+
+⌬␹2
+
+⌬ df
+
+.94
+.94
+.94
+.94
+
+.96
+.96
+.96
+.96
+
+.98
+.98
+.98
+.98
+
+.98
+.98
+.99
+—
+
+.99
+.99
+.99
+.99
+
+.94
+.94
+.94
+.94
+
+.96
+.95
+.96
+.95
+
+.98
+.98
+.98
+.98
+
+.98
+.98
+.98
+—
+
+.98
+.99
+.98
+.99
+
+.120
+.120
+.120
+.120
+
+.080
+.084
+.080
+.081
+
+.047
+.048
+.047
+.052
+
+.048
+.060
+.048
+—
+
+.030
+.031
+.030
+.030
+
+.065
+.064
+.066
+.065
+
+.067
+.068
+.067
+.067
+
+.047
+.045
+.048
+.046
+
+.056
+.057
+.053
+—
+
+.075
+.059
+.086
+.066
+
+.69
+.01
+.68
+.02
+
+12.81***
+2.29
+6.93*
+8.17***
+
+1.30
+1.55
+1.98
+.87
+
+4.94
+3.47
+—
+—
+
+.06
+.03
+.01
+.08
+
+2
+1
+2
+1
+
+2
+1
+2
+1
+
+2
+1
+2
+1
+
+2
+1
+
+2
+1
+2
+1
+
+Note. SOF ⫽ second-order factor; LGM ⫽ latent growth modeling; FOF ⫽ first-order factor; CFI ⫽ comparative fit index; NNFI ⫽ nonnormed fit index;
+SRMR ⫽ standardized root mean square residual; RMSEA ⫽ root mean square error of approximation; AC ⫽ affective commitment to the organization;
+NC ⫽ normative commitment to the organization; HS ⫽ continuance commitment to the organization– high-sacrifice subdimension; LA ⫽ continuance
+commitment to the organization–low-alternatives subdimension; TI ⫽ turnover intention.
+a This model failed to converge to a proper solution after 1,000 iterations (as represented by the dashes).
+* p ⬍ .05.
+
+*** p ⬍ .001.
+
+** p ⬍ .01.
+
+
+476
+
+BENTEIN ET AL.
+
+Table 3
+Univariate SOF LGMs: Growth Parameters Estimates
+
+Initial status (IS)
+
+Change (CH)
+
+Parameter
+
+M (␮IS) Variance (␴IS
+
+2 ) M (␮CH) Variance (␴CH
+2 )
+
+Covariance IS–CH
+
+(␴IS–CH)
+
+AC linear & homoscedastic
+NC linear & heteroscedastic
+HS linear & homoscedastic
+LA linear & homoscedastic
+TI linear & homoscedastic
+
+3.11***
+2.35***
+3.04***
+2.18***
+2.64***
+
+.53***
+.96***
+.51***
+.85***
+1.13***
+
+⫺.04**
+⫺.11***
+⫺.03
+⫺.03
+
+.14***
+
+.03***
+.06*
+.01
+.04*
+.05*
+
+⫺.04**
+⫺.09*
+.03
+⫺.06*
+⫺.01
+
+Note. Standardizing the manifest variables destroys the ability to examine change because the standardization
+equates the means and variances (Rovine & von Eye, 1991; Tisak & Meredith, 1990; Tucker, 1966). Therefore,
+we present here the unstandardized estimates (as is most typical in this type of research). SOF ⫽ second-order
+factors; LGM ⫽ latent growth model; AC ⫽ affective commitment to the organization; NC ⫽ normative
+commitment to the organization; HS ⫽ continuance commitment to the organization– high-sacrifice subdimen-
+sion; LA ⫽ continuance commitment to the organization–low-alternatives subdimension; TI ⫽ turnover
+intention.
+* p ⬍ .05.
+
+*** p ⬍ .001.
+
+** p ⬍ .01.
+
+Hypotheses 3A and 3B, the changes in AC and NC were signifi-
+cantly associated (⫺.88 and ⫺.35, respectively) with the change in
+TI across the time periods of this study. Because both AC and NC
+followed a decreasing trajectory of change, the negative sign
+associated with the effect of the AC and NC change variables on
+the change component of TI (an increase) indicates that the rate of
+decrease in AC or NC is positively associated with the rate of
+increase in TI. In short, therefore, the faster an individual declined
+in AC and NC, the faster she or he increased in TI across the same
+time period.
+
+The results in Table 5 also supported Hypothesis 5. As expected,
+the initial status latent variables of AC (Hypothesis 5A), NC
+(Hypothesis 5B), and HS (Hypothesis 5C) were negatively asso-
+ciated with the initial status of TI (⫺.40, ⫺.16, and ⫺.31, respec-
+tively). These findings mirrored those reported in the bulk of past
+research in which associations between static assessments of the
+constructs were tested. Of interest was the statistically significant,
+positive association between the initial status latent variable for
+LA and the initial status latent variable for TI (.11). Although past
+research findings did not clearly permit us to state a hypothesis
+regarding this association, our expectation was to find a statisti-
+cally nonsignificant association. What the current finding sug-
+
+Table 4
+Latent Intercorrelations Among Growth Parameters of the
+Commitment Dimensions in a Multivariate SOF LGM Model
+
+Parameter
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1. IS–AC
+2. CH–AC
+3. IS–NC
+4. CH–NC
+5. IS–HS
+6. IS–LA
+
+—
+
+⫺.32**
+.46***
+⫺.26**
+.25***
+⫺.28***
+
+—
+
+⫺.36***
+.65***
+.16
+.17
+
+—
+
+⫺.37** —
+.06
+.06
+
+.12*
+⫺.12*
+
+gested, however, is that the stronger a person’s commitment to an
+organization because of an LA frame of mind at a given moment
+in time, the stronger the TI at that moment in time. Most important,
+the fact that the initial status of HS and LA correlated in opposite
+directions with the initial status latent variable for TI lends weight
+to current concerns about the dimensionality of the CC scale and
+doubts expressed by some researchers regarding the relevance of
+LA as a component of commitment (Jaros, 1997; Stinglhamber et
+al., 2002).
+
+Logistic Regression
+
+In as much as the findings from the LGM analyses supported
+conclusions regarding the relationships among the changes in
+affective and normative commitment with the change in TI, the
+hypotheses including turnover (Hypotheses 4 and 6) may not be
+unambiguously tested through the use of SEM procedures. The
+reason quite simply is that the dependent variable, turnover, is
+binary by nature, and as such possesses an S-shaped association to
+its predictors (Liao, 1994; Long, 1997). Yet, the LGM analyses,
+like SEM models, are typically predicated on the assumption of
+intrinsic linearity. Therefore, a hierarchical
+logistic regression
+analysis was undertaken in which turnover was regressed on the
+initial status and change in TI, whereas the forms of commitment
+were held constant. The predictors for turnover were entered as
+
+Table 5
+Structural Effects of Growth Parameters on Turnover Intention
+
+Endogenous
+
+variable
+
+IS–AC CH–AC IS–NC CH–NC IS–HS
+
+IS–LA
+
+—
+
+.39*** —
+
+IS–TI
+CH–TI
+
+⫺.40***
+⫺.05
+
+⫺.16**
+
+⫺.88*** ⫺.06
+
+⫺.31***
+
+⫺.35* ⫺.12
+
+.11*
+.01
+
+Note. SOF ⫽ second-order factors; LGM ⫽ latent growth model; IS ⫽
+initial status; AC ⫽ affective commitment to the organization; CH ⫽
+change; NC ⫽ normative commitment to the organization; HS ⫽ contin-
+uance commitment to the organization–high-sacrifice subdimension; LA ⫽
+continuance commitment to the organization–low-alternatives subdimension.
+* p ⬍ .05.
+
+*** p ⬍ .001.
+
+** p ⬍ .01.
+
+IS ⫽ initial status; AC ⫽ affective commitment to the organization;
+Note.
+CH ⫽ change; NC ⫽ normative commitment to the organization; HS ⫽
+continuance commitment to the organization– high-sacrifice dimension;
+LA ⫽ continuance commitment to the organization–low-alternatives di-
+mension; TI ⫽ turnover intention.
+* p ⬍ .05.
+
+*** p ⬍ .001.
+
+** p ⬍ .01.
+
+
+CHANGE IN COMMITMENT
+
+477
+
+blocks into the analysis in the following order: (a) tenure, (b) T1
+and T3 means for high sacrifice and low alternatives commitment,
+(c) T1 means for affective and normative commitment, (d) T3
+means for affective and normative commitment, (e) T1 mean for
+TI, and (f) T3 mean for TI. There were several assumptions
+underlying this ordering and analysis. First, by entering tenure and
+both the T1 and T3 means for HS and LA in the first two blocks,
+we were simply holding these constant or controlling for them in
+the remaining analyses. Second, by entering the T1 values of the
+AC and NC variables as a block before entering the T3 values of
+those same variables makes the T3 values an analysis of the
+residual (after controlling for the T1 values and the other variables
+in the preceding blocks) or change in those variables from T1
+(Cohen, Cohen, West, & Aiken, 2003). Hence, the intent here was
+to mimic the fact that the LGM analysis supported a declining, yet
+linear change in AC and NC, and this fact needed to be modeled
+as closely as possible in this analysis. It should be noted that
+because the LGM analysis supported a linear decline, we could use
+the T3 values to create the contrast to T1 because presumably the
+T2 values would be between those extremes. The third assumption
+was similar to the last one but as pertaining to the TI variable.
+Namely, only after controlling for tenure, HS and LA and the
+change in AC and NC was the T1 mean for TI entered, and it was
+from this basis then that the T3 mean for intention was entered into
+the equation. Thus, the T3 value actually represents the residual or
+change in intention from T1 after controlling for all of the other
+variables in the model. To verify that it was indeed a change value,
+we correlated that T3 residual in TI with the simple difference of
+subtracting T1 from T3 (r ⫽ .85).
+
+The logistic regression model was statistically significant,
+␹2(11, N ⫽ 330) ⫽ 88.37, p ⬍ .01. Unlike ordinary least squares
+regression where r2 may be obtained with some accuracy, the same
+is not true with logistic regression, and as such, a pseudo-r2 value
+must be used instead. In the current case, that value was .44
+(Nagelkerke r-square) indicating that approximately 44% of the
+variance in turnover may be accounted for by the logistic model.
+The obtained parameter estimates from the logistic model are
+presented in Table 6. The results in Table 6 were completely
+supportive of Hypothesis 4 but not of Hypothesis 6. Specifically,
+the change in TI (represented by T3 TI) possessed a statistically
+significant association with actual turnover behavior at T4. How-
+ever, the initial status of TI (represented by T1 TI) was not
+significantly associated with actual turnover behavior.
+
+A functional aspect of the parameter estimates in Table 6 is that
+they may be used to develop different scenarios regarding the role
+of the variables in the model to impact the probability of the
+occurrence of the focal behavior (Liao, 1994; Long, 1997). For
+example, by using the means for each variable (i.e., the constant
+values), a .04 predicted probability is obtained. That is, the “av-
+erage” person in the current sample only had a 4% chance of
+leaving the organization. The problem, though, is that the number
+of scenarios is seemingly boundless, and thus, the researcher must
+select those that make the most sense within the context of the
+study. In this vein and at the suggestion of the reviewers, we
+developed six contrasted scenarios. Given that the LGM focuses
+attention on the changes in AC, NC, and TI, all six scenarios
+represent manipulations along those variables while maintaining
+organizational tenure and the T1 and T3 means for low alternatives
+and high sacrifice commitments constant.
+
+Table 6
+Results of the Hierarchical Logistic Regression Analysis for
+Turnover
+
+Variable
+
+␤
+
+Exp ␤ Wald (df)
+
+Significance
+
+Block 1
+
+Organizational tenure
+
+⫺.170
+
+.844
+
+3.82 (1)
+
+T1/HS
+T1/LA
+T3/HS
+T3/LA
+
+T1/AC
+T1/NC
+
+T3/AC
+T3/NC
+
+T1/TI
+
+T3/TI
+
+Block 2
+
+.171
+⫺.142
+⫺.662
+.073
+
+1.187
+.867
+.516
+1.076
+
+Block 3
+
+.34 (1)
+.22 (1)
+4.21 (1)
+.04 (1)
+
+.413
+.544
+
+1.511
+1.724
+
+1.35 (1)
+2.97 (1)
+
+Block 4
+
+.023
+⫺.674
+
+1.023
+.510
+
+.01 (1)
+2.90 (1)
+
+Block 5
+
+.288
+
+1.334
+
+1.65 (1)
+
+Block 6
+
+1.152
+
+3.164
+
+19.21 (1)
+
+.05
+
+.56
+.64
+.04
+.83
+
+.25
+.09
+
+.95
+.09
+
+.20
+
+.00
+
+Note. The constant for the model was ⫺6.051. Exp ⫽ exponential; T1 ⫽
+Time 1; HS ⫽ continuance commitment to the organization– high-sacrifice
+dimension; T3 ⫽ Time 3; LA ⫽ continuance commitment
+to the
+organization–low-alternatives dimension; AC ⫽ affective commitment;
+NC ⫽ normative commitment; TI ⫽ turnover intention.
+
+The first scenario represents what happens to the probability of
+turnover when both AC and NC indicate maximal decline (i.e., T1
+values are 5 and T3 values are 1) and when TI increases maximally
+(i.e., T1 value of 1 and T3 value of 5). The conditions of this
+scenario represent the pattern of change in the two commitment
+variables and TIs supported in the LGM analysis. Under these
+conditions, the predicted probability that someone left the organi-
+zation at the end of this study was .88. The second scenario is the
+reverse of the first one and represents what happens to the prob-
+ability of turnover when both AC and NC indicate maximal
+increase (i.e., T1 values are 1 and T3 values are 5) and when TI
+decreases maximally (i.e., T1 value of 5 and T3 value of 1). In this
+case, the predicted probability is .00. This suggests, therefore, that
+when AC and NC are strongly increasing, and intentions to quit are
+maximally decreasing across the same time period, an individual is
+very unlikely to leave the organization.
+
+Two other scenarios attempt to look at the relative contribution
+of AC and NC on the actual probability of leaving the organiza-
+tion. The third scenario holds NC constant (T1 and T3 values are
+at their respective means) but AC is set at maximally declining (T1
+value is 5 and T3 value is 1), and TI increases maximally (i.e., T1
+value of 1 and T3 value of 5). The predicted probability of actually
+leaving the organization was .57, which is a value lower than was
+found in the first scenario above but one that is certainly much
+
+
+478
+
+BENTEIN ET AL.
+
+greater than the .04 representing the probability of the “average”
+person leaving the organization in the current sample. The fourth
+scenario holds AC constant (T1 and T3 values are at their respec-
+tive means), whereas NC is set at maximally declining (T1 value
+is 5 and T3 value is 1), and TI increases maximally (i.e., T1 value
+of 1 and T3 value of 5). The predicted probability of actually
+leaving the organization was .80 in this scenario; a value very close
+to the .88 obtained in the first scenario above. This suggests that
+although declines in both forms of commitment are important in
+impacting the probability of turnover, the decline in NC for the
+current sample was the strongest contributing factor.
+
+Finally, we compared two scenarios to separate the effect of the
+initial status from the trajectory of change on the same variable. A
+fifth scenario represents what happens to the probability of turn-
+over when both AC and NC indicate important decline (i.e., T1
+values are 5 and T3 values are 2), holding TI constant (T1 and T3
+values are at their respective means). This scenario was compared
+with another one which represents what happens to the probability
+of turnover when both affective and normative commitments stay
+at a very low level (i.e., T1 and T values are 1), holding TI constant
+(T1 and T3 values are at their respective means). Comparing these
+two scenarios addresses whether declines in commitment contrib-
+ute to the predicted probability of turnover or whether it is simply
+enough to know that commitment is low. Prior commitment and
+turnover research suggests a greater probability of turnover for the
+second scenario because that research has consistently shown that
+the more proximal the predictor is to the outcome, the stronger the
+association between the two. The current findings do not support
+that conventional wisdom. Specifically, the fifth scenario resulted
+in a predicted probability of .30 while the sixth scenario yielded a
+value of .03. Thus, simply possessing low levels of commitment
+across time is not enough all else being equal to promote the
+probability of someone actually leaving the organization. Indeed,
+those individuals were no more likely to leave than were the
+“average” individuals in the current study. Rather, it appears that
+it is the dynamic or changing nature of commitment that is im-
+portant
+to the probability of someone actually leaving the
+organization.
+
+Discussion
+
+The development and evolution of one’s commitment to the
+organization is a fundamental premise underlying many practices
+designed to promote commitment (e.g., high performance work
+systems), and for theories describing such processes as socializa-
+tion, work adjustment or turnover which predicate themselves on
+the fact that workers change over time in their degrees of psycho-
+logical attachment to an organization (Lance et al., 2000b; Van-
+denberg & Self, 1993). The insinuation is that this change has
+implications for organizational effectiveness. Despite the previous
+research attempts to do so, the fact is that this fundamental premise
+underlying the commitment process remains relatively unexam-
+ined. The purpose of the current study was to test whether indi-
+viduals experience significant changes in commitment to the work-
+place across time (i.e., whether there really is an evolution) and, if
+so, to address whether these changes are meaningful to our under-
+standing of work place behavior. We fulfilled the purpose by
+examining commitment’s role in the turnover process through the
+
+use of the Allen and Meyer (e.g., Meyer & Allen, 1991) frame-
+work of commitment.
+
+Specifically, the current sample was uniquely suited for this
+purpose because it consisted of over 300 individuals at various
+stages in their careers and belonging to many different organiza-
+tions. Thus, commitment was literally left to its own devices.
+Further, by using the Allen and Meyer AC, NC, and continuance
+dimensions (the latter of which consists of HS and LA subdimen-
+sions), we could make differential predictions about change. Ad-
+dressing first whether individuals experience an evolution or
+change in commitment across time, the answer is an unequivocal
+yes, but as expected, on only the AC and NC commitment dimen-
+sions. Given the current general economic environment, and par-
+ticularly that of Belgium from which the sample was derived, and
+the general growth in pessimism and decline in trust that has
+occurred over the last decade in the general workforce (Morrison
+& Robinson, 1997; Robinson & Rousseau, 1994), we fully ex-
+pected AC and NC to decline in levels across the 6 months during
+which measures on those constructs were administered. Commit-
+ment predicated on bases of HS and LA are simply not as sensitive
+to perceived violations of the psychological contract that occur as
+a result of the belief that organizations are no longer fulfilling their
+obligations to their employees. Such obligations are of the socio-
+emotional variety, and when an organization is perceived as break-
+ing or violating the social exchange relationship, the forms of
+commitment predicated on relationships (e.g., AC and NC) will be
+most impacted (Meyer & Allen, 1991; Spreitzer & Mishra, 2002).
+In the 6 months of data collection for HS and LA, we did not
+expect the transactional bases on which these forms of commit-
+ment are predicated to change enough within the current sample as
+a whole to shift these forms of commitment in one direction or
+another. Perhaps if (a) we had followed the sample for a longer
+time period, (b) we had identified a sample for which alternative
+employment opportunities fluctuated, or (c) other organizations
+offered a competitive compensation package to offset the feelings
+of HS, then changes in HS and LA may have been observed.
+
+With respect to whether or not the changes in AC and NC were
+meaningful, the results again indicated that they were critical
+components within the turnover process. Four aspects of the cur-
+rent findings are worth mentioning. First, the magnitude of effects
+(comparing the standardized coefficients from Table 5) was much
+stronger for the associations between the changes in commitment
+and the change in TIs than for the associations representing the
+traditional tests; that is, between the initial status on AC and NC
+and initial status on TI. Second, initial status on both AC and NC
+(again, the traditional test) possessed no statistically significant
+association with the change in TI. Hence, measuring commitment
+at one point in time and finding that it also has a statistical
+association with TI at one point in time (as is the current case, and
+in the bulk of past research findings) should not be automatically
+inferred to mean that changing commitment will result in changing
+TI. Rather, only the change component of AC and NC was sig-
+nificantly associated with the change in TI.
+
+The third aspect of the current findings highlighting the impor-
+tance of detecting change in AC and NC takes into account the
+total pattern of findings. Specifically, it is indisputable that turn-
+over is costly to most organizations and is typically a behavior that
+most wish to limit (Hom & Griffeth, 1995; Mitchell, Holtom, &
+Lee, 2001). A contribution of this study is to demonstrate that
+
+
+CHANGE IN COMMITMENT
+
+479
+
+changes in AC and NC influence turnover through the change in
+TI. Most important, this study indicates that no matter the standing
+on TI at T1, the average individual experienced an increase in the
+intention to leave over the 6 months covered by data collection.
+The current findings suggest, therefore, that reducing turnover
+must be a sustained effort over time. Our study shows that a partial
+reduction in turnover might be achieved by a one-time elevation of
+initial levels in AC and NC (also HS), thereby causing a one-time
+reduction of the level of TI. However, given the fact that TI
+increased regardless of its initial status and the fact
+the
+primary drivers for its increase were the declines in AC and NC
+(not their initial status), sustained reductions in turnover must be
+accomplished through sustained, not only one-time, efforts to
+promote high levels of AC and NC over time.
+
+that
+
+Fourth, the lack of support for Hypothesis 6 (positive associa-
+tion of initial status on T1 TI with turnover behavior) as well as the
+predicted scenarios based on the logistic regression results (par-
+ticularly the comparison of the 5th [declining commitments] and
+6th [consistently low commitments across time] scenarios) sup-
+ported the importance of looking at change or the dynamic nature
+of these variables in predicting important work-related behaviors
+such as turnover. In combination, these findings suggest that just
+examining associations by using static measures of the underlying
+variables may actually be misleading in some cases. Specifically,
+current findings indicate that there may be a cognitive saliency
+factor operating at some level. That is, merely being at a low (or
+high) level on a variable even constantly over time may indicate
+that the variable is simply not salient to the individual. A mean-
+ingful change in the level of the variable across time, however,
+may mean that individuals are cognitively aware of the fact that
+they are no longer as committed as they were just months before
+or have come to want to leave the organization. Hence, as the
+current findings suggest, it is the change in status along those
+variables that are important and not necessarily the level of that
+variable at a given moment in time.
+
+The importance of change was not only illustrated in the logistic
+regression analysis but also through the LGM analysis. That is, the
+LGM approach actually permits us to separate the effect of the
+initial status of employees on a given commitment dimension from
+the trajectory of change these individuals display over time on that
+variable. This is important to realize for the following reason. Let
+us take an individual who starts off at 5 on the NC scale and drops
+precipitously to 2 at the end of the study, and another individual
+who begins at 1 on the same scale but stays at that level across the
+study. Previous research would suggest that the second person is
+more at risk in terms of withdrawal cognitions, due to his or her
+lower level of commitment at the end of the study. For the same
+reasons stated above (i.e., cognitive saliency), although it is rec-
+ognized that the second individual is indeed likely to engage in
+withdrawal cognitions, the first individual might be more at risk
+simply because the rate of decrease in commitment is so dramatic
+that the individual is very conscious of that decline—a conclusion
+supported by the values of the structural parameters associated
+with NC in Table 5.
+
+In terms of practical implications, this study also calls for more
+work examining how organizations can manage the risk of with-
+drawal among employees over time. One explanation to the de-
+clining change trajectories observed in the AC and NC compo-
+nents could be related to the fact that the economic context during
+
+which the study was conducted was one of increased competitive
+pressures that constrained organizations to use flexible employ-
+ment practices. Also, organizations changed their management
+policies and tended to give more weight to the value of their shares
+than to developing their human assets (Hollanders, 2002). This
+could have created a shift in the psychological contracting process,
+which, as argued by Robinson and Rousseau (1994), can lead to
+declining levels of commitment among employees. If this is true,
+then organizations could benefit from using techniques such as
+realistic job previews (RJPs) that can prevent disillusionment over
+time. There has been much work showing the benefits of RJPs
+(e.g., Buckley, Fedor, Veres, Wiese, & Carraher, 1998; Premack &
+Wanous, 1985; Wanous & Colella, 1989), one of which is the
+effective reduction of turnover among employees (Hom, Griffeth,
+Palich, & Bracker, 1999). According to Hom et al. (1999), RJPs
+act indirectly on the attitudinal predictors (i.e., job satisfaction and
+organizational commitment) of intended and actual turnover. Spe-
+cifically, they showed that postentry RJPs increase met expecta-
+tions which in turn activate perceptions of employers’ honesty and
+concern for their employees and increase employees’ coping
+mechanisms and job satisfaction, which ultimately enhance orga-
+nizational commitment. It would be worth investigating in the
+future whether such mediating processes also explain change tra-
+jectories of commitment over time and could foster employee
+retention through that means.
+
+Indirectly, the current study also addresses some recurrent con-
+cerns with respect to the validity of Allen and Meyer’s (e.g.,
+Hackett et al., 1994; McGee & Ford, 1987; Meyer et al., 2002)
+dimensions of organizational commitment. One longstanding con-
+cern is whether AC and NC are really tapping unique bases of
+commitment (discriminant validity) or are redundant (e.g., Ko,
+Price, & Mueller, 1997). Although AC and NC (both their initial
+status and change) were associated with one another, none of the
+observed coefficients in the current study were sufficiently large to
+warrant concerns about conceptual redundancy. Further, Table 5
+shows that, besides the effect of their initial status, changes in AC
+and NC were uniquely associated with change in TI. That is, they
+each accounted for unique amounts of variance in TI. Another
+longstanding controversy concerns whether or not the CC scale is
+unidimensional as originally proposed or whether it consists of two
+distinct dimensions represented by the HS and LA scales (Jaros,
+1997; McGee & Ford, 1987; Meyer et al., 1990). The current study
+did not support the unidimensionality argument. For one, the CFA
+results supported two dimensions. Most important, however, the
+HS and LA subdimensions were divergently related to TI; that is,
+HS had a negative association, whereas LA had a positive associ-
+ation. Thus, current findings suggest that the conceptualization and
+measurement of continuance commitment need more attention in
+the future (cf. Powell & Meyer, 2004).
+
+Limitations and Future Research
+
+As we have shown here, it was important to go beyond the
+traditional aggregate-level analysis of longitudinal data (i.e., in
+terms of mean differences) and to conceptualize change in com-
+mitment dimensions at the individual level to address complex
+issues concerning change processes that have not been examined
+before. However, the current study had limitations and, as such,
+raised issues for future research.
+
+
+480
+
+BENTEIN ET AL.
+
+First, longitudinal designs inevitably mean that sample attrition
+will be present. In the present study, the sample size remained
+acceptable at T4 (N ⫽ 330), and several analyses indicated that
+participant attrition did not produce any detectable outlying re-
+sponses or demographic differences in the usable sample. How-
+ever, other researchers may not be as fortunate and, therefore, may
+have complete data only on a relatively small percentage of the
+original sample and,
+thus, might come into conflict with the
+stringent data requirements underlying LGM. Note that recent
+extensions to the basic LGM approach have been developed that
+deal with missing data issues and analytic options for incomplete
+data sets (e.g., Duncan, Duncan, & Li, 1998; Little & Rubin, 1987;
+McArdle & Hamagami, 1991). Discussion of these issues is be-
+yond the scope of this article, but future research in which data
+requirements may be questionable may need to use the missing
+data options to apply LGM.
+
+Second,
+
+this study found evidence for a linearly declining
+change of AC and NC over time. This supports Brockner et al.
+(1992) who stated 10 years ago, that it may be “easier to break,
+rather than build employees’ organizational commitment” (p. 260).
+However, in as much as the present study did not examine the
+actual antecedents, interpretations regarding the causes of the
+declines are speculations at best. Not only should future research
+include potential antecedents, but also underlying the Brockner et
+al. (1992) quote is another broader issue. Namely, is increasing
+commitment across time as important as decreasing commitment?
+It may be the case, for example, that people are more sensitive to
+even minor decreases in commitment than they are to comparable
+increases in commitment. The reverse may be true as well. The
+point is that the threshold point at which the change causes a
+difference in behavior may be smaller for decreases than for
+increases, or vice versa. Additionally, the consequences of the
+changes may also be different. For example, in the current study,
+it was very reasonable to assume on the basis of past research that
+the declining forms of commitment would impact the turnover
+process. But would declining commitment necessarily impact per-
+formance given that even uncommitted people do not necessarily
+begin to perform poorly out of fear of losing their job before
+finding another alternative? It may very well be the case that
+in-role or extrarole (citizenship) performance behaviors are most
+influenced by increases in commitment. Our point, though, in
+raising these issues is that by isolating the actual change in com-
+mitment, researchers may begin to address more refined questions
+regarding the actual commitment process— questions that cannot
+be addressed through traditional research designs.
+
+Finally, it would be worthwhile to examine the generalizability
+of the current findings. The current sample was all university
+graduates who were at the relatively early stages of their profes-
+sional careers. The question is, would we observe similar out-
+comes among those with less education, working within the less
+professionalized occupations, or who were much further along in
+their career stages? Likewise, would we observe similar findings
+within other cultures? Perhaps Eastern cultures, for example, in
+which relations are highly emphasized would be prone to increases
+in commitment across time if that commitment were left to its own
+devices as it was in the current study. Even though tenure was
+controlled for in the current study, the implication underlying it as
+well as the question above concerning career stages, education,
+and the professional nature of the occupation is that different mind
+
+sets driving the commitment may arise (i.e., professionals may be
+driven more by the relational bases of commitment [AC and NC],
+whereas less professional individuals may be driven more by the
+transactional bases, such as HS or LA). It would be interesting to
+examine whether the decrease in the relational bases of commit-
+ment among commitment manifests itself in the same behaviors as
+perhaps changes in the transactional bases among the less profes-
+sionalized occupations. In closing, however, our point is that these
+questions all deal with change and, therefore, the process under-
+lying commitment. These are questions fundamentally different
+from those addressed through research designs relying on static
+measures of the focal constructs.
+
+References
+
+Alexander, J. A., Bloom, J. R., & Nuchols, B. A. (1994). Nursing turnover
+and hospital efficiency: An organization-level analysis. Industrial Rela-
+tions, 33, 505–520.
+
+Allen, N. J., & Meyer, J. P. (1990). The measurement and antecedents of
+affective, continuance, and normative commitment to the organization.
+Journal of Occupational Psychology, 63, 1–18.
+
+Allen, N. J., & Meyer, J. P. (1993). Organizational commitment: Evidence
+
+of career stage effects? Journal of Business Research, 26, 49 – 61.
+
+Allen, N. J., & Meyer, J. P. (1996). Affective, continuance, and normative
+commitment to the organization: An examination of the construct va-
+lidity. Journal of Vocational Behavior, 49, 252–276.
+
+Beck, K., & Wilson, C. (2000). Development of affective organizational
+commitment: A cross-sequential examination of change with tenure.
+Journal of Vocational Behavior, 56, 114 –136.
+
+Beck, K., & Wilson, C. (2001). Have we studied, should we study, and can
+we study the development of commitment? Methodological issues and
+the developmental study of work-related commitment. Human Resource
+Management Review, 11, 257–278.
+
+Bentler, P. M. (1990). Comparative fit indexes in structural models. Psy-
+
+chological Bulletin, 107, 238 –246.
+
+Bentler, P. M. (1995). EQS structural equations program manual. Encino,
+
+CA: Multivariate Software.
+
+Bentler, P. M., & Bonett, D. G. (1980). Significance tests and goodness of
+fit in the analysis of covariance structures. Psychological Bulletin, 88,
+588 – 606.
+
+Brislin, R. W. (1980). Translation and content analysis of oral and written
+material. In H. C. Triandis, & J. W. Berry (Eds.), Handbook of cross-
+cultural psychology (pp. 398 – 444). Boston: Allyn & Bacon.
+
+Brockner, J., Grover, S., Reed, T., DeWitt, R. L., & O’Malley, M. (1987).
+Survivors’ reactions to layoffs: We get by with a little help for our
+friends. Administrative Science Quarterly, 32, 526 –541.
+
+Brockner, J., Tyler, T. R., & Cooper-Schneider, R. (1992). The influence
+of prior commitment to an institution on reactions to perceived unfair-
+ness: The higher they are, the harder they fall. Administrative Science
+Quarterly, 37, 241–261.
+
+Brockner, J., Wiesenfeld, B. M., Reed, T., Grover, S., & Martin, C. (1993).
+Interactive effect of job content and context on the reactions of layoff
+survivors. Journal of Personality and Social Psychology, 64, 187–197.
+Buckley, M. R., Fedor, D. B., Veres, J. G., Wiese, D. S., & Carraher, S. M.
+(1998). Investigating newcomer expectations and job-related outcomes.
+Journal of Applied Psychology, 83, 452– 461.
+
+Cascio, W. F. (1991). Costing human resources: The financial impact of
+
+behavior in organizations (3rd ed.) Boston: Kent.
+
+Chan, D. (1998). The conceptualization and analysis of change over time:
+An integrative approach incorporating longitudinal mean and covariance
+structures analysis (LMACS) and multiple indicator latent growth mod-
+eling (MLGM). Organizational Research Methods, 1, 421– 483.
+
+Chan, D. (2002). Latent growth modeling. In F. Drasgow & N. Schmitt
+
+
+CHANGE IN COMMITMENT
+
+481
+
+(Eds.), Measuring and analyzing behavior in organizations: Advances in
+measurement and data analysis (pp. 302–349, Volume in the Organiza-
+tional Frontier Series). San Francisco: Jossey-Bass.
+
+Chan, D., & Schmitt, N. (2000). Inter-individual differences in intra-
+individual changes in proactivity during organizational entry: A latent
+growth modeling approach to understanding newcomer adaptation. Jour-
+nal of Applied Psychology, 85, 190 –210.
+
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple
+regression/correlation analysis for the behavioral sciences (3rd ed.).
+Mahwah, NJ: Erlbaum.
+
+Dalton, D. T., Todor, W. D., & Krackhardt, D. M. (1982). Turnover
+overstated: A functional taxonomy. Academy of Management Review, 7,
+117–132.
+
+Dawis, R. V., & Lofquist, L. H. (1984). A psychological theory of work
+
+adjustment. Minneapolis: University of Minnesota Press.
+
+Duncan, T. E., Duncan, S. C., & Li, F. (1998). A comparison of model- and
+multiple imputation-based approaches to longitudinal analysis with par-
+tial missingness. Structural Equation Modeling, 5, 1–21.
+
+Duncan, T. E., Duncan, S. C., Strycker, L. A., Li, F., & Alpert, A. (1999).
+An introduction to latent variable growth modeling: Concepts, issues
+and applications. Mahwah, NJ: Erlbaum.
+
+Dunham, R. B., Grube, J. A., & Castan˜eda, M. B. (1994). Organizational
+commitment: The utility of an integrative definition. Journal of Applied
+Psychology, 79, 370 –380.
+
+Farkas, A. J., & Tetrick, L. E. (1989). A three-wave longitudinal analysis
+of the causal ordering of satisfaction and commitment on turnover
+decisions. Journal of Applied Psychology, 74, 855– 868.
+
+Feldman, D. C. (1976). A contingency theory of socialization. Adminis-
+
+trative Science Quarterly, 21, 433– 452.
+
+Gregersen, H. B. (1993). Multiple commitments at work and extrarole
+behavior during three stages of organizational tenure. Journal of Busi-
+ness Research, 26, 31– 47.
+
+Griffeth, R. W., & Hom, P. W. (2001). Retaining valued employees.
+
+Thousand Oaks, CA: Sage.
+
+Griffeth, R. W., Hom, P. W., & Gaertner, S. (2000). A meta-analysis of
+antecedents and correlates of employee turnover: Update, moderator
+tests, and research implications for the millennium. Journal of Manage-
+ment, 26, 463– 488.
+
+Hackett, R. D., Bycio, P., & Hausdorf, P. A. (1994). Further assessments
+of Meyer and Allen’s (1991) model of organizational commitment.
+Journal of Applied Psychology, 79, 15–23.
+
+Hollanders, M. (2002, April 2). Les restructurations en Belgique: Foyers de
+multiples paradoxes [Downsizing in Belgium: A source of multiple
+paradoxes]. L’Echo.
+
+Hom, P. W., & Griffeth, R. W. (1991). A structural equation model of the
+process of employee turnover: Cross-sectional and longitudinal tests.
+Journal of Applied Psychology, 76, 350 –366.
+
+Hom, P. W., & Griffeth, R. W. (1995). Employee turnover. Cincinnati:
+
+South/Western.
+
+Hom, P. W., Griffeth, R. W., Palich, L. E., & Bracker, J. S. (1999).
+Revisiting met expectations as a reason why realistic job previews work.
+Personnel Psychology, 52, 97–112.
+
+Irving, P. G., & Meyer, J. P.
+
+the met-
+expectations hypothesis: A longitudinal analysis. Journal of Applied
+Psychology, 79, 937–949.
+
+(1994). Reexamination of
+
+Jaros, S. J. (1997). An assessment of Meyer and Allen’s (1991) three-
+component model of organizational commitment and turnover inten-
+tions. Journal of Vocational Behavior, 51, 319 –337.
+
+Jo¨reskog, K. G., So¨rbom, D., Du Toit, S., & Du Toit, M. (2001). LISREL
+8: New statistical features. Chicago: Scientific Software International.
+Ko, J-W., Price, J. L., & Mueller, C. W. (1997). Assessment of Meyer and
+Allen’s three-component model of organizational commitment in South
+Korea. Journal of Applied Psychology, 82, 961–973.
+
+Lance, C. E., Meade, A. W., & Williamson, G. M. (2000a). We should
+
+measure change – And here’s how. In G. M. Williamson & D. R. Shaffer
+(Eds.), Physical illness and depression in older adults: Theory, research,
+and practice (pp. 201–235). New York: Plenum Press.
+
+Lance, C. E., Vandenberg, R. J., & Self, R. M. (2000b). Latent growth
+models of individual change: The case of newcomer adjustment. Orga-
+nizational Behavior and Human Decision Processes, 83, 107–140.
+
+Lee, T. W., Ashford, S. J., Walsh, J. P., & Mowday, R. T. (1992).
+Commitment propensity, organizational commitment and voluntary
+turnover: A longitudinal study of organizational entry processes. Journal
+of Management, 18, 15–32.
+
+Liao, T. F. (1994). Interpreting probability models: Logit, probit, and other
+
+generalized linear models. Thousand Oaks, CA: Sage.
+
+Little, R. J. A., & Rubin, D. B. (1987). Statistical analysis with missing
+
+data. New York: Wiley.
+
+Long, J. S. (1997). Regression models for categorical and limited depen-
+
+dent variables. Thousand Oaks, CA: Sage.
+
+Luthans, B. C., & Sommer, S. M. (1999). The impact of downsizing on
+workplace attitudes: Differing reactions of managers and staff in a health
+care organization. Group & Organization Management, 24, 46 –70.
+
+Maertz, C. P., & Campion, M. A. (1998). 25 years of voluntary turnover
+research: A review and critique. In C. L. Cooper & I. T. Robertson
+(Eds.), International review of industrial and organizational psychology
+(Vol. 14, pp. 49 – 81). New York:Wiley.
+
+Mathieu, J. E., & Zajac, D. M. (1990). A review and meta-analysis of the
+antecedents, correlates, and consequences of organizational commit-
+ment. Psychological Bulletin, 108, 171–194.
+
+Mayer, R. C., & Schoorman, F. D. (1992). Predicting participation and
+production outcomes through a two-dimensional model of organiza-
+tional commitment. Academy of Management Journal, 35, 671– 684.
+
+Mayer, R. C., & Schoorman, F. D. (1998). Differentiating antecedents of
+organizational commitment: A test of March and Simon’s model. Jour-
+nal of Organizational Behavior, 19, 15–28.
+
+McArdle, J. J., & Epstein, D. (1987). Latent growth curves within devel-
+opmental structural equation models. Child development, 58, 110 –133.
+McArdle, J. J., & Hamagami, F. (1991). Modeling incomplete longitudinal
+and cross-sectional data using latent growth structural models. In
+I. L. M. Collins & J. C. Horn (Eds.), Best methods for the analysis of
+change (pp. 276 –304). Washington, DC: American Psychological As-
+sociation.
+
+McGee, G. W., & Ford, R. C. (1987). Two (or more?) dimensions of
+organizational commitment: Reexamination of the Affective and Con-
+tinuance Commitment Scales. Journal of Applied Psychology, 72, 638 –
+642.
+
+Medsker, G. J., Williams, L. J., & Holahan, P. J. (1994). A review of
+current practices for evaluating causal models in organizational behavior
+and human resources management research. Journal of Management, 20,
+439 – 464.
+
+Meredith, W., & Tisak, J. (1990). Latent curve analysis. Psychometrika,
+
+55, 107–122.
+
+Meyer, J. P., & Allen, N. J. (1987). A longitudinal analysis of the early
+development and consequences of organizational commitment. Cana-
+dian Journal of Behavioral Science, 19, 199 –215.
+
+Meyer, J. P., & Allen, N. J. (1988). Links between work experiences and
+organizational commitment during the first year of employment: A
+longitudinal analysis. Journal of Occupational Psychology, 61, 195–
+209.
+
+Meyer, J. P., & Allen, N. J. (1991). A three-component conceptualization
+of organizational commitment. Human Resource Management Review,
+1, 61– 89.
+
+Meyer, J. P., & Allen, N. J. (1997). Commitment in the workplace: Theory,
+
+research, and application. Newbury Park, CA: Sage.
+
+Meyer, J. P., Allen, N. J., & Gellatly, I. R. (1990). Affective and contin-
+uance commitment to the organization: Evaluation of measures and
+
+
+482
+
+BENTEIN ET AL.
+
+analysis of concurrent and time-lagged relations. Journal of Applied
+Psychology, 75, 710 –720.
+
+Meyer, J. P., Allen, N. J., & Smith, C. A. (1993). Commitment to orga-
+nizations and occupations: Extension and test of a three-component
+conceptualization. Journal of Applied Psychology, 78, 538 –551.
+
+Meyer, J.P., Barak, I. & Vandenberghe, C. (1996). Revised measures of
+affective, continuance, and normative commitment to organizations.
+Unpublished manuscript. Department of Psychology, University of
+Western Ontario, London, Ontario, Canada.
+
+Meyer, J. P., Bobocel, D. R., & Allen, N. J. (1991). Development of
+organizational commitment during the first year of employment: A
+longitudinal study of pre- and post-entry influences. Journal of Man-
+agement, 17, 717–733.
+
+Meyer, J. P., & Herscovitch, L. (2001). Commitment in the workplace:
+Toward a general model. Human Resource Management Review, 11,
+299 –326.
+
+Meyer, J. P., Irving, P. G., & Allen, N. J. (1998). Examination of the
+combined effects of work values and early work experiences on orga-
+nizational commitment. Journal of Organizational Behavior, 19, 29 –52.
+Meyer, J. P., Stanley, D. J., Herscovitch, L., & Topolnytsky, L. (2002).
+Affective, continuance and normative commitment to the organization:
+A meta-analysis of antecedents, correlates, and consequences. Journal of
+Vocational Behavior, 61, 20 –52.
+
+Mitchell, T. R., Holtom, B. C., & Lee, T. W. (2001). How to keep your best
+employees: Developing an effective retention policy. Academy of Man-
+agement Executive, 15, 96 –107.
+
+Mitchell, T. R., Holtom, B. C., Lee, T. W., Sablynski, C. J., & Erez, M.
+(2001). Why people stay: Using job embeddedness to predict voluntary
+turnover. Academy of Management Journal, 44, 1102–1121.
+
+Morrison, E. W., & Robinson, S. L. (1997). When employees feel be-
+trayed: A model of how psychological contract violation develops.
+Academy of Management Review, 22, 226 –256.
+
+Morrow, P. C., & McElroy, J. C. (1987). Work commitment and job
+satisfaction over three career stages. Journal of Vocational Behavior, 30,
+330 –346.
+
+Mottola, G. R., Bachman, B. A., Gaertner, S. L., & Dovidio, J. F. (1997).
+How groups merge: The effects of merger integration patterns on antic-
+ipated commitment to the merged organization. Journal of Applied
+Social Psychology, 27, 1335–1358.
+
+Mowday, R. T., & McDade, T. W. (1980). The development of
+
+job
+attitudes, job perceptions, and withdrawal propensities during the early
+employment period. Paper presented at the 40th annual meeting of the
+Academy of Management, Detroit, MI.
+
+Mowday, R. T., Porter, L. W., & Steers, R. M. (1982). Employee-
+organization linkages: The psychology of commitment, absenteeism, and
+turnover. New York: Academic Press.
+
+Muthen, B. O. (1991). Analysis of longitudinal data using latent variable
+models with varying parameters. In L. M. Collins & J. L. Horn (Eds.),
+Best methods for the analysis of change: Recent advances, unanswered
+questions, future directions (pp. 1–17). Washington, DC: American
+Psychological Association.
+
+O’Reilly, C. A., & Chatman, J. (1986). Organizational commitment and
+psychological attachment: The effects of compliance, identification, and
+internalization on prosocial behavior. Journal of Applied Psychology,
+71, 492– 499.
+
+Powell, D. M., & Meyer, J. P. (2004). Side-bet theory and the three-
+component model of organizational commitment. Journal of Vocational
+Behavior, 65, 157–177.
+
+Premack, S. L., & Wanous, J. P. (1985). A meta-analysis of realistic job
+
+preview experiments. Journal of Applied Psychology, 70, 706 –719.
+
+Robinson, S. L., & Rousseau, D. M. (1994). Violating the psychological
+contract: Not the exception but the norm. Journal of Organizational
+Behavior, 15, 245–259.
+
+Rousseau, D. M., & McLean Parks, J. (1993). The contracts of individuals
+and organizations. In L. L. Cummings & B. M. Staw (Eds.), Research in
+organizational behavior (Vol. 15, pp. 1– 47). Greenwich, CT: JAI Press.
+Rovine, M. J., & von Eye, A. (1991). Applied computational statistics in
+
+longitudinal research. Cambridge, MA: Academic Press.
+
+Schaie, K. W., & Baltes, P. B. (1975). On sequential strategies in devel-
+opmental research: Description or explanation. Human Development, 18,
+384 –390.
+
+Spreitzer, G. M., & Mishra, A. K. (2002). To stay or to go: Voluntary
+survivor turnover following an organizational downsizing. Journal of
+Organizational Behavior, 23, 707–729.
+
+Staw, B. M. (1980). The consequences of turnover. Journal of Occupa-
+
+tional Psychology, 1, 253–273.
+
+Steiger, J. H. (1990). Structural model evaluation and modification: An
+interval estimation approach. Multivariate Behavioral Research, 25,
+173–180.
+
+Stinglhamber, F., Bentein, K., & Vandenberghe, C. (2002). Extension of
+the three-component model of commitment to five foci: Development of
+measures and substantive test. European Journal of Psychological As-
+sessment, 18, 123–138.
+
+Tett, R. P., & Meyer, J. P. (1993). Job satisfaction, organizational com-
+mitment, turnover intention, and turnover: Path analyses based on meta-
+analytic findings. Personnel Psychology, 46, 259 –293.
+
+Tisak, J., & Meredith, W. (1990). Descriptive and associated developmen-
+tal models. In A. von Eye (Ed.), Statistical methods in longitudinal
+research (Vol. 2, pp. 387– 406). San Diego, CA: Academic Press.
+
+Tucker, L. R. (1966). Learning theory and multivariate experiment: Illus-
+tration of generalized learning curves. In R. B. Cattell (Ed.), Handbook
+of multivariate psychology (pp. 476 –501). Chicago: Rand McNally.
+
+Tucker, L. R., & Lewis, C. A. (1973). A reliability coefficient for maxi-
+
+mum likelihood factor analysis. Psychometrika, 38, 1–10.
+
+Vandenberg, R. J., & Self, R. M. (1993). Assessing newcomers’ changing
+commitments to the organization during the first 6 months of work.
+Journal of Applied Psychology, 78, 557–568.
+
+Van Maanen, J. (1975). Police socialization: A longitudinal examination of
+job attitudes in an urban police department. Administrative Science
+Quarterly, 20, 207–228.
+
+Wanous, J. P. (1992). Organizational entry: Recruitment, selection, orien-
+
+tation, and socialization. Reading, MA: Addison Wesley.
+
+Wanous, J. P., & Collela, A. (1989). Organizational entry research: Current
+status and future directions. In G. Ferris & K. Rowland (Eds.), Research
+in personnel and human resource management (Vol. 7, pp. 59 –120).
+Greenwich, CT: JAI Press.
+
+Wanous, J. P., Poland, T. D., Premack, S. L., & Davis, K. S. (1992). The
+effects of met expectations on newcomer attitudes and behaviors: A
+review and meta-analysis. Journal of Applied Psychology, 77, 288 –297.
+Willett, J. B., & Sayer, A. G. (1994). Using covariance structure analysis
+to detect correlates and predictors of individual change over time.
+Psychological Bulletin, 116, 363–381.
+
+Received May 15, 2002
+Revision received April 29, 2004
+
+Accepted May 11, 2004 䡲
+
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+

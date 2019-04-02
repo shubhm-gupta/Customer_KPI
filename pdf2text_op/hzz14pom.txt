@@ -1,0 +1,3136 @@
+Vol. 23, No. 4, April 2014, pp. 552–569
+ISSN 1059-1478|EISSN 1937-5956|14|2304|0552
+
+DOI 10.1111/poms.12044
+© 2013 Production and Operations Management Society
+
+The Effects of Competitive Environment on Supply
+
+Chain Information Sharing and Performance:
+
+An Empirical Study in China
+
+School of Management, Zhejiang University, Hangzhou, 310058, China, baofeng@zju.edu.cn
+
+Baofeng Huo
+
+China-Europe International Business School (CEIBS), 699 Hong Feng Road, Pudong, Shanghai 201206, China
+
+Institute of Supply Chain Integration and Service Innovation, College of Business Administration, South China University of Technology,
+
+Wushan Road, Guangzhou, 510640, China, xiande@ceibs.edu
+
+Xiande Zhao
+
+Whittemore School of Business and Economics, University of New Hampshire, Durham, New Hampshire 03824, USA,
+
+Honggengzhou@unn.edu
+
+Honggeng Zhou
+
+I nformation sharing in supply chains has become an important topic over the past decade. This study uses data from
+
+617 Chinese manufacturing ﬁrms to investigate the relationships among competitive environments, supply chain infor-
+mation sharing (SCIS), and supply chain performance. The results of structural equation modeling analysis show that (i)
+international competition is positively related to all three types of SCIS whereas local competition is not signiﬁcantly
+related to any of the three types, (ii) internal information sharing is positively related to external information sharing with
+suppliers and customers, and (iii) internal information sharing and information sharing with customers are positively
+related to superior supply chain performance, whereas supplier information sharing is not signiﬁcantly related to perfor-
+mance. The ﬁndings enhance our understanding of the relationships among competitive environment, SCIS, and supply
+chain performance in Chinese manufacturing settings.
+
+Key words: competitive environment; information sharing; supply chain performance; China
+History: Received: December 2009; Accepted: December 2012 by Fangruo Chen, after 4 revisions.
+
+1. Introduction
+
+that
+
+As globalization has led to intensiﬁed competition,
+supply chain management has become increasingly
+important (Jiang et al. 2007, Kumar et al. 2011, Zhao
+et al. 2007, 2008). Information sharing (IS) is an effec-
+tive way of dealing with the challenges in a competi-
+tive environment
+includes both local and
+international competition (Chatﬁeld et al. 2004, Lee
+et al. 1997, Li 2006, Xu 2011, Zhou and Benton 2007).
+We distinguish local competition from international
+competition mainly by supply chain partners, includ-
+ing suppliers and customers, but not by competitors.
+For example, Chinese manufacturers who compete
+with local competitors for international customers
+face international competition, whereas those who
+compete with international competitors for local Chi-
+nese customers face local competition.
+
+Previous studies have shown that supply chain
+to
+
+information sharing (SCIS) helps
+
+companies
+
+improve their operational performance (Krause et al.
+2007, Zdravkovic et al. 2011, Zhou and Benton 2007),
+ﬁnancial performance (Carr and Kaynak 2007, Mishra
+et al. 2007), and supply chain performance (Byrne
+and Heavey 2006, Gavirneni 2006). Furthermore,
+recent SCIS studies show that IS is helpful for produc-
+tion management (Cavusoglu et al. 2012), product
+and process management (Ferguson and Ketzenberg
+2006, Lee et al. 2011), risk management (Wakolbinger
+and Cruz 2011), logistics management (Olorunniwo
+and Li 2010, Prajogo and Olhager 2012), relationship
+management (Chin-Chun et al. 2008, Ebrahim-Khanj-
+ari et al. 2012), etc. However, most prior studies, espe-
+cially analytical studies, focus on sharing one or two
+types of information such as inventory, forecast, and
+order information, in a two-level supply chain con-
+sisting of a buyer and a seller. In this study, SCIS
+includes internal IS (ISI) among different internal
+functions within a ﬁrm,
+information sharing with
+suppliers, and IS with customers. Furthermore,
+
+552
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+553
+
+multiple types of
+information are often shared
+between different supply chain partners in both direc-
+tions. For example, a manufacturer may share its fore-
+cast and production planning information with its
+suppliers, whereas its suppliers may share inventory
+and production capacity information with the manu-
+facturer. The effects of SCIS on performance are often
+the results of sharing multiple types of information in
+different parts of supply chains. Thus, it is necessary
+to use a more holistic approach to investigate the
+effects of SCIS on performance. This study empirically
+investigates the relationships among three types of
+SCIS and their direct and interactive effects on supply
+chain performance in three-level supply chains,
+which include manufacturers and their major suppli-
+ers and customers.
+
+types of
+
+location and informal
+
+When facing different types of competition, compa-
+nies need to develop different SCIS capabilities to
+cope with competitive environments. For example,
+Chinese manufacturers who focus on local markets
+and mainly work with local customers and suppliers
+may not need a high level of demand IS with their
+suppliers and customers because they all know what
+is happening in local markets due to their geographi-
+cal
+information exchanges.
+However, Chinese manufacturers who compete in the
+international market may have a much greater need
+for demand information sharing with their customers
+and suppliers to deal with the demand uncertainty in
+the market place. Therefore, it is important to investi-
+gate how different dimensions of competition inﬂu-
+ence different
+IS in supply chains.
+Understanding the competitive environment and sup-
+ply chain management is of particular interest in
+China, as its developing economy plays an increas-
+ingly important role in global supply chains. China
+has had an annual GDP growth rate of approximately
+10% for more than two decades and was the world’s
+second largest economy in 2010 (behind the United
+States). Most Fortune 500 companies have established
+manufacturing bases in China (Jiang et al. 2009) and
+China’s manufacturing industries are rapidly evolv-
+ing and playing an important role in global business
+(Aeppel 2008, Areddy 2008, Li 2000, 2005, Powell
+2008). It is crucial that today’s business leaders and
+academics understand China’s evolving competitive
+environment and its important role in supply chain
+management. With this background, we used data
+collected from manufacturers in China to investigate
+how the competitive environment inﬂuences SCIS
+and how SCIS inﬂuences supply chain performance.
+
+Speciﬁcally, this study addresses three research
+questions. (i) How is the competitive environment
+related to the three types of SCIS (i.e., IS with suppli-
+ers, IS with customers, and internal IS)? (ii) How is
+internal IS related to IS with suppliers and IS with
+
+customers? (iii) How are these three types of SCIS
+simultaneously and interactively related to supply
+chain performance? This study contributes to the liter-
+ature on competition, supply chain management, and
+IS by providing empirical evidence of the relationships
+among two dimensions of competitive environment,
+three types of SCIS, and supply chain performance. The
+ﬁndings also provide managerial insights for practi-
+tioners to enhance their understanding of China’s
+dynamic competitive environment and to improve
+supply chain performance through SCIS.
+
+2. Theoretical Background and
+
+Research Hypotheses
+
+2.1. The Competitive Environment
+Ward et al. (1995) characterized the competitive envi-
+ronment as the degree of competition faced by a com-
+pany. According to the Merriam-Webster dictionary,
+competition in business is “active demand by two or
+more organisms or kinds of organisms for some
+environmental resource in short supply” (http://
+www.merriam-webster.com/dictionary/competition).
+In supply chain management, competition is related
+to the match between demand and supply in the com-
+petitive environment. When there is decreasing
+demand or excess supply in the market place, compa-
+nies will need to offer lower prices or better quality to
+their customers to win their orders. As a result, com-
+petition will become increasingly ﬁerce among alter-
+native suppliers. Competition is a major driver of
+company operations (Amoako-Gyampah 2003, Am-
+oako-Gyampah and Boye 2001, Badri et al. 2000,
+Ward et al. 1995) and has been emphasized by
+researchers in the areas of strategic management and
+supply chain and operations management. In the area
+of strategic management, Balakrishnan and Werner-
+felt (1986) examined the relationships between techni-
+cal change, competition, and vertical
+integration
+based on data collected from 93 industries. Hamel
+(1991) proposed that competition pushes ﬁrms to
+learn from each other and improve their positions in
+the strategic alliance. Dodge et al. (1994) argued that
+competition inﬂuences problem perception for small
+companies. In the area of supply chain and operations
+management, Ward et al.
+investigated the
+effect of competitive environment on business perfor-
+mance for 319 ﬁrms in Singapore. On the basis of the
+research of Ward et al. (1995), Amoako-Gyampah and
+Boye (2001) and Amoako-Gyampah (2003) examined
+the role of competitive environment in strategy selec-
+tion in Ghana. Badri et al. (2000) further examined the
+effects of environments on performance using data
+collected in the United Arab Emirates. More recently,
+Ha and Tong (2008) identiﬁed the role of IS as a
+source of competitive advantage under supply chain
+
+(1995)
+
+
+554
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+competition. Li et al. (2008) examined the moderating
+effect of competition on the relationship between
+management ties and the performance of domestic
+and foreign companies in China.
+
+Whereas prior studies generally view competition
+as a single-dimensional concept, this study separates
+local competition from international competition.
+China is a huge country with large domestic and for-
+eign markets. Some Chinese manufacturing ﬁrms
+conduct a signiﬁcant volume of business with interna-
+tional customers and suppliers, whereas others
+mainly serve the domestic market and therefore deal
+primarily with local customers and suppliers. Compa-
+nies that compete mainly in the international market
+may face different competitive pressures compared to
+those who compete mainly in the local market.
+
+2.2. Supply Chain Information Sharing
+SCIS refers to IS among internal functions within a
+company and IS among supply chain partners in a
+supply chain, which include ISC and ISS. According
+to the Supply Chain Council’s SCOR model, the
+three types of IS are separate but necessary compo-
+nents of SCIS. The scope of ISI includes the Plan,
+Source, Make, Deliver, Source Return, and Deliver
+Return processes of a manufacturer. ISS focuses on
+the links among boundary spanning processes includ-
+ing the supplier’s Deliver and Deliver Return pro-
+cesses and the Source and Source Return processes
+of the manufacturer. Similarly, ISC focuses on the
+links among the manufacturer’s Deliver and Deliver
+Return and the customer’s Source and Source Return
+processes. As the three dimensions of SCIS focus on
+the different processes of a supply chain, they are
+conceptually different and have different effects on
+supply chain performance. IS can be achieved by for-
+mal means using information systems (e.g., elec-
+tronic data interchange (EDI), enterprise resource
+planning (ERP)) or by informal means, via meetings,
+emails, and phone conversations.
+
+SCIS has become a critical topic in supply chain
+management in recent years (Frohlich and Westbrook
+2002, Li 2006, Zhou and Benton 2007). For example,
+ERP software is a typical
+information technology
+designed to promote ISI (Niu et al. 2011). Many stud-
+ies (e.g., Schlie and Goldhar 1995, Small 1999) have
+shown that ISI is critical in enhancing a ﬁrm’s produc-
+tion planning. Kim and Narasimhan (2002) investi-
+gated the effect of internal information integration on
+supply chain performance. Li et al. (2011) found that
+information technology can help to ensure process
+standards through data accuracy,
+IS, and timely
+communication. With regard to ISS, Devaraj et al.
+(2007) studied the sharing of production schedules,
+inventory status, and forecasts with suppliers. Froh-
+lich and Westbrook (2002) examined supplier integra-
+
+tion based on the sharing of inventory planning and
+demand/forecasting information. Frohlich and West-
+brook (2001) assessed the sharing of production plans,
+inventory mix/levels, and other types of information,
+while Gavirneni et al. (1999) studied the effects of
+sharing information concerning inventory levels and
+inventory ordering policies. Zhao and Xie (2002) and
+Zhao et al.
+investigated the inﬂuence of
+demand and order IS on supply chain performance.
+ISC includes the sharing of demand information,
+point of sale information, forecast information, and
+related information (Aviv 2001, Cachon and Lariviere
+2001). Frohlich and Westbrook (2001, 2002) empirically
+tested the construct of ISC and suggested that sharing
+information (e.g., demand forecasts) with customers is
+an important aspect of supply chain management.
+
+(2002a)
+
+2.3. The Effect of the Competitive Environment
+on SCIS
+The competitive environment has been cited as one of
+the key factors that drive the need for SCIS (Dasgupta
+et al. 1999, Jain et al. 2011, Zhou and Benton 2007).
+Competition requires ﬁrms to offer shorter lead times,
+faster responses to customer demands, a greater
+degree of customization, and lower costs in uncertain
+and volatile environments (Cao and Dowlatshahi
+2005, Chiang and Feng 2007, Li et al. 2006). To achieve
+performance improvements in these multiple dimen-
+sions, ﬁrms must be able to adopt, integrate, and
+reconﬁgure internal and external processes to match
+the requirements of the rapidly changing environ-
+ment (Teece et al. 1997). SCIS can help to update
+information and understand business needs. Effective
+SCIS can also help companies to acquire and absorb
+external knowledge to redesign products/services
+quickly and effectively and reconﬁgure and transform
+structures and processes to meet customers’ require-
+ments in rapidly changing environments. Therefore,
+companies need to enhance SCIS in response to
+increased competition. Chwelos et al. (2001) and Teo
+et al. (2003) found competitive pressure to be a signif-
+icant predictor of the intent to adopt EDI. Kumar and
+van Dissel (1996) proposed that environmental forces
+(e.g., globalization) inﬂuence the collaborative strat-
+egy of ﬁrms and their adoption of inter-organizational
+information systems.
+
+Different types of SCIS may be necessary to meet
+the requirements of different competitive environ-
+ments. Companies may choose to emphasize internal,
+customer, or supplier IS to meet the requirements of
+different competitive environments. Furthermore,
+companies that face largely international competition
+and deal with foreign customers or suppliers may act
+differently than those that engage mainly in local
+competition and deal with domestic customers or
+suppliers. Many foreign partners of Chinese ﬁrms are
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+555
+
+more advanced in using information technology
+systems (ITS) as a tool to coordinate their processes.
+They tend to rely on technologies and systems to
+integrate supply chains to a greater extent than their
+Chinese partners and place pressure on their partners
+to adopt advanced ITS. As a result, Chinese compa-
+nies facing international competition are more likely
+than their counterparts engaged in local competition
+to adopt formal IS systems and to standardize their
+information communication protocols to enhance IS
+with their customers and suppliers. Standardizing the
+way in which information is communicated is impor-
+tant when supply chain partners speak different lan-
+guages and operate in different cultures, time zones,
+legal environments, and so forth. In addition, by
+reducing lead times, cutting costs, and improving
+response times, SCIS plays a more important role in
+the international business context than in the local
+business context. In changing environments, compa-
+nies can quickly understand customers’ changing
+requirements with the help of ISC. With the help of
+ISI and ISS, companies can work with internal func-
+tions and suppliers to better satisfy customers. It is
+very important for companies competing in the inter-
+national market to develop, maintain, reconﬁgure,
+and transform operational routines with their global
+supply chain partners.
+
+Similarly, SCIS can also help companies to inte-
+grate,
+learn, reconﬁgure, and transform processes
+and activities to cope with competition in local mar-
+kets. However, the effect of local competition on
+SCIS in China is quite different from that of interna-
+tional competition. In China, manufacturers, their
+suppliers, and customers are often clustered in a
+region due to the unique development policies
+adopted by cities, townships, and technological and
+economic development areas. The geographical dis-
+tances between the manufacturer and its supply
+chain partners are relatively small. Furthermore,
+manufacturers operating in local markets are rela-
+tively weaker in the adoption of information sys-
+tems compared with their peers operating in the
+international market. They are more likely to use
+informal IS methods (e.g., face-to-face interviews,
+telephone calls, and business lunches) to deal with
+the challenges within the local competitive environ-
+ment. In addition, companies are more likely to use
+an established guanxi
+(Lovett et al.
+1999, Xin and Pearce 1996)
+to deal with the
+competition in the local Chinese markets. Although
+companies facing local competition still require SCIS
+to improve
+the
+strength of the effect of local competition on SCIS to
+be different from that of international competition.
+Therefore, we propose the following hypotheses
+(Figure 1):
+
+their performance, we
+
+(relationship)
+
+expect
+
+Figure 1 Proposed Model
+
+H2a 
+
+H2b 
+
+H2c 
+
+H1a 
+
+H1b 
+
+H1c 
+
+Local 
+
+competition 
+
+International 
+competition 
+
+Competitive 
+Environment 
+
+H4a
+
+H4b
+
+H4c
+
+Information sharing 
+
+with suppliers 
+
+H3a
+
+Internal  
+
+information sharing
+
+H3b
+
+Information sharing 
+
+with customers 
+
+Supply Chain 
+
+Information Sharing
+
+Supply chain 
+performance 
+
+International
+
+H1a:
+related to ISS.
+
+International
+
+H1b:
+related to ISI.
+
+International
+
+H1c:
+related to ISC.
+
+competition is positively
+
+competition is positively
+
+competition is positively
+
+H2a: Local competition is positively related to
+ISS.
+
+H2b: Local competition is positively related to
+ISI.
+
+H2c: Local competition is positively related to
+ISC.
+
+2.4. Relationships Between SCIS Variables
+From a cooperation perspective, Hillebrand and Bie-
+mans (2003) proposed that internal cooperation could
+function as a prerequisite coordination mechanism
+for external cooperation. From the perspective of
+stages theory, internal integration is a prerequisite for
+external integration (e.g., King and Teo 1997, Morash
+and Clinton 1998, Zhao et al. 2011). Ward and Zhou
+(2006) found that within-ﬁrm information technology
+(IT) integration and between-ﬁrm IT integration are
+positively correlated. In a recent study, Carr and Kay-
+nak (2007) investigated the inﬂuence of ISI on ISS and
+found that the former improves the latter. However,
+they did not investigate ISC.
+
+When a company has a high level of internal IS, it
+will be more capable of achieving a high level of
+external IS. In particular, when a company has a high
+level of ISI, the company will be more likely to learn
+from external partners
+and understand their
+businesses to facilitate external IS. As a result, ISI repre-
+sents a capability for learning from external partners
+(e.g., Hillebrand and Biemans 2004, Lane et al. 2006,
+Zhao et al. 2011). As the supply chain is part of an
+overall product offering, ﬁrms across the chain must
+act in a concerted effort to maximize its value. In a
+
+
+556
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+way, external IS is an extension of ISI across ﬁrms’
+boundaries. This argument rests on the fact
+that
+external uncertainties and links with customers and
+suppliers must be internally integrated into the
+appropriate areas of a ﬁrm. This internal relationship
+enables ﬁrms to engage in external relationships more
+successfully. In other words, without ISI, it would be
+extremely difﬁcult for a ﬁrm to achieve external IS.
+Therefore, we propose the following hypotheses:
+
+H3a: ISI is positively related to ISS.
+
+H3b: ISI is positively related to ISC.
+
+2.5. The Effect of SCIS on Supply Chain
+Performance
+The majority of previous studies on IS have investi-
+gated the effect of one or two types of SCIS on the
+ﬁnancial or operational performance of ﬁrms within a
+supply chain, with a particular focus on cost and
+inventory performance. Only a few studies have
+investigated the effect of SCIS on supply chain perfor-
+mance (e.g., Byrne and Heavey 2006, Gavirneni 2006,
+Yee 2005, Zhao et al. 2002b). Supply chain perfor-
+mance refers to the operational performance of the
+whole supply chain, including the focal company and
+its major supplier chain partners. Conceptually, sup-
+ply chain performance measures the overall perfor-
+mance of all supply chain members and the links
+between them.
+
+SCIS contributes to the improvement of supply
+chain performance by reducing both risk and uncer-
+tainty in the supply chain process and a better
+understanding of supply chain partners’ business
+needs and requirements. Both theoretical and empir-
+ical studies have shown that IS enhances supply
+chain performance (e.g., Cachon and Fisher 2000,
+Frohlich and Westbrook 2002, Lee et al. 2000, Schlie
+and Goldhar 1995, Zhao and Xie 2002, Zhao et al.
+2002a, 2002b). ISC enables manufacturers to react
+more quickly to customers’ changing needs, and
+helps them to offer more customized products and
+services more reliably and at a lower cost. ISS can
+also help to reduce lead times and inventory costs
+and enables more customized products to be offered
+at
+can also signiﬁcantly
+improve quality and delivery reliability. ISI can help
+to lower costs, shorten lead times, and improve
+quality and customer service levels in a dynamic
+competitive environment.
+
+reasonable prices.
+
+It
+
+Regarding the effect of ISS, Frohlich and West-
+brook (2002) used data collected from 890 UK ﬁrms,
+and showed that supplier integration has a positive
+inﬂuence on operational performance. Using data
+from 120 US manufacturing ﬁrms, Devaraj et al.
+(2007) also found that supplier integration has a
+
+positive effect on operational performance. However,
+they did not study the effect of supplier integration
+while taking into account the effect of ISI. ISS also
+enables
+joint product design and development
+between the manufacturer and suppliers and thus
+enhances the innovation performance of supply
+chain members (Li and Gao 2008). Therefore, we
+propose the following hypothesis:
+
+H4a: ISS is positively related to supply chain
+performance.
+
+Regarding ISI, Attaran (1989) found that intra-ﬁrm
+information systems enable ﬁrms to reduce their lead
+times. Using data from 306 US ﬁrms, Stank et al.
+(2001) showed that internal integration has a signiﬁ-
+cant positive inﬂuence on overall
+logistics perfor-
+mance, and Germain and Iyer (2006) also provided
+empirical evidence that internal integration positively
+inﬂuences such performance. With effective IS among
+functions, different functions can work together to
+coordinate processes to fulﬁll the changing require-
+ments of customers. Therefore, we propose the fol-
+lowing hypothesis:
+
+H4b: ISI is positively related to supply chain
+performance.
+
+With respect
+
+logistics performance.
+
+to ISC, Frohlich and Westbrook
+(2002) found that demand integration has a positive
+inﬂuence on operational performance. Both Stank
+et al. (2001) and Germain and Iyer (2006) showed
+that customer integration has a positive inﬂuence on
+overall
+In addition to the
+above empirical studies, modeling and simulation
+studies also suggest that ISC has a positive inﬂu-
+ence on supply chain performance. For example,
+using a computer simulation method, Zhao and Xie
+(2002) and Zhao et al.
+(2002a, 2002b) found that
+retailers’ provision of demand and planned order
+information to manufacturers can help to improve
+supply chain performance. Cachon and Fisher
+(2000) used a mathematical modeling method to
+demonstrate that
+sharing demand and
+inventory data with suppliers can shorten order
+processing lead times. Lee et al. (2000) analytically
+showed that retailers’ provision of demand informa-
+tion to manufacturers leads to signiﬁcant inventory
+reductions, which is generally associated with short
+lead times. Because supply chain management is
+customer-oriented, ISC is critical to manufacturers’
+understanding of customer requirements to enhance
+supply chain performance. Therefore, we propose
+the following hypothesis:
+
+retailers
+
+H4c: ISC is positively related to supply chain
+performance.
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+557
+
+Although different types of SCIS have been shown
+to enhance supply chain performance, to the best of
+our knowledge no study has examined the simultaneous
+effects of ISI, ISS, and ISC on supply chain perfor-
+mance. Furthermore, little remains known about the
+relative effectiveness of these three types of IS and
+how they interact with one another to inﬂuence sup-
+ply chain performance.
+
+A manufacturer’s efforts in external ISS and ISC
+can help it to take full advantage of its ISI to achieve a
+better supply chain performance. Similarly, ISI can
+enhance the effect of external IS on supply chain per-
+formance. Upstream ISS and downstream ISC can
+work together to improve supply chain performance.
+However, few IS studies have examined the inter-
+active effects of the different dimensions of SCIS on
+supply chain performance. Regarding supply chain
+integration, Germain and Iyer (2006) found that the
+interaction between internal and customer integration
+is related to logistics performance, which in turn leads
+to ﬁnancial performance. Droge et al. (2004) found
+that internal integration moderates the effect of exter-
+nal integration on performance. Devaraj et al. (2007)
+found that customer integration moderates the rela-
+tionship between supplier integration and perfor-
+mance. Flynn et al.
+the
+interaction between supplier and customer integra-
+tion has a positive effect on operational performance.
+Therefore, we hypothesize that two-way and three-
+way interactions among the three dimensions of SCIS
+inﬂuence supply chain performance:
+
+conﬁrmed that
+
+(2010)
+
+H5a: The interaction between ISS and ISI is posi-
+tively related to supply chain performance.
+
+H5b: The interaction between ISC and ISI is pos-
+itively related to supply chain performance.
+
+H5c: The interaction between ISS and ISC is pos-
+itively related to supply chain performance.
+
+H5d: The interaction among ISS, ISI, and ISC is
+positively related to supply chain performance.
+
+2.6. Control Variables
+The control variables in this study include company
+size, industry, region, and ownership. First, larger
+companies may have more resources for supply chain
+activities. As a result, they may achieve a higher level
+of SCIS and performance in comparison to small com-
+panies. In this study, the mean of the latent variable,
+which comprises the number of employees, ﬁxed
+assets, and sales, is used to measure the control vari-
+
+able Size. Second, companies in different industries
+may face different levels of competition and have dif-
+ferent levels of SCIS and performance (Devaraj et al.
+2007). In this study, the dummy variable Industry1
+refers to metal, mechanical, and engineering; Indus-
+try2 refers to electronics and electrical; and Industry3
+refers to textile and apparel. The base group is other
+industries. Third, companies in different regions that
+are in different stages of economic development and
+companies with different types of ownership and
+managerial governances may be in different competi-
+tive environments and have different levels of SCIS
+and performance. The dummy variable Region1
+refers to Guangzhou, Region2 refers to Chongqing,
+Region3 refers to Shanghai, and Region4 refers to
+Tianjin. Hong Kong is the base group. For the owner-
+ship dummy variables, Ownership1 refers to SOE
+(state-owned enterprises), Ownership2 refers to COE
+(collectively owned enterprises), Ownership3 refers
+to POE (privately owned enterprises), and Owner-
+ship4 refers to JV (joint ventures). The base group is
+FOE (foreign-owned enterprise).
+
+3. Research Methodology
+
+3.1. Data Collection
+As China is a large country, we strategically selected
+ﬁve cities that represent different economic levels and
+are geographically diverse: Chongqing, Tianjin,
+Guangzhou, Shanghai, and Hong Kong. Chongqing, a
+traditional
+industrial city in northwestern inland
+China, represents a relatively early stage of economic
+development. Tianjin, an industrial city in northern
+China, is a major city in the Bohai Sea economic devel-
+opment area. Guangzhou and Shanghai are located in
+the afﬂuent Pearl River Delta (in southern China) and
+in the Yangtze River Delta (in eastern China), respec-
+tively, and both enjoy a higher degree of economic
+development. Hong Kong is one of the most open
+economies in the world, and its manufacturers oper-
+ate in an environment that is very different from those
+prevailing in other Chinese cities. Although they
+maintain their headquarters in Hong Kong,
+their
+manufacturing facilities are located in mainland
+China. These ﬁve cities are representative of the vari-
+ous regions of China.
+
+To obtain a representative sample of enterprises,
+we randomly selected ﬁrms from the China Telecom
+yellow pages for the four cities located in mainland
+China and from the Chinese Manufacturers Associa-
+tion Directory for Hong Kong. The selected ﬁrms rep-
+resent a wide range of industries, including chemicals
+and petrochemicals, building materials, rubber and
+plastics, metals, mechanical and engineering, elec-
+tronics and electrical, and textiles and apparel, among
+others. The ﬁrms were ﬁrst contacted by telephone to
+
+
+558
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+obtain the contact details of key informants and their
+consent to participate in the survey. The key infor-
+mants typically held positions such as supply chain
+manager, CEO/president, vice president, or director
+in charge of marketing and purchasing, and were
+knowledgeable about
+the company’s internal and
+external processes. Self-addressed and stamped enve-
+lopes were also provided to facilitate the return of
+completed questionnaires. We indicated that if the
+respondent felt that he/she was not the best person to
+answer certain questions, he/she could ask a more
+appropriate person to answer those questions. Both
+follow-up phone calls and letters were used to clarify
+any difﬁcult questions and to improve the response
+rate.
+
+Of the 4569 companies contacted, 1356 agreed to
+participate. After several follow-ups, we received 617
+valid questionnaires. Among them, approximately
+200 were from Hong Kong and approximately 100
+from each city in mainland China. Based on the num-
+ber of companies initially contacted (number of ques-
+tionnaires distributed), the response rate was 13.5%
+(45.5%). The response rate for this study is comparable
+to or better than other survey-based studies in opera-
+tions management (e.g., 7.4% in Nahm et al. 2003) and
+supply chain management (e.g., 6.3% in Li et al. 2005).
+
+3.2. Questionnaire Design
+To develop reliable and valid measurements, we ﬁrst
+undertook a comprehensive review of the literature to
+identify existing measures for related constructs.
+Wherever possible, we adopted or adapted measure-
+ment items that have been validated in previous stud-
+ies.
+If no existing measures were available, we
+developed new items based on our understanding of
+the relevant construct, observations made during
+company visits, and interviews with practitioners. In
+the pilot stage, the managers we interviewed con-
+ﬁrmed that they understood the survey questions and
+were able to answer them.
+
+The measurement items for the two competitive
+environment variables were adapted from those of
+Ward et al. (1995), Amoako-Gyampah (2003), Am-
+oako-Gyampah and Boye (2001), Huo et al. (2008),
+and Wang et al. (2010). For example, the competition
+items in Ward et al. (1995), Amoako-Gyampah (2003),
+and Amoako-Gyampah and Boye (2001) measured
+demand, supply, and competition in local and
+international markets. Huo et al. (2008) and Wang
+et al. (2010) used local and international competition
+to operationalize the concept of competition with the
+data from Hong Kong and mainland China, respec-
+tively.
+
+SCIS can be measured by either the information
+shared or the information systems used for IS, or both.
+The measures for ISI were adapted from those of
+
+Narasimhan and Kim (2002) and Braunscheidel and
+Suresh (2009). In this study, ISI includes both data
+and application integration among internal functions
+and covers inventory and logistics IS.
+
+Although the degree of integration among different
+functions within a company is easily observable and
+relatively objective, the inter-organizational integra-
+tion of data and systems is not easily observable, and
+integration between different companies does not
+depend only on information system capabilities but
+also on the relationships among supply chain partners
+and the presence of trust and relationship commit-
+ment (Zhao et al. 2008, 2011).
+
+The measures for ISS were adapted from those of
+Frohlich and Westbrook (2001), Devaraj et al. (2007),
+Frohlich and Westbrook (2002), Gavirneni et al.
+(1999), Zhao and Xie (2002), and Zhao et al. (2002a).
+In this study, ISS includes the sharing of production
+schedule/capacity, inventory, and forecasting infor-
+mation between a manufacturer and its major sup-
+plier. The measures for ISC were adapted from those
+of Aviv (2001), Cachon and Lariviere (2001), and
+Frohlich and Westbrook (2001, 2002). In this study,
+ISC includes the sharing of market information, point
+of sale information, demand forecasts, and inventory
+information between manufacturers and their major
+customers.
+
+The measures for supply chain performance were
+adapted from those of Stank et al. (2001), Beamon
+(1999), Devaraj et al. (2007), Neely et al. (1995), Stank
+et al. (2001), and Vickery et al. (2003). Prior studies
+have used a broad range of measures, including cus-
+tomer service, ﬂexibility, delivery, lead time, and efﬁ-
+ciency. In this study, we measured supply chain
+performance with responsiveness to customer needs,
+speed of the supply chain process, delivery perfor-
+mance, and customer service level.
+
+Each measurement item was rated on a 7-point
+Likert scale. For some complicated items, explanations
+were provided to facilitate data collection. The survey
+questions used for this study and the related descrip-
+tive statistics are shown in Table 1. The English
+version of the questionnaire was developed and then
+translated into Chinese by an operations management
+professor in China. The Chinese version was then
+translated back into English by another operations
+management professor. This translated English ver-
+sion was then checked against the original English
+version for accuracy. The Chinese version was used
+in the mainland Chinese cities and a bilingual version
+was used in Hong Kong. Before pre-testing the
+questionnaire, the instrument was carefully examined
+by academics and supply chain executives. At the
+pre-test stage, the questionnaire was sent to a sample
+of 15 companies. We visited these companies and con-
+ducted face-to-face discussions with executives after
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+559
+
+Table 1 Survey Questions and Descriptive Statistics
+
+Survey question
+
+Mean
+
+SD
+
+Loading
+
+Competitive environment: Please indicate the degree to which the following are a current concern
+
+to your company: [1 = strongly disagree, 7 = strongly agree]
+
+International competition:
+IC1: Keen competition in foreign markets
+IC2: Declining demand in foreign markets
+IC3: Excessive supply in foreign markets
+Local competition:
+LC1: Keen competition in the local market
+LC2: Declining demand in the local market
+LC3: Excessive supply in the local market
+Internal information sharing: Please indicate the degree of information sharing in the following
+
+areas: [1 = not at all, 7 = extensive]
+
+3.79
+3.63
+3.69
+
+5.04
+4.39
+4.54
+
+2.12
+2.10
+2.08
+
+1.79
+1.93
+1.84
+
+ISI1: Data integration among internal functions (Data collected from different sources are combined.
+
+4.06
+
+1.84
+
+Users can get a uniﬁed view of these data and query a number of information sources to help
+make decisions or support operations.)
+
+ISI2: Enterprise application integration among internal functions (The integration of different software
+
+3.67
+
+1.88
+
+applications used in different functional units, which enables information sharing and business
+processes integration among units. The integration results in efﬁcient operations and ﬂexible
+delivery of services to customers.)
+
+ISI3: Integrative inventory management (There is a computer system that enables users to make
+
+3.74
+
+1.96
+
+inventory management decision by checking inventory kept in multiple locations and taking into
+consideration the demands from multiple sources.)
+
+ISI4: Real-time searching of logistics-related operating data
+Information sharing with customers: Please indicate the extent of information sharing between your
+
+organization and your major customer in the following areas: [1 = not at all, 7 = extensive]
+
+ISC1: The level of market information shared by our major customer
+ISC2: Our major customer shares point of sales (POS) information with us
+ISC3: Our major customer shares demand forecasts with us
+ISC4: We share our available inventory with our major customer
+Information sharing with suppliers: Please indicate the extent of integration or information sharing
+
+between your organization and your major supplier in the following areas: [1 = not at all, 7 = extensive]
+
+ISS1: Our major supplier shares its production schedules with us
+ISS2: Our major supplier shares its production capacity with us
+ISS3: Our major supplier shares available inventory with us
+ISS4: We share our production plans with our major supplier
+ISS5: We share our demand forecasts with our major supplier
+ISS6: We share our inventory levels with our major supplier
+Supply chain performance: Please indicate the degree to which you agree or disagree with the
+following statements concerning your supply chain (including your suppliers and customers):
+[1 = strongly disagree, 7 = strongly agree]
+
+SCPF1: Our supply chain has the ability to quickly modify products to meet customers’ requirements
+SCPF2: Our supply chain allows us to quickly introduce new products into our markets
+SCPF3: The length of the supply chain process is getting shorter
+SCPF4: We are satisﬁed with the speediness of the supply chain process
+SCPF5: Based on our knowledge of the supply chain process, we think that it is efﬁcient
+SCPF6: Our supply chain has an outstanding on-time delivery record
+SCPF7: Our supply chain provides high-level customer services
+
+4.05
+
+1.82
+
+3.91
+3.90
+4.04
+3.62
+
+3.26
+3.26
+3.17
+3.22
+3.56
+3.17
+
+5.20
+4.64
+4.61
+4.68
+4.74
+5.30
+5.06
+
+1.79
+1.85
+1.83
+1.87
+
+1.78
+1.75
+1.77
+1.82
+1.86
+1.79
+
+1.30
+1.45
+1.27
+1.28
+1.25
+1.27
+1.29
+
+.76
+.84
+.87
+
+.66
+.77
+.71
+
+.74
+
+.80
+
+.82
+
+.67
+
+.67
+.83
+.82
+.74
+
+.88
+.88
+.90
+.90
+.78
+.86
+
+.70
+.63
+.68
+.75
+.77
+.69
+.67
+
+they had ﬁlled out the questionnaire. On the basis of
+their feedback, we revised the questionnaire to make
+it more understandable and relevant to Chinese busi-
+ness practices.
+
+informant
+
+Because a single
+
+from each ﬁrm
+answered all of the survey questions, we checked for
+potential common method bias. An appropriate
+arrangement of the order of questionnaire items can
+reduce respondents’ consistent motives to a certain
+extent and therefore decrease the common method
+bias in self-reporting (Podsakoff and Organ 1986,
+Podsakoff et al. 2003). In the questionnaire design
+
+stage, we adopted different instructions for different
+scales, and the adjacent variables in the conceptual
+model were put in distinct sections. The items com-
+prising the scales used for competitive environment,
+SCIS, and supply chain performance were not highly
+similar in terms of their content, and the respondents
+were also familiar with them. Harman’s one-factor
+test (Hochwarter et al. 2004, Podsakoff and Organ
+1986, Podsakoff et al. 2003) revealed several distinct
+factors for the variables, suggesting that common
+method bias was not an issue. To further assess com-
+mon method bias, conﬁrmatory factor analysis (CFA)
+
+
+560
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+with a single factor was performed (Sanchez and
+Brock 1996). The model’s ﬁt
+indices (chi-square
+(v2) = 6494.72, with degrees of freedom (df) = 405,
+non-normed ﬁt index (NNFI) = 0.71, comparative ﬁt
+index (CFI) = 0.73, root mean square error of approxi-
+mation (RMSEA) = 0.19, and standardized root mean
+square residual (SRMR) = 0.15) were unacceptable
+and signiﬁcantly worse than those of the measure-
+ment CFA model. This suggests that a single factor is
+not appropriate; hence, the level of common method
+bias is low. As a third test of common method bias,
+two measurement models, one that included only the
+traits and one that included the traits and a method
+factor, were tested and compared (Paulraj et al. 2008,
+Podsakoff et al. 2003, Widaman 1985, Williams et al.
+1989). The results of the method factor model only
+marginally improved the model ﬁt
+(RMSEA by
+ 0.006, NNFI by 0.00, CFI by 0.00, SRMR by  0.008),
+with the common method factor accounting for a very
+small variance (Paulraj et al. 2008). In summary, we
+can conclude that common method bias is not an
+issue in this study.
+
+4. Analysis Results
+
+4.1. Respondent Proﬁle
+The respondents held executive positions such as
+CEO/president, supply chain manager, vice presi-
+dent, and director. Among them, 83.2% had been in
+their position for 3 years or more. Thus, the respon-
+dents were familiar with their ﬁrms and had sufﬁcient
+knowledge to complete the survey. The respondent
+ﬁrms covered a wide range of industries (Table 2).
+The highest percentage (25.5%) of companies were
+reported in the metals, mechanical, and engineering
+industries, followed by textiles and apparel industries
+(17.9%). Regarding ﬁrm size, the median number of
+employees was approximately 100 (Table 3). Although
+median annual sales were between HK$10 million
+and HK$20 million, ﬁrms with sales of less than
+HK$5 million accounted for 32% of all reporting
+ﬁrms, and 25% of ﬁrms had annual sales of more than
+HK$50 million. Approximately one third of the com-
+panies were small, with less than 50 employees, one
+third were medium-sized companies with 50–200
+employees, and one third were large-sized companies
+with more than 200 employees. Such a sample repre-
+sents a wide range of companies in China.
+
+To test for non-response bias, we compared physi-
+cal assets, annual sales, number of employees, and all
+variables used in this study between early and late
+responses (Handﬁeld and Bechtel 2002, Lessler and
+Kalsbeek 1992, Stank et al. 2001). No statistical differ-
+ences were found between them at the signiﬁcance
+level of 0.05, suggesting that non-response bias was
+not a major concern.
+
+Table 2 Industry Proﬁle
+
+Industry
+
+Arts and crafts
+Building materials
+Chemicals and petrochemicals
+Electronics and electrical
+Food, beverages, alcohol, and cigars
+Jewelry
+Metals, mechanical, and engineering
+Pharmaceutical and medical
+Publishing and printing
+Rubber and plastics
+Textiles and apparel
+Toys
+Wood and furniture
+Other
+
+Total (N = 617)
+
+12 (1.9%)
+31 (5.0%)
+39 (6.3%)
+81 (13.1%)
+30 (4.9%)
+3 (0.5%)
+157 (25.5%)
+11 (1.8%)
+27 (4.4%)
+41 (6.7%)
+110 (17.9%)
+8 (1.3%)
+12 (1.9%)
+55 (8.9%)
+
+Table 3 Number of Employees and Annual Sales
+
+Employees
+< 50
+50–99
+100–199
+200–499
+500–4999
+5000 or more
+
+Total
+
+(N = 617)
+
+198 (32.1%)
+111 (18.0%)
+100 (16.2%)
+99 (16.0%)
+102 (16.5%)
+7 (1.1%)
+
+Sales
+
+< HK$5 m
+HK$5 m to < $10 m
+HK$10 m to < $20 m
+HK$20 m to < $50 m
+HK$50 m to < $100 m
+HK$100 m or more
+
+Total
+
+(N = 587)
+
+190 (32.4%)
+83 (14.1%)
+73 (12.4%)
+93 (15.8%)
+60 (10.2%)
+88 (15.0%)
+
+4.2. Measurement Development
+
+4.2.1. Unidimensionality and Reliability. A rig-
+orous process was used to develop and validate the
+survey instrument. We followed a two-step method
+to test for construct reliability (Narasimhan and Jaya-
+ram 1998). In the ﬁrst step, exploratory factor analysis
+(EFA) was performed to ensure the unidimensionality
+of the scale items. In the second step, Cronbach’s
+alpha and composite reliability were calculated to
+assess the reliability of each construct.
+
+For EFA, we used principal component analysis to
+determine the main constructs and their related mea-
+surement items and Varimax rotation with Kaiser
+normalization to clarify the factors (Loehlin 1998)
+(Table 4). This resulted in six eigenvalues that were
+larger than 1. The scree test also suggested that using
+six factors was appropriate. The total variance
+explained by these six factors was 69.7%. If an item
+loaded on more than one factor and the difference
+between factor loadings was less than 0.10 across the
+factors, then it was considered to have cross-loadings
+(Jambulingam et al. 2005, Kathuria 2000) and was
+deleted. CFA was used to further validate the factor
+structure. The model ﬁt indices indicated that the
+model was acceptable. Therefore, unidimensionality
+was ensured.
+
+Cronbach’s alpha is a widely accepted measure of
+reliability. The recommended criterion is 0.70 (Hair
+et al. 1998). Table 5 shows that all six Cronbach’s
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+561
+
+alpha values were above 0.75. In addition, we con-
+ducted the corrected item-total correlation (CITC)
+reliability test (Kerlinger 1986) and a composite reli-
+ability test. Table 5 shows that all CITC values were
+larger than 0.50, which was greater than the mini-
+mum acceptable value of 0.30, and all composite
+reliability values are higher than 0.76, which is
+greater than the minimum acceptable value of 0.70.
+Therefore, we concluded that the scales were reli-
+able.
+
+4.2.2. Validity. Validity determines whether a
+scale measures what it is supposed to measure. In this
+
+study, we examined content, convergent, and discri-
+minant validity (Bollen 1989). Content validity was
+established through our extensive literature review,
+feedback received from executives and academics,
+and the pilot test.
+
+CFA was used to test convergent and discriminant
+validity (O’Leary-Kelly and Vokurka 1998). In the
+convergent validity test, each item was linked to its
+corresponding construct, and the covariance among
+the constructs was freely estimated. The model ﬁt
+(v2 = 1570.53, df = 384, RMSEA = 0.074,
+indices
+NNFI = 0.94, CFI = 0.95, SRMR = 0.053)
+indicated
+that the model was acceptable (Hu and Bentler 1999).
+
+Table 4 EFA of the Competitive Environment, SCIS, and Supply Chain Performance
+
+Factor loading
+
+Items*
+
+IS with suppliers
+
+Supply chain performance
+
+Internal IS
+
+International competition
+
+IS with customers
+
+ISS4
+ISS3
+ISS1
+ISS2
+ISS6
+ISS5
+SCPF5
+SCPF4
+SCPF6
+SCPF1
+SCPF7
+SCPF3
+SCPF2
+ISI3
+ISI2
+ISI1
+ISI4
+IC3
+IC2
+IC1
+ISC2
+ISC3
+ISC1
+ISC4
+LC2
+LC3
+LC1
+Eigenvalue
+Total variance explained
+
+0.892
+0.886
+0.867
+0.861
+0.847
+0.762
+0.076
+0.115
+ 0.006
+0.089
+ 0.005
+0.110
+0.145
+0.179
+0.139
+0.205
+0.207
+0.106
+0.056
+0.082
+0.291
+0.283
+0.257
+0.439
+0.020
+0.017
+ 0.031
+5.016
+
+0.074
+0.083
+0.081
+0.101
+0.086
+0.125
+0.795
+0.783
+0.745
+0.733
+0.718
+0.690
+0.657
+0.094
+0.123
+0.166
+0.231
+0.012
+ 0.024
+ 0.030
+0.144
+0.164
+0.097
+0.114
+0.056
+0.065
+0.092
+4.006
+
+0.129
+0.124
+0.164
+0.157
+0.144
+0.136
+0.135
+0.076
+0.015
+0.047
+0.079
+0.163
+0.130
+0.832
+0.808
+0.748
+0.681
+0.053
+0.093
+0.139
+0.105
+0.153
+0.330
+0.178
+ 0.053
+ 0.078
+0.059
+2.785
+
+0.058
+0.025
+0.095
+0.086
+0.052
+0.028
+0.057
+0.074
+ 0.164
+ 0.074
+ 0.149
+0.107
+0.106
+0.127
+0.138
+0.096
+ 0.056
+0.902
+0.884
+0.821
+0.075
+0.049
+0.194
+0.141
+ 0.020
+0.095
+ 0.176
+2.532
+
+69.748%
+
+0.159
+0.185
+0.141
+0.152
+0.193
+0.225
+ 0.040
+ 0.027
+0.123
+0.175
+0.141
+0.034
+0.104
+0.115
+0.137
+0.098
+0.221
+0.091
+0.074
+0.116
+0.816
+0.796
+0.615
+0.613
+ 0.063
+0.023
+0.046
+2.447
+
+Local competition
+
+ 0.007
+0.030
+ 0.040
+ 0.014
+0.000
+0.048
+ 0.003
+0.012
+0.047
+0.073
+0.019
+0.083
+0.053
+ 0.057
+ 0.062
+ 0.039
+0.075
+ 0.015
+0.034
+ 0.121
+ 0.013
+0.019
+0.007
+ 0.015
+0.838
+0.819
+0.787
+2.045
+
+*See Table 1 for the survey questions on the measurement items.
+
+Table 5 Correlation and Reliability Analysis
+
+Construct
+
+Local competition (LC)
+International competition (IC)
+IS with suppliers (ISS)
+Internal IS (ISI)
+IS with customers (ISC)
+Supply chain performance (SCP)
+
+LC
+0.51†
+ 0.08*
+0.01
+ 0.04
+0.01
+0.14**
+
+*p < 0.05; **p < 0.01; †AVE values.
+
+IC
+
+ISS
+
+ISI
+
+ISC
+
+SCP
+
+Cronbach’s alpha
+
+0.68
+0.19**
+0.23**
+0.27**
+0.01
+
+0.75
+0.42**
+0.59**
+0.24**
+
+0.58
+0.49**
+0.33**
+
+0.59
+0.30**
+
+0.50
+
+0.753
+0.862
+0.948
+0.843
+0.845
+0.870
+
+CITC range
+0.551–0.612
+0.693–0.768
+0.755–0.873
+0.599–0.746
+0.602–0.750
+0.591–0.694
+
+Composite reliability
+
+0.76
+0.86
+0.95
+0.85
+0.85
+0.87
+
+
+562
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+In addition, all factor loadings had t-values greater
+than 2.0, and all factor loadings except one (0.45) were
+higher than 0.50, which conﬁrmed the convergent
+validity of the scale (Chau 1997). For discriminant
+validity testing, we built a constrained CFA model for
+each possible pair of latent constructs, in which the
+correlation between the paired constructs was ﬁxed to
+1.0 (O’Leary-Kelly and Vokurka 1998). The results
+were compared with those of the original uncon-
+strained model, in which the correlations were freely
+estimated. A signiﬁcant difference in the chi-square
+statistics between the ﬁxed and unconstrained models
+indicates high discriminant validity (Bagozzi et al.
+1991, Chen and Paulraj 2004). In this study, all 21
+chi-square differences were found to be signiﬁcant at
+the 0.01 level. Therefore, discriminant validity was
+achieved.
+
+4.3. Results
+We used structural equation modeling (SEM) to esti-
+mate the relationships between the constructs, the
+results of which are shown in Figure 2. SEM estimates
+were generated using LISREL 8.54 with the maximum
+likelihood estimation method based on data standard-
+ized. As shown in Table 6, the ﬁt indices for our
+model were v2 = 1782.90, df = 390, RMSEA = 0.079,
+NNFI = 0.93, CFI = 0.94, and SRMR = 0.093, suggest-
+ing that the model is acceptable. Based on the power
+calculation used in MacCullum et al.
+the
+power of this model was close to 1.00. On the basis of
+the results of the structural equation model, we tested
+
+(1996),
+
+Figure 2 Model with Results. *p < 0.10, **p < 0.05, ***p < 0.01,
+
+****p < 0.001.
+
+0.04 
+
+-0. 07 
+
+0.06 
+
+0.08*
+0.29****
+
+0.13***
+
+Local
+
+competition 
+
+International 
+competition 
+
+Competitive 
+Environment 
+
+Information sharing 
+
+with suppliers 
+
+0.47****
+
+0.03 
+
+Internal 
+
+information sharing
+
+0.28****
+
+Supply chain 
+performance 
+
+0.53****
+
+0.19****
+
+Information sharing 
+
+with customers 
+
+Supply Chain 
+
+Information Sharing 
+
+-0.13**
+
+Company 
+
+size
+
+Table 6 Fit Measures of the Overall Model in Figure 2
+
+Measurement
+
+Degrees of freedom
+Minimum ﬁt function chi-square
+Root mean square error of
+approximation (RMSEA)
+
+Non-normed ﬁt index (NNFI)
+Comparative ﬁt index (CFI)
+Power of model analysis
+
+Statistics
+
+390
+1782.90
+0.079
+
+0.93
+0.94
+1.00
+
+Desirable range
+
+ 0.08
+ 0.90
+ 0.90
+ 0.80
+
+Table 7 Results of Hypothesis Testing
+
+Path in the structural model
+
+International
+
+competition ? ISS (H1a)
+
+International
+
+competition ? ISI (H1b)
+
+International
+
+competition ? ISC (H1c)
+
+Local competition ? ISS (H2a)
+Local competition ? ISI (H2b)
+Local competition ? ISC (H2c)
+ISI ? ISS (H3a)
+ISI ? ISC (H3b)
+ISS ? Supply chain performance (H4a)
+ISI ? Supply chain performance (H4b)
+ISC ? Supply chain performance (H4c)
+
+Path coefﬁcient
+
+(t-value)
+0.08* (1.88)
+
+Outcome
+
+Supported
+
+0.29**** (5.99)
+
+Supported
+
+0.13*** (2.94)
+
+Supported
+
+0.04 (1.06)
+ 0.07 ( 1.51)
+0.06 (1.31)
+0.47**** (10.11)
+0.53**** (9.98)
+0.03 (0.55)
+0.28**** (4.34)
+0.19**** (3.32)
+
+Rejected
+Rejected
+Rejected
+Supported
+Supported
+Rejected
+Supported
+Supported
+
+*p < 0.10; ***p < 0.01; ****p < 0.001.
+
+the 11 hypotheses shown in Figure 1. The results are
+summarized in Table 7.
+
+To further investigate the interactive effect of ISS on
+supply chain performance (Hypotheses 5a–d), we
+performed a regression analysis similar to that carried
+out in Devaraj et al. (2007) based on the standardized
+data using two-tailed tests. The results are shown in
+Table 8. In all six models, the dependent variable is
+supply chain performance. Although ISS has a signiﬁ-
+cant effect on supply chain performance in Model 4,
+its effect becomes non-signiﬁcant in Model 5, which
+includes ISC. This suggests that ISS has a signiﬁcant
+inﬂuence on supply chain performance when only ISI
+and ISS are considered, but is not signiﬁcant when all
+three IS variables are considered simultaneously. This
+is consistent with the ﬁndings from the structural
+equation model. Model 6 includes three two-way
+interaction terms and one three-way interaction term.
+The p-value of the change in the F-statistic of this
+model is 0.205, which suggests that the interaction
+effect is non-signiﬁcant. Therefore, hypotheses 5a, 5b,
+5c, and 5d are not supported. We also tested the effect
+of local and international competition and their inter-
+action on SCIS using regression analyses (Table 9);
+the main effects are similar to those of the SEM model
+and the interactive effect is non-signiﬁcant.
+
+4.4. Robustness Tests
+We believe that our ﬁndings are robust because we
+used multiple methods to alleviate concerns about
+non-response bias, common method bias, and mea-
+surement errors. We further used several methods to
+test the robustness of our model. First, we randomly
+selected 50% of the samples and conducted SEM on
+them, and the results were essentially the same. Sec-
+ond, we also conducted regression analyses using
+supply chain performance as the dependent variable,
+and the results (shown in Table 8) support the main
+
+
+Independent
+variable
+
+Constant
+Size
+Industry1
+Industry2
+Industry3
+Region1
+Region2
+Region3
+Region4
+Ownership1
+Ownership2
+Ownership3
+Ownership4
+1. International
+
+competition (IC)
+
+2. Local
+
+competition (LC)
+
+3. IC 9 LC
+4. Internal IS (ISI)
+5. IS with
+
+suppliers (ISS)
+
+6. IS with
+
+customers (ISC)
+
+7. ISS 9 ISI
+8. ISI 9 ISC
+9. ISS 9 ISC
+10. ISS 9 ISI 9 ISC
+R2
+F
+df
+p-value
+Change in R2
+Change in F
+df
+p-value (change)
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+Table 8 Effects of Competitive Environments and SCIS on Supply Chain Performance: OLS Regression Results*
+
+Model 1
+
+ 0.18 (0.066)
+0.12 (0.040)
+ 0.10 (0.075)
+0.10 (0.094)
+ 0.06 (0.088)
+ 0.01 (0.151)
+ 0.04 (0.161)
+ 0.05 (0.139)
+0.28 (0.160)
+0.00 (0.157)
+0.31 (0.154)
+0.35 (0.140)
+0.28 (0.176)
+
+Dependent variable: Supply chain performance
+
+Model 2
+
+ 0.20 (0.068)
+0.12 (0.040)
+ 0.10 (0.075)
+0.08 (0.094)
+ 0.10 (0.089)
+0.02 (0.150)
+0.02 (0.163)
+ 0.04 (0.139)
+0.31 (0.159)
+0.02 (0.158)
+0.32 (0.156)
+0.36 (0.141)
+0.28 (0.177)
+0.10 (0.040)
+
+0.08 (0.038)
+
+0.00 (0.037)
+
+Model 3
+
+ 0.18 (0.064)
+0.01 (0.039)
+ 0.07 (0.070)
+0.08 (0.088)
+0.00 (0.084)
+ 0.09 (0.141)
+ 0.03 (0.152)
+ 0.18 (0.130)
+0.22 (0.149)
+0.09 (0.147)
+0.39 (0.146)
+0.38 (0.132)
+0.38 (0.165)
+0.03 (0.038)
+
+0.08 (0.035)
+ 0.02 (0.035)
+0.34 (0.037)
+
+Model 4
+
+ 0.17 (0.064)
+0.00 (0.039)
+ 0.07 (0.070)
+0.08 (0.087)
+ 0.01 (0.083)
+ 0.08 (0.140)
+ 0.04 (0.151)
+ 0.19 (0.130)
+0.20 (0.149)
+0.08 (0.147)
+0.37 (0.145)
+0.37 (0.131)
+0.37 (0.165)
+0.02 (0.038)
+
+0.08 (0.035)
+ 0.02 (0.034)
+0.31 (0.039)
+0.09 (0.035)
+
+563
+
+Model 6
+
+ 0.19 (0.065)
+0.00 (0.039)
+ 0.07 (0.069)
+0.07 (0.087)
+0.00 (0.083)
+ 0.10 (0.139)
+ 0.09 (0.151)
+ 0.21 (0.129)
+0.14 (0.148)
+0.10 (0.146)
+0.36 (0.144)
+0.38 (0.131)
+0.38 (0.164)
+0.00 (0.038)
+
+Model 5
+
+ 0.15 (0.064)
+0.00 (0.039)
+ 0.07 (0.070)
+0.07 (0.087)
+ 0.02 (0.083)
+ 0.11 (0.139)
+ 0.07 (0.151)
+ 0.21 (0.129)
+0.15 (0.149)
+0.10 (0.146)
+0.38 (0.144)
+0.39 (0.130)
+0.39 (0.164)
+0.00 (0.038)
+
+0.08 (0.035)
+
+0.08 (0.035)
+
+0.00 (0.034)
+0.27 (0.041)
+0.03 (0.039)
+
+0.00 (0.035)
+0.29 (0.046)
+0.02 (0.042)
+
+0.14 (0.044)
+
+0.16 (0.046)
+
+0.080
+4.266
+(12, 591)
+0.000
+–
+–
+–
+
+0.097
+4.205
+(15, 588)
+0.000
+0.017
+3.728
+(3, 588)
+0.011
+
+0.213
+9.948
+(16, 587)
+0.000
+0.116
+86.876
+(1, 587)
+0.000
+
+0.222
+9.835
+(17, 586)
+0.000
+0.009
+6.527
+(1, 586)
+0.011
+
+0.235
+9.965
+(18, 585)
+0.000
+0.013
+9.696
+(1, 585)
+002
+
+0.04 (0.051)
+ 0.02 (0.050)
+0.07 (0.043)
+ 0.03 (0.042)
+0.242
+8.450
+(22, 581)
+0.000
+0.008
+1.486
+(4, 581)
+0.205
+
+*The standard errors for each unstandardized parameter estimate are shown in parentheses. Signiﬁcant parameter estimates and changes in the F-value
+(p  0.05) are set in bold in the models.
+
+conclusions from the structural equation model.
+When we included local and international competi-
+tion and their interaction into this regression analyses,
+the main results concerning the effects of SCIS on per-
+formance remained the same. Third, we also per-
+formed regression analyses using ISI, ISS, and ISC as
+dependent variables and local and international com-
+petition and their interaction as the independent vari-
+ables. The results (shown in Table 9) also support the
+main conclusions from the SEM analyses. Therefore,
+we conclude that our models are robust.
+
+5. Discussion and Managerial
+
+Implications
+
+5.1. The Effect of the Competitive Environment on
+SCIS
+Figure 2 and Table 7 show that international competi-
+tion is positively related to all three types of SCIS, but
+
+that local competition is not signiﬁcantly related to
+any type of SCIS. There are several possible explana-
+tions for this. First, most of the customers and suppli-
+ers of Chinese ﬁrms that deal primarily with local
+competition are likely to be local. Many Chinese com-
+panies do not have advanced information systems
+and process management skills (Pyke et al. 2000,
+2002). Therefore, they do not have high levels of for-
+mal IS via IT systems and they might have alternative
+ways of communicating with local suppliers and cus-
+tomers. For example, they can visit their suppliers
+and customers in person. As guanxi is a very impor-
+tant element in Chinese business relationships (Li
+et al. 2008), IS is often carried out on a personal rela-
+tionship basis rather than through formal systems
+and processes. As our measures mainly capture for-
+mal IS as opposed to informal personal IS, we did not
+ﬁnd a signiﬁcant relationship between local competi-
+tion and SCIS. Many Western customers and suppli-
+ers place a greater emphasis on information systems
+
+
+564
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+Table 9 Effects of Competitive Environments on SCIS: OLS Regression
+
+Results*
+
+Dependent variable
+
+Independent
+variable
+
+Size
+Industry1
+Industry2
+Industry3
+Region1
+Region2
+Region3
+Region4
+Ownership1
+Ownership2
+Ownership3
+Ownership4
+1. International
+
+competition (IC)
+
+2. Local
+
+competition (LC)
+
+3. IC 9 LC
+Adjusted R2
+F
+df
+p-value
+
+IS with
+suppliers
+
+0.24 (0.046)
+ 0.04 (0.088)
+0.02 (0.110)
+ 0.01 (0.104)
+0.00 (0.176)
+0.08 (0.191)
+0.15 (0.163)
+0.13 (0.187)
+0.00 (0.185)
+0.06 (0.183)
+0.04 (0.165)
+0.01 (0.207)
+0.20 (0.047)
+
+0.00 (0.044)
+
+0.02 (0.043)
+0.089
+4.935
+(15, 588)
+0.000
+
+Internal IS
+
+0.33 (0.042)
+ 0.04 (0.079)
+0.00 (0.099)
+ 0.13 (0.093)
+0.15 (0.158)
+0.07 (0.171)
+0.17 (0.146)
+0.13 (0.167)
+ 0.08 (0.166)
+ 0.09 (0.164)
+ 0.03 (0.148)
+ 0.08 (0.186)
+0.21 (0.042)
+ 0.01 (0.040)
+
+0.04 (0.039)
+0.145
+7.829
+(15, 588)
+0.000
+
+IS with
+customers
+
+0.22 (0.043)
+ 0.01 (0.081)
+0.02 (0.101)
+ 0.02 (0.096)
+0.13 (0.161)
+0.14 (0.175)
+0.18 (0.149)
+0.27 (0.171)
+ 0.07 (0.169)
+ 0.03 (0.167)
+ 0.06 (0.151)
+ 0.06 (0.190)
+0.30 (0.043)
+
+0.02 (0.040)
+ 0.07 (0.040)
+0.113
+6.143
+(15, 588)
+0.000
+
+*The standard errors for each standardized parameter estimate are
+shown in parentheses. Signiﬁcant parameter estimates are set in bold in
+the models.
+
+and formal IS mechanisms. They tend to have more
+advanced information systems and often put pressure
+on Chinese manufacturers to develop their own IS
+and participate in formal IS with them. They also tend
+to rely less on informal IS. As a result, Chinese manu-
+facturers feel compelled to invest more in their IS to
+ensure that they can cooperate with their supply
+chain partners in the international market. Therefore,
+international competition often forces Chinese ﬁrms
+to enhance their IS. These ﬁndings are similar in part
+to those of Li et al. (2008), who found that manage-
+ment ties had a positive effect on performance for
+Chinese domestic ﬁrms, whereas the effect repre-
+sented an inverted U-shape for foreign ﬁrms, indicat-
+ing that Chinese domestic ﬁrms are more likely to use
+guanxi than foreign ﬁrms.
+
+Second, IS becomes more important when supply
+chain partners are geographically isolated from one
+another. Timely IS can help ﬁrms to understand the
+market better, which enables them to introduce new
+products into the market in a timely fashion. It also
+helps ﬁrms to reduce lead times, provide better cus-
+tomer service, and achieve good delivery perfor-
+mance. Therefore, ﬁrms that primarily deal with
+international rather than local competition are more
+likely to develop IS.
+
+Third, the level of uncertainty in the international
+market is higher than that in local markets. Because
+
+the transaction costs incurred by ﬁrms conducting
+business in the international market are higher than
+those incurred by ﬁrms engaged in local markets,
+there is a need for the former to undertake more IS
+with supply chain partners to help reduce transaction
+costs.
+
+Finally, because of the many differences among
+countries (e.g., different time zones and languages),
+the need for a common IS platform is critical. For
+example, it might be necessary for an Asian company
+to communicate with an American company using an
+information system, as there is a time difference of
+roughly 12 hours between Asia and North America.
+
+These ﬁndings have signiﬁcant
+
+implications for
+practitioners. Executives need to know when IS is
+needed and what types of IS may be useful. Before
+ﬁrms decide on their SCIS strategies, they should
+consider their competitive environments. For exam-
+ple, ﬁrms that face mainly local competition may not
+need to participate in formal SCIS to the same extent
+as those that face mainly international competition,
+who in turn could be required to participate in all
+three types of SCIS. For companies in China that are
+more engaged in international competition, technolo-
+than guanxi. Also these
+gies are more important
+ﬁrms usually pay greater attention to such advances
+(e.g., information systems) to formally share infor-
+mation with supply chain partners. In contrast, com-
+panies that are mainly engaged in local competition
+pay greater attention to guanxi than technologies to
+informally share information with supply chain part-
+ners, especially when taking into account China’s
+special collectivist culture. Companies facing both
+international and local competition need to work
+hard to improve both technologies and guanxi and
+share information by both formal and informal
+means. Multinational ﬁrms conducting business in
+China need to understand the diversities in cultures
+and operating environments and be ﬂexible in their
+application of IS.
+
+5.2. The Relationships among the Three Types of
+SCIS
+The results presented in Figure 2 and Table 7 show
+that ISI is positively related to IS with both suppliers
+and customers. This suggests that ﬁrms’
+internal
+information sharing across the different functions
+within the ﬁrm is helpful for effective IS with custom-
+ers and suppliers. A quick and reliable internal infor-
+mation ﬂow can help a ﬁrm to extend the ﬂow of
+internal information to its supply chain partners.
+
+Our ﬁndings also provide signiﬁcant managerial
+implications for practitioners. As ISI is important for
+enhancing external IS, a ﬁrm must develop IS through
+investment in information systems that facilitate ISI,
+while it develops its IS capability with its suppliers
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+565
+
+and customers. This is also consistent with Chinese
+guanxi culture. An internal IS guanxi among functions
+can help companies to coordinate external IS guanxi
+among supply chain partners.
+
+5.3. The Inﬂuence of SCIS on Supply Chain
+Performance
+Figure 2 shows that ISI and ISC have a signiﬁcant
+positive inﬂuence on supply chain performance,
+whereas ISS does not. These ﬁndings indicate that it is
+important to integrate information both internally
+and with customers to improve supply chain perfor-
+mance, and these results support the ﬁndings of pre-
+vious studies including Stank et al. (2001), Frohlich
+and Westbrook (2002), and Germain and Iyer (2006).
+Consistent with Stank et al. (2001) and Germain and
+Iyer (2006), this study also shows that the effect of ISI
+on supply chain performance is greater than that of
+ISC, which indicates that ISI is the most important
+driver of supply chain performance.
+
+Our ﬁnding that ISS does not signiﬁcantly inﬂuence
+supply chain performance is somewhat surprising
+and contradicts the ﬁndings of previous studies,
+including Frohlich and Westbrook (2002) and Devaraj
+et al. (2007), which show that upstream supply chain
+integration has a positive inﬂuence on performance.
+However, Devaraj et al. (2007) also reported interac-
+tion effects between supplier and customer integra-
+tion similar to ours.
+
+The difference between our ﬁndings and those of
+previous studies could also be due to several other
+factors. First, Frohlich and Westbrook (2002) and Dev-
+araj et al. (2007) considered only supplier integration
+and customer integration, not internal
+integration.
+This study, however, simultaneously considers ISS,
+ISC, and ISI. The signiﬁcant effect of ISI on perfor-
+mance might inﬂuence the effect of ISS on perfor-
+mance.
+supplier
+integration by both Frohlich and Westbrook (2002)
+and Devaraj et al. (2007) included IS and other forms
+of cooperation, which may greatly enhance perfor-
+mance. Third, both Frohlich and Westbrook (2002)
+and Devaraj et al. (2007) considered the operational
+performance of the focal ﬁrm rather than supply
+chain performance per se, whereas this study mea-
+sures supply chain performance.
+
+items used for
+
+Second,
+
+the
+
+Our ﬁndings have signiﬁcant managerial implica-
+tions. When executives are constrained by resources
+and have to set priorities for their IS efforts, they
+should invest in ISI and ISC because of their signiﬁ-
+cant direct effects on supply chain performance. ISS
+should be accorded the lowest priority, as it does
+not have a direct effect on supply chain perfor-
+mance.
+
+In emerging economies such as China, supply chain
+management is more difﬁcult than in developed econ-
+
+omies. In the latter, companies have developed inter-
+nal operation management capabilities that can be
+extended to the management of supply chain part-
+ners. However, in the former, focal ﬁrms are simulta-
+neously developing internal operations capabilities
+and external management capabilities related to their
+supply chain partners. This can be difﬁcult for those
+companies that have a low level of internal operations
+management.
+
+6. Conclusions and Limitations
+
+This study investigates the relationships among
+two dimensions of
+the competitive environment,
+three types of SCIS, and supply chain performance
+using data collected from 617 manufacturing ﬁrms
+in China, and makes signiﬁcant contributions to
+both theory and practice. The major contributions
+are as follows.
+
+First, this is the ﬁrst study to investigate the com-
+petitive environment and SCIS using a large data set
+from China. We found that international competition
+is positively related to internal, customer, and sup-
+plier IS, whereas local competition is not related to
+any of the three types of SCIS. This study also
+enriches the literature on the relationship between
+competitive environment and supply chain manage-
+ment by showing the different effects of local and
+international competition on SCIS in China. China is
+now playing an increasingly important role in the glo-
+bal economy, and as such it is important for both aca-
+demicians and practitioners
+to understand the
+dynamics of the Chinese competitive environment.
+Zhao et al. (2006, 2007) pointed out that high-quality
+research regarding China will become more critical as
+China becomes a more signiﬁcant player in the global
+economy. This study provides timely insights into
+supply chain management in the Chinese competitive
+environment.
+
+Second, the study also enhances the literature on
+the effects of SCIS on performance by examining the
+simultaneous effects of internal, customer, and sup-
+plier IS. Whereas most previous SCIS studies use a
+modeling or simulation research method to examine
+only one or two types of information shared in one
+direction along a two-level supply chain, this study
+investigates the effects of three different types of bilat-
+eral IS along three-level supply chains. Our ﬁndings
+concerning the effects of ISS are signiﬁcantly different
+from those of previous studies. The ﬁndings from this
+study deepen our understanding of how the three
+types of SCIS inﬂuence supply chain performance.
+The empirical research method used in this study also
+supplements the extant modeling and simulation
+procedures used in the SCIS ﬁeld (Fisher 2007, Roth
+2007).
+
+
+566
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+Finally, this study contributes to SCIS practices.
+Executives can use the ﬁndings to select the most
+effective approach of SCIS in different competitive
+environments. They can also see how different types
+of SCIS inﬂuence supply chain performance.
+
+Although this study makes both theoretical and
+practical contributions, it also has a number of limita-
+tions and thus we suggest avenues for further
+research. First, as we limited our investigation to the
+effects of two dimensions of the competitive environ-
+ment on SCIS, the ambit of future studies could be
+widened to include alternative dimensions. In addi-
+tion to competitive environment variables, factors
+such as inter-organizational relationships may also
+inﬂuence SCIS. Future research could focus on identi-
+fying other enablers of SCIS and examine their effects.
+Second, although it is important to understand the
+relationships among the competitive environment,
+SCIS, and supply chain performance in China,
+whether the ﬁndings from this study can be general-
+ized to other countries is questionable, as the data
+were from a single country. Future research could test
+and validate the model in other countries to assess its
+generalizability. Cross-cultural investigations of infor-
+mation sharing mechanisms (such as formal informa-
+tion systems vs. informal human interactions) and
+how they inﬂuence supply chain performance in dif-
+ferent competitive environments might reveal inter-
+esting differences in IS behavior and their effect on
+supply chain performance. Third, cross-sectional data
+were collected from only one respondent
+in this
+study. Future studies could investigate the causal
+relationships among the competitive environment,
+SCIS, and supply chain performance using longitudi-
+nal data from multiple respondents. Fourth, the rela-
+tionship among competitive environments, SCIS, and
+performance is complex and may be non-linear.
+Future research could explore alternative models to
+determine the relationships among environment,
+SCIS, and performance.
+
+Acknowledgments
+
+The authors greatly appreciate the anonymous reviewers
+for their valuable and helpful suggestions to improve the
+article. The research is supported by Natural Science Foun-
+dation of China (71090403/71090400 and 70902069). This
+study described in this paper was also substantially sup-
+ported by a General Research Fund grant from the Research
+Grants Council of Hong Kong (project #: CUHK455009). It
+was also supported by the Centre for Supply Chain Man-
+agement & Logistics, Li & Fung Institute of Supply Chain
+Management & Logistics, Chinese University of Hong
+Kong, and the Institute of Supply Chain Integration and Ser-
+vice Innovation, South China University of Technology.
+Xiande Zhao is the corresponding author. All authors con-
+tributed equally to the article.
+
+References
+Aeppel, T. 2008. Stung by soaring transport costs, factories bring
+
+jobs home again. Wall St. J. June 13, A1.
+
+Amoako-Gyampah, K. 2003. The relationships among selected
+factors and manufacturing strategy:
+
+business environment
+Insights from an emerging economy. Omega 31(4): 287–301.
+
+Amoako-Gyampah, K., S. S. Boye. 2001. Operations strategy in an
+emerging economy: The case of the Ghanaian manufacturing
+industry. J. Oper. Manag. 19(1): 59–79.
+
+Areddy, J. T. 2008. China’s export machine threatened by rising
+
+costs. Wall St. J. June 30, A1.
+
+Attaran, M. 1989. The automated factory: Justiﬁcation and imple-
+
+mentation. Bus. Horizons 32(3): 80–86.
+
+Aviv, Y. 2001. The effect of collaborative forecasting on supply
+
+chain performance. Manage. Sci. 47(10): 1326–1333.
+
+Badri, M. A., D. Davis, D. Davis. 2000. Operations strategy, envi-
+ronmental uncertainty and performance: A path analytic
+model of industries in developing countries. Omega 28(2):
+155–173.
+
+Bagozzi, R. P., Y. Yi, L. W. Phillips. 1991. Assessing construct
+validity in organizational research. Admin. Sci. Quart. 36(3):
+421–458.
+
+Balakrishnan, S., B. Wernerfelt. 1986. Technical change, competi-
+tion and vertical integration. Strateg. Manage. J. 7(4): 347–359.
+Beamon, B. M. 1999. Measuring supply chain performance. Int. J.
+
+Oper. Prod. Man. 19(3): 275–292.
+
+Bollen, K. A. 1989. Structural Equations with Latent Variables. John
+
+Wiley & Sons, New York.
+
+Braunscheidel, M. J., N. C. Suresh. 2009. The organizational ante-
+cedents of a ﬁrm’s supply chain agility for risk mitigation
+and response. J. Oper. Manag. 27(2): 119–140.
+
+Byrne, P. J., C. Heavey. 2006. The impact of information sharing
+and forecasting in capacitated industrial supply chains: A
+case study. Int. J. Prod. Econ. 103(1): 401–437.
+
+Cachon, G. P., M. Fisher. 2000. Supply chain inventory manage-
+ment and the value of shared information. Manage. Sci. 46(8):
+1032–1048.
+
+Cachon, G., M. A. Lariviere. 2001. Contracting to assure supply:
+How to share demand forecasts in a supply chain. Manage.
+Sci. 47(5): 629–646.
+
+Cao, Q., S. Dowlatshahi. 2005. The impact of alignment between
+virtual enterprise and information technology on business
+performance in an agile manufacturing environment. J. Oper.
+Manag. 23(5): 531–550.
+
+Carr, A. S., H. Kaynak. 2007. Communication methods, informa-
+tion sharing, supplier development and performance. Int. J.
+Oper. Prod. Man. 27(4): 346–370.
+
+Cavusoglu, H., H., Cavusoglu, S., Raghunathan. 2012. Value of
+and interaction between production postponement and infor-
+mation sharing strategies for supply chain ﬁrms. Prod. Oper.
+Manag. 21(3): 470–488.
+
+Chatﬁeld, D. C., J. G. Kim, T. P. Harrison, J. C. Hayya. 2004. The
+bullwhip effect—Impact of stochastic lead time, information
+quality, and information sharing: A simulation study. Prod.
+Oper. Manag. 13(4): 340–353.
+
+Chau, P. Y. K. 1997. Reexamining a model for evaluating informa-
+tion center success using a structural equation modeling
+approach. Decision Sci. 28(2): 309–334.
+
+Chen, I. J., A. Paulraj. 2004. Towards a theory of supply chain
+J. Oper.
+
+management: The constructs and measurements.
+Manag. 22(2): 119–150.
+
+Chiang, W. K., Y. Feng. 2007. The value of information sharing in
+the presence of supply uncertainty and demand volatility. Int.
+J. Prod. Res. 45(6): 1429–1447.
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+567
+
+Chin-Chun, H., V. R. Kannan, K. C. Tan, G. K. Leong. 2008. Infor-
+mation sharing, buyer-supplier relationships, and ﬁrm perfor-
+mance. Int. J. Phys. Distrib. Logist. Man. 38(4): 296–310.
+
+Hu, L., P. M. Bentler. 1999. Cutoff criteria for ﬁt indices in covari-
+ance structure analysis: Conventional criteria versus new
+alternatives. Struct. Equ. Modeling 6(1): 1–55.
+
+Chwelos, P., I. Benbasat, A. S. Dexter. 2001. Research report:
+Empirical test of an EDI adoption model. Inform. Syst. Res.
+12(3): 304–321.
+
+Huo, B., W. Selen, J. Yeung, X. Zhao. 2008. Understanding drivers
+of performance in the 3PL industry in Hong Kong. Int. J.
+Oper. Prod. Man. 28(8): 772–800.
+
+Dasgupta, S., D. Agarwal, A. Ioannidis, S. Gopalakrishnan. 1999.
+Determinants of information technology adoption: An exten-
+sion of existing models to ﬁrms in a developing country. J.
+Glob. Inf. Manag. 7(3): 30–40.
+
+Devaraj, S., L. Krajewski, J. C. Wei. 2007. Impact of eBusiness
+technologies on operational performance: The role of produc-
+tion information integration in the supply chain. J. Oper.
+Manag. 25(6): 1199–1216.
+
+Dodge, H. R., S. Fullerton, J. E. Robbins. 1994. Stage of the organiza-
+tional life cycle and competition as mediators of problem per-
+ception for small businesses. Strateg. Manag. J. 15(2): 121–134.
+
+Droge, C., J. Jayaram, S. K. Vickery. 2004. The effects of internal
+versus external
+integration practices on time-based perfor-
+mance and overall ﬁrm performance. J. Oper. Manag. 22(6):
+557–573.
+
+Ebrahim-Khanjari, N., W. Hopp, S. M. R. Iravani. 2012. Trust and
+information sharing in supply chains. Prod. Oper. Manag.
+21(3): 444–464.
+
+Ferguson, M., M. E. Ketzenberg. 2006. Information sharing to
+improve retail product freshness of perishables. Prod. Oper.
+Manag. 15(1): 57–73.
+
+Fisher, M. 2007. Strengthening the empirical base of operations
+
+management. M&Som-Manuf. Serv. Op. 9(4): 368–382.
+
+Flynn, B. B., B. Huo, X. Zhao. 2010. The impact of supply chain
+integration on performance: A contingency and conﬁguration
+approach. J. Oper. Manag. 28(1): 58–71.
+
+Frohlich, M. T., R. Westbrook. 2001. Arcs of integration: An inter-
+national study of supply chain strategies. J. Oper. Manag.
+19(2): 185–200.
+
+Frohlich, M. T., R. Westbrook. 2002. Demand chain management
+in manufacturing and services: Web-based integration, drivers
+and performance. J. Oper. Manag. 20(6): 729–745.
+
+Gavirneni, S. 2006. Price ﬂuctuations, information sharing, and
+supply chain performance. Eur. J. Oper. Res. 174(3): 1651–
+1663.
+
+Gavirneni, S., R. Kapuscinski, S. Tayur. 1999. Value of information
+
+in capacitated supply chains. Manage. Sci. 45(1): 16–24.
+
+Germain, R., K. N. S. Iyer. 2006. The interaction of internal and
+downstream integration and its association with performance.
+J. Bus. Logist. 27(2): 29–53.
+
+Ha, A., S. Tong. 2008. Contracting and information sharing under
+
+supply chain competition. Manage. Sci. 54(4): 701–715.
+
+Hair, J. F., R. E. Anderson, R. L. Tatham, W. C. Black. 1998. Multi-
+
+Jain, A., S. Seshadri, M. Sohoni. 2011. Differential pricing for
+information sharing under competition. Prod. Oper. Manag.
+20(2): 235–252.
+
+Jambulingam, T., R. Kathuria, W. Doucette. 2005. Entrepreneurial
+orientation as a basis for classiﬁcation within a service indus-
+try: The case of retail pharmacy industry. J. Oper. Manag. 23
+(1): 23–42.
+
+Jiang, B., R. C. Baker, G. V. Frazier. 2009. An analysis of job
+dissatisfaction and turnover
+supply
+chain risk: Evidence from China. J. Oper. Manag. 27(2): 169–
+184.
+
+reduce global
+
+to
+
+Jiang, B., G. V. Frazier, D. Heiser. 2007. China-related POM
+research: A literature review and suggestions for future
+research. Int. J. Oper. Prod. Man. 27(7): 662–684.
+
+Kathuria, R. 2000. Competitive priorities and managerial perfor-
+mance: A taxonomy of small manufacturers. J. Oper. Manag.
+18(6): 627–641.
+
+Kerlinger, F. 1986. Foundations of Behavioral Research. Holt, Rine-
+
+hart, and Winston, New York.
+
+Kim, S. W., R. Narasimhan. 2002. Information system utilization
+in supply chain integration efforts. Int. J. Prod. Res. 40(18):
+4585–4609.
+
+King, W. R., T. S. H. Teo. 1997. Integration between business plan-
+ning and information systems planning: Validating a stage
+hypothesis. Decision Sci. 28(2): 279–308.
+
+Krause, D. R., R. B. Handﬁeld, B. B. Tyler. 2007. The relationships
+between supplier development, commitment, social capital
+accumulation and performance improvement. J. Oper. Manag.
+25(2): 528–545.
+
+Kumar, S., B. Kadow, M. Lamkin. 2011. Challenges with the intro-
+duction of radio-frequency identiﬁcation systems into a man-
+ufacturer’s supply chain—A pilot study. Lect. Notes Bus. Inf. 5
+(2): 235–253.
+
+Kumar, K., H. G. van Dissel. 1996. Sustainable collaboration: Man-
+aging conﬂict and cooperation in interorganizational systems.
+MIS Quart. 20(3): 279–300.
+
+Lane, P., B. Koka, S. Pathak. 2006. The reiﬁcation of absorptive
+capacity: A critical review and rejuvenation of the construct.
+Acad. Manage. Rev. 31(4): 833–863.
+
+Lee, H., K. So, C. Tang. 2000. The value of information sharing in
+
+a two-level supply chain. Manage. Sci. 46(5): 626–643.
+
+Lee, H. L., V. Padmanabhan, S. Whang. 1997. The bullwhip effect
+
+in supply chains. Sloan Manage. Rev. 38(3): 93–102.
+
+variate Data Analysis. Prentice Hall, Upper Saddle River, NJ.
+
+Lee,
+
+Hamel, G. 1991. Competition for competence and inter-partner
+learning within international strategic alliances. Strateg. Man-
+age. J. 12(S1): 83–103.
+
+Handﬁeld, R. B., C. Bechtel. 2002. The role of trust and relation-
+ship structure in improving supply chain responsiveness. Ind.
+Market. Manag. 31(4): 367–382.
+
+Hillebrand, B., W. G. Biemans. 2003. The relationship between
+internal and external cooperation: Literature review and prop-
+ositions. J. Bus. Res. 56(9): 735–743.
+
+Hillebrand, B., W. G. Biemans. 2004. Links between internal and
+external cooperation in product development: An exploratory
+study. J. Prod. Innovat. Manag. 21(2): 110–122.
+
+Hochwarter, W. A., M. James, D. Johnson, F. R. Ferris. 2004. The
+interactive effects of politics perceptions and trait cynicism on
+work outcomes. J. Leadership. Organ. ST. 10(4): 44–57.
+
+J. Y., M. Swink, T. Pandejpong. 2011. The roles of
+worker expertise,
+information sharing quality, and psycho-
+logical safety in manufacturing process innovation: An intel-
+lectual capital perspective. Prod. Oper. Manag. 20(4): 556–
+570.
+
+Lessler, J., W. Kalsbeek. 1992. Nonsampling Error in Surveys. John
+
+Wiley & Sons, New York.
+
+Li, J., L. Poppo, K. Zhou. 2008. Do managerial ties in China
+always produce value? Competition, uncertainty, and domes-
+tic vs. foreign ﬁrms. Strateg. Manage. J. 29(4): 383–400.
+
+Li, J., R. Sikora, M. J. Shaw, G. W. Tan. 2006. A strategic analysis
+information sharing. Decis. Support
+
+inter organizational
+
+of
+Syst. 42(1): 251–266.
+
+Li, L. 2000. An analysis of the sources of competitiveness and per-
+formance of Chinese manufacturers. Int. J. Oper. Prod. Manag.
+20(3): 299–315.
+
+
+568
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+Li, L. 2005. Assessing intermediate infrastructural manufacturing
+decisions that affect a ﬁrm’s market performance. Int. J. Prod.
+Res. 43(12): 2537–2552.
+
+Li, L. 2006. The effects of information technology implementation
+on supply chain collaboration. Int. J. Internet Enterp. Manage.
+4(2): 118–134.
+
+Li, Z., L. Gao. 2008. The effects of sharing upstream information
+
+on product rollover. Prod. Oper. Manag. 17(5): 522–531.
+
+Li, L., Q. Su, X. Chen. 2011. Ensuring supply chain quality perfor-
+mance through applying SCOR model. Int. J. Prod. Res. 49(1):
+33–57.
+
+Li, S., S. S. Rao, T. S. Ragu-Nathan, B. Ragu-Nathan. 2005. Devel-
+opment and validation of a measurement
+for
+studying supply chain management practices. J. Oper. Manag.
+23(6): 618–641.
+
+instrument
+
+Loehlin, J. C. 1998. Latent Variable Models (3rd edn.). Lawrence Erl-
+
+baum, Hillsdale, NJ.
+
+Lovett, S., L. C. Simmons, R. Kali. 1999. Guanxi versus the mar-
+
+ket: Ethics and efﬁciency. J. Int. Bus. Stud. 30(2): 231–248.
+
+MacCullum, R. C., M. W. Browne, H. M. Sugawara. 1996. Power
+analysis and determination of sample size for covariance
+structure modeling. Psychol. Methods 1(2): 130–149.
+
+Mishra, B. K., S. Raghunathan, X. Yue. 2007. Information sharing
+in supply chains: Incentives for information distortion. IIE
+Trans. 39(9): 863–877.
+
+Morash, E. A., S. R. Clinton. 1998. Supply chain integration: Cus-
+tomer value through collaborative closeness versus opera-
+tional excellence. J. Marketing Theory Pract. 6(4): 104–120.
+
+Nahm, A., M. Vonderembse, X. Koufteros. 2003. The impact of
+organizational structure on time-based manufacturing and
+plant performance. J. Oper. Manag. 21(3): 281–306.
+
+Narasimhan, R., J. Jayaram. 1998. Causal linkages in supply chain
+management: An exploratory study of North American man-
+ufacturing ﬁrms. Decision Sci. 29(3): 579–605.
+
+Narasimhan, R., S. W. Kim. 2002. Effect of supply chain integra-
+tion on the relationship between diversiﬁcation and perfor-
+mance: Evidence from Japanese and Korean ﬁrms. J. Oper.
+Manag. 20(3): 303–323.
+
+Neely, A., M. Gregory, K. Platts. 1995. Performance measurement
+
+system design. Int. J. Oper. Prod. Man. 15(4): 80–116.
+
+Niu, N., M., Jin, J., Cheng. 2011. A case study of exploiting enter-
+prise resource planning requirements. Lect. Notes Bus. Inf.
+5(2): 183–206.
+
+O’Leary-Kelly, S. W., R. J. Vokurka. 1998. The empirical assess-
+
+ment of construct validity. J. Oper. Manag. 16(4): 387–405.
+
+Olorunniwo, F. O., X. Li. 2010. Information sharing and collabora-
+tion practices in reverse logistics. Supply Chain Manag. 15(6):
+454–462.
+
+Paulraj, A., A. Lado, J. Chen. 2008. Inter-organizational communi-
+cation as a relational competency: Antecedents and perfor-
+mance outcomes in collaborative buyer-supplier relationships.
+J. Oper. Manag. 26(1): 45–64.
+
+Podsakoff, P. M., S. B. MacKenzie, J. Y. Lee, N. P. Podsakoff.
+2003. Common method bias in behavioral research: A critical
+review of the literature and recommended remedies. J. Appl.
+Psychol. 88(5): 879–903.
+
+Podsakoff, P. M., D. W. Organ. 1986. Self-reports of organiza-
+J. Manage. 12(4):
+
+tional research: Problems and prospects.
+531–544.
+
+Powell, B. 2008. China’s at-risk factories. Time, April 28, Global
+
+Bus. 171(17): 13–14.
+
+Prajogo, D., J. Olhager. 2012. Supply chain integration and perfor-
+mance: The effects of long-term relationships,
+information
+technology and sharing, and logistics integration. Int. J. Prod.
+Econ. 135(1): 514–522.
+
+Pyke, D., J. Farley, D. Robb. 2002. Manufacturing technology and
+operations in China: A survey of state-owned enterprises, pri-
+vate ﬁrms, joint ventures and wholly-owned foreign subsidi-
+aries. Eur. Manage. J. 20(4): 356–375.
+
+Pyke, D., D. Robb, J. Farley. 2000. Manufacturing and supply
+chain management in China: A survey of state-, collective-,
+and privately-owned enterprises. Eur. Manage. J. 18(6): 577–
+589.
+
+Roth, A. V. 2007. Applications of empirical science in manufactur-
+ing and service operations. M&Som-Manuf. Serv. Op. 9(4):
+353–367.
+
+Sanchez, J. I., P. Brock. 1996. Outcomes of perceived discrimina-
+tion among Hispanic employees: Is diversity management a
+luxury or a necessity? Acad. Manage. J. 39(3): 704–719.
+
+Schlie, T.,
+
+J. Goldhar. 1995. Advanced manufacturing and
+new directions for competitive strategy. J. Bus. Res. 33(2): 103–
+114.
+
+Small, M. 1999. Assessing manufacturing performance: An
+advanced manufacturing technology portfolio perspective.
+Ind. Manage. Data Syst. 99(6): 256–267.
+
+Stank, T. P., S. B. Keller, D. J. Closs. 2001. Performance beneﬁts of
+
+supply chain integration. Transport. J. 41(2): 31–46.
+
+Teece, D. J., G. Pisano, A. Shuen. 1997. Dynamic capabilities and
+
+strategic management. Strateg. Manage. J. 18(7): 509–533.
+
+Teo, H. H., K. K. Wei, I. Benbasat. 2003. Predicting intention to
+adopt interorganizational linkages: An institutional perspec-
+tive. MIS Quart. 27(1): 19–49.
+
+Vickery, S. K., J. Jayaram, C. Doge, R. Calantone. 2003. The effects
+of an integrative supply chain strategy on customer service
+and ﬁnancial performance: An analysis of direct versus indi-
+rect relationships. J. Oper. Manag. 21(5): 523–539.
+
+Wakolbinger, T., J. M. Cruz. 2011. Supply chain disruption risk
+management through strategic information acquisition and
+sharing and risk-sharing contracts. Int. J. Prod. Res. 49(13):
+4063–4084.
+
+Wang, Q., B., Huo, F., Lai, Z., Chu. 2010. Understanding perfor-
+mance drivers of third-party logistics providers in mainland
+China: A replicated and comparative study. Ind. Manage. Data
+Syst. 110(9): 1273–1296.
+
+Ward, P., H. Zhou. 2006. Impact of information technology inte-
+gration and lean/just-in-time practices on lead-time perfor-
+mance. Decision Sci. 37(2): 177–203.
+
+Ward, P. T., R. Duray, K. Leong, C. C. Sum. 1995. Business
+environment, operations strategy and performance: An empir-
+ical study of Singapore manufacturers. J. Oper. Manag. 13(2):
+99–115.
+
+Widaman, K. 1985. Hierarchically nested covariance structure
+models for multitrait-multimethod data. Appl. Psych. Meas.
+9(1): 1–26.
+
+Williams, L. J., J. A. Cote, M. R. Buckley. 1989. Lack of method
+variance in self-reported affect and perceptions at work: Real-
+ity or artifact. J. Appl. Psychol. 74(3) 462–468.
+
+Xin, K. R., J. L. Pearce. 1996. Guanxi: Connections as substitutes
+for formal institutional support. Acad. Manage. J. 39(6): 1641–
+1658.
+
+Xu, L. 2011. Information architecture for supply chain quality
+
+management. Int. J. Prod. Res. 49(1): 183–198.
+
+Yee, T. 2005. Impact analysis of customized demand information
+sharing on supply chain performance. Int. J. Prod. Res. 43(16):
+3353–3373.
+
+Zdravkovic, M., H. Panetto, M. Trajanovic, A. Aubry. 2011. An
+approach for formalising the supply chain operations. Lect.
+Notes Bus. Inf. 5(4): 401–421.
+
+Zhou, H., W. C. Jr Benton. 2007. Supply chain practice and
+
+information sharing. J. Oper. Manag. 25(6): 1348–1365.
+
+
+Huo, Zhao, and Zhou: Competitive Environment and Information Sharing
+Production and Operations Management 23(4), pp. 552–569, © 2013 Production and Operations Management Society
+
+569
+
+Zhao, X., B. B. Flynn, A. V. Roth. 2006. Decision Sciences research
+in China: A critical review and research agenda—Foundations
+and overview. Decision Sci. 37(4): 451–496.
+
+Zhao, X., B. Huo, W. Selen, J. Yeung. 2011. The impact of relation-
+ship commitment and internal integration on external integra-
+tion. J. Oper. Manag. 29(1–2): 17–32.
+
+Zhao, X., B. B. Flynn, A. V. Roth. 2007. Decision Sciences research
+in China: Current status, opportunities and propositions for
+research in logistics, supply chain management and quality
+management. Decision Sci. 38(1): 39–80.
+
+Zhao, X., B. Huo, B. B. Flynn, J. Yeung. 2008. The impact of power
+and relationship commitment on the integration between
+J. Oper.
+manufacturers and customers in a supply chain.
+Manag. 26(3): 368–388.
+
+Zhao, X., J. Xie. 2002. Forecasting errors and the value of informa-
+tion sharing in a supply chain. Int. J. Prod. Res. 40(2): 311–335.
+Zhao, X., J., Xie, J., Leung. 2002a. The impact of forecasting model
+selection on the value of information sharing in a supply
+chain. Eur. J. Oper. Res. 142(2): 321–344.
+
+Zhao, X., J. Xie, W. J. Zhang. 2002b. The impact of information
+sharing and ordering co-ordination on supply chain perfor-
+mance. Supply. Chain. Manag. 7(1): 24–40.
+

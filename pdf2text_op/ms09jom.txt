@@ -1,0 +1,2413 @@
+Journal of Operations Management 27 (2009) 324–338
+
+Contents lists available at ScienceDirect
+
+Journal of Operations Management
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j o m
+
+In union lies strength: Collaborative competence in new product
+development and its performance effects
+
+Anant A. Mishra 1, Rachna Shah *
+
+Carlson School of Management, University of Minnesota, 321 Nineteenth Avenue South, Minneapolis, MN 55455-0438, United States
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 23 January 2007
+Received in revised form 7 October 2008
+Accepted 9 October 2008
+Available online 22 October 2008
+
+Keywords:
+Collaborative competence
+Product development
+Resource based view
+Complementarity theory
+Structural equations modeling
+
+It is widely recognized that new product development (NPD) is a highly interdependent
+process, yet efforts to empirically model the interdependence and examine its effect on
+ﬁrm performance are scarce. Our study addresses this research gap. We model ﬁrms’
+abilities to collectively collaborate with suppliers, customers, and internal employee
+teams in NPD as collaborative competence and examine its impact on project and market
+performance. Using responses collected from 189 NPD managers, we ﬁnd empirical
+evidence for collaborative competence and its differential impact on project and market
+performance. Speciﬁcally, we ﬁnd that collaborative competence has a direct impact on
+project performance, but its impact on market performance is indirect, mediated through
+project performance. The results have signiﬁcant managerial implications; achieving
+superior market performance from inter- and intra-organizational
+involvement is
+contingent on achieving superior project performance, and companies that fail to achieve
+desired project performance outcomes will also fail in achieving market performance
+goals.
+
+Published by Elsevier B.V.
+
+1. Introduction
+
+New product development (NPD) is a key source of
+competitive advantage for individual ﬁrms (Verona, 1999).
+Successful NPD requires ﬁrms to develop routines and
+practices to collaborate with suppliers, customers, and
+internal cross-functional employee teams. While some
+ﬁrms are able to involve key suppliers in their NPD
+endeavors, others are more effective in collaborating with
+customers. Still others develop expertise in leveraging
+advantages garnered from involving their own employees
+in product development teams. Few ﬁrms, however,
+develop the competence to engage suppliers, customers,
+and internal employees simultaneously in their NPD
+
+* Corresponding author. Tel.: +1 612 624 4432; fax: +1 612 624 8804.
+
+E-mail addresses: mish0049@umn.edu (A.A. Mishra),
+
+shahx024@umn.edu (R. Shah).
+
+1 Tel.: +1 612 626 9761; fax: +1 612 624 8804.
+
+0272-6963/$ – see front matter . Published by Elsevier B.V.
+doi:10.1016/j.jom.2008.10.001
+
+projects. We believe that the ability to simultaneously
+collaborate with suppliers, customers, and cross-func-
+tional teams in NPD is a valuable – yet rare – ﬁrm level
+capability. We label it collaborative competence in this
+study.
+
+The notion that focal ﬁrms need to integrate externally
+with their suppliers and customers and internally across
+different functions to achieve NPD success is not a new
+idea; it has a rich history in the organizational strategy
+(Bajaj et al., 2004; Grant, 1996; Bensaou and Venkatraman,
+1995; Kogut and Zander, 1992) and supply chain literature
+(Frohlich and Westbrook, 2001; Hammel and Kopczak,
+1993). Frohlich and Westbrook (2001) demonstrate
+empirically that ﬁrms with the widest arc of integration
+(i.e., ﬁrms that integrate both suppliers and customers into
+the activities of
+the focal ﬁrm) have the strongest
+association with performance improvement as compared
+to ﬁrms that integrate only suppliers or only customers.
+The practitioner literature also highlights the superior
+performance beneﬁts of simultaneously involving multiple
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+325
+
+stakeholders in the NPD process (e.g., Carlile, 2004;
+Orlikowski, 2002). Despite the increased attention to
+collaboration in academic and practitioner literature, there
+is relatively little rigorous empirical research identifying
+the managerial actions and mechanisms that underlie
+collaborative competence.
+
+In this study, we deﬁne collaborative competence as the
+ability to simultaneously involve key stakeholders in the
+NPD process and examine its effect on performance. We
+begin by developing a conceptual foundation for the
+underlying dimensional structure of collaborative compe-
+tence by identifying three sets of collaborative practices
+related to suppliers, customers, and internal cross-func-
+tional employee teams. Following this, we empirically
+examine whether the three sets of collaborative practices
+indeed constitute collaborative competence in an NPD
+context. To quantify the performance beneﬁts associated
+with collaborative competence, we operationalize perfor-
+mance as project performance and market performance. We
+investigate direct effects of collaborative competence on
+project and market performance and also test for the
+mediating role of project performance between collabora-
+tive competence and market performance. Complemen-
+tarity theory and resource-based view (RBV) provide the
+theoretical grounding for our investigation.
+
+We use project level data collected from 189 manu-
+facturing plants in three industries and six countries to test
+our conceptual framework linking collaborative compe-
+tence with project and market performance. Our results
+make three contributions to the literature. First, by
+empirically modeling the interdependencies among col-
+laborative practices, we accurately replicate the highly
+interdependent nature of
+the product development
+process. Our second contribution lies in demonstrating
+that collaborative competence has a different impact on
+project and market performance measures; our results
+indicate that collaborative competence has a strong direct
+effect on project performance and an indirect effect on
+market performance, mediated by project performance. A
+third contribution of our research is related to the
+generalizability of empirical results obtained from using
+a multi-industry, multi-country sample. As a set, our
+results extend our understanding of the role of collabora-
+tion in NPD process and its speciﬁc links with performance.
+The rest of the paper is organized in the following
+manner. In Sections 2 and 3, we review the existing NPD
+literature related to collaborative practices and present
+three research hypotheses. In Section 4, we describe the
+research design and measures. Section 5 outlines the
+empirical methods we use to evaluate the hypotheses and
+results followed by Section 6, in which we discuss our
+ﬁndings and their implications for research and practice.
+Finally, limitations and future research ideas are outlined
+in Section 7.
+
+2. Collaboration in NPD
+
+The literature on collaboration in NPD has a rich history
+with the information processing theory (IPT) (Galbraith,
+1977; Tushman and Nadler, 1978; Daft and Lengel, 1986)
+serving as the primary theoretical lens through which
+
+collaboration between a ﬁrm and its internal and external
+partners in NPD has been studied. According to this
+perspective, an organizational design that is efﬁcient in
+both acquiring and processing rich information is best
+suited for uncertain, equivocal tasks. Uncertainty arises
+from ‘‘the difference between the amount of information
+required to perform the task and the amount of informa-
+tion already possessed by the organization’’ (Galbraith,
+1977). Equivocality, on the other hand, arises from the
+existence of multiple conﬂicting interpretations about
+organizational situations (Weick, 1979).
+
+As NPD environments are typically characterized by
+high levels of both uncertainty and equivocality, an
+‘‘integrated problem solving’’ approach that requires the
+early involvement of key stakeholders in the product
+development process and permits sharing of critical
+information upstream and downstream in the product
+development supply chain as necessary for executing NPD
+work (Wheelwright and Clark, 1992). Swink (2006, p. 1)
+states that an organization’s ability to collaborate is key to
+its innovative success. It also suggests that collaborative
+NPD integrates many sources of design ideas and data.
+Building on Swink’s conceptualization, we study colla-
+boration in NPD across three interfaces: collaboration
+between the core design team and the suppliers, custo-
+mers, and cross-functional teams.
+
+To do so, we conducted an extensive review of
+organization theory, strategy, and operations management
+literatures and found that, while the term ‘‘collaboration’’ is
+widely used in the NPD context, it is frequently used
+interchangeably with integration and coordination and, to a
+lesser extent, with cooperation and communication (Gulati
+et al., 2005; Barki and Pinsoneeault, 2005; Frohlich and
+Westbrook, 2001; Van de Ven et al., 1976). Upon reviewing
+the long and rich evolutionary history associated with this
+body of literature, we came to the conclusion that it is very
+difﬁcult, if not impossible, to resolve the differences among
+these different terms. Moreover, resolving these differences
+is not central to our research objectives. Rather, given that
+collaboration across each of the three interfaces has received
+widespread attention in existing literature, we summarize
+ﬁndings from key studies in Table 1.
+
+With regard to supplier
+
+involvement, Clark and
+Fujimoto (1991), Eisenhardt and Tabrizi (1995), Smith
+and Reinertsen (1998), Gupta and Souder (1998), all ﬁnd
+that involving suppliers in the NPD process is critical to
+accelerating the pace of product development. Suppliers
+are more likely to identify potential problems such as
+contradictory speciﬁcations or unrealistic designs, early in
+the design process. Involving suppliers in the NPD process
+also opens up outsourcing and external acquisition
+possibilities, thereby reducing the internal complexity of
+projects and providing extra personnel to shorten the
+critical path for NPD projects. Besides shortening devel-
+opment cycles, supplier involvement has been shown to
+have a positive effect on other measures of performance
+such as lower development costs (e.g., Kessler, 2000,
+McGinnis and Vallopra, 1999),
+improved design-for-
+manufacturability (e.g., Wasti and Liker, 1997, Swink,
+1999) and enhanced product quality (e.g., McGinnis and
+Vallopra, 1999).
+
+
+326
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+Table 1
+Overview of selected literature on collaborative practicesa.
+
+SI CI CFI
+
+Independent variable (s)
+
+Dependent variable(s)
+
+Ancona and
+
+Caldwell (1992)
+
+Eisenhardt and
+
+Tabrizi (1995)
+
+X
+
+Ettlie (1995)
+
+X
+
+X
+
+X
+
+An entropy-based diversity index
+to calculate functional diversity.
+
+No. of stages in which suppliers
+participated; total no. of functions
+in every stage of product development.
+Personnel integration that captures
+the extent of job rotation between
+design and manufacturing engineering.
+
+Hartley et al. (1997)
+
+X
+
+Length of supplier involvement.
+
+Ittner and
+
+Larcker (1997)
+
+X X
+
+X
+
+Moffat (1998)
+
+X
+
+Swink (1999)
+
+X
+
+X
+
+Extent of supplier involvement,
+customer involvement, cross-
+functional teams in product design.
+
+Customer input index capturing
+whether (a) customers were on the
+team, (b) marketing function was
+present in the team, (c) customer
+input was used, and (d) QFD
+techniques were used.
+Extent of supplier inﬂuence (single
+item); extent of manufacturing
+involvement (three item scale).
+
+Ragatz et al. (2002)
+
+X
+
+Extent of supplier involvement
+in decision making.
+
+Bajaj et al. (2004)
+
+X
+
+Koufteros et al. (2005) X X
+
+Langerak and
+
+Hultink (2005)
+
+X X
+
+X
+
+Degree of customer interaction
+measured as the ratio of number
+of customer signoffs in the design
+phase to total design budget.
+Extent of customer integration in
+NPD efforts, supplier integration in
+product engineering, and supplier
+integration in development process.
+Extent of (a) supplier involvement,
+(b) lead user involvement, and (c)
+stimulating inter-functional
+cooperation in NPD efforts.
+
+Petersen et al. (2005)
+
+X
+
+Supplier effort in (a) technical
+assessment and (b) business
+assessment.
+
+Composite measures of performance
+that captures efﬁciency, quality,
+technical innovation, adherence to
+schedules, adherence to budget, and
+work excellence.
+Development time adjusted by
+industry.
+
+Organizational performance
+measured as sales/employee;
+development cycle time adjusted
+by product life cycle.
+Perceived contribution to
+new product design.
+Organizational performance—
+composite measure of ROA, sales
+growth, return on sales, and
+perceived overall performance.
+Project task performance—a
+composite measure of (a) timeliness
+of delivery, (b) product quality, (c)
+design iteration/engineering change
+order reduction, and (d) internal
+external customer satisfaction.
+New product manufacturability—
+composite measure of product
+cost, product quality,
+manufacturability, etc.
+Project outcomes—composite
+measure of overall satisfaction
+and degree of goal achievement.
+Extent of savings in design time
+and design cost with respect
+to budgeted goals.
+
+Product innovation performance;
+product quality performance
+
+New product (a) development
+speed—a composite measure of
+two items that captures the ability
+to minimize the time in developing
+new products; (b) proﬁtability—a
+composite measure of two item that
+captures the extent to which new
+product met the proﬁt and margin goals.
+Project team effectiveness—a composite
+measure that captures the extent to
+which the project team functions
+smoothly, achieves consensus, and
+makes faster decisions.
+
+a SI: supplier involvement, CI: customer involvement, and CFI: cross-functional involvement.
+b +ve: positive, -ve: negative.
+
+Resultb
+
++ve support
+
++ve support only in
+computer industry
+sample
++ve support
+
+Supported
+
++ve support only for
+cross-functional teams
+
+Not supported
+
++ve support
+
++ve support
+
++ve support when
+specialization and
+oversight is high
+
++ve support only for
+effects of customer
+integration
+
++ve support for the effect
+of supplier involvement
+on development speed
+and lead user involvement
+on both metrics
+
++ve support for supplier
+effort in technical
+assessment on project
+team effectiveness
+
+Similarly, with regard to customer
+
+involvement,
+evidence from case studies indicates that an incomplete
+and inaccurate assessment of customers’ needs can result
+in extremely high costs at the design stage (von Hippel,
+1998; Walker and Tersini, 1992). Involving the customer in
+the product development process keeps the design team
+members updated on changing customer tastes and
+requirements and reduces the high degree of uncertainty
+accompanying new applications in the industry (MacCor-
+mack et al., 2001; Grifﬁn and Hauser, 1993). At the same
+time, frequent and regular communication with customers
+prevents what Thomke and Nimgade (2000) refer to as
+
+‘‘creeping elegance’’, or the designers’ quest for perfection,
+which could lead to cost and time overruns. Customer
+involvement is clearly a critical aspect of the NPD process.
+Finally, involving cross-functional teams (i.e., teams
+comprised of members from engineering, manufacturing,
+marketing, etc.)
+in the NPD process is considered
+beneﬁcial. Increasing functional diversity in cross-func-
+tional
+teams increases the amount and variety of
+information available to design products, reducing much
+of the uncertainty and equivocality in the NPD process on
+one hand and helping project team members understand
+the design process more quickly and fully from a variety of
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+327
+
+perspectives on the other (Henke et al., 1993). It also helps
+identify possible downstream problems such as manu-
+facturing difﬁculties or potential mismatches with custo-
+mer requirements (Ancona and Caldwell, 1992; Eisenhardt
+and Tabrizi, 1995).
+
+In addition to these advantages, researchers have listed
+potential problems with collaborative initiatives. Hansen
+and Nohria (2004, p. 11),
+for instance, theorize that
+collaboration can be overdone easily and state that employ-
+ees, in response to collaborative initiatives, may begin to
+participate in extraneous meetings in which nothing of
+substance is accomplished. This suggests that collaborating
+within and across ﬁrm boundaries is time-consuming and
+resource intensive. A focal ﬁrm has to commit substantial
+resources to overcome dissimilar management styles of
+collaborating partners for collaboration to succeed. Other
+problems include infringement of intellectual property
+rights for participating ﬁrms once the collaboration period is
+over and behavioral misjudgments that can occur during
+team interactions. Despite these disadvantages, the beneﬁts
+from collaboration far outweigh its potential costs.
+
+The overarching consensus gleaned from the NPD
+literature is that collaboration with each of the three
+interfaces provides both operational and ﬁnancial/market
+performance beneﬁts. Our review also supports Gerwin
+and Barrowman’s (2002) assertion that while researchers
+recognize the importance of these sets of practices and
+their interdependencies, they examine them in isolation.
+Such isolated study leads to potentially incorrect conclu-
+sions. Gerwin and Barrowman state that most empirical
+studies tend to disregard the ‘‘interpretive aspect of
+coordination’’
+(p. 940), which involves the need to
+reconcile the differing meanings across the three interfaces
+for fairly well-agreed upon goals and tasks. We attempt to
+ﬁll this gap by examining them together in one study and
+seek to extend this literature stream by examining the
+performance implications arising from simultaneously
+pursuing collaborative NPD practices across the three
+interfaces.
+
+3. Hypothesis development
+
+We use RBV and complementarity theory to develop
+our conceptual framework. Researchers invoking an RBV
+perspective argue that, for a resource to confer competitive
+advantage to a ﬁrm, it must not be possessed by all
+competing ﬁrms, it must be difﬁcult to imitate or duplicate
+through other means, and it must contribute positively to
+performance (Barney, 1991). Additionally, RBV researchers
+distinguish between resources that can be acquired in
+factor markets and those that are developed inside a ﬁrm.
+Resources and their performance effects have been
+conceptualized very broadly in previous research (Hoopes
+et al., 2003). For example, Tanriverdi and Venkatraman
+(2005) conceptualized various sources of knowledge as a
+ﬁrm-speciﬁc resource. Rigby and Zook (2002) show that
+the ability to combine internal and external information is
+a critical source of competitive advantage in their sample
+of innovative companies.
+
+While individual routines used to collaborate with
+suppliers, customers, and internal work-teams contribute
+
+positively to ﬁrm performance, they are not idiosyncratic
+and cannot be considered a valuable resource in the RBV
+sense. In contrast, bundles of routines are more difﬁcult to
+copy and less likely to be imitated by competitors or
+purchased in factor markets; they can be considered a
+valuable resource (Shah and Ward, 2003). The economic
+theory of complementarities informs us about the super-
+additive value of resource combinations (Cassiman and
+Veugelers, 2006). A set of
+resources is deﬁned as
+complementary when using more of any one of the
+resources increases the returns from using others (Mil-
+grom and Roberts, 1995). Conceptually, complementarity
+exists when a resource is more valuable in the presence of
+another resource than if
+it is considered alone (see
+Milgrom and Roberts, 1995 for a detailed mathematical
+treatment). In the context of this study, we argue that the
+joint involvement of suppliers, customers, and cross-
+functional internal employee teams in developing a new
+product
+leads to the development of super-additive
+synergies and is more valuable than the involvement of
+each individually. We refer
+to these super-additive
+synergies as ‘‘collaborative competence’’ and examine its
+conceptualization with the following proposition:
+
+Proposition. Collaborative competence is a multidimen-
+sional, higher order construct comprised of supplier involve-
+ment, customer involvement, and cross-functional
+team
+involvement.
+
+3.1. Impact on project performance
+
+With increasing pressure on project managers and R&D
+personnel to develop products better and faster, the need
+to collaborate effectively and simultaneously with key
+stakeholders in the product development process has
+gained signiﬁcant importance. Sutton and Hargaddon
+(1996) emphasize that, as a group engages in spanning
+the functional and organizational boundaries, more
+divergent thinking and combinatorial possibilities are
+likely and lead to higher group innovativeness. More
+recently, Wong (2004) shows that in creating an innovative
+solution, group members that seek external knowledge
+from across group boundaries also need to look inward,
+actively engaging in mutual discussions and brain storm-
+ing internally to consider how external knowledge can be
+combined with their internal resources and capabilities to
+create innovative solutions.
+
+Bringing the three distinct ‘‘thought worlds’’ (Dough-
+erty, 1992) of suppliers, customers, and cross-functional
+teams together onto the same organizational platform
+forces each of them to understand and appreciate each
+other’s concerns and work toward a mutually agreed-upon
+solution. Collective involvement of these diverse groups
+helps in developing a common language and a shared
+syntax for representing differences and understanding the
+critical interdependencies at boundaries (Carlile, 2004). It
+also facilitates a process of transforming and synchroniz-
+ing localized capabilities and strengths into jointly
+produced knowledge that
+interests,
+thereby enabling early resolution of problems during the
+development process. For example, involving a focal ﬁrm’s
+
+transcends local
+
+
+328
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+suppliers and customers together in the development
+process is beneﬁcial because it allows the suppliers to
+integrate speciﬁc customer requirements into a compo-
+nent design at earlier design stages. At the same time,
+manufacturing involvement in the development process is
+also necessary in order for manufacturing function to
+initiate changes in manufacturing process technology and
+align its technological abilities and constraints within the
+product speciﬁcations. This also ensures that the unique
+capabilities of manufacturing process technology are taken
+into consideration by suppliers and the design team when
+decisions are made regarding the complexity and variety of
+components within product families. As a result, project
+performance goals are likely to be met, because wasteful
+expenditures in both materials and time can be minimized,
+delays in the development process can be prevented, and
+the product’s time to market can be reduced. These
+arguments lead us to propose the following hypothesis.
+
+Hypothesis 1. Collaborative competence is positively asso-
+ciated with project performance.
+
+3.2. Impact on market performance
+
+Research on collaboration across business units of
+multi-business ﬁrms has shown that sharing product
+designs, subsystems, components, and manufacturing
+processes creates ‘‘asset amortization beneﬁts’’
+from
+economies of scope for a ﬁrm (Tanriverdi and Venkatra-
+man, 2005; Markides and Williamson, 1994). As business
+units share and reuse existing product knowledge, they
+tend to reduce development, tooling, and manufacturing
+costs, speeding up NPD activities and allowing the ﬁrm to
+rapidly address new market opportunities (Meyer and
+Lehnerd, 1997). We believe that these arguments are
+applicable in the context of an NPD project. Competitors
+may be able to achieve similarities in product designs in
+competing products, acquire similar marketing and
+advertising skills, and, to a lesser extent,
+implement
+similar managerial policies governing the development
+process. Their ability to recognize and imitate comple-
+mentarities originating from inter- and intra-organiza-
+tional
+collaboration routines within another ﬁrm,
+however, is signiﬁcantly limited. Successfully recognizing
+and imitating complementarities require systemic changes
+across multiple organizational dimensions. Additionally,
+implementing a single dimension without implementing
+others is not likely to produce the intended performance
+improvements (Porter, 1996); rather, it may even produce
+negative performance effects (Milgrom and Roberts, 1995).
+Thus, in an NPD project, collaborative competence is a
+source of competitive advantage that leads to higher
+market performance of the product.
+
+The development of the Boeing 787 Dreamliner is an
+example of how collaborative competence can be a unique
+source of competitive advantage and lead to market success.
+According to a recent news release from The Boeing
+Company (2007), the 787 Dreamliner is currently the
+fastest selling commercial airplane in aviation history.
+Boeing leveraged the technical capabilities of more than 50
+partners spread over 130 locations and working together
+
+over a span of 4 years to develop the 787 Dreamliner. While
+similar technical capabilities were undoubtedly available to
+its competitors, Boeing’s ability to integrate its partners into
+a network facilitated rapid technical knowledge exchange
+(MacCormack and Forbath, 2008). Such complementarity
+among the various dimensions of collaborative practices
+acts as a source of sustainable competitive advantage, which
+should lead to superior market performance. Therefore, we
+propose the following hypothesis.
+
+Hypothesis 2. Collaborative competence is positively asso-
+ciated with market performance.
+
+3.3. Relationship between project performance and market
+performance
+
+The relationship between project and market perfor-
+mance has long been recognized as an important, yet
+unresolved, question in NPD research (Krishnan and
+Ulrich, 2001). A ﬁrm is more likely to develop successful
+products that have a higher customer value when its
+developmental activities are well-executed (Brown and
+Eisenhardt, 1995). Past research provides some evidence
+linking escalating product costs to market failure of a new
+product (Schmidt and Calantone, 1998; Boulding et al.,
+1997). A product pricing strategy and its unit cost may
+determine both its short- and long-term proﬁtability
+(Tatikonda and Montoya-Weiss, 2001; Mallick and Schroe-
+der, 2005). Similarly, the technical performance of the
+product may be an important determinant of its market
+performance. Cooper and Kleinschmidt (1987) have shown
+that superior technical performance of a product in terms
+of its features and innovativeness is a key factor in
+differentiating new product winners from losers. Time to
+market has also been an important determinant of market
+outcomes (Shankar, 1999; Bowman and Gatignon, 1996).
+Our review of literature suggests that, while individual
+measures at the operational level have been correlated
+with market performance measures, few prior studies
+(with the exception of Tatikonda and Montoya-Weiss,
+2001) have systematically examined the overall impact of
+a holistic project performance measure on market
+performance. We address this issue in our study and
+examine the following hypothesis.
+
+Hypothesis 3. Project performance is positively associated
+with market performance.
+
+4. Methods
+
+We use conﬁrmatory factor analysis (CFA) and struc-
+tural equation modeling (SEM) to measure and test our
+conceptual framework using survey data. All descriptive
+analyses are conducted using SPSS (12.1), and CFA and SEM
+are conducted using AMOS (4.0).
+
+4.1. Sample
+
+The data used for empirical analysis was collected as
+part of
+the High Performance
+Manufacturing (HPM) project in 2005–2006. The HPM
+
+the third round of
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+329
+
+was a large-scale, multi-country, multi-industry research
+project conducted by a team of international researchers
+and designed to comprehensively assess a manufacturing
+plant’s operation. For Round 3, six countries were selected
+for study: Finland, Sweden, Germany, Japan, Korea, and the
+United States. These countries were chosen to obtain a
+broad representation of
+In
+keeping with the ﬁrst and second rounds, automotive
+suppliers, electronics, and machinery were selected as the
+three industries, using a stratiﬁed sample consisting of
+traditional and high performance manufacturing plants
+(for comprehensive details on data collection during
+Rounds 1 and 2, please see Flynn et al., 1995; Sakakibara
+et al., 1997).
+
+the industrialized world.
+
+Because participation in the study necessitated exten-
+sive effort on part of the plant, an assigned team member
+solicited plant participation by calling the plant manager of
+each prospective plant to describe the study objective,
+explain the participation mechanism, and relay the
+beneﬁts of participation. Plants that agreed to participate
+appointed a survey coordinator to serve as the liaison with
+the research team; in many cases this liaison was the plant
+manager. A packet containing 21 surveys was then mailed
+to the coordinator who distributed the questionnaires to
+the appropriate respondents, collected the completed
+questionnaires, and mailed the responses back to the
+research team (for details on protocol
+followed in
+collecting data during Round 3, please refer to Peng
+et al., 2007).
+
+The NPD survey instrument was new to Round 3 and
+was speciﬁcally developed to better understand the
+product development process. NPD researchers assisted
+in developing the survey instrument based on an extensive
+review of relevant literature. The instrument was pre-
+tested with academic and industry experts and at several
+manufacturing plants. During administration, each plant
+coordinator selected a product development manager as
+the key respondent for the NPD survey. To get accurate
+responses, the product development manager was asked to
+refer to a ‘‘recent major product development project’’ in
+which he/she participated, thus making a product devel-
+opment project the unit of analysis in this study. Our
+current study uses responses from the product develop-
+ment manager only. The ﬁnal data set consists of 189
+responses from product development managers relating
+one project to one plant. The response rate amounts to
+approximately 65 percent. Even so, we assessed non-
+response bias, comparing the plant size and annual
+revenue of the responding and non-responding plants.
+We did not ﬁnd any evidence of a systematic non-response
+bias. Table 2 shows the proﬁle of the sample across the
+different industries and countries.
+
+4.2. Measures
+
+4.2.1. Collaborative practices
+
+We used 14 items on a 7-point Likert-type scale
+(1 = strong disagreement, 7 = strong agreement) to mea-
+sure supplier involvement, customer involvement, and
+cross-functional
+involvement in the NPD process (see
+Appendix A). The scale items measure both the extent and
+
+Table 2
+Proﬁle of sample across different industries and countries.
+
+Number of plants
+
+Industry
+
+Country
+
+Finland
+Germany
+Japan
+South Korea
+Sweden
+United States
+
+Total
+
+Electronics
+
+Machinery
+
+Automotive
+
+Total
+
+14
+9
+10
+10
+7
+9
+
+59
+
+6
+13
+11
+10
+10
+11
+
+61
+
+10
+19
+13
+11
+7
+9
+
+69
+
+30
+41
+34
+31
+24
+29
+
+189
+
+the timing of the involvement of each group and are
+developed using the existing literature on collaboration
+(Brown and Eisenhardt, 1995; Ittner and Larcker, 1997;
+Hartley et al., 1997; Swink, 1999; Gerwin and Barrowman,
+2002). For instance, the measurement items SUPINV2 (We
+partnered with suppliers for the design of this product),
+CUSTINV3 (Customers were an integral part of the design
+effort for this project), and CRFINV1 (New product design
+teams have frequent interaction with the manufacturing
+function) are each a measure of the extent to which the
+focal ﬁrm collaborates with suppliers, customers, and
+cross-functional
+teams in the product development
+process. Similarly, SUPINV1 (Suppliers were involved early
+in the design efforts in this project), CUSTINV1 (We consulted
+customers early in the design efforts in this product), and
+CRFINV2 (Manufacturing is involved in the early stages of
+new product development) are each a measure of the timing
+of involvement with suppliers, customers, and cross-
+functional teams.
+
+4.2.2. Collaborative competence
+
+A key tenet of complementarity theory is that the
+returns obtained from jointly using collaborative prac-
+tices are greater than the sum of returns obtained from
+using individual practices in isolation (Milgrom and
+Roberts, 1995, p. 181). However, there are many different
+ways to model the joint adoption including a mathema-
+tical speciﬁcation as illustrated by Milgrom and Roberts
+(1995) and statistical speciﬁcation using interaction and
+latent model approaches. We model collaborative com-
+petence as a reﬂective second order construct to capture
+complementarities arising from the ﬁrst order con-
+structs. This second order, collaborative competence
+construct accounts for multi-lateral
+interactions and
+covariances among the ﬁrst order constructs and is a
+superior statistical speciﬁcation compared to pair-wise
+and higher order interactions. The use of second order
+construct to represent complementarities among ﬁrst
+order constructs has been well documented in existing
+studies (Shah and Ward, 2007; Ettlie and Pavlou, 2006;
+Tanriverdi and Venkatraman, 2005; Sivadas and Dwyer,
+2000). Using the second order construct also allows us to
+sidestep the statistical confounding that results from
+highly signiﬁcant correlations among the ﬁrst order
+constructs, which are consistent with the theory of
+complementarities (Whittington et al., 1999; Milgrom
+and Roberts, 1995).
+
+
+330
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+4.2.3. NPD performance measures
+
+Project performance is assessed using four commonly
+used items reﬂecting time-to-market, technical perfor-
+mance, unit manufacturing cost, and R&D budget as
+measured relative to goals (see Appendix A). These
+measures have been widely recognized as central objec-
+tives in measuring internal performance of an NPD process
+(Hauptman and Hirji, 1996; Wheelwright and Clark, 1992).
+Typically, these objectives are set at the start of project
+execution, and performance is assessed by comparing the
+objectives to the degree of achievement upon project
+completion. Thus, we asked NPD project managers to rate
+the success of the product development project relative to
+the set goals and objectives on the four measures. Market
+performance is measured using items for market share,
+overall proﬁtability, return on investment, and overall
+commercial success (see Appendix A). These market
+performance measures have been frequently used in
+previous product development literature (Atuahene-Gima
+and Li, 2004; Brown and Eisenhardt, 1995). All responses
+concerning questions on project performance and market
+performance were measured on a 7-point Likert-type
+scale.
+
+4.2.4. Control variables
+
+Plant size is frequently associated with resource
+availability and bureaucratic structures. Larger plants
+have more resources to carry out product development
+tasks, but are also more likely to have longer development
+periods because of complex, formal structures (Ettlie,
+1995). We measure plant size with the total number of
+hourly and salaried employees and use the logarithm of
+plant size to control its effects on project and market
+performance.
+
+Another source of variation among product develop-
+ment projects comes from project team member char-
+acteristics, because team characteristics such as average
+experience of the team members play an important role in
+determining project outcomes (Ettlie, 1995). Teams with a
+concentration of specialists or members with relevant
+experience have a higher probability of achieving their
+project performance goals. We control for the effect of
+team characteristics on project performance and measure
+it using average team experience of the project team in
+years. Previous researchers have also noted the deleterious
+effects of large size on ﬁrm performance (Chandler, 1962;
+Child, 1972) because more employees are typically
+associated with increased bureaucracy and structural
+
+Table 3
+Means, standard deviations, and correlations of all variablesa.
+
+inertial
+forces (Hannan and Freeman, 1984) which
+negatively affect ﬁrm performance. Similar negative
+associations are also found in the context of team size
+and project performance. Thus, we include team size as a
+control variable on project performance.
+
+Additionally, we control for the effects of product size
+(measured as the number of components in a complete
+product) on project performance. Products with a higher
+number of components are likely to have a higher degree of
+task interdependence than products with smaller numbers
+of components; this, in turn, may impact project perfor-
+mance outcomes.
+
+Finally, previous NPD research has noted the impact of
+industry membership and country location on a ﬁrm’s
+approach to product development (Ettlie, 1995; Hoskisson
+and Hitt, 1990). Therefore, in order to control for any
+heterogeneity among projects in the sample due to
+differences in their industry membership or their country
+location, we standardize the data across the six countries
+and three industries in our sample.
+
+5. Results
+
+We followed a two-stage procedure recommended by
+Anderson and Gerbing (1988) in testing our conceptual
+framework. During the ﬁrst stage, we used CFA to develop
+and test
+the measurement models associated with
+collaborative practices and performance measures. This
+was done to purify and validate the constructs and to
+ensure that any misﬁt in the overall structural model
+representing our conceptual framework could be attrib-
+uted to structural relationships. During the second stage,
+we use SEM to examine the hypothesized structural
+relationships. The model ﬁt was assessed with goodness-
+of-ﬁt index (GFI), incremental ﬁt index (IFI), comparative
+ﬁt index (CFI), Tucker Lewis index (TLI), and normed chi-
+square. We also report root mean square error of
+approximation (RMSEA) and its 90% conﬁdence interval,
+root mean squared residual
+(RMSR), and Parsimony
+normed ﬁt index (PNFI). Descriptive statistics and correla-
+tions among the variables are summarized in Table 3. The
+process details are described below.
+
+5.1. Measurement model results
+
+5.1.1. Collaborative practices
+
+We analyzed four measurement models to establish the
+dimensional structure of collaborative practices using CFA.
+
+Variables
+
+Mean
+
+S.D.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Supplier involvement
+Customer involvement
+Cross-functional involvement
+Project performance
+Market performance
+Average team experience
+Team size
+Product size
+Plant size
+
+4.63
+4.92
+5.23
+4.47
+4.76
+11.14
+60.42
+1721.70
+1045.26
+
+1.14
+1.14
+0.88
+0.81
+0.94
+11.18
+229.46
+4514.40
+3145.52
+
+1.00
+0.42
+0.23
+0.21
+0.19
+0.08
+0.12
+ 0.08
+ 0.09
+
+1.00
+0.19
+0.12
+0.12
+0.00
+0.05
+ 0.04
+ 0.15
+
+1.00
+0.19
+0.12
+0.13
+0.10
+ 0.03
+ 0.16
+
+1.00
+0.59
+0.04
+ 0.04
+0.08
+ 0.01
+
+1.00
+0.00
+ 0.03
+0.17
+ 0.18
+
+1.00
+ 0.02
+0.01
+ 0.02
+
+1.00
+0.03
+0.10
+
+1.00
+0.02
+
+1.00
+
+a n = 189 observations; p-value < 0.05 for correlation values greater than 0.14; p-value < 0.01 for correlation values greater than 0.19.
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+331
+
+Table 4a
+Measurement models.
+
+Models
+
+Collaborative practices
+Model 1 (one-factor model)
+Model 2 (3 uncorrelated factors)
+Model 3 (3 correlated factors)
+Model 4 (one second order factor)
+
+Performance measures
+Model 5 (one-factor model)
+Model 6 (two-factor model)
+
+x2 (df)
+
+Normed x2
+
+GFI
+
+IFI
+
+TLI
+
+CFI
+
+RMSEA (90% CI)
+
+SRMR
+
+415.73 (54)
+157.50 (54)
+114.95 (51)
+114.95 (51)
+
+56.57 (14)
+14.87 (13)
+
+7.70
+2.92
+2.25
+2.25
+
+4.04
+1.14
+
+0.70
+0.89
+0.91
+0.91
+
+0.91
+0.98
+
+0.55
+0.87
+0.92
+0.92
+
+0.90
+0.99
+
+0.45
+0.84
+0.90
+0.90
+
+0.84
+0.99
+
+0.55
+0.87
+0.92
+0.92
+
+0.90
+0.99
+
+0.19 (0.17, 0.21)
+0.10 (0.08, 0.12)
+0.08 (0.06, 0.10)
+0.08 (0.06, 0.10)
+
+0.13 (0.09, 0.16)
+0.03 (0.00, 0.08)
+
+0.14
+0.16
+0.06
+0.06
+
+0.08
+0.03
+
+For more information on commonly recommended cutoff criterion for ﬁt statistics, please refer to Shah and Goldstein (2006). Model 1: CFA involving all
+items representing the various collaborative practices loaded on one factor; Model 2: CFA involving the three uncorrelated ﬁrst order factors; Model 3: CFA
+involving the three correlated ﬁrst order factors; Model 4: CFA involving second order collaborative competence factor; Model 5: CFA involving all
+performance items on one factor; Model 6: CFA involving two correlated performance factors.
+
+The ﬁt statistics for these four models are shown in
+Table 4a. Model 1 conceptualizes that all 14 items
+representing the various collaborative practices are
+denoted by a unidimensional factor—i.e., the variance
+among all 14 items is accounted for by a single
+representative construct (also known as Harman’s one-
+factor test). Not surprisingly, Model 1 has a very poor ﬁt. In
+Model 2, we conceptualize that
+the 14 items are
+represented by three distinct and un-correlated ﬁrst order
+factors corresponding to supplier involvement, customer
+involvement, and cross-functional involvement. The ﬁt
+measures for Model 2 are signiﬁcantly better than Model
+1, indicating that a multi-dimensional model composed
+of three un-correlated ﬁrst order factors is justiﬁed
+and is superior to a unidimensional ﬁrst order factor
+model. Further evidence in support of Model 2 is
+obtained by examining the signiﬁcance of the chi-square
+difference across the two models with respect to their
+degrees of freedom difference. The chi-square difference
+
+(Dx2 = 261.00) is signiﬁcant (p-value < 0.01). Two items
+(SUPINV5 and CUSINV3) in Model 2 had high inter-item
+correlations with other items and did not seem to add
+any incremental information to the measurement model.
+We dropped these two items from all further analysis
+(see Appendix A).
+
+Model 3 conceptualizes that the three ﬁrst order factors
+are free to correlate with each other (Fig. 1). The ﬁt indices
+for Model 3 exceed the critical cutoff levels commonly used
+in empirical research (Shah and Goldstein, 2006). The
+superior ﬁt is also reﬂected in the positive and signiﬁcant
+correlations among the ﬁrst order factors that represent
+collaborative practices. A comparison between Models 2
+and 3 indicates that Model 3 represents the data
+considerably better than Model 2; the chi-square differ-
+ence between the two models
+is also signiﬁcant
+(Dx2 = 43.55, Ddf = 3, p-value < 0.01). Finally, in Model
+4, we test the effectiveness of using a reﬂective second
+order construct to represent complementarities among the
+
+Fig. 1. Measurement models corresponding to Models 3 and 4 in Table 4a.
+
+
+332
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+three ﬁrst order factors (Fig. 1). When two nested models
+have exactly the same chi-square and ﬁt measures (as do
+Models 3 and 4), the superiority of one model is established
+by examining the signiﬁcance of the second order factor
+loadings in the measurement model on one hand and
+signiﬁcance of the structural links in the second order
+factors model compared to the structural links in the ﬁrst
+order factors model on the other (Venkatraman, 1989). All
+the second order factor loadings in Model 4 are signiﬁcant
+(p-value < 0.05). Further, the structural model using the
+second order factor structure for collaborative competence
+ﬁts the data better relative to the structural model with ﬁrst
+order factors (discussed in Section 5.2). Both results strongly
+support the notion of complementarity and indicate that the
+second order factor structure is a better statistical speciﬁca-
+tion for modeling collaborative competence.
+
+Given the results, we used Model 4 to assess validity
+and reliability. We assessed convergent validity using
+standardized parameter loadings of the measurement
+items on their respective constructs. The standardized
+parameter loadings range from 0.51 to 0.83 and are
+signiﬁcant at p-value < 0.01, providing a strong support of
+convergent validity. Discriminant validity is examined by
+calculating conﬁdence intervals around the estimates of
+inter-factor correlation (F) (Anderson and Gerbing, 1988).
+Because none of the conﬁdence intervals for the inter-
+construct correlations contain 1.0, we conclude that the
+constructs are distinct from each other. We assessed
+composite reliability using the procedures outlined by
+Fornell and Larcker (1981); the composite reliability values
+for each of the factors exceeds 0.70 (see Appendix A). As a
+set, the results indicate the dimensionality, validity, and
+reliability of collaborative competence as a second order
+factor and provide support to our proposition.
+
+5.1.2. Performance measures
+
+The dimensional structure for performance measures
+was assessed in a manner similar to measures for
+collaborative practices. We used CFA to analyze two
+measurement models. Model 5 consists of nine measures
+forming a unidimensional factor, whereas Model 6 consists
+of two distinct yet correlated factors representing project
+performance and market performance. Table 4a presents
+the ﬁt statistics for these two models. We retain Model 6
+because of its superior overall ﬁt to the data; its ﬁt indices
+dominate the ﬁt statistics associated with Model 5 and
+exceed critical cutoff values. We also computed the chi-
+square difference across the two models and found it to be
+signiﬁcant with respect to the corresponding change in the
+degrees of freedom (Dx2 = 38.47, Ddf = 1, p-value < 0.01).
+We dropped two items because they showed signiﬁcant
+cross-loadings with other items.
+
+Standardized parameter loading for all performance
+items on their respective constructs were signiﬁcant and
+
+Table 4b
+Structural models.
+
+Models
+
+x2 (df)
+
+Normed x2
+
+Model 7 (Complementarity model)
+Model 8 (Direct effects model)
+
+349.63 (223)
+386.23 (222)
+
+1.57
+1.74
+
+ranged from 0.58 to 0.84, indicating evidence of con-
+vergent validity. The conﬁdence interval around the
+estimate of inter-factor correlation did not contain 1.0,
+indicating that project and market performance constructs
+are distinct from each other. The composite reliability for
+project performance and market performance were 0.66
+and 0.80, respectively.
+
+5.2. Structural model
+
+The complete structural model representing our con-
+ceptual framework along with the parameter estimates is
+shown in Fig. 2. It includes the second order collaborative
+competence construct, and the three structural
+links
+representing our three hypotheses. We label this the
+complementarity model (Model 7). We also evaluate an
+alternate model shown in Fig. 3, where collaborative
+competence as the second order factor is removed; instead
+it includes the direct relationships between the three sets
+of collaborative practices and the two performance
+measures, along with the link from project to market
+performance. We label this the direct effects model (Model
+8). Speciﬁcally, the complementarity model, with its
+second order factor,
+is more parsimonious because it
+requires fewer parameters to be estimated, compared to
+the direct effects model, and accounts for the covariance
+among the ﬁrst order factors. We discuss the model
+statistics and their implications below.
+
+In comparing the complementarity model with the
+direct effects model, we ﬁnd that the ﬁt statistics for the
+complementarity model are marginally better than those
+of the direct effects model (Table 4b). More importantly,
+only two of the six direct structural links from cross-
+functional involvement, customer involvement, and sup-
+plier involvement to project and market performance are
+signiﬁcant (at p-value < 0.05) in the direct effects model,
+indicating poor model speciﬁcation. The insigniﬁcant
+structural links are inconsistent with the existing literature
+and provide additional indirect support to the comple-
+mentarity model. We also compare the variance explained
+by the complementarity and direct effects models. Because
+the link between project performance and market perfor-
+mance is similar in algebraic sign, magnitude, and
+signiﬁcance in the two models, we assess the variation
+(R2) explained in the project performance by the two
+models;
+the complementarity model explains 34%
+(R2 = 0.34) variation compared to the 26% (R2 = 0.26) of
+the variation explained by the direct effects model. This
+clearly demonstrates the superiority of the complemen-
+tarity model over the direct effects model in explaining the
+variation in project performance.
+
+Consequently, we use the complementarity model to
+evaluate Hypotheses 1, 2, and 3. We use the signiﬁcance of
+the structural links represented by standardized parameter
+
+GFI
+
+0.87
+0.86
+
+IFI
+
+0.90
+0.87
+
+TLI
+
+0.88
+0.85
+
+CFI
+
+0.90
+0.87
+
+RMSEA (90% CI)
+
+SRMR
+
+0.05 (0.04, 0.07)
+0.06 (0.05, 0.07)
+
+0.07
+0.10
+
+PNFI
+
+0.67
+0.65
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+333
+
+Fig. 2. Complete structural model representing the complementarity model (Model 7).
+
+(structural
+
+estimates associated with the structural paths in evaluating
+the hypotheses. As indicated in Fig. 2, the link from
+collaborative competence to project performance is positive
+and signiﬁcant
+link = 0.48, p-value < 0.01),
+providing strong support for Hypothesis 1. In contrast, the
+path from collaborative competence to market performance
+is not signiﬁcant (at p-value < 0.05); therefore, we do not
+ﬁnd support for Hypothesis 2. Hypothesis 3 proposed a
+positive impact of project performance on market perfor-
+mance; our results provide signiﬁcant support for that
+relationship (structural link = 0.81, p-value < 0.01).
+
+As expected, among the control variables in the
+complementarity model, project team size has a signiﬁcant
+negative effect on project performance, indicating that
+larger teams are associated with lower project perfor-
+mance. In contrast, the effect of product size on project
+performance is signiﬁcant and positive, suggesting that a
+product with a larger number of components is associated
+with higher level of project performance. This result is
+counter-intuitive and in contradiction with previous
+research. Perhaps the relationship between product size
+and project performance is contingent on the number of
+new components designed exclusively for the product or
+on component commonality among different product
+conﬁgurations, so the larger product size does not
+necessarily imply greater task interdependence or com-
+plexity of product development efforts. Future research
+should examine both the direct relationship between
+product size and project performance and the contingency
+
+effects of other variables impacting their direct relation-
+ship.
+
+6. Discussion and conclusion
+
+The goal of this study was to investigate the perfor-
+mance beneﬁts of simultaneously involving suppliers,
+customers, and cross-functional teams in the NPD process.
+We use the resource-based view and the complementarity
+theory to conceptualize synergies that arise from involving
+suppliers, customers, and cross-functional internal teams
+in the NPD process as a second order factor and label it
+‘‘collaborative competence.’’ Using multi-country, multi-
+industry, project level data from 189 manufacturing plants,
+we empirically validate the second order factor structure.
+We then assess the performance effects of collaborative
+competence on project and market-based performance.
+We discuss theoretical, empirical, and managerial con-
+tributions below.
+Theoretically,
+
+study overcomes weaknesses
+observed in prior NPD research. Most previous NPD
+studies focus on limited aspects of
+involvement and
+examine sources of synergy obtained from these domains
+in an isolated manner. Such fragmented conceptualization
+does not represent the product development process in
+practice because it
+ignores the ‘‘interdependencies’’
+(Krishnan and Ulrich, 2001) and the ‘‘shared product
+concept’’ (Leonard-Barton, 1995) that exist among suppli-
+ers, customers, and cross-functional teams. To better
+
+this
+
+
+334
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+Fig. 3. Complete structural model representing the direct effects model (Model 8).
+
+represent these interdependencies, our study conceptua-
+lized collaborative competence as the synergy resulting
+from simultaneous involvement of the three key groups
+associated with the NPD process. Further, while the
+resource-based view recognizes that the separate involve-
+ment of supplier, customer, or cross-functional teams are
+each valuable and create supplier involvement synergies,
+customer involvement synergies, and cross-functional
+involvement synergies respectively, it does not recognize
+the super-additive synergies arising from involving all
+three groups (suppliers, customers, and cross-functional
+teams) in the product development process. Our use of the
+complementarity theory in this study is an effort toward
+presenting a more nuanced and realistic picture of
+collaborative product development.
+
+With its second order, multi-dimensional conceptua-
+lization of collaborative competence, this study captures
+both the synergies arising from the independent involve-
+ment of supplier, customer, and cross-functional teams
+and the super-additive value of synergies arising from the
+complementarity of different types of involvement. As the
+rich literature stream on the relationship between inter-
+and intra-organizational
+involvement and ﬁrm perfor-
+mance indicates, conceptualizing individual dimensions of
+a multi-dimensional construct as independent and exam-
+ining their performance effects separately may lead to
+inconsistent and ambiguous results.
+
+We make three empirical contributions to the existing
+literature. First, we establish that the collective pursuit of
+
+collaborative practices such as supplier involvement,
+customer involvement, and cross-functional involvement
+underlies the higher order collaborative competence.
+Although the usefulness of each of the three collaborative
+practices has been cited in previous literature (Gerwin and
+Barrowman, 2002; Krishnan and Ulrich, 2001), they have
+not been modeled together. The superiority of the second
+order factor model (Model 4) compared to the three
+correlated factors model (Model 3) conﬁrms that multiple
+manifestations of involvement are all driven by a cohesive,
+yet unobservable, underlying competence. Further, our
+analysis shows that the complementarity model (Model 7),
+compared to the direct effects model (Model 8), yields
+statistically stronger and practically valid results. Speci-
+ﬁcally, the extent of variation in project performance
+explained by the second order latent construct is higher
+than that produced by separately analyzing the three sets
+of collaborative practices. Overall, our efforts to present a
+parsimonious representation of interdependencies among
+collaborative practices using a second order latent con-
+struct is both conceptually and methodologically a step
+toward providing a nuanced perspective on the integrated
+nature of the product development process.
+
+Our second contribution consists in demonstrating that
+collaborative competence impacts project and market
+performance differently. While collaborative competence
+has a positive and signiﬁcant impact on project perfor-
+mance, its impact on market performance is insigniﬁcant.
+We also ﬁnd a signiﬁcant positive link between project and
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+335
+
+competence
+
+market performance. As a set, the results associated with
+H2 and H3 suggest that the link between collaborative
+competence and market performance is indirect, mediated
+through project performance. We use the Sobel test to
+examine the signiﬁcance of the mediation effect, an
+approach advocated by Baron and Kenny (1986). The
+Sobel test statistic equals 2.83 and is signiﬁcant (p-
+value < 0.01). The analyses show that the link between
+collaborative
+and market performance
+becomes insigniﬁcant when project performance is added
+to the model, suggesting a complete mediation relation-
+ship between collaborative competence and market
+performance (Venkatraman, 1989). An insigniﬁcant direct
+link between collaborative competence and market
+performance is surprising given that customer involve-
+ment in NPD projects forms a key component of this
+competence. The primary objective that drives ﬁrms to
+involve customers in their product development efforts is
+to understand customer requirements and market trends
+so that superior market performance can be achieved.
+
+What, then, explains our ﬁnding? We believe that there
+are two potential explanations for the insigniﬁcant direct
+link between collaborative competence and market
+performance. One is that project execution holds the key
+to market success and that achieving superior market
+performance from inter- and intra-organizational involve-
+ment necessitates excellence on project performance
+metrics. Speciﬁcally, companies that fail to achieve their
+desired project performance outcomes will also fail in
+achieving market performance goals. This interpretation
+puts signiﬁcant pressure on ﬁrms to excel on operational
+level metrics as a precondition to excelling in the market.
+In general, this pattern of results, where an operational
+level variable is found to have an impact on operational
+level performance but not on market or ﬁnancial measures
+of performance, is similar to that observed in supply chain
+and information technology literature. For
+instance,
+Vickery et al. (2003, p. 535) found that coordination of
+value-added activities has a direct impact on competitive
+performance, but not on the ﬁnancial performance of the
+ﬁrm. Similarly, information technology researchers have
+called the general failure of studies to show a direct
+positive relationship between information technology
+investment and measures of overall ﬁnancial performance
+proﬁtability a paradox (Dedrick et al., 2003, p. 23). Barua
+et al. (1995) argue that the impact of operational variables
+on overall ﬁrm performance should be easier to detect
+through intermediate measures of operational perfor-
+mance. A second explanation for the insigniﬁcant effects of
+collaborative competence on market performance could be
+that perhaps the collaboration items used in our study
+(particularly, the customer involvement scale) lack sufﬁ-
+cient variation to capture the true impact of collaborative
+competence on market performance. This is plausible,
+given that the collaboration scales used in our study have
+been derived primarily from existing studies, where they
+have gradually evolved and been optimized toward
+measuring operational performance beneﬁts rather than
+market or ﬁnancial performance metrics.
+
+Our third contribution derives from the increased
+generalizability of our ﬁndings due to the broad scope of
+
+the sample. Our multi-industry, multi-country sample
+stands in sharp contrast to many empirical studies in the
+NPD literature wherein the sample of companies used is
+simply either a set of
+Japanese companies or U.S.
+companies based in the electronics or the computer
+industry (Balachandra and Friar, 1997). As such, the
+generalizability of previous empirical ﬁndings is primarily
+restricted to high performing ﬁrms in a single highly
+competitive industry and does not portray the true state of
+affairs across the whole landscape of product development
+efforts in various industries and countries.
+
+Although the conceptual
+
+framework in our study
+examines the performance impact of simultaneously
+involving suppliers, customer, and cross-functional teams
+in the NPD process, its implications are not restricted only
+to projects requiring both inter- and intra-organizational
+collaboration. For example, NPD projects that are com-
+pletely internal to a ﬁrm may involve multiple stake-
+holders
+IT projects which involve
+coordination between the internal software team and
+multiple departments). In these cases, harnessing the
+knowledge complementarities across multiple stake-
+holders by jointly involving them in the project is likely
+to lead to enhanced performance outcomes.
+
+in-house
+
+(e.g.,
+
+Our study also has important managerial implications.
+While managers must continue to involve a diverse group
+of stakeholders in their product development process to
+achieve superior performance, the real operational bene-
+ﬁts of collaboration are derived when efforts are made to
+synchronize localized capabilities and strengths into
+jointly produced knowledge that transcends local interests
+and enables early resolution of problems during the NPD
+process. Further, achieving superior market performance
+impact from competence in involving these diverse groups
+is contingent on how the competence affects intermediate
+operational level performance. Thus, product development
+managers must continue to focus on ensuring that
+efﬁciency at the operational level is achieved, because it
+constitutes the ﬁrst step toward improvement in overall
+ﬁrm performance.
+
+These managerial implications can also be extended
+beyond the NPD process and into any context that involves
+alliances or ﬁrms engaging in an outsourcing/offshoring
+relationship with a vendor ﬁrm. While potential savings
+from economies of scope or labor arbitrage are certainly a
+key reason for ﬁrms to engage in such relationships, it is
+unlikely that such beneﬁts will accrue unless operational
+performance ﬁrst improves. As a recent AT Kearney (2007)
+study on offshoring indicates, that the best performing
+companies in their survey ‘‘focus less on saving money and
+more on improving operational performance, and in doing
+so they save more money’’ (p. 11). That is, the surveyed
+companies that focused on improving operational metrics
+achieved the largest cost savings.
+
+7. Future research and limitations
+
+While our study highlights the advantages of collabor-
+ating simultaneously with suppliers, customers, and cross-
+functional teams in the NPD process, ﬁrms may not use the
+three sets of collaborative practices to an equal extent.
+
+
+336
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+Speciﬁcally, a focal ﬁrm’s choice of collaborating with
+suppliers or customers may depend on contextual and
+situational conditions on one hand and the supply chain
+structure on the other. Future research efforts directed at
+studying the collaboration process in NPD would greatly
+beneﬁt by examining the conditions under which an
+unbalanced collaborative approach may result in superior
+outcomes compared to a more balanced collaborative
+approach.
+
+Another potential area for future research would be
+to examine the variation in the costs of collaboration
+across the three interfaces. At a macro level, collabora-
+tive practices with suppliers, customers, and cross-
+functional teams are similar in that they involve the
+sharing of technical and business knowledge. However,
+collaboration costs across each of the three interfaces
+could vary signiﬁcantly due to the differences in their
+level of ‘‘shared context’’ (Hinds and Mortensen, 2005)—
+arising from commonality in information, tools, work
+processes, and work cultures across the three inter-
+faces—with the core design team. Because cross-func-
+tional teams are a part of the same focal ﬁrm as the core
+design team, their levels of shared context with the core
+design team are likely to be higher compared to that of
+suppliers and customers. Consequently, there are fewer
+barriers for information ﬂow between the cross-func-
+tional teams and the core design team, and the potential
+for conﬂict is low.
+
+Additionally our study is conducted from the point of
+view of the focal ﬁrm; focusing on a focal ﬁrm inherently
+misses the supplier–customer aspect embodied by the
+supply chain perspective. Suppliers and customers are
+each likely to have an independent and different
+interpretation of the term ‘collaboration’, and evaluate
+the extent of its collaboration efforts with the focal
+ﬁrm differently. A more nuanced understanding of
+collaboration and the effectiveness of collaborative
+competence on performance outcomes require focusing
+on a triad (Supplier-Focal Firm-Customer) as the unit of
+analysis. We call upon future researchers to extend
+examining collaboration from a dyadic to a triadic
+perspective.
+
+Future research might also beneﬁt from developing
+measurement items that capture aspects of involvement
+other than the extent and timing of involvement. While
+our measures demonstrate interesting results, more
+ﬁnely grained measurement items will help capture
+greater variation across the three sets of collaborative
+practices. New measurement items may enable research-
+ers to use other research methods in examining the
+performance impact of collaborative competence. For
+instance, using categorical variables to measure colla-
+boration allows researchers to use Milgrom and Roberts’
+(1995) approach. Speciﬁcally, one can compare the
+project performance of ﬁrms that use all three sets of
+collaborative practices to the project performance of
+ﬁrms that use any two sets or even only one set.
+Cassiman and Veugelers (2006) provide an excellent
+example of this approach. Combining analytical and
+empirical methods such as agent-based simulation using
+NK model seems a promising approach for testing
+
+complementarity; Porter and Siggelkow (2008) provide
+a detailed description of this approach.
+
+As with any study, our
+
+results must also be
+considered in light of the nature of the research sample
+and data. We collected data from a single key
+respondent; while this is currently the standard method
+in empirical research,
+it is associated with common
+method bias. To assess common method bias, we looked
+for a general methods factor during CFA, but did not ﬁnd
+one. We also attempted to minimize its impact through
+careful selection of the respondents—for this study we
+used responses only from NPD managers. Although the
+relationships we examined are derived from theory,
+any interpretation of causality between constructs
+should be treated with caution. Another limitation of
+our study is the absence of control variables related to
+the suppliers’ and customers’ involvement. Subsequent
+research could replicate the results obtained from this
+study by including control variables such as number of
+suppliers/customers, previous experience in working
+with the suppliers/customers, duration and terms of
+the relationship with suppliers/customers, etc. Despite
+these limitations, our multi-country, multi-industry
+study provides researchers and managers with clear
+guidance for achieving superior project and market
+performance.
+
+Appendix A. Measures
+
+Responses to supplier involvement, customer involvement
+and internal involvement measures are given on 7-point
+Likert-type scale (1 = strong disagreement, 7 = strong agree-
+ment).
+
+Supplier involvement (r = 0.84)
+SUPINV1
+
+Suppliers were involved early in the design efforts, in this
+project.
+
+SUPINV2 We partnered with suppliers for the design of this product.
+SUPINV3
+
+Suppliers were frequently consulted about the design of
+this product.
+Suppliers were an integral part of the design effort.
+Suppliers were selected after the design for this product
+was completeda,b.
+
+SUPINV4
+SUPINV5
+
+Customer involvement (r = 0.80)
+CUSTINV1 We consulted customers early in the design efforts for this
+
+product.
+
+CUSTINV2 We partnered with customers for the design of this
+
+product.
+
+CUSTINV3 Customers were frequently consulted about the design of
+
+this producta.
+
+CUSTINV4 Customers became involved in this project only after the
+
+design was completedb.
+
+CUSTINV5 Customers were an integral part of the design effort for
+
+this project.
+
+Cross-functional involvement (r = 0.75)
+CRFINV1
+
+New product design teams have frequent interaction with
+the manufacturing function.
+
+CRFINV2 Manufacturing is involved in the early stages of new
+
+CRFINV3
+
+CRFINV4
+
+product development.
+The manufacturing function is involved in the creation of
+new product concepts.
+New product concepts are developed as a result of the
+involvement of various functions.
+
+a Deleted items.
+b Reverse coded items.
+
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+337
+
+Appendix A (Continued )
+
+Please rate the success of this product development project,
+relative to its goals (1 = signiﬁcantly worse, 2 = worse,
+3 = somewhat worse, 4 = about same, 5 = somewhat better,
+6 = better, 7 = signiﬁcantly better).
+
+Market performance (r = 0.80)
+MKTPER1
+MKTPER2
+MKTPER3
+MKTPER4
+
+Market share.
+Overall proﬁtability.
+Return on investment.
+Overall commercial successa.
+
+Project performance (r = 0.66)
+PRJPER1
+PRJPER2
+PRJPER3
+PRJPER4
+
+Technical performance relative to speciﬁcations.
+Time to market.
+Unit manufacturing cost.
+R&D budget.
+
+Approximate average years of experience of team
+members.
+How many parts are required to make one unit?
+The total number of individuals involved in the
+project.
+Number of hourly personnel + number of salaried
+personnel.
+
+Control variables
+Average team
+experience
+Product size
+Team size
+
+Plant size
+
+References
+
+Ancona, D.G., Caldwell, D.F., 1992. Demography and design: predictors of
+new product team performance. Organization Science 3 (3), 321–341.
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in
+practice: a review and recommended two-step approach. Psycholo-
+gical Bulletin 103 (3), 411–423.
+
+Atuahene-Gima, K., Li, H., 2004. Strategic decision comprehensiveness
+and new product development outcomes in new technology ven-
+tures. Academy of Management Journal 47 (4), 583–597.
+
+Bajaj, A., Kekre, S., Srinivasan, K., 2004. Managing NPD: cost and schedule
+performance in design and manufacturing. Management Science 50
+(4), 527–536.
+
+Balachandra, R., Friar, J.H., 1997. Factors for success in R&D projects and
+new product innovation: a contextual framework. IEEE Transactions
+on Engineering Management 44 (3), 276–287.
+
+Barki, H., Pinsoneeault, A., 2005. A model of organizational integration,
+implementation effort, and performance. Organization Science 16 (2),
+165–179.
+
+Barney, J.B., 1991. Firm resources and sustained competitive advantage.
+
+Journal of Management 17 (1), 99–120.
+
+Baron, R.M., Kenny, D.A., 1986. The moderator-mediator variable distinc-
+tion in social psychological research: conceptual, strategic, and sta-
+tistical considerations. Journal of Personality and Social Psychology
+51 (6), 1173–1182.
+
+Barua, A., Kriebel, C.H., Mukhopadhyay, T., 1995. Information technolo-
+gies and business value: an analytic and empirical investigation.
+Information Systems Research 6 (1), 3–23.
+
+Bensaou, M., Venkatraman, N., 1995. Conﬁgurations of interorganiza-
+tional relationships: a comparison between US and Japanese auto-
+makers. Management Science 41 (9), 1471–1492.
+
+Boeing, 2007. <http://www.boeing.com/news/releases/2007/q2/070521c
+
+_nr.html>.
+
+Boulding, W., Morgan, R., Staelin, R., 1997. Pulling the plug to stop the new
+
+product drain. Journal of Marketing Research 34 (1), 164–176.
+
+Bowman, D., Gatignon, H., 1996. Order of entry as a moderator of the
+effect of the marketing mix on market share. Marketing Science 15
+(3), 222–242.
+
+Brown, S.L., Eisenhardt, K.M., 1995. Product development: past research,
+present ﬁndings, and future directions. Academy of Management
+Review 20 (2), 343–378.
+
+Carlile, P.R., 2004. Transferring, translating, and transforming: an inte-
+grative framework for managing knowledge across boundaries. Orga-
+nization Science 15 (5), 555–568.
+
+Cassiman, B., Veugelers, R., 2006. In search of complementarity in inno-
+vation strategy: internal R&D and external knowledge acquisition.
+Management Science 52 (1), 68–82.
+
+Chandler, A.D., 1962. Strategy and Structure: Chapters in the History of
+
+Industrial Enterprise. MIT Press, Cambridge, MA.
+
+Child, J., 1972. Organizational structure, environment and performance:
+
+the role of strategic choice. Sociology 6 (1), 1–22.
+
+Clark, K.B., Fujimoto, T., 1991. Product Development Performance: Strat-
+egy, Organization and Management in the World Auto Industry.
+Harvard Business School Press, Boston, MA.
+
+Cooper, R.G., Kleinschmidt, E.J., 1987. New products: what separates
+winners from losers? Journal of Product Innovation Management
+4 (3), 169–184.
+
+Daft, R.L., Lengel, R.H., 1986. Organizational information requirements,
+media richness and structural design. Management Science 32 (5),
+554–571.
+
+Dedrick, J., Gurbaxani, V., Kraemer, K.L., 2003. Information technology and
+economic performance: a critical review of the empirical evidence.
+ACM Computing Surveys 35 (1), 1–28.
+
+Dougherty, D., 1992. Interpretive barriers to successful product innova-
+
+tion in large ﬁrms. Organization Science 3 (2), 179–202.
+
+Eisenhardt, K.M., Tabrizi, B.N., 1995. Accelerating adaptive processes:
+product innovation in the global computer industry. Administrative
+Science Quarterly 40 (1), 84–110.
+
+Ettlie, J.E., 1995. Product-process development integration in manufac-
+
+turing. Management Science 41 (7), 1224–1237.
+
+Ettlie, J.E., Pavlou, P.A., 2006. Technology-based new product develop-
+
+ment partnerships. Decision Sciences 37 (2), 117–147.
+
+Flynn, B.B., Sakakibara, S., Schroeder, R.G., 1995. Relationship between JIT
+and TQM: practices and performance. Academy of Management
+Journal 38 (5), 1325–1360.
+
+Fornell, C., Larcker, D., 1981. Structural equation models with unobser-
+Journal of Marketing
+
+vable variables and measurement error.
+Research 18 (1), 39–50.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an international
+study of supply chain strategies. Journal of Operations Management
+19 (2), 185–200.
+
+Galbraith, J.R., 1977. Organization Design. Addison-Wesley, Cambridge,
+
+MA.
+
+Gerwin, D., Barrowman, N.J., 2002. An evaluation of research on
+integrated product development. Management Science 48 (7), 938–
+953.
+
+Grant, R.M., 1996. Toward a knowledge-based theory of the ﬁrm. Strategic
+
+Management Journal 17, 109–122.
+
+Grifﬁn, A., Hauser, J.R., 1993. The voice of the customer. Marketing Science
+
+12 (1), 1–27.
+
+Gulati, R., Lawrence, P.R., Puranam, P., 2005. Adaptation in vertical
+relationships: beyond incentive conﬂict. Strategic Management Jour-
+nal 26 (5), 415–440.
+
+Gupta, A.K., Souder, W.E., 1998. Key drivers of reduced cycle time.
+
+Research Technology Management 41 (4), 38–43.
+
+Hammel, T.R., Kopczak, L.R., 1993. Tightening the supply chain. Produc-
+
+tion and Inventory Management 34 (2), 63–70.
+
+Hannan, M.T., Freeman, J., 1984. Structural inertia and organizational
+
+change. American Sociological Review 49 (2), 149–164.
+
+Hansen, M.T., Nohria, N., 2004. How to build collaborative advantage. MIT
+
+Sloan Management Review 46 (1), 22–30.
+
+Hartley, J.L., Zirger, B.J., Kamath, R.R., 1997. Managing the buyer–supplier
+interface for on-time performance in product development. Journal of
+Operations Management 15 (1), 57–70.
+
+Hauptman, O., Hirji, K.K., 1996. The inﬂuence of process concurrency on
+project outcomes in product development: an empirical study of
+cross-functional teams. IEEE Transactions on Engineering Manage-
+ment 43 (2), 153–164.
+
+Henke, J.W., Krachenberg, A.R., Lyons, T.F., 1993. Cross-functional teams:
+good concept, poor implementation! Journal of Product Innovation
+Management 10 (3), 216–229.
+
+Hinds, P.J., Mortensen, M., 2005. Understanding conﬂict in geographically
+distributed teams: the moderating effects of shared identity, shared
+context, and spontaneous communication. Organization Science 16
+(3), 290–307.
+
+Hoopes, D.G., Madsen, T.L., Walker, G., 2003. Guest editors’ introduction to
+the special issue: why is there a resource-based view? Toward a
+theory of competitive heterogeneity. Strategic Management Journal
+24 (10), 889–902.
+
+Hoskisson, R.E., Hitt, M.A., 1990. Antecedents and performance outcomes
+of diversiﬁcation: a review and critique of theoretical perspectives.
+Journal of Management 16 (2), 461–509.
+
+Ittner, C.D., Larcker, D.F., 1997. Product development cycle time and
+organizational performance. Journal of Marketing Research 34 (1),
+13–23.
+
+Kearney, A.T., 2007. Execution is everything: the keys to offshoring
+
+success. <http://www.atkearney.com/main.taf?p=5,3,1,157>.
+
+
+338
+
+A.A. Mishra, R. Shah / Journal of Operations Management 27 (2009) 324–338
+
+Kessler, E.H., 2000. Tightening the belt: methods for reducing develop-
+ment costs associated with new product innovation. Journal of Engi-
+neering and Technology Management 17 (1), 59–92.
+
+Kogut, B., Zander, U., 1992. Knowledge of the ﬁrm, combinative capabil-
+ities, and the replication of technology. Organization Science 3 (3),
+383–397.
+
+Koufteros, X., Vonderembse, M., Jayaram, J., 2005. Internal and external
+integration for product development: the contingency effects of
+uncertainty, equivocality, and platform strategy. Decision Science
+36 (1), 97–133.
+
+Krishnan, V., Ulrich, K.T., 2001. Product development decisions: a review
+
+of the literature. Management Science 47 (1), 1–21.
+
+Langerak, F., Hultink, E.J., 2005. The impact of new product development
+acceleration approaches on speed and proﬁtability: lessons for pio-
+neers and fast followers. IEEE Transactions on Engineering Manage-
+ment 52 (1), 30–42.
+
+Leonard-Barton, D., 1995. Wellsprings of Knowledge. Harvard Business
+
+School Press, Boston, MA.
+
+MacCormack, A., Verganti, R., Iansiti, M., 2001. Developing products on
+‘‘Internet Time’’: the anatomy of a ﬂexible development process.
+Management Science 47 (1), 133–150.
+
+MacCormack, A., Forbath, T., 2008. Learning the ﬁne art of global colla-
+
+boration. Harvard Business Review 86 (1), 24–26.
+
+Mallick, D.N., Schroeder, R.G., 2005. An integrated framework for mea-
+suring product development performance in high technology indus-
+tries. Production & Operations Management 14 (2), 142–158.
+
+Markides, C.C., Williamson, P.J., 1994. Related diversiﬁcation, core com-
+petences and corporate performance. Strategic Management Journal
+15 (5), 149–165.
+
+McGinnis, M.A., Vallopra, R.M., 1999. Purchasing and supplier involve-
+ment: issues and insights regarding new product success. Journal of
+Supply Chain Management 35 (3), 4–15.
+
+Shah, R., Goldstein, S.M., 2006. Use of structural equation modeling in
+operations management research: looking back and forward. Journal
+of Operations Management 24 (1), 148–169.
+
+Shah, R., Ward, P.T., 2007. Deﬁning and developing measures of lean
+
+production. Journal of Operations Management 25 (4), 785–805.
+
+Shah, R., Ward, P.T., 2003. Lean manufacturing: context, practice bundles,
+and performance. Journal of Operations Management 21 (2), 129–
+149.
+
+Shankar, V., 1999. New product introduction and incumbent response
+strategies: their interrelationship and the role of multimarket con-
+tact. Journal of Marketing Research 36 (3), 327–344.
+
+Sivadas, E., Dwyer, R.F., 2000. An examination of organizational factors
+inﬂuencing new product success in internal and alliance-based pro-
+cesses. Journal of Marketing 64 (1), 31–49.
+
+Smith, P.G., Reinertsen, D.G., 1998. Developing Products in Half the Time.
+
+Van Nostrand Reinhold, New York.
+
+Sutton, R.I., Hargadon, A., 1996. Brainstorming groups in context: effec-
+tiveness in a product design ﬁrm. Administrative Science Quarterly 41
+(4), 685–718.
+
+Swink, M.L., 1999. Threats to new product manufacturability and the
+effects of development team integration processes. Journal of Opera-
+tions Management 17 (6), 691–709.
+
+Swink, M.L., 2006. Building collaborative innovation capability. Research-
+
+Technology Management 49 (2), 37–47.
+
+Tanriverdi, H., Venkatraman, N., 2005. Knowledge relatedness and the
+performance of multibusiness ﬁrms. Strategic Management Journal
+26 (2), 97–119.
+
+Tatikonda, M.V., Montoya-Weiss, M.M., 2001. Integrating operations and
+marketing perspectives of product innovation: the inﬂuence of orga-
+nizational process factors and capabilities on development perfor-
+mance. Management Science 47 (1), 151–172.
+
+Thomke, S., Nimgade, A., 2000. Bush Boake Allen. Harvard Business School
+
+Meyer, M.H., Lehnerd, A.P., 1997. The Power of Product Platforms. The
+
+Cases 1–24.
+
+Free Press, New York.
+
+Milgrom, P., Roberts, J., 1995. Complementarities and ﬁt: strategy, struc-
+ture, and organizational change in manufacturing. Journal of Account-
+ing & Economics 19 (2/3), 179–208.
+
+Moffat, L.K., 1998. Tools and teams: competing models of integrated
+product development project performance. Journal of Engineering
+and Technology Management 15 (1), 55–85.
+
+Orlikowski, W.J., 2002. Knowing in practice: enacting a collective
+capability in distributed organizing. Organization Science 13 (3),
+249–273.
+
+Peng, D.X., et al., 2007. Linking routines to operational capabilities: a
+new perspective. Journal of Operations Management 26 (6), 730–
+748.
+
+Petersen, K.J., Handﬁeld, R.B., Ragatz, G.L., 2005. Supplier integration
+into new product development: coordinating product, process and
+supply chain design. Journal of Operations Management 23 (3/4),
+371–388.
+
+Porter, M.E., 1996. What is strategy? Harvard Business Review 74 (6),
+
+61–78.
+
+Porter, M.E., Siggelkow, N., 2008. Contextual interactions within activity
+systems and sustainability of competitive advantage. Academy of
+Management Perspectives 22 (2), 34–56.
+
+Ragatz, G.L., Handﬁeld, R.B., Petersen, K.J., 2002. Beneﬁts associated
+with supplier integration into new product development under
+conditions of technology uncertainty. Journal of Business Research
+55 (5), 389–400.
+
+Tushman, M.L., Nadler, D.A., 1978. Information processing as an integrat-
+ing concept in organizational design. Academy of Management
+Review 3 (3), 613–624.
+
+Van de Ven, A.H., Delbecq, A.L., Koenig Jr., R., 1976. Determinants of
+coordination modes within organizations. American Sociological
+Review 41 (3), 322–338.
+
+Venkatraman, N., 1989. The concept of ﬁt in strategy research: toward
+verbal and statistical correspondence. Academy of Management
+Review 14 (1), 423–444.
+
+Verona, G., 1999. A resource-based view of product development. Acad-
+
+emy of Management Review 24 (1), 132–142.
+
+Vickery, S.K., Jayaram, J., Droge, C., Calantone, R., 2003. The effects of an
+integrative supply chain strategy on customer service and ﬁnancial
+performance: an analysis of direct versus indirect relationships.
+Journal of Operations Management 21 (5), 523–539.
+
+von Hippel, E., 1998. Economics of product development by users: the
+impact of ‘‘sticky’’ local information. Management Science 44 (5),
+629–644.
+
+Walker, R., Tersini, N., 1992. Silicon Destiny: The Story of Application
+Speciﬁc Integrated Circuits and LSI Logic Corporation. C.M.C. Publica-
+tions, Milpitas, CA.
+
+Wasti, S.N., Liker, J.K., 1997. Risky business or competitive power? Sup-
+plier involvement in Japanese product design. Journal of Production
+and Innovation Management 14 (5), 337–355.
+
+Weick, K.E., 1979. The Social Psychology of Organizing. Addison-Wesley,
+
+Reading, MA.
+
+Rigby, D., Zook, C., 2002. Open-market innovation. Harvard Business
+
+Wheelwright, S.C., Clark, K.B., 1992. Creating project plans to focus
+
+Review 80 (10), 80–89.
+
+Sakakibara, S., Flynn, B.B., Schroeder, R.G., Morris, W.T., 1997. The impact
+of just-in-time manufacturing and its infrastructure on manufactur-
+ing performance. Management Science 43 (9), 1246–1257.
+
+Schmidt, J.B., Calantone, R.J., 1998. Are really new product development
+projects harder to shut down? Journal of Product Innovation Manage-
+ment 15 (2), 111–123.
+
+product development. Harvard Business Review 70 (2), 67–82.
+
+Whittington, R., Pettigrew, A., Peck, S., Fenton, E., Conyon, M., 1999.
+Change and complementarities in the new competitive landscape:
+a European panel study 1992–1996. Organization Science 10 (5),
+583–600.
+
+Wong, S., 2004. Distal and local group learning: performance trade-offs
+
+and tensions. Organization Science 15 (6), 645–656.
+

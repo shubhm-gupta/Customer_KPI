@@ -1,0 +1,2742 @@
+ 
+
+ 
+
+THE WILLIAM DAVIDSON INSTITUTE 
+
+AT THE UNIVERSITY OF MICHIGAN  
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Does Better Environmental Performance 
+
+Affect Revenues, Cost, or Both?  
+
+Evidence From a Transition Economy 
+
+By: Dietrich Earnhart and Lubomir Lizal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+William Davidson Institute Working Paper Number 856 
+
+February 2007 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+Does Better Environmental Performance
+
+Affect Revenues, Costs, or Both?
+
+Evidence from a Transition Economy *
+
+Dietrich Earnhart #
+
+Lubomir Lizal ##
+
+Contact Information: Dietrich Earnhart
+
+Department of Economics
+213 Summerfield Hall
+University of Kansas
+Lawrence, KS 66045
+785-864-2866 (phone)
+785-864-5270 (fax)
+Earnhart@ku.edu
+
+December 19, 2006
+
+* We acknowledge the financial support of a COBASE grant from the National Research Council.
+Dietrich Earnhart acknowledges the financial support of the College of Liberal Arts and Sciences
+at the University of Kansas in the form of General Research Fund grant # 2301467.
+
+# University of Kansas and William Davidson Institute (WDI).
+## Holds Citicorp Professorship at CERGE-EI, a joint workplace of Charles University and the
+    Academy of Sciences of the Czech Republic, and Centre for Economic Policy Research (CEPR).
+
+1
+
+
+Does Better Environmental Performance
+
+Affect Revenues, Costs, or Both?
+
+Evidence from a Transition Economy
+
+Abstract:  This  study  analyzes  the effect  of  corporate  environmental  performance  on  financial
+
+performance  in  a  transition  economy.    In  particular,  it  assesses  whether  good  environmental
+
+performance  affects  revenues,  costs,  or  both,  and  if  so,  in  which  directions.    As  environmental
+
+performance improves, do revenues rise and costs fall so that profits unambiguously increase?  Or
+
+vice versa?  If both revenues and costs rise (or fall), does better environmental performance improve
+
+or  undermine  profitability?    To  answer  these  questions,  our  study  analyzes  the  links  from
+
+environmental performance to revenues, costs, and profits using an unbalanced panel of Czech firms
+
+from the years 1996 to 1998.  The analytical results indicate strongly that better environmental
+
+performance  improves  profitability by driving  down  costs  more  than  it  drives  down  revenues,
+
+consistent with the substantial regulatory scrutiny exerted by environmental agencies and the primary
+
+pollution control approach implemented by firms during the sample period.
+
+JEL codes: D21, G39, Q53
+
+Keywords: Czech Republic, environmental protection, pollution, financial performance
+
+2
+
+
+Non-Technical Summary
+
+This  paper  analyzes  the  effect  of  corporate  environmental performance  on  financial
+
+performance  in  a  transition  economy.    Theoretical insight  on  this  topic  posits  either  a  positive
+
+relationship  or  a  negative  relationship.    The traditional  perspective  views  environmental
+
+expenditures, whether on end-of-pipe treatment or pollution prevention efforts, as a drain on firms’
+
+resources.  On the other hand, more recent theoretical insight posits that pollution prevention and
+
+the associated re-evaluation of firms’ production processes engenders opportunities for firms to
+
+innovate by modifying their production “strategically”, such as recycling by-products that would
+
+otherwise be discharged into the natural environment.
+
+Several studies analyze empirically the effect of corporate environmental performance on
+
+financial performance but only in mature market economies.  In contrast, our study examines the
+
+effect  of  environmental  performance,  as  measured  by  air  pollutant  emissions,  on  financial
+
+performance in the transition economy of the Czech Republic between 1996 and 1998.  The context
+
+of a transition economy is highly interesting for an assessment of financial performance for obvious
+
+reasons.  Firms in transition economies are struggling to restructure themselves within a new market-
+
+based  system. De  novo  private  firms  struggle  to  establish themselves  as  the  economic  system
+
+evolves.  State-owned firms struggle to compete against potentially more nimble private competitors.
+
+Privatized  firms  (i.e.,  previously  state-owned)  face  the  extra  challenge  of  reformulating  their
+
+corporate management practices to fit a new economic paradigm.  The importance of corporate
+
+restructuring and financial management is even greater in most of the transition economies in Central
+
+and Eastern Europe, including the Czech Republic, given the desire to enter the European Union.
+
+As with many of other countries in Central and Eastern Europe, the context of the Czech
+
+3
+
+
+transition  economy  is  also  highly  interesting  for  an  assessment  of  environmental  performance.
+
+During and following the collapse of communism in the Czech Republic, environmental protection
+
+issues were prominent.  In addition to domestic concerns, the Czech government needed to reduce
+
+industrial air pollutant emissions to qualify for membership in the EU.  Between 1991 and 1998, the
+
+country’s government tightened air protection with a new Clean Air Act and steadily increased
+
+emission  charge  rates  on  all  stationary  emission  sources.    Thus,  Czech  firms  simultaneously
+
+struggled to control their air pollutant emissions and re-organize their financial matters.
+
+Overall, our study of the Czech Republic may be viewed as representative of other countries
+
+in the Central and Eastern European region during their transition periods towards EU accession.
+
+Within  the  context  of  a  transition  economy,  our  study  focuses  on  a  particular  research
+
+question.  It assesses whether good environmental performance affects revenues, costs, or both,  and
+
+if so, in which directions.  As environmental performance improves, do revenues rise or fall?  Do
+
+costs rise or fall?  Do revenues rise and costs fall so that profits unambiguously increase?  Or do
+
+revenues fall and costs rise so that profits unambiguously decrease?  If both revenues and costs rise
+
+(or fall), does better environmental performance improve or undermine profitability?  To answer
+
+these questions, this study analyzes the links from environmental performance to revenues, costs,
+
+and profits using an unbalanced panel of Czech firms from the years 1996 to 1998.  The analytical
+
+results indicate strongly and robustly that better environmental performance improves profitability
+
+by driving down costs more than it drives down revenues, consistent with the substantial regulatory
+
+scrutiny  exerted  by  Czech  environmental  agencies  and  the  primary  pollution  control  approach
+
+implemented by Czech firms during the sample period.
+
+4
+
+
+1. Introduction
+
+Much recent economic analysis, including empirical studies, examines the effect of corporate
+
+environmental performance on financial performance (e.g., Konar and Cohen, 2001; Khanna and
+
+Damon, 1999).  Theoretical insight on this topic posits either a positive relationship or a negative
+
+relationship.  The traditional perspective views environmental expenditures, whether on end-of-pipe
+
+treatment or pollution prevention efforts, as a drain on firms’ resources (Palmer et al., 1995; Filbeck
+
+and  Gorman,  2004).    Certainly,  firms  spend billions  of  dollars  annually  when  applying  for
+
+environmental  permits,  installing mandatory  technologies  or  at  least  technologies  necessary  to
+
+achieve compliance with pollution limits, and reporting their environmental impacts (Portney and
+
+Stavins, 2000).    For example, in 1994, U.S. firms spent more than $ 120 billion to comply with
+
+environmental
+
+laws,  in  addition  to  several  more  billions  spent  on  associated  research  and
+
+development (Konar and Cohen, 2001).
+
+On the other hand, more recent theoretical insight posits that pollution prevention and the
+
+associated re-evaluation of firms’ production processes engenders opportunities for firms to innovate
+
+by modifying their production “strategically”, such as recycling by-products that would otherwise
+
+be discharged into the natural environment (Filbeck and Gorman, 2004).  Moreover, this innovation
+
+may translate into a competitive advantage for a firm (Porter and van der Linde, 1995).  Consistent
+
+with  this  perspective,  some  firms  are  moving  beyond  compliance by  voluntarily  reducing  their
+
+pollution to levels below legal limits (Konar and Cohen, 2001).  In some cases, this overcompliance
+
+is associated with a government-sponsored voluntary program. For example, more than 1,200 firms
+
+participated in the EPA’s 33/50 program, agreeing to reduce voluntarily their emissions of certain
+
+chemicals by 33 % by 1988 and by 50 % by 1995 (Arora and Cason, 1995).  Similar to voluntary
+
+5
+
+
+overcompliance or as part of these efforts to overcomply, some firms are adopting riskier proactive
+
+environmental management practices that attempt to modify production processes in order to prevent
+
+pollution rather than treat it. While riskier, these pollution prevention programs may effectively
+
+reduce pollution, while also lowering costs. For example, by implementing a rigorous pollution
+
+prevention program, 3M reported reducing its air pollutant emissions by 125,000 tons between 1975-
+
+1990, while saving more than $ 1 billion in costs (McCloskey, 1993).
+
+Several studies analyze empirically the effect of corporate environmental performance on
+
+financial  performance  (e.g.,  Khanna  and  Damon,  1999).    To  the  authors’  best  knowledge,  no
+
+previous study examines this relationship outside of the US and Canada, with only two studies of
+
+Canada (Laplante and Lanoie, 1994; Lanoie et al., 1998).  Thus, previous empirical studies examine
+
+only  mature  market  economies.    In  contrast,  our  study  examines  the  effect  of  environmental
+
+performance, as measured by air pollutant emissions, on financial performance in the transition
+
+economy of the Czech Republic during the years 1996 and 1998.
+
+The  context  of  a  transition  economy  is  highly  interesting  for  an  assessment  of  financial
+
+performance  for  obvious  reasons.    Firms  in transition  economies  are  struggling  to  restructure
+
+themselves  within  a  new  market-based system. De  novo  private  firms  struggle  to  establish
+
+themselves  as  the  economic  system  evolves.    State-owned  firms  struggle  to  compete  against
+
+potentially more nimble private competitors.  Privatized firms (i.e., previously state-owned firms)
+
+face the extra challenge of reformulating their corporate management practices to fit an entirely new
+
+economic paradigm. The importance of corporate restructuring and financial management is even
+
+greater in most of the transition economies in Central and Eastern Europe, including the Czech
+
+Republic, given the desire to enter the European Union (EU). [While the Czech Republic entered
+
+6
+
+
+the EU in 2004, the accession process began in the mid-1990s.]
+
+As with other countries in Central and Eastern Europe, the context of the Czech transition
+
+economy is also highly interesting for an assessment of environmental performance.  During and
+
+following the collapse of communism in the Czech Republic, environmental protection issues were
+
+prominent.    The  Czech  Republic  had  a  substantially  degraded  environment  in  the  1990s;  in
+
+particular, poor ambient air quality and air pollution were large environmental problems of public
+
+concern (World Bank, 1992). In addition to this domestic public concern, the Czech government
+
+needed to reduce industrial air pollutant emissions in order to qualify for membership in the EU.
+
+(For both of these reasons, our focus on air-related environmental performance seems quite valid.)
+
+In response to public concern and in anticipation of the Czech Republic’s entrance into the EU,
+
+between 1991 and 1998, the country’s government was tightening air protection with a new Clean
+
+Air Act and its subsequent clarifying decrees. The Czech government was requiring new stationary
+
+emission  sources  to  meet  stringent  emission  limits  based  on  the  installation  of  state-of-the-art
+
+treatment technologies and forcing existing stationary emission sources initially to meet “currently
+
+attainable” emission limits and eventually to meet new source limits (by the end of 1998), all while
+
+steadily increasing emission charge rates on all stationary emission sources.  In addition to more
+
+stringent air protection policies, Czech firms moved into export markets that may have offered new,
+
+albeit limited, opportunities to market “green” goods.  Consistent with the escalating protection
+
+policies and new marketing opportunities, investment in environmental protection as a percent of
+
+gross  domestic  product  (GDP)  rose  dramatically  after  1991,  peaking  in  1996,  and  declined
+
+substantially after 1998, returning to pre-transition levels by 2000.  In keeping with this increased
+
+investment, throughout this same period, aggregate air pollutant emissions declined dramatically.
+
+7
+
+
+Thus,  Czech  firms  substantially  increased  their  investment  into  environmental  protection  and
+
+produced dramatic pollution reductions.1
+
+Consequently, Czech firms simultaneously struggled to control their air pollutant emissions
+
+and re-organize their financial matters.  In this context of major changes, we anticipate that our study
+
+is well-positioned to capture any meaningful relationship that might exist between environmental
+
+and financial performance.  This context contrasts with a mature market economy, where most firms
+
+may only marginally modify their environmental management practices with only limited effects on
+
+their  financial  performance. Of  course,  many  prominent  cases  of  substantial  change  to
+
+environmental management do exist in mature market economies; however, these cases need not
+
+represent a substantial portion of the overall economy.2
+
+For this reason, the results from this study of a transition economy need not generalize to
+
+economies that are neither in transition or developing in general. Nevertheless, the results should
+
+generalize  to  other  similar  transition economies.    The  Czech  experience  with  poor  ambient  air
+
+quality, initially high air pollutant emission levels, tightened air protection laws, substantial emission
+
+reductions, and pending entry into the EU is highly similar to other countries in Central and Eastern
+
+Europe, such as Hungary and Poland.   Thus, our study of the Czech Republic may be viewed as
+
+3
+
+representative of other countries in the Central and Eastern European region during its transition
+
+1
+
+During this period, the Czech government offered limited financial assistance from  the  State
+Environmental Fund for environmental investment.  For example, this source represented only 4 % and 9 %
+of  overall  financing  into  air-related investment  in  1996 and 1997,  respectively  (Czech Ministry  of  the
+Environment, 1997, 1998).
+
+2
+
+While greater variation in the financial and environmental performance factors help to facilitate
+our analysis, this greater variation may stem (at least partially) from a stronger prevalence of “noise”, which
+reduces our analytical ability to identify a meaningful “signal”.
+
+3
+
+  Details on this comparison are available upon request.
+
+8
+
+
+period towards EU accession.  In sum, this study cannot serve as the definitive study on the link from
+
+environmental  performance  to  financial  performance  and  may  not  generalize  beyond  transition
+
+economies; still, it represents a useful contribution to a literature packed with studies of mature
+
+market economies.
+
+Within  the  context  of  a  transition  economy,  our  study  focuses  on  a  particular  research
+
+question.  It assesses whether good environmental performance affects revenues, costs, or both,  and
+
+if so, in which directions. As environmental performance improves, do revenues rise or fall?  Do
+
+costs rise or fall?  Do revenues rise and costs fall so that profits unambiguously increase?  Or do
+
+revenues fall and costs rise so that profits unambiguously decrease? If both revenues and costs rise
+
+(or fall), does better environmental performance improve or undermine profitability?  To answer
+
+these questions, this study analyzes the links from environmental performance to revenues, costs,
+
+and profits using a panel of Czech firms. The analytical results indicate strongly and robustly that
+
+better environmental performance improves profitability by driving down costs more than revenues.
+
+This paper explores the effect of environmental performance within the following format.
+
+The next section summarizes the related literature.  Section 3 describes the database on corporate
+
+financial performance and air pollutant emissions.  Section 4 estimates and interprets the effect of
+
+corporate environmental performance on financial performance. The final section concludes.
+
+2. Related Literature and Theoretical Insight
+
+2.1. Literature of the Link from Environmental Performance to Financial Success
+
+Recent economic analysis explores the link from corporate environmental performance to
+
+financial performance.  All of these studies analyze firms in mature market economies.  Four studies
+
+employ  regression  analysis  to  examine  a  sample of  firms  from  the  Standard  &  Poor  500  using
+
+9
+
+
+environmental  data  from  the  Investor  Responsibility  Research  Center  (IRRC)  Corporate
+
+Environmental Profiles Directory.  First, Konar and Cohen (2001) find a significantly positive effect
+
+of good environmental performance, as measured by toxic emissions, on firms’ intangible asset
+
+values.    Similarly,  Austin  et  al.  (1999)  demonstrate  that  good  environmental  performance,  as
+
+captured  by  certain  measures  (e.g.,  toxic  emissions  and  hazardous  waste  corrective  actions),
+
+positively affect financial rates of return.  Consistent with the two noted studies, Hart and Ahuja
+
+(1996)  show  that  emission  reductions  prompt  better  financial  performance,  based  on
+
+accounting-based measures, within a two-year window.  Filbeck and Gorman (2004) also find a
+
+positive relationship between financial and environmental performance; to demonstrate this point,
+
+they regress three-year holding period returns against environmental penalty magnitudes.
+
+Three additional studies generate similar conclusions in general by also employing regression
+
+analysis  to  examine financial  performance.    Russo  and  Fouts  (1997)  demonstrate  that  good
+
+environmental  ratings,  as  assigned  by  the  Franklin  Research  and  Development  Corporation,
+
+positively impact a firm’s return on assets (ROA).  Khanna and Damon (1999) generate a similar
+
+conclusion  by  examining  participants  in  the  EPA’s  33/50  program  and  revealing  that  better
+
+environmental performance, at least measured by the number of Superfund sites, improves return
+
+on  investment  and  sales-adjusted  excess  market  value.     In  addition,  the  authors  show  that
+
+4
+
+participation in the 33/50 program improves sales-adjusted excess market value.  Similar to Khanna
+
+and Damon (1999), Arora and Cason (1996) demonstrate that participation in the EPA’s 33/50
+
+program slightly increases profits.
+
+In addition to regression analysis, which our study employs, three studies use sample means
+
+4
+
+  Sales-adjusted excess market value equals actual market value less the book value of assets.
+
+10
+
+
+tests to examine the effect of environmental performance on financial performance.  First, Cohen
+
+et al. (1995) examine both  accounting-based measures of financial performance (e.g., return on
+
+assets) and market-based measures of financial performance (e.g., risk-adjusted shareholder total
+
+return).  Their study divides a sample of US firms into two “portfolios” according to whether each
+
+firm is above or below its industry median for one of nine environmental performance measures.
+
+Then they test the differences in financial performance mean values across the two sub-samples.
+
+Similarly, Austin et al. (1999) divide firms into “green” and “brown” categories according to their
+
+lagged environmental performance.  Consistent with these two studies, Gottsman and Kessler (1998)
+
+compare the financial returns to the S&P 500 against three sub-samples based on four measures of
+
+environmental performance.  In particular, they divide firms into the top 75%, top 50%, and top 25%
+
+of environmental performers across all industries.5
+
+Our study draws upon this empirical literature to guide our analysis. Since all of the noted
+
+5
+
+Additional studies use event-study analysis to examine the effect of environmental events on stock
+value.  Laplante and Lanoie (1994) use the CAPM version of event-study analysis.  Bosch et al. (1998) use
+Dodd and Warner’s (1983) version of event-study analysis to explore the effect of federal environmental
+enforcement on stockholder wealth. They show that the stock market reacts negatively upon learning that
+a given firm has been targeted for enforcement. Muoghalu et al. (1990) also use Dodd and Warner’s (1983)
+version of event-study analysis.  Lanoie et al. (1998) use a method akin to event-study analysis to analyze
+how investors react to the release of public information regarding the environmental performance of specific
+facilities, including the deliberate release by regulators, as measured by fluctuations on the stock market.
+Klassen and McLaughlin (1996) use the Efficient Market Theory version of event-study analysis to show
+that  signals  of  strong  environmental  management, as  measured  by  environmental  performance awards,
+increase firms’  equity  returns, and signals  of  weak  environmental  management, as  measured  by
+environmental “crises”, lower equity returns. Hamilton (1995) uses Dodd and Warner’s (1983) version of
+event-study analysis to examine firms listed in the Environmental Protection Agency (EPA)’s Toxic Release
+Inventory (TRI) database to determine the effect of that data’s release on stock returns for those firms.  His
+results indicate that stockholders in firms reporting TRI pollution figures experienced negatively abnormal
+returns upon the first release of the information. In addition to their event-study analysis, both Klassen and
+McLaughlin  (1996) and Hamilton  (1995) perform  regression analysis.   In  particular, Hamilton  (1995)
+performs cross-section analysis of the abnormal returns, measured in dollars, on the day of TRI data release.
+Konar and Cohen (1997) also use event-study analysis to examine investors’ reactions to the release of TRI
+data.  Then they expand on Hamilton (1995) by showing that the abnormal returns generated by the TRI data
+release were important enough to affect future corporate environmental performance.
+
+11
+
+
+studies examine mature market economies, our study contributes to the literature by examining the
+
+link from corporate environmental performance to financial performance in a transition economy.
+
+As a second contribution, our study examines a panel of firms over a multi-year period using
+
+an econometric estimator that relies upon intra-firm variation rather than cross-sectional variation.
+
+Use of this estimator avoids the concern that more financially successful firms are the same ones
+
+who effectively control their pollution levels.  Several of the previous studies fail to address this
+
+concern  (e.g.,  Russo  and  Fouts,  1997;  Hart  and  Ahuja,  1996;  Arora  and  Cason,  1996).
+
+Consequently, these studies may be incorrectly attributing influence to environmental performance
+
+that is based on correlation rather than causation.  In other words, these cross-sectional analyses are
+
+unable to identify properly the important heterogeneity across firms, while our panel data analysis
+
+controls for individual firm characteristics in more detail.
+
+Beyond the empirical guidance displayed above, the cited studies, along with additional
+
+studies, provide insight into the theoretical effect of environmental performance on  financial
+
+performance.  Collectively, this insight suggests that good environmental performance may improve
+
+or degrade financial success and that this improvement or degradation may stem from an alteration
+
+to revenues, costs, or both.
+
+First, environmental performance may affect revenues. Customers may be willing to pay
+
+more for or buy more of environmentally friendly products ( “green” products).  Thus, a firm is able
+
+to  increase  its  revenues  by  reducing  its environmental  impact  in  order  to  sell  “green”  products
+
+(Klassen and McLaughlin, 1996).  Conversely, firms may experience lower revenues when their
+
+products are deemed “brown” because the firms’ environmental record is poor.  Within the realm
+
+of  “green”  marketing,  a  firm  may  sell  green  products  to  customers  who  would  otherwise  be
+
+12
+
+
+indifferent to the firm’s environmentally responsible efforts (Konar and Cohen, 2001). In addition,
+
+environmentally responsible behavior may improve a firm’s overall reputation among customers
+
+(McGuire  et  al.,  1988).  Lastly,  a  firm  may  be  able  to  increase  its  revenues  by  using  an
+
+environmentally friendly technology to establish an industry standard; this establishment provides
+
+the firm with an “early-mover advantage” and status as an “industry leader” (Hart and Ahuja, 1996;
+
+Klassen and McLaughlin, 1996; Porter and van der Linde, 1995).  All of these noted effects are
+
+causal, in that better environmental performance directly leads to higher revenues, given a sufficient
+
+lag.  For example, customers need time to assess the “green” nature of a product before modifying
+
+their willingness to pay for it.
+
+Second, environmental performance may affect costs.  When firms invest in more efficient
+
+production processes, frequently these new technologies are also environmentally friendly: the new
+
+production processes require less energy, generate less waste, demand fewer toxic inputs, etc.  In
+
+addition, better environmental performance may lower the costs of regulatory scrutiny, such as lost
+
+productivity  due  to  inspections.    Similarly, it  may  lower  the  costs  associated  with  regulatory
+
+sanctions and third-party lawsuits (Klassen and McLaughlin, 1996).  Similar to regulatory scrutiny,
+
+better environmental performance may lower the costs imposed by local community pressure, e.g.,
+
+increased  zoning  restrictions  (Earnhart,  2004;  Konar and Cohen,  2001).    Related  to  regulatory
+
+sanctions and third-party lawsuits, better environmental performance may reduce financing costs
+
+because  lenders associate lower financial risk with better environmental management (McGuire et
+
+al.,  1988).    These  environmental  effects  on  costs  are  causal:  better  environmental  performance
+
+directly leads to less regulatory scrutiny, fewer sanctions, less community pressure, etc, given a
+
+13
+
+
+sufficient lag.   For example, regulators needs time to respond to poor environmental performance
+
+6
+
+with inspections and sanctions; consistent with this separation in time, improved environmental
+
+performance will lower a firm’s future regulatory costs.
+
+Better  environmental  performance  may also  reduce  labor  costs.    Pollution-reduction
+
+investments  may  lower  three  types of emissions:  (1)  “external  emissions”,  which  are  directly
+
+discharged  from  the  factory  into the  external  environment,  (2)  “internal  emissions”,  which  are
+
+created and remain within a factory’s working environment, and (3) “internal/external emissions”,
+
+which are created within a factory’s working environmental but are eventually discharged into the
+
+external environment.  (These internal/external emissions are important when a facility’s primary
+
+emission sources are diffuse within the factory; wood chip dust represents a good example of these
+
+so called “fugitive emissions”.)  Often, if a factory wishes to lower its overall discharges into the
+
+external environment, it must reduce internal/external emissions.  Reductions in internal/external
+
+emissions improve working conditions, which increases labor productivity (lowering labor costs)
+
+and decreases worker’s compensation claims and litigation costs (Porter and van der Linde, 1995).
+
+Thus,  efforts  to  improve  environmental  performance  –  lower  discharges  into  the  external
+
+environment – directly lead to lower costs, due to better working conditions.  Still, this causal link
+
+exists with a lag since the human body does not respond immediately to improved indoor ambient
+
+air quality and the compensation claims process is time-consuming.
+
+6
+
+The installation of a newly efficient process may be a notable exception since installation generates
+two outcomes: (1) lower costs, and (2) better environmental performance.  In this case, better environmental
+performance need not cause lower costs. Instead, a link may simply exist between the two elements because
+they stem from the same underlying cause.  However, the effect of environmental performance on lower costs
+may be viewed as causal when a firm chooses to improve its environmental performance by installing a
+newly efficient production process.  In this case, the choice to improve environmental performance leads to
+lower costs.
+
+14
+
+
+In contrast to these enhancements to cost minimization, complex pollution-reducing devices
+
+and processes may reduce overall productive efficiency, thus, raising production costs (Bosch et al.,
+
+1998). This effect is causal and consistent with the traditional perspective on pollution control,
+
+which views efforts to reduce emissions, whether with end-of-pipe treatment or pollution prevention
+
+methods, as a real drain on firm resources (Palmer et al., 1995; Filbeck and Gorman, 2004).
+
+Third, environmental performance may affect both revenues and costs.  From a more general
+
+perspective,  investments  in  environmentally  responsible  behavior  may  drag down  financial
+
+performance because resources are being committed to an ostensibly non-productive use (Cohen et
+
+al., 1995).  More specifically, environmentally responsible business decisions may limit a firm’s
+
+strategic alternatives, thus, driving down revenues and driving up costs. For example, a firm may
+
+decide not to pursue certain product lines or avoid plant relocations and investment opportunities
+
+in certain locations (McGuire et al., 1988).
+
+Consistent  with  this  classification,  several  studies  in  the  literature  take  great  pains  to
+
+distinguish conceptually the two relevant pathways from environmental performance to financial
+
+performance: (1) the pathway of revenues and (2) the pathway of costs.  For example, Figure 2 of
+
+Klassen  and McLaughlin  (1996,  p.  1202)  represents  an  excellent  schematic  for  distinguishing
+
+between “market gains” and “cost savings”. Despite these efforts, no previous empirical  study
+
+evaluates the two pathways, to the authors’ best knowledge.  Instead, the previous empirical studies
+
+examine either market-based financial performance measures, which cannot discern revenues from
+
+costs, or profit-based accounting measures, which evaluate only the difference between revenues and
+
+costs.    Thus,  the  present  study contributes  to  the  literature  by  evaluating  both  profit  and  its
+
+constituent components in order to assess effectively the two noted pathways.
+
+15
+
+
+Lastly, we draw upon the noted theoretical insight to interpret our empirical results.
+
+2.2. Literature of Financial Performance in Central and Eastern Europe
+
+We  also draw upon  recent  economic  studies  of  corporate  financial  and  operational
+
+performance in the transition economies of Central and Eastern Europe.  None of these studies
+
+consider environmental performance as an explanatory variable.  Moreover, the prominent economic
+
+studies use a surprisingly narrow set of measures to capture corporate financial performance.  In
+
+particular, they consider only accounting-based measures of financial performance. In contrast to
+
+studies of financial performance in the US and Canada, few studies of the Central and Eastern
+
+European  region  consider  market-based  measures  for  examining  corporate-level  financial
+
+performance across a variety of firms; this limited use is not surprising given the weakly developed
+
+state of most of the stock markets in this region during the 1990s.
+
+We describe the use of financial and operating performance measures by a few of the more
+
+prominent studies.  Frydman et al. (1999) use revenues and the ratio of labor and material costs to
+
+revenues.  Both Kocenda and Svejnar (2002) and Pohl et al. (1997) use profitability.  Similarly,
+
+Claessens and Djankov (1999) use profitability defined as operating profits relative to the sum of
+
+fixed assets and inventory. Weiss and Nikitin (2002) use operating profit and value added on either
+
+a  per  worker  basis  or  a  per  capital  unit  basis.    We  utilize  these  studies  to  identify  meaningful
+
+measures of corporate financial performance in the context of a transition economy.
+
+We also utilize these studies to identify control factors in the context of a transition economy.
+
+All  of  these  cited  studies  include  only  three  types  of  control factors:  ownership  structure,  year
+
+indicators, and industrial sector indicators.  Claessens and Djankov (1999) include a dummy variable
+
+for the first phase of privatization in the Czech Republic, which does not relate to air pollution
+
+16
+
+
+controls.  Multi-country studies also include country-specific indicators (e.g., Frydman et al., 1999).
+
+We include the same relevant control factors as these cited studies, in addition to other factors.
+
+3. Data on Financial and Environmental Performance
+
+3.1. Czech Republic as Study Site
+
+To examine the effect of corporate environmental performance on financial performance, we
+
+exploit data on firms in the Czech Republic between 1996 and 1998, which is an excellent site and
+
+time period for our study.  First, poor ambient air quality was a prominent environmental problem.
+
+In response to public concern, Czech government authorities took substantial and effective steps to
+
+decrease air emissions dramatically during the period 1991 to 1998 (Czech Ministry of Environment,
+
+1998).  Figure 1 displays the trend of economy-wide air emissions over this period.  Perhaps, the
+
+post-communist decline in economic activity partially explains the drop in the early 1990s.  This
+
+output  decline  notwithstanding,  firms’  pollution  control  efforts,  such  as  the  installation  of
+
+electrostatic precipitators (“scrubbers”) and fuel switching may also explain much of the reduction
+
+in air pollutant emissions (World Bank, 1999).  Second, consistent with this focus on pollution
+
+control  efforts,  investment  in  environmental  protection  was  most  important  during  the  period
+
+between 1992 and 1998, as shown in Figure 2.  As a percentage of Czech gross domestic product
+
+(GDP), investment rose dramatically after 1991 from a level of 1.3 % to a peak of 2.5 % in 1997 and
+
+tailed off after 1998 back to a pre-transition level of 1.1 % by 2000; in 1990, investment was 1.1. %
+
+of GDP.   Third, the Czech Republic was attempting to enter the EU during this period and was
+
+required to reduce its industrial emissions in order to qualify for membership.7
+
+7
+
+  Further details on country-wide emissions, Czech air regulations, and environmental issues related
+
+to EU accession are available upon request.
+
+17
+
+
+3.2. Panel Data from Financial Statements, Ownership Files, and Emissions Register
+
+To examine accounting-based financial performance at Czech enterprises, we gather data
+
+from  three  segments  of  a  database  provided  by  the  private  data  vendor  Aspekt.  Two  segments
+
+provide information drawn from firms’ balance sheets, such as assets, and information taken from
+
+firms’ income statements, such as profits.   The third segment provides information on ownership
+
+8
+
+structure, which we use as a control variable in our multivariate regression analysis.  We gather
+
+balance sheet and income statement data and ownership data for the years 1996 to 1998.  The Aspekt
+
+database includes all firms traded on the primary market – Prague Stock Exchange – or secondary
+
+market [e.g., “Registra
+ní místo system” (RMS)] and a majority of the remaining large Czech firms
+
+(plus their key trading partners).  This comprehensive database has been used by previous studies
+
+of financial and operational performance in the Czech Republic (e.g., Claessens and Djankov, 1999;
+
+Weiss and Nikitin, 2002; Kocenda and Svejnar, 2002; Djankov, 1999).
+
+As an indicator of corporate environmental performance, we choose air pollutants emitted
+
+by facilities located in the Czech Republic during the years 1995 and 1998. The included pollutants
+
+are carbon monoxide (CO), sulfur dioxide (SO ), particulate matter, and nitrous oxides (NO ), which
+
+2
+
+x
+
+represent the main and most heavily regulated pollutants in the Czech Republic, similar to other
+
+industrialized nations. The Czech Hydrometeorological Institute maintains the REZZO-1 database,
+
+which  records  emissions  for  large,  stationary  sources.    While  the  REZZO-1  database  records
+
+emissions  at  individual  units  of individual  facilities,  the  Czech  Hydrometeorological  Institute
+
+aggregates the air emissions to the level of each facility before public release of the data. We further
+
+8
+
+  These financial data are not adjusted for inflation. Instead, our analysis includes year indicators
+
+as regressors in the regression analysis.
+
+18
+
+
+aggregate air emissions across all facilities associated with a single firm, especially since no other
+
+facility-level data are available to us.  Thus, the analysis links emissions data aggregated to the firm
+
+9
+
+level  with  other  firm-level  data,  consistent  with  previous  studies  of  firm-level  environmental
+
+performance (Konar and Cohen, 1997; Konar and Cohen, 2001; Earnhart and Lizal, 2006; Khanna
+
+and Damon, 1999; Khanna et al., 1998; Arora and Cason, 1995). Finally, we add the four pollutants
+
+into  one composite measure of air emissions,  similar  to  previous studies  of  environmental
+
+performance (Konar and Cohen, 1997; Konar and Cohen, 2001; Khanna and Damon, 1999; Khanna
+
+et al., 1998; Arora and Cason, 1995; Arora and Cason, 1996).
+
+To  examine  the  effect  of  environmental  performance  on  financial  performance,  while
+
+controlling for ownership structure, we merge the financial, emission, and ownership data sets.  In
+
+order to generate the largest sample possible and to avoid a sample selection bias due to attrition, we
+
+create an unbalanced panel of firm-year observations for the time period 1996 to 1998. In this
+
+merger and creation, we screen for meaningful financial data by applying the following criteria:
+
+positive  production,  positive  total  assets,  and  positive  fixed  assets.    (Other  important  financial
+
+measures, such as profits, are difficult to screen because they can truthfully take zero or negative
+
+values.)  We also restrict our sample to those observations with non-missing data for the financial,
+
+ownership, and emission variables used in our analysis.
+
+10
+
+  We consider three financial performance
+
+measures; each retained observation must possess non-missing data for all three measures.  (We
+
+choose  not  to  examine  a  variety  of samples  based  on  the  availability  of  data  for  each  financial
+
+9
+
+  While the Czech Hydrometeorological Institute gathers additional information on some facilities,
+
+these data are not systematically recorded.
+
+10
+
+  In the case of emissions, non-missing data are available for either all four pollutants or none.
+
+19
+
+
+performance measure; by considering a single sample, we avoid sample compositional biases when
+
+comparing results across the various financial performance measures. The same concern applies to
+
+our use of various measures of firm size; again, we avoid compositional biases by considering a
+
+single sample.) This merger, screening, and set of restrictions generates a combined unbalanced
+
+panel of 429 firms with 1,044 observations for the years 1996 to 1998.  (In this process, missing
+
+values, not inconsistent values, cause most of the reduction in sample size.)11
+
+3.3. Descriptive Statistics
+
+Table 1 presents a statistical summary of the relevant firm data. As shown in Table 1.a, our
+
+data are sufficiently spread across the three years of our time frame.  Table 1.b. summarizes our data
+
+on air emissions. Our data set contains much variation for emissions, which facilitates our analysis.
+
+Table 1.b also summarizes the ownership shares held by certain types of investors: (1) state, (2)
+
+investment funds, (3) citizens, (4) portfolio companies, (5) bank: direct ownership, (6) strategic
+
+investors (e.g., other companies), (7) foreign investors, and (8) dispersed private investors, which
+
+11
+
+  Two features of this merger deserve elaboration.  First, the overlap between the financial data set
+and the air emissions data set is limited.  Yet, the limited overlap does not indicate a problem with the data.
+Instead, it may simply indicate that firms included in the Aspekt database do not own large stationary air
+emission  sources.  In this  way,  the Aspekt  database need  not  completely  represent  large stationary  air
+polluters. Therefore, our results may not generalize to all or most large stationary air polluters. The opposite
+concern is not relevant. The REZZO-1 database is fully comprehensive of all large polluters.
+
+Second, the restriction of non-missing data binds strongly for ownership data because we lack these
+data for many firm-year observations.  (Ownership data for years prior to 1996 are especially scarce, which
+explains our focus on the period 1996 to 1998. In addition, data on ownership prior to 1996 mostly exist for
+firms that were privatized under the Czech citizen voucher program; thus, use of these data most likely would
+introduce sample selection bias.)  The incomplete recording of ownership data during the chosen sample
+period raises a concern about selection bias. We address this concern by implementing a Heckman two-step
+sample selection procedure (Heckman, 1979). Based on the first stage of this procedure, we generate an
+inverse  Mills  ratio for  each firm  in  each time  period.   By  including  this  variable as  a  regressor in  the
+estimation of financial performance, we control for any potential sample selection bias. (Complete details
+are available upon request.)
+
+20
+
+
+are  not  included  in  the  table.
+
+12
+
+    We  also  incorporate a variable  to  capture  the  concentration  of
+
+ownership as measured by the stockholding share of the single largest shareholder (Kocenda and
+
+Svejnar, 2002).
+
+Table  1.d  indicates  the  distribution  of  firms  by  industrial  classification,  while  Table  1.c
+
+summarizes  the  key  financial  variables  used  in  our  study: profits,  operating  profits,  sales  (or
+
+revenues), costs, total assets, and equity. As demonstrated by the standard deviation measures, our
+
+data set contains much variation in these financial measures.
+
+Profits, operating profits, sales, and costs represent measures of accounting-based financial
+
+performance.  In particular, profits and operating profits represent two measures of profitability.
+
+Operating profits equal the difference between sales and the combination of costs of goods sold and
+
+operating expenses, such as depreciation.  Profits equal the difference between operating profits and
+
+other income and expenses, such as interest payments, extraordinary gains, and taxes.  Interestingly,
+
+profits and operating profits are not extremely correlated given a correlation coefficient (D) equal to
+
+0.709, which is statistically significant (p=0.0001). Since the two profitability measures are similar
+
+but sufficiently different, as a robustness check, we examine both profits and operating profits.  For
+
+the purposes of this study, costs represent the difference between sales and profits.  Consequently,
+
+they do not capture full costs but full costs net of other income; i.e., [cost of goods sold + operating
+
+costs + other costs] - other income.
+
+12
+
+  Two of these ownership forms deserve elaboration. First, portfolio companies are similar to
+strategic investors in that another company invests in the identified company; however, the rationale for the
+investment ranges widely.  Second, the category of dispersed investors includes investors who hold less than
+10% of a given company and never publicly announced their holdings.  Since data on these shares are not
+available, we cannot measure the presence of dispersed investors directly. Instead, we establish it as the
+omitted category in our regression analysis.  As a benchmark, these investors clearly represent less interested,
+non-strategic investors since they hold such a small share of the particular company.
+
+21
+
+
+Total assets and equity represent measures of firm size.  While total assets and equity capture
+
+distinctively different aspects of a firm’s financial structure, the two measures are strongly correlated
+
+(D = 0.939) and significantly correlated (p=0.0001).  Thus, both measures are most likely capturing
+
+similar information about a firm’s size. Yet, as a check for robustness, we consider both measures.
+
+4. Statistical Analysis of Financial Performance
+
+4.1. Econometric Framework
+
+In this section, we use the described data to explore the link from environmental to financial
+
+performance at Czech firms in 1996 to 1998.  We estimate the relationship between environmental
+
+performance, as measured by the absolute level of air pollutant emissions, and financial performance,
+
+as measured by sales, costs, and profits. Consistent with several previous studies (Konar and Cohen,
+
+2001; Filbeck and Gorman, 2004; Cohen et al., 1995; Austin et al., 1999; Hart and Ahuja, 1996), we
+
+use  lagged  environmental  performance  as  the  proper  regressor.    The  lagging  of  environmental
+
+performance  is  appropriate  since  economic  agents  need  to  time  to  translate  any  reduction  in
+
+emissions into an alteration of revenues and/or costs, as noted in sub-section 2.1.  For example,
+
+consumers need time to view a product as “green”; as another example, lenders need time to adjust
+
+their  calculations  of  environmental  risk.    Thus,  environmental  performance  and  financial
+
+performance are separated in time.  Given this separation, lagged environmental performance is
+
+clearly  predetermined  with  respect  to  current financial  performance.    In  essence,  the  analysis
+
+estimates the effect of environmental performance on future financial performance.
+
+To estimate the influence of environmental performance on financial performance, we regress
+
+each type of financial performance on lagged air pollutant emissions plus other control factors.  To
+
+construct the econometric models associated with financial performance, we define the following
+
+22
+
+
+notation. We consider three dependent variables. As the first dependent variable, s  denotes the sales
+
+it
+
+generated by firm i in time period t. As the second dependent variable, c  denotes the costs born by
+
+it
+
+firm i in time period t.  Finally, B  denotes the profits generated by firm i in time period t.  Unless
+
+it
+
+otherwise indicated, B  denotes overall profits as opposed to operating profits.
+
+it
+
+The analysis seeks to decompose the effect of each explanatory factor on profits into the
+
+factor’s separate effect on revenues and separate effect on costs.  Estimation of profits unto itself
+
+does  not  provide  this  decomposition.    Estimating  revenues  and  costs  separately,  along  with
+
+estimation of profits, would generate this decomposition. Fortunately, we do not need to estimate
+
+all three dependent variables. By definition, profits equal the difference between revenues and costs.
+
+Thus, we only need to estimate two of the three dependent variables in order to generate the desired
+
+decomposition.  Each coefficient that could be generated by estimation of the omitted dependent
+
+variable is recoverable as a simple linear combination of the coefficients generated for the two
+
+estimated dependent variables.  Arbitrarily, we choose to estimate costs and profits.  Based on the
+
+coefficients generated by the estimation of costs and profits, we recover the estimated coefficients
+
+for revenues.  For each regressor, the sales-related coefficient equals the difference between the
+
+profit-related coefficient and the cost-related coefficient; we elaborate below.
+
+We incorporate various explanatory variables into our estimation of costs and profits.  As the
+
+primary explanatory variable, p
+
+i,t-1
+
+denotes the amount of pollution emitted by firm i in the preceding
+
+time period t-1 (i.e., lagged emissions).  We also include financially-related factors as explanatory
+
+variables.  Costs and profits most likely depend on the level of production, which is denoted as y .
+it
+
+As production rises, one would expect costs to rise. Since production is clearly expected to affect
+
+23
+
+
+costs, by extension, production is expected to affect profits.
+
+13
+
+   Costs and profits may also depend
+
+on firm size, denoted as a . Unless otherwise indicated, firm size is captured by total assets.  This
+
+it
+
+set  of  financially-related  regressors  may  seem  limited  relative  to  the  regressor  sets  used  by
+
+comparable studies of environmental and financial performance in mature market economies.  These
+
+studies include additional regressors, such as advertising expenditures and research and development
+
+expenditures.  We do not include these types of factors as regressors for two reasons.  First, as noted
+
+in Section 2, previous studies of corporate financial performance in transition economies do not
+
+include these types of factors.  Second, data on these factors are not recorded systematically, if at all,
+
+in our database.
+
+Our analysis incorporates additional regressors.  Specifically, we include various regressors
+
+that  capture  ownership  structure.    First,  we include  a  regressor  for  each  ownership  type  except
+
+“dispersed investors”.  Collectively, we denote these ownership variables as W .  Second, we include
+
+it
+
+a measure of concentration, as captured by the ownership share held by the single largest shareholder
+
+and  denoted  as L .    By  including  these  ownership-related  regressors,  we  control  for  ownership
+
+t
+
+structure, consistent with most studies of transition economies.  However, we neither report nor
+
+13
+
+  Two aspects surrounding production deserve elaboration. First, production is measured in value
+terms, which allows the analysis to compare across firms and across time within a given firm. As noted
+below, our analysis incorporates both industry-specific indicators (or firm-specific indicators in the fixed
+effects model) and year indicators.  This incorporation sufficiently controls for any variation in prices across
+firms and/or time that may otherwise complicate the use of production value as a regressor.  Second, for our
+analysis, we assume that production is pre-determined with respect to costs and profits.  Consistent with this
+general assumption, we specifically assume that the firm is a price-taker, even in those cases when it markets
+a product of higher environmental quality. Similarly, we assume that the firm is demand-constrained in each
+separate product, with a clear distinction between a product of higher environmental quality and one of lower
+environmental quality.  Fortunately, identifying the relationship between production and costs and profits
+does not prove critical for the task at hand.  The reported results regarding the effect of environmental
+performance on financial performance are fully robust to the exclusion of the production factor and a one-
+year lagging of the production factor.
+
+24
+
+
+interpret the associated estimation results since ownership is not the focus of our study and the
+
+coefficients prove insignificant.  To control for variation over time with respect to economy-wide
+
+trends and the legal framework controlling air emissions, we also include individual year indicators,
+
+collectively denoted as vector T . To control for sector-specific variation, we also include industry
+
+t
+
+indicator variables, collectively denoted as vector X .  (The omitted industrial category includes
+
+i
+
+“manufacturing: other” and “other: overall” sectors, which are both listed in Table 1.d.)  The fixed
+
+effects model, described below, subsumes these sectoral effects into its firm-specific fixed effects
+
+since sector does not vary over time for a specific firm.
+
+Given this notation, we formulate the following regression system:
+
+c  = "  + $  p  + (  y  + 6  a  + T  W  + 0  L  + Q  T  + H  X  + <  ,
+
+c
+
+c
+
+c
+
+c
+
+c
+
+c
+
+c
+
+c
+
+i,t-1
+
+it
+
+it
+
+it
+
+it
+
+it
+
+it
+
+it
+
+B  = "  + $  p  + (  y  + 6  a  + T  W  + 0  L  + Q  T  + H  X  + L  ,
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+i,t-1
+
+it
+
+it
+
+it
+
+it
+
+it
+
+it
+
+it
+
+it
+
+it
+
+where <  and L denote the error terms associated with costs and profits, respectively.
+
+it
+
+it
+
+(1)
+
+(2)
+
+14
+
+  Please note
+
+the use of superscripts to distinguish the coefficients shown in the two equations: “c” denotes costs
+
+and “B” denotes profits.  We estimate each equation separately; joint estimation of the two equations
+
+within  a  seemingly  unrelated  regresssion  framework  generates  identical  results  since  the  two
+
+regressor sets are the same.
+
+To control properly for firm-specific effects, we estimate equations (1) and (2) using standard
+
+panel methods: pooled OLS, fixed effects method, and random effects method.  We use standard
+
+tests to assess these methods. When the F-test indicates significant firm-specific effects, the fixed
+
+effects estimator dominates pooled OLS. Since this dominance always holds, we do not report the
+
+14
+
+  We consider neither a semilog nor log-linear specification because profits (and operating profits)
+
+cannot be log-transformed since they take zero values.
+
+25
+
+
+pooled OLS estimates; instead, we only report the F-test statistics, as shown in Tables 2 and 3.  We
+
+use  the  Hausman  test  of  random  effects  to  evaluate  whether  the  random  effects  estimates  are
+
+consistent.  Since the random effects estimates are always inconsistent based on the Hausman test
+
+statistics,  we  do  not  report these estimates.
+
+15
+
+    The  fixed  effects  estimates  are  consistent  by
+
+assumption of the model.
+
+Use of a fixed effects estimator has an additional advantage. By including firm-specific
+
+intercept  terms,  the  fixed effects  estimator  controls  comprehensively  for  time-invariant  factors
+
+associated with specific firms.  Thus, the estimator controls for the possibility that companies who
+
+are better in terms of both environmental and financial matters due to some common (time-invariant)
+
+factor, such as a highly effective corporate governance structure. Rather than using cross-sectional
+
+variation, which is vulnerable to this concern, the fixed effects estimator utilizes intra-firm variation.
+
+4.2. Estimation Results
+
+Table 2.a presents the regression results.  First, production strongly and positively affects
+
+costs and profits.  Firm size does not significantly affect either costs or profits.
+
+Second, we examine the estimated coefficients for lagged environmental performance.  To
+
+recover  the sales-related  coefficient  for  environmental  performance  (i.e.,  effect  of  lagged
+
+environmental performance on sales), we subtract the cost-related coefficient for environmental
+
+performance ($ ) from the profit-related coefficient for environmental performance ($ ):
+
+B
+
+c
+
+s
+
+$  = $  - $  ,
+
+B
+
+c
+
+(3)
+
+where “s” denotes sales.  The resulting coefficient is shown in Table 2.b.
+
+In  this  sub-section,  we  report  and  interpret  briefly  the  estimation  results  relating  to
+
+15
+
+  Hausman test statistics are available upon request.
+
+26
+
+
+environmental performance, while interpreting them more deeply in the subsequent sub-section.  As
+
+shown in Table 2.b, higher lagged air pollutant emissions significantly raise sales (p=0.062).  Thus,
+
+better environmental performance appears to reduce revenues.  Perhaps, environmentally responsible
+
+business  decisions  limit  firms’  strategic  alternatives,  forcing  firms  to  forego  revenue-boosting
+
+products.  In contrast, better environmental performance appears linked with reduced costs.  As
+
+shown in the first column of Table 2.a, higher lagged air pollutant emissions significantly raise costs.
+
+Many reasons potentially explain this outcome, such as diminished regulatory scrutiny.  In the next
+
+sub-section, we assess which of these reasons seems the most plausible.  Both reported conclusions
+
+are fully robust to the use of equity as the firm size measure in lieu of total assets and to the inclusion
+
+of a squared production term.16
+
+If better environmental performance lowers revenues and costs, one question remains: does
+
+better environmental performance raise or lower the difference between revenues and costs, i.e.,
+
+profits?    As  shown  in  the  second  column  of  Table  2.a,  higher  lagged  air  pollutant  emissions
+
+significantly lower profits.  Thus, better environmental performance appears linked with improved
+
+profitability.    While  more  responsible  environmental  management  may  limit  firms’  abilities  to
+
+exploit  revenue-enhancing  projects,    apparently  better  environmental  management  more  than
+
+compensates for these missed opportunities by driving down costs via reduced regulatory scrutiny,
+
+dampened  community  pressure,  etc.    The  next  sub-section  interprets  the  full  set  of  results;  this
+
+interpretation helps to assess which reason (or reasons) most likely drives (or drive) these results.
+
+We  demonstrate  the  robustness  of  this  last  conclusion  by  examining  the  effect  of
+
+environmental performance on profitability using alternative econometric specifications.  We focus
+
+16
+
+ Details on these results are available upon request.
+
+27
+
+
+on profitability because it is the most comprehensive financial performance measure from the set of
+
+three: sales, costs, and profits.  In all cases, the estimated effect of environmental performance on
+
+profitability is highly robust to the alternative specifications and does not differ qualitatively across
+
+the  alternative  specifications.    While  we  estimate  several  alternative  specifications, which  are
+
+described below, for the sake of space and the reader’s burden, we report the full regression results
+
+for  only  three  alternative  specifications,  which  are  shown  in  Table  3. For  the  remaining
+
+specifications, we merely  report  the  p-value  of  the  coefficient  associated  with  environmental
+
+performance.  First, we modify the effect of firm size on financial performance.  To capture any
+
+nonlinearities associated with firm size, we add a squared term of firm size (a ). As shown in the
+
+2
+
+it
+
+first  column  of  Table  3,  this  alternative  specification  generates  an  environmental  performance
+
+coefficient  that  is  very  similar  in  terms  of  sign,  magnitude,  and  significance  as  the  coefficient
+
+reported in Table 2.
+
+Inclusion of the squared firm size measure causes both the linear and  the
+
+squared firm size coefficients to become statistically significant. Specifically, profits rise with firm
+
+size but at a declining rate.  As an additional specification, we replace total assets with equity, as the
+
+measure  of  firm  size.    This  change  in  firm  size measure  does  not  meaningfully  alter  the  sign,
+
+magnitude ($  = -13.32), and significance (p=0.0001) of the estimated environmental performance
+
+B
+
+coefficient.    The  addition  of  squared  equity  as  a  regressor  does  not  change  this  preceding
+
+conclusion.
+
+17
+
+  Two previous studies of financial performance in Central and Eastern Europe use
+
+alternative measures of firm size.  Claessens and Djankov (1999) use the sum of fixed assets and
+
+inventory as a replacement for total assets. Similarly, Weiss and Nikitin (2002) replace total assets
+
+17
+
+Estimation of the environmental performance coefficient is also robust to the inclusion of a debt
+
+to equity regressor, which does not prove to be statistically significant.
+
+28
+
+
+with depreciation, which serves as a proxy for units of capital.  Use of these alternative firm size
+
+measures  again  generate  highly  similar  coefficient  estimates  in  terms  of  sign,  magnitude,  and
+
+significance (p=0.0001 in both cases).
+
+Second, we assess the robustness of the profits-related result by modifying the production
+
+regressor.  In one alternative specification, we simply drop this regressor; in a second specification,
+
+we lag the regressor; in a third specification, we add a squared term of production (y ).  Regardless,
+
+2
+
+it
+
+the  estimated  effect of  environmental  performance  remains  strongly  and  significantly  negative
+
+(p=0.0001 in all cases).  Results for the third specification are displayed in the second column of
+
+Table 3.  As shown, profits rise in production but at a declining rate since the coefficient on the
+
+squared production term is significantly negative.
+
+Third, we modify the measure of profitability by replacing overall profits with operating
+
+profits.    This  replacement  generates  a  highly  significant  negative coefficient  for  lagged
+
+environmental performance: $ = - 10.92 and p = 0.0001.  Thus, better environmental performance
+
+B
+
+improves operating profitability, as well as overall profitability.  This conclusion is strongly robust
+
+to the particular measure of firm size included as a regressor. As shown in the third column of Table
+
+3, use  of  equity  as  the  firm  size  measure  also  generates  a  highly  significant  negative  effect
+
+(p=0.0001)  for  lagged  environmental performance  on  operating  profits.    (We  report  the  full
+
+regression results for this particular specification since the use of equity as a firm size measure
+
+generates a significant coefficient for firm size as opposed to the use of total assets, which generates
+
+an  insignificant  coefficient  for  firm  size.)    Use  of  the  sum  of  fixed  assets  and  inventory  or
+
+depreciation as the firm size measure generates highly similar coefficient estimates in terms of sign,
+
+magnitude, and significance (p=0.0001 in both cases).
+
+29
+
+
+4.3. Interpretation of Results and Implications
+
+Lastly, we interpret these results in light of the preceding literature, while attempting to
+
+identify important implications.  First, the results of our study indicate that better environmental
+
+performance appears to lower revenues.  This finding provides support for the conjecture that the
+
+implementation  of  better  environmental  management  practices  limit  firms’  abilities  to  pursue
+
+revenue-enhancing projects.  More specifically, tighter air emission limits and/or higher emission
+
+charge rates may have possibly constrained Czech firms’ abilities to produce higher quality products.
+
+Conversely, the noted finding rejects the conjectures that better environmental management (1)
+
+allows firms to sell “green” goods at a higher price or in greater quantity, (2) prompts customers who
+
+are otherwise indifferent to environmentally responsible efforts to buy “green” goods, (3) improves
+
+a  firm’s  overall  reputation  among  customers,  and  (4)  provides  the  firm with  an  “early-mover”
+
+advantage and status as an “industry leader” (given that the better management practice establishes
+
+an industry standard).  This apparent rejection need not surprise us given that Czech firms were
+
+probably  not  well  situated  during  the  sample  period  to  deliver  “green”  products  or  establish
+
+themselves as “industry leaders”.18
+
+Overall,  this  finding  implies  that  Czech  firms  should  cautiously  improve  environmental
+
+management practices if corporate management keys on any decline in revenues, independent of any
+
+change in profits (which seem to benefit from better environmental management), as an indicator
+
+18
+
+    According  to  Czech Ministry  of  Environment  (2004), while the  Czech Ministry  of  the
+Environment established the National Eco-Labeling Program in 1994, this program operated at a low level
+prior to 2000.  Starting in 2000, the Czech government began to support the sale of eco-labeled products by
+granting  them  preference in  the  purchasing  orders  from  the state  administration.    In  the  same  year, the
+national program entered the Global Eco-Labeling Network. By 2004, the program had awarded the eco-
+label  to  310  products,  involving  169  licenses  for  82  companies; moreover, the  Czech government  had
+integrated its national program into the multinational programs of the OECD and EU.
+
+30
+
+
+of  the  need  to  cut  costs.    In  other  words, management  may  observe  weakened  revenues  in  the
+
+preceding period and attempt to address this issue by cutting costs in the current period.  In this case,
+
+management would be over-reacting because the diminished revenues are associated with an even
+
+stronger reduction in costs so that profits actually rise.
+
+Second, the results of our study indicate that better environmental performance appears to
+
+lower costs.  This finding is consistent with several conjectures, which are described in sub-section
+
+2.1.  First, this finding supports the conjecture that implementation of a more efficient production
+
+technology, which reduces air pollutant emissions, also lowers production costs.
+
+19
+
+  Alternatively, this
+
+finding supports the conjecture that reduced air emissions lead to lower regulatory scrutiny, which
+
+reduces the costs stemming from the distraction of inspectors and lawyers.  Yet again, this finding
+
+supports  the  conjecture  that  better  environmental  performance  lowers  the  costs  associated  with
+
+regulatory sanctions, third-party suits, and community pressure.
+
+All of these interpretations are plausible for the Czech transition economy and consistent with
+
+other available evidence.  Certainly, Czech firms invested into new production technologies over this
+
+period (Lizal and Svejnar, 2002b). However, pollution prevention stemming from the installation
+
+of better and cleaner production processes was not prevalent during the sample period.  Instead, most
+
+Czech facilities reportedly reduced emissions in the old-fashioned way: they installed end-of-pipe
+
+treatment technologies. Thus, the role of new production technologies appears limited.  In contrast,
+
+the role of regulatory scrutiny seems larger.  Unlike in Communist times, the Czech Inspection,
+
+19
+
+    Use  of  the  fixed effects  estimator  clarifies  our  interpretation  of  the  estimated  effect  of
+environmental performance on costs.  Given the examination of intra-firm variation, the estimated coefficient
+captures the connection between a change in a firm’s emissions relative to the firm’s average emission level
+and a change in the firm’s costs relative to the firm’s average cost level.  This connection helps the analysis
+to focus on the installation of new technologies.
+
+31
+
+
+which is responsible for monitoring for and enforcing against non-compliance with air protection
+
+laws, performed many inspections and imposed many fines during the sample period.  For example,
+
+in 1997, the Czech Inspection performed 13,455 inspections and imposed 1,952 fines, in addition
+
+to closing 36 facilities due to noncompliance, as reported in the agency’s annual yearbook.  Similar
+
+to the cost of regulatory scrutiny and regulatory sanctions, local community pressure was tangible
+
+in this period, as expressed through numerous citizen complaints, which are filed with the Czech
+
+Inspection (Earnhart, 2000).  For example, in 1997, the Czech Inspection received over 700 citizen
+
+complaints.  Unlike regulatory and commmunity pressure, the threat of third-party lawsuits was
+
+trivial in the Czech Republic during this period (Earnhart, 1998).
+
+As yet another interpretation of the negative effect on costs, the noted finding supports the
+
+conjecture  that  better  environmental  performance  lowers  financing  costs.    While  possible,  this
+
+interpretation is not plausible for the Czech Republic during the sample period given the lack of any
+
+corroborating evidence.  Lastly, the noted finding supports the conjecture that better environmental
+
+performance lowers labor costs by improving work conditions with reductions in internal/external
+
+or fugitive emissions.  As explained in sub-section 2.1, improved work conditions increase labor
+
+productivity and/or decrease workers’ compensation claims and litigation costs.  Given the rather
+
+filthy conditions in some Czech firms during the sample period, a meaningful increase in labor
+
+productivity  seems  quite  plausible.    Consistent  with  this  claim,  labor  productivity  improved
+
+dramatically over the sample period (Kocenda and Svejnar, 2002). However, we are aware of no
+
+study that connects reductions in fugitive emissions to improved labor productivity in the Czech
+
+Republic.  Thus, this claimed connection remains unsubstantiated.  Unlike the potential importance
+
+of labor productivity increases, any reduction in workers’ compensation claims and litigation costs
+
+32
+
+
+was most likely mitigated by the government’s comprehensive coverage of medical services and the
+
+general absence of litigation over “environmental” matters (Earnhart, 1998).
+
+Based  on  this  discussion,  of  the  supported  conjectures  (i.e.,  interpretations),  the  most
+
+plausible is the combination  of regulatory and community pressure: reductions in air emissions
+
+lowered Czech firms’ costs by removing regulatory scrutiny and community pressure and eliminating
+
+the imposition of regulatory sanctions.
+
+In contrast, the noted finding rejects the conjecture that complex pollution-reducing devices
+
+and processes reduce overall productive efficiency, which implies an increase in costs.
+
+Third, the results of our study indicate that better environmental performance appears to
+
+improve  profitability  by  driving  costs  down  more  than  revenues.    Profits  represent  the  simple
+
+difference between revenues and costs. Above we interpret the findings for revenues and costs
+
+separately.  Thus, the remaining issue concerns the relative magnitudes of the effects on these two
+
+profit components.  The decline in costs exceeds the decline in revenues.  A greater decrease in costs
+
+is consistent with the meaningful benefits of reducing the otherwise substantial regulatory scrutiny
+
+or at least reducing the uncertainty associated with possible regulatory scrutiny.  As evidence of this
+
+substantial regulatory scrutiny, several facilities were actually shut down in the Czech Republic due
+
+to noncompliance.  The benefits of reduced community pressure further substantiate the greater
+
+decrease in costs, relative to the decline in revenues.
+
+On the other side of the ledger, a lesser decrease in revenues is consistent with the traditional
+
+end-of-pipe approach to pollution control taken by most Czech firms.  Use of these end-of-pipe
+
+treatment technologies most likely did not constrain the production of revenue-enhancing production
+
+to a great extent. This point notwithstanding, better environmental management, in some form, not
+
+33
+
+
+necessarily  end-of-pipe  treatment,  apparently  constrained  revenue  enhancement to  a  significant
+
+extent.
+
+In sum, better environmental management appears linked to improved profitability and the
+
+most likely cause is reduced regulatory and community pressure.
+
+5. Summary
+
+This  paper  examines the  link  from  corporate  environmental  performance  to  financial
+
+performance.    In particular,  we  assess  whether  better  environmental  performance  alters  sales,
+
+revenues, or both.  Based on our analysis of Czech firms in the years 1996 to 1998, we conclude that
+
+good environmental performance, in the form of lower air pollutant emissions, appears to undermine
+
+future revenues,  while  lowering  costs  to  a  greater  extent,  thus,  improving  profitability.    This
+
+conclusion is highly robust to many alternative specifications.
+
+As noted in the introduction, given the transitional nature of the Czech economy, the results
+
+of this study need not generalize to other economies, especially mature market economies.  To assess
+
+this  point,  as  ongoing  research,  we  are examining  the  latter  period  of  the  Czech  transition,
+
+specifically, the period between 1999 and 2004, when the country entered the EU.  By examining
+
+the expanded period from 1996 to 2004 and comparing the two sub-periods, we will be able to assess
+
+whether  the  evolution  towards  a  market-based  economy  alters  the  relationship  between
+
+environmental and financial performance.
+
+34
+
+
+Table 1
+
+Descriptive Statistics
+
+Table 1.a.  Year Distribution
+
+Year
+1996
+1997
+1998
+Total
+
+Frequency
+
+Percent
+
+372
+357
+315
+1,044
+
+35.63
+34.20
+30.17
+100.00
+
+Table 1.b.  Means and Standard Deviations of Production, Ownership, and Emission Variables
+
+Variable
+
+Mean
+
+Std. Deviation
+
+Production Value (000s CZK)
+
+1,201,078
+
+2,646,672
+
+Emissions Total (tons)
+
+State Ownership share (%)
+
+Strategic Investor Ownership share (%)
+
+Individual Citizens Ownership share (%)
+
+Bank Ownership share (%)
+
+Portfolio Company Ownership share (%)
+
+Investment Funds Ownership share (%)
+
+Foreign Ownership share (%)
+
+Concentration: Single Largest Shareholder (%)
+
+Note: CZK = Czech Crowns
+
+866
+
+5.69
+
+28.40
+
+4.92
+
+1.00
+
+1.97
+
+13.51
+
+7.16
+
+44.76
+
+3,728
+
+15.73
+
+30.33
+
+15.22
+
+5.62
+
+8.44
+
+20.51
+
+19.84
+
+21.62
+
+1.c.  Means and Standard Deviations: Financial Performance and Firm Size
+
+Variable
+
+Profits (000s CZK)
+
+Operating Profits (000s CZK)
+
+Costs (000s CZK)
+
+Sales (000s CZK)
+
+Total Assets (000s CZK)
+
+Equity (000s CZK)
+
+Note: CZK = Czech Crowns
+
+Mean
+
+Std. Deviation
+
+194,909
+
+249,785
+
+2,717,239
+
+2,553,454
+
+3,183,106
+
+1,659,270
+
+- 6,914
+
+60,751
+
+1,238,092
+
+1,231,178
+
+1,546,258
+
+776,521
+
+35
+
+
+Table 1.d.   Distribution According To Industrial Classification
+
+Industry
+
+Agriculture, Hunting, Forestry, Fisheries
+
+Mining and Quarrying
+
+Manufacturing of Food Products, Beverages, and Tobacco
+
+Manufacturing of Textiles, Textile Products, Leather, and Leather Products
+
+Manufacturing of Wood, Wood Products, Pulp, Paper, and Paper Products
+     and Publishing and Printing
+
+Manufacturing of Coke and Refined Petroleum
+
+Manufacturing of Chemicals, Chemical Products, and Synthetic Fibers
+
+Manufacturing of Rubber and Plastic Products
+
+Manufacturing of Other Non-Metallic Mineral Products
+
+Manufacturing of Basic Metals and Fabricated Metal Products
+
+Manufacturing of Machinery and Equipment n.e.c.
+
+Manufacturing of Electrical and Optical Equipment
+
+Manufacturing of Transport Equipment
+
+Manufacturing: Other
+
+Electricity, Gas, and Water Supply
+
+Construction
+
+Wholesale and Retail Trade and Repair of Motor Vehicles
+
+Hotels and Restaurants
+
+Transport, Postal Service, Storage, and Telecommunications
+
+Finance, Real Estate, Rentals, Business, Research, Public Administration
+
+Education, Health, and Veterinary Services
+
+Other Public and Social Services
+
+Other: Overall
+
+Total
+
+Obs.
+
+Percent
+
+8
+
+13
+
+0.79
+
+1.23
+
+165
+
+15.76
+
+85
+
+36
+
+4
+
+46
+
+18
+
+80
+
+8.10
+
+3.43
+
+0.35
+
+4.40
+
+1.76
+
+7.66
+
+135
+
+141
+
+12.94
+
+13.53
+
+41
+
+73
+
+32
+
+53
+
+49
+
+3
+
+8
+
+1
+
+30
+
+11
+
+5
+
+7
+
+3.96
+
+7.04
+
+3.08
+
+5.11
+
+4.67
+
+0.26
+
+0.79
+
+0.09
+
+2.90
+
+1.06
+
+0.44
+
+0.65
+
+1,044
+
+100.00
+
+36
+
+
+Table 2
+
+Fixed Effects Estimation of Financial Performance Measures
+
+Table 2.a. Estimation of Costs and Profits
+
+ a
+Variable
+
+Costs
+
+Profits
+
+Lagged Pollutant Emissions
+
+Production Value (000 CZK)
+
+Total Assets (000 CZK)
+
+1997
+
+1998
+
+No. of Firms / No. of Obs
+
+F-Test for Fixed Effects
+  [significance level]
+
+Adjusted R
+
+2
+
+***
+
+***
+
+***
+
+***
+
+23.609
+(6.008)
+0.8381
+(0.0286)
+0.0439
+(0.0273)
+- 4,383,064
+(1,050,596)
+- 4,182,951
+(1,007,084)
+
+429 / 1044
+
+21.47
+[0.0001]
+
+0.9957
+
+***
+
+***
+
+***
+
+***
+
+- 15.146
+(3.713)
+0.0717
+(0.0177)
+0.0048
+(0.0169)
+1,620,403
+(649,367)
+1,547,097
+(622,473)
+
+429 / 1044
+
+3.90
+[0.0001]
+
+0.7170
+
+Standard errors are noted inside parentheses; p-values are noted inside square brackets.
+*, **, and *** indicate statistical significance at the 10 %, 5 %, and 1 % levels, respectively.
+a
+  Each regression also includes 429 firm-specific indicators, seven ownership share factors, an
+
+ownership concentration factor, and an inverse Mills ratio for ownership data reporting.
+
+Table 2.b. Effect of Lagged Pollutant Emissions on Sales:
+
+Coefficient Recovered from Estimation Results for Costs and Profits
+
+Variable
+
+Sales
+
+Lagged Pollutant Emissions
+
+8.463
+(4.532)
+
+*
+
+Standard errors are noted inside parentheses.
+*, **, and *** indicate statistical significance at the 10 %, 5 %, and 1 % levels, respectively.
+
+37
+
+
+Table 3
+
+Fixed Effects Estimation of Profitability: Alternative Specifications
+
+Variable a
+
+Add
+
+Firm Size 2
+
+Add
+
+Production 2
+
+Lagged Pollutant Emissions
+
+Production (000 CZK)
+
+Production  (000,000 CZK)
+
+2
+
+Total Assets (000 CZK)
+
+Total Assets  (000,000 CZK)
+
+2
+
+Equity (000 CZK)
+
+***
+
+***
+
+***
+
+***
+
+- 14.630
+(3.593)
+0.1185
+(0.0185)
+N/A
+
+0.0914
+(0.0209)
+- 3.73 E-9
+(0.56 E-9)
+N/A
+
+***
+
+***
+
+***
+
+*
+
+- 15.122
+(3.653)
+0.1571
+(0.0254)
+- 3.42 E-9
+(0.74 E-9)
+0.0307
+(0.0175)
+N/A
+
+N/A
+
+ Dependent =
+
+Operating Profits,
+Firm Size = Equity
+
+***
+
+***
+
+- 9.735
+(2.643)
+0.1105
+(0.0106)
+N/A
+
+N/A
+
+N/A
+
+0.2105
+(0.0228)
+
+***
+
+No. of Firms / No. of Obs
+
+429 / 1044
+
+429 / 1044
+
+429 / 1044
+
+F-Test for Fixed Effects
+  [significance level]
+
+Adjusted R
+
+2
+
+4.18
+[0.0001]
+
+0.7365
+
+4.06
+[0.0001]
+
+0.7267
+
+10.63
+[0.0001]
+
+0.9134
+
+Standard errors are noted inside parentheses; p-values are noted inside square brackets.
+*, **, and *** indicate statistical significance at the 10 %, 5 %, and 1 % levels, respectively.
+a
+  Each regression also includes 429 firm-specific indicators, two year-specific indicators, seven
+ownership share factors, an ownership concentration factor, and an inverse Mills ratio for
+ownership data reporting.
+
+38
+
+
+REFERENCES
+
+Arora,  Seema  and  Timothy  Cason (1995),  “An Experiment  in  Voluntary  Environmental  Regulation:
+
+Participation in EPA’s 33/50 Program,” J. of Environmental Econ. and Mgt., 28(3), pg. 271-286.
+
+Arora, Seema and Timothy Cason (1996), “Why Do Firms Volunteer to Exceed Environmental Regulations?
+
+Understanding Participation in EPA’s 33/50 Program,” Land Economics, 72(4), pg. 413-432.
+
+Austin, David, Anna Alberini, and Julio Videras (1999), “Is There a Link between a Firm’s Environmental
+
+and Financial Performance?” presented at NBER Summer Institute Public Economics Workshop:
+
+Public Policy and the Environment, Cambridge, MA, August 2, 1999.
+
+Bluffstone, Randy (1999), “Are the Costs of Pollution Abatement Lower in Central and Eastern Europe?
+
+Evidence from Lithuania,” Environment and Development Economics, 44, pg. 449-470.
+
+Bosch, Jean, E. Woodrow, and I. Lee (1998), “EPA Enforcement, Firm Response Strategies, and Stockholder
+
+Wealth: An Empirical Examination,” Managerial and Decision Economics, 19(3), pg. 167-177.
+
+Claessens, Stijn and Simeon Djankov (1999), “Ownership Concentration and Corporate Performance in the
+
+Czech Republic,” Journal of Comparative Economics, 27(3), pg. 498-513.
+
+Cohen, Mark, Scott A. Fenn, and Jonathan Naimon (1995), “Environmental and Financial Performance: Are
+
+They Related?” Investor Responsibility Research Center monograph.
+
+Czech Ministry of Environment (1997), Statistical Environmental Yearbook of the Czech Republic, Prague:
+
+Czech Ministry of the Environment.
+
+Czech Ministry of Environment (1998), Statistical Environmental Yearbook of the Czech Republic, Prague:
+
+Czech Ministry of the Environment.
+
+Czech Ministry of Environment (2004), Report on the Environment in the Czech Republic in 2003, Prague:
+
+Czech Ministry of the Environment, November 2004.
+
+Djankov, Simeon (1999), “Ownership Structure and Enterprise Restructuring in Six Newly Independent
+
+States,” Comparative Economic Studies, 41(1), pg. 75-95.
+
+39
+
+
+Dodd, Peter and Jerold Warner (1983), “On Corporate Governance: A Study of Proxy Contests,” Journal
+
+of Financial Economics, 11(1-4) [April], pg. 401-438.
+
+Earnhart, Dietrich (2004), “The Effects of Community Characteristics on Polluter Compliance Levels,” Land
+
+Economics, 80(3), pg. 408-432.
+
+Earnhart, Dietrich (2000), “Environmental ‘Citizen Suits’ in the Czech Republic,” European Journal of Law
+
+and Economics, 10(1), pg. 43-68.
+
+Earnhart, Dietrich (1998), "Civil Litigation, Access to Government-Held Information, and Coordination of
+
+Public and Private Enforcement in the Czech Republic,” European Journal of Law and Economics,
+
+6(3), pg. 113-141.
+
+Filbeck, Greg and Raymond Gorman (2004), “The Relationship between the Environmental and Financial
+
+Performance of Public Utilities,” Environmental and Resource Economics, 29, pg. 137-154.
+
+Frydman, Roman, Cheryl Gray, Marek Hessel, and Andrzej Rapaczynski (1999), “When Does Privatization
+
+Work? The Impact of Private Ownership on Corporate Performance in the Transition Economies,”
+
+Quarterly Journal of Economics, 114(4), pg. 1153-1191.
+
+Gottsman, Laura and Jon Kessler (1998), “Smart Screened Investments: Environmentally-Screened Equity
+
+Funds that Perform Like Conventional Funds,” Journal of Investing, 7(3), pg. 15-24.
+
+Greene, William (1997), Econometrics, 2nd edition, Englewood Cliffs, NJ: Prentice Hall.
+
+Hamilton, James  (1995),  “Pollution as  News: Media  and  Stock  Market  Reactions  to  the  Toxic Release
+
+Inventory Data,” Journal of Environmental Economics and Management, 28(1), pg. 98-113.
+
+Hart, Stuart L. and Gautam Ahuja (1996), “Does it Pay to be Green? An Empirical Examination of the
+
+Relationship  between  Emission Reduction and Firm  Performance,” Business  Strategy and the
+
+Environment, 5(1) [March], pg. 30-37.
+
+Heckman, James (1979), “Sample Selection Bias as Specification Error,” Econometrica, 47, pg. 153-161.
+
+Khanna, Madhu, Wilma Rose Quimio, and Dora Bojilova (1998), “Toxics Release Information: A Policy
+
+40
+
+
+Tool for Environmental Protection,” J. of Environmental Economics and Mgt., 36, pg. 243-266.
+
+Khanna, Madhu and Lisa Damon (1999), “EPA’s Voluntary 33/50 Program: Impact on Toxic Releases and
+
+Economic Performance of Firms,” J. of Environmental Economics and Management, 37(1), pg. 1-25.
+
+Klassen,  Robert  and  Curtis McLaughlin  (1996),  “The  Impact  of Environmental  Management  on Firm
+
+Performance,” Management Science, 42(8), pg. 1199-1214.
+
+Kocenda, Evzen and Jan Svejnar (2002), “The Effects of Ownership Forms and Concentration on Firm
+
+Performance after Large-Scale Privatization,” William Davidson Institute work paper No. 471, May.
+
+Konar, Shameek and Mark Cohen (1997), “Information as Regulation: The Effect of Community Right to
+
+Know Laws on Toxic Emissions,” J. of Environmental Econ. and Mgt., 32, pp. 109-124.
+
+Konar, Shameek and Mark Cohen (2001), “Does the Market Value Environmental Performance?” Review
+
+of Economics and Statistics, 83(2), pp. 281-289.
+
+Lanoie, Paul, Benoit Laplante, Maite Roy (1998), “Can Capital Markets Create Incentives for Pollution
+
+Control?” Ecological Economics, 26, pg. 31-41.
+
+Laplante, Benoit and Paul Lanoie (1994), “The Market Response to Environmental Incidents in Canada: A
+
+Theoretical and Empirical Analysis,” Southern Economic Journal, 60(3) [Jan], pg. 657-672.
+
+Lizal, Lubomir and Jan Svejnar (2002a), “Investment, Credit Rationing, and the Soft Budget Constraint:
+
+Evidence from Czech Panel Data,” Review of Economics and Statistics, 84(2), pp. 353-370.
+
+Lizal,  Lubomir  and  Jan  Svejnar  (2002b),  “Financial  Conditions  and  Investment  during  the  Transition:
+
+Evidence from Czech Firms,” Chapter 11 in Anna Meyendorff and Anjan Thakor, editors: Designing
+
+Financial Systems in Transition Economies: Strategies for Reform in Central and Eastern Europe,
+
+MIT Press, Cambridge, MA, 2002, pp. 215-260.
+
+McCloskey, P.F. (1993), Published remarks to a conference held by the Microelectronics and Computer
+
+Technology Corporation titled “Electronics and the Environment: Developing a Roadmap for Green
+
+Enterprise into the 21  Century” in Washington, DC, on Nov. 10, 1993.
+
+st
+
+41
+
+
+McGuire, Jean B., Alison Sundgren, and Thomas Schneeweis (1988), “Corporate Social Responsibility and
+
+Firm Financial Performance, The Academy of Management Journal, 31(4) [December], pg. 854-872.
+
+Muoghalu,  Michael I., H.  David  Robison,  and John L. Glascock  (1990),  “Hazardous  Waste  Lawsuits,
+
+Stockholder Returns, and Deterrence,” Southern Economic Journal, 57(2) [October], pg. 357-370.
+
+Palmer, Karen, Wallace Oates, and Paul Portney (1995), “Tightening Environmental Standards: The Benefit-
+
+Cost or the No-Cost Paradigm?” Journal of Economic Perspectives, 9(4), pg. 119-132.
+
+Pohl,  Gerhard,  Robert Anderson,  Stijn  Claessens, and Simeon Djankov  (1997),  “Privatization and
+
+Restructuring in Central and Eastern Europe: Evidence and Policy Options,” World Bank Technical
+
+Paper No. 368.
+
+Porter,  Michael  E. and Claas van  der  Linde  (1995),  “Toward  a  New  Conception  of 
+
+the
+
+Environment-Competitiveness Relationship,” J. of Economic Perspectives, 9(4), pg. 97-118.
+
+Portney, Paul and Robert Stavins (eds.) (2000), Public Policies for Environmental Protection, 2  edition,
+
+nd
+
+Washington, DC: Resources for the Future.
+
+Russo, Michael V. and Paul A. Fouts (1997), “A Resource-Based Perspective on Corporate Environmental
+
+Performance and Responsibility,” The Academy of Management Journal, 40(3) [June], pg. 534-559.
+
+Weiss, Andrew and Georgiy  Nikitin  (2002),  “Effects  of  Ownership by  Investment  Funds  on  The
+
+Performance of  Czech Firms,” Chapter  10  in  Anna  Meyendorff  and  Anjan  Thakor, editors:
+
+Designing Financial Systems in Transition Economies: Strategies for Reform in Central and Eastern
+
+Europe, MIT Press, Cambridge, MA, 2002, pg. 187-214.
+
+World Bank (1992), “Czech and Slovak Federal Republic Joint Environmental Study,” Report No. 9623-CS.
+
+World Bank (1999), Country Economic Memorandum – Czech Republic, report prepared by Julia Bucknall,
+
+Rita Cestiti, and Gordon Hughes; World Bank: Washington, DC.
+
+42
+
+
+43
+
+
+44
+
+
+ 
+ 
+
+DAVIDSON INSTITUTE WORKING PAPER SERIES - Most Recent Papers 
+
+The entire Working Paper Series may be downloaded free of charge at: www.wdi.umich.edu 
+
+ 
+CURRENT AS OF  2/22/07 
+ 
+Publication 
+No. 856: Does Better Environmental Performance Affect Revenues, 
+Costs, or Both? Evidence From a Transition Economy 
+No. 855: Media Coverage & Charitable Giving After the 2004 Tsunami 
+
+No. 854: Default Rates in the Loan Market for SMEs: Evidence from 
+Slovakia 
+No. 853: Monetary Policy before Euro Adoption: Challenges for EU 
+New Members 
+No. 852: Private-Sector Credit in Central & Eastern Europe: New 
+(Over) Shooting Stars? 
+No. 851: Interest Rate Pass-Through in Central & Eastern Europe: 
+Reborn from Ashes Merely to Pass Away? 
+No. 850: Monetary Transmission Mechanism in Central & Eastern 
+Europe: Gliding on a Wind of Change 
+No. 849: Crime Distribution & Victim behavior During a Crime Wave 
+
+Authors 
+Dietrich Earnhart and Lubomir 
+Lizal 
+Philip Brown and Jessica Minty 
+
+Jarko Fidrmuc, Christa Hainz and  
+Anton Maleisch 
+Jan Filáček, Roman Horváth and 
+Michal Skorepa 
+Balázs Égert, Peter Backé and 
+Tina Zumer 
+Balázs Égert,Jesus Crespo-
+Cuaresma and Thomas Reininger 
+Fabrizio Coricelli, Balázs Égert 
+and Ronald MacDonald 
+Rafael Di Tella, Sebastian Galiani 
+and Ernesto Schargrodsky 
+Roman Horváth 
+
+No. 848: Real-Time Time-Varying Equilibrium Interest Rates: Evidence 
+on the Czech Republic 
+No. 847: Financial Accelerator Effects in the Balance Sheets of Czech 
+Firms 
+No. 846: Central Bank Interventions, Communication & Interest Rate 
+Policy in Emerging European Economies 
+No. 845: On the Role of Absorptive Capacity: FDI Matters to 
+Growth 
+No. 844: Current Account Sustainability in Selected Transition Countries  Aleksander Aristovnik 
+
+Roman Horváth 
+
+Balázs Égert 
+
+Yuko Kinishita and Chia-Hui Lu 
+
+No. 843: Policy, Economic Federalism & Product Market Entry: The 
+Indian Experience 
+
+No. 842: Price Mobility of Locations 
+
+Sumon Bhaumik, Shubhashis 
+Gangopadhyay and Shagun 
+Krishnan 
+Konstantin Gluschenko 
+
+No. 841: The Role of Foreign Direct Investment in the Firm Selection 
+Process in a Host Country: Evidence from Slovenia 
+No. 840: Family Ownership and Control in Large Firms: The Good, The 
+Bad, The Irrelevant – and Why? 
+No. 839: Price Linkages of Russian Regional Markets 
+
+Katja Zajc Kejzar 
+
+Mike Peng and Yi Jiang 
+
+Konstantin Gluschenko 
+
+No. 838: The Effect of Pre-Primary Education on Primary School 
+Performance 
+No. 837: Do Investors Value Insider Trading Laws? International 
+Evidence 
+No. 836:  How corruption Hits People When They Are Down 
+
+No.  835: Mirage at the Bottom of the Pyramid 
+
+No. 834: Ownership concentration and firm performance: Evidence from 
+an emerging market 
+No. 833:  Institutions, Networks and Entrepreneurship Development in 
+Russia: An Exploration 
+ 
+
+Samuel Berlinski, Sebastian 
+Galiani and Paul Gertler 
+Laura Beny 
+
+Jennifer Hunt 
+
+Aneel Karnani 
+
+Irena Grosfeld 
+
+Date 
+
+Feb 2007 
+
+Dec 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Oct 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Nov 2006 
+
+Oct 2006 
+
+Sept 2006 
+
+Oct 2006 
+
+Sept 2006 
+
+July 2006 
+
+Aug 2006 
+
+Aug 2006 
+
+Aug 2006 
+
+June 2006 
+
+Ruta Aidis and Saul Estrin 
+
+June 2006 
+

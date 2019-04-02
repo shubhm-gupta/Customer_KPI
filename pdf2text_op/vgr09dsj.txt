@@ -1,0 +1,3268 @@
+Decision Sciences
+Volume 40 Number 4
+November 2009
+
+C(cid:2) 2009, The Author
+Journal compilation C(cid:2) 2009, Decision Sciences Institute
+
+The Decision of the Supply Chain Executive
+to Support or Impede Supply Chain
+Integration: A Multidisciplinary Behavioral
+
+Agency Perspective∗
+
+†
+Ver´onica H. Villena
+Department of Operations and Technology Management, Instituto de Empresa Business
+School, Maria de Molina 12 Bajo 28006 Madrid, Spain, e-mail: veronica.villena@ie.edu
+
+Luis R. Gomez-Mejia
+Management Department, Mays College of Business, Texas A&M University, 4221 TAMU,
+College Station, TX 77843, e-mail: lgomez-mejia@mays.tamu.edu
+
+Elena Revilla
+Department of Operations and Technology Management, Instituto de Empresa Business
+School, Maria de Molina 12 Bajo 28006 Madrid, Spain, e-mail: elena.revilla@ie.edu
+
+ABSTRACT
+
+Applying the behavioral agency model developed by Wiseman and Gomez-Mejia
+(1998), this article analyzes human resource factors that induce supply chain exec-
+utives (SCEs) to make decisions that foster or hinder supply chain integration. We
+examine two internal sources (compensation and employment risk) and one external
+source (environmental volatility) of risk bearing that can make SCEs more reluctant
+to make the decision to promote supply chain integration. We argue and empirically
+conﬁrm the notion that an employment and compensation system that increases SCE
+risk bearing reduces the SCE’s willingness to make risky decisions and thus discour-
+ages supply chain integration. We also reveal that this negative relationship becomes
+stronger under conditions of high environmental volatility. In addressing the “so what?”
+question, we found empirical support for the hypothesis that supply chain integration
+positively inﬂuences operational performance. Even though this decision has a positive
+value for the ﬁrm, we showed that SCEs discourage supply chain integration when they
+face higher risk bearing. Hypotheses are tested using a combination of primary survey
+data and archival measures in a sample of 133 Spanish ﬁrms.
+
+Subject Areas: Behavioral Agency Model, Decision Making, Executive Risk
+Taking, Multidisciplinary Research, Performance, Risk Bearing, Supply
+Chain Executive, and Supply Chain Integration.
+
+We are grateful to Manuel Becerra and Mark Errington for their helpful and constructive comments on
+earlier drafts of this article and to Angel Diaz and Bj¨orn Claes for their help with data-collection processes.
+
+∗
+
+†
+
+Corresponding author.
+
+635
+
+
+636
+
+A Multidisciplinary Behavioral Agency Perspective
+
+INTRODUCTION
+
+Research on strategic supply chain management has viewed supply chains not
+only as production and distribution mechanisms but also as important competitive
+weapons (Hult, Ketchen, & Nichols, 2002; Hult, Ketchen, & Slater, 2004). Firms
+such as Toyota, Inditex, and Dell have used the collective capabilities of their
+supply chains rather than solely their individual capabilities to succeed in an
+increasingly competitive market. Firms recognize that they do not possess the full
+range of capabilities to design, produce, and deliver the products and services
+that demanding markets require or to compete globally (Gomes-Casseres, 1994).
+They thus need to develop strategic partnerships with other supply chain members
+(Powell, Koput, & Smith-Doerr, 1996; Dyer & Nobeoka, 2000; Mentzer, Min, &
+Zacharia, 2000; Kotabe, Martin, & Domoto, 2003; Wisner, 2003) with the objective
+of accessing new resources and achieving an integrated coordination that allows
+them to respond more efﬁciently and more quickly to current market needs.
+
+However, supply chain partnerships may be inherently risky. Knowledge may
+spill over to potential competitors (Bleeke & Ernst, 1995; Dyer & Singh, 1998; Gu-
+lati & Gargiulo, 1999; Kale, Singh, & Perlmutter, 2000; Myers & Cheung, 2008),
+and partnership-speciﬁc investments may be lost through poor managerial deci-
+sions (Williamson, 1985; Osborn & Hagedoorn, 1997; Jap, 1999). Opportunism
+by a partner may be difﬁcult to detect because of information asymmetries and
+this self-serving behavior could erode the ﬁrm’s competitive position (Eisenhardt,
+1989). Supply chain executives (SCEs) aware of the potentially high, but uncertain
+beneﬁts derived from supply chain partnerships might be less willing to engage in
+collaborative initiatives with supply chain partners if they believe that by doing so
+their compensation and employment security would be at risk.
+
+There is a large body of literature suggesting that when the executive feels
+vulnerable in terms of potential losses to personal income and/or the possibility of
+dismissal as a result of managerial decisions, they take a more conservative path
+and avoid perilous choices that they believe augment personal risk bearing (e.g.,
+Gray & Cannella, 1997; Bloom & Milkovich, 1998). Environmental uncertainty
+also magniﬁes executives’ vulnerability as it severely limits how much control they
+can exert over performance outcomes resulting from a particular choice (Miller,
+Wiseman, & Gomez-Mejia, 2002). This literature has almost exclusively focused
+on the Chief Executive Ofﬁcer (CEO) with the ﬁrm as the unit of analysis. In
+this article, we take a different approach and focus on how SCEs respond to these
+internal and external risks in promoting or hindering supply chain integration,
+which we argue is a risky endeavour despite its potential beneﬁts.
+
+This study makes three main contributions to the decision-making literature
+and supply chain research in particular. First, previous research on executive risk
+bearing and risk taking has focused almost exclusively on the CEO (e.g., Tosi &
+Gomez-Mejia, 1989; Wiseman & Bromiley, 1996; Gray & Cannella, 1997; Tosi,
+Werner, Katz, & Gomez-Mejia, 2000; Larraza-Kintana, Wiseman, Gomez-Mejia,
+& Welbourne, 2007; Devers, McNamara, Wiseman, & Arrfelt, 2008) and more
+recently on the Chief Information Ofﬁce (CIO) (Preston, Chen, & Leidner, 2008).
+However, the SCE also plays a pivotal role in how much risk is taken by the ﬁrm to
+ensure its continued competitiveness and success (Mangan & Christopher, 2005).
+
+
+Villena, Gomez-Mejia, and Revilla
+
+637
+
+We develop a multidisciplinary research framework that analyzes how a ﬁrm’s
+employment and compensation system inﬂuences its SCE’s decision to foster
+or limit supply chain integration. This is a unique study that combines research
+streams from behavioral decision making and supply chain management, and uses
+matched-pair survey data as well as archival measures to test hypotheses. Second,
+we extend the behavioral agency model (BAM) (Wiseman & Gomez-Mejia, 1998)
+by examining the moderating role of environmental risk in the relationship between
+risk bearing and risk taking, which has not been analyzed in prior research. Our
+model combines elements of agency theory with behavioral views of decision
+making under uncertainty to examine how compensation and employment risk
+inﬂuences SCE choices when the outcomes of these choices may be at least partially
+beyond the executive’s control (when environmental uncertainty is high). Lastly,
+previous research on supply chain integration has mainly stressed the importance
+of trust, commitment, information technologies, and information sharing. Within
+this list of factors that enable supply chain integration, we examine the distinct and
+additive impact of managerial incentives as the key element in the SCE’s decision
+to foster this risky choice.
+
+In summary, this study attempts to develop guidelines for designing an em-
+ployment and compensation system for the SCE in order to encourage supply chain
+integration through the development of supply chain partnerships. We argue and
+ﬁnd empirical support for the notion that greater compensation and employment
+risk for the SCE is negatively associated with supply chain integration, and that
+this negative relation becomes stronger under conditions of high environmental
+uncertainty. Furthermore, we hypothesize and our results conﬁrm that as supply
+chain integration declines so does performance.
+
+We organize the article into ﬁve sections. In the next section, we discuss the
+conceptual framework and formulate the hypotheses. First, we present the behav-
+ioral agency framework, leading to the hypotheses concerning how SCE compen-
+sation (Hypothesis 1) and employment (Hypothesis 2) risk negatively inﬂuencing
+supply chain integration and the moderating role played by environmental risk
+(Hypothesis 3a and b) in this process. Second, we deal with the “so what” ques-
+tion by discussing how supply chain integration affects operational performance
+(Hypothesis 4). In the third section, we describe the methodology used to test
+the hypotheses, which combines both archival and primary survey measures in a
+sample of 133 Spanish ﬁrms. In the fourth section, we present the results conﬁrm-
+ing the hypotheses. In the ﬁfth and last section, we conclude with a discussion
+of theoretical and practical implications of the ﬁndings and an agenda for future
+research.
+
+THEORETICAL FRAMEWORK AND HYPOTHESES
+
+To support our arguments, we developed a theoretical framework that uses the BAM
+of managerial risk taking (Wiseman & Gomez-Mejia, 1998). As discussed below,
+this theory suggests that decision makers are loss-averse when facing uncertain
+outcomes that threaten their personal wealth resulting from particular choices (such
+as entering supply chain partnerships).
+
+
+638
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Behavioral Agency Model (BAM)
+The BAM developed by Wiseman and Gomez-Mejia (1998) integrates elements
+of agency theory and behavioral views of corporate governance decision making
+under conditions of uncertainty in order to develop a model of managerial risk
+taking. Behavioral models of decisions (Sitkin & Pablo, 1992) explain how risk
+preference changes with the framing of problems. The BAM predicts that decision
+makers will avoid risk when selecting among positively framed problems and seek
+risk when selecting among identical but negatively framed prospects (Kahneman
+& Tversky, 1979).
+
+Risk bearing under the BAM is deﬁned as the potential reduction in wealth
+(either in the form of income and/or employment loss) for the decision maker when
+confronted with a particular choice. The potential loss of compensation implies
+a threat to the person’s basic standard of living. Furthermore, “since termination
+results in the complete loss of all current income and puts in serious jeopardy
+future income, employment risk represents the ultimate threat to an agent’s wealth”
+(Larraza-Kintana et al., 2007). Risk bearing makes the executive more vulnerable
+to the negative consequences (such as foregone pay or dismissal) of taking risks
+(such as pursuing supply chain integration) if the results of such choices are poor
+or disappointing. This risk bearing is compounded when the ability of the decision
+maker to inﬂuence or control outcomes resulting from a decision decreases, as is
+the case in highly volatile environments (Miller et al., 2002).
+
+Simply put, according to the BAM any action that threatens base pay or ad-
+justments to it or reduces employment security (e.g., receiving a poor performance
+evaluation, unmet targets) greatly increases risk bearing and thus the reluctance
+of the decision maker to make risky choices. This tendency is likely to be present
+no matter how potentially beneﬁcial the risky decision might be. In our particular
+context, the BAM suggests that the SCE is loss averse and that risk bearing occurs
+when there is a threat to his or her compensation and employment security if he
+or she were to pursue high-risk/high-return alternatives (such as choices related to
+supply chain integration). In other words, the SCE may perceive the integration
+choice as beneﬁcial to the ﬁrm; yet, avoid that choice if it implies a private threat
+to his/her wealth. Next, we explain why supply chain integration represents a risky
+choice followed by a discussion of the factors that would dissuade the SCE from
+making this choice.
+
+Integrated supply chains as a risky choice
+Integrated supply chains are those whose members synchronize their processes
+and share relevant, updated information hoping to improve their performance.
+Herein, integrated supply chain partners combine resources in a unique way and
+may gain an advantage over competing ﬁrms that are unable or unwilling to do
+so. Together they generate and own relational proﬁts that cannot be created by
+either ﬁrm independently (Dyer & Singh, 1998). On the other hand, there are some
+implicit risks involved in a supply chain integration decision.
+
+According to the relational view, ﬁrms beneﬁt from systematically shar-
+ing valuable knowledge within the supply chain (Dyer & Singh, 1998); but, of
+
+
+Villena, Gomez-Mejia, and Revilla
+
+639
+
+course, there is a risk of disclosure to potential competitors. The relational view
+also suggests that greater partnership-speciﬁc asset investments will lead to higher
+collective proﬁts (Asanuma, 1989; Clark & Fujimoto, 1991; Dyer, 1996; Dyer &
+Singh, 1998); however, these investments may create a high degree of interdepen-
+dence and information asymmetries between supply chain partners and, hence,
+risk for the participating parties who must rely on the purported good faith of
+the other parties involved in the relationship. That is, supply chain partnerships
+create potential for a breach of trust among partners, which may be difﬁcult to
+detect by SCEs (Gulati & Singh, 1998; Gulati & Gargiulo, 1999). These threats
+are discussed in greater detail below.
+
+The ﬁrst inherent hazard in supply chain partnerships is knowledge transfer
+to external parties. In supply chain partnerships, there is a high likelihood that
+a ﬁrm participates in several supply chain partnerships simultaneously (Rice &
+Hoppe, 2001). Thus, knowledge shared with a supplier or knowledge jointly created
+between a buyer and its supplier may not enjoy proprietary protection and be raided
+by potential competitors (Bleeke & Ernst, 1995; Dyer & Singh, 1998; Gulati
+& Gargiulo, 1999; Kale, Singh, & Perlmutter, 2000; Myers & Cheung, 2008).
+This situation is intensiﬁed when there is no formal contractual agreement, as is
+the case in many supply chain partnerships (Lambert, Emmelhainz, & Gardner,
+1996). Unlike other types of interﬁrm partnerships, a supply chain relationship is
+built upon repeated transactions and reliance on the other party’s capabilities to
+complete the value chain process, rather than shared equity or contracted objectives
+(He, Ghobadian, Gallear, Race, & Spinks, 2007). In such a situation, the ﬁrm
+faces considerable moral hazard because its supply chain partners may “free-
+ride” by limiting their contributions to the partnership or might simply behave
+opportunistically (Gulati, 1998).
+
+The second implicit threat in fostering supply chain integration is the high
+level of investments in speciﬁc assets. For instance, the use of purchased inputs
+(e.g., customized new technology) may only have value within the unique context
+of the buyer–supplier relationship and hence cannot be easily transposed to other
+uses (Williamson, 1985; Anderson & Weitz, 1992; Kumar, Scheer, & Steenkamp,
+1995; Dyer & Singh, 1998). At the same time, “tailor made” training or devel-
+opment programs for employees involved in the buyer–supplier partnership are
+indispensable in order to achieve higher levels of knowledge sharing routines be-
+tween partners (Monczka, Petersen, Handﬁeld, & Ragatz, 1998; Krause, Scannell,
+& Calantone, 2000; Modi & Mabert, 2007). Such investments in valuable tangible
+assets and human capital are costly and may produce asymmetric gains favoring
+the partner or, conversely, produce largely unrecoverable losses if the partnership
+fails or produces disappointing results (Williamson, 1985; Jap, 1999).
+
+In short, despite the potential advantages to participating ﬁrms, the uncer-
+tainty of disclosure of key knowledge and the important speciﬁc investments in
+supply chain partnerships makes this a risky decision to the extent that the SCE
+is made accountable for the outcomes of such a decision. The risk is privatized
+by the SCE even though he or she may not be fully or even partially responsible
+for the observed results. As discussed next, the more vulnerable the SCE is to
+losses (in terms of compensation and employment, plus the compounding effect
+
+
+640
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Figure 1: Conceptual model.
+
+Executive Risk Bearing
+
+Managerial Risk Taking
+
+Outcome
+
+Compensation Risk
+
+Employment Risk
+
+(-)
+
+(-)
+
+(-)
+
+Supply Chain 
+
+Integration
+
+(+)
+
+Operational
+Performance
+
+Environmental Risk
+
+of environmental uncertainty), the less likely the SCE is to support an integra-
+tion decision (Hypotheses 1–3), even if the SCE sees it as “the right thing to do”
+(Hypothesis 4).
+
+Vulnerability of the SCE: Sources of executive risk bearing
+Figure 1 provides an overview of the conceptual model. Three kinds of risk—
+compensation risk, employment risk, and environmental risk—augment the vul-
+nerability of the SCE and thus reduce his or her willingness to foster supply chain
+integration (which, as argued above, represents a risky choice). Each of these ele-
+ments is discussed next, followed by a discussion of the consequences of supply
+chain integration or the lack thereof.
+
+Compensation risk: Developers of traditional agency models (Beatty & Zajac,
+1994; Gray & Cannella, 1997) assume that the executive is risk averse and
+thus prefers higher proportions of certain compensation over uncertain (vari-
+able) compensation. In contrast, under the BAM, variable pay is assumed to
+have little effect on agent risk bearing when it is simply added to a compensa-
+tion scheme as an “extra layer” (e.g., from 10% to 20% of variable pay).This is
+because (i) variable compensation is normally used for discretionary consump-
+tion expenses and savings, which can be deferred into the future or, perhaps,
+forgone altogether (Strahilevitz, 1992; Arkes, Joyner, & Stone, 1994) and (ii)
+it is not usually counted in calculations of perceived current wealth due to the
+fact that it is far less certain (Wiseman & Gomez-Mejia, 1998; Larraza-Kintana
+et al., 2007).
+
+Under BAM, base pay is anticipated and viewed as essential to the execu-
+tive’s standard of living. It is usually linked primarily to indispensable consumption
+expenses (i.e., rent, food, utilities, and so forth) (Strahilevitz, 1992) and, conse-
+quently, threats to this type of compensation would be more prominent than threats
+to variable pay. In the words of Wiseman and Gomez-Mejia (1998, p. 140) “threats
+to future base pay and its value (e.g., losing cost of living or market adjustments)
+would seem more salient than threats to variable pay, since losses associated with
+future base pay pose a signiﬁcant threat to an executive’s perceived wealth, future
+
+
+Villena, Gomez-Mejia, and Revilla
+
+641
+
+earnings potential and, ultimately, to his or her standard of living.” For instance,
+the base pay of the SCE may be frozen, fall behind market, lose ground relative to
+other managers or new hires, and, in the extreme case, may be cut.
+
+In contrast to CEOs (the central focus of most of this research), who normally
+receive 40% of their pay in a variable form (Devers et al., 2008), for SCEs, base
+pay or salary on average represents 94% of total pay (salary.com’s survey, 2008).
+These ﬁgures are derived from the U.S. surveys but the percentage of base pay
+for SCEs in Spain (where the study was conducted) is likely to be much higher,
+probably closer to 98% on average. This means that to the extent that supply chain
+integration constitutes what Larraza-Kintana et al. (2007) identify as “downside
+risk” to SCE’s base pay (e.g., by receiving a weak performance appraisal if supply
+chain integration targets are not met and thereby foregoing merit pay adjustments),
+the SCE will tend to avoid that risk even if risk avoidance implies surrendering the
+potential beneﬁts to the ﬁrm of such integration.
+
+Employment risk: A related but different source of risk bearing is employment
+risk. Herein, the SCE may face a greater probability of (i) termination and (ii) neg-
+ative reputation in the market if the investment to create supply chain partnerships
+does not produce the desired results. In the ﬁrst case, top executives have a tendency
+to “scapegoat” those below them when results are disappointing (Gomez-Mejia,
+Nu˜nez-Nickel, & Gutierrez, 2001). In the second case, it is difﬁcult for outsiders to
+distinguish unfortunate circumstances from poor decisions (Wiseman & Gomez-
+Mejia, 1998). As termination plus negative reputation equals loss of all current
+income and seriously jeopardizes all future income, employment risk represents
+a more severe threat to the SCE’s wealth than does compensation risk (Larraza-
+Kintana et al., 2007). This is consistent with Tversky and Wakker’s (1995) research
+on choice behavior related to risk, which suggests that a loss-averse SCE will tend
+to avoid supply chain integration if this further jeopardizes the SCE’s job security,
+which is associated with the loss of all of his or her current income and negatively
+impacts further income stream.
+
+The employment risk perceived by the SCE is also intimately related to the
+ﬁrm’s evaluation and reward system. Failure to meet performance targets usually
+translates into being perceived by superiors as a substandard contributor and,
+hence, more amenable to being replaced (Wiseman & Gomez-Mejia, 1998). At
+the very least, this is likely to be perceived by the SCE as damaging to his or
+her career prospects both within the ﬁrm and in the labor market at large. In
+short, SCEs who do not meet quantiﬁable performance targets are likely to receive
+(or perceive that they will have) low performances marks and consequently face
+greater employment risk.
+
+Hypothesis on internal sources of risk
+To summarize our discussion so far, SCEs experiencing high levels of compensa-
+tion and employment risk are less likely to foster supply chain integration. Such
+an integration is risky in terms of uncertainty of eventual outcomes. Conditions of
+high compensation and employment risk should dissuade SCEs from undertaking
+this additional risk (as falling below performance targets again in the near future
+
+
+642
+
+A Multidisciplinary Behavioral Agency Perspective
+
+could mean a poor evaluation or immediate dismissal). To this, we would like
+to add three other related reasons. First, supply chains nowadays are viewed as
+important competitive weapons for most ﬁrms (Hult et al., 2002, 2004) and, thus,
+should be considered as part of the strategic planning process. However, few ﬁrms
+include this facet (or ambiguously implement it) as part of the evaluation criteria
+for SCEs. Most SCEs are appraised in the traditional way, mainly by measuring
+operative outcomes relative to targets such as price reduction (Rossetti & Choi,
+2005) or short-term proﬁts (Ro, Liker, & Fixson, 2007). To the extent that efforts
+or processes to develop (long-term oriented) supply chain partnerships are not
+given sufﬁcient weight in the SCE’s annual review, these executives are unlikely
+to perceive that they are being evaluated or rewarded for this risky endeavor and,
+thus, discourage supply chain integration. Second, SCEs might suspect that they
+could increase the probability of an unfavorable evaluation by top managers when
+pursuing supply chain partnerships even if upper echelons pay lip service to it.
+Because of asymmetrical power, SCEs might become an easy blame target by
+superiors under lackluster results while superiors may claim credit if the outcomes
+are positive (Boeker, 1992; Gomez-Mejia et al., 2001). Lastly, the focal SCE knows
+that the result of supply chain partnerships does not exclusively depend on his or
+her own effort; instead, it depends on the collaborative effort of other SCEs who
+could become members of the supply chain. These three situations intensify the
+vulnerability of SCEs and, thus, they might be more reluctant to allocate resources
+to pursue collaborative supply chain partnerships. Thus,
+
+H1: The higher the level of base compensation risk, the less likely the SCE is
+
+to promote supply chain integration.
+
+H2: The higher the level of perceived employment risk, the less likely the SCE
+
+is to promote supply chain integration.
+
+The moderator role of environmental risk: The third kind of risk bearing analyzed
+in this research is related to external risk (i.e., environmental volatility), which is
+likely to compound the effects of employment and compensation risk.
+
+Environmental risk is typically deﬁned as greater variability in organizational
+returns and increased chances for corporate ruin (Baird & Thomas, 1985; Miller
+& Bromiley, 1990). Industry-wide forces and other external factors (e.g., global
+ﬁnancial crisis) expose the ﬁrm to performance uncertainty over which it may
+exert very little control (Gray & Cannella, 1997; Bloom & Milkovich, 1998; Cruz,
+Gomez-Mejia & Becerra, in press). This risk also has implications for agents. For
+instance, a greater external risk may itself threaten executives’ income as uncertain
+cash ﬂows or greater chances of organizational failure may make it more difﬁcult
+for a ﬁrm to meet its present and future compensation obligations (Bloom &
+Milkovich, 1998). The downside of the cycle also means that upward adjustments
+to base pay are minimized (Milkovich & Newman, 2008). When a decision could
+lead to failure (e.g., because of high market variability), despite the best efforts of
+the SCE, he or she may be much more willing to withhold effort or to take evasive
+actions designed to reduce risk exposure. This is because environmental risk will
+magnify the fear that compensation would suffer for reasons that are totally beyond
+the control of the SCE. We therefore expect that:
+
+
+Villena, Gomez-Mejia, and Revilla
+
+643
+
+H3a: The negative effect of compensation risk on promoting supply chain inte-
+
+gration will be greater for a higher degree of environmental risk.
+
+Similarly external risk as captured by high ﬁrm performance variability threatens
+employment stability as ﬁrms attempt to reduce costs during down cycles; a threat
+to which the SCE is not immune. Under the BAM perspective, we would expect
+that a highly volatile environment would make the SCE less willing to take the
+additional risk of promoting supply chain integration as this might exacerbate an
+anticipated loss of employment. Not only do the risks of supply chain integration
+increase in volatile environments (Liker & Choi, 2004; Chopra & Meindl, 2007),
+but also the SCE may rightfully fear that, cost considerations aside, it is easier for
+superiors to rationalize or make negative performance attributions to the SCE if
+he or she takes additional risk during the down cycle and use that negative bias to
+replace the executive, hoping to get a better substitute (Boeker, 1992). Thus,
+
+H3b: The negative effect of employment risk on promoting supply chain inte-
+
+gration will be greater for a higher level of environmental risk.
+
+Supply Chain Integration and Performance
+So far, we have discussed the antecedents of supply chain integration from the
+perspective of SCEs as decision makers and risk bearers. The last hypothesis deals
+with the consequences of promoting supply chain integration on ﬁrm performance.
+Firms are increasingly discovering the advantages that can be gained by
+seeking mutually beneﬁcial partnerships with other supply chain members (Pow-
+ell et al., 1996; Dyer & Singh, 1998; Dyer & Nobeoka, 2000; Mentzer et al.,
+2000; Kotabe et al., 2003; Wisner, 2003; Liker & Choi, 2004; Myers & Cheung,
+2008). The access and use of knowledge and resources of their supply chain part-
+ners allows them to better exploit and improve their capacities. To achieve such
+advantages, integrated partners should seek to synchronize processes, establish
+high levels of coordination, and share updated, relevant information (Handﬁeld
+& Nichols, 1999; Frohlich & Westbrook, 2001; Wisner, 2003; Chen & Paulraj,
+2004; Malhotra, Gosain, & El Sawy, 2005). They should systematically seek to
+create a value that could otherwise not be created by either partner independently
+(Zajac & Olsen, 1993). Conversely, the lack of supply chain integration may lead
+to increased inventories, poorer product availability, higher manufacturing cost,
+increased replenishment lead times, and a drop in proﬁts (Lee, Padmanabhan, &
+Whang, 1997; Chopra & Meindl, 2007).
+
+Previous research (Lee et al., 1997; Frohlich & Westbrook, 2001; Sahin
+& Robinson, 2002; Vickery, Jayaram, Droge, & Calantone, 2003; Wisner, 2003;
+Chen & Paulraj, 2004; Liker & Choi, 2004; Modi & Mabert, 2007; Wang & Wei,
+2007) has consistently shown that high levels of supply chain integration improve
+the operational performance of the committed partners. This effect is due to the
+intensive use of communication channels that permit partners to better synchronize
+their processes and better coordinate their activities. This directly translates into
+reduced variability that, in turn, leads to greater efﬁciency along with a cost
+reduction and improved lead time. The teamwork between supply chain partners
+
+
+644
+
+A Multidisciplinary Behavioral Agency Perspective
+
+also makes them more willing to help each other to cope with uncertainty from
+supply, manufacturing, and demand. They gain a better understanding about how
+the supply chain they belong to works and what role they play to strengthen supply
+chain capabilities. Partners therefore become more responsive to markets, having,
+for instance, shorter lead time, better service levels, greater product variety and so
+forth. Finally, fostering an environment of mutual support, integrated partners aim
+to become quality-oriented organizations that seek (i) the fulﬁllment of the quality
+standard of products, (ii) the reduction of shipments rejected and defect rates, and
+(iii) the increment of order entry accuracy. Effective supply chain integration thus
+seeks to improve participant performance with the main objective of offering better
+levels of service owing to the better use of capabilities, expertise, and technologies
+of committed partners within the partnership.
+
+H4: Supply chain integration should be positively related to improved opera-
+
+tional performance.
+
+RESEARCH METHODOLOGY
+
+Sample Selection and Data Collection
+It is difﬁcult to obtain data on compensation systems, evaluation systems, decision
+making, and performance from SCEs because these matters are usually considered
+conﬁdential, the information is sensitive, and unlike the case of many CEOs,
+the data are not publicly available. This study thus used multiple methods that
+combine surveys and interviews with SCEs and human resources management
+(HRM) executives as well as secondary data in order to reduce source bias and
+obtain reliable and valid data.
+
+A pilot survey was designed and developed from a thorough literature re-
+view. The survey was next validated through a pre-test. Comments from three
+academics, seven SCEs, and two senior consultants in the ﬁeld of supply chain
+management (SCM) help to reﬁne the research constructs. These individuals are
+members of the Supply Chain Management Interest Group (SCMIG); a discussion
+forum composed of executives from Spanish and multinational ﬁrms sponsored by
+IE Business School in Madrid. They closely reviewed and critiqued the pilot survey
+and offered several suggestions for improving its wording, design, and adminis-
+tration. Finally, we sent the deﬁnitive survey to the sample members, along with
+a cover letter explaining the purpose of the study and the assurance of anonymity
+for respondents. In some cases, SCEs in different industries were visited to collect
+data and interviewed to have in-depth information.
+
+Our population was primarily composed of manufacturing Spanish ﬁrms and
+subsidiaries of multinational companies operating in Spain. We selected these com-
+panies from the list of 5,000 large companies published by the respected Spanish
+business periodical Actualidad Economica. A three-member panel of experts with
+extensive experience in SCM and cognizant of the Spanish market selected 932
+companies from this list using as a criteria the extent to which SCM is an impor-
+tant part of their operations. As noted later, most of these ﬁrms fell into the food
+& beverage, chemical & pharmaceutical, and automotive sectors. Most service
+
+
+Villena, Gomez-Mejia, and Revilla
+
+645
+
+organizations were deliberately excluded because they generally lack a tangible
+resource or because their SCM operations are menial, which could create differ-
+ences in the nature of their interﬁrm collaboration requirements (Chase, Jacobs, &
+Aquilano, 2006). The data-collection process yielded 133 usable responses, for a
+response rate of 14.3%. This rate compares favorably with those reported by other
+studies conducted in Spain (Cruz et al., in press; Gallo & Villaseca, 1996) and ex-
+perienced by other surveys in SCM issues (Wisner, 2003; Modi & Mabert, 2007;
+Sanders, 2007). This response rate is higher than “the 10–12% rate typical for
+studies that target executives in upper echelons” (McDougall & Robinson, 1990;
+Hambrick, Geletkanycz, & Fredrickson, 1993; Judge & Dobbins, 1995; Koch &
+McGrath, 1996; Geletkanycz, 1997, p. 622; Larraza-Kintana et al., 2007). Table 1
+shows the proﬁle of the sample, which reﬂects the diversity that exists among
+the participating ﬁrms, based on the number of employees, industry sectors, and
+annual sales.
+
+The targeted respondents consisted of SCEs at decision-making levels and in
+strategically oriented positions. The most common titles for these SCEs included
+corporate directors of purchasing, supply chain directors, and supply chain man-
+agers. In addition to the SCE survey, we also secured independent sources of data
+following guidelines from previous research (McDougall, 1989; Hitt, Hoskisson,
+Johnson & Moesel, 1996). First, we sent a questionnaire about SCE compensation
+
+Table 1: Proﬁle of the sample .
+
+No. of employees
+
+0–50
+51–100
+101–500
+501–1000
+>1000
+Total
+
+Industry sector
+
+Food and beverage
+Chemical and pharmaceutical
+Automotive
+Textile
+Beauty and hygiene
+Other industries
+Total
+
+Annual sales
+
+0–20 Million
+20–50 Million
+50–99 Million
+100–500 Million
+>500 Million
+Total
+
+Frequency (%)
+
+13 (9.8)
+13 (9.8)
+72 (54.1)
+19 (14.3)
+16 (12.0)
+133 (100.0)
+
+31 (23.3)
+30 (22.6)
+27 (20.3)
+15 (11.3)
+6 (4.5)
+24 (18.0)
+133 (100.0)
+
+5 (3.8)
+33 (24.8)
+49 (36.8)
+39 (29.3)
+7 (5.3)
+
+133 (100.0)
+
+
+646
+
+A Multidisciplinary Behavioral Agency Perspective
+
+policies to the HRM directors of the responding ﬁrms. Completed responses from
+HRM managers were received from 26 of the 133 responding companies. These
+data were used to determine interrater agreement regarding the responses to sur-
+vey items concerning compensation and employment risk between supply chain
+managers and human resources managers.
+
+Second, we accessed archival data for all of the responding ﬁrms. The sec-
+ondary data came from the “Sistemas de An´alisis de Balances Ib´ericos” (SABI)
+database that compiles data from the annual reports ﬁled by 949,246 Spanish ﬁrms
+in the year 2008. This database includes ﬁrm size, ﬁrm age, industry sector, ﬁnan-
+cial information, operational rates, and other miscellaneous data for each company.
+Survey-based measures were cross-checked and validated with information from
+the SABI database in order to ensure reliable and valid data. This database was
+also used to check for a nonresponse bias and calculate several of the control vari-
+ables, the environmental risk variable, and the objective operational performance
+measure used in the analysis.
+
+Nonresponse Bias
+A nonresponse bias was tested by examining the difference between the answers
+of respondents and nonrespondents (Lambert & Harrington, 1990). A nonresponse
+bias was assessed using a t test, which showed no signiﬁcant difference for ﬁrm
+size (p = .192), ﬁrm age (p = .292), and return on assets (ROA) (p = .092)
+between responding and no responding companies. A chi-square test, moreover,
+showed no signiﬁcant differences for industry sector (χ 2 = 8.09, p > .05). These
+results collectively suggest that a nonresponse bias is not present in the data and
+that participating ﬁrms represented the population from which they were drawn.
+
+Measurement Scale Items
+The different objective and perceptual measures used in the study are described
+below.
+
+Compensation risk indicates the degree to which compensation is at risk
+of loss. To capture this measure, we asked the SCE to indicate the extent to
+which he/she assumes any type of risk to his/her base pay. Responses were made
+on a ﬁve-point scale (1 = no risk to my pay; 5 = extremely high risk to my
+pay). Responses to these questions were independently validated by calculating
+interrater agreement with responses from HRM managers in terms of risks to
+annual base salary (r = .79; p < .001), which as noted earlier is the predominant
+pay form for SCEs. It is important to note that previous research on CEO pay has
+operationalized compensation risk for various forms of retribution (e.g., salary,
+short term bonus and stock options). Because SCEs’ salary on average represents
+the largest percentage of their total pay (94% in U.S. according to salary.com’s
+survey 2008, and possibly higher in Spain), we decided to focus our attention on
+annual base salary. This is also entirely consistent with the BAM, which treats
+base salary as “essential compensation” and variable forms of pay (e.g., long-term
+bonuses) as “nonessential compensation.”
+
+Employment risk values the probability of termination for SCEs. To mea-
+sure this risk, we asked the SCE to indicate the degree to which he/she has
+
+
+Villena, Gomez-Mejia, and Revilla
+
+647
+
+failed to satisfy performance targets during the most recent review periods. The
+response format for this item ranged from 1 (strongly disagree) to 5 (strongly
+agree). Higher failure in achieving the performance target as part of the ap-
+praisal process is a warning sign that superiors are unhappy with the subordinate’s
+progress and hence places this person’s job at risk (i.e., it increases the probabil-
+ity of termination or replacement; Gomez-Mejia, Balkin, & Cardy, 2009). Hence,
+below-target performance as reported by the SCE should be an indicator of higher
+employment risk as perceived by the respondent. Answers to this question were
+recorded into a dummy variable, where “one” indicates SCEs who responded with
+“strongly agree” to the statement and “zero” represents those who selected an-
+swers 1 through 4 on this scale. Our focus on the extreme case (those who chose
+“strongly agree”) was to ensure that we had captured those SCEs for whom termi-
+nation was most likely, as previous research had suggested (Larraza-Kintana et al.,
+2007).
+
+The probability of termination for the SCE is ﬁrm speciﬁc and depends
+on a variety of factors, including, for instance, evaluation systems. In general,
+quantitative goals transfer more risk to executives as they are made accountable
+for observed performance outcomes even if these are not entirely under their
+control (Gomez-Mejia, Berrone, & Franco, 2010). At the other end, so-called
+strategic goals tend to be more process oriented, subjective, and ﬂexible. This
+allows for the possibility of receiving a good ex post evaluation if the original
+plan was reasonable, given the information available at the time, even if observed
+results or ﬁnal outcomes were disappointing and suggest a reconsideration of the
+strategic plan (Baysinger & Hoskisson, 1990). Consistent with this and supporting
+the construct validity of the employment risk measure, we found that the “below
+performance target” responses were positively correlated (r = .294; p < .001) with
+another survey item that measured the extent to which the evaluation system of
+the SCE is based on quantitative goals rather than qualitative (strategic) goals. As
+an external validation of this measure, we asked HRM managers to indicate if the
+SCE’s evaluation system was based on strategic goals or if it was mainly focused
+on meeting operational performance targets. These responses were validated with
+those from SCEs, showing a strong and statistically signiﬁcant correlation (r =
+.73, p < .001).
+
+Environmental risk values the degree of volatility of organizational per-
+formance. Following previous studies to measure environmental risk (Bromiley,
+1991; Haleblian & Finkelstein, 1993; Miller et al., 2002; Miller & Chen, 2004),
+we used the coefﬁcient of variation of ROA (obtained from SABI) within each
+industry sector over the 5 years prior to our survey (2003–2007). We ﬁrst iden-
+tiﬁed the ﬁrm’s industry sector following the classiﬁcation made by Spain’s Na-
+tional Institute of Statistics and then calculated the average coefﬁcient of varia-
+tion for all ﬁrms within each sector. As many of these ﬁrms were not publicly
+traded, stock market return data could not be used to calculate a coefﬁcient of
+variation.
+
+Supply chain integration measures the degree to which the ﬁrm and its
+collaborative supply chain partner (i.e., its supplier) jointly work in the pursuit
+of improved performance. We developed a multiitem scale based on a thorough
+
+
+648
+
+A Multidisciplinary Behavioral Agency Perspective
+
+literature review (Dyer & Singh, 1998; Handﬁeld & Nichols, 1999; Frohlich &
+Westbrook, 2001; Wisner, 2003; Chen & Paulraj, 2004; Modi & Mabert, 2007)
+and reﬁned it based on feedback obtained from a pre-test. This resulted in four
+items measuring the extent to which (i) partners share relevant information to
+evaluate and adjust to market needs, (ii) partners exchange information about
+the technology used, (iii) partners allocate resources in encouraging coordinated
+activities, and (iv) partners exchange information frequently and informally, which
+allows a better knowledge of their needs. Each item was rated on a ﬁve-point Likert
+scale ranging from 1 (strongly disagree) to 5 (strongly agree). When these items
+were factor-analyzed (with a varimax orthogonal rotation), only one factor reached
+an eigenvalue higher than 1.0, explaining 53% of the variance. The reliability
+of this scale was measured by Cronbach’s alpha, achieving a satisfactory value
+of .70.
+
+Operational performance captures the operative improvements owing to
+teamwork between the ﬁrm and its collaborative supplier. To measure it, we
+used two different, but related measures of operational performance. The ﬁrst
+(subjective) measure came from the survey and has been adopted from pre-
+vious studies that capture the overall operational performance using multiple
+items (Scannell, Vickery, & Dr¨oge, 2000; Frohlich & Westbrook, 2001; Wis-
+ner, 2003; Malhotra et al., 2005; Modi & Mabert, 2007; Sanders, 2007). Using
+a ﬁve-point scale, we asked SCEs to indicate the extent to which they believe
+that their ﬁrms’ operations improve as they engage in supply chain integration
+in terms of (i) higher productivity, (ii) shorter lead time, (iii) improved quality,
+and (iv) better service levels. Only one factor reached an eigenvalue higher than
+1, explaining 57% of the variance. The Cronbach’s alpha value of this construct
+was .72.
+
+The second (objective) measure came from the SABI database and has been
+extensively used as a measure of performance (Swamidass, Nair, & Mistry, 1999;
+Frohlich & Westbrook, 2001; McKone, Schroeder, & Cua, 2001; Malhotra et al.,
+2005; Mitra & Singhal, 2008) and considered as a strategic performance ratio
+(Grifﬁs, Cooper, Goldsby, & Closs, 2004; Grifﬁs, Goldsby, Cooper, & Closs,
+2007). Inventory turnover represents the degree to which a ﬁrm’s supply chain
+processes are streamlined and integrated with those of its partners. A high level
+of stock turnover indicates a greater efﬁciency in demand management, the use
+of advanced supply chain technology, and a lower risk of loss through unsaleable
+stock. However, an inventory turnover that is out of proportion to industry norms
+may suggest losses due to shortages and poor customer-service. We therefore used
+stock turnover as an important operative measure that indicates the coordinated
+effort within supply chain operations. Data about the stock turnover rate of each
+ﬁrm came from the SABI database for the year 2007.
+
+Control Variables
+This study included several relevant control variables. These were classiﬁed into
+three types: one set concerns ﬁrm characteristics, another set captures industry
+membership, and the last set measures the presence of enablers for supply chain
+integration as suggested in the literature.
+
+
+Villena, Gomez-Mejia, and Revilla
+
+649
+
+Organizational-level variables
+Company size, ﬁrm age, and ﬁrm performance were controlled in this study. All of
+these variables may covary with employment and compensation risks and perhaps,
+supply chain integration (the dependent variable). Information on these variables
+was gathered through the SABI database. Firm size was measured as the stan-
+dardized average value of annual sales. Previous research shows that managerial
+compensation covaries with ﬁrm size and that sales volume is the most commonly
+used proxy for size (Finkelstein & Hambrick, 1989; Tosi & Gomez-Mejia, 1989;
+Gray & Cannella, 1997; Bloom & Milkovich, 1998; Miller et al., 2002; Larraza-
+Kintana et al., 2007). Employment and compensation risks also tend to be lower
+in larger, more established companies (Balkin & Gomez-Mejia, 1987). Moreover
+large ﬁrms differ from smaller ﬁrms in their supply chain relationships due to
+larger budgets and differences in the power they exert in these relationships (Sub-
+ramani & Venkatraman, 2003; Benton & Maloni, 2005) as well as their greater
+experience in developing strategic partnerships. Firm age was measured as the
+standardized value of number of years the company has been in business since
+its founding. Older ﬁrms tend to exhibit higher employment stability and lower
+compensation risk than younger ﬁrms (Balkin & Gomez-Mejia, 1990). Lastly, ﬁrm
+performance was measured using average ROA for the 2003–2007 period. More
+proﬁtable ﬁrms may be able to pay more and have a more stable compensation
+and employment system (Anderson, Banker, & Ravindran, 2000). They can also
+afford to devote more resources to foster supply chain integration and to absorb
+losses if the integration does not produce the desired results.
+
+Industry membership
+Industry sector was controlled in order to partial out the inﬂuence of industry-level
+effects on managerial pay and employment risk as previous research indicates
+(Bloom & Milkovich, 1998; Yanadori & Marler, 2006). Previous research also
+suggests that ﬁrms in some industries, such as the automotive sector, engage in
+more integration within the chain (Dyer, 1996; Vickery et al., 2003). In the SABI
+database, each ﬁrm reports its industry membership based on the categorization
+supplied by Spain’s National Institute of Statistics. As the samples in some of the
+industry sectors were small, we had to group the 62 registered categories into four
+clusters: food and beverage (23.3%), chemical and pharmaceutical (22.6%), auto-
+motive (20.3), and others. Because each sector was treated as a dummy variable,
+it was necessary to omit one cluster from analysis. The omitted sector was that
+represented by “others” that included 33.8% of our sample.
+
+Enablers of supply chain integration
+This group of control variables was included with the main purpose of captur-
+ing the unique and additive impact of compensation and employment risks and
+their interactive effects with environmental risk on supply chain integration, after
+partialling out the inﬂuence of enablers such as trust, commitment and informa-
+tion technology, which have been amply studied as key factors of supply chain
+integration (Morgan & Hunt, 1994; Monczka et al., 1998; Mentzer et al., 2000;
+
+
+650
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Sahin & Robinson, 2002; Kotabe et al., 2003; Vickery et al., 2003; Saeed, Mal-
+hotra, & Grover, 2005; Klein, Rai, & Straub, 2007; Sanders, 2007; Wang & Wei,
+2007).
+
+Trust was measured by a seven-item scale previously validated by Zaheer
+and Venkatraman (1994); Siguaw, Simpson, and Baker (1998); and Morgan and
+Hunt (1994). The items on this scale measured the level of conﬁdence that the
+buyer ﬁrm has in its supplier’s reliability, integrity, and fairness. Commitment was
+measured by a three-item scale adapted from Gilliland and Bello (2002) and Richey
+(2003). The items of this scale measured the extent to which the ﬁrm is willing to
+develop a long-term relationship with its collaborative supplier in the future and
+the extent to which it recognizes that the loss of its partner means an important
+loss in ﬁnancial investments and knowledge developed during the relationship.
+Lastly, information technology captures the degree to which the ﬁrm can easily
+interact and coordinate efforts with its collaborative supplier through established
+and cost-efﬁcient information systems. This was assessed with two survey items
+that measure the availability of electronic links (e.g., electronic data interchange)
+and the use of specialized technologies to share updated and relevant information
+within supply chain operations. The response format for each of these items ranged
+from 1 (strongly disagree) to 5 (strongly agree). The Cronbach’s alpha values were
+.86, .74, and .65 for trust, commitment, and information technology, respectively.
+
+RESULTS
+
+Table 2 presents means, standard deviations, and correlations among all variables.
+None of the correlations among the independent and the control variables exceeds
+.70, and the highest correlation is between chemical and pharmaceutical sector
+and environmental risk (r = .59), indicating that multicollinearity is not a major
+problem for the regression analyses.
+
+All variables were centered prior to conducting a regression analysis (Cohen,
+Cohen, West, & Aitken, 2003), except the dichotomous measure for employment
+risk. The hypotheses were tested using a regression analysis. As is customary,
+control variables and main effects were entered ﬁrst. Multiplicative terms were
+added later to examine the hypothesized interactions. Tables 3 and 4 report the
+results from the regression analysis with supply chain integration and operational
+performance as the dependent variables. These tables also report the changes in
+adjusted R2 at each step and the signiﬁcance of each regression equation.
+
+Hypothesis 1 predicts a negative association between compensation risk and
+the SCE’s decision to foster supply chain integration. Consistent with prediction,
+this hypothesis was supported (ß = −.13, p < .05) suggesting that the higher the
+level of perceived compensation risk, the less likely the SCE promotes supply chain
+integration (see Table 3, model 2). Hypothesis 2 predicts that there is a negative
+relationship between the SCE’s employment risk and supply chain integration.
+The regression results support hypothesis 2’s prediction (ß = −.47, p < .05) (see
+Table 3, model 2). These ﬁndings collectively suggest that the higher the risk
+perceived by SCEs, either to compensation or employment stability, the less likely
+that they will allocate resources to encourage supply chain integration.
+
+
+Villena, Gomez-Mejia, and Revilla
+
+651
+
+4
+1
+
+3
+1
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+D
+S
+
+n
+a
+e
+
+M
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+.
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+d
+n
+a
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+:
+2
+
+e
+l
+b
+a
+T
+
+2
+1
+.
+0
+
+∗
+
+2
+2
+.
+0
+
+†
+
+6
+1
+.
+0
+
+6
+0
+.
+0
+
+9
+0
+.
+0
+−
+
+∗
+∗
+
+∗
+∗
+
+6
+0
+2
+0
+.
+.
+0
+0
+−
+
+3
+2
+.
+0
+
+∗
+∗
+
+1
+3
+.
+0
+−
+
+8
+4
+3
+1
+0
+0
+.
+.
+.
+0
+0
+0
+−
+−
+
+∗
+∗
+
+5
+6
+9
+2
+0
+0
+.
+.
+.
+0
+0
+0
+−
+−
+
+7
+0
+.
+0
+
+0
+0
+.
+0
+
+0
+0
+.
+0
+
+5
+8
+1
+0
+.
+.
+0
+0
+−
+
+0
+0
+.
+0
+
+3
+1
+.
+0
+
+5
+1
+.
+0
+
+2
+0
+0
+0
+.
+.
+0
+0
+−
+
+∗
+
+2
+8
+0
+1
+.
+.
+0
+0
+−
+
+∗
+∗
+
+∗
+∗
+
+3
+0
+.
+0
+
+6
+2
+.
+0
+
+5
+4
+.
+0
+
+3
+0
+.
+0
+
+6
+0
+.
+0
+−
+
+†
+
+5
+5
+0
+1
+.
+.
+0
+0
+−
+
+5
+0
+.
+0
+
+∗
+
+7
+2
+1
+1
+.
+.
+0
+0
+−
+
+7
+0
+.
+0
+
+6
+0
+.
+0
+
+7
+0
+.
+0
+−
+
+3
+3
+0
+1
+.
+.
+0
+0
+−
+
+∗
+∗
+
+5
+1
+9
+2
+0
+0
+2
+0
+.
+.
+.
+.
+0
+0
+0
+0
+−
+−
+−
+
+1
+1
+.
+0
+
+∗
+∗
+
+6
+2
+.
+0
+−
+
+0
+0
+.
+0
+
+∗
+∗
+
+1
+6
+0
+0
+.
+.
+0
+0
+−
+
+7
+7
+1
+0
+.
+.
+0
+0
+−
+
+∗
+∗
+
+9
+8
+5
+0
+.
+.
+0
+0
+−
+
+9
+8
+0
+0
+.
+.
+0
+0
+−
+
+∗
+∗
+
+7
+2
+.
+0
+−
+
+∗
+∗
+
+∗
+∗
+
+9
+2
+.
+0
+−
+
+6
+6
+2
+0
+.
+.
+0
+0
+−
+
+3
+5
+1
+1
+.
+.
+0
+0
+−
+
+∗
+∗
+
+2
+0
+0
+0
+.
+.
+0
+0
+−
+
+4
+3
+5
+0
+.
+.
+0
+0
+−
+
+0
+1
+.
+0
+
+∗
+
+6
+2
+0
+1
+.
+.
+0
+0
+−
+−
+
+∗
+∗
+
+4
+1
+2
+0
+.
+.
+0
+0
+−
+
+9
+0
+.
+0
+
+5
+1
+.
+0
+
+1
+1
+.
+0
+
+1
+9
+3
+1
+0
+1
+.
+.
+.
+0
+0
+0
+−
+−
+
+0
+0
+.
+0
+
+0
+0
+.
+0
+
+5
+0
+.
+0
+
+5
+0
+.
+0
+−
+
+5
+0
+.
+0
+−
+
+9
+0
+.
+0
+
+0
+1
+.
+0
+
+5
+1
+.
+0
+
+2
+0
+.
+0
+
+2
+1
+.
+0
+−
+
+8
+0
+.
+0
+−
+
+5
+0
+.
+0
+
+0
+0
+.
+0
+
+2
+5
+9
+1
+0
+0
+.
+.
+.
+0
+0
+0
+−
+−
+
+3
+9
+.
+0
+
+0
+0
+.
+1
+2
+
+2
+4
+.
+0
+
+9
+3
+.
+0
+
+6
+0
+.
+3
+
+1
+2
+.
+9
+2
+
+3
+2
+.
+0
+
+0
+2
+.
+0
+
+∗
+
+3
+0
+6
+2
+0
+1
+0
+0
+.
+.
+.
+.
+0
+0
+0
+0
+−
+−
+−
+
+1
+1
+2
+7
+0
+0
+1
+1
+.
+.
+.
+.
+0
+0
+0
+0
+−
+−
+−
+
+2
+1
+.
+0
+
+4
+0
+.
+0
+
+2
+0
+.
+0
+−
+
+2
+4
+.
+0
+
+7
+1
+.
+1
+
+1
+5
+.
+0
+
+3
+9
+.
+0
+
+3
+0
+.
+1
+
+0
+3
+.
+0
+
+1
+7
+.
+0
+
+8
+7
+.
+0
+
+9
+6
+.
+0
+
+1
+.
+1
+
+3
+2
+.
+0
+
+2
+8
+.
+1
+
+9
+9
+.
+3
+
+7
+6
+.
+2
+
+9
+8
+.
+2
+
+6
+1
+.
+3
+
+1
+1
+.
+0
+
+8
+5
+.
+1
+
+7
+5
+.
+3
+
+4
+5
+.
+3
+
+3
+4
+.
+3
+1
+
+2
+2
+.
+5
+1
+
+r
+o
+t
+c
+e
+s
+
+e
+g
+a
+r
+e
+v
+e
+b
+&
+d
+o
+o
+F
+3
+
+r
+o
+t
+c
+e
+s
+
+l
+a
+c
+i
+t
+u
+e
+c
+a
+m
+r
+a
+h
+p
+
+r
+o
+t
+c
+e
+s
+
+e
+v
+i
+t
+o
+m
+o
+t
+u
+A
+5
+
+&
+
+l
+a
+c
+i
+m
+e
+h
+C
+4
+
+e
+z
+i
+S
+1
+
+e
+g
+A
+2
+
+)
+
+A
+O
+R
+
+(
+
+s
+t
+e
+s
+s
+a
+n
+o
+
+n
+r
+u
+t
+e
+R
+6
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+8
+
+t
+s
+u
+r
+T
+7
+
+y
+g
+o
+l
+o
+n
+h
+c
+e
+t
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+I
+
+9
+
+k
+s
+i
+r
+n
+o
+i
+t
+a
+s
+n
+e
+p
+m
+o
+C
+0
+1
+
+k
+s
+i
+r
+
+t
+n
+e
+m
+y
+o
+l
+p
+m
+E
+1
+1
+
+k
+s
+i
+r
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+2
+1
+
+e
+v
+i
+t
+c
+e
+j
+b
+u
+s
+(
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+n
+i
+a
+h
+c
+y
+l
+p
+p
+u
+S
+3
+1
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+4
+1
+
+)
+e
+r
+u
+s
+a
+e
+m
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+5
+1
+
+e
+v
+i
+t
+c
+e
+j
+b
+o
+(
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+)
+e
+r
+u
+s
+a
+e
+m
+
+.
+
+n
+o
+i
+l
+l
+i
+
+m
+0
+0
+5
+>
+
+)
+5
+(
+
+,
+
+n
+o
+i
+l
+l
+i
+
+m
+0
+0
+5
+–
+0
+0
+1
+
+)
+4
+(
+
+,
+
+n
+o
+i
+l
+l
+i
+
+m
+9
+9
+–
+0
+5
+
+)
+3
+(
+
+,
+
+n
+o
+i
+l
+l
+i
+
+m
+0
+5
+–
+0
+2
+
+)
+2
+(
+
+,
+
+n
+o
+i
+l
+l
+i
+
+m
+0
+2
+–
+0
+
+)
+1
+(
+
+:
+d
+e
+d
+o
+c
+e
+r
+
+.
+
+1
+0
+
+.
+
+<
+p
+
+,
+
+5
+0
+
+.
+
+<
+p
+
+,
+
+1
+
+.
+
+<
+p
+
+∗
+∗
+
+∗
+
+s
+a
+w
+e
+z
+i
+S
+a
+
+†
+
+
+652
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Table 3: Regression analysis examining the effects of compensation, employment,
+and environmental risk on supply chain integration.
+
+Supply Chain Integration
+
+Variables
+
+Control
+Size
+Age
+Food & beverage sector
+Chemical & pharmaceutical sector
+Automotive sector
+Return of assets (ROA)
+Trust
+Commitment
+Information technology
+
+Main effects
+
+Compensation risk
+Employment risk
+Environmental risk
+Compensation risk × Environmental risk
+Employment risk × Environmental risk
+
+Moderator effects
+
+R2 (adjusted)
+R2 (adjusted) change
+R2
+F
+p value (change)
+†
+
+∗∗
+
+∗
+
+p < .1,
+
+p < .05,
+
+p < .01,
+
+∗∗∗
+
+p < .001.
+
+Model 1
+
+Model 2
+
+B
+
+∗
+∗
+
+∗
+∗∗
+∗
+
+.13
+−.13
+.06
+.24
+−.16
+−.14
+.49
+.15
+.01
+
+B
+
+†
+†
+
+∗
+∗∗
+∗
+
+∗
+∗
+
+.10
+−.12
+.09
+.10
+−.21
+−.14
+.42
+.15
+.01
+−.13
+−.47
+−.12
+
+14.40%
+
+45.73%
+∗∗∗
+3.23
+.001
+
+18.20%
+3.80%
+51.40%
+∗∗∗
+3.21
+.001
+
+Model 3
+
+B
+
+∗
+∗∗
+∗
+
+.10
+−.10
+.08
+.03
+−.23
+−.12
+.45
+.14
+.03
+−.13
+−.43
+−.12
+−.04
+−.67
+22.10%
+3.90%
+56.00%
+∗∗∗
+3.41
+.001
+
+∗∗
+
+∗
+∗
+
+The results regarding the interaction effects of compensation, employment,
+and environmental risk on supply chain integration (Hypotheses 3a and 3b) are
+presented in model 3 of Table 3. The equation for the full model was statistically
+signiﬁcant at p < .0001. The adjusted R2 increased from 18.2 (model 2) to 22.1
+(model 3) when the multiplicative terms are added to the equation. The change
+in adjusted R2 was statistically signiﬁcant at p < .001. However, only one of the
+moderating effects was signiﬁcant. Hypothesis 3a, which predicts that the negative
+effect of compensation risk on promoting supply chain integration will be greater
+for a higher degree of environmental risk, was not statistically supported (ß=−.04,
+ns). Hypothesis 3b, which predicts that the negative effect of employment risk on
+promoting supply chain integration will be greater under higher levels of environ-
+mental risk, was strongly supported. The results show that this interaction term was
+signiﬁcantly negative (ß = −.67, p < .01), suggesting that when environmental
+risk is high, employment risk has a more negative effect on the pursuit of supply
+chain integration than when environmental risk is low. The reader should note that
+these results are immune to method variance as the indicator of employment risk
+comes from the SCE (which is highly correlated with the independent assessment
+
+
+Villena, Gomez-Mejia, and Revilla
+
+653
+
+Figure 2: Hypothesized employment risk and environmental risk interaction plot.
+
+by the HRM executive) and the environmental risk indicator is obtained from the
+SABI database. The results thus suggest that when it comes to an assessment of
+the risk bearing attached to environmental volatility by the SCE, the main concern
+is losing his/her job rather than losing base pay (of course, the former implies
+forfeiting all base pay, which is a more severe threat). Figure 2 shows a plot of this
+interaction effect, using procedures by Aiken and West (1991).
+
+Turning our attention to the control variables (see Table 3, model 1), it is
+interesting to note that, as expected, ﬁrm size, trust, and commitment are positively
+related to supply chain integration. Surprisingly, ﬁrm age has a negative impact
+on supply chain integration, perhaps indicating that more traditional organizations
+with well-established routines exhibit greater inertia and thus higher reluctance
+to engage in joint decision making with supply chain partners. Firm performance
+(ROA) also shows a negative impact on integration, perhaps insinuating that ﬁrms
+that are doing well might see less gain in collaborative efforts within the supply
+chain.
+
+Hypothesis 4, which predicts a positive association between supply chain
+integration and operational performance, was supported. There was a positive and
+signiﬁcant correlation between supply chain integration and our subjective measure
+of operational performance (r= .22, p < .05) assessed by the SCE and our objective
+measure of stock turnover (r = .16, p = 0.08) obtained from the SABI database
+(see correlation matrix, Table 2). We also regressed the effects of supply chain
+integration on operational performance after ﬁrst introducing control variables
+related to ﬁrm characteristics and industry (see Table 4). We did not include the
+group of control variables related to enablers in Table 4 because (i) theory tells us
+that they are conceptually related to factors that enhance supply chain integration
+rather than performance outcomes, (ii) they were already introduced in the ﬁrst
+regression (Table 3) in which the focus was to analyze the additive impact of
+
+
+654
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Table 4: Regression analysis examining the effects of supply chain integration on
+operational performance.
+
+Variables
+
+Control
+Size
+Age
+Food & beverage sector
+Chemical & pharmaceutical sector
+Automotive sector
+Return of assets (ROA)
+
+Main effect
+
+Supply chain integration
+
+R2 (adjusted)
+R2
+F
+p value (change)
+†
+
+p < .1,
+
+p < .05,
+
+∗
+
+∗∗
+
+p < .01.
+
+Operational Performance
+
+Subjective Measure
+
+Objective Measure
+
+Model 1
+
+Model 2
+
+Model 1 Model 2
+
+B
+.02
+.05
+.14
+−.02
+.19
+.05
+
+†
+
+.00%
+3.70%
+1.040
+.403
+
+B
+−.01
+.07
+.13
+−.04
+.20
+.08
+
+†
+
+∗∗
+
+.25
+6.20%
+11.34%
+∗
+2.11
+.005
+
+B
+−.01
+.01
+−.07
+−.16
+−.18
+.03
+
+1.00%
+3.40%
+1.120
+.741
+
+B
+−.03
+.01
+−.07
+−.18
+−.17
+.05
+
+†
+
+.17
+2.40%
+6.40%
+†
+2.01
+.080
+
+compensation risk and employment risk and their interactions with environmental
+risk that goes further of the effects of previous enablers studied in the literature, and
+(iii) this would produce an unnecessary loss of degrees of freedom. The regression
+results show that supply chain integration was signiﬁcantly and positively related
+to our subjective measure (ß = .25, p < .01) and our objective measure (ß = .17,
+p = .07) of operational performance (see Table 4, model 2). Once again the reader
+is reminded that “common source” cannot account for any of the latter variance
+or statistical signiﬁcance as the objective measure (stock turnover) was gathered
+independently from the SABI database.
+
+DISCUSSION
+
+Increasingly SCEs realize that their organizations’ operations are not run indepen-
+dently from their supply chains. They should allocate resources to synchronize
+processes and share knowledge with other key supply chain partners in order to
+improve their ﬁrms’ operational performance. Simultaneously, they have to deal
+with the risks resulting from the intense level of collaborative knowledge sharing
+and the high level of relationship-speciﬁc investments. This uncertain situation
+limits SCEs’ risk taking because they may see their personal wealth threatened if
+the expected result of supply chain integration does not occur. In order to promote
+supply chain integration and ensure continued ﬁrm competitiveness and success,
+ﬁrms must therefore develop an employment and compensation system that re-
+duces executive risk bearing and thus promotes risk taking for their SCEs.
+
+
+Villena, Gomez-Mejia, and Revilla
+
+655
+
+Previous research has consistently suggested that integrated supply chains
+improve the operational performance (Dyer & Nobeoka, 2000; Frohlich & West-
+brook, 2001; Vickery et al., 2003; Wisner, 2003; Liker & Choi, 2004; Modi &
+Mabert, 2007; Myers & Cheung, 2008). But what are the factors that foster or
+hinder integration? By examining human resource factors using the BAM, this
+article attempts to explain how to induce SCEs to foster supply chain integration
+under the perspective of managerial risk bearing. An extrapolation of our ﬁndings
+suggests that the SCE is more willing to take the risky decision of fostering supply
+chain integration when a ﬁrm’s employment and compensation system assures
+his/her essential (base) pay and also emphasizes the strategic desirability of his/her
+decisions to the ﬁrm’s interests in the appraisal process rather than meeting quan-
+titative operational targets that augment employment risk. In these cases, the idea
+is to reduce executive risk exposure (e.g., by decoupling employment risk from the
+pursuit of supply chain integration) in order to change the SCE’s risk preference.
+Clearly, our results suggest that SCEs will tend to avoid supply chain integration
+if this involves a personal risk, no matter how beneﬁcial the SCE believes this
+integration might be for the ﬁrm.
+
+Almost 20 years ago, Baysinger and Hoskisson (1990) suggested that boards
+of directors and upper echelons should rely mainly on strategic rather than on
+numerical control systems. While they did not use our language nor did they apply
+our theoretical arguments, these authors’ recommendations are congruent with our
+logic and results. Under strategic control systems, judgments are made about the
+quality of decisions made by SCEs before implementation, considering the context
+facing the ﬁrm. Hence, the use of strategic controls by superiors relieves SCEs of
+achieving short-term operative performance outcomes where their inﬂuence may
+only be partial (e.g., when ﬁrms operate in volatile environments), and instead
+focuses evaluation on means that can sustain long-term competitiveness (e.g.,
+supply chain integration process), which can be subjectively assessed. This article
+thus suggest that a ﬁrm’s evaluation system should rely on strategic control systems
+with top managers actively giving support to SCEs’ long-term oriented decisions,
+such as supply chain integration, through continuous advice and encouragement.
+Based on the BAM, this research suggests that by insulating a basic com-
+pensation from the threat of loss, we reduce the capacity of SCEs to protect their
+perceived current wealth and, as a consequence, they are more conﬁdent of pursuing
+high-return, albeit risky, supply chain partnerships. Doing this, the ﬁrm provides
+incentives for the SCE that are tied to its performance, without the threat of loss
+that pursuing strategies such as supply chain integration entails. In the same vein,
+the lack of strategic goal setting for SCM, the ambiguity of evaluation criteria, and
+the focus to evaluate and reward primarily on meeting (short-term) performance
+criteria make SCEs less willing to put efforts in developing important supply chain
+partnerships, which imply surrendering their potential beneﬁts.
+
+This article also extends the BAM developed by Wiseman and Gomez-Mejia
+(1998) by incorporating the moderating role of environmental risk. Firms operating
+in volatile environments have more difﬁculty in assuring reliable compensation and
+employment stability for their executives; a situation that is taken into account in
+the decision-making process by SCEs. The results showed that loss-averse SCEs
+exhibit less risk-taking behavior in highly volatile markets than stable markets.
+
+
+656
+
+A Multidisciplinary Behavioral Agency Perspective
+
+This suggests that ﬁrms operating in dynamic markets that seek to promote supply
+chain integration (as a way to gain control over supply uncertainty and share
+risks with partners) should attempt to assure essential compensation and, more
+importantly, focus on the quality of the decision-making processes of SCEs as they
+may be blamed for poor results even if performance outcomes are largely beyond
+their control.
+
+This article also uses a new context to examine managerial risk bearing.
+Past research on compensation design has been almost exclusively concerned with
+CEOs. A major novelty of this study is its focus on the SCE, who plays an increas-
+ingly pivotal role in ensuring continued ﬁrm competitiveness and success (Mangan
+& Christopher, 2005). We have analyzed how a ﬁrm’s appropriate employment and
+compensation system induces the SCE to foster supply chain partnerships, which
+improve operational performance. This is important because increasingly compe-
+tition actually does take place between supply chains and, therefore, to have richer
+insights about which human resource factors facilitate supply chain integration
+(despite the inﬂuence of enablers such as trust and commitment) becomes vital for
+researchers and practitioners. Finally, this article conﬁrms previous empirical ﬁnd-
+ings that supply chain integration improves operational performance of committed
+partners.
+
+Lastly, it is important to remind the reader that even when the SCE believes
+that supply chain integration has a salutary effect on operational performance (as
+captured by the four Likert type items) this individual is willing to decide against
+it when compensation or employment security is at risk. This is consistent with
+BAM predictions that excessive agent risk bearing increases agency costs (in our
+case foregoing the purported advantages of supply chain integration).
+
+Limitations and Future Research
+The limitations of this research provide fertile areas for further research. First,
+this article emphasizes the new tendency toward greater collaboration between
+supply chain partners, but such collaborations are difﬁcult where competing supply
+chains have common suppliers or where suppliers compete with customers (Rice
+& Hoppe, 2001). Our conclusions should therefore be interpreted with caution in
+those situations. Second, although we used multiple respondents and secondary
+data to strengthen the veridicality of the results, we examined the viewpoint of
+the SCE of a buying ﬁrm in relation to its main supplier to evaluate supply chain
+integration. Future studies should also collect data from both enterprises involved in
+the partnership to ensure a balanced view. Third, we analyzed a speciﬁc situation of
+SCEs’ risk-taking behavior regarding supply chain integration. Although we have
+no reason to think that our ﬁndings can change for other types of risky decisions,
+it might be interesting to conﬁrm the strength of our ﬁndings with other similar
+decisions involved in SCM.
+
+Fourth, this article does not address advantages of supply chain integration
+that go beyond operations management to areas such as innovation and marketing.
+Executives of these areas could be interested in developing joint strategies with
+supply chain members to achieve their ﬁrms’ goals. It would be interesting to
+consider how to design a compensation plan for teams of executives, in addition
+
+
+Villena, Gomez-Mejia, and Revilla
+
+657
+
+to individual compensation studied here. Relatedly, we have focused our com-
+pensation analysis on base pay but it would be interesting to examine the role of
+other managerial incentives that Wiseman and Gomez-Mejia (1998) refer to as
+“nonessential pay.” We have argued that a ﬁrm’s employment and compensation
+system should assure reliable pay that is perceived as essential to the SCE’s stan-
+dard of living. But layering variable-pay incentives on top of essential (base) pay
+may persuade the SCE to seek higher return, albeit risky projects such as supply
+chain integration. Fifth, the variables of compensation and employment risk in this
+research are measured by single items, and as such may be subject to a measure-
+ment error (Churchill, 1979). Future research might develop multiple-item scales
+that can better specify the constructs’ domain and improve their validity and reli-
+ability. Finally, this study does not analyze the inﬂuence of the decisions of SCEs
+on the bottom line, for example on their ﬁrms’ stock price. Future research could
+analyze the extent to which SCEs, unlike other senior executives, can inﬂuence
+their ﬁrms’ stock prices.
+
+There are many questions that arise from this study that are amenable to
+future multidisciplinary research. These include examining the conditions when
+bilateral dependence, power imbalance, and information asymmetries among sup-
+ply chain partners increase the SCE’s risk bearing; how various types of trust
+(e.g., ability, benevolence, and integrity; Cruz et al., in press) inﬂuence the per-
+ceived vulnerability (and hence risk bearing) of the SCE; how the SCE sets the
+reference points for gains or losses (Wiseman & Gomez-Mejia, 1998) in supply
+chain partnerships; and the extent to which the organizational culture is tolerant
+of failure and hence allows the SCE to take more risks within the integration
+process.
+
+Conclusions
+In this article, we state that the propensity of a ﬁrm to promote supply chain
+integration is related to the attitudes of the SCE toward risk and that these attitudes
+will change systematically according to the three kinds of risk-bearing analyzed.
+This research also suggests that an appropriate employment and compensation
+system can help to induce SCEs to exhibit risk-taking behavior as exempliﬁed in
+supply chain integration. Such risk-taking behavior is also likely to have positive
+consequences for the ﬁrm (such as salutary impact of supply chain integration on
+operational performance).
+
+Our theoretical arguments and ﬁndings indicate that external context facing
+the ﬁrm is a critical element to consider when designing the compensation and
+employment contract for SCEs. High levels of ﬁrm-speciﬁc risk augment executive
+risk bearing and, thus, reduce risk-taking behavior. This suggests that ﬁrms oper-
+ating in highly uncertain markets that seek to develop strategic partnerships within
+the supply chain should put more emphasis on evaluating the decision-making
+process of the SCE, rather than on the extent to which performance outcomes
+have been met (because uncertain environments allow SCEs little control over the
+operational performance).
+
+[Received: January 2009. Accepted: July 2009.]
+
+
+658
+
+A Multidisciplinary Behavioral Agency Perspective
+
+REFERENCES
+
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting
+
+interactions. Thousand Oaks, CA: Sage.
+
+Anderson, E., & Weitz, B. (1992). The use of pledges to build and sustain com-
+
+mitment. Journal of Marketing Research, 29(1), 18–34.
+
+Anderson, M. C., Banker, R. D., & Ravindran, S. (2000). Executive compensation
+in the information technology industry. Management Science, 46(4), 530–
+548.
+
+Arkes, H. R., Joyner, C. A., & Stone, E. (1994). The psychology of windfall gains.
+Organizational Behavior and Human Decision Processes, 59(1), 331–347.
+Asanuma, B. (1989). Manufacturer-supplier relationships in Japan and the con-
+cept of relation-speciﬁc skill. Journal of the Japanese and International
+Economies, 3(1), 1–30.
+
+Baird, I. S., & Thomas, H. (1985). Toward a contingency model of strategic risk
+
+taking. Academy of Management Review, 10(2), 230–243.
+
+Balkin, D. B., & Gomez-Mejia, L. R. (1987). Toward a contingency theory of
+
+compensation strategy. Strategic Management Journal, 8(2), 169–182.
+
+Balkin, D. B., & Gomez-Mejia, L. R. (1990). Matching compensation and organi-
+
+zational strategies. Strategic Management Journal, 11(2), 153–169.
+
+Baysinger, B., & Hoskisson, R. E. (1990). The composition of boards of directors
+and strategic control: Effects on corporate strategy. Academy of Management
+Review, 15(1), 72–87.
+
+Beatty, R. P., & Zajac, E. J. (1994). Managerial incentives, monitoring, and risk
+bearing: A study of executive compensation, ownership, and board structure
+in initial public offerings. Administrative Science Quarterly, 39(2), 313–335.
+Benton, W. C., & Maloni, M. (2005). The inﬂuence of power driven buyer/seller re-
+lationships on supply chain satisfaction. Journal of Operations Management,
+23(1), 1–22.
+
+Bleeke, J., & Ernst, D. (1995). Is your strategic alliance really a sale? Harvard
+
+Business Review, 73(1), 97–105.
+
+Bloom, M., & Milkovich, G. T. (1998). Relationships among risk, incentive pay,
+and organizational performance. Academy of Management Journal, 41(3),
+283–297.
+
+Boeker, W. (1992). Power and managerial dismissal: Scapegoating at the top.
+
+Administrative Science Quarterly, 37(3), 400–422.
+
+Bromiley, P. (1991). Testing a causal model of corporate risk taking and perfor-
+
+mance. Academy of Management Journal, 34(1), 37–59.
+
+Chase, R. B., Jacobs, R. B., & Aquilano, N. J. (2006). Operations management for
+
+competitive advantage (11th ed.). New York: McGraw-Hill Irwin.
+
+Chen, I. J., & Paulraj, A. (2004). Towards a theory of supply chain manage-
+ment: The constructs and measurements. Journal of Operations Manage-
+ment, 22(3), 119–150.
+
+
+Villena, Gomez-Mejia, and Revilla
+
+659
+
+Chopra, S., & Meindl, P. (2007). Supply chain management: Strategy, planning, &
+
+operation (3rd ed.). Englewood Cliffs, NJ: Pearson Prentice Hall.
+
+Churchill, G. A. Jr. (1979). A paradigm for developing better measures of marketing
+
+constructs. Journal de Marketing, 16(1), 64–73.
+
+Clark, K. B., & Fujimoto, T. (1991). Product development performance: Strategy,
+organization, and management in the world auto industry. Cambridge, MA:
+Harvard University Press.
+
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple regres-
+sion/correlation analysis for the behavioral sciences (3rd ed.). Mahwah, NJ:
+Erlbaum.
+
+Cruz, C., Gomez-Mejia, L., & Becerra, M. (In press). CEO perceptions of TMT
+
+benevolence in family ﬁrms. Academy of Management Journal.
+
+Devers, C. E., McNamara, G., Wiseman, R. M., & Arrfelt, M. (2008). Moving
+closer to the action: Examining compensation design effects on ﬁrm risk.
+Organizational Science, 19(4), 548–566.
+
+Dyer, J. H. (1996). Specialized supplier networks as a source of competitive
+advantage: Evidence from the auto industry. Strategic Management Journal,
+17(4), 271–291.
+
+Dyer, J. H., & Singh, H. (1998). The relational view: Cooperative strategy and
+sources of interorganizational competitive advantage. Academy of Manage-
+ment Review, 23(4), 660–679.
+
+Dyer, J. H., & Nobeoka, K. (2000). Creating and managing a high-performance
+knowledge-sharing network: The Toyota case. Strategic Management Jour-
+nal, 21(3), 345–367.
+
+Eisenhardt, K. M. (1989). Agency theory: An assessment and review. Academy of
+
+Management Review, 14(1), 57–74.
+
+Finkelstein, S., & Hambrick, D. C. (1989). Chief executive compensation: A study
+of the intersection of markets and political processes. Strategic Management
+Journal, 10(2), 121–134.
+
+Frohlich, M. T., & Westbrook, R. (2001). Arcs of integration: An international
+study of supply chain strategies. Journal of Operations Management, 19(2),
+185–200.
+
+Gallo, M. A., & Villaseca, A. (1996). Finance in family business. Family Business
+
+Review, 9(4), 387–401.
+
+Geletkanycz, M. A. (1997). The salience of culture’s consequences: The effect
+of cultural values on top executive commitment to the status quo. Strategic
+Management Journal, 18(8), 615–634.
+
+Gilliland, D. I., & Bello, D. C. (2002). Two sides to attitudinal commitment: The
+effect of calculative and loyalty commitment on enforcement mechanisms in
+distribution channels. Journal of the Academy of Marketing Science, 30(1),
+24–43.
+
+Gomes-Casseres, B. (1994). Group versus group: How alliance networks compete.
+
+Harvard Business Review, 72(4), 62–67.
+
+
+660
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Gomez-Mejia, l. R., Berrone, P., & Franco, M. (2010). Compensation and organi-
+zational performance: Theory, research & practice. New York: ME Sharpe,
+Inc.
+
+Gomez-Mejia, L. R., Nu˜nez-Nickel, M., & Gutierrez, I. (2001). The role of family
+
+ties in agency contracts. Academy of Management Journal, 44(1), 81–95.
+
+Gomez-Mejia, L. R., Balkin, D. B., & Cardy, R. (2009). Managing human re-
+
+sources. Englewood Cliffs, NJ: Prentice Hall.
+
+Gray, S. R., & Cannella, A. A., Jr. (1997). The role of risk in executive compen-
+
+sation. Journal of Management, 23(4), 517–531.
+
+Grifﬁs, S. E., Cooper, M., Goldsby, T. J., & Closs, D. J. (2004). Performance
+measurement: Measure selection based upon ﬁrm goals and information
+reporting needs. Journal of Business Logistics, 25(2), 95–118.
+
+Grifﬁs, S. E., Goldsby, T. J., Cooper, M., & Closs, D. J. (2007). Aligning logis-
+tics performance measures to the information needs of the ﬁrm. Journal of
+Business Logistics, 28(2), 35–56.
+
+Gulati, R. (1998). Alliances and networks. Strategic Management Journal, 19(4),
+
+293–318.
+
+Gulati, R., & Gargiulo, M. (1999). Where do interorganizational networks come
+
+from? American Journal of Sociology, 104(5), 1439–1493.
+
+Gulati, R., & Singh, H. (1998). The architecture of cooperation: Managing coordi-
+nation costs and appropriation concerns in strategic alliances. Administrative
+Science Quarterly, 43(4), 781–814.
+
+Haleblian, J., & Finkelstein, S. (1993). Top management team size, CEO domi-
+nance, and ﬁrm performance: The moderating roles of environmental turbu-
+lence and discretion. Academy of Management Journal, 36(4), 844–864.
+
+Hambrick, D. C., Geletkanycz, M. A., & Fredrickson, J. W. (1993). Top executive
+commitment to the status quo: Some tests of its determinants. Strategic
+Management Journal, 14(6), 401–418.
+
+Handﬁeld, R. B., & Nichols, E. L. Jr. (1999). Introduction to supply chain man-
+
+agement. New York: Prentice-Hall.
+
+He, Q., Ghobadian, A., Gallear, D., Race, P., & Spinks, N. (2007). Knowledge
+transfer in supply chain partnerships: Characteristics and research proposi-
+tions. Proceedings of the 2007 Annual Meeting of Production and Operations
+Management. Dallas, TX.
+
+Hitt, M. A., Hoskisson, R. E., Johnson, R. A., & Moesel, D. D. (1996). The market
+for corporate control and ﬁrm innovation. Academy of Management Journal,
+39(5), 1084–1119.
+
+Hult, G. T. M., Ketchen, D. J., & Nichols, E. L. (2002). An examination of cul-
+tural competitiveness and order fulﬁllment cycle time within supply chains.
+Academy of Management Journal, 45(3), 577–586.
+
+Hult, G. T. M., Ketchen, D. J., & Slater, S. F. (2004). Information processing,
+knowledge development and strategic supply chain performance. Academy
+of Management Journal, 47(2), 241–253.
+
+
+Villena, Gomez-Mejia, and Revilla
+
+661
+
+Jap, S. (1999). Pie-expansion efforts: Collaboration processes in buyer-supplier
+
+relationships. Journal of Marketing Research, 31(11), 461–475.
+
+Judge, W. Q. Jr., & Dobbins, G. H. (1995). Antecedents and effects of outside
+director’s awareness of CEO decision style. Journal of Management, 21(1),
+43–65.
+
+Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision
+
+under risk. Econometrica, 47(2), 263–291.
+
+Kale, P., Singh, H., & Perlmutter, H. (2000). Learning and protection of pro-
+prietary assets in strategic alliances: Building relational capital. Strategic
+Management Journal, 21(3), 217–228.
+
+Klein, R., Rai, A., & Straub, D. W. (2007). Competitive and cooperative position-
+ing in supply chain logistics relationships. Decision Sciences, 38(4), 611–
+646.
+
+Koch, M. J., & McGrath, R. G. (1996). Improving labor productivity: Human
+resource management policies do matter. Strategic Management Journal,
+17(5), 335–354.
+
+Kotabe, M., Martin, X., & Domoto, H. (2003). Gaining from vertical partner-
+ship: Knowledge transfer, relationship curation, and supplier performance
+improvement in the U.S. and Japanese automotive industries. Strategic Man-
+agement Journal, 24(4), 293–316.
+
+Krause, D. R., Scannell, T. V., & Calantone, R. J. (2000). A structural analysis of
+the effectiveness of buying ﬁrms’ strategies to improve supplier performance.
+Decision Sciences, 31(1), 33–55.
+
+Kumar, N., Scheer, L. K., & Steenkamp, J. B. (1995). The effects of perceived
+interdependence on dealer attitudes. Journal of Marketing Research, 3(1),
+348–356.
+
+Lambert, D. M., Emmelhainz, M. A., & Gardner, J. T. (1996). Developing and
+implementing supply chain partnerships. International Journal of Logistics
+Management, 7(2), 1–17.
+
+Lambert, D. M., & Harrington, T. C. (1990). Measuring nonresponse bias in
+customer service mail surveys. Journal of Business Logistics, 11(2), 5–
+25.
+
+Larraza-Kintana, M., Wiseman, R. M., Gomez-Mejia, L. R., & Welbourne,
+T. M. (2007). Disentangling compensation and employment risks using the
+behavioral agency model. Strategic Management Journal, 28(10), 1001–
+1019.
+
+Lee, H. L., Padmanabhan, V., & Whang, S. (1997). Information distortion in a
+
+supply chain: The bullwhip effect. Management Science, 43(4), 546–559.
+
+Liker, J. K., & Choi, T. Y. (2004). Building deep supplier relationships. Harvard
+
+Business Review, 82(12), 104–113.
+
+Malhotra, A., Gosain, S., & El Sawy, O. A. (2005). Absorptive capacity con-
+ﬁgurations in supply chain: Gearing for partner-enabled market knowledge
+creation. MIS Quarterly, 29(1), 145–187.
+
+
+662
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Mangan, J., & Christopher, M. (2005). Management development and the supply
+chain manager of the future. International Journal of Logistics Management,
+16(2), 178–191.
+
+McDougall, P. P. (1989). International versus domestic entrepreneurship: New ven-
+ture strategic behavior and industry structure. Journal of Business Venturing,
+4(1), 387–399.
+
+McDougall, P., & Robinson, R. B. Jr. (1990). New venture strategies: An empir-
+ical identiﬁcation of eight “archetypes” of competitive strategies for entry.
+Strategic Management Journal, 11(6), 447–467.
+
+McKone, K. E., Schroeder, R. G., & Cua, K. O. (2001). The impact of total
+productive maintenance practices on manufacturing performance. Journal of
+Operations Management, 19(1), 39–58.
+
+Mentzer, J. T., Min, S., & Zacharia, Z. G. (2000). The nature of inter-ﬁrm partnering
+
+in supply chain management. Journal of Retailing, 76(4), 549–569.
+
+Milkovich, G. T., & Newman, J. (2008). Compensation. New York: Irwin/McGraw
+
+Hill.
+
+Miller, K. D., & Bromiley, P. (1990). Strategic risk and corporate performance:
+An analysis of alternative risk measures. Academy of Management Journal,
+33(4), 756–779.
+
+Miller, J. S., Wiseman, R. M., & Gomez-Mejia, L. R. (2002). The ﬁt between CEO
+compensation design and ﬁrm risk. Academy of Management Journal, 45(4),
+745–756.
+
+Miller, K. D., & Chen, W. R. (2004). Variable organizational risk preferences:
+Tests of the March-Shapira model. Academy of Management Journal, 47(1),
+105–115.
+
+Mitra, S., & Singhal, V. (2008). Supply chain integration and shareholder value:
+Evidence from consortium based industry exchanges. Journal of Operations
+Management, 26(1), 96–114.
+
+Modi, S. B., & Mabert, V. A. (2007). Supplier development: Improving supplier
+performance through knowledge transfer. Journal of Operations Manage-
+ment, 25(1), 42–64.
+
+Monczka, R. M., Petersen, K. J., Handﬁeld, R. B., & Ragatz, G. L. (1998). Suc-
+cess factors in strategic supplier alliances: The buying company perspective.
+Decision Sciences, 29(3), 553–577.
+
+Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship
+
+marketing. Journal of Marketing, 58(1), 20–38.
+
+Myers, M. B., & Cheung, M. S. (2008). Sharing global supply chain knowledge.
+
+MIT Sloan Management Review, 49(4), 67–73.
+
+Osborn, R. N., & Hagedoorn, J. (1997). The institutionalization and evolutionary
+dynamics of interorganizational alliances and networks. Academy of Man-
+agement Journal, 40(2), 261–278.
+
+Powell, W., Koput, K. W., & Smith-Doerr, L. (1996). Interorganizational collab-
+oration and the locus of innovation: Networks of learning in biotechnology.
+Administrative Science Quarterly, 41(1), 116–145.
+
+
+Villena, Gomez-Mejia, and Revilla
+
+663
+
+Preston, D. S., Chen, D., & Leidner, D. E. (2008). Examining the antecedents
+and consequences of CIO strategic decision-making authority: An empirical
+study. Decision Sciences, 39(4), 605–642.
+
+Rice, J. B. Jr., & Hoppe, R. M. (2001). Supply chain vs. supply chain. Supply
+
+Chain Management Review, 5(5), 46–53.
+
+Richey, G. R. (2003). Technological readiness and strategic interactive ﬁt: Dy-
+namic capabilities impacting logistic service competency and performance.
+Doctoral thesis. The University of Oklahoma.
+
+Ro, Y., Liker, J. K., & Fixson, S. K. (2007). Modularity as a strategy for supply
+chain coordination: The case of U.S. auto. IEEE Transactions on Engineering
+Management, 54(1), 172–189.
+
+Rossetti, Ch. L., & Choi, T. (2005). On the dark side of strategic sourcing: Ex-
+periences from the aerospace industry. Academy of Management Executive,
+19(1), 46–60.
+
+Saeed, K. A., Malhotra, M. K., & Grover, V. (2005). Examining the impact of
+interorganizational systems on process efﬁciency and sourcing leverage in
+buyer–supplier dyads. Decision Sciences, 36(3), 365–396.
+
+Sahin, F., & Robinson, E. P. (2002). Flow coordination and information sharing
+in supply chains: Review, implications, and directions for future research.
+Decision Sciences, 33(4), 505–536.
+
+Salary.com. (2008). Available at http://www.salary.com/.
+Sanders, N. R. (2007). An empirical study of the impact of e-business technolo-
+gies on organizational collaboration and performance. Journal of Operations
+Management, 25(6), 1332–1347.
+
+Scannell, T. V., Vickery, S. K., & Dr¨oge, C. L. (2000). Upstream supply chain
+management and competitive performance in the automotive supply industry.
+Journal of Business Logistics, 21(1), 23–48.
+
+Siguaw, J. A., Simpson, P. M., & Baker, T. L. (1998). Effects of supplier market
+orientation on distributor market orientation and the channel relationship:
+The distributor perspective. Journal of Marketing, 62(3), 99–111.
+
+Sitkin, S. B., & Pablo, A. L. (1992). Reconceptualizing the determinants of risk
+
+behavior. Academy of Management Review, 17(1), 9–38.
+
+Strahilevitz, M. A. (1992). Applications of prospect theory to the design of sales
+force compensation plans. Working paper M-l-D, Center for Research in
+Management, University of California, Berkeley, CA.
+
+Swamidass, P. M., Nair, S. S., & Mistry, S. I. (1999). The use of a neural factory to
+investigate the effect of product line width on manufacturing. Management
+Science, 45(11), 1524–1538.
+
+Subramani, M. R., & Venkatraman, N. (2003). Safeguarding investments in asym-
+metric interorganizational relationships: Theory and evidence. Academy of
+Management Journal, 46(1), 46–62.
+
+Tversky, A., & Wakker, P. (1995). Risk attitudes and decision weights. Economet-
+
+rica, 63(1), 1255–1280.
+
+
+664
+
+A Multidisciplinary Behavioral Agency Perspective
+
+Tosi, H. L., & Gomez-Mejia, L. R. (1989). The decoupling of CEO pay and per-
+formance: An agency theory perspective. Administrative Science Quarterly,
+34(2), 169–190.
+
+Tosi, H. L., Werner, S., Katz, J. P., & Gomez-Mejia, L. R. (2000). How much
+does performance matter? A meta-analysis of CEO pay studies. Journal of
+Management, 26(2), 301–339.
+
+Vickery, S. K., Jayaram, J., Droge, C., & Calantone, R. (2003).The effects of
+an integrative supply chain strategy on customer service and ﬁnancial per-
+formance: An analysis of direct versus indirect relationships. Journal of
+Operations Management, 21(5), 523–540.
+
+Wang, E. T. G., & Wei, H.-L. (2007). Interorganizational governance value cre-
+ation: Coordinating for information visibility and ﬂexibility in supply chains.
+Decision Sciences, 38(4), 647–674.
+
+Williamson, O. E. (1985). The economic institutions of capitalism. New York: The
+
+Free Press.
+
+Wisner, J. D. (2003). A structural equation model of supply chain management
+strategies and ﬁrm performance. Journal of Business Logistics, 24(1), 1–26.
+Wiseman, R. M., & Bromiley, P. (1996). Toward a model of risk in declining
+organizations: An empirical examination of risk, performance and decline.
+Organization Science, 7(5), 525–543.
+
+Wiseman, R. M., & Gomez-Mejia, L. R. (1998). A behavioral agency model of
+
+managerial risk taking. Academy of Management Review, 23(1), 133–153.
+
+Yanadori, Y., & Marler, J. H. (2006). Compensation strategy: Does business strat-
+egy inﬂuence compensation in high-technology ﬁrms? Strategic Manage-
+ment Journal, 27(6), 559–570.
+
+Zaheer, A., & Venkatraman, N. (1994). Determinants of electronic integration
+in the insurance industry: An empirical test. Management Science, 40(5),
+449–566.
+
+Zajac, E. J., & Olsen, C. P. (1993). From transaction cost to transactional value
+analysis: Implications for the study of interorganizational strategies. Journal
+of Management Studies, 30(1), 131–145.
+
+Ver´onica H. Villena is a PhD candidate at IE Business School in Spain. Her current
+research interests include social capital in buyer–supplier relationships, supply
+chain integration, and supply networks. She received her MBA from IE Business
+School and her ISO 9000 leader auditor certiﬁcation from IRCA/SGS. She has
+participated in various conferences, including those organized by the Academy of
+Management, Production and Operations Management Society, Decision Sciences
+Institute, and European Operations Management Association.
+
+Luis R. Gomez-Mejia holds the Benton Cocanougher Chair in Business at the
+Mays Business School, Texas A&M University. Prior to that he held faculty posi-
+tions at Arizona State University, University of Colorado-Boulder, and University
+of Florida. He is a fellow of the Academy of Management and member of the “Hall
+of Fame” of the Academy of Management (which includes 33 out of approximately
+
+
+Villena, Gomez-Mejia, and Revilla
+
+665
+
+10,000 members in the Academy of Management). He has published more than
+200 articles and 12 books in the area of macro human resources and corporate
+governance. His research has been cited more than 6,000 times in the literature,
+placing him as one of the most cited management scholars.
+
+Elena Revilla is professor of operations management at IE Business School in
+Spain. She received her PhD from the University of Valladolid and an MA in
+Science and Technology Management from Carlos III University, Madrid. She
+was a postdoctoral fellow in the Kenan Flager Business School, University of
+North Carolina in Chapel-Hill. She received the 1996 award for the best doctoral
+dissertation granted by the Club Gesti´on de Calidad. She is the author of the book
+Factores determinantes del aprendizaje organizativo (Club Gesti´on de la Calidad,
+1996). Her work has appeared in several leading journals.
+

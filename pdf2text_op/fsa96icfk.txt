@@ -1,0 +1,1966 @@
+DDOOEESS  IIMMPPRROOVVIINNGG  AA  FFIIRRMM(cid:146)(cid:146)SS  EENNVVIIRROONNMMEENNTTAALL  MMAANNAAGGEEMMEENNTT
+SSYYSSTTEEMM  AANNDD  EENNVVIIRROONNMMEENNTTAALL  PPEERRFFOORRMMAANNCCEE  RREESSUULLTT  IINN  AA
+
+HHIIGGHHEERR  SSTTOOCCKK  PPRRIICCEE??
+
+Stanley J. Feldman, Peter A. Soyka, and Paul Ameer
+
+ICF Kaiser International, Inc.
+
+SSUUMMMMAARRYY
+
+Some believe that improved environmen-
+tal management practices and perfor-
+mance are good for the firm as well as for
+society, while others believe that environ-
+mental improvements and their costs are a
+drag on the bottom line and should be
+minimized.  So who is right?  Both sides
+provide theory and facts in their favor, but
+neither has delivered a compelling answer.
+
+We believe that sound environmental
+management leads to reduced risk to the
+firm, and that this risk reduction is valued
+by financial markets.  Investments in envi-
+ronmental management lead to better
+short-term environmental performance as
+well as the prospect of further improve-
+ments in the future.  These improvements
+confer a reduction in the firm’s risk,
+which is the key factor that investors con-
+sider when deciding upon the return that
+they will require for making a particular
+investment.  Lower risks mean lower
+required returns, and therefore, lower
+costs for financing the activities of the
+firm.
+
+We have developed a conceptual model
+that links together the environmental
+activities and performance of the firm, the
+ways in which these are communicated to
+investors and others, the firm’s riskiness,
+and its cost of equity capital.  This model
+provides a framework for understanding
+how corporate environmental activities
+ultimately are translated into changes in
+the market value of the firm.
+
+We have just completed a thorough evalu-
+ation of our ideas using real-world data on
+more than 300 of the largest public com-
+panies in the U.S., and have produced
+results that validate our hypothesis.  As
+suggested by financial theory, we have
+computed changes in systematic risk for
+each firm over two time periods, and
+related these to a number of financial and
+environmental variables using multiple
+regression analysis.  We constructed our
+analysis to explain as much of the vari-
+ability in observed systematic risk as pos-
+sible using factors suggested by finance
+theory and empirical observation.  Using
+this approach, we were able to isolate and
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+Investments in environmental manage-
+ment and performance may be costly.
+Nonetheless, when appropriately evaluat-
+ed, many of these investments may be
+shown to provide substantial, positive
+returns and lasting value to the firm.
+
+quantify the effects of several environ-
+mental management and environmental
+performance measures that have both
+practical and statistical significance.
+
+Our work suggests that environmental
+improvements such as those we have eval-
+uated might lead to a substantial reduction
+in the perceived risk of a firm, with an
+accompanying increase in a public compa-
+ny’s stock price, of perhaps five percent.  
+
+These findings suggest that investments in
+environmental management and improved
+performance can be justified, in many
+cases, on purely financial grounds, and
+that the net financial impact of prospec-
+tive environmental investments can now
+be evaluated more fully than before.  Our
+results show that firms will increase
+shareholder value if they make environ-
+mental investments that go beyond strict
+regulatory compliance.  How much further
+they should go will vary by company,
+though this question also may be
+addressed empirically.
+
+Companies can capture more opportuni-
+ties to improve both their environmental
+and financial performance by performing
+a strategic assessment of their operations,
+building or upgrading an explicit environ-
+mental management system, further devel-
+oping their environmental infrastructure
+(i.e., tools, methods, and procedures),
+undertaking knowledge and skill building
+within their workforce, and enhancing
+their information management
+capabilities.
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+DDOOEESS  IIMMPPRROOVVIINNGG  AA  FFIIRRMM(cid:146)(cid:146)SS  EENNVVIIRROONNMMEENNTTAALL  MMAANNAAGGEEMMEENNTT
+SSYYSSTTEEMM  AANNDD  EENNVVIIRROONNMMEENNTTAALL  PPEERRFFOORRMMAANNCCEE  RREESSUULLTT  IINN  AA
+
+HHIIGGHHEERR  SSTTOOCCKK  PPRRIICCEE??
+
+by
+
+Stanley J. Feldman, Peter A. Soyka, and Paul Ameer
+
+November, 1996
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+II..    IInnttrroodduuccttiioonn
+
+A vigorous debate1 is now occurring
+
+around the question of whether initiatives to
+improve the environmental performance of
+corporations, either compliance-driven or vol-
+untary, have consistent impacts on the finan-
+cial performance of these firms.  
+
+The traditional view holds that expendi-
+tures on environmental improvement repre-
+sent costs that (generally) confer no
+corresponding benefits to the firm, such as
+improved product quality, productivity, ease
+of manufacturing, distribution, or use, or
+other desirable attributes.  If this is true, then
+the rational behavior on the part of corporate
+managers is to minimize and delay environ-
+mental costs as much as possible, so as to
+reduce their impact on the bottom line.  From
+the perspective of the corporate shareholder
+(i.e., owner), managers should uphold their
+fiduciary duty by seeking to maximize share-
+holder wealth.  This means, among other
+things, minimizing discretionary costs, which
+in the minds of some, includes environmental
+expenditures that are not explicitly required
+by law.  In other words, managers are expect-
+ed to make investments in environmental
+activities only to the extent that their benefits
+(pecuniary and non-pecuniary) exceed their
+costs.  The evidence (i.e., deeds rather than
+words) suggests that the senior managers of
+most American corporations currently sub-
+scribe to this view.
+
+This is not surprising.  Notwithstanding
+
+the arguments that have strenuously been
+advanced by a number of influential members
+of industry and academia, the traditional
+view of environmental activities and their
+
+costs continues to reflect a rational (albeit
+limited) perspective in many corporations.  
+
+Adherents of the major opposing school
+of thought maintain that environmental per-
+formance is fully compatible with superior
+financial performance, and that emerging
+environmental controls often provide a stimu-
+lus for process enhancements, product refor-
+mulations, and other improvements in the
+cost-effective manufacture and delivery of the
+firm’s products and services.  A large number
+of case studies support the existence of this
+phenomenon.  Nonetheless, proponents of the
+idea that well-crafted environmental control
+regulations help to spur innovation and thus,
+competitiveness in the global marketplace,
+have yet to demonstrate that the well-publi-
+cized examples that they cite represent a sub-
+stantial or even meaningful proportion of the
+range of outcomes that occur when firms are
+confronted by new environmental regulatory
+controls or market expectations.
+
+Indeed, a brief review2 and analysis of the
+past 25 years of development of and reaction
+to laws designed to protect human health and
+the environment produces incomplete and
+somewhat ambiguous results.  On the one
+hand, the process of internalizing (through
+regulation) the environmental impacts of cor-
+porate activities almost necessarily imposes
+short-term costs on the affected entity;
+longer-term regulatory effects, on the other
+hand, are strongly influenced by numerous
+factors, many of which are under the control
+of the people managing the affected firms.
+A sampling of the literature, for example,
+reveals large numbers of success stories asso-
+ciated with individual pollution prevention
+initiatives, product life cycle analyses, recy-
+cling programs, and other forward-looking
+
+1 This debate involves a number of academicians, consultants, regulators, and executives from private industry.
+Many of the key arguments and supporting facts are articulated in several recent articles by Michael Porter and
+Claas van der Linde, and on the opposing side, by Paul Portney and colleagues (see the accompanying
+Bibliography for examples).
+
+2 The literature in this regard is well summarized in a recent report entitled “Do Environmental Regulations Impair
+Competitiveness?  A Critical Review of Economic Studies” prepared for U.S. EPA by ICF Kaiser and the
+Economics Research Group.
+
+Page 1
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+environmental management activities.  These
+examples suggest that additional “low hang-
+ing fruit” remains to be harvested within
+many corporations. In a few instances,
+companies have taken their activities in this
+regard to their logical conclusion by estimat-
+ing the total costs, savings, avoided costs, and
+revenues associated with their corporate envi-
+ronmental programs, and some have shown
+that their programs serve to improve the net
+bottom line of the firm.  Because the owners
+of the firm gain from these activities and the
+increases in earnings that they may confer,
+shareholder wealth and corporate environ-
+mental objectives need not be viewed as
+mutually exclusive.
+
+Despite these noteworthy success stories,
+at a larger, more general level, there has been
+little empirical evidence or analysis regard-
+ing the overall impacts of corporate environ-
+mental activities on the business success of
+the firm as a whole, and virtually no mean-
+ingful theory or evidence linking wide-spec-
+trum environmental improvement initiatives
+to either expected or actual enhancements in
+the firm’s sales, earnings, competitive posi-
+tion, investment risk profile, or market value.3
+
+Until now.
+
+In this paper, we articulate a conceptual
+
+model that establishes some of these linkages,
+and provide the results of a quantitative appli-
+cation of this model to a large and representa-
+tive sample of the most prominent public
+companies in the U.S. (more than 300 of the
+500 companies within the Standard & Poor’s
+index).  Our results suggest that adopting a
+more environmentally proactive posture has,
+in addition to any direct environmental and
+cost reduction benefits, a significant and
+favorable impact on the firm’s perceived
+
+riskiness to investors and, accordingly, its
+cost of equity capital and value in the mar-
+ket place.
+
+To test these posited relationships and our
+
+conceptual approach, we developed and
+applied an empirical model. Our results,
+which are discussed in the sections that fol-
+low, strongly suggest that firms that improve
+both their environmental management system
+and environmental performance can increase
+their stock price by as much as five percent.
+That is, if a firm’s stock price is currently
+$100 per share, improvements in both envi-
+ronmental management activities and perfor-
+mance can boost the firm’s stock price to as
+much as $105 per share.  If the initial capi-
+talization of the company were $1 billion
+prior to the environmental improvement,
+after such improvement, stockholder wealth
+could increase by as much as $50 million.
+
+Naturally, these values are intended to be
+
+illustrative rather than definitive.  The ulti-
+mate gain accruing to any individual firm
+depends on many factors, including what
+activities are actually performed, the amount,
+distribution, and timing of investments in the
+environmental management function, and the
+mode and quality of communications to the
+investor community. The importance of these
+issues, and how they may be addressed, are
+discussed in greater depth at the conclusion of
+this paper. 
+
+The remainder of the paper presents a
+general description of the substance of our
+work.  Section II provides an overview of the
+model framework.  Section III defines what is
+meant by improved environmental manage-
+ment practice and improved environmental
+performance.  Section IV describes the con-
+cept of signaling and the importance of this
+
+3 Nonetheless, several studies have been performed using event methodologies that generally show discernible
+short-term changes in the market value of publicly traded companies as a function of disclosure of particular envi-
+ronmentally-related phenomena, such as emissions of toxic chemicals, large oil or chemical spills, or receipt of
+environmental awards.  Recent examples of such studies are provided in the Bibliography.
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 2
+
+
+activity in articulating the extent to which a
+firm’s environmental risk profile is improv-
+ing.  Section V addresses how firm risk is
+measured while section VI discusses the rela-
+tionship between a firm’s risk, its cost of cap-
+ital, and its share price.  Section VII
+summarizes the empirical results that strongly
+support our contention that firms that improve
+their environmental management system and
+their environmental performance will be
+rewarded with a lower cost of capital and a
+higher share price.  Finally, a summary, con-
+clusions, and implications for decision mak-
+ers are presented in Section VIII.  Further
+information on our empirical model is provid-
+ed in an attached appendix.
+
+We believe that our work provides a radi-
+cally new and different position from which
+to join the debate on the financial implica-
+tions of corporate investments in environ-
+mental performance, and for that matter, on
+the implications of new environmental regula-
+tory initiatives.  Perhaps most importantly, we
+hope that this work will stimulate further dis-
+cussion, debate, and analysis on this topic
+within academia, government, the financial
+markets, and the board room.
+
+IIII..    CCoonncceeppttuuaall  FFrraammeewwoorrkk  
+
+Our model links the evaluation of corpo-
+rate environmental management systems and
+environmental performance to the market
+value of publicly traded corporations.  The
+model consists of five causally linked compo-
+nents:
+
+• Corporate Environmental 
+
+Management Systems 
+
+• Environmental Performance
+• Environmental Signaling
+• Firm Risk, including 
+Environmental Risk
+
+• Firm Value, including 
+
+Shareholder Wealth Gains 
+(or Losses) Resulting from 
+Changes in Environmental Risk 
+
+The schematic below shows how the vari-
+
+ous components are related and the various
+elements that comprise each individual com-
+ponent.  The model framework indicates that
+in order to obtain the benefits of greater
+shareholder wealth gains, the firm must
+improve its environmental management sys-
+tem and/or performance.  Improvements are
+
+Conceptual Model Linking Corporate Environmental 
+
+Management and Performance with Firm Value
+
+Page 3
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+then made public through a series of carefully
+targeted environmental communications to all
+stakeholders, but specifically to the financial
+community.  This information becomes the
+basis for the financial community to assess
+the extent to which the firm’s environmental
+risk profile has improved.  If the assessment
+is positive, then the firm will be accorded a
+lower cost of capital because it is now less
+risky overall.  Because a lower cost of capital
+means that investors are willing to pay more
+for the firm’s future cash flows, its stock
+price will rise and shareholder wealth will
+increase.  How much the firm’s stock price
+actually rises will depend on the size of the
+investment necessary to improve the firm’s
+perceived environmental risk, and the magni-
+tude of the resulting risk reduction.
+
+In addition to the benefit produced when
+an improvement in environmental manage-
+ment and/or performance is clearly signaled
+to the investment community, shareholders
+also benefit when the firm’s environmental
+performance continues to improve over time
+because of the upgrades to its environmental
+management system.  Again, once this out-
+come is clearly signaled to the investment
+community, another increase in share price
+will result because there is clear evidence that
+the firm’s environmental risk (i.e., probability
+of one or more adverse outcomes) has been
+further reduced.
+
+IIIIII..    CCoorrppoorraattee  EEnnvviirroonnmmeennttaall  
+MMaannaaggeemmeenntt  SSyysstteemmss  aanndd
+PPeerrffoorrmmaannccee
+
+What is corporate environmental man-
+agement/performance? The term environ-
+mental management as used in this paper
+extends far beyond the traditional focus on
+compliance with environmental control law.
+Instead, the elements of a state-of-the-art
+environmental management program are
+inextricably linked with fundamental corpo-
+rate activities, such as product design,
+process engineering, marketing, and supply
+chain management.  The adjacent schematic
+lists several key elements of this type of com-
+prehensive environmental management
+system.
+
+First and foremost is whether the compa-
+ny has developed a corporate environmental
+policy and demonstrated a commitment to
+carrying out the policy.  Evidence of the
+extent of this commitment can take the form
+of several key indicators: a senior corporate
+official has been assigned to implement the
+policy; lines of responsibility and account-
+ability have been identified; goals have been
+defined that are measurable; and adequate
+resources have been allocated to implement
+the program.  A related key program element
+is whether the corporation has developed sys-
+tems to assist in implementing the program
+and measuring performance, such as environ-
+mental accounting systems and monitoring
+systems that track emissions and discharges
+of pollution as well as the usage of raw mate-
+rials, energy, and other inputs to production.
+
+Implementation of the environmental
+
+management system requires a range of activ-
+ities: training to ensure that workers operate
+equipment and production processes correctly
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 4
+
+
+and are proactive with respect to addressing
+environmental risks; product design and
+development approaches (e.g., Design for
+Environment or DfE) that reduce the usage of
+raw materials, generation of hazardous waste,
+and environmental risks throughout the prod-
+uct life cycle; monitoring to ensure that man-
+ufacturing operations are in compliance with
+pollutant emission standards and other regula-
+tory requirements; and the creation of a cor-
+porate culture in which awareness of and
+performance related to environmental issues
+is valued and rewarded.
+
+The quality of a corporation’s environ-
+mental management system matters.  Our
+research on corporate disclosures of environ-
+mental management systems and their effec-
+tiveness indicates that companies that attained
+relatively high scores using ICF Kaiser’s pro-
+prietary rating system obtain greater benefits
+in terms of lower investment risk, as com-
+pared to corporations that appear to have
+designed and implemented programs primari-
+ly to obtain public relations benefits.  Our
+environmental rating system methodology
+takes into account a wide range of factors,
+such as how the environmental policy is
+structured, the level of detail provided by the
+implementation plan, including lines of
+responsibility and accountability, the range of
+activities undertaken to achieve improve-
+ments in environmental performance, the
+level of resources committed to the program,
+and the extent to which environmental perfor-
+mance is measured and analyzed.  We devel-
+oped the scoring methodology based on our
+many years of consulting experience on
+behalf of corporations, government agencies,
+and international organizations on a range of
+complex environmental issues.
+
+Even though corporations may have
+
+developed superior environmental manage-
+ment systems, ultimately, it is critical that
+these efforts lead to improvements in
+
+environmental performance.  Firms must be
+able to demonstrate that they are making
+progress toward reducing pollutant generation
+and releases and minimizing liability expo-
+sure.  At a general level, producing data doc-
+umenting waste generation, effluent
+discharges, spills of hazardous substances,
+and the like is both analytically tractable and,
+increasingly, required by regulatory agencies
+and company stakeholders.  The best firms in
+this regard set and achieve goals that are
+more stringent than those explicitly required
+by law.  In an interesting parallel with corpo-
+rate financial reporting, some firms have even
+moved toward obtaining independent audits
+to enhance the credibility of their stated envi-
+ronmental performance.  
+
+Finally, both improved environmental
+management and improved environmental
+performance need to be clearly articulated to
+the investment community.  This brings us to
+the next important component of our model
+— environmental signaling.
+IIVV..    EEnnvviirroonnmmeennttaall  
+
+SSiiggnnaalliinngg
+
+A vital link between a corporation’s envi-
+ronmental management activities and perfor-
+mance and its investment risk, which is
+determined by the capital markets, is what we
+term “environmental signaling.”  When con-
+ducted most effectively, such communication
+constitutes strategic environmental commu-
+nications, because it is performed deliberate-
+ly in support of well defined corporate
+objectives, rather than randomly or as part of
+general public relations activities.  Indeed,
+although companies may have implemented
+robust environmental management programs
+and are achieving significant and sustained
+reductions in pollution levels and liability
+exposure, these efforts may not be fully
+accounted for in terms of lower perceived risk
+
+Page 5
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+because they are not widely known among
+participants in the capital markets, such as
+institutional investors and equity analysts. 
+
+It is well accepted that capital markets
+
+operate more efficiently as the level and relia-
+bility of information available to investors
+increases.  When there is significant uncer-
+tainty in the markets, such as the prospect of
+future increases in inflation, investors demand
+additional compensation as a result of this
+uncertainty.  As new information becomes
+available to market participants that reduces
+this uncertainty, such as an unemployment or
+price report, investors are able adjust their
+expectations appropriately and the effects of
+this uncertainty on the firm’s value are
+reduced.
+
+As with industry or macroeconomic data,
+the availability of information about the envi-
+ronmental management/performance of a
+company also will affect an investor’s percep-
+tion of the firm’s risk.  Our research indicates
+that firms that communicate relevant and
+comprehensive information about both their
+environmental management programs and
+performance are generally perceived by
+investors as having a lower risk compared to
+similar firms that provide no information in
+this area.  
+
+How do firms engage in strategic environ-
+mental communications?  Firms have a range
+of options for communicating environmental
+management activities and performance to the
+capital markets, including but not limited to
+the following:  periodic press releases, sum-
+maries in annual SEC filings, stand-alone
+environmental reports, television commercials
+and newsprint advertisements, and participa-
+tion in industry-wide programs.
+
+As with financial reporting, the quality of
+the information that is communicated by the
+firm will affect investors’ perceptions of its
+credibility and overall usefulness for assess-
+ing firm risk.  Corporations that provide rele-
+vant, detailed, and reliable information on
+their environmental programs and perfor-
+mance on an on-going basis are more likely
+to be rewarded with a perceived lower risk as
+compared to corporations that provide only
+qualitative information on a few aspects of
+their program.
+
+How do the investment markets evaluate
+
+these strategic communications, and more
+specifically, how do they incorporate this
+information into their assessment of the risk
+profile of the firm?  These are questions to
+which we now turn.
+VV..    WWhhaatt  iiss  MMeeaanntt  BByy  FFiirrmm    
+
+IInnvveessttmmeenntt  RRiisskk  aanndd  HHooww  
+iiss  iitt  MMeeaassuurreedd??
+
+A firm’s risk profile can be divided into
+
+two components.  The first is termed system-
+atic risk and the second specific risk, or risk
+that is unique to the firm.  Financial portfolio
+theory concludes that investors require a
+return for accepting systematic risk4 (and only
+systematic risk) because firm-specific risk can
+be diversified away.  This means that firms
+that reduce their systematic risk are rewarded
+with a lower cost of financial capital, and for
+a given cash flow, a higher stock price.  
+
+A firm’s systematic risk is measured by
+
+its “Beta.”  Beta is a measure of a given
+stock’s volatility relative to the overall mar-
+ket, with the market’s Beta being assigned a
+value of 1.  The higher a firm’s Beta, the
+greater its systematic risk; stocks with a Beta
+greater than 1 are more volatile than the 
+
+4 Systematic, or market, risk reflects factors that affect all firms in the market simultaneously.  These factors
+include inflation, changes in interest rates, recessions, wars, and the like.  Because all firms participating in the
+market are affected by these factors, the risks that they pose cannot be eliminated by investing in a more diversi-
+fied portfolio.
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 6
+
+
+market, while those with a Beta of less than 1
+are less volatile.5 Both theoretical develop-
+ments and empirical evidence (i.e., historical
+market returns) suggest that Beta is not con-
+stant, but changes over time.  These changes
+are related to a number of factors, including
+changes in the firm’s debt to asset ratio
+(financial leverage), fixed cost base of opera-
+tion (operating leverage), customer markets
+served, and product lines, as well as mergers
+and acquisitions, to name a few.  Our empiri-
+cal model adds to this list another set of vari-
+ables, described briefly below, designed to
+measure environmental risk.  Thus, as a
+firm’s environmental risk declines (increases)
+for example,  we should expect its Beta, all
+else equal, to decline (increase).
+VVII..    TThhee  RReellaattiioonnsshhiipp  
+
+BBeettwweeeenn  tthhee  CChhaannggee  iinn  
+EEnnvviirroonnmmeennttaall RRiisskk,,  
+CChhaannggee  iinn  tthhee  CCoosstt  ooff  
+CCaappiittaall,,  aanndd  tthhee  FFiirrmm(cid:146)(cid:146)ss  
+SSttoocckk  PPrriiccee  (cid:151)(cid:151)  AAnn  
+IIlllluussttrraattiioonn  
+
+To demonstrate the linkages between
+
+changes in environmental risk and a firm’s
+stock price, let us consider the case of a
+nationally known beer company.  The compa-
+ny has a market capitalization of one billion
+dollars and earns a steady annual profit
+stream of $100 million which is available to
+shareholders.  The firm has publicly aligned
+its overall business mission with a set of envi-
+ronmental objectives and publicly acknow-
+ledges that its excellent business reputation is
+in part due to its environmental performance.
+To further enhance its national reputation as a
+good environmental citizen, the firm has
+decided to upgrade its environmental
+
+management system with the intention of
+significantly reducing toxic chemical releases
+into ambient air and water.  
+
+To publicly acknowledge the importance
+
+of these environmental activities, the CEO
+has created a senior environmental officer
+position.  The person filling this position
+reports to him and also is a member of the
+Board of Directors.  In addition to conducting
+an audit of the firm’s current environmental
+management system, the senior officer is
+charged with both creating a set of environ-
+mental principles that will broadly define an
+upgraded environmental management system
+and, once approved, disseminating this new
+environmental information to customers, sup-
+pliers, employees, and investors.  
+
+The senior management team understands
+that signaling that the corporation has allocat-
+ed resources to improve its environmental
+management and environmental performance
+is critical to the success of the firm’s new
+environmental strategy.  As such, the CEO
+instructs the firm’s investment relations offi-
+cer to prepare a series of announcements
+along with several press briefings to articulate
+what the firm plans to do and how these
+activities are intended to significantly
+improve its future environmental perfor-
+mance.  Environmental performance will be
+measured by reductions in hazardous waste
+generation, and regulated emissions of air and
+water pollutants.
+
+Prior to these announcements, the firm’s
+cost of equity capital as measured by its cor-
+porate finance department using the well
+known Capital Asset Pricing Model (CAPM)
+was 10 percent.  As information about the
+firm’s new environmental policies is dissemi-
+nated to various stakeholders and the public
+
+5 In practice, company-specific Beta values are computed from a regression line relating total historic returns (divi-
+dend yield plus market gain or loss) of the company’s stock to the returns of the overall market.  The slope of the
+line of best fit (regression parameter value using least squares techniques) is defined as the Beta.  Beta also may be
+calculated as the covariance between the returns of the company’s stock and the market divided by the variance of
+market returns.
+
+Page 7
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+generally, the financial markets begin to
+process this new information.  More specifi-
+cally, investors  conclude that the firm’s new
+environmental policies will likely result in the
+firm being less prone to environmental acci-
+dents, and that it is well positioned to be in
+compliance with any new and more stringent
+environmental regulations.  As a result, the
+financial markets accord the firm a lower per-
+ceived risk in the form of a reduced Beta.  
+
+When the firm’s corporate finance depart-
+
+ment inputs this lower Beta into the CAPM,
+a new lower cost of equity capital of nine per-
+cent results.  The beer firm’s CFO estimates
+that it will cost about $50 million annually to
+achieve the desired environmental results.
+Given this cost and the new lower cost of
+capital, the CFO informs the CEO that the
+value of the firm will increase by $61 million
+or $6.10 per share.6
+
+The CFO notes further that this may be
+
+only the initial gain in increasing shareholder
+wealth.  If the new environmental manage-
+ment system is as successful as expected,  the
+firm’s future environmental performance will
+meet and perhaps exceed the objectives artic-
+ulated in the firm’s environmental policy.  If
+this occurs, shareholders may be rewarded
+again as it becomes more clear to investors
+that the new environmental management sys-
+tem has indeed created a far less risky firm.
+That is, as evidence begins to build that the
+firm’s upgraded environmental management
+system is in fact creating the benefits that
+were initially envisioned, the investment mar-
+kets will be more certain that the firm’s new
+environmental management system works as
+planned and further reductions in the firm’s
+Beta and its cost of capital can be expected.
+More importantly, these reductions will result
+in an additional share price increase in the
+future.
+
+VVIIII..    DDooeess  IImmpprroovviinngg
+EEnnvviirroonnmmeennttaall  
+MMaannaaggeemmeenntt  aanndd  
+EEnnvviirroonnmmeennttaall  
+PPeerrffoorrmmaannccee  RReeaallllyy  PPaayy??
+
+It is one thing to develop the logic of how
+
+improved environmental management sys-
+tems and improved environmental perfor-
+mance affect shareholder wealth and to
+provide an illustration such as the foregoing,
+but it is clearly another to actually measure
+these impacts.  Because we believe that the
+internal logic of our argument is persuasive,
+we decided to attempt to measure the impacts
+directly.  What we report below are the results
+of a preliminary but detailed and rigorous
+analytical application.  Our results support the
+basic tenets of our model.  A description of
+the research design and a summary of the
+empirical results are presented in the
+Appendix.  
+
+To illustrate the likely impact on Beta and
+
+stock price arising from a reduction in envi-
+ronmental risk, we simulate below our empir-
+ical model.  The simulation shows the
+magnitude of the Beta decline and the share
+price increase that result from a 50 percent
+improvement in a firm’s environmental man-
+agement system and a 50 percent improve-
+ment in a firm’s environmental performance.
+The table on the next page reflects three sepa-
+rate impacts--the independent impact of each
+indicator on Beta and the cost of equity capi-
+tal, and then their combined influence.  This
+combined effect assumes that the firm’s envi-
+ronmental performance registers a 50 percent
+improvement two years after the firm
+improves its environmental management sys-
+tem rating by 50 percent.
+
+6 The $61 million is calculated by first capitalizing the firm’s $100 million profit stream by the new lower cost of
+capital ($100 million/.09 = $1.111 billion) and subtracting the $50 million cost of the investment.  Because there
+are 10 million shares outstanding, the share price improvement is $6.10 ($61 million/10 million shares ).
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 8
+
+
+IMPACT ON BETA AND COST OF CAPITAL RESULTING FROM A
+
+50% IMPROVEMENT IN A FIRM’S ENVIRONMENTAL
+MANAGEMENT SYSTEM AND ITS ENVIRONMENTAL
+
+PERFORMANCE
+
+50% 
+
+IMPROVEMENT
+
+IN VARIABLE
+
+NAMED AT LEFT
+WILL RESULT IN
+A BETA DECLINE
+
+OF
+
+INITIAL
+
+BETA
+
+BETA AFTER
+
+CHANGE
+
+INITIAL
+COST OF
+CAPITAL
+
+COST OF
+CAPITAL
+AFTER
+CHANGE
+
+-8.5%
+
+-6.5%
+
+-13.2%
+
+1.0
+
+1.0
+
+1.0
+
+.915
+
+13%
+
+12.57%
+
+.935
+
+.868
+
+13%
+
+13%
+
+12.67%
+
+12.34%
+
+VARIABLE NAME
+
+ENVIRONMENTAL
+
+MANAGEMENT
+
+SYSTEM
+
+ENVIRONMENTAL
+PERFORMANCE
+
+COMBINED 
+EFFECT(a)
+
+(a) In this example, we have assumed that the significant improvements in environmental performance occur in
+year 2.  Accordingly, the combined effect on Beta is computed by discounting using the cost of capital (12.57%)
+that results from the initial improvement in environmental management in year 0. 
+
+As the table illustrates, both an improved
+
+environmental management system and
+improved environmental performance result
+in significant reductions in a firm’s Beta.  The
+combined effect indicates that systematic risk
+can be reduced by a significant amount, about
+13 percent, resulting in a reduction in the
+firm’s cost of capital from 13 percent to 12.34
+percent. 
+
+The table on page 10 demonstrates how
+declines in the cost of capital may result in a
+higher stock price and an increase in share-
+holder wealth.  Prior to any improvement in
+the firm’s environmental management system
+rating or improvement in its environmental
+performance, the firm has a $10 million annu-
+al cash flow, 10 million shares of common
+stock outstanding, and a cost of capital of 13
+
+percent.  The value of the firm, assuming that
+the $10 million annual cash flow can be gen-
+erated in perpetuity, is $76.9 million and its
+share price is $7.69 ($76.9 million/10 million
+shares). 
+
+Let us now consider the combined effect
+
+on the firm’s share price as a result of a 50
+percent improvement in its environmental
+management system followed two years later
+by a 50 percent improvement in its environ-
+mental performance.  Under these conditions,
+we should expect the value of the firm prior
+to any investment costs to increase by 5.3
+percent.  This means that if investment costs
+associated with making the indicated
+improvements are small relative to cash
+flows, the stock price should increase from
+$7.69 to $8.10.  
+
+Page 9
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+IMPACT ON FIRM VALUE AND SHARE PRICE RESULTING FROM
+
+A FIRM IMPROVING ITS ENVIRONMENTAL MANAGEMENT 
+
+SYSTEM AND ITS ENVIRONMENTAL PERFORMANCE
+
+Maximum Firm
+Value (Millions)
+
+Maximum
+Stock Price
+(Value per
+
+share)
+
+Percent
+Increase
+
+from Initial
+
+Position
+
+Initial Position
+•
+•
+•
+•
+•
+•
+•
+
+# of shares = 10 million
+Annual Revenue = $100 million/year
+Cash flow = $10 million/year
+Risk Free Rate = 8%
+Risk Premium = 5%
+Beta = 1.0
+Cost of capital = 8% + 1.0 (5%) =13%
+
+Independent Effect of a 50% Improvement in
+Environmental Management System
+•
+•
+
+New Beta = .915
+New Cost of Capital = 12.57
+
+Independent Effect of a 50% Improvement
+in Environmental Performance
+•
+•
+
+New Beta = .935
+New Cost of Capital = 12.67
+
+Combined Effect
+•
+•
+
+New Beta = .868
+Cost of Capital = 12.34%
+
+$76.9 
+
+$7.69 
+
+0% 
+
+$79.6 
+
+$7.96 
+
+3.5% 
+
+$78.9
+
+$7.89
+
+2.6%
+
+$81.0
+
+$8.10
+
+5.3%
+
+It is unlikely, however, that the cost of
+
+the required environmental upgrades will be
+small.  To the contrary, they may well be
+quite large.  To see how this will affect the
+stock price, let us assume for the moment that
+environmental investment costs are two per-
+cent of annual revenue, or $2.0 million per
+year. This is equivalent to what many manu-
+facturing firms have historically spent annual-
+ly on “pollution abatement capital
+expenditures,” according to U.S. Department
+
+of Commerce data.  Thus, if the investment is
+$2.0 million annually, the share price would
+rise from $7.69 to $7.90 {$7.69 +[($4.1mil-
+lion- $2.0)/10 million shares]}.  It is worthy
+of note that this increase in share price does
+not reflect any additional revenue that might
+accrue to the firm as a result of any incremen-
+tal goodwill that its improved environmental
+reputation might confer.  Moreover, this cal-
+culation does not reflect any additional com-
+petitive advantage that would accrue from
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 10
+
+
+allowing the firm to make additional non-
+environmental strategic investments that
+might not be possible if its cost of capital
+were higher, nor does it capture any operating
+cost savings (increases in earnings) that might
+result from its investments in improved envi-
+ronmental performance.
+VVIIIIII..    SSuummmmaarryy,,  CCoonncclluussiioonnss,,  
+
+aanndd  IImmpplliiccaattiioonnss  
+
+This paper sets out a conceptual frame-
+work that can guide senior managers as they
+grapple with decisions regarding whether and
+how best to deploy corporate resources to
+upgrade their environmental management sys-
+tems, with the objective of improving the
+firm’s environmental performance.  While
+others have presented anecdotal evidence that
+may suggest that efforts to improve environ-
+mental performance are likely to yield a vari-
+ety of secondary, even unexpected, benefits
+(e.g., new products and more efficient pro-
+duction processes), one cannot reasonably
+expect senior managers to commit sizable
+corporate resources to improved environmen-
+tal performance based simply on the hope that
+they may encounter such serendipity.
+
+Although many have asserted that corpo-
+rate environmental activism makes good busi-
+ness sense and/or that a positive
+environmental image provides a certain
+cachet in terms of improving public
+perceptions and stockholder relations, the
+empirical evidence supporting these ideas has
+
+largely been absent.  We believe that corpora-
+tions that are environmentally sound create
+additional value for stockholders through
+being less risky business entities and there-
+fore, being accorded a lower cost of capital.
+In this paper, we have explained and mea-
+sured this phenomenon and shown that firms
+that improve their environmental management
+system and their future environmental perfor-
+mance will be able to increase shareholder
+wealth by perhaps as much as five percent.
+In short, improving corporate environmental
+performance pays. 
+
+Our findings also lead to the question of
+how best to seek out, identify, evaluate, and
+implement the enhancements to the firm’s
+environmental management system that will
+produce better environmental performance
+while optimizing use of company resources.
+Each firm confronts a unique set of environ-
+mental and business management challenges,
+and possesses its own specific complement of
+technological, financial, human, and other
+capital.  Nonetheless, there are a number of
+general activities that may be employed to
+good effect by virtually any organization.
+These are briefly highlighted below.
+
+An important implication of our research
+that is reflected in numerous ongoing initia-
+tives7 to improve environmental performance
+is that environmental management should be
+approached systematically.  That is, defining
+what one wishes to accomplish and how
+objectives will be attained, through a formal
+strategy development exercise, is necessary to
+
+7 Efforts to bring consistency of approach, terms, and practice to the discipline of environmental management may
+be seen in the form of industry codes of conduct (e.g., the Chemical Manufacturers Association’s Responsible Care
+Program and the American Forest and Paper Association’s Sustainable Forestry Initiative).  In addition, several
+noteworthy domestic and international consortia have been formed that cut across industries, such as the Global
+Environmental Management Initiative, and the International Chamber of Commerce’s Business Council for
+Sustainable Development, respectively.  Many of these organizations and programs not only promote the develop-
+ment and dissemination of standardized approaches to environmental management, they also embrace the concepts
+of sustainability and eco-efficiency, in which industrial activities are critically examined in terms of raw material,
+water, energy, and non-renewable resource use, as well as relative to more conventional aspects such as toxic pol-
+lutant emissions and waste generation.  Finally, the nascent ISO 14000 series of environmental management stan-
+dards represents a serious attempt to promote global consistency and adherence to a set of forward-looking
+principles, such as preventing pollution and continual improvement.
+
+Page 11
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+clearly, and credibly to all interested stake-
+holders. 
+
+The corporate financial and other
+
+resources needed to undertake these activities
+and enhancements to the environmental man-
+agement function are likely to be non-trivial
+for most corporations.  As we have shown
+above, however, the expected return on
+investment for deploying these resources in
+this way can be positive and substantial, par-
+ticularly if financial returns and impacts on
+shareholder (owner) wealth are evaluated in
+an appropriate and suitably broad manner. 
+
+lay the groundwork for any successful EMS.
+Because, however, it is difficult to define a
+strategy and measure progress toward goals in
+the absence of a clear baseline, a strategic
+assessment of key environmental issues is an
+appropriate place to start for many organiza-
+tions.  
+
+In most companies, a thorough strategic
+
+assessment of environmental issues will iden-
+tify areas of weakness in the environmental
+management function, which can be
+addressed through targeted EMS development/
+improvement initiatives.  These initiatives are
+by their nature firm- and context-specific, but
+often include an assessment and analysis
+phase and a development and improvement
+phase, the latter of which is focused on for-
+mulating missing elements (e.g., policies, pro-
+cedures), integrating important EMS
+principles and tools, and establishing strate-
+gies for achieving desired patterns of internal
+and external information flow.
+
+During the course of EMS development
+or improvement, several distinct and impor-
+tant EMS functions that are not being per-
+formed well or at all may be identified.
+These deficiencies may be addressed through
+specific environmental infrastructure
+enhancements, or through investments in the
+capabilities of the organization’s human or
+information management resources.
+Conducting a purposeful knowledge/skill
+building initiative is often a critical activity
+on the path toward improved environmental
+and business performance.  Similarly, effec-
+tive environmental management systems
+require timely and high quality information,
+so information management analysis/
+improvement activities can play a pivotal role
+in helping the organization to meet its envi-
+ronmental improvement goals, and
+communicate its accomplishments efficiently,
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 12
+
+
+AAPPPPEENNDDIIXX
+
+RReesseeaarrcchh  DDeessiiggnn  
+
+We developed an empirical model designed to
+estimate whether both environmental management
+and environmental performance influence a firm’s
+financial risk.  This was done in two separate
+stages.  In the first stage, we estimated the Beta
+for about 330 firms that are included in the S&P
+500 stock index.  This was done for two separate
+time periods, 1980-1987 and 1988-1994.  The
+choice of time frames reflected the need to have
+sufficiently long subperiods to both measure tem-
+poral changes in Beta and to accommodate vary-
+ing availability of corporate financial data for a
+large number of firms across a broad cross-section
+of industries.  The distinction between the two
+periods also reflects the emergence of corporate
+environmental management as a distinct activity,
+
+TTHHEE  RREEGGRREESSSSIIOONN  MMOODDEELL
+
+as well as a pronounced increase in the quantity
+and quality of available data on the environmental
+performance of corporations (e.g., through report-
+ing under the U.S. EPA’s Toxics Release
+Inventory (TRI) program).
+
+The Betas were estimated by regressing continu-
+ally compounded daily returns over quarter-year
+periods against like returns on a stock index made
+up of all companies trading on the New York and
+American Stock exchanges.  In the second stage,
+the change in Beta between the two subperiods
+was calculated for each company and these obser-
+vations were then regressed against indicators of
+environmental management, environmental per-
+formance, and non-environmental variables.
+These non-environmental variables included mea-
+sures of firm financial and operating leverage,
+variability in operating income, variability in pro-
+ductivity, and other firm performance variables
+that are designed to capture all known and
+
+Change in Beta for firm(s) =  c1* change in financial leverage(s) + 
+
+c2* change in operating leverage(s) + c3 * change in productivity (s) +
+
+c4*change in coefficient of variation of firm revenue(s) +
+
+c5* change in coefficient of variation of firm operating income(s) +
+
+c6* change in standard deviation of operating leverage(s) +
+
+c7* change in correlation between the return on the market portfolio and firm costs (s) +
+
+c8* change in change in operating income(s) +
+
+c9*B(s) [ Beta for firm “s” during 1980-87 period ] + cis*D(is)  + 
+
+c10 * environmental performance(s) + c11* environmental management system rating(s)  +
+c0(s) + e(s)
+
+where:
+
+c0(s) = regression constant term for firm “s”
+
+D(is) = industry dummy which equals unity if firm(s)’s primary business is in a particular
+two digit SIC code and zero otherwise.
+
+e(s) = error from regression for firm(s) 
+
+Page 13
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+quantifiable factors of firm risk unrelated to the
+environment.
+
+The environmental variables are of two types.
+The first is a qualitative environmental variable
+designed to measure the presence and quality of
+the firm’s environmental management system.
+This variable was developed by ICF Kaiser staff
+and was based on a detailed review of each firm’s
+environmental management practices and philoso-
+phy as articulated in the firm’s annual environ-
+mental reports and other public environmental
+communications.  Each company reviewed was
+given a score from 1 (poor environmental man-
+agement system) to 35 (best environmental man-
+agement system).  The second environmental
+variable was designed to measure actual firm
+environmental performance.  This variable is
+defined as the average annual change in TRI
+releases per unit of firm capital (value of property,
+plant, and equipment).  These variables along
+with the others noted below were included in the
+regression model.
+
+The coefficients of the above model were estimat-
+ed using multiple regression techniques.  A sum-
+mary of the results of this exercise are shown
+below.8
+
+The coefficients of the model suggest that the
+changes are in the hypothesized direction, and are
+clearly material in a financial sense.  Statistically,
+the results indicate that the regression model has
+significant explanatory power as indicated by the
+size of the adjusted R-squared and the signifi-
+cance of the equation’s F statistic.  The environ-
+mental coefficients have the correct signs and also
+are significantly different from zero.  The envi-
+ronmental management rating variable indicates
+that as the firm improves its environmental man-
+agement system, the firm’s financial risk declines.
+Also, as actual environmental performance
+improves, as measured by the decline in TRI per
+unit of capital, firm risk declines.
+
+SSUUMMMMAARRYY  SSTTAATTIISSTTIICCSS  FFOORR  RREEGGRREESSSSIIOONN  MMOODDEELL
+• R-squared = 28%
+
+• Adjusted R-squared =  24%
+
+• Coefficient Name
+
+t statistic
+
+Equals Zero @ 99% Confidence Level
+
+Probability that Coefficient 
+
+1) Environmental
+
+Management
+
+-2.86
+
+2) Environmental 
+
+Performance 
+
+2.62
+
+0
+
+0
+
+• Most non-environmental coefficients were statistically significant, although several of the
+
+industry dummy variables were not.
+
+• F-statistic = 6.73 ; Probability that the coefficients of the model are zero = 0
+
+• Durbin-Watson Statistic = 1.87
+
+•
+
+Probability of Heteroskedasticity Using White’s Test = 2%
+
+8 Because the model is proprietary to ICF Kaiser, the coefficients are not shown, though the t -statistics of the envi-
+ronmental coefficients are provided.  For further information on the model, please contact ICF Kaiser.
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 14
+
+
+BBIIBBLLIIOOGGRRAAPPHHYY
+
+Bailey, Paul E. and Peter A. Soyka.
+
+“Environmental Accounting—Making
+It Work for Your Company.” Total
+Quality Environmental Management.
+Vol. 5, No. 4 Summer 1996. 13-30. 
+
+Barth, Mary E. and Maureen F. McNichols.
+“Estimation and Market Valuation of
+Environmental Liabilities Relating to
+Superfund Sites.”  Journal of
+Accounting Research.  Vol. 32,
+Supplement 1994.  177-209.
+
+Beirman, Harold, Jr. and George S. Oldfield,
+
+Jr.  “Corporate Debt and Corporate
+Taxes.”  The Journal of Finance. Vol.
+34, September 1979.  951-6.
+
+Birchard, Bill. “Making Environmental
+
+Reports Relevant.”  CFO.  June 1996.
+79-80.
+
+Blacconiere, Walter G. and Dennis M. Patten.
+
+“Environmental Disclosures,
+Regulatory Costs, and Changes in
+Firm Value.”  Journal of Accounting
+and Economics.  Vol. 18, no. 3,
+November 1994.  357-77.
+
+Blacconiere, Walter G. and W. Dana
+
+Northcut.  “Environmental
+Information and Market Reactions to
+Environmental Legislation.”  Version
+2.5.  August 29, 1995.
+
+Blume, Marshall.  “Betas and Their
+
+Regression Tendencies.”  Journal of
+Finance.  Vol. 30, no. 3, June 1975.
+785-95.
+
+Bowen, Robert M., Richard P. Castanias, and
+
+Lane A. Daley.  “Intra-Industry
+Effects of the Accident at Three Mile
+Island.”  Journal of Financial and
+Quantitative Analysis.  Vol. 18, no. 1,
+1983.  87-106.
+
+Bowman, E.H. and M. Haire.  “A Strategic
+
+Posture Toward Corporate Social
+Responsibility.”  California
+Management Review.  Vol. 18, no. 2,
+1975.  49-58.
+
+Brenner, and Seymour Smidt.  “Asset
+
+Characteristics and Systematic Risk.”
+Journal of Financial Management.
+Winter 1978.  33-9.
+
+Callahan, Carolyn M. and Rosanne M. Mohr.
+
+“The Determinants of Systematic
+Risk:  A Synthesis.”  The Financial
+Review.  Vol. 24, no. 2, May 1989.
+157-81.
+
+Chen, K.H. and R.W. Metcalf.  “The
+
+Relationship Between Pollution
+Control Records and Financial
+Indicators Revisited.”  Accounting
+Review.  Vol. 55, January 1980.
+168-77.
+
+Cohen, Mark A., Scott A. Fenn, and Jonathan
+
+S. Naimon.  “Environmental and
+Financial Performance:  Are They
+Related?”  Investor Responsibility
+Research Center:  Environmental
+Information Service.  April 1995.
+
+Conine, Thomas E., Jr.  “Corporate Debt and
+Corporate Taxes:  An Extension.”  The
+Journal of Finance.  Vol. 35, no. 4,
+September 1980.  1033-7.
+
+Page 15
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+Dirks, H. John.  “Accounting for the Costs of
+
+Fuller, Russell J., George W. Hinman and
+
+Environmental Cleanup - Where
+Things Stand Today.”  Environmental
+Finance.  Spring 1991.  89-92.
+
+Dominy, Garrett L.  “Accounting for
+
+Environmental Contingencies and
+Losses.”  Environmental Finance.
+Spring 1991.  45-51.
+
+Dowdell, Thomas D., Suresh Govindaraj and
+Prem C. Jain.  “The Tylenol Incident,
+Ensuing Regulation, and Stock
+Prices.”  Journal of Finance and
+Quantitative Analysis.  Vol. 27, no. 2,
+June 1992.  283-301.
+
+Duvel, William A., Jr.  “How to Use
+
+Engineering Estimates of
+Environmental Contingencies and
+Liabilities.”  Environmental Finance.
+Spring 1991.  53-63.
+
+Felton, James, Douglas Hearth, and Pu Liu.
+
+“The Information Content of Security
+Analyses:  Evidence from Standard &
+Poor’s Common Stock Quality
+Ranking Changes.”  Journal of
+Business Finance & Accounting.  Vol.
+22, no. 7, October 1995.  975-89.
+
+Fisher, Anne B.  “Corporate Reputations:
+Comebacks and Comeuppances.”
+Fortune.  March 4, 1996.  90-8.
+
+Freedman, Martin and Charles Wasley.  “The
+Association Between Environmental
+Performance and Environmental
+Disclosure in Annual Reports and
+10Ks.”  Advances in Public Interest
+Accounting:  A Research Annual.
+Vol. 3, 1990.  183-93.
+
+Thomas C. Lowinger.  “The Impact of
+Nuclear Power on the Systematic Risk
+and Market Value of Electric Utility
+Common Stock.”  The Energy
+Journal.  Vol.  11, no. 2, April 1990.
+117-33.
+
+Gahlon, James M. and James A. Gentry.  “On
+the Relationship Between Systematic
+Risk and the Degrees of Operating
+and Financial Leverage.”  Journal of
+Financial Management.  Summer
+1982.  15-23.
+
+Garber, Steven and James Hammit.  “Does
+
+Superfund Liability Increase the Cost
+of Capital?” September 1996.
+
+Global Environmental Management Initiative
+
+(GEMI).  “Environmental Reporting
+in a Total Quality Management
+Framework: A Primer.”  1994.
+Washington, D.C.
+
+Guthrie, James and Lee D. Parker.
+
+“Corporate Social Disclosure Practice:
+A Comparative International
+Analysis.”  Advances in Public
+Interest Accounting:  A Research
+Annual. Vol. 3, 1990.  159-752.
+
+Hamilton, James T.  “Pollution as News:
+
+Media and Stock Market Reactions to
+the Toxic Release Inventory Data.”
+Journal of Environmental Economics
+and Management.  Vol. 28, 1995.  98-
+113.
+
+Harris, Trevor S. and James A. Ohlson.
+“Accounting Disclosures and the
+Market’s Valuation of Oil and Gas
+Properties.”  The Accounting Review.
+Vol. 62, no. 4, October 1987.  651-70.
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 16
+
+
+Healy, Paul M. and Krishna G. Palepu.  “The
+Effect of Firms’ Financial Disclosure
+Strategies on Stock Prices.”
+Accounting Horizons.  Vol. 7, no. 1,
+March 1993.  1-11.
+
+Hill, Joanne and Thomas Schneeweis.  “The
+
+Effect of Three Mile Island on
+Electric Utility Stock Prices:  A
+Note.”  The Journal of Finance.  Vol.
+38, no. 4, September 1983.  1285-92.
+
+Ingram, Robert W. and Katherine Beal
+
+Frazier.  “Environmental Performance
+and Corporate Disclosure.”  Journal
+of Accounting Research.  Vol. 18, no.
+2, Autumn 1980.  614-22.
+
+Investor Responsibility Research Center
+
+(IRRC).  “Corporate Environmental
+Profiles Directory 1995.” 1995.
+Washington, D.C.
+
+Johnson, Scott David.  “An Analysis of the
+
+Koutmos, Gregory and Reza Saidi.  “The
+
+Leverage Effect in Individual Stocks
+and the Debt to Equity Ratio.”
+Journal of Business Finance and
+Accounting.  Vol. 22, no. 7, October
+1995.  1063-75.
+
+Lambson, Val Eugene and Farrell E. Jensen.
+
+“Sunk Costs and the Variability of
+Firm Value Over Time.”  The Review
+of Economics and Statistics.  1995.
+535-44.
+
+Lang, Mark and Russell Lundholm, “Cross-
+
+Sectional Determinants of Analyst
+Ratings of Corporate Disclosures.”
+Journal of Accounting Research.  Vol.
+31, no. 2, Autumn 1993.  246-71.
+
+Lev, Baruch.  “On the Association Between
+
+Operating Leverage and Risk.”
+Journal of Financial and Quantitative
+Analysis.  September 1974.  627-41.
+
+Relationship Between Corporate
+Environmental and Economic
+Performance at the Level of the
+Firm.”  Doctoral Dissertation 1995.
+University of California, Irvine.
+
+Mahapatra, S.  “Investor Reaction to
+
+Corporate Social Accounting.”
+Journal of Business Finance and
+Accounting.  Vol. 11, no. 1, Spring
+1984.  29-40.
+
+Karpoff, J.M. and J.R. Lott, Jr.  “The
+
+Mandelker, Gershon N. and S. Ghon Rhee.
+
+Reputational Penalty Firms Bear from
+Committing Criminal Fraud.”  Journal
+of Law and Economics.  Vol. 36,
+1993.  757.
+
+Klassen, Robert D. and Curtis P. Mclaughlin.
+
+“The Impact of Environmental
+Management on Firm Performance.”
+Management Science. Vol. 42, No. 8,
+August 1996. 1199-1214.
+
+“The Impact of the Degrees of
+Operating and Financial Leverage on
+Systematic Risk of Common Stock.”
+Journal of Financial and Quantitative
+Analysis.  Vol. 19, no. 1, March 1984.
+45-57.
+
+McGuire, J., A. Sundgren and T. Schneeweis.
+“Corporate Social Responsibility and
+Firm Financial Performance.”
+Academy of Management Journal.
+Vol. 31, December 1988.  854-72.
+
+Page 17
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+Muoghalu, Michael I., H. David Robison, and
+John L. Glascock.  “Hazardous Waste
+Lawsuits, Stockholder Returns, and
+Deterrence.”  Southern Economic
+Journal.  October 1990.  357-70.
+
+Palmer, Karen, Wallace E. Oates, and Paul R.
+Portney.  “Tightening Environmental
+Standards:  The Benefit-Cost or the
+No-Cost Paradigm?”  Journal of
+Economic Perspectives. Vol. 9, no. 4,
+1995.  119-132.
+
+Patten, Dennis M.  “Exposure, Legitimacy,
+and Social Disclosure.”  Journal of
+Accounting and Public Policy.  Vol.
+10, no. 4, Winter 1991.  297-308.
+
+Porter, Michael E.  “America’s Green
+
+Strategy.”  Scientific American.  April,
+1995. 168.
+
+Porter, Michael E. and Claas van der Linde.
+“Green and Competitive.”  Harvard
+Business Review.  September-October
+1995.  120-34.
+
+Porter, Michael E. and Claas van der Linde.
+
+“Toward a New Conception of the
+Environment-Competitiveness
+Relationship.”   Journal of Economic
+Perspectives.  Vol. 9, no. 4, 1995.
+97-118.
+
+Price Waterhouse.  “A Survey of Corporate
+
+America’s Accounting for
+Environmental Costs.”  Environmental
+Accounting:  The Issues, The
+Developing Solutions.  1995.
+
+Rabinowitz, Daniel L. and Margaret Murphy.
+“Environmental Disclosure:  What the
+SEC Requires.”  Environmental
+Finance.  Spring 1991.  31-43.
+
+Rosenberg, Barr and James Guy.  “Prediction
+
+of Beta from Investment
+Fundamentals.”  Financial Analysts
+Journal.  Vol. 32, no. 3, May-June
+1976,  60-72,  and no. 4, July-August
+1976.   62-70.
+
+Rosenberg, Barr.  “Prediction of Common
+Stock Betas.”  Journal of Portfolio
+Management.  Vol. 11, no. 2, Winter
+1985.  5-14.
+
+Rosenberg, Barr.  “Prediction of Common
+Stock Investment Risk.”  Journal of
+Portfolio Management.  Vol. 11, no. 1,
+Fall 1984.  44-53.
+
+Rubinstein, Mark E.  “A Mean-Variance
+Synthesis of Corporate Financial
+Theory.”  The Journal of Finance.
+Vol. 28, March 1973.  167-80.
+
+Sandoval, Ricardo.  “How Green are the
+
+Green Funds?:  Fiscal and
+Philosophical Ups and Downs of
+Environmental Investing.”  The
+Amicus Journal.  Spring 1995.  29-33.
+
+Statman, Meir.  “Betas Compared:  Merrill
+Lynch vs. Value Line.”  Journal of
+Portfolio Management.  Vol. 7, no. 2,
+Winter 1981.  41-44.
+
+Spicer, B.H.  “Investors, Corporate Social
+
+Performance and Informational
+Disclosure:  An Empirical Study.”
+Accounting Review.  Vol. 53, no. 1,
+1978.  94-111
+
+Sullivan, Timothy G.  “The Cost of Capital
+
+and the Market Power of Firms.”  The
+Review of Economics and Statistics.
+Vol. 60, no. 2, May 1978.  209-217.
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+Page 18
+
+
+Surma, John P. and Albert A. Vondra.
+
+“Accounting for Environmental Costs:
+A Hazardous Subject.”  Journal of
+Accountancy.  March 1992.  51-5.
+
+U.S. Environmental Protection Agency.  “Do
+
+Environmental Regulations Impair
+Competitiveness?  A Critical Review
+of Economic Studies.”  Prepared by
+Economics Research Group, Inc. and
+ICF Kaiser Consulting Group for
+Office of Policy Analysis and Review,
+Office of Air and Radiation.
+September 1995.
+
+Vance, Stanley.  “Are Socially Responsible
+
+Corporations Good Investment
+Risks?”  Management Review.  No.
+64, 1975.  18-24.
+
+Verrecchia, Robert E.  “Discretionary
+
+Disclosure.”  Journal of Accounting
+and Economics.  Vol. 5, no. 3,
+September 1983.  179-94.
+
+Warner, Langdon S.  “Making Money on the
+
+Environment.”  B&E Review.
+October-December 1995.  3-8.
+
+Young, P.J.  “Environmental Influences on
+
+Company Valuations.”  Journal of the
+Chartered Institute of Water and
+Environmental Management. Vol. 10,
+no. 1, February 1996. 41-46.
+
+Zuber, George R. and Charles G. Berry.
+“Assessing Environmental Risk.”
+Journal of Accountancy.  March 1992.
+43-8.
+
+Page 19
+
+© 1996 ICF Kaiser International, Inc.  All rights reserved.
+
+
+Staff and Resources 
+ 
+The research described in this paper was performed by staff within and under contract with ICF 
+Kaiser Consulting Group, now an independent company known as ICF Consulting.   
+ 
+ICF Consulting is a leading management, technology, and policy consulting firm.  We draw on 
+extensive industry knowledge, credentialed professionals, and innovative analytics to develop 
+solutions to complex energy, environment, emergency management, community development, 
+and transportation challenges.  ICF Consulting successfully implements strategies and analyses 
+in these areas through our expertise in information technology, organizational improvement, and 
+communications.  Since 1969, ICF Consulting has been serving major corporations, government 
+at all levels, and multinational institutions from key business centers in North America, Europe, 
+and the Pacific Rim. 
+ 
+For more information, please contact: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Telephone: 703.934.3225 
+Fax: 703.934.3740 
+E-mail: PBailey@ICFConsulting.com 
+www.icfconsulting.com 
+
+Paul Bailey 
+ICF Consulting 
+9300 Lee Highway 
+Fairfax, VA 22031 
+USA 
+

@@ -1,0 +1,5816 @@
+IJPDLM
+43,7
+
+544
+
+Received 15 October 2011
+Revised 18 February 2012
+5 June 2012
+Accepted 13 July 2012
+
+The current issue and full text archive of this journal is available at
+www.emeraldinsight.com/0960-0035.htm
+
+The impact of dependence and
+trust on supply chain integration
+
+Min Zhang
+
+Norwich Business School, University of East Anglia, Norwich, UK, and
+
+School of Management, Zhejiang University, Hangzhou, China
+
+Baofeng Huo
+
+Abstract
+Purpose – The purpose of this paper is to investigate the joint inﬂuence of dependence and trust in
+supply chain relationships on supply chain integration (SCI) and ﬁnancial performance.
+Design/methodology/approach – This study develops a dependence-trust-SCI-performance model
+and tests it using structural equation modeling based on empirical data collected from 617 manufacturers
+in China.
+Findings – The results show that trust with customers/suppliers signiﬁcantly inﬂuences SCI. Although
+dependence on customers/suppliers has no direct effect on SCI, it improves SCI indirectly through trust
+with customers/suppliers. Both supplier integration and customer integration signiﬁcantly improve
+ﬁnancial performance.
+Practical implications – This study suggests that manufacturers should manage dependence and
+trust in supply chain relationships simultaneously to enable SCI. When there is high-level dependence
+on customers/suppliers, manufacturers should invest resources to develop trust with those
+customers/suppliers. Moreover, to achieve a better ﬁnancial performance, manufacturers should integrate
+with both customers and suppliers.
+Originality/value – This study contributes to the literature by providing empirical evidence
+regarding the direct effect of trust on SCI, and the indirect inﬂuence of dependence on SCI through
+trust. This extends extant knowledge regarding the joint impact of dependence and trust on SCI.
+Hence, both researchers and practitioners should pay attention to interdependence among different
+relationship management practices. Moreover, this study also empirically supports the argument that
+SCI improves ﬁrms’ ﬁnancial performance.
+
+Keywords China, Manufacturing industries, Supply chain management, Channel relationships,
+Supply chain integration, Trust, Dependence, Performance, Structural equation modelling
+
+Paper type Research paper
+
+1. Introduction
+Supply chain management (SCM) is the systematic, strategic coordination of business
+functions and ﬂows of materials, products, information and money within a particular
+company and across the businesses in the supply chain (SC) to improve the long-term
+performance of the SC as a whole (Mentzer, 2001; Naslund and Williamson, 2010).
+Supply chain integration (SCI) has been advocated as a key to improve performance
+and to create value in SCM (Frohlich and Westbrook, 2001; Corsten and Felde, 2005;
+
+International Journal of Physical
+Distribution & Logistics Management
+Vol. 43 No. 7, 2013
+pp. 544-563
+q Emerald Group Publishing Limited
+0960-0035
+DOI 10.1108/IJPDLM-10-2011-0171
+
+This research was supported by General Research Grant from the Hong Kong Research Grant
+Council (#CUHK455009), National Natural Science Foundation of China (#70902069), Natural
+Science Foundation of Shaanxi
+(#2010JQ9003) and Centre for Supply Chain Management
+& Logistics, Li & Fung Institute of Supply Chain Management & Logistics.
+
+
+The impact of
+trust on SCI
+
+545
+
+information sharing,
+
+Fabbe-Costes and Jahre, 2007; Krause et al., 2007). SCI includes both economic actions,
+such as system alignment,
+joint investments, and on-going
+inter-organizational social relationships among exchange partners (Zhao et al., 2008;
+Narasimhan et al., 2009; McCarthy-Byrne and Mentzer, 2011; Zhao et al., 2011).
+Based on different theoretical lenses, including social capital theory (Krause et al., 2007;
+Villena et al., 2011), resource-based view (Swink et al., 2007; Mahapatra et al., 2010),
+resource dependency theory (Crook and Combs, 2007; Yeung et al., 2009), and
+transaction cost theory (Wang et al., 2011; Zhao et al., 2011), previous studies found
+that relational capital and assets, such as trust, power, relationship commitment, and
+dependence, play crucial roles in achieving SCI goals and competitive advantages.
+
+SC relationships are characterized by structural
+
+interdependence and an
+asymmetrical distribution of resources, which creates dependence among members
+(Crook and Combs, 2007; McCarter and Northcraft, 2007). Dependence refers to the
+reliance of one party on the actions of another party to achieve certain goals or
+gratiﬁcation (Emerson, 1962). It reﬂects the bargaining power and relationship
+importance among partners (Mahapatra et al., 2010). Moreover, it is rare to have equal
+dependence in a relationship (Golicic, 2007; Yeung et al., 2007). High-level dependence
+might lead to uncertainties and opportunistic behaviors, resulting in conﬂicts that
+negatively affect overall collaboration and performance (Corsten and Felde, 2005;
+Ireland and Webb, 2007). To balance dependence among partners, ﬁrms need to
+develop relational capital through socialization processes (Petersen et al., 2008;
+Yeung et al., 2009; Mahapatra et al., 2010). Trust refers to the extent to which a ﬁrm
+believes that its exchange partners are honest and/or benevolent (Geyskens et al.,
+1998). It reﬂects the willingness and conﬁdence to rely on other parties (Moorman et al.,
+1993). As an important form of relational capital, trust is critical for mitigating
+exchange hazards and engendering cooperation among SC partners because it reduces
+the uncertainty of partners’ actions and opportunism (Yeung et al., 2009; Wang et al.,
+2011). Trust and dependence exist simultaneously in SC relationships and inﬂuence
+integration in different ways (Ireland and Webb, 2007; Krause et al., 2007).
+Hence, understanding the independent and joint inﬂuences of dependence and trust on
+SCI could help practitioners to efﬁciently and effectively establish and manage their
+social ties. However, few empirical studies have simultaneously investigated the
+impact of dependence and trust on SCI (Corsten and Felde, 2005; Yeh, 2005;
+Laaksonen et al., 2008).
+
+Researchers have argued that
+
+there is lack of evidence (Fabbe-Costes and
+Jahre, 2007) and inconsistent ﬁndings (Flynn et al., 2010) regarding the relationship
+between SCI and performance. Hence, there is a need to empirically examine the
+effects of SCI on ﬁnancial performance from the perspective of both customers and
+suppliers (Fabbe-Costes and Jahre, 2008). This study aims to investigate the joint
+inﬂuences of dependence and trust among SC partners on SCI and ﬁnancial
+performance.
+
+The remainder of this paper is organized as follows. We ﬁrst review the literature
+related to dependence, trust and SCI, and then derive research hypotheses, followed by
+a description of the methodology and the results of the empirical analyses. The key
+ﬁndings and their implications are discussed in Sections 5 and 6. Section 7 concludes
+the study and outlines its limitations and future research directions.
+
+
+IJPDLM
+43,7
+
+546
+
+2. Literature review and research hypotheses
+2.1 Dependence
+Dependence in SCM can be deﬁned as a ﬁrm’s need to maintain its business relationships
+with SC partners to achieve its goals (Frazier, 1983; Narasimhan et al., 2009). The nature
+of task interdependence determines that ﬁrms require resources from the environment to
+survive and develop (McCarter and Northcraft, 2007). Because long-term cooperative
+agreements can buffer ﬁrms from hostile environments, ﬁrms build SC relationships;
+these also create dependence at the same time (Narasimhan et al., 2009). The ability of a
+SC member to fulﬁll its partners’ goals as well as its need to acquire external resources
+and to manage switching difﬁculties, consolidation in the market, and entry barriers
+shape the dependence of the member and its partners (Crook and Combs, 2007; Handley
+and Benton, 2012). Hence, SCs are characterized by different levels of dependence
+between members, which in turn inﬂuences their operations (Yeung et al., 2007;
+Petersen et al., 2008). Dependence in an inter-organizational relationship is critical to a
+company’s success and is strategically emphasized by the company (Handley and
+Benton, 2012). It indicates the extent to which the manufacturer’s goals are facilitated by
+the SC partners’ appropriate actions. SC members usually know the value of the
+resources they can offer and the dependence created by them. When one party is heavily
+dependent upon another party, it will be locked into the relationship (Narasimhan et al.,
+2009). Thus, stronger members might calculate others’ dependences and exert their
+power during negotiations to gain advantage (Crook and Combs, 2007).
+
+2.2 Trust
+Trust in SCM can be deﬁned as the willingness to rely on a SC partner in whom the
+ﬁrm has conﬁdence (Moorman et al., 1993; Sahay, 2003). It has been viewed as critical
+relational capital that facilitates cooperative activities among SC partners (Nahapiet
+and Ghoshal, 1998; Adler and Kwon, 2002; Yeung et al., 2009). Trust can be developed
+by creating an atmosphere in which SC members willingly exceed the minimal
+requirements of a relationship to increase the likelihood of success for the SC (Ireland
+and Webb, 2007). Prior studies argued that trust is a useful lubricant to deal with social
+dilemmas and a fundamental ingredient to maintain cooperation and to avoid conﬂicts
+(McCarter and Northcraft, 2007; Yeung et al., 2009). Using the transaction cost theory, it
+is argued that trust among SC partners can reduce opportunism and increase speciﬁc
+asset investment (Corsten and Felde, 2005; Ireland and Webb, 2007; Wang et al., 2011).
+If a manufacturer trusts a partner, it has conﬁdence in the partner based on the
+expectation of cooperation, irrespective of its ability to monitor or control the partner’s
+actions (Mayer et al., 1995). Hence, establishing trust has become a key method to
+uphold long-term cooperative relationships among SC partners.
+
+2.3 Supply chain integration
+SCI is a multi-dimensional concept that can be deﬁned as:
+
+[. . .] the degree to which an organization strategically collaborates with its SC partners and
+manages intra- and inter-organization processes to achieve effective and efﬁcient ﬂows of
+products, services,
+information, money, and decisions, with the objective of providing
+maximum value to its customers (Zhao et al., 2008, p. 374).
+
+While some scholars examined SCI as a unidimensional construct (Rosenzweig et al.,
+2004), others took a broader perspective and described it as internal integration
+
+
+The impact of
+trust on SCI
+
+547
+
+and external integration (Droge et al., 2004; Koufteros et al., 2005; Flynn et al., 2010;
+Zhao et al., 2011).
+
+Internal integration recognizes that different departments within a ﬁrm do not act
+as functional silos but as part of an integrated process (Chen and Paulraj, 2004).
+External integration emphasizes the importance of cooperation and collaboration with
+customers and suppliers through various activities, such as strategic alliance,
+information sharing, communication, process coordination, joint product development,
+and working together (Swink et al., 2007; Flynn et al., 2010). We focus speciﬁcally on
+external integration because this study examines inter-organizational dependence
+and trust with external SC partners. Some empirical studies have suggested that
+supplier integration and customer integration play different roles in performance
+improvement and capability development (Frohlich and Westbrook, 2001; Swink et al.,
+2007; Van der Vaart and Van Donk, 2008; Flynn et al., 2010; Zhao et al., 2011).
+Therefore, lumping customer integration and supplier integration together might
+bias the investigation into dependence, trust, SCI and performance. Hence, we divide
+external integration into customer integration and supplier integration. The former
+involves the core competency derived from critical customers through information
+and knowledge exchange, and process coordination and synchronization, whereas
+the latter involves that of critical suppliers, at the strategic, tactical, and operational
+levels (Zhao et al., 2008).
+
+The inﬂuences of
+
+inter-organizational relationships on SCI have attracted
+considerable attention. Conceptually, Ireland and Webb (2007) argued that a balance
+of
+trust and power offsets the uncertainties and risks associated with joint
+entrepreneurship and learning within SCs. Empirically, using different models,
+researchers have found that both trust and dependence play signiﬁcant roles in SCI.
+For example, Corsten and Felde (2005) found that both trust and dependence moderate
+the effects of supplier collaboration. Yeh (2005) discovered direct inﬂuences of
+dependence and trust on SC cooperation. Based on a case study, Laaksonen et al. (2008)
+argued that trust and dependence co-evolves in SC relationships, which inﬂuences SC
+coordination. McCarthy-Byrne and Mentzer (2011)
+found a signiﬁcant direct
+relationship between supplier dependence and SCI. However, Petersen et al. (2008)
+showed that dependence does not directly inﬂuence supplier integration; rather it has a
+signiﬁcant effect on the socialization process, which leads to supplier integration. In the
+Chinese context, Yeung et al. (2009) found that trust and power inﬂuence supplier
+integration both individually and interactively. Cai et al. (2010) discovered that trust
+not only directly inﬂuences information integration but also mediates the effect of
+relationship importance. Previous studies have also revealed that there are different
+conceptualizations and explanations regarding how dependence and trust jointly
+inﬂuence SCI, which calls for further in-depth empirical investigation.
+
+2.4 Research hypotheses
+2.4.1 Relationships between dependence and SCI. According to the resource dependence
+theory, once the network possesses critical resources for tackling environmental
+uncertainties and dynamics, dependence emerges among SC partners (Pfeffer and
+Salancik, 1978). The resource-based view indicates that external SC partners are very
+important resources because ﬁrms should rely on both their internal and external
+capabilities and knowledge to gain competitive advantage (Swink et al., 2007). When the
+
+
+IJPDLM
+43,7
+
+548
+
+Figure 1.
+Proposed model
+
+level of dependence is high, in which scarce and valuable resources are beyond the control
+of focal organizations, arm-length SC relationships may fail. Implementing long-term
+oriented SCI becomes a critical method for resource acquisition (Swink et al., 2007). Thus, if
+a manufacturer is dependent on suppliers and/or customers, it will contribute high levels
+of input and work more closely with the customers and/or suppliers to integrate them to
+ensure stability in resource acquisition (Petersen et al., 2008; McCarthy-Byrne and
+Mentzer, 2011). In contrast, if the dependence level is low, a manufacturer may not be
+strategically tied to SC partners. Both the ﬁrm’s and its partners’ possible opportunistic
+behaviors would harm future collaborations. The manufacturer might be less likely to
+develop long-term oriented integration with its customers/suppliers. As a result, their
+relationships are usually transactional and arm’s-length.
+
+Enterprise networking arises as a substitute for institutional privileges for
+resources acquisition and competence development. The loose SC relationship may
+cause problems because there are critical interdependences among SC partners that are
+beyond the control of focal organizations (Pfeffer and Salancik, 1978). More important,
+in the SCM context, if a company is dependent on its partners, then the company needs
+help from those partners to achieve its strategic goal and to improve performance, and
+it will be difﬁcult for the company to switch to other suppliers (Narasimhan et al., 2009;
+Handley and Benton, 2012). Thus, dependence pushes companies to integrate with its
+SC partners. Therefore, we propose the following hypotheses (Figure 1):
+
+H1. Dependence on customers is positively related to customer integration.
+
+H2. Dependence on suppliers is positively related to supplier integration.
+
+2.4.2 Relationships between trust and SCI. Trust has been widely viewed as a critical
+relational capital
+facilitating inter-organizational cooperation and coordination
+
+Dependence
+
+on
+
+Customers
+
+H5
+
+Trust with
+Customers
+
+Dependence
+
+on
+
+Suppliers
+
+H6
+
+Trust with
+Suppliers
+
+H1
+
+H3
+
+H2
+
+H4
+
+Customer
+Integration
+
+Supplier
+Integration
+
+H7
+
+H8
+
+Financial
+
+performance
+
+
+The impact of
+trust on SCI
+
+549
+
+(Morgan and Hunt, 1994; Nahapiet and Ghoshal, 1998; Krause et al., 2007). Morgan and
+Hunt (1994) empirically validated the hypothesis that trust engenders cooperation.
+Furthermore, Handﬁeld and Bechtel (2002) showed that trust signiﬁcantly contributes to
+the long-term stability of a SC and Beth et al. (2003) advocated that trust is placed as a
+highest priority in achieving SCI. According to the social capital theory, trust provides
+manufacturers the opportunities to access broader sources of information, improve
+information quality, relevance and timeliness, and reduce costs and barriers for
+information acquisition (Nahapiet and Ghoshal, 1998; Adler and Kwon, 2002). A high level
+of trust between partners enables them to access and share SC resources more efﬁciently
+and effectively (Adler and Kwon, 2002). In this way, SC members can acquire external
+assets and resources (such as channel access, information regarding pipeline stock and the
+quality of suppliers, ﬁnancial capacity, and proprietary technology) from the environment
+more quickly and easily, which is essential for coordination and cooperation among SC
+partners (Swink et al., 2007; Zhao et al., 2008). Hence, trust with customers/suppliers tends
+to increase the length and depth of integrative relationships (Krause et al., 2007).
+
+Transaction cost theory indicates that trust with customers/suppliers reduces
+opportunism and uncertainties, and increases the investment of speciﬁc assets, which
+guarantee that the transactions will achieve expected goals (Ireland and Webb, 2007;
+Yeung et al., 2009). When a company trusts the goodwill of its SC partner, the company
+believes that the partner will not take advantage of it in the transactions and hence is
+more likely to work with and rely on the partner for its SC activities (Wang et al., 2011).
+Therefore, we propose the following hypotheses:
+
+H3. Trust with customers is positively related to customer integration.
+
+H4. Trust with suppliers is positively related to supplier integration.
+
+2.4.3 Relationships between dependence and trust. Dependence among the parties has
+been viewed as a key factor in predicting the level of trust in SCs (McCarter and
+Northcraft, 2007). According to transaction cost theory, if dependence is high but
+manufacturers do not invest to build trust with their SC partners, the partners are more
+likely to develop opportunistic relationships (Laaksonen et al., 2008). As dependence
+between SC partners increases and becomes more complex, a manufacturer is
+stimulated to invest in the relationship to deal with uncertainties and opportunism
+(Nahapiet and Ghoshal, 1998). In inter-organizational relationship development, trust
+comes from one party’s perception of the other’s devotion to the relationship. As
+transaction-speciﬁc investments cannot be easily redeployed, ﬁrms’ investments in
+speciﬁc assets provide evidence of their trust, not opportunism (Wang et al., 2011).
+
+Trust also provides a possible method to tackle the negative effects of dependence
+(McCarter and Northcraft, 2007). When a company is dependent on its SC partner,
+the company may want to develop a reciprocal trust relationship to reduce the risk that
+a powerful partner might take advantage of its dependence (Zhao et al., 2008).
+Hence, dependence can create mutual trust (Ketchen and Hult, 2007). Therefore, we
+propose the following hypotheses:
+
+H5. Dependence on customers is positively related to trust with customers.
+
+H6. Dependence on suppliers is positively related to trust with suppliers.
+
+
+IJPDLM
+43,7
+
+550
+
+2.4.4 Relationships between SCI and ﬁnancial performance. Previous literature has
+linked SCI to different types of performance (Fabbe-Costes and Jahre, 2008; Flynn et al.,
+2010), especially ﬁnancial performance (Frohlich and Westbrook, 2001; Narasimhan
+and Kim, 2002; Droge et al., 2004; Rosenzweig et al., 2004; Koufteros et al., 2005;
+Swink et al., 2007). From the perspective of the resource-based view, SCI can help a ﬁrm
+to acquire valuable information and resources from partners, which lead to a better
+ﬁnancial performance (Swink et al., 2007; Flynn et al., 2010).
+
+Close interactions between customers and manufacturers offer opportunities to
+develop mutual forbearance and to improve information accuracy and process
+effectiveness (Flynn et al., 2010). More accurate information about customer demands
+and preferences, as well as frequent information updating, can speed up the product
+design process, improve production planning, reduce inventory obsolescence, and
+ensure that the manufacturer is more efﬁcient and responsive to its customers’ needs
+and, thus, gains a higher market share (Swink et al., 2007). Supplier integration also
+facilitates the mutual exchange of information, which improves the understanding and
+anticipation of the manufacturer’s needs (Flynn et al., 2010). Strategic supplier
+partnerships improve the manufacturers’ capabilities on cost, quality, ﬂexibility, and
+delivery through the design coordination of the product and process, and joint
+production planning and scheduling (Frohlich and Westbrook, 2001). Customer/supplier
+integration also generates remarkable opportunities to leverage the intelligence
+embedded in collaborative process management, thus enabling manufacturers to
+improve efﬁciency, create value for customers, and detect critical demand changes
+quickly to design and execute optimal responses, all of which improve overall ﬁnancial
+performance (Zhao et al., 2008). Therefore, we propose the following hypotheses:
+
+H7. Customer integration is positively related to ﬁnancial performance.
+
+H8. Supplier integration is positively related to ﬁnancial performance.
+
+3. Research methodology
+3.1 Questionnaire design
+The survey instruments included questions on the demographic proﬁle of the company,
+ﬁnancial performance, SCI, trust, and dependence. We used two major dyadic
+relationships (manufacturer-major supplier, and manufacturer-major customer) to
+represent the trust and dependence of a manufacturer in the SC. Dollar value
+contribution was used to identify the major customers and suppliers. Trust with
+customers and trust with suppliers were measured using two items each to score the
+overall level of goodwill among SC partners. The scales adopted in this study were used
+by Morgan and Hunt (1994). Dependence on customers and dependence on suppliers
+were measured using four items. These items, which indicate the dependence speciﬁed
+between customers and manufacturers and between suppliers and manufacturers,
+were modiﬁed from those used by Johnson (1999), which show dependence between
+suppliers and buyers. Customer integration and supplier integration were measured
+using 11 items. They were largely adopted from the items used by Narasimhan and Kim
+(2002), Chen et al. (2004), Cousins and Menguc (2006) and Frohlich and Westbrook (2001).
+Similar to the items used by Narasimhan and Kim (2002), most of the items for customer
+integration and supplier integration are similar (although some are different), indicating
+that
+these two constructs are correlated (but different) as two dimensions of
+
+
+external integration. Financial performance evaluates a ﬁrm’s proﬁtability and market
+growth, and the measures were adapted from Narasimhan and Kim (2002), Vickery et al.
+(2003) and Frohlich and Westbrook (2001). All
+indicators were measured on a
+seven-point Likert scale and are listed in the Appendix. Before the full-scale study was
+launched, there was a pilot test of the questionnaire using a sample of 15 companies.
+
+The impact of
+trust on SCI
+
+551
+
+3.2 Sampling and data collection
+Because of China’s size and economic diversity, we strategically chose ﬁve major
+representative cities in China (Chongqing, Tianjin, Guangzhou, Shanghai, and Hong Kong)
+to conduct the survey in 2004. Chongqing is in the early stages of economic reform and
+market formation, while Tianjin reﬂects a mid-stage level. Guangzhou and Shanghai
+have enjoyed a high degree of economic reform and marketization, and Hong Kong is
+one of the freest economies in the world. Although most Hong Kong companies house
+their manufacturing operations in mainland China, they use Hong Kong as the hub from
+which to control and direct the ﬂows of materials, ﬁnished goods, information, logistics,
+and money. The sampling frame consisted of the Yellow Pages of China Telecom in each
+of the four cities in mainland China, and the Directory of the Chinese Manufacturers
+Association in Hong Kong.
+
+While some studies have demonstrated the beneﬁts of using multiple informants
+(Bruggen et al., 2002), the single respondent method is still widely used to investigate
+relationship management between companies (Hewett and Bearden, 2001). After the
+pilot test of the questionnaire, it was established that the best method was to use one key
+informant from each company who was knowledgeable in SCM, and familiar with
+purchasing and distribution processes and customer and supplier relationship
+management. Such key informants included SC managers, CEO, presidents, senior
+executives, vice presidents, senior directors, and senior managers. A single respondent
+was carefully selected from each company and was deemed to be the best person for the
+survey. This method greatly reduced the costs and time for such a large-scale survey.
+Selected companies were contacted by telephone to identify the name and contact
+information of the most suitable informants. The best-suited informant was then sent the
+questionnaire, along with a cover letter highlighting the objectives of the research and its
+potential contributions. Follow-up telephone calls were made to improve the response
+rate, and the respondents were contacted to clarify any missing data in their responses.
+With the help of a professional marketing survey company and several student helpers,
+we conducted a large-scale data collection. Of the 4,569 companies contacted, a total
+of 1,356 questionnaires were distributed, and 617 usable samples were collected. The
+response rate was 13.5 percent based on the number of companies contacted via telephone
+calls and 45.5 percent based on the number of questionnaires distributed. The proﬁles of
+the responding companies are presented in Table I.
+
+To assess non-response bias, we compared early and late responses on their physical
+assets, annual sales, and number of employees (Armstrong and Overton, 1977); a t-test
+showed no signiﬁcant differences. This indicates that the respondents who submitted
+their questionnaire after receiving the reminder letter are not signiﬁcantly different from
+the earlier ones.
+
+Harman’s one-factor (or single-factor) test of common method bias was performed
+on the variables of dependence on customers/suppliers, trust with customers/suppliers,
+customer/supplier integration, and ﬁnancial performance (Podsakoff et al., 2003).
+
+
+IJPDLM
+43,7
+
+552
+
+Table I.
+Proﬁle of the responding
+companies
+
+Industry
+
+Percentage (n ¼ 617) Sales
+
+Percentage (n ¼ 587)
+
+, HK$5 M
+HK$5 to $10 M
+HK$10 to $20 M
+HK$20 to $50 M
+HK$50 to $100 M
+HK$100 M or more
+
+32.4
+14.1
+12.4
+15.8
+10.2
+15.0
+
+Arts and crafts
+Building materials
+Chemicals and petrochemicals
+Electronics and electrical
+Food, beverage and alcohol
+Jewelry
+Metal, mechanical and engineering
+Pharmaceutical and medical
+Publishing and printing
+Rubber and plastics
+Textiles and apparel
+Toys
+Wood and furniture
+Notes: US$1 ¼ HK$7.7; M stands for million
+
+1.9
+5.0
+6.3
+13.1
+4.9
+0.5
+25.4
+1.8
+4.4
+6.6
+17.8
+1.3
+1.9
+
+The results show that several distinct factors emerged among the variables; the ﬁrst
+factor did not account for the majority of the variance of the items. Moreover, the items
+comprising the scales were not highly similar in content; the constructs were measured
+for items two to 11 and the respondents were familiar with the constructs. Hence, we
+conclude that common method variance bias was not an issue in this study.
+
+3.3 Reliability and validity
+The descriptive statistics of the constructs are shown in Table II. Exploratory factor
+analysis was used to assess the unidimensionality of the scales. The results reveal that
+all items have strong loadings on the construct that they are intended to measure and
+much lower loadings on the constructs that they are not intended to measure (Tables III
+and IV), indicating construct unidimensionality. Cronbach’s a was used to evaluate
+construct reliability. Table V shows that all values of Cronbach’s aare larger than 0.70,
+which is the threshold value recommended by Flynn et al. (1990). Moreover, both
+two-item constructs also have a high signiﬁcant correlation between two indicators.
+Therefore, reliability is ensured for this study.
+
+DC
+
+DS
+
+TC
+
+TS
+
+CI
+
+SI
+
+FP
+
+Dependence on customers (DC)
+Dependence on suppliers (DS)
+Trust with customers (TC)
+Trust with suppliers (TS)
+Customer integration (CI)
+Supplier integration (SI)
+Financial performance (FP)
+Mean
+SD
+
+0.49 * *
+0.46 * *
+0.27 * *
+0.24 * *
+0.05
+0.13 * *
+6.10
+0.875
+
+0.32 * *
+0.44 * *
+0.20 * *
+0.19 * *
+0.13 * *
+5.75
+0.964
+
+0.50 * *
+0.33 * *
+0.23 * *
+0.10 *
+5.27
+1.093
+
+0.27 * *
+0.30 * *
+0.09 *
+5.04
+1.083
+
+0.62 * *
+0.25 * *
+4.26
+1.256
+
+0.21 * *
+3.45
+1.451
+
+4.00
+1.157
+
+Notes: Signiﬁcant at: *p , 0.05 and * *p , 0.01; inter-construct correlation is shown off the diagonal
+
+Table II.
+Descriptive statistics
+
+
+Dependence
+on suppliers
+
+Dependence
+on customers
+
+Trust with
+suppliers
+
+Trust with
+customers
+
+Factor loadings
+
+DS1
+DS2
+DS3
+DS4
+DC2
+DC1
+DC3
+DC4
+TS1
+TS2
+TC1
+TC2
+Eigenvalue
+Total variance explained (%)
+
+0.854
+0.853
+0.813
+0.795
+0.216
+0.243
+0.131
+0.260
+0.201
+0.251
+0.092
+0.129
+3.071
+
+0.208
+0.266
+0.273
+0.112
+0.872
+0.849
+0.846
+0.737
+0.062
+0.110
+0.200
+0.257
+3.063
+78.132
+
+0.180
+0.134
+0.126
+0.185
+0.114
+0.065
+0.094
+0.011
+0.873
+0.845
+0.152
+0.317
+1.726
+
+0.070
+0.108
+0.029
+0.138
+0.143
+0.133
+0.124
+0.220
+0.183
+0.231
+0.871
+0.729
+1.516
+
+Note: Please refer to the Appendix for a full description of the measurement items
+
+The impact of
+trust on SCI
+
+553
+
+Table III.
+Factor analysis of
+dependence and trust
+
+We used conﬁrmatory factor analysis (CFA) to assess convergent and discriminant
+validity using the LISREL 8.54 program. In the model, each item was linked to its
+corresponding construct and the covariances among those constructs were freely
+estimated. The model ﬁt indices are x2 ¼ 2,341.43 with degrees of freedom ¼ 677, root
+mean square error of approximation (RMSEA) ¼ 0.069, non-normed ﬁt
+index
+(NNFI) ¼ 0.96, and comparative ﬁt index (CFI) ¼ 0.96, which indicate that the model
+is acceptable (Hu and Bentler, 1999). For the model, all of the factor loadings are greater
+than 0.50 and the t-values are greater than 2.0. Therefore, convergent validity is
+achieved. To assess discriminant validity, a constrained CFA model was used in which
+the correlations among a pair of constructs were ﬁxed to 1.0. This model was
+subsequently compared with the original unconstrained model, in which the correlations
+among the constructs were freely estimated. A signiﬁcant difference in the x2 statistics
+between the ﬁxed and unconstrained models indicates high discriminant validity
+(O’Leary-Kelly and Vokurka, 1998). In this study, 20 differences are signiﬁcant at the
+0.01 level and one is signiﬁcant at 0.05 level. Thus, discriminant validity is ensured.
+
+4. Analysis and results
+In this study, structural equation modeling was used to estimate the relationships
+among different constructs with LISREL 8.54 program based on a sample of 617
+companies. The standardized coefﬁcients that are signiﬁcant at the 0.05 level are
+shown in Figure 2. The goodness of ﬁt indices for the model are x2 ¼ 2,748.31 with
+degrees of freedom ¼ 689, RMSEA ¼ 0.073, NNFI ¼ 0.95, and CFI ¼ 0.96. These
+indices are better than the threshold values suggested by Hu and Bentler (1999).
+As such, the model can be accepted, suggesting support for H3-H8 but not H1 and H2.
+This indicates that dependence on customers/suppliers has a positive inﬂuence on
+trust with customers/suppliers but does not directly improve customer/supplier
+integration. Trust with customers has a positive inﬂuence on customer integration and
+
+
+IJPDLM
+43,7
+
+554
+
+Table IV.
+Factor analysis of SCI and
+ﬁnancial performance
+
+Supplier integration Customer integration Financial performance
+
+Factor loadings
+
+SI1
+SI2
+SI3
+SI4
+SI5
+SI6
+SI7
+SI8
+SI9
+SI10
+SI11
+CI1
+CI2
+CI3
+CI4
+CI5
+CI6
+CI7
+CI8
+CI9
+CI10
+CI11
+FP1
+FP2
+FP3
+FP4
+FP5
+Eigenvalue
+Total variance explained (%)
+
+0.864
+0.864
+0.856
+0.847
+0.829
+0.795
+0.767
+0.731
+0.650
+0.599
+0.568
+0.092
+0.104
+0.152
+0.310
+0.362
+0.137
+0.359
+0.195
+0.459
+0.188
+0.461
+0.064
+0.105
+0.122
+0.051
+0.048
+7.440
+
+0.203
+0.187
+0.190
+0.221
+0.197
+0.188
+0.182
+0.256
+0.287
+0.339
+0.325
+0.750
+0.716
+0.694
+0.693
+0.660
+0.656
+0.647
+0.603
+0.602
+0.602
+0.599
+0.087
+0.085
+0.093
+0.152
+0.112
+5.465
+61.585
+
+0.053
+0.063
+0.062
+0.051
+0.097
+0.080
+20.049
+0.093
+0.173
+0.105
+0.072
+0.162
+0.142
+0.157
+0.029
+0.034
+0.160
+0.010
+0.008
+0.056
+0.046
+0.061
+0.879
+0.867
+0.836
+0.810
+0.806
+3.723
+
+Note: Please refer to the Appendix for a full description of the measurement items
+
+Construct
+
+Number of questions
+
+Cronbach’s a
+
+Dependence on customers
+Dependence on suppliers
+Trust with customers
+Trust with suppliers
+Customer integration
+Supplier integration
+Financial performance
+
+Note: aPearson’s correlation coefﬁcient
+
+4
+4
+2
+2
+11
+11
+5
+
+Table V.
+Reliability analysis
+
+0.887
+0.893
+0.535a
+0.690a
+0.900
+0.945
+0.905
+
+trust with suppliers has a positive inﬂuence on supplier integration. Both customer
+integration and supplier integration have positive inﬂuences on ﬁnancial performance.
+To determine whether trust carries its effects from dependence to integration, we
+calculated the indirect effects of dependence on SCI by multiplying the path coefﬁcients
+
+
+Dependence
+
+on
+
+Customers
+
+0.56
+
+Trust with
+Customers
+
+Dependence
+
+on
+
+Suppliers
+
+0.49
+
+Trust with
+Suppliers
+
+Customer
+Integration
+
+Supplier
+Integration
+
+0.49
+
+0.44
+
+0.23
+
+0.07
+
+Financial
+
+performance
+
+The impact of
+trust on SCI
+
+555
+
+Figure 2.
+Estimated structural
+equation model
+
+from dependence on customers/suppliers to trust with customers/suppliers and from
+trust with customers/suppliers to customer/supplier integration; that is, the indirect
+effect of customer integration is 0.56 *0.49 ¼ 0.27, and that of supplier integration is
+0.49 *0.44 ¼ 0.22. Sobel’s Z-test was then applied to assess the signiﬁcance of these
+indirect effects. The resultant Z-value for the indirect effect of customer integration is
+Z ¼ 4.947, which is signiﬁcant at the p , 0.001 level, whereas that of supplier
+integration is Z ¼ 5.268, and is also signiﬁcant at the p , 0.001 level. These results
+indicate that dependence on customers/suppliers has a signiﬁcant indirect effect on
+customer/supplier integration through trust with customers/suppliers.
+
+5. Discussion
+The results show that dependence is positively associated with trust, indicating that it
+prompts a manufacturer to build trust with customers/suppliers. Generally, trust may
+bring potential risks for the trustor because it could be exploited by the trustee
+(Villena et al., 2011). Our study shows that when a trustee is dependent on a trustor, the
+trustee should take risks to trust the trustor, because he/she can expect reciprocal favors in
+the future. For example, ﬁrms that only have one or a few suppliers for key resources have
+to develop trust with those suppliers as it is difﬁcult to switch to others. Hence, when a
+manufacturer depends on its SC partners to pursue its company goals and deems the
+relationships as strategic assets, it may be more likely to trust the partners. This ﬁnding is
+also consistent with previous studies; for example, based on the transaction cost theory,
+Handﬁeld and Bechtel (2002) proposed for ﬁrms to build close trust-based relationships,
+they need to invest in site-speciﬁc assets and contracts according to dependence.
+
+“Trust is found to be a signiﬁcant enabler for SCI, which is consistent with previous
+studies” (Yeung et al., 2009; Cai et al., 2010). Manufacturers are likely to want to
+integrate with a partner to share valuable resources or learn from that partner when
+they believe that its SC partners possess valuable abilities, consider the manufacturers’
+
+
+IJPDLM
+43,7
+
+556
+
+beneﬁts, and would make sacriﬁces for the entire SC. Moreover, when a manufacturer
+has an open-minded relationship with its honest SC partners, they can develop a
+cooperative culture, facilitating SCI that helps them to solve problems together, reduce
+conﬂicts, and share valuable information and other resources.
+
+“Our ﬁndings indicate that trust is a mediator between dependence and SCI.” If a
+company depends on its partner, it will invest to build a long-term relationship with the
+partner to acquire resources and deal with uncertainties. Such an investment becomes a
+speciﬁc asset that cannot be used in other relationships and will reduce the opportunistic
+behaviors of the investor. In contrast, this speciﬁc asset increases the opportunism of
+partners that do not invest in the relationships. Therefore, the investor needs to develop
+trust with its partners to manage or control the potential opportunistic behaviors of the
+partners. The investor may not integrate with the partners unless there is trust between
+it and its partners. As a result, though dependence has no direct impact on SCI, it
+signiﬁcantly inﬂuences SCI indirectly through trust. This reveals that trust and
+dependence among partners needs to be managed simultaneously to achieve a fully
+integrated SC (Ireland and Webb, 2007). Thus, the balance between trust and
+dependence plays a critical role in offsetting the uncertainties and risks associated with
+SCI (Petersen et al., 2008). Recently, researchers have noticed that SC relationships do
+produce some negative effects. McCarter and Northcraft (2007) argued that SC alliances
+represent a form of social dilemma that could lead to defections. Villena et al. (2011)
+investigated the “dark side” of social capital and found that too much social capital can
+hurt performance. Our study suggests that a key for tackling this “dark side” is to
+understand the dynamics among the different kinds of relational capitals and apply
+them to complementarities (Ireland and Webb, 2007; Zhao et al., 2008; Narasimhan et al.,
+2009; Yeung et al., 2009).
+
+6. Main implications
+This study contributes to the literature by enriching extant knowledge on the enablers
+of SCI from the perspective of inter-organizational relationships. Such results also
+provide a foundation for researchers to explore how SCs can rely on the interactions and
+synergies in relationship management practices to strategically adjust social relations,
+to achieve the desired outcomes. It also ﬁlls in some of the gaps exposed in previous
+studies. For example, Van der Vaart and Van Donk (2008 p. 48) stated that “less than
+one-third of all
+the papers reviewed examine both upstream and downstream
+relationships of the focal company.” By simultaneously examining the supplier and
+customer in terms of dependence, trust, integration, and performance, this study
+extends the understanding of relationship management and SCI from the buyer-seller
+dyad (Petersen et al., 2008; Zhao et al., 2008) to the supplier-manufacturer-customer
+triad. Moreover, taking into account the unique national culture of China, including high
+power distance, collectivism, long-term orientation and Guanxi (relationship) networks,
+the concept of inter-organizational relationships and the relationships among them may
+be unique. For example, regarding the high power distance culture of China, dependence
+may play a more important role in inﬂuencing trust than in a low power distance
+culture. Regarding collectivism and a long-term orientation culture, dependence and
+trust are more effective in improving integration than when concerned with
+individualism and a short-term orientation culture. In Chinese Guanxi networks,
+dependence, trust, and integration are all relational resources that can bring about
+
+
+The impact of
+trust on SCI
+
+557
+
+competitive advantages. Therefore, it is valuable to test western theories of dependence,
+trust, and integration in a Chinese context.
+
+Findings from this study also provide guidelines for executives to direct their
+management actions towards achieving better ﬁnancial performance through SCI and
+relationship management. Facing today’s ﬁerce competition, companies need to conduct
+SCI to leverage external resources to gain sustainable competitive advantages. SCI, in
+which information and knowledge are shared, joint planning is made, and problems are
+solved together, can be risky as the “lock-in” is dangerous for SCs when dependence is
+high. For example, if a major customer that is important for the company’s survival and
+strategic goals, switches to another supplier (usually a competitor) to gain key materials,
+the customer may leak the company’s knowhow (gained through integration) to the new
+supplier. Therefore, this study indicates that a ﬁrm should build and maintain trust, which
+is the major device to warrant relational exchange, with SC partners before it initiates SCI.
+Firms should take a positive perspective on dependence and view it as an
+opportunity to gain trust from SC partners and conduct SCI with them. Managers
+should pay attention to the interactions and joint effects of dependence and trust, and
+make resource investments to explore their synergies to tackle uncertainties and
+opportunistic behaviors in the transaction. This study indicates that through good
+relationship management with SC partners, SCI is more likely to occur and better
+ﬁnancial performance can be achieved with both customer integration and supplier
+integration. This means that integration with customers and suppliers can help
+companies to achieve better sales, proﬁts, and market share, reﬂecting that companies
+leveraging resources from customers and suppliers in the SC can gain competitive
+advantages. Hence, managers should invest resources and efforts in SCI.
+
+7. Conclusion
+With the growing awareness of dependence, trust, and SCI over the past decade, it is
+important to improve the understandings of these variables and their associated
+relationships. This research contributes to this aim by developing and empirically testing
+a dependence-trust-SCI-performance model based on a sample of 617 manufacturing ﬁrms
+in China. This study shows that dependence on customers/suppliers positively inﬂuences
+trust with customers/suppliers, which leads to SCI. It reveals that dependence on
+customers/suppliers has positive indirect impacts on SCI through trust, though the direct
+effects are insigniﬁcant. We also found that both customer integration and supplier
+integration enhance ﬁrms’ ﬁnancial performances.
+
+This study has its limitations, which open up avenues for future research. First, it used
+a cross-sectional design and the data was collected in 2004. As dependence, trust, and SCI
+may develop over time, especially for a rapidly developing economy like China, it would be
+useful for future research to examine these factors in a longitudinal study. Second, because
+the data were only collected from manufacturers, future studies could extend our ﬁndings
+by collecting data from multiple SC members, including suppliers, manufacturers, and
+customers. Moreover, although this research provides some interesting ﬁndings regarding
+the relationships among dependence, trust, SCI, and performance in China, we cannot
+ascertain whether these relationships would be the same in other countries with different
+cultures. Future research could examine cross-cultural differences. A further limitation
+that should be mentioned is that we used dependence and trust as unidimensional
+concepts in this study; future studies could investigate in detail the different dimensions
+
+
+IJPDLM
+43,7
+
+558
+
+of these two concepts and their impacts on SCI and performance. Furthermore, future
+studies could explore how the general business conditions in which SCs are embedded
+inﬂuence the impact of relationship management on SCI and performance. Last but not
+least, we used perceived ﬁnancial performance measures. Future research could extend
+this by adopting further items to measure different kinds of performance (e.g. operational
+performance) in both subjective and objective ways.
+
+References
+Adler, P.S. and Kwon, S. (2002), “Social capital: prospects for a new concept”, Academy of
+
+Management Review, Vol. 27 No. 1, pp. 17-40.
+
+Armstrong, J.S. and Overton, T.S. (1977), “Estimating nonresponse bias in mail surveys”, Journal
+
+of Marketing Research, Vol. 14 No. 3, pp. 396-402.
+
+Beth, S., Burt, D.N., Copacino, W., Gopal, C., Lee, H.L., Lynch, R.P. and Morris, S. (2003),
+“Supply chain challenges: building relationship”, Harvard Business Review, Vol. 81 No. 7,
+pp. 64-73.
+
+Bruggen, G.H., Van Lilien, G.L. and Kacker, M. (2002), “Informants in organizational marketing
+research: why use multiple informants and how to aggregate responses”, Journal of
+Marketing Research, Vol. 39 No. 4, pp. 469-478.
+
+Cai, S., Jun, M. and Yang, Z. (2010), “Implementing supply chain information integration in
+China: the role of institutional forces and trust”, Journal of Operations Management, Vol. 28
+No. 3, pp. 257-268.
+
+Chen, I.J. and Paulraj, A. (2004), “Towards a theory of supply chain management: the constructs
+
+and measurements”, Journal of Operations Management, Vol. 22 No. 2, pp. 119-150.
+
+Chen, I.J., Paulraj, A. and Lado, A.A. (2004), “Strategic purchasing, supply management, and ﬁrm
+
+performance”, Journal of Operations Management, Vol. 22 No. 5, pp. 505-523.
+
+Corsten, D. and Felde, J. (2005), “Exploring the performance effects of key-supplier collaboration:
+an empirical investigation into Swiss buyer-supplier relationships”, International Journal
+of Physical Distribution & Logistics Management, Vol. 35 No. 6, pp. 445-461.
+
+Cousins, P.D. and Menguc, B. (2006), “The implication of socialization and integration in supply
+
+chain management”, Journal of Operations Management, Vol. 24 No. 5, pp. 604-620.
+
+Crook, T.R. and Combs, J.G. (2007), “Sources and consequences of bargaining power in supply
+
+chains”, Journal of Operations Management, Vol. 25 No. 2, pp. 546-555.
+
+Droge, C., Jayaram, J. and Vickery, S.K. (2004), “The effects of internal versus external integration
+practices on time-based performance and overall ﬁrm performance”, Journal of Operations
+Management, Vol. 22 No. 6, pp. 557-573.
+
+Emerson, R.M. (1962), “Power-dependence relations”, American Sociological Review, Vol. 271,
+
+pp. 31-41.
+
+Fabbe-Costes, N. and Jahre, M. (2007), “Supply chain integration improves performance: the
+Journal of Physical Distribution & Logistics
+
+International
+
+emperor’s new suit?”,
+Management, Vol. 37 No. 10, pp. 835-855.
+
+Fabbe-Costes, N. and Jahre, M.
+
+(2008), “Supply chain integration and performance:
+a review of the evidence”, International Journal of Logistics Management, Vol. 19 No. 2,
+pp. 130-154.
+
+Flynn, B.B., Huo, B. and Zhao, X.
+
+performance: a contingency and conﬁguration approach”,
+Management, Vol. 28 No. 1, pp. 58-71.
+
+(2010), “The impact of supply chain integration on
+Journal of Operations
+
+
+Flynn, B.B., Sakakibara, S., Schroeder, R.G., Bates, K.A. and Flynn, E.J. (1990), “Empirical
+research methods in operations management”, Journal of Operations Management, Vol. 9
+No. 2, pp. 250-273.
+
+The impact of
+trust on SCI
+
+559
+
+Frazier, G.L. (1983), “On the measurement of interﬁrm power in channels of distribution”,
+
+Journal of Marketing Research, Vol. 19 No. 2, pp. 158-166.
+
+Frohlich, M.T. and Westbrook, R. (2001), “Arcs of integration: an international study of supply
+
+chain strategies”, Journal of Operations Management, Vol. 19 No. 2, pp. 185-200.
+
+Geyskens, I., Steenkamp, J.E.M. and Kumar, N. (1998), “Generalizations of trust in marketing
+channel relationship using meta-analysis”, International Journal of Research in Marketing,
+Vol. 15 No. 3, pp. 223-248.
+
+Golicic, S.L. (2007), “A comparison of shipper and carrier relationship strength”, International
+
+Journal of Physical Distribution & Logistics Management, Vol. 37 No. 9, pp. 719-739.
+
+Handﬁeld, R.B. and Bechtel, C. (2002), “The role of trust and relationship structure in improving
+Industrial Marketing Management, Vol. 31 No. 4,
+
+supply chain responsiveness”,
+pp. 367-382.
+
+Handley, S.M. and Benton, W.C. (2012), “Mediated power and outsourcing relationships”, Journal
+
+of Operations Management, Vol. 30 No. 3, pp. 253-267.
+
+Hewett, K. and Bearden, W.O. (2001), “Dependence, trust and relational behaviors on the part of
+foreign subsidiary marketing operations: implications for managing global marketing
+operations”, Journal of Marketing, Vol. 65 No. 4, pp. 51-66.
+
+Hu, L. and Bentler, P.M. (1999), “Cutoff criteria for ﬁt indices in covariance structure analysis:
+conventional criteria versus new alternatives”, Structural Equation Modeling, Vol. 6 No. 1,
+pp. 1-55.
+
+Ireland, R.D. and Webb, J.W. (2007), “A multi-theoretic perspective on trust and power in
+strategic supply chains”, Journal of Operations Management, Vol. 25 No. 2, pp. 482-497.
+
+Johnson, J.L. (1999), “Strategic integration in industrial distribution channels: managing the
+interﬁrm relationship as a strategic asset”, Journal of Academy of Marketing Sciences,
+Vol. 27 No. 1, pp. 4-18.
+
+Ketchen, D.J. and Hult, G.T.M.
+
+(2007), “Bridging organization theory and supply chain
+management: the case of best value supply chains”, Journal of Operations Management,
+Vol. 25 No. 2, pp. 573-580.
+
+Koufteros, X., Vonderembse, M. and Jayaram, J. (2005), “Internal and external integration for
+product development: the contingency effects of uncertainty, equivocality, and platform
+strategy”, Decision Sciences, Vol. 36 No. 1, pp. 96-133.
+
+Krause, D.R., Handﬁeld, R.B. and Tyler, B.B. (2007), “The relationships between supplier
+development, commitment, social capital accumulation and performance improvement”,
+Journal of Operations Management, Vol. 25 No. 2, pp. 528-545.
+
+Laaksonen, T., Pajunen, K. and ulmala, H.I. (2008), “Co-evolution of trust and dependence in
+customer-supplier relationships”, Industrial Marketing Management, Vol. 37 No. 8,
+pp. 910-920.
+
+McCarter, M.W. and Northcraft, G.B. (2007), “Happy together? Insights and implications of
+viewing managed supply chains as a social dilemma”, Journal of Operations Management,
+Vol. 25 No. 2, pp. 498-511.
+
+McCarthy-Byrne, T.M. and Mentzer, J.T. (2011), “Integrating supply chain infrastructure and
+process to create joint value”, International Journal of Physical Distribution & Logistics
+Management, Vol. 41 No. 2, pp. 135-161.
+
+
+IJPDLM
+43,7
+
+560
+
+Mahapatra, S.K., Narasimhan, R. and Barbieri, P. (2010), “Strategic interdependence, governance
+effectiveness and supplier performance: a dyadic case study investigation and theory
+development”, Journal of Operations Management, Vol. 28 No. 6, pp. 537-552.
+
+Mayer, R., Davis, J. and Schoorman, D. (1995), “An integrative model of organizational trust”,
+
+Academy of Management Review, Vol. 20 No. 3, pp. 709-734.
+
+Mentzer, J.T. (2001), Supply Chain Management, Sage, Thousand Oaks, CA.
+Moorman, C., Deshpande, R. and Zaltman, G. (1993), “Factors affecting trust in market research
+
+relationships”, Journal of Marketing, Vol. 57 No. 21, pp. 81-102.
+
+Morgan, R.M. and Hunt, S.D. (1994), “The commitment-trust theory of relationship marketing”,
+
+Journal of Marketing, Vol. 58 No. 3, pp. 20-38.
+
+Nahapiet, J. and Ghoshal, S. (1998), “Social capital, intellectual capital, and the organizational
+
+advantage”, Academy of Management Review, Vol. 23 No. 2, pp. 242-266.
+
+Narasimhan, R. and Kim, S.W. (2002), “Effect of supply chain integration on the relationship
+between diversiﬁcation and performance: evidence from Japanese and Korean ﬁrms”,
+Journal of Operations Management, Vol. 20 No. 3, pp. 303-323.
+
+Narasimhan, R., Nair, A., Grifﬁth, D.A., Arlbjorn, J.S. and Bendoly, E. (2009), “Lock-in situations
+in supply chains: a social exchange theoretic study of sourcing arrangements in
+buyer-supplier relationships”,
+Journal of Operations Management, Vol. 27 No. 5,
+pp. 374-389.
+
+Naslund, D. and Williamson, S. (2010), “What is management in supply chain management?
+A critical review of deﬁnitions, frameworks and terminology”, Journal of Management
+Policy and Practice, Vol. 11 No. 4, pp. 11-28.
+
+O’Leary-Kelly, S.W. and Vokurka, R.J. (1998), “The empirical assessment of construct validity”,
+
+Journal of Operations Management, Vol. 16 No. 4, pp. 387-405.
+
+Petersen, K.J., Handﬁeld, R.B., Lawson, B. and Cousins, P.D. (2008), “Buyer dependency and
+relational capital formation: the mediating effect of socialization process and supplier
+integration”, Journal of Supply Chain Management, Vol. 44 No. 4, pp. 53-65.
+
+Pfeffer, J. and Salancik, G.R.
+
+(1978), The External Control of Organizations: A Resource
+
+Dependence Perspective, Harper & Row, New York, NY.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P. (2003), “Common method bias in
+behavioral research: a critical review of the literature and recommended remedies”, Journal
+of Applied Psychology, Vol. 88 No. 5, pp. 879-903.
+
+Rosenzweig, E.D., Roth, A.V. and Dean, J.W. Jr (2004), “The inﬂuence of an integration strategy
+on competitive capabilities and business performance: an exploratory study of consumer
+products manufacture”, Journal of Operations Management, Vol. 21 No. 4, pp. 437-456.
+
+Sahay, B.S. (2003), “Understanding trust in supply chain relationship”, Industrial Management
+
+& Data System, Vol. 103 No. 8, pp. 553-563.
+
+Swink, M., Narasimhan, R. and Wang, C. (2007), “Managing beyond the factory walls: effects of
+four types of strategic integration on manufacturing plant performance”, Journal of
+Operations Management, Vol. 25 No. 1, pp. 148-164.
+
+Van der Vaart, T. and Van Donk, D. (2008), “A critical review of survey-based research in supply
+chain integration”, International Journal of Production Economics, Vol. 111 No. 42,
+pp. 42-55.
+
+Vickery, S.K., Jayaram, J., Droge, C. and Calantine, R. (2003), “The effects of an integrative supply
+chain strategy on customer service and ﬁnancial performance: an analysis of direct versus
+indirect relationships”, Journal of Operations Management, Vol. 21 No. 5, pp. 523-539.
+
+
+The impact of
+trust on SCI
+
+561
+
+Villena, V.H., Revilla, E. and Choi, T.Y. (2011), “The dark side of buyer-supplier relationships: a
+social capital perspective”, Journal of Operations Management, Vol. 29 No. 6, pp. 561-576.
+Wang, L., Yeung, J.H.Y. and Zhang, M. (2011), “The impact of trust and contract on innovation
+performance: the moderating role of environmental uncertainty”, International Journal of
+Production Economics, Vol. 134 No. 1, pp. 114-122.
+
+Yeh, Y. (2005), “Identiﬁcation of factors affecting continuity of cooperative electronic supply
+chain relationships: empirical case of the Taiwanese motor industry”, Supply Chain
+Management: An International Journal, Vol. 10 No. 4, pp. 327-335.
+
+Yeung, J.H.Y., Selen, W., Zhang, M. and Huo, B. (2009), “The effects of trust and coercive power
+on supplier integration”, International Journal of Production Economics, Vol. 120 No. 1,
+pp. 66-78.
+
+Yeung, J.H.Y., Selen, W., Zhou, D. and Zhang, M. (2007), “Postponement strategy from a supply
+chain perspective: cases from China”, International Journal of Physical Distribution
+& Logistics Management, Vol. 37 No. 4, pp. 331-365.
+
+Zhao, X., Huo, B., Flynn, B.B. and Yeung, J.H.Y. (2008), “The impact of power and relationship
+commitment on the integration between manufacturers and customers”, Journal of
+Operations Management, Vol. 26 No. 3, pp. 368-388.
+
+Zhao, X., Huo, B., Selen, W. and Yeung, J.H.Y. (2011), “The impact of internal integration and
+relationship commitment on external integration”, Journal of Operations Management,
+Vol. 29 Nos 1/2, pp. 17-32.
+
+About the authors
+Min Zhang is a Lecturer in Operations Management at the University of East Anglia. Previously,
+he was a Research Fellow (Operations Management) at the University of Nottingham. He gained
+his PhD degree (2010) in Operations Management from the Chinese University of Hong Kong. He
+also earned his Bachelor degree (2002) and Master degree (2005) from Nankai University. His
+research has been published in the IEEE Transactions on Engineering Management,
+International Journal of Production Economics, International Journal of Physical Distribution
+& Logistics Management and other journals.
+
+Baofeng Huo is a Professor of Operations Management at the School of Management,
+Zhejiang University. Previously, he worked at the School of Management, Xi’an Jiaotong
+University. He received his PhD degree in Operations Management from the Chinese University
+of Hong Kong. His research interests are logistics and supply chain management. His research
+has been published in the Journal of Operations Management, Production and Operations
+Management, International Journal of Production Research, International Journal of Operations
+and Production Management, International Journal of Production Economics and other journals.
+Baofeng Huo is the corresponding author and can be contacted at: baofenghuo@gmail.com
+
+(The Appendix follows overleaf.)
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+
+Appendix
+
+IJPDLM
+43,7
+
+562
+
+)
+4
+9
+9
+1
+(
+
+t
+n
+u
+H
+d
+n
+a
+
+n
+a
+g
+r
+o
+M
+
+)
+4
+9
+9
+1
+(
+
+t
+n
+u
+H
+d
+n
+a
+
+n
+a
+g
+r
+o
+M
+
+)
+4
+9
+9
+1
+(
+
+t
+n
+u
+H
+d
+n
+a
+
+n
+a
+g
+r
+o
+M
+
+)
+4
+9
+9
+1
+(
+
+t
+n
+u
+H
+d
+n
+a
+
+n
+a
+g
+r
+o
+M
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+l
+
+d
+e
+t
+a
+l
+e
+R
+
+t
+h
+g
+
+i
+r
+
+s
+i
+
+t
+a
+h
+w
+o
+d
+
+o
+t
+
+n
+o
+
+d
+e
+t
+n
+u
+o
+c
+
+e
+b
+
+n
+a
+c
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+,
+
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+r
+u
+o
+
+n
+i
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+d
+n
+a
+
+s
+u
+
+n
+e
+e
+w
+t
+e
+b
+
+t
+s
+u
+r
+t
+
+f
+o
+
+l
+e
+v
+e
+l
+
+h
+g
+
+i
+
+h
+
+a
+
+s
+i
+
+e
+r
+e
+h
+t
+
+:
+
+1
+C
+T
+
+:
+
+2
+C
+T
+
+t
+h
+g
+
+i
+r
+
+s
+i
+
+t
+a
+h
+w
+o
+d
+
+o
+t
+
+n
+o
+
+d
+e
+t
+n
+u
+o
+c
+
+e
+b
+
+n
+a
+c
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+,
+
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+r
+u
+o
+
+n
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+d
+n
+a
+
+s
+u
+
+n
+e
+e
+w
+t
+e
+b
+
+t
+s
+u
+r
+t
+
+f
+o
+
+l
+e
+v
+e
+l
+
+h
+g
+
+i
+
+h
+
+a
+
+s
+i
+
+e
+r
+e
+h
+t
+
+:
+
+1
+S
+T
+
+:
+
+2
+S
+T
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+n
+o
+
+e
+c
+n
+e
+d
+n
+e
+p
+e
+D
+
+s
+r
+e
+i
+l
+p
+p
+u
+s
+
+h
+t
+i
+
+w
+
+t
+s
+u
+r
+T
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+h
+t
+i
+
+w
+
+t
+s
+u
+r
+T
+
+m
+e
+t
+I
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+h
+t
+i
+
+w
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+e
+h
+t
+n
+
+i
+a
+t
+n
+
+i
+a
+m
+o
+t
+n
+o
+i
+t
+a
+z
+i
+
+n
+a
+g
+r
+o
+r
+u
+o
+r
+o
+f
+
+t
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+y
+r
+e
+v
+s
+i
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+d
+n
+a
+m
+r
+ﬁ
+
+r
+u
+o
+
+n
+e
+e
+w
+t
+e
+b
+
+d
+e
+n
+
+i
+a
+t
+n
+
+i
+a
+m
+e
+b
+
+t
+s
+u
+m
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+e
+v
+
+i
+t
+a
+r
+e
+p
+o
+o
+c
+
+g
+n
+o
+r
+t
+s
+
+t
+i
+
+a
+
+:
+
+1
+C
+D
+
+:
+
+2
+C
+D
+
+y
+r
+t
+s
+u
+d
+n
+
+i
+
+r
+u
+o
+
+n
+
+i
+
+e
+v
+
+i
+t
+i
+t
+e
+p
+m
+o
+c
+
+n
+
+i
+a
+m
+e
+r
+
+o
+t
+
+s
+u
+
+r
+o
+f
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+r
+u
+o
+
+h
+t
+i
+
+w
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+y
+h
+t
+l
+a
+e
+h
+
+,
+
+d
+o
+o
+g
+
+a
+
+g
+n
+
+i
+
+n
+
+i
+a
+t
+n
+
+i
+a
+m
+n
+o
+
+s
+d
+n
+e
+p
+e
+d
+
+y
+g
+e
+t
+a
+r
+t
+s
+m
+r
+e
+t
+-
+
+g
+n
+o
+l
+
+’
+
+s
+m
+r
+ﬁ
+
+r
+u
+o
+
+:
+
+3
+C
+D
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+e
+h
+t
+
+f
+o
+
+t
+r
+a
+p
+
+e
+g
+r
+a
+l
+
+a
+
+s
+a
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+r
+e
+d
+i
+s
+n
+o
+c
+
+e
+w
+
+,
+
+y
+g
+e
+t
+a
+r
+t
+s
+
+s
+’
+m
+r
+ﬁ
+
+r
+u
+o
+
+g
+n
+
+i
+
+p
+o
+l
+e
+v
+e
+d
+
+n
+e
+h
+w
+
+:
+
+4
+C
+D
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+h
+t
+i
+
+w
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+e
+h
+t
+
+n
+
+i
+a
+t
+n
+i
+a
+m
+o
+t
+
+n
+o
+i
+t
+a
+z
+i
+n
+a
+g
+r
+o
+
+r
+u
+o
+
+r
+o
+f
+
+t
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+y
+r
+e
+v
+s
+i
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+d
+n
+a
+m
+r
+ﬁ
+
+r
+u
+o
+
+n
+e
+e
+w
+t
+e
+b
+
+d
+e
+n
+
+i
+a
+t
+n
+i
+a
+m
+e
+b
+
+t
+s
+u
+m
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+e
+v
+
+i
+t
+a
+r
+e
+p
+o
+o
+c
+
+g
+n
+o
+r
+t
+s
+
+t
+i
+
+a
+
+:
+
+1
+S
+D
+
+:
+
+2
+S
+D
+
+y
+r
+t
+s
+u
+d
+n
+
+i
+
+r
+u
+o
+
+n
+
+i
+
+e
+v
+i
+t
+i
+t
+e
+p
+m
+o
+c
+
+n
+i
+a
+m
+e
+r
+
+o
+t
+
+s
+u
+
+r
+o
+f
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+r
+u
+o
+
+h
+t
+i
+
+w
+p
+
+i
+
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+y
+h
+t
+l
+a
+e
+h
+
+,
+
+d
+o
+o
+g
+
+a
+
+g
+n
+
+i
+
+n
+
+i
+a
+t
+n
+
+i
+a
+m
+n
+o
+
+s
+d
+n
+e
+p
+e
+d
+
+y
+g
+e
+t
+a
+r
+t
+s
+m
+r
+e
+t
+-
+
+g
+n
+o
+l
+
+’
+
+s
+m
+r
+ﬁ
+
+r
+u
+o
+
+:
+
+3
+S
+D
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+)
+9
+9
+9
+1
+(
+
+n
+o
+s
+n
+h
+o
+J
+
+e
+h
+t
+
+f
+o
+
+t
+r
+a
+p
+
+e
+g
+r
+a
+l
+
+a
+
+s
+a
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+r
+e
+d
+
+i
+s
+n
+o
+c
+
+e
+w
+
+,
+
+y
+g
+e
+t
+a
+r
+t
+s
+
+s
+’
+m
+r
+ﬁ
+
+r
+u
+o
+
+g
+n
+
+i
+
+p
+o
+l
+e
+v
+e
+d
+
+n
+e
+h
+w
+
+:
+
+4
+S
+D
+
+s
+r
+e
+i
+l
+p
+p
+u
+s
+
+n
+o
+
+e
+c
+n
+e
+d
+n
+e
+p
+e
+D
+
+e
+r
+u
+t
+c
+i
+p
+
+Table AI.
+Measurement items
+
+.
+l
+
+a
+t
+e
+n
+e
+h
+C
+d
+n
+a
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+4
+0
+0
+2
+(
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+n
+o
+i
+t
+a
+c
+i
+
+n
+u
+m
+m
+o
+c
+
+f
+o
+
+l
+e
+v
+e
+l
+
+e
+h
+t
+
+:
+
+1
+I
+C
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+e
+r
+u
+t
+c
+i
+
+p
+
+s
+n
+
+i
+s
+u
+o
+C
+
+d
+n
+a
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+m
+e
+t
+s
+y
+s
+
+g
+n
+
+i
+r
+e
+d
+r
+o
+
+k
+c
+i
+
+u
+q
+
+f
+o
+
+t
+n
+e
+m
+h
+s
+i
+l
+
+b
+a
+t
+s
+e
+
+e
+h
+t
+
+:
+
+2
+I
+C
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+(
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+s
+n
+i
+s
+u
+o
+C
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+s
+n
+i
+s
+u
+o
+C
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+m
+o
+r
+f
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+t
+e
+k
+r
+a
+m
+
+f
+o
+
+g
+n
+
+i
+r
+a
+h
+s
+
+f
+o
+
+l
+e
+v
+e
+l
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+s
+t
+c
+a
+t
+n
+o
+c
+
+l
+a
+c
+i
+
+d
+o
+i
+r
+e
+p
+
+f
+o
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+e
+h
+t
+
+e
+h
+t
+
+s
+u
+
+h
+t
+i
+
+w
+
+t
+s
+a
+c
+e
+r
+o
+f
+
+d
+n
+a
+m
+e
+d
+
+s
+e
+r
+a
+h
+s
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+s
+u
+
+h
+t
+i
+
+w
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+)
+S
+O
+P
+
+(
+
+s
+e
+l
+a
+s
+
+f
+o
+
+t
+n
+i
+o
+p
+
+s
+e
+r
+a
+h
+s
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+k
+c
+a
+b
+d
+e
+e
+f
+
+r
+o
+f
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+-
+
+w
+p
+u
+w
+o
+l
+l
+o
+f
+
+:
+
+3
+I
+C
+
+:
+
+4
+I
+C
+
+:
+
+5
+I
+C
+
+:
+
+6
+I
+C
+
+:
+
+7
+I
+C
+
+
+d
+n
+a
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+s
+n
+i
+s
+u
+o
+C
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+l
+
+d
+e
+t
+a
+l
+e
+R
+
+d
+n
+a
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+,
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+d
+n
+a
+
+s
+n
+
+i
+s
+u
+o
+C
+
+d
+n
+a
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+
+d
+n
+a
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+
+s
+n
+
+i
+s
+u
+o
+C
+
+d
+n
+a
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+,
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+s
+n
+i
+s
+u
+o
+C
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+s
+n
+i
+s
+u
+o
+C
+
+k
+r
+o
+w
+t
+e
+n
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+h
+g
+u
+o
+r
+h
+t
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+h
+t
+i
+
+w
+e
+g
+a
+k
+n
+
+i
+l
+
+f
+o
+
+l
+e
+v
+e
+l
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+n
+a
+l
+
+p
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+r
+u
+o
+
+e
+r
+a
+h
+s
+
+e
+h
+t
+
+e
+w
+
+:
+
+8
+I
+C
+
+:
+
+9
+I
+C
+
+m
+e
+t
+I
+
+g
+n
+
+i
+r
+e
+d
+r
+o
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+r
+o
+f
+
+n
+o
+i
+t
+a
+z
+i
+r
+e
+t
+u
+p
+m
+o
+c
+
+f
+o
+
+l
+e
+v
+e
+l
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+y
+r
+o
+t
+n
+e
+v
+n
+
+i
+
+e
+l
+
+b
+a
+l
+i
+a
+v
+a
+
+r
+u
+o
+
+e
+r
+a
+h
+s
+
+e
+h
+t
+
+e
+w
+
+:
+
+0
+1
+I
+C
+
+:
+
+1
+1
+I
+C
+
+s
+u
+
+h
+t
+i
+
+w
+e
+l
+
+u
+d
+e
+h
+c
+s
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+r
+i
+e
+h
+t
+
+s
+e
+r
+a
+h
+s
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+:
+
+1
+I
+S
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+i
+l
+p
+p
+u
+S
+
+s
+u
+
+h
+t
+i
+
+w
+y
+t
+i
+c
+a
+p
+a
+c
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+r
+i
+e
+h
+t
+
+s
+e
+r
+a
+h
+s
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+s
+u
+
+h
+t
+i
+
+w
+y
+r
+o
+t
+n
+e
+v
+n
+i
+
+e
+l
+
+b
+a
+l
+i
+a
+v
+a
+
+s
+e
+r
+a
+h
+s
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+
+t
+s
+a
+c
+e
+r
+o
+f
+
+d
+n
+a
+m
+e
+d
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+
+l
+e
+v
+e
+l
+
+y
+r
+o
+t
+n
+e
+v
+n
+
+i
+
+r
+u
+o
+
+r
+u
+o
+
+e
+r
+a
+h
+s
+
+e
+r
+a
+h
+s
+
+r
+u
+o
+
+r
+u
+o
+
+e
+w
+
+e
+w
+
+e
+g
+a
+t
+s
+
+n
+g
+
+i
+s
+e
+d
+
+e
+h
+t
+
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+f
+o
+
+l
+e
+v
+e
+l
+
+n
+o
+i
+t
+a
+p
+
+i
+c
+i
+t
+r
+a
+p
+
+e
+h
+t
+
+:
+
+3
+I
+S
+
+:
+
+4
+I
+S
+
+:
+
+5
+I
+S
+
+:
+
+6
+I
+S
+
+:
+
+7
+I
+S
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+n
+a
+l
+
+p
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+r
+u
+o
+
+e
+r
+a
+h
+s
+
+e
+w
+
+:
+
+2
+I
+S
+
+s
+n
+
+i
+s
+u
+o
+C
+
+d
+n
+a
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+d
+n
+a
+
+t
+n
+e
+m
+e
+r
+u
+c
+o
+r
+p
+
+f
+o
+
+s
+s
+e
+c
+o
+r
+p
+
+e
+h
+t
+
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+f
+o
+
+l
+e
+v
+e
+l
+
+n
+o
+i
+t
+a
+p
+
+i
+c
+i
+t
+r
+a
+p
+
+e
+h
+t
+
+:
+
+8
+I
+S
+
+The impact of
+trust on SCI
+
+563
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+6
+0
+0
+2
+(
+
+c
+u
+g
+n
+e
+M
+d
+n
+a
+
+)
+4
+0
+0
+2
+(
+
+.
+l
+
+a
+
+t
+e
+
+n
+e
+h
+C
+
+d
+n
+a
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+,
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+1
+0
+0
+2
+(
+
+k
+o
+o
+r
+b
+t
+s
+e
+
+W
+d
+n
+a
+
+h
+c
+i
+l
+
+h
+o
+r
+F
+
+)
+2
+0
+0
+2
+(
+
+i
+
+m
+K
+d
+n
+a
+
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+3
+0
+0
+2
+(
+
+.
+l
+
+a
+
+t
+e
+
+y
+r
+e
+k
+c
+i
+V
+
+)
+3
+0
+0
+2
+(
+
+.
+l
+
+a
+
+t
+e
+
+y
+r
+e
+k
+c
+i
+V
+
+s
+d
+e
+e
+n
+
+r
+u
+o
+
+t
+e
+e
+m
+
+r
+e
+t
+t
+e
+b
+
+o
+t
+
+s
+s
+e
+c
+o
+r
+p
+
+r
+i
+e
+h
+t
+
+e
+v
+o
+r
+p
+m
+
+i
+
+o
+t
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+p
+
+l
+e
+h
+
+e
+w
+
+:
+
+9
+I
+S
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+k
+r
+o
+w
+t
+e
+n
+
+h
+g
+u
+o
+r
+h
+t
+
+t
+n
+e
+m
+e
+r
+u
+c
+o
+r
+p
+
+e
+l
+
+b
+a
+t
+s
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+o
+j
+a
+m
+
+r
+u
+o
+
+h
+t
+i
+
+w
+p
+
+i
+
+h
+s
+r
+e
+n
+t
+r
+a
+p
+
+c
+i
+
+g
+e
+t
+a
+r
+t
+s
+
+f
+o
+
+l
+e
+v
+e
+l
+
+e
+h
+t
+
+:
+
+0
+1
+I
+S
+
+:
+
+1
+1
+I
+S
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+
+a
+i
+c
+n
+a
+n
+F
+
+i
+
+s
+e
+l
+a
+s
+
+n
+o
+
+n
+r
+u
+t
+e
+r
+
+n
+
+i
+
+h
+t
+w
+o
+r
+g
+
+t
+ﬁ
+o
+r
+p
+
+n
+
+i
+
+h
+t
+w
+o
+r
+g
+
+I
+
+O
+R
+n
+
+i
+
+h
+t
+w
+o
+r
+g
+
+e
+r
+a
+h
+s
+
+t
+e
+k
+r
+a
+m
+n
+
+i
+
+h
+t
+w
+o
+r
+g
+
+s
+e
+l
+a
+s
+
+n
+
+i
+
+h
+t
+w
+o
+r
+g
+
+:
+
+1
+P
+F
+
+:
+
+2
+P
+F
+
+:
+
+3
+P
+F
+
+:
+
+4
+P
+F
+
+:
+
+5
+P
+F
+
+Table AI.
+

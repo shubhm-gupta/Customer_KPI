@@ -1,0 +1,3399 @@
+Journal of Operations Management 17 1998 77–95
+
+(cid:14)
+
+.
+
+A replication study of a theory of quality management underlying
+the Deming management method: insights from an Italian context
+Manus Rungtusanatham a,), Cipriano Forza b, Roberto Filippini b, John C. Anderson c
+a Operations and Information Management Department, School of Business, Uni˝ersity of Wisconsin-Madison, 975 Uni˝ersity A˝enue,
+
+Madison, WI 53706, USA
+
+b Istituto di Ingegneria Gestionale, Uni˝ersita di Pado˝a, Viale X Giugno 22, Vicenza, Italy
+
+c Operations and Management Science Department, Curtis L. Carlson School of Management, Uni˝ersity of Minnesota, 271 19th A˝enue
+
+South, Minneapolis, MN 55455, USA
+
+Received 18 June 1997; accepted 15 January 1998
+
+Abstract
+
+We present research that contributes to the debate on the universal applicability of quality management, and in doing so,
+subject the ‘one size fits all’ assumption underlying quality management to an empirical examination. Specifically, with the
+.
+exception of enhancements in instrumentation, we attempted to replicate, as closely as possible, Anderson et al.’s 1995
+empirical evaluation of a Deming-based theory of quality management. In our replication, we applied path analysis to
+secondary, plant-level data provided by a stratified sample of plants in three different industries in Italy. The path analytical
+results from the current replication study were compared against those reported in Anderson et al. 1995 , which used data
+from U.S.-based plants. These results were then discussed in the context of conducting and interpreting cross-cultural quality
+management research. We concluded with the need for more replication studies in the quality management discipline and
+with implications for research and practice. q 1998 Elsevier Science B.V. All rights reserved.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+Keywords: Replication; Quality management; Deming management method; Universality; National culture
+
+1. Introduction
+
+(cid:14)
+
+Despite the paucity of scientific evidence attesting
+to the effectiveness of W. Edwards Deming’s quality
+management approach see Deming, 1986, 1993 , it
+has received considerable attention from manufactur-
+ing and service organizations around the world see
+Hodgson, 1987 . In part, this is because Deming has
+often been credited with contributing to Japan’s eco-
+nomic revitalization after World War II Deming,
+1986; Walton, 1986; Yoshida, 1989 . Deming’s qual-
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+)
+
+Corresponding author. Tel.: q1-608-265-4939; fax: q1-608-
+
+263-3142; e-mail: manus@bus.wisc.edu
+
+ity management approach, also known as the Dem-
+ing Management Method see Walton, 1986 , contin-
+ues to be the subject of global discussion e.g., the
+Deming Electronic Network .
+
+. 1
+
+.
+(cid:14)
+
+(cid:14)
+
+On one hand, the global interest in adopting the
+Deming Management Method implies that the under-
+
+1 The Deming Electronic Network,
+
+found at http:rr
+deming.eng.clemson.edu:80rpubrdenr, was formed by the spon-
+taneous convergence of various groups, nationally e.g., Wiscon-
+sin, California, Georgia, etc.
+and internationally e.g., Great
+.
+Britain, France, Russia, etc. , and dedicated to the study and
+diffusion of Deming’s quality management approach and his
+.
+system of ‘profound knowledge’ see Deming, 1990 .
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+0272-6963r98r$ - see front matter q 1998 Elsevier Science B.V. All rights reserved.
+PII: S 0 2 7 2 - 6 9 6 3 9 8 0 0 0 3 2 - 1
+
+(cid:14)
+
+.
+
+
+78
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+(cid:14) .
+
+lying concepts, principles, and techniques of the
+Deming Management Method are universal and read-
+ily transferable across organizations, industries, and
+countries. Support for those adhering to this ‘univer-
+sal perspective’ can be inferred from 1 broad state-
+ments that encourage firms to adopt quality manage-
+(cid:14) .
+ment e.g., General Accounting Office, 1991 , 2
+claims that quality management
+is not bound by
+(cid:14)
+(cid:14) .
+national culture
+e.g., Choi and Liker, 1995 , 3
+research describing the successful adoption of qual-
+including Russia Birch
+ity management globally,
+(cid:14)
+.
+and Pooley, 1995 , Israel Mitki and Shani, 1995 ,
+and Singapore Sohal et al., 1989 , or encouraging
+the adoption of quality management in other regions
+of the world Lee et al., 1992 , and 4 conclusions
+of research comparing U.S. companies against com-
+panies in other countries e.g., Japan that generally
+urge U.S. companies to adopt quality management in
+order to enhance their competitive ability e.g. Yavas,
+.
+1995 . Additionally,
+the institutionalization of re-
+(cid:14)
+gional
+e.g., Minnesota Quality Award , national
+(cid:14)
+e.g., Australian National Quality Award , and inter-
+national quality awards e.g., European Foundation
+Quality Management Award , and the increasingly
+(cid:14)
+global emphasis on ISO 9000 certification
+see
+Uzumeri, 1997 are highly visible events fueling the
+perspective that quality management is universally
+applicable and beneficial.
+
+(cid:14) .
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+.
+
+.
+
+(cid:14)
+
+Yet,
+
+inhibit
+
+there are also scholars who question the
+universal applicability of quality management e.g.,
+Garvin, 1986; Goonatilake, 1988; Yoshida, 1989;
+Amundson et al., 1997; Mersha, 1997 . Goonatilake
+(cid:14)
+1988 and Mersha 1997 have argued, for example,
+that developing countries possess a host of sociopo-
+litical and socioeconomic factors that
+the
+transferability of quality management concepts, prin-
+ciples, and techniques to these countries. With re-
+spect to the Deming Management Method, Yoshida
+(cid:14)
+1989 argued that certain cultural constraints hinder
+the widespread applicability of the Deming Manage-
+ment Method in the U.S. and other Western civiliza-
+tions. Garvin 1986, p. 669 also had the following
+caution:
+firms to mimic
+Japanese quality practices without first adapting them
+to local conditions are unlikely to be completely
+successful, even though practices in both countries
+were originally derived from the same sources.’’
+
+‘‘ . . . attempts by U.S.
+
+.
+
+.
+
+(cid:14)
+
+In this paper, we present research that contributes
+
+.
+
+.
+
+(cid:14)
+
+to the debate on the universal applicability of quality
+management, and in doing so, subject the ‘one size
+fits all’ assumption see Newman and Nollen, 1996;
+p. 753 of quality management to an empirical exam-
+ination. We intend our research to be a stimulus into
+more theoretical and empirical investigations of when
+and where quality management might be applicable,
+as well as how quality management might need to be
+adapted in its application. Specifically, we present
+the replication results of an empirical evaluation of a
+Deming-based theory of quality management. This
+theory was recently articulated by Anderson et al.
+(cid:14)
+1994b and subsequently subjected to an empirical
+.
+examination in the work of Anderson et al. 1995 .
+Except for enhancements in instrumentation, we at-
+tempted to replicate, as closely as possible, the An-
+derson et al. 1995 study. In our replication, we
+apply path analysis to secondary, plant-level, data
+provided by a stratified sample of plants in three
+different industries in Italy. The path analytical re-
+sults from the current replication study are then
+compared against
+those reported in the study of
+(cid:14)
+Anderson et al. 1995 and discussed in the context
+of conducting and interpreting cross-cultural quality
+management research. We conclude with the need
+for more replication studies in the quality manage-
+ment discipline and with implications for research
+and practice.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+2. A Deming-based theory of quality management
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Anderson et al. 1994b recently articulated an
+integrative theory of quality management to describe
+and explain the process and effectiveness of adopting
+the Deming Management Method henceforth re-
+.
+ferred to as the ARS theory of quality management .
+.
+In their theory development, Anderson et al. 1994b
+identified and defined seven constructs as forming
+the theoretical blocks for describing, explaining, and
+predicting the organizational performance impact of
+quality management adoption. These seven con-
+structs—Visionary Leadership, Internal and External
+Cooperation, Learning, Process Management, Con-
+tinuous Improvement, Employee Fulfillment, and
+Customer Satisfaction—were derived from a concep-
+tual synthesis of literature on the Deming Manage-
+
+(cid:14)
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+79
+
+ment Method and from the input of a panel of
+subject-matter-experts identified from both academia
+and industry. Table 1 reproduces the nominal defini-
+tions for the seven constructs.
+
+In theorizing the organizational performance im-
+pact of quality management adoption, Anderson et
+al. 1994b, pp. 479–480 postulated that the effec-
+tiveness of adopting Deming’s quality management
+approach:
+
+.
+
+(cid:14)
+
+. . . arises from leadership efforts toward the simulta-
+neous creation of a cooperative and learning organi-
+zation to facilitate the implementation of process-
+management practices, which, when implemented,
+support customer satisfaction and organizational sur-
+vival
+through sustained employee fulfillment and
+continuous improvement of processes, products, and
+services . . .
+
+Captured in this succinct statement are four proposi-
+tions specifying the ‘causal’ relationships among the
+seven constructs that had been identified:
+
+Proposition 1: Visionary leadership enables the si-
+multaneous creation of a cooperative and learning
+organization.
+
+Proposition 2: An organization that simultaneously
+fosters cooperation and learning facilitates the imple-
+mentation of process management practices.
+
+Proposition 3: Process management practices simul-
+taneously result in continuous improvement of qual-
+ity and employee fulfillment.
+
+Proposition 4: An organization’s simultaneous ef-
+forts continuously to improve its quality and to fulfill
+its employees lead to higher customer satisfaction.
+
+Proposition 1 stresses the critical role that leader-
+ship plays in ensuring the success of quality manage-
+ment adoption. Proposition 2 emphasizes the impor-
+tance of both cooperation and continual learning in
+helping an organization to implement process man-
+agement practices that include both human resource
+management practices e.g., teams and methodolog-
+(cid:14)
+.
+ical approaches
+e.g., statistical process control .
+Proposition 3 describes the two immediate outcomes
+of continuous quality improvement and employee
+fulfillment that an organization derives from effec-
+tive implementation methodological and human re-
+
+(cid:14)
+
+.
+
+Table 1
+.
+Theoretical constructs and nominal definitions From Anderson et al., 1994b; p. 480
+
+(cid:14)
+
+Visionary Leadership
+The ability of management to establish, practice, and lead a long-term vision for the organization, driven by changing customer
+requirements, as opposed to an internal management control role
+
+Internal and External Cooperation
+The propensity of the organization to engage in non-competitive activities internally among employees and externally with respect to
+suppliers
+
+Learning
+The organizational capability to recognize and nurture the development of its skills, abilities, and knowledge bases
+
+Process Management
+The set of methodological and behavioral practices emphasizing the management of process, or means of actions, rather than results
+
+Continuous Impro˝ement
+The propensity of the organization to pursue incremental and innovative improvements of its processes, products, and services
+
+Employee Fulfillment
+The degree to which employees of an organization feel that the organization continually satisfies their needs
+
+Customer Satisfaction
+The degree to which an organization’s customers continually perceive that their needs are being met by the organization’s products and
+services
+
+
+80
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+(cid:14)
+
+sources management practices underlying Process
+Management. Proposition 4 theorizes that continu-
+ously improving quality and fulfilling employees
+represent requisite conditions that, in turn, contribute
+to an organization’s ability to satisfy its present
+customers and, at the same time, to identify opportu-
+nities for satisfying future customers. Together, these
+four propositions depict the path diagram in Fig. 1.
+.
+In a subsequent paper, Anderson et al. 1995
+reported the results for an empirical examination of
+the four propositions comprising their theory of qual-
+ity management. These empirical results were based
+on a secondary data source provided by U.S. plants
+in Round 1 of
+the World-Class Manufacturing
+(cid:14)
+.WCM research project. Data for the WCM research
+project were collected from multiple informants
+(cid:14)eight different managers, three supervisors, and 10
+.
+workers
+in 41 plants via pen-and-paper question-
+naires. Different informants received questionnaires
+with different content measurement items. For in-
+stance,
+the human resources manager received a
+questionnaire asking about the plant’s approach to
+issues of
+training, compensation, selection, etc.,
+whereas, the process engineer responded to questions
+about process design and control. The majority of
+these measurement items were structured as percep-
+tual questions with forced-choice response formats,
+but several measurement items, asking for factual,
+(cid:14)
+.
+quantifiable data
+e.g., scrap rate , were also in-
+cluded in the relevant questionnaires.
+
+To empirically examine the ARS theory of quality
+management, Anderson et al. 1995 performed four
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+sequential tasks. First, they selected perceptual mea-
+surement items from Round 1 of the WCM research
+project in order to create multi-item measurement
+scales for each of the seven constructs. The internal
+consistency reliability and dimensionality of these
+measurement scales were respectively assessed by
+computing and evaluating Cronbach’s a coefficient
+(cid:14)
+see Cronbach, 1951 and by interpreting the results
+of exploratory factor analysis with no rotation, with
+these results indicating acceptable reliability and
+.
+uni-dimensionality. Second, Anderson et al. 1995
+constructed plant-by-plant, composite scores for each
+of the seven constructs. These aggregate scores were
+computed by firstly averaging the responses of dif-
+ferent within-plant informants to the same measure-
+ment item. Then the measurement items within the
+same measurement scale were averaged by plant.
+Each construct, therefore, had a vector of 41 com-
+posite scores, one for each plant. Third, Anderson et
+al. 1995 conducted an analysis of industry effects
+on the mean and variance levels of the empirical
+measures for the seven constructs. Industry effects
+were found to be significant in explaining differ-
+ences across the three industries and were subse-
+quently controlled for by standardizing the data by
+industry. Fourth, path analysis was applied to the
+standardized-by-industry data to compute eight path
+coefficients, two for each of the four propositions.
+Direct, indirect, and unexplained effects were then
+decomposed from the observed correlation among
+the empirical measures for the seven constructs and
+the path analytical results. In summary,
+the path
+
+(cid:14)
+
+.
+
+.
+Fig. 1. The theory of quality management underlying the Deming Management Method from Anderson et al., 1994b; p. 481 .
+
+(cid:14)
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+81
+
+analytical results supported Propositions 1 and 3, but
+provided only partial support for Propositions 2 and
+4.
+
+3. The present replication study
+
+.
+
+(cid:14)
+
+Since our intent is to conduct a constructive repli-
+cation of the Anderson et al. 1995 study, we at-
+tempted to maximize the similarities between this
+replication and the earlier study. Two differences,
+however, deserve further clarification, these being
+the source of data for this replication and the opera-
+tionalization of the seven constructs.
+
+3.1. Round 2 of the WCM research project: Italian
+plants
+
+(cid:14)
+
+.
+
+Whereas data for the Anderson et al. 1995 study
+were provided by Round 1 of the WCM research
+project, data for this replication came from Italian
+plants that were studied in Round 2 of the WCM
+research project. The WCM research project was a
+multi-year project to develop a better understanding
+of what world-class manufacturing practices in-
+cluded and how these practices would affect organi-
+zational performance. ‘World-Class Manufacturing,’
+for the project, was defined based on the writings of
+Hayes and Wheelwright 1985 and Schonberger
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+1986 . Round 1 data were collected from U.S.
+plants during 1989 and 1990. A recent description of
+Round 1 of the WCM project can be found in the
+work of Flynn et al. 1997 . Round 2 of the WCM
+project extended data collection to plants in other
+countries, including Italy, Japan, Germany, and the
+United Kingdom. The Italian plant data were col-
+lected during 1992. When the current replication
+study began in 1995, only the data from the Italian
+plants had been completed, cleaned, and made avail-
+able to the researchers.
+
+For Round 2, the various questionnaires that were
+employed in Round 1 were modified and improved.
+Table 2 provides a breakdown of the total number of
+questionnaires employed in Round 2, the total num-
+ber of different employees that answered these ques-
+tionnaires, and the total number of informants from
+each plant.
+
+A panel of five Italian academic experts on manu-
+facturing management then engaged in an iterative
+process to translate these modified questionnaires
+from English into Italian. All translation disagree-
+ments were resolved via a group process involving
+all five experts. A professional
+translator, whose
+native language was English, then back translated the
+Italian versions into English in order to verify the
+equivalence of the Italian versions to the English
+versions. As a final check, the Italian questionnaires
+were reviewed and pre-tested with a small group of
+
+Table 2
+Questionnaires and informants in the Italian WCM sample
+
+Type of informant
+
+Plant research coordinator
+Plant manager
+Plant superintendent
+Quality manager
+Process engineer
+Inventory and purchasing manager
+Production control manager
+Information system manager
+Human resource manager
+Plant accountant
+(cid:14)
+.
+Supervisor A
+(cid:14) .
+Supervisor B
+.
+(cid:14)
+Direct labor A
+(cid:14) .
+Direct labor B
+(cid:14) .
+Direct labor C
+Total expected informants
+
+Questionnaire code
+
+Target a of informants
+
+PR
+PM
+PS
+QM
+PE
+IC
+PC
+IS
+HR
+AC
+SA
+SB
+.
+(cid:14)
+DL A
+(cid:14) .
+DL B
+(cid:14) .
+DL C
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+4
+4
+4
+26
+
+
+82
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+three non-academic individuals to assess whether or
+not the questionnaires could be answered by individ-
+uals with limited education, with two of these indi-
+viduals having received only a secondary level edu-
+cation.
+
+In building the sample of Italian plants, only
+manufacturing companies from the Machine Tools,
+Electronics, and Transportation-Related industries
+were considered;
+this strategy allowed the Italian
+sample to be comparable with the U.S. sample from
+Round 1 of the WCM research project. Furthermore,
+these companies had to have manufacturing facilities
+located in Italy and to employ at least 100 employ-
+ees. Companies with these characteristics were then
+classified as either ‘Traditional’ or ‘World-Class,’
+based on the opinions of 10 experts and on their
+organizational profiles in Italian trade journals. The
+10 experts included academic researchers, consul-
+tants, and industry managers, with expertise in par-
+ticular industrial sectors andror managerial aspects
+of WCM. Italian trade journals were used to expand
+the list of possible WCM firms, and in some cases,
+to confirm the ‘World-Class’ status of companies
+that had been identified by experts. To ensure the
+integrity of the classification, a face-to-face meeting
+was arranged so that the 10 experts could discuss the
+classification results. During this discussion, when-
+ever doubts arose as to a firm’s designation as
+‘World-Class,’ evidence that
+the firm had imple-
+mented some WCM practices, either from trade jour-
+nals or from expert knowledge, had to be provided.
+Otherwise, the firm would not be included in the
+sampling frame.
+
+From this sampling frame, the Italian WCM re-
+search team in Italy then contacted 85 companies by
+phone and by mail to explain the research program
+and objectives. Thirty companies refused to partici-
+pate; these 30 companies were either facing major
+restructuring problems or had defense contracts that
+prohibited them from sharing sensitive company-re-
+lated information. The remaining 55 companies
+(cid:14)
+65% selected one plant to participate in Round 2 of
+the WCM research project. Generally,
+the ‘best’
+plant was selected. A plant research coordinator from
+each selected plant was appointed to serve as a
+liaison between the plant and the Italian WCM re-
+search team. Plant visits were scheduled with each of
+the 55 plants, during which the research objectives
+
+.
+
+and design were explained and interviews were con-
+ducted with the plant research coordinators and vari-
+ous managers within the plants.
+
+During initial plant visits, the plant research coor-
+dinator, along with at least one member of the Italian
+WCM research team, would jointly select the plant
+informants to answer the various questionnaires, with
+the exception of the three questionnaires for direct
+labor. In the case of direct labor, because of the
+promise of anonymity, the names of employees were
+kept anonymous, although the selection process at-
+tempted to include both union and non-union repre-
+sentation. Questionnaires would then be administered
+to the selected informants by the plant research
+coordinator and returned to the plant research coordi-
+nator who then forwarded the completed question-
+naires to the research team.
+
+Of the 55 plants that had been visited, 10 dropped
+out for various reasons discovered during or after the
+visit. Some plant research coordinators did not wish
+to continue after learning of the research objectives
+and design, citing a lack of interest or believing that
+the data were too sensitive. Some agreed to partici-
+pate but were not able to guarantee sufficient com-
+pleteness of the various questionnaires to warrant
+further consideration. Finally, some agreed to admin-
+ister the questionnaires but heavy production de-
+mands prevented the timely administration of the
+questionnaires for inclusion into Round 2 of the
+WCM project.
+
+The remaining 45 plants that agreed to participate
+in the WCM study did return their questionnaires,
+but
+the questionnaire sets from two plants were
+discarded because of excessive missing data. The
+final sample, therefore, contained 43 plants of which
+38 are Italian-owned plants, 2 are American-owned
+plants, 2 are French-owned plants, and 1 is a Ger-
+man-owned plant. The distribution of these plants
+across
+‘Traditional’ vs.
+‘World-Class’ categories is shown in Table 3.
+
+and across
+
+industries
+
+3.2. Operationalization and measurement of theoreti-
+cal constructs
+
+For this replication,
+
+the seven theoretical con-
+structs were operationalized as multi-item measure-
+ment scales, containing selected perceptual measure-
+ment items from Round 2 of the WCM research
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+83
+
+Table 3
+Italian plants in the replication sample
+
+Traditional World-class Total Products
+
+Machine Tools
+
+Electronics
+
+Transportation-Related
+
+9
+
+7
+
+5
+
+7
+
+9
+
+6
+
+Total
+
+21
+
+22
+
+16
+
+16
+
+11
+
+43
+
+Mini-diggers; FMS; manufacturing cells; measurement and control systems;
+robots and lasers; hydraulic plants and lifts; industrial boilers
+Radio bridges; personal and mini computers; printers; TV aerials and circuit
+boards; electronic boards for consumer lamps; asynchronous electric motors;
+electronic control devices for refrigeration
+Air-conditioners for automobiles; mechanical transmission devices; car lights
+and aerials; axles for industrial vehicles, motorbikes, and scooters
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+questionnaires. Many of the measurement items em-
+ployed in the Anderson et al. 1995 study were
+retained, with exceptions noted in Appendix A. These
+exceptions included the addition of new measure-
+ment items to, andror the deletion of measurement
+items from, the measurement scales used in Ander-
+son et al. 1995 . In general, the addition andror
+deletion of measurement items were undertaken to
+maximize the internal consistency reliability and the
+dimensionality of the respective measurement scales,
+an approach suggested in the work by Churchill
+(cid:14)
+1979 and successfully applied by Graham et al.
+(cid:14)
+1994 . Table 4 shows Cronbach’s a coefficients
+and principal components factor analysis results for
+these modified measurement scales.
+
+.
+.
+
+The data for the measurement scales were then
+used to create plant-level aggregate scores for each
+construct, following the approach in Anderson et al.
+(cid:14)
+1995 . First, the average score for each item was
+computed across all within-plant
+informants who
+responded to the item. Then, the measurement items
+
+.
+
+constituting each measurement scale were averaged
+by plant to form an aggregate, plant-level score for
+the corresponding theoretical construct. Each con-
+struct, therefore, has 43 values, one per plant, with
+the exception of Employee Fulfillment, which has
+only 34 values due to missing data.
+
+3.3. Hypotheses
+
+The four propositions in the ARS theory of qual-
+ity management can be restated as eight
+testable
+hypotheses. For example, stated in standard null
+form, Proposition 1 suggests the following two hy-
+potheses, as follows.
+
+Hypothesis 1: Visionary Leadership is not positively
+related to Internal and External Cooperation.
+
+Hypothesis 2: Visionary Leadership is not positively
+related to Learning.
+
+Table 4
+Measurement scales for the constructs underlying the ARS theory of quality management: Psychometric propertiesa
+Measurement scale for construct
+
+.
+a Extracted factors % variance explained
+
+Cronbach’s a
+
+(cid:14)
+
+Visionary Leadership
+Internal and External Cooperation
+Learning
+Process Management
+Continuous Improvement
+Employee Fulfillment
+Customer Satisfaction
+
+0.77
+0.88
+0.84
+0.90
+0.76
+0.66
+0.67
+
+.
+1 factor 56%
+.
+1 factor 62%
+.
+1 factor 58%
+.
+1 factor 67%
+.
+1 factor 80%
+.
+1 factor 75%
+.
+1 factor 51%
+
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+
+a Because the unit of analysis is the ‘plant,’ both Cronbach’s a and dimensionality for the measurement scales for the seven constructs were
+assessed at the plant level.
+
+
+84
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+The remaining six hypotheses that can be derived
+from Proposition 2 Hypotheses 3 and 4 , from
+Proposition 3 Hypotheses 5 and 6 , and from Propo-
+sition 4 Hypotheses 7 and 8 include the following
+hypotheses.
+
+(cid:14)
+
+.
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+Hypothesis 3: Internal and External Cooperation is
+not positively related to Process Management.
+
+Hypothesis 4: Learning is not positively related to
+Process Management.
+
+Hypothesis 5: Process Management is not positively
+related to Continuous Improvement.
+
+Hypothesis 6: Process Management is not positively
+related to Employee Fulfillment.
+
+Hypothesis 7: Continuous Improvement is not posi-
+tively related to Customer Satisfaction.
+
+Hypothesis 8: Employee Fulfillment
+tively related to Customer Satisfaction.
+
+is not posi-
+
+3.4. Analytical approach
+
+In this replication, the eight hypotheses were em-
+pirically examined by applying the method of path
+analysis to the data from the Italian plants see Land,
+1969; Li, 1975 for an introduction to the theory and
+mechanics of path analysis . In the context of path
+analysis, the eight hypotheses can be operationalized
+as the path diagram shown in Fig. 2. The two arrows
+
+(cid:14)
+
+.
+
+from Visionary Leadership to Internal and External
+Cooperation and from Visionary Leadership to
+Learning are, therefore, consistent with Hypotheses 1
+and 2, respectively.
+
+Because the 43 plants were drawn from three
+different industries, industry effects were suspected
+to play a significant role in explaining the variation
+in the data, just as industry effects were significant in
+the Anderson et al. 1995 study. This suspicion was
+confirmed by analyzing the across-industry mean
+and variance levels for the empirical measures of the
+seven constructs see Table 5 . To remove industry
+effects, the data were standardized by industry.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+To apply path analysis, the data were standardized
+again and regression analysis was then employed to
+estimate the magnitudes of the eight path coefficients
+in Fig. 2. Because path coefficients are equivalent to
+standardized regression coefficients Wright, 1960;
+see also the work of Li, 1975 , the statistical signifi-
+cance of path coefficients can be examined using
+conventional t-tests and the statistical significance of
+hypothesized relationships can be evaluated by inter-
+(cid:14)
+preting coefficients of determination, R
+Lewis-
+Beck, 1974; McPherson and Huang, 1974 . Addi-
+.
+tionally, support or lack of support
+for the eight
+hypotheses was determined by computing and evalu-
+ating the magnitude of the pair-wise direct, indirect,
+and unexplained effects between empirical measures
+(cid:14)
+for the seven constructs
+see Alwin and Hauser,
+1981 . These effects are derived by decomposing the
+observed correlation R
+between two empirical
+measures, x and y, into the direct effects from x to
+.
+(cid:14)
+y D , the indirect effects from x to y I
+, and
+
+x y
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+2
+
+x y
+
+x y
+
+Fig. 2. A path model of the eight hypotheses.
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+85
+
+Table 5
+Comparing mean and variance levels across industries: one-way ANOVA results
+
+Measurement scale for constructs
+
+.
+Industry means variances
+
+(cid:14)
+
+Machine tools
+
+Electronics
+
+Transportation-related
+
+Prob.)F
+
+a
+
+Visionary Leadership
+Internal and External Cooperation
+Learning
+Process Management
+Continuous Improvement
+Employee Fulfillment
+Customer Satisfaction
+
+3.18 0.419
+3.01 0.600
+2.83 0.559
+2.37 0.520
+3.17 0.476
+3.93 0.192
+2.94 0.414
+
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+
+.
+.
+.
+.
+.
+.
+.
+
+a Prob.)F is based on the following F-test: H : m
+m
+
+0
+
+Transportation-Related
+
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+3.79 0.242
+3.58 0.638
+3.01 0.362
+3.44 0.722
+3.73 0.587
+3.65 0.438
+3.09 0.265
+
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+
+.
+.
+.
+.
+.
+.
+.
+
+0.039
+0.133
+0.273
+0.002
+0.117
+0.073
+0.047
+
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+
+3.28 0.431
+3.41 0.490
+3.21 0.338
+3.19 0.594
+3.16 0.889
+3.33 1.183
+3.33 0.559
+sm
+
+Machine Tools
+
+Electronics
+
+sm
+
+Transportation-Related
+
+, H : m
+
+1
+
+Machine Tools
+
+/m
+
+Electronics
+
+/
+
+.
+the unexplained effects between x and y U ,
+(cid:14) .
+using Eq. 1 :
+R sD qI qU
+
+x y
+
+(cid:14)
+
+1(cid:14) .
+
+x y
+
+x y
+
+x y
+
+x y
+
+On a path diagram, a direct effect between x and y
+is represented by an arrow from x to y, and the
+indirect effect between x and y is the impact that x
+has on y through other intervening empirical mea-
+(cid:14) .
+sure s
+specified in the path diagram. The unex-
+plained effects between x and y, therefore, indicate
+the residual portion of the observed correlation be-
+tween x and y that is not captured by the hypothe-
+
+sized set of relationships depicted in the path dia-
+gram.
+
+4. Results
+
+(cid:14)
+
+For the sample of Italian plants in this replication,
+.
+three of the eight paths for Hypotheses 1, 3, and 5
+supported path coefficients that were statistically sig-
+nificant at the as0.05 level of significance see
+Table 6 . Two of the eight paths supported path
+coefficients of 0.056 and 0.055 for Hypotheses 2
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Table 6
+Theoretical propositions, hypotheses, path coefficients, and R2 values for the ARS theory of quality management: the Italian context
+Proposition Hypothesis
+
+Path coefficient
+
+Standard Error
+
+R
+
+p
+
+2
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+3
+
+4
+5
+6
+7
+8
+
+Path
+Visionary Leadership“Internal and External
+Cooperation
+Visionary Leadership“Learning
+Internal and External Cooperation“Process
+Management
+Learning“Process Management
+Process Management“Continuous Improvement
+Process Management“Employee Fulfillment
+Continuous Improvement“Customer Satisfaction
+Employee Fulfillment“Customer Satisfaction
+
+0.385
+
+0.293
+0.581
+
+I0.084
+0.613
+0.023
+0.292
+0.181
+
+0.011
+
+0.148
+
+0.144
+
+0.056
+0.001
+
+0.086
+0.286
+
+a
+
+b
+
+0.616 —
+0.000
+0.890
+0.055
+0.252 —
+
+0.348
+0.001
+c
+0.151
+
+0.149
+0.166
+
+—
+0.146
+0.171
+0.155
+—
+
+a
+
+2
+
+(cid:14)
+
+.
+
+R ‘‘ Standard Error ’’ is the amount of variation in Process Management that is explained by both Internal and External Cooperation and
+Learning.
+bBold-faced values indicate statistically non-significant path coefficients; other path coefficients are generally considered to be statistically
+significant at the as0.05 level of significance.
+.
+R ‘‘ Standard Error ’’ is the amount of variation in Customer Satisfaction that is explained by both Continuous Improvement and
+Employee Fulfillment.
+
+(cid:14)
+
+2
+
+c
+
+
+86
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+.
+
+.
+
+.
+
+(cid:14)
+
+.
+
+and 7, respectively that were minimally beyond the
+standard as0.05 level of significance; these two
+paths were, therefore, considered to be statistically
+significant for this study. Three of the eight hypothe-
+sized paths—from Learning to Process Management
+(cid:14)
+Hypothesis 4 , from Process Management to Em-
+(cid:14)
+ployee Fulfillment Hypothesis 6 and from Em-
+ployee Fulfillment
+to Customer Satisfaction Hy-
+pothesis 8 —did not support statistically significant
+path coefficients. Therefore, in the context of the
+four theoretical propositions, only Proposition 1 re-
+ceived full empirical support, whereas the remaining
+three propositions received mixed empirical support.
+Table 7 reports the decomposition of the empiri-
+cal correlation coefficients into direct, indirect, and
+unexplained effects. For example,
+the correlation
+between empirical measures for Visionary Leader-
+p -
+ship and Continuous Improvement is 0.493
+0.001 , but the path model in Fig. 2 hypothesized an
+indirect relationship between Visionary Leadership
+and Continuous Improvement, with this indirect ef-
+
+(cid:14)
+
+.
+
+fect amounting to 0.122. Therefore, Fig. 2, as hy-
+pothesized, explained only 24.7% of the observed
+correlation between Visionary Leadership and Con-
+tinuous
+Improvement. Consequently, Visionary
+Leadership may affect Continuous Improvement ei-
+ther directly i.e., a direct path exists between the
+two or in some other indirect manner via another
+variable that is not currently included in the path
+diagram. The decomposition results for the empirical
+measures of other constructs in Fig. 2 can be inter-
+preted in a similar manner.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+Finally, Table 8 compares the replication results
+for the Italian plants to the results for the U.S. plants
+in Anderson et al. 1995 . As highlighted in Table 8,
+consistent empirical support for four of the eight
+hypothesized paths can be observed between the
+U.S. sample and the Italian sample. For plants in
+both the U.S. and Italian samples, Visionary Leader-
+ship was observed to have a positive and statistically
+significant effect on Internal and External Coopera-
+tion Hypothesis 1 . Likewise, Internal and External
+
+(cid:14)
+
+.
+
+Table 7
+Direct, indirect, and unexplained effects based on the hypothesized path diagram
+
+Internal and external
+cooperation
+
+Process
+
+Learning management
+
+Continuous
+improvement fulfillment satisfaction
+
+Employee Customer
+
+Effects of row
+on column
+
+Visionary Leadership
+
+(cid:14)
+
+.
+
+0.385
+Correlation R
+(cid:14)
+.
+0.385
+Direct D
+y
+(cid:14) .
+Indirect
+I
+Unexplained U y
+
+.
+
+(cid:14)
+Internal and External Cooperation Correlation R
+
+(cid:14)
+
+.
+
+b
+
+c
+
+d
+
+a
+
+0.374
+
+0.199
+0.175
+a
+0.531
+0.581
+y
+
+0.293
+0.293 y
+y
+y
+0.604
+y
+y
+0.604 y0.050
+0.268
+y0.084
+y
+0.351
+
+d
+
+a
+
+0.493
+y
+0.122
+0.371
+a
+0.571
+y
+0.356
+0.215
+a
+0.591
+y
+y0.051
+0.642
+0.613
+0.613
+y
+y
+
+a
+
+b
+
+b
+
+ns
+
+ns
+
+0.453
+y
+0.036
+0.417
+a
+0.521
+y
+0.106
+0.415
+0.482
+y
+
+0.494
+y
+0.004
+0.490
+y0.028
+y
+0.013
+y0.041
+y0.045
+y
+y0.002 y0.015
+y0.043
+0.497
+0.298
+0.023
+y
+0.023
+y
+0.183
+y
+0.115
+0.040
+0.378
+y
+0.292
+y
+y
+0.086
+0.040
+0.207
+0.181
+y
+0.026
+
+ns
+
+ns
+
+b
+
+d
+
+c
+
+ns
+
+(cid:14)
+
+(cid:14)
+
+.
+(cid:14)
+Direct D
+(cid:14) .
+Indirect
+I
+(cid:14)
+Unexplained U
+.
+Correlation R
+.
+(cid:14)
+Direct D
+(cid:14) .
+Indirect
+I
+(cid:14)
+Unexplained U
+.
+Correlation R
+.
+(cid:14)
+Direct D
+(cid:14) .
+Indirect
+I
+(cid:14)
+Unexplained U
+.
+Correlation R
+.
+(cid:14)
+Direct D
+(cid:14) .
+Indirect
+I
+(cid:14)
+Unexplained U
+.
+Correlation R
+(cid:14)
+.
+Direct D
+(cid:14) .
+Indirect
+I
+Unexplained U
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Learning
+
+Process Management
+
+Continuous Improvement
+
+Employee Fulfillment
+
+ns Not significant, a p -0.001, bp -0.01, c p -0.05, d p -0.09.
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+87
+
+Table 8
+Empirical support for the ARS theory of quality management: comparing the U.S. context to the Italian context
+
+Proposition Hypothesis Path
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+3
+
+4
+5
+
+6
+
+7
+
+8
+
+Empirical support by U.S. sample
+(cid:14)
+path coefficient, p
+Supported 0.46, p -0.002
+
+.
+
+.
+
+Empirical support by Italian sample
+(cid:14)
+path coefficient, p
+Supported 0.39, p -0.011
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+.
+
+(cid:14)
+(cid:14)
+
+Supported 0.46, p -0.002
+Supported 0.71, p -0.001
+
+Visionary Leadership“Internal
+and External Cooperation
+Visionary Leadership“Learning
+Internal and External Cooperation
+“Process Management
+Learning“Process Management
+Not Supported y0.17, n.s.
+.
+Process Management“Continuous Supported 0.21, p -0.002
+.
+Improvement
+Process Management“Employee Weakly Supported 0.27, p -0.085 Not Supported 0.02, n.s.
+Fulfillment
+Continuous Improvement
+“Customer Satisfaction
+Employee Fulfillment“Customer
+Satisfaction
+
+.
+Supported 0.35, p -0.026
+
+Not Supported 0.15, n.s.
+
+Not Supported 0.18, n.s.
+
+Supported 0.29, p -0.056
+Supported 0.58, p -0.001
+
+Not Supported y0.08, n.s.
+.
+.
+Supported 0.61, p -0.000
+
+Supported 0.29, p -0.055
+
+.
+.
+
+(cid:14)
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+Cooperation was observed to have a positive and
+statistically significant effect on Process Manage-
+ment Hypothesis 3 , and Process Management was
+observed to have a positive and statistically signifi-
+cant effect on Continuous Improvement Hypothesis
+.5 . Furthermore, for the samples of plants from both
+countries, Learning and Process Management were
+not statistically related, after adjusting for the effect
+of Internal and External Cooperation on Process
+.
+Management Hypothesis 4 .
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+For two of the remaining four hypothesized paths,
+minor differences were detected. For example, Hy-
+pothesis 2, which relates Visionary Leadership to
+Learning, received strong empirical support in the
+Anderson et al. 1995 study—a path coefficient of
+0.46 that was statistically significant at p -0.002.
+But, for the Italian data, the path coefficient from
+Visionary Leadership to Learning was statistically
+significant at p -0.056 only. As for Hypothesis 6,
+the U.S. sample provided weak support for the path
+from Process Management to Employee Fulfillment,
+path coefficients0.27, p -0.085 ; whereas,
+(cid:14)
+this
+relationship was not statistically supported in this
+replication. However, when interpreted in a more
+conservative manner
+it could be
+argued that Hypothesis 6 would have been rejected
+for both samples of U.S. and Italian plants.
+
+e.g., as0.05 ,
+(cid:14)
+.
+
+.
+
+The remaining two hypotheses involving Cus-
+tomer Satisfaction Hypotheses 7 and 8 are, per-
+haps, most intriguing. In the Anderson et al. 1995;
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Customer SatisfactionPVisionary Leadership
+
+p. 650 study, Customer Satisfaction was reported to
+correlate statistically with Visionary Leadership
+s0.57, p -0.001
+(cid:14)
+.
+R
+and Employee Fulfillment RCustomer SatisfactionPEmployee
+Fulfillment s0.39, p -0.05 only. But in this replica-
+tion, Customer Satisfaction was found to correlate
+with all constructs except Employee Fulfillment see
+Table 7 , explaining empirically the statistically
+non-significant path from Employee Fulfillment to
+Customer Satisfaction.
+
+.
+
+(cid:14)
+
+.
+
+5. Discussion of results
+
+(cid:14)
+
+.
+
+To date, the Anderson et al. 1995 study is the
+only empirical examination of the ARS theory of
+quality management. While there have been other
+empirical studies of quality management, these em-
+pirical studies have been based on other quality
+management frameworks e.g., Flynn et al., 1995;
+.
+Hendricks and Singhal, 1996; Powell, 1995 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Considered from the typology of management
+studies involving culture by Adler 1983 , the Ander-
+son et al. 1995 study represents a parochial study,
+since the research was conducted in one culture
+(cid:14)
+U.S. context by researchers in that culture U.S.-
+trained researchers . According to Adler 1983, p.
+.32 , a parochial study typically makes the implicit
+assumption that the underlying theory and resulting
+empirical findings are universal, when, in fact, they
+are most likely:
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+
+88
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+. . . applicable only to one culture,
+the culture in
+which the research was conducted . . . American stud-
+ies conducted in the United States are, at best appli-
+cable to the United States. They may or may not be
+applicable to Africa, Asia, Europe, or Central and
+South America.
+
+.
+
+formative indicators, see Fornell and Bookstein,
+1982 . Likewise, in this replication, we maximized
+Cronbach’s a for the Italian sample, and in our
+empirical analysis, operationalized theoretical con-
+structs as aggregate scores formed by averaging indi-
+vidual measurement items.
+
+.
+
+Therefore, in order to assess whether a theory is
+potentially applicable outside of one culture, Adler
+(cid:14)
+1983 urged that research designs explicitly incor-
+porate and evaluate the impact of culture, one sug-
+gested research design being ethnocentric research.
+Ethnocentric research designs:
+
+w
+
+u n d e r
+
+th e m o re
+x
+
+. . . ask the question: ‘Can this theory, which is appli-
+cable in Culture A be extended to Culture B?’ . . . and
+xare primarily searching for similarity across cultural
+conditions, for validation in extending . . . theoretical
+fra m e w o rk s
+e x tre m e
+w
+conditions . . . with replications being . . . the most
+common approach to ethnocentric research . . . an at-
+tempt is made to keep all aspects of the research
+design and its implementation with the exception of
+language identical across the two cultures. As far as
+possible, the research is conducted in the same way,
+with the same types of people, using the same instru-
+mentation except for language , administered with
+the same instructions, and analyzed using the same
+.
+methods in both cultures . . . Adler, 1983, p. 33 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+From the preceding description, it is clear that the
+conduct of the empirical study reported herein ap-
+proximates ethnocentric research. The detraction
+from an ideal ethnocentric research design arises
+because the data collection instrument employed in
+this replication differed from that used in Anderson
+et al. 1995 . However, differences in instrumenta-
+tion do not necessarily deter cross-cultural compar-
+isons in management research, a case in point being
+the examination of negotiation behavior in multiple
+countries by Graham et al. 1994 . Because Cron-
+bach’s a’s for several constructs were unacceptably
+.
+low for several foreign samples, Graham et al. 1994
+deleted relevant measurement items on a country-
+by-country basis to maximize Cronbach’s a’s and
+employed formative measurement indicators to oper-
+ationalize theoretical constructs for a discussion of
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Furthermore, from a cross-cultural comparative
+perspective, Hofstede 1984 has shown that
+the
+Italian culture differs from the U.S. culture along
+such cultural dimensions as Power Distance higher
+.
+in Italy , Uncertainty Avoidance higher in Italy ,
+Individualism lower
+in Italy , and Masculinity
+(cid:14)
+higher in Italy . Because the U.S. and Italian cul-
+tures are dissimilar, observed similarities between
+the research results in this replication and those in
+the Anderson et al. 1995 study can be conserva-
+tively interpreted to be indicative of possible, rather
+than confirming, universality. More precisely, Adler
+(cid:14)
+1983, p. 34 has provided the following caution:
+
+(cid:14)
+.
+
+.
+
+(cid:14)
+
+.
+
+.
+
+In cross-cultural replication studies, similar findings
+are most frequently interpreted as confirmation that
+x
+the theory being tested is, in fact, universal . . . the
+more appropriate conclusion would be either that the
+particular results are not solely dependent on cultural
+factors in the first culture or that the results appear
+applicable to the second culture. The conclusion,
+from a two-culture study, that the results are univer-
+sal is unwarranted.
+
+w
+
+With this caution in mind, it can be concluded
+that several of the hypothesized relationships in the
+ARS theory of quality management appear to be
+applicable in describing, explaining, and predicting
+‘quality management’-related organizational forms
+(cid:14)
+.
+i.e., in Italy .
+and behavior beyond the U.S. context
+In both the U.S. and the Italian contexts, organiza-
+tional leaders play a critical role in developing and
+communicating a vision that can enable the creation
+of an organizational system—one that is cooperative
+in nature and willing to engage in learning. Coopera-
+tion, in turn, makes it easier to implement practices
+that focus on managing the process as opposed to
+managing the outcomes of the process. These pro-
+cess management practices ultimately support
+the
+continuous improvement of process, product, and
+service quality.
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+89
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Also, in both the U.S. and Italy, Learning did not
+appear to facilitate the implementation of process
+management practices, as conjectured. However, the
+failure to observe a statistically significant relation-
+ship between Learning and Process Management may
+be attributed to the effects of multi-collinearity, since
+Learning and Internal and External Cooperation were
+observed to be positively and statistically correlated.
+In Anderson et al. 1995, p. 650 , the zero-order
+correlation between Learning and Internal and Exter-
+.
+nal Cooperation was found to be 0.76 p -0.001 ;
+whereas, for this replication sample, a correlation of
+p -0.001 was computed. Another possible
+0.604
+explanation, however, may be the inadequate opera-
+tionalization of the Learning construct’s domain.
+Deming 1990 and others e.g., Anderson et al.,
+1992, 1994a have urged organizations to supple-
+ment
+training in domain or task knowledge with
+training and education in ‘profound knowledge’ i.e.,
+systems theory, statistics, psychology, and theory of
+knowledge . In their urgings, these scholars argued
+that
+training and education in the disciplines of
+‘profound knowledge’ are critical to effective contin-
+uous quality improvement efforts. Yet, in both the
+Anderson et al. 1995 study and the current replica-
+tion, the Learning construct could only be opera-
+tionalized as task-related training.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+.
+
+.
+
+(cid:14)
+
+Whereas similar findings in cross-cultural replica-
+tions support the applicability of a particular theory
+across different cultures, inconsistent findings across
+different cultures should arguably lead to the conclu-
+sion that the particular theory does not apply across
+different cultures. Such a conclusion seems appropri-
+ate for the hypothesized relationships involving the
+Employee Fulfillment construct in the ARS theory of
+quality management. However, the same logic about
+not drawing conclusions of universality based on
+similar findings from a two-culture study can be
+made in the case of differences in the comparative
+results of two cultures. Furthermore, as Shenkar and
+von Glinow 1994; p. 68 demonstrated in studying
+the applicability of different theories in China, there
+may be ‘ . . . degrees of applicability . . . ’—these de-
+grees of applicability possibly arising because of one
+or more of the following conditions: a the assump-
+tions underlying the theory do not hold in different
+cultures, b problems in conceptualization or instru-
+(cid:14) .
+mentation, c marginal empirical support, and d
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+.
+
+(cid:14)
+
+missing constructs in the theory being tested. Hence,
+observed differences in the Employee Fulfillment
+results reported here and in the Anderson et al.
+(cid:14)
+1995 study may be attributed to one or more of
+these conditions.
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+In retrospect, we suspect that the conceptualiza-
+tion of Employee Fulfillment, defined as the degree
+to which employees are able to derive pride from the
+workmanship, satisfaction, and commitment from
+.
+what they do see Anderson et al., 1994b; p. 489 ,
+may not be applicable in the Italian culture for two
+reasons. First, as computed in Hofstede 1984, p.
+.189 , the Italian culture has a relatively high Mas-
+culinity score of 70 compared to an mean of 51—a
+reflection of strong Catholic tenets, that fundamen-
+tally view the female gender as being secondary to
+the male gender. The man, being the primary provider
+in a family, is under societal pressure to be a source
+of financial resources, and is motivated more by
+extrinsic benefits such as wages and bonuses than by
+pride of workmanship Bonazzi, 1993 . Second, since
+the end of the Second World War, the Italian indus-
+trial work environment has been influenced strongly
+by Marxism. Marxist ideology has led to a clear
+demarcation between employers and employees and
+unions , resulting in both sides maintaining a tradi-
+tional ‘arm’s length’ approach in dealing with one
+another. On one hand, employees generally do not
+believe that management is concerned for their wel-
+fare and are extremely wary of management initia-
+tives that relate to the work they do. On the other
+hand, employers are more inclined to devise extrin-
+sic, as opposed to intrinsic, modes to motivate and
+satisfy the workforce see Pinaud, 1992; Gunnigle et
+.
+al., 1994; Sirianni, 1995; Hardy and Clegg, 1996 .
+Therefore, the lack of empirical support for hypothe-
+sized relationships involving Employee Fulfillment
+in the Italian data may arise not because these rela-
+tionships are conceptually invalid but, perhaps, be-
+cause the Employee Fulfillment construct itself does
+not have definitional equivalence from the U.S. con-
+text to the Italian context.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+6. Conclusion
+
+Lindsay and Ehrenberg 1993; p. 217 made the
+observation that ‘‘ . . . replication in the social sci-
+ences is rare . . . ’’ It should, therefore, not come as a
+
+(cid:14)
+
+.
+
+
+90
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+surprise to observe that in the quality management
+discipline, there are virtually no replication studies of
+previously published results. Yet,
+the conduct of
+replication studies has long been recognized as being
+crucial to the ongoing process of scientific inquiry
+and to the development and growth of scientific
+knowledge within a given discipline see Lykken,
+.
+1968; Reynolds, 1971 .
+
+(cid:14)
+
+w
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+In this respect, our replication, although not a
+.
+‘pure’ replication of the Anderson et al. 1995
+study, does make a unique contribution to the disci-
+pline of quality management—it represents the first
+explicit attempt
+to determine ‘‘ . . . whether or
+not . . . the empirical results reported in Anderson et
+x
+al. 1995 are . . . potentially generalizable at all’’
+(cid:14)
+Lindsay and Ehrenberg, 1993, p. 217 . We believe
+that more replications are necessary and should be
+encouraged before any conclusive statements, either
+in favor or against, the proposed Deming-based the-
+ory of quality management can and should be made.
+According to Lykken 1968, p. 155 : . . . demonstrat-
+ing an empirical fact ‘‘must
+involve a chain of
+confidence in the replicability of one’s findings . . . ,’’
+such confidence naturally resulting from numerous
+attempts to falsify previously reported findings.
+Hence, we urge that future research efforts not only
+replicate the earlier Anderson et al. 1995 study
+with a different U.S.-based sample, either within the
+same or in different sets of industries, but also
+replicate the current study involving Italian organiza-
+tions. Ideally, simultaneous empirical examinations
+of the ARS theory of quality management across
+multiple cultures should be pursued. To do so, re-
+searchers in quality management need to develop
+critical understanding and appreciation of
+the
+methodological issues involved in conducting cross-
+cultural empirical research. Many of these issues
+have been raised and discussed in the works of
+Mullen 1995 , Singh 1995 , Riordan and Vanden-
+(cid:14)
+berg 1994 , and, more recently, Cavusgil and Das
+(cid:14)
+.
+1997 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+While existing empirical studies on the relation-
+ships conceptualized in the ARS theory of quality
+management have been informative, from a research
+standpoint, we want to encourage the design and
+conduct of confirmatory, as opposed to exploratory,
+
+empirical tests of the ARS theory of quality manage-
+ment. A critical challenge, however, lies ahead for
+those interested in conducting such confirmatory em-
+pirical studies—one that pertains to the construction
+of reliable and valid methods for measuring the
+seven constructs in the ARS theory of quality man-
+agement. The importance of satisfying this challenge
+cannot be over-emphasized; for without reliable and
+valid measures that enable data collection from pri-
+mary sources, the substantive validity of the relation-
+ships in the ARS theory of quality management
+cannot be definitively established see Bagozzi et al.,
+.
+1991 .
+
+(cid:14)
+
+From a managerial perspective, the results from
+this replication should further raise awareness of the
+potential cultural bounds of the quality management
+phenomenon as multinational corporations make
+conscious decisions to transfer the organizational
+forms and behaviors underlying quality management
+to other countries. This awareness should help orga-
+nizations to better manage the diffusion of quality
+management from the home country environment to
+foreign country environments, and specifically to
+identify cultural barriers that may inhibit the adop-
+tion of quality management principles, concepts, and
+practices.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+Our research results, particularly with respect to
+Employee Fulfillment, suggest that in instances where
+the values underlying quality management conflict
+with the values of the culture in which quality
+.
+management is to be diffused i.e., the target culture ,
+this diffusion might be hindered see also, Amund-
+son et al., 1997 . In such instances, for quality
+management practices to be successfully transferred,
+the conflict between values underlying quality man-
+agement practices and those of the target culture
+should be reconciled. Pragmatically, this reconcilia-
+tion can be undertaken by adapting quality manage-
+ment practices to the target culture or by selectively
+implementing those quality management practices
+that would be more amenable to the target culture.
+Conversely, companies, through selective employee
+hiring or retention and organizational development
+initiatives, might be able to instill or adapt their own
+organizational cultures to be more supportive of
+quality management.
+
+
+Appendix A. Measurement items for theoretical constructs in the ARS theory of quality management
+
+Construct
+Visionary Leadership
+
+Internal and External Cooperation
+
+ﬂ Measurement Items
+ﬂ All major department heads within our plant accept their responsibility for quality
+ﬂ Plant management provides personal leadership for quality products and quality improvement
+ﬂ Our top management strongly encourages employee involvement in the production process
+ﬂ In our plant, goals, objectives, and strategies are communicated to me
+ﬂ Short-term losses affect our decision making, but are less important than pursuing long-term
+.
+goals Reverse-scored
+ﬂ Management outside of the plant is primarily concerned with short-range financial performance
+.
+(cid:14)
+Reverse-scored
+.
+ﬂ Financial goals are the most important at our plant Reverse-scored
+.
+ﬂ Strategies and goals are communicated primarily to managers Reverse-scored
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+ﬂ Generally speaking, everyone in the plant works well together
+ﬂ Departments in the plant communicate frequently with each other
+.
+ﬂ Departments within the plant seem to be in constant conflict Reverse-scored
+ﬂ Management works together well on all important decisions
+ﬂ During problem-solving sessions, we make an effort to get all team members’ opinions and ideas
+before making a decision
+ﬂ Our plant is organized into permanent production teams
+.
+ﬂ Problems are usually solved by supervisors Reverse-scored
+ﬂ In the past three years, many problems have been solved through small group sessions
+ﬂ Data about the quality of parts and components under purchasing considerations are at our disposal
+ﬂ Our suppliers have to send us information documents certifying the results of specified tests and
+inspections
+ﬂ We require evidence of statistical process control from suppliers of critical parts
+ﬂ We can easily use data from tests of quality conducted by a supplier or by an independent laboratory
+
+(cid:14)
+
+(cid:14)
+
+.
+
+Current
+U
+U
+U
+Dropped
+U
+
+U
+
+Dropped
+Dropped
+
+Dropped
+U
+Dropped
+U
+U
+
+Dropped
+Dropped
+Dropped
+U
+U
+
+U
+U
+
+ARSD
+U
+U
+U
+U
+U
+
+U
+
+U
+U
+
+U
+U
+U
+U
+U
+
+U
+U
+U
+NrA-1
+NrA-1
+
+NrA-1
+NrA-1
+
+M
+
+.
+
+R
+u
+n
+g
+t
+u
+s
+a
+n
+a
+t
+h
+a
+m
+e
+t
+
+a
+l
+.
+
+r
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+1
+7
+
+(
+1
+9
+9
+8
+)
+
+7
+7
+–
+9
+5
+
+9
+1
+
+
+9
+2
+
+M
+
+.
+
+R
+u
+n
+g
+t
+u
+s
+a
+n
+a
+t
+h
+a
+m
+e
+t
+
+a
+l
+.
+
+r
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+1
+7
+
+(
+1
+9
+9
+8
+)
+
+7
+7
+–
+9
+5
+
+U
+NrA-2
+NrA-2
+U
+U
+U
+U
+U
+
+U
+Dropped
+NrA-2
+U
+U
+
+U
+U
+U
+U
+
+U
+U
+
+U
+Dropped
+Dropped
+U
+
+U
+U
+U
+NrA-1
+NrA-1
+NrA-1
+NrA-1
+NrA-1
+
+U
+U
+U
+U
+U
+
+NrA-1
+NrA-1
+NrA-1
+NrA-1
+
+U
+U
+
+U
+U
+U
+U
+
+)
+Appendix A. continued
+
+(
+
+Learning
+
+Process Management
+
+Continuous Improvement
+
+Employee Fulfillment
+
+ﬂ Employees receive training to perform multiple tasks
+ﬂ Plant employees are rewarded for learning new skills
+ﬂ Direct labor technical competence is high in this plant
+ﬂ The longer an employee has been at this plant, the more tasks or jobs he she learns to perform
+ﬂ Plant employees receive training and development in work-place skills on a regular basis
+ﬂ Employees are cross-trained at this plant so that they can fill in for others if necessary
+ﬂ Employees at this plant learn how to perform a variety of tasksrjobs
+ﬂ At this plant, employees only learn how to do one jobrtask Reverse-scored
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+ﬂ Charts showing defect rates are posted on the shop floor
+ﬂ Charts plotting frequency of machine breakdowns are posted on the shop floor
+ﬂ We have standardized process instructions which are given to personnel
+ﬂ We make extensive use of statistical techniques to reduce variance in processes
+ﬂ A large percent of the equipment or process on the shop floor are currently under statistical quality
+control
+ﬂ We use statistical methods to recognize the source of problems
+ﬂ We use charts to determine whether our manufacturing processes are in control
+ﬂ Process data gathered from manufacturing inspections are stored for subsequent analysis
+ﬂ Information on quality performance is readily available to employees
+
+ﬂ All employees believe that it is their responsibility to improve quality in the plant
+ﬂ Continuous improvement of quality is stressed in all work processes throughout our plant
+
+ﬂ I would feel unhappy if I could not take pride in my work
+ﬂ Doing a good job should mean as much to a worker as a good paycheck
+ﬂ If I do a sloppy job at work, I feel a little ashamed of myself
+ﬂ I like to feel a sense of pride in my work
+
+
+Customer Satisfaction
+
+ﬂ How does your plant compare to its competitors in your industry in terms of customer relations?
+1. Superior or better than average
+2. Better than average
+3. Average or equal to the competition
+4. Below average
+5. Poor or low end of the industry
+ﬂ How does your plant compare to its competitors in your industry in terms of quality of
+product conformance?
+1. Superior or better than average
+2. Better than average
+3. Average or equal to the competition
+4. Below average
+5. Poor or low end of the industry
+ﬂ In general, our plant’s level of quality performance over the past three years has been low,
+.
+relative to industry norms Reverse-scored
+ﬂ Our customers have been well satisfied with the quality of our products over the past 3 years
+
+(cid:14)
+
+U
+
+U
+
+U
+
+U
+
+U
+
+U
+
+U
+
+U
+
+ARSDs Anderson, Rungtusanatham, Schroeder, and Devaraj 1995 .
+.
+CurrentsCurrent replication study.
+DroppedsItem deleted to improve the measurement scale’s Cronbach’s a or dimensionality.
+NrA-1sNot available in Round 1.
+NrA-2sNot available in Round 2.
+Us An ‘U’ indicates the inclusion of a particular measurement item. Therefore, an ‘U’ in the Current column but not in the ARSD column means that the corresponding
+
+(cid:14)
+
+measurement item was used in this replication study but not in the Anderson et al. 1995 study.
+
+(cid:14)
+
+.
+
+M
+
+.
+
+R
+u
+n
+g
+t
+u
+s
+a
+n
+a
+t
+h
+a
+m
+e
+t
+
+a
+l
+.
+
+r
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+1
+7
+
+(
+1
+9
+9
+8
+)
+
+7
+7
+–
+9
+5
+
+9
+3
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+94
+
+References
+
+Adler, N.J., 1983. A typology of management studies involving
+
+culture. J. Int. Bus. Stud. 14 2 , 29–47.
+
+(cid:14) .
+
+(cid:14)
+
+Alwin, D.F., Hauser, R.M., 1981. The decomposition of effects in
+path analysis, In: Marsden, P. Ed. , Linear Models in Social
+Research, Sage Publications, Beverly Hills, CA, pp. 123–140.
+Amundson, S.D.M., Flynn, B.B., Rungtusanatham, M., Schroeder,
+R.G., 1997. The relationship between quality management
+values and national and organizational culture, Working paper,
+Arizona State University, Tempe, AZ.
+
+.
+
+Anderson, J.C., Dooley, K.J., Misterek, S.A., 1992. The role of
+profound knowledge in the continuous improvement of qual-
+ity. Hum. Syst. Manage. 10 4 , 243–259.
+
+(cid:14) .
+
+Anderson, J.C., Dooley, K.J., Rungtusanatham, M., 1994a. Train-
+ing for effective continuous quality improvement. Qual. Prog.
+27 12 , 57–61.
+
+(cid:14)
+
+.
+
+Anderson, J.C., Rungtusanatham, M., Schroeder, R.G., 1994b. A
+theory of quality management underlying the Deming manage-
+ment method. Acad. Manage. Rev. 19 3 , 472–509.
+
+(cid:14) .
+
+Anderson, J.C., Rungtusanatham, M., Schroeder, R.G., Devaraj,
+S., 1995. A path analytic model of a theory of quality manage-
+ment underlying the Deming management method. Decision
+Sci. 26 5 , 637–658.
+
+(cid:14) .
+
+Bagozzi, R.P., Yi, Y., Philips, L.W., 1991. Assessing construct
+(cid:14) .
+validity in organizational research. Adm. Sci. Q. 36 4 ,
+421–458.
+
+Birch, N., Pooley, J., 1995. Changes in Russian quality manage-
+(cid:14) .
+ment practices from 1989 to 1992. Manage. Int. Rev. 35 3 ,
+219–239.
+
+Bonazzi, G., 1993. Il tubo di cristallo. Modello giapponese e
+
+fabbrica integrata alia Fiat auto, Il Mulino, Bologna.
+
+Cavusgil, S.T., Das, A., 1997. Methodological issues in empirical
+cross-cultural research: a survey of management literature and
+a framework. Manage. Int. Rev. 37 1 , 71–96.
+
+(cid:14) .
+
+Choi, T.Y., Liker, J.K., 1995. Bringing Japanese continuous im-
+provement approaches to U.S. manufacturing: the roles of
+(cid:14) .
+process orientation and communications. Decision Sci. 26 5 ,
+589–620.
+
+Churchill, G.A. Jr., 1979. A paradigm for developing better
+(cid:14) .
+measures of marketing constructs. J. Marketing Res. 16 1 ,
+39–53.
+
+Cronbach, L.J., 1951. Coefficient alpha and the internal structure
+
+of tests. Psychometrika 16 2 , 297–334.
+
+(cid:14) .
+
+Deming, W.E., 1986. Out of the Crisis, MIT Center for Advanced
+
+Engineering Study, Cambridge, MA.
+
+Deming, W.E., 1990. A system of profound knowledge, Action-
+
+line, August, pp. 20–24.
+
+Deming, W.E., 1993. The New Economics for Industry, Govern-
+ment, Education, MIT Center for Advanced Engineering Study,
+Cambridge, MA.
+
+Flynn, B.B., Schroeder, R.G., Sakakibara, S., 1995. The impact of
+quality management practices on performance and competitive
+advantage. Decision Sci. 26 5 , 659–692.
+
+(cid:14) .
+
+Flynn, B.B., Schroeder, R.G., Flynn, E.J., Sakakibara, S., Bates,
+K.A., 1997. World-class manufacturing project: overview and
+selected results. Int. J. Oper. Prod. Manage. 17 7 , 671–685.
+
+(cid:14) .
+
+Fornell, C., Bookstein, F.L., 1982. Two structural equation mod-
+els: LISREL and PLS applied to consumer exit-voice theory.
+J. Marketing Res. 16 4 , 440–452.
+
+(cid:14) .
+
+Garvin, D.A., 1986. Quality problems, policies, and attitudes in
+the United States and Japan: an exploratory study. Acad.
+Manage. J. 29 4 , 653–673.
+
+(cid:14) .
+
+General Accounting Office, 1991. U.S. Companies Improve Per-
+formance through Quality Efforts NSIAD-91-190 , United
+States General Accounting Office, Washington, DC, pp. 205–
+248.
+
+(cid:14)
+
+.
+
+Goonatilake, L., 1988. Evaluation of quality management con-
+straints in developing economies, Ind. Manage. Data Syst.,
+JulyrAugust, pp. 6–10.
+
+Graham, J.L., Mintu, A.T., Rodgers, W., 1994. Explorations of
+negotiation behaviors in ten foreign cultures using a model
+developed in the United States. Manage. Sci. 40 1 , 72–95.
+
+(cid:14) .
+
+Gunnigle, P., Brewster, C., Morley, M., 1994. European industrial
+relations: change and continuity, In: Brewster, C., Hegewish,
+A. Eds. , Policy and Practice in European Human Resource
+Management: The Price Waterhouse Cranfield Survey. Rout-
+ledge, London, Great Britain, pp. 139–167.
+
+(cid:14)
+
+.
+
+Hardy, C., Clegg, S.R., 1996. Some dare it power. In: Clegg, S.R.,
+Hardy, C., Nord, W.R. Eds. , Handbook of Organization
+Studies. Sage Publications, London, Great Britain, pp. 622–
+641.
+
+(cid:14)
+
+.
+
+Hayes, R.H., Wheelwright, S.C., 1985. Restoring Our Competitive
+Edge: Competing Through Manufacturing, Wiley, New York,
+NY.
+
+Hendricks, K.B., Singhal, V.R., 1996. Quality awards and the
+
+market value of the firm. Manage. Sci. 42 3 , 415–436.
+
+(cid:14) .
+
+Hodgson, A., 1987. Demings never-ending road to quality, Per-
+
+sonnel Manage., July, pp. 40–41.
+
+Hofstede, G.H., 1984. Cultures Consequences: International Dif-
+ferences in Work-Related Values, Abridged edn. Sage Publica-
+tions, Newbury Park, CA.
+
+Land, K.C., 1969. Principles of path analysis, In: Borgatta, E.F.,
+Bohrnstedt, G.W. Eds. , Sociological Methodology. Jossey-
+Bass, San Francisco, CA, pp. 19–49.
+
+(cid:14)
+
+.
+
+Lee, S.M., Luthans, F., Hodgetts, R.M., 1992. Total quality
+implications for Central and Eastern Europe.
+
+management:
+Org. Dynamics 20 4 , 42–55.
+
+(cid:14) .
+
+Lewis-Beck, M.S., 1974. Determining the importance of an inde-
+(cid:14) .
+pendent variable: a path analytic solution. Soc. Sci. Res. 3 2 ,
+95–107.
+
+Li, C.C., 1975. Path Analysis—A Primer. The Boxwood Press,
+
+Pacific Grove, CA.
+
+Lindsay, R.M., Ehrenberg, A.S.C., 1993. The design of replicated
+
+studies. Am. Stat. 47 3 , 217–228.
+
+(cid:14) .
+
+Lykken, D.T., 1968. Statistical significance in psychological re-
+
+search. Psychol. Bull. 70 3 , 151–159.
+
+McPherson, J.M., Huang, C.J., 1974. Hypothesis testing in path
+
+models. Soc. Sci. Res. 3 2 , 127–139.
+
+Mersha, T., 1997. TQM implementation in LDCs: driving and
+restraining forces. Int. J. Oper. Prod. Manage. 17 2 , 164–183.
+Mitki, Y., Shani, A.B., 1995. Cultural challenges in TQM imple-
+mentation: some learning from the Israeli experience. Can. J.
+Adm. Sci. 12 2 , 161–170.
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+
+M. Rungtusanatham et al.rJournal of Operations Management 17 1998 77–95
+
+(
+
+)
+
+95
+
+Mullen, M.R., 1995. Diagnosing measurement equivalence in
+
+Singh, J., 1995. Measurement issues in cross-national research. J.
+
+cross-cultural research. J. Int. Bus. Stud. 26 3 , 573–596.
+
+(cid:14) .
+
+Newman, K.L., Nollen, S.D., 1996. Culture and congruence: the
+fit between management practices and national culture. J. Int.
+Bus. Stud. 27 4 , 753–779.
+
+(cid:14) .
+
+Pinaud, H., 1992. A French trade unionists view of the changes
+affecting management in Europe. Int. Manage. Organization
+22 1 , 30–40.
+
+(cid:14) .
+
+Powell, T.C., 1995. Total quality management as competitive
+advantage: a review and empirical study. Strategic Manage. J.
+16 1 , 15–37.
+
+(cid:14) .
+
+Int. Bus. Stud. 26 3 , 597–619.
+
+(cid:14) .
+
+(cid:14)
+
+.
+
+Sirianni, C.A., 1995. Italy. In: Brunstein, I. Ed. , Human Re-
+source Management in Western Europe, Walter De Gruyter,
+Berlin, Germany, pp. 157–183.
+
+Sohal, A.S., Tay, G.-S., Wirth, A., 1989. Total quality control in
+an Asian division of a multinational corporation. Int. J. Qual.
+Reliability Manage. 6 6 , 60–74.
+
+(cid:14) .
+
+Uzumeri, M.V., 1997. ISO 9000 and other metastandards: princi-
+ples for management practice? Acad. Manage. Executive 11
+(cid:14) .1 , 21–36.
+
+Reynolds, P.D., 1971. A Primer in Theory Construction. Bobbs–
+
+Walton, M., 1986. The Deming Management Method. Putnam
+
+Merrill, Indianapolis, IN.
+
+Publishing Group, New York, NY.
+
+Riordan, C.M., Vandenberg, R.J., 1994. A central question in
+cross-cultural research: do employees of different cultures
+interpret work-related measures in an equivalent manner? J.
+Manage. 20 3 , 643–671.
+
+(cid:14) .
+
+Schonberger, R.J., 1986. World Class Manufacturing: The Lessons
+
+of Simplicity Applied. The Free Press, New York, NY.
+
+Shenkar, O., von Glinow, M.A., 1994. Paradoxes of organiza-
+tional theory and research: using the case of China to illustrate
+national contingency. Manage. Sci. 40 1 , 56–71.
+
+(cid:14) .
+
+Wright, S., 1960. Path coefficients and path regressions: alterna-
+tive or complementary concepts?. Biometrics 16 2 , 189–202.
+Yavas, B.F., 1995. A comparison on the quality perceptions of
+U.S. and Asian firms in the electronics industry. Manage. Int.
+Rev. 35 2 , 171–188.
+
+(cid:14) .
+
+(cid:14) .
+
+Yoshida, K., 1989. Deming management philosophy: does it work
+in the United States as well as in Japan?. Columbia J. World
+Bus. 24 3 , 10–17.
+
+(cid:14) .
+

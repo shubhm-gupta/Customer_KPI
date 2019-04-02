@@ -1,0 +1,2493 @@
+Leader and Follower Psychological Capital Effects  1
+
+Running Head:  Leader and Follower Psychological Capital Effects 
+
+ 
+
+ 
+ 
+
+AN INVESTIGATION OF THE RELATIONSHIPS BETWEEN LEADER AND 
+
+FOLLOWER PSYCHOLOGICAL CAPITAL, SERVICE CLIMATE AND JOB 
+
+PERFORMANCE  
+
+ 
+
+ 
+
+FRED O. WALUMBWA* 
+SUZANNE J. PETERSON  
+Arizona State University 
+
+BRUCE J. AVOLIO   
+
+University of Washington  
+
+CHAD A. HARTNELL 
+Arizona State University 
+
+ 
+ 
+
+ 
+
+*Address Correspondence to:  
+ 
+Fred O. Walumbwa 
+Department of Management 
+W.P. Carey School of Business 
+Arizona State University 
+Tempe, AZ 85287-4006 
+Phone: 602-543-6240 
+Email:  Fred.Walumbwa@asu.edu 
+
+ 
+
+Personnel Psychology (in press) 
+
+ 
+
+Author Acknowledgements: 
+We thank the Action Editor, Frederick Morgeson and three anonymous reviewers for their 
+insightful comments and suggestions regarding this manuscript. All remaining errors are ours. 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  2
+
+Abstract 
+
+Using a sample of 79 police leaders and their direct reports (264 police followers), this study 
+
+investigated the relationships of leader and follower psychological capital, service climate, and 
+
+job performance. Hierarchical linear modeling (HLM) results revealed that leader psychological 
+
+capital was positively related to follower performance, with this relationship mediated by 
+
+follower psychological capital.  We also found that the follower psychological capital-
+
+performance relationship was moderated by service climate such that the relationship was 
+
+stronger when service climate was perceived to be high versus low. Finally, exploratory HLM 
+
+analyses indicated that leader and follower psychological capital interacted to positively predict 
+
+rated performance. We discuss implications of these findings, limitations, and directions for 
+
+future research. 
+
+ 
+
+ 
+
+ 
+
+Key words. Psychological capital, positive leadership, climate, job performance, police 
+
+organizations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  3
+
+Research on positive forms of leadership has received increasing attention in the past 
+
+decade (Avolio & Luthans, 2006; Ehrhart, 2004; Gardner, Avolio, Luthans, May, & Walumbwa, 
+
+2005; Hess & Cameron, 2005; Ilies, Morgeson, & Nahrgang, 2005; Yammarino, Dionne, 
+
+Schriesheim, & Dansereau, 2008).  A rise in interest in these positive forms of leadership is due 
+
+in part to mounting evidence supporting the central role of positivity in enhancing human well-
+
+being and performance at work (Avolio, Gardner, Walumbwa, Luthans, & May, 2004; Avolio & 
+
+Walumbwa, 2006; Cameron, Dutton, & Quinn, 2003; Fredrickson, 2009; Luthans, Avolio, Avey, 
+
+& Norman, 2007; Peterson & Seligman, 2004). For example, initial research (e.g., Liden, 
+
+Wayne, Zhao, & Henderson, 2008; Peterson, Walumbwa, Byron, & Myrowitz, 2009; 
+
+Walumbwa, Hartnell, & Oke, in press; Walumbwa, Luthans, Avey, & Oke, 2009) suggests that 
+
+leaders who possess a variety of positive states or traits, goals, values, and character strengths are 
+
+able to positively influence followers’ states, behavior, and performance.  
+
+With the increasing attention being focused on positivity in the workplace and its 
+
+documented effects, it is important to understand what predicts employee positivity and how 
+
+employee positivity relates to performance. This knowledge will not only contribute to theory 
+
+building in the areas associated with positive leadership, but will also help organizations to build 
+
+effective policies and practices for enhancing employee positivity. Avolio and Luthans (2006) 
+
+among other authors specifically suggested that to better understand the dynamics of the 
+
+leadership process, research must examine how the leader’s influence is mediated through the 
+
+followers they work with over time. Further, because research has yet to systematically examine 
+
+the context in which employee positivity relates to their performance, we still know relatively 
+
+little about when employee positivity is more or less likely to enhance performance. 
+
+Accordingly the first objective of the present study was to extend previous research by 
+
+
+Leader and Follower Psychological Capital Effects  4
+
+examining the process through which a leader’s level of positive psychological capital (Luthans 
+
+& Avolio, 2003) predicts their followers’ job performance. Psychological capital is defined as 
+
+“one’s positive appraisal of circumstances and probability for success based on motivated effort 
+
+and perseverance” (Luthans et al., 2007, p. 550). Researchers (e.g., Avolio et al., 2004; Avolio & 
+
+Luthans, 2006) have suggested that one key mechanism through which leaders’ psychological 
+
+capital may influence their followers’ job performance is through followers’ psychological 
+
+capital. Because leaders are frequently described by followers as role models, when followers 
+
+perceive their leaders as behaving positively, we expect those followers to behave in a similarly 
+
+positive fashion in an attempt to emulate their leaders (Avolio & Walumbwa, 2006; Ibarra, 1999; 
+
+Peterson & Seligman, 2004; Yammarinno et al., 2008). By testing whether leader psychological 
+
+capital influences follower psychological capital, we elucidate the process through which leader 
+
+positivity impacts follower performance.  In addition, we also aim to provide practical advice 
+
+regarding the importance of leaders modeling positivity for followers.  
+
+We know from prior research that positive psychological capital fosters positive work 
+
+outcomes and also reduces counterproductive work behaviors (Avey, Luthans, & Youssef, 2009; 
+
+Luthans et al., 2007; Walumbwa et al., 2009). To date, however, research has yet to examine 
+
+potential boundary conditions that serve to either promote or impede the positive effects of 
+
+employee psychological capital on performance. As Hackman (2009) observes in his critique of 
+
+prior psychological capital research, “I look forward to further empirical work on the conditions 
+
+that most powerfully foster and sustain positive states at work” (p. 321). Climate, such as service 
+
+climate (Schneider, Salvaggio, & Subirats, 2002), may constitute a potent moderator of the 
+
+relationship between employees’ psychological capital and their performance because service 
+
+climate signals to employees what the group values (i.e., customer service) (Liao & Chuang, 
+
+
+Leader and Follower Psychological Capital Effects  5
+
+2007; Schneider, Ehrhart, Mayer, Saltz, & Niles-Jolly, 2005). In the present study, we begin to 
+
+address Hackman’s challenge to research on psychological capital by focusing on the moderating 
+
+effect of service climate, which we define as employees’ collective perceptions of the policies, 
+
+practices, and procedures that are rewarded, supported, and expected concerning customer 
+
+service (Schneider et al., 2002).  Thus, our second objective was to examine the cross-level 
+
+moderating effect of service climate by targeting the relationship between employees’ 
+
+psychological capital and their performance. By focusing on service climate as a cross-level 
+
+moderator, we add to the emerging theoretical and empirical research on psychological capital by 
+
+highlighting the importance of incorporating situational or contextual factors and, in doing so, 
+
+help broaden psychological capital theory and practical utility in terms of enhancing service 
+
+performance.  
+
+Our third and final objective was to begin to examine how leader and follower 
+
+psychological capital interact to predict performance. In particular, an exploratory aspect of our 
+
+study focused on examining whether leader positivity provided a more or less optimal context for 
+
+the effects of follower positivity on their performance. Although prior leadership research has 
+
+been frequently criticized for not taking a more integrative view of theory building and research 
+
+(Avolio, 2007), including an interactive perspective, scant research has examined whether 
+
+leadership is a more or less optimal context for the effect of followers’ positivity on their 
+
+performance. Our exploratory analysis aims to address this gap in the literature. If the degree to 
+
+which follower positivity is associated with performance varies as a function of leader positivity, 
+
+then organizations should consider psychological capital development at multiple levels, taking 
+
+into account both followers and their immediate supervisors. 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  6
+
+Theory and Hypothesis Development 
+
+Psychological Capital 
+
+Psychological capital represents an individual’s positive psychological state of 
+
+development that is characterized by four psychological resources: efficacy (confidence to take 
+
+on and put in the necessary effort to succeed at challenging tasks), hope (one’s ability to 
+
+persevere toward a goal), optimism (a positive expectation about succeeding now and in the 
+
+future), and resilience (being able to sustain and bounce back to attain success when beset by 
+
+problems and adversity) (Luthans et al., 2007).  A key distinguishing factor between 
+
+psychological capital and other positive core constructs that already exist in the organizational 
+
+literature is that psychological capital is conceptualized to be state-like and open to development, 
+
+differentiating it from the more fixed, trait-like constructs such as core self-evaluations. In 
+
+support, Luthans and his colleagues (e.g., Avey et al., 2009; Luthans et al., 2007) have provided 
+
+initial evidence suggesting that psychological capital is distinct from core self-evaluations, 
+
+positive affectivity, and the “Big Five” personality traits. Evidence regarding the discriminant 
+
+validity of psychological capital with respect to core self-evaluations and the “Big Five” 
+
+personality traits is particularly important because each has been associated with a variety of 
+
+positive employee behaviors including performance (e.g., Bono & Colbert, 2005; Kacmar, 
+
+Collins, Harris, & Judge, 2009; Judge, Bono, Ilies, & Werner, 2002). 
+
+Although the four psychological capital dimensions have each received considerable 
+
+research attention in the psychological literature, recent theory and empirical research suggests 
+
+that combining these four resources into a core construct results in a common synergistic 
+
+capacity or resource. For example, Stajkovic (2006) argued, “that the four constructs share a 
+
+common confidence core that exists at a higher level of abstraction” (p. 1212). In line with this 
+
+
+Leader and Follower Psychological Capital Effects  7
+
+argument, Luthans, Avolio, Walumbwa, and Li (2005) pointed out that although being optimistic 
+
+may certainly help with one’s motivation and performance, it is not as powerful as combining 
+
+optimism with hope, resilience and/or efficacy. Thus, consistent with recent theoretical and 
+
+empirical evidence (Luthans et al., 2007), we examine psychological capital as a higher order 
+
+construct comprised of the four positive resources of hope, optimism, efficacy, and resilience. 
+
+From Leader Psychological Capital to Follower Psychological Capital 
+
+Recently, researchers have suggested that psychological capital may play an important 
+
+role in explaining the leader-follower relationship and how followers subsequently behave (e.g., 
+
+Avolio & Luthans, 2006; Luthans & Avolio, 2003; Walumbwa et al., 2009). Not only should 
+
+leaders who score higher in psychological capital display more positive attitudes and higher 
+
+performance themselves, but such leaders should also serve as role models for followers by 
+
+displaying higher levels of positivity about their work. According to Bandura’s (1977) social 
+
+learning cognitive theory, individuals learn by attending to and observing the behavior of 
+
+credible role models.  In organizations, supervisors often have higher status and power than their 
+
+followers, and thus, are influential sources of information to employees regarding what behavior 
+
+is important and appropriate to potentially model.  Therefore, to the extent that followers respect 
+
+their supervisors’ status and performance within the organization, they will be more likely to 
+
+emulate their leader’s behavior to attain similarly positive behavioral outcomes (Bandura, 1977).   
+
+With respect to psychological capital, leaders who are more hopeful tend to set more 
+
+alternative goals, are highly motivated to achieve those goals, and find ways around obstacles to 
+
+goal achievement (Peterson et al., 2009).  Similarly, leaders who are efficacious, optimistic, and 
+
+resilient put forth the effort and persistence needed to succeed, tend to have positive expectations 
+
+about their environment, and bounce back from adversity or failure.  As followers observe the 
+
+
+Leader and Follower Psychological Capital Effects  8
+
+combined positive impact of these four resources in action, they are more likely to emulate the 
+
+behaviors associated with their leader’s psychological capital. Specifically, we would expect 
+
+followers to mimic their supervisors’ behavior such that the positive supervisor states are 
+
+transferred to their followers (Yammarino et al., 2008).  This transfer may occur through the 
+
+process of emotional contagion whereby positivity displayed by leaders may ‘rub off’ on 
+
+followers (e.g., O'Neill, Harrison, Cleveland, Almeida, Stawski, & Crouter, 2009; Sy, Côté, & 
+
+Saavedra, 2005). Supporting the link between leader and follower emotion, Bono and Ilies 
+
+(2006) found that leaders’ positive emotional expressions were positively associated with 
+
+follower moods, concluding that the leader’s behavior is a salient source of information that can 
+
+influence followers’ perceived psychological resources. 
+
+Therefore, in this study, we suggest that leaders exhibiting higher levels of psychological 
+
+capital act as attractive and credible role models for followers to imitate these positive 
+
+states/behaviors (Bandura, 1977). Specifically, leaders who report having higher levels of 
+
+efficacy, hope, optimism, and resilience would be expected to ‘transfer’ those levels to followers, 
+
+by serving as exemplary guides to their followers’ behavior (Ibarra, 1999). We examine this 
+
+possibility in this study and propose the following hypothesis:  
+
+Hypothesis 1: Leader psychological capital positively relates to follower psychological 
+
+capital. 
+
+Follower Psychological Capital and Job Performance 
+
+Research has generally supported a positive relationship between psychological capital 
+
+and performance (Avey et al., 2009; Luthans et al., 2007; Walumbwa et al., 2009).  The positive 
+
+relationship between psychological capital and performance is explained by suggesting that 
+
+when the four facets of efficacy, hope, optimism, and resilience combine to form an individual’s 
+
+
+Leader and Follower Psychological Capital Effects  9
+
+level of psychological capital, they trigger a synergistic agentic capacity considered to be critical 
+
+to goal accomplishment, motivation, success and resulting performance (Stajkovic, 2006). 
+
+Support for this combined agentic capacity can be found in psychological resource theories (see 
+
+Hobfoll, 2002). Hobfoll posits that psychological resources have support synergies that operate 
+
+between and within the various components, creating higher-order ‘resource caravans’ or in this 
+
+case, psychological capital. Similarly, Fredrickson (2001) in her broaden-and-build theory of 
+
+individual potential suggests that higher levels of positivity will contribute to maintaining higher 
+
+levels of individual motivation and performance. Fredrickson makes this assertion based on the 
+
+assumption that higher levels of positivity can ‘build’ an individual’s  intellectual, physical, 
+
+social, and psychological resources to help them cope with and address varying challenges in 
+
+work situations, thereby enhancing their performance. 
+
+Thus, based on theory and past research, individuals who score higher in psychological 
+
+capital can be expected to put forth extra effort and perseverance based on greater confidence 
+
+(efficacy), more willpower and energy to generate multiple solutions to problems or goal 
+
+blockages (hope), will be more likely to voice positive expectations about results (optimism), 
+
+and will respond more positively to adversity and setbacks (resilience). In other words, higher 
+
+levels of psychological capital should facilitate a stronger motivational force aimed at the 
+
+successful accomplishment of goals and tasks, which should lead to desired performance 
+
+outcomes. Thus, we expect psychological capital comprising efficacy, hope, optimism, and 
+
+resilience to improve follower performance by enhancing an individual’s overall motivation and 
+
+perseverance. We propose the following hypothesis:  
+
+Hypothesis 2: Follower psychological capital positively relates to their job performance. 
+
+Extending previous research on psychological capital and following the logic of 
+
+
+Leader and Follower Psychological Capital Effects  10
+
+Hypotheses 1 and 2 above, we examined leader psychological capital as a more distal predictor 
+
+of followers’ job performance. We believe that leader psychological capital is likely to play a 
+
+role in followers’ performance by enhancing their psychological capital reservoir (Walumbwa et 
+
+al., 2009; Yammarino et al., 2008). By affecting follower psychological capital, leader 
+
+psychological capital behavior becomes an indirect antecedent of followers’ job performance. 
+
+Supporting this argument, Carmeli, Ben-Hador, Waldman, and Rupp (2009) examined how 
+
+leader relational behavior cultivates social capital, reporting that employees’ social capital played 
+
+a significant role on how relational leadership subsequently predicted employee job performance. 
+
+Similarly, Walumbwa et al. (2009) found that employee psychological capital served as a 
+
+potential mediator in the relationship between leaders described as authentic and performance. 
+
+Based on these findings, we expect employees’ psychological capital to serve as a mediator of 
+
+the relationship between leader psychological capital and employee job performance. We 
+
+therefore propose the following hypothesis: 
+
+Hypothesis 3: Follower psychological capital mediates the positive relationship between 
+
+leader psychological capital and follower job performance. 
+
+Follower Psychological Capital, Service Climate, and Performance 
+
+Although narrow measures of climate show a direct effect with specific performance 
+
+outcomes (Carr, Schmidt, Ford, & DeShon, 2003), we argue that service climate has broader and 
+
+direct utility within service organizations because customer service is an implicit facet of an 
+
+individual’s performance. In the most general sense, most sales employees’ performance is 
+
+typically evaluated based on customers’ satisfaction with their service. For example, a common 
+
+performance evaluation measure for healthcare professionals is the patient experience or level of 
+
+satisfaction. Similarly, hospitality employees’ performance is commonly assessed based on 
+
+
+Leader and Follower Psychological Capital Effects  11
+
+‘guest’ comments regarding their service. 
+
+Police officers or firefighters, in a similar manner, provide service to their communities 
+
+and society by competently enforcing the law and positively engaging with their constituents. 
+
+Part of the motivation for embedding police officers in neighborhoods through community 
+
+outreach or locating neighborhood precincts has been to develop a more positive relationship 
+
+with their constituents. This is because police officers, fire fighters and other service 
+
+professionals are seen by their constituents as being an important part of their satisfaction with 
+
+living in their communities.  Also, when these service professionals perform exemplary service, 
+
+they are often rewarded with medals, promotions, salary increments, etc.  In contrast, when they 
+
+fail to serve their community in a satisfactory manner, they are often publicly reprimanded or 
+
+punished. Given these examples, we expand the literature’s traditional definition of customer 
+
+service performance to include the extent to which service professionals competently carry out 
+
+their jobs (i.e., delivering the expected or beyond expected levels of service), a more germane 
+
+evaluation of customer service performance in the context of police organizations.  
+
+Service climates are seen as being an integral source of information to employees by 
+
+elucidating what behavior is desirable, expected, and rewarded (Schneider et al., 2005). Thus, 
+
+positive service climate is likely to provide specific, positive cues to employees that direct their 
+
+attention toward achieving superior service performance.  For instance, service goals such as 
+
+building positive customer relationships and providing excellent customer service, are salient in 
+
+a high service climate. In support Liao and Chuang (2007) investigated and found that service 
+
+employees thrived in a service-oriented environment that promoted higher quality service to 
+
+clients and customers. Thus, employees in a positive service climate are more likely to focus 
+
+their effort in attaining those outcomes by being cognizant of how they perform their duties such 
+
+
+Leader and Follower Psychological Capital Effects  12
+
+that they deliver or exceed the expected level of service.   
+
+Employees with high psychological capital are more likely to persist in their effort to 
+
+enhance performance in a positive service climate because they believe they have the ability and 
+
+desire to meet their customers’ as well as their colleagues’ expectations.  Further, employees in a 
+
+positive service climate would be expected to aim to attain high performance standards to 
+
+reinforce and contribute to the positive psychological environment that the service climate 
+
+imbues.  Consequently, a positive service climate should motivate employees with high levels of 
+
+psychological capital to perform their duties with excellent service because the cues from their 
+
+work group would signal that such behavior is both meaningful and valuable to both the unit and 
+
+to its external customers.   
+
+Conversely, when service climates are low, employees are less likely to attain high 
+
+performance standards because the social context provides either negative or ambiguous cues 
+
+that would inform employees about what they shouldn’t do or how they should behave.  When 
+
+expectations are more negative or unclear, employees may either reduce their effort or behave in 
+
+a manner that they expect will be rewarded, which could run counter to meeting customer 
+
+expectations.  Although employees with high psychological capital may still exert effort to 
+
+improve their performance, they may be less likely to be recognized or rewarded as being high 
+
+performers.  Therefore, we argue that employees’ psychological capital would interact with the 
+
+positive service climate to amplify individual job performance.  
+
+Although we are not aware of any prior research that has examined the interaction 
+
+between follower psychological capital and service climate in predicting follower performance, 
+
+one recent study is relevant in supporting our proposition. Walumbwa et al. (in press), using data 
+
+from multinational companies operating in Kenya, reported that a positive service climate 
+
+
+Leader and Follower Psychological Capital Effects  13
+
+moderated the relationship between employee commitment to the supervisor and organizational 
+
+citizenship behavior. Specifically, they found that positive service climate enhanced the 
+
+individual-level influence of commitment to the supervisor on citizenship behaviors exhibited by 
+
+employees. Therefore, because climate signals the valued behavior desired from employees and 
+
+what typically gets rewarded (Schneider et al., 2005), we expect a positive service climate to 
+
+strengthen the relationship between followers’ psychological capital and their performance. We 
+
+propose the following hypothesis: 
+
+Hypothesis 4: Service climate moderates the influence of follower psychological capital 
+
+on their performance, such that the influence of follower psychological capital is more 
+
+positive when service climate is high than when service climate is low. 
+
+In addition to the above cross-level moderating effect of positive service climate 
+
+(Hypothesis 4), we also explored the interactive effects of leader and follower psychological 
+
+capital in predicting follower performance. For example, one could argue that the follower 
+
+psychological capital-performance relationship is moderated by the leader’s psychological 
+
+capital, such that when both leaders and followers have positive psychological capital, 
+
+performance is higher (i.e., a cross-level interaction). Such a cross-level interaction would 
+
+suggest that leader psychological capital behavior constitutes a contextual enhancer that further 
+
+strengthens the positive effect of follower psychological capital on their performance. The basis 
+
+for this exploratory analysis comes from earlier work that has shown that group leaders may help 
+
+shape followers’ attitudes through recurring practices that translate formal policies and 
+
+procedures (Zohar, 2000). Wang and Walumbwa (2007), using a sample of employees from 
+
+China, Kenya, and Thailand examined how transformational leadership behavior shapes 
+
+followers’ reactions to family-friendly policies, and how these responses relate to followers’ 
+
+
+Leader and Follower Psychological Capital Effects  14
+
+attitudes and behaviors. Providing evidence of the potential moderating effect of leadership, 
+
+Wang and Walumbwa found that transformational leadership positively moderated the 
+
+relationships between employee perceptions of family-friendly policies and both organizational 
+
+commitment and work withdrawal. Specifically, the relationship was more positive for 
+
+organizational commitment and more negative for work withdrawal when supervisors 
+
+demonstrated more transformational leadership behaviors. 
+
+Additional support for exploring this research question comes from social exchange 
+
+theory (Blau, 1964).  According to social exchange theory (Blau 1964), leaders and followers 
+
+who each exhibit more psychological capital would be more likely to reciprocate by displaying 
+
+further positive resources that in turn would enhance performance. This is because leaders who 
+
+create and encourage positive exchanges with their followers would also encourage followers to 
+
+express themselves openly in interactions with their leader resulting in more energy and 
+
+commitment (Avolio & Luthans, 2006). Thus, there is reason to suspect that the relationship 
+
+between follower psychological capital and their performance is likely to be stronger when they 
+
+have leaders who rate themselves higher on psychological capital. We examined this potential 
+
+cross-level interaction in an exploratory fashion.  
+
+Research question: Does leader psychological capital influence the relationship between 
+
+follower psychological capital and their performance? 
+
+Figure 1 summarizes the relationships tested in this study. In general, we propose that 
+
+leader psychological capital positively influences follower individual performance and does so 
+
+by enhancing follower psychological capital. We also test the cross-level influence of service 
+
+climate in the relationship between follower psychological capital and their performance. Finally 
+
+and as indicated by the dotted line in Figure 1, we explore the cross-level interaction between 
+
+
+Leader and Follower Psychological Capital Effects  15
+
+follower and leader psychological capital in predicting follower performance.  
+
+------------------------------------------ 
+
+Insert Figure 1 about here 
+
+------------------------------------------ 
+
+Method 
+
+Participants and Procedures 
+
+Participants for this study were police officers from a large metropolitan city in the 
+
+southwestern United States. Prior research has emphasized the importance of positive leadership 
+
+when leading in pervasive crises—a context particularly germane to the police organization 
+
+(Fredrickson, 2009). Therefore, we believe that the police organization setting provides a 
+
+dynamic context for the study of psychological capital, especially how leader and followers’ 
+
+psychological capital relates to performance.  
+
+Data were collected from leaders (i.e., lieutenants) and their direct followers (i.e., 
+
+sergeants). To be included in the study, a leader had to satisfy at least two criteria: (1) he or she 
+
+had to have at least three of his or her direct reports rate his or her leadership behavior (for 
+
+internal training and development) and (2) the leader had to complete a measure assessing his or 
+
+her psychological capital and later provide an assessment of their direct reports’ job 
+
+performance. Of the 105 identified, 79 volunteered to participate in this study representing 
+
+approximately 75% effective participation rate. All surveys were completed on-line during 
+
+regular work hours. The leader averaged 44 years of age and had been with the police force on 
+
+average 10.2 years, and all had at least two years of college education. Ninety percent were 
+
+males. Seventy four percent of the leaders were white Caucasians, 12% Hispanics, 6% Blacks, 
+
+and 8% others. Ninety-four percent of participants were males and had on average 2 years of 
+
+
+Leader and Follower Psychological Capital Effects  16
+
+college education.  
+
+We contacted a total of 338 followers (sergeants) and 264 completed the surveys, 
+
+yielding a 78% response rate. The names of the sergeants were provided by their respective 
+
+leaders (3-5 followers per leader). The followers’ average age was 31 years, with an average 
+
+tenure of approximately 6 years.  Sixty eighty percent of the followers were Caucasians, 16% 
+
+Hispanics, and 16% other. Eighty one percent of participants were males and at least 91% had at 
+
+least an equivalent of a community college diploma. 
+
+Time 1: Psychological capital. Both leaders and followers received an email containing a 
+
+cover letter from the researchers and endorsed by the Police Chief. The cover letter explained the 
+
+purpose of the study and provided assurances of the participants’ confidentiality. As an incentive 
+
+to participate, participants were informed that they would receive a timely feedback report on 
+
+their leadership behavior as part of an ongoing effort by the police organization to develop 
+
+leadership within its ranks. This feedback session was held after all data collection was 
+
+completed.  
+
+Participants were given a measure that evaluated their own level of psychological capital. 
+
+The psychological capital measure assessed the extent to which participants (i.e., police officers) 
+
+exhibited efficacy, hope, optimism, and resilience. They also provided personal information such 
+
+as age, sex, tenure, race, etc. Participants were told they would be receiving another short survey 
+
+in approximately six weeks (performance evaluations to be completed by leaders and service 
+
+climate to be completed by followers). Participants were assigned a random number to be used as 
+
+identification and matching purposes for data to be collected at a later time.  
+
+Time 2: Service climate. Each follower was asked to evaluate the service climate of their 
+
+respective work group.  
+
+
+Leader and Follower Psychological Capital Effects  17
+
+Time 3: Supervisor rated job performance. Approximately two weeks after Time 2 data 
+
+were coded, each leader rated at least 3 followers’ (3-5) job performance. The job performance 
+
+measure assessed how well followers performed in working with their patrol officers, as well as 
+
+in fulfilling their respective job duties. We were able to obtain performance ratings from all the 
+
+79 leaders contacted, representing a 100% response rate.   
+
+Measures 
+
+Psychological capital.  We used a modified version of the recently validated 
+
+psychological capital questionnaire (PCQ; Luthans et al., 2007). Each dimension was represented 
+
+by four or five of the most relevant items for the police context based on discussions with the 
+
+client organization. The result was a 19-item Likert-type survey from the original 24 items. 
+
+Participants were instructed to indicate their degree of agreement from 1 (strongly disagree) to 5 
+
+(strongly agree) for each item. Sample items included: (1) Efficacy: “I feel confident in 
+
+representing my work area in meetings with management”, and “I feel confident helping to set 
+
+targets/goals in my work area”; (2) Hope: “Right now I see myself as being pretty successful at 
+
+work”, and “If I should find myself in a jam at work, I could think of many ways to get out of it”; 
+
+(3) Resilience: “When I have a setback at work, I have trouble recovering from it, moving on 
+
+(R)”, and “I usually take stressful things at work in stride”; and (4) Optimism: “ I always look on 
+
+the bright side of things regarding my job”, and “If something can go wrong for me work-wise, it 
+
+will (R)”.  The internal consistency reliability (alpha) estimate for the composite psychological 
+
+capital was .75 for leaders and .88 for followers. Although we used only 19 items, our overall 
+
+scale reliability is comparable to that reported by Luthans et al. (2007).  
+
+Because our hypotheses were concerned with the leader’s level of psychological capital 
+
+in a general sense, and not its specific manifestations, we collapsed the four dimensions of 
+
+
+Leader and Follower Psychological Capital Effects  18
+
+efficacy, hope, optimism, and resilience into a single construct as suggested by Stajkovic (2006). 
+
+This strategy has both theoretical and empirical support.  Law, Wong, and Mobley (1998) noted 
+
+that because latent models are defined in terms of the commonality among the dimensions, there 
+
+has to be evidence that the dimensions are correlated to justify the summing of component 
+
+dimensions into a single overall representation of those dimensions. In this study, the average 
+
+correlation among the four dimensions was .58 and .61 for leaders and followers, respectively. 
+
+We further examined the dimensionality of the construct by conducting a principle axis factor 
+
+analysis with varimax rotation. This analysis obtained a one-factor solution in which all 19 items 
+
+had high loadings on the single factor. The factor explained 65% and 69% of the total variance in 
+
+the items for followers and leaders, respectively. These results and the single measures high 
+
+reliability suggests that the psychological capital items used in this study form a reliable scale. 
+
+Service climate. Service climate (α = .80) was measured with a 5-item scale developed by 
+
+Schneider, White, and Paul (1998). The items asked followers to respond to each question based 
+
+on what they have personally observed in their work group (1 = poor, 5 = excellent). Sample 
+
+items are, “How would you rate the job knowledge and skills of employees in your workgroup to 
+
+deliver superior quality work and service?” and “How would you rate efforts to measure and 
+
+track the quality of the work and service in your workgroup?”  
+
+Because service climate is formed through bottom-up emergent processes (Liao & 
+
+Chuang, 2007; Schneider et al., 1998), we used the referent-shift consensus approach (e.g., Chan, 
+
+1998) to aggregate followers’ scores of service climate to the work group level represented by 
+
+each leader. We computed the internal consistency reliability estimate for service climate at the 
+
+work group level and the internal consistency estimate was .85. We further assessed both 
+
+between-group differences and within-group agreement, using two intra-class correlations (ICCs) 
+
+
+Leader and Follower Psychological Capital Effects  19
+
+(e.g., Bliese, 2000) and rwg (e.g., James, Demaree, & Wolf, 1984). The ICC (1) was .39 and ICC 
+
+(2) was .71 (p <.01). The rwg was .86, ranging from .61 to .98, providing empirical evidence for 
+
+the appropriateness of aggregating individual scores of service climate. 
+
+Leader rated job performance. We measured job performance based on a 4-item scale 
+
+used by Walumbwa, Avolio, and Zhu (2008b). The first two items were originally developed by 
+
+Heilman, Block, and Lucas (1992). The immediate supervisor of each follower was asked to 
+
+provide a performance rating on this measure, using a 5-point response format. These items were 
+
+“All in all, how competently does this individual perform the job?”, “In your estimation, how 
+
+effectively does this individual get the work done?”, “How would you judge the overall quality 
+
+of this individual’s work?”, and “ How would you judge the overall competence of this 
+
+individual” using the following 5 anchors: 1 = Consistently performs way below expectations, 2 
+
+= Consistently performs below expectations, 3 = Consistently performs at expectations, 4 = 
+
+Consistently performs above expectations, and 5 = Consistently performs way beyond 
+
+expectations’. The Cronbach’s alpha coefficient was .84. We conducted a principle axis factor 
+
+analysis with varimax rotation and obtained a one-factor solution in which the four items had 
+
+high loadings on the single factor. The factor explained 72% of the total variance in the items, 
+
+suggesting that these items form a reliable scale. 
+
+Analytic Strategy 
+
+Our data is nested and multilevel in nature. For example, followers who evaluated their 
+
+own perceptions of the service climate (a group-level construct) and their own psychological 
+
+capital are nested within supervisors. Similarly, each leader evaluated at least 3 direct reports 
+
+besides evaluating their own psychological capital. Therefore, we used hierarchical linear 
+
+modeling (HLM) as an analytic tool to test our hypotheses (Raudenbush & Bryk, 2002). In all 
+
+
+Leader and Follower Psychological Capital Effects  20
+
+the analyses, Level 1 predictor was grand-mean centered to facilitate the interpretation of the 
+
+HLM results (Hofmann & Gavin, 1998). We used ordinary least squares (OLS) regressions to 
+
+estimate the variance explained by our variables (Hofmann, Morgeson, & Gerras, 2003).  
+
+Table 1 shows descriptive statistics for the study variables. 
+
+Results 
+
+--------------------------------------------- 
+
+Insert Table 1 about here 
+
+-------------------------------------------- 
+
+Hypothesis Tests 
+
+We first examined the degree of between group variance in individual job performance as 
+
+required by HLM. Results of a null model revealed that 28% of the variance in individual job 
+
+performance resides between groups. The chi-square test revealed that the between group 
+
+variances was significant; that is, the intercept term significantly varied across groups.  
+
+Hypotheses 1-2: Direct effects of leader and follower psychological capital. Table 2 
+
+presents the HLM results testing the effect of leader psychological capital on follower 
+
+psychological capital as well as the effect of follower psychological capital on their performance. 
+
+Hypothesis 1 suggested that leader psychological capital would be positively related to follower 
+
+psychological capital whereas Hypothesis 2 posited that follower psychological capital would be 
+
+positively related to their supervisory-rated performance. As shown in Table 2, HLM results 
+
+revealed that leader psychological capital as a Level 2 predictor significantly predicted Level 1 
+
+follower psychological capital (ŷ = .52, p < .01, Model 1). Similarly, HLM results revealed that 
+
+follower psychological capital significantly predicted their supervisory-rated performance (ŷ = 
+
+.31, p < .01, Model 2).  These results provide support for Hypotheses 1 and 2, respectively. 
+
+
+Leader and Follower Psychological Capital Effects  21
+
+------------------------------------------- 
+
+Insert Table 2 about here 
+
+------------------------------------------- 
+
+Hypothesis 3: The mediating effect of follower psychological capital in the leader 
+
+psychological capital-performance relationship. Hypothesis 3 predicted that follower self-rated 
+
+psychological capital would mediate the relationship between leader psychological capital and 
+
+rated performance. HLM results testing this hypothesis are also shown in Table 2. We followed 
+
+the four-step procedure for mediation described by Kenny, Kashy, and Bolger (1998). In Step 1, 
+
+leader psychological capital needs to be related to rated performance. In support of this 
+
+condition, HLM results revealed that leader psychological capital was significantly related to 
+
+rated performance (ŷ = .29, p < .01, Model 3). Step 2 requires that leader psychological capital 
+
+be related to follower psychological capital. This requirement was supported by the results of 
+
+Hypothesis 1 above (see Model 1). Step 3 requires that follower psychological capital be related 
+
+to rated performance. This requirement was supported by the results of Hypothesis 2 above (see 
+
+Model 2). Finally, Step 4 requires that the significant relationship between leader psychological 
+
+capital and rated performance (Step 1, Model 1) be reduced (partial mediation) or eliminated 
+
+(complete mediation) when follower psychological capital is introduced in the same model. 
+
+HLM results revealed that follower psychological capital was significantly related to rated 
+
+performance (ŷ = .29, p < .01, Model 4). However, the effect of leader psychological capital on 
+
+rated performance was no longer significant after introducing follower psychological capital in 
+
+the same model (ŷ = .17, ns, Model 4). These results suggest that follower psychological capital 
+
+completely mediated the effect of leader psychological capital on rated performance. A Sobel 
+
+test (1982) confirmed that the indirect effect was significant (z = 1.85, p < .05; one-tailed test). 
+
+
+Leader and Follower Psychological Capital Effects  22
+
+Hypothesis 3 is supported by our data. 
+
+Cross-Level Interaction Effects of Follower Psychological Capital and Service Climate 
+
+Hypothesis 4 predicted that perceptions of service climate would moderate the 
+
+relationship between followers’ psychological capital and their rated performance. As suggested 
+
+by one of the reviewers, we controlled for leader psychological capital because leaders who see 
+
+their followers as more positive may tend to rate those employees more highly simply because of 
+
+their nature (not because the employees are actually performing more highly). Therefore, 
+
+controlling for leader psychological capital in the relationship between follower psychological 
+
+capital and rated performance helps mitigate this potential bias.  
+
+We followed the procedure of Hofmann et al. (2003) by estimating two models. In the 
+
+first model, we regressed rated performance on follower psychological capital and service 
+
+climate. This model provides an overall assessment of the relationship between follower 
+
+psychological capital and rated performance. It also provides an estimate of the main effect for 
+
+service climate and the overall assessment of the variability in the relationship between follower 
+
+psychological capital and rated performance across groups. If significant variance in the 
+
+relationships across groups is found, then the test of Hypothesis 4 is the extent to which service 
+
+climate explains this variability.  
+
+As shown in the upper part of Table 3 (preliminary model), HLM results revealed a 
+
+significant within-group relationship between follower psychological capital and rated 
+
+performance (ŷ = .32, p < .01), and significant variance in the Level 1 slopes relating follower 
+
+psychological capital to rated performance (U1 variance = .44). These findings suggest that there 
+
+is a significant within-group relationship between follower psychological capital and rated 
+
+performance, and that the magnitude of this relationship varies significantly across service 
+
+
+Leader and Follower Psychological Capital Effects  23
+
+climate groups. Using OLS, we determined that this block of variables accounted for 31% of the 
+
+variance in rated performance. 
+
+------------------------------------------- 
+
+Insert Table 3 about here 
+
+----------------------------------------- 
+
+In the second model, we added service climate as a predictor of the variance in the slopes 
+
+relating follower psychological capital and rated performance. As shown in Table 3, HLM 
+
+results revealed that the cross-level interaction (i.e., follower psychological capital x service 
+
+climate) was significant (ŷ = .33, p < .01). Importantly, after including service climate in the 
+
+model, the residual variance in the Level 1 slopes was no longer significant (U1 variance = .22). 
+
+Using these two variance components, the R2 for service climate was .41 (i.e., [.37-.22]/.37). The 
+
+block of variables accounted for 35% of the variance in rated performance. We plotted this 
+
+interaction using a cut value of one standard deviation below the mean and one standard 
+
+deviation above the mean of service climate (Aiken & West, 1991) and the result is shown in 
+
+Figure 2a. Further, using a moderated regression analysis, we determined that this interaction 
+
+term accounted for additional 4% of the variance in rated performance. Therefore, Hypothesis 4 
+
+is supported by our data. 
+
+--------------------------------------------------- 
+
+Insert Figure 2a and 2b about here 
+
+-------------------------------------------------- 
+
+As noted in our introduction, we also conducted an exploratory analysis to assess whether 
+
+follower and leader psychological capital interacted to predict rated performance, following the 
+
+procedures used for testing Hypothesis 4 above. HLM results revealed that follower and leader 
+
+
+Leader and Follower Psychological Capital Effects  24
+
+psychological capital interacted positively to predict rated performance (ŷ = .30, p < .01). Figure 
+
+2b shows the form and nature of the significant interaction graphically, using a cut value of one 
+
+standard deviation below and above the mean of leader psychological capital. Specifically, 
+
+Figure 2b shows that the relationship between follower psychological capital and rated 
+
+performance is more positive when leader psychological capital is high rather than low.  
+
+Discussion 
+
+This study examined how and in what ways leader psychological capital can contribute to 
+
+follower psychological capital and performance. We also examined the cross-level moderating 
+
+effect of service climate in the relationship between followers’ psychological capital and their 
+
+job performance.  In line with what has been suggested in previous theoretical work (e.g., Avolio 
+
+& Luthans, 2006), we found that leader psychological capital positively related to their 
+
+followers’ performance. This relationship was fully mediated through followers’ level of self 
+
+reported psychological capital. Regarding the hypothesized cross-level interaction, we found that 
+
+followers’ psychological capital influenced their own job performance to a greater extent when 
+
+service climate was more positive. Finally, based on our exploratory analysis, we found a 
+
+significant interaction between leader and follower psychological capital with respect to 
+
+predicting performance above and beyond the contribution of the leader and followers’ self 
+
+reported levels of psychological capital.  
+
+Theoretical Implications  
+
+Although the effect of positive leadership behavior has been well documented in the 
+
+charismatic/transformational leadership literature (e.g., Bass & Bass, 2008) and has recently 
+
+been highlighted in the newly emerging literatures on authentic (e.g., Avolio & Luthans, 2006; 
+
+Walumbwa, Avolio, Gardner, Wernsing, & Peterson, 2008a; Walumbwa et al., 2009) and servant 
+
+
+Leader and Follower Psychological Capital Effects  25
+
+(e.g., Ehrhart, 2004; Liden et al., 2008; Walumbwa et al, in press) leadership, less attention has 
+
+been given to how other forms of positive leadership such as combining a leader’s level of hope, 
+
+efficacy, optimism and resilience relates to employee performance. Adding to the existing 
+
+research on psychological capital, our findings revealed that both leader and followers’ 
+
+psychological capital were positively associated with follower job performance. These findings 
+
+extend earlier work that focused solely on the employee level of psychological capital to both the 
+
+leader and their followers’ levels of psychological capital and the relationships each have with 
+
+job performance.  
+
+In addition, our work extends psychological capital research into a new organizational 
+
+setting—a police organization. The majority of work on psychological capital has been focused 
+
+on more traditional manager-employee work organizations. Thus, the current study also offers 
+
+some support for the generalizability of the effects of psychological capital in a different work 
+
+context than has been examined in previous research. Moreover, given that the majority of 
+
+research in police organizations has focused primarily on examining negative predictors and 
+
+outcomes associated with police work such as officer stress, burnout, depression, and anxiety 
+
+(Harrison, 1998), our findings may also open up more positive approaches to the study of 
+
+leadership in police or other similar community service organizations that operate in high risk 
+
+environments.  
+
+Second, although prior research has shown how an individual’s own psychological 
+
+capital relates to his or her own performance (see Luthans et al., 2007), there have been 
+
+relatively few investigations linking leader psychological capital to his or her followers’ 
+
+performance. In this study, we examined how the leader’s self reported psychological capital 
+
+related to their followers’ self reported psychological capital, and consequently follower job 
+
+
+Leader and Follower Psychological Capital Effects  26
+
+performance. We found that the leader’s level of psychological capital stimulates followers’ 
+
+psychological capital, which, in turn was related to the followers’ performance. As such, this 
+
+study presents an initial empirical test of potential mediating processes through which leader 
+
+psychological capital may influence follower performance.   
+
+Third, very little research has focused on the conditions under which psychological 
+
+capital is more (or less) effective in promoting employee performance. In this study we tested the 
+
+cross-level moderating influence of service climate to determine whether or not this makes a 
+
+difference. Specifically, the results of this study provide fairly strong support for service 
+
+climate’s cross-level moderating effect with the relationship between employees’ psychological 
+
+capital and their performance. Thus, our finding complements the work of Liao and Chuang 
+
+(2007) and Walumbwa et al. (in press) by revealing that service climate plays an important role 
+
+in amplifying the influence of followers’ psychological capital on their performance.   
+
+Finally, we explored and found an interaction between leader and follower psychological 
+
+capital in predicting rated performance. We found that followers’ psychological capital had a 
+
+stronger influence on their performance when their leaders demonstrated more positive resources 
+
+such as efficacy, hope, optimism, and resilience. Although our results should be interpreted with 
+
+caution because we did not offer an a priori prediction, at the very least our finding adds to 
+
+research focused on positive leadership perspectives by suggesting that leadership is a dynamic 
+
+and reciprocal social process that can benefit both leaders and followers (Hannah, Woolfolk, & 
+
+Lord, 2009).   
+
+Practical Implications 
+
+Our results suggest several practical implications.  First, our findings suggest that leaders 
+
+who wish to enhance the performance of their direct reports will derive some benefit from 
+
+
+Leader and Follower Psychological Capital Effects  27
+
+exhibiting higher levels of psychological capital. Specifically, because leaders are expected to 
+
+serve as role models to followers, it is extremely important that they visibly engage in the 
+
+behaviors associated with higher levels of psychological capital.  For example, if leaders persist 
+
+toward goal accomplishment and do not let setbacks deter them, followers will be more likely to 
+
+follow suit. In addition, when adversity strikes or uncertainty surrounds leaders, how they cope 
+
+will be observed and perhaps mimicked by followers.  In short, leaders are always on stage and 
+
+followers are watching and taking cues about how to handle situations, what is valued in the 
+
+organization, and what is expected and rewarded.  Leaders who become more aware of how their 
+
+psychological capital and/or level of positivity in general, influences their follower’ 
+
+psychological states and subsequent behaviors will be more likely to see positive performance 
+
+outcomes.  
+
+Our work also has implications for those charged with selecting and developing talent in 
+
+organizations. Given the pivotal role of the leader in developing the psychological capital of 
+
+followers, we suggest that organizations consider the leader’s positivity level among other 
+
+required capabilities when making appointments to leadership roles, especially in high stress 
+
+contexts. Specifically, there are very reliable and valid trait measures of positivity that could be 
+
+included as part of the overall assessment of a leader’s capacity to be effective in roles that 
+
+require higher levels of positivity, such as in police work (Fredrickson, 2009). In addition, 
+
+because psychological capital is conceptualized to be state-like and open to development, 
+
+psychological capital can be integrated into organizations’ talent development programs. Indeed, 
+
+there is already preliminary evidence showing that the psychological capital can be boosted with 
+
+short training interventions (Avey, Avolio, Luthans, & Peterson, in press). The emphasis in these 
+
+interventions is on teaching employees to frame and approach situations, especially those with 
+
+
+Leader and Follower Psychological Capital Effects  28
+
+challenges, in a constructive manner. Because of the positive impact of psychological capital on 
+
+performance outcomes, developmental efforts focused on enhancing psychological capital in 
+
+leaders and followers may offer a strong return on investment. 
+
+Furthermore, our results suggest that when service climate perceptions are high, 
+
+psychological capital has an even a stronger impact on performance than when service climate 
+
+perceptions are low.  Given this potential fit between psychological capital and service climate, 
+
+organizations need to focus on how to better foster a service climate so as to accelerate the 
+
+benefits they could derive from psychological capital.  Specifically, organizations need to both 
+
+better articulate the expectations associated with a service climate and reward and recognize 
+
+exemplary service when they see it (Schneider, 1987).  
+
+Finally, although this research has broader implications for many types of organizations, 
+
+especially those who operate in the service environment, it also has some specific practical 
+
+implications for police organizations. For example, promoting positive aspects of officer 
+
+leadership, such as psychological capital, could further ameliorate the personal resources 
+
+available to sustain followers through stressful events. Specifically, by instilling psychological 
+
+capital in their followers, supporting them when they need to bounce back from adversity or by 
+
+encouraging followers to persist in goal pursuits, leaders will keep followers strong, positive and 
+
+able to perform their jobs through the highs and lows of police work.  
+
+Study Limitations 
+
+Although data for the current study came from two independent sources (e.g., immediate 
+
+supervisors and their direct reports), in a sense removing any transient causes of same source 
+
+bias (Podsakoff, MacKenzie, Lee, & Podsakoff, 2003), this study was cross-sectional in nature. 
+
+Thus, we cannot draw causal inferences from our results although the links investigated in this 
+
+
+Leader and Follower Psychological Capital Effects  29
+
+study followed a presumed causal order.  Indeed, there could certainly be alternative 
+
+explanations for our findings. For example, rather than leaders’ psychological capital evoking 
+
+psychological capital in followers, it is possible that leaders who are high in psychological 
+
+capital simply select followers who are also high in psychological capital. Moreover, because 
+
+leaders in the present study rated their followers’ performance, it could be the case that leaders 
+
+who are high in psychological capital are biased to rate followers higher in general due to their 
+
+bias toward the positive, although we did try to control for these effects in our analyses (i.e., 
+
+leniency).  Because of these potential limitations, future research should examine how these 
+
+relationships develop over time using experimental or longitudinal research designs.  
+
+We also realize that it would have been useful to collect additional measures of 
+
+performance other than from the leaders participating in the current study. However, we found 
+
+that it was difficult to link specific measures of performance to individual followers because of 
+
+the nature of police work, which led us to collect data from the leader who knew the followers’ 
+
+performance best. Regarding the issue of the generalizability of our findings, we suggest that a 
+
+first step might be to collect data from relatively comparable stress-oriented professions such as 
+
+firefighting, military or healthcare (EMT, surgical units, etc) so that we could determine whether 
+
+the results of the current study generalize to these respective organizations that deal in high risk 
+
+contexts. 
+
+Finally, it is important to note that we did not cover the full range of items constituting 
+
+psychological capital to keep the survey short as required by the client organization. Although, 
+
+our reliabilities for this scale was comparable to that of the original scale developed and 
+
+validated by Luthans and his colleagues (e.g., Luthans et al., 2007), future research should 
+
+replicate our findings using the full scale to assess psychological capital.  In addition, more 
+
+
+Leader and Follower Psychological Capital Effects  30
+
+established and recently emerging measures of leadership including transformational leadership 
+
+(e.g., Bass & Avolio, 2000), authentic leadership (e.g., Walumbwa et al., 2008a), ethical 
+
+leadership (e.g., Brown, Treviño, & Harrison, 2005), and servant leadership (e.g., Ehrhart, 2004; 
+
+Liden et al., 2008) should be included for comparison purposes, and also to provide a more 
+
+complete picture of the focal leader’s leadership and effects on followers.  Similarly, more 
+
+comprehensive measures of climate, including safety climate (e.g., Hofmann et al., 2003; Zohar, 
+
+2000) should also be collected so as to compare different types of specific climates and how they 
+
+relate to measures of psychological capital and performance.  
+
+Suggestions for Future Research 
+
+We offer several suggestions for future research. First, because previous research (e.g., 
+
+Liao & Chuang, 2007; Walumbwa et al., in press) suggests that positive forms of leadership such 
+
+as servant and transformational leadership may enhance a positive service climate, more research 
+
+is needed on how psychological capital may shape a positive group or unit climate above and 
+
+beyond these other leadership styles.  Achieving this aim would include the collection of multi-
+
+rater surveys so as to gather a complete picture of a leader’s psychological capital as well as to 
+
+ensure a comprehensive view of climate from all constituents. In this study, we used follower 
+
+self-reported evaluations of their specific service climate. Of course, future work could include a 
+
+more complete assessment of these variables and should also include possible attitudinal 
+
+mediators, such as social exchange perceptions, positive affect and status, which may also play 
+
+important roles in explaining why or how positive psychological capital transmits its effects to 
+
+individuals, groups, and organizations. 
+
+Second, the finding of the presence of an interaction between leader and follower 
+
+psychological capital points to the need for more integration of various positive leadership 
+
+
+Leader and Follower Psychological Capital Effects  31
+
+perspectives such as authentic (Avolio & Luthans, 2006; Walumbwa et al., 2008a), empowering 
+
+(Arnold, Arad, Rhoades, & Drasgow, 2000), servant (Ehrhart, 2004; Liden et al., 2008), and 
+
+transformational (Bass & Avolio, 2000) leadership behaviors in future psychological capital 
+
+research. Such integration may focus on exploring the interactions between these positive 
+
+leadership perspectives and the psychological mechanisms underlying their effects. Future 
+
+research may also begin to explore how the followers’ positivity influences the leader’s 
+
+performance, just as we found here how the leader’s positivity influenced the followers through 
+
+its interaction with follower psychological capital. 
+
+Third, future work should delve deeper into understanding how or why leader 
+
+psychological capital influences follower psychological capital. In this study, we argued that 
+
+when followers observe leaders taking a positive approach to their work, they will model similar 
+
+behaviors.  However, we did not have data that directly tested this assertion. Future work should 
+
+examine whether role modeling is indeed the process through which leader psychological capital 
+
+triggers follower psychological capital or whether there may be alternative explanations.  One 
+
+possibility is that leaders who express positivity are simply better liked and their followers are 
+
+willing to exert extra effort in their social exchange process. Another possible explanation is that 
+
+followers interpret leaders’ positivity as their being confident, hopeful, optimistic, and resilient 
+
+about their performance thereby increasing followers’ psychological capital. Future research 
+
+should test these possibilities.  
+
+Finally, whereas we considered only individual job performance in this study, future 
+
+research might investigate the influence of psychological capital on other important work 
+
+outcomes in crises or extreme contexts (Hannah, Uhl-Bien, Avolio, & Cavarretta, 2009), such as 
+
+well-being and citizenship related behaviors as well as absenteeism, stress, turnover and 
+
+
+Leader and Follower Psychological Capital Effects  32
+
+withdrawal behaviors at multiple levels of analysis. In addition, given the increasing interest in 
+
+multilevel research, research in the area of psychological capital should go beyond the 
+
+investigation of individual level performance to better understand the impact of positive 
+
+leadership on group and organizational level performance. Such multilevel investigations would 
+
+allow researchers to explain more variance than would be explained by single-level or 
+
+homologous formulations, and thus increase our understanding of the complex relationship 
+
+between psychological capital and important work-related outcomes. 
+
+In sum, both the practitioner and academic leadership literatures are replete with 
+
+discussions suggesting that leaders and followers should be optimistic and stay positive during 
+
+stressful circumstances.  Given the on-going and growing stress associated with police work, and 
+
+organizations in general, it is important that researchers continue to investigate how positive 
+
+leadership can be developed and applied to address challenges confronting leaders and followers.  
+
+
+Leader and Follower Psychological Capital Effects  33
+
+REFERENCES 
+
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. 
+
+Newbury Park, CA: Sage.  
+
+Arnold, J. A., Arad, S., Rhoades, J. A., & Drasgow, F. (2000). The empowering leadership 
+
+questionnaire: The construction and validation of a new scale for measuring leader 
+
+behaviors. Journal of Organizational Behavior, 21, 249-269.  
+
+Avey, J. Avolio, B. J., & Luthans, F., & Peterson, S. J. (in press).  Experimentally analyzing the 
+
+process and impact of leader positivity.  Human Resource Development Quarterly. 
+
+Avey, J. B., Luthans, F., & Youssef, C. M. (2009). The additive value of positive psychological 
+
+capital in predicting work attitudes and behaviors. Journal of Management. DOI: 
+
+10.1177/0149206308329961.  
+
+Avolio, B. J. (2007). Promoting more integrative strategies for leadership theory building. 
+
+American Psychologist, 62, 25-33. 
+
+Avolio, B. J., Gardner, W. L., Walumbwa, F. O., Luthans, F., & May, D. R. (2004). Unlocking 
+
+the mask: A look at the process by which authentic leaders impact follower attitudes and 
+
+behaviors. Leadership Quarterly, 15, 801-823. 
+
+Avolio, B. J., & Luthans, F. (2006). The high impact leader:  Moments matter for accelerating  
+
+authentic leadership development. New York: McGraw-Hill. 
+
+Avolio, B. J., & Walumbwa, F. O. (2006). Authentic leadership: Moving HR leaders to a higher 
+
+level. In J. J. Martocchio (Ed.), Research in personnel and human resources management 
+
+(vol. 25, 273-304). Amsterdam: Elsevier.  
+
+Bandura, A.  (1977). Self-efficacy: Toward a unifying theory of behavioral change.  
+
+Psychological Review, 84, 191-215. 
+
+
+Leader and Follower Psychological Capital Effects  34
+
+Bass, B. M., & Avolio, B. J. (2000). Multifactor leadership questionnaire: Manual leader form, 
+
+rater, and scoring key for MLQ (Form 5x-Short). Redwood City, CA: Mind Garden. 
+
+Bass, B. M., & Bass, R. (2008). The Bass Handbook of Leadership; Theory, research and 
+
+managerial applications.  NY: Free Press. 
+
+Blau, P. M. (1964). Exchange and power in social life. New York: Academic Press. 
+
+Bliese, P. D. (2000). Within-group agreement, non-independence, and reliability: Implications 
+
+for data aggregation and analysis. In Klein, K. J., & Kozlowski, S. W. J. (Eds.), 
+
+Multilevel theory, research and methods in organizations: Foundations, extensions, and 
+
+new directions (pp. 349-381). San Francisco, CA: Jossey-Bass. 
+
+Bono, J. E., & Colbert, A. (2005). Understanding Responses to Multi-Source Feedback: The 
+
+Role of Core Self-evaluations. Personnel Psychology, 58, 171-203. 
+
+Bono, J. E., & Ilies, R. (2006). Charisma, positive emotions and mood contagion. Leadership 
+
+Quarterly, 17, 317-334. 
+
+Brown, M. E., Treviño, L. K., & Harrison, D. A. (2005). Ethical leadership: A social learning 
+
+perspective for construct development and testing. Organizational Behavior and Human 
+
+Decision Processes, 97, 117-134. 
+
+Cameron, K.S., Dutton, J., & Quinn, R. (2003). Positive organizational scholarship:  
+
+Foundations of a new discipline.  San Francisco: Berrett-Koehler  Publishers. 
+
+Carmeli, A., Ben-Hador, B., Waldman, D. A., & Rupp, D. E. (2009). How leaders cultivate 
+
+social capital and nurture employee vigor: Implications for job performance. Journal of 
+
+Applied Psychology, 94, 1553-1561. 
+
+Carr, J. Z., Schmidt, A. M., Ford, J. K., & DeShon, R. P. (2003). Climate perceptions matter: A 
+
+meta-analytic path analysis relating molar climate, cognitive and affective states, and 
+
+
+Leader and Follower Psychological Capital Effects  35
+
+individual level work outcomes. Journal of Applied Psychology, 88, 587 - 619. 
+
+Chan, D. (1998). Functional relations among constructs in the same content domain at different 
+
+levels of analysis: A typology of compositional models. Journal of Applied Psychology, 
+
+83, 234-246. 
+
+Ehrhart, M. G. (2004). Leadership and procedural justice climate as antecedents of unit-level 
+
+organizational citizenship behavior. Personnel Psychology, 57, 61-94. 
+
+Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-
+
+and-build theory of positive emotions. American Psychologist, 56, 218-226.  
+
+Fredrickson, B. L. (2009). Positivity. New York: Crown Publishers. 
+
+Gardner, W. L., Avolio, B. J., Luthans, F., May, D. R., & Walumbwa, F. O. (2005). "Can you 
+
+see the real me?" A self-based model of authentic leader and follower development. 
+
+Leadership Quarterly, 16, 343-372. 
+
+Hackman, R. ( 2009). Potential perils of POB. Journal of Organizational Behavior, 30, 308-322. 
+
+Hannah, S. T., Uhl-Bien, M., Avolio, B. J., & Cavarretta, F. L. (2009). A framework for 
+
+examining leadership in extreme contexts. Leadership Quarterly, 20, 897-919. 
+
+Hannah, S.T., Woolfolk, R. L., & Lord, R. G. (2009).  Leader self-structure:  A framework for 
+
+positive leadership.  Journal of Organizational Behavior, 30, 269-290.   
+
+Harrison, S. J. (1998). Police organizational culture: Using ingrained values to build positive 
+
+organizational improvement. Article retrieved August 2, 2008, from 
+
+http://www.pamij.com/harrison.html.  
+
+Heilman, M. E., Block, C. J., & Lucas, J. A. (1992). Presumed incompetence? Stigmatization 
+
+and affirmative action efforts. Journal of Applied Psychology, 77, 536-544. 
+
+Hess, E. D., & Cameron, K. S. (2006).  Leading with values: Positivity, virtue, and high 
+
+
+Leader and Follower Psychological Capital Effects  36
+
+performance.  Cambridge: Cambridge University Press.   
+
+Hobfoll, S. (2002). Social and psychological resources and adaptation.  Review of General 
+
+Psychology, 6, 307-324. 
+
+Hofmann, D. A., & Gavin, M. B. (1998). Centering decisions in hierarchical linear Models: 
+
+Implications for research in organizations. Journal of Management, 24, 623-641.  
+
+Hofmann, D. A., Morgeson, F. P., Gerras, S. J. (2003). Climate as a moderator of the relationship 
+
+between leader-member exchange and content specific citizenship: Safety climate as an 
+
+exemplar. Journal of Applied Psychology, 88, 170-178.  
+
+Ibarra, H. (1999).  Provisional Selves: Experimenting with image and identity in professional 
+
+adaptation.  Administrative Science Quarterly, 44, 764-791. 
+
+Ilies, R., Morgeson, F. P., & Nahrgang, J. D. (2005). Authentic leadership and eudaemonic well-
+
+being: Understanding leader-follower outcomes. Leadership Quarterly, 16, 373-394. 
+
+James, L. R., Demaree, R. G., & Wolf, G. (1984).  Estimating within-group inter-rater reliability 
+
+with and without response bias. Journal of Applied Psychology, 69, 85-98.  
+
+Judge, T. A., Bono, J. E., Ilies, R., & Werner, M. (2002). Personality and leadership: A 
+
+qualitative and quantitative review. Journal of Applied Psychology, 87, 765-780. 
+
+Kacmar, K. M., Collins, B. J., Harris, K. J., & Judge, T. A. (2009). Core self-evaluations and job 
+
+performance: The role of the perceived work environment. Journal of Applied 
+
+Psychology, 94, 1572-1580. 
+
+Kenny, D. A., Kashy, D. A., & Bolger, N. (1998). Data analysis in social psychology. In D. 
+
+Gilbert, S. T. Fiske, & G. Lindzey (Eds.), Handbook of social psychology (Vol. 1, pp. 
+
+233–265). New York: McGraw-Hill. 
+
+Law, K. S., & Wong, C., & Mobley, W. H. (1998). Toward a taxonomy of multidimensional 
+
+
+Leader and Follower Psychological Capital Effects  37
+
+constructs. Academy of Management Review, 23, 741-755.  
+
+Liao, H., & Chuang, A. (2007). Transforming service employees and climate: a multilevel, 
+
+multisource examination of transformational leadership in building long-term service 
+
+relationships. Journal of Applied Psychology, 92, 1006-1119. 
+
+Liden, R. C., Wayne, S. J., Zhao, H., & Henderson, D. (2008). Servant leadership:  Development  
+
+of a multidimensional measure and multi-level assessment.  Leadership Quarterly, 19, 
+
+161-177. 
+
+Luthans, F., & Avolio, B. J. (2003). Authentic leadership: A positive developmental  
+
+approach. In K. S. Cameron & J. E. Dutton & R. E. Quinn (Eds.), Positive  
+
+organizational scholarship (pp. 241-261). San Francisco: Barrett-Koehler. 
+
+Luthans, F., Avolio, B. J., Avey, J. B., & Norman, S. M. (2007). Positive psychological capital: 
+
+Measurement and relationship with performance and satisfaction. Personnel Psychology, 
+
+60, 541-572. 
+
+Luthans, F., Avolio, B. J., Walumbwa, F.O., & Li, W. (2005). The psychological capital of 
+
+Chinese workers: Exploring the relationship with performance. Management and 
+
+Organization Review, 1, 247-269. 
+
+O'Neill, J. W., Harrison, M. M, Cleveland, J., Almeida, D., Stawski, R., & Crouter, A. C. (2009). 
+
+Work–family climate, organizational commitment, and turnover: Multilevel contagion 
+
+effects of leaders. Journal of Vocational Behavior, 74, 18-29. 
+
+Peterson, C., & Seligman, M. (2004). Character strengths and virtues.  New York: Oxford  
+
+University Press. 
+
+Peterson, S. J., Walumbwa, F. O., Byron, K., & Myrowitz, J. (2009). CEO positive psychological 
+
+traits, transformational leadership, and firm performance in high technology start-up and 
+
+
+Leader and Follower Psychological Capital Effects  38
+
+established firms. Journal of Management, 35, 348-368. 
+
+Podsakoff, P. M., MacKenzie, S. C., Lee, J., & Podsakoff, N. P. (2003). Common method biases 
+
+in behavioral research: A critical review of the literature and recommended remedies. 
+
+Journal of Applied Psychology, 88, 879-903. 
+
+Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: Applications and data 
+
+analysis methods (2nd ed.). Thousand Oaks, CA: Sage. 
+
+Schneider, B. (1987). The people make the place. Personnel Psychology, 40, 437-454. 
+
+Schneider, B., Ehrhart, M. G., Mayer, D. M., Saltz, J.L., & Niles-Jolly, K. (2005). Understanding 
+
+organization-customer links in service settings. Academy of Management Journal, 48, 
+
+1017-1032. 
+
+Schneider, B., Salvaggio, A. N., & Subirats, M. (2002). Climate strength: A new direction for 
+
+climate research. Journal of Applied Psychology, 87, 220-229. 
+
+Schneider, B., White, S. S., & Paul, M. C. (1998). Linking service climate and customer 
+
+perceptions of service quality: Test of a causal model. Journal of Applied Psychology, 83, 
+
+150-163. 
+
+Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in structural equation 
+
+models. In S. Leinhardt (Ed.), Sociological methodology (pp. 290-312). Washington, DC. 
+
+American Sociological Association. 
+
+Stajkovic, A. D. (2006). Development of a core confidence – higher order construct. Journal of 
+
+Applied Psychology, 91, 1208-1224. 
+
+Sy, T., Côté, S., & Saavedra, R. (2005). The contagious leader: Impact of the leader’s mood on 
+
+the mood of group members, group affective tone, and group processes. Journal of 
+
+Applied Psychology, 90, 295-305.  
+
+
+Leader and Follower Psychological Capital Effects  39
+
+Walumbwa, F. O., Avolio, B. J., Gardner, W. L., Wernsing, T. S., & Peterson, S. J. (2008a). 
+
+Authentic leadership: Development and validation of a theory-based measure. Journal of 
+
+Management, 34, 89-126. 
+
+Walumbwa, F. O., Avolio, B. J., & Zhu, W. (2008b). How transformational leadership weaves 
+
+its influence on individual job performance:  The role of identification and efficacy 
+
+beliefs. Personnel Psychology, 61, 793-825. 
+
+Walumbwa, F. O., Hartnell, C. A., & Oke, A. (in press).  Servant leadership, procedural justice 
+
+climate, service climate, employee attitudes, and organizational citizenship behavior: A 
+
+cross-level investigation. Journal of Applied Psychology. 
+
+Walumbwa, F. O., Luthans, F., Avey, J. B., & Oke, A. (2009). Authentically leading groups: The 
+
+mediating role of positivity and trust. Journal of Organizational Behavior, DOI: 
+
+10.1002/job.653. 
+
+Wang, P., & Walumbwa, F. O. (2007). Family-friendly programs, organizational commitment, 
+
+and work withdrawal: The moderating role of transformational leadership. Personnel 
+
+Psychology, 60, 397-427. 
+
+Yammarino, F. J., Dionne, S. D., Schriesheim, C. A., & Dansereau, F. (2008). Authentic 
+
+leadership and positive organizational behavior: A meso, multi-level perspective. 
+
+Leadership Quarterly, 19, 693-707. 
+
+Zohar, D. (2000). A group-level model of safety climate: Testing the effect of group climate on 
+
+microaccidents in manufacturing jobs. Journal of Applied Psychology, 85, 587-596. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  40
+
+TABLE 1 
+
+Correlations among the Study Variables 
+
+Variable 
+
+1. Follower age  
+
+2. Follower sex 
+
+3. Follower tenure 
+
+4. Leader Psychological capital 
+
+5. Follower psychological capital 
+
+6. Service climate 
+
+7. Job performance 
+
+ 
+
+M
+
+SD
+
+31.33
+
+9.19
+
+.85
+
+5.60
+
+2.92
+
+2.97
+
+3.23
+
+3.34
+
+.34
+
+.80
+
+.74
+
+.50
+
+.68
+
+.90
+
+1
+
+ 
+
+.16*
+
+2
+
+ 
+
+ 
+
+.26**
+
+.10
+
+-
+
+.07
+
+.11
+
+-.06
+
+-
+
+.04
+
+.10
+
+.08
+
+3
+
+ 
+
+ 
+
+ 
+
+.75
+
+.09
+
+.07
+
+-.08
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.88 
+
+ 
+
+ 
+
+ 
+
+- 
+
+- 
+
+- 
+
+- 
+
+.25** 
+
+.80
+
+.31** 
+
+.35**
+
+.84
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note. n = 264. The leader psychological capital correlation is not reported in the table because it only 
+
+reflected group-level data. The Cronbach’s alpha (α) coefficients are reported in diagonal.   
+
+* p < .05 (2-tailed) 
+
+** p < .01 (2-tailed) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  41
+
+TABLE 2 
+
+Hierarchical Linear Modeling Results: Effects of Psychological Capital on Individual Job Performance 
+
+ 
+
+Follower PsyCap 
+
+Performance
+
+Performance 
+
+Performance
+
+Level and variable 
+
+(Model 1) 
+
+(Model 2) 
+
+(Model 3) 
+
+(Model 4) 
+
+ 
+
+Intercept 
+
+ 
+
+1.60 (.09)**
+
+Leader psychological capital (L2) 
+
+.52 (.10)**
+
+ 
+
+Intercept 
+
+Follower psychological capital (L1) 
+
+ 
+
+Intercept 
+
+Leader psychological capital (L2) 
+
+ 
+
+Intercept 
+
+Leader psychological capital (L2) 
+
+Follower psychological capital (L1) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.55 (.12)**
+
+.31 (.07)**
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.47 (.15)** 
+
+.29 (.09)** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.68 (.17)**
+
+.17 (.09)
+
+.29 (.03)**
+
+Note. L = Level; level 1 (n = 264); level 2 (n = 79); PsyCap = psychological capital. Entries 
+
+corresponding to the predicting variables are estimations of the fixed effects, γs, with robust 
+
+standard errors. 
+
+** p < .01 (two-tailed tests). 
+
+ 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  42
+
+TABLE 3 
+
+Hierarchical Linear Modeling Results of Main and Interaction Effects of Follower Psychological 
+
+Capital and Service Climate in Predicting Job Performance  
+
+Level and variable 
+
+Preliminary model  
+
+Intercept 
+
+Leader psychological capital (Level 2 control) 
+
+Follower psychological capital (Level 1) 
+
+Service climate (Level 2) 
+
+R2 
+
+Adjusted R2 
+
+ 
+
+Hypothesis 4 
+
+Intercept 
+
+Leader psychological capital (Level 2) 
+
+Follower psychological capital (Level 1) 
+
+Service climate (Level 2) 
+
+Follower psychological capital X service climate 
+
+∆R2 
+
+ 
+
+Performance 
+
+ 
+
+2.29 (.03)** 
+
+.27 (.10)** 
+
+.32 (.10)** 
+
+.42 (.08)** 
+
+.31** 
+
+.28 
+
+ 
+
+ 
+
+2.29 (.03)** 
+
+.14 (.15)** 
+
+.28 (.11)** 
+
+.37 (.07)** 
+
+.33 (.10)** 
+
+.04** 
+
+Note. Level 1 (n = 264); level 2 (n = 79); Entries corresponding to the predicting variables are 
+
+estimations of the fixed effects, γs, with robust standard errors. 
+
+** p < .01 (two-tailed tests). 
+
+
+Leader and Follower Psychological Capital Effects  43
+
+Service 
+Climate
+
+Group-level
+
+Leader 
+
+Psychological 
+
+Capital
+
+Individual-level
+
+Follower 
+
+Psychological 
+
+Capital
+
+Follower 
+
+Job 
+
+Performance
+
+Figure 1: Hypothesized Relationships
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Leader and Follower Psychological Capital Effects  44
+
+Low Service Climate 
+
+High Service Climate 
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+b
+o
+J
+
+ 
+
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+
+Low Follower
+
+Psychological Capital
+
+High Follower
+
+Psychological Capital
+
+ 
+
+Figure 2a: Follower Psychological Capital X Service Climate effect on Job Performance 
+
+Low Leader Psychological Capital
+
+High Leader Psychological Capital
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+b
+o
+J
+
+ 
+
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+
+Low Follower
+
+Psychological Capital
+
+High Follower
+
+Psychological Capital
+
+Figure 2b: Follower X Leader Psychological Capital effects on Job Performance 
+
+ 
+
+ 
+

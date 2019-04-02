@@ -1,0 +1,3540 @@
+Journal of Business Ethics (2009) 89:409–422
+DOI 10.1007/s10551-008-0007-7
+
+Ó Springer 2008
+
+Causality Between Corporate Social
+Performance and Financial Performance:
+Evidence from Canadian Firms
+
+Rim Makni
+Claude Francoeur
+Franc¸ois Bellavance
+
+ABSTRACT. This study assesses the causal relationship
+between corporate social performance (CSP) and financial
+performance (FP). We perform our empirical analyses on
+a sample of 179 publicly held Canadian firms and use the
+measures of CSP provided by Canadian Social Investment
+Database for
+the years 2004 and 2005. Using the
+‘‘Granger causality’’ approach, we find no significant
+relationship between a composite measure of a firm’s CSP
+and FP, except
+for market returns. However, using
+individual measures of CSP, we find a robust significant
+negative impact of the environmental dimension of CSP
+and three measures of FP, namely return on assets, return
+on equity, and market returns. This latter finding is
+consistent, at least in the short run, with the trade-off
+hypothesis and,
+in part, with the negative synergy
+hypothesis which states that socially responsible firms
+experience lower profits and reduced shareholder wealth,
+which in turn limits the socially responsible investments.
+
+KEY WORDS: corporate social performance, ﬁnancial
+performance, causality, environmental activities
+
+Introduction
+
+academic
+
+researchers
+
+Business ethics in Canada has been shaped by dif-
+ferent players: Canadian society in general, activism
+from religious groups and other institutional or
+ethical investors. In addition, the growing interest
+of
+the Canadian
+accounting profession has also facilitated its devel-
+opment (Brooks, 1997). Furthermore, the intro-
+Investment
+duction
+Database (CSID) developed by Michael
+Jantzi
+Research Associates (MJRA) provides researchers
+with a new and improved means to quantify cor-
+in Canada and
+porate social performance (CSP)
+
+the Canadian
+
+Social
+
+and
+
+of
+
+to increased research efforts
+
+leads
+(Mahoney and Roberts, 2004).
+
+in this area
+
+‘‘CSP research has employed a variety of theories
+and methodologies to study the potential relation-
+ship between corporate social responsibility activi-
+ties and other
+traditional measures of a ﬁrm’s
+success’’ (Mahoney and Roberts, 2007, p. 234). In
+addition to large-scale American empirical research,
+some researchers have examined the relationship
+between CSP and ﬁnancial performance (FP) in
+other contexts
+including the Canadian context.
+Contrary to the US study by Waddock and Graves
+(1997); Mahoney and Roberts (2007) found no
+signiﬁcant relationship between a composite mea-
+sure of CSP and FP for Canadian ﬁrms. However,
+their ﬁndings do indicate a signiﬁcant relationship
+between individual measures of a ﬁrm’s CSP
+regarding environmental and international activities
+and FP. This study examined only one direction of
+causality, i.e. from CSP to FP.
+
+The purpose of this paper is to assess the causal
+relationship between the ﬁrm’s CSP and FP, using
+the Granger causality approach (Granger, 1969). As
+in Mahoney and Roberts (2007), our results do not
+show a consistent statistically signiﬁcant relationship
+between the aggregate measure of a ﬁrm’s CSP and
+all FP measures. However, contrary to this Canadian
+study, our ﬁndings do suggest a signiﬁcant negative
+impact of the environmental dimension of CSP on
+FP. High ratings of social performance in terms of
+environmental activities ‘‘Granger causes’’ lower levels
+of ﬁnancial performance. Our ﬁndings are robust to
+three measures of performance, ROA, ROE and
+stock market returns and to the inclusion of several
+control variables that are known to have an impact
+on CSP and FP.
+
+
+410
+
+Rim Makni et al.
+
+Our contribution to the literature on CSP is
+twofold. First, our paper extends prior large-scale
+American studies of causality between CSP and FP,
+by utilizing data on publicly held Canadian ﬁrms.
+Second, our study is the ﬁrst to investigate the
+causality links between CSP and FP in Canada.
+
+The remainder of the paper is organized as fol-
+lows. In the next section, we examine the ‘‘Theo-
+retical framework’’ regarding the CSP-FP link. The
+third section describes our ‘‘Research methodol-
+ogy’’. In the fourth section, we present the ‘‘results’’
+of the study, followed by the ‘‘Conclusions’’ in the
+last section.
+
+Theoretical framework
+
+Literature review
+
+Preston and O’Bannon (1997) have distinguished
+between the direction of the CSP-FP relationship
+(positive, negative or neutral)
+and the causal
+sequence: does CSP inﬂuence FP, does FP inﬂuence
+CSP, or is there a synergistic relationship between
+the two? They have developed six possible causal
+and directional hypotheses: social impact hypothesis,
+slack resources hypothesis,
+trade-off hypothesis,
+managerial opportunism hypothesis, positive synergy
+hypothesis and negative synergy hypothesis.
+
+The social
+
+impact hypothesis is based on the
+stakeholder theory which suggests that meeting the
+needs of various corporate stakeholders will lead to
+favourable FP (Freeman, 1984). According to this
+hypothesis,
+stake-
+holders enhances a company’s reputation in a way
+that has a positive impact on its FP. Conversely,
+disappointing these groups of stakeholders may have
+a negative ﬁnancial impact (Preston and O’Bannon,
+1997).
+
+serving the implicit claims of
+
+The slack resource hypothesis predicts that better
+FP potentially results in the availability of slack
+resources that may increase a ﬁrm’s ability to invest
+in socially responsible domains such as community
+and society, employee relations or environment
+(Waddock and Graves, 1997).
+The trade-off hypothesis
+
+supposes a negative
+impact of CSP on FP. This hypothesis deals with the
+neoclassical economists’ position which holds that
+socially responsible behaviour will net few economic
+
+beneﬁts while its numerous costs will reduce proﬁts
+and shareholder wealth (Waddock and Graves,
+1997). ‘‘This hypothesis reﬂects the classic Friedman
+position and is supported by the well-known early
+ﬁnding of Vance (1975) that corporations displaying
+strong social credentials experience declining stock
+prices relative to the market average’’ (Preston and
+O’Bannon, 1997, p. 421).
+
+to
+
+According
+
+the managerial
+
+opportunism
+hypothesis, corporate managers may pursue their
+own private objectives to the detriment of both
+shareholders and other stakeholders (Weidenbaum
+and Sheldon, 1987; Williamson, 1967, 1985). In
+fact, when FP is strong, managers may reduce social
+expenditures in order to maximize their own short-
+term private gains. Conversely, when FP weakens,
+managers may engage in conspicuous social pro-
+grams in order to offset their disappointing results
+(Preston and O’Bannon, 1997).
+
+reinvestment
+
+the possibility of
+
+The positive synergy hypothesis supposes that
+higher levels of CSP lead to an improvement of FP,
+which offers
+in
+socially responsible actions (Allouche and Laroche,
+2005a). Indeed, favourable CSP leads to a surplus of
+available funds (social impact hypothesis) which is
+reallocated,
+to the different stakeholders
+(slack resources hypothesis). There may then be a
+simultaneous
+relation
+between CSP and FP,
+forming a virtuous circle
+(Waddock and Graves, 1997).
+
+interactive
+
+in part,
+
+positive
+
+and
+
+However, according to the negative synergy
+hypothesis, higher levels of CSP lead to decreased
+FP, which in turn limits the socially responsible
+investments. There may then be a simultaneous and
+interactive negative relation between CSP and FP,
+forming a vicious circle.
+
+While empirical results concerning the nature of
+the relationship between CSP and FP continue to be
+mixed, the largest number of investigations found a
+positive relationship. This
+the
+positivism of the CSP-FP link is supported by sub-
+sequent meta-analysis
+and Laroche,
+2005b; Orlitzky et al., 2003; Wu, 2006).
+
+tendency towards
+
+(Allouche
+
+Another vein of research focused on the causal
+relationship between CSP and FP. For instance,
+using traditional statistical techniques, Waddock and
+Graves (1997) and Hillman and Keim (2001) ﬁnd a
+positive synergistic relationship between CSP and
+FP showing the existence of a virtuous circle
+
+
+Causality Between Corporate Social Performance and Financial Performance
+
+411
+
+between the two constructs. McGuire et al. (1988)
+ﬁnd that lagged FP measures lead to improved cur-
+rent CSP measures, but the latter does not affect FP.
+In a more recent study, Nelling and Webb (2006)
+examine the causal relationship between CSP and FP
+by introducing a new econometric technique, the
+Granger causality approach. Their ﬁndings suggest
+that, using ordinary least square (OLS) regression
+models, CSP and FP are related. In disagreement
+with prior empirical research, they ﬁnd a lower
+relationship between CSP and FP when employing a
+time series ﬁxed effects approach. The same result is
+found when introducing Granger causality models.
+Furthermore, by focusing on individual measures of
+CSP, they ﬁnd causality running from stock market
+performance to CSP ratings regarding employee’s
+relationships.
+
+studies, Mahoney and Roberts
+
+In addition to those large-scale American empiri-
+(2007) have
+cal
+examined the relationship between CSP and FP in
+the Canadian context. This study has examined the
+relationship between these constructs using the CSID
+measure of CSP.1 Contrary to Waddock and Graves
+(1997), Mahoney and Roberts (2007) found no sig-
+niﬁcant relationship between a composite measure of
+a ﬁrm’s CSP and FP. However, using a one-year lag,
+their ﬁndings indicate a signiﬁcant positive relation-
+ship between individual measures of a ﬁrm’s CSP
+
+regarding environmental and international activities
+and FP. This study has examined only one direction
+of causality: from CSP to FP.
+
+Conceptual model
+
+Past research falls short of showing a clear causal
+relationship between FP and CSP. Our study aims at
+testing the following hypothesis by using the Gran-
+ger causality approach, and by considering exoge-
+nous factors that could mitigate this relationship:
+
+H1: Higher (lower) levels of ﬁnancial performance
+(corporate social performance) Granger cause
+higher (lower) levels of corporate social per-
+formance (ﬁnancial performance).
+
+Figure 1 illustrates our conceptual model. The fol-
+lowing CSP dimensions are assessed in an aggregate
+CSP score and individually: community and society,
+corporate governance, customers, employees, environment
+and human rights. Financial performance is measured
+by two accounting ratios, ROA and ROE and stock
+market returns. Control variables that are known to
+have an impact on CSP and FP, namely size, risk and
+industry, are included in the statistical models to
+better isolate the effect of CSP and FP.
+
+Corporate Social 
+
+Performance
+
+Aggregate score
+Community and 
+society
+Corporate
+governance
+Customers
+Employees
+Environment
+Human rights 
+
+Conceptual model 
+
+Size 
+
+Risk
+
+Industry
+
+Granger causality 
+
+Figure 1. Conceptual model.
+
+Financial
+
+Performance
+
+ROA
+ROE
+Market return 
+
+
+412
+
+Rim Makni et al.
+
+Research methodology
+
+Sample
+
+The sample used in this study is drawn from the
+CSID for the years 2004 and 2005. The framework
+for tracking and reporting on corporate social and
+environmental performance includes a set of social
+and environmental indicators carefully developed by
+MJRA. This framework is based largely on a stake-
+holder model and is similar in many ways to the
+framework used by the SiRi2 Network, of which
+MJRA is a founding member. To further establish
+the credibility of MJRA, it is worth noting that it has
+a longstanding research partnership with KLD
+Research & Analytics, Inc., a worldwide renowned
+ﬁrm providing environmental,
+social and gover-
+nance data to researchers outside of Canada. There
+were 222 companies listed for the year 2004 and 276
+companies for the year 2005. CSP ratings were
+available for 179 companies for both 2004 and 2005.
+Missing values are attributed mostly to income funds
+and trusts.
+
+Variables
+
+Corporate social performance
+For the years 2004 and 2005 we use two measures of
+CSP developed by MJRA. First, we use the aggre-
+gate score of CSP. As researchers are now investi-
+gating the effects of individual dimension variables
+within the KLD and the CSID databases, we per-
+form our empirical tests using ratings for each of the
+dimensions (community and society, corporate governance,
+employees, environment, customers and human rights) as
+separate variables.
+
+Financial performance
+Following Mahoney and Roberts (2007), return on
+assets (ROA) and return on equity (ROE) were used
+separately to measure a ﬁrm’s FP. For robustness, we
+used stock market returns as an additional criterion.
+Data on ROA and ROE were derived from the
+Stock Guide database. Market returns were obtained
+from the Toronto Stock Exchange (TSX) through
+the Canadian Financial Market Research Center
+(CFMRC) database.
+
+In fact,
+
+Control variables
+Some difference in CSP and FP may result from
+ﬁrm size, ﬁrm risk and industry and need to be
+operationalized as control variables (Mahoney and
+Roberts, 2007; Ullman, 1985; Waddock and
+Graves, 1997).
+smaller ﬁrms may not
+exhibit as much overt socially responsible behav-
+iour as do larger ﬁrms
+(Waddock and Graves,
+1997). Furthermore, less risky ﬁrms have a stable
+return model and invest, consequently, in socially
+responsible activities (Roberts, 1992). In addition,
+earlier research has shown that clear differences in
+performance and R&D investment exist among
+different
+industries (Graves and Waddock, 1994;
+Waddock and Graves, 1997). Size and systematic
+risk are also well-known determinants of FP (Fama
+and French, 1992, 1993).
+
+Firm size was measured using the natural loga-
+rithm of total assets. As a proxy for the riskiness of
+a ﬁrm, we used the long-term debt to total assets
+ratio and the beta factor. TSX industries are
+accounted for in our models by dummy variables.
+All control variables were obtained for the year
+2004. Firm size and debt level were derived from
+the Stock Guide database. Beta factors, calculated on
+a ﬁve-year basis, were obtained from the TSX -
+CFMRC.
+
+Statistical analyses
+We address the link between FP and CSP in the
+context of Granger causality (Granger, 1969). This
+approach, applied to our context with two years of
+data, involves the following two-variable regression
+models (Gujarati, 1995):
+CSPi;2005 ¼ a0 þ a1CSPi;2004 þ a2FPi;2004
+
+cjCij þ e1i;
+
+i ¼ 1; . . . ; N ð1Þ
+
+FPi;2005 ¼ b0 þ b1FPi;2004 þ b2CSPi;2004
+
+djCij þ e2i;
+
+i ¼ 1; . . . ; N
+
+ð2Þ
+
+X
+
+J
+
+j¼1
+
+þ
+
+X
+
+J
+
+j¼1
+
+þ
+
+where CSPi,2005 and CSPi,2004 represent the CSP
+score in year 2005 and 2004 for ﬁrm i, FPi,2005
+and FPi,2004 represent the FP in year 2005 and
+2004 for ﬁrm i, Cij is the jth control variable for
+ﬁrm i, j = 1,…, J and e1i and e2i are uncorrelated
+
+
+Causality Between Corporate Social Performance and Financial Performance
+
+413
+
+TABLE I
+
+Descriptive statistics of the sample
+
+N
+
+Mean
+
+Median
+
+Standard deviation
+
+Minimum
+
+Maximum
+
+Corporate social performance (CSP)
+
+Aggregate CSP in 2005
+Aggregate CSP in 2004
+Community & society in 2005
+Community & society in 2004
+Corporate governance in 2005
+Corporate governance in 2004
+Employees in 2005
+Employees in 2004
+Environment in 2005
+Environment in 2004
+Customers in 2005
+Customers in 2004
+Human rights in 2005
+Human rights in 2004
+
+Corporate ﬁnancial performance
+
+Market returns in 2005
+Market returns in 2004
+ROA in 2005
+ROA in 2004
+ROE in 2005
+ROE in 2004
+Control variables
+
+Natural log. of assets in 2004
+Debt level in 2004
+Beta factor in 2004
+
+179
+179
+179
+179
+179
+179
+179
+179
+179
+179
+159
+159
+120
+115
+
+168
+168
+179
+179
+179
+179
+
+179
+179
+179
+
+4.72
+4.77
+4.15
+4.05
+6.67
+6.56
+4.24
+4.15
+5.15
+5.12
+4.79
+5.04
+2.75
+3.80
+
+0.14
+0.40
+0.03
+0.03
+0.09
+0.07
+
+14.80
+0.17
+0.71
+
+4.6
+4.7
+3.8
+3.7
+6.6
+6.6
+4.1
+4.0
+5.1
+5.0
+5.0
+5.0
+2.3
+4.0
+
+0.15
+0.29
+0.04
+0.03
+0.11
+0.09
+
+14.61
+0.15
+0.50
+
+Industries
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals & minerals
+Paper
+
+0.81
+0.81
+1.71
+1.60
+1.14
+1.15
+1.08
+1.10
+0.86
+0.86
+0.73
+0.67
+1.54
+1.44
+
+0.38
+0.45
+0.09
+0.08
+0.18
+0.17
+
+1.76
+0.15
+0.71
+
+n
+
+10
+11
+28
+19
+35
+17
+13
+26
+17
+3
+
+3.0
+3.1
+0.7
+0.7
+3.3
+4.1
+2.0
+2.1
+2.4
+3.1
+1.7
+2.8
+0.0
+0.8
+
+-1.00
+-0.75
+-0.69
+-0.46
+-1.29
+-1.15
+
+11.24
+0.00
+-0.41
+
+7.1
+7.1
+8.8
+8.7
+9.3
+8.9
+7.1
+7.3
+7.1
+7.4
+6.3
+6.6
+5.8
+7.9
+
+1.91
+1.94
+0.23
+0.28
+0.59
+0.62
+
+19.87
+0.70
+3.92
+
+%
+
+5.6
+6.2
+15.6
+10.6
+19.6
+9.5
+7.3
+14.5
+9.5
+1.7
+
+i = 1,…, N. If the coefﬁcient a2 in
+error terms,
+Model (1) is signiﬁcantly different from zero, we
+conclude that FP in 2004 ‘‘Granger causes’’ CSP
+in 2005. Similarly, if the coefﬁcient b2 in Model
+
+(2) is signiﬁcant, we infer causality from CSP in
+2004 to FP in 2005. The same set of control vari-
+ables is used in both regression models. Granger
+(1969) calls the system of equations (1) and (2) the
+
+
+414
+
+Rim Makni et al.
+
+I
+I
+
+E
+L
+B
+A
+T
+
+4
+0
+0
+2
+
+n
+
+i
+
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+l
+
+o
+r
+t
+n
+o
+c
+
+e
+h
+t
+
+d
+n
+a
+
+P
+F
+
+d
+n
+a
+
+P
+S
+C
+h
+t
+i
+
+w
+5
+0
+0
+2
+
+n
+i
+
+s
+e
+r
+u
+s
+a
+e
+m
+P
+F
+
+d
+n
+a
+
+P
+S
+C
+n
+e
+e
+w
+t
+e
+b
+
+s
+t
+n
+e
+i
+c
+ﬁ
+f
+e
+o
+c
+
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+n
+o
+s
+r
+a
+e
+P
+
+E
+O
+R
+
+A
+O
+R
+
+2
+1
+.
+0
+
+4
+1
+.
+0
+
+3
+1
+.
+0
+
+*
+8
+1
+.
+0
+
+*
+*
+1
+2
+.
+0
+-
+
+9
+0
+.
+0
+-
+
+6
+0
+.
+0
+
+9
+0
+.
+0
+-
+
+4
+0
+.
+0
+
+9
+0
+.
+0
+
+7
+0
+.
+0
+
+9
+0
+.
+0
+
+2
+1
+.
+0
+-
+
+4
+1
+.
+0
+-
+
+5
+0
+.
+0
+
+0
+1
+.
+0
+-
+
+*
+*
+*
+9
+5
+.
+0
+
+*
+*
+*
+1
+5
+.
+0
+
+*
+*
+*
+8
+2
+.
+0
+
+4
+0
+.
+0
+
+*
+*
+*
+2
+6
+.
+0
+
+*
+*
+*
+7
+4
+.
+0
+
+4
+1
+.
+0
+
+5
+0
+.
+0
+
+t
+e
+k
+r
+a
+
+M
+
+s
+n
+r
+u
+t
+e
+r
+
+2
+0
+.
+0
+
+1
+0
+.
+0
+
+2
+0
+.
+0
+
+4
+0
+.
+0
+-
+
+*
+*
+0
+2
+.
+0
+-
+
+2
+1
+.
+0
+-
+
+*
+*
+1
+2
+.
+0
+
+*
+8
+1
+.
+0
+
+0
+1
+.
+0
+
+3
+1
+.
+0
+
+1
+1
+.
+0
+
+7
+0
+.
+0
+
+*
+*
+*
+8
+2
+.
+0
+-
+
+*
+3
+2
+.
+0
+-
+
+*
+9
+1
+.
+0
+-
+
+s
+t
+h
+g
+i
+r
+
+n
+a
+m
+u
+H
+
+s
+r
+e
+m
+o
+t
+s
+u
+C
+
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+
+s
+e
+e
+y
+o
+p
+m
+E
+
+l
+
+e
+t
+a
+r
+o
+p
+r
+o
+C
+
+y
+t
+i
+n
+u
+m
+m
+o
+C
+
+e
+t
+a
+g
+e
+r
+g
+g
+A
+
+e
+c
+n
+a
+n
+r
+e
+v
+o
+g
+
+y
+t
+e
+i
+c
+o
+s
+
+&
+
+P
+S
+C
+
+5
+0
+0
+2
+
+r
+a
+e
+Y
+
+4
+0
+0
+2
+
+r
+a
+e
+Y
+
+*
+1
+2
+.
+0
+
+3
+0
+0
+.
+0
+
+*
+9
+1
+.
+0
+
+1
+1
+.
+0
+
+*
+*
+*
+8
+7
+.
+0
+
+*
+2
+2
+.
+0
+-
+
+4
+0
+.
+0
+-
+
+1
+0
+.
+0
+
+2
+1
+.
+0
+
+4
+1
+.
+0
+
+5
+0
+.
+0
+-
+
+6
+0
+.
+0
+
+5
+1
+.
+0
+-
+
+3
+1
+.
+0
+
+0
+1
+.
+0
+-
+
+5
+0
+.
+0
+
+4
+0
+.
+0
+
+1
+1
+.
+0
+
+*
+*
+*
+0
+5
+.
+0
+
+*
+*
+*
+2
+3
+.
+0
+
+*
+*
+3
+2
+.
+0
+
+*
+*
+*
+2
+4
+.
+0
+
+*
+*
+*
+0
+9
+.
+0
+
+*
+*
+*
+5
+5
+.
+0
+
+*
+4
+2
+.
+0
+
+9
+0
+.
+0
+
+*
+*
+2
+2
+.
+0
+
+5
+1
+.
+0
+-
+
+1
+1
+.
+0
+-
+
+2
+0
+.
+0
+-
+
+1
+0
+.
+0
+-
+
+5
+0
+.
+0
+
+8
+0
+.
+0
+
+3
+1
+.
+0
+-
+
+4
+0
+.
+0
+-
+
+5
+0
+.
+0
+-
+
+3
+0
+.
+0
+
+5
+0
+.
+0
+
+2
+0
+.
+0
+-
+
+*
+*
+*
+8
+7
+.
+0
+
+*
+*
+*
+2
+6
+.
+0
+
+*
+*
+*
+5
+3
+.
+0
+
+*
+*
+*
+2
+9
+.
+0
+
+*
+*
+*
+4
+5
+.
+0
+
+*
+*
+6
+2
+.
+0
+
+2
+0
+0
+.
+0
+
+*
+5
+1
+.
+0
+
+9
+0
+.
+0
+
+*
+0
+2
+.
+0
+-
+
+*
+*
+*
+1
+5
+.
+0
+
+6
+0
+.
+0
+
+*
+8
+1
+.
+0
+-
+
+*
+*
+*
+8
+4
+.
+0
+
+*
+*
+*
+6
+8
+.
+0
+
+*
+*
+*
+8
+3
+.
+0
+
+*
+*
+4
+2
+.
+0
+
+*
+*
+3
+2
+.
+0
+
+*
+*
+*
+9
+7
+.
+0
+
+*
+*
+*
+6
+9
+.
+0
+
+*
+*
+*
+7
+2
+.
+0
+
+*
+*
+*
+4
+6
+.
+0
+
+*
+*
+*
+2
+4
+.
+0
+
+*
+*
+*
+4
+9
+.
+0
+
+*
+*
+*
+7
+7
+.
+0
+
+*
+*
+*
+0
+5
+.
+0
+
+*
+*
+*
+1
+8
+.
+0
+
+*
+*
+*
+9
+5
+.
+0
+
+*
+2
+2
+.
+0
+
+3
+0
+.
+0
+-
+
+5
+1
+.
+0
+-
+
+3
+0
+.
+0
+-
+
+*
+*
+*
+6
+3
+.
+0
+
+2
+0
+.
+0
+-
+
+5
+1
+.
+0
+-
+
+*
+*
+*
+1
+3
+.
+0
+-
+
+*
+*
+*
+0
+3
+.
+0
+-
+
+*
+*
+0
+2
+.
+0
+
+4
+0
+.
+0
+
+6
+0
+.
+0
+
+3
+1
+.
+0
+
+*
+7
+1
+.
+0
+-
+
+*
+5
+1
+.
+0
+
+3
+1
+.
+0
+
+*
+7
+1
+.
+0
+
+9
+0
+.
+0
+
+*
+*
+*
+2
+6
+.
+0
+
+*
+*
+*
+5
+5
+.
+0
+
+0
+1
+.
+0
+
+*
+8
+1
+.
+0
+-
+
+8
+0
+.
+0
+
+*
+9
+1
+.
+0
+-
+
+y
+t
+e
+i
+c
+o
+s
+
+&
+y
+t
+i
+
+n
+u
+m
+m
+o
+C
+
+e
+c
+n
+a
+n
+r
+e
+v
+o
+g
+
+e
+t
+a
+r
+o
+p
+r
+o
+C
+
+P
+S
+C
+e
+t
+a
+g
+e
+r
+g
+g
+A
+
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+
+s
+e
+e
+y
+o
+p
+m
+E
+
+l
+
+s
+r
+e
+m
+o
+t
+s
+u
+C
+
+s
+n
+r
+u
+t
+e
+r
+
+t
+e
+k
+r
+a
+
+M
+
+s
+t
+h
+g
+i
+r
+
+n
+a
+m
+u
+H
+
+s
+t
+e
+s
+s
+a
+
+f
+o
+
+n
+L
+
+l
+e
+v
+e
+l
+
+t
+b
+e
+D
+
+r
+o
+t
+c
+a
+f
+
+a
+t
+e
+B
+
+A
+O
+R
+
+E
+O
+R
+
+.
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+1
+0
+0
+.
+0
+
+d
+n
+a
+
+,
+1
+0
+.
+0
+
+,
+5
+0
+.
+0
+
+<
+
+e
+r
+a
+
+s
+e
+u
+l
+a
+v
+-
+p
+*
+*
+*
+
+,
+*
+*
+
+,
+*
+
+
+Causality Between Corporate Social Performance and Financial Performance
+
+415
+
+Results of the OLS regression models testing Granger causality between the aggregate CSP score and market returns
+
+(results of the Granger causality test are italicized)
+
+TABLE III
+
+Independent variable
+
+Dependent variable
+
+Aggregate CSP in 2005 (N = 168)
+
+Market returns in 2005 (N = 168)
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+Intercept
+Aggregate CSP in 2004
+Market returns in 2004
+Natural log. of assets
+Debt level
+Beta factor
+Industry
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals, minerals & paper
+
+R2
+
+0.221
+0.927
+0.022
+0.014
+0.087
+-0.029
+
+-0.161
+-0.368
+-0.020
+-0.033
+-0.079
+-0.275
+-0.349
+-0.159
+
+Reference
+
+0.907
+
+0.237
+0.031
+0.056
+0.016
+0.162
+0.034
+
+0.110
+0.106
+0.088
+0.088
+0.080
+0.094
+0.106
+0.082
+
+p-value
+
+0.353
+<0.001
+0.691
+0.372
+0.590
+0.393
+
+0.144
+0.001
+0.818
+0.711
+0.322
+0.004
+0.001
+0.054
+
+Estimated
+coefﬁcient
+
+-0.113
+-0.095
+0.167
+0.055
+-0.216
+-0.091
+
+-0.300
+-0.007
+-0.245
+-0.329
+-0.107
+0.024
+0.100
+0.179
+
+Reference
+
+0.260
+
+*Granger causality test is statistically signiﬁcant at the 5% level or lower.
+
+Standard
+
+p-value
+
+error
+
+0.313
+0.041
+0.074
+0.021
+0.213
+0.045
+
+0.145
+0.140
+0.116
+0.116
+0.105
+0.124
+0.140
+0.108
+
+0.719
+0.024*
+0.025
+0.010
+0.313
+0.042
+
+0.040
+0.958
+0.036
+0.005
+0.310
+0.848
+0.479
+0.100
+
+simple causal model as opposed to the instanta-
+neous causal model where FP in year 2005 is
+included as an independent variable in Model (1)
+and CSP in year 2005 in Model (2).
+
+The ordinary least squares (OLS) method is used
+to estimate the regression coefﬁcients in Models (1)
+and (2) and to test for Granger causality. The two-
+variable regression equations (1) and (2) are ﬁt sep-
+arately for all combinations of the CSP dimensions
+(aggregate CSP score, community and society, corporate
+governance, employees, environment, customers and human
+rights) with each one of
+the three FP measures
+(ROA, ROE, and stock market returns). Because
+we do not hypothesize a direction for the causality
+(positive or negative), we use a two-sided test for
+coefﬁcients a2 and b2 in Models
+(1) and (2),
+respectively. Statistical signiﬁcance is set at 5%. All
+statistical analyses were performed with SAS 9.1 for
+Windows.
+
+Results
+
+Descriptive statistics of the sample and simple correlation
+analysis
+
+Table I presents the descriptive statistics of CSP and
+FP measures and of the control variables. The means
+of the aggregate CSP score are 4.72 and 4.77 for
+2005 and 2004, respectively. The means for the
+different CSP dimensions vary between 2.75 and
+6.67 and, as for the aggregate CSP, they do not differ
+much between 2004 and 2005. Stock market returns
+were not available for 11 ﬁrms in our sample, so the
+analyses for that particular FP measures are based on
+a sample size of 168 observations. The average
+compounded stock market returns for 2005 and
+2004 are 0.14 and 0.40, respectively. The mean
+ROA is 0.03 for both years and the mean ROE is
+0.09 in 2005 and 0.07 in 2004.
+
+
+416
+
+Rim Makni et al.
+
+TABLE IV
+
+Results of the OLS regression models testing Granger causality between the aggregate CSP score and ROA (results of
+
+the Granger causality test are italicized)
+
+Independent variable
+
+Dependent variable
+
+Aggregate CSP in 2005 (N = 179)
+
+ROA in 2005 (N = 179)
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+Intercept
+Aggregate CSP in 2004
+ROA in 2004
+Natural log. of assets
+Debt level
+Beta factor
+Industry
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals, minerals & paper
+
+R2
+
+0.283
+0.933
+0.204
+0.008
+0.089
+-0.022
+
+-0.152
+-0.359
+-0.023
+-0.022
+-0.114
+-0.283
+-0.418
+-0.168
+
+Reference
+
+0.905
+
+0.217
+0.030
+0.271
+0.015
+0.161
+0.032
+
+0.101
+0.099
+0.084
+0.090
+0.073
+0.086
+0.098
+0.079
+
+p-value
+
+0.193
+<0.001
+0.453
+0.587
+0.580
+0.495
+
+0.133
+<0.001
+0.784
+0.806
+0.123
+0.001
+<0.001
+0.034
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+0.059
+0.008
+0.073
+0.004
+0.044
+0.009
+
+0.027
+0.027
+0.023
+0.024
+0.020
+0.023
+0.027
+0.021
+
+0.034
+-0.010
+0.632
+0.008
+-0.073
+-0.022
+
+-0.053
+-0.049
+-0.102
+-0.085
+-0.038
+-0.067
+-0.042
+-0.058
+
+Reference
+
+0.478
+
+p-value
+
+0.561
+0.214
+<0.001
+0.065
+0.094
+0.014
+
+0.055
+0.073
+<0.001
+0.001
+0.056
+0.005
+0.114
+0.007
+
+*Granger causality test is statistically signiﬁcant at the 5% level or lower.
+
+The Pearson correlation coefﬁcients between the
+CSP and FP measures in 2005 with CSP, FP and the
+control variables in 2004 are given in Table II. In
+general,
+the CSP and FP measures in 2005 are
+positively and strongly correlated with their corre-
+sponding CSP and FP measures in year 2004. Fur-
+thermore, except for the customer and human rights
+dimensions, the other CSP dimensions are strongly
+correlated with the aggregate CSP score and they are
+also correlated with each other.
+
+Results of the regression models testing Granger
+causality between aggregate CSP and FP
+
+Tables III, IV and V present the results of the OLS
+regression models
+causality’’
+between the aggregate CSP score and the three FP
+measures, respectively. According to Models (1) and
+(2) in Section ‘‘Statistical analyses’’,
+the primary
+
+‘‘Granger
+
+testing
+
+independent variables are CSP and FP in 2004, the
+latter being measured either by compounded stock
+market returns, ROA and ROE. The natural loga-
+rithm of total assets, debt level, beta factor in 2004
+and industry are included as control variables in both
+models. Because there were only 3 paper-sector
+ﬁrms (Table I) whose averages for the CSP and FP
+measures were not statistically different from the
+average scores of the ﬁrms in the metals and minerals
+sector, ﬁrms in all these industries were pooled and
+were arbitrarily used as the reference category in the
+regression models.
+
+We ﬁnd for Model (1) in Tables III, IV and V that
+the relationship between the aggregate CSP score in
+2005 and the three FP measures in 2004 are not sta-
+tistically signiﬁcant. Therefore, FP does not ‘‘Granger
+cause’’ CSP. As for the second model, we have a
+statistically signiﬁcant negative relationship between
+the aggregate CSP score in 2004 and stock market
+returns in 2005 (p = 0.024, Table III). This suggests a
+
+
+Causality Between Corporate Social Performance and Financial Performance
+
+417
+
+Results of the OLS regression models testing Granger causality between the aggregate CSP score and ROE (results of
+
+the Granger causality test are italicized)
+
+TABLE V
+
+Independent variable
+
+Dependent variable
+
+Aggregate CSP in 2005 (N = 179)
+
+ROE in 2005 (N = 179)
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+Intercept
+Aggregate CSP in 2004
+ROE in 2004
+Natural log. of assets
+Debt level
+Beta factor
+Industry
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals, minerals & paper
+
+R2
+
+0.284
+0.932
+0.116
+0.009
+0.084
+-0.022
+
+-0.154
+-0.362
+-0.034
+-0.023
+-0.109
+-0.286
+-0.419
+-0.170
+
+Reference
+
+0.905
+
+0.216
+0.030
+0.126
+0.015
+0.159
+0.032
+
+0.101
+0.100
+0.083
+0.089
+0.074
+0.086
+0.098
+0.079
+
+p-value
+
+0.190
+<0.001
+0.359
+0.573
+0.597
+0.498
+
+0.129
+<0.001
+0.687
+0.797
+0.141
+0.001
+<0.001
+0.033
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+-0.017
+-0.022
+0.440
+0.025
+-0.179
+-0.055
+
+-0.113
+-0.091
+-0.196
+-0.205
+-0.080
+-0.135
+-0.090
+-0.129
+
+Reference
+
+0.420
+
+0.116
+0.016
+0.068
+0.008
+0.085
+0.017
+
+0.054
+0.053
+0.045
+0.048
+0.039
+0.046
+0.053
+0.042
+
+p-value
+
+0.884
+0.162
+<0.001
+0.003
+0.038
+0.002
+
+0.038
+0.089
+<0.001
+<0.001
+0.044
+0.004
+0.088
+0.003
+
+*Granger causality test is statistically signiﬁcant at the 5% level or lower.
+
+unidirectional ‘‘Granger causal’’ relationship between
+the aggregate CSP score and stock market returns: a
+higher overall corporate social performance ‘‘Granger
+causes’’ a lower market return on average. The rela-
+tionships between the aggregate CSP score in 2004
+with ROA and ROE in 2005 are however not sta-
+tistically signiﬁcant (see Tables IV and V).
+
+It is also worth noting that the results from the
+causality speciﬁcations using the aggregate CSP as the
+dependent variable show very high R2 (91%). This is
+mainly due to the very strong association between
+2005 and 2004 CSP scores (Table II), suggesting little
+variation in these scores over that two-year period.
+
+Results of the different CSP dimensions
+
+Rather than focusing on the composite measure
+of CSP,
+some authors examined the individual
+dimensions of CSP (e.g. Fisman et al., 2005; Hillman
+
+(e.g.
+
+and Keim, 2001; Nelling and Webb, 2006). The
+ﬁndings of Hillman and Keim (2001) indicate that
+the restricted CSP measure linked to stakeholder
+management
+shareholders, employees, cus-
+tomers) is associated with FP. In addition, Fisman
+et al. (2005) ﬁnd that the individual measure of CSP
+regarding community positively affects FP in
+advertising-intensive industries. Furthermore, Nel-
+ling and Webb (2006) test the relationship between
+FP and individual measures of CSP and ﬁnd that the
+only aspect of CSP driven by ﬁnancial performance
+is ‘employee relations’.
+
+In the present study, we examine the relationship
+between FP and individual measures of CSP derived
+from the CSID (community and society, corporate gov-
+ernance, employees, customers, environment and human
+rights). Speciﬁcally, we ﬁt the regression Models (1)
+and (2) six different times by substituting the CSP
+score of community and society, corporate governance,
+employees, customers, environment and human rights for
+
+
+418
+
+Rim Makni et al.
+
+TABLE VI
+
+Results of the OLS regression models testing Granger causality between the environment score and market returns (re-
+
+sults of the Granger causality test are italicized)
+
+Independent variable
+
+Dependent variable
+
+Environment in 2005 (N = 168)
+
+Market returns in 2005 (N = 168)
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+Intercept
+Environment in 2004
+Market returns in 2004
+Natural log. of assets
+Debt level
+Beta factor
+Industry
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals, minerals & paper
+
+R2
+
+1.604
+0.923
+-0.051
+-0.054
+0.296
+0.002
+
+-0.413
+-0.581
+-0.497
+-0.233
+-0.363
+-0.430
+-0.572
+-0.554
+
+Reference
+
+0.858
+
+0.319
+0.035
+0.073
+0.019
+0.211
+0.045
+
+0.142
+0.139
+0.116
+0.117
+0.104
+0.123
+0.139
+0.107
+
+p-value
+
+<0.001
+<0.001
+0.489
+0.006
+0.163
+0.968
+
+0.004
+<0.001
+<0.001
+0.049
+0.001
+0.001
+<0.001
+<0.001
+
+Estimated
+coefﬁcient
+
+0.063
+-0.111
+0.149
+0.050
+-0.245
+-0.074
+
+-0.280
+-0.035
+-0.298
+-0.231
+-0.096
+0.059
+0.117
+0.190
+
+Reference
+
+0.283
+
+*Granger causality test is statistically signiﬁcant at the 5% level or lower.
+
+Standard
+
+p-value
+
+error
+
+0.318
+0.035
+0.073
+0.019
+0.210
+0.044
+
+0.141
+0.139
+0.115
+0.117
+0.103
+0.123
+0.138
+0.107
+
+0.842
+0.002*
+0.042
+0.010
+0.246
+0.099
+
+0.049
+0.801
+0.011
+0.049
+0.352
+0.628
+0.398
+0.077
+
+CSP. We ﬁnd no statistically signiﬁcant relationship
+between the CSP individual measures and the FP
+measures except for environment and employee. Hence,
+only the regression results with these latter two
+dimensions are presented in more detail here.3
+Results for the employee CSP score are similar to those
+of the aggregate CSP score, i.e. there is a statistically
+signiﬁcant negative association in Model (2) between
+the employee CSP score in 2004 and stock market
+returns in 2005 (p = 0.038), and this latter signiﬁcant
+association is not observed with ROA and ROE.
+
+testing
+
+‘‘Granger
+
+Tables VI, VII and VIII present the results of the
+causality’’
+regression models
+between the CSP environment score and market re-
+turns, ROA, and ROE, respectively. There is no
+statistically signiﬁcant relationship between the three
+FP measures in 2004 and the CSP environment score
+in 2005; the p-values are 0.489, 0.162 and 0.319 for
+market returns, ROA, and ROE, respectively. On
+the other hand, there is a statistically signiﬁcant and
+
+negative relationship of the 2004 CSP environment
+score with the 2005 stock market returns (p = 0.002,
+Table VI) and also with the 2005 ROA (p = 0.028,
+Table VII). The negative relationship with ROE in
+2005 is close to being statistically signiﬁcant at the
+5% level
+(p = 0.059, Table VIII), which gives
+robustness to our results. Hence, the ﬁnding of an
+unidirectional and negative ‘‘Granger causal’’ rela-
+tionship between the CSP environment score and the
+FP measures supports the trade-off hypothesis and,
+in part, the negative synergy hypothesis.4 Indeed,
+our ﬁndings suggest a negative impact of CSP envi-
+ronment score on FP measures but the latter does not
+affect CSP.
+
+Conclusions
+
+This study was undertaken to investigate the causal
+relationship between CSP and FP in Canadian ﬁrms.
+
+
+Causality Between Corporate Social Performance and Financial Performance
+
+419
+
+Results of the OLS regression models testing Granger causality between the environment score and ROA (results of
+
+the Granger causality test are italicized)
+
+TABLE VII
+
+Independent variable
+
+Dependent variable
+
+Environment in 2005 (N = 179)
+
+ROA in 2005 (N = 179)
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+Intercept
+Environment in 2004
+ROA in 2004
+Natural log. of assets
+Debt level
+Beta factor
+Industry
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals, minerals & paper
+
+R2
+
+1.502
+0.927
+0.487
+-0.053
+0.331
+0.005
+
+-0.394
+-0.560
+-0.468
+-0.188
+-0.342
+-0.402
+-0.608
+-0.562
+
+Reference
+
+0.862
+
+0.285
+0.032
+0.347
+0.018
+0.206
+0.041
+
+0.129
+0.127
+0.107
+0.117
+0.094
+0.111
+0.126
+0.101
+
+p-value
+
+<0.001
+<0.001
+0.162
+0.004
+0.110
+0.902
+
+0.003
+<0.001
+<0.001
+0.111
+<0.001
+<0.001
+<0.001
+<0.001
+
+*Granger causality test is statistically signiﬁcant at the 5% level or lower.
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+p-value
+
+0.060
+0.007
+0.073
+0.004
+0.043
+0.009
+
+0.027
+0.027
+0.022
+0.025
+0.020
+0.023
+0.026
+0.021
+
+0.320
+0.028*
+
+<0.001
+0.045
+0.074
+0.019
+
+0.079
+0.054
+<0.001
+0.004
+0.078
+0.010
+0.174
+0.009
+
+0.060
+-0.015
+0.629
+0.008
+-0.078
+-0.020
+
+-0.048
+-0.052
+-0.108
+-0.073
+-0.035
+-0.061
+-0.036
+-0.056
+
+Reference
+
+0.488
+
+To our knowledge, this is the ﬁrst study to examine
+causal relationships in a Canadian setting.
+
+According to Mahoney and Roberts (2007) but
+contrary to Waddock and Graves (1997) our results
+suggest no signiﬁcant
+relationship between the
+aggregated CSP score and FP, except for market
+returns. This latter ﬁnding is mainly driven by the
+statistically signiﬁcant results of the environment and
+employee dimensions of CSP. However, we ﬁnd a
+robust unidirectional and negative ‘‘Granger causal’’
+relationship between the environmental dimension
+of CSP and all three FP measures, which is consis-
+tent with the trade-off hypothesis and, in part, with
+the negative synergy hypothesis which states that
+socially responsible ﬁrms experience lower proﬁts
+and reduced shareholder wealth, which in turn limits
+the socially responsible investments.
+
+Regulatory compliance, management systems and
+good control of resources and pollution should,
+theoretically, create a social
+reputation amongst
+
+stakeholders that will eventually enhance ﬁnancial
+performance. However, our results show that cor-
+porate social initiatives in Canada, especially envi-
+ronmental programmes, lead to poor performance in
+the short term. Compared to large US corporations,
+Canadian ﬁrms are relatively small
+in size. Envi-
+ronmental initiatives appear too costly and do not
+seem to be considered as sound investments by the
+Canadian market. Government subsidies may be
+necessary to compensate for the short-term negative
+impact on ﬁnancial performance that these ﬁrms
+suffer. Firms and policy makers can use the results of
+this
+study to understand the short run ﬁnancial
+implications of making environmental
+spending
+decisions and improve corporate environmental
+disclosure in Canada. Although our results show that
+a better environmental performance is associated
+with poor short run FP, as Ambec and Lanoie (2007)
+argue, augmented environmental expenses could
+be compensated in the long run by increases in
+
+
+420
+
+Rim Makni et al.
+
+TABLE VIII
+
+Results of the OLS regression models testing Granger causality between the environment score and ROE (results of
+
+the Granger causality test are italicized)
+
+Independent variable
+
+Dependent variable
+
+Environment in 2005 (N = 179)
+
+ROE in 2005 (N = 179)
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+Intercept
+Environment in 2004
+ROE in 2004
+Natural log. of assets
+Debt level
+Beta factor
+Industry
+
+Communications & media
+Consumer products
+Financial services
+Gold & precious metals
+Industrial products
+Merchandizing
+Utilities
+Oil & gas
+Metals, minerals & paper
+
+R2
+
+1.511
+0.924
+0.162
+-0.052
+0.305
+0.0003
+
+-0.392
+-0.559
+-0.490
+-0.205
+-0.334
+-0.402
+-0.602
+-0.560
+Reference
+
+0.862
+
+0.285
+0.032
+0.162
+0.018
+0.205
+0.041
+
+0.129
+0.128
+0.107
+0.117
+0.095
+0.111
+0.127
+0.101
+
+*Granger causality test is statistically signiﬁcant at the 5% level.
+
+p-value
+
+<0.001
+<0.001
+0.319
+0.005
+0.138
+0.994
+
+0.003
+<0.001
+<0.001
+0.081
+0.001
+<0.001
+<0.001
+<0.001
+
+Estimated
+coefﬁcient
+
+Standard
+
+error
+
+0.118
+0.013
+0.067
+0.008
+0.085
+0.017
+
+0.054
+0.053
+0.044
+0.048
+0.039
+0.046
+0.053
+0.042
+
+0.019
+-0.025
+0.439
+0.024
+-0.184
+-0.052
+
+-0.104
+-0.097
+-0.207
+-0.182
+-0.076
+-0.126
+-0.083
+-0.127
+
+Reference
+
+0.426
+
+p-value
+
+0.872
+0.059
+<0.001
+0.002
+0.032
+0.002
+
+0.055
+0.070
+<0.001
+<0.001
+0.056
+0.007
+0.114
+0.003
+
+revenues through a better access to certain markets,
+the possibility to differentiate products and sell
+pollution-control technology and the reductions of
+costs related to regulations, material,
+labour and
+capital market.
+
+These results must be interpreted with some
+limitations in mind. First, the CSP measures used in
+the analyses are subject to the limitations inherent in
+the measurement of CSP activities. Indeed, although
+an independent ﬁrm performs the CSID ratings,
+they are based on this ﬁrm’s deﬁnition and evalua-
+tion of CSP. Second, our analysis takes into account
+only the years 2004 and 2005. Further studies should
+aim at evaluating the long-term relation existing
+between CSP and FP.
+
+Notes
+
+1 MJRA started publishing CSP scores in 2004. Prior
+to 2004, CSP was evaluated solely by using strengths
+
+SiRi
+
+stands
+
+calculated composite
+
+and concerns (or weaknesses). Mahoney and Roberts
+(2007)
+scores by subtracting
+‘‘weaknesses’’ ratings
+from ‘‘strengths’’ ratings. These
+authors acknowledged the limitations of their approach
+and stated in their conclusion that ‘‘… future research
+using different weights for each of the CSP dimensions
+may prove to be beneﬁcial’’. In the present study, we
+use the weighted scores calculated by MJRA.
+2
+
+for ‘‘Sustainable Investment Research
+International Ltd’’. This company is the world’s largest
+independent provider of Socially Responsible Invest-
+ment research and consulting services for institutional
+investors and ﬁnancial professionals. http://www.siri
+company.com/index.shtml
+3 The regression results for the other individual CSP
+measures are available upon request from the second
+author.
+4 We analysed the residuals of the regression equations
+(1) and (2) of the ‘‘Granger causal’’ testing approach to
+detect possible outlying observations and to verify the
+assumptions underlying the OLS method used to esti-
+mate
+in both models.
+
+regression coefﬁcients
+
+the
+
+
+Causality Between Corporate Social Performance and Financial Performance
+
+421
+
+The residuals analysis did not show departures from the
+OLS assumptions for any of the ﬁtted models. How-
+ever, we found only a few outlying observations for the
+FP measures. We did the ‘‘Granger causality’’ analyses
+without these few outlying observations, and we ob-
+tained similar results that do not change the conclu-
+sions. For example,
+the p-value associated with the
+negative regression coefﬁcient of the CSP environment
+score in 2004 with each one of the three dependent FP
+measures in 2005 was even lower and reaches statistical
+signiﬁcance for ROE (p = 0.001 for market returns in
+2005, p = 0.004 for ROA in 2005 and p = 0.010 for
+ROE in 2005).
+
+References
+
+Allouche,
+
+J. and P. Laroche: 2005a,
+
+‘Responsabilite´
+sociale et performance ﬁnancie`re des entreprises: une
+synthe`se de la litte´rature’, Actes du colloque organise´
+par CREFIGE et CERIT (Nancy), 17–19 Mars.
+
+Allouche, J. and P. Laroche: 2005b, ‘A Meta-Analytical
+Investigation of the Relationship Between Corporate
+Social and Financial Performance’, Revue de Gestion des
+Ressources Humaines 57, 18–40.
+
+Ambec, S. and P. Lanoie: 2007, ‘When and Why Does It
+Pay to be Green?’, Working Paper, Grenoble Applied
+Economics Laboratory (GAEL), Universite´ Pierre
+Mende`s-France.
+
+Brooks, L. J.: 1997, ‘Business Ethics in Canada: Distinc-
+tiveness and Directions’, Journal of Business Ethics 16(6),
+591–604. doi:10.1023/A:1005758211031.
+
+Fama, E. F. and K. R. French: 1992, ‘The Cross-Section
+of Expected Stock Returns’, The Journal of Finance
+47(2), 427–465. doi:10.2307/2329112.
+
+Fama, E. F. and K. R. French: 1993, ‘Common Risk
+Factors in the Returns on Stocks and Bonds’, Journal of
+Financial Economics 33, 3–56. doi:10.1016/0304-405X
+(93)90023-5.
+
+Fisman, R., G. Heal and V. Nair: 2005, ‘Corporate Social
+Responsibility: Doing Well by Doing Good?’, Work-
+ing Paper, University of Pennsylvania.
+
+Freeman, R. E.: 1984, Strategic Management: A Stakeholder
+
+Approach (Pitman, Boston).
+
+Friedman, M.: 1970,
+
+‘The Social Responsibility of
+Business is to Increase Its Proﬁts’, The New York Times
+Magazine 13, 32–33.
+
+Granger, C. W. J.: 1969, ‘Investigating Causal Relations
+by Econometric Models and Cross-Spectral Methods’,
+Econometrica 37, 428–438.
+
+Graves, S. B. and S. A. Waddock: 1994, ‘Institutional
+Owners and Corporate Social Performance’, Academy
+
+of Management Journal 37(4), 1034–1046. doi:10.2307/
+256611.
+
+Gujarati, D. N.: 1995, Basic Econometrics, 3rd Edition
+
+(McGraw Hill, New York).
+
+Harrison, J. and R. Freeman: 1999, ‘Stakeholders, Social
+Responsibility, and Performance: Empirical Evidence
+and Theoretical Perspectives’, Academy of Management
+Journal 42, 479–487. doi:10.2307/256971.
+
+Hillman, A. J. and G. D. Keim: 2001, ‘Shareholder Value,
+Stakeholder Management and Social Issues: What’s
+the Bottom Line?’, Strategic Management Journal 22,
+125–139. doi:10.1002/1097-0266(200101)22:2<125
+::AID-SMJ150>3.0.CO;2-H.
+
+Mahoney, L. and R. W. Roberts: 2004,
+
+‘Corporate
+Social Performance: Empirical Evidence on Canadian
+Firms’, Research on Professional Responsibility and Ethics
+in Accounting 9, 73–99.
+
+Mahoney, L. and R. W. Roberts: 2007,
+
+‘Corporate
+Social Performance, Financial Performance and Insti-
+tutional Ownership in Canadian Firms’, Accounting
+Forum. doi:10.1016/j.accfor.2007.05.001.
+
+McGuire, J. B., A. Sundgren and T. Schneeweis: 1988,
+‘Corporate Social Responsibility and Firm Financial
+Performance’, Academy of Management Journal 31(4),
+854–872. doi:10.2307/256342.
+
+MJRA Inc.: 2003, http://www.mjrajsi.com/about.asp?
+
+section=1&level_2=0&level_3=0.
+Nelling, E. and E. Webb: 2006,
+
+‘Corporate Social
+Responsibility and Financial Performance: The Vir-
+tuous Circle Revisited’, Working Paper, Drexel Uni-
+versity and Federal Reserve Bank of Philadelphia.
+
+Orlitzky, M., F. L. Schmidt and S. L. Rynes: 2003,
+‘Corporate Social and Financial Performance: A Meta-
+Analysis’, Organization Studies 24(3), 403–441. doi:10.
+1177/0170840603024003910.
+
+Preston, L. E. and D. P. O’Bannon: 1997, ‘The Corpo-
+rate Social-Financial Performance Relationship: A
+Typology and Analysis’, Business and Society 36, 419–
+429. doi:10.1177/000765039703600406.
+
+Roberts, R. W.: 1992, ‘Determinants of Corporate Social
+Responsibility Disclosure: An Application of Stake-
+holder Theory’, Accounting, Organizations and Society
+17(6), 595–612. doi:10.1016/0361-3682(92)90015-K.
+Ullman, A.: 1985, ‘Data in Search of a Theory: A Critical
+Examination of the Relationships Among Social Per-
+formance, Social Disclosure, and Economic Perfor-
+mance of U.S. Firms’, Academy of Management Review
+10(3), 540–557. doi:10.2307/258135.
+
+Vance, S.: 1975, ‘Are Socially Responsible Firms Good
+
+Investment Risks?’, Management Review 64, 18–24.
+
+Waddock, S. A. and S. M. Graves: 1997, ‘The Corporate
+Social Performance-Financial Performance Link’,
+Strategic Management Journal 18(4), 303–319. doi:10.
+
+
+422
+
+Rim Makni et al.
+
+1002/(SICI)1097-0266(199704)18:4<303::AID-SMJ
+869>3.0.CO;2-G.
+
+Weidenbaum, M. and V. Sheldon: 1987, ‘Takeovers and
+Stockholders: Winners and Losers’, California Manage-
+ment Review 29(4), 57–168.
+
+Williamson, O. E.: 1967, The Economics of Discretionary
+Behaviour: Managerial Objectives in a Theory of the Firm
+(Markham, Chicago).
+
+Williamson, O. E.: 1985, The Economic Institutions of
+
+Capitalism (Free Press, New York).
+
+Wu, M.-L.: 2006, ‘Corporate Social Performance, Cor-
+porate Financial Performance, and Firm Size: A Meta-
+Analysis’, Journal of American Academy of Business 8(1),
+163–171.
+
+Rim Makni
+FSEG Sfax,
+Sfax, Tunisia
+
+Claude Francoeur and Franc¸ois Bellavance
+HEC Montreal,
+Montreal, QC, Canada
+E-mail: claude.francoeur@hec.ca
+

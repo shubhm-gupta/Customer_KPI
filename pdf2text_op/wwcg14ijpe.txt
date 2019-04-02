@@ -1,0 +1,1896 @@
+Int. J. Production Economics 147 (2014) 220–229
+
+Contents lists available at ScienceDirect
+
+Int. J. Production Economics
+
+journal homepage: www.elsevier.com/locate/ijpe
+
+Aligning supply chain strategy with corporate environmental
+strategy: A contingency approach
+
+Tienhua Wu a, Yen-Chun Jim Wu b,n, Yenming J. Chen c, Mark Goh d
+a Graduate Institute of Management, National Kaohsiung First University of Science & Technology, Taiwan
+b Department of Business Management, National Sun Yat-Sen University 70, Lienhai Rd., Kaohsiung 80424, Taiwan
+c Department of Logistics Management, National Kaohsiung First University of Science & Technology, Taiwan
+d NUS Business School, NUS and University of South Australia, Singapore
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 1 June 2012
+Accepted 27 February 2013
+Available online 14 March 2013
+
+Keywords:
+Supply chain strategy
+Corporate environmental strategy
+Alignment
+Proﬁle deviation
+Performance
+
+1.
+
+Introduction
+
+Environmental sustainability is driving ﬁrms to extend their green effort across their supply chain.
+However, the literature has not thoroughly examined the multiple relationships among supply chain
+(SC) strategy, corporate environmental (CE) strategy, and ﬁrm performance. As such, this paper, adopts
+an alignment perspective to empirically examine the complex links between four SC strategies and four
+CE strategies on 172 manufacturing ﬁrms in Taiwan. Using proﬁle deviation analysis, it is found that
+overall an SC strategy when properly aligned with a CE strategy leads to improved ﬁrm performance.
+Speciﬁcally, a risk-hedging SC strategy should be aligned with a defensive CE strategy to yield improved
+ﬁrm performance. Likewise, a responsive SC strategy should be aligned with an accommodative CE
+strategy, and an agile SC strategy with a proactive CE strategy.
+
+& 2013 Elsevier B.V. All rights reserved.
+
+Environmental sustainability drives ﬁrms to not only develop
+corporate environmental proactivity but also to move toward
+green/sustainable supply chain management (Aragon-Correa and
+Rubio-Lo´ pez, 2007; Seuring and M ¨uller, 2008). Already, ﬁrms
+have adopted environmental friendly practices such as environ-
+mental purchasing (Green et al., 1996), green supply (Bowen
+et al., 2001), green supply chain management (GSCM) (Zhu and
+Sarkis, 2004), and sustainable logistics strategies (Kumar and
+Putnam, 2008).
+
+Research (Carter and Rogers, 2008; Molina-Azorı´n et al., 2009)
+suggests that proactive green initiatives yield competitiveness,
+economic beneﬁts, better corporate social responsibility, and
+sustainability. However, the implementation of environmental
+management involves numerous actors in the supply chain,
+which may lead to managerial challenges related to broader
+organizational complexities (Vachon and Klassen, 2008), high
+transaction costs, supply risk, and effective control over suppliers
+and implementation (Simpson and Power, 2005). These different
+outcomes could be due to the fact that sustainability broadens
+supply chain management to a wider and integrated perspective
+rather than a uni-dimensional and dichotomous view (Linton
+et al., 2007; Seuring and M ¨uller, 2008).
+
+n Corresponding author. Tel.: þ886 7 5251005.
+
+E-mail addresses: tienhua5678@gmail.com (T. Wu),
+
+wuyenchun@gmail.com (Y.-C. Jim Wu), yjjchen@nkfust.edu.tw (Y.J. Chen),
+mark_goh@nus.edu.sg (M. Goh).
+
+0925-5273/$ - see front matter & 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.ijpe.2013.02.027
+
+According to Linton et al. (2007), sustainability changes exist-
+ing practices and creates new production and management
+systems. As such, it is difﬁcult for ﬁrms to achieve a balance
+between the traditional efﬁciency based performance and envir-
+onmental beneﬁts, which in turn inﬂuences green management at
+the business and functional
+levels (Handﬁeld et al., 2005;
+Mollenkopf et al., 2010). To mitigate the environmental risks
+arising from supply chain uncertainties and other issues, new
+analytical tools, performance metrics, and frameworks to are
+needed address the environmental issues in the supply chain
+(Fabbe-Costes et al., 2011; Handﬁeld et al., 2005; Simpson and
+Power, 2005). However reengineering the supply chain under
+such a complex and uncertain context is a challenge. Bielak et al.
+(2007), in a survey of 391 CEOs, report that competing strategic
+priorities and the lack of recognition from ﬁnancial markets
+are the main impediments when implementing integrated
+approaches to sustainability. They also indicate that it is difﬁcult
+to manage a sustainable supply chain operating under different
+national regulations and social norms. Thus, two research ques-
+tions arise: (1) what is the effective management of the multiple
+relationships between supply chain management and the envir-
+onment, and (2) how does the deviation of the strategies from the
+ideal affect the overall ﬁrm performance.
+
+Mollenkopf et al. (2010) urge that research should address how
+ﬁrms could implement green,
+lean, and global supply chain
+strategies concurrently to provide effective decision making across
+the supply chain. Further, Monczka and Petersen (2012) suggest
+that environmentally sustainable supply chain management is an
+integrated strategy which must align closely with and support
+
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+221
+
+business strategy in response to a changing marketplace. In the
+context of aligning goals for both efﬁciency and the environment, it
+is critical for ﬁrms to understand the unique needs of each strategy,
+and develop new capabilities to strategically integrate sustainabil-
+ity into the Supply Chain (SC) strategy and effectively manage the
+complex relations underlying these two strategies. Accordingly,
+this study adopts an alignment or ﬁt perspective to examine the
+relationships between SC strategy and corporate environmental
+(CE) strategy, and the inﬂuence of the degree of alignment of these
+two strategies on performance enhancement.
+
+Already, a signiﬁcant amount of strategic alignment studies
+exists in the environmental management and green supply chain
+management literature. For instance, based on both moderation
+and mediation models, organizational factors and business cir-
+cumstances are employed in discussing the environmental-
+performance linkage, e.g. industrial growth (Russo and Fouts,
+1997), complementary assets (Christmann, 2000), business cir-
+cumstances (Gonza´ lez-Benito and Gonza´ lez-Benito, 2005), and
+ﬁrm resources (Lo´ pez-Gamero et al., 2009). Further, research (e.g.
+Kocabasoglu et al., 2007; Wu et al., 2012; Zhu and Sarkis, 2004)
+has identiﬁed that factors such as production principles, will-
+ingness to take risk, and institutional pressures have moderating
+effects on green/reverse supply chain management. In contrast,
+some studies suggest that environmental practices have mediated
+impacts on green supply and manufacturing competitiveness (e.g.
+Bowen et al., 2001; Yang et al., 2010). Nevertheless, these studies
+mostly examine the relationships among the variables using the
+reductionist approach, which may not fully explain the interde-
+pendencies among the research constructs (Umanath, 2003).
+Besides, there is a dearth of research on the alignment effects of
+supply chain uncertainty and environmental strategy selection.
+Our paper borrows from the IS literature and adopts the proﬁle
+deviation approach (Venkatraman, 1989). In this approach, align-
+ment is conceptualized as the adherence to an external proﬁle of
+an ideal type. In short, an ideal alignment scenario is deduced
+from theory and the deviations from this ideal state (usually
+measured empirically) are computed for further analysis.
+
+This paper makes the following contributions. First, we adopt a
+novel methodological innovation as proﬁle deviation analysis is
+relatively new to the environmental and supply chain ﬁeld (Chen
+et al., 2011; Sun et al., 2009). Second, this study empirically
+examines the alignment impact of SC strategy and CE strategy on
+ﬁrm performance. Alignment in this study suggests that a ﬁrm’s
+choice of a CE strategy ﬁts its SC strategy. Greater alignment is
+viewed as a highly internal consistency of the activities that
+implement the numerous attributes of SC and CE strategies. From
+a managerial perspective, the alignment concept provides ﬁrms
+with a useful and systematic tool for considering SC and CE
+strategies simultaneously and then making holistic decisions
+within the ﬁrm and across the supply chain. Combined, an
+alignment of two distinct strategy streams under a proﬁle devia-
+tion approach allows for effective decision making on environ-
+mental resource allocation in a supply chain context. This is
+unique to the ﬁeld and is consistent with the multi-dimensional
+and holistic perspective of sustainable supply chain management.
+Thus, a high degree of adherence to the ideal proﬁles of SC and CE
+strategies improves ﬁrm performance. The third contribution is to
+provide a research agenda that systematically addresses SC and
+CE strategies to explain the possible beneﬁts on performance. In
+doing so, this paper contributes to the literature by providing a
+uniﬁed theoretical lens to examine the complex network relation-
+ships and interactions of the different domains related to supply
+chain, sustainability, strategy, and performance. This will lend
+new insights into the theory and practice of SC and CE strategies.
+The rest of the paper is organized as follows. Section 2 ﬁrst
+provides the theoretical background on the alignment concept
+
+and the ideal proﬁles of the SC and CE strategies, and then
+introduces the research model and hypotheses. Section 3
+describes the research method, followed by a presentation of
+the results in Section 4. Section 5 provides a discussion of the
+ﬁndings, implications, and limitations and some directions for
+future research.
+
+2. Theoretial background and hypotheses
+
+We ﬁrst discuss the alignment concept, the four ideal proﬁles
+for SC strategy, and the four ideal proﬁles for CE strategy, and
+then develop the research hypotheses.
+
+2.1. Alignment concept
+
+According to Nadler and Tushman (1980), alignment is the
+adjustment of one component in relation to another component so
+that the arrangement leads to an optimal consequence of the
+relationship between the components. Kaplan and Norton (2006)
+deﬁne strategic alignment as the internal consistency of the activ-
+ities that implement the different attributes of strategy. The concept
+of alignment or ﬁt is essential in a process of change in strategy
+formulation. As suggested by Miles and Snow (1984:12),
+‘‘the
+process of achieving ﬁt begins, conceptually at least, by aligning
+the company to its marketplace y this process of alignment deﬁnes
+the company’s strategy.’’ Moreover, Venkatraman (1989) identiﬁes
+six perspectives of alignment: moderation, mediation, matching,
+gestalt, proﬁle deviation, and covariation. So far, only the modera-
+tion and mediation models are commonly used in the environmen-
+tal and supply chain management research.
+
+Though conceptualized in the context of strategy research, the
+alignment concept is also applicable to other disciplines. For
+instance, the environmental management literature provides the
+implications of the selection and interaction approaches in
+examining the relationship between environmental practices
+and performance (e.g. Christmann, 2000; Gonza´ lez-Benito and
+Gonza´ lez-Benito, 2005; Lo´ pez-Gamero et al., 2009). Also, there are
+some studies which address alignment under the mediated and
+moderated perspectives in the context of green/reverse supply
+chain management (Bowen et al., 2001; Kocabasoglu et al., 2007;
+Wu et al., 2012; Yang et al., 2010; Zhu and Sarkis, 2004). These
+papers however examine alignment from a bivariate rather than
+from a holistic perspective.
+
+Alignment is the underlying conceptual theme for this study.
+Speciﬁcally, this study uses alignment under a proﬁle deviation
+perspective to examine the links between the SC and CE strate-
+gies. Proﬁle deviation is deﬁned as the internal consistency of
+multiple contingencies (Drazin and Van de Ven, 1985). The higher
+the degree of adherence to an ideal multidimensional proﬁle the
+better the performance. Deviations from this proﬁle will result in
+negative performance (Venkatraman, 1989). Thus, the basic idea
+is that the SC and CE strategies should be aligned to enhance ﬁrm
+performance (e.g. Sabherwal and Chan, 2001). Following Lee
+(2002), this study applies four SC strategies types under two SC
+uncertainty attributes, and four CE strategies types under three
+environmental management attributes.
+
+2.2. SC strategy ideal proﬁles
+
+Given the concept of match between the type of product and
+the type of supply chain, Fisher (1997) categorizes supply chains
+as either efﬁcient or responsive. Alternatively, lean and agile
+supply chains are used (e.g. Mason-Jones et al., 2000), with lean
+supply chains being physically efﬁcient, and agile supply chains
+being responsive. Further, through the supply chain uncertainty
+
+
+222
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+landscape, Lee (2002) classiﬁes supply chains strategies as efﬁ-
+cient, risk-hedging, responsive, and agile. We will use this
+taxonomy.
+
+Following Lee (2002), this study adopts demand and supply
+uncertainties as the attributes to categorize the SC strategies.
+The demand uncertainty attribute is the unpredictability of the
+demand for a product, due to the quantity demanded, and
+product variety (Christopher and Towill, 2000; Fisher, 1997; Lee,
+2002). The supply uncertainty attribute refers to characteristics of
+the procurement process and possesses a number of sub-
+attributes including quality, buying, and delivery. We follow
+Lee’s (2002, p. 114) classiﬁcation (High/Low) to help identify
+the two attributes of each ideal SC strategy proﬁle as shown in
+Table 1.
+
+Functional products usually have predictable demand, long
+product life cycles and lower proﬁt margins (Fisher, 1997). Thus,
+ﬁrms handling such products require lower levels of capability
+response to rapid design changes and volume swings. As these
+products yield lower margins, such ﬁrms require a higher priority
+on cost efﬁciency. Further, due to automation and efﬁcient
+sourcing processes, the supply base is well established (Lee,
+2002). An efﬁcient SC strategy is thus low on demand uncertainty
+and supply uncertainty.
+
+Next, ﬁrms that employ a risk-hedging SC strategy typically
+hedge against supplier uncertainty. These ﬁrms face challenges
+related to the process reliability, supply base, and long lead-time
+from source to production, even though they produce functional
+products (Lee, 2002). Hence, a ﬁrm employing a risk-hedging SC
+strategy is high on supply uncertainty, but low on demand
+uncertainty.
+
+The very nature of innovative products makes demand unpre-
+dictable, shortens their life cycles, albeit provides higher proﬁt
+margins (Fisher, 1997). Firms that deploy a responsive SC strategy
+aim at being ﬂexible to the changing and diverse needs of the
+market, reﬂecting a moderate degree of price and service con-
+sciousness (Mason-Jones et al., 2000). Such ﬁrms are oriented
+toward improving quality, delivery, modular design, and relia-
+bility performance. These improvements are beneﬁcial to a SC
+strategy with innovative products while being reliable and have a
+stable supply base (Lee, 2002). A responsive SC strategy thus
+views the demand attribute as having high uncertainty but low
+uncertainty for the supply attribute.
+
+There are also cases where high levels of ﬂexibility and
+responsiveness to the marketplace are needed (Fisher, 1997;
+Mason-Jones et al., 2000). As an agile supply chain has an evolving
+process where the customer demands are still unstable and
+suppliers are unreliable and limited, such ﬁrms emphasize their
+resources and capabilities on quality, delivery dependability, and
+after-sales service (Lee, 2002; Mason-Jones et al., 2000). Hence,
+ﬁrms with an agile SC strategy view both SC attributes as having
+high uncertainty.
+
+2.3. CE strategy ideal proﬁles
+
+A CE strategy is deﬁned in terms of the extent in which an
+organization is involved in a wide range of organizational and
+managerial actions on environmental issues (Argon-Correa et al.,
+
+Table 1
+Ideal proﬁles of SC strategy.
+Source: Derived from Lee (2002, p. 114).
+
+2004; Sharma, 2000), and is categorized into different types and
+levels based on the endogenous and exogenous forces exerted on
+it (Argon-Correa et al., 2008; Banerjee, 2001b; Vastag et al., 1996)
+For ease of ﬁt, for the CE strategies in this paper, we adopt
+Henriques and Sadorsky’s (1999) strategy classiﬁcation: reactive,
+defensive, accommodative, and proactive.
+
+Drawing from the literature, we use resources and capabilities,
+social responsibility, and stakeholder management as the attri-
+butes of the four CE strategy conﬁgurations. Resources and
+capabilities imply that a ﬁrm’s resources and capabilities facilitate
+economic and sustainable beneﬁts (Hart, 1995). Social responsi-
+bility denotes the level of management commitment to society
+and the environment (Argon-Correa et al., 2004; Sharma, 2000).
+Stakeholder management emphasizes that the role of managing a
+ﬁrm’s stakeholders is highly associated with effective environ-
+mental management (Delmas and Toffel, 2004; Henriques and
+Sadorsky, 1999). We follow Sabherwal and Chan’s (2001) sugges-
+tion in using a parsimonious three-point scale (low, medium, and
+high) to identify the three attributes of each ideal CE strategy
+proﬁle as shown in Table 2.
+
+Under a reactive CE strategy, ﬁrms commit minimal resources
+to environmental management and employee training (Henriques
+and Sadorsky, 1999; Klassen and Whybark, 1999), on what they
+view as unimportant environmental issues (Argon-Correa et al.,
+2004; Sharma, 2000). Monitoring compliance is carried out at the
+middle management level (Vastag et al., 1996). Some institutional
+forces however affect a reactive CE strategy. For instance, a media
+stakeholder can persuade a ﬁrm to rethink that strategy
+(Henriques and Sadorsky, 1999) and focus more on environmen-
+tal legislations (Buysse and Verbeke, 2003). We therefore view
+ﬁrms that employ a reactive CE strategy as being low, low, and
+medium on resources and capabilities, social responsibility, and
+stakeholder management, respectively.
+
+Firms using a defensive CE strategy tend to commit more
+resources to environmental issues than ﬁrms on a reactive CE
+strategy (Henriques and Sadorsky, 1999). They may apply reg-
+ulatory approaches but lend little development to modern environ-
+mental practices (Argon-Correa, 1998). These ﬁrms view environ-
+mental issues as threats rather than opportunities (Sharma, 2000)
+and admit only minor social responsibility (Argon-Correa et al.,
+2004). As for the institutional forces, a ﬁrm’s actions is conditioned
+by the regulatory, secondary, and internal primary stakeholders
+(Buysse and Verbeke, 2003). This study thus proposes a defensive CE
+strategy as being medium on resources and capabilities and social
+responsibility, but high on stakeholder management, respectively.
+
+The degree to which ﬁrms with an accommodative CE strategy
+interpret environmental issues as opportunities is greater than
+those with a reactive CE strategy (Sharma, 2000). Also, such ﬁrms
+perceive relatively higher pressure from all their stakeholders
+(Buysse and Verbeke, 2003). As such, these ﬁrms will develop
+green capabilities and adopt pollution prevention technologies for
+better ﬁrm performance (Argon-Correa et al., 2004; Buysse and
+Verbeke, 2003; Henriques and Sadorsky, 1999) but they have yet
+to adopt a proactive attitude to the environment (Molina-Azorı´n
+et al., 2009). Therefore, for a ﬁrm on an accommodative CE
+
+Table 2
+Ideal proﬁles of CE strategy.
+
+Attribute
+
+Reactive Defensive Accommodative Proactive
+
+Attribute
+
+Efﬁcient
+
+Risk-hedging
+
+Responsive
+
+Agile
+
+Demand uncertainty
+Supply uncertainty
+
+Low
+Low
+
+Low
+High
+
+High
+Low
+
+High
+High
+
+Resources and
+
+capabilities
+
+Social responsibility
+Stakeholder
+
+management
+
+Low
+
+Medium High
+
+Low
+Medium High
+
+Medium Medium
+
+High
+
+High
+
+High
+High
+
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+223
+
+strategy, resources and capabilities, and stakeholder management
+are at a high level, while social responsibility is at a medium level.
+Firms move towards environmental proactivity when perceiv-
+ing a higher impact on both the internal and external constitu-
+encies (Argon-Correa et al., 2004; Banerjee, 2001a, 2001b). Firms
+on proactive CE strategies thus develop unique capabilities to
+sustain competitiveness (Argon-Correa et al., 2008; Bowen et al.,
+2001) which are viewed as being critical to a broader range of
+stakeholders (Buysse and Verbeke, 2003; Henriques and Sadorsky,
+1999). They view a CE strategy as being relevant to all divisions of
+the ﬁrm (Molina-Azorı´n et al., 2009) and that strategy is well
+deﬁned and highly articulated in company publications (Vastag
+et al., 1996). This study thus views a proactive CE strategy as
+being high on all three CE strategy attributes.
+
+2.4. Research model and hypotheses
+
+Fig. 1 summarizes the overall model for this study. An align-
+ment under a proﬁle deviation approach is used to examine the
+multiple relations between the SC and CE strategies. The hypoth-
+esis development is discussed below.
+
+Vastag et al. (1996) suggest that ﬁrms use advanced green
+practices only when environmental performance is an essential
+part of the business activity. Other studies also suggest that the
+performance derived from an environmental strategy depends on
+the economic fundamentals of the business. Schaltegger and
+Synnestvedt (2002) indicate that the scope of environmental
+concerns in the context of the overall ﬁrm’s activities is critical
+in discussing the environment-performance link. Argon-Correa
+and Sharma (2003) identify ten propositions that present the
+contingency effects of a general business environment on such
+connections. Aragon-Correa and Rubio-Lo´ pez (2007) propose that
+a CE strategy may be contingent on the business environment.
+Simpson and Samson (2008) suggest the need to investigate the
+traditional supply chain management focus when devising a
+GSCM strategy. When alignment
+is lacking, Monczka and
+Petersen (2012) mention that supply management cannot sup-
+port the business in response to socioeconomic pressures. Thus,
+ﬁrms must align their SC and CE strategies in order to boost the
+overall ﬁrm performance. We thus posit the ﬁrst hypothesis:
+
+Hypothesis 1. The degree of alignment between the SC strategy and
+CE strategy impacts ﬁrm performance.
+
+Under an efﬁcient SC strategy, the basis of competition is cost
+efﬁciency and price (Lee, 2002; Mason-Jones et al., 2000). By
+focusing on cost efﬁciency, a feasible approach is to integrate
+environmental
+issues into the operating decisions, providing
+
+maximum environmental beneﬁts at minimum cost and under
+limited uncertainty (Walley and Whitehead, 1994). Environmen-
+tal certiﬁcations such as ISO14001 are likely to be adopted for the
+efﬁcient supply chain (Corbett and Kirsch, 2001; King and Lenox,
+2001). However, the relationship between ISO14001 and environ-
+mental performance is not obvious (Aragon-Correa and Rubio-
+Lo´ pez, 2007; Corbett and Kirsch, 2001) and such certiﬁcations
+could be a reactive response to suppliers or customers in the
+chain. Further, due to the low SC uncertainty, a ﬁrm’s environ-
+mental risks including materials, technologies, and customers are
+relatively less. Put simply, ﬁrms adopting environmental activ-
+ities at the functional level will commit minimal resources to just
+meet local/national regulations (Simpson and Samson, 2008). At
+this point, a ﬁrm following an efﬁcient SC strategy will most likely
+adopt a reactive environmental strategy (Vastag et al., 1996).
+Hence, the level of alignment will be high and from Bergeron et al.
+(2001), this will
+impact ﬁrm performance. Thus, our second
+hypothesis:
+
+Hypothesis 2. The degree of alignment between efﬁcient SC strategy
+and reactive CE strategy impacts ﬁrm performance.
+
+To reduce the upstream disruption risk, a risk-hedging SC
+strategy will pool resources and information among the partners
+of the supply chain (Lee, 2002) to counter the effects of high
+supply side uncertainty. This is consistent with the research
+(Mollenkopf et al., 2010; Vachon and Klassen, 2006) which points
+out that a higher level of logistics integration is beneﬁcial to some
+defensive environmental practices and monitoring. For instance,
+Green et al. (1996) indicate that environmental purchasing is
+easily diffused through close supplier partnerships, and Vachon
+and Klassen (2008) suggest that upstream collaboration is closely
+associated with superior process-based performance. From a
+green perspective, environmental purchasing involves new sup-
+plier assessment procedures and a deeper level of supplier
+integration and development. This requires a ﬁrm on a defensive
+CE stance to commit more effort and resources (Green et al.,
+1996; Handﬁeld et al., 2005). Thus, a ﬁrm adopting a risk-hedging
+SC strategy is likely to adopt a defensive CE strategy, yielding a
+high level of alignment and again from Bergeron et al. (2001), this
+will have a impact ﬁrm performance. We thus propose the third
+hypothesis:
+
+Hypothesis 3. The degree of alignment between risk-hedging SC
+strategy and defensive CE strategy impacts ﬁrm performance.
+
+Following Gunasekaran et al. (2008), ﬁrms that employ a
+responsive SC strategy see it as a competitive weapon in a
+networked economy. Such ﬁrms will produce customized products
+
+Attributes of SC Strategy
+- Demand uncertainty
+- Supply uncertainty
+
+Types of SC Strategy
+- Efficient
+- Risk-hedging
+- Responsive
+- Agile
+
+Alignment
+
+Firm Performance
+- Revenue Increase
+- Cost Reduction
+
+Attributes of CE Strategy
+- Resources and capabilities
+- Social responsibility
+- Stakeholder management
+
+Types of CE Strategy
+- Reactive
+- Defensive
+- Accommodative
+- Proactive
+
+Fig. 1. Research model.
+
+
+224
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+through virtual organizations and exchange the goods through
+e-Commerce. In so doing, production is relatively leaner which in
+turn brings about environmental beneﬁts such as source reduction
+and lower emissions (King and Lenox, 2001). However, this may
+require greater ﬁnancial and managerial commitment to produc-
+tion changes, product redesign, and stakeholder management
+(Hart, 1997; Pane Haden et al., 2009; Simpson and Samson,
+2008). In short, ﬁrms on an accommodative CE strategy are likely
+to embrace accommodative practices such as product stewardship,
+green marketing and/or cleaner technologies, resulting in spillover
+effects including resource productivity, new competitive posture,
+and manufacturing improvement
+(Hart, 1997; Simpson and
+Samson, 2008). Hence, the degree of alignment between a respon-
+sive SC strategy and an accommodative CE strategy will be high.
+Thus, the improvement in competitiveness through the supply
+chain and environmental management will lead to superior ﬁrm
+performance. Accordingly, we present the fourth hypothesis:
+
+Hypothesis 4. The degree of alignment between responsive SC
+strategy and accommodative CE strategy impacts ﬁrm performance.
+
+Firms with an agile SC strategy are very sensitive to demand and
+supply risks, and will use market knowledge for proﬁt and competi-
+tiveness (Christopher and Towill, 2000; Lee, 2002; Mason-Jones et al.,
+2000). These ﬁrms will strategically and proactively deal with
+environmental issues, suggesting an opportunity-seeking behavior
+rather than threat aversion (Argon-Correa, 1998). Such ﬁrms will
+develop innovative capabilities to eliminate industry and environ-
+mental risks to realize better resource productivity, higher proﬁts,
+and sustained competitive advantage (Argon-Correa et al., 2008;
+Christmann, 2000; Lo´ pez-Gamero et al., 2009). At the supply chain
+level, a proactive CE strategy may facilitate proﬁtability, opera-
+tion excellence, and sustainability for the partners in the chain
+(Kleindorfer et al., 2005; Rao and Holt, 2005; Zhu and Sarkis, 2004).
+Hence, the degree of alignment between an agile SC strategy and a
+proactive CE strategy will be high, leading to better ﬁrm performance.
+Thus, our next hypothesis is:
+
+Hypothesis 5. The degree of alignment between agile SC strategy
+and proactive CE strategy impacts ﬁrm performance.
+
+3. Research method
+
+3.1. Sample and data collection
+
+The research comes from export-oriented manufacturing ﬁrms
+in Taiwan that have experienced sustainable corporate environ-
+mental development prompted by their supply chain partners
+and other green initiatives. This factor makes the sample selection
+appropriate for testing our hypotheses. The sample is drawn from
+the 2011 CommonWealth directory of the top 1000 Taiwan
+manufacturers. The cover letter described the research goals
+and instructions indicating that the survey respondents (senior
+managers) should have a priori knowledge of the SC and CE
+strategies of their ﬁrms. From October to December in 2011, the
+questionnaires were distributed anonymously to the ﬁrms and
+followed by reminders which indicated the survey due date. Of
+the 230 questionnaires distributed, 178 were returned. Six were
+eliminated due to missing data and 172 qualiﬁed questionnaires
+were accounted for.
+
+To check for non-response bias, we followed Armstrong and
+Overton’s (1977) procedure and compared the answers of the
+early survey respondents against those of the late respondents.
+The test between the ﬁrst wave (n¼129, 75%) and the second
+wave (n¼43, 25%) reveals no difference at a 5% signiﬁcance level
+for geographic dispersion (w2 ¼2.290, df¼2, p¼0.318), employee
+number (t¼0.743, p¼0.459), and annual revenue (t¼1.505,
+
+p¼0.134). Table 3 shows the descriptive statistics of the respon-
+dent ﬁrms. The responding ﬁrms were fairly evenly divided in
+terms of geographical dispersion (measured as local, regional or
+global) and the size of the ﬁrm. On average, the annual revenue
+was USD 200 million.
+
+3.2. Measurement
+
+All items are operationalized based on related studies in the
+environmental management and supply chain management lit-
+erature. In all, 10 items were used for the demand and supply
+uncertainty attributes, 14 items for the three CE strategy attri-
+butes, and 7 performance items for revenue increase and cost
+reduction. The CE strategy measures require that the ﬁrms
+respond based on their current situation, whereas the question-
+naires on both SC strategy and ﬁrm performance require an
+evaluation of their condition against their competitors. All items
+are measured on a ﬁve-point Likert scale (1¼strongly disagree,
+5¼strongly agree). The measures and their related literature are
+summarized in Tables 4–6.
+
+This study uses two control variables: (1) geographic disper-
+sion, and (2) number of employees as ﬁrm size. Prior studies
+suggest that the regulatory situation in different countries and
+their societal pressures and ﬁrm size affect the selection of
+environmental strategies and supply chain management (Ambec
+and Lanoie, 2008; Argon-Correa et al., 2008; Fabbe-Costes et al.,
+2011; Molina-Azorı´n et al., 2009). In particular, larger ﬁrms are
+more likely to adopt proactive CE strategies (Russo and Fouts,
+1997; Sharma, 2000). Hence, we take geographic dispersion as a
+proxy for the regulatory and societal pressures, and the number of
+employees as a proxy for ﬁrm size, respectively.
+
+3.3. Reliability and validity testing
+
+We used SPSS ver 20.0 to assess how well behaved the
+observed variable were in terms of composite reliability, con-
+vergent validity, and discriminant validity. As shown through
+Tables 4–6, the composite reliabilities of all the factors exceeded
+0.860, well above the threshold value of 0.7 (Gefen et al., 2000),
+indicating the existence of internal consistency. The test for
+convergent validity shows that all indicators load satisfactorily
+on the theorized constructs and the t-tests of all the loadings are
+at the po0.001 level, providing evidence of convergent validity
+(Bagozzi and Yi, 1988). Only two items were middling between
+0.6 and 0.7, which is acceptable for an exploratory study of this
+nature. Next, we tested for satisfactory discriminant validity of
+
+Table 3
+Proﬁle of respondent ﬁrms.
+
+Company demographics
+
+Frequency
+
+Percentage
+
+Geographic dispersion
+
+Local (Taiwan)
+Regional (Asia)
+Global
+
+Employees
+
+r 300
+301–1000
+1001–5000
+^5001
+
+Annual revenues (in US million dollars)
+
+r 4
+4.1–170
+171–670
+^671
+
+49
+62
+61
+
+43
+63
+39
+27
+
+7
+81
+51
+33
+
+28.5
+36.0
+35.5
+
+25.0
+36.6
+22.7
+15.7
+
+4.0
+47.1
+29.7
+19.2
+
+Total
+
+172
+
+100
+
+
+0.735
+
+0.752
+
+0.618
+
+0.785
+
+0.617
+0.76
+0.864
+0.835
+0.725
+
+0.869
+
+0.812
+
+Factor
+loading
+
+Composite
+reliability
+
+a
+
+0.802
+
+0.890
+
+0.835
+
+0.880
+
+0.780
+
+0.810
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+225
+
+Table 4
+Related literature, reliability, and validity results for SC strategy attribute measures.
+
+Variable
+
+Measurement items
+
+Source
+
+Factor
+loading
+
+Composite
+reliability
+
+a
+
+Demand
+uncertainty
+
+1. Product innovation in the market where our main
+
+products are sold is highly required
+
+Christopher and Towill (2000), Fisher (1997),
+Lee (2002), Mason-Jones et al. (2000)
+
+0.811
+
+0.86
+
+0.794
+
+2. Product life cycle in the market where our main products
+
+are sold is very short
+
+3. Proﬁt margins in the market where our main products are
+
+sold is very high
+
+4. Volume demand in the market where our main products
+
+are sold is very volatile
+
+5. Product variety in the market where our main products
+
+are sold is very high
+
+Supply
+uncertainty
+
+1. Our ﬁrm has considerable variation in product quality
+2. Our ﬁrm has considerable variation in reliable suppliers
+3. Our ﬁrm has considerable variation in capacity
+4. Our ﬁrm has considerable variation in lead time
+5. Our ﬁrm does not has considerable variation in
+
+delivery speed
+
+Christopher and Towill (2000), Fisher (1997),
+Lee (2002), Mason-Jones et al. (2000)
+
+Table 5
+Related literature, reliability, and validity results for CE strategy attribute measures.
+
+Variable
+
+Measurement items
+
+Sources
+
+1. Our ﬁrm provides environmental educations and training for
+
+managers and employees
+
+2. Our ﬁrm provides ﬁnancial, managerial, and production
+
+resources to improve environmental competence
+
+3. Our ﬁrm has technical systems and manufacturing
+capabilities to improve environmental performance
+
+4. Our ﬁrm has environmental management systems and
+
+policies
+
+Argon-Correa et al. (2008), Buysse and Verbeke
+(2003), Gonza´ lez-Benito and Gonza´ lez-Benito
+(2005),
+Lo´ pez-Gamero et al. (2009)
+
+Resources
+and
+capabilities
+
+Social
+responsibility
+
+1. Managers give support to environmental issues due to
+
+Argon-Correa et al. (2004) and Sharma (2000)
+
+0.832
+
+0.899
+
+0.831
+
+environmental preservation and corporate social
+responsibility
+
+2. Managers have the knowledge and competence to control
+
+environmental issues
+
+3. Managers view new environmental legislations as
+
+opportunities
+
+0.905
+
+0.857
+
+Stakeholder
+management
+
+1. Our ﬁrm provides environmental reports or information to
+
+stakeholders
+
+Buysse and Verbeke (2003), Henriques and
+Sadorsky (1999), Lo´ pez-Gamero et al. (2009)
+
+0.814
+
+0.914
+
+0.883
+
+2. Our ﬁrm has a formal system to monitor regulatory changes
+3. Our ﬁrm participates in government-subsidized
+
+environmental programs for compliance with changing
+regulations
+
+4. Our ﬁrm seeks to be a leader in environmental protection in
+
+our industry and/or society
+
+5. Our ﬁrm sponsors activities to preserve the environment
+
+0.798
+0.800
+
+0.855
+
+0.857
+
+the constructs using the square root of the Average Variance
+Extracted (AVE) which should be greater than the correlation
+shared between a construct and the other constructs (Hair et al.,
+2009). As such, we dropped two items (RC5 and SM1) from the CE
+category. Table 7 presents the mean, standard deviation, the
+correlations between the constructs, and the square root of the
+AVE on the diagonals.
+
+This study adopts Sabherwal and Chan (2001)’s process to
+compute the level of alignment. This method, as discussed earlier,
+is a holistic view of the parsimonious and relatively homogeneous
+
+groups and assesses the alignment between two multivariate
+constructs. All the items of the SC and CE strategies are used to
+compute the level of alignment through proﬁle deviation analysis.
+Thus, this study does not use CFA analysis to test for model-ﬁt.
+
+4. Empirical analyses and results
+
+After using Sabherwal and Chan (2001)’s three step alignment
+analytic procedure to compute the level of alignment, we perform
+
+
+226
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+Table 6
+Related literature, reliability, and validity results for performance measures.
+
+Variable
+
+Measurement items
+
+Sources
+
+Factor loading
+
+Composite
+reliability
+
+a
+
+Revenue increase
+
+Cost reduction
+
+Compared to competition, our existing
+corporate environmental strategy helps our
+ﬁrm to
+1. have access to certain new markets and gain
+market share
+2. provide differentiated products to
+customers
+3. achieve higher proﬁt margin
+
+Compared to competition, our existing
+corporate environmental strategy help our
+ﬁrm to decrease the
+1. cost of risk management and relations with
+all stakeholders
+2. cost of materials and energy consumption
+3. cost of environmental disasters that may
+affect employee health and security
+4. cost of environmental liabilities
+
+Ambec and Lanoie (2008), Klassen and
+McLaughlin (1996), Rao and Holt (2005),
+Wagner and Schaltegger (2004)
+
+Ambec and Lanoie (2008), Klassen and
+McLaughlin (1996), Rao and Holt (2005),
+Wagner and Schaltegger (2004)
+
+0.909
+
+0.912
+
+0.843
+
+0.874
+
+0.892
+0.813
+
+0.818
+
+0.919
+
+0.867
+
+0.912
+
+0.871
+
+Table 7
+Correlation between research variables.
+
+Construct Mean SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1. DU
+2. SU
+3. RC
+4. ESR
+5. SM
+6. RI
+7. CR
+
+3.419 0.664 0.743
+3.005 0.672 0.443 0.756
+3.903 0.665 0.410 0.214 0.819
+3.713 0.720 0.414 0.214 0.741 0.865
+3.591 0.756 0.389 0.202 0.800 0.793 0.825
+3.585 0.763 0.487 0.268 0.509 0.634 0.268 0.889
+3.717 0.729 0.527 0.277 0.529 0.546 0.570 0.665 0.850
+
+Notes: DU: demand uncertainty; SU: supply uncertainty; RC: resources and
+capabilities; ESR: executive’s social responsibility; SM: stakeholder management;
+RI: revenue increase; CR: cost reductions. The shaded numbers in the diagonal row
+are square roots of the AVE (average variance extracted).
+
+a hierarchical regression on SPSS ver 20.0 to evaluate the level of
+alignment between the SC and CE strategies on ﬁrm performance.
+
+4.1. Alignment analytic process
+
+First, we compute the values of both the demand and supply
+uncertainty variables of the 172 observations and then compare
+each observation to the sample mean values of the demand and
+supply uncertainty measures. If the demand uncertainty value of
+an observation is greater than the mean value of the sample, then
+we regard this observation with a high demand uncertainty. The
+same classiﬁcation method is employed on the supply uncertainty
+attribute. Based on the supply chain uncertainty attributes of
+Table 1, each respondent ﬁrm is classiﬁed into one of four SC
+strategies, namely: efﬁcient, risk-hedging, responsive, and agile.
+Using this alignment analytic process, 69, 34, 30, and 39 of the
+respondent ﬁrms are categorized as having efﬁcient, risk-hedging,
+responsive and agile SC strategies, respectively.
+
+The second step is the normalization of all variables of the
+three CE strategy attributes. By using the z-score, we determine
+the relative location of the observation in a data set and the
+standardized scores are used for the remaining data analysis. This
+data standardization (mean centred with value of 0 and standard
+deviation of 1) removes the effects of different measurement
+units and potential multi-collinearity (Jaccard and Turrisi, 2003).
+Third, the proﬁle deviation, a measure of the misalignment
+between each ﬁrm’s CE strategy and its ideal CE strategy proﬁle, is
+computed. This step comprises three tasks. The ﬁrst task is to
+
+determine the ideal CE strategy proﬁle in terms of the three CE
+attributes (see Table 2). The ideal CE attribute values of the
+normalized scores were set to 1, 0, and  1 for high, medium,
+and low, respectively. The second task is to compute the Euclidean
+distance between each ﬁrm’s CE strategy and its ideal CE strategy
+proﬁle for a speciﬁc SC strategy adopted by a respondent ﬁrm. In
+short, if a ﬁrm is classiﬁed as having an efﬁcient SC, the distance
+(misalignment) is computed for a reactive CE strategy as follows:
+Misalignment (reactive)¼OS(Xj  Ij, reactive)2 where Xj is the normal-
+ized score for the jth CE strategy attribute, Ij, reactive is the ideal
+normalized score of that jth CE strategy attribute, with j ¼1, 2 3 for
+the three CE attributes. A reactive CE strategy is expected to be best
+aligned with an efﬁcient SC strategy. The same is done for the ideal
+CE strategy proﬁles of the other CE strategies. A respondent ﬁrm
+with a smaller Euclidean distance indicates that its CE strategy is
+closer to the ideal proﬁle and that the degree of alignment is
+higher. The third task is to subtract the chosen CE strategy distance
+from 1, which helps convert it into a measure of alignment.
+
+4.2. Results
+
+regression model
+
+We then perform a hierarchical regression to test the statistical
+signiﬁcance of the proﬁle deviation values and the hypotheses. The
+dependent variable is ﬁrm performance as measured by revenue
+increase and cost reduction. Table 8 shows the regression results of
+the alignment effects of the SC and CE strategies on ﬁrm perfor-
+mance. The VIF values in all the regression models (1.000 to 1.466)
+were all below 5, eliminating the likelihood of multi-collinearity.
+Alignment is found to be signiﬁcantly associated with ﬁrm
+performance in terms of revenue increase and cost reduction for
+(R2¼0.127, F¼9.269, pr0.001;
+the overall
+R2¼0.105, F¼7.683, pr0.001, respectively). Hence, Hypothesis H1
+is strongly supported i.e. the degree of alignment between the SC
+strategy and the CE strategy impacts ﬁrm performance. Thus, ﬁrms
+should strive for better alignment between these two sets of
+strategies so as to maximize their performance. Likewise, Hypothesis
+H3 is supported i.e. the degree of alignment between a risk-hedging
+SC strategy and a defensive CE strategy impacts ﬁrm performance
+through revenue increase and cost reduction (R2¼0.339, F¼6.632,
+pr0.001; R2¼0.236, F¼4.392, pr0.05, respectively). For Hypothesis
+H4, a similar results holds i.e. the level of alignment between a
+responsive SC strategy and an accommodative CE strategy impacts
+ﬁrm performance partially through revenue increase and signiﬁcantly
+
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+227
+
+through cost reduction (R2¼0.240, F¼4.056, pr0.05; R2¼0.458,
+F¼9.154, pr0.001, respectively). As for Hypothesis H5, the level of
+alignment between an agile SC strategy and a proactive CE strategy
+also impacts ﬁrm performance with the following results R2¼0.395,
+F¼9.255, pr0.001; R2¼0.343, F¼7.600, pr0.001, respectively. The
+control variable, geographic dispersion does not appear to lend any
+statistical weight to the regression models, negating the results of
+earlier studies (e.g. Fabbe-Costes et al., 2011).
+
+5. Discussion and conclusion
+
+This study employs an alignment analytic process using proﬁle
+deviation analysis to examine the relationship between SC strategy
+and CE strategy, and speciﬁcally the alignment effects on ﬁrm
+performance in terms of revenue increase and cost reduction. As
+shown in Table 8, except for the lack of statistical support on the
+need for a good alignment between an efﬁcient SC strategy and a
+reactive CE strategy, selecting a right CE strategy within the context
+of a ﬁrm’s SC strategy results in better ﬁrm performance through
+either revenue increase or cost reduction or both. Based on the
+ﬁndings, some implications and contributions are discussed.
+
+5.1. Discussion of results
+
+Our results provide two main issues for discussion. First, the
+alignment concept offers opportunities for ﬁrms to simultaneously
+consider the organizational and strategy domains holistically
+(Drazin and Van de Ven, 1985; Umanath, 2003). The result of
+Hypothesis 1 lends support to the notion that an alignment between
+the SC and CE strategies improves overall ﬁrm proﬁtability. Our
+results thus suggest that an alignment viewpoint beneﬁts in
+examining the complex relationships among the strategies, in which
+ﬁrms could view an aligning state of SC and CE strategies as a
+holistic construct to better understand the possible synthetic effects
+on ﬁrm performance. This study complements the extant research
+(e.g. Carter and Easton, 2011; Fabbe-Costes et al., 2011; Mollenkopf
+et al., 2010) which highlights that ﬁrms need to adopt a systems
+approach when assessing the complex relationships between envir-
+onment, operations, supply chain, and performance.
+
+Second, our ﬁndings identify that proper alignment between a
+risk-hedging SC strategy and a defensive CE strategy, a responsive
+
+Table 8
+Alignment effects of SC and CE strategies on ﬁrm performance.
+
+SC strategy and an accommodative CE strategy, and an agile SC
+strategy and a proactive CE strategy leads to proﬁt enhancement
+for the ﬁrm. Managerially, recognizing the alignment effects of SC
+and CE strategies is valuable as it establishes a useful decision
+making mechanism by which ﬁrms can effectively place a
+strategic focus on the environmental sustainability effort in a
+supply chain. In a dynamic marketplace, a ﬁrm’s capability to
+identify a targeted set of supply strategies and managing compet-
+ing strategic priorities between supply chain management and
+green initiatives is essential and worthwhile (Bielak et al., 2007;
+Monczka and Petersen, 2012). Speciﬁcally, an alignment under a
+proﬁle deviation perspective enables ﬁrms to consider numerous
+conﬁgurations of the various SC and CE strategies systematically.
+In doing so, well placed decision making on environmental
+resource allocations for risk-hedging, responsive, and agile supply
+chains may ensure the leverage of both operational and environ-
+mental efﬁciency.
+
+5.2.
+
+Implications for research
+
+This study also offers some theoretical and managerial con-
+tributions. First, in terms of the implications for research, this
+study advances the existing research on operations management,
+supply chains, sustainability, and performance. Our results pro-
+vide empirical evidence that the alignment of the SC and CE
+strategies may be useful as a holistic antecedent for ﬁrm perfor-
+mance. Accordingly, a possible research focus of sustainable
+supply chain management may shift from investigating the
+speciﬁc features of the supply chain (e.g. purchasing or logistics)
+to examining an integrated business model (Mollenkopf et al.,
+2010; Monczka and Petersen, 2012). Further, from an alignment
+viewpoint, we have modelled the multiple relationships of the SC
+uncertainty environment with the different conﬁgurations of the
+CE strategy. This is valuable to theory building as we set the tone
+and direction for a new stream of research.
+
+Second, proﬁle deviation analysis offers a theoretical extension
+of using the strategic alignment concept as proposed by
+Venkatraman (1989) to examine the multiple links between the
+supply chain and the environment. As prior studies mostly
+explore such complex relations using a reductionist approach
+through moderation or mediation models, this may not provide a
+the holistic patterns of
+deep enough understanding of
+
+Firm Performance
+
+Overall model
+
+Efﬁcient SC
+
+Risk-hedging SC
+
+Responsive SC
+
+Agile SC
+
+Step 1
+
+Step 2
+
+Step 1
+
+Step 2
+
+Step 1
+
+Step 2
+
+Step 1
+
+Step 2
+
+Step 1
+
+Step 2
+
+Panel A: Alignment effects on revenue increase
+Geographic dispersion
+Firm size
+Alignment
+F for step
+F for regression
+Adjusted R2
+
+0.007
+0.174n
+0.320nnn
+19.730nnn
+9.269nnn
+0.127
+
+3.636n
+3.636n
+0.030
+
+0.046
+0.178n
+
+Panel B: Alignment effects on cost reduction
+0.046
+Geographic dispersion
+0.178n
+Firm size
+0.265nnn
+Alignment
+13.141nnn
+F for step
+7.683nnn
+F for regression
+Adjusted R2
+0.105
+
+4.622n
+4.622n
+0.041
+
+0.078
+0.182n
+
+ 0.201
+0.179
+
+1.489
+1.489
+0.014
+
+ 0.135
+0.042
+
+0.517
+0.517
+ 0.014
+
+ 0.193
+0.171
+ 0.054
+0.193
+1.045
+0.002
+
+ 0.097
+0.006
+ 0.238
+3.855
+1.645
+0.028
+
+0.182
+0.291
+
+3.316n
+3.316n
+0.123
+
+0.158
+0.289
+
+2.934
+2.934
+0.105
+
+0.096
+0.369n
+0.478nn
+11.103nn
+6.632nnn
+0.339
+
+0.081
+0.112
+
+0.353
+0.353
+ 0.047
+
+0.089
+0.352
+0.387n
+6.304n
+4.392n
+0.236
+
+0.153
+0.492nn
+
+6.299nn
+6.299nn
+0.268
+
+ 0.073
+ 0.157
+
+0.647nn
+11.193nn
+4.056n
+0.240
+
+0.027
+0.272
+0.528nn
+10.454nn
+9.154nnn
+0.458
+
+0.079
+ 0.027
+
+0.907
+0.907
+ 0.050
+
+0.176
+ 0.127
+
+0.568
+0.568
+ 0.023
+
+0.031
+ 0.043
+
+0.663nnn
+27.426nnn
+9.255nnn
+0.395
+
+0.133
+ 0.142
+
+0.605nnn
+21.032nnn
+7.600nnn
+0.343
+
+Notes: Independent variable: alignment. Dependent variables: revenue increase and cost reduction. Control variables: geographic dispersion and ﬁrm size.
+Main table contains standardized coefﬁcient betas.
+
+n p%0.05.
+nn p%0.01.
+nnn p%0.001.
+
+
+228
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+interdependency among the research constructs (Umanath,
+2003). On the methodology side, using proﬁle deviation analysis
+to measure the degree of misalignment provides a useful starting
+point to explore the multiple relationships between the business
+and the broader environment.
+
+5.3.
+
+Implications for practice
+
+Our results have managerial implications as well. For practi-
+tioners, repositioning the beneﬁts resulting from green initiatives
+into a set of business goals should be a priority. This study offers
+some guidelines for ﬁrms to align goals for both operational
+efﬁciency and pollution-reduction from a strategic alignment
+perspective (i.e. under different supply chain uncertainties). This
+is more useful than the traditionalist view of negotiating trade-
+offs. As the alignment concept can generate knowledge about the
+synergies and conﬂicts between the SC and CE strategies, this can
+allow ﬁrms to be more proactive when deciding on strategic
+priorities. For instance, ﬁrms should know that when operating
+under a responsive SC strategy, they need to exercise an accom-
+modative CE strategy so as to ensure that in their geographical
+theatre of operations, they will beneﬁt materially and act as
+good corporate citizens, leading to a win–win situation for all
+concerned.
+
+Finally, even though our results suggest the greater emphasis
+needs to be placed on aligning certain CE strategies with SC
+strategies, it may not be necessary nor appropriate for a ﬁrm to
+(1) conﬁne to a speciﬁc aligning link(s) for an extended period, or
+(2) lead their competitors on certain environmental issues. It is
+common knowledge that even after a ﬁrm has achieved align-
+ment between two sets of strategies,
+its supply chain will
+continue to evolve through changes in process or external
+uncertainties, thus leading to a possibility of alignment failure.
+Through our study, ﬁrms now have a basis to switch between two
+different classes of strategy simultaneously and maintain compe-
+titive posture. In short, the alignment viewpoint helps ﬁrms to
+recognize and respond strategically to the needs of business and
+society. This process of alignment can guide ﬁrms through
+corporate transformation adequately when operating a volatile
+marker such as Asia today.
+
+5.4. Research limitations and future research directions
+
+Some limitations exist. First, using the existing environmental
+management and supply chain management literature, we con-
+ﬁgure some attributes as the ideal proﬁles of the SC and CE
+strategies. Yet, our ideal proﬁles may lack comprehensive power
+in that not all factors relevant to the ﬁrm are evaluated. For
+example, Delmas and Toffel (2004) urge that competitive forces
+and industry characteristics may inﬂuence a ﬁrm’s environmental
+policy. Thus, more variables could be included in future research
+when identifying the ideal proﬁles of the SC and CE strategies. The
+second limitation is that the sampling frame is manufacturing
+ﬁrms in Taiwan. Though using samples collected in a single
+country allows for greater control over contextual and operational
+factors, this limits external generalizability. Future research
+would beneﬁt from expanding this investigation across several
+countries, which can assist in overcoming the potential problems
+with generalizability.
+
+Today, sustainability is becoming a leading focus of doing
+business in Asia, at both the ﬁrm and supply chain levels. As such,
+incorporating sustainability must offer a better understanding of
+whether a ﬁrm’s engagement in a sustainable supply chain can
+yield overall beneﬁts to both the ﬁrm and society. Competition
+through and alignment of a SC strategy must go hand in hand
+with the environment.
+
+Acknowledgments
+
+The authors would like to extend their sincere appreciation to
+National Science Council of Taiwan for the ﬁnancial support (NSC
+100–2628-S-110-006-MY4). Our deepest thanks also go to the
+referees for their constructive comments.
+
+References
+
+Ambec, S., Lanoie, P., 2008. Does it pay to be green?A systematic overview. The
+
+Academy of Management Perspectives 22 (4), 45–62.
+
+Aragon-Correa, J.A., Rubio-Lo´ pez, E.A., 2007. Proactive corporate environmental
+strategies: myths and misunderstandings. Long Range Planning 40 (3),
+357–381.
+
+Argon-Correa, J.A., 1998. Strategic proactivity and ﬁrm approach to the natural
+
+environment. The Academy of Management Journal 41 (5), 556–567.
+
+Argon-Correa, J.A., Hurtado-Torres, N., Sharma, S., Garcı´a-Morales, V.J., 2008.
+Environmental strategy and performance in small ﬁrms: a resource-based
+perspective. Journal of Environmental Management 86 (1), 88–103.
+
+Argon-Correa, J.A., Matias-Reche, Senise-Barrio, M.E., 2004. Managerial discretion
+and corporate commitment to the natural environment. Journal of Business
+Research 57 (9), 964–975.
+
+Argon-Correa, J.A., Sharma, S., 2003. A contingent resource-based view of proactive
+corporate environmental strategy. The Academy of Management Review 28
+(1), 71–88.
+
+Armstrong, J.S., Overton, T.S., 1977. Estimating nonresponse bias in mail surveys.
+
+Journal of Marketing Research 14 (3), 396–402.
+
+Bagozzi, R.P., Yi, Y., 1988. On the evaluation of structural equation models. Journal
+
+of the Academy of Marketing Science 16 (1), 74–94.
+
+Banerjee, S.B., 2001a. Corporate environmental strategies and actions. Manage-
+
+ment Decision 39 (1), 36–44.
+
+Banerjee, S.B., 2001b. Managerial perceptions of corporate environmentalism:
+interpretations from industry and strategic implications for organizations.
+Journal of Management Studies 38 (4), 489–513.
+
+Bergeron, F., Raymond, L., Rivard, S., 2001. Fit in strategic information technology
+management research: an empirical comparison of perspectives. Omega 29
+(2), 125–142.
+
+Bielak, D., Bonini, S.M.J., Oppenheim, J.M., 2007. CEOs on strategy and social issues.
+
+McKinsey Quarterly 4, 1–8.
+
+Bowen, F.E., Cousins, P.D., Lamming, R.C., Frauk, A.C., 2001. The role of supply
+management capabilities in green supply. Production and Operations Manage-
+ment 10 (2), 174–189.
+
+Buysse, K., Verbeke, A., 2003. Proactive environmental strategies: a stakeholder
+
+management perspective. Strategic Management Journal 24 (5), 453–470.
+
+Carter, C.R., Easton, P.L., 2011. Sustainable supply chain management: evolution
+and future directions. International Journal of Physical Distribution & Logistics
+Management 41 (1), 46–62.
+
+Carter, C.R., Rogers, D.S., 2008. A framework of sustainable supply chain manage-
+ment: moving toward new theory. International Journal of Physical Distribu-
+tion & Logistics Management 38 (5), 360–387.
+
+Chen, Y.C., Su, K.W., Hsu, M.H., Hwang, W.J., Wang, J.W., 2011. The impact of
+aliging supply chain and informtion systems strategies on performance.
+International Journal of Business Performance Management 12 (4), 309–333.
+Christmann, P., 2000. Effects of ‘‘best practices’’ of environmental management on
+cost advantage: the role of complementary assets. The Academy of Manage-
+ment Journal 43 (4), 663–680.
+
+Christopher, M., Towill, D.R., 2000. Supply chain migration from lean and
+functional to agile and customised. Supply Chain Management: An Interna-
+tional Journal 5 (4), 206–213.
+
+Corbett, C.J., Kirsch, D.A., 2001. International diffusion of ISO 14000 certiﬁcation.
+
+Production and Operations Management 10 (3), 327–342.
+
+Delmas, M., Toffel, M.W., 2004. Stakeholders and environmental management
+practices: an institutional framework. Business Strategy and the Environment
+13 (4), 209–222.
+
+Drazin, R., Van de Ven, A.H., 1985. Alternative forms of ﬁt in contingency theory.
+
+Administrative Science Quarterly 30 (4), 514–539.
+
+Fabbe-Costes, N., Roussat, C., Colin, J., 2011. Future sustainable supply chains:
+what should companies scan? International Journal of Physical Distribution &
+Logistics Management 41 (3), 228–252.
+
+Fisher, M.L., 1997. What is the right supply chain for your product? Harvard
+
+Business Review 75, 105–116.
+
+Gefen, D., Straub, D.W., Boudreau, M.C., 2000. Structural equation modeling and
+regression: guidelines for research practice. Communications of the Associa-
+tion for Information Systems 4 (7), 1–77.
+
+Gonza´ lez-Benito, J., Gonza´ lez-Benito, O´ ., 2005. Environmental proactivity and
+
+business performance: an empirical analysis. Omega 33 (1), 1–15.
+
+Green, K., Morton, B., New, S., 1996. Purchasing and environmental management:
+interactions, policies and opportunities. Business Strategy and the Environ-
+ment 5 (3), 188–197.
+
+Gunasekaran, A., Lai, K.-H., Cheng, T.C.E., 2008. Responsive supply chain: a
+
+competitive strategy in a networked economy. Omega 36 (4), 549–564.
+
+Hair, J., Black, W., Babin, B., Anderson, R., 2009. Multivariate Data Analysis.
+
+Pearson, Upper Saddle River, NJ.
+
+
+T. Wu et al. / Int. J. Production Economics 147 (2014) 220–229
+
+229
+
+Handﬁeld, R., Sroufe, R., Walton, S., 2005. Integrating environmental management
+and supply chain strategies. Business Strategy and the Environment 14 (1),
+1–19.
+
+Hart, S.L., 1995. A natural-resource-based view of the ﬁrm. The Academy of
+
+Management Review 20 (4), 986–1014.
+
+Hart, S.L., 1997. Beyond greening: strategies for a sustainable world. Harvard
+
+Business Review, January–February, 66–76.
+
+Henriques, I., Sadorsky, P., 1999. The relationship between environmental com-
+mitment and managerial perceptions of stakeholder importance. The Academy
+of Management Journal 42 (1), 87–99.
+
+Jaccard, J., Turrisi, R., 2003. Interaction effect in multiple regression, second ed..
+
+Sage, Thousand Oaks, California.
+
+Kaplan, R., Norton, D., 2006. Alignment: using the balanced scorecard to create
+
+corporate synergies, Boston, MA. Harvard Business School Press.
+
+King, A.A., Lenox, M.J., 2001. Lean and green? An empirical examination of the
+relationship between lean production and environmental performance. Pro-
+duction and Operations Management 10 (3), 244–256.
+
+Klassen, R.D., McLaughlin, C.P., 1996. The impact of environmental management
+
+on ﬁrm performance. Management Science 42 (8), 1199–1214.
+
+Klassen, R.D., Whybark, D.C., 1999. Environmental management in operations: the
+
+selection of environmental technologies. Decision Sciences 30 (3), 601–631.
+
+Kleindorfer, P.R., Singhal, K., Van Wassenhove, L.N., 2005. Sustainable operations
+
+management. Production and Operations Management 14 (4), 482–492.
+
+Kocabasoglu, C., Prahinski, C., Klassen, R.D., 2007. Linking forward and reverse
+supply chain investments: the role of business uncertainty. Journal of Opera-
+tions Management 25 (6), 1141–1160.
+
+Kumar, S., Putnam, V., 2008. Cradle to cradle: reverse logistics strategies and
+opportunities across three industry sectors. International Journal of Produc-
+tion Economics 115 (2), 305–315.
+Lo´ pez-Gamero, M.D., Molina-Azorı´n,
+
+J.F., Claver-Corte´ s, E., 2009. The whole
+relationship between environmental variables and ﬁrm performance: compe-
+titive advantage and ﬁrm resources as mediator variables. Journal of Environ-
+mental Management 90 (10), 3110–3121.
+
+Lee, H.L., 2002. Aligning supply chain strategies with product uncertainties.
+
+California Management Review 44 (3), 105–119.
+
+Linton,
+
+J.D., Klassen, R.,
+
+Jayaraman, V., 2007. Sustainable supply chains: an
+
+introduction. Journal of Operations Management 25 (6), 1075–1082.
+
+Mason-Jones, R., Naylor, B., Towill, D.R., 2000. Lean, agile, or leagile? Matching
+your supply chain to the marketplace. International Journal of Production
+Research 38 (17), 4061–4070.
+
+Miles, R.E., Snow, C.C., 1984. Fit failure and the hall of fame. California Manage-
+
+ment Review 26, 10–28.
+
+Molina-Azorı´n, J.F., Claver-Corte´ s, E., Lo´ pez-Gamero, M.D., Tarı´, J.J., 2009. Green
+management and ﬁnancial performance: a literature review. Management
+Decision 47 (7), 1080–1100.
+
+Mollenkopf, D., Stolze, H., Tate, W.L., Ueltschy, M., 2010. Green, lean, and global
+Journal of Physical Distribution & Logistics
+
+supply chains.
+International
+Management 40 (1/2), 14–41.
+
+Monczka, R.M., Petersen, K.J., 2012. The competitive potential of supply manage-
+
+ment. Supply Chain Management Review, May/June, 10–18.
+
+Nadler, D., Tushman, M., 1980. A diagnostic model for organizational behavior. In:
+Hackman, J.R., Lawler, E.E., Porter, L.W. (Eds.), Perspectives on Behavior in
+Organizations. McGraw-Hill, New York, pp. 83–100.
+
+Pane Haden, S.S., Oyler, J.D., Humphreys, J.H., 2009. Historical, practical, and
+theoretical perspectives on green management: an exploratory analysis.
+Management Decision 47 (7), 1041–1055.
+
+Rao, P., Holt, D., 2005. Do GSCMs lead to competitiveness and economic
+performance. International Journal of Operations & Production Management
+25 (9), 898–916.
+
+Russo, M.V., Fouts, P.A., 1997. A resource-based perspective on corporate environ-
+mental performance and proﬁtability. The Academy of Management Journal
+40 (3), 534–559.
+
+Sabherwal, R., Chan, Y.E., 2001. Alignment between business and IS strategies: a
+study of prospectors, analyzers, and defenders. Information Systems Research
+12 (1), 11–33.
+
+Schaltegger, S., Synnestvedt, T., 2002. The link between ‘green’ and economic
+success: environmental management as the crucial trigger between environ-
+mental and economic performance. Journal of Environmental Management 65
+(4), 339–346.
+
+Seuring, S., M ¨uller, M., 2008. From a literature review to a conceptual framework
+for sustainable supply chain management. Journal of Cleaner Production 16
+(15), 1699–1710.
+
+Sharma, S., 2000. Managerial interpretations and organizational context as pre-
+dictors of corporate choice of environmental strategy. The Academy of
+Management Journal 43 (4), 681–697.
+
+Simpson, D., Samson, D., 2008. Developing strategies for GSCM management.
+
+Decision Line 39 (4), 12–15.
+
+Simpson, D.F., Power, D.J., 2005. Use the supply relationship to develop lean and
+green suppliers. Supply Chain Management: An international Journal 10 (1),
+60–68.
+
+Sun, S.-Y., Hsu, M.-H., Hwang, W.-J., 2009. The impact of alignment between
+supply chain strategy and environmental uncertainty on SCM performance.
+Supply Chain Management: An International Journal 14 (3), 201–212.
+
+Umanath, N.S., 2003. The concept of contingency beyond ‘‘it depends’’: illustra-
+
+tions from IS research stream. Information & Management 40 (6), 551–562.
+
+Vachon, S., Klassen, R.D., 2006. Extending green practices across the supply chain:
+the impact of upstream and downstream integration. International Journal of
+Operations & Production Management 26 (7), 795–821.
+
+Vachon, S., Klassen, R.D., 2008. Environmental management and manufacturing
+performance: the role of collaboration in the supply chain. International
+Journal of Production Economics 111 (2), 299–315.
+
+Vastag, G., Kerekes, S., Rondinelli, D.A., 1996. Evaluation of corporate environ-
+mental management approaches: a framework and application. International
+Journal of Production Economics 43 (2–3), 193–211.
+
+Venkatraman, N., 1989. The concept of ﬁt in strategy research: toward verbal and
+statistical correspondence. The Academy of Management Review 14 (3),
+423–444.
+
+Wagner, M., Schaltegger, S., 2004. The effect of corporate environmental strategy
+choice and environmental performance on competitiveness and economic
+performance:: an empirical study of EU manufacturing. European Manage-
+ment Journal 22 (5), 557–572.
+
+Walley, N., Whitehead, B., 1994. It is not easy being green. Harvard Business
+
+Review 72 (3), 46–51.
+
+Wu, G.C., Ding, J.H., Chen, P.S., 2012. The effects of GSCM drivers and institutional
+pressures on GSCM practices in Taiwan’s textile and apparel industry. Inter-
+national Journal of Production Economics 135 (2), 618–636.
+
+Yang, C.-L., Lin, S.-P., Chan, Y.-h., Sheu, C., 2010. Mediated effect of environmental
+management on manufacturing competitiveness: an empirical study. Interna-
+tional Journal of Production Economics 123 (1), 210–220.
+
+Zhu, Q., Sarkis, J., 2004. Relationships between operational practices and perfor-
+mance among early adopters of GSCM management practices in chinese
+manufacturing enterprises. Journal of Operations Management 22 (3), 265–289.
+
+Tienhua Wu is a PhD candidate of Graduate Institute of Management at National
+Kaohsiung First University of Science & Technology. Her research interests include
+green supply chain management, waste management, reverse logistics, and
+military logistics.
+
+International
+
+Yen-Chun Jim Wu is Professor of Business Management Department at National
+Sun Yat-Sen University, Taiwan. His selected papers have appeared in Sloan
+Management Review, Academy of Management Learning and Education, IEEE Trans-
+actions on Engineering Management, Computers and Education, Technological Fore-
+casting & Social Change,
+Journal of Operations & Production
+Management, International Journal of Production Economics, Supply Chain Manage-
+ment, Management Decision, Journal of the American Society for Information Science
+and Technology, International Journal of Physical Distribution & Logistics Manage-
+ment, International Journal of Logistics Management, European Journal of Operational
+Research, and Transportation Research Part A & E, etc. His research interests include
+supply chain management, technology management, and lean manufacturing. He
+holds a Ph.D. in Industrial & Operations Engineering from the University of
+Michigan, Ann Arbor, U.S.A.
+
+Yenming J. Chen is an associate professor at Department of Logistics Manage-
+ment, National Kaohsiung 1st Univ of Sci&Tech. He has received his PhD in
+Systems Science and Mathematics in 1998 at Washington University in St. Louis.
+His research interests include green supply chain, channel management, regional
+sustainable development, differential games, and cooperative games. He has
+published numerous articles on environmental management and strategic
+analysis.
+
+Mark Goh holds the appointment of Director (Industry Research) at the Logistics
+Institute-Asia Paciﬁc. With over 80 papers in internationally refereed journals, his
+current research interest is on buyer–seller relationships, supply chain risk, and
+supply chain strategy.
+

@@ -1,0 +1,2565 @@
+The Impacts of IT Capability on Internet-enabled Supply and 
+
+Demand Process Integration, and Firm Performance in 
+
+Manufacturing and Services 
+
+ 
+
+Hefu Liu*, Qian Huang, Shaobo Wei, Liqiang Huang (forthcoming), “The impacts of 
+
+IT capabilities on the Internet-enabled Supply and Demand Integration, and Firm 
+
+Performance in Manufacturing and Services”, International Journal of Logistics 
+
+Management 
+
+ 
+
+ABSTRACT 
+
+Purpose – The purpose of this paper is to derive a model to examine how IT 
+
+capability affects Internet-enabled supply and demand process integration, which will 
+
+eventually improve firm performance. In addition, the moderating effects of industry 
+
+type in the research framework are explored. 
+
+Design/methodology/approach –Data were obtained from a survey administered to 
+
+261 firms in the manufacturing and services industry in China. The structural equation 
+
+modeling approach is used to test the hypotheses. The study further applied the t-test 
+
+to compare the path coefficiencies between manufacturing and service. 
+
+Findings –Results from the survey indicate that Internet-enabled supply and demand 
+
+process integration is affected by IT capability, and can directly impact firm 
+
+performance. The results further indicate that manufacturing and services firms may 
+
+benefit from IT capability in different ways. 
+
+
+Originality/value –The current paper contributes knowledge on the value-realizing 
+
+mechanism of Internet-enabled supply chain integration from a resource-based view. 
+
+It presents a multidimensional explanation of the relationships among IT capability, 
+
+Internet-enabled supply chain integration, and firm performance. 
+
+Keywords - IT capability, IT operational capability, IT transformational capability, 
+
+Internet-enabled supply chain integration, higher-order organizational capability. 
+
+Paper type– Research paper 
+
+
+1.  Introduction 
+
+Due  to  globalization  and  the  diffusion  of  Internet  applications,  integrating  supply 
+
+chain  processes  over  the  Internet  is  becoming  a  main  theme  of  supply  chain 
+
+management  (SCM)  (Flynn  et  al.,  2010;  Liu  et  al.,  2013a;  Ralston  et  al.,  2013; 
+
+Rosenzweig, 2009). It is suggested that the Internet could provide an open, real-time, 
+
+global  platform  for  a  firm  to  access  to  a  wide  range  of  channel  partners  (anytime, 
+
+anyplace,  anyone,  almost)  at  a  lower  cost  (Giménez  &  Lourenço,  2008;  Ke  et  al., 
+
+2009;  Zhu  et  al.,  2006).  Supply  chain  integration  (SCI)  in  e-business  thus  could 
+
+enable  the  firm  to  overcome  the  tradeoffs  of  low-cost,  rich-content,  real-time,  and 
+
+broad  channel  deployment,  and  eventually  to  derive  competitive  advantage  that  the 
+
+firm cannot achieve individually (Giménez & Lourenço, 2008; Lee & Whang, 2004; 
+
+Liu et  al., 2010; Rosenzweig, 2009). In this view, researchers and practitioners have 
+
+held a view that a greater level of integration in e-business would lead to better firm 
+
+performance  (Frohlich  &  Westbrook,  2001;  Rosenzweig,  2009).  However,  although 
+
+the benefits of SCI have been well touted theoretically (Frohlich, 2002; Lee & Whang, 
+
+2004; Rosenzweig, 2009), few studies have investigated the antecedents of SCI in e-
+
+business.  
+
+In the existing literature, Information Technology (IT) is often mentioned as a key 
+
+driver for successful SCM implementation (Bagchi & Skjoett-Larsen, 2003; Hall et al., 
+
+2012;  Li  et  al.,  2009).  The  literature  indicates  that  most  successful  collaborative 
+
+relationships  are  developed  when  firms  and  their  partners  both  equip  with  IT 
+
+capability (Liu et al., 2013b; Rai et al., 2012). IT capability reflects a firm’s ability to 
+
+
+assemble,  integrate,  and  deploy  IT  resources to meet  business  needs (Kim  &  Lee, 
+
+2010; Ravichandran & Lertwongsatiem, 2005; Ray et al., 2005). This ability enables 
+
+the  firm  to  diffuse  IT  applications  in  business  processes  efficiently,  as  well  as  to 
+
+extensively  use  IT  to  support  the  execution  of  business  strategies  and  value-chain 
+
+activities (Li  et  al.,  2009;  Rai  et  al.,  2006;  Rai  et  al.,  2012).   It  is  suggested  that  IT 
+
+capability,  as  part  of  a  firm’s  resource  portfolio,  could  ensure  the  firm  to  deploy 
+
+appropriate  IT  applications  effectively,  and  overcome  the  technological  constraints 
+
+related  to  SCI (Devaraj  et  al.,  2007).  It  is,  therefore,  not  surprising  that  many  firms 
+
+such  as  Cisco,  General  Electric,  Wal-Mart,  and  Dell  are  trying  to  develop  efficient 
+
+strategies  that  leverage  their  IT  capability  to  facilitate  SCI  to  achieve  superior  firm 
+
+performance.   
+
+Although  the  promising  and  optimistic  views  of  the  significance  of  IT  capability 
+
+with  respect  to efficient  and effective  SCM, evidences to  date indicate that applying 
+
+IT  capability  to  the  management  of  a  supply  chain  to  achieve  superior  firm 
+
+performance is not an easy step in industry (Devaraj et al., 2007; Hall et al., 2012; Rai 
+
+et al., 2006). Indeed, some empirical research shows that IT capability cannot provide 
+
+the  expected  performance  benefits  in  managing  a  supply  chain  (Ray  et  al.,  2005; 
+
+Tippins & Sohi, 2003; Wu et al., 2006). It is suggested that “the role and articulation 
+
+of  the  underlying  mechanisms`  through  which  IT  capabilities  improve  firm 
+
+performance  remain  unclear”  (Mithas  et  al.  2011  p.238).  Given  that  firms  make 
+
+increasingly  large  investments  in  IT,  how  best  to  reap  the  benefits  of  specific  IT 
+
+capability  and  how  environmental  factors  affect  such  a  value-related  process  is 
+
+
+becoming a vital concern for researchers and practitioners (Ray et al., 2005; Tippins 
+
+& Sohi, 2003; Wu et al., 2006).  
+
+The  aim  of  this  study  is  to  extend  the  current  understanding  of  how  IT  capability 
+
+affects Internet-enabled SCI, which will eventually improve firm performance from a 
+
+resource-based  view  (RBV).  Specifically,  we  will  investigate  the  influence  of  two 
+
+Internet-enabled  SCI  dimensions  (i.e.,  the  integration  of  demand  processes  and  of 
+
+supply processes) on firm performance. According to the RBV, these two dimensions 
+
+of process integration interact as a higher-order organizational capability that is firm 
+
+specific and difficult to duplicate across the typical operations of different firms (Rai 
+
+et al., 2006; Wu et al., 2006). These two dimensions can further apply to the use of the 
+
+Internet to overcome the tradeoffs between low cost, rich content, real-time data, and 
+
+broad  deployment  across  the  supply  chain,  which  are  faced  by  traditional 
+
+marketplace-based  competition  (Frohlich,  2002;   arc  a-Dastugue  &  Lambert,  2003; 
+
+Lancioni et  al.,  2003). Scholars thus  indicate that  these two forms  of integration not 
+
+only  streamline  the  flow  of  information,  materials,  and  finances  across  the  supply 
+
+chain  in  order  to  obtain  a  sustained  competitive  advantage,  but  also  they  help  firms 
+
+reap the full benefits of IT capability (Esper et al., 2010; Frohlich & Westbrook, 2002; 
+
+Osmonbekov et al., 2009; Vaart & Donk, 2008). 
+
+The  current  study  further  explores  the  role  of  two  IT  capability,  namely  IT 
+
+operational  capability  and  IT  transformational  capability  that  affect  Internet-enabled 
+
+SCI.  The  existing  literature  indicates  that  IT  operational  and  transformational 
+
+capability  which  differ  with  respect  to  IT  applications  deployment,  are  the  two 
+
+
+fundamental components of IT competence (Ravichandran & Lertwongsatiem, 2005; 
+
+2000).    IT  operational  capability  focuses  on  deploying  IT  applications  to  provide 
+
+reliable  and  consistent  IT  support  to  current  business,  and  IT  transformational 
+
+capability emphasizes deploying new IT applications to transform firms to create new 
+
+business opportunities (Ravichandran & Lertwongsatiem, 2005; 2000). It is suggested 
+
+that  these  two  IT  capability  reflect  the  different  mechanisms  by  which  IT  resource 
+
+deployment facilitates organizational capability such as SCI (Devaraj et al., 2007; Li 
+
+et al., 2009; Rai et al., 2006; Wu et al., 2006). Hence, investigating these two types of 
+
+IT capability simultaneously may shed new light on the benefits of IT capability and 
+
+help resolve the problem of the current inconsistencies found in the extant literature. 
+
+Finally, we propose to use industry type as a moderator in our research model. As 
+
+indicated by Rosenzweig  (2009) and Vaart and Donk (2008), failing to fully consider 
+
+the  industry  environment  in  which  firms  compete  could  incur  mixed  findings  about 
+
+the relationship between supply chain integration and firm performance. Industry type 
+
+has  been  presented  as  a  surrogate  variable  comprising  a  set  of  comprehensive  and 
+
+relevant  constructs,  such  as  organizational  capabilities,  business  environment, 
+
+business  strategy,  and  technology  adoption  (Neirotti  and  Paulucci  2011).  This 
+
+indicates that different industry types suggest different business objectives, interests, 
+
+models, and environments all of which would impact the benefit-realizing capacity of 
+
+a  particular  strategy  (Frohlich  &  Westbrook,  2002;  Johansson  &  Olhager,  2006). 
+
+Frohlich and Westbrook (2002), for example, propose that manufacturing and services 
+
+industries may be different enough to affect their need for improving performance by 
+
+
+specific  channel  management  capability.    Also,  Zhu  and  Sarkis  (2004)  suggest 
+
+industry  type  as  being  the  potential  moderator  of  the  relationship  between  supply 
+
+chain management and firm performance. As such, incorporating industry type in this 
+
+study is consistent with the themes appearing in strategy and organizational literature, 
+
+and  is  helpful  to  understand  the  relationships  between  Internet-enabled  supply  chain 
+
+integration and firm performance. 
+
+ 
+
+2.  Theoretical background and research model 
+
+RBV  conceptualizes  a  firm  as  being  comprised  of  a  bundle  of  resources,  and 
+
+“defines strategic assets as rare, valuable, imperfectly imitable, and non substitutable 
+
+resources”  (Yeung,  2008  p.493).  It  further  indicates  that  a  firm’s  competitive 
+
+advantage  lies  in  the  application  of  higher-order  organizational  capability,  which  is 
+
+enhanced  by  its  organizational  resources  (Barney,  2007;  Rai  et  al.,  2006).  Higher-
+
+order organizational capability reflects the firm’s heterogeneous and immobile ability 
+
+which  could  integrate,  build,  and  reconfigure  resources  that  are  embedded  in 
+
+organizational processes designed to respond to market changes (Barney, 2007; Rai et 
+
+al., 2006; Teece, 2007; Teece et al., 1997).  
+
+Accordingly,  the  relationships  between  IT  capability,  SCI,  and  firm  performance 
+
+can  be  grounded  in  RBV.  Specifically,  IT  capability,  as  part  of  a  firm’s  resource 
+
+portfolio,  could  facilitate  the  configurations  and  complementarity  of  resources  both 
+
+within  and  across  organizational  boundaries  (Kim  &  Lee,  2010;  Ravichandran  & 
+
+Lertwongsatiem, 2005; Ray et al., 2005). It could be blended with interorganizational 
+
+
+processes 
+
+to  develop  higher-order  organizational  capability  for 
+
+transferring 
+
+information, sensing market conditions, and coordinating operations across the supply 
+
+chain  (Devaraj  et  al.,  2007;  Li  et  al.,  2009;  Rai  et  al.,  2006).  For  example,  IT 
+
+capability  could  provide  an  environment  conducive  to  enhancing  the  integration  or 
+
+alignment  of  supply  or  demand  processes  across  the  supply  chain,  which  eventually 
+
+impact firm performance.  
+
+Following the RBV, the literature indicates that a firm’s ability to integrate supply 
+
+chain  processes,  such  as  demand  processes  and  supply  processes,  could  act  as  a 
+
+critical higher-order organizational capability (Devaraj et al., 2007; Flynn et al., 2010; 
+
+Kim, 2009; Li et al., 2009; Liu et al., 2010; Rai et al., 2006; Vaart & Donk, 2008). It 
+
+is  suggested  that  “processes  consist  of  multiple  interdependent  and  interlocking 
+
+activities within the value chain that are difficult to collectively duplicate and compete 
+
+against, making them a logical battle ground for competitive advantage” (Esper et al., 
+
+2010  p.5).  Accordingly,  Internet-enabled  SCI,  which  is  difficult  for  competitors  to 
+
+imitate,  would  allow  firms  to  achieve  superior  benefits  along  with  a  sustainable 
+
+competitive  advantage  in  a  given  market.  This  study  thus  investigates  how  IT 
+
+capability  impacts  firm  performance  through  shaping  higher-order  organizational 
+
+capability of Internet-enabled supply and demand process integration. 
+
+ 
+
+2.1. Internet-enabled supply and demand process integration 
+
+The construct of Internet-enabled SCI embodies the nature of the processes that are 
+
+shared between firms in the supply chain process and the integration that is supported 
+
+
+by the Internet. Internet-enabled demand and supply process integration thus refers to 
+
+the extent to which a firm strategically collaborates demand and supply side processes, 
+
+respectively, with channel partners based on the application of the Internet (Devaraj et 
+
+al., 2007; Esper et al., 2010; Frohlich & Westbrook, 2002). Specifically, demand side 
+
+processes  refer  to  the  processes  followed  both  inside  and  outside  of  a  firm  for 
+
+generating  and  maintaining  demand,  such  as  the  processes  of  marketing,  sales,  and 
+
+customer  relationship  management.  In  contrast,  supply  side  processes  reflect  the 
+
+processes inside and outside of the firm that are responsible for fulfilling the activities 
+
+of supporting and supplying the products and services, which consists of inbound and 
+
+outbound logistics (Esper et al., 2010; Flynn et al., 2010; Frohlich & Westbrook, 2002; 
+
+Jüttner et al., 2010).  
+
+Given the power of the Internet to provide open, real-time, and global connections, 
+
+firms are increasingly infusing the Internet into demand and supply processes ( arc  a-
+
+Dastugue  &  Lambert,  2003;  Ke  et  al.,  2009;  Lancioni  et  al.,  2003;  Lee  &  Whang, 
+
+2004; Liu et al., 2010; Osmonbekov et al., 2009). In contrast to traditional Electronic 
+
+Data  Interchange  (EDI)  systems,  the  Internet  has  enhanced  features  that  make  the 
+
+integration  of  fragmented,  silo-oriented  supply  chain  processes  more  flexible  and 
+
+affordable to smaller business (Devaraj et al., 2007; Ke et al., 2009; Zhu et al., 2006). 
+
+The  Internet  enables  firms  to  conduct  information  exchange  and  channel  processes 
+
+coordination,  such  as  sales,  promotion,  procurement,  customer  service,  and  delivery 
+
+schedule,  without  the  constraints  of  time  and  space  ( arc  a-Dastugue  &  Lambert, 
+
+2003;  Lancioni  et  al.,  2003;  Lee  &  Whang,  2004;  Zhu  et  al.,  2006).  Therefore, 
+
+
+scholars increasingly regard Internet-enabled channel integration as being the new era 
+
+of SCM (Frohlich & Westbrook, 2001; Lee & Whang, 2004). 
+
+However,  scholars  also  indicate  that  firms  may  vary  in  the  intensity  of  Internet-
+
+enabled  SCI  “depending  upon  the  degree  of  Internet-based  demand  integration  and 
+
+the degree of Internet-based supply integration in their strategy. These strategies can 
+
+range from little or no Internet-based integration to total integration from customers to 
+
+suppliers”  (Devaraj  et  al.,  2007  p.1202).  This  indicates  that  considering  the 
+
+dimensions of supply and demand process integration simultaneously is important for 
+
+understanding how the supply chain process integration operates (Flynn et al., 2010). 
+
+As  Figure  1  shows,  the  current  study  will  investigate  the  influence  of  two  IT 
+
+capabilities  on  the  Internet-enabled  supply  process  integration  and  the  Internet-
+
+enabled  demand  process  integration  simultaneously,  and  then  study  the  impact  of 
+
+these two SCI on firm performance.  
+
+ 
+
+ 
+
+Insert Figure 1 here. 
+
+2.2.  The  relationship  between  Internet-enabled  supply  and  demand  process 
+
+integration and firm performance 
+
+The  improvement  in  firm  performance  through  supply  and  demand  process 
+
+integration  has  been  well  documented  (Esper  et  al.,  2010;  Frohlich  &  Westbrook, 
+
+2002; Kim, 2009; Vaart & Donk, 2008). The literature also indicates that by infusing 
+
+the  Internet  into  channel  processes,  firms  may  apply  the  integration  of  supply  and 
+
+
+demand  processes  based  on  open,  agile,  global,  and  real-time  connections  and 
+
+linkages in  the supply chain to improve customer responsiveness  and  manufacturing 
+
+performance  flexibly  (Frohlich  &  Westbrook,  2001;  Lee  &  Whang,  2004).  This 
+
+means  that  Internet-enabled  integration  allows  firms  to  provide  easier  access  to 
+
+information,  develop  more  flexibility  to  respond  to  market  changes,  provide  global 
+
+customer service, reduce service costs, and shorten product cycles, which are critical 
+
+for firm performance (Devaraj et al., 2007; Frohlich & Westbrook, 2002). 
+
+Internet-enabled  supply  process  integration  could  improve  upstream  partners’ 
+
+understanding  and  anticipation  of  a  firm’s  needs  (Flynn  et  al.,  2010).  Specifically, 
+
+with the aid of the Internet, firms could exchange real-time information about supply 
+
+processes, schedules, capabilities, and activities with upstream partners globally. This 
+
+exchange leads to an improved understanding of ordering and shipping processes that, 
+
+in  turn,  can  minimize  the  possibility  of  logistical  errors  (Osmonbekov  et  al.,  2009). 
+
+Firms  thus  could  effectively  decrease  the  number  of  out-of-stock  items,  reduce 
+
+expediting  costs,  and  increase  responsiveness,  thereby  improving  performance 
+
+(Frohlich,  2002;  Lee  &  Whang,  2004).  Further,  supply  process  integration  could 
+
+decrease  inter-firm  conflict  and  disagreements  (Osmonbekov  et  al.,  2009;  Vaart  & 
+
+Donk, 2008). It thus can increase the upstream partners’ commitment to making their 
+
+resources  complementary  to  those  of  other  firms  to  coordinate  the  supply  chain 
+
+processes (Rosenzweig, 2009; Vaart & Donk, 2008). With complementary resources, 
+
+firms  easily  shorten  the  critical  path  for  fulfillment  activities  of  supporting  and 
+
+
+supplying  the  necessary  products  and  services  (Esper  et  al.,  2010;  Frohlich  & 
+
+Westbrook, 2002).  
+
+ 
+
+H1a:  A  firm’s  Internet-enabled  supply  process  integration  is  positively  related  to  its 
+
+performance. 
+
+ 
+
+Internet-enabled  demand  process  integration  may  enhance  firm  performance 
+
+through improving the accuracy of demand information (Flynn et al., 2010; Frohlich 
+
+& Westbrook, 2002; Osmonbekov et al., 2009; Rollins et al., 2012). Specifically, by 
+
+using the  Internet  to  detail the timing,  amount, and content of downstream  partners’ 
+
+activities,  this  integration  could  provide  firms  with  improved  visibility  of  demand 
+
+processes  and  customer  needs  (Osmonbekov  et  al.,  2009;  Rosenzweig,  2009).  This 
+
+demand-related  information  further  enables  firms  to  better  organize  and  align  their 
+
+mutually dependent activities with those of downstream partners, and then to monitor 
+
+collaboration efforts with greater efficiency and effectiveness (Frohlich, 2002; Lee & 
+
+Whang, 2004; Osmonbekov et al., 2009; Rollins et al., 2012). Further, the integration 
+
+provides  an  efficient  and  interdependent  coordination  mechanism,  which  could  help 
+
+firms reduce product design and production planning time and cost as well as detect 
+
+demand  changes  more  quickly,  thereby  allowing  them  to  be  more  responsive  to 
+
+customer needs (Flynn et al., 2010; Frohlich, 2002).  
+
+ 
+
+
+H1b: A firm’s Internet-enabled demand process integration is positively related to its 
+
+performance. 
+
+ 
+
+2.3. IT operational capability 
+
+IT operational capability reflects a firm’s ability to provide reliable and consistent 
+
+IT  support  to  current  business.  It  involves  using  IT  applications  to  solve  current 
+
+business  problems  and  provides  a  focus  on  efficiency,  consistency,  and  process 
+
+control. Further, IT operational capability could measure the extent to which a firm’s 
+
+IT  function  helps  business  operations  be  free  from    disruptions  due  to  IT-related 
+
+failures (Bharadwaj, 2000; Ravichandran & Lertwongsatiem, 2005; Ray et al., 2005). 
+
+It provides firms with the opportunity to efficiently operate specific IT applications to 
+
+develop  and  build  other  organizational  capabilities  (Bharadwaj,  2000;  Wade  & 
+
+Hulland, 2004).  
+
+IT  operational  capability  can  enhance  Internet-enabled  supply  chain  process 
+
+integration by maintaining and operating reliable information systems (Devaraj et al., 
+
+2007;  Li  et  al.,  2009;  Osmonbekov  et  al.,  2009;  Rai  et  al.,  2006).  As  Vinum  and 
+
+Skjoldager  (2001)  contends,  reliable  information  systems  enable  the  integration  of 
+
+demand  or  supply  processes  not  only  at  a  technical  level,  but  also  at  an  application 
+
+and business management level. Specifically, IT operational capability allows firms to 
+
+update  current  IT  infrastructure,  integrate  disparate  data  sources,  and  resist  system 
+
+failure to ensure that they achieve reliable IT support to operate integrated demand or 
+
+supply processes at the technical level (Kumar, 2004; Li et al., 2009; Rai et al., 2006). 
+
+
+Reliable  and  consistent  IT  support  also  helps  firms  overcome  the  technological 
+
+constraints  of  Internet  implementation,  which  eventually  facilitates  infusing  the 
+
+Internet  into  the  integration  of  supply  and  demand  processes  (Osmonbekov  et  al., 
+
+2009; Zhu et al., 2006).  
+
+Further,  IT  operational  capability  facilitates  the  flow  of  information  for  demand 
+
+forecasts,  production  schedules,  delivery  services,  and  inventory  maintenance  that 
+
+dictate  the  pattern  of  supply  and  demand  processes  at  a  business  management  level 
+
+(Li  et  al.,  2009). Rai  et  al.  (2006) argue that  through an integrated  IT infrastructure, 
+
+firms  overcome  the  limitation  of  supply  chain  fragmentation  which  could  constrain 
+
+information  flows  and  activity  coordination,  thereby  realizing  supply  and  demand 
+
+process  integration.  This  indicates  that  based  on  consistent  IT  support,  firms  could 
+
+easily  overcome  the  problem  of  disparate  and  fragmented  business  processes  at  the 
+
+management level, and then integrate demand and supply processes more effectively.  
+
+ 
+
+H2a:    A  firm’s  IT  operational  capability  is  positively  related  to  its  Internet-enabled 
+
+supply process integration. 
+
+H2b:  A  firm’s  IT  operational  capability  is  positively  related  to  its  Internet-enabled 
+
+demand process integration. 
+
+ 
+
+2.4. IT transformational capability 
+
+IT  transformational  capability  refers  to  a  firm’s  ability  to  use  IT  applications  to 
+
+transform 
+
+itself 
+
+to  create  new  business  opportunities 
+
+(Ravichandran  & 
+
+
+Lertwongsatiem, 2005). This ability reflects the differences of breadth and complexity 
+
+of  IT-enabled  changes  that  firms  could  achieve,  and  of  the  firms’  transformation 
+
+speed,  such  as  the  ability  to  accomplish  IT-enabled  changes,  both  within  and  across 
+
+organizational  boundaries  (Armstrong  &  Sambamurthy,  1999;  Liang  et  al.,  2007; 
+
+Tarafdar  &  Gordon,  2007).  Therefore,  in  contrast  to  IT  operational  capability,  IT 
+
+transformational capability focuses on search, innovation, and discovery  when trying 
+
+to create new business opportunities via diffusing advanced IT applications to support, 
+
+shape,  and  enable  new  organizational  processes  (Armstrong  &  Sambamurthy,  1999; 
+
+Ravichandran & Lertwongsatiem, 2005). 
+
+As it helps firms to efficiently redesign business processes via IT applications, IT 
+
+transformational  capability  would  be  important  for  Internet-enabled  demand  and 
+
+supply  process  integration  (Kearns  &  Sabherwal,  2006;  Yusuf  et  al.,  2004). 
+
+Specifically,  IT  transformational  capability  enables  firms  to  embed  IT-related 
+
+innovative  ideas  and  values  into  business  processes  both  within  and  across  firms 
+
+(Kearns & Sabherwal, 2006). It thus could facilitate the introduction of complex IT-
+
+enabled  modifications  such  as  digitization  in  key  business  coordination  activities  in 
+
+supply chain management (Rai et al., 2006; Ranganathan et al., 2004). For example, it 
+
+could  help  firms  digitize  their  information  flow  between  customers  via  advanced  IT 
+
+applications such as customer relationship  management. The digitization ensures the 
+
+teaming  and  free  flow  of  information,  and  then  extends  the  reach  and  range  of 
+
+coordination  with  respect  to  demand  processes,  thereby  leading  to  high  demand 
+
+process integration (Kearns & Sabherwal, 2006; Yusuf et al., 2004).  
+
+
+Further,  IT  transformational  capability  allows  firms  to  react  to  the  changes  in 
+
+channel  process  integration  with  both  flexibility  and  speed.    It  is  suggested  that  this 
+
+ability could facilitate improving manufacturing/operational flexibility and enhancing 
+
+supplier or customer linkages (Armstrong & Sambamurthy, 1999). For example, firms 
+
+could  use  this  ability  to  quickly  deploy  IT  resources  to  respond  to  the  changes 
+
+incurred by the integrated supply or demand processes, and then ensure the success of 
+
+the  new  Internet-enabled  channel  networks  and  business  models  (Frohlich  & 
+
+Westbrook,  2001;  Lee  &  Whang,  2004).  This  process  thus  indicates  that  IT 
+
+transformational  capability  could  help  firms  effectively  react  to  the  new  business 
+
+opportunities  and  the  challenges  of  achieving  better  demand  and  supply  process 
+
+synchronization  and  coordination  across  the  supply  chain  (Ke  et  al.,  2009; 
+
+Ranganathan et al., 2004).  
+
+ 
+
+H3a:  A  firm’s  IT  transformational  capability  is  positively  related  to  its  Internet-
+
+enabled supply integration. 
+
+H3b:  A  firm’s  IT  transformational  capability  is  positively  related  to  its  Internet-
+
+enabled demand integration. 
+
+ 
+
+2.5. The difference between manufacturing and services firms 
+
+We postulate that the relationships among IT capability, Internet-enabled supply chain 
+
+integration,  and  firm  performance  are  contingent  on  the  type  of  industry  in  which 
+
+firms operate. Specifically, we categorized firms as being a manufacturing industry or 
+
+
+a  services  industry  based  on  whether  firms  manufactured  physical  products  or 
+
+provided  services  (Liu  et  al.,  2010;  Mitra  &  Singhal,  2008).  Previous  research  has 
+
+shown that manufacturing and services firms differ in terms of the level of IT use and 
+
+the need for efficient supply and demand management (Frohlich & Westbrook, 2002; 
+
+Lee  &  Xia,  2006).  According  to  Frohlich  and  Westbrook  (2002),  services  and 
+
+manufacturing firms  may  be different  with  respect  to the characteristics  of customer 
+
+participation, 
+
+intangibility, 
+
+inseparability  of  production  and  consumption, 
+
+heterogeneity, perishability, and labor intensity.  Some scholars also  indicate that the 
+
+intangibility  of  services  could  highlight  the  greater  importance  of  customer 
+
+relationships  for  service  firms  in  developing  a  competitive  advantage  than  for 
+
+manufacturing  firms  (Perrien  &  Ricard,  1995).  In  this  view,  services  firms  require 
+
+higher  levels  of  direct  customer  participation  as  compared  to  manufacturing  firms, 
+
+and  hence  services  firms  would  pay  more  attention  to  demand  management  to 
+
+improve their performance at the general level (Frohlich, 2002).  
+
+Accordingly,  due  to  the  different  levels  of  inherent  information  intensity, 
+
+manufacturing and services firms would have differing needs for IT innovations (Lee 
+
+&  Xia,  2006).  For  example,  manufacturing  firms  may  focus  on  the  use  of  e-
+
+procurement,  including  the  use  of  the  Internet  in  the  purchasing  process  to  support 
+
+upstream  sourcing,  product  selection  with  on-line  catalogues,  tendering,  and  order 
+
+tracking and fulfillment, for supplier integration. Service firms may emphasize the use 
+
+of  e-commerce,  which 
+
+includes  electronic 
+
+tools  for  content  or  knowledge 
+
+management, order management/tracking, and sharing information about requests for 
+
+
+quotations and for customer integration (Hong et al., 2010; Neirotti & Paulucci 2011). 
+
+This  difference  could  dictate 
+
+the 
+
+importance 
+
+level  of  IT  operational  and 
+
+transformational capability which, in turn, causes the impacts of IT capability on the 
+
+Internet-enabled supply and demand process integration to vary in the manufacturing 
+
+and services industries.  
+
+ 
+
+H4.The  relationship  among  IT  capability,  the  Internet-enabled  supply  and  demand 
+
+process  integration,  and  firm  performance  will  differ  for  manufacturing  and 
+
+services firms. 
+
+ 
+
+3. Research method 
+
+3.1. Sampling and data collection 
+
+To test the research model, we conducted a survey study in China because China is 
+
+such a great powerhouse for global economics. More and more multinational firms 
+
+are operating either alone or collaboratively in China, and more Chinese firms are 
+
+becoming significant players in the international supply channels. To compete 
+
+domestically and internationally, firms located in China are increasingly dependent on 
+
+IT, especially inter-organizational systems designed to link with their supply chain 
+
+partners across the world (Das et al., 2006; Wang et al., 2006). In this view, China is 
+
+becoming an ideal setting to conduct supply chain research . This survey was 
+
+conducted in four cities: Shanghai, Nanjing, Suzhou, and Hefei, all of which are 
+
+located in the largest economic area of China:  the Yangtze River delta. The key 
+
+
+informants were senior executives of manufacturing and services firms, such as CEOs, 
+
+senior vice presidents of operations management, or chief technology officers. These 
+
+executives were knowledgeable about the related issues being examined in this 
+
+research, such as supply chain management and Internet technologies. Further, they 
+
+had the opportunity to be in direct contact with their supply chain partners. This 
+
+contact gave them an opportunity to get to know their partners and their respective 
+
+environments well. It is clear that senior or middle management executives have the 
+
+power and opportunity to either make or affect their firms’ operations and executive 
+
+decisions, such as those decisions regarding supply chain relationships. 
+
+We  randomly  chose  1,000  firms  based  on  the  lists  provided  by  local  Industrial 
+
+Park  Administrators,  and  sent  them  invitations  to  participate  in  our  survey.  Finally, 
+
+we  sent  600  questionnaires  to  senior  executives  who  agreed  to  participate  in  the 
+
+survey. After discarding  the incomplete questionnaires,  we  had a total of  261 useful 
+
+questionnaires and a response rate of approximately 26.1%. Followed Armstrong and 
+
+Overton (1977), we tested for the potential non-response bias. Through comparing the 
+
+Chi-squares  of  the  key  measures  of  the  responses  from  the  first  25%  of  the 
+
+respondents  and  those  of  the  final  25%,  we  found  that  there  were  no  significant 
+
+differences between these two groups on these items. This indicates that non-response 
+
+bias was not serious in this study. Table I shows the demographic information of the 
+
+samples taken. 
+
+ 
+
+Insert Table I here. 
+
+
+3.2. Measures 
+
+We developed measurement items based on previously validated measures in the 
+
+extant literature. All items were assessed using 5-point Likert scales, ranging from 
+
+“strongly disagree” to “strongly agree.” To test content validity of the questionnaire, 
+
+we first interviewed nine executives from electronics, IT product and services, finance 
+
+and banking, and the automotive industry. Valuable feedback on the instrument, with 
+
+respect to both the appropriateness and sensitivity of the measurement items was 
+
+collected. Further, we invited three researchers from the areas of information systems 
+
+and operations management to review the questionnaire. Some revisions, such as 
+
+clarifying the items and the wordings, changing the format of the questionnaire and 
+
+re-sequencing the questions, were made based on their comments and suggestions. 
+
+Given that this research was to be conducted in China, we finally translated the 
+
+instrument into Chinese after completing the original English version. The translation 
+
+followed the translation committee approach suggested by previous research (Van de 
+
+Vijver & Leung, 1997). Specifically, we first translated the questionnaire into Chinese 
+
+and then back-translated it to English to ensure an equivalence of meaning between 
+
+the English and Chinese versions. 
+
+In this study, four measurement items for  IT operational capability were adapted 
+
+from  Sarah  et  al.  (2007)  and  Bhatt  and  Grover  (2005).  We  modified  the  scales  to 
+
+reflect  the  extent  to  which  a  firm’s  information  systems  were  designed  to  support 
+
+business  relationship  easily,  how  they  were  organized  and  integrated  to  allow  for 
+
+rapid  changes  as  well  as  the  degree  to  which  they  were  compatible  and  scalable. 
+
+
+Similarly, the scales of IT transformational capability were adapted from Liang et al. 
+
+(2007) and Lee (2007). We adapted four items to measure a firm’s ability to explore 
+
+new IT resources to achieve business opportunities. Specifically, we assessed whether 
+
+the firm had the ability to constantly explore new innovative opportunities related to 
+
+IT,  to  explore  new  IT  resources  for  future  products/service,  to  explore  new  IT 
+
+resources for future business models, and to embed IT applications in management.  
+
+We developed four  items for  the  Internet-enabled supply  process  integration and 
+
+Internet-enabled demand process integration based on the work of Osmonbekov et al. 
+
+(2009),  Frohlich  and  Westbrook  (2002),  and  on  the  observations  made  during  our 
+
+interviews. Specifically, four items about Internet-enabled supply process integration 
+
+tested the  extent to  which the firm  integrated supply side processes, such  as  sharing 
+
+information about inventory status and planned order, making joint plans with respect 
+
+to inventory requirements, and coordinating procurement via the Internet with channel 
+
+partners.  Similarly,  four  items  about  Internet-enabled  demand  process  integration 
+
+measured the degree to which the firm integrated the various demand side processes, 
+
+such as the joint development of demand forecasts, joint plans for service support as 
+
+well as joint plans for the introduction of new products/services and rollover via the 
+
+Internet with channel partners.  
+
+Further,  we  measured  firm  performance 
+
+through 
+
+testing 
+
+the  executives’ 
+
+perceptions  of  their  company’s  operational  performance  relative  to  that  of  key 
+
+competitors.  In  the  existing  literature,  business  performance  has  been  considered  a 
+
+multi-dimensional construct (Venkatraman, 1989; Nakata et al., 2008). However, SCI 
+
+
+scholars  normally  focused  on  the  operational  benefits  of  supply  chain  integration 
+
+(Devaraj  et  al.  2007, Wong et  al.  2011). According to  Rosenzweig  et  al. (2003) and 
+
+Devaraj  et  al.  (2007),  the  benefits  of  integration  must  be  translated  into  operational 
+
+performance first, rather the multiple measures of business performance. In this study, 
+
+we used six items which were adapted from Rai  et al. (2006) and Ravichandran and 
+
+Lertwongsatiem  (2005)  to  assess  how  well  the  firm  responded  to  new  marketplace 
+
+demands  and  met  customer  requirements  in  terms  of  the  speed  of  delivering 
+
+products/service,  responding  to  demand  changes,  entering  new  markets,  promoting 
+
+new  products/services,  confirming  customer  orders,  and  addressing  customer 
+
+complaints as compared to key competitors.  
+
+For the moderator of industry type, we treated it as a dummy variable, such that 1 
+
+indicates manufacturing industry, and 0 represents service industry, based on whether 
+
+the  firm  manufactured  physical  products  or  provided  services.  We  further  included 
+
+three  control  variables  as  follows:  firm  size,  IT  department  size,  and  ownership. 
+
+Specifically,  firm  size  was  measured  based  on  the  number  of  full-time  employees. 
+
+Given that information technology (IT) support is necessary for the eSCMS adoption 
+
+decision, we treated the size of the IT department of the target firm as another control 
+
+variable, which was measured by the number of employees in the IT department. The 
+
+control  variable  of  Ownership  types  was  test  based  on  the  categorization  of  state-
+
+owned, privately owned, and foreign-controlled types. 
+
+ 
+
+
+4. Analysis and Results 
+
+4.1. Common method bias 
+
+Given that all data were perceptual and collected from a single source at one point 
+
+in time, we used Harmon’s one-factor test to assess common method bias. The results 
+
+revealed five constructs  with eigenvalues greater than 1.0, accounting for 69.12% of 
+
+the  variance,  while  the  first  construct  explained  17.35%  of  the  variance.  Thus, 
+
+common  method  bias  was  not  a  serious  concern  for  this  study  (Carr,  2007). 
+
+Meanwhile, we compared the fit between the one-factor model and the measurement 
+
+model to further ensure that common method bias was not serious. The fit of the one-
+
+factor model (χ2= 2258.92, d.f. = 209) was considerably inferior to (p < 0.01) the fit of 
+
+the proposed model (χ2= 541.71, d.f. = 199). This result further supported the fact that 
+
+common method bias would not impact the results of this study. 
+
+4.2. Measurement model 
+
+We  employed  the  Partial  Least  Squares  (PLS)  approach  to  analyze  the  data.  This 
+
+approach 
+
+is  suitable  for  predictive  research,  especially  for  research  under 
+
+development  that  has  not  been  tested  extensively  (Teo  et  al.,  2003).  Its  demands  on 
+
+measurement scales, sample size, and residual distributions are minimal (Ehie, 2010). 
+
+Specifically, this approach combines the assessment of both the measurement model 
+
+and  the  structural  model,  and  assesses  the  relationships  between  constructs  and  the 
+
+relationships  between  the  constructs  and  their  measurement  items  simultaneously 
+
+(Barroso & Picón, 2012).  
+
+
+We  tested  the  reliability,  convergent  validity,  and  discriminant  validity  of  the 
+
+measurements. The results showed that all of the items’ loadings were up 0.70 criteria. 
+
+As Table II shows, the values of Cronbatch alpha ranged from 0.727 to 0.803, which 
+
+indicated  the  reliability  of  our  measurement  are  good.  Meanwhile,  composite 
+
+reliability ranged from 0.882 to 0.913, which were above the 0.70 recommended level. 
+
+Further,  each  construct’s  Average  Variance  Extracted  (AVE)  scores  ranged  from 
+
+0.626 to 0.725, which were up 0.50 criteria (Fornell & Larcker, 1981). These results 
+
+indicated  that  convergent  validity  of  our  measurement  instrument  was  good.  On  the 
+
+other hand, we compared the relationship between the correlations among constructs 
+
+and  the  square  root  of  AVEs  to  assess  the  items’  discriminant  validity.  The  results 
+
+presented in Table  III indicated that the square root of AVEs for each construct  was 
+
+greater than the correlations between constructs, which confirms discriminant validity. 
+
+Insert Table II here. 
+
+Insert Table III ere. 
+
+ 
+
+Further, since  the three inter-construct  correlations in  Table  III  were higher than the 
+
+benchmark  value  of  0.60,  we  conducted  a  multicollinearity  test.  Our  results  showed 
+
+that the highest Variance Inflation Factors (VIFs) was 2.189 and the lowest tolerance 
+
+value was 0.531, which indicated that multicollinearity was not a significant problem 
+
+in our dataset.  
+
+
+ 
+
+4.3. Structural model 
+
+In  Figure  2,  we  presented  the  results  of  the  structural  model  analysis  of  the  full 
+
+sample  (n=261).  The  model  explained  19.4  to  31.4  percent  of  the  variance,  and  the 
+
+results of the path coefficients showed that all the path coefficients were positive and 
+
+significant, which supported H1 to H3. Specifically, both the Internet-enabled supply 
+
+process (b= 0.240, p< 0.01) and the demand process (b= 0.284, p< 0.01) integrations 
+
+have  significant  and  positive  influences  on  firm  performance,  which  supported  H1a 
+
+and  H1b.  Further,  the  path  coefficients  from  IT  operational  capability  to  Internet-
+
+enabled supply process (b= 0.271, p< 0.01) and demand process (b= 0.323, p< 0.01) 
+
+integration  are  both  significant,  which  supported  H2a  and  H2b.  In  addition,  IT 
+
+transformational  capability  was  found  to  significantly  impact  both  the  Internet-
+
+enabled  supply  process  (b=  0.219,  p<  0.01)  and  the  demand  process  (b=  0.300,  p< 
+
+0.01) integration. Thus, H3a and H3b were supported.  
+
+ 
+
+ 
+
+Insert Figure 2 here. 
+
+Further,  to  assess  the  moderating  effects  of  industry  type,  we  tested  the  research 
+
+framework on the manufacturing and services subsamples, respectively. In this study, 
+
+the  categorization  of  manufacturing  and  services  industry  was  based  on  whether  a 
+
+firm manufactured physical products or provided services (Liu et al., 2010).  As Table 
+
+IV shows, in the service subsample, the model explained 16.1 to 32.8 percent of the 
+
+
+variance.  Meanwhile,  the  path  coefficients  from  IT  operational  capability  to  the 
+
+Internet-enabled  supply  process  (b=  0.240,  p<  0.05)  and  demand  process  (b=  0.336, 
+
+p<  0.01)  integration  were  both  significant,  and  the  IT  transformational  capability 
+
+significantly  impacted  the  Internet-enabled  supply  process  (b=  0.213,  p<  0.05)  and 
+
+demand  process  (b=  0.312,  p<  0.01)  integration  too.  Yet,  the  results  showed  that 
+
+Internet-enabled supply process integration (b= 0.165) did not significantly affect firm 
+
+performance. Conversely, in the manufacturing subsample, the model explained 27.6 
+
+to  31.1  percent  of  the  variance.  The  results  suggested  that  both  IT  operational  and 
+
+transformational  capability  can  significantly  impact  the  Internet-enabled  supply  (b= 
+
+0.360, p< 0.01 for operational  capability  and b=  0.213, p< 0.05 for transformational 
+
+capability)  and  demand  process  integration  (b=  0.317,  p<  0.01  for  operational 
+
+capability and b= 0.294, p< 0.01 for transformational capability). Yet, we did not find 
+
+a  significant  relationship  between  Internet-enabled  demand  process  integration  and 
+
+firm performance (b= 0.224).  
+
+We  further  used  the  same  method  as  Huang  et  al.  (2010)  to  compare  the  path 
+
+coefficiencies  between  manufacturing  and  service  subsample.  Table  IV  shows  the  t-
+
+values  for  each  comparison.  The  results  showed  that  the  Internet-enabled  supply 
+
+process  integration  has  stronger  influence  on  firm  performance  in  manufacturing 
+
+industry than in service industry (t= 9.336, p<0.01). Comparably, the Internet-enabled 
+
+demand process integration has weaker impact on firm performance in manufacturing 
+
+industry than in service industry (t= -8.126, p<0.01). Further, the results showed that 
+
+only  the  relationship  between  IT  operational  capability  and  Internet-enabled  supply 
+
+
+process  integration  has  significant  difference  between  manufacturing  and  service 
+
+industry  (t=9.627,  p<0.01).  The  other  relationships  between  the  IT  capability  and 
+
+supply chain process integration were different insignificantly between manufacturing 
+
+and service.   
+
+ 
+
+ 
+
+Insert Table IV here. 
+
+5. Discussions and implications 
+
+5.1 Discussion 
+
+Our  findings  with  respect  to  the  effects  of  IT  capability,  Internet-enabled  supply 
+
+chain process integration, and firm performance are not only consistent with those of 
+
+prior  studies,  but  also  offer  new  insights  into  the  association  between  IT  capability 
+
+and operations management. Specifically, the analysis results of the full sample show 
+
+that a firm’s high-order organizational capability, namely its  Internet-enabled supply 
+
+process  and  demand  process  integration,  can  directly  improve  firm  performance. 
+
+These finding are consistent with prior operations management studies (e.g., Frohlich 
+
+&  Westbrook,  2002;  Li  et  al.,  2009).  Also,  the  results  indicate  that  Internet-enabled 
+
+supply  and  demand  process  integration  could  be  significantly  impacted  by  both  IT 
+
+operational  and  transformational  capability.  These  findings  are  consistent  with  what 
+
+been proposed by previous research in information systems (e.g., Devaraj et al., 2007; 
+
+Rai et al., 2006; Wu et al., 2006).  
+
+Further,  our  findings  indicate  that  between  manufacturing  and  services  firms,  the 
+
+
+relationships  between  Internet-enabled  supply  and  demand  process  integration  and 
+
+firm performance would vary. Specifically, manufacturing firms’ performance would 
+
+not  be  significantly  impacted  by  Internet-enabled  demand  process  integration  and 
+
+service  firms’  performance  would  not  be  significantly  affected  by  Internet-enabled 
+
+supply  process  integration.  The  different  levels  of  emphasis  on  supply  and  demand 
+
+management  between  manufacturing  and  services  firms  may  be  the  potential 
+
+explanation  for  these  findings  (Frohlich  &  Westbrook,  2002).  Specifically,  many 
+
+manufacturing firms, especially firms located in the Yangzi River Delta of China, are 
+
+manufacturing  factories  of  Original  Equipment  manufacturers  (OEM),  such  as 
+
+Flextronics, Acer, Solectron, Asus, and so on. This characteristic indicates that these 
+
+firms  normally  did  not  interact  with  customers  directly,  but  were  instead  generally 
+
+focused on manufacturing. As such, Internet-enabled demand process integration may 
+
+have  not  been  so  important  for  their  performance  improvement,  and  applying  IT  to 
+
+such process integration would not be their primary focus.  
+
+On  the  other  hand,  the  finding  of  the  insignificant  relationship  between  Internet-
+
+enabled  supply  integration  and  performance  for  services  firms  is  consistent  with 
+
+Frohlich  and  Westbrook  (2002),  which  suggested  that  compared  to  manufacturing 
+
+firms, services firms lag in adopting supply-related IT applications. Further, services 
+
+firms have a high level of direct customer participation in the service process. As such, 
+
+service  firms  likely  would  pay  less  attention  to  Internet-enabled  supply  process 
+
+integration  which  requires  them  to  infuse  the  Internet  applications  into  supply 
+
+processes to improve firm performance. 
+
+
+ Further,  partners’  IT  readiness  may  be  another  reason  for  the  non-significant 
+
+influences  of  Internet-enabled  supply  and  demand  process  integration  on  firm 
+
+performance mentioned above. According to Wiengarten et al. (2010), to achieve the 
+
+benefits  of  e-business  integration,  the  e-business  readiness  of  partners  is  necessary. 
+
+However,  the  readiness  of  partners  for  e-business  varies  across  industry  types.  For 
+
+example,  partners  of  manufacturing  firms  normally  emphasize  the  use  of  e-business 
+
+for supply integration whereas partners of service firms focus on the use of e-business 
+
+for  demand  integration  (Hong  et  al.,  2010;  Neirotti  &  Paulucci  2011).  This  would 
+
+limit  the  benefit  received  by  manufacturing  firms  from  Internet-enabled  demand 
+
+integration  and  prevent  service  firms  from  reaping  the  benefits  of  Internet-enabled 
+
+demand integration.    
+
+Finally,  we  find  that  IT  operational  capability  has  stronger  influence  on  Internet-
+
+enabled supply process integration for manufacturing than for service. This finding is 
+
+consistent  with  our  hypothesis.  However,  the  results  showed  that  the  relationships 
+
+between IT transformational capability and Internet-enabled SCI are not significantly 
+
+different between manufacturing and service. These findings are inconsistent with our 
+
+hypotheses and the existing literature which indicates that manufacturing and service 
+
+does differ in terms of the level of IT use (Frohlich & Westbrook, 2002; Lee & Xia, 
+
+2006). Our findings help us understand that although manufacturing and service have 
+
+different business objectives, interests, models, and environments, the influence of IT 
+
+capability on Internet-enabled SCI are in the same way and at the same level.  
+
+ 
+
+
+5.2 Limitations and implications 
+
+It  is  important  to  evaluate  this  study’s  results  and  contributions  in  light  of  its 
+
+limitations.  First,  while  IT  operational  capability  and  IT  transformational  capability 
+
+are  critical  for  firm  performance,  other  forms  of  IT  capability  may  affect  firm 
+
+performance  too.  Future  research  can  extend  our  study  by  examining  the  effects  of 
+
+other  IT capabilities on firm  performance. Second,  while operational  performance is 
+
+the  first  benefit  of  supply  chain  integration,  business  performance  is  also  the 
+
+important benefit of supply chain integration. Future research can enrich the findings 
+
+of  our  study  by  investigating  the  multi-dimensional  firm  performance,  which 
+
+including operational and business performance (Venkatraman, 1989 and Nakata et al., 
+
+2008). Third, the use of perceptual measures of firm performance is another limitation. 
+
+Although  the  subjective  perceptual  measures  have  been  found  to  strongly  correlate 
+
+with  objective  measures  (Sheehan  et  al.,  2007),  collecting  objective  data,  especially 
+
+on  firm  performance,  would  provide  more  convincing  research  results.  Fourth,  the 
+
+demography  of  the  respondents  in  this  study  may  limit  the  generalizability  of  our 
+
+findings. We collected data from senior executives in the Yangzi River Delta of China. 
+
+Given  that  most  manufacturing  firms  are  factories  of  OEM  in  this  area,  we  suggest 
+
+that future research should collect data from different settings. Finally, our study used 
+
+a  cross-sectional  research  design.  However,  IT  transformational  capability  is  still 
+
+developing  and  normally  focuses  on  long-term  IT  implementation,  such  as  future 
+
+products/services  and  future  business  processes.  Using  a  cross-sectional  study  to 
+
+assess its various role in manufacturing and services firms would be difficult. Thus, a 
+
+
+longitudinal  study  may  enrich  our  understanding  of 
+
+the 
+
+function  of 
+
+IT 
+
+transformational capability. 
+
+Nevertheless,  this  study  makes  four  theoretical  contributions.  First,  this  research 
+
+enriches  the  body  of  literature  on  operations  management,  especially  that  of  supply 
+
+chain  management.  It  also  incorporates  information  systems  with  operations 
+
+management by providing new insights into the business value of IT operational and 
+
+transformational capability in the supply chain context. Second, this study reveals the 
+
+influence of IT capability on firm performance by empirically exploring the impact of 
+
+IT  capability  on  higher-order  organizational  capability.  Specifically,  it  indicates  that 
+
+both IT operational and transformational capability are critical to developing Internet-
+
+enabled  supply  and  demand  process  integration.  As  such,  it  empirically  extends  the 
+
+application  of  the  resource-based  view  perspective  and  provides  new  avenues  for 
+
+future  research  that  would  investigate  the  capability-enhancing  role  of  IT  within  the 
+
+supply chain management context. Third, this research also explores the influences of 
+
+Internet-enabled  supply  and  demand  process  integration  on  firm  performance.  It 
+
+suggests  that  both  Internet-enabled  demand  and  supply  process  integration  can 
+
+directly  impact  firm  performance.  In  so  doing  it  extends  the  existing  operations 
+
+management literature on the relationship between supply chain integration and firm 
+
+performance.  Finally,  this  study  also  adds  an  industrial  perspective  to  supply  chain 
+
+management and  IT business value literature. Specifically, this research explores  the 
+
+relationships  between  IT  capabilities,  supply  and  demand  process  integration,  and 
+
+firm  performance  in  the  context  of  manufacturing  and  services  firms.  The  findings 
+
+
+indicate  that  manufacturing  and  services  firms  could  reap  the  benefits  of  IT 
+
+capabilities  in  different  ways.  For  example,  manufacturing  firms  would  achieve  the 
+
+benefits of IT capabilities through  Internet-enabled supply process integration, while 
+
+service firms would benefit from Internet-enabled demand process integration. 
+
+    This  research  also  has  practical  implications.  First,  this  research  provides  insights 
+
+into  the  importance  of  IT  operational  capability  and  IT  transformational  capability 
+
+with respect to firm performance. We suggest that managers should not only establish 
+
+IT  operational  capability  to  develop  reliable  information  systems,  but  also  should 
+
+embed new IT applications within and across organizational boundaries to transform 
+
+firms to IT-enabled organization. This means that firms should not only maintain the 
+
+stability of information systems to support their current business operations, but also 
+
+they should explore new IT resources to explore new business opportunities. Second, 
+
+the  research  provides  managers  with  specific  guidelines  for  realizing  the  business 
+
+value of IT investment in the management of a supply chain. That is, managers need 
+
+to  apply  IT  capability  to  higher-order  organizational  capability,  namely  Internet-
+
+enabled  supply  and  demand  process  integration,  so  that  their  firms  can  reap  the 
+
+benefits  of  IT  capability.  Third,  we  suggest  that  managers  should  consider  industry 
+
+type when they attempt to reap the business value of IT investment. For services firms, 
+
+managers  should  focus  on  applying  Internet-enabled  demand  process  integration  to 
+
+improve  firm  performance.  Similarly,  managers  in  manufacturing  firms  should 
+
+depend  on  applying  Internet-enabled  supply  process  integration  to  improve  firm 
+
+performance. 
+
+
+ 
+
+References 
+
+Armstrong,  C.  P.,  &  Sambamurthy,  V.  (1999),  "Information  technology  assimilation  in  firms:  The 
+
+influence  of  senior  leadership  and  IT  infrastructures".  Information  Systems  Research,  10(4), 
+
+pp. 304-327. 
+
+Armstrong, J. S., & Overton, T. S. (1977), "Estimating Nonresponse Bias in Mail Surveys". Journal of 
+
+Marketing Research, 14(3), pp. 396-402. 
+
+Bagchi, P. K., & Skjoett-Larsen, T. (2003), "Integration of information technology and organizations in 
+
+a supply chain". International Journal of Logistics Management, 14(1), pp. 89-108. 
+
+Barney, J. B. (2007).  Gaining and Sustaining Competitive Advantage. Englewood Cliffs, NJ: Prentice 
+
+Hall. 
+
+Barroso, C., & Picón, A. (2012), "Multi-dimensional analysis of perceived switching costs". Industrial 
+
+Marketing Management, In press(0), pp. 
+
+Bharadwaj, A. S. (2000), "A resource-based perspective on information technology capability and firm 
+
+performance: An empirical investigation". MIS Quarterly, 24(1), pp. 169-196. 
+
+Bhatt,  G.  D.,  &  Grover,  V.  (2005),  "Types  of  information  technology  capabilities  and  their  role  in 
+
+competitive  advantage:  an  empirical  study".  Journal  of  Management  Information  Systems, 
+
+22(2), pp. 253-277. 
+
+Carr,  C.  L.  (2007),  "The  FAIRSERV  model:  Consumer  reactions  to  services  based  on  a 
+
+multidimensional evaluation of service fairness". Decision Sciences, 38(1), pp. 107-130. 
+
+Das, A., Narasimhan, R., & Talluri, S. (2006), "Supplier integration-finding an optimal configuration". 
+
+Journal of Operations Management, 24, pp. 563-582. 
+
+
+Devaraj,  S.,  Krajewski,  L.,  &  Wei,  J.  C.  (2007),  "Impact  of  eBusiness  technologies  on  operational 
+
+performance: The role of production information integration in the supply chain".  Journal of 
+
+Operations Management, 25(6), pp. 1199-1216. 
+
+Ehie,  I.  C.  (2010),  "The  impact  of  conflict  on  manufacturing  decisions  and  company  performance". 
+
+International Journal of Production Economics, 126(2), pp. 145-157. 
+
+Esper,  T.  L.,  Ellinger,  A.  E.,  Stank,  T.  P.,  Flint,  D.  J.,  &  Moon,  M.  (2010),  "Demand  and  supply 
+
+integration:  A  conceptual    framework  of  value  creation  through  knowledge  management". 
+
+Journal of the Academy of Marketing Science, 38, pp. 5-18. 
+
+Flynn, B. B., Huo, B., & Zhao, X. (2010), "The impact of supply chain integration on performance: A 
+
+contingency and configuration approach". Journal of Operations Management, 28(1), pp. 58-
+
+71. 
+
+Fornell,  C.,  &  Larcker,  D.  F.  (1981),  "Evaluating  Structural  Equation  Models  with  Unobservable 
+
+Variables and Measurement Error". Journal of Marketing Research, 18(1), pp. 39-50. 
+
+Frohlich,  M.  T.  (2002),  "E-integration  in  the  supply  chain:  Barriers  and  performance".  Decision 
+
+Sciences, 33(4), pp. 537-556. 
+
+Frohlich, M. T., & Westbrook, R. (2001), "Arcs of integration: an international study of supply chain 
+
+strategies". Journal of Operations Management, 19(2), pp. 185-200. 
+
+Frohlich, M. T., & Westbrook, R. (2002), "Demand chain management in manufacturing and services: 
+
+web-based integration, drivers and performance".  Journal of Operations Management, 20(6), 
+
+pp. 729-745. 
+
+ arc  a-Dastugue, S. J., & Lambert, D. M. (2003), "Internet-enabled coordination in the supply chain". 
+
+Industrial Marketing Management, 32(3), pp. 251-263. 
+
+
+Giménez,  C.,  &  Lourenço,  H.  R.  (2008),  "E-SCM:  internet's  impact  on  supply  chain  processes". 
+
+International Journal of Logistics Management, 19(3), pp. 309-343. 
+
+Hall,  D.  J.,  Skipper,  J.  B.,  Hazen,  B.  T.,  &  Hanna,  J.  B.  (2012),  "Inter-organizational  IT  use, 
+
+cooperative  attitude,  and  inter-organizational  collaboration  as  antecedents  to  contingency 
+
+planning effectiveness". International Journal of Logistics Management, 23(1), pp. 50-76. 
+
+Hong, P. C., Dobrzykowski, D. C., Vonderembse, M. A. (2010), " Integration of supply chain IT and 
+
+lean  practices  for  mass  customization:  Benchmarking  of  product  and  service  focused 
+
+manufacturers",  Benchmarking: An International Journal, 17 (4), pp.561 - 592.  
+
+Huang, Q., Davison, R. M., & Gu, J. (2011), "The impact of trust, guanxi orientation and face on the 
+
+intention  of  Chinese  employees  and  managers  to  engage  in  peer-to-peer  tacit  and  explicit 
+
+knowledge sharing". Information Systems Journal, 21(6), pp. 557-577. 
+
+Jüttner,  U.,  Christopher,  M.,  &  Godsell,  J.  (2010),  "A  strategic  framework  for  integrating  marketing 
+
+and supply chain strategies". International Journal of Logistics Management, 21(1), pp. 104-
+
+126. 
+
+Johansson,  P.,  &  Olhager,  J.  (2006),  "Linking  product-process  matrices  for  manufacturing  and 
+
+industrial  service  operations".  International  Journal  of  Production  Economics,  104(2),  pp. 
+
+615-624. 
+
+Ke, W., Liu, H., Wei, K. K., Gu, J., & Chen, H. (2009), "How do mediated and non-mediated power 
+
+affect  electronic  supply  chain  management  system  adoption?  The  mediating  effects  of  trust 
+
+and institutional pressures". Decision Support Systems, 46(4), pp. 839-851. 
+
+
+Kearns,  G.  S.,  &  Sabherwal,  R.  (2006),  "Strategic  alignment  between  business  and  information 
+
+technology:  A  knowledge-based view of behaviors, outcome, and consequences".  Journal  of 
+
+Management Information Systems, 23(3), pp. 129-162. 
+
+Kim,  D.,  &  Lee,  R.  P.  (2010), "Systems  Collaboration  and  Strategic  Collaboration:  Their  Impacts  on 
+
+Supply  Chain  Responsiveness  and  Market  Performance".  Decision  Sciences,  41(4),  pp.  955-
+
+981. 
+
+Kim,  S.  W.  (2009), "An  investigation  on  the  direct  and  indirect  effect  of  supply  chain  integration  on 
+
+firm performance". International Journal of Production Economics, 119, pp. 328-346. 
+
+Kumar,  R.  (2004),  "A  framework  for  assessing  the  business  value  of  information  technology 
+
+infrastructure". Journal of Management Information Systems, 21(2), pp. 11-32. 
+
+Lancioni,  R.,  Schau,  H.  J.,  &  Smith,  M.  F.  (2003),  "Internet  impacts  on  supply  chain  management". 
+
+Industrial Marketing Management, 32(3), pp. 173-175. 
+
+Lee,  G.,  &  Xia,  W.  (2006),  "Organizational  size  and  IT  innovation  adoption:  A  meta-analysis". 
+
+Information & Management, 43, pp. 975-985. 
+
+Lee,  H.  L.,  &  Whang,  S.  (2004).  e-Business  and  Supply  Chain  Integration  (Vol.  62).  New  York: 
+
+Springer. 
+
+Lee,  O.  (2007).  IT-enabled  organizational  agility  and  firms'  competitive  success.  City  University  of 
+
+Hong Kong, Hong Kong.    
+
+Li, G., Yang, H., Sun, L.,  &  Sohal,  A. S. (2009), "The impact of IT implementation on supply chain 
+
+integration  and  performance".  International  Journal  of  Production  Economics,  120(1),  pp. 
+
+125-138. 
+
+
+Liang,  H.,  Saraf,  N.,  Hu,  Q.,  &  Xue,  Y.  (2007),  "Assimilation  of  enterprise  systems:  the  effect  of 
+
+institutional pressures and the mediating role of top management".  MIS Quarterly, 31(1), pp. 
+
+59-87. 
+
+Liu,  H.,  Ke,  W.,  Wei,  K.  K.,  Gu,  J.,  &  Chen,  H.  (2010),  "The  role  of  institutional  pressures  and 
+
+organizational  culture  in  the  firm's  intention  to  adopt  Internet-enabled  supply  chain 
+
+management systems". Journal of Operations Management, 28(5), pp. 372-384. 
+
+Liu,  H.,  Ke,  W.,  Wei,  K.  K.,  &  Hua,  Z.  (2013a),  "Effects  of  supply  chain  integration  and  market 
+
+orientation on firm performance: Evidence from China". International Journal of Operations 
+
+& Production Management, 33(3), pp. 322-346. 
+
+Liu, H., Ke, W., Wei, K. K., & Hua, Z. (2013b), "The impact of IT capabilities on firm performance: 
+
+The  mediating  roles  of  absorptive  capacity  and  supply  chain  agility".  Decision  Support 
+
+Systems, 54(3), pp. 1452-1462. 
+
+Mitra,  S.,  &  Singhal,  V.  (2008),  "Supply  chain  integration  and  shareholder  value:  Evidence  from 
+
+consortium based industry exchanges". Journal of Operations Management, 26(1), pp. 96-114. 
+
+Nakata,  C.,  Zhu,  Z.  and  Kraimer,  M.  L.  (2008),  "The  Complex  Contribution  of  Information 
+
+Technology  Capability  to  Business  Performance".  Journal  of  Managerial  Issues,  20  (4),  pp. 
+
+485-506,422-423. 
+
+Neirotti,  P.,  &  Paolucci,  E.  (2011),  "  Assessing  the  importance  of  industry  in  the  adoption  and 
+
+assimilation of IT: Evidence from Italian enterprises". Information & Management, 48 (7), pp. 
+
+249-259. 
+
+
+Osmonbekov, T., Bello, D. C., & Gilliland, D. I. (2009), "The impact of e-business infusion on channel 
+
+coordination, conflict and reseller performance". Industrial Marketing Management, 38(7), pp. 
+
+778-784. 
+
+Perrien, J., & Ricard, L. (1995), "The Meaning of a Marketing Relationship - a Pilot-Study". Industrial 
+
+Marketing Management, 24(1), pp. 37-43. 
+
+Rai,  A.,  Patnayakuni,  R.,  &  Seth,  N.  (2006),  "Firm  performance  impacts  of  digitally  enabled  supply 
+
+chain integration capabilities". MIS Quarterly, 30(2), pp. 225-246. 
+
+Rai, A., Pavlou, P. A., Im, G., & Du, S. (2012), "Interfirm IT capability profiles and communications 
+
+for cocreating relational value: evidence from the logistics industry". MIS Quarterly, 36(1), pp. 
+
+233-262. 
+
+Ralston,  P.  M.,  Grawe,  S.  J.,  &  Daugherty,  P.  J.  (2013),  "Logistics  salience  impact  on  logistics 
+
+capabilities  and  performance".  International  Journal  of  Logistics  Management,  24(2),  pp. 
+
+136-152. 
+
+Ranganathan,  C.,  Dhaliwal,  J.  S.,  &  Teo,  T.  S.  H.  (2004),  "Assimilation  and  diffusion  of  web 
+
+technologies  in  supply-chain  management:  An  examination  of  key  drivers  and  performance 
+
+impacts". International Journal of Electronic Commerce, 9(1), pp. 127-161. 
+
+Ravichandran,  T.,  &  Lertwongsatiem,  C.  (2005),  "Effect  of  information  systems  resources  and 
+
+capabilities  on  firm  performance".  Journal  of  Management  Information  Systems,  21(4),  pp. 
+
+237-276. 
+
+Ravichandran,  T.,  &  Lertwongsatien,  C.  (2000).  Strategic  Implications  of  Information  Systems 
+
+Resources  and  Capabilities:  A  Competence-Based  Model.  Paper  presented  at  the  AMCIS 
+
+2000 Proceedings. 
+
+
+Ray, G., Muhanna, W. A., & Barney, J. B. (2005), "Information technology and the performance of the 
+
+customer service process: A resource-based analysis". MIS Quarterly, 29(4), pp. 625-652. 
+
+Rollins, M., Bellenger, D. N., & Johnston, W. J. (2012), "Does customer information usage improve a 
+
+firm's  performance  in  business-to-business  markets?".  Industrial  Marketing  Management,  in 
+
+press(0), pp. 
+
+Rosenzweig, E. D. (2009), "A contingent view of e-collaboration and performance in manufacturing". 
+
+Journal of Operations Management, 27(6), pp. 462-478. 
+
+Rosenzweig,  E.  D.,  Roth,  A.  V.,  Dean  Jr, J.  W.  (2003), " The  influence  of  an  integration  strategy  on 
+
+competitive  capabilities  and  business  performance:  An  exploratory  study  of  consumer 
+
+products manufacturers", Journal of Operations Management, 21 (4), pp. 437-456. 
+
+Saraf,  N.,  Langdon,  C.  S.,  &  Gosain,  S.  (2007),  "IS  application  capabilities  and  relational  value  in 
+
+interfirm partnerships". Information Systems Research, 18(3), pp. 320-339. 
+
+Sheehan, C., Cooper, B., Holland, P., & De Cieri, H. (2007), "The relationship between HRM avenues 
+
+of  political 
+
+influence  and  perceived  organizational  performance".  Human  Resource 
+
+Management, 46(4), pp. 611-629. 
+
+Tarafdar,  M.,  &  Gordon,  S.  R.  (2007),  "Understanding  the  influence  of  information  systems 
+
+competencies  on  process  innovation:  A  resource-based  view".  Journal  of  Strategic 
+
+Information Systems, 16, pp. 353-392. 
+
+Teece,  D.  J.  (2007),  "Explicating  dynamic  capabilities:  The  nature  and  microfoundations  of 
+
+(sustainable) enterprise performance". Strategic Management Journal, 28(13), pp. 1319-1350. 
+
+Teece,  D.  J.,  Pisano,  G.,  &  Shuen,  A.  (1997),  "Dynamic  capabilities  and  strategic  management". 
+
+Strategic Management Journal, 18(7), pp. 509-533. 
+
+
+Teo,  H.  H.,  Wei,  K.  K.,  &  Benbasat,  I.  (2003),  "Predicting  Intention  to  Adopt  Interorganizational 
+
+Linkages: An Institutional Perspective". MIS Quarterly, 27(1), pp. 19-49. 
+
+Tippins, M. J., & Sohi, R. S. (2003), "IT competency and firm performance: Is organizational learning 
+
+a missing link?". Strategic Management Journal, 24(8), pp. 745-761. 
+
+Vaart, T. v. d., & Donk, D. P. v. (2008), "A critical review of  survey-based research in  supply chain 
+
+integration". International Journal of Production Economics, 111, pp. 42-55. 
+
+Van de Vijver, F.,  &  Leung,  K. (1997).  Methods and data analysis for cross-cultural  research: Sage 
+
+Publications, Inc. 
+
+Venkatraman,  N.  (1989),  "Strategic  orientation  of  business  enterprises:  the  construct,  dimensionality 
+
+and measurement". Management Science, 35 (3), pp. 942-962 
+
+Vinum, T., & Skjoldager, N. (2001). State-of-the-Art Electronic-based Supply Chain Management and 
+
+the  Development  of  an  e-Supply  Chain  Strategy  Optimization  Model.  Copenhagen: 
+
+Copenhagen Business School. 
+
+Wade, M., & Hulland, J. (2004), "Review: The resource-based view and information systems research: 
+
+Review, extension, and suggestions for future research". MIS Quarterly, 28(1), pp. 107-142. 
+
+Wang, E. T. G., Tai, J. C. F., & Wei, H.-L. (2006), "A virtual integration theory of improved supply-
+
+chain performance". Journal of Management Information Systems, 23(2), pp. 41-64. 
+
+Wiengarten,  F.,  Fynes,  B.,  Humphreys,  P.  et  al.  (2010),  "Assessing  the  value  creation  process  of  e-
+
+business along the supply chain".  Supply Chain Management, 16 (4), pp. 207-219. 
+
+Wong,  C.  Y.,  Boon-itt,  S.,  Wong,  C.  W.  Y.  (2011),  "  The  contingency  effects  of  environmental 
+
+uncertainty on the relationship between supply chain integration and operational performance". 
+
+Journal of Operations Managmeent, 29 (6), pp. 604-615. 
+
+
+Wu,  F.,  Yeniyurt,  S.,  Kim,  D.,  &  Cavusgil,  S.  T.  (2006),  "The  impact  of  information  technology  on 
+
+supply  chain  capabilities  and  firm  performance:  A  resources-based  view".  Industrial 
+
+Marketing Management, 35, pp. 493-504. 
+
+Yeung,  A.  C.  L.  (2008),  "Strategic  supply  management,  quality  initiatives,  and  organizational 
+
+performance". Journal of Operations Management, 26(4), pp. 490-502. 
+
+Yusuf,  Y.  Y.,  Gunasekaran,  A.,  Adeleye,  E.  O.,  &  Sivayoganathan,  K.  (2004),  "Agile  supply  chain 
+
+capabilities:  Determinants  of  competitive  objectives".  European  Journal  of  Operational 
+
+Research, 159(2), pp. 379-392. 
+
+Zhu,  K.,  Kraemer,  K.  L.,  Gurbaxani,  V.,  &  Xu,  S.  X.  (2006),  "Migration  to  open-standard 
+
+interorganizational  systems:  Network  effects,  switching  costs,  and  path  dependency".  MIS 
+
+Quarterly, 30, pp. 515-539. 
+
+Zhu, Q. H., & Sarkis, J. (2004), "Relationships between operational practices and performance among 
+
+early  adopters  of  green  supply  chain  management  practices  in  Chinese  manufacturing 
+
+enterprises". Journal of Operations Management, 22(3), pp. 265-289. 
+
+ 
+
+ 
+
+
+ 
+
+   
+Industry 
+
+Manufacturing Industry 
+Mechanical equipment 
+Electronics and electrical 
+Household application 
+Chemistry 
+Textiles and apparel 
+Automobile 
+
+Services Industry  
+       Finance 
+       Retailing 
+
+Telecommunication 
+Real estate 
+Logistics 
+Information technology 
+
+Ownership 
+
+State-Owned 
+Privately-Owned 
+Foreign-Controlled 
+
+Number of Employees 
+
+≤ 100 
+101-500 
+500-1000 
+1000-2000 
+More than 2000 
+
+Number of IT Employees 
+
+≤ 5 
+6-10 
+11-25 
+More than 25 
+
+N 
+
+112 
+27 
+23 
+15 
+20 
+15 
+12 
+149 
+38 
+22 
+20 
+20 
+26 
+23 
+
+104 
+75 
+82 
+
+45 
+62 
+39 
+20 
+95 
+
+103 
+46 
+16 
+96 
+
+Percentage 
+
+42.91% 
+10.34% 
+8.81% 
+5.75% 
+7.66% 
+5.75% 
+4.60% 
+57.09% 
+14.56% 
+8.43% 
+7.66% 
+7.66% 
+9.96% 
+8.82% 
+
+38.85% 
+28.73% 
+31.42% 
+
+17.24% 
+23.76% 
+14.94% 
+7.66% 
+36.40% 
+
+39.47% 
+17.62% 
+6.13% 
+36.78% 
+
+Table I. Demographic information of samples (n=261)
+
+
+ 
+
+Constructs                      
+
+Items 
+
+Alpha 
+
+Reliability 
+
+    AVE 
+
+Cronbatch 
+
+Composite 
+
+IT operational capability 
+
+IT transformational capability 
+
+Internet-enabled supply integration 
+
+Internet-enabled demand Integration 
+
+Firm performance 
+
+4 
+
+4 
+
+4 
+
+4 
+
+6 
+
+0.830 
+
+0.791 
+
+0.819 
+
+0.727 
+
+0.783 
+
+0.882 
+
+0.653 
+
+0.913 
+
+0.725 
+
+0.902 
+
+0.697 
+
+0.895 
+
+0.681 
+
+0.909 
+
+0.626 
+
+Table II. Results of confirmatory factor analysis
+
+
+ 
+
+ 
+
+ 
+
+1. IT operational 
+
+capability 
+
+2. IT transformational 
+
+capability 
+
+3. Internet-enabled 
+
+supply integration 
+
+4. Internet-enabled 
+
+demand integration 
+
+Mean 
+
+S.D 
+
+Full  Services  Manu.  Full 
+
+Services  Manu. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+3.474  3.498  3.442  0.876  0.844  0.919  0.808 
+
+ 
+
+3.628  3.648  3.603  0.937  0.911  0.974  0.615  0.851 
+
+ 
+
+ 
+
+3.296  3.143  3.603  1.034  1.073  0.947  0.405  0.385  0.835 
+
+ 
+
+ 
+
+ 
+
+3.265  3.283  3.241  0.910  0.914  0.908  0.508  0.499  0.672  0.825 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Firm performance 
+
+3.747  3.681  3.834  0.742  0.792  0.663  0.359  0.429  0.453  0.469  0.791 
+
+6. Firm size 
+
+7. Ownership 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+8. IT department size 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+Note: The diagonal elements are the square root of the AVE. 
+
+Table III.  Results of correlation testing 
+
+0.233  0.222  0.101  0.074  0.068 
+
+-- 
+
+0.067  0.030  0.229  0.180  0.161  -0.034 
+
+-- 
+
+0.319  0.363  0.106  0.136  0.130  0.693  -0.126 
+
+-- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+  
+
+Relationship 
+
+Internet-enabled supply integration  
+
+firm performance 
+
+Internet-enabled demand integration 
+
+ firm performance 
+
+IT operational capability  Internet-
+
+enabled supply integration 
+
+IT operational capability  Internet-
+
+enabled demand integration 
+
+IT transformational capability  
+
+Internet-enabled supply integration 
+
+IT transformational capability  
+
+Internet-enabled demand integration 
+
+R2: Internet-enabled supply 
+
+integration 
+
+R2: Internet-enabled demand 
+
+integration 
+
+R2: Firm performance 
+
+Manufacturing 
+
+Service 
+
+(N: 112) 
+
+(N: 149) 
+
+0.316** 
+
+0.165 
+
+0.224 
+
+0.357** 
+
+0.360** 
+
+0.240* 
+
+0.317** 
+
+0.336** 
+
+0.230* 
+
+0.213* 
+
+0.294** 
+
+0.312* 
+
+0.293 
+
+0.161 
+
+0.311 
+
+0.328 
+
+0.276 
+
+0.273 
+
+Path difference 
+
+b= 0.151, 
+
+t=9.336, p<0.01 
+
+b= -0.133,  
+
+t=-8.126, p<0.01 
+
+b= 0.120, 
+
+t=9.627, p<0.01 
+
+b= -0.018,  
+
+t=-1.519, p>0.10 
+
+b= 0.017, 
+
+t=1.287, p>0.10 
+
+b= -0.018,  
+
+t=-1.519, p>0.10 
+
+ 
+
+ 
+
+ 
+
+Table IV. Comparison of path coefficiencies  
+
+
+IT operational 
+
+capability 
+
+ 
+
+H2a 
+
+Internet-enabled 
+
+supply integration 
+
+ 
+
+H2b 
+
+H3a 
+
+IT transformational 
+
+H3b 
+
+capability 
+
+Internet-enabled 
+
+demand integration 
+
+ 
+
+Figure 1.  The research framework 
+
+Control variables 
+
+-- Ownership 
+
+-- Firm Size 
+
+-- IT department Size 
+
+Firm  
+
+performance 
+
+ 
+
+H1a 
+
+H1b 
+
+ 
+
+ 
+
+
+IT operational 
+
+capability 
+
+ 
+
+H2a: 0.271** 
+
+Internet-enabled 
+
+supply integration 
+
+0.194 
+
+Control variables 
+
+-- Ownership 
+
+-- Firm Size 
+
+-- IT department Size 
+
+H2b: 0.323** 
+
+H1a: 0.240** 
+
+n.s. 
+
+Firm  
+
+performance 
+
+0.264 
+
+H3a: 0.219** 
+
+H1b: 0.284** 
+
+IT transformational 
+
+H3b: 0.300** 
+
+capability 
+
+Internet-enabled 
+
+demand integration 
+
+0.314 
+
+* p<0.05; ** p<0.01 
+
+With full sample (n=261) 
+
+ 
+
+ 
+
+Figure 2.  The PLS results of the model with full sample 
+
+
+ 
+
+ 
+
+Appendix 
+
+Measurement items 
+
+Constructs and measurement 
+
+IT Operational Capability 
+
+The manner in which the components of our information systems are organized 
+
+and integrated allows for rapid changes.  
+
+Loading 
+
+ 
+
+0.82 
+
+Our information system is designed to support new business relationships easily. 0.80 
+
+Our information systems are highly compatible. 
+
+Our information systems are highly scalable. 
+
+IT Transformational Capability 
+
+We continuously examine the innovative opportunities IT can provide for 
+
+competitive advantage 
+
+0.77 
+
+0.88 
+
+ 
+
+0.89 
+
+We continuously explore new IT applications for future products/services 
+
+0.87 
+
+We continuously explore new IT applications for future business processes 
+
+0.89 
+
+We use IT applications in our management at a high degree 
+
+Internet-enabled Supply Process Integration  
+
+We share the inventory level information with our key channel partner via the 
+
+Internet  
+
+We share the planned order information with our key channel partner via the 
+
+Internet 
+
+We and our key partners develop joint plans on inventory requirements via the 
+
+Internet. 
+
+0.73 
+
+ 
+
+0.85 
+
+0.85 
+
+0.83 
+
+ 
+
+48 
+
+
+ 
+
+We and our key partners coordinate procurement via the Internet (e.g., online 
+
+order placement: place and track orders with suppliers; allow suppliers to submit 
+
+0.81 
+
+bids online). 
+
+Internet-enabled Demand Process Integration 
+
+We and our key partners develop joint development of demand forecasts via the 
+
+Internet. 
+
+We and our key partners develop joint plans on new product/service 
+
+introduction and rollover via the Internet. 
+
+ 
+
+0.81 
+
+0.86 
+
+We and our key partners develop joint plans on service support via the Internet.  0.84 
+
+We and our key partners coordinate new product/service introduction via the 
+
+Internet. 
+
+Firm Performance  
+
+(Compared with our key competitors, we have better performance in) 
+
+Decrease in rapid respond to market demand change product/service delivery 
+
+cycle time 
+
+Rapid response to market demand change 
+
+Rapid entering new market 
+
+Rapid bring new products/services to the market 
+
+Rapid confirmation of customer orders  
+
+Rapid handling of customer complaints 
+
+0.78 
+
+ 
+
+0.78 
+
+0.79 
+
+0.80 
+
+0.81 
+
+0.80 
+
+0.76 
+
+Note: All items use five-point Likert scales anchored at 1 (strongly disagree) and 5 (strongly 
+
+agree). 
+
+ 
+
+ 
+
+ 
+
+49 
+

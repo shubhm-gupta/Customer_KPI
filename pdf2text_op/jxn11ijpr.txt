@@ -1,0 +1,9521 @@
+International Journal of Production Research
+Vol. 49, No. 1, 1 January 2011, 59–85
+
+The direct and contingency effects of supplier coordination and customer
+
+coordination on quality and flexibility performance
+
+Jayanth Jayarama*, Kefeng Xub and Mariana Nicolaea
+
+aMoore School of Business, University of South Carolina, Columbia, SC 29208, USA;
+bCollege of Business, University of Texas at San Antonio, San Antonio, TX 78249, USA
+
+(Final version received 25 May 2010)
+
+In today’s highly competitive environment, a goal-oriented supply chain needs
+coordination to manage the interdependent activities of supply chain partners.
+The role of coordination mechanisms is critical
+in achieving supply chain
+performance. We thus suggest that supplier coordination and customer coordi-
+nation influence performance, operationalised in this paper under two dimen-
+sions, e.g., quality and flexibility. Moreover, drawing on contingency theory, we
+suggest that the relationships are contingent upon factors such as firm size and
+clockspeed. Using empirical data collected from 197 production/operations
+managers of Chinese manufacturing firms, a regression analysis approach is
+employed to test the theoretical framework. The results provide support for the
+four direct and positive relationships between each coordination mechanism
+studied and quality and flexibility performance. The interaction between supplier
+coordination and size was directly and positively related to quality performance
+(large size effect). However, the interaction between customer coordination and
+size was directly and negatively related to flexibility performance (small size
+effect). The interaction between supplier coordination and clockspeed was
+directly and positively related to only flexibility performance. Implications for
+managers and academics and suggestions for future research are offered.
+
+Keywords: global coordination; contingency theory; China; regression analysis
+
+1. Introduction
+
+A supply chain is viewed as a network of firms involved in various activities such as
+planning, design, distribution, selling, support, usage and recycling of products both
+upstream and downstream, in order to add value in the form of products and services
+delivered to end customers (Narasimhan and Jayaram 1998, Arshinder et al. 2008). These
+firms pursue different goals, often to the detriment of one another. However, recent
+research has suggested that supply chain performance depends on how well supply chain
+partners work together and not on how well each partner firm performs individually.
+In this common-goal view, the interdependent activities between supply chain entities
+needs to be coordinated to achieve the best fit among supply chain partners. It has been
+shown that poor coordination among supply chain members has negative consequences on
+performance, such as inaccurate forecasts, low capacity utilisation, excessive inventory,
+
+*Corresponding author. Email: Jayaram@moore.sc.edu
+
+ISSN 0020–7543 print/ISSN 1366–588X online
+ß 2011 Taylor & Francis
+DOI: 10.1080/00207543.2010.508935
+http://www.informaworld.com
+
+
+60
+
+J. Jayaram et al.
+
+inadequate customer service, inventory turns, inventory costs, time to market, order
+fulfilment response, quality, customer focus and customer satisfaction (Ramdas and
+Spekman 2000).
+
+Similarly, Fine (1998) argues that product design, process design and supply chain
+design decisions have to be integrated to support one another in order for firms to stay
+competitive. Hsu and Wallace (2007) argue that supply chains can be digitally connected
+to enhance their performance. Staley and Warfield (2007) provide an example of a
+collaborative planning system (C3P system) at Ford which provides product information
+across and beyond the entire enterprise, extending into the supplier and customer base.
+Internal integration facilitated via information sharing and use of computer technology
+also leads to improved product performance (Li et al. 2005, Shu and Wang 2007). At the
+same time, internal constituents seek to integrate with customers and suppliers in order to
+obtain information necessary to reduce uncertainty and ultimately, enhance performance.
+The logic that drives internal integration is equally relevant for integrating activities of
+external entities (Koufteros et al. 2005). Thus, effective coordination must be developed
+both within and outside the firm in order to convert competitive advantage into
+profitability (Dyer and Singh 1998). Several studies have shown that firm coordination has
+a positive impact on performance (Lee et al. 1997, Metters 1997, Narasimhan and Jayaram
+1998, Johnson 1999, Frohlich and Westbrook 2001, Stank et al. 2001, Vickery et al. 2003).
+Wal-Mart, for instance, shares sales and inventory information with its key suppliers
+which allows the retailer to quickly replenish their shelves or on the other hand, to
+discontinue the carrying of slow moving items (Hougland 2007). Also, Nike successfully
+coordinates its design and marketing capabilities with manufacturing capabilities of its
+suppliers in Asia, thereby keeping up with the changing requirements of its customers
+(Jones 2007).
+
+Given the nature of interdependence between supply chain members, coordination is a
+necessary prerequisite for integrating operations in order to achieve the mutual goals of all
+entities in a supply chain (Simatupang et al. 2002). Thus, coordination mechanisms, which
+are tools for managing these interdependencies, are instrumental in eliminating supply
+chain sub-optimisation and achieving desirable performance outcomes (Fugate et al.
+2006). For instance, supplier coordination is critical given that purchasing represents
+around 50% of the cost of goods sold by US manufacturers. Moreover, suppliers have
+a great impact on cost, quality, technology, speed and responsiveness of buying firms
+(Ragatz et al. 2002). Similarly, customer coordination, an example of another coordina-
+tion mechanism, ensures that the voice of the customer is embedded in the product
+development effort, thus boosting a firm’s product innovation and quality performance
+(Koufteros et al. 2005).
+
+In this paper, we investigate the direct impact of supplier and customer coordination
+on quality and flexibility performance. Among the various dimensions of performance, we
+focus on flexibility and quality performance as these are critical in today’s demanding and
+fast changing environment. We seek to offer a different perspective on the relationship
+between supplier and customer coordination, and performance as compared to the extant
+literature, which will also benefit practitioners. Based on a literature review on supplier
+and customer coordination from a contingency perspective, we investigate the contingency
+influence of two important contextual variables of firm size and clockspeed on the
+coordination to performance relationships. Specifically, we seek to understand how firm
+size and clockspeed moderate the influence of supplier and customer coordination on
+quality and flexibility performance.
+
+
+International Journal of Production Research
+
+61
+
+The flow of this paper is that we use extant theories of coordination and contingency
+to formulate our conceptual model. The related hypotheses and research design and
+methodology are discussed next, followed by the statistical analysis and discussion
+sections.
+
+2. Literature review
+
+The importance of coordination on organisational goals was recognised early in
+organisation theory by Barnard (1938), who argued that ‘when ends have been adopted,
+the coordination of acts as means to these ends is in itself an essentially logical process’
+(Barnard 1938, p. 186). Often, good coordination is almost invisible and is mostly noticed
+when it is lacking. Malone and Crowston (1994) define coordination as the process of
+managing dependencies among activities. Although there have been several perspectives
+addressing the issue of coordination, they all share the common precept of interdepen-
+dence as a prerequisite to coordination (Malone and Crowston 1994). However,
+coordination problems arise from dependencies that constrain how tasks can be
+performed, and additional activities – coordination mechanisms – must be carried out
+in order to overcome these problems (Crowston 1997).
+
+2.1 Theoretical background on coordination theory
+
+The interdependent activities that are performed by different actors in a supply chain to
+achieve goals may require acquisition or creation of different resources (Crowston 1997).
+There are three types of coordination: coordination between two tasks, coordination
+between two resources, and coordination between a task and a resource (Crowston 1997).
+The type of coordination used in the organisation is a function of the extent to which the
+situation is standardised: coordination by plan is based on pre-established schedules,
+whereas coordination by feedback involves transmission of new information (March and
+Simon 1958). The type of organisation structure, i.e., centralised versus decentralised,
+also facilitates the coordinated action of interdependent elements (Thompson 1967).
+The concept of task interdependence is the extent to which the relationship between groups
+could be categorised into one of the three patterns of workflow that exist between them,
+namely pooled, sequential and reciprocal. As such,
+the coordination mechanisms
+corresponding to these types of
+interdependence have been identified as being
+standardisation of rules, planning and scheduling, and mutual adjustment (Thompson
+1967). Van de Ven et al. (1976) added the fourth type of interdependence, the work unit of
+a team, and proposed that uncertainty and team size are additional determinants of
+coordination. They also argued that the need for group coordination increases as the level
+of
+types and levels of
+interdependence between functions, two distinct aspects of coordination, namely the
+amount of interdependence and the amount of conflict between functions, were proposed
+by Victor and Blackburn (1987).
+
+interdependence increases. To accommodate the different
+
+Thompson’s (1967) typology was extended by Malone and Crowston (1994) who
+suggested different kinds of dependencies, such as shared resources, producer/consumer
+relationship, simultaneity and task/subtask, and corresponding coordination mechanisms
+that can be used to manage them. The effectiveness of coordination mechanisms depends
+on a shared view of coordination structure because it facilitates the visibility of the
+
+
+62
+
+J. Jayaram et al.
+
+interconnections between assignment of individual responsibilities and their interrelation-
+ships to achieve some organisational objectives (Bailetti et al. 1994). More specifically,
+Adler (1995) argued that, since the objective of coordinating design and manufacturing
+departments is to ensure an acceptable fit between product design and manufacturing
+process parameters, the most efficient interdepartmental coordination mechanism is that
+which is able to deal with the uncertainty of this product/process fit at least cost to the
+organisation. In this paper, we take this argument to the inter-firm level since the
+interdependencies also arise between firms, i.e., between a buyer and its suppliers. Thus,
+coordination becomes an even more critical issue as there is typically more than a single
+governing authority within a supply chain that establishes the best coordination
+mechanism among supply chain partners in order to achieve their mutual goals.
+
+2.2 A contingency approach to supplier and customer coordination
+
+While the literature on supply chain integration has offered several types of coordination,
+such as customer/market coordination, information coordination, logistics and distribu-
+tion coordination, supplier coordination, and purchasing coordination (Zhang et al. 2004,
+Das et al. 2006, Li 2006, Beheshti et al. 2007, Hou 2009), our focus in this paper is on
+supplier and customer coordination. Lately, research has shown that effective supplier
+coordination is a key factor for manufacturers to remain competitive in today’s global
+competition. Purchased materials represent around 50% of the cost of goods sold in
+manufacturing industries worldwide, with a likelihood of percentage increase as the
+volume of outsourced work continues to increase. Thus, supplier coordination is a critical
+factor for improving performance in terms of costs, speed and product quality. Through
+supplier involvement, the unique capabilities that allow a firm to build a competitive
+advantage are complemented and enhanced.
+
+Consistent with Frohlich and Westbrook’s (2001) question of whether it is more
+important to link with suppliers, or link with customers or link with both, we are also
+interested in studying customer coordination as well as supplier coordination. It is well-
+known that customer integration involves determining customer requirements and
+(Koufteros et al. 2005).
+tailoring internal activities
+Moreover, early customer integration leads to a stronger relationship with the partner,
+a better understanding of market needs, fewer errors in the early development process and
+a better product quality (Enkel et al. 2005).
+
+these requirements
+
+to meet
+
+Contingency theory tries to understand organisational
+
+issues from a contextual
+perspective. Applying this framework to our research objective, it means that determining
+how supplier and customer coordination impacts performance needs an analysis of the
+specific contexts. The extant work that has been conducted with respect to supplier and
+customer coordination is summarised in Table 1(a) and 1(b). A brief summary of these
+works follows.
+
+Ragatz et al. (2002) studied the effect of elements of the supplier integration process on
+cost, quality, and new product development (NPD) time, under conditions of technology
+uncertainty. Their findings suggested that technology uncertainty has a negative impact on
+cost results, but no direct effect on quality or cycle time. Also, Petersen et al. (2003) found
+prior knowledge of the supplier, sharing of technology and cost information, and supplier
+involvement in decision making as influential factors on project success. Their results
+indicated that the performance outcome problems associated with technology uncertainty
+
+
+63
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+(
+
+International Journal of Production Research
+
+n
+o
+
+t
+c
+a
+p
+m
+
+i
+
+e
+v
+i
+t
+a
+g
+e
+n
+
+a
+
+s
+a
+h
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+
+y
+g
+o
+o
+n
+h
+c
+e
+T
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+.
+s
+t
+l
+u
+s
+e
+r
+
+t
+s
+o
+c
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+
+y
+g
+o
+o
+n
+h
+c
+e
+T
+
+)
+2
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+z
+t
+a
+g
+a
+R
+
+n
+o
+i
+t
+a
+n
+i
+d
+r
+o
+o
+c
+
+r
+e
+i
+l
+p
+p
+u
+s
+
+–
+
+w
+e
+i
+v
+e
+r
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+
+L
+
+)
+a
+(
+
+d
+e
+t
+a
+i
+c
+o
+s
+s
+a
+
+y
+l
+e
+v
+i
+t
+a
+g
+e
+n
+
+s
+i
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+
+y
+g
+o
+o
+n
+h
+c
+e
+T
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+
+y
+g
+o
+o
+n
+h
+c
+e
+T
+
+)
+3
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+n
+e
+s
+r
+e
+t
+e
+P
+
+.
+s
+l
+a
+o
+g
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+t
+c
+e
+j
+o
+r
+p
+
+h
+t
+i
+
+w
+
+s
+s
+e
+n
+e
+v
+i
+t
+c
+e
+f
+f
+e
+m
+a
+e
+t
+
+t
+c
+e
+j
+o
+r
+p
+
+n
+e
+e
+w
+t
+e
+b
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+l
+e
+R
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+s
+’
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+d
+n
+a
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+f
+o
+
+e
+g
+a
+t
+S
+
+)
+5
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+n
+e
+s
+r
+e
+t
+e
+P
+
+n
+g
+i
+s
+e
+d
+h
+t
+i
+
+w
+d
+e
+t
+a
+i
+c
+o
+s
+s
+a
+
+y
+l
+e
+v
+i
+t
+i
+s
+o
+p
+s
+i
+
+s
+s
+e
+n
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+-
+p
+u
+s
+
+f
+o
+
+s
+s
+e
+l
+d
+r
+a
+g
+e
+r
+
+,
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+a
+i
+c
+n
+a
+n
+i
+f
+
+d
+n
+a
+
+f
+o
+
+e
+s
+a
+c
+
+e
+h
+t
+
+n
+
+i
+
+r
+e
+g
+n
+o
+r
+t
+s
+
+s
+i
+
+y
+t
+i
+l
+a
+u
+q
+
+n
+g
+i
+s
+e
+d
+
+d
+n
+a
+
+m
+a
+e
+t
+
+t
+c
+e
+j
+o
+r
+P
+
+.
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+r
+e
+i
+l
+r
+a
+e
+
+.
+y
+t
+i
+l
+i
+
+b
+i
+s
+n
+o
+p
+s
+e
+r
+
+f
+o
+
+l
+e
+v
+e
+l
+
+s
+’
+r
+e
+i
+l
+
+p
+
+-
+o
+r
+p
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+.
+s
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+y
+t
+i
+l
+a
+c
+o
+v
+i
+u
+q
+e
+
+h
+g
+i
+h
+
+n
+o
+i
+t
+a
+v
+o
+n
+n
+
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+s
+e
+v
+o
+r
+p
+m
+
+i
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+s
+s
+e
+c
+
+.
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+y
+t
+i
+l
+a
+c
+o
+v
+i
+u
+q
+e
+w
+o
+
+l
+
+n
+
+i
+
+s
+e
+i
+t
+i
+l
+i
+
+b
+a
+p
+a
+c
+
+n
+
+i
+
+y
+t
+i
+l
+a
+u
+q
+
+s
+e
+v
+o
+r
+p
+m
+
+i
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+y
+t
+i
+l
+i
+
+b
+i
+s
+n
+o
+p
+s
+e
+r
+
+f
+o
+
+l
+e
+v
+e
+l
+
+y
+g
+e
+t
+a
+r
+t
+s
+
+t
+n
+e
+m
+p
+o
+l
+e
+v
+e
+d
+
+t
+n
+a
+l
+P
+
+m
+r
+o
+f
+t
+a
+l
+p
+
+,
+y
+t
+i
+l
+a
+c
+o
+v
+i
+u
+q
+e
+
+,
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+U
+
+)
+5
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+s
+o
+r
+e
+t
+f
+u
+o
+K
+
+.
+
+d
+e
+t
+s
+e
+t
+
+y
+l
+l
+a
+c
+i
+r
+i
+p
+m
+e
+
+t
+o
+N
+
+t
+n
+e
+m
+p
+o
+l
+e
+v
+e
+d
+
+t
+c
+u
+d
+o
+r
+P
+
+f
+o
+
+e
+e
+r
+g
+e
+d
+
+,
+y
+c
+n
+e
+d
+n
+e
+p
+e
+d
+
+k
+s
+a
+t
+
+f
+o
+
+e
+e
+r
+g
+e
+D
+
+)
+6
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+d
+n
+o
+m
+e
+k
+a
+L
+
+.
+e
+z
+i
+s
+
+m
+
+r
+i
+f
+
+f
+o
+
+s
+s
+e
+l
+d
+r
+a
+g
+e
+r
+
+,
+
+n
+o
+i
+t
+a
+v
+o
+n
+n
+
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+n
+o
+
+t
+c
+e
+f
+f
+e
+
+e
+v
+i
+t
+i
+s
+o
+p
+a
+
+s
+a
+h
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+x
+o
+b
+-
+y
+e
+r
+G
+
+n
+e
+e
+w
+t
+e
+b
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+t
+c
+e
+r
+i
+d
+n
+
+i
+
+n
+a
+
+s
+i
+
+e
+r
+e
+h
+T
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+d
+n
+a
+
+l
+
+s
+e
+i
+g
+o
+o
+n
+h
+c
+e
+t
+
+s
+s
+e
+n
+i
+s
+u
+B
+e
+
+d
+n
+a
+
+,
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+,
+y
+t
+i
+l
+a
+u
+q
+
+,
+t
+s
+o
+c
+
+r
+e
+t
+t
+e
+b
+o
+t
+
+s
+d
+a
+e
+l
+
+t
+a
+h
+t
+
+r
+o
+s
+
+m
+
+r
+i
+f
+
+e
+g
+r
+a
+l
+
+r
+o
+f
+
+r
+e
+h
+g
+i
+h
+s
+i
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+f
+o
+
+s
+e
+s
+s
+e
+c
+o
+r
+p
+
+t
+n
+e
+m
+e
+g
+a
+n
+a
+m
+c
+i
+g
+e
+t
+a
+r
+t
+s
+
+r
+o
+f
+
+d
+e
+e
+n
+
+e
+h
+T
+
+t
+e
+k
+r
+a
+m
+
+l
+
+/
+l
+a
+c
+i
+g
+o
+o
+n
+h
+c
+e
+t
+
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+r
+e
+d
+n
+u
+
+.
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+y
+r
+e
+v
+i
+l
+e
+d
+
+.
+s
+n
+o
+i
+t
+i
+d
+n
+o
+c
+
+d
+e
+i
+l
+l
+a
+f
+o
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+t
+h
+g
+i
+t
+y
+l
+e
+m
+
+i
+t
+n
+e
+h
+w
+e
+c
+n
+a
+m
+r
+o
+f
+
+l
+
+.
+s
+e
+i
+g
+o
+o
+n
+h
+c
+e
+t
+
+w
+e
+n
+
+s
+e
+d
+i
+v
+o
+r
+p
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+c
+i
+g
+e
+t
+a
+r
+t
+s
+
+-
+r
+e
+p
+
+t
+c
+e
+j
+o
+r
+p
+
+s
+e
+c
+n
+e
+u
+l
+f
+n
+
+i
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+f
+o
+
+t
+n
+e
+t
+x
+e
+
+e
+h
+T
+
+t
+c
+e
+j
+o
+r
+p
+
+e
+c
+n
+e
+t
+s
+i
+x
+e
+
+,
+s
+n
+o
+i
+t
+a
+t
+c
+e
+p
+x
+e
+
+g
+n
+i
+g
+r
+e
+v
+i
+d
+
+n
+o
+i
+t
+a
+r
+o
+b
+a
+l
+l
+
+o
+c
+m
+r
+e
+t
+-
+g
+n
+o
+
+l
+
+f
+o
+
+s
+e
+v
+i
+t
+c
+e
+j
+b
+o
+
+t
+n
+a
+l
+P
+
+t
+n
+a
+l
+P
+
+e
+p
+y
+t
+
+y
+r
+t
+s
+u
+d
+n
+
+i
+
+,
+e
+z
+i
+s
+
+m
+
+r
+i
+F
+
+)
+7
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+j
+a
+r
+a
+v
+e
+D
+
+e
+z
+i
+s
+
+m
+
+r
+i
+F
+
+)
+7
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+s
+o
+r
+e
+t
+f
+u
+o
+K
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+,
+e
+z
+i
+s
+
+m
+
+r
+i
+F
+
+)
+7
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+t
+l
+e
+t
+h
+c
+E
+
+n
+a
+V
+
+-
+r
+o
+p
+m
+
+i
+
+c
+i
+g
+e
+t
+a
+r
+t
+s
+
+,
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+r
+e
+i
+l
+
+p
+
+m
+e
+t
+i
+
+d
+e
+i
+l
+
+p
+p
+u
+s
+
+e
+h
+t
+
+f
+o
+
+e
+c
+n
+a
+t
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+-
+p
+u
+s
+-
+r
+e
+y
+u
+b
+
+,
+s
+s
+e
+n
+w
+e
+n
+
+l
+
+l
+a
+c
+i
+g
+o
+o
+n
+h
+c
+e
+T
+
+)
+8
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+r
+e
+k
+r
+a
+P
+
+i
+
+g
+n
+d
+n
+F
+
+i
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+f
+o
+
+t
+i
+n
+U
+
+e
+l
+b
+a
+i
+r
+a
+v
+
+l
+
+o
+r
+t
+n
+o
+c
+/
+y
+c
+n
+e
+g
+n
+i
+t
+n
+o
+C
+
+y
+d
+u
+t
+s
+
+y
+c
+n
+e
+g
+n
+i
+t
+n
+o
+c
+
+y
+e
+K
+
+.
+
+w
+e
+i
+v
+e
+r
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+
+L
+
+.
+1
+
+e
+l
+b
+a
+T
+
+
+64
+
+J. Jayaram et al.
+
+i
+
+g
+n
+d
+n
+F
+
+i
+
+d
+n
+a
+
+,
+y
+t
+i
+l
+a
+u
+q
+
+n
+g
+i
+s
+e
+d
+
+,
+y
+t
+i
+l
+a
+u
+q
+
+e
+c
+n
+a
+m
+r
+o
+f
+n
+o
+c
+
+,
+t
+s
+o
+c
+
+t
+c
+u
+d
+o
+r
+p
+(
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+s
+t
+c
+e
+f
+f
+a
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+s
+
+t
+e
+k
+r
+a
+m
+
+r
+e
+d
+n
+u
+
+)
+t
+e
+k
+r
+a
+m
+-
+o
+t
+-
+e
+m
+
+i
+t
+
+.
+s
+n
+o
+i
+t
+i
+d
+n
+o
+c
+
+l
+a
+c
+i
+n
+h
+c
+e
+t
+
+h
+t
+o
+B
+
+.
+s
+s
+e
+n
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+n
+o
+i
+t
+a
+s
+i
+l
+a
+i
+c
+r
+e
+m
+m
+o
+c
+
+D
+&
+R
+d
+n
+a
+
+,
+s
+s
+e
+n
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+l
+a
+c
+i
+n
+h
+c
+e
+t
+
+D
+&
+R
+
+,
+e
+m
+
+i
+t
+
+e
+l
+c
+y
+c
+n
+o
+t
+c
+a
+p
+m
+
+i
+
+n
+a
+s
+a
+h
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+c
+/
+D
+&
+R
+
+g
+n
+i
+t
+a
+r
+e
+d
+o
+m
+a
+
+e
+v
+a
+h
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+t
+e
+k
+r
+a
+m
+d
+n
+a
+
+t
+e
+k
+r
+a
+m
+
+;
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+e
+g
+n
+a
+h
+c
+
+n
+g
+i
+s
+e
+d
+
+n
+o
+
+t
+c
+e
+f
+f
+e
+
+t
+s
+a
+c
+e
+r
+o
+f
+
+t
+e
+k
+r
+a
+m
+
+s
+e
+t
+a
+r
+e
+d
+o
+m
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+-
+a
+v
+o
+n
+n
+
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+n
+o
+
+s
+t
+c
+e
+f
+f
+e
+
+e
+h
+t
+
+h
+g
+u
+o
+r
+h
+t
+
+y
+t
+i
+l
+a
+u
+q
+
+n
+o
+
+t
+c
+a
+p
+m
+
+i
+
+t
+c
+e
+r
+i
+d
+n
+
+i
+
+n
+a
+
+s
+a
+h
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+y
+t
+i
+l
+a
+c
+o
+v
+i
+u
+q
+e
+
+h
+g
+i
+h
+
+n
+
+i
+
+y
+l
+l
+a
+i
+c
+e
+p
+s
+e
+
+,
+
+n
+o
+i
+t
+
+y
+l
+t
+c
+e
+r
+i
+d
+
+t
+o
+n
+
+s
+e
+o
+d
+
+f
+l
+e
+s
+t
+i
+
+y
+b
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+.
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+o
+
+t
+c
+e
+f
+f
+a
+
+.
+s
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+.
+y
+c
+a
+r
+u
+c
+c
+a
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+f
+o
+
+t
+i
+n
+U
+
+e
+l
+b
+a
+i
+r
+a
+v
+
+l
+
+o
+r
+t
+n
+o
+c
+/
+y
+c
+n
+e
+g
+n
+i
+t
+n
+o
+C
+
+y
+d
+u
+t
+s
+
+y
+c
+n
+e
+g
+n
+i
+t
+n
+o
+c
+
+y
+e
+K
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+s
+
+t
+e
+k
+r
+a
+m
+
+,
+e
+z
+i
+s
+
+m
+
+r
+i
+F
+
+)
+8
+0
+0
+2
+(
+
+m
+a
+r
+a
+y
+a
+J
+
+.
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+.
+1
+
+e
+l
+b
+a
+T
+
+t
+c
+e
+j
+o
+r
+p
+D
+P
+N
+
+t
+e
+k
+r
+a
+m
+
+,
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+a
+c
+i
+n
+h
+c
+e
+T
+
+)
+8
+9
+9
+1
+(
+
+.
+l
+a
+
+t
+e
+
+r
+e
+d
+u
+o
+S
+
+n
+o
+i
+t
+a
+n
+i
+d
+r
+o
+o
+c
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+–
+
+w
+e
+i
+v
+e
+r
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+
+L
+
+)
+b
+(
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+y
+g
+e
+t
+a
+r
+t
+s
+
+t
+n
+e
+m
+p
+o
+l
+e
+v
+e
+d
+
+t
+n
+a
+l
+P
+
+m
+r
+o
+f
+t
+a
+l
+p
+
+,
+y
+t
+i
+l
+a
+c
+o
+v
+i
+u
+q
+e
+
+,
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+U
+
+)
+5
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+s
+o
+r
+e
+t
+f
+u
+o
+K
+
+t
+n
+a
+l
+P
+
+e
+p
+y
+t
+
+y
+r
+t
+s
+u
+d
+n
+
+i
+
+,
+e
+z
+i
+s
+
+m
+
+r
+i
+F
+
+)
+7
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+j
+a
+r
+a
+v
+e
+D
+
+
+International Journal of Production Research
+
+65
+
+can be mitigated by greater use of technology sharing and direct supplier participation on
+the NPD team. Furthermore, Petersen et al. (2003) concluded that there is no one best
+method to integrate suppliers into NPD, and the level of technology uncertainty present
+determines the relative moment when the supplier should become involved.
+
+Using data from global organisations, Petersen et al. (2005) found support for the
+value of early supplier involvement in the NPD process. More specifically, they identified
+supplier involvement timing and level of supplier’s design responsibility as moderating
+factors of the relationship between early supplier involvement and product design
+performance or financial performance. Also, Parker et al. (2008) proposed a model that
+explores the appropriate timing and level of integration with suppliers in NPD projects
+employed by international organisations in various industries. The contingencies analysed
+in this study include technological newness, buyer-supplier relationship and strategic
+importance of the supplied item. The positive relationship found between the extent of
+integration and perceived project performance needs to be interpreted in the broader
+context of the model, namely the tight integration of allied strategic suppliers that provide
+new technologies most often results in higher perceived performance.
+
+Lakemond et al. (2006) examined practices of inter-organisational coordination of
+supplier involvement in six product development projects performed at the Swedish
+packaging company Tetra Brik, a world leader in paper-based solutions in the food
+industry. Project integration coordination, direct ad hoc coordination, and disconnected
+sub-project coordination are the three general types of coordination distinguished in this
+case study. However, given that the three mechanisms are suitable under different
+conditions, Lakemond et al. (2006) identified the need for a fine-tune approach to supplier
+involvement in product development, based on an analysis of relevant contingency factors,
+such as the degree of task dependency, diverging expectations, and the presence of long-
+term intentions. In another case study (of eight NPD projects in four buying firms based in
+the Netherlands in different industries), Van Echtelt et al. (2007) found that successful
+supplier involvement is dependent on the coordinated design, execution and evaluation of
+strategic long-term processes and operational short-term management processes, and the
+presence of enabling factors such as a cross-functional oriented organisation. Moreover,
+the required intensity of these processes and enablers depends on contingencies such as
+firm size and environmental uncertainty.
+
+Devaraj et al. (2007) found a positive impact of supplier integration on cost, quality,
+flexibility and delivery performance, and no direct benefit of eBusiness technologies on
+performance in manufacturing firms. However, Devaraj et al. (2007) claimed an indirect
+relationship between eBusiness technologies and supplier integration that leads to better
+performance, since these technologies support supplier integration.
+
+Using data collected from 244 manufacturing firms in various industries, Koufteros
+et al. (2005) investigated whether contextual variables such as uncertainty, equivocality
+and platform development strategy moderate the relationships between integration
+strategy (internal and external) and performance. Their findings indicated that both
+internal and external integration positively influence product innovation and quality, and
+thus profitability, with equivocality as a moderating factor. Also, Koufteros et al. (2007)
+examined the antecedents and consequences of supplier integration in product develop-
+ment activities. They found that, between the black-box integration (wherein the
+development of components for the customers is carried out by suppliers on their own)
+and grey-box integration (wherein suppliers work alongside the customer’s engineers for
+product development), only grey-box integration shows a positive relationship with
+
+
+66
+
+J. Jayaram et al.
+
+product innovation. The results of this study partially supported the moderating impact
+of firm size.
+
+Recently, Jayaram (2008) tested the multidimensional nature of supplier involvement
+in NPD projects in high-tech industries firms, and found it as comprising communication
+and information sharing, design involvement, and infrastructure, all of which having
+a positive impact on the project performance, operationalised in this study as product cost,
+conformance quality, design quality and time-to-market. While the firm size was not
+found a significant moderator, the study found support for the contingent influence of
+market stability on the relationship between supplier involvement and NPD project
+performance.
+
+the extant
+
+In conclusion,
+
+literature on supplier coordination has revealed the
+prevalence of studies which have focused on NPD projects, as involving suppliers in
+NPD is critical in an ever-increasing competitive environment due to the expected positive
+effect on development time, product cost and product quality. Although not always
+empirically tested, the contingency factors have ranged from uncertainty (operationalised
+as environmental or technological), market stability, equivocality, platform development
+strategy, degree of task dependency, degree of diverging expectations, buyer-supplier
+relationship, long-term collaboration objectives, stage of integration, supplier’s level of
+responsibility, strategic importance of the supplied item, to firm size. The fact that the firm
+size does not have an influence on the relationship between coordination and performance
+could be noticed, although one study (Devaraj et al. 2007) claimed that its results are more
+reflective of small to medium firms which formed 73% of the sample.
+
+To our knowledge, there has been little research related to the contextual factors
+affecting the impact of customer integration on performance. One study (Souder et al.
+1998) examined the impact of R&D/customer
+integration on NPD effectiveness
+operationalised as NPD cycle time, prototype development proficiency, design change
+frequency, R&D technical effectiveness, R&D commercialisation effectiveness, product
+launch proficiency and market forecast accuracy. Based on 101 NPD projects at high-tech
+firms in the US and the UK, the results of the study indicated that R&D/customer
+integration has an impact on cycle time, R&D technical effectiveness and R&D
+commercialisation effectiveness. Whereas both technical and market uncertainty have a
+moderating effect on design change frequency, market uncertainty only moderates market
+forecast accuracy.
+
+Another study (Koufteros et al. 2005) investigated whether contextual variables such as
+uncertainty, equivocality and platform development strategy moderate the relationships
+between integration strategy (internal and external) and performance in various
+manufacturing industries. The findings indicated that customer integration has an indirect
+impact on quality through the effects on product
+innovation, especially in high
+equivocality environments. On the other hand, Devaraj et al. (2007) found that customer
+integration, as measured by specific information flows and collaborative efforts with
+customers, does not by itself relate to performance. That is, customer integration by itself
+does not directly affect operational performance and must be implemented with supplier
+integration to realise its full potential.
+
+Based on our literature review, it appears that there is a need to identify the specific
+conditions under which both supplier coordination and customer coordination in
+manufacturing firms are effective. Hence, we propose investigating the extent with
+which supplier coordination as well as customer coordination influence flexibility
+performance and quality performance. Our research model is shown in Figure 1.
+
+
+International Journal of Production Research
+
+67
+
+Supplier
+
+coordination 
+
+Customer
+
+coordination 
+
+H1
+
+H2
+
+H3a
+
+H
+
+7a
+
+H4a
+
+H8a
+
+Firmsize
+
+Figure 1. Hypothesised model.
+
+3. The context of China
+
+H5
+
+H6
+
+Flexibility
+performance
+
+H3b
+
+H4b
+
+Quality
+
+performance
+
+H7b
+
+H8b
+
+Clockspeed
+
+China provides a unique setting for our research objective. With its low-cost labour
+resources, large economies of scale and low domestic-sourcing costs, China has emerged as
+a key player in the global landscape. The country’s cost advantage is reflected in each stage
+of the supply chain, from purchasing to manufacturing, logistics, warehousing, storage
+and sales. This is also due to the large number of supply clusters that cover basically every
+major product category. The geographic proximity of the firms within clusters facilitates
+supply chain coordination, as firms can be more responsive and effective in managing their
+supply chains. For instance, the flexibility of facilities and the capacity aggregation allow
+for better handling of uncertain demand and supply disruptions. The large volumes of
+purchased goods and shipments of finished goods can provide significant inbound and
+outbound transportation costs savings. The shipping costs and flow of inventories between
+suppliers and manufacturers within the supply cluster also benefit from the geographic
+closeness of the firms. The sharing of information is facilitated by face-to-face meetings
+which lead to developing personal relationships and community ties, which are very
+important in Chinese business culture.
+
+The proximity to Chinese suppliers can also be a factor for some manufacturers to
+choose not to do business in China. That was the case of Sony Corp., which in 2002 shifted
+production of its high-tech digital cameras and camcorders back to Japan, closer to its
+suppliers of special high-tech parts. Since the cycle time is positively associated with supply
+chain flexibility and responsiveness to market changes, Sony considered minimising the
+cycle time of its high-end products as being more critical than minimising manufacturing
+costs (Jiang 2003).
+
+Similarly,
+
+international car manufacturers that had established facilities in China
+unexpectedly found that the cost of purchased goods in China could at times even exceed
+the cost in traditional markets due to lower volumes. Lack of experience in the labour
+pool, poor infrastructure, higher communication costs and second-class machinery or
+processes could lead to inefficient production and higher costs (Hedderich et al. 2005).
+Therefore, manufacturing industry in China is an interesting research setting to gain
+
+
+68
+
+J. Jayaram et al.
+
+insights about supply chain coordination and its impact on flexibility and quality
+performance.
+
+4. Research hypotheses
+
+Contingency theory addresses the following question: ‘‘Are there any universally beneficial
+practices or are there only contextually appropriate practices?’’ (Peteraf and Reed 2007,
+p. 1090). In this study, we follow contingency theory by submitting the same question,
+i.e., are supplier coordination and customer coordination always beneficial to firm
+performance, or are there contextual factors that contribute to improved performance?
+In other words, we investigate whether the fit between supplier coordination and customer
+coordination on performance on one hand, and the moderating influence of firm size and
+clockspeed on these relationships on the other hand, matters or not.
+
+By having effective supplier coordination mechanism in place, a manufacturing firm
+could align its suppliers’ capabilities (its external resources) to cope with unexpected
+customer requirements with ease. For example, entering into long-term relationships with
+suppliers is often the prerequisite to establish effective coordination mechanisms with
+suppliers due to the co-dependency across entities in a supply chain (Spekman 1988). A
+firm without such a long term perspective with its suppliers could hardly establish effective
+and efficient coordination as the changing supplier landscape (e.g., infrastructure and
+capabilities) often renders the existing coordination approach obsolete (Chen and
+Paulraj 2004). Also, firms emphasising quality instead of costs when sourcing from a
+supplier could ensure proper alignment of its own interests with its supplier’s (Jayaram
+et al. 2004). It has been demonstrated in the extant literature that over-emphasising costs
+in sourcing would create an adversarial, transaction-oriented, relation with the suppliers.
+Finally, the use of supply base reduction strategies facilitates effective supplier coordi-
+nation. By relying on a small number of high-quality suppliers, firms could coordinate
+simultaneously with several suppliers and in particular enjoy deeper relationships
+(Chen and Paulraj 2004, Choi and Krause 2006).
+
+that
+
+integration ensures
+
+internal activities meet customer
+
+In today’s highly competitive environment customers demand faster response and
+a wider variety of products, whereas competitors achieve performance levels higher than
+ever. In order to cope with this environment’s constraints, a firm needs to coordinate with
+its suppliers and customers due to the interdependencies among them. Supplier
+coordination can be viewed as a state of synchronisation among the supplier, purchasing
+and manufacturing constituents of an organisation (Das et al. 2006). On the other hand,
+customer
+requirements
+(Koufteros et al. 2005). Both types of coordination are necessary to achieve high
+performance. Among the performance measures, flexibility is viewed as a solution.
+A firm’s flexibility reflects its ability to effectively respond to market changes, and can be
+characterised by three dimensions. First, product flexibility is the ability to handle
+difficult, non-standard orders, to meet special customer specifications, and to produce
+products characterised by numerous features, options, sizes, and colours (Vickery et al.
+1997). Second, volume flexibility is the ability to effectively increase or decrease
+production in response to customer demands, which require close coordination between
+a manufacturer and its suppliers, especially when the demand is increasing. However,
+neither product nor volume flexibility can be effective without the flexibility of the physical
+processes employed for product manufacturing. In particular, a customer coordination
+
+
+International Journal of Production Research
+
+69
+
+mechanism allows the manufacturing firm to clearly understand customer’s special needs
+and specifications, and in turn arrange its internal resources to effectively serve such
+exceptions. Understanding the special needs of customers requires firms to be in close and
+frequent contact with its customers (Sanders 2007). Clearly, the more attention a firm pays
+to researching its customer base in order to identify customer needs, the more rewarding
+the exchange transaction in the supply chain will be for that company (Carson et al. 1998).
+Also, with respect to its key customers, it has been suggested that firms visit their plant
+in order to understand their underlying capabilities (Koufteros et al. 2005). Finally, it
+has also been suggested that receiving periodical feedback from customers helps firms
+improve their quality and delivery performance (Koufteros et al. 2005, Sanders 2007).
+Thus, we propose that:
+
+H1. Supplier coordination is directly and positively related to flexibility performance.
+
+H2. Customer
+
+coordination is directly and positively related to flexibility
+
+performance.
+
+Large firms are associated with more resources than small firms. The fact that they can
+dedicate more resources to integrating their suppliers gives them more leverage in
+managing these relationships toward increased performance (Devaraj et al. 2007,
+Koufteros et al. 2007). On the other hand, small firms, due to lower budgets and fewer
+personnel, might seek more actively to integrate their suppliers and benefit from tight
+supplier integration (Van Echtelt et al. 2007). Whether large firms integrate their suppliers
+or customers to a higher degree than small firms is not well-established, as large firms also
+tend to have more suppliers, products, and customer variety to manage. We therefore posit
+that:
+
+H3a. The interaction between supplier coordination and firm size is directly and
+
+positively related to flexibility performance.
+
+H4a. The interaction between customer coordination and firm size is directly and
+
+positively related to flexibility performance.
+
+In today’s environment, the ability to shorten the time between order placement and
+order delivery can confer an important advantage as firms can more quickly react to
+market conditions. In particular, firms in faster clockspeed industries require tighter
+coordination with customers (Fine 1998). Similarly, the buying firm needs a quick reaction
+from its suppliers, in order to satisfy its customers (Guimaraes et al. 2002). The pace at
+which this reaction is solicited is more acute in faster clockspeed industries. We therefore
+predict that:
+
+H3b. The interaction between supplier coordination and clockspeed is directly and
+
+positively related to flexibility performance.
+
+H4b. The interaction between customer coordination and clockspeed is directly and
+
+positively related to flexibility performance.
+
+Supplier coordination and customer coordination could have equally important roles
+in quality performance. For instance, Devaraj et al. (2007) found that supplier integration,
+as supported by eBusiness technology, positively impacts quality in manufacturing firms.
+In the context of high-tech industries, supplier involvement in NPD projects is found to
+have a positive impact on the NPD project performance, operationalised as product cost,
+
+
+70
+
+J. Jayaram et al.
+
+conformance quality, design quality and time-to-market (Jayaram 2008). Interestingly,
+Swink et al. (2007) hypothesised but could not find support for the positive associations
+between supplier and customer integrations with quality. They provided two possible
+explanations for such missing links. One explanation based on a resource-based view
+argues that plants which place more emphasis on strategic supplier integration may indeed
+see quality improvements, but they will improve quality at a slower rate than competitors
+who may invest in other, more efficacious company-internal types of integration. A second
+explanation is that supplier integration actually impedes improvements in quality
+capability, as suppliers open themselves to adverse selection, moral hazard, and
+opportunity cost as an agent to the principal manufacturer (Swink et al. 2007).
+
+On the other hand, customer integration will help the manufacturer better understand
+customer requirements and better forecast customer demand, thus allowing the manufac-
+turer to provide better quality products at lower cost and more flexibly (Flynn et al. 2010).
+Developing close relationships with customers requires identifying customers’ require-
+ments, receiving feedback from customers, and conveying this feedback to employees
+who can then execute changes based on the feedback (Kaynak and Hartley 2008).
+Prior research indicates that information integration with customers is related to firm
+performance (Frohlich and Westbrook 2001). In general, Ramdas and Spekman (2000)
+suggested that poor coordination within a supply chain also has negative implications on
+performance including quality. Similarly, Koufteros et al. (2005) found that both internal
+and external integration positively influence product innovation and quality, and thus
+profitability. Summarising from these theoretical underpinnings, we suggest that:
+
+H5. Supplier coordination is directly and positively related to quality performance.
+
+H6. Customer coordination is directly and positively related to quality performance.
+
+Firm size is a strong indicator of corporate resources to economise the coordination
+with supply chain members. A small firm may be unable to convince suppliers to adopt
+a more collaborative posture and it may lack the skills and resources to develop
+collaborative exchanges (Koufteros et al. 2007). Naturally, firm size would moderate the
+roles of supplier coordination and customer coordination, as suggested in the extant
+literature. For instance, Koufteros et al. (2007) found that some supplier integration is
+more effective on quality when firms are large. In contrast, Devaraj et al. (2007) suggested
+that the positive effects of supplier integration on cost, quality and flexibility are more
+reflective of small to medium firms which formed 73% of the sample. At balance, we
+conjecture that larger firms could utilise their scale economies to consolidate their supplier
+efforts and customer focus to better achieve product quality:
+
+H7a. The interaction between supplier coordination and firm size is directly and
+
+positively related to quality performance.
+
+H8a. The interaction between customer coordination and firm size is directly and
+
+positively related to quality performance.
+
+As mentioned above, the fast clockspeed achieved in delivering an order to customers
+offers considerable benefits in the marketplace, but at the same time places substantial
+requirements on the corporate resources. In particular, it is much harder to coordinate
+with suppliers and customers to deliver high quality products in a fast clockspeed
+environment, though a firm’s capability of doing so would offer itself significant
+advantages over its competitors. For instance, Guimaraes et al. (2002) found that high
+
+
+International Journal of Production Research
+
+71
+
+industry clockspeed significantly inhibits the relationship between the supplier relationship
+depth and supplier network performance. In sum, we predict that:
+
+H7b. The interaction between supplier coordination and clockspeed is directly and
+
+positively related to quality performance.
+
+H8b. The interaction between customer coordination and clockspeed is directly and
+
+positively related to quality performance.
+
+5. Research design and methodology
+
+5.1 Survey design and pretest
+
+they agreed or disagreed with each statement
+
+We first developed and administered a survey in a small number of US firms and used the
+results to revise the English version of the survey. The development of the survey and the
+sampling procedures followed Churchill (1979) and Dillman (2000). Seven-point Likert
+scales were used to measure survey responses. For instance, respondents were asked to
+what extent
+in the questionnaire
+(1¼ ‘strongly disagree’ to 7¼ ‘strongly agree’). A pretest was conducted before the
+questionnaire was finalised to reduce measurement error (Churchill 1979). The survey was
+then translated into Chinese and pretested with a group of 20 MBA students and 10
+managers participating in the executive programme in a top ranked university in China
+with related-manufacturing work experiences. Their opinions and feedback were used to
+revise and finalise the questionnaire design, which was then back-translated into English
+to ensure the original meanings of the English version are maintained.
+
+5.2 Survey approach and sample
+
+Shanghai, the largest industrial city in China, has one of the most highly concentrated
+manufacturing plants for many decades, and was thus selected as the base of this study.
+Approximately 400 manufacturing-oriented companies were randomly selected with the
+approval of Shanghai Association for Quality from its membership list which is composed
+of more than 2000 firms in manufacturing, construction and service industries.
+The association has periodically run various training programmes for its member
+companies to introduce new quality management concepts or best practices, and is quite
+reputable among its members. The survey questionnaire with the explicit approval from
+the association office was thus believed to be viewed more positively by the member firms.
+Production/operations managers,
+coordination
+programmes with suppliers and customers, are the best informants in this study.
+The questionnaires along with postage-paid return envelopes were mailed to production/
+operations managers in these companies as identified in the membership list. After two
+weeks, 146 responses were received (within-city mails are usually received within 1–2 days).
+Then the research team sent out a second mailing to the remaining ‘non-respondents’ and
+received additional 51 completed surveys. This led to a total of 197 completed surveys,
+representing a very encouraging response rate of about 49.25%.
+
+typically well
+
+informed of
+
+their
+
+In order to test for the presence of non-response bias, comparisons were made between
+survey answers from early and late respondents (i.e., those that responded after the second
+
+
+72
+
+J. Jayaram et al.
+
+mailing was sent out) (Armstrong and Overton 1977). A multivariate t-test yielded no
+significant mean difference between the early and late respondents at
+the 0.05
+significance level. This suggests the non-response bias is probably not present in this study.
+
+5.3 Questionnaire and variables measurement
+
+Consistent with previous studies (Ward et al. 1996, Shah and Ward 2003, Vickery et al.
+2003), we used perceptual measures of operational performance. Scholars suggest that
+perceptual measures of performance should be used when firms may be unwilling or
+unable to provide objective financial measures. Areas of a firm’s operational strategy such
+as supplier coordination or customer coordination are often integrative in nature and
+also measured by multi-item scale (see Appendix for the description of survery items).
+
+5.3.1 Dependent variables: flexibility performance and quality performance
+
+In the questionnaire the respondents were asked to rate their factory’s performance,
+relative to its major competitors with respect to: (1) product flexibility, (2) volume
+flexibility, (3) process flexibility, (4) product reliability, (5) product durability, and (6)
+quality (conformance to specifications). These items were measured on 7-point Likert scale
+with 1¼ ‘poor’ to 7¼ ‘excellent’. The averages of the first three and the next three items
+above were used to measure flexibility performance (Cronbach’s alpha¼ 0.7237) and
+quality performance (Cronbach’s alpha¼ 0.8863), respectively.
+
+5.3.2 Independent variables: supplier coordination and customer coordination
+
+As previously mentioned, the items used to operationalise supplier coordination and
+customer coordination respectively represent the basic conditions as reported in the
+literature that the two types of coordination are built upon. For the supplier coordination
+construct, respondents were asked to indicate the degree of agreement with certain
+statements about quality goals with respect to any factory or plant that the respondents’
+unit had responsibility. In particular, supplier coordination was measured by the average
+response score in: (1) ‘we strive to establish long-term relationships with suppliers’, (2)
+‘quality is our number one criterion in selecting suppliers’, and (3) ‘we rely on a small
+number of high-quality suppliers’ (Cronbach’s alpha¼ 0.7671).
+
+Customer coordination was measured by the average response score in: (1) ‘we
+frequently are in close contact with our customers’, (2) ‘our customers OFTEN visit our
+plant’ (reverse-coded as ‘SELDOM visit’
+in the actual questionnaire), and (3) ‘our
+customers give us
+(Cronbach’s
+alpha¼ 0.6242). These items were measured on 7-point Likert scale with 1¼ ‘strongly
+disagree’ to 7¼ ‘strongly agree’.
+
+feedback on quality and delivery performance’
+
+We recognise that our questionnaire items above do not cover every aspect of
+coordination such as those involving the speed and convenience of information exchange.
+Rather, our measures focus on the relationship-related aspects of coordination. Still, all
+dependent and independent variables displayed composite reliability values (Fornell and
+Larcker 1981) in excess of the 0.60 minimum cut-off value for exploratory studies (Van de
+Ven and Ferry 1978, Churchill 1979, Flynn et al. 1990).
+
+
+International Journal of Production Research
+
+Table 2. Descriptive statistics of item variables.
+
+Item
+
+We are frequently in close contact with our customers
+Our customers OFTEN visit our plant
+Our customers give us feedback on quality and delivery performance
+We strive to establish long-term relationships with suppliers
+Quality is our number one criterion in selecting suppliers
+We rely on a small number of high-quality suppliers
+Product flexibility
+Volume flexibility
+Process flexibility
+Product reliability
+Product durability
+Quality (conformance to specifications)
+
+Mean
+
+6.09
+4.72
+5.60
+5.67
+6.05
+4.66
+4.64
+5.12
+4.37
+5.94
+5.86
+5.90
+
+73
+
+SD
+
+1.11
+1.88
+1.24
+1.24
+1.20
+1.56
+1.66
+1.48
+1.61
+1.08
+1.13
+1.02
+
+5.3.3 Control/contingency variables: firm size and clockspeed
+
+Two objective measures were used to control for performance effects. As in most other
+studies, firm size may delineate the difference in firm performance. Firm size was measured
+by the annual sales revenue (for the most recent year) for the factory concerned. The
+natural logarithm of it is used as the measure of firm size here as commonly adopted.
+
+Another control variable, order cycle time – ‘how long (in days) does it take to
+complete a typical unit of your primary finished product, from date of customer order to
+date of customer shipment’ – is an important supply chain parameter that all parties
+involved are concerned about. Its natural logarithm is used to represent the clockspeed.
+All dependent, independent and control variables are standardised (subtracted from
+the mean and then divided by the standard deviation of the original) before interaction
+terms between independent and control variables are created, as suggested in Aiken and
+West (1991, p. 28–47). This eases the interpretation of results substantially. Tables 2 and 3
+present the summary statistics and correlation matrix of the original variables.
+
+6. Statistical analysis
+
+The hypotheses associated with the model presented in Figure 1 were tested using multiple
+regression procedure with contingency effects (see, for instance, Aiken and West 1991).
+The results for the flexibility performance equation are presented in Table 4, while those
+for the quality performance equation are presented in Table 5. Overall, our model results
+are highly significant, as indicated by the R-square values and F-statistics in both
+equations.
+
+In order to test our hypotheses, a hierarchical regression approach is adopted to
+examine the importance of each of the independent variables and control variables
+(Tabachnick and Fidell 1996). First, the independent variables representing supplier
+coordination and customer coordination are entered (see first columns labelled Model 1 in
+Tables 4 and 5). Then the control variable representing firm size and its interactions with
+supplier coordination and customer coordination are entered in sequence (see Models 2
+and 3, respectively). This allows us to study the contingency effects of firm size which may
+
+
+74
+
+J. Jayaram et al.
+
+0
+1
+C
+
+9
+C
+
+3
+C
+
+2
+C
+
+1
+C
+
+4
+_
+2
+B
+
+3
+_
+2
+B
+
+1
+_
+2
+B
+
+3
+_
+1
+B
+
+R
+2
+_
+1
+B
+
+1
+_
+1
+B
+
+e
+m
+a
+N
+
+m
+e
+t
+I
+
+.
+s
+e
+l
+b
+a
+i
+r
+a
+v
+m
+e
+t
+i
+
+f
+o
+
+x
+i
+r
+t
+a
+m
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+.
+3
+
+e
+l
+b
+a
+T
+
+1
+7
+.
+0
+
+2
+7
+.
+0
+
+7
+7
+.
+0
+
+8
+0
+.
+0
+
+1
+1
+.
+0
+
+0
+1
+.
+0
+
+4
+3
+.
+0
+
+0
+1
+.
+0
+
+2
+1
+.
+0
+
+4
+1
+.
+0
+
+8
+4
+.
+0
+
+8
+5
+.
+0
+
+2
+1
+.
+0
+
+6
+2
+.
+0
+
+4
+1
+.
+0
+
+3
+1
+.
+0
+
+3
+0
+.
+0
+
+1
+2
+.
+0
+
+8
+0
+.
+0
+
+9
+0
+.
+0
+
+5
+1
+.
+0
+
+9
+3
+.
+0
+
+3
+1
+.
+0
+
+3
+1
+.
+0
+
+2
+1
+.
+0
+
+9
+1
+.
+0
+
+9
+1
+.
+0
+
+3
+2
+.
+0
+
+1
+8
+.
+0
+
+7
+3
+.
+0
+
+8
+1
+.
+0
+
+6
+1
+.
+0
+
+6
+1
+.
+0
+
+5
+2
+.
+0
+
+3
+2
+.
+0
+
+4
+2
+.
+0
+
+0
+3
+.
+0
+
+3
+2
+.
+0
+
+2
+1
+.
+0
+
+0
+1
+.
+0
+
+0
+1
+.
+0
+
+4
+0
+.
+0
+
+7
+2
+.
+0
+
+1
+3
+.
+0
+
+6
+2
+.
+0
+
+6
+2
+.
+0
+
+7
+0
+.
+0
+
+3
+0
+.
+0
+
+0
+0
+.
+0
+
+4
+1
+.
+0
+
+4
+0
+.
+0
+
+3
+1
+.
+0
+
+5
+1
+.
+0
+
+7
+1
+.
+0
+
+0
+1
+.
+0
+
+5
+3
+.
+0
+
+7
+4
+.
+0
+
+1
+3
+.
+0
+
+8
+2
+.
+0
+
+1
+2
+.
+0
+
+9
+1
+.
+0
+
+5
+0
+.
+0
+
+1
+1
+.
+0
+
+9
+2
+.
+0
+
+9
+3
+.
+0
+
+7
+2
+.
+0
+
+R
+2
+_
+1
+B
+
+3
+_
+1
+B
+
+1
+_
+1
+B
+
+y
+r
+e
+v
+i
+l
+e
+d
+
+d
+n
+a
+
+y
+t
+i
+l
+a
+u
+q
+
+n
+o
+
+k
+c
+a
+b
+d
+e
+e
+f
+
+s
+u
+
+e
+v
+i
+g
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+t
+n
+a
+l
+p
+
+r
+u
+o
+
+t
+i
+s
+i
+v
+N
+E
+T
+F
+O
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+u
+O
+
+r
+u
+O
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+u
+o
+
+h
+t
+i
+
+w
+
+t
+c
+a
+t
+n
+o
+c
+
+e
+s
+o
+l
+c
+
+n
+
+i
+
+y
+l
+t
+n
+e
+u
+q
+e
+r
+f
+
+e
+r
+a
+
+e
+
+W
+
+1
+_
+2
+B
+
+3
+_
+2
+B
+
+4
+_
+2
+B
+
+1
+C
+
+2
+C
+
+3
+C
+
+9
+C
+
+0
+1
+C
+
+1
+1
+C
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+h
+t
+i
+
+i
+
+w
+s
+p
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+m
+r
+e
+t
+-
+g
+n
+o
+
+l
+
+h
+s
+i
+l
+
+b
+a
+t
+s
+e
+
+o
+t
+
+e
+v
+i
+r
+t
+s
+
+e
+
+W
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+g
+n
+i
+t
+c
+e
+l
+e
+s
+
+n
+
+i
+
+n
+o
+i
+r
+e
+t
+i
+r
+c
+
+e
+n
+o
+
+r
+e
+b
+m
+u
+n
+
+r
+u
+o
+
+s
+i
+
+y
+t
+i
+l
+a
+u
+Q
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+y
+t
+i
+l
+a
+u
+q
+-
+h
+g
+i
+h
+
+f
+o
+
+r
+e
+b
+m
+u
+n
+
+l
+l
+a
+m
+
+s
+
+a
+
+n
+o
+
+y
+l
+e
+r
+
+e
+
+W
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+)
+s
+n
+o
+i
+t
+a
+c
+i
+f
+i
+c
+e
+p
+s
+
+o
+t
+
+e
+c
+n
+a
+m
+r
+o
+f
+n
+o
+c
+(
+
+y
+t
+i
+l
+a
+u
+Q
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+t
+c
+u
+d
+o
+r
+P
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+e
+m
+u
+o
+V
+
+l
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+s
+s
+e
+c
+o
+r
+P
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+t
+c
+u
+d
+o
+r
+P
+
+y
+t
+i
+l
+i
+
+b
+a
+r
+u
+d
+
+t
+c
+u
+d
+o
+r
+P
+
+.
+)
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+c
+(
+
+2
+4
+2
+6
+.
+0
+
+d
+n
+a
+
+)
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+s
+(
+
+1
+7
+6
+7
+.
+0
+
+:
+s
+e
+r
+u
+s
+a
+e
+m
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+o
+w
+
+t
+
+e
+h
+t
+
+r
+o
+f
+
+a
+h
+p
+l
+a
+
+s
+’
+h
+c
+a
+b
+n
+o
+r
+C
+
+
+International Journal of Production Research
+
+75
+
+*
+*
+0
+5
+.
+2
+ 
+
+5
+6
+4
+4
+1
+.
+0
+ 
+
+*
+1
+7
+.
+2
+ 
+
+0
+2
+3
+5
+1
+.
+0
+ 
+
+*
+*
+*
+9
+7
+.
+1
+ 
+
+6
+6
+6
+0
+1
+.
+0
+ 
+
+9
+5
+.
+1
+ 
+
+7
+3
+0
+9
+0
+.
+0
+ 
+
+5
+
+l
+e
+d
+o
+M
+
+4
+
+l
+e
+d
+o
+M
+
+3
+
+l
+e
+d
+o
+M
+
+2
+
+l
+e
+d
+o
+M
+
+1
+
+l
+e
+d
+o
+M
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+d
+e
+e
+p
+s
+k
+c
+o
+C
+g
+o
+L
+
+l
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+n
+I
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+l
+
+o
+r
+t
+n
+o
+C
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+
+*
+*
+0
+4
+.
+2
+
+*
+*
+1
+4
+.
+2
+
+7
+5
+6
+6
+1
+.
+0
+
+0
+7
+7
+8
+1
+.
+0
+
+*
+*
+5
+2
+.
+2
+
+*
+*
+4
+1
+.
+2
+
+0
+6
+6
+5
+1
+.
+0
+
+5
+9
+6
+6
+1
+.
+0
+
+*
+*
+3
+1
+.
+2
+
+*
+*
+2
+0
+.
+2
+
+3
+8
+0
+5
+1
+.
+0
+
+6
+8
+9
+5
+1
+.
+0
+
+*
+*
+*
+2
+8
+.
+1
+
+*
+*
+8
+2
+.
+2
+
+6
+9
+0
+6
+1
+.
+0
+
+6
+3
+2
+4
+1
+.
+0
+
+*
+*
+8
+3
+.
+2
+
+5
+5
+.
+1
+
+9
+7
+7
+6
+1
+.
+0
+
+9
+7
+9
+1
+1
+.
+0
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+.
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+n
+o
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+f
+o
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+n
+o
+i
+s
+s
+e
+r
+g
+e
+R
+
+.
+4
+
+e
+l
+b
+a
+T
+
+*
+*
+5
+1
+8
+3
+.
+.
+0
+2
+ 
+
+2
+8
+6
+7
+1
+8
+6
+8
+0
+1
+.
+.
+0
+0
+ 
+
+5
+3
+1
+1
+.
+0
+
+*
+9
+8
+.
+4
+
+6
+5
+2
+0
+.
+0
+
+9
+7
+8
+0
+.
+0
+
+*
+0
+2
+.
+6
+
+5
+0
+8
+0
+.
+0
+
+*
+4
+3
+.
+3
+
+2
+0
+.
+0
+
+5
+5
+6
+0
+.
+0
+
+*
+1
+5
+.
+4
+
+2
+3
+5
+0
+.
+0
+
+*
+5
+4
+.
+5
+
+2
+R
+
+f
+o
+
+e
+u
+l
+a
+v
+-
+F
+
+2
+R
+D
+
+2
+R
+
+.
+0
+1
+.
+0
+
+5
+
+p
+*
+*
+*
+
+;
+5
+0
+.
+0
+
+5
+
+p
+*
+*
+
+;
+1
+0
+.
+0
+
+5
+
+p
+*
+
+:
+e
+t
+o
+N
+
+*
+*
+*
+4
+5
+3
+7
+.
+.
+0
+1
+ 
+
+2
+0
+0
+4
+1
+6
+3
+2
+0
+1
+.
+.
+0
+0
+ 
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+i
+l
+
+r
+e
+i
+l
+
+r
+e
+m
+o
+p
+t
+p
+s
+r
+u
+u
+e
+C
+m
+S
+
+
+o
+p
+t
+p
+s
+d
+d
+u
+u
+e
+e
+C
+e
+e
+S
+p
+p
+
+
+s
+s
+k
+k
+s
+n
+c
+c
+o
+o
+o
+i
+C
+C
+t
+c
+g
+g
+a
+o
+o
+r
+e
+L
+L
+t
+n
+I
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+l
+
+l
+
+
+76
+
+J. Jayaram et al.
+
+8
+3
+.
+0
+ 
+
+4
+7
+3
+2
+0
+.
+0
+ 
+
+5
+0
+.
+0
+ 
+
+6
+2
+3
+0
+0
+.
+0
+ 
+
+5
+9
+.
+1
+
+2
+6
+3
+2
+1
+.
+0
+
+1
+6
+.
+1
+
+0
+4
+7
+9
+0
+.
+0
+
+5
+
+l
+e
+d
+o
+M
+
+4
+
+l
+e
+d
+o
+M
+
+3
+
+l
+e
+d
+o
+M
+
+2
+
+l
+e
+d
+o
+M
+
+1
+
+l
+e
+d
+o
+M
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+e
+u
+l
+a
+v
+-
+t
+
+f
+e
+o
+c
+-
+a
+t
+e
+B
+
+d
+e
+e
+p
+s
+k
+c
+o
+C
+g
+o
+L
+
+l
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+n
+I
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+l
+
+o
+r
+t
+n
+o
+C
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+
+*
+*
+8
+4
+.
+2
+
+*
+4
+3
+.
+4
+
+1
+0
+9
+8
+1
+.
+0
+
+9
+3
+9
+6
+3
+.
+0
+
+*
+*
+6
+2
+.
+2
+
+*
+4
+3
+.
+4
+
+6
+9
+0
+7
+1
+.
+0
+
+0
+0
+8
+6
+3
+.
+0
+
+*
+*
+1
+2
+.
+2
+
+*
+7
+8
+.
+3
+
+7
+1
+7
+6
+1
+.
+0
+
+5
+4
+7
+2
+3
+.
+0
+
+*
+*
+7
+3
+.
+2
+
+*
+0
+1
+.
+4
+
+5
+5
+8
+7
+1
+.
+0
+
+7
+6
+2
+4
+3
+.
+0
+
+*
+*
+7
+2
+.
+2
+
+*
+5
+4
+.
+4
+
+0
+2
+1
+7
+1
+.
+0
+
+9
+9
+6
+6
+3
+.
+0
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+.
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+y
+t
+i
+l
+a
+u
+q
+
+n
+o
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+f
+o
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+n
+o
+i
+s
+s
+e
+r
+g
+e
+R
+
+.
+5
+
+e
+l
+b
+a
+T
+
+9
+8
+.
+0
+
+1
+2
+.
+1
+
+3
+2
+8
+7
+0
+.
+0
+
+7
+0
+1
+0
+1
+.
+0
+
+7
+0
+6
+1
+.
+0
+
+3
+5
+1
+0
+.
+0
+
+*
+1
+3
+.
+7
+
+4
+5
+4
+1
+.
+0
+
+*
+4
+9
+.
+0
+1
+
+2
+0
+7
+1
+.
+0
+
+*
+4
+8
+.
+7
+
+1
+0
+.
+0
+
+6
+6
+5
+1
+.
+0
+
+*
+5
+9
+.
+1
+1
+
+3
+5
+4
+1
+.
+0
+
+*
+0
+5
+.
+6
+1
+
+2
+R
+
+f
+o
+
+e
+u
+l
+a
+v
+-
+F
+
+2
+R
+D
+
+2
+R
+
+.
+0
+1
+.
+0
+
+5
+
+p
+*
+*
+*
+
+;
+5
+0
+.
+0
+
+5
+
+p
+*
+*
+
+;
+1
+0
+.
+0
+
+5
+
+p
+*
+
+:
+e
+t
+o
+N
+
+*
+*
+*
+6
+5
+6
+0
+.
+.
+1
+0
+ 
+ 
+
+0
+9
+4
+1
+2
+4
+6
+0
+1
+0
+.
+.
+0
+0
+ 
+ 
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+i
+l
+
+r
+e
+i
+l
+
+r
+e
+m
+o
+p
+t
+p
+s
+r
+u
+u
+e
+C
+m
+S
+
+
+o
+p
+t
+p
+s
+d
+d
+u
+u
+e
+e
+C
+e
+e
+S
+p
+p
+
+
+s
+s
+k
+k
+s
+n
+c
+c
+o
+o
+o
+i
+C
+C
+t
+c
+g
+g
+a
+o
+o
+r
+e
+L
+L
+t
+n
+I
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+l
+
+l
+
+
+International Journal of Production Research
+
+77
+
+moderate the effectiveness of a plant’s supplier and customer coordination programmes
+as hypothesised earlier. Similarly, the control variable representing clockspeed and its
+interactions with supplier coordination and customer coordination are entered in sequence
+(see Models 4 and 5, respectively). In all regression model analyses, the variance inflation
+factors were found to be close to 1 (less than 1.5), thus indicating that multi-collinearity
+among independent and control variables was not a problem.
+
+As can be seen in Model 2 of Table 4, supplier coordination displayed a significant
+influence on flexibility performance, thus providing support for H1. Similarly, Model 2 of
+Table 5 showed that supplier coordination is significantly related to quality performance
+providing strong support for H5. Taken together, these results empirically demonstrate the
+importance of supplier coordination in predicting flexibility performance and quality
+performance.
+
+As regards customer coordination, Model 2 of Table 4 showed a moderate effect on
+flexibility performance, thus providing support for H2. Similarly, Model 2 of Table 5
+showed that customer coordination is significantly related to quality performance
+providing strong support for H6. As similarly mentioned above, these results empirically
+demonstrate the importance of customer coordination in predicting flexibility performance
+and quality performance.
+
+In Models 3 and 5 of Table 4, we examined the moderating effect of firm size and
+clockspeed by adding the corresponding interaction terms. The additions of interaction
+terms were overall significant as the increase in R-square over Model 2; respectively Model
+4 was statistically significant (F-value). However, some individual parameter estimates
+were not statistically significant. We interpreted this highly conservatively to indicate lack
+of support for H3a, H4a and H4b. That is, firm size and clockspeed do not appear to fully
+moderate the effect of supplier coordination and customer coordination on flexibility
+performance. However, a detailed evaluation of individual effects shows a clearer picture.
+Hypothesis H3a stated that the interaction of supplier coordination and firm size was
+positively related to flexibility performance. As can be seen from the beta coefficient
+(Model 3, Table 4), this hypothesis was not supported. However, hypothesis H4a, which
+stated that the interaction of customer coordination and firm size was positively related
+to flexibility performance, was not supported in terms of directionality (moderately
+statistically significant but in the opposite direction). Also, H3b stated that the interaction
+between supplier coordination and clockspeed was positively related to flexibility
+performance. The corresponding beta coefficient
+for this
+hypothesis. However, H4b, according to which the interaction between customer
+coordination and clockspeed was positively related to flexibility performance, was not
+supported.
+
+indicated strong support
+
+With regards to Table 5, in Models 3 and 5 we examined the moderating effect of firm
+size and clockspeed by adding the corresponding interaction terms. Again, using the
+F-value of increase in R-square, the additions of interaction terms were significant. The
+statistical significance of increases in R-square over Model 2, respectively Model 4, could
+have provided broad support for H7a, H8a, H7b and H8b. However, similar to the previous
+case, the individual effects were not significant,
+indicating thus that firm size and
+clockspeed do not fully moderate the effect of supplier coordination and customer
+coordination on quality performance. However, a clearer picture is detailed by the
+evaluation of individual effects.
+
+Hypothesis H7a stated that the interaction of supplier coordination and firm size
+was positively related to quality performance. As can be seen from the beta coefficient
+
+
+78
+
+J. Jayaram et al.
+
+(Model 3, Table 5), this hypothesis was not supported in terms of directionality
+(moderately statistically significant but in the opposite direction). Similarly, hypothesis
+H8a, which stated that the interaction of customer coordination and firm size was
+positively related to quality performance, was not supported. Also, H7b and H8b stated
+that the interactions between supplier coordination, respectively customer coordination,
+and clockspeed were positively related to quality performance. As can be seen from beta
+coefficients, both hypotheses were not supported.
+
+7. Discussion
+
+In this paper, we investigated the effects of two types of coordination on plant
+performance in the Chinese context. More specifically, we examined the effects of supplier
+coordination and customer coordination on two dimensions of performance,
+i.e.,
+flexibility and quality. Our results confirmed the positive impact of supplier coordination
+on flexibility performance found by Devaraj et al. (2007). That is, supplier coordination
+enhances a firm’s ability to handle non-standard orders that impact the manufacturing
+process, especially when the demand is increasing. Our results show that supplier
+coordination influences quality performance, thus confirming previous studies (Koufteros
+et al. 2005, Devaraj et al. 2007). This is particularly important for Chinese manufacturers,
+taking into account the harsh criticism with respect to the recent recalls of products made
+in China.
+
+impact on quality through the effects on product
+
+Whereas Koufteros et al.’s (2005) study indicated that customer coordination has an
+innovation; our study
+indirect
+demonstrates a direct impact on quality performance. Similarly, as predicted, customer
+coordination was found to influence flexibility performance. The collaboration between a
+firm and its customer reduces production uncertainty, making the firm more responsive to
+customer demands. Thus, our most important contribution in this study is that both forms
+of coordination, i.e., supplier coordination and customer coordination are positively and
+significantly important affecting both quality and flexibility performance. This is also
+consistent with Fisher’s (1997) work that both forms of coordination typify different
+supply chain configurations. The positive effect on quality performance is typical of a
+functional supply chain, whereas the positive effects on flexibility performance are typical
+of a responsive supply chain. The fact that these relationships held true in China represents
+the second most important contribution of this research. Although Fisher’s (1997) and
+subsequent research on functional and innovative supply chains were largely restricted to
+the North American context, our study confirms that coordination upstream and
+downstream are indeed important in the Chinese contexts as well.
+
+Another research objective was to verify if the relationships between the two types of
+coordination and the two dimensions of performance were contingent upon firm size or
+clockspeed. In other words, do large firms have an advantage in better leveraging
+coordination mechanisms on performance? The interaction between supplier coordination
+and size was directly and negatively related to quality performance. This suggests that for
+small Chinese manufacturers, effective supplier coordination mechanisms pay off via good
+quality performance. However, the same is not true for an influence on flexibility
+performance. Interestingly, the interaction between customer coordination and size was
+directly and negatively related to flexibility performance. This suggests that in small
+Chinese firms, deployment of customer coordination mechanisms enhances flexibility
+
+
+International Journal of Production Research
+
+79
+
+performance. This makes sense as firms that are small and desirous of occupying niche
+segments should integrate well with customer requirements in order to compete with
+corresponding large-sized competitors. The arena for such competition may not be in
+quality performance which is expected but with respect to flexibility performance thereby
+creating a niche advantage.
+
+The results with respect to the contingency influence of clockspeed were also
+interesting. The interaction between supplier coordination and clockspeed was directly and
+positively related to only flexibility performance but not quality performance. Our results
+suggest that clockspeed strongly altered the effect of supplier coordination on flexibility
+performance. This suggests that a manufacturing firm may be more able to improve
+flexibility performance through supplier coordination under a slower clockspeed than
+under a fast clockspeed. This makes sense since in a slow-clockspeed environment;
+partnership-style supplier relations could prove to be more efficient and more flexible than
+the arm’s-length trading relationship (Guimaraes et al. 2002). Customer coordination
+appears to be equally important in high and low clockspeed firms. Our results also did not
+indicate moderating effects for clockspeed on either the relationship between supplier
+coordination and quality performance, or the relationships between customer coordina-
+tion and flexibility performance.
+
+It is interesting to note that, as a post hoc analysis, we examined whether the two types
+of coordination of supplier coordination and customer coordination had a combined and
+joint
+influence on both quality and flexibility performance (Tables 6 and 7).
+The interaction effects of supplier coordination and customer coordination were not
+statistically significant on either the quality or flexibility performance. This suggests that
+the type and form of coordination in the upstream supplier side is different from the type
+and form of coordination on the downstream customer side. Together, they do not explain
+any additional variance over and above their main effects on performance.
+
+7.1 Theoretical contributions
+
+In summary, our results indicate strong main effects of coordination on performance as
+well as some interesting contingency effects of size and clockspeed on the coordination-
+performance relationships. Although the body of knowledge on supply chain coordination
+with respect to China is only now emerging, it is interesting to report that our study is one
+of the first to report strong empirical support for the effective use of supplier and customer
+coordination influencing quality performance (which is crucial in functional supply chains)
+and influencing flexibility performance (which is critical in responsive supply chains).
+In both these types of supply chains, it is not only important to have effective supply chain
+coordination upstream (supplier) but it is also important to have effective supply chain
+coordination downstream (customer). Of the two contingency variables, size displayed
+a more detailed pattern in the coordination-performance relationships as compared to
+clockspeed.
+
+7.2 Managerial contributions
+
+Our research has important implications for global supply chain managers, especially
+those who have interests in the context of the Chinese manufacturing sector. For firms that
+are starting off, they may benefit from the global nature of our findings in that both forms
+
+
+80
+
+J. Jayaram et al.
+
+Table 6. Post hoc regression analysis – flexibility performance.
+
+Variables
+
+Control
+
+LogSales
+LogClockspeed
+
+Independent
+
+Interactions
+
+Supplier coordination
+Customer coordination
+LogSales  Supplier coordination
+LogSales  Customer coordination
+LogClockspeed  Supplier coordination
+LogClockspeed  Customer coordination
+Supplier coordination Customer coordination
+
+R2
+F-value of R2
+
+Note: *p 5 0.01; **p 5 0.05; ***p 5 0.10.
+
+Model 1
+
+Model 2
+
+Beta-coef
+
+t-value
+
+Beta-coef
+
+t-value
+
+ 0.10453  1.75***
+
+ 0.14448  2.49**
+
+0.15656
+0.17297
+
+2.20**
+2.11**
+
+0.16757
+0.19044
+
+2.39**
+2.37**
+
+0.02501
+0.27
+ 0.12051  1.65
+
+0.65
+
+0.05338
+0.0825
+2.85**
+
+2.20**
+
+0.18535
+ 0.06102  0.79
+0.14
+0.01162
+0.1136
+4.06*
+
+Table 7. Post hoc regression analysis – quality performance.
+
+Variables
+
+Control
+
+LogSales
+LogClockspeed
+
+Independent
+
+Interactions
+
+Supplier coordination
+Customer coordination
+LogSales  Supplier coordination
+LogSales  Customer coordination
+LogClockspeed  Supplier coordination
+LogClockspeed  Customer coordination
+Supplier coordination Customer coordination
+
+R2
+F-value of R2
+
+Note: *p 5 0.01; **p 5 0.05; ***p 5 0.10.
+
+Model 1
+
+Model 2
+
+Beta-coef
+
+t-value
+
+Beta-coef
+
+t-value
+
+0.12628
+
+1.98**
+
+ 0.02333  0.37
+
+2.29**
+3.94*
+
+0.17434
+0.34383
+ 0.16992  1.73***
+0.00318
+
+0.04
+
+0.76
+
+0.06672
+0.1728
+6.61*
+
+0.19132
+0.37577
+
+2.50**
+4.27*
+
+0.76
+1.22
+0.30
+
+0.07039
+0.10261
+0.02705
+0.1611
+6.08*
+
+of coordination mechanisms are equally important. These managers can use our items
+constituting supplier coordination and customer coordination as an audit tool to gauge
+where their respective firms stay with respect to those initiatives. For firms that are further
+along and would like to benchmark other firms on size or clockspeed, our contingency
+results may be useful. It appears that our size effects are more robust, thereby facilitating
+
+
+International Journal of Production Research
+
+81
+
+external benchmarking of similar firms (if the focal firm and benchmarking firm are large)
+or of different firms (if the focal firm is small and the benchmark firm is large and vice
+versa). With respect to clockspeed our results are less robust as we only found one
+statistically significant interaction effect.
+
+8. Conclusions
+
+This research contributed to the academic literature of coordination and contingency
+theories in the emerging economy of China. Specifically, we highlighted the importance of
+both forms of coordination, supplier and customer, for both types of supply chains,
+functional and innovative, and in the context of China. Our research also offered fine
+grained analyses along the contextual condition of large versus small size firms as well as
+along the contextual condition of fast versus slow clockspeed firms. We also made several
+significant managerial recommendations to firms desirous of integrating global supply
+chains that extend to (or start in) China.
+
+Our research is not without limitations. As ours is one of the earliest studies to examine
+contingency issues pertaining to the coordination-performance relationships in China, it is
+not surprising that we did not find a consistent set of results with respect to size and even
+less with respect to clockspeed. Future research can tackle these issues on a more
+comprehensive basis. Also, we were limited in our items that we could include to capture
+coordination mechanisms as empirical data collection in China continues to be a
+challenge. For instance, our survey did not cover every aspect of coordination such as
+those involving the speed and convenience of information exchange. Instead, we focused
+more on the relationship-related aspects of coordination. Also, we used perceptual data in
+our survey as opposed to the more desirable objective data. Nevertheless, we do not believe
+that this subjectivity is a cause of unreliability in the interpretation of our results.
+
+Our research can be extended in several ways. Other emerging economies such as
+Brazil, India and Russia can be used as the context in which the coordination-performance
+relationships are examined. Newer contextual variables such as experience of the firm,
+product type and environmental complexity can be examined. Other multidimensional
+aspects of coordination such as information technology coordination or technology
+coordination can be separately examined. Attempts can also be made to obtain externally
+generated objective data to obviate the common method variance problem.
+
+References
+
+Adler, P.S., 1995. Interdepartmental interdependence and coordination: The case of the design/
+
+manufacturing interface. Organization Science, 6 (2), 147–167.
+
+Aiken, L.S. and West, S.G., 1991. Multiple regression: testing and interpreting interactions. Newbury
+
+Park, CA: Sage Publications.
+
+Armstrong, J.S. and Overton, T.S., 1977. Estimating nonresponse bias in mail surveys. Journal of
+
+Marketing Research, 14 (3), 396–402.
+
+Arshinder, K., Kanda, A., and Deshmukh, S.G., 2008. Supply chain coordination: perspectives,
+empirical studies and research directions. International Journal of Production Economics,
+115 (2), 316–335.
+
+Bailetti, A.J., Callahan, J.R., and DiPietro, P., 1994. A coordination structure approach to the
+
+management of projects. IEEE Transactions on Engineering Management, 41 (4), 394–403.
+
+
+82
+
+J. Jayaram et al.
+
+Barnard, C., 1938. The functions of the executive 1968 ed. Cambridge, MA: Harvard University
+
+Press.
+
+Beheshti, H., et al., 2007. Electronic supply chain management applications by Swedish SMEs.
+
+Enterprise Information Systems, 1 (2), 255–268.
+
+Carson, D., Gilmore, A., and Maclaran, P., 1998. Customer or profit focus: an alternative
+
+perspective. Journal of Marketing Practice: Applied Marketing Science, 4 (1), 26–39.
+
+Chen, I.J. and Paulraj, A., 2004. Towards a theory of supply chain management: the constructs
+
+and measurements. Journal of Operations Management, 22 (2), 119–150.
+
+Choi, T.Y. and Krause, D.R., 2006. The supply base and its complexity: implications for transaction
+costs, risks, responsiveness, and innovation. Journal of Operations Management, 24 (5),
+637–652.
+
+Churchill, G.A., 1979. A paradigm for developing better measures of marketing constructs. Journal
+
+of Marketing Research, 16 (1), 491–504.
+
+Crowston, K., 1997. A coordination theory approach to organizational process design. Organization
+
+Science, 8 (2), 157–175.
+
+Das, A., Narasimhan, R., and Talluri, S., 2006. Supplier integration – finding an optimal
+
+configuration. Journal of Operations Management, 24 (5), 563–582.
+
+Devaraj, S., Krajewski, L., and Wei, J.C., 2007. Impact of eBusiness technologies on operational
+performance: the role of production information integration in the supply chain. Journal of
+Operations Management, 25 (6), 1199–1216.
+
+Dillman, D.A., 2000. Mail and Internet surveys: the tailored design method. New York: Wiley.
+Dyer, J.H. and Singh, H., 1998. The relational view: cooperative strategy and sources of
+interorganizational competitive advantage. Academy of Management Review, 23 (4), 660–679.
+Enkel, E., Kausch, C., and Gassmann, O., 2005. Managing the risk of customer integration.
+
+European Management Journal, 23 (2), 203–213.
+
+Fine, C.H., 1998. Clockspeed: winning industry control in the age of temporary advantage. Reading,
+
+MA: Perseus Books.
+
+Fisher, M., 1997. What is the right supply chain for your product? Harvard Business Review, 75 (2),
+
+105–116.
+
+Flynn, B.B., et al., 1990. Empirical research methods in operations management. Journal of
+
+Operations Management, 9 (2), 250–284.
+
+Flynn, B.B., Huo, B., and Zhao, X., 2010. The impact of supply chain integration on performance:
+a contingency and configuration approach. Journal of Operations Management, 28 (1), 58–71.
+Fornell, C. and Larcker, D., 1981. Evaluating structural equation models with unobservable
+
+variables and measurement error. Journal of Marketing Research, 18 (1), 39–50.
+
+Frohlich, M.T. and Westbrook, R., 2001. Arcs of integration: an international study of supply chain
+
+strategies. Journal of Operations Management, 19 (2), 185–200.
+
+Fugate, B., Sahin, F., and Mentzer, J.T., 2006. Supply chain management coordination mechanisms.
+
+Journal of Business Logistics, 27 (2), 129–161.
+
+Guimaraes, T., Cook, D., and Natarajan, N., 2002. Exploring the importance of business clockspeed
+as a moderator for determinants of supplier network performance. Decision Sciences, 33 (4),
+629–644.
+
+Hedderich, F., Nowak, R., and Ochmann, U., 2005. Localizing sourcing volumes in China: insights
+
+from the automotive industry. Practix, CAPS Research, 8 (June), 1–5.
+
+Hou, H., 2009. Theory and applications of X party material flow. Systems Research and Behavioral
+
+Science, 26 (2), 279–288.
+
+Hougland, M., 2007. Replenishment earning its do. Retailing Today, 46 (15), 11–13.
+Hsu, C. and Wallace, W.A., 2007. An industrial network flow information integration model for
+supply chain management and intelligent transportation. Enterprise Information Systems,
+1 (3), 327–351.
+
+Jayaram, J., Kannan, V.R., and Tan, K.C., 2004. Influence of initiators on supply chain value
+
+creation. International Journal of Production Research, 42 (20), 4377–4399.
+
+
+International Journal of Production Research
+
+83
+
+Jayaram, J., 2008. Supplier involvement in new product development projects: dimensionality and
+
+contingency effects. International Journal of Production Research, 46 (13), 3717–3735.
+
+Jiang, B., 2003. What pulled Sony out of China? Supply Chain Management Review, 7 (1), 22–27.
+Johnson, J.L., 1999. Strategic integration in distribution channels: managing the interfirm
+
+relationship as a strategic asset. Academy of Marketing Science Journal, 27 (1), 4–18.
+
+Jones, T., 2007. Playing corporate Lego. European Business Forum, 28, 10–11.
+Kaynak, H. and Hartley, J.L., 2008. A replication and extension of quality management into the
+
+supply chain. Journal of Operations Management, 26 (4), 468–489.
+
+Koufteros, X., Vonderembse, M., and Jayaram, J., 2005. Internal and external integration for
+product development: the contingency effects of uncertainty, equivocality, and platform
+strategy. Decision Sciences, 36 (1), 97–133.
+
+Koufteros, X.A., Edwin-Cheng, T.C., and Lai, K.H., 2007. ‘Black-box’ and ‘gray-box’ supplier
+integration in product development: antecedents, consequences and the moderating role of
+firm size. Journal of Operations Management, 25 (4), 847–870.
+
+Lakemond, N., Berggren, C., and Van Weele, A., 2006. Coordinating supplier involvement in
+product development projects: a differentiated coordination typology. R&D Management,
+36 (1), 55–66.
+
+Lee, H.L., Padmanabhan, V., and Whang, S., 1997. The bullwhip effect in supply chains. Sloan
+
+Management Review, 38 (3), 93–102.
+
+Li, L., 2006. The effects of information technology implementation on supply chain collaboration.
+
+International Journal of Internet and Enterprise Management, 4 (2), 118–134.
+
+Li, Y., et al., 2005. Linking management control system with product development and process
+decisions to cope with environment complexity. International Journal of Production Research,
+43 (12), 2577–2592.
+
+Malone, T.W. and Crowston, K., 1994. The interdisciplinary study of coordination. ACM
+
+Computing Surveys, 26 (1), 87–120.
+
+March, J.G. and Simon, H.A., 1958. Organizations. New York: John Wiley & Sons.
+Metters, R., 1997. Quantifying the bullwhip effect in supply chains. Journal of Operations
+
+Management, 15 (2), 89–110.
+
+Narasimhan, R. and Jayaram, J., 1998. Casual linkages in supply chain management: an exploratory
+
+study of North American manufacturing firms. Decision Sciences, 29 (3), 579–606.
+
+Parker, D.B., Zsidisin, G.A., and Ragatz, G.L., 2008. Timing and extent of supplier integration
+in new product development: a contingency approach. Journal of Supply Chain Management:
+A Global Review of Purchasing & Supply, 44 (1), 71–83.
+
+Peteraf, M. and Reed, R., 2007. Managerial discretion and internal alignment under regulatory
+
+constraints and change. Strategic Management Journal, 28 (11), 1089–1112.
+
+Petersen, K.J., Handfield, R.B., and Ragatz, G.L., 2003. A model of supplier integration into new
+
+product development. Journal of Product Innovation Management, 20 (4), 284–299.
+
+Petersen, K.J., Handfield, R.B., and Ragatz, G.L., 2005. Supplier integration into new product
+development: coordinating product, process and supply chain design. Journal of Operations
+Management, 23 (3–4), 371–388.
+
+Ragatz, G.L., Handfield, R.B., and Petersen, K.J., 2002. Benefits associated with supplier
+integration into new product development under conditions of technology uncertainty.
+Journal of Business Research, 55 (5), 389–400.
+
+Ramdas, K. and Spekman, R.E., 2000. Chain or shackles: understanding what drives supply-chain
+
+performance. Interfaces, 30 (4), 3–21.
+
+Sanders, N.R., 2007. The benefits of using e-business technology: the supplier perspective. Journal of
+
+Business Logistics, 28 (2), 177–207.
+
+Shah, R. and Ward, P.T., 2003. Lean manufacturing: context, practice bundles, and performance.
+
+Journal of Operations Management, 21 (2), 129–149.
+
+Shu, Q. and Wang, C., 2007. A conceptual framework for product lifecycle modeling. Enterprise
+
+Information Systems, 1 (3), 353–363.
+
+
+84
+
+J. Jayaram et al.
+
+Simatupang, T.M., Wright, A.C., and Sridharan, R., 2002. The knowledge of coordination for
+
+supply chain integration. Business Process Management Journal, 8 (3), 289–308.
+
+Souder, W.E., Sherman, J.D., and Davies-Cooper, R., 1998. Environmental uncertainty,
+organizational integration, and new product development effectiveness: a test of contingency
+theory. Journal of Product Innovation Management, 15 (6), 520–533.
+
+Spekman, R., 1988. Strategic supplier selection: understanding long-term buyer relationships.
+
+Business Horizons, 31 (4), 75–81.
+
+Staley, S. and Warfield, J., 2007. Enterprise integration of product development data: systems
+
+science in action. Enterprise Information Systems, 1 (3), 269–285.
+
+Stank, T.P., Keller, S.B., and Daugherty, P.J., 2001. Supply chain collaboration and logistical service
+
+performance. Journal of Business Logistics, 22 (1), 29–47.
+
+Swink, M., Narasimhan, R., and Wang, C., 2007. Managing beyond the factory walls: effects of four
+types of strategic integration on manufacturing plant performance. Journal of Operations
+Management, 25 (1), 148–164.
+
+Tabachnick, B.G. and Fidell, L.S., 1996. Using multivariate statistics. New York: Harper Collins
+
+College.
+
+Thompson, J.D., 1967. Organizations in action. New York: McGraw-Hill.
+Van de Ven, A.H., Delbecq, A.L., and Koenig, R., 1976. Determinants of coordination modes
+
+within organizations. American Sociological Review, 41 (2), 322–338.
+
+Van de Ven, A.H. and Ferry, D., 1978. Measurement and assessment of organizations. New York:
+
+Wiley.
+
+Van Echtelt, F.E.A., Wynstra, F., and Van Weele, A.J., 2007. Strategic and operational management
+of supplier involvement in new product development: a contingency perspective. IEEE
+Transactions on Engineering Management, 54 (4), 644–661.
+
+Vickery, S.K., Dro¨ ge, C., and Markland, R.E., 1997. Dimensions of manufacturing strength in the
+
+furniture industry. Journal of Operations Management, 15 (4), 317–330.
+
+Vickery, S.K., et al., 2003. The effects of an integrative supply chain strategy on customer service and
+financial performance: an analysis of direct versus indirect relationships. Journal of Operations
+Management, 21 (5), 523–539.
+
+Victor, B. and Blackburn, R.S., 1987. Interdependence: an alternative conceptualization. Academy
+
+of Management Review, 12 (3), 486–498.
+
+Ward, P.T., Bickford, D.J., and Leong, G.K., 1996. Configurations of manufacturing strategy,
+
+business strategy, environment and structure. Journal of Management, 22 (4), 597–626.
+
+Zhang, A., Melcher, A., and Li, L., 2004. Mapping the relationships among product complexity,
+information technology, and transaction governance structure: a case study. Journal of
+Management Systems, 16 (4), 41–55.
+
+
+International Journal of Production Research
+
+85
+
+y
+l
+g
+n
+o
+r
+t
+S
+
+e
+e
+r
+g
+A
+
+l
+a
+r
+t
+u
+e
+N
+
+y
+l
+g
+n
+o
+r
+t
+S
+
+e
+e
+r
+g
+a
+s
+i
+
+D
+
+r
+o
+j
+a
+m
+e
+h
+t
+
+s
+e
+c
+u
+d
+o
+r
+p
+
+d
+n
+a
+
+y
+t
+i
+l
+i
+
+b
+i
+s
+n
+o
+p
+s
+e
+r
+
+s
+a
+h
+
+t
+i
+n
+u
+
+r
+u
+o
+y
+
+t
+a
+h
+t
+
+t
+n
+a
+l
+p
+
+r
+o
+
+y
+r
+o
+t
+c
+a
+f
+
+e
+n
+o
+
+y
+n
+a
+
+o
+t
+
+t
+c
+e
+p
+s
+e
+r
+
+h
+t
+i
+
+w
+s
+l
+a
+o
+g
+
+y
+t
+i
+l
+a
+u
+q
+
+t
+u
+o
+b
+a
+
+s
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+i
+
+g
+n
+w
+o
+
+l
+l
+
+o
+f
+
+e
+h
+t
+
+o
+t
+
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+f
+o
+
+e
+e
+r
+g
+e
+d
+
+e
+h
+t
+
+e
+t
+a
+c
+i
+d
+n
+
+i
+
+e
+s
+a
+e
+l
+P
+
+.
+t
+i
+n
+u
+
+r
+u
+o
+y
+
+n
+
+i
+
+y
+r
+o
+t
+c
+a
+f
+
+r
+o
+
+t
+n
+a
+l
+p
+
+a
+
+n
+
+i
+
+y
+t
+i
+l
+a
+u
+q
+
+f
+o
+
+t
+n
+e
+m
+e
+g
+a
+n
+a
+m
+o
+t
+
+s
+e
+t
+a
+l
+e
+r
+
+n
+o
+i
+t
+s
+e
+u
+q
+
+i
+
+g
+n
+w
+o
+
+l
+l
+
+o
+f
+
+e
+h
+T
+
+2
+0
+.
+1
+
+)
+.
+e
+c
+i
+o
+h
+c
+
+e
+t
+a
+i
+r
+p
+o
+r
+p
+p
+a
+
+e
+h
+t
+
+e
+l
+c
+r
+i
+C
+
+(
+
+.
+’
+’
+
+A
+N
+
+‘
+‘
+
+k
+r
+a
+m
+e
+s
+a
+e
+l
+p
+
+,
+e
+l
+b
+a
+c
+i
+l
+
+p
+p
+a
+
+t
+o
+n
+
+s
+i
+
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+a
+
+f
+I
+
+.
+e
+v
+o
+b
+a
+
+d
+e
+c
+n
+e
+r
+e
+f
+e
+r
+
+t
+c
+u
+d
+o
+r
+p
+
+s
+
+m
+e
+t
+i
+
+t
+n
+e
+m
+e
+r
+u
+s
+a
+e
+M
+
+:
+
+x
+i
+d
+n
+e
+p
+p
+A
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+6
+
+6
+
+6
+
+6
+
+6
+
+6
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+y
+r
+e
+v
+i
+l
+e
+d
+
+d
+n
+a
+
+y
+t
+i
+l
+a
+u
+q
+
+n
+o
+
+k
+c
+a
+b
+d
+e
+e
+f
+
+s
+u
+
+e
+v
+i
+g
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+t
+n
+a
+l
+p
+
+r
+u
+o
+
+t
+i
+s
+i
+v
+m
+o
+d
+l
+e
+s
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+u
+O
+
+r
+u
+O
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+
+r
+u
+o
+
+h
+t
+i
+
+w
+
+t
+c
+a
+t
+n
+o
+c
+
+e
+s
+o
+l
+c
+
+n
+
+i
+
+e
+r
+a
+
+y
+l
+t
+n
+e
+u
+q
+e
+r
+f
+
+e
+
+W
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+h
+t
+i
+
+i
+
+w
+s
+p
+h
+s
+n
+o
+i
+t
+a
+l
+e
+r
+
+m
+r
+e
+t
+-
+g
+n
+o
+
+l
+
+h
+s
+i
+l
+
+b
+a
+t
+s
+e
+
+o
+t
+
+e
+v
+i
+r
+t
+s
+
+e
+
+W
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+g
+n
+i
+t
+c
+e
+l
+e
+s
+
+n
+
+i
+
+n
+o
+i
+r
+e
+t
+i
+r
+c
+
+e
+n
+o
+
+r
+e
+b
+m
+u
+n
+
+r
+u
+o
+
+s
+i
+
+y
+t
+i
+l
+a
+u
+Q
+
+s
+r
+e
+i
+l
+
+p
+p
+u
+s
+
+y
+t
+i
+l
+a
+u
+q
+-
+h
+g
+i
+h
+
+f
+o
+
+r
+e
+b
+m
+u
+n
+
+l
+l
+a
+m
+
+s
+
+a
+
+n
+o
+
+y
+l
+e
+r
+
+e
+
+W
+
+n
+o
+i
+t
+a
+n
+d
+r
+o
+o
+c
+
+i
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+a
+
+f
+I
+
+.
+
+m
+e
+t
+i
+
+h
+c
+a
+e
+
+r
+o
+f
+
+s
+r
+o
+t
+i
+t
+e
+p
+m
+o
+c
+
+r
+o
+j
+a
+m
+
+s
+t
+i
+
+o
+t
+
+e
+v
+i
+t
+a
+l
+e
+r
+
+,
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+s
+’
+y
+r
+o
+t
+c
+a
+f
+
+r
+u
+o
+y
+
+e
+t
+a
+r
+
+,
+
+w
+o
+l
+e
+b
+
+d
+e
+d
+i
+v
+o
+r
+p
+
+e
+l
+a
+c
+s
+-
+t
+n
+o
+p
+
+i
+
+7
+
+e
+h
+t
+
+g
+n
+i
+s
+
+U
+
+1
+0
+.
+2
+
+)
+.
+
+m
+e
+t
+i
+
+h
+c
+a
+e
+
+r
+o
+f
+
+r
+e
+b
+m
+u
+n
+
+a
+
+e
+l
+c
+r
+i
+C
+
+(
+
+.
+’
+’
+
+A
+N
+
+‘
+‘
+
+k
+r
+a
+m
+e
+s
+a
+e
+l
+p
+
+,
+e
+l
+b
+a
+c
+i
+l
+
+p
+p
+a
+
+t
+o
+n
+
+s
+i
+
+t
+n
+e
+l
+l
+e
+c
+x
+E
+
+r
+o
+o
+P
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+6
+
+6
+
+6
+
+6
+
+6
+
+6
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+t
+c
+u
+d
+o
+r
+P
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+e
+m
+u
+o
+V
+
+l
+
+y
+t
+i
+l
+i
+
+b
+i
+x
+e
+l
+f
+
+s
+s
+e
+c
+o
+r
+P
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+t
+c
+u
+d
+o
+r
+P
+
+y
+t
+i
+l
+i
+
+b
+a
+r
+u
+d
+
+t
+c
+u
+d
+o
+r
+P
+
+-
+-
+
+)
+s
+n
+o
+i
+t
+a
+c
+i
+f
+i
+c
+e
+p
+s
+
+o
+t
+
+e
+c
+n
+a
+m
+r
+o
+f
+n
+o
+c
+(
+
+y
+t
+i
+l
+a
+u
+Q
+
+S
+C
+I
+H
+P
+A
+R
+G
+O
+M
+E
+D
+
+)
+s
+y
+a
+d
+
+n
+i
+(
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+)
+s
+s
+e
+u
+g
+
+t
+s
+e
+b
+
+e
+d
+i
+v
+o
+r
+p
+(
+
+t
+n
+e
+m
+p
+h
+s
+
+i
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+)
+r
+a
+e
+y
+
+t
+n
+e
+c
+e
+r
+
+t
+s
+o
+m
+
+r
+o
+f
+(
+
+e
+u
+n
+e
+v
+e
+r
+
+s
+e
+l
+a
+s
+
+l
+a
+u
+n
+n
+A
+
+r
+u
+o
+y
+
+f
+o
+
+t
+i
+n
+u
+
+l
+a
+c
+i
+p
+y
+t
+
+a
+
+e
+t
+e
+l
+p
+m
+o
+c
+
+o
+t
+
+e
+k
+a
+t
+
+t
+i
+
+s
+e
+o
+d
+
+g
+n
+o
+
+l
+
+w
+o
+H
+
+)
+d
+e
+e
+p
+s
+k
+c
+o
+C
+
+l
+
+(
+
+f
+o
+
+e
+t
+a
+d
+
+o
+t
+
+r
+e
+d
+r
+o
+
+r
+e
+m
+o
+t
+s
+u
+c
+
+f
+o
+
+e
+t
+a
+d
+m
+o
+r
+f
+
+,
+t
+c
+u
+d
+o
+r
+p
+
+d
+e
+h
+s
+i
+n
+i
+f
+
+y
+r
+a
+m
+
+i
+r
+p
+
+
+Copyright of International Journal of Production Research is the property of Taylor & Francis Ltd and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for individual use.
+

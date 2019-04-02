@@ -1,0 +1,1624 @@
+J Bus Ethics (2011) 104:197–206
+DOI 10.1007/s10551-011-0898-6
+
+Do Lenders Value Corporate Social Responsibility?
+Evidence from China
+
+Kangtao Ye • Ran Zhang
+
+Received: 6 February 2010 / Accepted: 10 May 2011 / Published online: 21 May 2011
+Ó Springer Science+Business Media B.V. 2011
+
+this relationship is reversed after
+
+Abstract Drawing on risk mitigation theory, this article
+examines whether the improvement of ﬁrms’ social per-
+formance reduces debt ﬁnancing costs (CDFs) in China, the
+world’s largest emerging market. Employing both the
+ordinary least square (OLS) and the two-stage instrumental
+variable regression methods, we ﬁnd that improved cor-
+porate social responsibility (CSR) reduces the CDF when
+ﬁrms’ CSR investment is lower than an optimal level;
+however,
+the CSR
+investment exceeds the optimal level. Firms with extre-
+mely low or extremely high CSR are subject to a higher
+CDF. The results also suggest that the optimal CSR level
+for small ﬁrms is higher than that for large ﬁrms. This study
+is the ﬁrst to document a U-shaped relationship between
+CSR and CDF and also the ﬁrst to investigate this rela-
+tionship within an emerging market context.
+Keywords China  Corporate social responsibility 
+Corporate philanthropy  Debt ﬁnancing cost 
+Risk management  Size
+
+K. Ye
+Renmin University of China, Beijing 100872,
+People’s Republic of China
+e-mail: kye@ruc.edu.cn
+
+R. Zhang (&)
+Guanghua School of Management, Peking University,
+Beijing 100871, People’s Republic of China
+e-mail: rzhang@gsm.pku.edu.cn
+
+Introduction
+
+An important yet unresolved debate regarding corporate
+social responsibility (CSR) is whether CSR investments
+enhance shareholder value, or whether they represent a
+costly diversion of scarce ﬁrm resources (Goss and Roberts
+2009). Friedman (1970) claims that ﬁrms’ actions in accord
+with social responsibility may reduce returns to their
+stockholders; however, the stakeholder theory argues that
+CSR can improve ﬁnancial performance since the success
+of a ﬁrm depends on the extent to which it satisﬁes the
+key stakeholders’ expectations. The literature on the link
+between corporate social performance (CSP) and corporate
+ﬁnancial performance (CFP) provides mixed results
+(Margolis and Walsh 2003; Orlitzky et al. 2003; Ullmann
+1985, Zhang and Rezaee 2009). Although the majority of
+the studies surveyed in Beurden and Gossling (2008) and
+Margolis and Walsh (2003) document a positive relation-
+ship between CSP and CFP, the 13 studies reviewed by
+Ullmann (1985) do not ﬁnd clear evidence of positive
+CSP–CFP link. Boyle et al. (1997), Brammer et al. (2006),
+and Wright and Ferris (1997) even suggest a negative link
+between CSP and CFP.
+
+This article enters the debate by examining the impacts
+of CSR on a key determinant of ﬁnancial performance—
+the debt ﬁnancing cost (CDF). Debt ﬁnancing plays an
+important role in ﬁrms’ external ﬁnancing and growth.
+From 1993 to 2002 debt ﬁnancing accounted for 72% of
+the external ﬁnancing among US-listed ﬁrms (Fama and
+French 2005). Debt ﬁnancing also accounted for 79% of
+the total external ﬁnancing in the United Kingdom, 66% in
+Japan, 49% in Germany, 78% in France, and 41% in
+Canada from 1970 to 1985 (Tirole 2006). Goss and Roberts
+(2009) cite a statistic from Thomson Financial indicating
+that the size of syndicated loan markets is four and a half
+
+123
+
+
+198
+
+K. Ye, R. Zhang
+
+times as large as the size of equity markets worldwide.
+Access to low-cost debt capital
+to a ﬁrm’s
+ﬁnancial success, given the relative importance of debt in
+ﬁrms’ external ﬁnancing.
+
+is critical
+
+We examine the relationship between CSR and CDF
+within the context of a particular component of CSR:
+corporate philanthropy. Corporate philanthropy is an
+important dimension of CSR (Brammer and Millington
+2008; Godfrey 2005; Porter and Kramer 2002), and
+provides a more valid proxy for CSR than other single-
+dimension measures (Smith 1994; Saiia et al. 2003;
+Brammer and Millington 2008; Peloza 2006). The volun-
+tary and discretionary nature of corporate philanthropy can
+also generate imputations of exemplary values or character
+to the ﬁrm from its stakeholders (Godfrey 2005). Godfrey
+(2005) suggests that corporate philanthropy can generate
+positive moral capital among communities and stakehold-
+ers, mitigate the negative assessments by stakeholders
+following ﬁrms’ misconducts, and hence reduce ﬁrms’
+business risk. We therefore use corporate philanthropy as
+our measure of CSR for consistency with the theory
+employed.
+
+Drawing on risk mitigation theory, we posit
+
+that
+improved social performance can reduce business opera-
+tion risks by generating positive moral capital among
+stakeholders and by making ﬁrms less vulnerable to neg-
+ative events. As operating risk is a primary driver of debt
+capital costs, a reduction in business risk will lead to a
+lower CDF. Using ﬁrm-level data from Chinese listed
+ﬁrms, we ﬁnd that CSR is negatively related to CDF when
+ﬁrms’ CSR investment is lower than an ‘‘optimal’’ level;
+however, this relationship is reversed after CSR investment
+exceeds the optimal level. This suggests a U-shaped rela-
+tionship between CSR and CDF; ﬁrms with extremely high
+or extremely low CSR are subject to a higher CDFs com-
+pared to ﬁrms with moderate CSR. Our ﬁndings are robust
+when we employ the instrumental variable approach to
+address the potential endogeneity of the CSR measure. We
+further document that the optimal CSR level is higher for
+small ﬁrms than for large ﬁrms.
+
+This study contributes to the extant literature in several
+aspects. First, we conduct the relationship between CSR
+and CDF within the context of corporate philanthropy,
+which to our knowledge is the ﬁrst article that explores the
+relationship between CDF and corporate philanthropy.
+Sharfman and Fernando (2008) examine the relationship
+between cost of capital and environmental risk manage-
+ment, and Goss and Roberts (2009) explore the relationship
+between cost of bank loans and an aggregate measure of
+CSR. To our knowledge, no study has examined the
+impacts of corporate philanthropy on CDF yet.
+
+Second, our results suggest that the relationship between
+CSR and the CDF is more complex than the simple
+
+123
+
+monotonic relationship prior studies suggest (e.g., Rich-
+ardson and Welker 2001; Sharfman and Fernando 2008).
+Although improved CSR leads to a lower CDF when ﬁrms’
+CSR investment is below an optimal level, overinvestment
+in CSR may harm ﬁrm performance by increasing CDF.
+Assuming a simple monotonic relationship between CSP
+and CDF may therefore generate misleading results.
+
+Our third contribution comes from the examination of
+the impact of ﬁrm size on the optimal level of CSR. Our
+results document that the optimal CSR level varies with
+ﬁrm size, suggesting that the ‘‘ideal’’ level of CSR depends
+on ﬁrm characteristics, and that the beneﬁts of CSR are
+context dependent.
+
+Fourth, we conduct our analysis in the context of China,
+the world’s largest developing market. Prior studies in this
+ﬁeld are primarily conducted in the context of developed
+markets, where the pressure for ﬁrms to meet stakeholder
+expectations is potentially stronger than emerging markets
+(Goss and Roberts 2009; Sharfman and Fernando 2008). The
+results from the extant literature may not hold for developing
+markets such as China where CSR awareness is compara-
+tively low (Gao 2009; Li and Zhang 2010; Sharfman and
+Fernando 2008). By extending the extant research to the
+context of developing markets, we provide new insights on
+the link between CSR and CDF. As debt ﬁnancing plays an
+important role in China’s external ﬁnancing market, this
+study also adds to our understanding of why Chinese ﬁrms
+choose whether or not to engage in CSR.
+
+The remainder of this article proceeds as follows. The
+second section provides literature review and develops our
+hypotheses. Third section describes our research design
+and the data. Fourth section reports the empirical results
+and ﬁfth section concludes.
+
+Literature Review and Hypothesis Development
+
+Literature Review
+
+Few studies have examined the link between CSR and
+CDF. The prior literature primarily focuses on the impacts
+of CSR on equity ﬁnancing cost. Mackey et al. (2007)
+suggest that when a large number of equity investors prefer
+investing in ﬁrms with good CSR reputations (e.g., social
+responsibility investment), those ﬁrms may enjoy a lower
+equity capital cost due to the increased demand for their
+stocks. Dhaliwal et al. (2009) provide empirical evidences
+for this argument. Using a sample of 196 US ﬁrms which
+release stand-alone CSR reports, Dhaliwal et al. (2009) ﬁnd
+that ﬁrms with comparatively superior social responsibility
+performance enjoy a reduction in equity capital costs.
+Other studies explore the relationship between environ-
+mental management and equity capital costs. Using a
+
+
+Corporate Social Responsibility and Cost of Debt
+
+199
+
+sample of ﬁrms drawn from the pulp and paper industry,
+Spicer (1978) ﬁnds that ﬁrms with better pollution-control
+records tend to have higher price/earnings ratios, and
+therefore a lower equity capital cost. Garber and Hammitt
+(1998) and Sharfman and Fernando (2008) also document a
+negative relationship between improvements in environ-
+mental risk management and equity capital cost; however,
+Richardson and Welker (2001) ﬁnd a positive relationship
+between corporate social disclosure and equity capital cost.
+They suggest
+that social disclosure may beneﬁt ﬁrms
+through its effect on stakeholders other
+than equity
+investors.
+
+Surprisingly few studies have examined the link
+between CSR and CDF. As debt markets perceive risks
+differently than equity markets (Sharfman and Fernando
+2008), it is worthwhile to examine the link between CSR
+and CDF given the importance of debt ﬁnancing for ﬁrm
+growth. Sharfman and Fernando (2008) and Goss and
+Roberts (2009) are the two studies most relevant to this
+article. Sharfman and Fernando (2008) document a
+positive relationship between environmental risk man-
+agement and CDF for their sample of 267 US ﬁrms.
+Goss and Roberts (2009), however, do not ﬁnd that
+improved CSR signiﬁcantly reduces loan spreads using a
+sample of 1,534 US ﬁrms from 1991 to 2006. These
+mixed results may arise from the different
+research
+designs and samples used in the extant literature, calling
+for more in-depth research into this area to determine the
+impacts of CSR on CDF.
+
+Hypothesis Development
+
+We examine the impacts of CSR on CDF from the risk
+management perspective. Corporate philanthropy and other
+discretionary corporate social initiatives can generate a
+positive reputation and subsequent positive moral capital
+among communities and stakeholders if these social ini-
+tiatives are judged to be made due to a genuine regard for
+social welfare (Godfrey 2005).1 The positive moral capital
+mitigates the negative assessments and resulting sanctions
+by stakeholders following ﬁrms’ misconducts, making
+ﬁrms less vulnerable to negative events (Godfrey 2005;
+
+1 Godfrey (2005) also suggests that corporate philanthropy may
+generate negative moral evaluation if the philanthropy is viewed as an
+ingratiating attempt to win favor. However, a rational manager will
+eventually abandon those unwise philanthropic projects. Hence,
+corporate philanthropy made by rational managers will generally lead
+to positive moral capital among stakeholders, at least for most of
+them.
+
+Peloza 2006; Zhang et al. 2010b). Bhattacharya and Sen
+(2004) also suggest that investing in CSR helps to build a
+reservoir of goodwill which leads to stakeholders’ resil-
+ience to negative information about a company perceived
+to be socially responsible. In addition, higher levels of CSR
+help build more stable relations with the government and
+the community, hence mitigate the risk of litigation and
+government sanctions that would otherwise harm ﬁrm
+proﬁtability in the future (Dhaliwal et al. 2009; McGuire
+et al. 1988; Peloza 2006; Sharfman and Fernando 2008).
+Firms with positive CSR reputations will therefore have
+lower business risk.
+
+Vanhamme and Grobben (2009) provide empirical evi-
+dence for this argument by documenting that ﬁrms with a
+long CSR history can counter the negative impact of a
+crisis more effectively than ﬁrms with a short CSR history.
+Examining 42 utility ﬁrms from developed markets, Bassen
+et al. (2006) also ﬁnd that a lack of corporate responsibility
+engagement exposes a ﬁrm to unnecessarily high risk. Lee
+and Faff (2009) document
+that ﬁrms with strong CSP
+exhibit signiﬁcantly lower idiosyncratic risk. As CDF is
+based on investors’ assessment of a ﬁrm’s expected busi-
+ness risk (Sharfman and Fernando 2008), we expect that
+ﬁrms with strong CSP will enjoy a lower CDF due to their
+lower business risk.
+
+Godfrey (2005) also suggests that there exists an opti-
+mal level of CSR from the risk mitigation perspective.
+Speciﬁcally, a ﬁrm’s social investments should not exceed
+the optimal level required to fully insure the ﬁrm’s risky
+assets against loss. Beyond the optimal level, additional
+social
+investments impose additional costs on the ﬁrm
+without generating any corresponding insurance value.
+Bartkus et al. (2002) also suggest
+that managers may
+overinvest in philanthropy for managerial self-interests at
+the expense of shareholders and extreme high levels of
+giving will
+therefore not be accepted by stockholders.
+That is, overinvestment in CSR beyond the optimal level
+will generate negative net present value for a ﬁrm. As
+ﬁrms’ investments in activities with negative net present
+value increase ﬁrms’ business risk (Goss and Roberts
+2009), we expect CDF to increase when CSR investments
+exceed an optimal level.
+
+Brammer and Millington (2008) also suggest that ﬁrms
+with extremely high CSP perform better in the long run by
+achieving differentiation in the eyes of important stake-
+holders. However, the lenders in China are primarily short-
+term oriented as around 78% of the bank loans in our
+sample have the maturity periods equal to or less than
+1 year, and Brammer and Millington (2008) suggest that in
+the short-run ﬁrms with extremely low CSP will have
+higher ﬁnancial performance. Therefore,
+the lenders in
+China may not value the long-run differentiation beneﬁts of
+extremely high CSR.
+
+123
+
+
+200
+
+K. Ye, R. Zhang
+
+Taken together, we predict that CDF ﬁrst declines, then
+rises as CSR investment increases; ﬁrms with extremely
+high or extremely low CSR have higher CDFs compared to
+ﬁrms with moderate CSR investments. This leads to our
+ﬁrst hypothesis:
+
+H1 There is a U-shaped relationship between CSR and
+debt ﬁnancing cost. The debt ﬁnancing cost is inversely
+related to CSR for ﬁrms below the optimal CSR level, and
+increases with CSR for ﬁrms exceeding the optimal CSR
+level.
+
+Godfrey (2005) suggests that CSR’s risk reduction effect
+and therefore optimal CSR level will be greater for ﬁrms
+with higher business risk, because these types of ﬁrms are
+more vulnerable to negative events and the insurance
+provided by CSR against crises will be more valuable.
+Smaller ﬁrms have greater difﬁculty gaining access to key
+resources, and are therefore more vulnerable to adverse
+business events. As a ﬁrm grows it develops ties with a
+variety of resource providers who contribute to its success,
+resulting in a lower business risk (Richardson and Welker
+2001; Stinchcombe 1965). The insurance provided by CSR
+against crises will therefore not be so prominent for large
+ﬁrms as for small ﬁrms.
+
+Furthermore, Barnett (2007) argues that the ﬁnancial
+beneﬁts arising from CSR vary with stakeholder inﬂuence
+capacity (SIC), a construct that captures ﬁrms’ ability to
+use CSR to proﬁtably improve relationships with key
+stakeholders. Speciﬁcally, Barnett (2007) suggests that as
+societal expectations of a ﬁrm’s social obligations increase,
+all else being equal, ﬁrm’s SIC will decrease. Increasing
+societal expectations about CSR enlarge the ‘‘hole’’ in the
+‘‘bathtub’’ that holds the stock of SIC, thereby ﬁrms with
+higher societal expectations will have lower SIC. Large
+ﬁrms generally face higher societal expectations about their
+CSP; hence a certain level of investment in CSR will lead
+to a lower SIC stock in large ﬁrms than in small ﬁrms. The
+lower stock of SIC dampens the ﬁnancial reward on CSR
+investment for large ﬁrms. Bhattacharya and Sen (2004)
+also reveal that consumers are more likely to make positive
+attributions and have positive attitudes when the company
+engaging in CSR is small rather than big.
+
+Larger ﬁrms are also more transparent (Francis et al.
+2008; Bushman et al. 2004), and therefore provide alter-
+native sources of information about business risks than
+smaller (and less transparent) ﬁrms, which reduces the
+usefulness of CSR information in the assessment of large
+ﬁrms’ business risks.
+
+Taken together, we expect that small ﬁrms will beneﬁt
+more from the insurance provided by CSR compared to
+large ﬁrms, and hence the optimal level of CSR will be
+higher for small ﬁrms than for large ﬁrms. This leads to our
+second hypothesis:
+
+123
+
+H2 The optimal level of CSR will be higher for small
+ﬁrms than for large ﬁrms.
+
+Prior literature also documents that in a socialist econ-
+omy such as China, the government often provides ﬁnan-
+cial assistances to ailing state-owned enterprises (SOEs) to
+help them avoid bankruptcy, a phenomenon referred to as a
+soft budget constraint (Chen et al. 2010; Lin and Tan
+1999). The state therefore provides guarantee on the debt
+instruments issued by SOEs (Wang et al. 2008; Tian and
+Estrin 2007). This suggests that SOEs generally have a
+lower downside business risk, and the insurance provided
+by corporate philanthropy against crises will be less valu-
+able for SOEs (Zhang et al. 2010a). This leads to our third
+hypothesis:
+
+H3 The optimal level of CSR will be lower for state-
+owned ﬁrms than for private-owned ﬁrms.
+
+As heavily leveraged ﬁrms generally have higher busi-
+ness risk (Gebhardt et al. 2001; Anderson et al. 2004), we
+expect the insurance beneﬁts provided by CSR will be
+more valuable for high leverage ﬁrms compared to low
+leverage ﬁrms. This leads to our fourth hypothesis:
+
+H4 The optimal level of CSR will be higher for high
+leverage ﬁrms than for low leverage ﬁrms.
+
+Research Methods
+
+Research Design
+
+We employ Eq. 1 to examine the relationship between
+CDF and CSR after controlling for other factors that may
+affect the cost of debt ﬁnancing:
+CDFit ¼ a0 þ a1CSRit þ a2CSR2
+
+it þ a3SIZEit
+
+þ a4STATEOWNit þ a5LEVit þ a6ROAit
+þ a7GROUPit þ a8INDi þ a9YEARt þ eit;
+
+ð1Þ
+
+identiﬁers,
+
+where CDF is debt ﬁnancing cost, and i and t are ﬁrm and
+year
+respectively. Following Francis et al.
+(2005), we use the ratio of a ﬁrm’s interest expense to
+interest-bearing debt outstanding as our measure of CDF.
+CSR is our measure of CSP: the ratio of corporate chari-
+table donations to sales. Our ﬁrst hypothesis predicts a
+U-shaped relationship between CDF and CSR. This sug-
+gests that superior CSR will reduce CDF (i.e., a1 should be
+negative), but the negative effect of CSR on CDF is subject
+to diminishing, and eventually decreasing returns (i.e., a2
+should be positive).
+
+Regarding control variables, prior literature suggests
+that ﬁrm size, ﬁnancial
+leverage, state ownership, and
+industry membership also affect CDF (Gebhardt et al.
+2001; Sharfman and Fernando 2008; Wang et al. 2008;
+
+
+Corporate Social Responsibility and Cost of Debt
+
+201
+
+Tian and Estrin 2007). We therefore include the natural
+logarithm of ﬁrm market capitalization (SIZE), the ratio of
+debt to book value of equity (LEV), the percentage of
+shares held by the state (STATEOWN), and industry
+dummy variables (IND) as controls. We expect the coef-
+ﬁcients on SIZE and STATEOWN to be negative as larger
+ﬁrms and state-owned ﬁrms have lower business risk, and
+the coefﬁcient on LEV to be positive as heavy leverage
+increases ﬁrms’ business risk. We construct
+industry
+dummies using 1-digit CSRC (China Securities Regulatory
+Commission) codes. The sample ﬁrms are classiﬁed into 13
+industries: Agriculture, Mining, Manufacturing, Construc-
+tion, Transportation, Utilities, Trade, Finance, Real Estate,
+Travel, IT, Publishing and Media, and Conglomerates.
+
+As group member ﬁrms are more likely to get prefer-
+ential interest rates from banks, we also include group
+afﬁliation (GROUP) as a control variable. GROUP is a
+dummy variable equal to 1 if the ﬁrm is a member of a
+business group and 0 otherwise. We include return on
+assets (ROA) as our measure of ﬁrm ﬁnancial performance.
+We expect a negative coefﬁcient on ROA as strong ﬁnan-
+cial performance reduces ﬁrms’ business risk. We include
+year dummies to complete Eq. 1.
+
+Our second through fourth hypotheses suggest that ﬁrm
+size, state ownership, and leverage affect the optimal level of
+CSR. We employ Eq. 2 to examine these three hypotheses:
+CDFit ¼ a0 þ a1  SMALLit  CSRit þ a2  LARGEit
+
+it þ a4  LARGEit
+ CSRit þ a3  SMALLit  CSR2
+it þ a5  STATEit  CSRit þ a6  NSTATEit
+ CSR2
+it þ a8  NSTATEit
+ CSRit þ a7  STATEit  CSR2
+it þ a9  LLEVit  CSRit þ a10  HLEVit
+ CSR2
+it þ a12  HLEVit
+ CSRit þ a11  LLEVit  CSR2
+it þ a13  SIZEit þ a14  STATEOWNit
+ CSR2
+þ a15  LEVit þ a16  ROAit þ a17  GROUPit
+þ a18  INDi þ a19  YEARt þ eit;
+
+ð2Þ
+
+where SMALL is a dummy variable equal to 1 if the ﬁrm
+lies in the bottom 25% of the rankings based on ﬁrm size,
+and 0 otherwise. LARGE is a dummy variable equal to 1 if
+the ﬁrm lies in the top 25% of the rankings based on ﬁrm
+size, and 0 otherwise. STATE is a dummy variable equal to
+1 if the percentage of shares held by the state exceeds 50%
+and 0 otherwise. NSTATE is a dummy variable equal to 1 if
+the percentage of shares held by the state is \50% and 0
+otherwise. LLEV is a dummy variable equal to 1 if the ﬁrm
+lies in the bottom 25% of the rankings based on ﬁrm
+leverage and 0 otherwise. HLEV is a dummy variable equal
+to 1 if the ﬁrm lies in the top 25% of the rankings based on
+ﬁrm leverage and 0 otherwise. SIZE is a dummy variable
+equal to 1 if the ﬁrm size is above the median and 0
+otherwise. Other variables are deﬁned as in Eq. 1.
+
+The optimal CSR level for small ﬁrms (b1) will there-
+fore be  a1=2a3; and the optimal CSR level for large ﬁrms
+(b2) is  a2=2a4: Hypothesis 2 predicts that b1 [ b2. Sim-
+ilarly, the optimal CSR level for state-owned ﬁrms (b3) is
+ a5=2a7; and that for private-owned ﬁrms (b4) is  a6=2a8:
+Hypothesis 3 predicts that b3 \ b4.  a9=2a11 determines
+the optimal CSR level for low leverage ﬁrms (b5), whereas
+the optimal CSR level for high leverage ﬁrms (b6) is
+ a10=2a12: Hypothesis 4 predicts b5 \ b6.
+
+Data
+
+We use the ratio of charitable giving to sales as our mea-
+sure of CSR. We hand-collect charitable giving data from
+ﬁrms’ annual reports. Financial and stock market infor-
+mation is obtained from the China Stock Market and
+Accounting Research (CSMAR) database.2 Our
+initial
+sample consists of all Chinese ﬁrms listed on the Shanghai
+Stock Exchange and the Shenzhen Stock Exchange from
+2007 to 2008. There are 1,682 and 1,770 ﬁrms listed on
+these two exchanges in 2007 and 2008, respectively. We
+require that all ﬁrms have available information to calcu-
+late our empirical variables, reducing the sample size to
+2,833 observations with 1,387 observations in 2007 and
+1,446 in 2008.
+
+Table 1 reports the descriptive statistics of our empirical
+measures as well as the correlation matrix. The average
+donation to sales ratio is 0.06%, which is comparable to the
+0.04% in Brammer and Millington (2008). The mean of the
+CDF is 6.74%. Average state ownership is 23%, average
+ﬁrm size 14.96, average leverage 1.48, and average ROA
+3%. About 85% of sample ﬁrms are afﬁliated to business
+groups.
+
+The correlation matrix indicates that corporate philan-
+thropy is positively related to ﬁrm proﬁtability, and nega-
+tively related to leverage, consistent with Brammer and
+Millington (2008). We also ﬁnd that corporate philanthropy
+is negatively related to ﬁrm size, inconsistent with Bram-
+mer and Millington (2008). As anticipated, CDF is nega-
+tively associated with ﬁrm size, state ownership and
+proﬁtability, and positively associated with ﬁrm leverage.
+The correlation matrix also shows that corporate phi-
+lanthropy is negatively related to CDF but statistically
+insigniﬁcantly. Prior literature indicates that the relation-
+ship between social and ﬁnancial performance is contin-
+gent on a variety of contextual factors including ﬁrm size
+and industry membership (Brammer and Millington 2008),
+hence we need to interpret the correlation matrix results
+
+2 The CSMAR database is developed by Guo Tai An (GTA)
+company, and is widely used in Chinese ﬁnance and management
+research. The CSMAR database can be obtained from the Wharton
+Research Data Services (WRDS).
+
+123
+
+
+202
+
+K. Ye, R. Zhang
+
+Table 1 Summary statistics and correlation matrix
+
+CDF (%)
+
+CSR (%)
+
+SIZE
+
+STATEOWN
+
+LEV
+
+GROUP
+
+ROA
+
+Mean
+
+6.74
+
+0.06
+
+14.96
+
+0.23
+
+1.48
+
+0.85
+
+0.03
+
+SD
+
+13.44
+
+0.12
+
+1.11
+
+0.22
+
+2.31
+
+0.36
+
+0.09
+
+CDF
+
+CSR
+
+SIZE
+
+STATEOWN
+
+LEV
+
+GROUP
+
+-0.018
+
+-0.126*
+
+-0.090*
+
+0.080*
+
+0.058*
+
+-0.111*
+
+-0.073*
+
+-0.152*
+
+-0.048*
+
+-0.063*
+
+0.046*
+
+0.295*
+
+-0.057*
+
+0.061*
+
+0.349*
+
+0.017
+
+0.090*
+
+0.014
+
+0.053*
+
+-0.081*
+
+-0.071*
+
+Note. CSR: the measure of corporate social responsibility, deﬁned as the ratio of corporate charitable giving to sales. CDF: the debt ﬁnancing
+cost, deﬁned as the ratio of ﬁrm’s interest expense to interest-bearing debt outstanding. STATEOWN: the percentage of shares held by the state.
+SIZE: natural logarithm of ﬁrm market capitalization. LEV: the ratio of debt to book value of equity. GROUP: a dummy variable equal to 1 if the
+ﬁrm is a member of a business group and 0 otherwise. ROA: net income divided by total assets. * indicates statistical signiﬁcance at the 5% level
+
+with caution and it is important to control for those con-
+textual factors when we examine the relationship between
+CSR and CDF. All correlation coefﬁcients are \0.4, sug-
+gesting that potential multicollinearity is not a major
+concern.
+
+Empirical Results
+
+Table 2 reports the estimation results of Eq. 1. The coef-
+ﬁcient on CSR is signiﬁcantly negative (a1 = -7.982,
+t = -8.771), and that on CSR2 is signiﬁcantly positive
+(a2 = 11.193, t = 2.645). This suggests a U-shaped rela-
+tionship between CSR and CDF consistent with H1. Based
+on the regression results, we can yield the optimal CSR*
+minimizing the CDF3:
+CSR ¼ 7:982=ð11:193  2Þ ¼ 0:357
+
+This suggests that CDF is negatively related to CSR
+when the CSR level is \0.357, and is positively related to
+CSR when the CSR level exceeds 0.357. We further par-
+tition our sample into two groups based on the results of
+Regression (1): the CSR underinvestment group (ﬁrms with
+CSR levels \0.357) and the CSR overinvestment group
+(ﬁrms with CSR levels [0.357). The Regressions (2) and
+(3) in Table 2 show that the negative relationship between
+CSR and CDF only holds for the CSR underinvestment
+group, and CSR is positively related to CDF for the CSR
+overinvestment group. This suggests that although a good
+CSR reputation may reduce CDF when CSR levels are
+lower than an optimal level, improved CSR may instead
+lead to a higher CDF if CSR investments exceed the
+optimal level. This further corroborates H1.
+
+The R2 of Eq. 1 is quite low—around 7%. This suggests
+that we may omit some important determinants of CDF,
+which may lead to potential endogeneity problem. To
+
+3 The result is the minimum cost of the debt ﬁnancing since the
+second degree derivative is positive (11.193 9 2 [ 0).
+
+123
+
+address such a concern, we also employ the two-stage
+instrumental variable regression method in Table 4. Our
+results remain valid when using the instrumental variable
+method to estimate Eq. 1, indicating that our results are
+robust to the potential endogeneity problem.
+
+Regression (2) in Table 2 also indicates that one stan-
+dard deviation increase in CSR can reduce CDF by 0.83%
+(-6.877 9 0.12 = -0.83%) for the CSR underinvestment
+group, equivalent to 12% of the average CDF for our
+sample (0.83%/6.74% = 12%). This
+is economically
+signiﬁcant.
+
+Both ﬁrm size and ﬁnancial performance are negatively
+related to CDF as predicted by prior literature (Richardson
+and Welker 2001; Sharfman and Fernando 2008; Stinch-
+combe 1965). We do not ﬁnd that group member ﬁrms are
+more likely to get preferential interest rates from banks.
+
+Equation 2 examines the impacts of ﬁrm size, state
+ownership, and leverage on the optimal level of CSR.
+Table 3 shows the regression results of Eq. 2. a1 is
+-42.786 (p \ 0.01), and a3 is 69.943 (p \ 0.01), implying
+a U-shaped relationship between CSR and CDF for small
+for small ﬁrms, b1 ¼
+ﬁrms. The optimal CSR level
+ a1=2a3 ¼ 42:786=2  69:943 ¼ 0:306; which is signiﬁ-
+cantly higher than that for large ﬁrms, b2 ¼  a2=2a4 ¼
+1:517=2  8:250 ¼ 0:092 (a2 and a4 are also insigniﬁcant).
+The joint test of a1 ¼ a2 and a3 ¼ a4 is rejected at the 1%
+level, supporting Hypothesis 2.
+
+a6 is -6.135 (p \ 0.05), and a8 is 15.253 (p \ 0.01),
+implying a U-shaped relationship between CSR and CDF
+for private-owned ﬁrms. The optimal CSR level for pri-
+vate-owned ﬁrms, b4 ¼  a6=2a8 ¼ 6:135=2  15:253 ¼
+0:201; which is higher than that for state-owned ﬁrms,
+b3 ¼  a5=2a7 ¼ 11:815=2  38:325 ¼ 0:154; but the dif-
+ference between b4 and b3 is not signiﬁcant (the joint test
+of a5 ¼ a6 and a7 ¼ a8 is not rejected at the 10% level),
+suggesting that the optimal CSR level does not vary with
+state ownership,
+inconsistent with Hypothesis 3. The
+optimal CSR level for state-owned ﬁrms may be smaller
+
+
+Corporate Social Responsibility and Cost of Debt
+
+203
+
+Table 2 The effect of CSR on debt ﬁnancing cost: OLS regression
+
+Regression (1) Regression (2)
+Dependent variable: CDF
+
+Regression (3)
+
+Full sample
+
+CSR
+underinvestment
+group
+
+CSR
+overinvestment
+group
+
+-7.982***
+
+-6.877***
+
+(-8.771)
+
+(-2.711)
+
+16.229*
+
+(1.801)
+
+11.193***
+
+(2.645)
+
+-1.243***
+
+-1.017***
+
+-4.737
+
+(-5.637)
+
+(-6.460)
+
+(-1.472)
+
+CSR
+
+CSR2
+
+SIZE
+
+STATEOWN
+
+-3.445**
+
+-3.894***
+
+LEV
+
+ROA
+
+GROUP
+
+(-2.541)
+
+-0.003
+
+(-0.730)
+
+(-2.898)
+
+-0.006
+
+(-1.033)
+
+-3.652***
+
+-12.039***
+
+(-4.641)
+
+2.341***
+
+(2.926)
+
+(-16.06)
+
+2.012**
+
+(2.105)
+
+Constant
+
+23.023***
+
+21.224***
+
+(8.174)
+
+(8.179)
+
+15.881*
+
+(1.844)
+
+-1.157
+
+(-1.030)
+
+11.802
+
+(0.274)
+
+7.201
+
+(0.838)
+
+41.990
+
+(0.620)
+
+Table 3 The effects of CSR on debt ﬁnancing cost conditional on
+ﬁrm size, state ownership, and leverage
+
+Coefﬁcients
+Dependent variable: CDF
+
+t statistics
+
+SMALL * CSR
+
+LARGE * CSR
+SMALL * CSR2
+LARGE * CSR2
+STATE * CSR
+
+NSTATE * CSR
+STATE * CSR2
+NSTATE * CSR2
+LLEV * CSR
+
+HLEV * CSR
+LLEV * CSR2
+HLEV * CSR2
+STATEOWN
+
+SIZE
+
+LEV
+
+ROA
+
+GROUP
+
+Constant
+
+-42.786***
+
+-1.517
+
+64.943***
+
+8.250
+
+-11.815
+
+-6.135**
+
+38.325**
+
+15.253***
+
+5.733*
+
+-15.487***
+
+-23.755**
+
+9.906*
+
+-4.067**
+
+-2.196***
+
+0.465*
+
+-3.807***
+
+2.307***
+
+5.594***
+
+-6.46
+
+-1.08
+
+3.13
+
+0.73
+
+-0.70
+
+-2.12
+
+2.24
+
+3.26
+
+1.88
+
+-2.88
+
+-2.45
+
+1.69
+
+-2.17
+
+-10.23
+
+2.27
+
+-5.31
+
+3.22
+
+4.97
+
+Industry and year
+
+Controlled
+
+Controlled
+
+Controlled
+
+Industry and year dummies
+
+Controlled
+
+dummies
+
+Observations
+R2
+
+2,833
+
+0.068
+
+2,733
+
+0.047
+
+100
+
+0.251
+
+Note. t statistics in parentheses. *, **, and *** indicate statistical
+signiﬁcance at the 10, 5, and 1% levels, respectively
+
+due to their lower business risk; on the ﬂip side, the banks
+may also have higher expectations toward the social per-
+formance of state-owned ﬁrms, and tend to punish those
+state-owned ﬁrms failing to fulﬁll their social responsibil-
+ity, which leads to a higher optimal CSR level for state-
+owned ﬁrms. These two mechanisms have opposite effects
+on the optimal CSR level of state-owned ﬁrms, which
+explains to some extent why no signiﬁcant relationship
+between state ownership and optimal CSR level
+is
+documented.
+
+a10 is -15.487 (p \ 0.01) and a12 is 9.906 (p \ 0.10),
+indicating an optimal CSR level of 0.782 for high leverage
+ﬁrms. a9 is 5.733 (p \ 0.10) and a11 is -23.755 (p \ 0.05),
+however, suggesting an inverse U-shaped relationship
+between CSR and CDF in the case of low leverage ﬁrms.
+Low leverage ﬁrms with both extremely low and high CSR
+will have lower debt cost. Although the ‘‘risk mitigation
+hypothesis’’ proposed by Godfrey (2005) suggests a
+U-shaped relationship between CSR and CDF, Brammer
+and Millington (2008) also suggest that ﬁrms with both
+unusually high and low CSR have higher ﬁnancial per-
+formance compared to other ﬁrms, which predicts an
+
+Observations
+R2
+
+2,833
+
+0.070
+
+Note. *, **, and *** indicate statistical signiﬁcance at the 10, 5, and
+1% levels, respectively
+
+inverse U-shaped relationship between CSR and CDF. We
+term this effect as the ‘‘ﬁnancial performance hypothesis.’’
+As low leverage ﬁrms beneﬁt little from CSR investment
+due to their lower business risk, the ‘‘ﬁnancial performance
+effect’’ may dominate the ‘‘risk mitigation effect’’ and
+thereby generates the documented inverse U-shaped rela-
+tionship between CSR and CDF for low leverage ﬁrms.
+
+As both the CSR measure and CDF may be determined
+by some omitted variables, the ordinary least square (OLS)
+results above may suffer from the potential endogeneity of
+the CSR measure. We address this problem by employing
+the instrumental variable approach to re-estimate Eq. 1.
+Our instrumental variables are R&D intensity (R&D) and
+advertising intensity (AD). R&D is deﬁned as the ratio of
+intangible assets to total assets; AD is deﬁned as the ratio of
+selling expenses to sales.4 Prior literature suggests that
+more highly R&D and advertising intensive ﬁrms are more
+likely to make donations (Brammer and Millington, 2008).
+
+4 In China, ﬁrms do not report advertising expense separately. Hence,
+we use selling expense as a proxy for advertising expense. Selling
+expense mainly includes advertising expenditures, sales salaries, and
+commissions. All
+these fees are related to activities aimed at
+promoting sales. Thus, selling expense is an appropriate measure of
+ﬁrms’ advertising intensity (Zhang et al. 2010b).
+
+123
+
+
+204
+
+K. Ye, R. Zhang
+
+Table 4 The effect of CSR on debt ﬁnancing cost: instrumental
+variable regression
+
+Discussion and Conclusion
+
+R&D
+
+AD
+
+CSR
+
+CSR2
+
+SIZE
+
+The ﬁrst stage
+Dependent
+variable: CSR
+
+The second stage
+Dependent
+variable: CDF
+
+0.086**
+
+(2.153)
+
+0.325***
+
+(9.234)
+
+0.012***
+
+(4.160)
+
+-31.401***
+
+(-6.527)
+
+24.828*
+
+(1.708)
+
+-0.903***
+
+(-3.193)
+
+STATEOWN
+
+-0.087***
+
+-6.069***
+
+LEV
+
+ROA
+
+GROUP
+
+Constant
+
+(-6.698)
+
+0.000
+
+(0.117)
+
+0.087***
+
+(4.322)
+
+-0.031***
+
+(-4.177)
+
+(-4.768)
+
+-0.005
+
+(-0.200)
+
+-4.618
+
+(-1.421)
+
+1.470**
+
+(2.067)
+
+-0.152***
+
+21.908***
+
+(-3.174)
+
+(5.082)
+
+Industry and year dummies
+
+Controlled
+
+Controlled
+
+Observations
+
+Log likelihood
+R2
+
+2,829
+
+705.67361
+
+2,829
+
+0.063
+
+Note. t statistics in parentheses. *, **, and *** indicate statistical
+signiﬁcance at the 10, 5, and 1% levels, respectively
+
+In the ﬁrst stage, we regress CSR on R&D and advertising
+intensity, and other exogenous variables. The predicted
+value of CSR is then used on the right-hand side of the
+Eq. 1. As some observations lack R&D and advertising
+intensity data our sample size is reduced to 2,829. Table 4
+reports the two-stage regression results. The results from
+the ﬁrst stage regression document positive relationship
+between CSR and R&D and advertising intensity as pre-
+dicted by prior literature (Brammer and Millington 2008),
+suggesting that R&D and advertising intensity are appro-
+priate instrumental variables for CSR. The results from the
+second stage regression show that CDF is negatively
+related to CSR and is positively related to CSR2. This is
+consistent with the predictions of H1, suggesting that our
+results are robust to the instrumental variable approach.
+
+We also include the ratio of long-term loans over total
+loans to control for the impacts of a ﬁrm’s ﬁnancing
+strategy on CDF. Unreported results suggest our main
+results keep valid.
+
+123
+
+Prior literature has examined the impacts of CSR on CFP
+from such perspectives as sales growth (Lev et al. 2010),
+organizational commitment (Turker 2009), and improved
+production efﬁciency (Porter and Linde 1995). This article
+approaches the link between CSR and CFP from the per-
+spective of CDF. Using ﬁrm-level data from Chinese stock
+exchanges from 2007 to 2008, we ﬁnd that improved CSR
+reduces CDF for CSR below an optimal level; however, the
+impact of CSR on CDF is reversed when CSR exceeds the
+optimal level. Firms with extremely low or extremely high
+CSR levels are subject to higher CDF. This suggests that
+the relationship between CSR and CDF is more complex
+than the simple linear relationship suggested by prior
+studies (e.g., Sharfman and Fernando 2008). The U-shaped
+relationship between CSR and CDF revealed by our ﬁnd-
+ings also suggests the existence of an ‘‘optimal’’ CSR level.
+The results further indicate that the optimal CSR level
+varies with ﬁrm size.
+
+for
+
+implications
+
+Our ﬁndings offer useful
+
+future
+research. The extant literature generally assumes a mono-
+tonic link between CSP and cost of debt capital (e.g.,
+Sharfman and Fernando 2008). The U-shaped relationship
+documented by our article suggests that a linear assumption
+may mask the true relation between CSP and cost of debt
+capital, leading to mixed or even misleading results. Future
+research in this ﬁeld should be more cautious in developing
+research design.
+
+Our study also provides new insights on the link
+between CSR and CDF by extending the extant research to
+the context of developing markets. Prior studies in this ﬁeld
+are primarily conducted in the context of developed mar-
+kets, where ﬁrms primarily rely on private-controlled banks
+to ﬁnance their debt capital needs. The results from the
+extant literature may not hold for developing markets such
+as China where the corporate debt is primarily ﬁnanced by
+state-controlled banks (Tian and Estrin 2007; Chen et al.
+2010). State-controlled banks are less concerned about
+economic proﬁts and usually follow the strategic direction
+of the government, such as full employment, poverty relief,
+and environmental protection (Tian and Estrin 2007; Chen
+et al. 2010), which suggests that state-controlled banks may
+assign a larger weight to CSR information when they make
+loan decisions than private-controlled banks. This can
+explain to some extent why we document a signiﬁcant
+relationship between CSR and CDF in China whereas Goss
+and Roberts (2009) do not in the US.
+
+The U-shaped relationship between CSR and CDF
+also raises an interesting question why some ﬁrms operate
+at
+super-optimal CSR levels. We provide
+three explanations for the U-shaped relationship between
+CSR and CDF. Our ﬁrst explanation is based on ﬁrms’
+
+sub- or
+
+
+Corporate Social Responsibility and Cost of Debt
+
+205
+
+departures from the optimal level of CSR. The U-shape
+suggests that the ﬁrms operating at sub-optimal CSR levels
+can reduce CDF by improving CSP. As ﬁrms with extre-
+mely low CSR are generally small and ﬁnancially under-
+performing (Brammer and Millington 2008), however, they
+may lack sufﬁcient ﬁnancial resources to increase their
+CSR levels. The U-shape also implies that the ﬁrms oper-
+ating at super-optimal CSR levels can reduce debt cost by
+investing less on CSR. However, Bartkus et al. (2002)
+suggest that managers tend to overinvest in philanthropy
+for managerial self-interests and therefore are reluctant to
+reduce ﬁrms’ CSR levels. With the existence of both
+resource constraint and agency conﬂicts, we expect that
+some ﬁrms may not operate at the optimal level of CSR.
+Our second explanation argues that ﬁrms depart from the
+optimal CSR level from the lenders’ viewpoint because
+different types of stakeholders have different optimal CSR
+levels. For example, we ﬁnd a positive relationship between
+equity ﬁnancing cost and CSR for Chinese listed ﬁrms
+(Pearson’s correlation coefﬁcient = 0.054, p value =
+0.028), suggesting that stockholders may prefer a lower
+optimal CSR level and therefore ﬁrms operate at sub-
+optimal CSR levels.
+
+Our third explanation assumes that all ﬁrms operate at
+the optimal CSR levels which happen to be different for
+each ﬁrm. The ﬁrms with higher CDF tend to be: (i) small
+or (ii) highly risky. For the ﬁrst case, as societal expecta-
+tion of a ﬁrm’s social obligations is positively related to
+ﬁrm size (Brammer and Millington 2008), small ﬁrms
+therefore should have lower CSR level. For the second
+case, as highly risky ﬁrms will beneﬁt more from the
+insurance provided by CSR, the optimal level of CSR will
+be higher for those risky ﬁrms. Hence, the ﬁrms with
+higher CDF will have either lower (for the ﬁrst case) or
+higher (for the second case) CSR levels compared to the
+ﬁrms with lower CDF, which will exhibit a U-shaped
+relationship between CDF and CSR. As ﬁrms may operate
+at or depart from the optimal
+level of CSR, a more
+appropriate explanation for the U-shaped relationship will
+be a combination of the above three arguments.
+
+it has several
+
+Although this study sheds new light on the link between
+limitations that may be
+CSP and CFP,
+addressed in future research. First, our research focuses only
+on CDF and ignores other dimensions of CFP. The U-shaped
+relationship may not hold for other dimensions of ﬁnancial
+performance. Second, our research is conducted in the
+context of China. Although China is an important develop-
+ing market and provides sufﬁcient variation in ﬁrm CSR to
+test our hypotheses, our results may not generalize to other
+markets due to the great institutional and organizational
+differences between markets. Future research may examine
+the relationship between CSP and other dimensions of CFP
+
+and conduct the research in other markets to better under-
+stand the CSP–CFP link.
+
+Acknowledgments This article is sponsored by the National
+Natural Science Foundation of China (Approval No. 71072145,
+70802003, and 70532002) and the Fundamental Research Funds for
+the Central Universities, and the Research Funds of Renmin Uni-
+versity of China (No. 10XNK141). We also would like to express our
+most sincere appreciation to three anonymous reviewers for their
+constructive comments.
+
+References
+
+Anderson, R. C., Mansi, S. A., & Reeb, D. M. (2004). Board
+characteristics, accounting report integrity and the cost of debt.
+Journal of Accounting and Economics, 37, 315–342.
+
+Barnett, M. L.
+
+(2007). Stakeholder
+
+inﬂuence capacity and the
+variability of ﬁnancial returns to corporate social responsibility.
+Academy of Management Review, 32(3), 794–816.
+
+Bartkus, B. R., Morris, S. A., & Seifert, B. (2002). Governance and
+corporate philanthropy: Restraining Robin Hood? Business and
+Society, 41(3), 319–344.
+
+Bassen, A., Meyer, K., & Schlange, J. (2006). The inﬂuence of
+corporate responsibility on the cost of capital. Working paper,
+University of Hamburg and Schlange & Co.
+
+Beurden, P. V., & Gossling, T. (2008). The worth of values: A literature
+review on the relation between corporate social and ﬁnancial
+performance. Journal of Business Ethics, 82(2), 407–424.
+
+Bhattacharya, C. B., & Sen, S. (2004). Doing better at doing good:
+When, why, and how consumers respond to corporate social
+initiatives. California Management Review, 47(1), 9–25.
+
+Boyle, E. J., Higgins, M. M., & Rhee, G. S. (1997). Stock market
+reaction to ethical initiatives of defense contractors: Theory and
+evidence. Critical Perspectives on Accounting, 8(6), 541–561.
+
+Brammer, S., Brooks, C., & Pavelin, S. (2006). Corporate social
+performance and stock returns: UK evidence from disaggregate
+measures. Financial Management, 35(3), 97–116.
+
+Brammer, S., & Millington, A. (2008). Does it pay to be different? An
+analysis of the relationship between corporate social and ﬁnancial
+performance. Strategic Management Journal, 29(12), 1325–1343.
+Bushman, R. M., Piotroski, J. D., & Smith, A. J. (2004). What
+determines corporate transparency. Journal of Accounting
+Research, 42(2), 207–252.
+
+Chen, H., Chen, J. Z., Lobo, G. J., & Wang, Y. (2010). Association
+between borrower and lender state ownership and accounting
+conservatism. Journal of Accounting Research, 48(5), 973–1014.
+Dhaliwal, D., Li, O. Z., Tsang, A., & Yang, Y. G. (2009). Voluntary
+non-ﬁnancial disclosure and the cost of equity capital: the case of
+corporate social responsibility reporting. Working paper, Uni-
+versity of Arizona and The Chinese University of Hong Kong.
+Fama, E. F., & French, K. R. (2005). Financing decisions: Who issues
+
+stock? Journal of Financial Economics, 76(3), 549–582.
+
+Francis, J., LaFond, R., Olsson, P., & Schipper, K. (2005). The market
+pricing of accruals quality. Journal of Accounting and Econom-
+ics, 39(2), 295–327.
+
+Francis, J., Nanda, D., & Olsson, P. (2008). Voluntary disclosure,
+earnings quality, and cost of capital. Journal of Accounting
+Research, 46(1), 53–99.
+
+Friedman, M. (1970). The social responsibility of business is to
+
+increase its proﬁts. New York Times Magazine, September 13.
+
+Gao, Y. (2009). Corporate social performance in China: Evidence
+from large companies. Journal of Business Ethics, 89(1), 23–35.
+
+123
+
+
+206
+
+K. Ye, R. Zhang
+
+Saiia, D. H., Carroll, A. B., & Buchholtz, A. K. (2003). Philanthropy
+as strategy: When corporate charity ‘‘Begins at Home’’. Business
+and Society, 42(2), 169–201.
+
+Sharfman, M. P., & Fernando, C. S. (2008). Environmental risk
+management and the cost of capital. Strategic Management
+Journal, 29(6), 569–592.
+
+Smith, C. (1994). The new corporate philanthropy. Harvard Business
+
+Review, (May–June), 105–115.
+
+Spicer, B. H. (1978). Investors, corporate social performance and
+information disclosure: An empirical study. The Accounting
+Review, 53(1), 94–111.
+
+Stinchcombe, A. L. (1965). Social structure and organizations. In
+J. G. March (Ed.), Handbook of organizations. Chicago: Rand-
+McNally.
+
+Tian, L., & Estrin, S. (2007). Debt ﬁnancing, soft budget constraints,
+and government ownership. Economics of Transition, 15(3),
+461–481.
+
+Tirole, J.
+
+(2006). The theory of corporate ﬁnance. Princeton:
+
+Princeton University Press.
+
+Turker, D. (2009). How corporate social responsibility inﬂuences
+organizational commitment. Journal of Business Ethics, 89(2),
+189–204.
+
+Ullmann, A. A. (1985). Data in search of a theory: A critical
+examination of the relationships among social performance,
+social disclosure, and economic performance of U.S. ﬁrms.
+Academy of Management Review, 10(3), 540–557.
+
+Vanhamme, J., & Grobben, B. (2009). Too good to be true! The
+effectiveness of CSR history in countering negative publicity.
+Journal of Business Ethics, 85(2), 273–283.
+
+Wang, Q., Wong, T. J., & Xia, L.
+
+(2008). State ownership,
+institutional environment and auditor choice: Evidence from
+China. Journal of Accounting and Economics, 46(1), 112–134.
+Wright, P., & Ferris, S. P. (1997). Agency conﬂict and corporate
+strategy: The effect of divestment on corporate value. Strategic
+Management Journal, 18(1), 77–83.
+
+Zhang, R., & Rezaee, Z. (2009). Do credible ﬁrms perform better in
+emerging market? Evidence from China. Journal of Business
+Ethics, 90(2), 221–237.
+
+Zhang, R., Rezaee, Z., & Zhu, J. (2010a). Corporate philanthropic
+disaster response and ownership type: Evidence from Chinese
+ﬁrms’ response to the Sichuan earthquake. Journal of Business
+Ethics, 91(1), 51–63.
+
+Zhang, R., Zhu, J., Yue, H., & Zhu, C.
+
+(2010b). Corporate
+philanthropic giving, advertising intensity, and industry compe-
+tition level. Journal of Business Ethics, 94(1), 39–52.
+
+Garber, S., & Hammitt, J. K. (1998). Risk premiums for environ-
+mental liability: Does superfund increase the cost of capital?
+Journal of Environmental Economics and Management, 36(3),
+267–294.
+
+Gebhardt, W. R., Lee, C. M. C., & Swaminathan, B. (2001). Toward
+an implied cost of capital. Journal of Accounting Research,
+39(1), 135–176.
+
+Godfrey, P. C. (2005). The relationship between corporate philan-
+thropy and shareholder wealth: A risk management perspective.
+Academy of Management Review, 30(4), 777–798.
+
+Goss, A., & Roberts, G. S. (2009). The impact of corporate social
+responsibility on the cost of bank loans. Working paper, Ryerson
+University and York University.
+
+Lee, D. D., & Faff, R. W. (2009). Corporate sustainability perfor-
+mance and idiosyncratic risk: A global perspective. The Finan-
+cial Review, 44(2), 213–237.
+
+Lev, B., Petrovits, C., & Radhakrishnan, S. (2010). Is doing good for
+you? How corporate charitable contribution enhance revenue
+growth. Strategic Management Journal, 31(2), 182–200.
+
+Li, W., & Zhang, R.
+
+responsibility,
+ownership structure, and political interference: Evidence from
+China. Journal of Business Ethics, 96(4), 631–645.
+
+(2010). Corporate social
+
+Lin, J. Y., & Tan, G. (1999). Policy burdens, accountability, and the
+soft budget constraint. The American Economic Review, 89(2),
+426–431.
+
+Mackey, A., Mackey, T. B., & Barney, J. B. (2007). Corporate social
+responsibility and ﬁrm performance: Investor preferences and
+corporate strategies. Academy of Management Review, 32(3),
+817–835.
+
+Margolis, J. D., & Walsh, J. P. (2003). Misery loves companies:
+Rethinking social initiatives by business. Administrative Science
+Quarterly, 48(2), 268–305.
+
+McGuire, J. B., Sundgren, A., & Schneeweis, T. (1988). Corporate
+social responsibility and ﬁrm ﬁnancial performance. Academy of
+Management Journal, 31(4), 854–872.
+
+Orlitzky, M., Schmidt, F. L., & Rynes, S. L. (2003). Corporate social
+and ﬁnancial performance: A meta-analysis. Organization Sci-
+ence, 24(3), 403–441.
+
+Peloza, J. (2006). Using corporate social responsibility as insurance
+for ﬁnancial performance. California Management Review,
+48(2), 52–72.
+
+Porter, M. E., & Kramer, M. R. (2002). The competitive advantage of
+corporate philanthropy. Harvard Business Review, (December),
+56–68.
+
+Porter, M. E., & Linde, C. v. d. (1995). Green and competitive:
+Ending the stalemate. Harvard Business Review, (September–
+October), 120–135.
+
+Richardson, A. J., & Welker, M. (2001). Social disclosure, ﬁnancial
+disclosure and the cost of equity capital. Accounting, Organi-
+zations and Society, 26(7–8), 597–616.
+
+123
+

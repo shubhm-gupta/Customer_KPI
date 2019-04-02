@@ -1,0 +1,1176 @@
+ 
+ 
+Gaining Comparative Advantage Through Discretionary Expenditures: The Returns to R&D
+and Advertising
+Author(s): Gary Erickson and  Robert Jacobson
+Source: Management Science, Vol. 38, No. 9 (Sep., 1992), pp. 1264-1279
+Published by: INFORMS
+Stable URL: http://www.jstor.org/stable/2632633
+Accessed: 02-08-2017 20:41 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+INFORMS is collaborating with JSTOR to digitize, preserve and extend access to Management
+Science
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MANAGEMENT SCIENCE
+ Vol. 38, No. 9, September 1992
+
+ Printted itn U.S.A.
+
+ GAINING COMPARATIVE ADVANTAGE THROUGH
+ DISCRETIONARY EXPENDITURES: THE RETURNS
+
+ TO R&D AND ADVERTISING*
+
+ School of Business Administration, University of Washington, Seattle, Washington 98195
+
+ GARY ERICKSON AND ROBERT JACOBSON
+
+ We explore the extent to which R&D and advertising expenditures generate a comparative
+ advantage that allows firms to earn supranormal profits, After controlling for unobserved firm-
+ specific factors and the feedback between discretionary expenditures and profitability, our results
+ suggest substantially lower accounting and stock market returns to R&D and advertising than
+ indicated in previous research. Isolating mechanisms, which prevent imitation, do not appear
+ sufficient for either R&D or advertising expenditures to generate, on the average, a long-run
+ comparative advantage.
+ (R&D; ADVERTISING; COMPETITIVE ADVANTAGE; STOCK MARKET RETURN; AC-
+ COUNTING RETURN; DISCRETIONARY EXPENDITURES)
+
+ 1. Introduction
+
+ Contemporary strategic thinking posits that achieving superior performance requires
+ a business to possess a comparative advantage. Indeed, Rumelt ( 1979) argues that "a
+ strategy that does not either create or exploit an asymmetry constituting an advantage
+ must be rejected." How a business might obtain an advantage over its competition, for
+ example, by increasing its R&D and advertising expenditures, is a central focus of strategy
+ research. R&D-based strategies attempt to generate knowledge assets that allow the firm
+ to develop either superior products or more efficient production techniques. Advertising
+ seeks to differentiate the firm's product from those of competitors. Despite the postulated
+ importance of these expenditures, U.S. firms have been criticized for failing to commit
+ to expenditures in both R&D and advertising.
+
+ Particularly because of its successful use by Japanese firms, increased attention is being
+ focused on the role of R&D in creating a comparative advantage. Hayes and Abernathy
+ ( 1980) state that "our experience suggests that, to an unprecedented degree, success in
+ most industries today requires an organizational commitment to compete in the mar-
+ ketplace on technological grounds-that is, to compete over the long run by offering
+ superior products." Yet, they and others contend that U.S. managers, motivated by a
+ desire for immediate results, have directed their attention elsewhere. This short-run ori-
+ entation often precludes firms from making the necessary investment in R&D required
+ for the sustained viability of their products and markets.
+
+ While R&D is crucial in many industries, comparative advantage can also be attained
+ through a differentiation strategy based on advertising. Advertising can enhance brand
+ name recognition. It can also create a reputation premium so that the brand commands
+ a higher price relative to competing products that may be identical in terms of physical
+ features. Further, potential competitors may be discouraged from entering an advertising
+ intensive market because of the amount of money that must be spent on advertising to
+ overcome the established brand loyalty of existing competitors. Yet, many analysts note
+ that the same lack of commitment shown to R&D expenditures exists with respect to
+ advertising expenditures. Many of the benefits of advertising are long term in nature.
+
+ * Accepted by Vijay Mahajan; received October 12, 1990. This paper has been with the authors 6 2 months
+
+ for 3 revisions.
+
+ 1264
+
+ 0025- 1909/92/3809/1 264$0 1.25
+
+ Copyright (C 1992, The Institute of Management Sciences
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1265
+
+ Advertising is often viewed as a "luxury item" with no clear association with firm success.
+ As such, it is frequently targeted as a vehicle for reducing current expenses.
+
+ The failure to commit to expenditures, which may hurt current-term earnings but are
+ necessary for long-term competitive success (if not survival), is often blamed on the
+ myopic orientation of stock market participants and the pressures they place on managers.
+ The concern is that stock market participants (especially institutional investors) place
+ too great an emphasis on current-term results and have demonstrated a preoccupation
+ with current year (or even quarter) profits. Studies of decision rules of when to sell stock
+ highlight "sell when 12-month earnings decline" as one of the best performing rules-of-
+ thumb. The implication for managers is either get current-term earnings up or lose investor
+ confidence. Rappaport (1987) states that "managers who ignore the important signals
+ from stock price-particularly in today's environment of corporate takeovers and re-
+ structurings-do so at their peril." Managers are posited to adopt a current year/current
+ quarter style of management in response to the incentives in the stock market. As ad-
+ vertising and R&D often adversely affect current period earnings, this can explain firms'
+ reluctance to make these expenditures.
+
+ However, empirical evidence from a variety of scholars contradicts the position that
+ the market does not reward R&D and advertising expenditures. Studies, though differing
+ somewhat in their assessment of the extent of the effect, consistently conclude that stock
+ prices react favorably, and rather dramatically, to increases in these discretionary expen-
+ ditures.' For example, Griliches (1981) finds based on his analysis of the effect of R&D
+ on Tobin's q, which measures the market value of the firm divided by the replacement
+ value of tangible assets, that "the long-run effect of a dollar of R&D is to add about $2
+ to the market value of the firm." Pakes (1985) reports that "a $ 100 unexpected increase
+ in R&D is associated with research and patent activity that have increased the value of
+ the firm by $1,870." Jaffe (1986) estimates that "the market apparently places more than
+ three times as much value on a dollar of R&D stock as on a dollar of capital stock." The
+ estimated main effects of advertising on Tobin's q in Salinger (1984) range from 1.32 to
+ 2.72. Connolly and Hirschey (1984) indicate that advertising, like R&D, has a large
+ positive and statistically significant effect on increasing the spread between the market
+ value and the book value of assets.
+
+ This creates a paradox. Despite the high estimated return on investment and the fa-
+ vorable market reaction, the share of industrial resources allocated to R&D and advertising
+ have not increased commensurately. Why have not more funds been directed towards
+ R&D and advertising if the rate of return to these expenditures is so high? Do advertising
+ and R&D expenditures tend to generate a comparative advantage? What signals does
+ the stock market send to managers with respect to discretionary spending? This paper
+ addresses these issues.
+
+ 2. A Market Signaling Interpretation of the Stock Market's
+
+ Reaction to Discretionary Expenditures
+
+ Wensley (1982), Barney (1986), and others argue that easily implementable strategies,
+ e.g., increasing expenditure levels, will already have been acted upon by market partic-
+ ipants. As such, these types of strategies should not provide abnormal returns. Wensley
+ (1982) suggests that the possibility of misinterpretation be considered thoroughly before
+ interpreting empirical results as implying market inefficiency. We hypothesize that the
+ positive association of stock return with discretionary expenditures reported in previous
+
+ ' This favorable stock market reaction is consistent with empirical work reporting that these expenditures
+ generate positive accounting returns. Capon, Farley, and Hoenig ( 1990) conclude, based on a meta analysis of
+ 320 profitability studies, that "Dollars spent on R&D have an especially strong relationship to increased prof-
+ itability. Investment in advertising is also worthwhile."
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1266 GARY ERICKSON AND ROBERT JACOBSON
+
+ studies does not necessarily imply supranormal returns for these expenditures, but rather
+ may result from a joint association of stock return and discretionary spending with a
+ firm's profitability. The stock market reacts favorably to higher discretionary expenditures
+ not because of their impact on profitability but rather because the market interprets them
+ as signals of higher firm profitability.2
+
+ A number of researchers, e.g., Grabowski and Mueller (1978), Ben-Zion (1984),
+ Switzer ( 1984), have posited that internal funding, i.e., profitability, is crucial in deter-
+ mining the level of discretionary expenditures. R&D and advertising expenditure decisions
+ should be based on the same economic considerations as other investments, i.e., the
+ present discounted value of the future stream of earnings. However, important differences
+ exist between the types of investments. The earnings streams associated with R&D and
+ advertising are subject to more uncertainty than other investments, e.g., plant and equip-
+ ment. The uncertainty about an R&D project, as well as business secrets involved in
+ details of the project, may require the firm to rely more on internal financing rather than
+ using the financial markets for borrowing. Thus, a firm's current earnings are crucial for
+ financing discretionary expenditures. Further, many firms regard these expenditures not
+ as necessary but rather as luxury items that are justified more readily in a period of
+ comparable prosperity. Discretionary expenditures are likely to be higher when a firm
+ has a higher ROI or when it has greater access to funds. Conversely, expenditures decrease
+ when firms are constrained by low earnings/low ROI, or are subject to more immediate
+ pressures on funds, e.g., substantial interest payments due to the assumption of debt.
+
+ As such, firms increasing their advertising or R&D expenditures provide a signal to
+ the market that they have the enhanced discretionary funds (profits) required to undertake
+ these activities. Stock prices should be expected to react favorably to this signal. Therefore,
+ a favorable market reaction to increases in discretionary expenditure does not necessarily
+ attest to these expenditures generating abnormal returns. In order to discriminate between
+ discretionary expenditures generating abnormal returns versus discretionary expenditures
+ resulting from abnormal returns, i.e., a market signaling phenomenon, the effect of firm
+ profitability needs to be considered. However, previous studies of market reaction, whether
+ based on stock return or Tobin's q, to discretionary expenditures have not controlled
+ for firm profitability. The results from these studies, therefore, must be viewed cautiously
+ because of the risk of omitted variable bias.
+
+ 3. Stock Market Reaction to Discretionary Expenditures
+
+ In order to assess the extent of this bias we first look at the stock market's reaction to
+ discretionary expenditures not controlling for differences in firm profitability and then
+ assess the reaction when controlling for firm profitability.
+
+ Data
+
+ The data used in the study come from Standard and Poor's 1986 Compustat database,
+ which provides annual accounting and stock market information for 20-year periods for
+ industrial companies listed on the New York, American, and OTC stock exchanges.3
+ The sample of companies used in the analysis consists of those firms reporting their
+ advertising, which includes both media and promotional expenses, and R&D expenditures
+ continuously for the period 1972 through 1986. Our sample period begins in 1972 as
+ prior to this time relatively few firms reported their expenditures on advertising and
+ R&D. We impose the additional requirement that the companies have a December fiscal
+ year to ensure a correspondence between the accounting information and stock price,
+
+ 2 This market signaling argument is analogous to discussions of why the market reacts favorably to dividend
+
+ announcements (Miller and Rock 1985).
+
+ 3 The description of each variable used in our analysis is contained in the Appendix.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1267
+
+ which is reported at year end. Ninety-nine firms meet these criteria and are utilized in
+ the analysis.4
+
+ Empirical Analysis
+
+ The efficient markets hypothesis posits that stock return will be uncorrelated with any
+ information observed in an earlier time period, i.e., stock prices are a random walk.
+ Market participants incorporate all available information influencing stock prices into
+ the current price of the stock. As such, onlv unanticipated changes in variables should
+ be associated with stock return. An extensive literature in this area has concluded that
+ the manner in which stock prices react to information is in close correspondence with
+ this hypothesis. Whether it be, for example, earnings, money supply, inflation, or trade
+ deficit announcements, the key consideration as to its effect on stock prices is the extent
+ of its deviation from market expectations.
+
+ Two basic approaches have been used in obtaining measures of the unanticipated
+ components of series. One approach uses survey data of market expectations. Unan-
+ ticipated measures are defined as the difference between the actual value and the survey
+ measure. In the absence of survey measures, or because of problems associated with
+ obtaining accurate estimates of market participants' expectations, the other widely used
+ approach is based on forecasts from regression or time series models as a proxy for
+ expectations. The difference between the actual value and the predicted value, i.e., the
+ regression residual, is used as an estimate of the unanticipated component. As survey
+ measures are unavailable, we utilize this latter approach. Following Griliches ( 1981 ),
+ we use the residuals from a second-order vector autoregression as estimates of our
+ unanticipated measures. We calculate estimates of unanticipated R&D and advertising
+ expenditures as deviations from the amount predictable based on the lagged one- and
+ two-year past values of R&D, advertising, and an accounting profitability measure, i.e.,
+ the ratio of operating income gross of expenditures on advertising and R&D to assets
+ (labeled ROI +).5
+
+ Equation ( 1.1 ) of Table 1 reports the results of regressing stock return on unanticipated
+
+ R&D and advertising expenditures, and on annual dummy variables that control for
+ yearly differences. Both types of expenditures have statistically significant positive effects
+ on stock return. The estimated coefficients, 4.649 and 3.317, suggest substantial positive
+ market reaction to these expenditures. These estimated effects are consistent with con-
+ clusions reached in other studies.
+
+ Despite the widespread acceptance of these empirical results, we view them cautiously.
+ Equation ( 1. 1 ) does not take into account the discretionary nature of these expenditures.
+ As discussed previously, we postulate that firms with higher profits spend more on both
+ advertising and R&D. Firms with higher profits will also have higher stock returns. As
+ such, the correlation of stock return with advertising and R&D, or at least part of it,
+ might be a spurious association reflecting a joint association with firm profit performance.
+ To determine the effects of R&D and advertising on stock return it is necessary to control
+ for the effects of firm profits.
+
+ 4 We require as long as possible a time period for a firm to be included in the data base, because the empirical
+ methods used can be sensitive to a small number of time periods (Anderson and Hsiao 1982). The selection
+ process reduces the generality of the results. The sample is not representative of all firms as, for instance, it does
+ not include young firms, firms that have failed, nor those not included in the Compustat Industrial data base.
+ However, firms in the sample are of importance in their own right (the sample is comprised heavily of firms
+ from the S&P 400 Industrials Index and includes some of the most visible companies in the U.S., e.g., General
+ Electric, Minnesota Mining and Manufacturing, Polaroid, Ford, Colgate-Palmolive) and some universality can
+ be expected.
+
+ 5 We also deflate the R&D and advertising series by the level of assets at the beginning of the period to adjust
+
+ for size effects.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1268 GARY ERICKSON AND ROBERT JACOBSON
+
+ Stock Market Reaction to R&D and Advertising Expendituresa
+
+ TABLE 1
+
+ (#obs= 1287b)
+
+ Equation
+
+ Association of Stock Return with R&D and Advertising
+
+ (1.1) StkRi, = 4.649r&di, + 3.317advi, + i
+
+ (1.265)C (.492)
+
+ Mean (Std Dev) of Dependent Variable = 0.213 (0.489)
+ Mean Square Error = 0.191
+ Adj R 2 = 0.200
+
+ Association of Stock Return with R&D and Advertising Controlling for Accounting Return
+
+ (1.2) StkRi, = 2.918roi+ - 2.488r&di - 2.357advi, + i
+
+ (0.189) (1.250) (0.582)
+
+ Mean (Std Dev) of Dependent Variable = 0.213 (0.489)
+ Mean Square Root = 0.161
+ Adj R 2 = 0.327
+
+ a Each equation also includes annual dummy variables.
+ b The analysis is based on 13 of the 15 years of available data because of the use of the residuals
+
+ from a second-order vector autoregression as estimates of the unanticipated measures.
+
+ c Standard errors in parentheses.
+
+ Equation ( 1.2) provides the results of regressing stock return on the unanticipated
+ values of ROI +, advertising, and R&D, i.e., roi+, adv, and r&d, respectively, and the
+ yearly dummy variables. Unanticipated ROI+, as well as unanticipated R&D and ad-
+ vertising, are significantly related to stock return. Consistent with the stream of literature
+ on the information content of accounting information, e.g., Ball and Brown ( 1968),
+ Jacobson (1987), the results indicate that accounting return reflects information that
+ stock market participants deem important as to profit performance. When the effect of
+ ROI + is taken into account, the explanatory power of the model increases and the esti-
+ mated effects of R&D and advertising differ dramatically from that reported in equation
+ ( 1.1 ). While unanticipated ROI + has a positive effect (2.918), unanticipated R&D and
+ advertising have negative effects (-2.488 and -2.357, respectively). Indeed, we cannot
+ reject the hypothesis that the coefficients for the discretionary expenditures are of the
+ same magnitude but of the opposite sign from ROI +. This supports the practice of ag-
+ gregating these components of operating income together to form a more conventional
+ ROI measure, i.e., ROI = ROI+ - R&D - Adv.6
+
+ Replication
+
+ In order to assess the generalizability of our findings, we undertook additional analysis
+ on a different data base. This replication involves assessing for Japanese firms the impact
+ of R&D and advertising expenditures, controlling for current-term accounting profits,
+ on stock return. The accounting and stock return data for Japanese companies come
+
+ 6 Analysis undertaken on a larger number of firms, those NYSE and AMEX companies reporting R&D and
+
+ advertising expenditures in Compustat for all or any part of the period 1972-1986, generates these same con-
+ clusions. Based on 3891 total observations, unanticipated ROI+ had a significant positive effect on stock return
+ while the unanticipated components of R&D and advertising had significant negative effects. We could not
+ reject the hypothesis that the coefficients for the discretionary expenditures were of the same magnitude but of
+ the opposite sign from ROI+. Other sensitivity tests also failed to alter this conclusion. For example, analysis
+ of different time periods and separation of firms primarily involved in consumer goods from those marketing
+ industrial products generated these same results.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1269
+
+ from two sources. The annual balance sheet and income statement items come from the
+ Japan Development Bank. Firms with a March fiscal year, the most common for Japanese
+ companies, were selected for the analysis if they reported their advertising and R&D
+ expenditures continuously for the period April 1972 through March 1987. Annual stock
+ return information for these April-March years was calculated based on monthly return
+ data compiled by the Japan Securities Research Institute of firms listed on the First
+ Section of the Tokyo Stock Exchange. The sample consists of those firms covered by
+ both the Japan Development Bank and the Japan Securities Research Institute tapes. A
+ total of 2,115 observations ( 141 firms for 15 years) were available for analysis.
+
+ Analogous to the analysis of the U.S. data, for these Japanese firms we regressed their
+ stock return on the unanticipated components of R&D, advertising, and ROI , i.e., the
+ residuals from a second-order vector autoregression. The results from this analysis of
+ Japanese are in close correspondence to those reported for the U.S.7 ROI+ has a significant
+ positive (3.93) effect on stock return; R&D and advertising have significant negative
+ effects, -5.14 and -3.80, respectively. The hypothesis that the coefficients for the dis-
+ cretionary expenditures are of the same magnitude but of the opposite sign from ROI+
+ cannot be rejected. The results presented in equation ( 1.2) are not unique to our particular
+ sample of firms, or for that matter, the U.S. financial markets.
+
+ Interpretation
+
+ The negative coefficients suggest that to the extent they do not influence current-term
+ profits, the stock market reacts adversely to R&D and advertising expenditures. The
+ positive correlations found in equation ( 1.1 ) reflect not the impact of the discretionary
+ expenditures but rather the joint impact of firm profitability on both stock return and
+ spending levels. Failure to take into account the effect of profit performance generates
+ substantial bias in the estimates of the market reaction to discretionary expenditures.
+
+ These results indicate that the stock market does not reward, in and of itself, spending
+ on advertising and R&D. In fact, the market views these activities as expenses reducing
+ the profitability of the firm. This is not to say that these discretionary expenditures have
+ no, or a negative, influence on stock return. Rather, the results indicate that the market
+ only rewards these expenditures to the extent that they influence ROI, i.e., generate
+ current-period operating income. The notion that the market rewards activities to the
+ extent they influence profitability is hardly unexpected.
+
+ What is unexpected is that the effects of advertising and R&D are reflected completely
+ in information contained in current-term accounting ROI. Given the widely discussed
+ limitations and deficiencies of accounting ROI, this is surprising. Indeed, Benston ( 1985)
+ feels that one of the primary limitations of ROI is that it does not take into account the
+ long-term benefits generated by expenditures on R&D and advertising. The long-term
+ benefits of advertising and R&D will not be reflected in current-term ROI. Therefore,
+ they should have an autonomous positive effect on stock return.
+
+ One explanation for the lack of an autonomous impact of R&D and advertising is
+
+ that their effects occur primarily in the current year. Most studies of the carryover effects
+ of advertising conclude that the primary effects do not last beyond a year. While advertising
+ expenditures can yield very long-term effects to the extent that they establish a brand
+ name, considerable uncertainty surrounds these effects. Many firms have decided it is in
+ their best interests to buy firms with established brand name products (and pay a premium
+ well above the value of the tangible assets) instead of attempting to develop a new brand
+
+ 7The estimated equation for the Japanese data is:
+
+ StkRl R 3.933roi-it - 5.1388r&dkii- 3.8O4adviv ? ci.
+
+ std. err. (0.267) (1.6 14) (0.664)
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1270 GARY ERICKSON AND ROBERT JACOBSON
+
+ name. Given the uncertainty of the long-term effects, market participants may discount
+ advertising expenditures that do not yield current-term profits.
+
+ Few, if any, plausible scenarios limit R&D to only a contemporaneous effect. Estimates
+ of the mean lag time (including gestation and application lags) between the outlay of
+ R&D expenditures and the beginning of the associated revenue range between 1.2 and
+ 2.5 years (Pakes and Schankerman 1984). Certainly, lag times less than one year do
+ exist. In fact, one of the explanations that the Financial Accounting Standard Boards
+ (FASB) offers for the "generally accepted accounting principle" of expensing R&D ex-
+ penditures is that the returns to R&D are, in fact, short term. The FASB code cites a
+ study by Gellein and Newman ( 1973) indicating that over 90 percent of the respondents
+ in a survey reported that their company's philosophy is that R&D expenditures are in-
+ tended to be recovered through current-period revenues. However, it is inconceivable
+ that R&D activities do not generate returns realized in later periods. Perhaps, like ad-
+ vertising, the uncertainty associated with the possible longer-term returns to R&D causes
+ stock market participants to discount R&D expenditures not resulting in improvements
+ in current-term ROI.
+
+ The findings of a positive reaction of market participants to R&D and advertising
+ expenditures have been widely used to support the traditional rational expectations/
+ efficient markets conceptualization of the financial markets. Investors are posited to
+ accurately value the financial impact of long-term expenditures. Our findings exhibit a
+ greater consistency with the recent literature on market signaling in the presence of
+ asymmetric information, e.g., Greenwald and Stiglitz (1990), Miller and Rock (1985).
+ Investors are not fully aware of the long-term implications of a given strategy. As such,
+ they rely on a variety of imperfect indicators (signals) of long-term business performance,
+ in particular, current-term performance measures. In the presence of asymmetric infor-
+ mation, stock market participants may react negatively to strategies designed to enhance
+ long-term performance, but which diminish current-term earnings. Our findings of a
+ negative reaction to R&D and advertising expenditures not influencing current-term
+ results highlight the need for better communication between managers and investors
+ relating to the long-term impact of strategic decisions and the importance of a financial
+ disclosure strategy.8
+
+ 4. Estimating the Returns to Advertising and R&D Expenditures
+
+ Equation ( 1.2) provides estimates of the direct effects of R&D and advertising on
+ stock return. The total effect of these discretionary expenditures includes both this direct
+ effect and the indirect effect arising from the impact of the discretionary expenditures
+ on ROI +, which in turn influences stock return. Therefore, investigating the total stock
+ market reaction to advertising and R&D also requires investigating the effect of discre-
+ tionary spending on ROI.
+
+ Our investigation of the effects of R&D and advertising expenditures on accounting
+
+ profits differs from previous research in that we both (i) allow for possible feedback effects
+ between discretionary expenditures and profitability and (ii) use panel data and statistical
+ methods designed to control for the effects of firm-specific latent factors.9 Potentially
+
+ 8 See Lev ( 1991 ) for an excellent discussion of financial disclosure strategy.
+ 9 Hausman and Taylor ( 1981 ), Hsiao ( 1986), and others note that the ability to control for firm-specific,
+ and possibly unobservable, factors is an important benefit from using panel (pooled time-series and cross
+ sectional) data. Analysis of cross sectional data can neither identify nor control for the effects of such factors.
+ As unobservable factors may be correlated with the explanatory variables included in the postulated specification,
+ their omission can generate bias in the estimated coefficients. Empirical studies, e.g., Jacobson ( 1990), Boulding
+ and Staelin ( 1990), document the existence of autocorrelated unobservable factors influencing business per-
+ formance and provide evidence illustrating that failure to control for these effects can generate substantial bias
+ in coefficient estimates (to the extent of reversing signs).
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1271
+
+ severe bias may be present in estimates of the effect of R&D and advertising on accounting
+ profits reported in previous research that does not jointly account for both of these
+ considerations.
+
+ Estimation Model
+
+ Following Anderson and Hsiao ( 1982), we make use of the fixed effects-serial corre-
+
+ lation model, i.e., yi, = f3xi + ai + ci, with cil = p i,,-I + qil, to control for the effect of
+ unobservable factors. This specification depicts a structural model where the dependent
+ variable (yi) is influenced by the observable factors (xi,) and time-invariant (axi) and
+ time-varying ( Ei,) unobservable factors. The fact that the time-varying unobservable factors
+ are autocorrelated induces serially correlated residuals in the structural equation. The
+ lagged value yi ,-i is informative in the structural equation's reduced form solution, i.e.,
+ Yii PYi=t-l + p 3xi, - pxi,,- + ai - pai + qil, because it helps predict the effect of the
+ autocorrelated unobservable factors. Through the serial correlation adjustment, the au-
+ tocorrelated firm specific effect Ei 1 is captured, leaving the contemporaneous shock qi,
+ and the fixed effect (ai - pacxi). The fixed effect is removed by taking first differences,
+ leaving
+
+ (Yi- Yi,i-1) = P(y'i,,l - Yi,,-2) + 3(Xil - Xi,t,-) - Pp(Xi,-l - Xi,1-2) + (niit,i-i)
+
+ Instrumental variable estimation, making use of variables observed in periods prior to
+ t - 1 as instruments to remove the correlation of the right-hand side variables with the
+ moving average error term (Thil-7Ti-), is then used to obtain consistent estimates of
+ the parameters d and p.
+
+ Our profitability equation depicts ROI + to depend on current and the previous year's
+
+ advertising, current and the previous six year's R&D, and industry growth.10 We specify
+ R&D to be influenced by concentration, current profitability, and level of debt at the
+ beginning of the period. Advertising is depicted to depend on debt, profitability, and
+ nonlinearly on concentration. Each equation also includes a time-invariant unobservable
+ factor and, to allow for the possibility of correlated, firm-specific latent factors, an au-
+ tocorrelated error term. Finally, to control for yearly differences in economy-wide effects,
+ we include annual dummy variables D,1 where D,, = 1 if year t = t' and 0 otherwise, in
+ each equation. As such, our system of equations is of the form:
+
+ T 1 6
+
+ ROI+ = E 61,Dl, + Z 31ljAdv 1,j + Z 3l2jR&Di,l_j+ + 13Growit + a Ii + lii,
+
+ j=0 j=0
+
+ (lit Pleli,t-l + V71i,
+
+ T
+
+ Advil = 62,1Dl, + 321ROIt+ +322Debti,t + /23Concil + 024ConcSqil + a?i + e2ii,
+
+ (2i, = P2(2i,i-l + 772ii,
+
+ T
+
+ R&Di = E 631 D + 31ROIt + 032Debti,t11 + 033Concit + a3i + f3il,
+
+ i 1=
+
+ f3i= P3E3i,i-l + rV3i/.
+
+ While our concern centers primarily on the effects of advertising and R&D on ROI+,
+
+ the nature of discretionary expenditure financing and the lack of influence of concentration
+
+ 10 Growth is posited to influence profitability to the extent it depicts a disequilibrium situation. Firms are
+
+ unlikely to react immediately to changing market conditions. Excess (insufficient) capacity may exist during
+ periods of low (high) growth. This imbalance between supply and demand creates a disequilibrium situation
+ where firms earn infra or supra normal returns until they adjust to the new market conditions.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1272 GARY ERICKSON AND ROBERT JACOBSON
+
+ on profitability also warrant attention because of their role in model identification.11
+ Both R&D and advertising are specified to be influenced by contemporaneous ROI +
+ and by the level of debt at the beginning of the period. Firms adjust discretionary ex-
+ penditures within the period depending on performance. Higher ROI gives firms more
+ leeway in their spending. We posit that debt influences discretionary expenditures based
+ on two considerations. First, a firm with higher debt is faced with pressures to pay its
+ interest expense. To meet this expense, it may be forced to cut back on less pressing
+ expenditures, e.g., advertising and R&D. Since operating income, the numerator in the
+ ROI+ measure, is gross of interest expense, the coefficient for debt will reflect this effect.
+ Second, a higher debt position reduces a firm's ability to borrow. As such, it will be less
+ likely to obtain capital from the financial markets to pay for advertising and R&D ex-
+ penditures.
+
+ While our specifications linking the observed variables are consistent with previous
+ research, we are sympathetic to the view that the zero-order restrictions necessary for
+ identification are often arbitrary choices among reasonable alternatives and should be
+ scrutinized. The widely held view that the decision to change discretionary spending
+ takes less time than that required for its effect on profitability to dissipate completely
+ allows for identification of the R&D and advertising equations. The higher order lags for
+ the discretionary expenditures in the profitability equation can serve as instruments, as
+ can growth, for ROI+ in the R&D and advertising equations.
+
+ The identification of the ROI + equation is subject to greater concern. The fact that
+ ROI + is gross of interest expense allows for the use of debt as one instrument. However,
+ identification of the equation also rests on the zero-order restriction for concentration.
+ The effect, or lack thereof, of concentration on profitability is one of the most extensively
+ discussed and researched relationships in industrial organization. However, even former
+ adherents to the concentration hypothesis, e.g., Scherer et al. ( 1987), now tend to agree
+ that empirical evidence supports the Demsetz ( 1973) hypothesis that, once efficiency
+ differences among firms are taken into account, industry concentration does not influence
+ profitability. We find this theoretical and empirical evidence persuasive and, therefore,
+ depict no effect of concentration on profitability.
+
+ The high autocorrelation of both advertising and R&D, the extent of explanatory
+ power captured through the serial correlation correction, and the use of an instrumental
+ variable estimation procedure to account for the simultaneity in the system, reduces our
+ ability to isolate the specific effects of advertising and R&D for a given lag. While consistent
+ estimates of the coefficients and their standard errors can be achieved, the standard errors
+ are likely to be large. As such, the power in our tests is likely to be low. In light of this
+ fact, we impose specific lag distributions on the coefficients depicting the effects of ad-
+ vertising and R&D on ROI + and concentrate on estimating the total effects (II 10 + i lI )
+ and (0120 + 0121 + 0122 + 0123 + 0124 + 0125 + 0126), respectively.12 The lag distribution
+
+ l Concentration is depicted to affect R&D and advertising. While industry concentration is viewed as an
+ important determinant of R&D intensity, there are a host of conflicting theories such that the direction of the
+ effect is unclear (Scherer 1980). Based on previous empirical research, e.g. Martin (1979), we allow for an
+ "inverted-U" relationship between advertising and concentration. Advertising has two possible roles: to induce
+ brand switching, and to increase total industry demand. Firms in low concentrated industries benefit primarily
+ from the brand switching induced by advertising. The benefits brought about from advertising increasing total
+ industry demand are dispersed among the many firms in the industry. As industry concentration increases,
+ firms begin to benefit both from advertising increasing industry demand and from inducing brand switching.
+ As such, advertising expenditures should increase. Increased advertising should also arise with increases in the
+ amount of perceived rivalry. However, at extreme concentration (a monopoly) the firm will benefit primarily
+ from advertising increasing total industry demand and advertising expenditures will decrease.
+
+ 12 We tested various alternative lag distributions for R&D and advertising to assess the sensitivity of the
+ results. The substantive results regarding the total effects of advertising and R&D were found not to be sensitive
+ to different assumed lag distributions.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1273
+
+ weights chosen for advertising are wl0 = 0.7, and w11 = 0.3, a pattern consistent with
+ past empirical research concerning direct lag effects of advertising. Studies by Erickson
+ (1981), Helmer and Johansson (1977), and Clarke and McCann (1973) estimate direct
+ lag models, and each finds significant advertising effects that end with the first lagged
+ year; the average weights from these studies are wl0 = 0.706 (with a narrow range of
+ 0.684 to 0.720) and w, I = 0.294. There is less empirical evidence regarding an appropriate
+ lag distribution for R&D. We chose distribution weights w20 = 0.25, w21 = 0.21,
+ W22 = 0.18, W23 = 0.14, w24 = 0.11, w25 = 0.07, and w26 = 0.04, to be consistent with
+ previous studies that assume a slowly depreciating effect over time, e.g. Jaffe (1986),
+ Grabowski and Mueller (1978).
+
+ Empirical Analysis
+
+ To serve as a basis for comparison, for our sample of 99 U.S. firms we present the
+ results from three estimation procedures, i.e., instrumental variable (IV) estimation,
+ instrumental variable combined with serial correlation (IV/SC) estimation, and instru-
+ mental variable combined with serial correlation and fixed effects (IV/SC/FX) esti-
+ mation.13 The first estimation technique does not control for either autocorrelated or
+ time-invariant unobservables; the second technique controls for autocorrelated but not
+ time-invariant unobservables; the third technique controls for both time-varying and
+ time-invariant unobservables. Under the null hypothesis of the unobservable factors being
+ uncorrelated with the observed explanatory factors, the three estimation approaches (while
+ differing in efficiency) should yield statistically indistinguishable coefficient estimates.
+ Specification tests (Hausman 1978) can assess the extent that either type of unobservable
+ is present and induces bias in the coefficient estimates for the models not controlling for
+ their potential effect.14
+
+ Table 2 presents the analysis of the advertising and R&D equations. 15 The specification
+
+ tests indicate that the advertising equation is best modeled by the IV / SC / FX model,
+ i.e., the test statistics of 14.7 is greater than the 0.01 x2 critical value of 13.3. The R&D
+ equation appears to be best modeled by the IV/SC model, i.e., the specification tests
+ indicate that while the coefficients of the IV/SC differ from those of the IV model they
+ are not statistically different from the IV/SC/FX model. (The 0.05 X93 critical value is
+ 7.8.) The size and significance of the estimated values of p attest to the importance of
+ controlling for time-varying unobservables. The difference in the coefficient estimates
+ for ROI + and Debt in the advertising equation estimated without control for unobservable
+ factors indicates the possible consequences of ignoring unobservable factors. The estimated
+ effect of ROI + in the IV model is approximately four times that of the other two models
+ and the coefficient for Debt is of the opposite sign.
+
+ Table 2 reports that profitability significantly influences both advertising and R&D
+
+ expenditures. The significant effect of ROI + indicates that the amount of profits (internal
+ resources) available to the firm influences the level of discretionary spending.'6 The
+
+ 13 Lack of access to data required for construction of necessary variables prevents our conducting this second
+
+ phase of the analysis with the Japanese data base.
+
+ 14 Specification tests were also performed to detect whether the various instruments are correlated with error
+
+ terms. No test was significant.
+
+ 15 We have not modeled the moving average error inherent in fixed effects models. The estimated coefficients
+
+ for the fixed effects models reported in Tables 2 and 3 are consistent, although bias may be present in the
+ estimated standard errors. Following the approach suggested by Phillips ( 1978), analysis that incorporates a
+ moving average error term does not alter any of the conclusions of the study.
+
+ 16 Another interpretation of the association is that higher profitability is an indicator of higher future profits.
+ Since firms will invest in areas that yield higher returns, this would generate a positive association of current
+ profits with discretionary spending.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1274 GARY ERICKSON AND ROBERT JACOBSON
+
+ The Effect qfAccounting Retuirn on Advertising and R&D a
+
+ TABLE 2
+
+ Estimated Effect IV IV/SC IV/SC/FX
+
+ Dependent Variable: Advertising Expenditures
+
+ ROI + 0.697 0.171 0.166
+
+ (0.012)c (0.020) (0.023)
+ Debti,,_1 0.210 -0.041 -0.026
+ (0.013) (0.018) (0.019)
+
+ Conci, 0.181 0.286 0.264
+
+ (0.076) (0.306) (0.380)
+ ConsSqi, -0.081 -0.174 -0.075
+ (0.051) (0.205) (0.260)
+
+ - 0.965 0.818
+
+ (0.009) (0.022)
+
+ #obsb 891 792 693
+ MSE 0.00175 0.00098 0.00201
+ Specification Test x 2 = 28.5 x 2= 21.6
+
+ Dependent Variable: R&D Expenditures
+
+ ROI + 0.065 0.045 0.044
+
+ (0.009) (0.007) (0.008)
+ Debti,,- 1 -0.010 -0.034 -0.030
+ (0.010) (0.005) (0.006)
+ Conci, -0.042 -0.043 -0.052
+ (0.006) (0.015) (0.017)
+
+ p - 0.961 0.601
+
+ (0.010) (0.261)
+
+ #obs 891 792 693
+ MSE 0.00094 0.00010 0.00017
+ Specification Test x 2 = 18.3 x 2= 2.8
+
+ a Each equation also includes annual dummy variables.
+ b The number of observations differs among the models because of
+
+ the taking of first differences and/or the use of a serial correlation ad-
+ justment.
+
+ c Standard errors in parentheses.
+
+ negative effect of debt strengthens the conclusion that firms' spending levels are influenced
+ by their access to funds. Firms with a greater access to funds, either through internal
+ resources (ROI+) or having greater availability to external financing because of a low
+ level of debt, are more likely to undertake discretionary expenditures.
+
+ Multiple interpretations can explain the smaller estimated effect of ROI + on R&D
+
+ than on advertising, 0.045 versus 0. 17. One interpretation is that advertising expenditures
+ are "more discretionary." Firms see a greater need to continue R&D than advertising if
+ profits are down. Another interpretation is that while higher ROI may give the firm more
+ resources to spend on R&D, the presence of higher profits may reduce the perceived
+ incentive to engage in R&D. Katz and Shapiro ( 1987) suggest that firms with higher
+ profits are less likely than less profitable firms to engage in R&D activities that would
+ result in significant product innovation when strong, and effective, patent protection is
+ not present.
+
+ The effects of ROI + on discretionary spending indicate the need to adopt a simultaneous
+
+ equations approach in order to obtain consistent estimates of the impact of advertising
+ and R&D on profitability. Table 3 reports the results of the simultaneous equations
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1275
+
+ The Effect ofAdvertising and R&D on Accouinting Return a
+
+ TABLE 3
+
+ Estimated Effect IV IV/SC IV/SC/FX
+
+ Dependent Variable: ROI+
+
+ E Advi,,-j 1.341 1.230 1.174
+ p=0 (0.043)c (0.095) (0.476)
+ 6
+
+ E R&Di,t-j 1.176 0.765 1.384
+ j=o (0.125) (0.280) (5.771)
+ Growi, 0.143 0.140 0.165
+
+ (0.029) (0.026) (0.026)
+
+ - 0.601 0.702
+
+ (0.028) (0.155)
+
+ #obsb 891 792 693
+ MSE 0.01332 0.00992 0.02347
+ Specification Test X3 = 31.0 X3 = 14.7
+
+ a Each equation also includes dummy variables.
+ b The number of observations differs among the models because of
+
+ the taking of first differences and/or the use of a serial correlation ad-
+ justment.
+
+ b Standard errors in parentheses.
+
+ estimation for the three estimation techniques. As in Table 2, the estimates for p attest
+ to the importance of time-varying unobservable factors. Specification tests suggest the
+ presence of fixed effects and, therefore, the applicability of the IV/ SC/ FX model.17 The
+ point estimates for the effects of advertising and R&D, 1.174 and 1.384, suggest market
+ (competitive) returns on these expenditures. Sensitivity analysis, e.g., splitting the sample
+ based on time periods, types of firms (i.e., industrial versus consumer), and expenditure
+ levels, does not change this conclusion.
+
+ The estimated effects of advertising are greater than 1.00, the point where revenue
+ generated equals expenditures, for all three models. The estimated return for advertising
+ expenditures is lower for the IV/ SC/ FX model (0.17) than for either the IV/ SC model
+ (0.23) or the IV model (0.341) . As this estimated return is slightly less than the estimated
+ mean ROI+ for the period (0.302), we cannot reject the hypothesis that advertising
+ expenditures generate market returns. That is, a dollar spent on advertising does not
+ yield a return higher than that of other expenditures.
+
+ The same conclusion applies to the estimated effect of R&D, although a large standard
+ error in the IV/SC/FX model prevents a firm conclusion for this model. None of the
+ point estimates of the return to R&D expenditures for the three models, i.e., 0.176 for
+ the IV model, -0.235 for the IV/SC model, and 0.384 for the IV/SC/FX model, implies
+ supranormal returns, i.e., a return substantially greater than the mean ROI+ for the
+ period. However, the standard error of the IV/SC/FX estimate is so large that caution
+ is required in interpreting the point estimate for this model. (The difficulty in isolating
+ the effect of R&D expenditures in the IV / SC / FX model is that the variance of the R&D
+ measure in the model, after taking the pth difference of the first difference, is extremely
+ small. Its variance is approximately 100 times smaller than that of the advertising measure.)
+ Still, our results provide no indication that either advertising or R&D expenditures gen-
+ erate supranormal accounting profits.
+
+ 17 See Jacobson ( 1990) for a discussion of concerns regarding including a fixed effect in a profitability equation.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1276 GARY ERICKSON AND ROBERT JACOBSON
+
+ 5. The Competitive Process and Isolating Mechanisms
+
+ The competitive process dictates that firms will continue to invest in activities or follow
+ strategies that generate supranormal profits until the return premium is exhausted. Prof-
+ itability, or the lack thereof, is a signal that directs the flow of resources. The adjustment
+ of resources and output into areas earning excess profits and away from areas earning
+ below average returns will, in time, bring returns back to competitive levels. The com-
+ petitive process explains the competitive returns to R&D and advertising expenditures.
+ Firms increase types of discretionary expenditures that yield above average returns and
+ decrease types of expenditures yielding below average returns. This process continues
+ until the returns equilibrate.
+
+ For an expenditure to generate supranormal returns it must, in addition to providing
+ incremental value over pre-existing activities, technologies, or products, resist imitation
+ by competitors. Although laws, e.g., patents, provide property rights for some activities,
+ few statues protect the majority of business activities from imitation. Obtaining supra-
+ normal returns requires barriers to imitation, which Rumelt (1987) labels "isolating
+ mechanisms." Whether it be, for example, response lags, switching costs, or information
+ impactedness, some impediments to imitation need to exist to allow R&D or advertising
+ expenditures to generate supranormal returns. Our results suggest that the isolating
+ mechanisms necessary for these expenditures to generate a comparative advantage are,
+ on the average, insufficient.
+
+ The inability of advertising expenditures to generate supranormal profits is consistent
+ with the stream of literature reporting that very often sales fail to respond to even dramatic
+ shifts in advertising expenditure levels. We should note that our results do not indicate
+ that advertising is not a means for creating comparative advantage through, for example,
+ product differentiation. Rather, our results pertain just to the effect of advertising ex-
+ penditure levels. Expenditure levels are easily imitated and, as such, should not be expected
+ to generate excess profits. It is the creative content of the advertisement, which possesses
+ greater impediments to imitation by competition, that is more likely to create a com-
+ parative advantage. Eastlack and Rao ( 1986) note that their research indicates that "the
+ creative component of advertising has been found to befar more important than the actual
+ spending rates or patterns." They emphasize the importance of advertising copy and
+ media selection and timing rather than expenditure levels. While changes in expenditure
+ levels may be ineffectual, good copy in the right media has been shown to have dramatic
+ effects.
+
+ We also wish to note that our results do not question the benefits of R&D. The benefits
+ to R&D are not limited to a specific firm; they create societal advantages. A number of
+ scholars (Solow 1957) have documented that R&D (technological change) is a, if not
+ the, primary determinant of economic growth. However, the ability of a given firm to
+ exploit profitably its own technological innovations is subject to question. Isolating
+ mechanisms that allow innovators to reap the rewards of their innovations may be in-
+ sufficient. Previous estimates of substantial returns to R&D make it difficult to argue for
+ changes in public policy that would give greater incentives to engage in R&D. Firms are
+ depicted as already being more than adequately compensated. Our lower estimates of
+ the return to R&D suggest that additional incentives may well be warranted.
+
+ Teece (1987) comments that quite often imitators profit more from an innovation
+ than does the firm first to commercialize it. He feels that many science and engineering-
+ driven firms labor under the illusion that developing new products that meet customer
+ needs will ensure fabulous success not only for the product but also for the innovating
+ firm. There is a long list of companies, e.g., EMI (CAT scanner), Xerox (office computer),
+ and Ampex (VCR), that failed to profit from their innovations. Mansfield, Schwartz,
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1277
+
+ and Wagner ( 1981 ) report about 60 percent of patented successful innovations were
+ imitated within four years. In addition, the development costs incurred by the imitator
+ were approximately 35 percent lower than those of the innovator. In their survey of
+ R&D managers, Levin et al. ( 1987) found that approximately 65% of "typical" unpatented
+ innovations could be imitated in less than one year. These considerations suggest that
+ high expenditures on R&D, even if they lead to innovation, may not give a firm unique
+ advantages that lead to the realization of profits.
+
+ 6. Conclusions
+
+ Limitations in our analysis suggest the need for further study. For example, research
+ making use of survey data of stock market participants' expectations of R&D and ad-
+ vertising expenditures would test the validity of our use of time series residuals as estimates
+ of unanticipated discretionary expenditures. Data for more firms or years of observation
+ would reduce the estimated standard errors and, therefore, allow for more power in
+ hypothesis testing. Further tests of the appropriateness of our zero-order restrictions would
+ also be valuable. Exploring different conditions that might lead to greater returns to
+ discretionary expenditures, for example, Winter ( 1987) posits that process R&D may
+ allow for a longer-lasting advantage than product R&D since lack of observability delays
+ competitor imitation, would be another direction for future research.
+
+ With these limitations in mind, our results suggest that, once the effects of firm-specific
+ factors and the influence of profitability on discretionary spending are taken into account,
+ neither R&D nor advertising expenditures increase the market value of the firm more
+ than other types of investments or expenditures. The isolating mechanisms necessary to
+ prevent imitation by competitors appear, on the average, insufficient for these expenditures
+ to generate a comparative advantage allowing for supranormal returns. The positive
+ correlation between these expenditures and stock market performance reported in previous
+ research reflects the joint effect of firm profitability on stock return and on the level of
+ discretionary spending. Not controlling for the influence of profitability on discretionary
+ expenditure levels induces substantial bias, i.e., omitted variable bias in studies of the
+ effect of discretionary spending on stock market return and simultaneous equation bias
+ in studies of their effect on accounting return. Our results highlight that obtaining a
+ comparative advantage through R&D or advertising (or, for that matter, any strategic
+ action) depends crucially on the specific nature of the expenditure and how it interacts
+ with the firm's asset and skill base so as to prevent imitation by competitors.
+
+ Appendix. Variable Definitions
+
+ Variable Definition
+
+ Stkr Stock Return: ((Market Value of Stock, + Dividends,)/Market Value
+
+ of Stock_1) - 1
+
+ R&D Research and Development Expenditures,/Assets,-
+ r&d Unanticipated R&D
+ Adv Advertising Expenditures,/Assets,-
+ adv Unanticipated Adv
+ ROI+ (Operating Income + R&D + Adv)/Assets_1
+ roi+ Unanticipated ROI+
+ Debt Debt(Short-term and Long-term), -/Assets,-l
+ Grow Industry sales growth*
+ Conc Four-firm industry concentration ratio*
+ ConcSq The square of Conc
+
+ * Industry is defined as the group of firms reported on by Compustat having the
+
+ same 4-digit SIC code.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1278 GARY ERICKSON AND ROBERT JACOBSON
+
+ References
+
+ ANDERSON, T. W. AND CHENG HSIAO, "Formulation and Estimation of Dynamic Models Using Panel Data,"
+
+ J. Econometrics, 18 (January 1982), 47-82.
+
+ BALL, RAY AND PHILLIP BROWN, "An Empirical Evaluation of Accounting Income Numbers," J. Accounting
+
+ Res., 6 (Autumn 1968), 159-178.
+
+ BARNEY, JAY, "Strategic Factor Markets: Expectations, Luck and Business Strategy," Management Sci., 32
+
+ (October 1986), 1231-1241.
+
+ BENSTON, GEORGE J., "The Validity of Profits-Structure. Studies with Particular Reference to the FTC's Line
+
+ of Business Data," Amer. Economic Rev., 75 (March 1985), 37-67.
+
+ BEN-ZION, URI, "The R&D and Investment Decision and Its Relationship to the Firm's Market Value: Some
+ Preliminary Results," in R&D, Patents, and Produictivity, Zvi Griliches (Ed.), University of Chicago
+ Press, Chicago, 1984, 299-312.
+
+ BOULDING, WILLIAM AND RICHARD STAELIN, "Environment, Market Share, and Market Power," Management
+
+ Sci., 36 (October 1990), 1160-1178.
+
+ CAPON, NOEL, JOHN U. FARLEY AND SCOTT HOENIG, "Determinants of Firm Performance," Managemnent
+
+ Sci., 36 (October 1990), 1143-1159.
+
+ CLARKE, DARRAL G. AND JOHN M. MCCANN, "Measuring the Cumulative Effects of Advertising: A Reappraisal,"
+
+ 1973 Combined Proc., American Marketing Association, 135-139.
+
+ CONNOLLY, ROBERT A. AND MARK HIRSCHEY, "R&D, Market Structure and Profits: A Value-Based Approach,"
+
+ Rev. Economics and Statist., 66 (November 1984), 682-686.
+
+ DEMSETZ, HAROLD, "Industry Structure, Market Rivalry, and Public Policy," J. Law and Economics, 16 (April
+
+ 1973), 1-10.
+
+ EASTLACK, JOSEPH 0. AND AMBAR G. RAO, "Modeling Response to Advertising and Pricing Changes for "V-
+
+ 8" Cocktail Vegetable Juice," Marketing Sci., 5 (Summer 1986), 245-259.
+
+ ERICKSON, GARY M., "Using Ridge Regression to Estimate Directly Lagged Effects in Marketing," J. Amer.
+
+ Statis. Assoc., 76 (December 1981), 766-773.
+
+ GELLEIN, OSCAR S. AND MAURICE A. NEWMAN, "Accounting for Research and Development Expenditures,"
+
+ Accouinting Research Stuldy No. 14, AICPA, New York, 1973, 100 pp.
+
+ GRABOWSKI, HENRY G. AND DENNIS C. MUELLER, "Industrial Research and Development, Intangible Capital
+
+ Stocks, and Firm Profit Rates," Bell J. Economics, 9 (Autumn 1978), 328-343.
+
+ GREENWALD, BRUCE C. AND JOSEPH E. STIGLITZ, "Asymmetric Information and the New Theory of the Firm:
+
+ Financial Constraints and Risk Behavior," Amer. Economic Rev., 80 (May 1990), 160-165.
+
+ GRILICHES, Zvi, "Market Value, R&D, and Patents," Economic Lett., 7 (1981), 183-187.
+ HAUSMAN, JERRY A., "Specification Tests in Econometrics," Econometrica, 46 (November 1978), 1251-1271.
+ AND WILLIAM E. TAYLOR, "Panel Data and Unobservable Individual Effects," Econometrica, 49 (No-
+ vember 1981), 1377-1398.
+
+ HAYES, ROBERT H. AND WILLIAM J. ABERNATHY, "Managing Our Way to Economic Decline," Har-vard
+
+ Butsiness Rev., (July-August 1980), 67-77.
+
+ HELMER, RICHARD M. AND JOHNY K. JOHANSSON, "An Exposition of the Box-Jenkins Transfer Function
+ Analysis with an Application to the Advertising-Sales Relationship," J. Marketing Res., 14 (May 1977),
+ 227-239.
+
+ HSIAO, CHENG, Analysis of Panel Data, Cambridge University Press, Cambridge, 1986.
+ JACOBSON, ROBERT, "The Validity of ROI as a Measure of Measure Performance," Amer. Economic Rev., 77
+
+ (June 1987), 470-478.
+
+ "Unobservable Effects and Business Performance," Marketing Sci. 9 (Winter 1990), 74-85, 92-95.
+
+ JAFFE, ADAM B., "Technological Opportunity and Spillovers of R&D: Evidence from Firms' Patents, Profits,
+
+ and Market Value," Amer. Economic Rev., 76 (December 1986), 984-1001.
+
+ KATZ, MICHAEL L. AND CARL SHAPIRO, "R&D Rivalry with Licensing or Imitation," Amer. Economic Rev.,
+
+ 77 (June 1987), 402-420.
+
+ LEV, BARUCH, Investor Relations in AModern Capital Markets, Prentice-Hall, Englewood Cliffs, NJ, 1991.
+ LEVIN, RICHARD C., ALVIN K. KLEVORICK, RICHARD R. NELSON AND SIDNEY G. WINTER, "Appropriating
+ the Returns from Industrial Research and Development," Brookings Papers on Economic Activity, 3,
+ 1987, 783-820.
+
+ MANSFIELD, EDWIN, MARK SCHWARTZ AND SAMUEL WAGNER, "Imitation Costs and Patents: An Empirical
+
+ Study," Economic J., 91 (December 1981), 907-918.
+
+ MARTIN, STEPHEN, "Advertising, Concentration, and Profitability: The Simultaneity Problem," Bell J. Eco-
+
+ noinics, 10 (Autumn 1979), 639-647.
+
+ MILLER, MERTON H. AND KEVIN ROCK, "Dividend Policy under Asymetric Information," J. Finance, 60
+
+ (September 1985), 1031-1051.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ GAINING COMPARATIVE ADVANTAGE 1279
+
+ PAKES, ARIEL, "On Patents, R&D, and the Stock Market Rate of Return," J. Political Economyv, 93 (April
+
+ 1985), 390-409.
+ AND MARK SCHANKERMAN, "An Exploration into the Determinants of Research Intensity," in R&D,
+ Patents, and Productivity, Zvi Griliches (Ed.), University of Chicago Press, Chicago, 1984, 209-232.
+
+ PHILLIPS, A. W., "Estimation of Systems of Difference Equations with Moving Average Disturbances," in
+
+ Stability and Inflation, A. R. Bergstrom et al. (Ed.), John Wiley, New York, 1978, 181-200.
+
+ RAPPAPORT, ALFRED, "Stock Market Signals to Managers," Harvard Butsiness Rev., (November-December
+
+ 1987), 57-62.
+
+ RUMELT, RICHARD P., "Evaluation of Strategy: Theory and Models," in Strategic Management.: A Newv Viewv
+
+ oJ Biusiness Policy and Planning, D. E. Schendel and C. Hofer (Ed.), Little, Brown and Company,
+ Boston, 1979, 196-212.
+
+ "Theory, Strategy, and Entrepreneurship," in David Teece (Ed.), The Competitive Challenge: Strategies
+ Jbr Induistrial Innovation and Renewval, Ballinger Publishing Company, Cambridge, 1987, 137-159.
+ SALINGER, MICHAEL A., "Tobin's q, Unionization, and the Concentration-Profits Relationship," Rand J. Eco-
+
+ nomics, 15 (Summer 1984), 159-170.
+
+ SCHERER, F. M., Industrial Mark-et Stulictiure and Economic Perbrinatance, (2nd Ed.), Houghton Mifflin Company,
+
+ Boston, 1980.
+ , WILLIAM F. LONG, STEPHEN MARTIN, DENNIS C. MUELLER, GEORGE PASCOE, DAVID J. RAVENSCRAFT,
+ JOHN T. SCOTT AND L. W. WEISS, "The Validity of Studies with Line of Business Data: Comment,"
+ Amer. Economnics Rev., 77 (March 1987), 205-2 17.
+
+ SOLOW, ROBERT, "Technical Change and the Aggregate Production Function," Rev. Economics and Statist.,
+
+ 39 (August 1957), 312-320.
+
+ SWITZER, LORNE, "The Determinants of Industrial R&D: A Funds Flow Simultaneous Equation Approach,"
+
+ Rev. Economics and Statist., 66 (February 1984), 163-168.
+
+ TEECE, DAVID, "Profiting for Technological Innovation: Implications for Integration, Collaboration, Licensing,
+
+ and Public Policy," in David Teece (Ed.), The Competitive Clhallenge: Strategies for Indulstrial Innovation
+ and Renewval, Ballinger Publishing Company, Cambridge, 1987, 185-220.
+
+ WENSLEY, ROBIN, "PIMS and BCG: New Horizons or False Dawn," Strategic M1anagement J., 3 (April-June
+
+ 1982), 147-158.
+
+ WINTER, SIDNEY G., "Knowledge and Competence as Strategic Assets," in David Teece, (Ed.), The Com0petitive
+
+ Clhallenge: Strategies for Indutstrial Innovation ancd Renewval, Ballinger Publishing Company, Cambridge,
+ 1987, 159-184.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:41:27 UTC
+
+All use subject to http://about.jstor.org/terms
+

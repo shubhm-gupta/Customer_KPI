@@ -1,0 +1,1775 @@
+Int. J. Production Economics 147 (2014) 260–270
+
+Contents lists available at ScienceDirect
+
+Int. J. Production Economics
+
+journal homepage: www.elsevier.com/locate/ijpe
+
+The impact of supplier integration on customer integration and new
+product performance: The mediating role of manufacturing ﬂexibility
+under trust theory
+Yuanqiong He a,n, Kin Keung Lai b, Hongyi Sun c, Yun Chen d
+a School of Management, Huazhong University of Science and Technology, Luoyu Road 1037, Wuhan 430074, PR China
+b College of Business, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong
+c Department of Systems Engineering and Engineering Management, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong
+d School of Business Administration, Hubei University of Economics, PR China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 31 May 2012
+Accepted 28 April 2013
+Available online 4 May 2013
+
+Keywords:
+Supplier integration
+Customer integration
+New product performance
+Manufacturing ﬂexibility
+Service capability
+
+The impact of supply chain integration on new product development has been very well studied in
+literature. However,
+little literature examines the relationship between supplier integration and
+customer integration when they inﬂuence new product performance. This study aims to explore the
+complicated relationships among supplier integration, customer integration and new product perfor-
+mance via the mediating roles of manufacturing ﬂexibility and service capability under the trust theory.
+The research is based on the data from International Manufacturing Strategy Survey (IMSS). It is found
+that both supplier integration and customer integration had positive direct effects on new product
+performance. It is also found that supplier integration has a positive impact on customer integration
+through the mediating role of manufacturing ﬂexibility. The study contributes to supply chain integration
+by exploring the complicated relationship between supplier integration and customer integration based
+on the trust theory. It bears implications for both practice and future research.
+
+& 2013 Elsevier B.V. All rights reserved.
+
+1.
+
+Introduction
+
+New product development (NPD) is one of the critical processes
+by which companies sustain or even increase their competitive
+advantage (Tessarolo, 2007). Research in NPD ﬁeld has shown that
+a number of factors are important to the creation of successful
+new products, and integration is recognized as one of critical
+enablers. Integration in NPD takes complex and mixed forms, such
+as cross-functional team integration, intra-process or concurrent
+integration, resource integration, supply chain or external integra-
+tion (Hong et al., 2004). As the beneﬁts of internal integration
+become more widely acknowledged, the literature is increasingly
+focusing on the relationship between external supply chain
+integration and new product development. Previous literature
+suggested that a company’s ability to integrate its supplier and
+customer can improve new product performance and business
+performance (Koufteros et al., 2005; Petersen et al., 2003, 2005;
+Flynn et al., 2010). However, the following questions are still
+needed to be answered in this ﬁeld.
+
+n Corresponding author. Mobile: +86 013697358896.
+
+E-mail addresses: heyuanqiong@mail.hust.edu.cn (Y. He),
+
+mskklai@cityu.edu.hk (K. Keung Lai), mehsun@cityu.edu.hk (H. Sun),
+chenyun0010@sina.com (Y. Chen).
+
+0925-5273/$ - see front matter & 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.ijpe.2013.04.044
+
+First, recent literature has addressed the importance of custo-
+mer integration in product development (e.g. Bonner, 2005; Enkel
+et al., 2005; Fang, 2008; Lam and Chin, 2005). However, it was
+observed that many companies did not integrate customers
+successfully in their product development process (Tollin, 2002;
+Enkel et al., 2005). One of the important reasons is that customers
+will consider the inherent risks in integration with manufacturers,
+such as the loss of know-how to the outsiders, dependence on
+manufacturers, increased costs of coordination and inﬂexibility
+(Das and Narasimhan, 2006; Enkel et al., 2005). The existing
+literature suggested the design of technological tools (such as
+information system, Internet based communication) and internal
+integration (such as cross-functional integration) to decrease the
+risks perceived by customers so as to improve customer integra-
+tion (Fuller et al., 2010; Piller and Walcher, 2006; Devaraj et al.,
+2007; Tollin, 2002; Frohlich and Westbrook, 2002; Vickery et al.,
+2003). Nevertheless, the nature of customer integration is funda-
+mentally a social process so that technological tools cannot solve
+all of the problems in customer integration (Ragatz et al., 2002).
+Therefore, it needs to consider other factors besides technologies
+to improve customer integration in further research.
+
+Second, a great deal of effort have been spent on showing how
+companies that incorporate a customer’s perspective in new
+product technology decisions developed more successful products
+
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+261
+
+(e.g. Bonner, 2005; Fang, 2008; Lam and Chin, 2005). Supplier
+integration is the most common form of supply chain integration,
+while it is until the past years when supplier integration has
+received signiﬁcant attention in new product development efforts
+(Petersen et al., 2005; Lin and Chen, 2008; Primo and Amundson,
+2002). Evidence supporting supplier integration is less clear than
+evidence on the positive contribution of customer integration, and
+the inﬂuential mechanism of supplier integration in new product
+development is still largely a “black box” (Ragatz et al., 2002;
+Primo and Amundson, 2002). Therefore,
+future research will
+identify and examine how supplier integration affect new product
+performance (Fawcett and Magnan, 2002; Swink et al., 2007;
+Petersen et al., 2005; Jain et al., 2009).
+
+Third, researchers considered supplier integration and custo-
+mer integration as two distinct concepts and have limited their
+analyses to integration with customers (Bonner, 2005; Fang, 2008;
+Lam and Chin, 2005) or suppliers (Das and Narasimhan, 2006;
+Handﬁeld et al., 2009; Jain et al., 2009; Vachon et al., 2009) in
+order to ascertain their distinct contribution to performance. A few
+recent studies have begun to take a broader perspective and
+consider both the supplier integration and customer integration
+simultaneously (Tracey and Tan, 2001; Tan and Tracey, 2007; Lee
+et al., 2007; Flynn et al., 2010; Danese and Romano, 2011). In fact,
+customer integration was signiﬁcantly correlated with supplier
+integration and the interaction of them had positive impact on
+ﬁrm performance (Lau et al., 2010; Frohlich and Westbrook, 2001;
+Devaraj et al., 2007). For instance,
+it is well known that the
+beneﬁts due to bullwhip-effect reduction are maximized when a
+high level of customer integration is accompanied by a high level
+of supplier integration. However, the report on the connection
+between supplier integration and customer integration in new
+product development is still very limited. Therefore, an interesting
+opportunity to improve our understanding of the mechanism of
+supply chain integration lies in the empirical exploration of
+relationship
+customer
+integration.
+
+integration
+
+between
+
+supplier
+
+and
+
+To address these gaps, this study explores the relationship
+between supplier integration and customer integration and their
+effects on new product performance from the theoretical perspec-
+tive of trust theory. The nature of customer integration is funda-
+mentally a social process so that technological tools cannot solve
+all of the problems in customer integration (Ragatz et al., 2002).
+A partnership in essence is characterized by a long-term commit-
+ment and mutual trust between the collaborators (Morgan and
+Hunt, 1994). Trust is deﬁned as “the belief that one’s partner will
+act in a predictable manner, will keep his word, and will behave in
+a way that will not negatively affect the other” (Spekman et al.,
+2002). When a ﬁrm believes the other party is reliable, it is willing
+to cooperate with them (Morgan and Hunt, 1994). The absence of
+trust among supply chain members might hinder the activities
+related to it, and cause problems of free riding, hold-ups, and
+leakages, which lead to less satisfactory supply chain performance
+or even supply chain defection (McCarter and Northcraft, 2007).
+Competence trust and goodwill trust were regarded as two types
+in buyer–supplier relationships (Sako, 1992). Competence trust
+reﬂects conﬁdence in a partner’s ability to fulﬁll an agreed upon
+obligation and goodwill trust refers to the expectation that a
+partner intends to fulﬁll their role and responsibilities (Das and
+Teng, 2001). We argue that manufacturing ﬂexibility is one
+effective way of enhancing competence trust since it is a core
+competence against uncertain environment for a manufacturer
+(Narasimhan et al., 2004), and service capability is one effective
+way of
+improving goodwill trust because of the social and
+interaction nature of service (Vargo and Lusch, 2008). Therefore,
+there may be two potential contributions to the literature on
+supply chain integration and new product development. First, we
+
+combine supplier integration and customer integration in one
+study and examine their impacts on new product performance.
+Second, we explore the relationship between supplier integration
+and customer integration through the mediating roles of manu-
+facturing ﬂexibility and service capability from the theoretical
+perspective of trust.
+
+The rest of the paper is structured as follows. The next section
+develops the hypotheses. Thereafter the method and the results of
+the study are presented. The paper ends with a discussion of its
+theoretical contribution,
+limitations and future directions, the
+managerial implications, and a conclusion.
+
+2. Hypotheses development
+
+Our conceptual
+
+framework is presented as in Fig. 1. The
+relationships among various constructs will be developed as
+follows.
+
+2.1. The direct impact of external supply chain integration on
+new product performance
+
+As being information intensive and resource requirements, new
+product development process was not merely a chain of intra-ﬁrm
+activities, but a network of inter-ﬁrm processes (Mele et al., 2010).
+External
+integration is related to the ability to gain further
+information by involving external entities in the development
+process through network relationships (Tessarolo, 2007). Through
+integration, a ﬁrm can partner with its external entities to
+structure their inter-organizational strategies, procedures and
+behaviors into collaborative, synchronized and manageable pro-
+cesses in order to create values (Das and Narasimhan, 2006;
+Jayaram and Tan, 2010; Zhao et al., 2008). Customers and suppliers
+are the major sources of innovative ideas for stimulating new
+products. For example, Procter & Gamble (P&G) aimed to source
+50% of all innovation outside the company from suppliers and
+customers (Chesbrough, 2003). We argue that supplier integration
+and customer integration have both similar and different mechan-
+isms in new product development. We elaborated the impacts of
+customer integration and supplier integration on new product
+performance separately as follows.
+
+Customer integration is the extent to which customers and
+manufacturers coordinate decisions related to inventory level,
+production planning, demand forecasting, order tracking, and
+products delivery (Wong et al., 2011). The positive effect of
+customer integration on new product performance could be
+explained from the following aspects. First, customers’ wants
+and needs, as well as their acquired knowledge through the actual
+use of products, make them an essential external resource for new
+product development (Thomke and von Hippel, 2002). Customers
+can provide innovative ideas when they specify their requirements
+and articulate their unmet needs (Chesbrough, 2003). In addition,
+
+H2 
+
+H4
+
+Manufacturing
+
+flexibility
+
+H3 
+
+Supplier
+integration
+
+Customer
+integration
+
+H1
+
+New product
+performance
+
+H6 
+
+Service
+capability
+
+H5
+
+Fig. 1. The conceptual framework in this study.
+
+
+262
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+customers can provide the ﬁrm with strategic insights into market
+expectations and future opportunities, ultimately enabling a more
+efﬁcient and effective response to customer needs (Wong et al.,
+2011).
+
+to customers. Customer
+
+Second, as the voice of the customer is embedded in the
+product development effort, a ﬁrm can provide personalized
+customization products
+integration
+involves determining customer requirements and tailoring inter-
+nal activities to meet these requirements. Customers could provide
+the producer with feedbacks on quality and delivery performance
+so that manufacturers can solve product problems efﬁciently
+(Frohlich and Westbrook, 2001). Through customer integration,
+ﬁrms will penetrate deep into the customer organization to
+understand its product, culture, market and organization in such
+a way that they can respond precisely to the customer’s needs and
+requirements.
+
+Third,
+
+involving customers from the beginning of product
+development can help clarify what products should be developed,
+which can cut the need for reworks caused by requirement
+misunderstandings and ultimately better time performance in
+the design phase (Bajaj et al., 2004). A close relationship between
+customers and the manufacturer offers opportunities for improv-
+ing the accuracy of demand information, which reduces manu-
+facturer’s product design and production planning time and
+inventory obsolescence, allowing it to be more responsive to
+customer needs. Gupta and Souder (1998) discovered that short-
+cycle-time companies, when compared to long-cycle-time
+companies, were characterized by extensive user involvement at
+the very early stages of new product development. As one of the
+reasons for the delay of product development, Dyer et al. (1999)
+identiﬁed difﬁculties in product and market deﬁnition, which can
+be greatly reduced by involving customers early on in the devel-
+opment process. Hence, we propose the following hypothesis:
+
+H1. Customer integration has a positive impact on a ﬁrm's new
+product performance.
+
+Supplier integration is the extent to which suppliers and
+manufacturers coordinate decisions related to inventory manage-
+ment, collaborative planning, forecasting, replenishment, and the
+ﬂows of physical resources (Wong et al., 2011). Supplier talent and
+capabilities can bring a signiﬁcant advantage to the product devel-
+opment process. The positive effect of supplier integration on new
+product performance could be explained from the following
+aspects.
+
+First, a new generation innovation model was to balance the
+market needs and technology development
+(Zedtwitz and
+Gassmann, 2002). The product innovativeness locates not only at
+ﬁnal product functions (how customer use a product) but also at
+raw materials and process technologies. Suppliers may provide
+emerging technology change, and reduce potential risks of man-
+ufacturing pitfalls (Ragatz et al., 2002). Suppliers can generate
+innovative ideas when they develop new materials for manufac-
+turers and co-design new products with the manufacturers to
+demonstrate these new materials (Lau et al., 2010). For instance, a
+car manufacturer plans to innovate the engine of a car so as to
+reduce gasoline consumption and create value for customers. Raw
+material
+for realizing this goal. The
+suppliers often have better information or greater expertise
+regarding raw material technologies than the car manufacturer’s
+design personnel. It is suggested that car manufacturer can use
+new types of raw material (such as aluminum) to substitute the
+iron engine which has much gasoline consumption because of
+heavy weight, or improve the iron technology and use new iron
+engine to use less fuel. Suppliers participating early in the
+product-design process can offer more cost-effective design
+
+innovation is beneﬁcial
+
+choices, help select the best components and technologies, and
+help in design assessment (Narasimhan and Das, 1999).
+
+Second, early and extensive supplier involvement results in a
+faster development process (Petersen et al., 2003, 2005; Handﬁeld
+et al., 1999). Based on the data from a study of the world auto
+industry to investigate lead-time differentials between Japanese
+and American automobile companies, Clark (1989) found that
+supplier involvement (and strong supplier relationships) contri-
+butes four to ﬁve months of the lead-time advantage (of Japanese
+auto producers). Supplier involvement tends to reduce the team
+workload since carrying out of certain steps is delegated to those
+who have the competences and information to perform them
+more quickly (Kessler and Chakrabarti, 1996; Hartley et al., 1997).
+Droge et al. (2000) found in a study of NPD in the automotive
+industry that supplier closeness provides ways to share under-
+standing about the different tasks underlying product develop-
+ment and launch efforts so as to reduce NPD time and improve
+NPD performance. At the same time, supplier integration provides
+outsourcing and external acquisitions possibilities which reduce
+the internal complexity of NPD or permits the manufacturer to
+focus on the subset of development tasks in which they can take
+advantage of their key competences, skills, and information, thus
+shortening the critical path and further speeding up the process
+(Tessarolo, 2007; Richey et al., 2010). In addition, supplier and
+manufacturing engineers whose ﬁrms have collaborated closely
+are less likely to misread blueprints or misinterpret information
+which could reduce the re-work time (Leonard-Barton et al., 1994;
+Rosenzweig et al., 2003).
+
+Third, supplier integration is beneﬁcial for product quality and
+reliability. In the internal value chain, the starting point for ﬁrms
+to produce quality products is the acquisition of quality incoming
+materials and parts from suppliers. Effective supplier management
+can reduce variances in incoming materials and parts and make
+sure that the suppliers meet quality speciﬁcations and standards,
+which reduces process variability and can have a positive effect on
+delivery time and product reliability (Das and Narasimhan, 2006).
+Bonaccorsi and Lipparini (1994) found that higher quality with
+fewer defects was one of beneﬁts of early supplier involvement.
+Hence, we propose the following hypothesis:
+
+H2. Supplier integration has a positive impact on a ﬁrm’s new
+product performance.
+
+2.2. The mediating role of manufacturing ﬂexibility between supplier
+integration and customer integration
+
+The concept of external supply chain integration as a set of
+practices to support business processes across ﬁrms is closely
+related with the effort to overcome inter-organizational distrust
+(Das and Narasimhan, 2006). Trust is simply a calculated risk
+assessment in an economic exchange (Williamson, 1993). In other
+words, when you trust your partners, you calculate a certain
+probability of them acting positively toward you and reach a
+decision that you would take the risk of their opportunism based
+on this probability. The trust between supplier and customer will
+reduce the risk perceptions of customers and motivate customers
+to invest more in integration (Mithas et al., 2005).
+
+Three types of trust in buyer–supplier relationships were
+proposed (Sako, 1992): contractual trust (Will the other party
+carry out its contractual agreements?), competence trust (Is the
+other party capable of doing what it says it will do?), and goodwill
+trust (Will the other party make an open-ended commitment to
+take initiatives for mutual beneﬁt while refraining from unfair
+advantage taking?). A contract can never stipulate every potential
+contingency. When a contract becomes excessively detailed, it will
+be inﬂexible and monitoring compliance becomes impossible
+
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+263
+
+(Poppo and Zenger, 2002). In a legal society, every member will
+obey the rules and carry out the contracts with other parties.
+Therefore, we focused on the perspective of competence trust and
+goodwill trust, rather than contractual trust, to explain the indirect
+relationship between supplier integration and customer integra-
+tion in our study. We proposed that manufacturing ﬂexibility and
+service capability are the mediators between supplier integration
+and customer integration based on the theoretical perspective of
+competence trust and goodwill trust. Our argument can be
+illustrated as follows.
+
+Competence trust reﬂects conﬁdence in a partner’s ability to
+fulﬁll an agreed upon obligation, and it reduces the perceived risk
+of inadequate performance by a partner (Das and Teng, 2001). New
+product development is an uncertain process so that it requires
+ﬁrms to equip with enough ﬂexibility. Manufacturing ﬂexibility,
+being the most important capability against uncertainty in new
+product development, refers to the quickness and ease with which
+plants can respond to changes in market conditions. Being con-
+cerned with NPD as a strategic issue, there are three basic types of
+manufacturing ﬂexibility to consider in our study: mix, volume,
+and delivery time ﬂexibility. These types of ﬂexibility are ﬁrst-
+order ﬂexibility types and will directly affect the competitive
+position of a ﬁrm in a market (Koste and Malhotra, 1999). Mix
+ﬂexibility has typically been measured by the number of products
+that a system produces at any point in time. A highly ﬂexible mix
+has been equated with a broad product line (which has been
+associated with larger market share and proﬁtability). Volume
+ﬂexibility refers to the capacity to quickly expand the quantities of
+a given product mix produced, and it concerns not only with
+vendor response time but also with the ability to expand order
+sizes without extending lead times for delivery. The manufacturer
+with strong manufacturing ﬂexibility can adjust its operations to
+satisfy customer needs quickly and effectively. As a consequence,
+manufacturing ﬂexibility could enhance the competence trust
+between a manufacturer and its customers and competence trust
+may facilitate both the extent and the efﬁciency of
+inter-
+organizational learning (Lui, 2009). Customers without enough
+competence trust on suppliers can lose faith in the supplier's
+ability and commitment to supply them with new products
+according to their needs. This seems to be the case with some of
+the customers who say the supplier’s competence is not strong
+enough to make them continue the cooperation deeply in the
+supply chain management. Therefore, we propose the following
+hypothesis:
+
+H3. Manufacturing ﬂexibility has a positive impact on a ﬁrm's
+level of customer integration.
+
+Manufacturing ﬂexibility of a ﬁrm will depend on the respon-
+siveness and ﬂexibility of its key suppliers (Narasimhan et al.,
+2004). That is to say, supplier responsiveness, as one of the ﬁrm’s
+ﬂexible manufacturing resources, may signiﬁcantly affect how
+quickly the ﬁrm can react to new market conditions. For instance,
+Rho et al.’s (1994) study of 39 machinery and electronics ﬁrms in
+South Korea reported signiﬁcant association between supplier
+relationships and manufacturing ﬂexibility. Effective supplier
+partnership is a key determinant for delivery and ﬂexibility by
+providing more accurate and up-to-date demand and supply
+information, more detailed production plans and forecasts, and
+clearer future trends and directions (Narasimhan et al., 2004).
+With seamless information channels connected to suppliers, and
+thus a high level of supply-chain visibility, manufacturers can
+more easily track variations in production, product quality, inven-
+tory levels, and delivery capability of suppliers. By receiving such
+information in a more timely way, manufacturers can plan and
+adjust their own operations more rapidly, and thereby achieve
+
+greater adaptability to any unexpected events caused by suppliers.
+In addition, by providing suppliers with timely information
+regarding their own changes of plan, manufacturers also allow
+their suppliers to adjust themselves to such changes more rapidly,
+which in return could enhance manufacturer’s ﬂexibility (Wang
+et al., 2006). Consequently, we believe that supplier integration
+should have beneﬁcial effects on a ﬁrm's manufacturing ﬂexibility.
+We propose the following hypothesis:
+
+H4. Supplier integration has a positive impact on a ﬁrm’s level of
+manufacturing ﬂexibility.
+
+2.3. The mediating role of service capability between supplier
+integration on customer integration
+
+Goodwill trust refers to the expectation that a partner intends
+to fulﬁll their role and responsibilities, which is often based on the
+previous positive experience in the relationship (Das and Teng,
+2001). As conﬁdence in a partner’s good intention increases, there
+is closer cooperation, a more open information exchange, and a
+deeper commitment between the partners (Fryxell et al., 2002).
+Lambert et al. (1998) suggest that customer service management is
+a key process for successfully implementing supply chain integra-
+tion. We argue that providing service could be beneﬁcial for
+enhancing trust relationship with customers. Our argument could
+be explained from the following aspects.
+
+First, providing service by a manufacturer leads to an inter-
+active dialog with the customers. The interaction between part-
+ners is the antecedent of mutual trust. Through their direct
+interactions, rather than depending on the second hand experi-
+ence or superﬁcial insight of particular functional personnel, a ﬁrm
+can learn more about customers and improve the information
+quality and knowledge content of customers. That is, intensity and
+richness of
+the interaction enables the deep understanding
+between a manufacturer and its customers so as to improve the
+goodwill trust between them.
+
+Second, service, being integrated with tangible product as an
+offering for customer, is often beyond the expectation of custo-
+mers and it will provide competitive advantage. The services, such
+as maintenance and upgrading activities, contribute very much to
+how the ﬁnal outcome is perceived by the customer (Davies et al.,
+2007). During the service providing, customer may feel that a
+manufacturer will consider its need ﬁrst and make efforts to
+satisfy them, which could enhance the goodwill trust of custo-
+mers. The more practices which are beyond a customer’s expecta-
+tion,
+trust produces between partners.
+Therefore, we propose the following hypothesis:
+
+the more goodwill
+
+H5. Service capability has a positive effect on a ﬁrm’s level of
+customer integration.
+
+A ﬁrm needs to attempt alignment or integration with suppli-
+ers having special resources and technological knowledge to
+implement service strategy.
+Industrial product is complicated
+and a ﬁrm often cannot produce all of components included in
+the product. If it will provide a spare-parts service to its customers,
+it may need the help from its suppliers. In supplier integration,
+suppliers can learn more about the operations of ﬁrms. By
+developing a good understanding of the ﬁrm’s operations, a
+supplier can help improve the ﬁrm’s service capability. In addition,
+supplier integration can provide a ﬁrm the opportunity to focus on
+its core competencies and particular areas of expertise (Stevens,
+1989; Cagliano et al., 2006). By developing a high level of strategic
+integration with suppliers, ﬁrms are able to identify and eliminate
+non-value-added activities and subsequently strengthen product
+quality and delivery reliability capabilities (Rosenzweig et al.,
+2003). Strategic integration synchronizes core competencies and
+
+
+264
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+capabilities of suppliers to jointly achieve improved service cap-
+abilities at lower total supply chain cost (Stank et al., 2001). Hence,
+we propose the following hypothesis:
+
+H6. Supplier integration has a positive impact on a ﬁrm’s service
+capability.
+
+3. Methodology
+
+3.1. Data and sample
+
+The data used in this study were drawn from the ﬁfth round of
+International Manufacturing Strategy Survey (IMSS), a worldwide
+research project using a standard questionnaire which gathers
+information about practices and performance associated with
+manufacturing strategy in a global context. It has been carried
+out since 1992 by an international network of operations strategy
+researchers.
+
+In IMSS-V (starting in 2009), there are 726 valid samples, which
+locate across twenty countries of Europe, Asia and America. In
+countries where English was not a primary or common language,
+the surveys were translated by the research coordinator, typically a
+full-time university professor in the operations management area,
+who would have been familiar with concepts of manufacturing
+strategy in both the national language and English. Questionnaire
+were mailed or emailed to the Director of Operations/Manufactur-
+ing or the General Manager in the company. An attached letter
+explained the purpose of the survey, the structure of the ques-
+tionnaire, and assurances of conﬁdentiality. Questionnaires were
+returned by mail or fax to the country ofﬁce. The surveys were
+administered separately by research coordinators in each of the
+countries, and data were pooled in a common database.
+
+The survey focused on the ISIC Division 38: Manufacture of
+Fabricated Metal Products, Machinery and Equipment. The ﬁnal set
+included 320 samples which had usable responses for the pur-
+poses of this study. Table 1 shows the distribution of 320
+manufacturers by industry and country. ANOVA test found no
+signiﬁcant differences between this subset and the total sample
+regarding size, or production process (Table 2). Thus, usable
+responses might be viewed as a random sample of the complete
+population of respondents; using the complete response subset
+did not bias the conclusions from statistical analyses to follow.
+
+3.2. Measure development
+
+Structural equation modeling (SEM) employing Amos was
+utilized. The measures used in our study were adapted from
+established scales (Cagliano et al., 2006; Kim, 2009; He and Lai,
+2012; Mathieu, 2001; Gebauer, 2007; Moorman and Rust, 1999;
+Hutchison and Das, 2007; Chang et al., 2003). The measurement
+items, factor loadings, and reliabilities are reported in Table 3.
+
+Supplier integration and customer integration were measured
+by six items which focused on the degree of information sharing
+with suppliers and customers, according to Cagliano et al. (2006)
+and Kim (2009). 1 means “none”, and 5 means “high”. The values of
+Cronbach alpha of supplier integration and customer integration
+are both 0.85. Various ways were used to measure manufacturing
+ﬂexibility in literature (Boyle and Scherrer-Rathje, 2009). The
+common approach is to evaluate ﬂexibility based on the following
+dimensions such as mix, volume, delivery (Hutchison and Das,
+2007; Chang et al., 2003). These dimensions are long-term ﬂex-
+ibility and associated with strategic decisions. Respondents were
+asked to assess various manufacturing ﬂexibility compared to
+three years ago. 1 means “deteriorated more than 10% compared
+to three years ago” and 5 means “improved more than 50%
+compared to three years ago”. The Cronbach alpha of this construct
+
+was 0.83. Service capability is deﬁned as the extent of offering
+services in manufacturers. We focused on product-based services
+in our study, such as maintenance of products sold to customers,
+product upgrades, repair, spare-parts and training. Five items,
+adapted from He and Lai (2012), Mathieu (2001) and Gebauer
+(2007), were used to measure the service capability of a manu-
+facturer. The Cronbach alpha of
+this construct was 0.83.
+New product performance was assessed by mostly judgmental
+measures. Judgmental measures of performance are more appro-
+priate than objective performance measures for cross-sectional
+research (Moorman and Rust, 1999). In our study, new product
+performance was measured by three items tapping the extent to
+which the new product achieved its expected quality and relia-
+bility, time to market and innovativeness. Respondents were to ask
+to assess indicators of new product performance compared to
+their main competitors. 1 means “much worse” and 5 means
+“much better”. The Cronbach alpha of this construct was 0.76.
+
+3.3. Validation of measures
+
+We follow Anderson and Gerbings (1988) who recommended
+two-step approach to test our hypotheses. In step 1 we test the
+measurement model to establish validity and reliability of the
+scales used in our analysis and followed by the test of structural
+relationships in step 2. The reliability of scales was measured by
+Cronbach’s alpha. In our study, all values of Cronbach’s alpha
+ranged from 0.76 to 0.85 (see Table 3). Usually, Cronbach of 0.7 or
+above was considered to be the criteria for demonstrating internal
+consistency of new scales and established scales respectively
+(Bagozzi and Yi, 1988). Conﬁrmatory factor analyses were used
+to assess the convergent and discriminant validity of the measures
+with structural equation modeling in AMOS 20.0. The measure-
+ment model ﬁt the data satisfactorily (χ2/df¼1.57, NFI¼0.89,
+RMSEA¼0.04, TLI¼0.95, CFI¼0.96), and all factor loadings were
+highly signiﬁcant (po0.001), which indicated the unidimension-
+ality of the measures (Anderson and Gerbing, 1988). Convergent
+validity was assessed using standardized parameter loadings of
+the measurement items on their respective constructs. All stan-
+dardized parameter loadings were signiﬁcant (p-value o0.01) and
+ranged from 0.58 to 0.81 (see Table 3), providing strong support
+for convergent validity. The composite reliabilities, which ranged
+from 0.77 to 0.86, exceeded 0.70, implying the variance captured
+by the factor is signiﬁcantly more than the variance indicated by
+the error components. Then we assessed the discriminant validity
+of all ﬁve latent constructs. According to the test suggested by
+Fornell and Larcker (1981), discriminant validity was evaluated by
+comparing the AVE (Average Variance Extracted) to the squared
+correlation between the constructs. And Fornell and Larcker
+argued that the square root of AVE for the latent variables should
+be greater than the correlation among the latent variables. Table 4
+shows the means, standard deviations, correlations between con-
+structs, composite reliability and AVE. Taken together, the results
+indicated that the measures in this study possessed reasonably
+adequate reliability and validity.
+
+4. Data analysis and results
+
+SEM is used to analyze the data and its relationships. SEM
+procedures permit modeling of a set of relations among con-
+structs, simultaneous estimation of all hypothesized paths, and
+estimation of indirect or mediating effects. The ﬁnal structural
+equation model with standardized regression weights is shown in
+Fig. 2. Overall, the model has a very good ﬁt with the data (χ2/df
+¼1.61, NFI¼0.88, RMSEA¼0.04, TLI¼0.94, CFI¼0.95) and all of the
+
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+265
+
+Table 1
+Sample composition (n¼320).
+
+Country of origin
+
+Belgium
+Brazil
+Canada
+China
+Denmark
+Estonia
+Germany
+Hungary
+Ireland
+Italy
+Japan
+Korea
+Mexico
+Netherland
+Portugal
+Romania
+Spain
+Switzerland
+Taiwan
+UK
+USA
+ISIC code
+Manufacture of fabricated metal products, except machinery and equipment
+Manufacture of machinery and equipment not elsewhere classiﬁed
+Manufacture of ofﬁce, accounting and computing machinery
+Manufacture of electrical machinery and apparatus not elsewhere classiﬁed
+Manufacture of radio, television and communication equipment and apparatus
+Manufacture of medical, precision and optical instruments, watches and clocks
+Manufacture of motor vehicles, trailers and semi-trailers
+Manufacture of other transport equipment
+
+N
+
+8
+9
+5
+44
+4
+13
+14
+28
+2
+24
+14
+28
+7
+17
+4
+14
+16
+13
+23
+13
+20
+
+98
+85
+10
+46
+22
+21
+21
+17
+
+%
+
+2.5
+2.81
+1.56
+13.75
+1.25
+4.06
+4.38
+8.75
+0.63
+7.5
+4.38
+8.75
+2.18
+5.31
+1.25
+4.38
+5.00
+4.06
+7.19
+4.06
+6.25
+
+30.63
+26.56
+3.13
+14.38
+6.87
+6.56
+6.56
+5.31
+
+Table 2
+Differences between used and unused sample.
+
+Variables
+
+Unused sample Used sample p-Value
+
+Size (total sales of the business unit) 7.7 billion
+Production process (% of value added)
+Fabrication
+Assembly
+
+22.73
+20.94
+
+17.7 billion
+
+0.25
+
+20.46
+23.35
+
+0.27
+0.52
+
+paths are signiﬁcant at the level of 0.1 at least, except for the path
+from service capability to customer integration.
+
+Fig. 2 showed that supplier integration and customer integra-
+tion had positive effects on new product performance (its standard
+coefﬁcients were 0.12 and 0.13, with the signiﬁcance level of 0.1,
+separately), which supported H1 and H2. Supplier integration had
+positive effect on manufacturing ﬂexibility (its standard coefﬁcient
+was 0.23, with the signiﬁcance level of 0.01), and manufacturing
+ﬂexibility had positive effect on customer integration (its standard
+coefﬁcient was 0.17, with the signiﬁcance level of 0.05), which
+supported H3 and H4. Supplier integration had positive effect on
+service capability (its standard coefﬁcient was 0.52, with the
+signiﬁcance level of 0.01, which supported H6), while service
+capability had positive effect on customer integration insignif-
+icantly (its standard coefﬁcient was 0.03, which refused H5).
+
+5. Discussion
+
+Supply chain integration has received increasing attention
+among academicians and practitioners alike in recent years
+(Frohlich and Westbrook, 2001; Vickery et al., 2003; Das and
+Narasimhan, 2006; Swink et al., 2007; Zhao et al., 2008;
+
+Braunscheidel and Suresh, 2009; Flynn et al., 2010). The nature
+of supply chain integration is complex and more knowledge is
+needed on its relation to new product performance (Ragatz et al.,
+2002). This paper extends the previous work by empirically
+exploring the impacts of supplier integration and customer inte-
+gration on new product performance, and the indirect relationship
+between supplier integration and customer integration through
+the mediating roles of manufacturing ﬂexibility and service cap-
+ability based on the theoretical perspective of trust.
+
+In a highly competitive and uncertain environment, ﬂexibility
+and service become two critical factors for obtaining competitive
+advantages (He and Lai, 2012; Koste and Malhotra, 1999;
+Braunscheidel and Suresh, 2009). The beneﬁts of external integra-
+tion must ﬁrst be translated into internal operational capabilities
+(Rosenzweig et al., 2003). First, the results showed that supplier
+integration and customer integration had positively direct effects
+on new product performance. Customer integration was positively
+related with new product performance, with a coefﬁcient of 0.13
+and signiﬁcant level of 0.1, which provided global manufacturing
+empirical evidence to support the positive role of customer
+integration (Bonner, 2005; Fang, 2008; Hartley et al., 1997;
+Petersen et al., 2003). There are inconsistent ﬁndings about role
+of customer integration in literature. The positive aspects of
+sharing information with customers are widely acknowledged,
+but the negative sides are still discussed (Enkel et al., 2005; Tang,
+2006). Too much investment in sharing information with custo-
+mers may limit strategic choice in product development and lead
+to poorer proﬁts and declining overall market share (Swink et al.,
+2007). We argue the inconsistency may attribute to not distin-
+guishing the difference between current and new customers.
+Firms may fail to develop innovative products because they are
+attentive to the needs of current customers (Enkel et al., 2005).
+Customers sometimes ask for familiar products and encourage the
+
+
+266
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+Table 3
+The measurement of all constructs.
+
+Supplier integration: Cronbach α¼0.85
+
+SFL
+
+How do you coordinate planning decisions and ﬂow of goods with your key/strategic suppliers?
+Share inventory level information
+Share production planning and demand forecast information
+Dedicated capacity
+Vendor managed inventory or consignment stock
+Plan, forecast and replenish collaboratively
+Just-in-time replenishment (e.g. kanban)
+Customer integration: Cronbach α¼0.85
+How do you coordinate planning decisions and ﬂow of goods with your key/strategic
+
+0.62
+0.62
+0.65
+0.75
+0.81
+0.78
+
+customers?
+
+0.63
+0.64
+0.77
+0.73
+0.77
+0.69
+
+Share inventory level information
+Share production planning and demand forecast information
+Dedicated capacity
+Vendor managed inventory or consignment stock
+Plan, forecast and replenish collaboratively
+Just-in-time replenishment (e.g. kanban)
+Manufacturing ﬂexibility: Cronbach α¼0.83
+How has your ﬂexibility changed over the last three years?
+Product customization ability
+Volume ﬂexibility
+Mix ﬂexibility
+Delivery speed
+Delivery reliability
+Service capability: Cronbach α¼0.83
+To what extent does your business unit offer the following services alongside with the products?
+0.71
+Maintenance of products sold to customers
+Product upgrades (software, product modiﬁcations)
+0.65
+0.68
+Training in using the products
+0.78
+Repairs
+Spare-parts
+0.71
+New product performance: Cronbach α¼0.76
+How does your current new product performance compare with main competitors?
+Product quality and reliability
+Time to market
+Product innovativeness
+
+0.58
+0.70
+0.73
+0.81
+0.71
+
+0.73
+0.68
+0.77
+
+Model Fit: χ2/df¼1.57, NFI¼0.89, TLI¼0.95, CFI¼0.96, RMSEA¼0.04
+Note: SFL means standardized factor loading.
+
+Table 4
+Discriminate validity test.
+
+Variables
+
+1 supplier integration
+2 customer integration
+3 ﬂexibility
+4 service capability
+5 new product performance
+
+Mean
+
+2.91
+2.99
+3.24
+3.19
+3.43
+
+S.D.
+
+0.78
+0.73
+0.71
+0.94
+0.59
+
+Composite reliability
+
+1
+
+2
+
+3
+
+4
+
+5
+
+0.86
+0.86
+0.83
+0.83
+0.77
+
+0.71
+0.53 nnn
+0.33 nnn
+0.28 nnn
+0.20 nnn
+
+0.71
+0.31 nnn
+0.24 nnn
+0.23 nnn
+
+0.71
+0.28 nn
+0.27 nnn
+
+0.71
+0.29nnn
+
+0.73
+
+The number in the cells of diagonal line are the square root of AVE.
+
+nn p¼0.05.
+nnn p¼0.01
+
+manufacturer not to innovate, as new products usually require the
+customer to put in new supporting resources for the product,
+which would lead to a waste of some customers’ existing resources
+(Lau et al., 2010). By limiting themselves to information acquired
+from current customers, ﬁrms might restrict their capability of
+developing highly innovative products.
+
+The results showed that supplier integration was positively
+related with new product performance, with a coefﬁcient of 0.12
+and a signiﬁcant level of 0.1, which provided empirical evidence to
+support the positive role of supplier integration (Tracey and Tan,
+2001; Petersen et al., 2005; Koufteros et al., 2005; Ragatz et al.,
+2002; Petersen et al., 2003). Our study combined supplier integra-
+tion and customer integration in one study and highlighted that
+
+while the gathering of intelligence about customers’ expressed
+needs and wants is one of useful ways in new product develop-
+ment, supplier integration is also another important way for
+manufacturing ﬁrms, which was consistent with the previous
+literature (Lee et al., 2007).
+
+Second, our results indicated that supplier integration had
+positive indirect effect on customer integration through the
+mediating role of manufacturing ﬂexibility. The nature of relation-
+ship between supplier integration and customer integration is
+complex, and they are signiﬁcantly correlated (Lau et al., 2010;
+Frohlich and Westbrook, 2001; Devaraj et al., 2007). For instance,
+Barua et al. (2004) posit that the supplier-side “digitization” (such
+as the online transactions and information exchanges) serves as a
+
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+267
+
+0.12* 
+
+0.23*** 
+
+Manufacturing
+
+Flexibility
+
+0.17** 
+
+Supplier 
+integration
+
+Customer
+integration
+
+0.13* 
+
+New product
+performance
+
+0.52*** 
+
+Service
+capability
+
+0.03 
+
+***p=0.01
+
+**p=0.05
+
+*p=0.1 
+
+Fig. 2. Structural model results.
+
+exchange
+
+(Osegowitsch
+
+theoretical arguments for
+
+prerequisite for digitization on the customer-side. Without
+increasing supplier-side digitization, a ﬁrm may over-promise
+customers and then fail to deliver. Most of the previous literature
+regarded them as independent constructs and investigated the
+main impact of each integration on ﬁrm performance (Lee et al.,
+2007), while a few explored the interaction effect of supplier
+integration and customer integration (Flynn et al., 2010; Danese
+and Romano, 2011). Current
+the
+expected direct and interacting effects of external and internal
+integration efforts included: the resource-based views of the ﬁrm,
+transaction cost theory, market power, monopoly proﬁt and
+information
+2003;
+Grossman and Helpman, 2002; Yeung et al., 2009; Tan and
+Tracey, 2007). Our results introduced the theoretical perspective
+of trust and explained that manufacturing ﬂexibility was a core
+competence against uncertainty in NPD so as to build competence
+trust between a manufacturer and its customers. Our argument
+that supply chain integration can enhance internal operational
+capability is consistent with other authors. For example, Lau et al.
+(2010) found that supplier integration improved performance,
+mediated by capability of product innovation. Other empirical
+studies validate the direct and positive impacts of supply chain
+integration on productivity, ﬂexibility, and quality (Rosenzweig
+et al., 2003; Swink et al., 2007). What is more important, our study
+not only supported the theoretical perspective of trust in supply
+chain integration which being consistent with Yeung et al. (2009)
+but also made a further step by separating and discussing the role
+of competence trust and goodwill trust.
+
+and Madhok,
+
+Our results about the indirect relationship between supplier
+integration and customer integration can support and extend the
+evolutionary argument of supply chain integration. At a strategic
+level, there could be a common set of steps that organizations pass
+through to improve their supply chain integration maturity. A four
+stage integration model was proposed in literature (Stevens, 1989;
+Poirier and Quinn, 2003), where a focal organization matures from
+baseline to external integration. Our empirical evidence showed
+that at the fourth stage of Stevens’s (1989) model, the ﬁrst sub-
+step may be supplier integration, and then is customer integration
+because of the positive effect of supplier integration on customer
+integration.
+
+Our results did not support the mediating role of service
+capability in the relationship between supplier integration and
+customer integration, although supplier integration had positive
+effect on service capability. On one hand, the positive effect of
+supplier integration on service capability is consistent with pre-
+vious literature (He and Lai, 2012). The service offering provided
+by manufacturing industries is often complicated and technology
+intensive, which needs the cooperation with suppliers. On the
+other hand, we did not ﬁnd the positive effect of service capability
+on customer integration. We insist on the theoretical development
+
+of relationship between service capability and customer integra-
+tion from the perspective of goodwill trust. The rejection of this
+hypothesis may attribute to measurement of service capability
+which was emphasized as capability providing product-based
+service in our study. Mathieu (2001) argued that product-based
+service such as maintenance and repair no longer lead to a
+sustainable competitive advantage within many industries.
+As product-based service offerings spread throughout the manu-
+facturing industries, their distinctiveness erodes and they become
+minimum requirements. He and Lai (2012) proposed that custo-
+mer action-based service has more positive direct effect on ﬁrm
+performance than product-based service has. Therefore, product-
+based service is not enough to enhance the trust with customers
+so as to improve customer integration in our study.
+
+In an effort to probe into the relationship between supplier
+integration and customer integration and their effects on new
+product performance, this paper has made several theoretical and
+empirical contributions as follows. First, most of
+literature
+regarded supplier integration and customer integration as inde-
+pendent constructs and a few explored the interaction effect of
+these two constructs (Lee et al., 2007; Flynn et al., 2010; Danese
+and Romano, 2011). Our ﬁndings contribute to this ﬁeld by
+exploring the indirect relationship between supplier integration
+and customer integration through the mediating roles of manu-
+facturing ﬂexibility and service capability. At the same time, the
+positive effect of supplier integration on customer integration
+could support and extend the evolutionary argument of supply
+chain integration in this ﬁeld (Stevens, 1989; Poirier and Quinn,
+2003; Frohlich and Westbrook, 2001). Second, our study proposed
+the manufacturing ﬂexibility as a mediator between supplier
+integration and customer
+integration from the theoretical
+perspective of trust, which can contribute to the understanding
+of mechanism of supply chain integration. Previous literature
+explain the mechanism of supply chain integration using transac-
+tion cost theory, market power, monopoly proﬁt and information
+exchange (e.g. Tan and Tracey, 2007; Osegowitsch and Madhok,
+2003; Grossman and Helpman, 2002; Yeung et al., 2009). These
+theoretical perspectives are mainly located in the ﬁeld of econom-
+ics, which cannot completely explain the social aspect of supply
+chain integration. The perspective of trust could complement the
+theories of economics and add insights to supply chain integration.
+Third, customer integration is mostly emphasized in new product
+development and the impact of supplier integration is neglected in
+literature (Ragatz et al., 2002; Primo and Amundson, 2002). There
+are a few research studies in the product development arena
+where both supplier and customer integration variables are
+included in the same study (Lee et al., 2007; Flynn et al., 2010;
+Danese and Romano, 2011). Our study contributed to this ﬁeld by
+simultaneously examining the effects of customer integration and
+supplier integration on new product performance in global man-
+ufacturing industries. Fourth, many research studies found that
+supplier and customer integration can directly improve company
+performance but contain little discussion about the indirect effects
+of this integration on performance (Rosenzweig et al., 2003;
+Vickery et al., 2003). We provide answers to the important
+question of how supplier integration and customer integration
+affect new product performance. Finally, we make empirical
+contribution by providing global evidence of supply chain integra-
+tion by IMSS data, and by introducing the method of structural
+equation modeling.
+
+5.1. Managerial implications
+
+In product development, it is difﬁcult for manufacturers to
+manage the entire product development process without involve-
+results provide
+ment
+
+from suppliers and customers. Our
+
+
+268
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+managerial insights about speciﬁc practices that work in product
+development projects. First, managers are suggested to emphasize
+the positive role of supplier integration in new product develop-
+ment, besides customer integration. Collaborative new product
+development environment has a positive effect (Tan and Tracey,
+2007) so that ﬁrms should provide incentives for suppliers to offer
+suggestions regarding product design and component simpliﬁca-
+tion to improve new product performance. Both supplier and
+customer integration are valuable assets for a company to improve
+innovation performance. Second, it has been proposed that imple-
+menting integration both upstream and downstream is better than
+concentrating the ﬁrm’s efforts on integrating customers or
+suppliers only. The fragmented supply chains have some dangers
+of misunderstanding and distrust. Third, supply chain integration
+is not easy to realize and needs much investment (such as
+development of IT infrastructure). Understanding how to manage
+relationships through trust is important in the discourse of supply
+chain integration. It is suggested that a manufacturer may inte-
+grate suppliers ﬁrst, and then customers. On one hand, supplier
+integration is relatively easier to realize than customer integration.
+On the other hand, supplier integration could improve customer
+integration through enhancing manufacturing ﬂexibility. Fourth,
+managers are suggested to develop customer action oriented
+service (not only emphasizing product based service) which is
+more difﬁcult to imitate and can add value to their products and
+satisfy more complex customer demands, which is beneﬁcial for
+enhancing the trust with customers.
+
+5.2. Limitations and future directions
+
+The theoretical and methodological limitations suggest a vari-
+ety of future research directions. First, we have emphasized the
+product-based service which was one type of industrial services. It
+may be useful for future research to explore the role of customer
+action oriented service in the mechanism of supply chain integra-
+tion. Second, there are different approaches to deﬁning integration
+in literature, besides information sharing. Future studies are
+suggested to explore other mechanisms of integration, such as
+co-development product, system integration, and process coordi-
+nation (Rosenzweig et al., 2003; Vickery et al., 2003; Stevens,
+1989). In addition, it needs to identify different types of informa-
+tion sharing with customers and suppliers and examine their
+effects in new product development. For instance, Enkel et al.
+(2005) argue that sharing technological and marketing informa-
+tion with customers may be detrimental to a ﬁrm if the customer
+takes this knowledge to a competitor for product development,
+which leads to a reduction in the comparative advantage of a
+ﬁrm’s new products in the marketplace. Third, future direction
+should pursue to compare the integration mechanism with differ-
+ent customers (such as current and potential customers). Informa-
+tion shared by customers may be restricted to what is familiar to
+the customers. Firms may fail to develop innovative products
+because they are attentive to the needs of current customers
+(Enkel et al., 2005). Katz (2003) also argues that customers
+sometimes ask for familiar products and encourage the ﬁrm not
+to innovate, as new products usually require the customer to put
+in new supporting resources for the product, which would lead to
+a waste of some customers’ existing resources. Fourth, future study
+is suggested to compare the effects of supplier integration and
+customer integration in different stages of new product develop-
+ment, such as concept development, design and new product
+testing. Fifth, we focused on the ISIC Divison 38 and our remarks
+are limited to these sectors. We recommend applying our ﬁndings
+to other branches which are confronted with similar problems.
+
+6. Conclusion
+
+This article has explored the relationships between supplier
+integration and customer integration and their impacts on new
+product performance in global manufacturing industries. With
+reliable and robust IMSS-V data, we ﬁnd that supplier integration
+and customer integration have positive effects on new product
+performance. And supplier integration has positive impact on
+customer integration through the mediating role of manufacturing
+ﬂexibility. From an academic perspective, this paper is an impor-
+tant empirical step in research of supply chain integration and
+new product performance in global manufacturing industries.
+Furthermore, the method of structural equation modeling is
+introduced, which may examine the dynamic and complicated
+relationship between supplier integration, customer integration
+and new product performance. From a practitioner perspective,
+our ﬁndings suggest supplier integration and customer integration
+should be emphasized simultaneously in new product develop-
+ment. Managers may also adopt practices of supplier integration
+ﬁrst because these practices will enhance customer integration so
+as to improve new product performance.
+
+Acknowledgment
+
+This paper is ﬁnancial supported by National Natural Science
+Foundation of China (No. 71172088) and Innovation Research Fund
+of Huazhong University of Science and Technology (2011WA004)
+and a General Research Fund (CityU 148808) offered by the Hong
+Kong SAR Government.
+
+References
+
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a
+review and recommended two-step approach. Psychological Bulletin 103,
+411–423.
+
+Bagozzi, R., Yi, Y., 1988. On the evaluation of structural equation models. Journal of
+
+the Academy of Marketing Science 16, 74–94.
+
+Bajaj, A., Kekre, S., Srinivasan, K., 2004. Managing NPD: cost and schedule
+performance in design and manufacturing. Management Science 50 (4),
+527–536.
+
+Barua, A., Konana, P., Whinston, A.B., Yin, F., 2004. An empirical investigation of net-
+
+enabled business value. MIS Quarterly 28 (4), 585–620.
+
+Bonaccorsi, A., Lipparini, A., 1994. Strategic partnerships in new product develop-
+ment: an Italian case study. Journal of Product Innovation Management 11 (2),
+134–145.
+
+Bonner, J.M., 2005. The inﬂuence of formal controls on customer interactivity in
+
+new product development. Industrial Marketing Management 34 (1), 63–69.
+
+Boyle, T.A., Scherrer-Rathje, M., 2009. An empirical examination of the best
+practices to ensure manufacturing ﬂexibility. Journal of Manufacturing Tech-
+nology Management 20 (3), 348–366.
+
+Braunscheidel, M.J., Suresh, N.C., 2009. The organizational antecedents of a ﬁrm’s
+supply chain agility for risk mitigation and response. Journal of Operations
+Management 27 (2), 119–140.
+
+Cagliano, R., Caniato, F., Spina, G., 2006. The linkage between supply chain
+integration and manufacturing improvement programmes. International Jour-
+nal of Operations & Production Management 26 (3/4), 282–299.
+
+Chang, S., Yang, C., Cheng, H., Sheu, C., 2003. Manufacturing ﬂexibility and business
+strategy: an empirical study of small and medium sized ﬁrms. International
+Journal of Production Economics 83 (1), 13–26.
+
+Chesbrough, H.W., 2003. The era of open innovation. Sloan Management Review,
+
+44. MIT pp. 35–41.
+
+Clark, K.B., 1989. Project scope and project performance: the effect of parts strategy
+and supplier involvement on product development. Management Science 35
+(10), 1247–1263.
+
+Danese, P., Romano, P., 2011. Supply chain integration and efﬁciency performance: a
+study on the interactions between customer and supplier integration. Supply
+Chain Management: An International Journal 16 (4), 220–230.
+
+Das, R., Narasimhan, S.T., 2006. Supplier integration-ﬁnding an optimal conﬁgura-
+
+tion. Journal of Operations Management 24 (5), 563–582.
+
+Das, T.K., Teng, B.S., 2001. Trust, control, and risk in strategic alliances: an integrated
+
+framework. Organization Studies 22 (2), 251–283.
+
+Davies, A., Brady, T., Hobday, M., 2007. Organizing for solutions: systems seller vs
+
+systems integrator. Industrial Marketing Management 36, 183–193.
+
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+269
+
+Devaraj, S., Krajewski, L., Wei, J.C., 2007. Impact of eBusiness technologies on
+operational performance: the role of production information integration in the
+supply chain. Journal of Operations Management 25 (6), 1199–1216.
+
+Droge, C., Jayaram, J., Vickery, S.K., 2000. The ability to minimize the timing of new
+product development and introduction: an examination of antecedent factors
+in the North American automobile supplier industry.
+Journal of Product
+Innovation Management 17 (1), 24–40.
+
+Dyer, B., Gupta, A.K., Wilemon, D., 1999. What ﬁrst-to-market companies do
+
+differently. Research-Technology Management 42 (2), 15–21.
+
+Enkel, E., Kausch, C., Gassmann, O., 2005. Managing the risk of customer integra-
+
+tion. European Management Journal 23 (2), 203–213.
+
+Fang, E., 2008. Customer participation and the trade-off between new product
+
+innovativeness and speed to market. Journal of Marketing 72 (4), 90–104.
+
+Fawcett, S.E., Magnan, G.M., 2002. The rhetoric and reality of supply chain
+integration. International Journal of Physical Distribution and Logistics Manage-
+ment 32 (5), 339–361.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on
+performance: a contingency and conﬁguration approach. Journal of Operations
+Management 28 (1), 58–71.
+
+Fornell, C., Larcker, D.E., 1981. Evaluating structural equation models with unob-
+servable variables and measurement error. Journal of Marketing Research 18,
+39–50.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an international study
+Journal of Operations Management 19 (2),
+
+of supply chain strategies.
+185–200.
+
+Frohlich, M.T., Westbrook, R., 2002. Demand chain management in manufacturing
+Journal of
+
+and services: web-based integration, drivers, and performance.
+Operations Management 20 (6), 729–745.
+
+Fryxell, G.E., Dooley, R.S., Vryza, M., 2002. After the ink dries: the interaction of
+trust and control in US-based international joint ventures. Journal of Manage-
+ment Studies 39 (6), 865–886.
+
+Fuller, J., Faullant, R., Matzler, K., 2010. Triggers for virtual customer integration in
+the development of medical equipment-From a manufacturer and a user’s
+perspective. Industrial Marketing Management 39 (8), 1376–1383.
+
+Gebauer, H., 2007. The logic for increasing service revenue in product manufactur-
+ing companies. International Journal of Services and Operations Management 3
+(4), 394–410.
+
+Grossman, G.M., Helpman, E., 2002. Integration versus outsourcing in industry
+
+equilibrium. The Quarterly Journal of Economics 117 (1), 85–120.
+
+Lau, A.K.W., Tang, E., Yam, R.C.M., 2010. Effects of supplier and customer integration
+innovation and performance: empirical evidence in Hong
+Journal of Product Innovation Management 27 (5),
+
+on product
+Kong manufacturers.
+761–777.
+
+Lee, C.W., Kwon, I.G., Severance, D., 2007. Relationships between supply chain
+performance and degree of linkage among supplier, internal integration and
+customer. Supply Chain Management: An International
+Journal 12 (6),
+444–452.
+
+Leonard-Barton, D., Bowen, H.K., Clark, K., Holloway, C.A., Wheelwright, S.C., 1994.
+Regaining the lead in manufacturing: how to integrate work and deepen
+expertise. Harvard Business Review 72 (5), 121–130.
+
+Lin, M.J., Chen, C., 2008. Integration and knowledge sharing: transforming to long-
+term competitive advantage. International Journal of Organizational Analysis 16
+(1/2), 83–108.
+
+Lui, S.S., 2009. The roles of competence trust, formal contract, and time horizon in
+
+interorganizational learning. Organization Studies 30 (4), 333–353.
+
+Mathieu, V., 2001. Service strategies within the manufacturing sector: beneﬁts,
+costs and partnerships. International Journal of Service Industry Management
+12 (5), 451–475.
+
+McCarter, M.W., Northcraft, G.B., 2007. Happy together? Insights and implications
+of viewing managed supply chains as a social dilemma. Journal of Operations
+Management 25, 498–511.
+
+Mele, C., Spena, T.R., Colurcio, M., 2010. Co-creating value innovation through
+resource integration. International Journal of Quality and Service Sciences 2 (1),
+60–78.
+
+Mithas, S., Krishnan, M.S., Formell, C., 2005. Why do customer relationship
+management applications affect customer satisfaction? Journal of Marketing
+69 (4), 201–209.
+
+Moorman, C., Rust, R., 1999. The role of marketing. Journal of Marketing, 63 (Special
+
+issue), 180–197.
+
+Morgan, R.M., Hunt, S.D., 1994. The commitment-trust theory of relationship
+
+marketing. Journal of Marketing 58 (3), 20–38.
+
+Narasimhan, R., Talluri, S., Das, A., 2004. Exploring ﬂexibility and execution
+competencies of manufacturing ﬁrms. Journal of Operations Management 22,
+91–106.
+
+Narasimhan, R., Das, A., 1999. An empirical investigation of the contribution of
+strategic sourcing to manufacturing ﬂexibilities and performance. Decision
+Sciences 30 (3), 683–718.
+
+Osegowitsch, T., Madhok, A., 2003. Vertical integration is dead, or is it? Business
+
+Gupta, A.K., Souder, W.E., 1998. Key drivers of reduced cycle time. Research-
+
+Horizons 46 (2), 25–34.
+
+Technology Management 41 (4), 38–43.
+
+Handﬁeld, G., Ragatz, K., Petersen, R.M., 1999. Involving suppliers in new product
+
+development. California Management Review 42 (1), 59–82.
+
+Handﬁeld, R., Petersen, K., Cousins, P., Lawson, B., 2009. An organizational
+entrepreneurship model of supply management integration and performance
+outcomes. International Journal of Operations & Production Management 29
+(2), 100–126.
+
+Hartley, J.L., Zirger, B.J., Kamath, R., 1997. Managing the buyer-supplier interface for
+on-time performance in product development. Journal of Operations Manage-
+ment 15 (1), 57–70.
+
+He, Y., Lai, K.K., 2012. Supply chain integration and service oriented transformation:
+Journal of
+
+evidence from Chinese equipment manufacturers.
+Production Economics 135 (2), 791–799.
+
+International
+
+Hong, P., Doll, W.J., Nahm, A.Y., Li, X., 2004. Knowledge sharing in integrated
+product development. European Journal of Innovation Management 7 (2),
+102–112.
+
+Hutchison, J., Das, S.R., 2007. Examining a ﬁrm’s decisions with a contingency
+framework for manufacturing ﬂexibility. International Journal of Operations &
+Production Management 27, 159–180.
+
+Jain, V., Wadhwa, S., Deshmukh, S.G., 2009. Select supplier-related issues in
+modeling a dynamic supply chain: potential, challenges and direction for
+future research.
+Journal of Production Research 47 (11),
+3013–3039.
+
+International
+
+Jayaram, K.C., Tan, S.P.N., 2010. Examining the interrelationships between supply
+chain integration scope and supply chain management efforts. International
+Journal of Production Research 48 (22), 6837–6857.
+
+Katz, R., 2003. The Human Side of Managing Technological Innovation (2nd ed).
+
+New York: Oxford University Press.
+
+Kessler, E.H., Chakrabarti, A.K., 1996. Innovation speed: a conceptual model of
+context, antecedents, and outcomes. Academy of Management Review 21,
+1143–1191.
+
+Kim, S.W., 2009. An investigation on the direct and indirect effect of supply chain
+integration on ﬁrm performance. International Journal of Production Econom-
+ics 119 (2), 328–346.
+
+Koste, L.L., Malhotra, M.K., 1999. A theoretical
+
+framework for analyzing the
+dimensions of manufacturing ﬂexibility. Journal of Operations Management
+18 (1), 75–93.
+
+Koufteros, X., Vonderembse, M., Jayaram, J., 2005. Internal and external integration
+for product development: the contingency effects of uncertainty, equivocality,
+and platform strategy. Decision Sciences 36 (1), 97–133.
+
+Lam, P.K., Chin, K.S., 2005. Identifying and prioritizing critical success factors for
+conﬂict management in collaborative new product development. Industrial
+Marketing Management 34 (8), 761–772.
+
+Lambert, D.M., Cooper, M.C., Pagh, J.D., 1998. Supply chain management imple-
+mentation issues and research opportunities. International Journal of Logistics
+Management 9 (2), 1–18.
+
+Petersen, K.J., Handﬁeld, R.B., Ragatz, G.L., 2005. Supplier integration into new
+product development: coordinating product, process and supply chain design.
+Journal of Operations Management 23 (3/4), 371–388.
+
+Petersen, K.J., Handﬁeld, R.B., Ragatz, G.L., 2003. A model of supplier integration
+into new product development. Journal of Product Innovation Management 20,
+284–299.
+
+Piller, F.T., Walcher, D., 2006. Toolkit for idea competitions: a novel method to
+integrate users in new product development. R&D Management 36 (3),
+307–318.
+
+Poirier, C.C., Quinn, F.J., 2003. A survey of supply chain progress. Supply Chain
+
+Management Review 7 (5), 40–47.
+
+Poppo, L., Zenger, T., 2002. Do formal contracts and relational governance function
+
+as substitutes or complements? Strategic Management Journal 23, 707–725.
+
+Primo, M.A.M., Amundson, S.D., 2002. An exploratory study of the effects of
+Journal of
+
+supplier relationships on new product development outcomes.
+Operations Management 20 (1), 33–52.
+
+Ragatz, G.L., Handﬁeld, R.B., Petersen, K.J., 2002. Beneﬁts associated with supplier
+integration into new product development under conditions of technology
+uncertainty. Journal of Business Research 55 (5), 389–400.
+
+Rho, B.H., Hahm, Y.S., Yu, Y.M., 1994. Improving interface congruence between
+manufacturing and marketing in industrial product manufacturers. Interna-
+tional Journal of Production Economics 37, 27–40.
+
+Richey, R.J., Roath, A.S., Whipple, J.M., Fawcett, S.E., 2010. Exploring governance
+theory of supply chain management: Barriers and facilitators to integration.
+Journal of Business Logistics 31 (1), 237–256.
+
+Rosenzweig, E.D., Roth, A.V., Dean Jr., J.W., 2003. The inﬂuence of an integration
+strategy on competitive capabilities and business performance: an exploratory
+study of consumer products manufacturers. Journal of Operations Management
+21 (4), 437–456.
+
+Sako, M., 1992. Prices, Quality and Trust: Inter-ﬁrm Relations in Britain and Japan.
+
+Cambridge University Press, Cambridge.
+
+Spekman, R.E., Spear, J., Kamauff, J., 2002. Supply chain competency: learning as a
+key component. Supply Chain Management: An International Journal 7 (1),
+41–55.
+
+Stank, T.P., Keller, S.B., Daugherty, P.J., 2001. Supply chain collaboration and
+
+logistical service performance. Journal of Business Logistics 22 (1), 29–48.
+
+Stevens, G.C., 1989. Integrating the supply chain. International Journal of Physical
+
+Distribution and Materials Management 19 (8), 3–8.
+
+Swink, M., Narasimhan, R., Wang, C., 2007. Managing beyond the factory walls:
+effects of four types of strategic integration on manufacturing plant perfor-
+mance. Journal of Operations Management 25 (1), 148–164.
+
+Tan, C.L., Tracey, M., 2007. Collaborative new product development environments:
+implications for supply chain management. Journal of Supply Chain Manage-
+ment 43 (3), 2–15.
+
+Tang, C.S., 2006. Perspectives in supply chain risk management. International
+
+Journal of Production Economics 42 (3), 1944–1958.
+
+
+270
+
+Y. He et al. / Int. J. Production Economics 147 (2014) 260–270
+
+Tessarolo, P., 2007.
+
+Is integration enough for fast product development? An
+empirical investigation of the contextual effects of product vision. Journal of
+Product Innovation Management 24, 69–82.
+
+Thomke, S., von Hippel, E., 2002. Customers as innovators: a new way to create
+
+value. Harvard Business Review 80 (4), 74–81.
+
+Tollin, K., 2002. Customization as a business strategy-a barrier to customer
+integration in product development? Total Quality Management 13 (4),
+427–439.
+
+Tracey, M., Tan, C.L., 2001. Empirical analysis of supplier selection and involvement,
+customer satisfaction and ﬁrm performance. Supply Chain Management: An
+International Journal 6 (4), 174–188.
+
+Vachon, S., Halley, A., Beaulieu, M., 2009. Aligning competitive priorities in the
+supply chain: the role of interactions with suppliers. International Journal of
+Operations & Production Management 29 (4), 322–334.
+
+Vargo, S.L., Lusch, R.F., 2008. Service-dominant logic: continuing the evolution.
+
+Journal of the Academy Marketing Science 36, 1–10.
+
+Vickery, S.K., Jayaram, J., Droge, C., Calantone, R., 2003. The effects of an integrative
+supply chain strategy on customer service and ﬁnancial performance: an
+
+analysis of direct versus indirect relationships. Journal of Operations Manage-
+ment 21 (5), 523–539.
+
+Wang, E.T.G., Tai, J.C.F., Wei, H., 2006. A virtual integration theory of improved
+supply-chain performance. Journal of Management Information Systems 23 (2),
+41–64.
+
+Williamson, O.E., 1993. Calculativeness, trust, and economic organization. Journal of
+
+Law & Economics 36, 453–486.
+
+Wong, C.Y., Boon-itt, S., Wong, C.W.Y., 2011. The contingency effects of environ-
+mental uncertainty on the relationship between supply chain integration and
+operational performance. Journal of Operations Management 29 (6), 604–615.
+Yeung, J.H.Y., Selen, W., Zhang, M., Huo, B., 2009. The effects of trust and coercive
+power on supplier integration. International Journal of Production Economics
+120 (1), 66–78.
+
+Zedtwitz, M., Gassmann, O., 2002. Market versus technology drive in R&D
+internationalization: four different patterns of managing research and devel-
+opment. Research Policy 31 (4), 569–588.
+
+Zhao, X., Huo, B., Flynn, B.B., Yeung, J., 2008. The impact of power and relationship
+commitment on the integration between manufacturers and customers in a
+supply chain. Journal of Operations Management 26 (3), 368–388.
+

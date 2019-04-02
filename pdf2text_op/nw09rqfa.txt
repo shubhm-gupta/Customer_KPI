@@ -1,0 +1,1624 @@
+Rev Quant Finan Acc (2009) 32:197–209
+DOI 10.1007/s11156-008-0090-y
+
+O R I G I N A L R E S E A R C H
+
+Corporate social responsibility and ﬁnancial
+performance: the ‘‘virtuous circle’’ revisited
+
+Edward Nelling Æ Elizabeth Webb
+
+Published online: 14 May 2008
+Ó Springer Science+Business Media, LLC 2008
+
+Abstract We examine the causal relation between corporate social responsibility (CSR)
+and ﬁnancial performance. Consistent with past studies, we ﬁnd that the two variables
+appear to be related when we use traditional statistical techniques. However, using a time
+series ﬁxed effects approach, we ﬁnd that the relation between CSR and ﬁnancial per-
+formance is much weaker than previously thought. We also ﬁnd little evidence of causality
+between ﬁnancial performance and narrower measures of social performance that focus on
+stakeholder management. Our results suggest that strong stock market performance leads
+to greater ﬁrm investment in aspects of CSR devoted to employee relations, but that CSR
+activities do not affect ﬁnancial performance. We conclude that CSR is driven more by
+unobservable ﬁrm characteristics than by ﬁnancial performance.
+Keywords Corporate governance  Corporate culture  Social responsibility
+
+JEL Classiﬁcation G34  M14
+
+1 Introduction
+
+The area of corporate social responsibility (CSR) has become a notable topic both in the
+business and academic press. McWilliams and Siegel (2001) deﬁne CSR as ‘‘actions that
+appear to further some social good, beyond the interests of the ﬁrm and that which is
+required by law,’’ (p. 17). Examples of CSR include support of local businesses or char-
+ities, developing recycling programs, and promoting minority employment. Though these
+activities certainly result in societal beneﬁts, opinions differ as to whether a ﬁrm’s CSR
+activity enhances ﬁnancial performance. For instance, CSR has been described as being
+
+E. Nelling (&)
+LeBow College of Business, Drexel University, Philadelphia, PA 19104, USA
+e-mail: nelling@drexel.edu
+
+E. Webb
+School of Business, La Salle University, Philadelphia, PA 19141, USA
+
+123
+
+
+198
+
+E. Nelling, E. Webb
+
+‘‘little more than a cosmetic treatment,’’ (The Good Company 2005) while an earlier article
+in the ﬁnancial press touted the economic advantages for companies practicing CSR
+(Fittipaldi 2004).
+
+CSR has attracted the attention of mutual fund investors, including TIAA CREF, and a
+number of funds use CSR as a screening device for investment selection. However, any
+beneﬁts investors derive from including socially responsible ﬁrms in their portfolios do not
+appear to be in form of superior returns. Bello (2005) matches socially responsible mutual
+funds to conventional funds in the late 1990s and ﬁnds no signiﬁcant difference in long-run
+investment performance or portfolio diversiﬁcation between the two groups. According to
+Statman (2000), the Domini Social Index (DSI) did as well as the S&P 500 between 1990
+and 1998. He ﬁnds that some socially responsible funds performed worse than the S&P 500
+and the DSI, but fared no worse than conventional mutual funds during the time period.
+Academic research has examined the causal relation between CSR and ﬁnancial
+performance—what is sometimes referred to as the ‘‘virtuous circle’’—to determine if
+‘‘doing good’’ socially leads to ‘‘doing well’’ ﬁnancially, and whether ﬁrms exhibiting
+superior ﬁnancial performance devote more resources to social activities. Why should a
+‘‘virtuous circle’’ exist? Waddock and Graves (1997) suggest that positive stakeholder
+relationships can reduce the likelihood of difﬁculty when dealing with groups such as
+employees, customers, and the community. In addition, good social performance and
+good managerial practice may be related, so this in turn may lead to strong ﬁnancial
+performance. For instance, Cheng et al. (2006) ﬁnd that ﬁrms with strong shareholder
+rights tend to have a lower cost of equity capital than competing ﬁrms, which supports
+the idea that reducing agency problems between stakeholders and management improves
+ﬁnancial performance. Ferreira et al. (2008) ﬁnd that large ﬁrms beneﬁt in the form of
+positive long-run stock performance following certiﬁcation of quality management. This
+suggests that in the case of large companies, good managerial practice does indeed
+improve the bottom line.
+
+The empirical evidence suggests that a virtuous circle exists. Waddock and Graves
+(1997) and Hillman and Keim (2001) ﬁnd that increased CSR leads to enhanced ﬁnancial
+performance and vice versa. McGuire et al. (1988) ﬁnd that prior year’s stock returns and
+accounting-based performance measures are related to current measures of CSR, but that a
+past record of good social performance does not affect the current ﬁnancial performance of
+a ﬁrm.
+
+Despite the extensive body of research on CSR and ﬁnancial performance, we believe
+that additional analysis is warranted. In this study, we use alternative statistical techniques
+to provide new insights on the causal relationship between ﬁrm performance and CSR. The
+studies cited above and others on the topic have typically employed ordinary least squares
+(OLS) regressions with 1-year lagged values of one variable (e.g., CSR) used as deter-
+minants of the other (e.g., ROA). Indeed, we also ﬁnd that CSR and performance are
+related when we use standard OLS regression models. However, in a time series ﬁxed
+effects approach with over 2,800 ﬁrm-year observations, we ﬁnd that the relation between
+CSR and ﬁnancial performance is much weaker than that documented in past studies. We
+also ﬁnd little evidence of causality between ﬁnancial performance and narrower measures
+of social performance. Overall, we ﬁnd weak evidence that strong stock market perfor-
+mance leads to greater levels of CSR that focus speciﬁcally on employee relations.
+However, CSR activity does not lead to changes in a ﬁrm’s ﬁnancial performance.
+
+This study contributes to the literature on CSR in several ways. We use a more com-
+prehensive time-series of CSR data relative to past studies. Also, previous research
+analyzing the link between CSR and ﬁnancial performance does not account for possible
+
+123
+
+
+Corporate social responsibility and ﬁnancial performance
+
+199
+
+persistence or unobservable characteristics that may play a role in the level of CSR activity
+undertaken by a ﬁrm. We examine these important considerations by using Granger
+causality and controlling for ﬁrm ﬁxed-effects in our time series. We also use a Tobit
+speciﬁcation for models of CSR causality to account for the censored nature of the data.
+Finally, our speciﬁcations also include analysis of narrow measures of social performance
+such as how the company treats employees, the environment, the community, and diversity
+issues. The use of appropriate statistical methods and examination of the components of
+CSR yield added insights regarding the relation between CSR and ﬁnancial performance.
+
+2 Data and research methods
+
+To measure CSR, we use the KLD Socrates Database.1 This database rates companies on
+the various degrees of social responsibility including community participation, diversity,
+employee interests, environmental considerations, and shareholder interests. This index is
+superior to alternative measures of CSR because it is compiled by an independent rating
+service that focuses on a wide range of ﬁrms over a broad spectrum of CSR screens,
+whereas alternative measures of CSR focus on a small sample of ﬁrms or use a narrow
+CSR screen. Each screen in the KLD database is summarized in terms of strengths
+(positive values) and concerns (negative values). For instance, the community screen is
+calculated on the basis of strengths, such as generous giving or support for education in the
+area, and concerns, such as investment controversies or negative economic impact on the
+community.
+
+We calculate a weighted average of the overall index to represent each ﬁrm’s aggregate
+level of CSR, using the weights developed by Waddock and Graves (1997). We use these
+weights to facilitate comparison of results, and to highlight the effect of a different esti-
+mation methodology on statistical inferences. Waddock and Graves calculate weights
+using expert panel evaluations on the relative importance of each CSR attribute. Weigh-
+tings are as follows: Employee relations: 0.168; Product: 0.154; Community relations:
+0.148; Environment: 0.142; Treatment of women and minorities: 0.136; Nuclear power:
+0.089; Military contracts: 0.086; South Africa: 0.076. Our sample extends from 1993 to
+2000 and includes data on more than 600 U.S. ﬁrms. We assess ﬁnancial performance
+using both accounting (return on assets, or ROA) and market-based (common stock
+returns) measures from Compustat.
+
+Table 1 presents summary statistics for our measures of CSR and ﬁnancial performance
+and control variables. The variable SCORE, which is the sum of the individual scores for
+the various CSR strengths and concerns, ranges from -11 (indicating signiﬁcant concerns)
+to +11 (indicating signiﬁcant strengths), with a median value of zero. The minimum
+WSCORE, which represents the weighted average measure of CSR for each ﬁrm, is -1.07
+with a maximum value of +1.74. We then create narrower CSR scores by summing the
+scores in four categories of the KLD index: community, diversity, employee relations, and
+environment. The median value for each is zero. The lowest minimum score is for total
+environment score at -5 while the highest maximum score is diversity at 7. Panel B
+presents data on the values of SCORE by industry. Not surprisingly, signiﬁcantly negative
+averages appear in the tobacco industry (average = -2.08), the mining industry (aver-
+age = -1.54), and the transportation industry (average = -1.43). The largest positive
+average (1.02) exists in the retail trade industry, possibly because these ﬁrms stand to
+
+1 Information about this database is available online at http://www.kld.com/research/socrates/index.html.
+
+123
+
+
+200
+
+E. Nelling, E. Webb
+
+Table 1 Descriptive statistics and CSR score by industry
+
+Mean
+
+Median
+
+Min
+
+Max
+
+N
+
+Panel A
+
+CSR SCORE
+
+W_SCORE
+
+Return on assets (%)
+
+Annual stock return (%)
+
+Environmental score
+
+Community score
+
+Employee score
+
+Diversity score
+
+Panel B—CSR SCORE by industry
+
+Mining
+
+Construction
+
+Tobacco products
+
+Textile mill products
+
+Lumber and wood products
+
+Chemical and rubber products
+
+Primary metal industries
+
+Industrial machinery & equipment
+
+Transportation equipment
+
+Instrumentation products
+
+Communications
+
+Wholesale trade
+
+Retail trade
+
+Business services
+
+Other
+
+0.24
+
+0.11
+
+5.75
+
+16.77
+
+-0.13
+
+0.35
+
+0.27
+
+0.49
+
+-1.54
+
+-0.67
+
+-2.08
+
+0.40
+
+0.04
+
+-0.30
+
+-0.23
+
+0.67
+
+-1.43
+
+0.49
+
+0.39
+
+-0.57
+
+1.02
+
+0.50
+
+0.73
+
+0.0
+
+0.12
+
+4.99
+
+11.95
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+-1.0
+
+0.0
+
+-2.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+-1.0
+
+1.0
+
+0.0
+
+0.0
+
+1.0
+
+0.0
+
+1.0
+
+-11.0
+
+-1.07
+
+-97.17
+
+-95.75
+
+-5.0
+
+-2.0
+
+-3.0
+
+-2.0
+
+-11.0
+
+-6.0
+
+-5.0
+
+-3.0
+
+-7.0
+
+-8.0
+
+-6.0
+
+-8.0
+
+-9.0
+
+-6.0
+
+-5.0
+
+-6.0
+
+-5.0
+
+-9.0
+
+-10.0
+
+11.0
+
+1.74
+
+57.47
+
+503.08
+
+3.0
+
+4.0
+
+4.0
+
+7.0
+
+3.0
+
+2.0
+
+0.0
+
+5.0
+
+8.0
+
+9.0
+
+5.0
+
+11.0
+
+6.0
+
+5.0
+
+6.0
+
+3.0
+
+7.0
+
+9.0
+
+9.0
+
+3943
+
+3940
+
+3197
+
+3536
+
+3938
+
+3943
+
+3943
+
+3943
+
+129
+
+12
+
+24
+
+75
+
+169
+
+373
+
+140
+
+477
+
+143
+
+138
+
+69
+
+83
+
+322
+
+147
+
+1223
+
+This table presents data on corporate social responsibility (from the KLD Socrates Database) and ﬁnancial
+performance over the period 1993–2000. Panel A represents the whole sample, and Panel B provides
+statistics on the social responsibility by industry. CSR SCORE is the sum of the component scores in the
+KLD Socrates Database, and WSCORE is the weighted average
+
+beneﬁt the most from the positive association their customers may attribute to the ﬁrm’s
+CSR activity.
+
+In Table 2, we report the correlation matrix for the sample of ﬁrms used in this study. In
+particular, we are interested in the correlations between WSCORE and measures of
+ﬁnancial performance. In the ﬁrst column of Table 2, we see that WSCORE is positively
+correlated with contemporaneous ROA and annual stock returns and negatively correlated
+with leverage (long-term debt divided by total assets). There is no signiﬁcant correlation
+between WSCORE and ﬁrm size, measured by total assets or sales. This simple correlation
+analysis does not address issues of causality, but provides initial evidence that CSR and
+ﬁnancial performance are directly related. We use traditional regression analysis in our
+initial examination of the causal relationship between CSR and ﬁnancial performance. We
+then argue that ordinary least-squares regressions cannot adequately assess causality issues,
+and introduce Granger causality models and Tobit regressions to examine the relationship
+in greater detail. Furthermore, using a panel dataset of a large cross-section of ﬁrms over a
+
+123
+
+
+Corporate social responsibility and ﬁnancial performance
+
+201
+
+Table 2 Correlations between corporate social responsibility and ﬁrm characteristics
+
+WSCORE
+
+Return on
+assets
+
+1.000
+
+0.066 (0.01)
+
+1.000
+
+WSCORE
+
+Return on
+
+assets
+
+Stock return
+
+Sales
+
+Assets
+
+Financial
+leverage
+
+Stock return
+
+0.050 (0.01)
+
+0.201 (0.01)
+
+1.000
+
+Sales
+
+Assets
+
+Financial
+
+leverage
+
+-0.012 (0.47) -0.047 (0.01)
+
+0.070 (0.01) 1.000
+
+0.016 (0.33) -0.200 (0.01)
+
+0.081 (0.01) 0.857 (0.01) 1.000
+
+-0.087 (0.01) -0.293 (0.01) -0.098 (0.01) 0.135 (0.01) 0.178 (0.01) 1.000
+
+This table presents correlation coefﬁcients between a measure of corporate social responsibility and other
+ﬁrm characteristics. WSCORE is the weighted social responsibility score from the KLD Socrates Database.
+Sales and Assets are the log of total sales and total assets. Financial leverage is long-term debt divided by
+total assets. P-values are in parentheses
+
+number of years requires a ﬁxed effects regression approach to account for correlation in
+the error term. We explain the details of these statistical approaches in the following
+section.
+
+3 Results
+
+3.1 Results of OLS models
+
+Panel A of Table 3 presents results of OLS regression models similar to those in
+Waddock and Graves (1997) with the weighted social responsibility score in year t as the
+dependent variable. The primary independent variable is ﬁnancial performance in year
+t - 1, measured either by return on assets or the return on the ﬁrm’s common stock.
+Sales, total assets, and debt-to-assets in year t - 1 are included as controls for ﬁrm size
+and leverage. In general, we ﬁnd that the relationship between social responsibility and
+lagged ﬁnancial performance is positive and signiﬁcant, similar to what is reported by
+Waddock and Graves (1997). Leverage is negative and signiﬁcant in each model, sug-
+gesting that ﬁrms with a higher proportion of debt ﬁnancing exhibit lower levels of CSR.
+The coefﬁcients on lagged ROA and lagged stock returns (in Panel A) are all positive
+and signiﬁcant at the 1% level. Coefﬁcients on the size control variables (sales and total
+assets) are positive, suggesting that larger ﬁrms may have greater resources available to
+support CSR efforts.
+
+Panel B of Table 3 presents the results of models with ﬁnancial performance—ROA
+and annual stock returns—as the dependent variable. In each of the models (5)–(8) in
+Table 3, the coefﬁcient on the lagged weighted CSR score is positive and signiﬁcant. This
+result, consistent with that of Waddock and Graves (1997), implies that a ﬁrm’s level of
+CSR activity contributes to its ﬁnancial performance.
+
+In summary, the OLS regression results presented in Table 1 suggest that a ‘‘virtuous
+circle’’ exists, linking a ﬁrm’s level of CSR with its ﬁnancial performance. In the sections
+below, we introduce alternative estimation methods that may be more appropriate than
+OLS for the analysis.
+
+123
+
+
+202
+
+E. Nelling, E. Webb
+
+Table 3 OLS regressions of corporate social responsibility and ﬁnancial performance
+
+Panel A
+
+WSCORE is dependent variable
+
+Model
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+INTERCEPT
+
+0.073 (1.62)
+
+-0.028 (-0.71)
+
+0.104 (2.37)**
+
+0.029 (0.79)
+
+ROA(t - 1)
+
+0.0035 (3.13)***
+
+0.004 (3.83)***
+
+RET(t - 1)
+
+0.001 (3.74)***
+
+0.001 (3.56)***
+
+LEV(t - 1)
+
+-0.157 (-2.76)*** -0.187 (-3.32)*** -0.184 (-3.35)*** -0.221 (-4.03)***
+
+SALES(t - 1)
+
+0.007 (1.42)
+
+0.005 (1.02)
+
+ASSETS(t - 1)
+
+N
+Adjusted R2
+
+F
+
+2731
+
+0.008
+
+8.47***
+
+0.019 (4.36)***
+
+0.015 (3.39)***
+
+2789
+
+0.015
+
+14.94***
+
+2727
+
+0.010
+
+9.88***
+
+2786
+
+0.014
+
+14.27***
+
+Panel B
+
+ROA is dependent variable
+
+RET is dependent variable
+
+Model
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+INTERCEPT
+
+8.755 (11.15)***
+
+13.380 (20.64)***
+
+4.262 (0.90)
+
+2.693 (0.68)
+
+WSCORE(t - 1) 0.755 (2.08)**
+
+0.852 (2.43)**
+
+7.193 (3.33)***
+
+6.860 (3.23)***
+
+LEV(t - 1)
+
+-12.274 (-12.51)*** -10.966 (-11.42)*** -20.514 (-3.53)*** -22.533 (-3.91)***
+
+SALES(t - 1) -0.081 (-0.85)
+
+1.9450 (3.39)***
+
+ASSETS(t - 1)
+
+-0.669 (-8.65)***
+
+2.103 (4.51)***
+
+N
+Adjusted R2
+F
+
+2558
+
+0.061
+
+2615
+
+0.087
+
+2869
+
+0.011
+
+2932
+
+0.014
+
+56.41***
+
+84.22***
+
+11.57***
+
+14.86***
+
+WSCORE is the weighted social responsibility score from the KLD Socrates Database. ROA is return on
+assets and RET represents annual common stock return. LEV is total debt/total assets. SALES and ASSETS
+are the log of total sales and total assets. Numbers in parentheses are t-statistics. *, **, *** indicates
+signiﬁcance at the .10, .05, .01 levels, respectively
+
+3.2 Results of ﬁxed effects models
+
+Previous studies of the relationship between ﬁnancial performance and social responsibility
+have failed to control for unobservable characteristics in panel data that differ between
+ﬁrms but are constant over time. For example, variables such as corporate culture or
+managerial inﬂuence may be signiﬁcant determinants of CSR activity. Using a ﬁxed effects
+regression model allows us to estimate the effects of the independent variables on the
+dependent variable while controlling for the effect of unobserved variables.
+
+The results of our ﬁxed effects models are presented in Table 4 and they reveal
+interesting differences compared to the OLS regression results presented in Table 3. A
+ﬁrm’s past ﬁnancial performance as measured by ROA continues to be a signiﬁcant
+determinant of CSR score—i.e., ROA and CSR are positively related. However, as
+noted in Models (3) and (4), a ﬁrm’s past stock return is no longer a signiﬁcant
+determinant of its CSR score. Furthermore, the weighted CSR score is no longer a
+signiﬁcant predictor of ﬁnancial performance, as seen in Models (5)–(8) in Panel B of
+Table 4. These results suggest that by controlling for ﬁrm ﬁxed effects, the relationship
+between CSR and ﬁnancial performance is not as strong as previously reported in the
+literature.
+
+123
+
+
+Corporate social responsibility and ﬁnancial performance
+
+203
+
+Table 4 Fixed effects regressions of corporate social responsibility and ﬁnancial performance
+
+Panel A
+
+WSCORE is dependent variable
+
+Model
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+INTERCEPT
+
+-0.439 (-4.31)*** -0.387 (-3.91)*** -0.428 (-4.19)*** -0.357 (-3.64)***
+
+ROA(t - 1)
+
+0.002 (2.57)***
+
+0.002 (2.88)***
+
+RET(t - 1)
+
+LEV(t - 1)
+
+0.047 (0.76)
+
+0.028 (0.45)
+
+SALES(t - 1)
+
+0.067 (5.35)***
+
+0.001 (0.06)
+
+0.014 (0.23)
+
+0.068 (5.41)***
+
+0.001 (0.10)
+
+-0.010 (-0.16)
+
+ASSETS(t - 1)
+
+N
+Adjusted R2
+
+2731
+
+0.001
+
+0.059 (4.92)***
+
+0.058 (4.85)***
+
+2789
+
+0.005
+
+2727
+
+0.001
+
+9.88***
+
+2786
+
+0.004
+
+8.02***
+
+F
+
+12.16***
+
+10.79***
+
+Panel B
+
+ROA is dependent variable
+
+RET is dependent variable
+
+Model
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+INTERCEPT
+
+14.320 (4.82)***
+
+24.680 (8.63)***
+
+109.752 (4.64)***
+
+116.675 (5.07)***
+
+WSCORE(t - 1) -0.417 (-0.70)
+
+-0.004 (-0.01)
+
+0.869 (0.18)
+
+LEV(t - 1)
+
+-2.332 (-1.38)
+
+-0.793 (-0.48)
+
+0.736 (0.05)
+
+1.270 (0.26)
+
+6.480 (0.47)
+
+SALES(t - 1)
+
+-0.971 (-2.62)***
+
+-11.451 (-3.90)***
+
+ASSETS(t - 1)
+
+-2.238 (-6.38)***
+
+-12.096 (-4.31)***
+
+N
+Adjusted R2
+F
+
+2558
+
+0.008
+
+3.62**
+
+2615
+
+0.041
+
+14.94***
+
+2869
+
+0.003
+
+5.19***
+
+2932
+
+0.006
+
+6.32***
+
+WSCORE is the weighted social responsibility score from the KLD Socrates Database. ROA is return on
+assets and RET represents a ﬁrm’s annual common stock return. LEV is total debt/total assets. SALES and
+ASSETS are the log of total sales and total assets. Numbers in parentheses are t-statistics. *, **, ***
+indicates signiﬁcance at the .10, .05, .01 levels, respectively
+
+3.3 Results of Granger causality models
+
+The regression results presented above in Table 3 suggest a link between CSR and
+ﬁnancial performance. An interesting question arises as to the nature of causality, if any,
+between doing ‘‘good’’ through greater CSR activity and doing ‘‘well’’ ﬁnancially. Does
+good ﬁnancial performance cause a ﬁrm to become more socially responsible, or does a
+high level of CSR lead to subsequent superior ﬁnancial performance? Good ﬁnancial
+performance may result in more resources being available for the pursuit of CSR goals. A
+high level of CSR may attract
+the attention of investors or customers or motivate
+employees to perform better and reduce costs, boosting ﬁnancial performance. Another
+possibility is that a ‘‘virtuous circle’’ exists, and the causality runs in both directions.
+
+We address the link between ﬁnancial performance and CSR in the context of Granger
+causality. This approach, developed by Granger (1969), involves regression models of the
+form
+
+SCOREt ¼ a0 þ a1SCOREt 1 þ a2PERFt þ a3PERFt 1 þ et
+PERFt ¼ b0 þ b1PERFt 1 þ b2SCOREt þ b3SCOREt 1 þ et
+
+where SCOREt, and SCOREt-1 represent a ﬁrm’s CSR score in year t and t - 1, PERFt and
+PERFt-1 represent a ﬁrm’s ﬁnancial performance in year t and t - 1, and et is an error term.
+
+123
+
+
+204
+
+E. Nelling, E. Webb
+
+If the coefﬁcients a2 or a3 are signiﬁcantly different from zero, we conclude that
+ﬁnancial performance ‘‘Granger causes’’ social responsibility. Similarly, if coefﬁcients b2
+or b3 are signiﬁcant, we infer causality from CSR to ﬁnancial performance. (For ease in
+exposition, we will omit the word ‘‘Granger’’ from subsequent discussion, reminding the
+reader that all uses of the words ‘‘cause’’ or ‘‘causality’’ refer speciﬁcally to ‘‘Granger
+causality.’’)
+
+Before discussing our results, a comment on model speciﬁcation is in order. The typical
+problem that arises in OLS regression when lagged dependent variables are included as
+regressors is serial correlation in the error term, rendering the parameter estimates biased
+and inconsistent. We test for this using the method of Maddala (1971) and ﬁnd that serial
+correlation is not a problem in our model.
+
+First, we present models of causality using ordinary least squares (without controlling
+for ﬁrm ﬁxed effects). The results of these speciﬁcations are presented in Table 5, and
+differ widely from those reported in Table 3. The results in Panel A indicate a strong
+relationship between past CSR performance and current CSR, but ROA is not a signiﬁcant
+determinant of CSR. The signiﬁcance of the relationship between stock returns and CSR is
+weaker than reported in Table 3 (with a t-statistic of 1.93 versus 3.74). Results presented in
+Panel B indicate that ﬁrms do not ‘‘do well’’ by ‘‘doing good’’—CSR activity is not
+
+Table 5 Granger causality analysis of CSR and ﬁnancial performance
+
+Panel A
+
+Intercept
+
+WSCORE(t - 1)
+
+ROA
+
+ROA(t - 1)
+
+RET
+
+RET(t - 1)
+
+SALES(t - 1)
+
+N
+Adjusted R2
+F
+
+Panel B
+
+INTERCEPT
+
+ROA(t - 1)
+
+RET(t - 1)
+
+WSCORE
+
+WSCORE(t - 1)
+
+SALES(t - 1)
+
+N
+Adjusted R2
+
+F
+
+WSCORE is dependent variable
+
+0.014 (2.94)***
+
+0.913 (102.99)***
+
+0.001 (0.79)
+
+0.001 (0.91)
+
+0.001 (0.82)
+
+2912
+
+0.786
+
+2675.11***
+
+-0.012 (-0.65)
+
+0.908 (107.52)***
+
+0.001 (1.40)
+
+0.001 (1.93)*
+
+0.003 (1.47)
+
+3218
+
+0.784
+
+2922.92***
+
+ROA is dependent variable
+
+RET is dependent variable
+
+2.831 (4.95)***
+
+0.651 (45.94)***
+
+0.463 (0.84)
+
+-0.162 (-0.29)
+
+-0.086 (-1.26)
+
+2912
+
+0.425
+
+538.35***
+
+5.662 (1.31)
+
+0.022 (1.19)
+
+5.896 (1.40)
+
+1.086 (0.25)
+
+1.282 (2.43)***
+
+3218
+
+0.005
+
+5.13***
+
+WSCORE is the weighted social responsibility score from the KLD Socrates Database. ROA is return on
+assets and RET represents a ﬁrm’s annual common stock return. LEV is total debt/total assets. SALES is the
+log of total sales. Numbers in parentheses are t-statistics. *, **, *** indicates signiﬁcance at the .10, .05, .01
+levels, respectively
+
+123
+
+
+Corporate social responsibility and ﬁnancial performance
+
+205
+
+causally related to contemporaneous or subsequent ﬁnancial performance. The explanatory
+power of these models with the CSR score (R2 = 0.78) or return on assets (R2 = 0.42) is
+signiﬁcantly larger than that of the OLS regressions in Table 3. The increase is mainly due
+to the inclusion of lagged values of the dependent variable in each model.
+
+3.4 Results of Granger causality models with ﬁxed effects
+
+We next incorporate both ﬁxed effects and Granger causality in our models using the CSR
+score and ﬁnancial performance as dependent variables. Speciﬁcally, the model now
+includes n intercepts (where n is the number of ﬁrms in the panel dataset) that are rep-
+resented by a set of indicator variables, such that:
+
+SCOREt ¼ a0 þ a1SCOREt 1 þ a2PERFt þ a3PERFt 1 þ ai þ et
+PERFt ¼ b0 þ b1PERFt 1 þ b2SCOREt þ b3SCOREt 1 þ ai þ et
+
+where ai = b0 + b1Zi, and Zi represents the unobserved variable that varies from one ﬁrm
+to another, but does not change over time. The variables a1,…, an are treated as unknown
+intercepts to be estimated, one for each ﬁrm. In this model, the errors et are assumed to be
+uncorrelated over time, conditional on the independent variables.
+
+The results of the causality speciﬁcations using ﬁrm ﬁxed effects are presented in
+Table 6, and corroborate those of our causality models presented earlier. In Panel A, CSR
+scores are highly persistent over time. We ﬁnd a positive and signiﬁcant relationship
+between CSR score and lagged return on assets, which differs from the causality model
+presented without ﬁxed effects in Table 5. However, this causal relationship disappears
+when stock returns are used as the measure of ﬁnancial performance.
+
+The results from the causality ﬁxed effects models using ﬁnancial performance as the
+dependent variable are presented in Panel B of Table 6. Both the lagged return on assets
+and lagged stock returns are signiﬁcantly related to current return on assets and stock
+returns, respectively. More importantly, the coefﬁcients on current and lagged WSCORE
+are not signiﬁcant. This implies that, using a ﬁxed effects causality model speciﬁcation,
+CSR does not contribute to better ﬁnancial performance.
+
+In additional robustness tests, we repeat the analyses in Panel A of Tables 5 and 6
+using a Tobit speciﬁcation when WSCORE is the dependent variable to account for its
+censored nature. The results, which are not reported here, are very similar to those
+reported above.
+
+4 Narrowing the deﬁnition of social responsibility
+
+Harrison and Freeman (1999) note that research on CSR has over time focused more on
+speciﬁc measures of social responsibility, and less on the aggregate social performance
+measure. For instance, Hillman and Keim (2001) separate social performance into two
+components: stakeholder management and social issue participation. Primary stakeholders
+include shareholders, employees, and customers, and they ﬁnd that this measure is directly
+related to shareholder value creation. However, social issue participation, which refers to
+the use of corporate resources for social issues outside ﬁrm strategy such as avoidance of
+nuclear energy, refraining from alcohol, tobacco, and gambling industries, etc., is nega-
+tively related to changes in shareholder wealth. Fisman et al. (2005) focus speciﬁcally on
+CSR that is targeted towards the community in a study on industry variability in CSR.
+
+123
+
+
+206
+
+E. Nelling, E. Webb
+
+Table 6 Granger causality analysis of CSR and ﬁnancial performance using ﬁxed effects
+
+Panel A
+
+WSCORE is dependent variable
+
+INTERCEPT
+
+WSCORE(t - 1)
+
+ROA
+
+ROA(t - 1)
+
+RET
+
+RET(t - 1)
+
+SALES(t - 1)
+
+N
+Adjusted R2
+
+F
+
+Panel B
+
+INTERCEPT
+
+ROA(t - 1)
+
+RET(t - 1)
+
+WSCORE
+
+WSCORE(t - 1)
+
+SALES(t - 1)
+
+N
+Adjusted R2
+F
+
+0.036 (3.96)***
+
+0.459 (25.66)***
+
+0.001 (1.01)
+
+0.001 (2.16)**
+
+0.001 (3.31)***
+
+2912
+
+0.742
+
+183.01***
+
+-0.173 (-2.21)**
+
+0.466 (27.47)***
+
+0.001 (0.35)
+
+0.001 (0.31)
+
+0.030 (3.07)***
+
+3218
+
+0.745
+
+204.40***
+
+ROA is dependent variable
+
+RET is dependent variable
+
+0.036 (3.96)***
+
+0.088 (4.31)***
+
+0.722 (1.24)
+
+-0.256 (-0.45)
+
+-0.729 (-2.41)**
+
+2912
+
+0.142
+
+6.42***
+
+105.046 (5.41)***
+
+-0.196 (-9.39)***
+
+-1.695 (-0.35)
+
+3.517 (0.74)
+
+-10.460 (-4.34)***
+
+3218
+
+0.002
+
+26.29***
+
+This table reports coefﬁcients and t-statistics (in parentheses) from Granger causality model speciﬁcations
+with panel ﬁxed effects. WSCORE is the weighted social responsibility score from the KLD Socrates
+Database. ROA is return on assets and RET represents annual common stock return. LEV is total debt/total
+assets. SALES is the log of total sales. *, **, *** indicates signiﬁcance at the .10,
+.01 levels,
+respectively
+
+.05,
+
+They justify the use of this measure as it is the most prominent element of CSR, and
+suggest that activities directed towards the community can be used as a means of differ-
+entiation by ﬁrms in competitive industries. They ﬁnd that the community CSR measure is
+positively related to proﬁtability in advertising-intensive industries.
+
+We test the relationship between ﬁnancial performance and speciﬁc aspects of CSR
+using individual factors in the KLD database rather than the weighted average CSR score.
+The KLD database rates companies on eight different screens of social responsibility. Each
+screen focuses on ‘‘strengths’’ and ‘‘concerns’’ of a particular social indicator. We create
+separate ‘‘stakeholder management’’ scores for community, diversity, employee relations,
+and environment by adding up the number of strengths listed in each category and sub-
+tracting out the total number of weaknesses. By doing this, we can analyze the causal
+relationship between ﬁnancial performance and speciﬁc indicators of CSR rather than the
+overall CSR score.
+
+The results of the causality models with this narrower deﬁnition of social performance
+are presented in Tables 7 and 8. Speciﬁcally, we analyze the following regression models
+substituting score indicators of community, diversity, employee relations, and environment
+for SRPERF:
+
+123
+
+
+Corporate social responsibility and ﬁnancial performance
+
+207
+
+Table 7 Granger causality between community and diversity score and stock returns
+
+Dependent variable
+
+COMM
+
+RET
+
+DIV
+
+RET
+
+INTERCEPT
+
+0.036 (3.81)***
+
+16.959 (14.40)***
+
+0.133 (9.64)***
+
+17.590 (15.29)***
+
+COMM
+
+1.013 (0.55)
+
+COMM(t - 1)
+
+0.849 (83.26)***
+
+1.869 (1.00)
+
+DIV
+
+DIV(t - 1)
+
+RET
+
+RET(t - 1)
+
+N
+Wald Chi2
+
+0.001 (0.70)
+
+0.001 (0.18)
+
+3155
+
+6960.16***
+
+0.455 (0.37)
+
+0.908 (93.34)***
+
+0.422 (0.33)
+
+0.001 (1.19)
+
+-0.072 (-3.91)***
+
+0.001 (1.05)
+
+-0.072 (-3.89)***
+
+3153
+
+19.66***
+
+3155
+
+8747.43***
+
+3153
+
+16.03***
+
+This table reports the results of ﬁxed effects causality models with Tobit speciﬁcations when the dependent
+variable is a ﬁrm’s community (COMM) or diversity (DIV) score. RET is the ﬁrm’s annual common stock
+return. T-statistics are in parentheses. *, **, *** indicates signiﬁcance at the .10, .05, .01 levels, respectively
+
+SRPERFt ¼ a0 þ a1SRPERFt 1 þ a2SRPERFt 2 þ a3RETt þ a4RETt 1 þ ai þ et
+RETt ¼ b0 þ b1RETt 1 þ b2RETt 2 þ b3SRPERFt þ b4SRPERFt 1 þ ai þ et
+
+where RET represents the ﬁrm’s annual common stock returns. We use Tobit models when
+each CSR score is used as the dependent variable. Upper and lower limits on the censored
+variable are the maximum and minimum CSR score.2
+
+We present ﬁxed effects causality models for community (COMM) and diversity (DIV)
+scores in Table 7. Similar to the broader deﬁnition of CSR used earlier, we ﬁnd strong
+persistence in both narrow measures of CSR. The coefﬁcients on lagged community and
+diversity score are positive and signiﬁcant. However, current and lagged annual stock
+returns are not signiﬁcantly related to these CSR measures. Also, when stock returns are
+used as the dependent variable, the coefﬁcients on current and lagged community and
+diversity scores are statistically insigniﬁcant, suggesting no evidence of causality running
+from these narrow measures of CSR to ﬁnancial performance.
+
+In Table 8 we repeat the procedure using employee relations (EMP) and environment
+(ENV) score as the CSR measures. Again, we observe positive and signiﬁcant coefﬁcients
+on lagged CSR scores, indicating persistence in the employee and environmental dimen-
+sions of CSR. We also note that past ﬁnancial performance is a positive and signiﬁcant
+determinant of the employee relation score. That is, as stock returns increase, CSR, as
+measured by employee relations, also increases. Firms can increase their employee relation
+score by, for instance, having strong retirement beneﬁts, employee involvement (in the
+form of widespread employee options or cash proﬁt sharing), and having a strong record of
+employee safety and general well-being. In contrast, we ﬁnd no evidence of causality
+running from stock returns to a ﬁrm’s environmental score. In the models with stock
+returns as the dependent variable, the coefﬁcients on current and lagged employee relations
+scores are insigniﬁcant, and the coefﬁcient on the current environmental score is signiﬁcant
+
+2 The upper and lower limits for the CSR scores are the following: community (-2, 4), diversity (-2, 7),
+employee relations (-3, 4), and environment (-5, 3).
+
+123
+
+
+208
+
+E. Nelling, E. Webb
+
+Table 8 Granger causality between employee and environmental score and stock returns
+
+Dependent variable
+
+EMP
+
+RET
+
+ENV
+
+RET
+
+INTERCEPT
+
+0.051 (4.30)***
+
+17.808 (15.96)***
+
+-0.015 (-1.50)
+
+18.267 (16.75)***
+
+EMP
+
+-1.239 (-0.89)
+
+EMP(t - 1)
+
+0.821 (70.71)***
+
+2.034 (1.42)
+
+ENV
+
+ENV(t - 1)
+
+2.860 (1.79)*
+
+0.882 (91.97)***
+
+-1.500 (-0.92)
+
+RET
+
+-0.001 (-0.19)
+
+0.001 (1.45)
+
+RET(t - 1)
+
+0.001 (3.26)***
+
+-0.070 (-3.80)***
+
+0.001 (0.09)
+
+-0.073 (-3.95)***
+
+N
+Wald Chi2
+
+572
+
+5021.30***
+
+3153
+
+16.84***
+
+3155
+
+8483.39***
+
+3150
+
+19.15***
+
+This table reports the results of ﬁxed effects causality models with Tobit speciﬁcations when the dependent
+variable is a ﬁrm’s employee (EMP) or environment (ENV) score. RET is the ﬁrm’s annual common stock
+return. T-statistics are in parentheses. *, **, *** indicates signiﬁcance at the .10, .05, .01 levels, respectively
+
+only at the ten percent level, suggesting little evidence of causality running from these
+measures of CSR to ﬁnancial performance.
+
+5 Conclusions
+
+A number of studies have examined the relationship between CSR and ﬁnancial perfor-
+mance, and most have found that the two characteristics are directly related. In this paper,
+we analyze the existence and direction of causality between CSR and ﬁnancial perfor-
+mance by using a more comprehensive data set and an improved statistical methodology.
+We use the KLD index as the measure of CSR, and both return on assets and stock
+returns to assess ﬁnancial performance. First, we analyze causality using standard OLS
+regression analysis, similar to past research. Our results are consistent with the existing
+literature in that past ﬁnancial performance is signiﬁcant in explaining variability in CSR,
+and that CSR is signiﬁcant in explaining variability in ﬁnancial performance.
+
+However, when we introduce panel ﬁxed effects into the model, the results no longer
+suggest a strong relationship between CSR and ﬁnancial performance. We further examine
+the link between CSR and ﬁnancial performance using Granger causality models. Results
+here again demonstrate the weakened evidence of a relationship between CSR and
+ﬁnancial performance. However, there is some evidence that stock returns cause CSR
+performance. We then introduce both panel ﬁxed effects and Tobit models in the causality
+model speciﬁcation. We ﬁnd no causality from CSR to ﬁnancial performance, and only
+weak evidence of causality running from stock returns to a ﬁrm’s CSR score. Finally, we
+examine the relation between ﬁnancial performance and stakeholder-speciﬁc measures of
+CSR. We ﬁnd that higher stock returns lead to higher employee relations scores, but ﬁnd no
+evidence of causality between stock returns and aspects of CSR related to the community,
+diversity, or environment.
+
+In summary, CSR and ﬁnancial performance appear to be related when using traditional
+OLS regression models. However, this ‘‘virtuous circle’’ is found to be much weaker when
+examined using a ﬁxed effects Granger causality approach. There is no evidence that CSR
+
+123
+
+
+Corporate social responsibility and ﬁnancial performance
+
+209
+
+affects a ﬁrm’s ﬁnancial performance, and the only aspect of CSR driven by stock market
+performance is employee relations. If socially responsible activities provide beneﬁts to the
+ﬁrm, they appear to manifest themselves in forms unrelated to ﬁnancial performance.
+
+Acknowledgements We thank Eliezer Fich, Jacqueline Garner, Mukunthan Santhanakrishnan, and sem-
+inar participants at the 2006 Financial Management Association Annual Meeting for helpful comments.
+
+References
+
+Bello Z (2005) Socially responsible investing and portfolio diversiﬁcation. J Financ Res 28:41–57
+Cheng A, Collins D, Huang H (2006) Shareholder rights, ﬁnancial disclosure and the cost of equity capital.
+
+Rev Quant Finance Account 27:175–204
+
+Ferreira E, Sinha A, Varble D (2008) Long-run performance following quality management certiﬁcation.
+
+Rev Quant Finance Account 30:93–109
+
+Fisman R, Heal G, Nair V (2005) Doing well by doing good? Working paper. University of Pennsylvania
+Fittipaldi S (2004) When doing the right thing provides a pay-off. Global Finance 18:18–22
+Granger CWJ (1969) Investigating causal relations by econometric models and cross-spectral methods.
+
+Econometrica 37:428–438
+
+Harrison J, Freeman R (1999) Stakeholders, social responsibility, and performance: empirical evidence and
+
+theoretical perspectives. Acad Manage J 42:479–487
+
+Hillman A, Keim G (2001) Shareholder value, stakeholder management, and social issues: what’s the
+
+bottom line? Strategic Manage J 22:125–139
+
+Maddala GS (1971) Generalized least squares with an estimated variance-covariance matrix. Econometrica
+
+39:23–33
+
+McGuire J, Sundgren A, Schneeweis T (1988) Corporate social responsibility and ﬁrm ﬁnancial perfor-
+
+mance. Acad Manage J 31:854–872
+
+McWilliams A, Siegel D (2001) Corporate social responsibility: a theory of the ﬁrm perspective. Acad
+
+Manage Rev 26:117–127
+
+Statman M (2000) Socially responsible mutual funds. Financ Anal J 56:30–38
+The Good Company (2005) January 22, The Economist, 374
+Waddock S, Graves S (1997) The corporate social performance-ﬁnancial performance link. Strategic
+
+Manage J 18:303–319
+
+123
+

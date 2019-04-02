@@ -1,0 +1,1013 @@
+ 
+
+Personnel Policy and Profit 
+
+ 
+ 
+
+Paul Bingley 
+
+NCRR, CLS & Department of Economics, University of Aarhus,  
+
+DK-8000 Aarhus C, Denmark 
+
+E-mail: pb@ncrr.au.dk  
+
+ 
+
+and 
+
+Niels Westergaard-Nielsen 
+
+CLS & Department of Economics, Aarhus School of Business,  
+
+Fuglesangs Allé 20, DK-8210 Aarhus V, Denmark 
+
+E-mail: nwn@cls.dk 
+
+ 
+
+ 
+
+ 
+
+JEL Class: J3, M2 
+
+Keywords: Worker flows, tenure, wages, profit, matched employer-employee panel data. 
+Abstract 
+
+There  is  a  growing  awareness  of  large  differences  in  worker  turnover  and  pay  between  firms. 
+However, there is little knowledge about the effects of this on firm performance. This paper describes how 
+personnel policies with respect to pay, tenure and worker flows are related to economic performance of the 
+firm.  Here  we  follow  the  population  of  7118  medium-to-large  sized  private  sector  Danish  firms  over  the 
+period  1992-95.  In  an  instrumental variables framework,  we use changes in the personnel composition of 
+different  firms  operating  in  the  same  local  labour  market  to  provide  exogenous  identifying  personnel 
+structure  variation.  It  is  found  that  personnel  policy  is  strongly  related  to  economic  performance.  At  the 
+margin,  more  hires  are  associated  with  lower  profit,  and  more  separations  with  higher  profit.  For  the 
+average firm, one new job, all else equal, is associated with euro 2680 lower annual profit. Higher wage level 
+and lower wage growth is associated with greater profit. A workforce that has less tenure, all else equal, is 
+more profitable. 
+ 
+ 
+ 
+* Financial support from the Danish Social Science Research Council and the Research Foundation of 
+University of Aarhus is gratefully acknowledged. The usual disclaimer applies. 
+
+ 
+
+1
+
+
+1. Motivation and Introduction 
+
+ It is now an established fact that there are high levels of job turnover and worker flows between 
+firms in many OECD countries. Thus, Davis and Haltiwanger (1999) report worker turnover rates 
+of about 19 % for the manufacturing industry in the USA. Albæk and Sørensen (1998) show a 
+similarly high turnover for Denmark. Werwatz et al. (1999) have shown that manufacturing is not 
+the only industry with high turnover rates, and that some industries have average turnover rates 
+that  are  almost  30%  higher  than  manufacturing,  while  others  are  lower.  Furthermore,  it  is  a 
+common finding that job creation in firms is achieved through a simultaneous hiring and firing 
+process. And similarly, job destruction happens also through simultaneous hiring and firing. High 
+levels  of  worker  turnover  are  a  persistent  feature  of  many  firms.  This  is  important  for  firms, 
+because of the associated costs and benefits. Direct costs related to each newly hired are reported 
+in surveys to be about 25-30% of annual base salary1.  On top of that comes presumably indirect 
+costs of turnover related to the disturbance of the organizational structure and benefits to the firm 
+of employing someone with new human capital (Lazear, 1997). The view has for many years been 
+that wages and quit rates are jointly determined by the firm. According to this view, the firm takes 
+as given the relationship between wages and quit rates revealed by the worker and chooses that 
+wage/quit set which maximizes profit (Parsons, 1977). To our knowledge, there are no empirical 
+studies that attempt to estimate the total effects of turnover on profit. One of the reasons is that 
+such  a  task  would  be  highly  data  demanding.  Thus,  it  is  not  sufficient  to  use  data  for  firm 
+performance and turnover, because firms use wages and wage policies as a management tool to 
+restrain or increase turnover. And wages have their own impact on firm performance.  With a new 
+dataset covering all Danish firms and work places, we can show the impact of different turnover 
+and wage policies on the performance of a large number of firms and thus overcoming some of the 
+problems of controlling for heterogeneity.  
+
+Turnover  is  dealt  with  in  different  strands  of  the  management  and  economics  literature.  The 
+literature on resource based firms includes all assets, capabilities, organizational processes, firm 
+attributes, information, knowledge, etc controlled by the firm. These resources can all be used to 
+conceive  of  and  implement  their  strategies,  (Barney,  1991).    Barney  focuses  on  3  different 
+resources of the firm, Physical Capital, Human Capital (Becker 1964) and Organizational Capital 
+
+                                                           
+1 HR Focus (1996) and Mitchell (1989) p 188-.  
+
+ 
+
+2
+
+
+(Tomer, 1987). Turnover plays a prominent role in the latter 2, because high turnover means that 
+the human and organizational capital may be quickly eroded or transformed by newcomers.  Even 
+with respect to physical capital turnover of employees play a role, because utilization of physical 
+capital  depends on the experience of the work force. The consequence of this is of course that 
+firms will use substantial resources on controlling and regulating turnover.  
+
+The Human Capital view on turnover is closely related to the idea of firm-specific human capital. 
+The more firm-specific capital a worker has, the bigger the loss for the firm if the worker quits. 
+The costs emerge at the time of hiring a new employee, since the costs at the time of quitting are 
+sunk.  As  a  consequence,  the  firm  is  expected  to  let  the  wage  profile  increase  for  each  worker 
+reflecting the potential loss to the firm if the worker leaves. To some extent, that will reflect the 
+accumulation  of  firm-specific  human  capital.  The  firm  does  not  have  to  match  the  capital 
+accumulation  completely,  because  the  worker  cannot  obtain  the  same  high  level  of  wage  in 
+another firm. By moving, the worker loses her relatively high wage in the current firm and will 
+have to accept a much lower starting wage in another firm. Therefore, the worker will be reluctant 
+to change job.  
+
+One way of retaining the worker is to pay a wage that increases with number of years in the firm. 
+The wage scale could even be created so that the wage starts at a level lower than the alternative 
+wage but increases to a level where the person in the end of her career is paid above her marginal 
+productivity.  This  is  often  called  the  back-loaded  wage  profile.  However,  using  an  increasing 
+wage profile to retain workers is moderated by union pressure for compressed wages. One will 
+expect  that  firms,  who  are  expected  to have larger screening and advertising costs will also be 
+willing to pay the largest wage premia to prevent turnover. Cyclical effects will also have an effect 
+on turnover, (Ehrenberg and Smith, 1999). Thus, workers will have a higher probability of quitting 
+when it is relatively easy for them to obtain a better job quickly. This will happen when the labour 
+market is tight. When the market is loose, one will expect that the quit rate is small.  
+
+An alternative perspective is the value to a firm of having a flow of new workers entering because 
+they bring new ideas, new knowledge and new resources with them. The knowledge is in the form 
+of  general  human  capital  obtained  at  school  and  in  other  firms.  In  order  to  get  room  for  new 
+workers, older workers may have to be sacrificed if the net hire of new employees cannot happen 
+as  part  of  an  expansion.  However,  laying  off  too  many  old  workers  mean  that  the  strategy  of 
+
+ 
+
+3
+
+
+retaining  other  workers  will  be  less  credible  and  the  firm  will  therefore  have  to  pay  higher 
+premiums to those it wants to retain.  
+
+The  firm  will  also  be  more  reluctant  to  lay-off  workers  if  they  possess  larger  amount  of  firm-
+specific  capital  or  if  their  wage  because  of  wage  compression  is  lower  than  the  value  of  their 
+marginal product. Efficiency wage theories suggest that the higher the wage rate, the less likely are 
+firings  because  of  reduced  shirking.  Workers  will  simply  not  run  the  risk  of  getting  fired. 
+Furthermore,  a  back-loaded  wage-tenure  profile  may  induce  self-selection  of  high  productivity 
+workers into such jobs. Finally, a high wage level means that the firm can more easily hire new 
+people. Consequently, it can be more choosy and lay-off more people at an early stage of their 
+careers.  The  same  argument  applies  to  workers,  since  their  wages  are  relatively  low  at  the 
+beginning of their careers, which means that they will lose less when they change job with low 
+tenure.  
+
+Search theory gives similar predictions. Here workers search for jobs and if the worker receives a 
+job offer better than the current job, she quits. Therefore, the higher the wage level in the current 
+job, the lower the probability of a quit. Match theory says that workers with a high match quality 
+are less likely to quit than those with a lower match quality. This has consequences for the quitting 
+behaviour of different persons and will also mean that people who have been in a job for a long 
+time will be more likely to stay.  
+
+ The more recent theoretical and empirical background to the present study is a growing literature 
+on  different  dimensions  of  personnel  composition.  It  is  well  documented  that  there  exist  large 
+differences  between  firms  with  regard  to  pay  (Abowd,  Kramarz  and  Margolis,  1999),  tenure 
+(Farber,  2000)  and  worker  flows  (Davis  and  Haltiwanger,  1999).  This  empirical  background 
+provides  motivation  for  a  larger  theoretical  literature,  exemplified  by  Gibbons  and  Waldman 
+(1999)  focusing  on  pay  and  to  a  smaller  extend  separations,  Lazear  (1999)  on  tenure  and 
+Mortensen and Pissarides (1999) on worker flows. 
+
+  A recent set of papers describes the empirical evidence for these pairwise relations. Barth (1997) 
+finds no association between wage growth and tenure at the firm level. Kramarz and Roux (1998) 
+also look at tenure and pay. Barth and Dale-Olsen (1999) find that higher wage level and higher 
+wage  growth  reduce  worker  flows  for  medium  and  large  sized  firms.  Burgess  (1999)  looks  at 
+worker flows and tenure across several countries. 
+
+ 
+
+4
+
+
+ A  separate  strand  of  literature  has  considered  the  relations  between  these  various  labour  input 
+measures and output measures of company performance. Leonard and Van Audenrode (1997) look 
+at  worker  flows  and  productivity  and  find  a  negative  relation;  Leonard,  Mulkay  and  Van 
+Audenrode  (1999)  find  higher  productivity  in  firms  with  higher  wage  levels  and  higher  wage 
+growth; Abowd and Limieux (1996) look at pay and profit. 
+
+The values of interest concerning personnel issues are the wage level, wage growth, the proportion 
+of hires, the proportion of separations and average tenure. However, it is a reasonable and testable 
+hypothesis that these factors all influence profit and may be simultaneously determined. The main 
+contribution of this paper is that this simultaneity problem is addressed. We model the relationship 
+between  personnel  and  profit  in  a  way  that  properly  takes  this  simultaneity  into  account.  The 
+remainder  of  the  paper  is  organised  as  follows.  Section  2  describes  the  data,  illustrates  the 
+variation in the dimensions of interest for measurement and details the empirical strategy. Section 
+3 presents and discusses results; and section 4 summarises and draws conclusions. 
+
+ 
+
+2. Data Description and Empirical Strategy 
+
+ The data used in this study originates from the Statistics Denmark IDA (The Integrated Database 
+for  Labour  Market  Research)  Register  and  the  Business  Statistics  Register.  IDA  contains 
+information on labour market conditions for persons and workplaces in Denmark over the years 
+1980-1995.  The  IDA  data  originates  from  various  administrative  registers  in  Denmark.  The 
+important  feature  of  IDA  is  that  it  is  possible  to  associate  workplaces  with  the  identity  of  all 
+employees  at  a  specific  day  in  November  (see  Leth-Sørensen,  1998).  For  this  paper  we  have 
+matched  IDA  workplace  information  with  larger  firms  (business  units)  for  which  we  have 
+accounting information 1992-95. 
+
+The information on employees is quite comprehensive and contains data on 3 and 5-digit industry 
+codes  (ISIC),  composition  of  work  force,  union  density,  total  employment  over  the  year,  and 
+municipality. 
+
+Education  is  measured  in  years.  Individual  labour  earnings  data  come  from  tax  records  and 
+incorporate all labour income received in the year by an individual. Wage rates are subsequently 
+calculated using the annual pension scheme contributions that are proportional to the number of 
+
+ 
+
+5
+
+
+hours worked. Firm size is measured as the number of primary workers in November. A primary 
+worker means a worker that Statistics Denmark has determined has her/his main job at a given 
+firm. 
+
+We are  able  to  identify  which  workers  are  hired  in  a  firm and  which  leave,  all  measured  on a 
+November to November basis. The limitation is that we are not able to identify those who have 
+been  employed  say  from  December  to  January  the  following  year.  These  limitations  are  no 
+different from the US LRD data used by Davis and Haltiwanger (1999) for example. The main 
+difference is, however, that the IDA data allows us not only to identify the creation and destruction 
+of jobs but also to identify the flows of persons between firms because we also know the identity 
+of persons.  
+
+We can follow each worker throughout her/his employment at the sampled firm. A hire in time t to 
+t+1 is defined as a situation where the person is employed in the firm in time t+1 but was not 
+employed there in time t. Similarly, a separation is defined where a person is observed in the firm 
+in time t but not in t+1. For a given firm, job growth between two years, defined as hires less 
+separations, gives a lower bound on job creation (destruction) if positive (negative), since intra-
+firm re-allocation of workers among jobs is unobservable to us. Worker flows aggregate to the 
+firm level as follows: 
+
+(1)                          proportion of hires = hires/(hires+½(separations+stays)) 
+(2)                          proportion of separations = separations/(hires+½(separations+stays)) 
+
+The  sample  of  interest  consists  of  all  firms  in  the  Danish  private  sector  with  more  than  20 
+employees at any time during 1992-95, the period for which we have economic information on the 
+firms2.  These  firms  are  followed  throughout  the  period  and  matched  with  all  private  sector 
+employees. Characteristics of the employees are aggregated to the firm level, which is the primary 
+unit of analysis. Table 1 shows summary statistics. There are altogether 28,265 observations on 
+7,118 different firms, which gives us almost 4 annual observations per firm over the period. The 
+outcome  of  primary  interest,  Profit,  is  defined  as  value  added  minus  total  wage  costs.  Both  of 
+these  measures  come  from  the  Danish  Business  Statistics.  Average  value  added  per  worker  is 
+DKK  476,280,  average  wage  sum  is  DKK  241,590,  and  average  profit  per  worker  is  DKK 
+
+                                                           
+2 Though economic information exist for smaller firms, the link between IDA-data and the economic variables has yet 
+to be established.  
+ 
+
+6
+
+
+234,690. The proportion of hires is 36%, and separations 37%. The average hourly wage rate is 
+DKK 145 or about 20 euro. With an average working year of about 1600 hours, this adds up to the 
+wage sum from the Business Statistics used above. Average real wage growth over the period is 
+2%. Average tenure is found to be about 3.3 years. This should be seen against a censoring point 
+of  6  years,  where  all  tenure  above  6  years  is  coded  to  6.  The  average  proportion  of  males 
+employed  is  0.71,  the  average  level  of  education  is  11.3  years  compared  to  the  compulsory 
+schooling since 1972 of 9 years. Average age is 35.7 years. The variable Union Density shows 
+strictly speaking the proportion of the workforce that is member of an unemployment insurance 
+fund, of 0.83. In most cases, membership of an unemployment insurance fund is associated with 
+membership  of  a  trade  union.  Though  high,  the  standard  deviation  shows  that  there  is  some 
+variation between firms.  
+
+Denmark provides an interesting test site for studies on effects of turnover, because of few legal 
+and  bureaucratic  constraints  on  lay  offs.  For  blue  collar  workers  there  exist  hardly  any  labour 
+protection compared to what is known from the rest of Europe (except Switzerland and the UK in 
+recent years). Only white collar workers have some statutory rights in the case of dismissals. In 
+both cases, Denmark looks much more like the US than the rest of Europe. However, the main 
+difference is here, that Denmark has a comprehensive system of unemployment benefits and state 
+support to training and retraining. With these features in mind, you should expect that turnover in 
+Denmark is even greater than in the US.  
+
+of 
+
+personnel 
+
+Having outlined the nature of the data set, it is useful preliminary to estimation, to statistically 
+describe  the  variation  in  the  data  between  units  of  observation  (Table  2)  and  describe  raw  co-
+variation between measures of interest (Table 3).  Heterogeneity 
+firm 
+performance  is  described  in  Table  2.  This  Table  contains  R2  goodness-of-fit  measures  of  the 
+explanatory  power  of  a  regression  of  dummies  (defined  in  the  column  header)  on  variables  of 
+interest (defined in the row header). For example, the first row and first column entry shows that 
+firm-dummies  explain  76%  of  variation  in  profit-per-worker.  Variation  unexplained  in  the  first 
+column must be due to variation over time, since the basic unit of observation is firm-year. This 
+should be compared with variation within narrowly defined (SIC5 yields 500 unique) and more 
+broadly defined (SIC3 yields 50 unique) product markets in column 2 and 3. It is easily seen that 
+the vast majority of variation is at the firm level. The interpretation is that firms within an industry 
+
+and 
+
+ 
+
+7
+
+
+are heterogeneous with respect to their resources and personnel policy. This is the case for hiring 
+and separation behaviour and with respect to wage levels and wage growth.  
+
+Columns 4 and 5 show product market-year effects, which further control for micro-cycles, but do 
+not explain much more than column 2 and 3. Column 5 shows that the variation does not come 
+entirely from a cycle, which is common to all markets. The final two columns show local labour 
+market heterogeneity. We are here using dummy variables for each of the 275 municipalities and 
+these dummies are interacted with year dummies. This observed heterogeneity would be used in 
+the empirical model to provide exogenous variation (instruments) in personnel to identify effects 
+on business outcomes. While this has even less explanatory power than broadly defined product 
+markets, it remains to be tested whether such variation as remains is sufficient for identification. 
+
+Raw  correlations  between  personnel  policy  and  business  outcomes  are  presented  in  Table  3. 
+Aspects  of  personnel  policy  (hires,  separations,  wage  level,  wage  growth  and  tenure)  are 
+correlated, as are measures of firm performance, but there is little correlation between the two. 
+Thus, labour market and product market outcomes appear to be only weakly related in the raw 
+data.  There  could,  of  course,  be  strong  associations,  which  are  confounded  by  raw  pair-wise 
+correlations, without additional controls. Indeed, the premise of personnel economics is that such 
+policies have tangible effects on business outcomes of interest.  
+
+It  is  the  purpose  of  this  paper  to  model  the  associations  between  personnel  policy  and  firm 
+performance,  moving  beyond  simple  correlations  by  accounting  for:  heterogeneity  by  way  of  a 
+within-firm regression framework while controlling for a rich set of time-varying characteristics, 
+and  modelling  the  simultaneity  of  business  performance  and  personnel  policy  by  way  of 
+instrumental variables. 
+
+We  are  interested  in  estimating  the  following  equation  in  order  to  analyse  the  determinants  of 
+form profit: 
+
+π
+ft
+
+=
+
+X
+
+ft
+
++
+
+β γ ε υ
+ft
+
+Y
+
++
+
++
+
+ft
+
+f
+
+ 
+
+where π is a vector of profits per worker for firm f in year t, X is a matrix of exogenous firm 
+characteristics,  β  is  an  associated  vector  of  coefficients,  Y  is  a  matrix  of  endogenous  firm 
+characteristics, γ is an associated vector of coefficients, ε is an error term specific to each firm but 
+time-invariant, and ν is an idiosyncratic error term. Components of the Y matrix are elements of 
+
+ 
+
+8
+
+
+firm personnel policy: proportions of hires and separations, mean worker ongoing tenure, mean 
+wage  level  and  mean  wage  growth.  Estimating  this  equation  directly  by  ordinary least squares, 
+may lead to biased estimates of the coefficient vectors β and γ. This is because simultaneity in the 
+determination of π and Y violates the orthogonality assumption on the error terms, required for 
+this most desirable property of OLS.  
+
+In this context the simultaneity problem can be remedied by proposing an instrumental variables 
+estimator. What is required is a set of exogenous variables, over and above those already included 
+in the X matrix, which determine personnel policy Y, but can legitimately be excluded from the 
+set  of  determinants  of  π  directly.  Our  instrument  set  includes  the  mean  personnel  policies  of 
+neighbouring firms. In particular, for each municipality we calculate the mean of the Y matrix for 
+all establishments located there. Now for each firm we are interested in using as instruments the 
+personnel policies of firms operating in the same local labour markets. The local labour market 
+relevant  for  each  firm  can  be  characterised  by  the  most  popular  municipalities  that  its  present 
+workers commute from. Arbitrarily, we select the most popular five home municipalities for the 
+workers in each firm. It is the mean of the Y matrix from those five municipalities that we match 
+to  each  firm  and  use  as  instruments.  The  use  of  local  labour  market  characteristics  to  provide 
+instruments is valid subject to the assumption that local labour market conditions are exogenous 
+for business location at the margin.3 
+
+Our IV estimator is implemented by two-stage least squares. This involves estimating a set of first 
+stage regressions, each explaining one endogenous variable: 
+
+Y
+
+1ft
+
+=
+
+X
+
++
+
+Zα λ ε υ′
+′
+ft
+
++ +
+
+ft
+
+t
+
+ft
+
+ 
+
+where Y1 is one endogenous variable, say hires, X is a matrix of exogenous controls as before, Z 
+is a new matrix of instruments excluded from X, λ is an associated coefficient vector, the error 
+terms  ε′  and  ν′  are  respectively  firm-specific  and  idiosyncratic.  This  first  stage  regression  is 
+repeated for each vector of the Y matrix, obviously producing different estimated coefficients on 
+the same matrices of explanatory variables X and Z. These first stage estimates can be used to 
+make  linear  predictions  of  each  of  the  endogenous  variables.  The  useful  property  of  these 
+predictions  is  that  they  are  correlated  with  the  endogenous  variable,  but  purged  of  spurious 
+
+                                                           
+3 See Papke (1991) for evidence to the contrary on the effects of tax competition on multinational firm location. 
+
+ 
+
+9
+
+
+correlation with the variable of primary interest, profit. In a second stage, these predicted values, 
+containing useful variation are substituted in place of the observed endogenous variables. Subject 
+to  a  correction  in  the  standard  errors  (to  account  for  the  fact  that  the  second  stage  regression 
+includes variables which are themselves estimated with a variance) inference can proceed as in the 
+regular OLS case, having now purged the estimates of endogeneity bias. 
+
+Regression  coefficients  may  be  influenced  by  important,  but  unobserved,  firm  related  factors. 
+Among these factors may be: market share and power in product markets, rent sharing, managerial 
+effort and incentive schemes, technical efficiency, quality aspects of the labour force not covered 
+by measured schooling, local labour markets, local wage levels and other regional effects. As far 
+as these effects are constant over time, by making a within-firm transformation (fixed effects) we 
+can control for these factors in estimation. A drawback is that we are unable to estimate the effects 
+of time-invariant characteristics of the firm, such as industry and geographical location. 
+
+3. Results and Discussion 
+
+Results of estimating the model are reported in Table 4. As a consequence of the instrumentation 
+procedure, and subject to the assumption of exogenous firm location, interpretation of estimated 
+coefficients is direct from the model. 
+
+More hires are associated with lower profit per worker. This is in accordance with the literature on 
+costs of turnover, which emphasises the importance of recruitment and training. Separations are 
+associated with higher profit per worker. One interpretation is that separating workers are among 
+those  who  are  the  least  productive  or  most  over-paid.  If  separations  were  randomly  distributed 
+over profit per worker, we would have expected a fall in profit by the amount of value added by 
+the  average  worker,  less  her  wage.  Our  result  clearly  indicates  that  separations  are  far  from 
+random,  and are  an  important  management tool. Gibbons and Waldman (1999) reach the same 
+conclusion from extending arguments consistent with evidence in Gibbons and Katz (1991). High 
+wage  levels  are  associated  with  more  profit  per  worker.  This  result  is  in  accordance  with 
+efficiency wage and rent sharing theories. However, more Wage growth is related to lower profit. 
+So it appears to be current pay, rather than fture pay prospects of workers within the firm which is 
+related to higher profit today. More tenure, all else equal, has a negative relation with profit. This 
+may seem surprising, since higher tenure is often associated with greater productivity due to firm-
+specific  capital  accumulation.  However,  the  interpretation  is  for  a  given  wage  level.  In  this 
+
+ 
+
+10
+
+
+context, it may be a result of not being sufficiently active in laying off unproductive, or too highly 
+paid senior workers.  
+
+In  general,  the  significant  coefficients  on  personnel  policy  variables,  even  after  the  loss  of 
+precision  due  to  instrumenting,  show  there  is  scope  for  managerial  action  in  personnel  policy 
+which will have important relationship to profitability. 
+
+The control variables are different from the above variables. First, they should all be judged on the 
+basis that they are only capturing the effects of a change in the level compared to the firm average 
+calculated  over  the  period  1992-1995.  Second,  endogeneity  is  not  controlled  for  and  estimates 
+cannot be judged in a causal manner as above. 
+
+Size, shows that increasing the number of jobs in the firm has a negative impact on the average 
+level  of  profit  per  worker.  This  result  and  the  former  concerning  the  effects  of  hiring  and 
+separations  suggest  the  presence  of  decreasing  returns  to  scale.  Changes  in  the  gender 
+composition,  Male,  are  found  to  be  insignificant,  probably  because  the  gender  proportions  are 
+quite constant, see Table 2.  
+
+Moderate amounts of education are associated with high profit. Firms with either low of highly 
+educated  workers  are  less  profitable. Age composition effects are such that young workers and 
+older workers are associated with higher profit. The UI-density variable shows that increases in 
+union  membership  are  associated  with  lower  profit.  Additionally,  there  is  an  indirect  effect  of 
+greater union density via lower hires, a lower wage level, wage growth, lower tenure but higher 
+wage growth.  
+
+Finally, the time dummies show that the first three years of observation all have relatively low 
+levels of profit. In 1995 profit increased with 146,000 DKK per worker compared to the preceding 
+years. The years 1992 and 1993 were close to the bottom of the business cycle, where 1994 and 
+1995 were years of upswing. It is likely that better business cycles will also have an impact on the 
+costs of hiring and the gain in profit of separations. So far, we only have 4 years of observations, 
+so we have little capability to extend the study in this direction for the time being. 
+
+Instrumentation  diagnostics  fall  into  three  sets.  (1)  F-tests  with  the  null  hypothesis  that 
+instruments  do  not  explain  the endogenous variable. These tests fail, and we conclude that our 
+instruments do have explanatory power. (2) Durbin-Wu-Hausman tests with the null hypothesis 
+
+ 
+
+11
+
+
+that OLS is consistent. These tests fail, and we conclude that instrumental variables are preferable, 
+since  they  are  always  consistent.  (3)  Over-identification  tests  the  null  that  instruments  are 
+appropriately  excluded  from  the  set  of  controls  in  the  equations  of  interest.  This  test  fails  for 
+worker flows, but is not rejected for tenure or wages. The primary effects of interest are those of 
+wages on hires and separations. Since wage instruments are appropriately excluded from the set of 
+controls, we can be comfortable with our inferences of primary interest. Arellano (1999) shows 
+over-identification tests have low power in large samples, suggesting our partial rejection of the 
+restrictions is less worrying.  
+
+A numerical Example 
+ 
+Finally, we have constructed an example to show the effects on profit of changes in the personnel 
+policy made necessary in order to increase the long run employment with one more job. We use 
+the average firm with 40 employees/jobs. Simple gross and net flow calculations show that for 
+Denmark  3  hires  and  2  separations  are  needed  to create a new job on average (see Albæk and 
+Sørensen, 1998). The estimated coefficients suggest that a 10% increase in the proportion of hires 
+from the sample average of 0.3 reduces profit with DKK 171,000 per extra worker. At the same 
+time, tenure has to change since we are employing 3 new workers with no tenure. If the rest of the 
+workers have average tenure, the contributions from the new workers reduce tenure by 10% and 
+that increases profit by DKK 138,000. Together, the hiring of 3 extra persons costs DKK 33,000 
+each. That is about 1/3 of the wage costs. If the firm at the same time lays off 2 persons, profit 
+increases  DKK  23,000.  As  these  are  assumed  to  have  average  tenure,  there  is  no  profit 
+contribution from tenure. The overall loss in profit from hiring 3 and separating 2 is then about 
+DKK 11,000. This operation results in the net hiring of one person and that has a separate negative 
+effect on profit per extra worker of DKK 384,984/40=9600. Altogether, extending the work force 
+with one person costs DKK 20,000 (2680 Euro). 
+
+  
+
+4. Summary and Conclusions 
+
+Several aspects of the personnel structure of firms have been described recently in the empirical 
+labour economics literature. This has largely been driven by new data sets linking many firms with 
+many workers or looking at the personnel files of a single large corporation. Theoretical literature 
+
+ 
+
+12
+
+
+has begun explaining selections of these new facts. Still further empirical papers have described 
+links between selected features of firms’ personnel structure. The novelty in this paper is to draw 
+together  the  most  comprehensive  picture  of  firms’  personnel  structure  to  date,  using  the 
+population  of  7118  medium-to-large  Danish  enterprises  over  the  period  1992-95.  More 
+importantly, in a simple setting, for the first time, we produce measures of the relations between 
+personnel policies (on wages and turnover) and profit, which allows for the simultaneous nature of 
+their determination. 
+
+The  procedure  we  follow  allows  us  to  control  for  firm  heterogeneity  by  transforming  a 
+longitudinal  matched  firm-worker  dataset.  We  address  the  potential  simultaneity  of  personnel 
+policy  and  firm  performance  by  way  of  instrumental  variables  characterising  the  personnel 
+structure of all other firms operating in the same local labour markets. Subject to our identifying 
+assumption that location is exogenous to firm personnel policy decisions at the margin, we are 
+able to make precise measurements of the relations between tenure, pay, worker flows and profit.  
+
+We find that personnel policy, defined as wage level and growth and worker turnover, has a strong 
+relation to firm economic performance. At the margin, more hiring is associated with lower profit, 
+and more separations are associated with higher profit. For the average firm, one new job, created 
+by three hires and two separations, is associated with DKK 20,000 (€ 2680) lower profit. Higher 
+wage levels and lower wage growth are both associated with higher profit. A workforce that has 
+less tenure, all else equal, is more profitable.  
+
+These  results  are  consistent  with  survey-based  information  on  the  costs  of  hiring.  The  new 
+empirical result is that separations may not be so detrimental to profit than hitherto believed and 
+consequently that high tenure per se may not be so beneficial to profit as believed in much of the 
+textbooks in labour economics and on management. We hope that this result will spur for new 
+advances in the theoretical and empirical literature in this field.  
+
+ 
+
+References 
+
+Abowd, John, Francis Kramarz and David Margolis (1999) High Wage Workers and High Wage 
+Firms, Econometrica, 67:2, 251-333. 
+Abowd and Limieux (1996) Rent Sharing Quarterly Journal of Economics, 110, 230-265. 
+
+ 
+
+13
+
+
+Albæk,  Karsten  and  Bent  Sørensen  (1998)  Worker  Flows  and  Job  Flows  in  Danish 
+Manufacturing, 1980-1991 Economic Journal 108, 1750-1771. 
+Arellano, Manuel (1999) Underidentification, Mimeo IFS. 
+Barney,  Jay.  (1991)  Firm  Resources  and  Sustained  Competitive  Advantage,  Journal  of 
+Management, Vol 17, No 1, 99-120. 
+Barth, Erling. (1997) Firm-Specific Seniority and Wages, Journal of Labor Economics, 15:3:1, 
+495-506. 
+Barth, Erling and Harald Dale-Olsen, (1999). The Employer's Wage Policy and Worker Turnover, 
+in Haltiwanger, Julia Lane, John Spletzer, Juules Theeuwes and Ken Troske (eds) The Creation 
+and Analysis of Employer-Employee Matched Data: 285-312., Elsevier Science. 
+Becker, Gary. (1964), Human Capital, New York, Columbia. 
+Burgess,  Simon  (1999),  The  Reallocation  of  Labour:  An  International  Comparison  Using  Job 
+Tenure, LSE CEP Discussion Paper 416. 
+Davis, S. and J. Haltiwanger, (1999) Gross Job Flows, in Orley Ashenfelter and David Card (eds.) 
+Handbook of Labor Economics, Volume 3. Amsterdam: North Holland. 
+Ehrenberg and Smith, 1999 
+Farber,  Henry,  (1999)  Mobility and Stability: The dynamics of job change in labor markets, in 
+Orley  Ashenfelter  and  David  Card  (eds.)  Handbook  of  Labor  Economics,  Volume  3. 
+Amsterdam: North Holland. 
+Gibbons, Robert and Lawrence Katz (1991) Layoffs and Lemons, Journal of Labor Economics 
+9: 351-380. 
+Gibbons, Robert and Michael Waldman (1999), Careers in Organizations: Theory and Evidence 
+in  Orley  Ashenfelter  and  David  Card  (eds.)  Handbook  of  Labor  Economics,  Volume  3. 
+Amsterdam: North Holland. 
+Kramarz,  Francis  and  Sebastien  Roux,  (1999)  Within-Firm  Seniority  Structure  and  Firm 
+Performance, LSE-CEP Working Paper 420. 
+Lazear,  Edward  (1999)  Personnel  Economics:  Past  lessons  and  future  directions,  NBER 
+Working Paper 6957. 
+Leth-Sørensen, Søren (1998) Longitudinal data on persons and establishments: The Danish IDA 
+database, Mimeo Statistics Denmark. 
+Leonard, Johnathan, Benoit Mulkay and Mark Van Audenrode (1999) Compensation Poicies and 
+Firm  Productivity,  in  Haltiwanger  (ed)  The  Creation  and  Analysis  of  Matched  Employer-
+Employee Data, Amsterdam: North Holland. 
+Leonard, Johnathan and Mark Van Audenrode (1997) The Persistence of Pay, Berkeley Working 
+Paper. 
+Mortensen, Dale and Christopher Pissarides, (1999) New Developments in Models of Search in 
+Labor  Markets,  in  Orley  Ashenfelter  and  David  Card  (eds.)  Handbook  of  Labor  Economics, 
+Volume 3. Amsterdam: North Holland. 
+
+ 
+
+14
+
+
+Papke, L (1991) Interstate Business Tax Differentials and New Firm Location, Journal of Public 
+Economics, 45, 47-68. 
+Tomer, J.F. (1987) Organizational Capital: The path to higher productivity and well-being. 
+New York, Praeger. 
+Werwatz,  Axel,  Paul  Bingley,  Tor  Eriksson  and  Niels  Westergaard-Nielsen  (1999)  Beyond 
+Manucentrism – Some Fresh Facts About Job and Worker Flows, CLS Working Paper 1999-09.  
+
+ 
+
+15
+
+
+Table 1. Estimation Sample Descriptive Statistics (28,265 observations) 
+ 
+profit per worker 
+value adder per worker 
+prop. hires 
+prop. separations 
+log wage 
+delta log wage 
+log tenure 
+log size 
+prop. male 
+education 
+age 
+union density 
+ 
+
+st.dev.
+1160,92
+1346,28
+0,23
+0,25
+0,27
+0,09
+0,38
+0,93
+0,23
+1,10
+4,97
+0,14
+
+mean
+234,69
+476,28
+0,36
+0,37
+4,98
+0,02
+1,07
+3,75
+0,71
+11,30
+35,79
+0,83
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Table 2. Between-Firm-Year Analysis of Variance. 
+Proportion of Variance Explained 
+
+firm
+0,767
+0,640
+0,474
+0,175
+0,801
+0,224
+0,778
+0,883
+0,953
+0,936
+0,892
+0,875
+
+SIC3
+0,017
+0,015
+0,082
+0,043
+0,312
+0,023
+0,125
+0,089
+0,577
+0,493
+0,245
+0,371
+
+SIC5 SIC3-yr SIC5-yr
+0,037
+0,029
+0,037
+0,027
+0,129
+0,198
+0,776
+0,069
+0,433
+0,409
+0,041
+0,202
+0,234
+0,199
+0,201
+0,184
+0,701
+0,708
+0,622
+0,611
+0,369
+0,354
+0,455
+0,469
+
+0,019
+0,018
+0,114
+0,749
+0,320
+0,144
+0,144
+0,093
+0,578
+0,497
+0,249
+0,376
+
+yr 
+0,000 
+0,000 
+0,022 
+0,698 
+0,003 
+0,092 
+0,010 
+0,001 
+0,000 
+0,001 
+0,002 
+0,001 
+
+kom.
+0,011
+0,011
+0,024
+0,010
+0,109
+0,010
+0,040
+0,033
+0,071
+0,182
+0,059
+0,065
+
+kom-yr
+0,013
+0,014
+0,064
+0,713
+0,118
+0,131
+0,022
+0,040
+0,073
+0,186
+0,066
+0,072
+
+ 
+profit per worker 
+value adder per worker 
+prop. hires 
+prop. separations 
+log wage 
+delta log wage 
+log tenure 
+log size 
+prop. male 
+education 
+age 
+union density 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+16
+
+
+Value adder 
+per worker
+
+Prop.
+ hires
+
+Prop. 
+separations
+
+ 
+
+Table 3. Raw Correlation Matrix 
+Profit 
+ per worker 
+1,000 
+0,931 
+0,001 
+-0,008 
+0,065 
+0,039 
+0,003 
+
+profit per worker 
+value adder per worker 
+prop. hires 
+prop. separations 
+log wage 
+delta log wage 
+log tenure 
+ 
+ 
+ 
+Table 4. Within-Workplace on Within-Firm-Year 
+Three Stage Least Squares Model Estimates (Standard Errors) 
+
+1,000
+-0,003
+-0,008
+0,098
+0,069
+0,010
+
+1,000
+0,158
+-0,166
+0,093
+-0,665
+
+1,000
+-0,118
+0,126
+-0,234
+
+Log 
+ wage 
+ 
+ 
+ 
+ 
+1,000 
+0,145 
+0,215 
+
+Delta log 
+wage 
+ 
+ 
+ 
+ 
+ 
+1,000 
+-0,068 
+
+Log
+ tenure
+
+1,000
+
+ 
+intercept 
+profit 
+hires 
+separations 
+log(wage) 
+dlog(wage) 
+tenure 
+size 
+male 
+education 
+education2 
+age 
+age2 
+union density 
+yr92 
+yr93 
+Yr95 
+ 
+
+Profit 
+
+ 
+
+-13.5200 
+
+-384.9835 
+
+2.2730 
+ 
+-1717.758  156.9376 
+468.1727  180.0215 
+578.4598  130.7658 
+-1318.598  620.2374 
+-1385.669  111.0001 
+31.292 
+67.4411 
+94.1630 
+4.1725 
+26.2900 
+0.2955 
+0.4938 
+-192.59  101.4718 
+50.9658 
+59.2656 
+4.0718 
+
+317.4732 
+
+146.7495 
+
+-19.4773 
+
+-56.2729 
+
+-53.7357 
+
+73.6526 
+
+15.2145 
+
+ 
+
+17
+
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+

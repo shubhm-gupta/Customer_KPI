@@ -1,0 +1,1689 @@
+The	
+  determinants	
+  of	
+  bank	
+  efficiency	
+  and	
+  productivity	
+  growth	
+  in	
+  
+
+the	
+  Central	
+  and	
+  Eastern	
+  European	
+  banking	
+  systems1	
+  
+
+Alin	
+  Marius	
+  Andries2 
+
+	
+  	
+  
+
+ 
+Abstract 
+In  this  paper  we  examine  the  efficiency  and  its  determinants  in  the  banking 
+systems of Central and Eastern European countries during a four-year period from 2004 
+to  2008.  We  use  two  approaches  in  order  to  examine  the  efficiency  of  the  banking 
+industry: SFA method and DEA method. 
+
+From empirical results we see that the average efficiency of banks in Central and 
+Eastern  European  countries  grew  in  the  period  analyzed.  Increase  may  be  due  to 
+increased competition with EU accession and the entry of foreign banks, also caused by 
+extensive  legislative  changes  which  led  banks  to  become  more  efficient.  Based  on  the 
+results  we  see  that  the  highest  level  of  technical  efficiency  are  recorded  in  banking 
+systems  from  Romania  and  Czech  Republic,  and  the  lowest  are  recorded  in  Slovenia. 
+Looking  at  the  average  efficiency  scores  for  each  country,  we  observe  significant 
+variation  across  the  banking  systems  of  the  Central  and  East  European  country. 
+Technical  efficiency  values  estimates  with  SFA  method  range  from  0,6275  in  Slovak 
+Republic to 0,8644 in Romania. 
+
+In  order  to  assess  the  level  of  productivity  growth  of  the  banking  industry,  we 
+calculate Malmquist productivity index, calculated using the linear programming. In the 
+analyzed  period,  on  average,  the  productivity  of  banks  increased  in  2008  by 
+approximately 24,27 % in relation to 2004, an increase owed especially to technological 
+modification.  
+
+Keywords: efficiency, productivity, banks, CEE countries 
+JEL Classifications G21, C14, D24, D61 
+                                                 
+1 This work was cofinanced from the European Social Fund through Sectoral Operational Programme 
+Human Resources Development 2007-2013, project number POSDRU/1.5/S/59184 „Performance and 
+excellence in postdoctoral research in Romanian economics science domain” 
+2 PhD., Research and teaching assistant, Faculty of Economics and Business Administration, Alexandru 
+Ioan Cuza University of Iasi 
+
+ 
+
+1 
+
+
+ 
+1. Introduction 
+
+The efficiency of banks has been widely and extensively studied in the last few 
+decades.  For  banks,  efficiency  implies  improved  profitability,  greater  amount  of  funds 
+channeled in, better prices and services quality for consumers and greater safety in terms 
+of improved capital buffer in absorbing risk (Berger, Hunter and Timme, 1993). 
+
+The  information  obtained  on  the  evaluation  of  the  bank's  performance  may  be 
+used to improve its overall efficiency of operations and in turn, may contribute towards 
+achieving its competitive edge. 
+
+The creation of an effective and solid financial system constituted an important 
+objective of the process of reform and passing from a centralized economy to a market 
+economy  in  Central  and  Eastern  European  countries.  The  liberalization  of  prices,  the 
+liberalization  of  the  circulation  of  goods,  services  and  of  capital,  the  deregulation  of 
+financial systems, globalization and the mutations on the level of the economic, social 
+and  political  environment  had  a  significant  impact  on  the  development  of  the  CEE 
+banking  system.  The  banking  systems  in  the  developing  countries  suffered  ample 
+mutations with the purpose of creating some efficient banking institutions and with a high 
+degree of soundness capable of facilitating economic growth. 
+
+The efficiency of the banking system is a theme of interest both for the academic 
+world, as well as for the decision factors around the world. During last three decades a 
+large number of papers has been published in which the efficiency of banking industry 
+both  in  the  developed  and  developing  countries  has  been  investigated.  Generally  in 
+papers  concerning  developed  the  attention  has  been  focused  on  analyzing  the  market 
+structure, the degree of concentration, and deregulation and their impacts on efficiency. 
+On other hand, in case of developing countries the concentration has generally been on 
+investigation of the impact of the bank reforms, of the privatizations of the state banks, of 
+entering foreign banks and their effects on the efficiency (Asaftei and Kumbhakar, 2008; 
+Bauer et al., 1998; Bauer, Berger and Humphrey, 1993; Beccalli, Casu and Girardone, 
+2006; Berger and Humphrey, 1997, Berger and Mester, 1997; Berger and Mester, 2003; 
+Bonin,  Hassan  and  Wachtel,  2005;  Casu  and  Girardone,  2002;  Casu,  Girardone  and 
+
+ 
+
+2 
+
+
+Molyneux,  2004;  Guzmán  and  Reverte,  2008;  Koutsomanoli-Filippaki,  Margaritis  and 
+Staikouras, 2009; Yildirim and Philippatos, 2007).  
+
+The increasing number of studies pertaining to the analysis of performance and 
+efficiency of banks is a result of the transformations in the financial services sector and 
+unprecedented  advancement  in  financial  and  non-financial  technologies  (Berger  and 
+Mester, 2003). The valuation of the productivity of the banking system presents a major 
+interest  for  the  public  authorities  because  an  increase  of  the  productivity  of  banks  can 
+lead to better banking performances, the decrease of costs and improvement of the quality 
+of services, as well as to an improvement of the allocation of resources and increase of 
+productivity on the level of the entire economy. The increase of productivity contributes, 
+also, to the increase of the soundness and stability of the banking system provided that 
+the achieved profits are channeled towards the increase of equity and of provisions that 
+allow for a better absorption of risks (Casu et al., 2004).  
+
+The analysis of the efficiency and productivity of banks can be performed with 
+both the help of the parametrical methods and that of non-parametrical methods. For a 
+comparison  of  these  methods  see  Berger  and  Humphrey  (1997),  Berger  and  Mester 
+(2003) and Casu et al. (2004). 
+
+In the literature in the field there are a considerable number of studies regarding 
+the  efficiency  of  banks,  most  of  these  studies  refer  to  the  banking  systems  in  the 
+developed countries especially the USA and the European Union.  
+
+In  this  paper  we  pursue:  the  analysis  of  efficiency,  determining  the  factors  that 
+influence  the  level  of  efficiency  and  the  analysis  of  the  mutations  on  the  level  of  the 
+productivity  of  banks  in  7  Central  and  Eastern  Europe  countries  (Bulgaria,  Czech 
+Republic, Poland, Romania, Slovak Republic, Slovenia, Hungary) for the period 2004-
+2008.  
+
+On contrary to many other regions, the examination of efficiency and productivity 
+- banking industry in Central and Eastern Europe countries, has receive little attention . 
+Most studies focused on the banking sector in Central and Eastern Europe (CEE) are only 
+performed at the level of one state and do not offer comparative information regarding 
+the efficiency of banks in these states. However, in recent years, several papers have been 
+published on comparative analysis highlighting the impact of the property ownership on 
+
+ 
+
+3 
+
+
+banks’ efficiency and productivity (Fries and Taci, 2001; Grigorian and Manole, 2002; 
+Weill, 2003, Hasan and Marton, 2003; Bonin, Hasan and Wachtel, 2005; Fries and Taci, 
+2005;  Rossi  et  al.,  2005;  Havrylchyk,  2006;  Yildirim  and  Philippatos,  2007; 
+Koutsomanoli-Filippaki et al., 2009). 
+
+The  analysis  of  the  mutations  on  the  level  of  the  productivity  of  banks  is 
+performed, in the literature in the field, with the help of the total productivity index of the 
+Malmquist  factors  (see  Alam,  2001,  Berg  et  al.,  1992;  Chaffai,  Dietsch  and  Lozano-
+Vivas,  2001;  Grifell-Tatje  and  Lovell,  1997;  Guzman  and  Reverte.  2008,  Isik  and 
+Hassan,  2003;  Liu,  2010;  Rebelo  and  Mendes,  2000;  Wheelock  and  Wilson,  1999)  or 
+through the parametric estimation of the distance function (Cuesta and Orea; 2002; Feng 
+and Serletis, 2010; Koutsomanoli-Filippaki et al., 2009; Rezitis; 2008). 
+
+We analyze the efficiency of banks in CEE through two methods: a parametric 
+method – the SFA Method (Stochastic Frontier Analysis) and a non-parametric method – 
+the  DEA  Method  (Data  Envelopment  Analysis).  The  use  of  two  different  methods  is 
+justified because: although in a great many research regarding efficiency and productivity 
+the hierarchy of methods was tried, until now no consensus was reached regarding which 
+method should be used (Bauer et al., 1998); the use of different methods to analyze an 
+economic phenomenon is a cross verification procedure for the robustness of the obtained 
+results  (Learmer  and  Leonard,  1983);  considering  that  the  real  level  of  efficiency  of  a 
+financial institution is not known and that the opportunity of using a certain method is 
+given  by  the  distribution  of  the  set  of  data,  the  use  of  both  methods  will  reduce  the 
+potential  error  caused  by  the  distribution  hypothesis  of  the  data  set  (Berger  and 
+Humphrey, 1997). 
+
+The two methods used present both comparative advantages and disadvantages. 
+The DEA Method is a deterministic method based on linear programming which does not 
+take into account the random errors and thus requires no predefinition of the distribution 
+of  the  error  term.  While  the  SFA  Method  is  a  stochastic  method,  which  integrates  the 
+random errors but also requires the predefinition of the functional form. In the case of the 
+SFA method the output of a firm is a function of inputs, inefficiency and random error 
+and requires the predefinition of the distribution of the error term. The DEA method does 
+not take into account the “statistical noise”, and such the estimates regarding efficiency 
+
+ 
+
+4 
+
+
+can  be  biased  if  the  production  process  of  the  firm  is  characterized  by  stochastic 
+elements. 
+
+Because of its deterministic character, the DEA method entails as hypothesis that 
+all  deviations  from  efficiency  are  caused  by  the  firm.  Nevertheless,  there  are  some 
+elements  such  as  the  legislative  frame,  the  level  of  competition  etc.  that  cannot  be 
+controlled  by  the  company  and  that  affect  the  performance  of  the  company.  On  the 
+contrary,  the  SFA  method  allows  for  the  shaping  of  these  factors  by  introducing  the 
+random  error  in  the  specification  of  the  model  for  the  determination  of  the  efficiency 
+frontier (Murillo-Zamorano, 2004). 
+
+The analysis of the mutations on the level of productivity will be performed with 
+the  help  of  the  Malmquist  productivity  index  calculated  with  the  help  of  linear 
+programming. The approach of productivity with the help of the Malmquist productivity 
+index allows for the separation of the effect of the modification of efficiency – mutations 
+on  the  level  of  the  technical  efficiency  of  banks  –  from  the  effects  owed  to  the 
+technological modification – mutations on the level of the efficiency frontier owed to the 
+technological progress. 
+
+The  rest  of  the  paper  is  organized  as  follows:  section  2  is  allocated  to  the 
+description of the methodology used; in section 3 we present the variables and data used; 
+section  4  is  meant  for  the  presentation  of  the  empirical  results;  the  conclusions  are 
+presented in section 5.  
+2. The methodology of research 
+
+In  the  analysis  of  the  efficiency  of  the  banks  in  CEE  countries  we  will  use  two 
+methods: a parametric method – the SFA Method (Stochastic Frontier Analysis) and a 
+non-parametric method – the DEA Method (Data Envelopment Analysis).  
+
+The DEA Method (Data Envelopment Analysis) is a non-parametric method of linear 
+programming  used  to  create  the  efficiency  frontier  and  to  evaluate  the  efficiency  of  a 
+decisions  unit.  The  DEA  method  provides  for  the  ensemble  of  analyzed  units  the 
+efficiency  frontier,  according  to  which,  each  decision  unit  in  the  set  of  data  used  is 
+evaluated in relation to this frontier and a relative efficiency is associated to it relative to 
+the units with the “best” performances. These units with the “best” performances that are 
+
+ 
+
+5 
+
+
+on  the  efficiency  frontier  are  considered  to  be  efficient,  and  the  others  are  considered 
+inefficient and an inefficiency score is associated to them. 
+
+The decisional units found being inefficient are inefficient in that at least one other 
+decisional unit can produce the same quantity of outputs with a lower quantity of inputs 
+or a higher quantity of outputs with the same quantity of inputs. The level of efficiency of 
+the  any  decisional  unit  cannot  be  higher  than  1.  The  DEA  method  is  designed  to 
+maximize the relative efficiency of each decisional unit, provided that the ratios obtained 
+in this way for each decisional unit are also feasible for all other decisional units in the 
+data set. In this way both the reference points – the relatively efficient functional units – 
+that define the efficiency frontier as well as the inner points – relatively inefficiency units 
+– that are beneath the efficiency frontier are identified. If a functional unit is inefficient, 
+the DEA method suggests the necessary strategies in order to increase the efficiency of 
+this unit, referring to the selected units as being the best practices. Depending on these 
+data, managers can evaluate to what extent a less efficient unit under-uses or over-uses 
+certain inputs and what is to be done in order to improve the situation.  
+
+In the literature in the field a lot of versions were developed, in the present paper 
+we  will  apply  the  model  proposed  by  Banker,  Charnes  and  Cooper  (1984),  a  model 
+oriented towards outputs and which had the hypothesis of variable returns to scale. This 
+model  is  also  met  in  the  literature  in  the  field  as  the  VRS  model  (Variable  Returns  to 
+Scale). 
+
+The DEA models can be “input oriented models” or “output oriented models”. In the 
+case of input oriented models, the DEA Method defines the efficiency frontier, searching 
+for  each  analyzed  decisional  unit  the  maximum  decrease  in  the  use  of  inputs  so  as  to 
+maintain the level of outputs constant. In the case of output oriented models the levels of 
+the inputs are maintained constant and the possible maximum for outputs is sought. In 
+case  the  productive  process  is  characterized  by  a  direct  proportionality  connection 
+between  the  size  of  the  inputs  and  the  size  of  the  outputs,  the  two  measurements  of 
+efficiency  produce  the  same  efficiency  scores.  Otherwise  the  two  approaches  lead  to 
+different efficiency scores. 
+
+The use of the specifications of constant returns to scale is only appropriate when all 
+decisional  units  in  the  data  set  are  operational  at  the  optimum  scale.  The  imperfect 
+
+ 
+
+6 
+
+
+competition, the constraints regarding financing, the restrictions regarding the adequacy 
+of capital, the prudential requirements etc. can make that some units do not operate on 
+optimum  scale.  The  fact  that  banks  are  confronted  with  constant  returns  to  scale  was 
+empirically proven in several studies (McAllister and McManus, 1993 and Wheelock and 
+Wilson, 1999). The use of the constant returns to scale specifications in this case leads to 
+measures of the technical efficiency mistaken with the returns to scale. That is why, the 
+use of the hypothesis of variable returns to scale is imposed. 
+
+The model developed by Banker, Charnes and Cooper (1984) can be written as: 
+
+ 
+
+(1) 
+
+The level of efficiency obtained by applying the BCC model is also called pure 
+technical efficiency and is obtained by running program (1) for all decisional units. The 
+BCC model eliminates from the analysis the scale component of efficiency and, thus, the 
+level  of  efficiency  obtained  through  the  BCC  model  is  lower  or  equal  to  the  level  of 
+efficiency resulted from applying the CCR model. 
+
+In order to obtain the measures of efficiency to scale both DEA models must be 
+solved. The technical efficiency scores obtained from the CRR model are decomposed 
+into two components: one owed to the inefficiencies to scale and the other owed to pure 
+technical inefficiency. If there are differences between scores for the same DMU in the 
+two models, then the difference between them provides the measure for inefficiency to 
+scale: 
+
+where: 
+
+ - technical efficiency in the BCC model; 
+
+, 
+
+ - technical efficiency in the CRR model; 
+
+ - efficiency to scale. 
+
+ 
+ 
+
+ 
+
+7 
+
+
+The  SFA  Method  (Stochastic  Frontier  Analysis)  is  an  econometrical,  deterministic 
+method for estimating the efficiency frontier. Unlike the non-parametric methods based 
+on the technique of linear programming, the SFA method entails a certain functional form 
+for  the  relation  between  inputs  and  outputs.  The  SFA  method  was  first  proposed  by 
+Aigner, Lovell and Schmidt (1977) and Meeusen and van den Broeck (1977).  
+
+The deterministic production frontier is given by the relation: 
+
+where: 
+
+  (2) 
+
+ 
+
+Transposed into log-linear form, the deterministic production frontier becomes: 
+
+or 
+
+where: 
+
+ 
+
+(3) 
+
+ 
+
+(4) 
+
+. 
+
+A major problem of the deterministic method is the fact that it does not allow for the 
+decomposing  of  the  error  term  and  the  separate  analysis  of  inefficiency  from  the 
+stochastic shock. 
+
+The SFA method entails as expression form of the production frontier; 
+
+  (5) 
+
+where: 
+
+ –  production  function; 
+
+ –  technical  inefficiency  component; 
+
+random  error  component  (statistical  „noise”); 
+
+ –input  elasticity; 
+
+ –  inputs; 
+
+ – 
+
+ – 
+
+outputs. 
+The 
+
+ variable  reflects  the  effects  of  the  conditions  independent  of  the  analyzed 
+
+decisional unit and the measuring errors and it presupposes that, in general, it follows a 
+ is a variable manageable 
+normal distribution. The second component of the error term 
+
+by the decisional unit, which represents inefficiency and presupposes that a semi-normal 
+distribution follows. 
+
+According to Aigner, Lovell and Schmidt (1977) the production function for a panel-
+
+type set of data can be written thus: 
+
+ 
+
+8 
+
+
+ 
+
+ 
+
+(6) 
+
+Kumbhakar  (1987)  and  Battese  and  Coelli  (1988)  generalized  the  hypothesis 
+ and proposed for the panel-type set of data 
+
+concerning the semi-normal distribution of 
+
+a normal truncated distribution. The general form for the production form of a series of 
+panel-type set of data can be written as: 
+
+ 
+
+(7) 
+
+where: 
+
+ –output  vector; 
+
+ –input  vector; 
+
+ –  independent  variable  coefficient; 
+
+ – random error 
+
+; 
+
+ – truncated error variable. 
+
+The  production  frontier  (7)  can  be  estimated  through  Maximum  Likelihood 
+Estimation  (MLE).  The  resulting  error  component  is  decomposed  into  the  „noise” 
+component and the stochastic inefficiency component that is used in estimating the level 
+of inefficiency for each decisional unit. For the estimation of the efficiency frontier in the 
+case of panel-type data series aside from the Maximum Likelihood estimation (ML) the 
+LSDV  approach  (least  square  dummy  variable  method)  and  the  GLS  approach 
+(generalized least squares method) can also be used. 
+
+A disadvantage of the models presented above is the fact that they presuppose that 
+inefficiency  is  stable  in  time,  this  presupposition  being  difficult  to  accept  when  the 
+number of analyzed periods is high enough. In time, it is to expect that managers learn 
+from  past  experience  in  the  production  process  and  modify  their  decisions  so  that  the 
+effects of inefficiency change their characteristics in time. 
+
+Cornwell,  Schmidt  and  Sickles  (1990)  proposed  a  model  in  which  the  effects  of 
+
+technical inefficiency are specific to each company and vary in time thus: 
+
+ 
+
+ 
+
+8) 
+
+The  obtained  model  can  be  treated  either  as  a  fixed  effects  model,  or  as  one  with 
+random  effects  and  it  relaxes  the  invariance  hypothesis  of  the  effects  of  inefficiency. 
+Kumbhakar  (1990)  suggested  the  use  of  a  model  in  which  the  effects  of  technical 
+inefficiency vary systematically in time, according to the relation: 
+
+ 
+
+(9) 
+
+ 
+
+9 
+
+
+where 
+
+ are distributed semi-normal, and b and c are the parameters that have to be 
+
+estimated using the MLE method. 
+
+Battese and Coelli (1992) proposed an alternative model to the model developed by 
+Kumbhakar (1990) in which the parameters of the model are estimated with the method 
+of maximum likelihood and in which the terms vary exponentially in time according to 
+the relation: 
+
+ 
+
+(10) 
+
+where: 
+
+ - unknown parameter to be estimated,  
+
+ 
+
+According to this model technical efficiency can vary in time, but the evolution is the 
+
+same for all analyzed units. 
+
+The  restrictions  regarding  the  function  of  the  stochastic  frontier  are  more  flexible 
+when  a  functional  form  of  the  translog  (TL)  type  production  function  is  applied,  than 
+when a Cobb-Douglas type functional form is applied. The translog form does not impose 
+the  hypothesis  regarding  the  constant  elasticity  of  the  production  function  or  of  the 
+elasticity of the substitution between inputs. Another advantage of the translog form is 
+that  it  allows  data  to  indicate  the  real  value  of  the  curb  of  the  function,  rather  than 
+imposing prior hypotheses regarding its value.  
+
+The production frontier variable in time can be expressed in translog form thus: 
+
+  (11) 
+
+where: 
+
+ –output  vector; 
+
+ –input  vector; 
+
+ –  independent  variable  coefficient; 
+
+ –  random  error 
+
+; 
+
+ –  error  variable  that  follows  a  normal-truncated 
+
+distribution; t – time component. 
+
+The translog (TL) form (14) can be written more simply in the form: 
+
+ 
+
+(12) 
+
+Battese and Coelli (1995) introduced a model for the frontier of a panel-type set of 
+. The authors presuppose as hypothesis 
+
+data that quantifies the effect of inefficiency in
+
+ 
+
+10 
+
+
+that  the  term  non-negative  technical  efficiency  follows  a  truncated  distribution  with 
+different environments for the analyzed units.  
+
+ 
+
+(13) 
+
+where: 
+
+ – inefficiency of variable. 
+
+In the analysis we will perform we be using for determining the stochastic production 
+
+frontier the model developed by Battese and Coelli (1995). 
+
+In order to quantify the mutations on the level of the productivity of banks we will 
+use  the  total  productivity  index  of  the  Malmquist  factors.  The  Malmquist  index  was 
+introduced by Caves, Christensen and Diewert (1982). The advantage of this method is 
+that the adopting of some restrictive hypotheses imposed in the approaches of Fisher or 
+Törnqvist is not necessary. Besides, the hypothesis that companies have as objective the 
+minimization  of  costs  or  the  maximization  of  incomes  must  not  be  considered,  an 
+advantage in the analyses of the non-profit sectors or activities.  
+
+The total productivity index of the Malmquist factors measures the modification of 
+total productivity of the factors between the two periods of time, by calculating the ratio 
+between the distance from each point observed in the respective technology. Färe et al. 
+(1992) proposed the following form for the Malmquist index (output oriented), between 
+two periods of time t (basic period) and (t+1) (current period):  
+
+  (14) 
+
+where we noted with 
+
+ the distance from the point observed in the period t+1 
+
+to  the  frontier  of  the  technology  of  period  t.  A  value  of
+
+ proper  will  indicate  an 
+
+increase of the total productivity of factors from one period to another, while an improper 
+value corresponds to a decline of total productivity of factors.  
+
+We must note that relation (14) is actually a geometric mean of two indexes of total 
+productivity of factors: the first one evaluated in relation to the technology of period t, 
+and  the  second  one  relative  to  the  technology  of  period  t+1.  Relation  (14)  can  be  re-
+written in the form: 
+
+ 
+
+11 
+
+
+  (15) 
+
+in which the ratio outside the square brackets measures the modification of the Farrell 
+measure  of  the  output  oriented  technical  efficiency  between  the  periods  t  and  t+1.  In 
+other words, the modification of efficiency is equivalent to the ratio of the two Farrell 
+measures:  
+
+ 
+
+(16) 
+
+The remaining part is a measure of the technological modification – the geometrical 
+ and 
+
+mean of the modifications in technology between the two periods, evaluated in 
+
+; that is:  
+
+ (17) 
+
+The  Malmquist  productivity  index  is  a  theoretical  index,  and  the  empirical 
+application needs its estimation. The estimation of the distance function involved in the 
+analysis  of  productivity  is  performed  by  using  linear  programming  methods  or 
+econometrical methods. See Balk (2001), and Diewert and Nakamura (2003, 2005) for a 
+synthesis  of  the  performed  researches.  In  the  performed  analysis  we  will  estimate  the 
+Malmquist index with the help of the DEA-type linear programming method, a method 
+that was introduced by Färe et al. (1992) and developed by many other authors (Fried, 
+Lovell and Schmidt, 2008). 
+
+In the empirical analysis of the mutations on the level of the productivity of banks we 
+have  to  calculate  four  distance  measures  that  occur  in  equation  (14)  for  each  pair  of 
+adjacent  periods  of  time.  Having  at  disposal  panel  sets  of  data,  we  can  calculate  the 
+distance functions with the help of the DEA method. For the bank „i”, i =1,2,..., N the 
+four  DEA  linear  programming  problems,  in  the  hypothesis  that  the  technologies  have 
+constant returns to scale, can be written:  
+
+ 
+
+12 
+
+
+  
+
+(18)  
+
+ 
+
+(19) 
+
+The  four  linear  programming  problems  must  be  solved  N  times,  once  for  each 
+company in the ensemble. The introduction of solutions to the 4 problems in relation (14) 
+allows for the estimation of the Malmquist index of productivity.  
+
+The empirical results of the studies regarding the efficiency of banks show that the 
+level of efficiency differs in time and from one bank to another, this entails that the level 
+of efficiency of a bank is influenced by a series of micro and macroeconomic factors. The 
+performances of a bank are determined by a series of internal factors that are specific to 
+the  bank  and  external  factors  that  are  specific  to  the  environment  in  which  the  bank 
+performs  its  activity,  these  factors  influence  the  degree  of  efficiency  of  the  respective 
+bank.  
+
+As such, the recognition and use of the factors that have a significant influence on the 
+
+performance of banks are necessary conditions for improving efficiency.  
+
+The  microeconomic  factors  have  a  influence  only  on  a  certain  area  of  activity  and 
+include endogenous factors, such as used resources, used technology, size of the assets, 
+invested capital, organization method and management that are manageable by the bank 
+and exogenous factors such as specific legislation, market share, prices and availability of 
+resources that do not depend only on the management of the bank. The macroeconomic 
+factors  (inflation  level,  level  of  economic  growth,  GDP  per  capita,  population  etc.) 
+influence the efficiency of all companies no matter the area of activity they perform in. 
+
+In  the  literature  in  the  field,  the  studies  regarding  the  factors  influencing  the 
+
+efficiency of banks used the following variables: 
+• 
+Microeconomic factors: total assets (Favero and Papi (1995), McKillop, Glass and 
+Ferguson  (2002)),  profitability  (Casu  et  al.  (2004)),  capital  rate  (Casu  et  al.  (2004)), 
+
+ 
+
+13 
+
+
+loans/total  assets  ratio  (McKillop,  Glass  and  Ferguson  (2002)),  non-performing  loans 
+(McKillop,  Glass  and  Ferguson  (2002)),  degree  of  liquidity  (McKillop,  Glass  and 
+Ferguson (2002));  
+• 
+GDP/inhabitant (Grigorian and Manole, 2002). 
+• 
+Papi (1995), Casu et al. (2004)). 
+
+Other  factors:  ownership  form  (Favero  and  Papi,  1995),  location  ((Favero  and 
+
+(Grigorian  and  Manole,  2002), 
+
+Macroeconomic 
+
+inflation 
+
+factors: 
+
+rate 
+
+In the analysis regarding the factors influencing the efficiency of banks we will use 
+the method of multivariate regression that uses the estimated levels of efficiency through 
+the parametric or non-parametric methods as dependent variables and a series of other 
+factors as explicative variables. The empirical models used in the literature in the field 
+(see Favero and Papi, 1995; Grigorian and Manole, 2002) use a two-stage procedure: in 
+the first stage the level of efficiency is estimated through parametric or non-parametric 
+methods and in the second stage the regression analysis is applied in which the levels of 
+efficiency are dependent variables. 
+
+According to Xue and Harker (1999), regression analysis is among the most useful 
+and most widely used statistical methods. It is a reliable and easy to use tool to determine 
+whether  or  not  certain  factors  influence  the  decision-making  unit's  (DMUs)  efficiency 
+scores.  However,  because  efficiency  measures  range  between  0  and  1,  it  is  argued  to 
+apply a two-tailed Tobit model in place of OLS regression to explore factors correlated 
+with  inefficiency  thus,  given  that  the  dependent  variable,  the  efficiency  scores,  is 
+distributed over a limited interval, it is appropriate to use a censored (Tobit) regression 
+model to analyze the relationships with other variables. Furthermore, in smaller samples 
+there is some concentration of the values of the dependent variable at the upper margin.  
+
+Thus, according to this view, Ordinary Least Squares (OLS) regression, however, is 
+not a valid method to use when the dependent variable is the DEA efficiency score. The 
+dependent variable has an upper limit of 100 %, and therefore is a censored variable. If 
+such censoring were the only concern, then Tobit regression could be used. But, because 
+we  also  have  to  deal  with  biases  caused  by  inefficiency,  Tobit  regression  is  not  valid 
+either (Kumbhakar and Lovell, 2000). 
+
+ 
+
+14 
+
+
+Because efficiency measures range between 0 and 1, it is argued to apply a two-tailed 
+Tobit model in place of OLS regression to explore factors correlated with inefficiency 
+thus, given that the dependent variable, the efficiency scores, is distributed over a limited 
+interval,  it  is  appropriate  to  use  a  censored  (Tobit)  regression  model  to  analyze  the 
+relationships  with  other  variables  (Hoff,  2007).  McDonald,  (2009)  advocate  not  using 
+Tobit, he argued that Tobit estimation is inappropriate in the 2-stage of DEA, in contrast, 
+OLS  is  a  consistent  estimator.  However,  theoretical  literature  provides  opposing 
+arguments with respect to the use of OLS and Tobit in the second stage of the DEA based 
+analysis. In our study, the focus is to measure the technical efficiency which is regressed 
+by estimating OLS model. 
+
+In order to determine which factors can affect the efficiency scores, we examine some 
+aspects  of  bank’s  structure  which  is  related  to  efficiency  estimates.  For  this  purpose, 
+efficiency  scores  are  regressed  on  a  set  of  common  explanatory  variables;  a  positive 
+coefficient  implies  efficiency  increase  whereas  a  negative  coefficient  means  an 
+association with an efficiency decline. 
+3. Data and variables used  
+
+The data used in the analysis of bank efficiency in CEE are taken from the Annual 
+reports of banks, the Reports of the National Bank and from Bankers Almanac Database. 
+The  data  set  comprises  information  regarding  the  112  banks  in  Bulgaria  (21),  Czech 
+Republic (9), Poland (23), Romania (23), Slovak Republic (10), Slovenia (13), Hungary 
+(13) in the period 2004-2008.  
+
+In the literature in the field there is no consensus regarding the inputs and outputs that 
+must  be  used  in  the  analysis  of  the  efficiency  of  commercial  banks  (Berger  and 
+Humphrey, 1997). In the studies in the field five approaches for the definition of inputs 
+and  outputs  in  the  analysis  of  the  efficiency  of  a  bank  were  developed,  these  are: 
+Intermediation  approach;  Production  approach;  Assets  approach;  User  costs  approach; 
+Value added approach. 
+
+According to the Intermediation approach, banks are considered intermediaries that 
+transfer  the  financial  resources  from  the  agents  with  surplus  of  funds  to  those  with  a 
+deficit of funds. In this approach it is considered that the bank uses as inputs: deposits, 
+
+ 
+
+15 
+
+
+other  funds,  equity  and  work,  which  they  transform  into  outputs  such  as:  loans  and 
+financial investments. 
+
+The  opportunity  of  using  each  method  varies  depending  on  the  circumstances 
+(Tortosa-Ausina,  2002).  This  intermediation  approach  is  argued  to  be  particularly 
+appropriate for banks where most activities consist of turning large deposits and funds 
+purchased  from  other  financial  institutions  into  loans  or  financing  and  investments 
+(Favero and Papi, 1995). 
+
+In the performed analysis we will use the following set of inputs and outputs in order 
+to quantify the efficiency and mutations on the level of the productivity of banks: outputs: 
+Total  loans  (LOAN);  Total  investments  (INV);  Other  incomes  (OI);  Inputs:  Total 
+deposits and borrowings (DEP); Fixed assets (FA); Total operational expenses (OE). All 
+variables are expressed in USD. 
+
+In  the  analysis  of  the  factors  influencing  the  efficiency  level  of  the  banks  in  CEE 
+countries we used the following variables: bank capital structure (Equity/Total assets – 
+EC_TA  in  USD);  size  of  the  bank  (Total  Assets  –  TA  in  USD);  Total  Asset  Banking 
+System  (TABS  in  million  EUR);  return  on  average  equity  (ROE);  return  on  assets 
+(ROA);  GDP  increase  rate  (%)  (GDP);  annual  inflation  rate  (%)  (IR);  Asset  share  of 
+state-owned  banks  (%)  (ASO);  Asset  share  of  foreign-owned  banks  (%)  (AFO);  Bank 
+nonperforming  loans  to  total  gross  loans  percentage  (NPL);  Domestic  credit  to  private 
+sector  (DC);  ownership  form  of  the  bank  (FP);  the  level  of  concentration  in  banking 
+system (Herfindahl-Hirschmann index – HHI); percentage of the assets owned by the 5 
+largest  banks  in  the  system  (S5);  the  banking  reform  and  interest  rate  liberalisation 
+indicator (BRIRI); Refinancing rate (RR); Interbank market rate (IMR); deposit rate (DR) 
+and lending rate (LR). 
+5. The empirical results 
+
+Considering  that  our  database  is  a  panel-type  base  we  can  estimate  the  efficiency 
+frontier  for  all  banks  for  the  entire  analyzed  period  or  we  can  estimate  an  efficiency 
+frontier separately for all the years. In the literature in the field it is claimed the fact that 
+building a separate frontier for all the years offers a higher flexibility than a single multi-
+annual  frontier  (Bauer,  Berger  and  Humphrey  1993).  Building  some  separate  frontiers 
+allows for the analysis of the evolution of the efficiency degree on the level of each bank 
+
+ 
+
+16 
+
+
+in time, a very important aspect especially in the situation when the market conditions 
+change. 
+
+Table no.1  
+
+ 
+
+From  empirical  results  we  see  that  the  average  efficiency  of  banks  in  Central  and 
+Eastern  European  countries  grew  in  the  period  analyzed.  Increase  may  be  due  to 
+increased competition with EU accession and the entry of foreign banks, also caused by 
+extensive  legislative  changes  which  led  banks  to  become  more  efficient.  Based  on  the 
+results  we  see  that  the  highest  level  of  technical  efficiency  are  recorded  in  banking 
+systems from Romania and Czech Republic, and the lowest are recorded in Slovenia. 
+
+Looking  at  the  average  efficiency  scores  for  each  country,  we  observe  significant 
+variation across the banking systems of the Central and East European country. Technical 
+efficiency values estimates with SFA method range from 0,6275 in Slovak Republic to 
+0,8644 in Romania. 
+
+We determined with the help of the linear programming method, respectively of the 
+Malmquist productivity indexes, both the modification of productivity in the 5 analyzed 
+years,  and  the  decomposition  of  this  modification  in  the  components:  modification  of 
+technical efficiency and technological modification. 
+
+The analysis is based on the hypothesis of constant returns to scale, as two authors 
+with  important  preoccupations  in  the  field  suggested.  Grifell-Tatje  and  Lovell  (1995) 
+made the recommendation that, when the Malmquist productivity indexes are determined, 
+technology is presupposed with constant returns to scale, in order to highlight the gains or 
+losses owed to the scale effects. 
+
+Table no.2  
+
+ 
+
+In the analyzed period, on average, the productivity of banks increased in 2008 by 
+approximately 24,27 % in relation to 2004, an increase owed especially to technological 
+modification.  
+
+ 
+
+Table no.3  
+
+Analysis of technical efficiency level of banks in the Central and Eastern European 
+countries shows that private banks are more efficient than state-owned banks, which may 
+support  the  idea  that  the  state  should  privatize  all  banks  which  is  the  majority 
+
+ 
+
+17 
+
+
+shareholder. In terms of productivity we see that state-owned banks have recorded in the 
+period under review a larger increase than that of private banks, this may be explained by 
+the  modernization  and  restructuring  state  banks  due  to  increased  competition  in  the 
+banking systems of these states. 
+
+Tabel no. 3 also shows the average technical efficiency results for banks of different 
+size. Banks are classified into 3 different categories considering the size of total assets of 
+banks: small if it has total assets< 1 000 mil EUR; medium if it has total assets >1000 mil 
+EUR and <10 000 mil EUR; and large if it has total assets > 10 000 mil EUR. The results 
+reveal that the medium sized banks show the highest growth in terms of productivity and 
+the small medium sized banks are more efficient than large and medium sized banks. 
+
+Table no.4  
+
+ 
+
+ 
+
+The  application  of  the  OLS  regression  analysis  in  the  analysis  of  the  factors 
+influencing the level of efficiency of banks showed that the technical efficiency of banks 
+in CEE countries is influenced by the following variables: bank capital structure; size of 
+the bank; total asset of banking system; annual inflation rate; asset share of state-owned 
+banks;  asset  share  of  foreign-owned  banks;  ownership  form  of  the  bank;  the  level  of 
+concentration in banking system; percentage of the assets owned by the 5 largest banks in 
+the  system;  the  banking  reform  and  interest  rate  liberalization  level;  deposit  rate  and 
+lending rate. 
+6. Conclusions  
+
+In  this  paper  we  examine  the  productivity,  efficiency  and  its  determinants  of 
+Central and Eastern European banking systems during a four-year period from 2004 to 
+2008. 
+
+We use two approaches in order to examine the efficiency of the banking industry 
+
+in Romania: Stochastic Frontier and Data Envelopment Analysis.  
+
+From  analyze  results  we  see  that  the  average  efficiency  of  banks  in  Central  and 
+Eastern European countries grew in period analyzed. Increase may be due to increased 
+competition with EU accession and the entry of foreign banks, also caused by extensive 
+legislative changes which led banks to become more efficient. Based on the results we 
+see that the highest level of technical efficiency are recorded in banking systems from 
+Romania and Czech Republic, and the lowest are recorded in Slovenia. 
+
+ 
+
+18 
+
+
+In  order  to  assess  the  level  of  productivity  growth  of  the  banking  industry,  we 
+calculate Malmquist productivity index, calculated using the linear programming. In the 
+analyzed  period,  on  average,  the  productivity  of  banks  increased  in  2008  by 
+approximately 24,27 % in relation to 2004 
+
+Analysis results achieved are very important in terms of banks and governmental 
+authorities  perspectives.  Thus,  banks  to  increase  the  efficiency  need  to  improve  the 
+quality  of  assets  owned  by  improving  the  lending  process  and  adjust  the  bank  capital 
+structure. A topic of interest in the current context of international economic and financial 
+crisis is the optimal size of banks, the analysis results as an increase in bank size, gauged 
+by total assets held, results in an increase in technical efficiency. To facilitate increase the 
+level  of  efficiency  of  banks,  government  authorities  must  accelerate  the  process  of 
+liberalization and reform of the banking system and make every effort to ensure a low 
+inflation rate. 
+References  
+
+Alam,  I.S.  „A  nonparametric  approach  for  assessing  productivity  dynamics  of 
+
+large U.S. banks”, Journal of Money, Credit and Banking, 33(1), 2001: 121-139 
+
+Aigner D.; Lovell C.; and P. Schmidt. „Formulation and Estimation of Stochastic 
+
+Frontier Production Function Models”, Journal of Econometrics, Vol. 6, 1977: 21-37. 
+
+Andries,  A.M.,  and  V.  Cocris.  „A  Comparative  Analysis  of  the  Efficiency  of 
+Romanian  Banks”,  Romanian Journal of Economic Forecasting,  vol.  XIII,  no.  4/2010, 
+54-75 
+
+Asaftei, G., and S. Kumbhakar. „Regulation and efficiency in transition: the case 
+of Romanian banks”, Journal of Regulatory Economics, Volume 33, Number 3/ June, 
+2008: 253––282 
+
+Balk,  B.M.  „Scale  efficiency  and  productivity  change”.  Journal  of  Productivity 
+
+Analysis 15, 2001:159––183. 
+
+Banker,  R.D.;  Charnes,  A.;  and  W.W.  Cooper.  “Some  Models  for  Estimating 
+Technical and Scale Inefficiencies in Data Envelopment Analysis," Management Science, 
+30(9), 1984: 1078-1092 
+
+Barr,  R.;  Killgo,  K.;  Siems,  T.;  and  S.  Zimmel.  “Evaluating  the  Productive 
+Efficiency and Performance of U.S. Commercial Banks”, Managerial Finance, vol. 28, 
+no. 8, 1999: 3-25 
+
+Battese, G., and T. Coelli. “Prediction of firm level technical inefficiencies with a 
+generalised  frontier  production  function  and  panel  data”,  Journal  of  Econometrics,  38, 
+1988: 387-399. 
+
+Battese, G., and T. Coelli. “Frontier Production Functions, Technical Efficiency 
+and  Panel  Data:  with  Application  to  Paddy  Farmers  in  India”,  Journal  of  Productivity 
+Analysis, Volume 3, Numbers 1-2 / June, 1992: 153-169 
+
+ 
+
+19 
+
+
+Battese,  G.,  and  T.  Coelli.  “A  Model  for  Technical  Inefficiency  Effects  in  a 
+Stochastic Frontier Production Function for Panel Data”, Empirical Economics 20, 1995: 
+325-332. 
+
+Bauer, P.; Berger A.; and D. Humphrey. “Efficiency and Productivity Growth in 
+US  Banking”,  in  Fried,  H.,  Knox  Lovell,  C.,  Schmid,  S.  (Eds.),  The  measurement  of 
+productive efficiency: Techniques and Applications, Oxford University Press, 1993: 386- 
+413 
+
+Bauer, P.; Berger, A.; Ferrier, G.; and D. Humphrey. „Consistency conditions for 
+regulatory analysis of financial institutions: A comparison of frontier efficiency methods” 
+Journal of Economic and Business, 50, 1998: 85–114; 
+
+Beccalli, E.; Casu, B.; and C. Girardone. “Efficiency and Stock Performance in 
+
+European Banking”, Journal of Business Finance and Accounting, 33, 2006: 245-262. 
+
+Berg,  S.  J.;  Forsund,  F.  R.;  and  E.  S.  Jansen.  “ Malmquist  Indices  and 
+Productivity  Growth  During  the  Deregulation  of  Norwegian  Banking:  1980–89, 
+Scandinavian Journal of Economics, 94, 1992: 211–28 
+
+Berger, A.; Hunter, W.; and S. Timme. “The efficiency of financial institutions: A 
+review  and  preview  of  research  past,  present  and  future”.  Journal  of  Banking  and 
+Finance, 17(2&3), 1992: 221–250. 
+
+Berger, A., and D. Humphrey. ”Efficiency of financial institutions: International 
+survey and directions for future research”. European Journal of Operational Research, 98, 
+1997: 175–212. 
+
+Berger, A., and L. Mester. “Inside the black box: What explains differences in the 
+efficiencies of financial institutions”, Journal of Banking and Finance 21, 1997: 895–947 
+Berger, A., and L. Mester. “Explaining the dramatic changes in performance of 
+US  banks:  Technological  change,  deregulation,  and  dynamic  changes  in  competition”, 
+Journal of Financial Intermediation 12, 2003: 57–95 
+
+Bonin,  J.;  Hassan,  I.;  and  P.  Wachtel.  “Bank  performance,  efficiency  and 
+
+ownership in transition countries””, Journal of Banking and Finance 29, 2005: 31–53. 
+
+Casu, B.,and C. Girardone. “A comparative Study of the Cost Efficiency of Italian 
+
+Banks Conglomerates”, Managerial Finance, 28, 9, 2002: 3-23. 
+
+Casu,  B.;  Girardone,  C.;  and  P.  Molyneux,  “Productivity  change  in  European 
+banking:  A  comparison  of  parametric  and  non-parametric  approaches”.  Journal  of 
+Banking and Finance 28, 2004: 2521–2540. 
+
+Caves, D.; Christensen, I.; and W. Diewer. „Multilateral comparisons of output, 
+input  and  productivity  using  superlative  index  number”  Economic  Journal,  92(365), 
+1982: 73-86 
+
+Cerna, S.; Donath, L.; and B. Dima. „Central bank independence in Romania”, in 
+Healey,  N.  and  Harrison,  B.  (ed)  Central  Banking  in  Eastern  Europe,  Routledge 
+International, 2004. 
+
+Cornwell  C.;  Schmidt  P.;  and  R.  Sickles.  „Production  Frontiers  with 
+Crosssectional and Time-series Variation in Efficiency Levels”, Journal of Econometrics, 
+Volume 46, Issues 1-2, October-November 1990: 185-200 
+
+Chaffai,  V.T.;  Dietsch,  V.;  and  F.  Lozano-Vivas.  „Technological  and 
+environmental  differences  in  the  European  banking  industries.”  Journal  of  Financial 
+Services Research 19, 2001: 147–162. 
+
+ 
+
+20 
+
+
+Cuesta, R., and Orea. „Mergers and technical efficiency in Spanish savings banks: 
+A  stochastic  distance  function  approach”  Journal  of  Banking  &  Finance  Volume  26, 
+Issue 12, 2002: 2231-2247 
+
+Dardac,  N.,  and  I.  Boitan.  „Evaluation  of  Individual  and  Aggregate  Credit 
+Institutions  Management’’s  Performance”,  Theoretical  and  Applied  Economics,  5  / 
+2008 (522) 
+
+Diewert,  W.,  and  A.  Nakamura.  „Index  Number  Concepts,  Measures  and 
+Decompositions  of  Productivity  Growth”,  Journal  of  Productivity  Analysis,  Vol.  19, 
+2003: 127-159 
+
+Diewert,  W.,  and  A.  Nakamura.  „Concepts  and  Measures  of  Productivity:  An 
+Introduction”,  in  R.  Lipsey  and  A.  Nakamura  (eds.)  Services  Industries  and  the 
+Knowledge Based Economy, Calgary: University of Calgary Press, 2005 
+
+Färe,  R.;  Grosskopf,  S.;  Lindgren,  B.;  and  P.  Ross.  „Productivity  changes  in 
+swedish  pharmacies  1980-89:  A  nonparametric  Malmquist  approach”  Journal  of 
+Productivity Analysis, 3, 1992: 85-101 
+
+Favero, C., and L. Papi. „Technical Efficiency and Scale Efficiency in the Italian 
+
+Banking Sector: A Non-parametric Approach”, Applied Economcs, 27, 1995: 385-395 
+
+Feng, G., and A. Serletis. „Efficiency, technical change, and returns to scale in 
+large  US  banks:  Panel  data  evidence  from  an  output  distance  function  satisfying 
+theoretical regularity” Journal of Banking & Finance 34, 2010: 127–138 
+
+Fried,  H.;  Knox  Lovell,  C.;  and  S.  Schmid.  „The  measurement  of  productive 
+
+efficiency and productivity growth”, Oxford University Press, 2008 
+
+Fries,  S.,  and  A.  Taci.  „Banking  reform  and  development  in  transition 
+economies”,  European  Bank  for  Reconstruction  and  Development,  Working  paper  No. 
+71, 2001 
+
+Fries, S., and A. Taci. „Cost efficiency of banks in transition: Evidence from 289 
+banks in 15 post-communist countries”, Journal of Banking and Finance 29, 2005: 55– 81 
+Grifell-Tatje E., and C.A. Knox Lovell. „A Note on the Malmquist Productivity 
+
+Index”, Economics Letters, Volume 47, Issue 2, 1995: 169-175 
+
+Grifell-Tatje E., and C.A. Knox Lovell. „The sources of productivity change in 
+
+Spanish banking”. European Journal of Operational Research 98, 1997: 364–380. 
+
+Grigorian, D., and V. Manole. „Determinants of commercial bank performance in 
+transition:  An  application  of  Data  Envelopment  Analysis”,  Working  Paper  2850,  The 
+World Bank, 2002 
+
+Guzmán, I., and C. Reverte. „Productivity and efficiency change and shareholder 
+value: Evidence from the Spanish banking sector”. Applied Economics, 40, 2008: 2033– 
+2040. 
+
+Hasan, I., and K. Marton. „Development and Efficiency of the Banking Sector in 
+a Transitional Economy”, Journal of Banking and Finance, Vol. 27, No. 12, 2003: 2249-
+2271 
+
+Havrylchyk,  O.  „Efficiency  of  the  Polish  banking  industry:  Foreign  versus 
+
+domestic banks”, Journal of Banking & Finance 30, 2006: 1975–1996 
+
+Hoff, A. „Second stage DEA: Comparison of approaches for modelling the DEA 
+
+score”. European Journal of Operational Research 181, 2007: 425–435. 
+
+ 
+
+21 
+
+
+Isik,  I.,  and  K.  Hassan,  „Financial  deregulation  and  total  factor  productivity 
+change:  An  empirical  study  of  Turkish  commercial  banks”  Journal  of  Banking  & 
+Finance, Volume 27, Issue 8, August, 2003: 1455-1485 
+
+Koutsomanoli-Filippaki, A.; Margaritis, D.; and C. Staikouras. “Efficiency and 
+productivity growth in the banking industry of Central and Eastern Europe”, Journal of 
+Banking and Finance 33, 2009: 557–567 
+
+Kumbhakar,  S.  „The  Specification  of  Technical  and  Allocative  Inefficiency  in 
+
+Stochastic Production and Profit Frontiers”, Journal of Econometrics, 34, 1987: 335-48 
+
+Kumbhakar  S.  „Production  Frontiers,  Panel  Data  and  Time-varying  Technical 
+Inefficiency”, Journal of Econometrics, Volume 46, Issues 1-2, October-November 1990: 
+201-211 
+
+Kumbhakar,  S.,  and  C.  Lovell.  „Stochastic  frontier  analysis”.  Cambridge 
+
+England: Cambridge University Press, 2000 
+
+Leamer, E., and H. Leonard. „Reporting the Fragility of Regression Estimates”, 
+
+Review of Economics and Statistics, 65, 1983: 306-317 
+
+Lensink,  R.;  Meesters,  A.;  and  I.  Naaborg.  „Bank  efficiency  and  foreign 
+ownership: Do good institutions matter?”, Journal of Banking & Finance 32, 2008: 834– 
+844 
+
+Liu,  S-T.  „Measuring  and  categorizing  technical  efficiency  and  productivity 
+change  of  commercial  banks  in  Taiwan”,  Expert  Systems  with  Applications  37,  2010: 
+2783–2789 
+
+McAllister,  P.,  and  D.  McManus.„Resolving  the  Scale  Efficiency  Puzzle  in 
+
+Banking”, Journal of Banking and Finance, XVII, 1993: 389–405. 
+
+McDonald,  J.  „Using  least  squares  and  tobit  in  second  stage  DEA  efficiency 
+
+analyses” European Journal of Operational Research. 197, 2009: 792-798. 
+
+McKillop, D.; Glass, J.; and C. Ferguson. „Investigating the Cost Performance of 
+UK  Credit  Unions  Using  Radial  and  Non-radial  Efficiency  Measures”,  Journal  of 
+Banking & Finance, vol. 26, no. 8, 2002: 1563-92. 
+
+Meeusen, W., and J. Van de Broeck. „Efficiency Estimation from Cobb-Douglas 
+Production  Function  with  Compared  Error”,  International  Economic  Review,  18(2), 
+1977: 435-444 
+
+Murillo-Zamorano, L.„Economic Efficiency and Frontier Techniques”, Journal of 
+
+Economic Surveys, 18, 1, 2004: 33-77 
+
+Nitoi, M. „Efficiency in the Romanian Banking System: An Application of Data 
+
+Envelopment Analysis” Revista română de economie, 2-2009 
+
+Rebelo,  J.,  and  V.  Mendes,  “Malmquist  indices  of  productivity  change  in 
+Portuguese  banking:  The  deregulation  period”  International  Advances  in  Economic 
+Research, Volume 6, Number 3 / August, 2000: 531-543 
+
+Rezitis, A. „Efficiency and productivity effects of bank mergers: Evidence from 
+
+the Greek banking industry” Economic Modelling 25, 2008: 236–254 
+
+Rossi, S., Schwaiger, M., and G. Winkler. „Managerial behavior and cost/ profit 
+efficiency  in  the  banking  sectors  of  Central  and  Eastern  European  countries”  Working 
+Paper 96, Oesterreichische Nationalbank, 2005 
+
+Sturm, J., and B. Williams. „Characteristics determining the efficiency of foreign 
+
+banks in Australia”, Journal of Banking & Finance 32, 2008: 2346–2360 
+
+ 
+
+22 
+
+
+Tortosa-Ausina, E. „„Banks Cost Efficiency and Output Specification””, Journal 
+
+of Productivity Analysis, 18, 2002: 199-222 
+
+Weill,  L.  „Banking  Efficiency  in  Transition  Economies:  The  Role  of  Foreign 
+
+Ownership”, Economics of Transition, 11, 2003: 569-592. 
+
+Weill,  L.  „Measuring  cost  efficiency  in  european  banking:  a  comparison  of 
+
+frontier techniques”, Journal of Productivity Analysis, Vol. 21 No.2, 2004: 133-52. 
+
+Wheelock,  D.  C.,  and  P.  W.  Wilson.  „Technical  progress,  inefficiency,  and 
+productivity  changes  in  US  banking  1984–1993”.  Journal  of  Money,  Credit,  and 
+Banking, 31, 1999: 212–234 
+
+Xue,  M.,  and  P  .  Harker.  „Overcoming  the  Inherent  Dependency  of  DEA 
+Efficiency  Scores:  A  Bootstrap  Approach ” ”,  Working  paper  99  –17  (Financial 
+Institution Center, The Wharton School, University of Pennsylvania), 1999. 
+
+Yildirim, S., and G. Philippatos. “Efficiency of banks: Recent evidence from the 
+transition  economies  of  Europe  1993–2000”.  European  Journal  of  Finance  13,  2007: 
+123–143. 
+
+ 
+
+23 
+
+
+Table no.1 Technical efficiency of the banks in CEE obtained through the DEA method 
+
+and the SFA method for the period 2004-2008 
+Slovak 
+Republic  Slovenia  Hungary 
+0,7338 
+0,7803 
+0,7749 
+0,7666 
+0,7487 
+0,7609 
+0,8810 
+0,8402 
+0,8723 
+0,8570 
+0,8611 
+0,8623 
+
+Czech 
+Republic  Poland  Romania 
+0,8543 
+0,7758 
+0,9083 
+0,9123 
+0,8712 
+0,8644 
+0,8969 
+0,9016 
+0,9177 
+0,9139 
+0,9301 
+0,9120 
+
+0,6197 
+0,6311 
+0,6317 
+0,6569 
+0,6154 
+0,6310 
+0,8088 
+0,8494 
+0,8032 
+0,8176 
+0,8527 
+0,8263 
+
+0,5898 
+0,6163 
+0,6289 
+0,6367 
+0,6658 
+0,6275 
+0,8520 
+0,8564 
+0,8493 
+0,8719 
+0,9051 
+0,8669 
+
+0,7643 
+0,7662 
+0,7733 
+0,7833 
+0,7856 
+0,7746 
+0,9631 
+0,9180 
+0,8851 
+0,8599 
+0,9415 
+0,9135 
+
+0,6060 
+0,6025 
+0,6394 
+0,6867 
+0,7165 
+0,6502 
+0,5481 
+0,6960 
+0,6705 
+0,5754 
+0,6788 
+0,6338 
+
+Year  Bulgaria 
+2004 
+0,7071 
+0,7044 
+2005 
+0,7143 
+2006 
+2007 
+0,7802 
+0,7988 
+2008 
+0,7410 
+Average 
+0,7199 
+2004 
+2005 
+0,7492 
+0,7407 
+2006 
+0,7808 
+2007 
+2008 
+0,8561 
+0,7693 
+Average 
+
+Table no.2 Malmquist productivity index and decomposition in components 
+
+Malmquist 
+Index 
+
+Efficiency 
+Change 
+
+Frontier 
+Shift 
+
+Country 
+
+Bulgaria 
+
+Czech 
+Republic 
+
+Poland 
+
+Romania 
+
+Slovak 
+Republic 
+
+Slovenia 
+
+Hungary 
+
+Average 
+
+  
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+Mean 
+Std. 
+Deviation 
+
+1,099509719 
+
+0,873737852  1,287346377 
+
+0,247591966 
+1,309262586 
+
+0,186108189  0,274875153 
+1,081132288  1,275014687 
+
+0,48908395 
+1,272779063 
+
+0,435750053  0,373623599 
+0,908165291  1,428949203 
+
+0,367497571 
+1,53421866 
+
+0,279034549  0,237860028 
+1,030340901  1,505534914 
+
+1,017543801 
+1,279215916 
+
+0,468115458  0,891865795 
+0,859873423  1,511990847 
+
+0,188963502 
+0,986007043 
+
+0,139538292  0,273670309 
+0,744187955  1,353667716 
+
+0,187388831 
+1,087549767 
+
+0,192494568  0,203052115 
+0,850891952  1,291911491 
+
+0,271114182 
+1,242700113 
+
+0,179013959  0,293718374 
+0,910706258  1,388526598 
+
+0,554612536 
+
+ 
+
+0,31195809  0,470278791 
+
+24 
+
+Technical 
+efficiency 
+SFA 
+
+Technical 
+efficiency 
+DEA-VRS 
+input 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+Table no.3 Tehnical efficiency, Malmquist productivity index and decomposition in 
+
+components by ownership form 
+Tehnical efficiency 
+
+SFA 
+
+Mean 
+Std. Deviation 
+
+Ownership form 
+State-owned 
+  
+Private owned  Mean 
+  
+Large 
+  
+Medium 
+  
+Small 
+ 
+
+Std. Deviation 
+Mean 
+Std. Deviation 
+Mean 
+Std. Deviation 
+Mean 
+Std. Deviation 
+
+Malmquist 
+
+Index 
+
+1,5356 
+0,9451 
+1,2171 
+0,5064 
+1,1797 
+0,1962 
+1,2693 
+0,4991 
+1,2300 
+0,6467 
+
+0,606529 
+0,131382 
+0,738423 
+0,169962 
+0,615314 
+0,137551 
+0,724618 
+0,160814 
+0,784238 
+0,173681 
+
+Table no.4 OLS regression coefficients regarding technical efficiency  
+
+Tehnical efficiency DEA 
+
+Tehnical efficiency SFA 
+
+Coefficient  Std. Error 
+0.000999 
+0.003979 
+0.003256 
+0.003517 
+0.169890 
+0.035234 
+
+z-Statistic 
+3.982.570  0.0001  0.003819 
+1.080.202  0.2805 
+-0.006079 
+4.821.785  0.0000  0.252863 
+
+Prob.  Coefficient  Std. Error 
+0.000905 
+0.002950 
+0.031926 
+
+Prob. 
+z-Statistic 
+4.218.781  0.0000 
+-2.060.679  0.0398 
+7.920.224  0.0000 
+
+-0.004430  0.004014 
+
+1.103.641  0.2702  0.004392 
+
+-
+
+1.334.273  1.060.674 
+
+1.257.949  0.2090 
+
+1.585.602  0.961103 
+
+1.649.773  0.0996 
+
+DC 
+
+-0.001257  0.000924 
+
+DR 
+-0.016927  0.008894 
+EC_TA  0.235757 
+0.126438 
+FP 
+-5.10E-05 
+0.025195 
+GDP 
+-0.000947  0.004824 
+HHI 
+0.000403 
+0.000160 
+IMR 
+-0.014636  0.020983 
+IR 
+0.006197 
+0.009290 
+LR 
+0.014055 
+0.006848 
+
+1.360.425  0.1743  0.000330 
+
+1.903.195  0.0575 
+-0.029039 
+1.864.607  0.0628  0.044483 
+-0.002023  0.9984  0.134515 
+-0.196276  0.8445 
+-0.006995 
+2.518.200  0.0121  0.001122 
+-0.697546  0.4858 
+-0.004348 
+1.499.234  0.1344  0.017601 
+2.052.354  0.0406  0.017686 
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-0.214959  0.123729 
+0.017549 
+0.019821 
+
+-0.009755  0.005269 
+8.85E-13 
+7.28E-12 
+4.74E-08 
+2.67E-07 
+
+ 
+
+1.737.335  0.0829 
+0.885367 
+-
+
+-0.080999 
+0.3764  0.014589 
+
+1.851.172  0.0647 
+8.233.808  0.0000 
+0.177281 
+
+-0.031949 
+-5.20E-12 
+0.8594  5.83E-07 
+
+0.000837 
+
+0.394210 
+
+0.6936 
+
+0.008059 
+0.114569 
+0.022829 
+0.004371 
+0.000145 
+0.019013 
+0.005615 
+0.006205 
+
+-3.603.271  0.0003 
+0.388267 
+0.6980 
+5.892.187  0.0000 
+-1.600.384  0.1101 
+7.734.727  0.0000 
+-0.228699 
+0.8192 
+3.134.665  0.0018 
+2.850.019  0.0045 
+
+0.003637 
+
+1.207.521  0.2278 
+
+0.112114 
+0.017960 
+
+-0.722466 
+0.812290 
+
+0.4703 
+0.4170 
+
+0.004775 
+8.02E-13 
+2.42E-07 
+
+-6.691.265  0.0000 
+-6.484.317  0.0000 
+2.404.948  0.0165 
+
+25 
+
+ 
+
+ 
+
+AFO 
+ASO 
+BRIRI 
+
+NPL 
+
+ROA 
+
+ROE 
+RR 
+
+S5 
+TA 
+TABS 
+
+ 
+
+ 
+

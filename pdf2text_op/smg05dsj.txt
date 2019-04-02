@@ -1,0 +1,5467 @@
+Decision Sciences
+Volume 36 Number 3
+August 2005
+Printed in the U.S.A.
+
+Examining the Impact
+of Interorganizational Systems
+on Process Efﬁciency and Sourcing
+Leverage in Buyer–Supplier Dyads
+
+†
+
+Khawaja A. Saeed
+Department of Finance, Real Estate, and Decision Sciences, W. Frank Barton School of
+Business, Wichita State University, 1845 Fairmount, Wichita, KS 67260,
+e-mail: khawaja.saeed@wichita.edu
+
+Manoj K. Malhotra
+Department of Management Science, The Moore School of Business, University of South
+Carolina, Columbia, SC 29212, e-mail: malhotra@moore.sc.edu
+
+Varun Grover
+Department of Management, 101 Sirrine Hall, Clemson University, Clemson, SC 29634,
+e-mail: vgrover@clemson.edu
+
+ABSTRACT
+
+Manufacturing ﬁrms are increasingly seeking cost and other competitive advantages by
+tightly coupling and managing their relationship with suppliers. Among other mecha-
+nisms, interorganizational systems (IOS) that facilitate boundary-spanning activities of
+a ﬁrm enable them to effectively manage different types of buyer–supplier relationships.
+This study integrates literature from the operations and information systems ﬁelds to
+create a joint perspective in understanding the linkages between the nature of the IOS,
+buyer–supplier relationships, and manufacturing performance at the dyadic level. Ex-
+ternal integration, breadth, and initiation are used to capture IOS functionality, and their
+effect on process efﬁciency and sourcing leverage is examined. The study also explores
+the differences in how manufacturing ﬁrms use IOS when operating under varying lev-
+els of competitive intensity and product standardization. In order to test the research
+models and related hypothesis, empirical data on buyer–supplier dyads is collected from
+manufacturing ﬁrms. The results show that only higher levels of external integration
+that go beyond simple procurement systems, as well as who initiates the IOS, allow
+manufacturing ﬁrms to enhance process efﬁciency. In contrast, IOS breadth and IOS ini-
+tiation enable manufacturing ﬁrms to enhance sourcing leverage over their suppliers. In
+addition, ﬁrms making standardized products in highly competitive environments tend
+to achieve higher process efﬁciencies and have higher levels of external integration. The
+study shows how speciﬁc IOS decisions allow manufacturing ﬁrms to better manage
+their dependence on the supplier for resources and thereby select system functionalities
+that are consistent with their own operating environments and the desired supply chain
+design.
+
+†
+
+Corresponding author.
+
+365
+
+
+366
+
+Examining the Impact of Interorganizational Systems
+
+Subject Areas: Buyer–Supplier Relationships, Interorganizational Systems,
+Supply Chain Design, and Survey Research/Design.
+
+INTRODUCTION
+
+The increasing trend toward purchasing inputs and other raw materials from out-
+side the ﬁrm has raised the importance of supply chain management. The re-
+sultant decrease in vertical integration has provided an impetus for managers to
+place greater emphasis on managing buyer–supplier relationships in manufactur-
+ing ﬁrms. Conner and Prahalad (1996), in supporting this contention, argue that
+one source of differential performance between ﬁrms is the way they organize
+exchange activity. For effective management of buyer–supplier relationships, or-
+ganizations need to choose appropriate relationships ranging from arm’s length
+to coordinated relationships, and adapt management practices to ﬁt those rela-
+tionships (Bensaou, 1999). In addition, facilitating technologies that consistently
+support these relationships are needed. Interorganizational systems (IOS) such as
+electronic data interchange (EDI), electronic trading systems, Web-based procure-
+ment systems, and supplier relationship management systems have emerged as
+important technologies that support boundary-spanning activities associated with
+effective management of buyer–supplier relationships. These IOS offer various
+functionalities that need to be aligned with the nature of the desired relation-
+ship (Choudhury, 1997). An interesting question that arises is how can such an
+alignment be achieved? Also, what is the contingent effect of competitive envi-
+ronment and product characteristics on how ﬁrms use IOS in a buyer–supplier
+relationship context? This study addresses these questions at the dyadic level in
+an attempt to enhance our understanding of choices a ﬁrm makes regarding these
+systems, their alignment with desired performance outcomes, and their contingent
+context.
+
+The next section provides the broad background for the study leading up
+to the research objectives. This is followed by a review of the different thrusts
+taken in this area by the operations management (OM) and information systems
+(IS) ﬁelds, respectively, and a discussion on the need to integrate them. The re-
+search framework, including the hypotheses, is then deﬁned. The research method
+section describes the process followed in empirically testing the hypotheses. The
+results of the study and their implications for both research and practice are then
+described.
+
+GENERAL BACKGROUND AND RESEARCH OBJECTIVES
+
+Effective management of buyer–supplier relationships is an important research do-
+main (Monczka, Trent, & Callahan, 1994; Tan, 2001). Heide (1994) proposes that
+sourcing from the market is a heterogeneous phenomenon. Building on this thesis,
+various typologies and taxonomies have been developed over time to categorize
+buyer–supplier relationships. Lambert, Emmelhainz, and Gardner (1996) propose
+that relationships with suppliers can range from an arm’s length association to
+complete functional coordination. Similarly, Bensaou (1999) proposes market ex-
+change, captive buyer, captive supplier, and strategic partnerships as distinct types
+
+
+Saeed, Malhotra, and Grover
+
+367
+
+of relationships with varying characteristics. An interesting insight that emerges is
+the contrasting performance outcomes that ﬁrms often aim to achieve from insti-
+tuting different types of relationships. For example, ﬁrms may aspire to enhance
+their sourcing leverage through accessing detailed information on market prices
+and exploiting competitive conditions prevalent in the market in which the supplier
+is operating (Hennart, 1993; Ramsay, 1996; Heriot & Kulkarni, 2001). Alterna-
+tively, ﬁrms may strive to enhance process efﬁciencies by forging collaborative
+relationships through close coupling of processes and extensive information ex-
+change between the ﬁrms (Mohr & Spekman, 1994; Monczka, Peterson, Handﬁeld,
+& Ragatz, 1998).
+
+Transaction cost economics proposes that the decision to adopt a particular
+relationship conﬁguration depends primarily on cost consideration. Firms sourcing
+inputs from other ﬁrms incur transaction costs, which may relate to search-related
+costs emanating from exploring the marketplace to identify the best alternative.
+In the context of enduring relationships, the need for continuous adaptation and
+evaluation contribute to transaction costs. Different types of relationships also pose
+varying information processing requirements. For example, in an arm’s length as-
+sociation, ﬁrms follow the procedure dictated by the standard market transaction.
+However, pretransaction information processing requirements that involve iden-
+tifying potential alternatives are relatively high. Similarly, partnership-type rela-
+tionships require extensive information processing to facilitate mutual adaptations
+and process synchronization. Firms need to put in place appropriate mechanisms
+that provide the required information processing capacity for effective market
+mediation manifested in either building sourcing leverage or enhancing process
+efﬁciency.
+
+IOS offer various functionalities that allow ﬁrms to achieve these diverse ob-
+jectives and performance outcomes within the context of different types of buyer–
+supplier relationships. Cash and Konsynski (1985) deﬁne an IOS as “an automated
+information system shared by two or more companies.” In examining the impacts
+of IOS within a buyer–supplier context, Johnston and Vitale (1988) propose a
+theoretical framework, which argues that using IOS can provide ﬁrms with com-
+parative efﬁciency and bargaining power. They argue that IOS can support tightly
+coupled processes between ﬁrms. For example, availability of precise and timely
+information through the IOS can enable production scheduling to be aligned with
+actual usage rather than sales or shipments. This provides comparative efﬁciency
+through lower inventory costs, lower costs of coordination, and shorter, more reli-
+able response times (Bakos & Brynjolfsson, 1993; Clemons, Reddi, & Row, 1993;
+Dai & Kauffman, 2002). On the other hand, IOS can enable ﬁrms to establish one-
+to-many linkages and enhance sourcing leverage through altering search-related
+costs (Bakos, 1991; Choudhury, Hartzel, & Konsynski, 1998; Subramaniam &
+Shaw, 2002). For example, one-to-many links lower the cost of shopping as well
+as increase the odds of getting the best prices available. Thus, due consideration
+needs to be given to various facets of IOS that support supply chain strategies of
+a ﬁrm (Dai & Kauffman, 2002). Such an approach is likely to provide a concep-
+tual outline of the various design features that can be incorporated into an IOS. It
+also allows for a better understanding of how design and use of IOS can impact
+performance outcomes associated with different
+types of buyer–supplier
+
+
+368
+
+Examining the Impact of Interorganizational Systems
+
+relationships, thereby providing prescriptive implications to managers for effective
+deployment of IOS.
+
+Another important aspect in using IOS is the distinction between those ﬁrms
+that initiate the system (called the “initiators”) and those that participate in the
+system (called the “participants”). Initiators tailor the IOS to their beneﬁt and exert
+more control over the participants. Research indicates that initiators are the primary
+beneﬁciaries of IOS (Webster, 1995; Riggins & Mukhopadhyay, 1999). Thus, it is
+important to consider initiation issues in evaluating how IOS enable ﬁrms to achieve
+performance outcomes associated with their supply chain strategies (Hwang, Pegel,
+Rao, & Sethi, 1993). Finally, research indicates that competitive conditions in
+which a ﬁrm is operating and characteristics of the product being manufactured
+by the ﬁrm are two important issues that must be considered within the context
+of supply chain management (Fisher, 1997; Ramadas & Spekman, 2000). Limited
+guidance, however, is available on what roles competitive conditions and product
+characteristics play in a ﬁrm’s decision to use different facets of IOS to support
+different types of interﬁrm relationships.
+
+Based on the above review, this study has three key research objectives:
+• To examine the impact of various facets of IOS and initiation of the sys-
+tem on process efﬁciency and sourcing leverage—the two performance
+outcomes that ﬁrms aim at achieving within the context of better manag-
+ing their relationships with suppliers.
+• To explore differences in the use of IOS between ﬁrms operating under
+different competitive conditions and producing products with different
+characteristics.
+• To provide a broader and more contemporary conceptualization of IOS
+that focuses on its design elements (which when conﬁgured appropri-
+ately meet organizational needs), rather than focusing on a speciﬁc type
+of IOS (such as an EDI). Such an approach is also consistent with the
+emergence of Web-based technologies that provide ﬁrms with more op-
+tions in selecting and conﬁguring systems developed by different vendor
+companies.
+
+The next section reviews literature in this area in both the OM and IS ﬁelds.
+
+MAJOR RESEARCH STREAMS
+
+Research in buyer–supplier relationships and IOS has been addressed from dif-
+ferent vantage points in the OM and IS ﬁelds. Researchers in the logistics and
+operations area have focused primarily on buyer–supplier relationships and sup-
+ply chain issues, with the IOS underemphasized, while the IS literature predomi-
+nantly focuses on the nature and types of IOS. The theoretical perspectives used
+also show divergence. IS literature predominantly builds its case on transaction
+cost economics by asserting that information technology (IT) reduces coordina-
+tion costs, ultimately resulting in efﬁciency gains. Game theory, micro-economic
+theory, and industrial economics lenses have also been employed to examine the
+electronic marketplace phenomenon. On the other hand, research in operations
+draws heavily from information economics, strategic management literature, and
+
+
+Saeed, Malhotra, and Grover
+
+369
+
+coordination theory. Even though some recent work has attempted to provide a
+more integrative view of IOS in a supply chain context (e.g., Premkumar, 2000;
+Ahmad & Schroeder, 2001; Frohlich & Westbrook, 2002; Hill & Scudder, 2002),
+the research domains have by and large been disparate.
+
+OM Perspective
+Literature in the OM domain expounds on various sourcing strategies available to
+ﬁrms for sourcing inputs and raw materials. Kraljic (1983) offers a classiﬁcation
+framework for categorizing sourcing situations and the appropriate sourcing strat-
+egy. Landeros and Monczka (1989) propose vertical integration, taper integration
+(a strategy wherein a ﬁrm partly manufactures the product in house and partly buys
+the same product from outside suppliers), long-term cooperative relationships, and
+competitive spot bidding as some alternatives that are available to a ﬁrm. An im-
+portant theme that emerges from this work is that for effective management of the
+supply chain, a ﬁrm needs to choose appropriate relationships with suppliers and
+structure management processes such that they ﬁt the nature of those relationships.
+For example, in the case of competitive spot bidding, a ﬁrm needs to put in place
+processes that will enable it to scan the market thoroughly and shop around for the
+best possible price. In contrast, long-term cooperative relationships require coor-
+dination mechanisms that can facilitate extensive information sharing to optimize
+the efﬁciency of the linkages.
+
+Research in the OM area views IOS as a facilitator of coordination between
+supply chain partners (Tan, 2001). Edwards, Peters, and Sharman (2001) argue
+that in order to gain efﬁciencies, companies need to exchange large amounts of
+planning and operational data, ranging from information on annual contracts and
+periodic progress reporting to real-time delivery and invoicing data. IOS, espe-
+cially supply chain software along with enterprise application integration software
+(EAI), provide the opportunity to move toward an extended enterprise business
+model. Frohlich and Westbrook (2002) found that using Web-based technolo-
+gies to support supply and demand integration enables ﬁrms to achieve higher
+levels of performance. Hill and Scudder (2002) contend that using EDI can
+facilitate frequent and automatic bidirectional information ﬂows between sup-
+ply chain partners, thus enhancing degree of coordination between them. They
+found that the depth of EDI use, captured in terms of the extent of use of
+11 different transaction sets, each facilitating different types of information ex-
+change, enables ﬁrms to better coordinate activities with their suppliers. In order
+to gain process efﬁciencies through collaborative or partnership-like relation-
+ships, ﬁrms need to expand information ﬂows in the supply chain by institut-
+ing IOS that are integrated and facilitate exchange of a comprehensive set of
+information.
+
+While the major thrust of this work has been on the creation of more efﬁcient
+supply chains, there is recognition that the notion of ﬁt between the technology
+and supply chain processes is important to yield better outcomes.
+
+IS Perspective
+Transaction cost economics has been the dominant theoretical lens in evaluating the
+impact of IOS in IS literature. There is considerable agreement among researchers
+
+
+370
+
+Examining the Impact of Interorganizational Systems
+
+on the role of IOS in reducing coordination costs and transaction risk (Malone,
+Yates, & Benjamin, 1987; Clemons et al., 1993). However, disagreement exists on
+the eventual impact. Some researchers argue for a move toward more market-type
+relationships, while others propose more integrated buyer–supplier relationships
+(Hess & Kemerer, 1994). Recently, researchers have pointed out that IOS can enable
+mixed-mode governance structures, which combine the elements of markets and
+hierarchies (Holland & Lockett, 1997; Kambil, Nunes, & Vitale, 1999). IOS can
+simultaneously support collaborative relationships and also enable an internalized
+market by allowing ﬁrms to establish one-to-many links to retain competition.
+For example, integration of systems across organizational boundaries at multiple
+process and functional levels can result in effective coordination that may allow
+organizations to increase responsiveness and reduce costs (Holland & Lockett,
+1997). On the other hand, an electronic trading system can allow an organization
+to compare prices and evaluate alternative sources of supply, which may enhance
+its sourcing leverage (Bakos, 1991). Riggins and Mukopadhyay (1994) describe
+an automatic vending system for which an important component is a database that
+contains information on open agreements, quality ratings, and price performance
+of suppliers. Similarly, Holland and Lockett (1997) provide an example of an IOS
+whereby a bank closely coordinates links with two banks, but also maintains links
+with four other banks selected from a large pool of banks. Such a system permits
+them to check prices and induce competition.
+
+Researchers have presented various classiﬁcation schemes for categorizing
+IOS. Choudhury (1997) proposes electronic markets, electronic dyads, and elec-
+tronic monopolies as three distinct types of IOS that can support different types of
+buyer–supplier relationships. The differentiating factors among these types of IOS
+are the number of ﬁrms with whom the electronic linkage is established, and the
+extent to which electronic integration is supported by the IOS. Researchers thus
+argue that a trade-off exists between electronic brokerage and electronic integration
+effects that are enabled by IOS. Kambil et al. (1999) argue “to achieve beneﬁts
+of integration effect, participating companies have to forgo most of the beneﬁts of
+participating in an open market.”
+
+Studies in the EDI domain show that intensity in use of EDI technology
+(depicted as synchronization of item identiﬁcation codes and number of processes
+and functions that are electronically linked between the two ﬁrms through EDI)
+can signiﬁcantly reduce order-processing costs, improve inventory management,
+and support just-in-time processes (Mukhopadhyay, Kekre, & Kalathur, 1995;
+Mukhopadhyay & Kekre, 2002). But when IOS is used to closely couple op-
+erations between ﬁrms, it raises switching costs from the buyer’s perspective
+and reduces the buyer’s sourcing leverage. On the other hand, having electronic
+linkages with a large set of potential suppliers may enable organizations to en-
+hance their sourcing leverage (Holland & Lockett, 1997). Thus, the extent to
+which the IOS enables closely coordinated structures between the buyer and
+the suppliers, and the extent to which it supports electronic linkages with a
+broad set of suppliers, constitute two facets of IOS that may impact performance
+differently.
+
+In sum, the main thrust of the IS literature is on characteristics of the IOS
+and its effect on the nature of the relationship. There is recognition that the way
+
+
+Saeed, Malhotra, and Grover
+
+371
+
+the IOS is implemented could lead to outcomes that involve not only efﬁciency
+improvements, but also greater sourcing leverage.
+
+Synthesis of Literature
+Both streams reviewed above provide useful insights. The OM literature examines
+sourcing strategies and the use of better information ﬂows to create more efﬁcient
+supply chain processes. The IS literature focuses on governance structure and
+the role and characteristics of the IOS in inﬂuencing this structure. Both streams
+recognize that for effective management of buyer–supplier relationships, ﬁrms need
+to maintain a portfolio of relationships that may have different characteristics and
+objectives. The two domains are also in agreement regarding the importance of IOS
+in facilitating collaborative relationships through improved information ﬂows.
+
+The Johnston and Vitale (1988) framework on impact of IOS effectively cap-
+tures the issues emphasized in both research streams. They contend that leveraging
+certain functionalities of IOS can enable ﬁrms to achieve comparative efﬁciency
+and enhance sourcing leverage. One component of comparative efﬁciency relates
+to reduction of costs and enhancement in the reliability of boundary spanning
+processes, and is called process efﬁciency. IOS that facilitate comprehensive in-
+formation ﬂows through a system-to-system linkage can reduce inventory costs
+and provide the beneﬁts of vertical integration (more control, coordination, and
+lower costs) (Johnston & Vitale, 1988). Sourcing leverage relates to an increase
+in monopsony power through instant and efﬁcient access to alternative sources of
+supply. Bakos and Treacy (1986) assert that “in most game theoretic situations,
+each side can improve its position, that is develop competitive advantage, by in-
+creasing the number of alternatives available. This number is limited by the cost
+of the search process.” IOS that facilitate instant access to alternative sources of
+supply and market intelligence can enable a ﬁrm to resolve bargaining situations
+to its advantage. We draw on the complementary aspects present in the IS and OM
+literature, and peg it to the Johnston and Vitale (1988) framework to develop our
+research framework.
+
+Two other facets have also been suggested. First is the notion of system initi-
+ation. It has been pointed out that the company that initiates, owns, and controls the
+IOS may dictate its functioning, which in turn puts the company in a better position
+to achieve its performance objectives (Webster, 1995). The use of power to coerce
+a supplier to adopt EDI systems has been well documented (Webster, 1995; Crook
+& Kumar, 1998; Hart & Saunders, 1998). Thus, in evaluating the performance
+impact of IOS use, it is important to consider initiation and the hub-and-spoke
+nature of electronic networks (Riggins & Mukhopadhyay, 1999; Mukhopadhyay
+& Kekre, 2002). Johnston and Vitale (1988) also indicate that outcomes associated
+with comparative efﬁciency and sourcing leverage could be inﬂuenced by who
+initiated the IOS and how that initiation enables a ﬁrm to control participation and
+access to information. The second facet is the context in which the ﬁrm operates.
+Researchers have argued that both the nature of competition in the marketplace,
+and the types of products manufactured could inﬂuence not only the nature of the
+IOS adopted, but the performance outcomes as well (Grover, 1993; Fisher, 1997;
+Magretta, 1998; Kumar, 2001).
+
+
+372
+
+Examining the Impact of Interorganizational Systems
+
+Figure 1: Research framework.
+
+CONTEXTUAL VARIABLES 
+
+ 
+Competitive Intensity 
+
+ 
+Product Characteristics 
+
+ 
+
+Internal Integration 
+
+ 
+
+External Integration 
+
+ 
+
+ 
+
+IOS Breadth 
+
+ 
+
+IOS Initiation 
+
+ 
+
+Process Efficiency 
+
+ 
+
+Sourcing Leverage 
+
+RESEARCH FRAMEWORK
+
+Figure 1 represents the main research model. Process efﬁciency and sourcing lever-
+age are the two performance outcomes that ﬁrms aim at achieving through institut-
+ing different types of relationships with suppliers. In proposing the determinants of
+performance, researchers have highlighted the importance of IOS functionalities
+and capabilities and IOS initiation issues (Johnston & Vitale, 1988; Boyette et al.,
+2002; Hill & Scudder, 2002; Mukhopadhyay & Kekre, 2002). It has also been sug-
+gested that the extent to which internal systems of an organization are integrated
+enables a ﬁrm to enhance efﬁciencies of boundary-spanning activities. A large
+body of research highlights the beneﬁcial impacts of having internal integration
+among systems within the organization (Duncan, 1995; Weill & Broadbent, 1999).
+However, in the interorganizational context, researchers have proposed that internal
+integration may be an important control variable in order to isolate the performance
+impacts of IOS (Srinivasan, Kekre, & Mukhopadhyay, 1994) more precisely. In or-
+der to enhance model precision, we include the extent to which internal systems of
+a ﬁrm are integrated as a control variable. The two other contingent factors driving
+our inquiry are the competitive environment in which a ﬁrm operates and the type
+of products it manufactures (Figure 1). Subsequent subsections elaborate on the
+model variables, their measurement, and the rationale for related hypotheses.
+
+
+Saeed, Malhotra, and Grover
+
+373
+
+Process Efﬁciency
+Process efﬁciency is the likely objective in buyer–supplier relationships that entail
+close coordination between buyers and suppliers. The need for adaptation and
+synchronization of process in these types of relationships is high. Firms either need
+to keep buffers or slack resources to compensate for lack of information (which
+adds to the cost), or develop mechanisms for effective coordination. Transaction
+cost economics proposes that hierarchy-type structures are cost efﬁcient in high-
+coordination conditions. Such structures facilitate extensive sharing of information
+required for effective coordination.
+
+A large body of literature in the IS domain argues that using IOS enables a
+ﬁrm to reduce coordination costs by facilitating explicit coordination (Clemons et
+al., 1993). IOS reduce costs of communicating and processing information. When
+information can be readily exchanged and processed, excess capacity or slack re-
+sources can be replaced with real-time information that is often much cheaper.
+Thus, automation of transactions along with visibility into production, schedul-
+ing, inventory, and delivery status can lower transactions costs and safety stock
+requirements, and enhance delivery reliability. Clemons et al. (1993) conclude:
+
+These technologies permit remote access to partner’s databases in support of
+one’s own operations and scheduling; that is, a buyer can verify a supplier’s
+product availability before placing an order for a critical part, or a supplier can
+verify the customer’s demand forecasts and manufacturing scheduling before
+beginning a large production run.
+
+One aspect within the context of IOS that has received considerable attention
+is electronic integration. Zaheer and Venkatraman (1994) propose that electronic
+integration has the characteristics of vertical integration but without ownership.
+Premkumar (2000) proposes communication, cooperation, and collaboration as
+three levels of sophistication in IOS use. At the ﬁrst level, ﬁrms just focus on
+automation of the communication process with minimal attention toward integra-
+tion of systems. As the ﬁrms progress to higher levels of sophistication, they start
+paying attention to integration of external and internal systems. In addition, the
+information ﬂows between companies increase to encompass inventory, planning,
+and scheduling information. Similarly, EDI diversity, depth, penetration, embed-
+dedness, and integration with internal systems of the company have been proposed
+to contribute toward enhanced performance (Mukopadhyay et al., 1995; Massetti
+& Zmud, 1996; Chatﬁeld & Yetton, 2000; Truman, 2000; Hill & Scudder, 2002).
+Establishing integrated EDI links enhances the “procedural speciﬁcity” through re-
+design of processes and establishing unique information exchange routines (Zaheer
+& Venkataraman, 1994). Mukopadhyay and Kekre (2002) assert:
+
+The integrated EDI allows the customer production department to directly
+release electronic orders to PMI without veriﬁcation. In the absence of in-
+tegration, the order has to be further veriﬁed by the customer procurement
+department as well as engineering department. The integration also eliminates
+the need for the order to be printed at PMI and reentered after veriﬁcation, thus
+reducing time and errors. Clearly, integration substantially improves the order
+processing at each end, therefore increasing procedural speciﬁcity.
+
+
+374
+
+Examining the Impact of Interorganizational Systems
+
+Taken together, these prior conceptualizations of systems integration between
+buyers and sellers capture the extent of electronic links between various functional
+units in the two ﬁrms, high level of system integration between the ﬁrms and with
+internal systems of the ﬁrms, and extensive bidirectional sharing of information
+on production schedules and inventory levels. We call this overall construct of
+systems integration between two ﬁrms as external integration and argue that high
+levels of external integration will allow a ﬁrm to gain process efﬁciencies in terms
+of reduced coordination costs, improved inventory management, and reliable lead
+times (Clemons et al., 1993; Frohlich & Westbrook, 2002). This leads to our ﬁrst
+hypothesis.
+
+H1: The extent of external integration is positively related to process
+
+efﬁciency.
+
+Hwang et al. (1993) found that initiators of IOS carefully planned technology,
+attained higher levels of internal integration, and achieved greater beneﬁts from
+the electronic network. Webster (1995) provides examples of Fordnet and a British
+company that mandated the use of EDI systems to their suppliers. By dictating
+communication protocols, message standards, product coding, and information
+handling procedures through electronic systems, these companies were able to
+achieve relatively greater beneﬁts. As a result, the initiating ﬁrms may be able to
+structure the IOS to their advantage to better serve their needs, and thus enhance
+their process efﬁciency.
+
+H2: The extent to which the IOS is initiated by the buyer ﬁrm is posi-
+
+tively related to process efﬁciency.
+
+Sourcing Leverage
+Signiﬁcant literature highlights the ability of an IOS to establish one-to-many
+relationships. Establishing electronic linkages with a large number of suppliers
+may allow a ﬁrm to get market intelligence, expand its sourcing leverage, and
+allow it to negotiate better contracts (Bakos, 1991). It has been pointed out that
+electronic markets enable many-to-many interactions, thus providing search cost
+beneﬁts and reduced prices (Choudhury et al., 1998). One-to-many links from a
+buyer’s perspective fulﬁll a similar purpose. By establishing electronic linkages
+with the suppliers that constitute its consideration set, the buying ﬁrm can create
+an internalized market in which multiple suppliers can compete for its business.
+This concept, which we call IOS breadth, reﬂects the second functionality (apart
+from external integration described above) of the IOS, and refers to the extent to
+which the IOS can interface with multiple suppliers. It is similar to the EDI breadth
+dimension proposed by Massetti and Zmud (1996). The IOS breadth functionality
+can enable a ﬁrm to expand the search space and induce competition among a large
+number of suppliers through the IOS, thereby providing the focal buyer greater
+sourcing leverage.
+
+Sourcing leverage is important in purchase situations in which the ﬁrm needs
+to compare alterative sources of supply and the offerings of different suppliers. Ex-
+panding search space to identify alternatives is constrained by search-related costs,
+which ultimately limit the sourcing leverage of the ﬁrm. Because high search costs
+enable the sellers to extract extra rent from the buyers by pricing products above
+
+
+Saeed, Malhotra, and Grover
+
+375
+
+marginal costs (Bakos & Tracey, 1986), a ﬁrm’s ability to scan the market to gather
+intelligence and identify possible sources of supply through greater IOS breadth
+can save substantial time and costs. IOS breadth can enable the buyer to explore
+the market more thoroughly with minimal search costs, constrain the supplier from
+extracting extra rent, induce competition, and eventually lower purchase prices for
+the buyer. Thus, the presence of IOS breadth facilitates a greater degree of sourcing
+leverage, and forms the basis of our third hypothesis.
+
+H3: The extent of IOS breadth is positively related to sourcing
+
+leverage.
+
+The relationship between external integration and sourcing leverage seems
+to have equivocal evidence. Researchers argue that in many industries, ﬁrms have
+coerced their suppliers to establish electronic links or lose business (Webster, 1995).
+By using IOS to establish closely coordinated processes, these ﬁrms were able to
+get visibility into the suppliers’ operations and used it as a bargaining tool (Crook
+& Kumar, 1998). As more suppliers get electronically linked to the buyer, this can
+increase the sourcing leverage for the buyer.
+
+On the other hand, it has been argued that closely integrated systems increase
+switching costs from a buyer’s perspective (Johnston & Vitale, 1988). Integrated
+electronic linkages result in procedural speciﬁcity (Mukhopadhyay & Kekre, 2002).
+Thus, when a ﬁrm uses information systems to develop partner-speciﬁc processes
+and information exchange routines, it increases switching costs, which in turn
+results in reduced sourcing leverage.
+
+We believe that the latter argument will prevail, as there is an inherent trade-
+off between beneﬁts of electronic integration and those of electronic brokerage
+(Malone et al., 1987). It is our contention that ﬁrms utilizing systems that facilitate
+external integration will do so to gain the efﬁciency beneﬁts of integration, and, in
+the process, will forgo the market-based strategic beneﬁts of sourcing leverage.
+
+H4: The extent of external integration is negatively related to sourcing
+
+leverage.
+
+Initiation of the IOS allows a ﬁrm to conﬁgure its functionalities and features
+to its advantage (Webster, 1995). Thus, initiator ﬁrms have leverage to dictate the
+network characteristics, which enables them to achieve greater beneﬁts as compared
+to the follower ﬁrms. In those purchase situations where gaining more sourcing
+leverage may be the dominant performance objective, the initiating ﬁrm may be
+able to structure the IOS to achieve this performance outcome.
+
+H5: The extent of IOS initiation is positively related to sourcing lever-
+
+age.
+
+Competitive Intensity and Product Characteristics
+As previously highlighted, the environment in which a ﬁrm operates has been pre-
+sented as an important determinant of IOS adoption. Researchers argue that by
+facilitating real-time information access along with automation of business pro-
+cesses, IT systems can enable organizations to respond to dynamic environmental
+settings (Kambil & Short, 1994). However, little research has focused on how
+use of IOS differs among organizations faced with different levels of competitive
+intensity. Research in the IOS adoption domain concludes that ﬁrms faced with
+
+
+376
+
+Examining the Impact of Interorganizational Systems
+
+high competitive pressures are more likely to adopt EDI systems (Grover, 1993;
+Premkumar, Ramamurthy, & Sree, 1994). It has also been shown that EDI systems,
+which increase efﬁciencies within the industry, can provide an effective response
+to the competitive environment (Chwelos, Benbasat, & Dexter, 2001). Based on
+this presumption, it can be argued that external integration (mechanism for creating
+efﬁcient processes) and process efﬁciency will vary across ﬁrms operating under
+different levels of competitive intensity.
+
+Product characteristics impact the type of buyer–supplier relationships,
+procurement processes, and supply chain management practices. Fisher (1997)
+proposes that ﬁrms can produce functional products or innovative products and
+that different supply chain strategies and designs are appropriate in each condition.
+Another categorization often is made between ﬁrms producing standardized prod-
+ucts versus customized products (Saﬁzadeh, Ritzman, & Mallick, 2000). We follow
+this approach and argue that product characteristics are likely to play a role in a
+ﬁrm’s supply chain strategy and operationalization of IOS. Kumar (2001) argues
+that current uses of IOS within a supply chain context mainly support optimiza-
+tion of the supply chain. Optimization works best in relatively static supply chains
+that have a stable set of supply chain partners and standardized products. Firms
+operating in such stable conditions and producing standardized products may reap
+greater beneﬁts by using IOS to closely couple operations with a stable set of sup-
+pliers. This can allow ﬁrms to collaborate on planning, forecasting, scheduling,
+and applying various optimization techniques that use historical data. More formal
+relationships aimed at maximizing process efﬁciencies can be sustained with the
+vendors. Customized products, on the other hand, are subject to changing customer
+preferences. There is minimal historical data available for planning. Even the re-
+quirements placed on the buying and manufacturing functions shift rapidly over
+time. Moreover, Kumar (2001) contends that “in demand-driven networks tempo-
+rary supply chains emerge, operate for the lifespan of the market opportunity, and
+then dissolve again.” So, under these conditions, using the IOS to closely couple
+processes may not be appropriate (Moshowitz, 1997). Thus, it can be argued that
+ﬁrms producing different types of products may show divergence in using IOS as
+well as its outcome—process efﬁciency.
+
+Typically, ﬁrms making standardized products will be operating in mature
+industry segments in which pressure on proﬁt margins is strong and competitive in-
+tensity is high. In contrast, customized products will be made in an environment of
+low competitive intensity because there are few players in the market who compete
+on the basis of innovation and product variety. These environmental combinations
+on product type and competitive intensity are used to examine the joint impact of
+competitive intensity and product characteristics on desired IOS features. How-
+ever, given the lack of prior theoretical bases for examining this issue, we do not
+presuppose directionality and only argue that external integration and process efﬁ-
+ciency will be different across ﬁrms facing varying levels of competitive intensity
+and producing products with different characteristics.
+
+H6: There will be a difference in the level of external integration
+between ﬁrms operating under conditions of high competitive
+intensity and producing standardized products as compared to
+
+
+Saeed, Malhotra, and Grover
+
+377
+
+ﬁrms operating under conditions of low competitive intensity and
+producing customized products.
+
+H7: There will be a difference in process efﬁciency between ﬁrms oper-
+ating under conditions of high competitive intensity and produc-
+ing standardized products as compared to ﬁrms operating under
+conditions of low competitive intensity and producing customized
+products.
+
+RESEARCH METHOD
+
+Survey methodology was chosen given the context of the study. The data were
+collected from manufacturing ﬁrms on organizational-level variables, as well as on
+the characteristics of the IOS that support their interaction with the suppliers. This
+information relates to the dyadic linkages established between the ﬁrms and their
+suppliers. Subsequent methodological issues related to construct measurement,
+data collection, and construct validity are discussed next.
+
+Measurement
+Table 1 shows the operationalization and measurement of various constructs repre-
+sented in our research framework (Figure 1). With respect to dependent variables,
+we are interested in measuring two aspects of performance. First, process efﬁciency
+was evaluated by asking respondents to rate the extent to which electronic link-
+ages allowed the ﬁrm to reduce transaction costs, inventory costs, and uncertainty
+in lead times (Mukopadhyay et al., 1995; Narasimhan & Das, 1999; Frohlich &
+Westbrook, 2001; Frohlich & Westbrook, 2002). Improvements in process efﬁ-
+ciency would tend to reduce manufacturing costs and thus ﬂow directly to the
+bottom line. Second, sourcing leverage was measured by asking the respondents
+to rate the extent to which electronic linkages enabled the ﬁrm to get leverage over
+the ﬁrm’s suppliers, explore alternative sources of supply, and search for alterna-
+tive products. (Johnston & Vitale, 1988; Choudhury et al., 1998). The items for
+these two measures were adapted from the work of Mahmood and Soon (1991),
+Mukhopadhyay et al. (1995), Choudhury et al. (1998), and Narasimhan and Das
+(1999).
+
+Extent of systems integration, bidirectional information ﬂows, and electronic
+linking of various business functions captured external integration and its various
+aspects. It was measured by asking the respondents during our empirical data col-
+lection to classify their existing electronic linkages into four progressive stages
+(Figure 2). Building on previous conceptualizations, we have captured increasing
+levels of unidirectional and bidirectional information ﬂows. The arrows in Fig-
+ure 2 capture electronic linkages between various business functions in the ﬁrms
+(Massetti & Zmud, 1996; Chatﬁeld & Yetton, 2000) as well as bidirectional in-
+formation ﬂow of different types of information between the ﬁrms (Massetti &
+Zmud, 1996; Chatﬁeld & Yetton, 2000; Truman, 2000; Hill & Scudder, 2002). At
+Stage 1, the buyer ﬁrm transmits orders or requests prices. At Stage 2, the ven-
+dor can electronically transmit back inventory status and order completion status
+and provide feedback on price checks. However, at both levels, only the purchas-
+ing function of the buyer ﬁrm is interacting with the supplier. The combination
+
+
+378
+
+Examining the Impact of Interorganizational Systems
+
+)
+1
+9
+9
+1
+(
+n
+o
+o
+S
+d
+n
+a
+d
+o
+o
+m
+h
+a
+M
+
+)
+9
+9
+9
+1
+(
+
+s
+a
+D
+d
+n
+a
+n
+a
+h
+m
+i
+s
+a
+r
+a
+N
+
+)
+5
+9
+9
+1
+(
+n
+a
+c
+n
+u
+D
+
+)
+0
+0
+0
+2
+(
+n
+a
+m
+u
+r
+T
+
+)
+5
+9
+9
+1
+(
+
+.
+l
+a
+
+t
+e
+
+y
+a
+y
+h
+d
+a
+p
+o
+h
+k
+u
+M
+
+)
+1
+9
+9
+1
+(
+n
+o
+o
+S
+d
+n
+a
+d
+o
+o
+m
+h
+a
+M
+
+)
+8
+8
+9
+1
+(
+
+e
+l
+a
+t
+i
+
+V
+d
+n
+a
+n
+o
+t
+s
+n
+h
+o
+J
+
+)
+0
+9
+9
+1
+(
+n
+i
+l
+e
+a
+t
+S
+d
+n
+a
+g
+n
+i
+d
+l
+u
+o
+B
+
+)
+8
+9
+9
+1
+(
+
+.
+l
+a
+
+t
+e
+y
+r
+u
+h
+d
+u
+o
+h
+C
+
+y
+r
+o
+t
+n
+e
+v
+n
+i
+g
+n
+i
+t
+a
+t
+i
+l
+i
+c
+a
+f
+
+y
+b
+s
+t
+s
+o
+c
+y
+r
+o
+t
+n
+e
+v
+n
+i
+
+.
+
+m
+r
+ﬁ
+r
+u
+o
+
+r
+o
+f
+
+s
+t
+s
+o
+c
+n
+o
+i
+t
+c
+a
+s
+n
+a
+r
+t
+
+e
+c
+u
+d
+e
+r
+
+e
+c
+u
+d
+e
+r
+
+s
+r
+o
+d
+n
+e
+v
+h
+t
+i
+
+w
+s
+e
+g
+a
+k
+n
+i
+l
+
+s
+r
+o
+d
+n
+e
+v
+h
+t
+i
+
+w
+s
+e
+g
+a
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+E
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+E
+
+)
+4
+Y
++
+3
+Y
++
+2
+Y
++
+1
+Y
++
+4
+X
++
+3
+X
++
+2
+X
++
+1
+X
+(
+/
+)
+4
+X
++
+3
+X
++
+d
+e
+2
+h
+X
+s
+i
++
+l
+b
+a
+1
+t
+X
+s
+e
+(
+
+.
+
+m
+r
+ﬁ
+e
+h
+t
+
+f
+o
+s
+a
+e
+r
+a
+
+l
+a
+n
+o
+i
+t
+c
+n
+u
+f
+
+s
+s
+o
+r
+c
+a
+
+s
+e
+s
+a
+b
+a
+t
+a
+d
+
+f
+o
+g
+n
+i
+r
+a
+h
+s
+
+e
+g
+a
+r
+u
+o
+c
+n
+e
+
+.
+
+m
+r
+ﬁ
+r
+u
+o
+n
+i
+h
+t
+i
+
+w
+s
+e
+i
+t
+i
+l
+i
+c
+a
+f
+g
+n
+i
+k
+r
+o
+w
+t
+e
+n
+
+e
+v
+i
+s
+n
+e
+t
+x
+e
+
+e
+v
+a
+h
+
+e
+
+W
+
+e
+
+W
+
+.
+s
+e
+c
+i
+v
+r
+e
+s
+/
+s
+t
+c
+u
+d
+o
+r
+p
+
+e
+v
+i
+t
+a
+n
+r
+e
+t
+l
+a
+
+e
+t
+a
+c
+o
+l
+
+m
+r
+ﬁ
+r
+u
+o
+p
+l
+e
+h
+s
+r
+o
+d
+n
+e
+v
+
+.
+s
+r
+o
+d
+n
+e
+v
+
+r
+u
+o
+r
+e
+v
+o
+e
+g
+a
+r
+e
+v
+e
+l
+
+n
+i
+a
+g
+m
+r
+ﬁ
+r
+u
+o
+
+p
+l
+e
+h
+s
+r
+o
+d
+n
+e
+v
+
+.
+s
+e
+c
+r
+u
+o
+s
+
+e
+t
+a
+n
+r
+e
+t
+l
+a
+y
+f
+i
+t
+n
+e
+d
+i
+
+m
+r
+ﬁ
+r
+u
+o
+p
+l
+e
+h
+s
+r
+o
+d
+n
+e
+v
+
+.
+e
+m
+
+i
+t
+d
+a
+e
+l
+
+n
+i
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+e
+c
+u
+d
+e
+r
+
+s
+r
+o
+d
+n
+e
+v
+
+h
+t
+i
+
+w
+s
+e
+g
+a
+k
+n
+i
+l
+
+h
+t
+i
+
+w
+s
+e
+g
+a
+k
+n
+i
+l
+
+h
+t
+i
+
+w
+s
+e
+g
+a
+k
+n
+i
+l
+
+h
+t
+i
+
+w
+s
+e
+g
+a
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+E
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+E
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+E
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+E
+
+.
+s
+s
+e
+c
+o
+r
+p
+t
+n
+e
+m
+h
+s
+i
+n
+e
+l
+p
+e
+r
+
+d
+e
+s
+a
+e
+r
+c
+n
+i
+
+o
+t
+
+e
+u
+d
+
+g
+n
+i
+t
+e
+k
+r
+a
+m
+n
+o
+r
+a
+l
+l
+o
+d
+
+s
+e
+l
+a
+s
+h
+c
+a
+e
+
+f
+o
+e
+r
+o
+m
+d
+n
+e
+p
+s
+y
+r
+t
+s
+u
+d
+n
+i
+
+r
+u
+o
+n
+i
+
+s
+
+m
+
+r
+i
+
+F
+
+.
+
+n
+o
+i
+t
+i
+t
+e
+p
+m
+o
+c
+
+)
+3
+9
+9
+1
+(
+
+r
+e
+v
+o
+r
+G
+
+.
+t
+e
+k
+r
+a
+m
+e
+h
+t
+
+f
+o
+e
+r
+a
+h
+s
+o
+t
+n
+o
+
+d
+l
+o
+h
+o
+t
+
+t
+h
+g
+ﬁ
+y
+l
+e
+v
+i
+s
+s
+e
+r
+g
+g
+a
+y
+r
+t
+s
+u
+d
+n
+i
+
+r
+u
+o
+n
+i
+
+s
+
+m
+
+r
+i
+
+F
+
+.
+e
+s
+n
+e
+t
+n
+i
+
+s
+i
+y
+r
+t
+s
+u
+d
+n
+i
+
+r
+u
+o
+n
+i
+n
+o
+i
+t
+i
+t
+e
+p
+m
+o
+C
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+)
+E
+P
+(
+
+y
+c
+n
+e
+i
+c
+ﬁ
+f
+E
+s
+s
+e
+c
+o
+r
+P
+
+)
+I
+I
+(
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+n
+I
+
+)
+L
+S
+(
+
+e
+g
+a
+r
+e
+v
+e
+L
+g
+n
+i
+c
+r
+u
+o
+S
+
+)
+I
+
+C
+
+(
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+e
+v
+i
+t
+i
+t
+e
+p
+m
+o
+C
+
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+s
+a
+h
+m
+r
+ﬁ
+e
+h
+t
+
+s
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+
+f
+o
+r
+e
+b
+m
+u
+n
+
+l
+a
+t
+o
+t
+
+/
+
+e
+h
+T
+m
+r
+ﬁ
+e
+h
+t
+y
+b
+d
+e
+t
+a
+i
+t
+i
+n
+i
+
+s
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+
+f
+o
+r
+e
+b
+m
+u
+N
+
+)
+I
+
+O
+
+I
+(
+n
+o
+i
+t
+a
+i
+t
+i
+n
+I
+S
+O
+
+I
+
+)
+0
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+h
+e
+d
+a
+z
+ﬁ
+a
+S
+
+:
+s
+a
+d
+e
+z
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+t
+s
+e
+b
+
+e
+b
+n
+a
+c
+m
+r
+ﬁ
+r
+u
+o
+y
+
+n
+i
+n
+o
+i
+t
+c
+u
+d
+o
+r
+P
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+s
+t
+c
+u
+d
+o
+r
+p
+d
+e
+z
+i
+m
+o
+t
+s
+u
+C
+
+n
+o
+i
+t
+a
+c
+ﬁ
+
+i
+c
+e
+p
+s
+
+r
+e
+m
+o
+t
+s
+u
+c
+o
+t
+d
+e
+ﬁ
+i
+d
+o
+m
+
+s
+t
+c
+u
+d
+o
+r
+p
+d
+r
+a
+d
+n
+a
+t
+S
+
+s
+t
+c
+u
+d
+o
+r
+P
+d
+r
+a
+d
+n
+a
+t
+
+S
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+
+t
+c
+u
+d
+o
+r
+P
+
+)
+
+C
+P
+(
+
+.
+)
+7
+–
+1
+(
+
+e
+l
+a
+c
+s
+
+t
+r
+e
+k
+i
+L
+a
+
+g
+n
+i
+s
+u
+d
+e
+r
+u
+s
+a
+e
+m
+
+l
+l
+a
+
+e
+r
+e
+w
+C
+P
+d
+n
+a
+
+,
+I
+
+C
+
+,
+
+L
+S
+
+,
+
+E
+P
+
+,
+I
+I
+
+:
+e
+t
+o
+N
+
+e
+c
+r
+u
+o
+S
+
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+n
+o
+i
+t
+a
+z
+i
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
++
+3
+X
++
+2
+X
++
+1
+X
+(
+
+/
+
+)
+2
+Y
++
+2
+X
+(
+(
+
++
+1
+
++
+2
+X
++
+1
+X
+(
+
+/
+
+)
+4
+Y
++
+4
+X
+(
+(
+
++
+
+)
+3
+
+∗
+
+∗
+
+∗
+
+∗
+
+)
+4
+
+F
+e
+e
+s
+(
+
+)
+2
+e
+r
+u
+g
+i
+
+)
+)
+)
+)
+4
+4
+Y
+Y
++
++
+3
+3
+Y
+Y
+)
++
+2
++
+e
+2
+2
+r
+u
+Y
+Y
+g
++
++
+i
+F
+1
+1
+e
+Y
+e
+Y
+s
+)
++
+)
+(
++
+4
+)
+Y
+4
+2
+4
+X
+X
++
+)
++
+)
++
+3
+4
+Y
+Y
+3
+3
+X
+X
++
++
++
++
+2
+3
+Y
+Y
+2
+2
+X
+X
++
++
++
++
+1
+2
+Y
+Y
+1
+1
+X
+X
++
++
+(
+(
+/
+/
+4
+1
+)
+)
+3
+1
+X
+Y
+Y
+Y
++
++
++
++
+3
+4
+1
+3
+X
+X
+X
+X
+(
+(
+(
+(
+
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+h
+t
+i
+
+w
+s
+r
+e
+i
+l
+p
+p
+u
+s
+
+f
+o
+r
+e
+b
+m
+u
+n
+
+l
+a
+t
+o
+T
+/
+s
+e
+g
+a
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+
+s
+a
+h
+m
+r
+ﬁ
+e
+h
+t
+
+m
+o
+h
+w
+h
+t
+i
+
+w
+s
+r
+e
+i
+l
+p
+p
+u
+s
+
+f
+o
+r
+e
+b
+m
+u
+N
+
+s
+t
+c
+a
+r
+e
+t
+n
+i
+y
+l
+e
+n
+i
+t
+u
+o
+r
+
+m
+r
+ﬁ
+e
+h
+t
+
+m
+o
+h
+w
+
+1
+
+l
+e
+v
+e
+L
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+x
+E
+
+2
+
+l
+e
+v
+e
+L
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+x
+E
+
+)
+
+B
+O
+
+I
+(
+h
+t
+d
+a
+e
+r
+B
+S
+O
+
+I
+
+)
+2
+L
+-
+I
+E
+(
+
+)
+1
+L
+-
+I
+E
+(
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+
+.
+t
+n
+e
+m
+e
+r
+u
+s
+a
+e
+m
+d
+n
+a
+n
+o
+i
+t
+a
+z
+i
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+o
+
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+:
+1
+
+e
+l
+b
+a
+T
+
+
+Saeed, Malhotra, and Grover
+
+379
+
+Figure 2: External integration of interorganizational systems.
+
+The following levels describe different electronic linkages that your firm may have with your suppliers. Examples of 
+the direction and type of information  flows that can exist along  the linkages  are also illustrated within each level. 
+Please estimate below in column X the number of vendors with whom such links have been initiated by your firm, 
+and in column Y the number of vendors with whom links have been initiated by the vendor.  
+
+Order Placement & 
+Price Request 
+
+Purchasing System
+
+Production 
+Planning and 
+Control System
+
+    X1   
+
+    Y1   
+
+Level 1 
+ 
+ 
+
+ 
+ 
+
+Vendor
+
+ 
+ 
+
+    X2 
+
+   Y2   
+
+ 
+Level 2 
+
+ 
+
+Vendor
+
+ 
+
+    X3         Y3   
+
+Level 3  
+
+Vendor
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Order Placement & 
+Price Request 
+
+Purchasing System
+
+Vendor Inventory Status
+Order Completion Status
+Price Check
+
+Order Placement & 
+Price Request 
+
+Purchasing System
+
+Vendor Inventory Status
+Order Completion Status
+Price Check
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Vendor-Relevant Production and Control Output
+(Planned product schedules, actual shop floor orders released, etc.)
+
+    X4   
+
+    Y4    
+
+Level 4  
+
+Vendor
+
+ 
+
+ 
+
+Order Placement & 
+Price Request 
+
+Purchasing System
+
+Vendor Inventory Status
+Order Completion Status
+Price Check
+
+Vendor Production Plans and Vendor Capacity Status 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+(Planned product schedules, actual shop floor orders released, etc.)
+
+Vendor-Relevant Production and Control Output
+
+Production 
+Planning and 
+Control System
+
+Production 
+Planning and 
+Control System
+
+Production 
+Planning and 
+Control System
+
+of these two stages represents an electronic ordering system or an electronic pro-
+curement system that automates the ordering process. We call the combination
+of Stage 1 and Stage 2 External Integration Level 1, that is, representative of the
+procurement process between the buyer and supplier ﬁrms.
+
+At Stages 3 and 4, the planning function also gets involved. Information
+related to plans and schedules is exchanged between the supply chain members, ﬁrst
+in one direction (Stage 3) and eventually in both directions (Stage 4). Aggregation of
+Stages 3 and 4 provides better information for closed-loop planning (e.g., Orlicky &
+Plossl, 1994) for the buying ﬁrm, enables production plans and schedules of the two
+
+
+380
+
+Examining the Impact of Interorganizational Systems
+
+ﬁrms to mesh well with each other, and facilitates implementation of manufacturing
+resource planning (MRP) II systems. The MRP II systems and advanced planning
+systems (APS) offered by software vendors implement this conﬁguration, which
+we call External Integration Level 2.
+
+The distinction between Level 1 and Level 2 external integration represents
+a transition for the buying ﬁrms from using procurement systems to employing
+more sophisticated and enterprise-wide APS. Also, Level 1 and Level 2 external
+integration corresponds to actual procurement systems, ordering systems, MRP II
+systems, and APS that are available in the marketplace from different software
+vendors. Speciﬁcally, the base ordering systems offered by I2 and Manugistics
+include order queries and processing and inventory checks. Additional modules
+can be added to facilitate exchange of information necessary for forecasting, ca-
+pacity planning, inventory, and replenishment. Shah, Meyers, and Ward (2002)
+and Riggins and Mukhopadhyay (1994) have also used level-based approaches for
+capturing integration. Shah et al. (2002) used a three-level approach wherein they
+included an IOS capable of only supporting procurement activities in Level 1. IOS
+classiﬁed as Level 2 incorporated shared ordering and scheduling systems, while
+completely integrated systems were categorized as Level 3. Similarity to existing
+systems available in the marketplace, along with evidence that prior studies have
+also used a similar approach, were the main rationales for collapsing the four stages
+into two levels.
+
+A score for each ﬁrm was computed based on its response, whereby higher
+stages of integration were progressively assigned higher weights. Subsequently,
+Stages 1 and 2 were aggregated to represent External Integration Level 1, and
+Stages 3 and 4 were combined to capture External Integration Level 2. Table 1
+illustrates the actual computation for each level in greater detail.
+
+IOS breadth was measured in our study as the number of suppliers with which
+the ﬁrm has existing electronic linkages, divided by the total number of suppliers
+with which the ﬁrm may routinely interact. Here the main objective was to capture
+the potential consideration set the ﬁrm uses when making sourcing decisions, and
+within this set, to see how many vendors have established electronic links with
+the ﬁrm. This measurement approach has been suggested or used in other studies
+as well (Jelassi & Figon, 1994; Massetti & Zmud, 1996; Mendelson & Pillai,
+1998).
+
+IOS initiation was evaluated as the number of electronic linkages initi-
+ated by the ﬁrm, divided by the total number of electronic linkages that a ﬁrm
+has established. Previous conceptualization has mostly investigated this issue as
+a dichotomous variable. In our case, ﬁrms were involved in both self-initiated
+systems and systems initiated by their suppliers. Thus, the proportion approach
+was deemed as more appropriate, because it reﬂects the ﬁrm as the focal unit of
+analysis.
+
+The extent to which information systems internal to the ﬁrm are integrated
+captures internal integration. This is similar to the concept of internally integrated
+supply chain. It goes beyond context-speciﬁc conceptualization (Truman, 2000),
+and captures the extent to which the ﬁrm has network facilities to boost connectivity,
+and the extent to which sharing of databases across functional areas is enabled
+within the ﬁrm.
+
+
+Saeed, Malhotra, and Grover
+
+381
+
+Competitive intensity was measured in terms of the intensity of rivalry among
+ﬁrms in the industry and employed the scale used by Boulding and Staelin (1990).
+Competitive rivalry depicts the extent of brand switching, level of market growth,
+variance in the size of competition, number of players in the industry, frequency
+of introduction of new products, and level of exit costs (Boulding & Staelin, 1990;
+Grover, 1993). We measured competitive intensity as the extent to which the ﬁrm
+perceives its competition to be intense and the extent to which it competes to retain
+its market share. The main objective in using this measurement approach was to
+focus on the extent to which the ﬁrm is pressured by its environmental conditions
+to be efﬁcient.
+
+The type of product being produced by the company was used to capture
+product characteristics. The single-item scale ranged from manufacturing stan-
+dard products at one end to manufacturing customized products at the other.
+This scheme is consistent with the product-process matrix paradigm prevalent
+in OM literature. In addition, Saﬁzadeh et al. (2000) have also used a simi-
+lar approach in their study to measure the extent of product standardization or
+customization.
+
+Data Sources and Method
+Standard and Poor’s Corporation Description (Standard and Poor’s Corporation,
+1999) was used to select vice presidents of manufacturing or operations as key
+target respondents for the study. The main reason for their selection is based on
+their position in the organization and knowledge of issues related to coordination
+with the suppliers, and the use of information technology in managing their supplier
+relationships.
+
+Manufacturing ﬁrms in the rubber, plastics, and metal fabrication industries
+constituted our sample frame. Only companies with sales of $50 million or higher
+were included in the sample in order to ensure that ﬁrms of sufﬁcient size that were
+likely users of an IOS system were considered. Lists of ﬁrms in the Standard In-
+dustrial Classiﬁcations (SIC) 30 (rubber and plastics) and 34 (metal products) were
+obtained from the Harris manufacturers directory (Dun & Bradstreet Inc., 2002). A
+total of 600 ﬁrms were randomly selected for large-scale data collection. In the ﬁrst
+round of mailings, a survey questionnaire was mailed to these 600 companies; 11
+questionnaires were returned due to address changes. After a few weeks, follow-up
+telephone calls were made to a random sample of non-respondents. In the second
+round, 111 additional questionnaires were mailed to companies randomly selected
+within the same sample frame. From a total of 700 questionnaires thus mailed, 110
+were completed and returned, thereby providing a response rate of approximately
+16%. Out of these 110 responses, 39 companies had established electronic links
+with their suppliers (one ﬁrm was dropped later due to incomplete information).
+While small, an IOS adoption rate of 35% (39/110) represented in our sample
+is typically representative of the adoption rate of IOS systems reported in other
+studies (Chwelos et al., 2001).
+
+Previous research suggests that one way to test for non-response bias is to
+compare early and late respondents (Newman, 1962). Tests conducted to compare
+study variables between early and late respondents showed only internal integration
+
+
+382
+
+Examining the Impact of Interorganizational Systems
+
+Table 2: Sample characteristics.
+
+Sales Range ($ in Millions)
+
+Number of Companies
+
+50–100
+101–250
+251–500
+501–1,000
+1,001–2,000
+>2,000
+Missing
+Total
+
+5
+12
+6
+2
+6
+6
+1
+38
+
+(p = .008) to be signiﬁcantly different. It has also been suggested that late and
+non-respondents show similar characteristics (Newman, 1962). Tests showed no
+signiﬁcant difference in sales volume (p = .22) between early and late respondents,
+thereby conﬁrming to a certain extent that non-response bias was not an issue in
+our sample. Data from the 38 companies that had established electronic linkages
+were used for testing the research framework. The sales proﬁle of the sample ﬁrms
+is shown in Table 2.
+
+Construct Reliability and Validity
+As described previously, some constructs were measured using objective data,
+while measures for other constructs were adapted from previous studies. Table 3
+shows the mean values and standard deviations of all the variables and performance
+measures, while Table 4 presents the reliability and ﬁrst-order correlations among
+the variables. Cronbach α values were found to be within the acceptable range. Data
+were also tested for conformance to conducting ordinary least squares regression.
+We found no outlying observations, no multicollinearity among the variables, and
+no violation of the assumption about constant variance of error terms (Neter, Kutner,
+Nachtsheim, & Wasserman, 1990).
+
+Table 3: Descriptive statistics.
+
+Variable
+
+External Integration Level 1
+External Integration Level 2
+IOS Breadth
+IOS Initiation
+Internal Integration
+Process Efﬁciency
+Sourcing Leverage
+Competitive Intensity
+Product Characteristics
+
+Mean
+
+.89
+.79
+.12
+.75
+5.04
+5.38
+3.42
+5.34
+4.36
+
+Standard Deviation
+
+.61
+1.25
+.09
+.34
+1.43
+1.26
+1.14
+1.04
+1.87
+
+
+Saeed, Malhotra, and Grover
+
+383
+
+g
+n
+i
+c
+r
+u
+o
+S
+
+e
+g
+a
+r
+e
+v
+e
+L
+
+s
+s
+e
+c
+o
+r
+P
+
+y
+c
+n
+e
+i
+c
+ﬁ
+f
+E
+
+n
+o
+i
+t
+a
+i
+t
+i
+n
+I
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+h
+t
+d
+a
+e
+r
+B
+
+2
+
+l
+e
+v
+e
+L
+
+1
+
+l
+e
+v
+e
+L
+
+S
+O
+
+I
+
+l
+a
+n
+r
+e
+t
+n
+I
+
+S
+O
+
+I
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+x
+E
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+x
+E
+
+y
+t
+i
+l
+i
+b
+a
+i
+l
+e
+R
+
+α
+s
+’
+h
+c
+a
+b
+n
+o
+r
+C
+
+1
+
+∗
+∗
+
+7
+4
+.
+
+1
+
+∗
+∗
+
+∗
+∗
+
+5
+5
+.
+
+1
+4
+.
+
+1
+
+∗
+
+8
+1
+.
+
+1
+3
+.
+
+4
+2
+.
+
+1
+
+5
+2
+.
+
+6
+2
+.
+
+1
+
+∗
+∗
+
+8
+1
+.
+
+6
+5
+.
+
+2
+1
+.
+
+1
+
+∗
+
+1
+4
+0
+2
+.
+.
+−
+
+8
+8
+3
+0
+.
+.
+−
+
+a
+∗
+∗
+
+2
+1
+5
+2
+.
+.
+−
+−
+1
+
+7
+1
+.
+
+8
+0
+1
+0
+3
+0
+.
+.
+.
+−
+−
+
+a
+t
+a
+D
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+a
+t
+a
+D
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+a
+t
+a
+D
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+)
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+(
+
+2
+7
+.
+
+a
+t
+a
+D
+e
+v
+i
+t
+c
+e
+j
+b
+O
+
+5
+7
+.
+
+8
+8
+.
+
+2
+8
+.
+
+2
+
+l
+e
+v
+e
+L
+
+d
+n
+a
+
+1
+
+l
+e
+v
+e
+L
+
+g
+n
+i
+r
+u
+t
+p
+a
+c
+
+n
+e
+h
+w
+
+,
+r
+e
+v
+e
+w
+o
+H
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+
+f
+o
+
+l
+e
+v
+e
+l
+
+s
+’
+
+m
+r
+ﬁ
+
+a
+
+t
+a
+h
+t
+
+s
+w
+o
+h
+s
+
+r
+e
+h
+g
+i
+h
+
+o
+s
+l
+a
+
+1
+
+a
+
+,
+
+y
+r
+o
+e
+h
+t
+
+n
+i
+
+,
+
+h
+g
+u
+o
+h
+t
+
+.
+r
+e
+h
+t
+o
+
+n
+e
+v
+E
+
+h
+c
+a
+e
+
+h
+t
+i
+
+w
+d
+e
+t
+a
+l
+e
+r
+
+y
+l
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+b
+
+d
+l
+u
+o
+h
+s
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+
+2
+
+l
+e
+v
+e
+L
+
+d
+n
+a
+
+1
+
+l
+e
+v
+e
+L
+
+t
+a
+h
+t
+
+t
+c
+e
+p
+x
+e
+
+o
+t
+
+l
+a
+c
+i
+g
+o
+l
+
+s
+i
+
+.
+
+g
+n
+i
+t
+n
+u
+o
+c
+
+e
+l
+b
+u
+o
+d
+
+d
+i
+o
+v
+a
+
+s
+u
+h
+t
+
+d
+n
+a
+
+e
+v
+i
+s
+u
+l
+c
+x
+e
+
+y
+l
+l
+a
+u
+t
+u
+m
+m
+e
+h
+t
+
+e
+k
+a
+m
+o
+t
+
+e
+d
+a
+m
+
+s
+a
+w
+
+t
+r
+o
+f
+f
+e
+
+n
+a
+
+,
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+
+e
+l
+b
+a
+T
+
+.
+
+d
+e
+s
+u
+
+h
+c
+a
+o
+r
+p
+p
+a
+
+t
+n
+e
+m
+e
+r
+u
+s
+a
+e
+m
+e
+h
+t
+
+o
+t
+
+e
+u
+d
+
+e
+s
+a
+c
+
+e
+h
+t
+
+t
+o
+n
+
+s
+a
+w
+s
+i
+h
+t
+
+y
+d
+u
+t
+s
+
+s
+i
+h
+t
+
+n
+i
+
+,
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+
+f
+o
+
+l
+e
+v
+e
+l
+
+r
+e
+w
+o
+l
+
+a
+
+e
+m
+u
+s
+b
+u
+s
+
+d
+l
+u
+o
+h
+s
+
+l
+e
+v
+e
+L
+r
+o
+f
+
+0
+
+f
+o
+
+e
+r
+o
+c
+s
+
+a
+
+d
+e
+v
+i
+e
+c
+e
+r
+
+t
+i
+
+,
+
+2
+
+l
+e
+v
+e
+L
+
+t
+a
+
+s
+e
+g
+a
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+
+e
+h
+t
+
+l
+l
+a
+
+d
+a
+h
+m
+r
+ﬁ
+a
+
+f
+I
+
+.
+
+2
+
+l
+e
+v
+e
+L
+r
+o
+
+1
+
+l
+e
+v
+e
+L
+r
+e
+h
+t
+i
+e
+
+d
+n
+a
+
+d
+e
+t
+a
+e
+n
+i
+l
+e
+d
+
+y
+l
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+e
+b
+
+d
+l
+u
+o
+c
+
+t
+c
+a
+p
+m
+
+i
+
+r
+i
+e
+h
+t
+
+t
+a
+h
+t
+
+o
+s
+
+t
+c
+n
+i
+t
+s
+i
+d
+
+s
+l
+e
+v
+e
+l
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+
+e
+h
+t
+
+p
+e
+e
+k
+
+o
+t
+
+e
+n
+o
+d
+
+s
+a
+w
+s
+i
+h
+T
+
+t
+a
+
+.
+1
+
+l
+e
+v
+e
+L
+
+s
+e
+m
+u
+s
+b
+u
+s
+
+2
+
+d
+e
+z
+i
+r
+o
+g
+e
+t
+a
+c
+
+e
+b
+
+d
+l
+u
+o
+c
+
+s
+e
+g
+a
+k
+n
+i
+l
+
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+
+.
+
+x
+i
+r
+t
+a
+m
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+:
+4
+
+e
+l
+b
+a
+T
+
+1
+l
+e
+v
+e
+L
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+2
+l
+e
+v
+e
+L
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+x
+E
+
+l
+a
+n
+r
+e
+t
+x
+E
+
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+e
+v
+i
+t
+i
+t
+e
+p
+m
+o
+C
+
+e
+l
+b
+a
+i
+r
+a
+V
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+I
+
+l
+a
+n
+r
+e
+t
+n
+I
+
+y
+c
+n
+e
+i
+c
+ﬁ
+f
+E
+s
+s
+e
+c
+o
+r
+P
+
+e
+g
+a
+r
+e
+v
+e
+L
+g
+n
+i
+c
+r
+u
+o
+S
+
+n
+o
+i
+t
+a
+i
+t
+i
+n
+I
+S
+O
+
+I
+
+h
+t
+d
+a
+e
+r
+B
+S
+O
+
+I
+
+.
+1
+0
+
+.
+
+<
+p
+
+∗
+∗
+
+;
+5
+0
+
+.
+
+<
+p
+
+∗
+
+t
+I
+a
+
+l
+e
+v
+e
+L
+
+h
+g
+u
+o
+h
+t
+
+n
+e
+v
+e
+
+,
+
+1
+
+.
+y
+l
+e
+t
+a
+r
+a
+p
+e
+s
+d
+e
+r
+u
+s
+a
+e
+m
+
+
+384
+
+Examining the Impact of Interorganizational Systems
+
+Table 5 provides the results for exploratory factor analysis with Varimax
+rotation for those variables that were measured by multi-item scales. Distinct fac-
+tors pertaining to competitive intensity, internal integration, process efﬁciency, and
+sourcing leverage were obtained with little evidence of cross-loading. One mea-
+surement item capturing sourcing leverage cross-loaded on internal integration
+(Table 5). Cross-loadings raise issues regarding discriminant validity. However,
+these constructs are conceptually distinct; one is an antecedent, while the other is a
+dependent variable. This minimizes the seriousness of the problem as compared to
+cross-loadings between items that constitute only independent variables. The re-
+sults show that the scales displayed acceptable levels of convergent validity (high
+items loading on the construct) and reliability.
+
+RESULTS
+
+Three models were speciﬁed in order to test the hypotheses. These models use
+regression analysis, clustering, and use of non-parametric tests. Models 1 and 2 are
+used to test H1–H5, while Model 3 tests H6 and H7.
+
+Proposed Research Models
+Model 1
+
+PE = β0 + β1 E I (L1) + β2 E I (L2) + +β3IOI + β4 I I + ε
+
+Model 2
+
+SL = β0 + β1 E I (L1) + β2 E I (L2) + β3 IOB + β4 IOI + ε
+
+where PE = Process Efﬁciency, SL = Sourcing Leverage, II = Internal Inte-
+gration, EI (L1) (L2) = External Integration, IOB = IOS Breadth, and IOI = IOS
+Initiation.
+
+Table 5: Factor analysis.
+
+Item
+
+Internal
+
+Integration
+
+Process
+Efﬁciency
+
+Sourcing
+Leverage
+
+Competitive
+
+Intensity
+
+II 1
+II 2
+PF 1
+PF 2
+PF 3
+SL 1
+SL 2
+SL 3
+CI 1
+CI 2
+CI 3
+Variance Explained
+Note: Total variance explained 83% and eigen value = 1.07.
+
+.08
+.27
+.87
+.90
+.85
+−.13
+.13
+.11
+.04
+.07
+.08
+29%
+
+.95
+.91
+.12
+.20
+.19
+.40
+.13
+.06
+−.07
+.11
+.50
+18%
+
+.04
+.18
+.19
+−.01
+.08
+.60
+.92
+.94
+.004
+.31
+.05
+20%
+
+.08
+−.07
+.15
+.23
+.13
+−.02
+.14
+.03
+.76
+.80
+.64
+16%
+
+
+Saeed, Malhotra, and Grover
+
+385
+
+Table 6: Cluster solution means.
+
+Competitive Intensity
+
+Product Characteristics
+
+4.88
+5.94
+.012
+
+6
+2
+
+.000
+
+Groups/Variables
+Group 1 (N = 17)
+Group 2 (N = 21)
+t-Test Sig. Level
+
+Model 3
+
+To test for differences in external integration and process efﬁciency between
+organizations facing varying conditions of competitive intensity and product char-
+acteristics, the sample was segmented into groups. Cluster analysis was used for
+identiﬁcation of group membership. The driving factor in using cluster analysis
+was to identify groups that would be as heterogeneous as possible in terms of
+competitive intensity and product characteristics. Once distinct groups were iden-
+tiﬁed, we could then test for differences between the groups on variables of interest
+(i.e., external integration and process efﬁciency). First, hierarchical cluster analysis
+was used to identify the number of groups. The solution based on Ward’s method
+(Sharma, 1996) suggested a two-group solution to be appropriate (Table 6). The
+results were compared to the group assignments obtained through non-hierarchical
+clustering. The comparison between the group assignments suggested by the two
+procedures revealed a 93% agreement on group membership. Due to small sam-
+ple size within each group, we used the Mann Whitney test (Conover, 1999) (a
+non-parametric test) to test for differences. Conover (1999) argues that the asymp-
+totic relative efﬁciency of the Mann Whitney test is never bad as compared to the
+two-sample t test. Thus, the Mann-Whitney test is more reliable.
+
+Model Results
+Model 1 focuses on evaluating the impact of IOS facets on process efﬁciency.
+Table 7 provides the results for Model 1. The results show support for the positive
+inﬂuence of External Integration Level 2 (p = .008) and IOS initiation (p < .005)
+
+Table 7: Results for Model 1 (process efﬁciency).
+
+Variable
+
+Internal Integration
+
+External Integration Level 1
+
+External Integration Level 2
+
+IOS Ownership
+
+R2
+Change in R2
+F Value
+∗
+
+∗∗
+
+p < .05;
+
+p <.01.
+
+Stage 1
+
+.205
+(.112)
+
+(.042)
+
+Stage 2
+−.012
+(.439)
+.107
+(.292)
+∗∗
+.477
+(.008)
+∗∗
+.508
+(.005)
+(.365)
+.323
+∗∗
+5.248
+
+
+386
+
+Examining the Impact of Interorganizational Systems
+
+Table 8: Results for Model 2 (sourcing leverage).
+
+Variable
+
+External Integration Level 1
+
+External Integration Level 2
+
+IOS Breadth
+
+IOS Ownership
+
+R2
+Change in R2
+F Value
+∗
+
+∗∗
+
+p < .05;
+
+p <.01.
+
+Stage 1
+−.070
+(.36)
+−.111
+(.29)
+
+(.007)
+
+Stage 2
+−.12
+(.26)
+−.19
+(.13)
+∗∗
+.50
+(.001)
+∗
+.34
+(.017)
+(.387)
+.380
+∗∗
+6.742
+
+on process efﬁciency, thus supporting H2 and partially supporting H1 after ac-
+counting for the variance explained by internal integration. Model 2 investigates
+the impact of IOS characteristics on sourcing leverage (Table 8). The results show
+signiﬁcant relationship between IOS breadth and sourcing leverage (p < .001), and
+IOS initiation and sourcing leverage (p = .017), thus supporting H4 and H5. The
+relationship between external integration and sourcing leverage, although negative,
+is not signiﬁcant. Thus, H3 was not supported. Overall, the results point toward
+differential impact of IOS facets on performance. In addition, if the ﬁrm initiated
+the electronic links, it is able not only to enhance process efﬁciency but also to
+increase sourcing leverage. The results of the regression analysis show that R2 for
+the two models is .365 and .387, respectively, which falls in the medium-size effect.
+The observed power for the overall regression analysis is computed at .90 and .91,
+above the recommended guideline of .80 (Cohen, 1988).
+
+Model 3 examines differences in external integration and process efﬁciency
+between groups facing different levels of competitive intensity and producing
+products with different characteristics (Table 9). Group 1 contains ﬁrms operating
+
+Table 9: Results for Model 3 (competitive intensity and product characteristics)
+(the Mann-Whitney test).
+
+Groups/
+Variables
+
+Standard Products/High
+Competitive Intensity
+(N = 17)
+Customized
+
+Products/Low
+Competitive Intensity
+(N = 21)
+Mann-Whitney Test ∼ Z
+(p value)
+
+External
+Integration
+
+Level 1
+
+External
+Integration
+
+Level 2
+
+19.24
+
+19.71
+
+−.134
+
+(.908)
+
+25.09
+
+14.98
+
+−2.805
+
+(.005)
+
+Process
+Efﬁciency
+
+25.59
+
+15.57
+
+−2.340
+
+(.009)
+
+
+Saeed, Malhotra, and Grover
+
+387
+
+in high competitive intensity environments and producing standardized products.
+Group 2 includes companies operating in low competitive intensity conditions and
+producing customized products. The results for external integration use show that
+Group 1 had signiﬁcantly higher External Integration Level 2 and process efﬁ-
+ciency than Group 2. However, the difference in External Integration Level 1 was
+not signiﬁcant.
+
+DISCUSSION
+
+IOS are becoming a dominant technology that impacts the management and execu-
+tion of boundary-spanning activities that ﬁrms undertake to manage relationships
+with suppliers. Our study proposes that the various facets of IOS need to be taken
+into consideration when exploring these impacts. The study found that the level
+of external integration is an important determinant of process efﬁciency. However,
+it is evident from the analysis that a ﬁrm needs more than a traditional ordering
+system or a procurement system to enhance efﬁciency. An integrated IOS that not
+only automates the ordering process but also enables the ﬁrms to undertake joint
+planning and forecasting is pivotal for gaining efﬁciency beneﬁts.
+
+This logic is also supported by research in the supply chain area, in which
+researchers have consistently found that extensive sharing of information enhances
+performance (Cachon & Fisher, 2000; Krajewski & Wei, 2000). Cachon and Fisher
+(2000) argue that within a supply chain context, open information exchange pol-
+icy can allow organizations to reduce batch sizes and also reduce lead times for
+material ﬂows. Increasing the information exchange between buyers and suppliers
+on multiple levels such as planning, ordering, and inventories can result in signif-
+icant process improvements. Thus, external integration at a higher level can sup-
+port better management of collaborative relationships and enable ﬁrms to achieve
+higher efﬁciency. However, external integration was not related to sourcing lever-
+age, whereas a negative relationship was predicted. A plausible reason for such a
+ﬁnding could be due to two countervailing forces at work. On one hand, integration
+as argued earlier may increase switching costs, thereby reducing sourcing lever-
+age for the buyer. On the other hand, powerful buyers who drive integration may
+increase information visibility and compel suppliers to change their processes and
+information-sharing routines. This could in turn increase sourcing leverage for the
+buyer. The positive correlation between process efﬁciency and sourcing leverage
+(Table 4) may indicate support for this perspective. While our data do not have the
+granularity to separate these effects, the dyadic power structure could affect this
+relationship.
+
+Results show a positive association between IOS breadth and sourcing lever-
+age. Establishing links with a large number of potential suppliers allows a ﬁrm to
+gather market intelligence and explore alternative sources of supply (Bakos, 1991;
+Choudhury et al., 1998). The predominant impact of this facet of IOS, therefore, is
+on search-related activities that enable a ﬁrm to expand the alternatives that are con-
+sidered and enhance sourcing leverage. These results support the brokerage effect
+of IOS. The signiﬁcant results for IOS initiation are in line with previous studies.
+As an initiator of the IOS, the ﬁrm has control over the design of the system. Hwang
+et al. (1993) found that initiators carefully planned the IOS and, therefore, were
+
+
+388
+
+Examining the Impact of Interorganizational Systems
+
+able to achieve greater beneﬁts. Thus, structuring of the system by implementing
+functionalities may enable ﬁrms to enhance both process efﬁciencies and sourcing
+leverage over the suppliers.
+
+Due to increases in outsourcing activity in recent years, ﬁrms are relatively
+more dependent on their suppliers. Performance in terms of cost, quality, and
+customer responsiveness to some extent depends on the supplier base of a ﬁrm.
+Within this context, results for the joint role of competitive intensity and product
+standardization on IOS use (to support supply chain management activities) por-
+tray an interesting picture. As shown in Table 9, we found that Group 1 (standard
+product/high competitive intensity) gained signiﬁcantly higher process efﬁciencies
+and also depicted higher levels of external integration as compared to Group 2 (cus-
+tomized products/low competitive intensity). Firms operating in highly competitive
+environments and producing standardized products need to consistently focus on
+process improvements to reduce costs and stay competitive. A plausible approach
+in such conditions is to closely integrate activities with the supplier base (Zhu
+& Kraemer, 2002). This constitutes an effective interorganizational structural re-
+sponse to reducing slack in the supply chain.
+
+Firms in Group 1 have more to gain from sharing planning, scheduling, and
+inventory information with the suppliers. For example, the link between Wal-Mart
+and Warner-Lambert for a product such as Listerine provides an illustration in this
+regard (Bresnahan, 1998; Manugistics Inc., 2003). Both companies extensively
+use information technology in managing this relationship and thereby gain process
+efﬁciencies.
+
+The case of DDM plastics, a company producing bumpers and instrumental
+panels for automotives, provides further insights into the results. The company was
+founded in 1989 in Ontario, Canada and employs 600 employees (Agilisys Inc.,
+2000). DDM produces relatively standardized products and operates in a highly
+competitive environment. These conditions pose consistent pressure on margins.
+On the other hand, producing standard products means that plans and forecasts
+are relatively accurate. Thus, DDM provides a good case in which a supply chain
+optimization approach can lead to process efﬁciencies.
+
+DDM identiﬁed that it had to keep a high level of safety stock due to lack
+of information sharing with the suppliers. In addition, data accuracy was severely
+compromised due to manual exchange of documents and reentry of data. This
+also led to lack of trust on information residing in the internal system and redun-
+dant coordination through exchange of faxes between DDM and its suppliers. The
+company realized that efﬁciency gains could be achieved by using IOS to support
+collaborative practices with the suppliers. In 1999, the company introduced a sys-
+tem called SupplyWEB. It was an Internet-based system that was managed by the
+company and totally integrated with its enterprise resource planning (ERP) sys-
+tem. The suppliers could access the SupplyWEB through a standard Web browser.
+The system enabled the suppliers to access planning information, purchasing infor-
+mation, material releases, in-transit information, cumulative receipt information,
+defective part notices, purchase part approval status, Kanban pull signal, and ship-
+ment history. The system also enabled the suppliers to send corrective action plans,
+shipment information, and advanced shipment notices. Integration between Sup-
+plyWEB and DDM’s ERP system allowed automatic data exchange between the
+
+
+Saeed, Malhotra, and Grover
+
+389
+
+two systems. The reduction in data entry errors and automation of the purchasing
+processes allowed DDM to signiﬁcantly reduce transactions costs. The high level
+of information sharing allowed DDM to lower its inventory levels and also reduce
+uncertainty in lead times. For example, advanced shipment notices (ASN) sent by
+the suppliers alerted DDM regarding which order would arrive at what time. Once
+the order arrived, bar codes were scanned and that information was automatically
+matched with the ASN. Thus, SupplyWEB enabled DDM to optimize supply chain
+processes through supporting collaborative practices with its suppliers. DDM has
+plans to add additional functionalities that would allow the company to share other
+critical information with its suppliers.
+
+CONTRIBUTIONS TO PRACTICE AND RESEARCH
+
+Our study shows that higher levels of external integration and IOS initiation sig-
+niﬁcantly contribute toward enhancing process efﬁciencies, while IOS breadth and
+IOS initiation allow ﬁrms to gain sourcing leverage over their suppliers. Firms can
+squeeze out slack from the dyadic linkage by increasing the intensity of interaction
+and bidirectional information ﬂows through external integration. Higher levels of
+IOS breadth may enable ﬁrms to gather market intelligence and compare different
+options and thus gain sourcing leverage. We also provide evidence that ﬁrms pro-
+ducing standardized products and facing a highly competitive environment can gain
+process efﬁciency by using IOS with higher levels of external integration, while
+merely linking at a lower level through simple procurement systems will not sufﬁce
+in meeting the stated objective. Cumulatively, the results support our hypotheses
+that various facets of IOS allow ﬁrms to achieve different performance objectives
+related to buyer–supplier relationships. Managers need to carefully consider the
+underlying objectives they intend to achieve by employing various facets of IOS
+to support relationships with their suppliers.
+
+It has been argued that using IOS to institute multiple trading mechanisms
+may allow organizations to quickly tailor systems to their transactional needs
+(Kambil et al., 1999). This is a complex issue. Firms may be able to increase
+sourcing leverage by electronically linking with potential suppliers to gain market
+intelligence. However, process improvements can be achieved only if sufﬁcient
+depth in electronic links is established through integrated systems that support ex-
+tensive information ﬂows. Recommendations offered here can assist managers in
+recognizing the various facets of IOS and making appropriate decisions regarding
+the adoption and use of IOS that offer different functionalities.
+
+While the results of our study point toward the heterogeneity in IOS use,
+generalization of these ﬁndings outside the industries represented in the sample
+frame should be done cautiously. Researchers investigating adoption and impact of
+IOS also need to broaden their conceptualization of IOS to include a much broader
+repertoire of the latest Web-based procurement systems and supplier relationship
+management systems. This will not only enrich our understanding of various facets
+of IOS, but also will lead to more speciﬁc insights and prescriptive implications.
+For example, the study by Hart and Saunders (1998) investigated two facets of
+EDI use, and found that different factors affect each facet. Similarly, researchers
+endeavoring to explore adoption and impact of Web-based procurement systems
+
+
+390
+
+Examining the Impact of Interorganizational Systems
+
+need to give due consideration to the functionalities of such systems. In addition,
+future studies can build on this work by exploring the differences between IOS use
+and their impacts based on Fine’s (1998) notion of environmental dynamism called
+clockspeed and Fisher’s (1997) categorization of functional versus innovative prod-
+ucts. Another interesting issue that can be addressed is to simultaneously explore
+the performance impact of information systems and organizational based mecha-
+nisms, and determine whether one substitutes for or synergistically reinforces the
+other. [Received: August 2003. Accepted: March 2005.]
+
+REFERENCES
+
+Ahmad, S., & Schroeder, R. G. (2001). The impact of electronic data interchange
+on delivery performance. Production and Operations Management, 10(1),
+16–30.
+
+Agilisys Inc. (2000). Internet based automotive supply chain management, accessed
+
+April 15, 2003, available at www.brainna.com/supplywebcs.asp.
+
+Bakos, Y. J. (1991). A strategic analysis of electronic marketplaces. MIS Quarterly,
+
+15(3), 107–119.
+
+Bakos, Y. J., & Brynjolfsson, E. (1993). From vendors to partners: The role of
+information technology and incomplete contracts in buyer-supplier relation-
+ships. Journal of Organizational Computing and Electronic Commerce, 3(3),
+301–328.
+
+Bakos, Y. J., & Treacy, M. E. (1986). Information technology and corporate strat-
+
+egy: A research perspective. MIS Quarterly, 10(2), 107–119.
+
+Bensaou, M. (1999). Portfolio of buyer-supplier relationships. Sloan Management
+
+Review, 40(4), 35–44.
+
+Boulding, W., & Staelin, R. (1990). Environment, market share and market power.
+
+Management Science, 36(10), 1160–1177.
+
+Boyette, D., Courtney, J. F., Elgarah, W., Falaleeva, A. G., Ilie, V., Saunders, C. S., &
+Shim, J. T. (2002). Viewing EDI enabled inter-organizational relationships
+through multiple conceptual lenses. Americas Conference on Information
+Systems, Dallas, Texas.
+
+Bresnahan, J. (1998). Supply chain anatomy: The incredible journey. CIO Maga-
+zine, August 15, accessed April 20, 2003, available at http://www.cio.com/
+archive/enterprise/081598 jour.html.
+
+Cachon, G. P., & Fisher, M. (2000). Supply chain inventory management and the
+
+value of shared information. Management Science, 46(8), 1032–1048.
+
+Carr, A. S., & Pearson, J. N. (1999). Strategically managed buyer-supplier rela-
+tionships and performance outcomes. Journal of Operations Management,
+17(5), 497–519.
+
+Cash, J. I., & Konsynski, B. R. (1985). IS redraws competitive boundaries. Harvard
+
+Business Review, 63(2), 134–142.
+
+
+Saeed, Malhotra, and Grover
+
+391
+
+Chatﬁeld, A. T., & Yetton, P. (2000). Strategic payoffs from EDI as a function
+of EDI embeddedness. Journal of Management Information Systems, 16(4),
+195–224.
+
+Choudhury, V. (1997). Strategic choices in development of inter-organizational
+
+information systems. Information Systems Research, 8(1), 1–24.
+
+Choudhury, V., Hartzel, K., & Konsynski, B. (1998). Uses and consequences of
+electronic markets: An empirical investigation in the aircraft parts industry.
+MIS Quarterly, 22(4), 471–507.
+
+Chwelos, P., Benbasat, I., & Dexter, A. S. (2001). Research report: Empirical test
+of an EDI adoption model. Information Systems Research, 12(3), 305–321.
+Clemons, E. K., Reddi, S. P., & Row, M. C. (1993). The impact of information
+technology on the organization activity: The move to the middle hypothesis.
+Journal of Management Information Systems, 10(2), 9–35.
+
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed).
+
+Hillsdale, NJ: Erlbaum.
+
+Conner, K., & Prahalad, C. K. (1996). A resource-based theory of the ﬁrm: Knowl-
+
+edge versus opportunism. Organization Science, 7(5), 477–501.
+
+Conover, W. J. (1999). Practical non-parametric statistics (3rd ed.). New York:
+
+Wiley.
+
+Crook, C. W., & Kumar, R. M. (1998). Electronic data interchange: A multi-
+industry investigation using ground theory. Information and Management,
+34(2), 75–89.
+
+Dai, Q., & Kauffman, R. J. (2002). Business models for Internet based B2B elec-
+tronic markets. International Journal of Electronic Commerce, 6(4), 41–72.
+Duncan, N. B. (1995). Capturing the ﬂexibility of information technology infras-
+tructure: A study of resource characteristics and their measure. Journal of
+Management Information Systems, 12(2), 37–57.
+
+Dun & Bradstreet Inc. (2002). Harris U.S. manufacturers directory, Twinsburg,
+
+OH: Harris InfoSource.
+
+Edwards, P., Peters, M., & Sharman, G. (2001). The effectiveness of informa-
+tion systems in supporting the extended supply chain. Journal of Business
+Logistics, 22(1), 1–28.
+
+Fine, C. H. (1998). Clockspeed: Winning industry control in the age of temporary
+
+advantage. New York: Harper Collins.
+
+Fisher, M. L. (1997). What is the right supply chain for your product? Harvard
+
+Business Review, 75(2), 105–117.
+
+Frohlich, M. T., & Westbrook, R. (2001). Arcs of integration: An international
+study of supply chain strategies. Journal of Operations Management, 19(5),
+185–200.
+
+Frohlich, M. T., & Westbrook, R. (2002). Demand chain management in manufac-
+turing and services: Web-based integration, drivers and performance. Journal
+of Operations Management, 20(6), 729–745.
+
+
+392
+
+Examining the Impact of Interorganizational Systems
+
+Grover, V. (1993). An empirically derived model for customer based inter-
+
+organizational systems. Decision Sciences, 24(4), 603–641.
+
+Hart, P., & Saunders, C. (1998). Emerging electronic partnerships: Antecedents and
+dimensions of EDI use from supplier’s perspective. Journal of Management
+Information Systems, 14(4), 87–111.
+
+Hennart, F. J. (1993). Explaining the swollen middle: Why most transactions
+are a mix of market and hierarchy. Organization Science, 4(4), 529–
+547.
+
+Heriot, K. C., & Kulkarni, S. P. (2001). The use of intermediate sourcing strategies.
+
+Journal of Supply Chain Management, 37(1), 18–26.
+
+Hess, C., & Kemerer, C. F. (1994). Computerized loan origination systems: An
+industry case study of electronic markets hypothesis. MIS Quarterly, 18(3),
+251–272.
+
+Heide, J. (1994). Inter-organizational governance in marketing channels. Journal
+
+of Marketing, 58(1), 71–85.
+
+Hill, C. A., & Scudder, G. D. (2002). The use of electronic data interchange for
+supply chain coordination in the food industry. Journal of Operations Man-
+agement, 20(4), 375–387.
+
+Holland, C. P., & Lockett, G. (1997). Mixed mode governance structures: The
+strategic use of electronic communications by organizations. Organization
+Science, 8(5), 475–488.
+
+Hwang, K. T., Pegel, C. C., Rao, R., & Sethi, V. (1993). Electronic data
+interchange—state of the art. Journal of Systems Management, 44(12), 12–
+15.
+
+Jelassi, T., & Figon, O. (1994). Competing through EDI at Brun Passot: Achieve-
+ments in France and ambitions for the single European market. MIS Quarterly,
+18(4), 337–352.
+
+Johnston, H. R., & Vitale, M. R. (1988). Creating competitive advantage
+with inter-organizational information systems. MIS Quarterly, 12(2), 153–
+165.
+
+Kambil, A., Nunes, P. F., & Wilson, D. (1999). Transforming the marketspace with
+all-in-one markets. International Journal of Electronic Commerce, 3(4), 11–
+28.
+
+Kambil, A., & Short, J. E. (1994). Electronic integration and business network
+redesign: A roles-linkage perspective. Journal of Management Information
+Systems, 10(4), 59–84.
+
+Krajewski, L. J., & Wei, J. C. (2000). The value of scheduling integration in supply
+
+chains. Decision Sciences, 32(4), 601–634.
+
+Kraljic, P. (1983). Purchasing must become supply management. Harvard Business
+
+Review, 61(5), 109–117.
+
+Kumar, K. (2001). Technology for supporting supply chain management. Commu-
+
+nication of the ACM, 44(6), 57–61.
+
+
+Saeed, Malhotra, and Grover
+
+393
+
+Lambert, D. M., Emmelhainz, M. A., & Gardner, J. T. (1996). Developing and
+implementing supply chain partnerships. International Journal of Logistics
+Management, 7(2), 1–17.
+
+Landeros, R., & Monczka, R. M. (1989). Cooperative buyer/seller relationships
+and a ﬁrm’s competitive posture. Journal of Purchasing and Materials Man-
+agement, 25(3), 9–18.
+
+Magretta, J. (1998). The power of virtual integration: An interview with Dell Com-
+
+puter’s Michael Dell. Harvard Business Review, 76(2), 73–84.
+
+Mahmood, M. A., & Soon, S. K. (1991). A comprehensive model for measuring
+the potential impact of IT on organizational strategic variables. Decision
+Sciences, 22(4), 869–897.
+
+Malone, T. W., Yates, J., & Benjamin, R. I. (1987). Electronic markets and electronic
+
+hierarchies. Communications of the ACM, 30(6), 484–497.
+
+Manugistics Inc.
+
+(2003). Fulﬁlling the promise of CPFR in CPG and
+Retail, accessed April 15, 2003, available at www.manugistics.com/
+documents/collateral/wp˙cpfr.pdf.
+
+Massetti, B., & Zmud, B. (1996). Measuring the extent of EDI usage in complex
+organizations: Strategies and illustrative examples. MIS Quarterly, 20(3),
+331–345.
+
+Mendelson, H., & Pillai, R. R. (1998). Clockspeed and informational response:
+Evidence from the information technology industry. Information Systems
+Research, 9(4), 415–433.
+
+Mohr, J., & Spekman, R. (1994). Characteristics of partnership success: Partner-
+ship attributes, communication behavior and conﬂict resolution techniques.
+Strategic Management Journal, 15(2), 135–152.
+
+Monczka, R. M., Peterson, K. J., Handﬁeld, R. B., & Ragatz, G. L. (1998). Suc-
+cess factors in strategic supplier alliances: The buying company perspective.
+Decision Sciences, 29(3), 533–577.
+
+Monczka, R. M., Trent, R. J., & Callahan, T. J. (1994). Supply base strategies to
+maximize supplier performance. International Journal of Physical Distribu-
+tion and Logistics, 23(4), 42–54.
+
+Moshowitz, A. (1997). Virtual organization. Communication of the ACM, 40(9),
+
+30–37.
+
+Mukhopadhyay, T., Kekre, S., & Kalathur, S. (1995). Business value of information
+technology: A study of electronic data interchange. MIS Quarterly, 19(2),
+137–156.
+
+Mukhopadhyay, T., & Kekre, S. (2002). Strategic and operational beneﬁts of
+electronic integration in B2B procurement processes. Management Science,
+48(10), 1301–1313.
+
+Narasimhan, R., & Das, A. (1999). An empirical investigation of the contribution of
+strategic sourcing to manufacturing ﬂexibilities and performance. Decision
+Sciences, 30(3), 683–718.
+
+
+394
+
+Examining the Impact of Interorganizational Systems
+
+Neter, J., Kutner, M. H., Nachtsheim, C. J., & Wasserman, W. (1990). Applied
+
+linear statistical models (4th ed.). Homewood, IL: Richard D. Irwin.
+
+Newman, S. W. (1962). Differences between early and late respondents to a survey.
+
+Journal of Advertising Research, 2(2), 37–39.
+
+Orlicky, J., & Plossl, G. W. (1994). Orlicky’s materials requirements planning.
+
+New York: McGraw-Hill.
+
+Premkumar, G. P. (2000). Inter-organizational systems and supply chain manage-
+ment: An information processing perspective. Information Systems Manage-
+ment, 17(3), 57–69.
+
+Premkumar, G., Ramamurthy, K., & Sree, N. (1994). Implementation of electronic
+data interchange: An innovation diffusion perspective. Journal of Manage-
+ment Information Systems, 11(2), 157.
+
+Ramadas, K., & Spekman, R. E. (2000). Chain or shackles: Understanding what
+
+drives supply chain performance. Interfaces, 30(4), 3–21.
+
+Ramsay, J. (1996). The case against purchasing partnerships. International Journal
+
+of Purchasing and Materials Management, 32(4), 13–19.
+
+Riggins, F. J., & Mukhopadhyay, T. (1994). Interdependent beneﬁts from inter-
+organizational systems: Opportunities for business process reengineering.
+Journal of Management Information Systems, 11(2), 37–57.
+
+Riggins, F. J., & Mukhopadhyay, T. (1999). Overcoming EDI adoption and imple-
+mentation risks. International Journal of Electronic Commerce, 3(4), 103–
+123.
+
+Saﬁzadeh, M. H., Ritzman, L. P., & Mallick, D. (2000). Revisiting alternative
+theoretical paradigms in manufacturing strategy. Production and Operations
+Management, 9(2), 111–127.
+
+Sharma, S., (1996). Applied multivariate techniques. New York: Wiley.
+Shah, R., Meyer, G. S., & Ward, P. T. (2002). Aligning supply chain manage-
+ment characteristics and interorganizational information system types: An
+exploratory study. IEEE Transactions on Engineering Management, 49(3),
+282–293.
+
+Srinivasan, K., Kekre, K., & Mukhopadhyay, T. (1994). Impact of electronic data in-
+terchange technology on JIT shipments. Management Science, 40(10), 1291–
+1304.
+
+Standard and Poor’s Corporation. (1999). Standard corporation descriptions, New
+
+York: Author.
+
+Subramaniam, C., & Shaw, M. J. (2002). A study of value and impact of B2B
+E-commerce: The case of web based procurement. International Journal of
+Electronic Commerce, 6(4), 19–40.
+
+Tan, K. C. (2001). A framework of supply chain management literature. European
+
+Journal of Purchasing and Supply Management, 9(1), 39–48.
+
+Truman, G. E. (2000). Integration in electronic environments. Journal of Manage-
+
+ment Information Systems, 17(1), 209–244.
+
+
+Saeed, Malhotra, and Grover
+
+395
+
+Webster, J. (1995). Networks of collaboration or conﬂict? Electronic data inter-
+change and power in the supply chain. Journal of Strategic Information Sys-
+tems, 4(1), 31–42.
+
+Weill, T., & Broadbent, M. P. (1999). Managing IT infrastructure: A strategic
+choice. In R. Zmud (Ed.), Framing the domains of IT management: Projecting
+the future, through the past. Cincinnati, OH: Pinnaﬂex Education Resources,
+329–353.
+
+Zaheer, A., & Venkatraman, N. (1994). Determinants of electronic integration in
+the insurance industry: An empirical test. Management Science, 40(5), 549–
+567.
+
+Zhu, K., & Kraemer, K. (2002). E-Commerce metrics for net-enhanced organiza-
+tions: Assessing the value of e-commerce to ﬁrm performance in the manu-
+facturing sector. Information Systems Research, 13(3), 275–295.
+
+Khawaja A. Saeed is an assistant professor of information systems at the W.
+Frank Barton School of Business, Wichita State University. He holds an MBA
+from Asian Institute of Technology in Thailand and a PhD in information systems
+from University of South Carolina. Dr. Saeed has worked on various projects in
+companies operating in Thailand, Pakistan, Denmark, and the United States. His
+research focuses on electronic commerce, interorganizational systems, and supply
+chain management. His work on these topics has been published or is forthcoming in
+journals such as Journal of Management Information Systems, Communications of
+the ACM, International Journal of Electronic Commerce, Journal of Organizational
+and End User Computing, Information Systems Journal, and Electronic Markets.
+
+Manoj K. Malhotra is a Jeff B. Bates Distinguished Professor and Chairman of
+the Management Science Department at the Moore School of Business, University
+of South Carolina. He holds a PhD in operations management from The Ohio State
+University, and CFPIM from APICS. His research has thematically focused on
+the deployment of ﬂexible resources in organizations, and has been published in
+journals such as Decision Sciences, European Journal of Operational Research, IIE
+Transactions, International Journal of Production Research, Journal of Operations
+Management, OMEGA, and Production and Operations Management Journal. Dr.
+Malhotra received the Decision Sciences Institute’s Best Application Paper Award
+in 1990, the Stan Hardy Award in 2002 for the best article published in the ﬁeld
+of operations management, and several teaching awards at USC. He serves as an
+associate editor for Decision Sciences and JOM, and is a past area editor of the
+POMS Journal.
+
+Varun Grover is the William S. Lee Distinguished Professor of information sys-
+tems at the College of Business & Behavioral Sciences, Clemson University. Pre-
+viously Grover was a Business Partnership Foundation Fellow and professor of
+information systems at University of South Carolina. Dr. Grover has published ex-
+tensively in the ﬁeld of information systems, with over 150 publications in refereed
+journals. Four recent articles have ranked him among the top ﬁve researchers based
+
+
+396
+
+Examining the Impact of Interorganizational Systems
+
+on publications in major IS journals over the past decade. His work on the man-
+agement and impact of IT on organizations and markets has appeared in journals
+such as Information Systems Research, MIS Quarterly, Journal of MIS, Communi-
+cations of the ACM, IEEE Transactions, and California Management Review. He
+is currently an associate editor for a number of journals, including MISQ, JMIS,
+JOM, Database, and IJEC and on the board of editors of ﬁve others.
+
+

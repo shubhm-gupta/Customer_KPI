@@ -1,0 +1,2052 @@
+ 
+ 
+The Market Valuation of Environmental Capital Expenditures by Pulp and Paper Companies
+Author(s): Peter M. Clarkson, Yue Li and  Gordon D. Richardson
+Source: The Accounting Review, Vol. 79, No. 2 (Apr., 2004), pp. 329-353
+Published by: American Accounting Association
+Stable URL: http://www.jstor.org/stable/3203247
+Accessed: 02-08-2017 16:29 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+American Accounting Association is collaborating with JSTOR to digitize, preserve and
+extend access to The Accounting Review
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ THE ACCOUNTING REVIEW
+ Vol. 79, No. 2
+ 2004
+ pp. 329-353
+
+ The Market Valuation of Environmental
+
+ Capital Expenditures by Pulp and
+
+ Paper Companies
+
+ Peter M. Clarkson
+
+ The University of Queensland
+
+ Simon Fraser University
+
+ Yue Li
+
+ Gordon D. Richardson
+
+ University of Toronto
+
+ ABSTRACT: The objective of this study is to examine the market valuation of environ-
+ mental capital expenditure investment related to pollution abatement in the pulp and
+ paper industry. The total environmental capital expenditure of $8.7 billion by our sample
+ firms during 1989-2000 supports the focus on this industry. In order to be capitalized,
+ an asset should be associated with future economic benefits. The existing environ-
+ mental literature suggests that investors condition their evaluation of the future eco-
+ nomic benefits arising from environmental capital expenditure on an assessment of the
+ firms' environmental performance. This literature predicts the emergence of two envi-
+ ronmental stereotypes: low-polluting firms that overcomply with existing environmental
+ regulations, and high-polluting firms that just meet minimal environmental requirements.
+ Our valuation evidence indicates that there are incremental economic benefits asso-
+ ciated with environmental capital expenditure investment by low-polluting firms but not
+ high-polluting firms. We also find that investors use environmental performance infor-
+ mation to assess unbooked environmental liabilities, which we interpret to represent
+ the future abatement spending obligations of high-polluting firms in the pulp and paper
+ industry. We estimate average unbooked liabilities of $560 million for high-polluting
+ firms, or 16.6 percent of market capitalization.
+
+ We acknowledge the financial support of the CICA Research Fund of the Canadian Academic Accounting Asso-
+ ciation and support from the Institute of Chartered Accountants of British Columbia for this research project. We
+ thank workshop participants at the University of Auckland, Concordia University, New York University, Queen's
+ University, The University of Queensland, The University of British Columbia, Sydney University of Technology,
+ The University of Tasmania, University of Toronto, Victoria University of Wellington, and University of Waterloo.
+ The authors acknowledge the helpful comments of two anonymous reviewers, Linda S. Bamber, Mary E. Barth,
+ Joy Begley, Ben Choi, Carla Caraghan, Len Eckel, Jerry Feltham, Paul Halpern, Ken Klassen, Russell Lundholm,
+ Terry O'Keefe, Josh Ronen, Dan Thorton, Mike Welker, and especially Jim Ohlson. We also thank participants in
+ 1999 CAAA Conference where this paper was presented and Jane Craighead (the discussant). Finally, we thank,
+ Sandy Hilton, Flora Niu, Cam Scholey, and Florin Vasvari for their input.
+ Editor's note: This paper was accepted by Terry Shevlin, Senior Editor.
+
+ Submitted September 2000
+
+ Accepted July 2003
+
+ 329
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 330
+
+ Clarkson, Li, and Richardson
+
+ Keywords: environmental capital expenditures; market valuation; environmental ac-
+
+ counting; environmental risk management.
+
+ Data Availability: The data used in this study are publicly available from the sources
+
+ indicated.
+
+ I. INTRODUCTION
+
+ C ompliance with stringent environmental regulations can significantly increase pro-
+ duction costs in polluting industries such as pulp and paper, chemical, steel, and
+ utilities (Joshi et. al. 2001). The magnitude of the costs to comply with environ-
+
+ mental regulations is such that securities regulators and accounting academics are calling
+ for increased accounting disclosure and standardized measurement of corporate environ-
+ mental activities (Barth et. al. 1997; Beets and Souther 1999).
+
+ The capitalization of environmental capital expenditure investments (hereafter ECE)
+ related to pollution abatement is controversial. Existing accounting standards (FASB 1989,
+ 1990) require capitalizing such expenditures due to the long-lived nature of pollution abate-
+ ment facilities. However, some critics question the capitalization of abatement outlays, since
+ such expenditures result in no incremental increase in future economic benefits (CICA
+ 1993). Consider, for example, the classic issue of asbestos removal costs. Critics would
+ argue that such outlays should be expensed as repairs rather than capitalized as betterments.
+ Supporters of existing accounting standards argue that abatement costs represent additional
+ costs of previously anticipated benefits from the related capital asset and invoke the concept
+ of matching to support capitalization. This controversy remains unresolved in the fixed
+ assets literature. In contrast, there is a clear consensus that site remediation costs should
+ be expensed since there are no incremental future economic benefits.
+
+ We look to the environmental economics literature for guidance on whether future
+
+ incremental economic benefits exist when firms incur abatement outlays. Traditional eco-
+ nomic theory suggests that firms should meet only the minimal environmental standards
+ prescribed by law a wi nd will be reluctant to spend more than necessary (McCain 1978).
+ However, the recent environmental economics literature offers several explanations as to
+ why firms may choose to overcomply with existing environmental regulations. Potential
+ incremental benefits associated with overcompliance include the creation of "green good-
+ will" (Arora and Gangopadhyay 1995), incentives to innovate (Porter and van der Linde
+ 1995) and raising rivals' costs (Salop and Scheffman 1983, 1987). Low-polluting firms
+ enjoy the above benefits whereas the minimum compliance abatement expenditures of high-
+ polluting firms represent the costs of environmental externalities now imposed on firms'
+ shareholders. In effect, high-polluting firms incur pollution abatement outlays with no in-
+ cremental return.
+
+ We examine the market valuation of environmental capital expenditures conditional on
+ the firm's environmental performance. Based on the claimed benefits for overcompliance,
+ we hypothesize that the market positively values ECE investments for low-polluting firms;
+ the market assigns a value of zero to the ECE investments of high-polluting firms; and
+ finally, the market assesses the existence of unbooked environmental liabilities (future abate-
+ ment spending obligations) for high-polluting firms. Our results are consistent with our
+ predictions.
+
+ We explore the above research questions for a single industry, pulp and paper, because
+ a single industry setting offers a number of advantages. First, the pulp and paper industry
+ in the U.S. is well known for its water and air pollution (see Magat and Viscusi 1990) and
+ has faced ever more stringent emission standards since the 1970s. Second, environmental
+ performance measures such as toxic release emissions are better specified and measurable
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 331
+
+ within a single industry, because the various types of emissions are more homogenous.'
+ Finally, our empirical valuation model places restrictions on coefficient estimates that are
+ more likely to be satisfied when pooling across firms in a single industry.
+
+ Our findings have implications for a number of important constituents. In order to be
+ capitalized, an asset should be associated with future economic benefits. Thus, our study
+ provides information on the representational faithfulness of an accounting amount, ECE
+ (Barth et al. 2001). Our valuation evidence suggests that there are incremental economic
+ benefits associated with the ECE investments of low-, but not high-polluting firms in the
+ pulp and paper industry. This finding is useful to the FASB if they reconsider the issue of
+ whether to capitalize ECE.2 Second, to management, investors, and to SEC enforcement
+ staff who assess MD&A disclosure compliance, our study provides evidence of unbooked
+ environmental liabilities for high-polluting firms and a methodology for ranking firms by
+ environmental performance. The magnitude of future capital spending obligations related
+ to proposed environmental legislation is a specific MD&A disclosure requirement. Third,
+ our evidence is of interest to providers of assurance of firm environmental reports. Our
+ methodology for reliably ranking pulp and paper firms in terms of environmental perform-
+ ance suggests that such performance measures are suitable for audit, thus deterring "green-
+ washing" in firm environmental reports (Beets and Souther 1999).3
+
+ The remainder of the paper is organized as follows. In the second section, we briefly
+ describe the pulp and paper industry regulatory setting, review the relevant literature and
+ develop our hypotheses. In the third section, we present the econometric model, followed
+ by a description of our data in the fourth section. Finally, we present our empirical results
+ in the fifth section, and our sixth section contains the summary and conclusion.
+
+ II. REGULATORY SETTING, LITERATURE REVIEW, AND
+
+ HYPOTHESIS DEVELOPMENT
+
+ Regulatory Setting
+
+ A prominent feature of environmental regulations in the pulp and paper industry is that
+
+ effluent guidelines are established within the variations of Best Available Technology
+ (BAT), defined typically as the average effluent quality calculated over the top 50 percent
+ of mills at any given point in time. Thus, firms with the best environmental performance
+ effectively set the environmental standards and thereby dictate the evolution of future en-
+ vironmental regulations, hence future ECE spending for the rest of the industry. This reg-
+ ulatory setting provides support for the existence of two types of firms in the pulp and
+ paper industry, low- and high-polluting firms. High-polluting firms have latent environmen-
+ tal liabilities as a result of future capital spending obligations to comply with ever more
+ stringent environmental regulations. Environmental regulations pertaining to the pulp and
+ paper industry have become increasingly stringent since the 1970s. According to an industry
+
+ There is increasing evidence that corporate environmental performance indicators may be industry-specific. The
+ results of Campbell et al. (1998) suggest that environmental risk exposure is captured by the number of Super-
+ fund sites in the chemical industry, but not in the pulp and paper industry. Cormier and Magnan (1997) find
+ that water-based environmental performance measures capture future environmental liabilities for firms in the
+ pulp and paper industry, but not for firms in the chemical and oil industry. Thus, studies using inter-industry
+ samples may be limited in power when compared to single-industry studies.
+
+ 2 As a necessary caveat, our valuation relevance evidence is not sufficient for accounting policy deliberation
+
+ because standard setters consider other purposes of accounting information besides valuation relevance. Addi-
+ tionally, our evidence does not purport to measure all of the costs and benefits that a standard setter must
+ consider when setting standards (Holthausen and Watts 2001).
+
+ 3 While external verification of environmental reports is not currently required in the U.S., many corporations
+
+ voluntarily elect to undergo external environmental examination and verification (Beets and Souther 1999, 134).
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 332
+
+ Clarkson, Li, and Richardson
+
+ survey,4 total industry ECE spending in 2000 constant dollars since 1970 has been $26.5
+ billion, of which $15 billion was spent prior to the period we examine, 1989-2000. While
+ firm-specific ECE spending data are not publicly available prior to 1989, we assume that
+ our sample low-polluting firms outspent high-polluting firms in the 1970s and 1980s in
+ order to obtain their best environmental performance status in our sample period. The
+ regulatory setting in the pulp and paper industry is dynamic as future discharge standards
+ are set according to BAT. The U.S. Environmental Protection Agency (EPA) implemented
+ a comprehensive set of stringent water discharge and air emission standards for the pulp
+ and paper industry in November 1997, called the "Cluster Rule." The EPA estimated that
+ high-polluting firms in the industry needed to invest approximately $1.8 billion in environ-
+ mental capital expenditures by November 2001, in order to comply with these new emission
+ standards (EPA 1997). The EPA is currently contemplating a new set of water regulations
+ to follow the "Cluster Rule" (PPWRC 2000). This setting allows low-polluting firms to
+ pursue a "raising rivals' cost" strategy by continued ECE spending.
+
+ The nature of latent environmental liabilities faced by high-polluting firms differs from
+
+ the liability to remediate existing contamination because the former represent spending to
+ abate future pollution. Accountants do not accrue abatement-related capital spending com-
+ mitments on the balance sheet until the cash expenditure occurs. Nonetheless, the magnitude
+ of future capital spending obligations is of interest to the SEC with respect to enforcement
+ of required MD&A disclosures. Item 303 of SEC Regulation S-K requires companies to
+ discuss in their MD&A the impact of proposed environmental legislation on future opera-
+ tions and financial conditions (Cole 1991). Our study provides a methodology for reliably
+ ranking pulp and paper firms in terms of environmental performance that may be beneficial
+ to SEC enforcement staff when monitoring disclosure compliance.
+
+ Accounting Literature
+
+ Existing accounting research has examined how capital markets combine accounting
+ information with "other information" for firm valuation. For example, Ittner and Larcker
+ (1998) examine whether the release of customer satisfaction measures provides information
+ to the market beyond what is captured in current financial statements. They find customer
+ satisfaction measures to be economically relevant, even though they are only partially re-
+ flected in current accounting earnings and book values. Similarly, Barth et al. (1998) find
+ the pricing multiples on book value and net income in a valuation model depend on a firm's
+ financial health as measured by bond ratings. Consistent with these arguments, Barth and
+ McNichols (1994) and Hughes (2000) employ nonfinancial pollution measures (number of
+ Superfund sites and sulfur dioxide emissions, respectively) to show that such measures
+ capture the exposure of high-polluting firms to future environmental liabilities. We view
+ relative environmental performance data to be a forward-looking nonfinancial measure that
+ has the potential to augment the information in current accounting earnings and book values.
+ We examine the market valuation of environmental capital spending conditional on relative
+ corporate environmental performance, while at the same time allowing for unbooked en-
+ vironmental liabilities.5
+
+ 4 The National Council For Air and Stream Improvement (2002).
+ 5 Johnson (1995) uses valuation methodology to explore, across a number of industries, whether the market
+ valuation of ECE is conditional on relative environmental performance. However, Johnson (1995) does not
+ control for environmental liabilities. Furthermore, her estimated valuation coefficient on a dollar of ECE in-
+ vestment for firms with above-average toxic releases is negative, an estimate we argue should be lower bounded
+ at 0.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 333
+
+ Environmental Economics Literature
+
+ The environmental literature provides support for the argument that the value of a dollar
+ of current ECE depends on the firm's environmental performance. Specifically, the literature
+ suggests that firms have incentives to take a proactive approach to managing environmental
+ impacts, with the benefits of overcompliance arising from a number of sources.
+
+ Arora and Gangopadhyay (1995) provide an explanation for overcompliance within the
+
+ context of a duopoly game. In their setting, two rival firms face a segmented market with
+ each choosing an emission (pollution control) technology and a price for its product. They
+ show that one firm will choose to spend more on emission technology to become a low-
+ polluting firm to attract and retain environmentally conscious consumers who are willing
+ to pay a premium for the products made by a superior environmental performer (the notion
+ of "green goodwill"). Although it is difficult for pulp and paper firms to derive a price
+ premium from a homogenous product such as pulp and paper, low-polluting firms are better
+ positioned to secure long-term contracts with customers who practice "green" supply-chain
+ management (Walton et al. 1998). This is consistent with anecdotal evidence in the financial
+ press.6
+
+ Porter and van der Linde (1995) argue that environmental regulations can trigger in-
+
+ novations that will improve corporate operational efficiency by the substitution of less costly
+ materials, by better utilization of materials in the process, or by converting waste into more
+ valuable forms. In addition, best environmental performers enjoy early-mover advantages
+ by tapping into the inteational market the inernao at is moving rapidly toward valuing low-pollution
+ and energy-efficient products. King and Lenox (2001) report empirical evidence consistent
+ with Porter and van der Linde (1995) in this respect. In particular, they report that "greener"
+ firms have lower inventory levels compared to the industry average. This evidence is con-
+ sistent with the complementary effect that pollution reduction has on operational
+ efficiencies.7
+
+ Another economic benefit of maintaining superior environmental performance is to raise
+
+ rivals' costs. Salop and Scheffman (1987) derive a general model in which a dominant firm
+ can choose a cost-raising action that will affect the costs of all firms in the industry, and
+ cite environmental standards as one example. The dominant firm can use incremental ECE
+ spending to convince the regulators that more stringent environmental standards are eco-
+ nomically achievable. The BAT standard-setting process previously discussed will force
+ high-polluting firms to spend more on ECE in order to comply with more stringent envi-
+ ronmental standards, thus leading to higher costs. Higher costigh s in the Salop and Scheffman
+ (1987) model lead to an upward shift to the left in the industry supply curve, which in turn
+ results in an increase in the market-clearing price. They show that a sufficient condition
+ for this cost-raising strategy to be profitable for the dominant firm is that the price increase
+ exceeds the increase in average cost for the dominant firm, i.e., the dominant firms will
+ enjoy a higher profit margin.8
+
+ 6 The "green goodwill" argument is consistent with anecdotal evidence published in the financial press. See Globe
+
+ & Mail (1994).
+
+ 7 Weyerhaeuser, one of our sample firms, installed elemental chlorine-free bleaching technologies several years
+
+ before it was required by the "Cluster Rule." The company stated, "We installed them mostly because our
+ customers required that we have these kinds of advanced processes in place to meet their requirements." The
+ company indicated that the new technologies have "improved the product quality and reduced costs associated
+ with operating the facility" (Canning 1998).
+
+ 8 The pulp and paper industry is oligopolistic (the four-firm sales concentration ratio in our sample is 47.0 percent).
+ This offers support for the existence of dominant firms as required by Salop and Scheffman's (1987) model.
+ According to their model, high-polluting firms will not benefit from the cost-raising action if the resulting
+ increase in industry price is less than the increase in the average cost of high-polluting firms.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 334
+
+ Clarkson, Li, and Richardson
+
+ To summarize, the environmental economics literature is unambiguous in claiming that
+ economic benefits arise from overcompliance. In our industry setting, no single benefit is
+ likely to be the sole explanation for overcompliance. Our valuation model evidence per-
+ taining to these claimed benefits is indirect in nature. While our descriptive statistics offer
+ some direct evidence in support of the claimed benefits, we do not attempt to discriminate
+ between these theories as a rationale for overcompliance. Rather, we rely on the common
+ insight from all three theories that economic benefits accrue only to firms with superior
+ environmental performance. This key insight lends support to our empirical design that
+ conditions the investors' assessment of ECE on environmental performance.
+
+ Hypothesis Development
+
+ The claimed benefits to overcompliance in the environmental economics literature lead
+
+ to the following two hypotheses (in alternate form):
+
+ HI: The market positively values ECE investment for low-polluting firms.
+
+ H2: The market assigns a value of zero to the ECE investment of high-polluting firms.
+
+ The basic intuition underlying HI is that incremental ECE spending by low-polluting
+ firms may generate economic benefits ("green goodwill," incentives to innovate and raising
+ rivals' costs). High-polluting firms do not enjoy these benefits. Instead, their minimum
+ compliance abatement expenditures represent the costs of environmental externalities (pol-
+ lution) now imposed on firm shareholders (in effect, a capital outlay with no incremental
+ return).
+
+ Our third hypothesis flows naturally from the above two. Low-polluting firms create
+ value for shareholders when they incur abatement expenditures. Thus, they do not face
+ obligations to incur future abatement expenditures with no incremental return to sharehold-
+ ers. High-polluting firms, in contrast, face unbooked liabilities to incur future abatement
+ spending as emission standards get tougher. From the perspective of shareholders, these
+ represent economic liabilities in terms of commitments to incur future capital outlays with
+ no associated incremental return. This suggests the following hypothesis:
+
+ H3: The market assesses the existence of unbooked liabilities (future abatement spend-
+
+ ing obligations) for high-polluting firms.
+
+ III. ECONOMETRIC MODEL
+
+ In order to test the above hypotheses, we need a measure of the theoretical construct,
+ relative environmental performance. We develop nonfinancial pollution indicators to mea-
+ sure environmental performance, which we then use to classify firms as low- versus high-
+ polluting. We adopt two alternative measures for relative environmental performance (EP),
+ both based on data publicly available from the EPA. Our primary measure, EPTR, uses data
+ from the EPA's Toxic Release Inventory (TRI) about the release and transfer of toxic chem-
+ icals from manufacturing facilities. TRI is the sum of all chemicals (in pounds) released to
+ air, water, and land in a particular year. Following Konar and Cohen (1997), we calculate
+ EPTRI by deflating aggregate TRI by cost of goods sold to obtain a measure of emissions
+ relative to production output. This measure identifies the object of regulatory scrutiny,
+ namely, the firms' pollution relative to their production scale. As a control for measurement
+ error in this proxy, we also employ an additional environmental performance measure,
+ EPBOD, which is based on Biological Oxygen Demand (BOD). Existing literature in envi-
+ ronmental economics uses BOD as a reliable indicator of water pollution for the pulp and
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 335
+
+ paper industry (Magat and Viscusi 1990). The BOD data are available from the EPA's
+ Permit Compliance System that tracks permit issuance, permit limits, and actual emissions
+ pertaining to facilities. BOD data are available in the Permit Compliance System only on
+ a mill-by-mill basis along with mill discharge limits. We calculate EPBOD as the ratio of
+ the sum of the BOD discharges across the firm's mills divided by the sum of the mill BOD
+ discharge limits.9
+
+ We adopt EPTRI as the basis for our primary environmental performance proxy because
+ EPTRI reflects environmental performance in all media (water, air, and solid waste disposal)
+ and thus is compatible with our ECE measure, which captures spending in all three areas.
+ Moreover, complete EPTRI data are available whereas the EPBOD data are somewhat more
+ limited. In order to classify firms as low- and high-polluting, we partition the sample at the
+ median EPTRI (EPBOD) for that year. We then create an indicator variable, POLLUTE, and
+ set this variable to 1 for high-polluting firms.10
+
+ To investigate whether the market uses environmental performance information to as-
+ sess the return on ECE investments, we begin with a modified version of the Ohlson (1995)
+ valuation model. In light of prior studies that document the existence of unbooked envi-
+ ronmental liabilities (Barth and McNichols 1994; Cormier et al. 1993; Cormier and Magnan
+ 1997; Hughes 2000), we argue that the market uses environmental performance indicators
+ as other information that predicts future negative abnormal earnings beyond a knowledge
+ of current abnormal earnings, i.e.,
+
+ V= ao + a, BV + a2AE + a3 POLLUTE + e (1)
+
+ where:
+
+ V = market value of common equity in million dollars, measured three months
+
+ after the firm's fiscal year end;
+
+ BV = book value of common equity in million dollars;
+ AE = abnormal earnings to common defined as earnings to common equity less an
+
+ assumed cost of capital based on the CAPM times beginning-of-period book
+ value of common equity, in million dollars;"
+
+ POLLUTE = an indicator variable assuming the value of 1 for high-polluting firms, and 0
+
+ otherwise; and
+
+ ? = error term.
+
+ 9 This measure is structurally similar to the pollution performance index used in Cormier et. al. (1993) and Cormier
+ and Magnan (1997), although they use total mill water flow-through (not always available in the EPA's Permit
+ Compliance System database) as a weighting factor to aggregate across mills.
+
+ 10 To validate that our POLLUTE labeling captures the underlying construct of interest, relative environmental
+ performance, we examine the number of environmental violations and prosecutions of 11 of our sample firms
+ (five low-polluting and six high-polluting) covered in the Corporate Environmental Profiles Database developed
+ by the Investor Responsibility and Research Center. We find that the five low-polluting firms had an average of
+ 27 environmental violations and prosecutions during the 1992 to 2000 period, while the high-polluting firms
+ had an average of 55 environmental violations and prosecutions during the same period. Thus, firms that we
+ label high-polluting do have a higher propensity of noncompliance with environmental regulations. Using a
+ randomization test (Noreen 1989), the difference between 55 and 27 is statistically significant at the 0.0074
+ level (one-tailed).
+
+ l The cost of equity capital is based on the CAPM (ke = RF + 3[E(RM) - RF]) with [ estimated using 60 months
+ of historical return data and updated annually, RF equal to 4.5 percent, and the market price of risk ([E(RM)
+ - RF]) equal to 6.5 percent. For support for these estimates, see Siegel (1999). Our results are not affected
+ when we vary RF and the market price of risk between 3 to 5 percent and 6 to 8 percent, respectively.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 336
+
+ Clarkson, Li, and Richardson
+
+ We then modify Equation (1) based on the assumption that current period capital ex-
+
+ penditures predict future abnormal earnings beyond a knowledge of current abnormal earn-
+ ings if they represent positive NPV projects.12 We decompose total current perio capital
+ expenditure into environmental capital spending (ECE) and nonenvironmental spending
+ (NECE). The interaction between ECE and POLLUTE tests whether, as suggested by theory,
+ investors value ECE investments conditional on the firm's environmental performance. As
+ a control, we add a similar interaction term between NECE and POLLUTE, however, there
+ should be no significant interaction between NECE and POLLUTE unless POLLUTE is
+ simply proxying for other confounding variables. Our primary empirical model is therefore:
+
+ V = Po + P1 ABV + P2 ECE + P3 ECE*POLLUTE + 1 NECE
+
+ + p5 NECE*POLLUTE + 36 AE + 7 *POLLUTE + v (2)
+
+ where:
+
+ ABV = adjusted book value of common equity equal to book value of common equity
+ (BV) minus current period capital expenditure (ECE + NECE), in million dollars;
+
+ ECE = current period (undepreciated) environmental capital expenditure, in million
+
+ dollars;'3
+
+ NECE = current period (undepreciated) nonenvironmental capital expenditure, in million
+
+ dollars;
+
+ v = error term; and
+
+ all remaining termsr are as previously defined.
+
+ In terms of this model, our coefficient tests are as follows:
+
+ P2 > 0 (a test of H1)
+ 132 + 13 = 0 (a test of H2)
+ 17 < 0 (a test of H3)
+
+ In Equation (2), 2 represents the valuation coefficient on a dollar of ECE investment
+
+ for low-polluting firms, which is predicted to exceed 0 by HI; furthermore, 12 + 3 rep-
+ resents the valuation coefficient on a dollar of ECE investment for high-polluting firms,
+ which is predicted to be 0 by H2. Finally, 17 tests whether high-polluting firms have
+ unbooked environmental liabilities as predicted by H3. An additional coefficient test is as
+ follows:
+
+ 12> 1.
+
+ 12 Feltham and Ohlson (1996) provide theoretical support for the notion that current capital spending can explain
+
+ goodwill beyond current abnormal earnings. Their accounting-based valuation model implies that the valuation
+ coefficient on current capital investment isolated from book value is 0 if there is no incremental cash return
+ (see Feltham and Ohlson 1996, 213). We prefer, for the sake of simplicity, to state our primary econometric
+ equation in terms of Ohlson (1995).
+
+ 13 We discuss issues related to depreciation of current period ECE and NECE and cumulative ECE in the "Ro-
+
+ bustness Checks" subsection.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 337
+
+ Absent measurement error in our environmental performance proxies, ECE investments
+ should have a valuation coefficient that exceeds unity in our empirical valuation model, for
+ low-polluting firms. Since measurement error typically biases slope coefficients toward 0,
+ we prefer to report coefficient tests for 32 against the benchmark of both 0 and unity. In
+ order to consider the sensitivity of our results to the unscaled form of our primary econo-
+ metric model (Equation (2)), we repeat the analysis after scaling all items (other than
+ POLLUTE) by the number of common shares outstanding (Barth and Clinch 2001).
+
+ IV. SAMPLE DATA
+
+ Our sample consists of U.S. pulp and paper companies for which environmental per-
+
+ formance, stock price, and disclosed environmental capital expenditure (ECE) data are
+ available during the period 1989-2000. A joint search of Lockwood-Post's Directory of
+ Pulp and Paper and Allied Trades (1996) and the Compact Disclosure USA database gen-
+ erates 45 public companies listed in the U.S. with pulp and paper mills.14 By examining
+ 10-Ks, we eliminated 16 of the 45 firms that have only limited operations in the pulp and
+ paper sectors, resulting in our final sample of 29 "pure play" pulp and paper companies.
+ These companies disclosed ECE spending sometime during the 1989-2000 period, yielding
+ a sample of 256 firm-year ECE disclosures.15 The total ECE spending by these companies
+ over the sample period is $8.71 billion, which represents about 81 percent of the total
+ industry ECE spending, according to the industry survey (referred to earlier).16 This gives
+ us reasonable confidence that our sample is representative of the industry. TRI data are
+ available for each of the 256 firm-years but BOD data are only available for 183 firm-years.
+
+ Panel A of Table 1 presents distributional statistics for variables in our regression
+
+ models. The sample is broadly distributed along all dimensions. The average annual ECE
+ of our sample firms during the 1989 to 2000 period is $34.39 million with annual
+ ECE spending ranging from $0.15 million to $190 million. Similarly, the average annual
+ NECE is $318.6 million with annual NECE ranging from $0.3 million to $1.39 billion. The
+ mean ECE is 9.77 percent of the mean total capital expenditure (ECE + NECE) over the
+ sample period. In terms of environmental performance, the average annual EPTRI measure
+ is 2.039 (i.e., 2.039 pounds of toxic release per $1,000 of cost of goods sold) and the
+ average annual EPBOD measure is 0.449 (i.e., 44.9 percent of limit). The annual EPTRI
+ measures range from a low of 0.019 to a high of 14.210 while the EPBOD measures range
+ from 0.068 to 1.021.17 For both measures, lower values represent better environmental
+ performance. Panel B of Table 1 presents a Pearson correlation matrix after scaling all
+ variables we use in regression models, other than EPTRI and EPBOD by common shares
+
+ 14 We use the 1996 Lockwood-Post Directory in order to generate as large a sample as possible. The pulp and
+
+ paper industry has gone through some significant consolidations in the late 1990s.
+
+ 15 There are only 13 firm-years for which firms were in operation but failed to disclose ECE spending in either
+
+ their annual report or 10-K. Since there is no indication whether the nondisclosure arises because the firms did
+ not make ECE expenditures or because they decided not to make the required disclosure, we treat these 13
+ observations two ways. Our primary analysis treats these 13 observations as missing observations. Alternatively,
+ when we treat these 13 observations as indicating no environmental capital expenditures, the conclusions are
+ unaffected.
+
+ 16 The survey indicates that the total industry ECE over the same period is about $10.765 billion. The primary
+
+ reason that the total ECE spending of our sample firms is less than 100 percent of the total reported ECE
+ spending by the pulp and paper industry is that we restrict our sample to "pure play" public companies, whereas
+ the survey includes ECE spending by private as well as public firms with operations in the industry.
+
+ 17 A review of the BOD data indicates that this particular sample firm had a very large BOD emission in July
+
+ 1990 that far exceeded the discharge limit. The company was back in compliance in 1991 with an EPBOD measure
+ of 0.706. Nonetheless, this EPBOD measure is still significant higher than the average EPBOD of 0.523 for our
+ sample firms in 1991.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Descriptive Statistics for a Sample of Pulp and Paper Companies from the Period 1989-2000"
+
+ TABLE 1
+
+ Panel A: Distributional Statistics
+
+ Measureb
+
+ V
+ BV
+ ABV
+ ECE
+ NECE
+ AE
+
+ EPTRI
+ EPBOD
+
+ o O0
+
+ Mean
+
+ 3,367.470
+ 1,897.917
+ 1,544.921
+
+ 34.390
+ 318.605
+ - 14.922
+ 2.039
+ 0.449
+
+ Standard
+ Deviation
+
+ 5,215.976
+ 2,052.237
+ 1,784.379
+
+ 36.387
+ 299.893
+ 245.236
+ 1.936
+ 0.167
+
+ Median
+
+ 1,639.722
+ 1,469.450
+ 1,067.360
+
+ 23.000
+ 232.319
+ -14.199
+ 1.447
+ 0.439
+
+ Panel B: Pearson Correlation Matrix-All Variables (other than EP) Scaled by the Number of Common Shares Outstanding
+
+ V/CS
+ ABV/CS
+ ECEICS
+ NECEICS
+ AEICS
+
+ EPTRI
+ EPBOD
+
+ V/CS
+
+ 1.000
+ 0.433***
+ 0.367***
+ 0.504***
+ 0.358***
+ -0.220***
+ -0.243
+
+ ABV/CS
+
+ ECEICS
+
+ NECE/CS
+
+ AE/CS
+
+ 1.000
+ 0.244***
+ 0.421***
+ 0.084*
+ -0.138*
+ -0.251 ***
+
+ 1.000
+ 0.310***
+ 0.118*
+
+ -0.084
+ -0.042
+
+ 1.000
+ 0.164***
+
+ -0.105*
+ -0.013
+
+ 1.000
+ -0.079
+ -0.088**
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Panel C: Median Measures for the Sample Partitioned on the Basis of Environmental Performance (POLLUTE)
+
+ TABLE 1 (continued)
+
+ Overall Sample (n = 256 firm-years)
+ Mann
+
+ High-Polluting
+
+ Low-Polluting
+
+ Firms
+
+ Firms
+
+ Measure
+
+ POLLUTE = 0
+
+ POLLUTE = 1
+
+ V
+
+ BV
+
+ ABV
+
+ ECE
+ NECE
+ AE
+ Leverage
+ Asset Age
+ c Liquidity
+
+ EPrm EPTRI
+ EP EPBOD
+ ECE/CGS
+
+ 2,350.297
+ 1,615.100
+ 1,196.805
+
+ 23.350
+ 264.500
+ -11.936
+ 0.933
+ 0.541
+ 0.114
+ 0.947
+ 0.397
+ 0.0367
+
+ 1,345.874
+ 1,186.169
+
+ 893.325
+ 20.845
+ 217.300
+ -15.030
+ 0.592
+ 0.442
+ 0.087
+ 2.180
+ 0.462
+ 0.0650
+
+ 1989-1994 (n = 140 firm-years)
+
+ Low-Polluting
+
+ Firms
+
+ High-Polluting
+
+ Firms
+
+ POLLUTE = 0
+
+ POLLUTE = 1
+
+ 1,654.185
+ 1,486.900
+ 1,082.360
+
+ 26.000
+ 261.200
+ -26.804
+ 0.935
+ 0.448
+ 0.082
+ 1.032
+ 0.423
+ 0.0746
+
+ 1,174.173
+ 1,071.295
+
+ 831.500
+ 22.850
+ 222.950
+ -22.402
+ 0.599
+ 0.451
+ 0.072
+ 2.407
+ 0.499
+ 0.0854
+
+ Mann
+
+ Whitney
+ p-value
+ 0.125
+ 0.439
+ 0.109
+ 0.331
+ 0.500
+ 0.378
+ 0.048
+ 0.807
+ 0.646
+ <0.001
+ 0.021
+ 0.0440
+
+ Low-Polluting
+
+ POLLUTE = 0
+
+ 2,966.294
+ 2,092.650
+ 1,865.100
+
+ 264.500
+
+ Whitney
+ p-value
+
+ 0.007
+ 0.039
+ 0.029
+ 0.449
+ 0.326
+ 0.555
+ 0.052
+ 0.161
+ 0.146
+ <0.001
+ 0.015
+ 0.0014
+
+ *, **, *** Significant at the 10 percent, 5 percent, and 1 percent levels, respectively.
+ a The distributional statistics (Panel A) and correlations (Panel B) are based on the 256 firm-years for which ECE and TRI data are available for all measures except EPBOD,
+ which is based on the 183 firm-years for which ECE and BOD data are available.
+ b Variable definitions: V is the market value of the firm's common equity (in $millions); BV is the firm's book value of common equity (in $millions); ABV is the firm's
+ adjusted book value of common equity (in $millions) equal to BV minus current period capital expenditure (ECE + NECE); ECE and NECE are the firm's current period
+ environmental and nonenvironmental capital expenditures (in $millions), respectively; AE is the firm's abnormal earnings (in $millions) defined as earnings to common equity
+ less an assumed cost of capital based on the CAPM times the book value of common equity; EPI, is the firm's environmental performance measure in terms of toxic release
+ inventory (TRI) defined as pounds of TRI per thousand dollar cost of goods sold (CGS); EPBOD is the firm's environmental performance measure in terms of biological
+ oxygen demand (BOD) defined as BOD discharge relative to discharge limits; POLLUTE is the firm's relative environmental performance measure set equal to 0 for firm-
+ years with below the median EPTRI in a given year and equal to 1 otherwise; Leverage is the ratio of long-term debt to equity; age of capital equipment is the ratio of net
+ capital equipment to gross capital equipment; and Liquidity is the ratio of cash flow from operations to sales.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 340
+
+ Clarkson, Li, and Richardson
+
+ outstanding. The overlap among the independent variables is modest, with no pair-wise
+ correlation exceeding 0.5.18
+
+ Panel C of Table 1 presents descriptive statistics when we classify the sample firms as
+ low-polluting and high-polluting firms. We present the descriptive statistics for two sub-
+ periods, 1989-1994 (corresponding to cyclical downturn years) and 1995-2000 (corre-
+ sponding to recovery years) as well as for the overall sample period. For the overall period,
+ the median EPTRI for high-polluting firms is 2.18 pounds per thousand dollars of cost of
+ goods sold, versus a corresponding metric of 0.947 for low-polluting firms. The median
+ EPBOD measure is 46.2 percent of permit limits, compared to 39.7 percent, for high- versus
+ low-polluting firms.
+
+ Further, when dollar ECE is scaled by cost of goods sold, low-polluting firms spend
+
+ less on ECE than their high-polluting rivals: for the 1989-2000 period, annual ECE for
+ high-polluting firms averaged 6.5 percent of cost of goods sold (CGS), compared to 3.7
+ percent for low-polluting firms. For the years 1999 and 2000, when most of the ECE
+ spending in response to the "Cluster Rule" occurred, the (untabulated) median ECEICGS
+ of high-polluting firms more than doubled in 1999 relative to 1998 from 2.10 percent to
+ 4.48 percent, and then increased by a further 50 percent in 2000 relative to 1999 to 6.87
+ percent (more than triple the 1998 level). In contrast, the median (untabulated) ECEICGS
+ for low-polluting firms declined in both years to historical lows (the figures are 1.50 percent
+ in 1998, 1.44 percent in 1999, and 1.40 percent in 2000). Thus, it seems that low-polluting
+ firms force up the ECE spending of their rivals as environmental regulations change, while
+ at the same time continuing to spend in anticipation of the next round of regulatory change.
+ This pattern is consistent with cost raising argument of Salop and Scheffman (1987) out-
+ lined in Section II.
+
+ Focusing on the overall period suggests that low-polluting firms are larger (p = 0.007
+
+ for market capitalization and 0.029 for book value of common equity adjusted for current
+ period capital expenditures, ABV). These differences are statistically significant in the
+ 1995-2000 subperiod, but not in the 1989-1994 subperiod. The trends involving profita-
+ bility (AE) are of particular interest. For the 1989-1994 period, median abnormal earnings
+ are negative, reflecting a cyclical downturn facing the industry, and the difference in prof-
+ itability across the two groups is not significant. For the 1995-2000 period, low-polluting
+ firms are more profitable and more liquid, consistent with benefits to overcompliance sug-
+ gested by theory. In addition, low-polluting firms have higher financial leverage. We discuss
+ the implications for our primary inferences of the differences in firm characteristics (size,
+ leverage, profitability, and liquidity) across low- and high-polluting firms in the "Robustness
+ Checks" subsection of the paper.
+
+ The year-by-year EPTRI and EPBoD data (untabulated) demonstrates that on average, the
+
+ environmental performance of our sample firms is improving over the sample period,
+ consistent with continuous ECE spending over time. For instance, the mean EPTRI changes
+ from 3.777 in 1989 to 1.644 in 2000. Similarly, we see a significant improvement in the
+ mean EPBOD from 0.568 in 1989 to 0.376 in 2000. This implies that we must assess the
+ relative environmental performance of our sample firms year by year. As discussed in
+ Section III, we create an indicator variable for environmental performance by partitioning
+ our sample firms into low- and high-polluting groups based on the median EPTRI (EPBOD)
+ measure. It turns out that this partitioning is quite stable over the 12-year study period: the
+ average rank correlations for adjacent years are 0.868 and 0.798 for the EPTR and EPBOD
+
+ 18 The Spearman rank correlations (untabulated) are very similar to those reported in Table 1.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 341
+
+ measures, respectively. Using EPTRI partitioning, we find only three instances in which firms
+ changed group during the 12 years, with two firms moving from the high-polluting to the
+ low-polluting group (one in 1991 and one 1992) and one moving from the low-polluting
+ group to the high-polluting group (in 1991). One possible reason why we do not see
+ significant variation in group membership is that it is difficult for a high-polluting firm to
+ catch up in a short period of time. High-polluting firms must spend considerable resources
+ to improve EP measures for all their mills in order to improve firm-wide environmental
+ performance. In addition, as indicated by Panel C of Table 1, low-polluting firms continue
+ to spend to maintain their superior environmental performance status, making it more dif-
+ ficult for high-polluting firms to catch up.
+
+ V. RESULTS
+
+ In order to test our hypotheses, we initially run the valuation model (Equation (2)) on
+
+ the pooled sample of firm-year observations using a pooled GLS technique. In a cross-
+ sectional time-series sample such as ours, the OLS assumption that all observations are
+ independent can lead to misspecificorrelation due to serial coelation of the error terms for
+ observations from the same company. The pooled GLS technique allows for cross-sectional
+ heteroscedasticity and serial correlation and provides a better specification by using within-
+ company correlation coefficients as estimates of the autoregressive parameters for each
+ cross-sectional unit. The technique uses estimated autoregressive parameters to transform
+ the observations and obtain more efficient estimators. Since we have unbalanced panel data,
+ we apply the pooled GLS technique for unbalanced panel data as described in Baltagi
+ (1995) and in Baltagi and Chang (1994). For this analysis, we run both an unscaled version
+ of the model, a version scaled by common shares (Barth and Clinch 2001), and rank
+ regressions.
+
+ While GLS corrects for autocorrelation and heteroscedasticity, it does not correct for
+ cross-sectional coelations in the residuals. Thus, given the problem of cross-sectional
+ correlation inherent in a pooled cross-sectional regression (Bernard 1987), we also run
+ annual regressions using OLS and report cross-temporal t-statistics for the average coeffi-
+ cients. Finally, we report the results of analyses designed to address various robustness
+ concerns.
+
+ Pooled Regression Results
+
+ Panel A of Table 2 contains GLS results for Equation (2) (unscaled and scaled) based
+
+ on the pooled sample of 256 firm-years for which TRI data are available.19 The significance
+ levels reported below the coefficients for this and subsequent tables are two-tailed, as some
+ of these coefficients are not of primary research interest. For the primary coefficient tests,
+ reported p-values are one-tailed whenever we have directional predictions. Results are con-
+ sistent with all three hypotheses. Regarding HI, the estimated coefficient on ECE (32) is
+ 2.706, reliably exceeding both zero (p = 0.006) and unity (p = 0.057). Thus, the market
+ positively values ECE investment for low-polluting firms, as predicted by HI. Turning next
+ to H2, the valuation multiple attached to a dollar of current period ECE for high-polluting
+ firms (p2 + P3) is 0.479 (2.706-2.227), an estimate which is as predicted statistically
+
+ 19 As previously discussed, the EPTRI measure is remarkably stable over the 12-year study period, with only three
+ firms changing partition. To address potential concerns regarding the effect these three firms might have on the
+ results, we initially repeat the analysis after dropping them from the sample, finding the results to be qualitatively
+ unaffected. In addition, we repeat the analysis after measuring POLLUTE with two-year lagged EPTR, given
+ there is a two-year reporting lag between filing and publication of TRI data. Consistent with the stability of
+ partition membership, our results remain unchanged.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Pooled GLS Regression Estimates of the Market Valuation Model for a Sample of Pulp and Paper Companies from the Period 1989-2000a
+
+ TABLE 2
+
+ Panel A: Environmental Performance (POLLUTE) Based on Toxic Release Inventory (EPTR,), n = 256 firm-years
+
+ Model
+
+ Inter
+
+ Unscaled
+
+ -124.843
+
+ Scaled
+
+ (0.713)
+
+ -24.149
+
+ (0.147)
+
+ ABV
+ (+)
+
+ 1.242
+ (<0.001)
+ 0.969
+ (<0.001)
+
+ ECE
+ (+)
+
+ 2.706
+ (0.011)
+ 2.549
+ (0.019)
+
+ ECE*
+
+ POLLUTE
+
+ (-)
+
+ -2.227
+ (0.030)
+ -2.483
+ (0.038)
+
+ NECE
+
+ (+)
+ 3.439
+ (<0.001)
+ 3.017
+ (<0.001)
+
+ NECE*
+
+ POLLUTE
+
+ (?)
+
+ -0.543
+ (0.372)
+ -0.458
+ (0.379)
+
+ Primary Coefficient Tests
+
+ Unscaled Model
+
+ Scaled Model
+
+ Test
+
+ 2 > 0
+ P2> 1
+ P2 + 13 = 0
+ P7 <0
+
+ p-value
+
+ 0.006
+ 0.057
+ 0.354
+ 0.003
+
+ Test
+
+ 82 > 0
+ 2 > 1
+ 82 + 83 = 0
+ 67 <0
+
+ Panel B: Environmental Performance (POLLUTE) Based on Biological Oxygen Demand (EP,OD), n = 183 firm-years
+
+ Model
+
+ Unscaled
+
+ Scaled
+
+ Inter
+
+ 485.715
+
+ (0.319)
+
+ -57.377
+
+ (0.343)
+
+ ABV
+ (+)
+ 1.197
+ (<0.001)
+ 0.956
+ (<0.001)
+
+ ECE*
+
+ POLLUTE
+
+ ECE
+ (+)()
+
+ NECE*
+
+ NECE POLLUTE
+
+ (+) (?)
+
+ 2.605
+ (0.026)
+ 2.001
+ (0.004)
+
+ -2.273
+ (0.038)
+ -2.472
+ (0.002)
+
+ 3.108
+ (<0.001)
+ 3.657
+ (<0.001)
+
+ -1.069
+ (0.289)
+ -0.720
+ (0.243)
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ TABLE 2 (continued)
+
+ Primary Coefficient Tests
+
+ Unscaled Model Scaled Model
+
+ Test p-value Test p-value
+
+ 2 > 0 0.013 82 >0 0.002
+ 32 > 1 0.087 82 > 1 0.093
+ 32 + P3 = 0 0.259 695
+ P7 < 0 0.009 87 < 0
+
+ Panel C: Rank Regression Resultsb
+
+ ABV ECE POLLUTE NECE POLLUTE AE POLLUTE
+
+ Model Inter (+) (+) (-) (+) (?) (+) (-) Adj. R2
+ EPTRI -0.028 0.640 0.296 -0.213 0.384 -0.091 0.081 -0.174 0.899
+
+ (0.195) (<0.001) (0.024) (0.029) (<0.001) (0.395) (<0.001) (0.016)
+
+ EPBOD 0.019 0.637 0.290 -0.198 0.335 -0.127 0.083 -0.107 0.897
+
+ (0.267) (<0.001) (0.021) (0.038) (<0.001) (0.281) (<0.001) (0.025)
+
+ ECE* NECE*
+
+ Primary Coefficient Tests
+
+ Model with EPTR Model with EPBOD
+
+ Test p-value Test p-value
+
+ D [32 > 0 0.0132 2 > 0 0.011
+ ~ 1@P2 + P3 = 0 0.326 12 + 3 = 0 0.249
+ 7137 < 0 0.008 P3 <0 0.013
+
+ aTwo-tailed p-values are reported in parentheses for the hypothesis that the coefficient is equal to 0. For the primary coefficient tests, reported p-values are one-tailed
+
+ oX whenever we have directional predictions.
+
+ b For the rank regression models (Panel C), all variables except POLLUTE (i.e., V, ABV, AE, NECE, and ECE) are ranked from smallest to largest within each year and then
+
+ scaled to fit between 0 and 1 by dividing by the number of firm-year observations for the given year. POLLUTE remains a (0, 1) variable as described above, based
+
+ alternatively on toxic release inventory (EPTRI) and biological oxygen demand (EPBOD) (Model EPRI and Model EPBOD, respectively).
+ The unscaled and scaled models are V = 30 + PI ABV + 32 ECE + [3 ECE * POLLUTE + 4 NECE + 35 NECE * POLLUTE + ,6 AE + 7POLLUTE + v and V/CS
+
+ = 8o/CS + 81 ABV/CS + 82 ECE/CS + 63 ECE/CS * POLLUTE + 64 NECE/CS + 85 NECE/CS * POLLUTE + 66 AE/CS + 67 POLLUTE + T.
+
+ 5N. Variable definitions: V is the market value of the firm's common equity (in $millions); ABV is the firm's adjusted book value of common equity (in $millions) equal to the
+ b^ firm's book value of common equity minus current period capital expenditure (ECE + NECE); ECE and NECE are the firm's current period environmental and
+
+ nonenvironmental capital expenditures (in $millions), respectively; AE is the firm's abnormal earnings (in $millions) defined as earnings to common equity less an assumed
+
+ cost of capital based on the CAPM times the book value of common equity; POLLUTE is the firm's relative environmental performance measure set equal to 0 for firm-years
+ with below the median EPTRI in a given year and equal to 1 otherwise; and CS is the number of common shares outstanding. POLLUTE is based alternatively on toxic release
+ inventory (EPTRI) and biological oxygen demand (EPBOD).
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 344
+
+ Clarkson, Li, and Richardson
+
+ insignificant from 0 (p = 0.354). In regard to H3, the negative and significant (p = 0.003)
+ estimate of 7 implies that, on average, the market assesses the existence of unbooked
+ liabilities for high-polluting firms, as predicted by H3. The coefficient estimate of -560.441
+ implies an average unbooked liability of $560.441 million for high-polluting firms, or 16.6
+ percent of market capitalization. The average estimates of unbooked environmental liabil-
+ ities are 28.6 percent and 16.3 percent of market capitalization, respectively, in Barth and
+ McNichols (1994) and Hughes (2000). The results for the scaled model, reported in Panel
+ A of Table 2, are consistent with the unscaled analysis. Specifically, all four coefficients
+ tests are consistent with the predictions of H1-H3.20
+
+ Given the potential for measurement error for our choice of EP measures, we establish
+
+ that our results are qualitatively similar using an alternate POLLUTE indicator variable
+ based on EPBO.21 Panel B of Table 2 reports the analysis for the full model (Equation (2),
+ unscaled and scaled) based on a pooled sample of 183 firm-years with ECE and BOD data
+ using GLS. All coefficient tests are consistent with the predictions of H1-H3, for both the
+ unscaled and scaled models. Specifically, the market positively values ECE investment for
+ low- but not high-polluting firms, and assesses the existence of unbooked liabilities for
+ high-polluting firms.
+
+ As a control, Panels A and B of Table 2 report the results of tests of an interaction
+
+ between NECE and POLLUTE. For the unscaled model where POLLUTE is based on EPRI,
+ Panel A indicates that for low-polluting firms the estimated coefficient on a dollar of NECE
+ is 3.439 (p < 0.001). Furthermore, the estimated coefficient on the interaction between
+ NECE and POLLUTE is insignificantly different from zero (p = 0.372, two-tailed). Thus,
+ we infer that POLLUTE is not simply proxying for other confounding variables, as low-
+ and high-polluting firms experience the same multiplier on a dollar of NECE.
+
+ As a further control for the choice of deflator, we estimate model (2) in ranks and
+ report the results in Table 2, Panel C. Specifically, we rank each variable except POLLUTE
+ (i.e., V, ABV, NECE, ECE, and AE) from smallest to largest within each year and then scale
+ it to fit between 0 and 1 by dividing by the number of firm-year observations for the given
+ year. For example, for the 27 firms with observations in 1994, the firms are first sorted by
+ V within that year, ranked from 1 to 27 and then the rankings divided by 27 giving values
+ between 1/27 = 0.037 (smallest) and 27/27 = 1.000 (largest). We follow an analogous
+ procedure for each of the other variables. POLLUTE remains a (0,1) variable as described
+ in Section III, based alternatively on toxic release inventory (EPTRI) and biological oxygen
+ demand (EPBoD). The results for the three primary coefficient tests remain the same. The
+ coefficient test (132 >1) is not meaningful in rank regressions.
+
+ Annual Regression Results
+
+ Table 3 presents mean coefficient values re-estimating the valuation model (equation
+
+ (2)) using OLS for each of the twelve years of our sample period (1989-2000) and then
+
+ 20 Our inferences are unchanged when we repeat the analysis reported in Panel A of Table 2 after scaling all items
+
+ (other than POLLUTE) in Equation (2) by the book value of equity as opposed to the number of common shares
+ outstanding. Details are available from the authors upon request.
+
+ 21 As Barth and McNichols (1994) point out, the bias in estimated slope coefficients depends on the measurement
+
+ error in included variables and the correlation between that measurement error and relevant omitted variables.
+ Since the correlation structure and the omitted variables are unknown, we adopt the simple strategy of an alternate
+ EP measure. We view EPBOD as an instrumental variable correlated with EPTRI but uncorrelated with the mea-
+ surement error in EPTRI (for support, see Greene 2000, 370). If the estimated slope coefficients are similar with
+ an alternate EP measure, this makes a stronger case that such results are not driven by bias due to measurement
+ error.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Mean Coefficient Estimates for the Annual Market Valuation of 256 Firm-Year Observations over the Period 1989-2000a
+
+ TABLE 3
+
+ Vit = Po + PIABV,, + P2ECE,, +
+
+ 13ECE1,*POLLUTE,, + 34NECE,, + f5NECEt,*POLLUTE,, + MAE
+
+ Mean Coefficient
+ No. of coefficients > 0
+ No. of It-Statisticsl > 1.645
+ Abarbanell and Bernard
+
+ t-statisticb
+
+ Z1 (Aboody and Lev)c
+ Z2 (Aboody and Lev)c
+
+ Primary
+ Coefficient
+
+ Testsd
+
+ 2 >0
+ P2> 1
+ P2 + P3 = 0
+ P7 <0
+
+ ABV
+ (+)
+
+ ECE POLLUTE NECE POLLUTE
+ (+) (-) (+) (?)
+
+ ECE* NECE*
+
+ 1.269***
+
+ 2.249*** - 1.912*** 3.728*** -0.408
+
+ 12
+ 10
+
+ 5.711
+ 8.082
+ 7.206
+
+ 11
+ 10
+
+ 3.829
+ 7.103
+ 5.343
+
+ 1
+ 9
+
+ -4.025
+ -6.471
+ -5.605
+
+ 12
+ 10
+
+ 5.244
+ 7.240
+ 10.370
+
+ p-value A and B
+
+ t-statistic
+
+ <0.001
+ 0.017
+ 0.488
+ 0.005
+
+ -1.445
+ -0.980
+ -0.997
+
+ p-value
+
+ Zi
+
+ <0.001
+ <0.001
+ 0.226
+ <0.001
+
+ **, *** Significant at the 5 percent and 1 percent levels, respectively, based on the Abarbanell and Bernard t-statistic.
+ The analyses are based on the 256 firm-years with ECE and TRI data (1989 (16), 1990 (21), 1991 (24), 1992 (24), 1993 (28), 1994 (27), 1995 (24), 1996 (20), 1997
+ (21), 1998 (20), 1999 (19), and 2000 (12)).
+
+ b The Abarbenell/Bernard t-statistic adjusts for the estimated first-order autocorrelation in the independent variables over the sample period by adjusting standard errors
+
+ using the following factor: {[( l+p)/(l - (p)] - [2p(1 - pp")/n(l - (p)2]}1/2 where n is the number of years and up is the estimated first-order autocorrelation in the
+ yearly coefficients (Abarbanell and Bernard 2000).
+
+ c The Z, statistic, which assumes residual independence, is (1 /n12)E(ti/ {kik, - 2} /2) where ti is the t-statistic for year n, ki is the degrees of freedom, and n is the
+
+ number of years (7). The Z2 statistic is: mean t-statistic/(standard deviation of t-statistics/ {n - 1)}/2) (Aboody and Lev 1998; Healy et. al. 1987; White 1984).
+
+ d For the primary coefficient tests, reported p-values are one-tailed whenever we have directional predictions.
+ Variable definitions: V is the market value of the firm's common equity (in $millions); ABV is the firm's adjusted book value of common equity (in $millions) equal to
+ book value minus current period capital expenditure (ECE and NECE); ECE and NECE are the firm's current period environmental and nonenvironmental capital
+ expenditures (in $millions), respectively; AE is the firm's abnormal earnings (in $millions) defined as earnings to common equity less an assumed cost of capital based
+ on the CAPM times the book value of common equity; and POLLUTE is the firm's relative environmental performance propensity measure set equal to 0 for firm-
+ years in the low EPTR partition (firms with below the median EPTR in a given year) and equal to 1 for firm-years in the high EPTR partition.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 346
+
+ Clarkson, Li, and Richardson
+
+ averaging across the years. We determine annual t-statistics based on White's (1984) con-
+ sistent covariance matrix. The average coefficient values are similar to those for the pooled
+ analysis presented in Panel A of Table 2. The estimated ECE coefficient (32) is positive in
+ 11 of the 12 years with It-statisticsl > 1.65 in ten of the 12 years, the ECE*POLLUTE
+ interaction term coefficients are negative in 11 years with It-statisticsl > 1.65 in nine years,
+ and the estimates of 37 are negative in ten years with It-statisticsl > 1.65 in nine years.
+
+ In order to test for the statistical significance of the mean coefficients, we consider
+
+ several approaches. Following Abarbanell and Bernard (2000), we calculate the standard
+ error from the distribution of yearly coefficients and then make an adjustment for serial
+ correlation in the coefficients.22 To supplement this measure, we also calculate the two Z-
+ statistics (Z, and Z2) employed by Aboody and Lev (1998) and Healy et al. (1987).23 For
+ the primary coefficient tests, reported p-values are one-tailed whenever we have directional
+ predictions.
+
+ Once again, all four primary coefficient tests are consistent with the predictions of H1-
+
+ H3. Regarding HI, the mean coefficient on ECE for low-polluting firms (r2) is 2.249,
+ reliably exceeding both 0 and unity for the Abarbenell and Bernard t-stat and the Z1 and
+ Z2 statistics (p ? 0.017). Turning next to H2, the estimate of 12 + P3 for high-polluting
+ firms is 0.337 (2.249-1.912), an estimate which is statistically insignificant from 0 (p
+ = 0.488, 0.226, and 0.412 for the Abarbenell and Bernard t-statistic, Z1 and Z2, respec-
+ tively). In regard to H3, the negative and significant estimate of 17, -468.511, is reliably
+ less than 0 (p c 0.005 for the Abarbenell and Bernard t-statistic, Z1 and Z2) and suggests
+ that unbooked environmental liabilities exist for high-polluting firms. Thus, the results from
+ the annual regressions reinforce conclusions drawn from the pooled regressions.
+
+ Robustness Checks
+
+ We perform a number of sensitivity analyses to ensure that our main results are robust
+
+ and not subject to model misspecification and measurement error. Possible causes of con-
+ cern for model misspecification include potential confounds due to omitted variables, the
+ impact of observations with negative abnormal earnings, and the use of a dichotomous
+ POLLUTE proxy for relative environmental performance. In order to further address po-
+ tential measurement error, we also examine the impact of cumulative ECE to incorporate
+ difference in firm depreciation policy. We discuss each robustness check below.
+
+ Potential Confounds
+
+ As indicated in Section IV, low- and high-polluting firms differ in their firm character-
+
+ istics (leverage and size for the overall 1989-2000 period: leverage, liquidity, profitability,
+ and size, for the 1995-2000 subperiod), and the differences represent potential confounds
+ to our main empirical analysis. The pooled and annual analyses presented above show that
+ our results are unlikely to have been driven by factors other than environmental perform-
+ ance. Specifically, it is unlikely that differences between low- and high-polluting firms
+ would be reflected in the ECE-related coefficients but not the NECE-related coefficients if,
+
+ 22 The Abarbenell/Bernard t-statistic adjusts for the estimated first-order autocorrelation in the independent vari-
+ ables over the sample period by adjusting standard errors using the following factor: {[(1 + yp)/(l - p)]
+ - [2yp(l - (p")/n(l - (p)2]}1/2 where n is the number of years and (p is the estimated first-order autocorrelation
+ in the yearly coefficients. As noted by Abarbanell and Bernard, this adjustment factor assumes that the serial
+ correlation is first-order autoregressive.
+
+ 23 The Z, statistic, which assumes residual independence, is (1/n /2) ,=t (til/k,/k, - 21'/2) where ti is the White's
+
+ t-statistic for year n, k, are the degrees of freedom, and n is the number of years (12). The Z2 statistic is: mean
+ t-statistic/(standard deviation of t-statistics/ {n - 1 } /2). See White (1984) for further support.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 347
+
+ in fact, POLLUTE simply represents an omitted confounding variable. We present additional
+ evidence regarding the role of potential confounds by modifying Equation (2) to allow all
+ model coefficients to vary across the environmental performance subsets:
+
+ V = mo + -iABV + lq2ECE + 'q3NECE + x4AE + lsPOLLUTE
+
+ + T16ABV*POLLUTE + 197 ECE*POLLUTE + 18 NECE*POLLUTE
+ + 119 AE*POLLUTE + rT (3)
+
+ where all terms are previously defined.
+
+ The results of this analysis, reported in Table 4, are consistent with the results from
+ preceding analyses on the four primary coefficient tests. Specifically, the coefficient on ECE
+ for low-polluting firms is positive and reliably exceeds both 0 (p = 0.012) and unity (p
+ = 0.095); the coefficient on ECE for high-polluting firms (12 + 17) is statistically indistin-
+ guishable from 0 (p = 0.424); and the estimate of lq5 is reliably less than 0 (p = 0.007).
+ However, of more immediate interest, with the exception of ECE*POLLUTE, none of the
+ interaction terms are significant. The p-values on ABV*POLLUTE, NECE*POLLUTE, and
+
+ Pooled GLS Regression Estimates for the Extended Market Valuation Model
+
+ for 256 Firm-Year Observations from the Period 1989-2000a
+
+ TABLE 4
+
+ V = s,o + x1iABV + 12ECE + 13NECE + x4AE + l95POLLUTE + 16ABV*POLLUTE
+
+ + x17ECE*POLLUTE + -98NECE*POLLUTE + x19AE*POLLUTE + ,r
+
+ ABV ECE NECE AE POLLUTE
+
+ Intercept (+) (+) (+) (+) (-)
+ -170.979 1.142 2.366 4.994 1.749 -739.677
+ (0.298) (<0.001) (0.023) (0.006) (0.005) (0.014)
+
+ ABV*POLLUTE ECE*POLLUTE NECE*POLLUTE AE*POLLUTE
+
+ (? () (-) (?) (?)
+
+ -0.0332 -2.211 -0.677 -0.751
+ (0.394) (0.025) (0.490) (0.303)
+
+ Primary Coefficient Tests p-value
+ )2 > 0 0.012
+ 12 > 1 0.095
+ )12 + )7 = 0 0.424
+ 5ls < 0 0.424
+
+ a Two-tailed p-values are reported in parentheses for the hypothesis that the coefficient is equal to 0. For the
+
+ primary coefficient tests, reported p-values are one-tailed whenever we have directional predictions.
+
+ Variable definitions: V is the market value of the firm's common equity (in $millions); ABV is the firm's
+ adjusted book value of common equity (in $millions) equal to book value minus current period capital
+ expenditure (ECE + NECE); ECE and NECE are the firm's current period environmental and nonenvironmental
+ capital expenditures (in $millions), respectively; AE is the firm's abnormal earnings (in $millions) defined as
+ earnings to common equity less an assumed cost of capital based on the CAPM times the book value of
+ common equity; and POLLUTE is the firm's relative environmental performance measure set equal to 0 for firm-
+ years in the low EPTR partition (firms with below the median EPTR in a given year) and equal to 1 for firm-
+ years in the high EPTR partition.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 348
+
+ Clarkson, Li, and Richardson
+
+ AE*POLLUTE estimates are 0.394, 0.490, and 0.303, respectively. Further, the results of
+ F-tests (untabulated) reject the null hypothesis that the coefficients for the high-polluting
+ group are equal to 0 for all but ECE. Thus, the only estimated coefficient that differs
+ between the low- and high-polluting groups is that on ECE, which reinforces the argument
+ that it is unlikely our results are being driven by omitted variables correlated with
+ POLLUTE.24
+
+ Assessing the Impact of Negative Abnormal Earnings
+
+ Given the large number of firm-year observations with negative abnormal earnings, we
+
+ modify Equation (2) to allow for different coefficients for firm-years with negative abnormal
+ earnings. Since persistence may differ across negative and positive abnormal earnings, re-
+ stricting the coefficient to be the same across the two groups potentially results in model
+ misspecification. Panel A of Table 5 reports the results for Equation (2) for the 105 firm-
+ years when AE is positive. Three of the four coefficient tests are consistent with the pre-
+ diction of H1-H3. In Panel B of Table 5, for the 151 firm-years when AE is negative, three
+ of the four coefficient tests again are consistent with the predictions of H1-H3, but the
+ results re garding H are mixed. Specifically, the coefficient on ECE, 1.729, reliably exceeds
+ 0 (p = 0.025) but does not reliably exceed unity (p = 0.203). Nonetheless, our results lead
+ us to conclude that the main inferences regarding of Hi-H3 are not driven by this potential
+ source of model misspecification.25
+
+ Using a Continuous Measure to Capture Relative Environmental Performance
+
+ We repeat the estimation of Equation (2) using a continuous measure, EPTR, instead
+
+ of a dummy variable, POLLUTE, to capture relative environmental performance. A contin-
+ uous EP measure implies that low-polluting firms also have unbooked environmental lia-
+ bilities. This is inconsistent with theory and intuition. Nonetheless, our results (untabulated)
+ are qualitatively equivalent to those reported in Panel A of Table 2 when POLLUTE is
+ replaced with a continuous measure, EPTR, in Equation (2). Specifically, all four coefficient
+ tests again are consistent with the predictions of H1-H3.
+
+ Depreciation and Cumulative ECE
+
+ The analysis presented above implicitly assumes that 100 percent of current period
+ capital expenditures are included in book value of common equity at year-end. Clearly,
+ however, the firm will depreciate these expenditures over the useful life of the project,
+ including an appropriate portion in the year of outlay. In addition, the analysis does not
+ isolate the undepreciated ECE from previous years that is also part of year-end book value.
+ Ideally, we would like to base our analysis on only the undepreciated current period ECE
+ plus book value of prior years' undepreciated ECE.
+
+ Unfortunately, our sample firms do not disclose a separate depreciation schedule for
+
+ ECE or a separate account for undepreciated ECE. To address these issues, we estimate a
+ year-by-year depreciation rate for each of our sample firms based on the reported gross and
+ net capital asset account balances, assuming that net increases occur at the midpoint of the
+ year. Although an average of the rates that the firm applies to various assets is unlikely to
+
+ 24 As a further check for potential confounds, we repeat the estimation of Equation (2) by employing a fixed-
+
+ effects model allowing the intercept to vary by firm, and second including the firm characteristics Leverage,
+ Asset Age, and Liquidity as additional variables. Both of these approaches yield results almost identical to those
+ reported in Panel A of Table 2.
+
+ 25 Our main inferences are also unaffected when we separately estimate Equation (2) for the two subperiods, 1989-
+
+ 1994 and 1995-2000, referred to in Panel C of Table 1.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Pooled GLS Regression Estimates of the Market Valuation Model for a Sample of Pulp and Paper Companies
+
+ from the Period 1989-2000 Partitioned on the Basis of Abnormal Earnings (AE)a
+
+ TABLE 5
+
+ Panel A: Firm-years with AE > 0, n = 105
+
+ Intercept ABV ECE POLLUTE NECE POLLUTE AE POLLUTE Adj. R2
+ -116.937 1.305 2.463 -2.307 4.365 -0.263 5.802 -525.831 0.825
+
+ (0.250) (<0.001) (0.037) (0.049) (0.014) (0.375) (<0.001) (0.008)
+
+ ECE* NECE*
+
+ Primary Coefficient Tests p-value
+ 12 > 0 0.019
+ ,P2> 1 0.107
+ 32 + 3 = 0.401
+ 37 < 0
+
+ Panel B: Firm-years with AE < 0, n = 151
+
+ Intercept ABV ECE POLLUTE NECE POLLUTE AE POLLUTE Adj. R2
+ -129.812 1.403 1.729 -1.761 3.190 -0.222 1.692 -428.482 0.867
+
+ (0.258) (<0.001) (0.049) (0.030) (<0.001) (0.408) (0.036) (0.046)
+
+ ECE* NECE*
+
+ Primary Coefficient Tests p-value
+ 32 > 0 0.025
+ 12 > 1 0.203
+ 132ki~ n~~~ -_~~ r0.581
+ 12 + 133 = 0.581
+ 2 P 3 - < ?0 0.023
+ 137 < 0
+
+ a Two-tailed p-values are reported in parentheses for the hypothesis that the coefficient is equal to 0. For the primary coefficient tests, reported p-values are one-tailed
+
+ whenever we have directional predictions.
+ V = Po + P1ABV + 32 ECE + f3 ECE*POLLUTE + 34 NECE + 13 NECE*POLLUTE + 6 AE 37 POLLUTE + v.
+ Variable definitions: V is the market value of the firm's common equity (in $millions); ABV is the firm's adjusted book value of common equity (in $millions) equal to
+ the firm's book value of common equity minus current period capital expenditure (ECE + NECE); ECE and NECE are the firm's current period environmental and
+ nonenvironmental capital expenditures (in $millions), respectively; AE is the firm's abnormal earnings (in $millions) defined as earnings to common equity less an
+ assumed cost of capital based on the CAPM times the book value of common equity; and POLLUTE is the firm's relative environmental performance measure set
+ equal to 0 for firm-years with below the median EPTR in a given year and equal to 1 otherwise.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 350
+
+ Clarkson, Li, and Richardson
+
+ be appropriate for any specific class of assets, this estimate appears to be the best available
+ given the limited disclosures.
+
+ First, we repeat the analysis after applying the estimated depreciation rates to both
+ current period ECE and NECE. The pooled GLS results for Equation (2), with ECE and
+ NECE now measured as the estimated undepreciated current period ECE and NECE, and
+ ABV measured as book value of common equity net of undepreciated current period ECE
+ and NECE (untabulated), indicate that our conclusions are robust to this adjustment. We
+ find that the coefficient on ECE for low-polluting firms reliably exceeds 0 (p = 0.022) and
+ unity (p = 0.065), while the coefficient on ECE for high-polluting firms is not statistically
+ distinguishable from 0 (p = 0.305). In addition, the negative and significant estimate of f7
+ is reliably less than 0 (p < 0.001). Thus, these results are consistent with the predictions
+ of H1-H3.
+
+ Second, for the 15 firms with complete ECE data for the eight-year period (1992-
+ 1999), we determine the balance of cumulative undepreciated ECE made from 1992 up
+ until the end of each of 1997, 1998, and 1999, based on the estimated depreciation rates.
+ We then pool the 1997-1999 data (45 firm-years) and estimate the pooled GLS model
+ (Equation (2)) with the ECE variable measured as the estimated cumulative undepreciated
+ ECE in book value at the end of each of the relevant years. ABV is measured as book value
+ of common equity at year-end net of the estimated cumulative undepreciated ECE balance
+ and the undepreciated current period NECE. Again, the results (untabulated) are consistent
+ with the previous analysis and are consistent with the predictions of H1-H3. Specifically,
+ we find that the coefficient on ECE for low-polluting firms reliably exceeds 0 (p = 0.001)
+ and unity (p = 0.022), while the coefficient on ECE for high-polluting firms is not statis-
+ tically distinguishable from 0 (p = 0.249). We also find the estimate of P is negative and
+ reliably less than 0 (p = 0.003).
+
+ Pooling across years, the weighted average annual depreciation rates are 7.8 percent
+ and 7.2 percent for low- and high-polluting firms, respectively. The difference is statistically
+ indistinguishable from 0 (Mann-Whitey p = 0.559). This finding, together with the above
+ sensitivity analyses, allows us to conclude that measurement error with respect to depre-
+ ciation and cumulative ECE is not driving our results.
+
+ VI. SUMMARY AND CONCLUSIONS
+
+ The objective of this study is to examine the market valuation of environmental capital
+ expenditure investment related to pollution abatement in the pulp and paper industry. Our
+ total sample ECE spending of $8.7 billion during 1989-2000 supports the focus on this
+ industry. In order to be capitalized, an asset should be associated with future economic
+ benefits. The existing environmental literature suggests that investors condition their eval-
+ uation of the future economic benefits arising from ECE on an assessment of the firms'
+ environmental performance. This literature predicts the emergence of two environmental
+ stereotypes: low-polluting firms that overcomply with existing environmental regulations,
+ and minimal compliance high-polluting firms. Using the median emission data to partition
+ firms, our valuation evidence indicates that there are incremental economic benefits asso-
+ ciated with ECE investment by low- but not high-polluting firms. This finding may be
+ useful to the FASB if they reconsider the issue of whether to capitalize ECE.
+
+ We also find that investors use environmental performance information to assess un-
+ booked environmental liabilities, which we interpret to represent the future abatement
+ spending obligations of high-polluting firms in the pulp and paper industry. We estimate
+ average unbooked liabilities of $560 million for high-polluting firms, or 16.6 percent of
+ market capitalization. These estimates are consistent with the corresponding estimates of
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 351
+
+ 28.8 percent and 16.3 percent of market capitalization, made by Barth and McNichols
+ (1994) and Hughes (2000), respectively, for the industries which they examine. These find-
+ ings are beneficial to SEC enforcement staff, because they indicate which types of firms
+ face unfavorable capital spending obligations arising from impending environmental leg-
+ islation. Finally, our methodology for reliably ranking pulp and paper firms in terms of
+ environmental performance measures suggests that such performance measures are suitable
+ for audit, which is of interest to providers of assurance of firm environmental reports.
+
+ We stress several limitations regarding our study. First, we provide indirect capital
+ market evidence of the claimed benefits to voluntary environmental overcompliance, sug-
+ gested by theory and by practitioners. We demonstrate greater profitability of low-polluting
+ relative to high-polluting firms in the later years (1995-2000) of our sample. However, we
+ leave it to future research to conclusively demonstrate more direct evidence and to discrim-
+ inate between the various theories of overcompliance. Second, while our results are robust
+ to a variety of robustness checks, the reader should be aware of the potential for measure-
+ ment error in our proxies. For example, we could only approximate the depreciation rate
+ that our sample firms used for our current and cumulative ECE. Third, a maintained but
+ not directly tested assumption is that the label "low polluting" captures a deliberate strategic
+ choice on the part of such firms to benefit from overcompliance as suggested by economic
+ theory. While we find this assumption plausible given the regulatory setting, whereby low-
+ polluting firms dictate the environmental spending of high-polluting firms, and have at-
+ tempted to eliminate plausible rival explanations, we do not test this assumption explicitly.
+ Fourth, any self-selection bias not controlled for in our tests potentially confounds infer-
+ ences. The fact that the high-polluting dummy variable interacts as predicted with environ-
+ mental capital expenditures, but is insignificant when interacted with nonenvironmental
+ capital expenditures, leads us to conclude that correlated omitted variables are not driving
+ our results. This adds credence to our measure of latent environmental liabilities estimated
+ with this categorical variable. Finally, our results are confined to a single industry. A useful
+ avenue for future research would be to explore whether our ECE findings generalize to
+ other industries.
+
+ REFERENCES
+
+ Abarbanell, J., and V. Bernard. 2000. Is the U.S. stock market myopic? Journal of Accounting Re-
+
+ search (Autumn): 221-242.
+
+ Aboody, D., and B. Lev. 1998. The value-relevance of intangibles: The case of software capitalization.
+
+ Journal of Accounting Research (Supplement): 161-191.
+
+ Arora, S., and S. Gangopadhyay. 1995. Toward a theoretical model of voluntary overcompliance.
+
+ Journal of Economic Behaviour and Organization: 289-309.
+
+ Baltagi, B., and Y. Chang. 1994. Incomplete panels: A comparative study of alternative estimators
+
+ for the unbalanced one way error component regression model. Journal of Econometrics: 67-
+ 89.
+
+ . 1995. Econometric Analysis of Panel Data. Chichester, U.K.: John Wiley & Sons.
+
+ Barth, M. E., and M. F. McNichols. 1994. Estimation and market valuation of environmental liabilities
+
+ relating to superfund sites. Journal of Accounting Research (Supplement): 177-209.
+
+ , and G. P. Wilson. 1997. Factors influencing firms' disclosures about environmental
+
+ liabilities. Review of Accounting Studies (2): 35-64.
+ , W. H. Beaver, and W. R. Landsman. 1998. Relative valuation roles of equity book value and
+ net income as a function of financial health. Journal of Accounting and Economics (February):
+ 1-34.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 352
+
+ Clarkson, Li, and Richardson
+
+ , and . 2001. The relevance of the value relevance literature for financial
+
+ accounting standard setting: Another view. Journal of Accounting and Economics (31): 77-104.
+ , and G. Clinch. 2001. Scale effects in capital markets-based accounting research. Working
+
+ paper, Stanford University.
+
+ Beets, S. D., and C. C. Souther. 1999. Corporate environmental reports: The need for standards and
+
+ an environmental assurance service. Accounting Horizons 13 (June): 129-145.
+
+ Bernard, V. 1987. Cross-sectional dependence and problems in inference in market-based accounting
+
+ research. Journal of Accounting Research (Spring): 1-48.
+
+ Campbell, K., S. E. Sefcik, and N. S. Soderstrom. 1998. Site uncertainty, allocation uncertainty, and
+
+ superfund liability valuation. Journal of Accounting and Public Policy 17 (Winter): 331-366.
+
+ Canadian Institute of Chartered Accountants (CICA). 1993. Environmental Costs and Liabilities: Ac-
+
+ counting and Financial Reporting Issues. Toronto, Ontario: CICA.
+
+ Canning, K. 1998. Cluster rule forces changes for pulp and paper mills. Polluting Engineering (Feb-
+
+ ruary 1).
+
+ Cole, C. 1991. Recent staff comments on environmental costs. Journal of Corporate Accounting and
+
+ Finance (Autumn): 119-124.
+
+ Cormier, D., M. Magnan, and B. Morard. 1993. The impact of corporate pollution on market valuation:
+
+ some empirical evidence. Ecological Economics (8): 135-155.
+ , and . 1997. Investors' assessment of implicit environmental liabilities: An empirical
+
+ investigation. Journal of Accounting and Public Policy (16).
+
+ Environmental Protection Agency (EPA). 1997. Fact Sheet: EPA Final Pulp, Paper and Paperboard
+
+ "Cluster Rule"-Overview. EPA-821-F-97-010 (November). Washington, D.C.: Government
+ Printing Office.
+
+ Feltham, G. A., and J. A. Ohlson. 1996. Uncertainty resolution and the theory of depreciation mea-
+
+ surement. Journal of Accounting Research (Autumn): 209-238.
+
+ Financial Accounting Standards Board (FASB) Emerging Issues Task Force (EITF). 1989. Accounting
+
+ for the Cost of Asbestos Removal. Issue 89-13 (October 26). Stamford, CT: FASB.
+
+ . 1990. Capitalization of Costs to Treat Environmental Contamination. Issue 90-8 (July 12).
+
+ Stamford, CT: FASB.
+
+ Globe & Mail. 1994. Macblo loses another British customer: Kimberly-Clark cancels $2.5-million
+
+ pulp contract after environmental audit, Greenpeace says. (B4): March 18.
+ Greene, W. H. 2000. Econometric Analysis. Upper Saddle River, NJ: Prentice Hall.
+ Healy, P. M., S-H. Kang, and K. G. Palepu. 1987. The effect of accounting procedure changes on
+
+ CEOs' cash salary and bonus compensation. Journal of Accounting and Economics (April): 7-
+ 35.
+
+ Holthausen, R. W., and R. L. Watts. 2001. The relevance of the value-relevance literature for financial
+
+ accounting standard setting. Journal of Accounting and Economics (31): 3-75.
+
+ Hughes, K. E. 2000. The value relevance of nonfinancial measures of air pollution in the electric
+
+ utility industry. The Accounting Review (April): 209-228.
+
+ Ittner, C. B., and D. F. Larcker. 1998. Are nonfinancial measures leading indicators of financial
+
+ performance? An analysis of customer satisfaction. Journal of Accounting Research (Supple-
+ ment): 1- 35.
+
+ Johnson, F. M. 1995. The disclosure and valuation of environmental capital expenditure. Working
+
+ paper, University of Michigan.
+
+ Joshi, S., R. Krishnan, and L. Lave. 2001. Estimating the hidden costs of environmental regulation.
+
+ The Accounting Review (April): 171-198.
+
+ King, A., and M. Lenox. 2001. Lean and green? An empirical examination of the relationship between
+
+ lean production and environmental performance. Production and Operations Management
+ (Fall): 244-256.
+
+ Konar, S., and M. Cohen. 1997. Information as regulation: The effect of community right to know
+ laws on toxic emissions. Journal of Environmental Economics and Management (32): 109-124.
+
+ Lockwood-Post's Directory of Pulp, Paper and Allied Trades. 1996. New York, NY: Miller Freeman,
+
+ Inc.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Market Valuation of Environmental Capital Expenditures
+
+ 353
+
+ Magat, W. A., and W. K. Viscusi. 1990. Effectiveness of the EPA's regulatory enforcement: The case
+
+ of industrial effluent standards. Journal of Law and Economics (October): 331-360.
+
+ McCain, R. A. 1978. Endogenous bias in technical progress and environmental policy. American
+
+ Economic Review (68): 538-546.
+
+ National Council for Air and Stream Improvement. 2002. A Survey of Pulp and Paper Industry
+
+ Environmental Protection Expenditures-2000. Special Report No. 02-02, February. Kalamazoo,
+ MI: National Council for Air and Stream Improvement.
+
+ Noreen, E. 1989. Computer-Intensive Methods for Testing Hypotheses: An Introduction. New York,
+
+ NY: Wiley.
+
+ Ohlson, J. A. 1995. Earnings, book values, and dividends in equity valuation. Contemporary Account-
+
+ ing Research (Spring): 661-687.
+
+ Porter, M. E., and C. van der Linde. 1995. Toward a new conception of the environment-
+
+ competitiveness relationship. Journal of Economic Perspectives (Fall): 97-118.
+
+ Pulp and Paper Workers' Resource Council (PPWRC). 2000. Press release. (January 18). PPRC Po-
+ sition Concerning EPA's Proposed New Water Regulation. Springfield, OR: Pulp and Paper
+ Workers Resource Council.
+
+ Salop, S. C., and D. T. Scheffman. 1983. Raising rivals' costs. The American Economic Review 72
+
+ (2): 267-271.
+ , and . 1987. Cost-raising strategies. The Journal of Industrial Economics XXXVI
+ (September): 19-34.
+
+ Siegel, J. 1999. The shrinking equity premium. Journal of Portfolio Management 26 (Fall): 10-17.
+ Walton, S., R. B. Handfield, and S. A. Melnyk. 1998. The green supply chain: Integrating suppliers
+
+ into environmental management processes. International Journal of Purchasing and Materials
+ Management (Spring): 2-11.
+
+ White, H. 1984. Asymptotic Theory for Econometricians. Orlando, FL: Academic Press.
+
+ The Accounting Review, April 2004
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:29:54 UTC
+
+All use subject to http://about.jstor.org/terms
+

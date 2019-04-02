@@ -1,0 +1,639 @@
+ 
+ 
+Amortization Policy for Advertising and Research and Development Expenditures
+Author(s): Mark Hirschey and  Jerry J. Weygandt
+Source: Journal of Accounting Research, Vol. 23, No. 1 (Spring, 1985), pp. 326-335
+Published by: Wiley on behalf of Accounting Research Center, Booth School of Business,
+University of Chicago
+Stable URL: http://www.jstor.org/stable/2490921
+Accessed: 02-08-2017 20:37 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+Wiley is collaborating with JSTOR to digitize, preserve and extend access to Journal of
+Accounting Research
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Journal of Accounting Research
+
+ Vol. 23 No. 1 Spring 1985
+
+ Printed in U.S.A.
+
+ Amortization Policy for
+
+ Advertising and Research and
+
+ Development Expenditures
+
+ MARK HIRSCHEY* AND JERRY J. WEYGANDTt
+
+ Several reasons exist for differences between the value of the firm
+ reflected by stock market values and the historical value reported in
+ accounting financial statements. One major one is that financial state-
+ ments are limited to those items that meet the present-day recognition
+ criteria employed by the accounting profession. Thus, potentially rele-
+ vant items such as advertising and research and development (R&D) are
+ not reported on balance sheets because they do not meet the qualitative
+ criterion of reliability. To date, little empirical evidence exists to support
+ an intangible capital treatment of advertising and R&D, much less
+ provide any information as to how their capitalized values might be
+ amortized (for a notable exception, see Peles [1970]). Indeed, in State-
+ ment of Financial Accounting Standards No. 2, the FASB took the
+ position that practically all R&D should be expensed as incurred. Al-
+ though no formal reporting standard exists on the proper accounting for
+ advertising expenditures, its accounting treatment is similar to that
+ employed for R&D.
+
+ Nevertheless, the definition of assets developed in Statement of Finan-
+ cial Accounting Concepts No. 3 suggests that, in some cases, advertising
+ and R&D could be capitalized. In addition, recent work on recognition
+ criteria as part of the conceptual framework project suggests there may
+ be new ways of reporting these types of items.
+
+ This paper considers the advertising and R&D expenditure treatment
+
+ * Associate Professor, University of Colorado at Denver; t Professor, University of
+ Wisconsin-Madison. Useful comments by an anonymous referee are gratefully acknowl-
+ edged. Of course, we alone are responsible for any errors. [Accepted for publication February
+ 1984.]
+
+ 326
+
+ Copyright ?, Institute of Professional Accounting 1985
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ AMORTIZATION POLICY FOR ADVERTISING 327
+
+ issue from a market value perspective. The approach consists of deter-
+ mining whether advertising and R&D expenditures have a positive effect
+ on the market value of the firm. If they do, evidence would be present to
+ suggest their accounting treatment as intangible assets to be amortized
+ over their useful lives.
+
+ Our results suggest that both advertising and R&D expenditures have
+ systematic influences on the market value of the firm that persist over
+ time, and therefore can be thought of as forms of intangible capital
+ investment. These findings also provide a basis for determining a relevant
+ range for economic amortization rates.
+
+ First, the relevant accounting literature is reviewed, and a description
+ of the market value approach is provided. Then, econometric issues are
+ explored and a method for dealing with estimation problems is developed.
+ And finally, empirically derived amortization rate estimates for advertis-
+ ing and R&D are provided, as is a discussion of the limitations of the
+ analysis and directions for future research.
+
+ Review of Literature
+
+ Amortization policy for advertising and R&D is a controversial subject
+ as indicated by research in the accounting, economics, and marketing
+ literatures.' Still, acceptance of the view of advertising and R&D as
+ intangible assets seems to be increasing. Unfortunately, no real consensus
+ has emerged on the duration of these intangible assets.
+
+ In the accounting literature, Peles [1970] and Abdel-khalik [1975]
+ found different amortization rates for the promotional costs of firms in
+ different industries, and Falk and Miller [1977] reported nonuniform
+ patterns of advertising amortization for individual firms in the same
+ industry. Perhaps it is not surprising that Picconi [1977, p. 317] remarks
+ that, "Despite findings which clearly suggest that there may be long-
+ lived advertising assets in some industries, it is troublesome that even
+ among the most heavily advertised products, a systematic relationship
+ between advertising/sales or market share cannot consistently be found."
+
+ The difficulty may be due, in part, to the reliance on simple distributed
+
+ lag models relating, for example, sales and advertising expenditures. As
+ Clarke [1976] points out, distributed lag models are especially susceptible
+ to data interval bias. Peles [1979] argues that simple distributed lag
+ models between sales and a firm's own level of advertising are subject to
+ important omitted variables problems. Both Clarke and Peles recommend
+ that alternative approaches be sought.
+
+ In this paper, we conduct a market-value-based investigation of adver-
+ tising and R&D as intangible capital. In the economics literature,
+ Thomadakis [1977], Lindenberg and Ross [1981], and Hirschey and
+ Wichern [1984], among others, have argued that the market (economic)
+
+ 1 For reviews of the literature, see Kamien and Schwartz [1975], Comanor and Wilson
+
+ [1979], and Gonedes and Dopuch [1979].
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 328 JOURNAL OF ACCOUNTING RESEARCH, SPRING 1985
+
+ value of the firm will reflect both tangible and intangible factors which
+ have systematic influences on future profitability. Ross [1983] recom-
+ mends a market-value-based approach as an attractive means for deter-
+ mining the assetlike characteristics of advertising, R&D, and other such
+ expenditures.
+
+ Accounting Versus Market Values
+
+ The market value of the firm can be expressed as:
+
+ MV(F) = MV(T) + MV(I), (1)
+
+ where MV(F) is market value, and MV(T) and MV(I) are the capitalized
+ values of profits attributable to tangible and intangible assets, respec-
+ tively.2
+
+ While the market value of the firm is observable, subcomponents
+ MV(T) and MV(I) are not. However, accounting book values and
+ replacement cost values can be viewed as useful, though imperfect,
+ measures of the market value of tangible assets. Using these accounting
+ data, one can in principal isolate the market value effects of tangible
+ assets from any additional influences of intangible assets such as good-
+ will, market power, brand loyalty, patents, etc.
+
+ One approach involves using a measure commonly referred to as the
+
+ "Q ratio" where:
+
+ Q MV(F) 2
+
+ RC(T)' (2)
+
+ and RC(T) is the replacement cost of tangible assets (see Tobin
+ [1978]). Ignoring measurement errors, a value of Q greater than one
+ indicates valuable intangible assets not reflected in replacement cost
+ data. Therefore, by considering the effects of advertising and R&D on Q.
+ we can learn whether or not such expenditures give rise to intangible
+ capital. Since MV(T) = RC(T) + e, for testing purposes:
+
+ MV(I) + e,
+
+ = f1(AD, R&D, X) + e,
+
+ where AD is advertising, R&D is research and development, and X is a
+ vector of additional factors which influence Q.
+
+ Interestingly, Ross has argued that it is obvious from a casual obser-
+
+ 2 With respect to advertising and R&D, any intangible capital influence is due, in part,
+
+ to what we call the tax effect. Being able to expense their intangible investments, firms
+ which invest in advertising and R&D will gain an immediate tax deduction, and by virtue
+ of that fact will gain a pecuniary advantage over firms which invest largely in tangible
+ assets that must be capitalized. In the case of a constantly growing firm, the current
+ expense treatment of advertising and R&D will lead to a permanent tax forgiveness.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ AMORTIZATION POLICY FOR ADVERTISING 329
+
+ vation of recent data that there is a strong relation between Q and the
+ level of firm advertising. Specifically,
+
+ As a wholly unscientific illustration, the highest Q in the [Lindenberg and Ross] sample
+ was attained by Avon Products with a Q of 8.5. In large part this must reflect the value of
+ the public's recognition of the slogan "Avon calling!". As another example, Coca-Cola had
+ a Q of over four. Clearly, not all of the past advertising of these firms has been forgotten.
+ (Ross [1983, p. 378].)
+
+ Of further interest is that among the five industry groups cited by
+ Lindenberg and Ross as having the highest average Q ratios over the
+ 1960-77 period, a propensity for high levels of R&D can also be noted.
+ For example, Measure and Photo Equipment (SIC code 30), Chemicals
+ (28), Electrical Machinery (36) and Nonelectrical Machinery (35) all
+ have high Q levels, and are also among the most R&D intensive of all
+ industry groups. Thus, the Lindenberg and Ross data suggests that Q
+ may be related to R&D as well as advertising.
+
+ Econometric Model
+
+ To isolate the marginal valuation influences of advertising and R&D
+ one must control for other X important factors. One potential influence
+ to be controlled for is market structure, as captured by the four firm
+ concentration ratio data (see Lindenberg and Ross [1981]). These data
+ reflect the market share held by the top four firms in an industry (see
+ Appendix A for further discussion). To the extent that high levels of
+ concentration indicate sustainable market power and an ability to restrict
+ output, continued output restriction will lead to economic rates of return
+ above competitively determined long-run equilibrium levels. If investors
+ perceive lasting market power, the value of the firm will be bid up so
+ that ex post investors receive only a risk-adjusted normal rate of return.
+ Thus, higher market values will be observed where market power is
+ sustainable. In addition, if future investments are expected to earn above
+ normal rates of return, and if exogenous growth is an important deter-
+ minant of these returns, then growth will have a positive effect on market
+ values (see Miller and Modigliani [1961]). And finally, while growth
+ affects the magnitude of anticipated excess returns, a valuation influence
+ may be associated with the degree of stability such returns exhibit. One
+ would expect that the risk of future excess returns would affect market
+ value in that highly variable return streams will tend to be less valued,
+ ceteris paribus (see Thomadakis [1977]).
+
+ Thus, the simplest model relating the market value of the firm to
+
+ normalized advertising and R&D expenditures can be written:
+
+ Q = ao + alAD/S + a2R&D/S + a3CR+a4GR + a5B + e, (4)
+
+ where Q is the ratio of market value to replacement costs, AD/S is
+ advertising intensity, R&D/S is R&D intensity, CR is the four-firm
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 330 M. HIRSCHEY AND J. J. WEYGANDT
+
+ concentration ratio measure of market structure, GR is growth, and B is
+ the stock price beta measure of risk.
+
+ While previous studies have estimated models similar to that given in
+ (4), such estimation may be subject to both multicollinearity and simul-
+ taneous equations bias problems (see Strickland and Weiss [1976]). Since
+ the complete structure of the underlying simultaneous system, if any, is
+ unknown, we control for possible correlations between advertising inten-
+ sity and concentration, and/or R&D intensity and concentration using a
+ two-step approach. First, we estimate the concentration effects of adver-
+ tising and R&D intensity. This yields a predicted value for concentration,
+ OR, where:
+
+ CR = bo + biAD/S + b2R&D/S + e. (5)
+
+ Then, residual concentration, CR = CR - CR, which is orthogonal with
+ respect to both advertising and R&D intensity, is inserted in our model,
+ yielding:
+
+ Q = co + cADIS + c2R&D/S + c3CR + c4GR + c5B + e. (6)
+
+ Estimation
+
+ Ordinary least squares results for our model over a 390-firm sample
+
+ taken from the 1977 Fortune 500 survey are provided in table 1. This
+ sample, described more fully in Appendix A, is attractive in that it is
+ representative of firms from a broad spectrum of U.S. industry. Estimates
+ using three samples of firms are reported.
+
+ Model Estimation Results for Nondurable, Durable, and Combined Firm Samples
+
+ TABLE 1
+
+ Dependent Variable Is Q
+
+ Nondurable Goods Durable Goods All Firms
+ (n = 193) (n = 197) (n = 390)
+
+ Constant ......... 0.453 0.484 0.486
+ (3.03)b (4.45)b (5.34) b
+ AD/S ............ 7.925 2.313 7.387
+ (5.96)b (1.12) (7.21)b
+ R&D/S .......... 8.303 6.042 6.724
+ (5.91)b (6.01)b (8.07)b
+ OR .............. . .....0.079 -0.370 -0.194
+ (0.40) (-2.76)" (-1.78)
+ GR ............. 0.865 1.266 1.183
+ (2.23)a (4.37)b (5.01)b
+ B ............. 0.142 0.067 0.069
+ (0.99) (0.68) (0.82)
+ R ............ .. .336 .331 .315
+ F ............. 18.93b 18.90b 35.32b
+
+ t-statistics are in parentheses.
+ aIndicates significance at the a = .05 level (two-tail test).
+ b Indicates significance at the a = .01 level (two-tail test).
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ AMORTIZATION POLICY FOR ADVERTISING 331
+
+ Estimation results for the overall sample suggest an important effect
+
+ of both advertising and R&D on the market value of the firm. Specifically,
+ a one-unit increase in advertising and R&D intensity will lead to large,
+ consistent, positive effects on Q. This implies that a portion of current
+ period advertising and R&D carries over to subsequent periods and
+ suggests that a capitalization and amortization rather than current
+ expense treatment is appropriate in most situations.
+
+ As found by Peles [1970] and Abdel-khalik [1975], important differ-
+ ences in advertising effectiveness between nondurable (ND) versus du-
+ rable (D) goods producers may be present. Indeed, we can reject the
+ hypothesis of no subsample differences, Ho: C1ND = C1D, C2ND = C2D, * ..
+ CkND = CkD, at the a = .05 level (F = 2.18 > F6 378 = 2.10). These subsample
+ differences suggest that whereas the valuation effects of R&D are fairly
+ regular and consistent, long-lived effects of advertising may be narrowly
+ related to the promotion of nondurable goods.3
+
+ Estimating Economic Amortization Rates
+
+ Moving from an expense to a capitalization treatment of intangibles
+ requires estimation of an appropriate rate of amortization. Hirschey
+ [1982] shows that if the economic amortization of advertising and R&D
+ is at a constant rate of, say, a% per period, then:
+
+ ICt= A (1 - a)It-i,
+
+ i=O
+
+ = (1 - a)OIto + E (1 - a)It-i, (7)
+
+ i=1
+
+ =It + (1 - a)ICti1.
+
+ Here It refers to the flow of advertising and R&D expenditures during
+ period t, whereas ICt is the current stock of intangible capital created by
+ such expenditures.
+
+ If 0 < a < 1, then a portion of advertising and R&D expenditures
+ carry over to subsequent periods and constitute investments in intangible
+ capital. On the other hand, if a = 1, then advertising and R&D provide
+ benefits in the current period only and should be expensed rather than
+ capitalized.
+
+ The effect of expenditure growth (net investment) over time can
+ easily be incorporated into the analysis. Where advertising and R&D
+ expenditures grow at a constant rate of y % per period, It = Io(l + ,y) t
+
+ 3 Similar results were also obtained when Thomadakis' relative excess valuation measure
+ was used as an alternative to Q. Relative excess valuation is market value less the book
+ value of tangible assets, all normalized by sales. This suggests that either method might be
+ relied on to provide relevant information on the long-lived effects of advertising, R&D, and
+ other expenditures with similar characteristics.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 332 M. HIRSCHEY AND J. J. WEYGANDT
+
+ Then from (7) we obtain:
+
+ ICt= E (1 - a)Io(l + y)t-i,
+
+ i=O
+
+ - E (1 - a)It(l + y) (8)
+
+ i=O
+
+ =It E(1+o)
+ - ~i=0 + '
+
+ Since (1 - y)/(l + y) < 1, we can apply the power series rule and
+
+ simplify to yield:
+
+ ICt = It1
+
+ 1- -
+
+ 1 1+ 'J (9)
+
+ = it( ) a + y
+
+ Thus, given our assumptions, a constant and proportional relation ICt =
+ cIt would exist between the stock of intangible capital and the flow
+ of advertising and R&D expenditures, and the constant c = (1 + y)/
+ (a + y). This proportionality is important because it allows us to consider
+ the valuation effects of observable advertising and R&D expenditures as
+ reflective of the effects of unobservable intangible capital. That is, dQ/
+ SAD/S = Ci and dQ/IR&D/S = Cj, and i 1 j. An economic amortization
+ rate estimate is provided by the expression:
+
+ l+ Ay-y (10)
+
+ C
+
+ It is expected that estimated advertising amortization, ai, and R&D
+ amortization, aj, rates will vary following differences in the economic
+ characteristics of each type of expenditure. Given c's obtained through
+ analysis of an underlying econometric model and iy's provided by histor-
+ ical experience, at's become readily available. It is important to note that
+ amortization is only appropriate to the extent that c> 1 and C& > 1, for
+ only then will 0 ' & < 1 and 0 c &j < 1.
+
+ Estimates of economic amortization rates for both advertising and
+
+ R&D are provided in table 2. Given the ci's generally in excess of unity
+ which were evident in table 1, a's of less than 100% are suggested. In
+ particular, the large valuation effects of R&D expenditures suggest fairly
+ low rates of economic amortization for R&D. As can be seen from table
+ 2, a's will vary depending upon a firm's sector and the relevant expen-
+ diture growth rate. Thus, a 's should be taken as generally indicative of
+ the economically relevant order of magnitude, rather than as narrowly
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ AMORTIZATION POLICY FOR ADVERTISING 333
+
+ Economic Amortization Rate Estimates for Advertising and R&Da
+
+ TABLE 2
+
+ Advertising Amortization R&D Amortization
+
+ Expenditure
+ Growth Rates Nondurable Durable All Nondurable Durable All
+
+ Goods Goods Firms Goods Goods Firms
+
+ y = 0.00 0.126 0.432 0.136 0.120 0.166 0.149
+ = 0.05 0.082 0.404 0.092 0.076 0.124 0.106
+ = 0.10 0.039 0.376 0.049 0.032 0.082 0.064
+ y = 0.15 nil 0.347 0.006 nil 0.040 0.021
+
+ ' Amortization rate estimate a = (1 + - -c7)/.
+
+ indicative of individual firm values. R&D amortization rate estimates
+ generally fall in the 10 to 20% range. More modest, and somewhat more
+ variable, valuation effects of advertising expenditures suggest economic
+ amortization for advertising in the 10 to 20% range in the nondurable
+ goods sector, and 30 to 60% range in the durable goods sector.
+
+ Concluding Remarks
+
+ In this paper we provide a basis for determining the extent to which
+
+ advertising and R&D have long-lived benefits. Given our estimate of the
+ average size of market value effects, we then derive tentative estimates
+ of economic amortization rates.
+
+ Our results show a positive effect of advertising and R&D on the
+
+ market value of the firm, thereby suggesting these expenditures should
+ be capitalized and then amortized rather than treated as an expense as
+ incurred. While our results suggest a one- to five-year "life" for advertis-
+ ing and a five- to ten-year life for R&D, we believe further research on
+ the factors affecting these estimates is necessary before sufficient infor-
+ mation is available to develop an appropriate accounting policy. Further
+ research considering the sensitivity of market value effects to industry
+ and product characteristics, the expenditure patterns of rivals, and a
+ more detailed treatment of simultaneous influences would increase the
+ precision of economic life and amortization rate estimates.
+
+ APPENDIX A
+
+ The Fortune 500 for 1977 was adopted as a sample basis for this study.
+
+ Complete data were obtained on a representative sample of 390 firms from 20
+ product groups. Approximately $5.0 billion in national media advertising and
+ $15.2 billion in R&D were undertaken by sample firms. A broader coverage of
+ private sector R&D (87.3%) than of national media advertising (23.9%) is
+ provided because the Fortune 500 excludes retailers, many of whom (Sears,
+ McDonalds, etc.) are major advertisers. Nevertheless, coverage of both is high.
+ The fact that the sample includes firms which both do and do not spend
+ substantial sums on advertising and R&D is an attractive feature.
+
+ The market value of the firm is measured by the sum of the market value of
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 334 M. HIRSCHEY AND J. J. WEYGANDT
+
+ TABLE 3
+
+ Variable Descriptive Statistics
+
+ Variable Mean S.D.
+
+ Correlation Matrix'
+
+ Q AD/S R&D/S CR GR B
+
+ Q 0.864 0.339 1.000
+ AD/S 0.006 0.014 .323 1.000
+ R&D/S 0.014 0.018 .418 .060 1.000
+ CR 0.445 0.137 .066 .102 .242 1.000
+ GR 0.136 0.061 .253 -.011 .121 .084 1.000
+ B 1.047 0.180 .159 -.041 .317 .049 .087 1.000
+
+ a r = .130 is significant at the a = .01 level.
+
+ common stock and the book value of debt. Ideally, we would have included the
+ market values of each. However, the market value of debt is difficult to obtain,
+ and we believe our measure of market value is a good approximation. Components
+ used to calculate the market value of common shares, number of shares, and
+ closing prices (12/31/77) were obtained from Standard and Poor's Compustat
+ tapes. The book value of debt was calculated using Fortune data. Q is calculated
+ as the ratio of the market value of the firm to the replacement cost of tangible
+ assets. Replacement cost data were obtained from annual 10-K reports to the
+ Securities and Exchange Commission, whereas sales and the (historical cost)
+ book value of tangible assets data were obtained from Fortune.
+
+ All advertising data have Leading National Advertisers as their source, while
+ R&D expenditures were obtained from Business Week. Four-firm concentration
+ ratios weighted to reflect firm sales in various four-digit and census industries
+ were originally compiled by Economic Information Systems Inc. and generously
+ made available to this study by Kenneth M. Harlan. See Hirschey [1982] for a
+ detailed description. Growth is measured as the average annual rate of change in
+ sales where GR = 51S1977/1972 - 1. And finally, risk is measured by stock price
+ betas estimated using 60 observations of monthly data obtained from Value Line.
+
+ Variable descriptive statistics are provided in table 3.
+
+ REFERENCES
+
+ ABDEL-KHALIK, A. R. "Advertising Effectiveness and Accounting Policy." The Accounting
+
+ Review (October 1975): 657-70.
+
+ CLARKE, D. G. "Econometric Measurement of the Duration of Advertising Effect on Sales."
+
+ Journal of Marketing Research (November 1976): 345-57.
+
+ COMANOR, W. S., AND T. A. WILSON. "Advertising and Competition: A Survey." Journal
+
+ of Economic Literature (June 1979): 453-76.
+
+ FALK, H., AND J. C. MILLER. "Amortization of Advertising Expenditures." Journal of
+
+ Accounting Research (Spring 1977): 12-22.
+
+ GONEDES, N. J., AND N. DOPUCH. "Economic Analyses and Accounting Techniques:
+
+ Perspectives and Proposals." Journal of Accounting Research (Autumn 1979): 384-410.
+
+ HIRSCHEY, M. "Intangible Capital Aspects of Advertising and R&D Expenditures." Journal
+
+ of Industrial Economics (June 1982): 375-90.
+
+ , AND D. W. WICHERN. "Accounting and Market-Value Measures of Profitability:
+ Consistency, Determinants and Uses." Journal of Business & Economic Statistics (October
+ 1984) 375-83.
+
+ KAMIEN, M. I., AND N. L. SCHWARTZ. "Market Structure and Innovation: A Survey."
+
+ Journal of Economic Literature (March 1975): 1-37.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ AMORTIZATION POLICY FOR ADVERTISING 335
+
+ LINDENBERG, E. B., AND S. A. Ross. "Tobin's q Ratio and Industrial Organization."
+
+ Journal of Business (January 1981): 1-32.
+
+ MILLER, M., AND F. MODIGLIANI. "Dividend Policy, Growth, and the Valuation of Shares."
+
+ Journal of Business (October 1961): 411-33.
+
+ PELES, Y. "Amortization of Advertising Expenditures in the Financial Statements." Journal
+
+ of Accounting Research (Spring 1970): 128-37.
+
+ . "Econometric Measurement of the Duration of Advertising Effect on Sales: A
+
+ Comment." Journal of Marketing Research (May 1979): 284-85.
+
+ PICCONI, M. J. "A Reconsideration of the Recognition of Advertising Assets on Financial
+
+ Statements." Journal of Accounting Research (Autumn 1977): 317-26.
+
+ Ross, S. A. "Accounting and Economics." The Accounting Review (April 1983): 375-80.
+ STRICKLAND, A. D., AND L. W. WEISS. "Advertising, Concentration and Price-Cost Mar-
+
+ gins." Journal of Political Economy (October 1976): 1109-21.
+
+ THOMADAKIS, S. B. "A Value-Based Test of Profitability and Market Structure." Review
+
+ of Economics and Statistics (May 1977): 179-85.
+
+ TOBIN, J. "Monetary Policies and the Economy: The Transmission Mechanism." Southern
+
+ Economic Journal (April 1978): 421-31.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:37:21 UTC
+
+All use subject to http://about.jstor.org/terms
+

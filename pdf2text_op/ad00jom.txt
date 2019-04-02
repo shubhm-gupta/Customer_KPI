@@ -1,0 +1,5067 @@
+Journal of Operations Management 18 2000 549–575
+
+(cid:14)
+
+.
+
+www.elsevier.comrlocaterdsw
+
+The impact of design management and process management on
+
+quality: an empirical investigation
+
+Sanjay L. Ahire a,), Paul Dreyfus b,1
+
+a Department of MIS and Decision Sciences, Uni˝ersity of Dayton, 300 College Park, Dayton, OH 45469-2130, USA
+
+b Department of Management, Athens State Uni˝ersity, Athens, AL 35611, USA
+
+Received 21 May 1998; accepted 6 October 1999
+
+Abstract
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+Design management and process management are two important elements of total quality management TQM
+implementation. They are drastically different in their targets of improvement, visibility, and techniques. In this paper, we
+establish a framework for identifying the synergistic linkages of design and process management to the operational quality
+.
+outcomes during the manufacturing process internal quality and upon the field usage of the products external quality .
+Through a study of quality practices in 418 manufacturing plants from multiple industries, we empirically demonstrate that
+both design and process management efforts have an equal positive impact on internal quality outcomes such as scrap,
+rework, defects, performance, and external quality outcomes such as complaints, warranty, litigation, market share. A
+detailed contingency analysis shows that the proposed model of synergies between design and process management holds
+true for large and small firms; for firms with different levels of TQM experience; and in different industries with varying
+levels of competition, logistical complexity of production, or production process characteristics. Finally, the results also
+suggest that organizational learning enables mature TQM firms to implement both design and process efforts more
+rigorously and their synergy helps these firms to attain better quality outcomes. These findings indicate that, to attain
+superior quality outcomes, firms need to balance their design and process management efforts and persevere with long-term
+implementation of these efforts. Because the study spans all of the manufacturing sectors SIC 20 through 39 , these
+conclusions should help firms in any industry revisit their priorities in terms of the relative efforts in design management and
+process management. q 2000 Elsevier Science B.V. All rights reserved.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+Keywords: TQM; Design management; Process management; Product quality; Empirical; Structural equations modeling
+
+1. Introduction
+
+)
+
+Corresponding author. Tel.: q1-219-237-4283; fax: q1-219-
+
+237-4866.
+E-mail
+
+addresses:
+
+sahire@ iusb.edu
+
+(cid:14)
+
+.
+S.L. Ahire ,
+
+.
+pdreyfus@athens.edu P. Dreyfus .
+
+(cid:14)
+
+1 Tel.: q1-205-233-8120; fax: q1-205-233-8164.
+
+In this paper, we examine two types of organiza-
+tional efforts that contribute to the quality of prod-
+ucts and processes: design management and process
+management. While both are apparently relevant to
+successful total quality management TQM imple-
+
+(cid:14)
+
+.
+
+0272-6963r00r$ - see front matter q 2000 Elsevier Science B.V. All rights reserved.
+PII: S 0 2 7 2 - 6 9 6 3 0 0 0 0 0 2 9 - 2
+
+(cid:14)
+
+.
+
+
+550
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+mentation, they are drastically different in their tar-
+gets of improvement, visibility, and techniques. De-
+sign management efforts are targeted toward improv-
+ing product designs while process management
+strives for quality improvement
+in manufacturing
+techniques and processes. Design management ef-
+forts involve long-term work in the background while
+process management is usually more visible yet tac-
+tical. Finally, they involve different managerial and
+technical tools.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+The manufacturing strategy literature has viewed
+product quality as one of the major competitive
+priorities for attaining a sustainable competitive ad-
+vantage Hill, 1994 . Recently, the speed of new
+product introduction has also been added to this list
+of priorities Kim, 1996 . From a quality manage-
+ment perspective, the speed of new product design
+and development indicates the importance of design-
+ing quality into new products. Because design efforts
+often have a limiting impact on attainable product
+quality, several researchers have stressed the impor-
+tance of designing quality into products Juran, 1981;
+Juran and Gryna, 1993; Hauser and Clausing, 1988;
+Dean and Susman, 1989; Taguchi and Clausing,
+1990; Boothroyd et al., 1994; Mizuno and Akao,
+.
+1994 .
+
+(cid:14)
+
+Although the inherent design of products and
+processes is important, firms have to ensure a consis-
+tent and cost effective attainment of the desired
+product quality during production. Conformance
+quality relates to the need for managing production
+processes to yield products adhering to expected
+specifications. Several researchers emphasize process
+quality management and quality assurance as a way
+of achieving high manufacturing quality Robinson
+and Schroeder, 1990; Benton, 1991; Everett and
+Sohal, 1991; Chen and Tirupati, 1995 . Deming
+(cid:14)
+1986 advocated efficient process management, open
+communication, and systematic identification and re-
+moval of defects and their causes in the process.
+According to Deming, higher process quality results
+from efforts to attribute quality problems to system
+or process instead of workers. This in turn will yield
+high quality products.
+
+(cid:14)
+
+.
+
+.
+
+Designing quality into products and managing
+production quality should both impact quality. Yet,
+few studies have touched upon the relative impor-
+tance of these two phases of quality management.
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+One such study, The American Quality Foundation
+and Ernst and Young study 1992 suggested that
+high quality performance firms invested more efforts
+in design management while low quality perfor-
+mance firms focused on inspections. However, the
+results of this study were published without disclos-
+ing the methodology and statistical analyses. Hence,
+its conclusions cannot be generalized Hendricks and
+.
+Singhal, 1997 . Radhakrishnan and Srinidhi 1994
+presented a framework for determining whether qual-
+ity should be designed into or inspected into prod-
+ucts. Flynn et al. 1995 empirically tested the rela-
+tionship among several elements of quality manage-
+ment. They reported inconclusive results about the
+relative impact of design management and process
+management on manufacturing quality. Greene
+(cid:14)
+1993 suggested that a firm with global quality
+visions should pursue the use of almost one hundred
+specific quality tools, ranging from problem report-
+ing and resolution to quality function deployment.
+Recently, Jayaram et al. 1997 found that typically
+about 38 of these tools were used in various manu-
+facturing firms. They identified the tools with signif-
+icant relationships to various aspects of product qual-
+ity such as aesthetics, reliability, and serviceability.
+They also identified significant tools associated with
+relatively high or low emphasis on each of the
+following four strategies: inspection, process control,
+process improvement, and design quality. However,
+they did not specifically study the relative net impact
+of the use of these strategies on either process or
+product quality. While these studies reported some
+useful observations on the relevance of design and
+process management in quality efforts, a systematic
+analysis of the net impact of these two components
+of TQM efforts on outcomes has not been under-
+taken. In this paper, we present an empirical investi-
+gation of the role of design and process management
+in quality outcomes of manufacturing firms.
+
+(cid:14)
+
+.
+
+2. Model
+
+The primary objective of our research is to exam-
+ine the relative role of design and process manage-
+ment on operational quality results at the plant level.
+We address several questions: 1 Does design man-
+agement affect
+the internally measured quality of
+
+(cid:14) .
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+551
+
+.
+
+(cid:14)
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14)
+.
+products manufactured in the plant
+internal quality ?
+(cid:14) .2 Does it affect the customer perception of the
+quality of products upon field usage external qual-
+ity ? 3 Does process management affect the inter-
+nal and external quality? 4 Do design and process
+management affect operational quality to the same
+extent? 5 Is the relative influence of design and
+process management on the operational quality con-
+tingent upon organizational context variables such as
+size, quality management experience, and industry?
+We incorporate these questions in the form of a
+conceptual model shown in Fig. 1 that integrates the
+hypotheses developed in this section. The constructs
+used in developing our model are defined and the
+literature support for them is summarized in Table 1.
+To describe the hypothesized linkages of design and
+process management with quality outcomes more
+clearly, we first discuss the relevant elements of
+internal and external quality. This discussion is fol-
+lowed by the components of design and process
+management and their relationships in our model.
+
+2.1. External and internal quality outcomes
+
+The notion that overall market and business per-
+formance can be realized through long-term product
+quality improvement is a cornerstone of the contem-
+porary quality revolution George and Weimerskirch,
+1994; NIST, 1998 . Customers form their impres-
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+sions about a firm’s products based upon their cur-
+rent and past experience with these products Garvin,
+1987 . A satisfactory field performance of the prod-
+ucts is accompanied by lower customer dissatisfac-
+tion, greater customer loyalty, and improved market
+share Crosby, 1979; Buzzell and Gale, 1987; Hardie,
+1998 . We label this aspect of quality outcome as
+external quality because it is related to the customer’s
+perspective of the products upon field usage. It
+captures Juran’s ‘‘fitness for use’’ dimension of
+.
+product quality Juran, 1981; Juran and Gryna, 1993 .
+Specifically, we focus our attention on four long-term
+indicators of external quality: warranty work, litiga-
+tion claims, customer complaints, and market share.
+Of these, warranty and litigation claims and cus-
+tomer complaints refer to the external quality failure
+costs Juran and Gryna, 1993 . Market share also has
+been directly associated with the customer percep-
+tion of a firm’s products based on recent and past
+usage Buzzell and Gale, 1987; Reeves and Bednar,
+1994; Flynn et al., 1995; Larson and Sinha, 1995;
+Hardie, 1998 . Based on support from TQM litera-
+.
+ture Dawson and Patrickson, 1991; Ahire, 1996 ,
+in these indicators over a
+we used improvement
+3-year time frame to measure firms’ performance
+along external quality outcomes.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Internal quality captures the ability of a manufac-
+turing plant to produce products conforming to their
+designed quality at an economic production cost.
+
+Fig. 1. A model of the effects of design and process management on quality.
+
+
+552
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+Table 1
+Construct definitions and literature support
+
+Description
+
+Supporting literature
+
+Construct
+
+.
+Design management DM
+
+(cid:14)
+
+.
+Quality training TRAIN
+
+(cid:14)
+
+.
+Product design performance PDP
+
+(cid:14)
+
+.
+Process quality management PQM
+
+(cid:14)
+
+Design of product and process quality
+through advanced managerial and technical
+practices
+
+Organizationwide training to enhance the
+competence in using quality management
+tools
+
+Outcome of the design management process
+in terms of
+time to market and design
+changes across new products
+
+Tracking and improvement of manufactur-
+ing process quality
+
+.
+Internal quality INTQ
+
+(cid:14)
+
+Quality of finished products assesed before
+shipping and associated process quality
+
+.
+External quality EXTQ
+
+(cid:14)
+
+Quality of
+tomers’ viewpoint upon field usage
+
+finished products from cus-
+
+(cid:14)
+(cid:14)
+
+.
+.
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+(cid:14)
+
+.
+(cid:14)
+
+and Nayak
+
+1991 ; Huthwaite
+
+(cid:14)
+(cid:14)
+1995 ; Kessler
+
+Hauser and Clausing 1988 ; Dean and Susman
+(cid:14)
+1989 ; Womack et al. 1990 ; Funk 1992 ; Rosen-
+.
+thal 1992 ; Greene 1993 ; Boothroyd et al. 1994 ;
+.
+Deschamps and Nayak 1995 ; Ahire et al. 1996 ;
+.
+(cid:14)
+Swink et al. 1996
+(cid:14)
+(cid:14)
+.
+Lawler et al.
+1992 ; Snell and Dean
+1992 ;
+Svenson and Riderer 1992 ; Blackburn and Rosen
+(cid:14)
+.
+(cid:14)
+1993 ; Brown et al. 1994 ; Ahire et al. 1996 ;
+(cid:14)
+Black and Porter
+1996 ; Melnyk and Denzler
+.
+(cid:14)
+1996
+.
+Clark and Fujimoto
+1991 ;
+.
+(cid:14)
+Rosenthal 1992 ; Wheelwright and Clark 1992 ;
+Deschamps
+and
+.
+Chakrabarti 1996 ; Melnyk and Denzler 1996
+(cid:14)
+.
+Deming
+1986 ;
+.
+(cid:14)
+Mizuno
+1989 ;
+(cid:14)
+.
+Robinson and Schroeder 1990 ; Greene 1993 ;
+.
+Flynn et al. 1994 ; Ahire and Rana 1995 ; Chen
+.
+and Tirupati 1995 ; Jayaram et al. 1997
+.
+Crosby 1979 ; Schonberger 1986 ; Garvin 1987 ;
+Juran and Gryna 1993 ; Brown et al. 1994 ; Flynn
+.
+et al. 1994 ; Reeves and Bednar 1994 ; Ahire et
+.
+al. 1996 ; Grandzol and Gershon 1998
+.
+Buzzell and Gale 1987 ; Garvin 1987 ; Juran and
+Gryna 1993 ; Reeves and Bednar 1994 ; Larson
+.
+(cid:14)
+and Sinha 1995 ; Grandzol and Gershon 1998 ;
+.
+Hardie 1998
+
+(cid:14)
+(cid:14)
+(cid:14)
+.
+1986 ; Shingo
+1986 ;
+(cid:14)
+.
+1988 ; Modarress and Ansari
+
+(cid:14)
+(cid:14)
+.
+
+Imai
+
+(cid:14)
+.
+
+.
+.
+
+(cid:14)
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+Thus,
+it can be viewed as the ‘‘conformance to
+requirement’’ dimension of quality as specified by
+Crosby 1979, 1996 . We specifically consider five
+measures of internal quality: scrap rate, rework rate,
+defect rate, internal reliability test performance prior
+to shipping, and manufacturing productivity. The
+performance of finished products in final tests and
+the proportion of defective units of production are
+widely used indicators of conformance quality at the
+end of the production process Crosby, 1979, 1996;
+.
+Reeves and Bednar, 1994; Jayaram et al., 1997 .
+However, a lower percent of outgoing defective units
+can come at great cost if in-production quality is not
+assured. Efficient processes have been associated
+with improved manufacturing productivity Schon-
+berger, 1986 . The cost efficiency of a production
+process is reflected in the scrap and rework gener-
+ated during production. They represent internal qual-
+ity failure costs Juran and Gryna, 1993 . Scrap and
+rework have been used as appropriate indicators of
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+internal quality Flynn et al., 1995; Grandzol and
+Gershon, 1998 . Therefore, we include manufactur-
+ing productivity as a supplementary measure of in-
+ternal quality. Using the same literature support as
+that for external quality Dawson and Patrickson,
+1991; Ahire, 1996 , we used improvement in the
+aforementioned indicators over a 3-year time frame
+to measure firms’ performance along internal quality
+outcomes.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+The quality of products passing internal tests of
+reliability should affect the experience of customers
+who use the products in two prominent ways. First,
+customers perceive product quality in terms of their
+net value defined as the ratio of performance to
+cost: Artzt, 1992 . Thus, for products with the same
+performance levels, lower price will drive customer
+choice and satisfaction. Second, customers willing to
+spend a certain amount of money will choose the
+products that offer maximum performance for that
+money. Hence, scrap and rework costs should influ-
+
+.
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+553
+
+ence external quality due to their impact on the
+denominator of the value equation. The performance
+and reliability of the product also should affect the
+external quality indicators of customer satisfaction
+(cid:14)i.e. complaints, warranty,
+litigation, and market
+share . A lower percentage of defective products
+should help a firm to reinforce positive customer
+experience Hardie, 1998 . Therefore, we propose
+the following hypothesis.
+
+.
+
+.
+
+(cid:14)
+
+Hypothesis 1. Internal quality has a positi˝e effect
+on external quality.
+
+2.2. Product design performance
+
+Effective product design performance has been
+used as an important market leadership tool by suc-
+cessful firms in competitive industries. From the
+available literature, we identified two major dimen-
+sions of this competitive capability: new product
+development speed and number of components in
+products. The first dimension explains the ability of
+a firm to frequently offer new products and new
+designs to customers. Rubbermaid’s introduction of
+new products at a rate of more than one per day or
+Sony’s flooding of the electronics market by simulta-
+neously displaying more than 25 models of the same
+product e.g. Walkman illustrate this ability Chase
+et al., 1998 . However, the product variety offered
+by a firm depends upon the speed of product devel-
+opment. For example, the number of US car models
+for sale in the US rose from 38 to 50 between 1973
+and 1989. During the same period, the number of
+Japanese car models for sale in the US rose from 19
+to 58.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+This capability of firms to outperform competitors
+based on product variety has been traced to two
+major outcomes of the product design process. The
+first source is the speed of new product development.
+The Japanese firms spent an average of 1.7 million h
+of engineering and a total of 46 months on develop-
+ment of a new model while their US counterparts
+spent an average of 3.1 million engineering h and
+about 60 months to develop a new model Womack
+et al., 1990 . The second source of competitive
+capability of new product designs is design simplifi-
+cation and component standardization. They both
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+affect product cost and performance through their
+impact on the number of parts used in the product.
+This was illustrated when NCR replaced its cash
+register model 2160 with the newer design model
+2760 in the 1980s. Because of an improved design
+which resulted in an 85% reduction in the number of
+parts used, the model 2760 required only 25% of the
+assembly time as required by its predecessor, the
+model 2160. The new model also reduced the num-
+ber of parts and subassemblies supplied by outside
+sources by 65%, thus saving on direct and indirect
+material costs Port, 1989 . The importance of design
+simplification and parts reduction is further illus-
+trated by Toyota’s introduction of a more powerful
+engine at 33% less cost which was the result of a
+33% reduction in the number of engine parts used
+previously and allowed Toyota to surge ahead of its
+competition Wall Street Journal, November 11,
+1996 . Finally, component standardization across
+product lines reduces the cost of production signifi-
+cantly through its impact on inventories and allows
+employees to focus on fewer parts Schonberger,
+1986; Melnyk and Denzler, 1996 . Hence, we used
+the speed of new product development and compo-
+nents reduction in product designs as two major
+indicators of product design performance. However,
+since design cycle times can vary widely across
+industries, we did not measure product design perfor-
+mance using a specific time frame such as 3 years.
+As the foregoing discussion shows, product de-
+sign performance should directly affect both external
+quality and internal quality. First, better product
+designs and faster new product
+introductions win
+over and retain customers. Also, agile innovators can
+better anticipate and respond to customers’ current
+and latent needs and preferences. Hence, agile firms
+should have fewer customer dissatisfaction problems.
+Such firms should also be able to maintain market
+leadership in their industry. Therefore, we propose
+the following hypothesis.
+
+(cid:14)
+
+.
+
+Hypothesis 2. Product design performance has a
+positi˝e effect on external quality.
+
+The product design efforts of product innovators
+are usually focused on introducing not only more but
+better products. Such efforts take into account manu-
+facturability of the proposed products. As the exam-
+
+
+554
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+.
+
+(cid:14)
+
+ples of NCR and Toyota suggest, design simplifica-
+tion and components reduction are important hall-
+marks of good design performance. Parts reductions
+allow workers to produce new products faster by
+working with previously designed and built compo-
+nents for which costs, standards, bills of materials,
+and lead times are already known Melnyk and
+Denzler, 1996 . Because process complexity is a
+function of design complexity, a lower number of
+parts per product should result in more streamlined
+production. For example, as NCR’s design improve-
+ment suggests, fewer and standardized components
+result in lower inventory costs and easier manage-
+ment of inventory Port, 1989 . Simplified produc-
+tion and workers’ prior experience with standardized
+parts should also result in lower scrap and rework
+and fewer defective units Schonberger, 1986 . This
+leads us to the following hypothesis.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+Hypothesis 3. Product design performance has a
+positi˝e effect on internal quality.
+
+2.3. Process quality management
+
+(cid:14)
+
+.
+
+.
+
+Deming 1986 was a prominent proponent of
+process quality management as a means of optimiz-
+ing process performance. According to Taguchi
+(cid:14)
+1987 , the cost of non-conformance of quality in-
+creases at an increasing rate with the magnitude of
+non-conformance.
+Inferior quality manufacturing
+processes consume more resources due to scrap and
+rework of work-in-process and of the finished prod-
+ucts. This also leads to high defect rates and rejec-
+tions at final inspection stage. Hence, process quality
+management has been frequently cited as a major
+dimension of integrated quality efforts Imai, 1986;
+.
+Shingo, 1986; Anderson et al., 1995 .
+
+(cid:14)
+
+Process quality management essentially involves
+identifying critical components of the manufacturing
+processes and improving them to ensure the superior
+quality of products at economic costs. Researchers
+have stressed the importance of identifying appropri-
+ate process quality improvement opportunities be-
+cause of their significant impact on cost reduction,
+quality improvement, and organizational positive re-
+inforcement of such efforts Spector and Beer, 1994;
+Ahire, 1997 . Ahire and Rana 1995 suggest that
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+process improvement projects be prioritized and ef-
+forts be focused on key processes that show signifi-
+cant potential payoffs and visibility. Hence, we used
+selection of key processes for improvement as an
+indicator of process quality management efforts.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14) .
+
+(cid:14)
+(cid:14) .
+
+Process quality management can be viewed as a
+continuing four-step process: 1 selecting key pro-
+cesses through prioritization, typically, based on cost
+. (cid:14) .
+of quality considerations Ahire and Rana, 1995 , 2
+identifying the root causes of problems in selected
+processes through the use of quality tools and identi-
+fying improvement
+strategies Robinson and
+. (cid:14) .
+Schroeder, 1990 , 3 implementing the changes us-
+ing corrective actions ranging from error-proofing
+techniques to resetting local parameters to complete
+redesign of processes Shingo, 1986; Hammer and
+Champy, 1993 , and 4 measuring the improve-
+ments in the process Ahire, 1997 . Juran 1981 and
+Deming 1986 have both stressed the importance of
+scrap and rework measurement throughout the manu-
+facturing process for identifying key processes and
+monitoring improvement in problem areas. Deming
+(cid:14)
+1986 has also specifically advocated the use of
+statistical process control SPC to track process
+performance for
+in-production quality assurance.
+Hence, we used the following measures of process
+quality management: 1 monitoring of scrap and
+rework, 2 application of SPC tools, 3 use of
+corrective and prevention tools such as error proof-
+ing, and 4 focus on key processes.
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+Process quality management should have a natural
+impact on internal quality through its effect on the
+amount of scrap and rework generated. As efforts are
+made to identify problem areas in production and
+corrective actions taken to eliminate the quality prob-
+lems, a lower number of defective products will be
+produced. Also, by Taguchi’s 1987 quadratic loss
+function, tightening of the process parameters around
+the optimum levels should lead to lower costs of
+poor quality including defects, scrap, and rework.
+Therefore, we propose the following hypothesis:
+
+(cid:14)
+
+.
+
+Hypothesis 4. Process quality management has a
+positi˝e effect on internal quality.
+
+In the last few years, firms have attempted to
+establish direct communications between customers
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+555
+
+and production employees to resolve customer com-
+plaints, provide feedback about product quality, and
+offer suggestions for future product improvements.
+Dell Computer’s approach of the production team
+directly handling the order fulfillment from cus-
+tomers is based on the notion of bringing customers
+closer to the actual production process for better
+quality performance. Solectron a winner of
+the
+Baldrige Award in 1991 resolves customer com-
+plaints from its industrial customers by: a identify-
+ing the out-of-control components of the manufactur-
+ing process, b revisingrimproving the process to
+bring it under control, and c tightening the toler-
+ance limits on the process using statistical tools if the
+process
+is already under control George and
+Weimerskirch, 1994 . To test the effectiveness of
+such strategies, we propose the following hypothesis:
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14) .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+Hypothesis 5. Process quality management has a
+positi˝e effect on external quality.
+
+2.4. Design management
+
+In Section 2.2, we identified superior product
+design performance as an antecedent to high internal
+and external quality. However, the literature on prod-
+uct innovation suggests that the design management
+process largely determines the product design perfor-
+mance Rosenthal, 1992; Wheelwright and Clark,
+1992 . Hence,
+researchers have identified design
+management as an important element of integrated
+quality efforts Flynn et al., 1994; Ahire et al.,
+.
+1996 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+innovator firms first
+
+It is possible to summarize several characteristics
+of an effective design management process from the
+new product design and innovation literature. Suc-
+cessful
+identify current and
+latent customer needs in a timely fashion. They
+translate these identified needs into relevant new
+product concepts or improved features of existing
+products. Finally,
+they introduce
+these innovations into the market before competitors
+(cid:14)
+.
+Deschamps and Nayak, 1995; Cohen et al., 1996 .
+However, while speed of executing this cycle is
+important, effectiveness of the design process may
+be undermined if accuracy and consistency of the
+
+they ensure that
+
+execution is compromised. For example, the rush to
+market a new product may compromise identifica-
+tion of customer needs and thus result in irrelevant
+products. Similarly, if manufacturability and process
+considerations are ignored, excellent product ideas
+may not result in high quality products, thus failing
+the promising designs Dean and Susman, 1989;
+Boothroyd et al., 1994; Kessler and Chakrabarti,
+.
+1996 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+The traditional approach to design consisted of
+compartmentalized and myopic organization with de-
+sign engineers and R&D technologists forcing their
+ideas of product and process improvements on the
+marketing and production functions. This approach
+often led to irrelevant and ineffective innovation
+(cid:14)
+Wheelwright and Clark, 1992 . Speed of product
+development and quality of developed products are
+critical to successful product design efforts. Rapid
+and relevant design and innovation requires a cross-
+functional organization and concurrent planningrde-
+signing process Deschamps and Nayak, 1995 . The
+concurrent engineering approach involves partici-
+pants from all parts of the supply chain in the design
+process Swink et al., 1996 . The participation of
+customers and the marketing function in the design
+process ensures that product designs are relevant to
+customer needs. Timely feedback from the produc-
+tion function ensures the technical feasibility of the
+product ideas. Finally, coordination among the de-
+sign, purchasing, and production functions improves
+design and implementation of appropriate product–
+process combinations, resulting in a cost-effective
+.
+production system Wheelwright and Clark, 1992 .
+An effective design process organized in this manner
+will be closely associated with specific design strate-
+gies such as standardization of components across
+various products and reduction in product compo-
+nents.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+Several firms have used cross-functional teams
+and concurrent engineering to reduce product design
+cycle times and develop products that exceed cus-
+tomer expectations Kochan, 1991; Rosenthal, 1992;
+Deschamps and Nayak, 1995 . These cross-func-
+tional practices typically suggest early interactions
+among marketing, product design, manufacturing,
+quality assurance, and new product development
+functions Huthwaite, 1991; Kochan, 1991 . Interac-
+tions between the design and quality assurance func-
+
+(cid:14)
+
+.
+
+.
+
+
+556
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+(cid:14)
+
+.
+
+tions are critical to understanding the linkage be-
+tween pre- and post-production quality issues. On-
+going interactions between the design and production
+functions is essential to ensure that the original and
+updated product designs are in agreement with the
+capabilities of the current manufacturing configura-
+tion. Finally, new product development
+time and
+‘‘ramp-up’’ time the time taken by the production
+function to produce volume quantities of the new
+product with acceptable levels of quality are both
+important for quality and time-based performance.
+Hence, the production function’s involvement in new
+product development projects is essential. Bench-
+marking has received considerable attention due to
+its role in ensuring the competitiveness of a firm’s
+products and processes Camp, 1989 . Finally, good
+product design practices entail evaluation of product
+designs from a manufacturing process perspective.
+Advanced design techniques such as the design of
+experiments can be useful in optimizing manufactur-
+ing process considerations for new product designs
+(cid:14)
+Taguchi, 1987 . Thus, we measured a firm’s design
+management efforts through the following items: use
+of quality function deployment, use of design of
+experiments in designing products and processes, use
+of competitive benchmarking, and integrated in-
+volvement of different levels of management, em-
+ployees, functions, and customers and suppliers in
+design efforts.
+
+(cid:14)
+
+.
+
+.
+
+Based on these characteristics of integrated design
+practices, we measured organizations’ design man-
+agement efforts based on the extent of use of ad-
+vanced design organization and innovation execution
+tools such as quality function deployment, cross-
+functional
+teams, concurrent engineering, bench-
+marking, and design. To evaluate the impact of
+design management on product design performance,
+we propose the following hypothesis:
+
+Hypothesis 6. Design management has a positi˝e
+effect on product design performance.
+
+Design management practices identified above
+should also affect the planning and coordination of
+overall quality efforts. Quality management literature
+has associated cross-functional integration of quality
+efforts as an enabler of teamwork, cooperation, and
+
+(cid:14)
+
+quality-oriented culture Funk, 1992; Lawler et al.,
+.
+1992; Mirvis, 1997; Grandzol and Gershon, 1998 .
+The same organizational members who participate in
+the advanced design management practices also exe-
+cute process quality management practices. Their
+knowledge, experience, and attitudes regarding team-
+work, cooperation, and customer focus should spill
+over into the on-going efforts of tracking and im-
+proving the quality of manufacturing processes. This
+possibility leads to the following hypothesis:
+
+Hypothesis 7. Design management has a positi˝e
+effect on process quality management.
+
+2.5. Quality training
+
+(cid:14)
+
+(cid:14)
+
+Quality training has probably been the most pub-
+licized programmatic aspect of TQM implementa-
+tion. It has been long recognized that well focused
+quality training is essential to better quality manage-
+.
+ment Juran, 1981; Robinson and Schroeder, 1993 .
+The success of process quality improvement efforts
+is contingent upon the effectiveness of the actual
+usage of process quality improvement
+tools. The
+effectiveness of
+tools depends upon employees’
+knowledge of the tools and management’s promotion
+of these tools. The level of knowledge about tools
+can be improved if the management ensures rigorous
+quality training for managers and employees Gala-
+gan, 1992; Svenson and Riderer, 1992 . Management
+can actively promote the use of these tools by pro-
+viding positive incentives and convincing employees
+that initial errors in using the tools are acceptable
+(cid:14)
+Everett and Sohal, 1991 . Also, multi-skilled em-
+ployees are more versatile and have a broader per-
+spective of the manufacturing process. Thus,
+the
+following four items measure a firm’s quality train-
+ing efforts: management and employee training in
+quality controlrimprovement tools, multi-functional
+training of employees, and actual use of process
+qualityrimprovement tools.
+that
+
+training employees in
+multiple-skills will enable them to better contribute
+to process quality management Schonberger, 1986;
+Melnyk and Denzler, 1996 . These influences of
+quality training on process quality management are
+captured in the following hypothesis.
+
+Researchers suggest
+
+.
+
+.
+
+.
+
+(cid:14)
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+557
+
+Hypothesis 8. Quality training has a positi˝e effect
+on process quality management.
+
+Quality training typically involves training in pro-
+cess control methods such as SPC tools. Specialized
+quality training also entails training in managerial
+problem-solving tools, group decision-making, and
+design tools such as, quality function deployment
+and design of experiments Modarress and Ansari,
+1989; Svenson and Riderer, 1992 . The impact of
+these specific design-related tools on product designs
+is hypothesized as follows.
+
+(cid:14)
+
+.
+
+Hypothesis 9. Quality training has a positi˝e effect
+on product design performance.
+
+3. Contingency factors
+
+Fig. 1 and the associated nine hypothesized paths
+represent a conceptual model of the role of design
+and process management in a manufacturing firm’s
+internal and external quality outcomes. Although the
+hypothesized model relationships are rooted in litera-
+ture, we should not ignore the possibility that the
+intensity of execution of various implementation
+constructs and the resulting outcome constructs could
+be contingent upon some organizational and industry
+characteristics. Below, we identify some relevant
+contextual factors and their potential impact on the
+levels of the constructs in the model as well as on
+the model relationships.
+
+3.1. Firm size effects
+
+Firm size is an important contingency factor for
+several reasons. First, smaller firms have flatter orga-
+nizational structures and more informal communica-
+tion channels. Thus, because smaller factories are
+more manageable, TQM elements such as process
+quality management and design management maybe
+more effectively applied in small firms Sonfield,
+1984; Manoochehri, 1988 . Researchers have also
+associated the smaller size and informal organiza-
+tional structures of smaller organizations with their
+abilities to encourage and implement
+innovation
+(cid:14)
+Sironopolis, 1994 . On the other hand, larger firms
+
+(cid:14)
+
+.
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+have more market clout, capital resources, and pro-
+fessional managerial expertise Finch, 1986 . To our
+.
+knowledge, only one study Ahire and Golhar, 1996
+has compared TQM implementation in large firms
+(cid:14)
+more than 250 employees and small firms 250 or
+fewer employees . Those researchers reported that
+while large and small firms did not differ signifi-
+cantly along design quality management, small firms
+did implement SPC usage to a higher extent than
+large firms. A closer examination of high product
+quality firms indicated that large high quality firms
+implemented design quality management and SPC
+usage more intensively than their small counterparts.
+Considering the literature support for distinctions
+between small and large firms in the general man-
+agement domain and a relative paucity of research in
+the quality management area with the aforemen-
+tioned exception, we investigated the effect of firm
+size on our model through the following propositions
+.
+(cid:14)
+in null form :
+
+Proposition 1. The le˝els of model constructs are
+not affected by firm size.
+
+Proposition 2. The model relationships are not af-
+fected by firm size.
+
+3.2. TQM duration effects
+
+(cid:14)
+
+The organizational learning theory proposes that
+TQM implementation effectiveness will increase with
+.
+TQM maturity in a firm. According to Garvin 1993 ,
+this organizational
+learning is associated with an
+organization’s ability to explore the unknown and to
+identify and pursue novel solutions. In the context of
+our model, as TQM implementation matures, a firm
+may be able to maintain reliability of current produc-
+tion processes, and yet swing toward performing
+even better on design management and discovering a
+.
+higher number of new products Sitkin et al., 1994 .
+Thus, greater familiarity with TQM implementation
+elements may allow a firm to use their resources
+more effectively as time goes on, focusing more
+attention on issues like product design and long-term
+innovations while being able to maintain good per-
+formance along the tactical process management di-
+mensions with relatively lower efforts. According to
+
+(cid:14)
+
+
+558
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+(cid:14)
+
+.
+
+Anderson et al. 1995 , organizational learning refers
+to the organizational capability to recognize and
+nurture the development of its skills, abilities, and
+knowledge. They identified organizational learning
+as one of the cornerstones of Deming’s theory of
+quality management and suggested that learning in-
+fluences process management. Though individual or-
+ganizations may differ in their ability to learn, the
+pervading nature of TQM programs should necessi-
+tate adequate time first for the creation of TQM
+infrastructure Ahire, 1996 and then for substantial
+.
+organizational learning Melnyk and Denzler, 1996 .
+TQM implementation of 3 years has been used as an
+adequate time-frame to evaluate outcomes of TQM
+campaigns Dawson and Patrickson, 1991; Ahire,
+1996 . Hence, we test the following propositions.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+
+Proposition 3. The le˝els of model constructs are
+not affected by TQM duration.
+
+Proposition 4. The model relationships are not af-
+fected by TQM duration.
+
+3.3. Industry effects
+
+(cid:14)
+
+Type of industry could have moderating effects
+on the model relationships for several reasons. First,
+adoption and implementation rigor of technological
+and managerial innovations has been linked to the
+industry structural characteristics such as domestic
+.
+and global competitive environment Porter, 1991 .
+The higher the volatility and global competitive chal-
+lenges of an industry, the higher the incentive for
+implementing such initiatives. For example, the auto-
+motive and computer industries have adopted con-
+temporary operations improvement strategies such as
+TQM to a much greater extent as compared to more
+stable industries such as pulp and paper or clay and
+glass. Second, industries also differ in terms of types
+of products and production processes. For example,
+the chemical industry primarily uses batch and con-
+tinuous manufacturing processes whereas the auto-
+motive or computer industry relies heavily on modu-
+lar assembly line production. Schmenner 1986 clas-
+sified industry SIC groups into three categories based
+on the logistical complexity of their production pro-
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+cesses measured by number of steps in the produc-
+tion process . He concluded that the inherent nature
+of processes could impact
+the ability of various
+industries to implement individual elements of pro-
+ductivity improvement techniques. Funk 1995 fur-
+ther used Schmenner’s classification and argued that
+the logistical complexity of a production system will
+affect the relevance of various operations improve-
+ment techniques. For example, teamwork and coop-
+eration are of greater significance in logistically
+complex production systems such as automobile and
+computer assembly than in low logistical complexity
+production processes such as chemicals or food pro-
+cessing Funk, 1995 . Schmenner 1986 and Funk
+(cid:14)
+1995 classification coded SIC groups 20 through
+33 as low logistical complexity industries and SIC
+34 through 38 as high logistical complexity indus-
+tries.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+.
+
+.
+
+(cid:14)
+
+Coincidentally, the high logistical complexity in-
+dustries electrical machinery, fabricated metal prod-
+ucts, industrial machinery, transportation equipment,
+electronics, and instrumentation have also experi-
+enced fiercer global competition and use of advanced
+manufacturing technologies as compared to the low
+logistical complexity industries Kotha and Vadla-
+mani, 1995 . Moreover, these categories are synony-
+mous to classification of process-type production
+industries SIC 20 through 33 versus discrete-type
+production industries SIC 34 through 38 Swami-
+dass and Kotha, 1998 . Hence, we test the impact of
+the differing intensity of competition, differing logis-
+tical complexity of production, and differing produc-
+tion processes across industries on our hypothesized
+model through the following propositions.
+
+. (cid:14)
+
+(cid:14)
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+Proposition 5. The le˝els of model constructs are
+not affected by the industry characteristics of compe-
+tition, logistical complexity, or production processes.
+
+Proposition 6. The model relationships are not af-
+fected by the industry characteristics of competition,
+logistical complexity, or production processes.
+
+4. Survey
+
+Our research is a part of a major empirical study
+that investigates the impact of plant-level manage-
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+559
+
+ment practices on operational performance of manu-
+facturing plants in multiple industries. To assess the
+broader research questions, a comprehensive survey
+instrument, consisting of 115 question items, was
+developed in the main study. The main instrument
+was intended to examine several different organiza-
+tional management issues.
+
+.
+
+Six American Society for Quality ASQ mem-
+(cid:14)
+bers
+industry managers were asked to review the
+original proposed instrument and refine it to enhance
+the readability, clarity, and comprehensiveness of
+the measurement instrument. A second test of con-
+tentrface validity was conducted with the redesigned
+questionnaire using a different group of ASQ mem-
+bers. Minor changes were suggested and the recom-
+mendations were incorporated into the final ques-
+tionnaire. In addition, a pilot-test was conducted at a
+local chapter of ASQ.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+The main mail survey was administered to the
+ASQ mid-level managers in 2000 manufacturing
+firms SIC groups 20 through 39 randomly selected
+from all 48 of the contiguous states and Puerto Rico.
+Dillman’s three-wave method was used to execute
+the survey Dillman 1987 . It yielded a total response
+
+.
+
+.
+
+(cid:14)
+
+Table 2
+Response sample composition
+
+Response sample size
+Major SIC groups represented in the sample
+
+a
+
+(cid:14)
+
+Number of employees per plant
+.
+Net sales per plant million US$
+.
+Percent of plants unionized %
+.
+Age of a formal quality program at the plant years
+Respondent titles
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+sample of 681 firms 34% response rate . The re-
+sponse to the instrument was examined for non-re-
+sponse bias. A MANOVA test p -0.05 was con-
+ducted to compare all of the responses along each
+variable across the first, second, and third wave
+(cid:14)
+Armstrong and Overton, 1977 . The test did not
+reveal any significant difference between the waves.
+In addition, the three waves were not significantly
+different in terms of number of employees, revenue,
+and unionization. These tests suggested that the sam-
+ple responses were representative of the general pop-
+ulation.
+
+.
+
+For this paper, we used 30 quality management
+related items from the original instrument that mea-
+sured the six constructs of the proposed model.
+These are presented in Appendix A. All items on the
+current research instrument were measured using a
+seven-point Likert scale 1sstrongly disagree, 7s
+strongly agree . Based on listwise elimination of
+responses corresponding to these 30 items, we used a
+response sample of 418 plants spanning 20 SIC
+groups SIC 20 through 39 for this research paper.
+The characteristics of this sample are presented in
+Table 2. Note that the sample exhibited significant
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+418 plants
+.
+Name of the group SIC code: number of plants
+(cid:14)
+Industrial, commercial machinery, computers 35 : 51
+(cid:14)
+Electronic, electrical equipment 36 : 51
+Fabricated metal products 34 : 45
+Instruments 38 : 39
+(cid:14)
+Transportation equipment 37 : 38
+Rubber and plastics 30 : 38
+Chemicals 28 : 36
+(cid:14)
+Food and kindred 20 : 23
+(cid:14)
+Paper and allied products 26 : 20
+Others: 52
+Did not specify: 46
+means477, medians250, modes150
+means69.26, medians10.0, modes10.0
+unionizeds28.3%, non-unionizeds72.7%
+means6.6, std. deviations2.2
+Managers with ‘‘Quality’’ in titles74%
+Plantrproductionrtechnical managers24%
+Others HRM, accounting, etc. s2%
+
+.
+
+.
+
+(cid:14)
+
+.
+
+a Listwise elimination corresponding to the items in the Appendix A.
+
+
+560
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+diversity in terms of industries, plant size, revenue,
+unionization, and their TQM experiences.
+
+5. Measurement model
+
+5.1. Model refinement
+
+olds without a substantial reduction in the content
+validity of constructs. Four items were eliminated
+from the original 30 items. These are denoted in
+Appendix A with an asterisk. The loadings of indi-
+vidual retained items on corresponding constructs are
+indicated next to each item. Most of the loadings are
+above 0.6 suggesting that the items align well with
+their respective constructs.
+
+The current research instrument consisting of 30
+items listed in Appendix A was refined prior to
+testing the proposed model. For this purpose, a con-
+firmatory factor analysis of the initial measurement
+model was conducted using LISREL 8.2 Joreskog
+and Sorbom, 1998 . The initial measurement model
+with all 30 items resulted in an inadequate fit x %
+dfs5.5, goodness of fit indexs0.77, standardized
+root mean squared residuals0.087, adjusted good-
+ness of fit indexs0.72, normed fit indexs0.81,
+non-normed fit indexs0.82, comparative fit index
+.s0.84 .
+
+(cid:14)
+
+(cid:14)
+
+.
+
+2
+
+.
+
+(cid:14)
+
+The initial measurement model was refined using
+standard CFA refinement procedures Hair et al.,
+1998; Koufturos, 1999 as follows. The itemrs with
+excessive standardized residuals and modification
+indices were identified and eliminated one at a time.
+The absolute model fit indices GFI, x %df ratio,
+SRMR were analyzed along with incremental and
+comparative indices AGFI, NFI, NNFI, CFI at each
+iteration. Researchers have cautioned against statis-
+tics-driven indefinite refinement without regard to
+the item’s relevance to the theory and content valid-
+ity Hair et al., 1998 . Thus, we stopped refinement
+upon attaining generally acceptable model fit thresh-
+
+(cid:14)
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+2
+
+2
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+Table 3 summarizes the model fit of the final
+refined measurement model, scale descriptive statis-
+.
+tics, and correlations. For large samples, x %df
+ratios as high as 8, NNFI values as low as 0.86 and
+CFI values as low as 0.88 have been considered
+adequate indicators of measurement model fit Doll
+et al., 1998 . Thus, considering the large size and
+heterogeneity of our sample, the model fit indices
+(cid:14)
+see Table 3 demonstrate that the refined model fits
+the data well. Of the 15 scale correlations, 9 are
+below 0.50. In general, process quality management
+has high correlations with other constructs while
+product design performance has low correlations.
+The internal quality–external quality pair exhibits
+the highest correlation 0.75 . These ranges of corre-
+lations are high as would be expected for constructs
+in integrated quality efforts. They are comparable in
+ranges to correlations reported in other studies in
+.
+quality management Ahire et al., 1996 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+5.2. Scale ˝alidation
+
+Considering the high scale intercorrelations, sev-
+eral reliability and validity indices were computed to
+
+Table 3
+Descriptive statistics and scale intercorrelations of the refined measurement modela
+Construct
+
+Number of
+items
+
+Item,
+mean
+
+Item,
+standard
+deviation
+
+Scale intercorrelations
+DM
+
+TRAIN PDP
+
+PQM
+
+INTQ
+
+EXTQ
+
+(cid:14)
+
+(cid:14)
+
+.
+7
+Design management DM
+.
+4
+Quality training TRAIN
+.
+Product design performance PDP
+2
+Process quality management PQM 5
+.
+Internal quality INTQ
+4
+.
+4
+External quality EXTQ
+
+(cid:14)
+(cid:14)
+
+(cid:14)
+(cid:14)
+
+.
+
+3.92
+4.56
+3.81
+4.54
+4.70
+4.73
+
+1.28
+1.21
+1.43
+1.22
+1.33
+1.24
+
+1.00
+0.62
+0.40
+0.68
+0.48
+0.47
+
+) )
+) )
+) )
+) )
+) )
+
+1.00
+0.33
+0.68
+0.47
+0.46
+
+) )
+) )
+) )
+) )
+
+1.00
+0.31
+0.30
+0.28
+
+) )
+) )
+) )
+
+1.00
+0.68
+0.66
+
+) )
+) )
+
+1.00
+0.75
+
+) )
+
+1.00
+
+aRefined measurement model fit indices: x2rdfs3.50, GFIs0.87, SRMRs0.06, AGFIs0.85, NFIs0.90, NNFIs0.91, CFIs0.93.
+)
+p -0.05, ))P -0.01
+
+p -0.001,
+
+p -0.1.
+
+) ) )
+
+q
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+561
+
+.
+
+ensure that the refined scales represent reliable and
+valid measurements of the underlying constructs.
+Statistical validation of constructs includes specific
+assessment of convergent and discriminant validity
+(cid:14)
+Hair et al., 1998 . However, unidimensionality and
+reliability of scales are prerequisites to assessment of
+convergent and discriminant validity Carmines and
+Zeller, 1979; Anderson and Gerbing, 1991 . Hence,
+indices of scale unidimensionality, reliability, cover-
+gent validity, and discriminant validity are reported
+in Table 4.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+The unidimensionality goodness of fit index indi-
+cates the extent to which the scale items are strongly
+associated with each other and represent a single
+concept Hattie, 1985 . Typically, goodness of fit
+index values of 0.90 or higher indicate high evidence
+of unidimensionality Ahire et al., 1996 . All of the
+scales exhibited high satisfactory unidimensionality.
+Two scale reliability indices are reported: Cronbach’s
+.
+a Cronbach, 1951 and Werts–Linn–Joreskog rc
+coefficients Werts et al., 1974 . Alpha values of
+0.70 or higher and r values of 0.50 or higher
+provide evidence of good scale reliability O’Leary-
+Kelly and Vokurka, 1998 . All of the refined scales
+have high values of both reliability indices.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+c
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+.
+.
+
+Convergent validity is the extent to which varying
+approaches to construct measurement yield the same
+results Campbell and Fiske, 1959 . We report the
+Bentler–Bonett normed fit index D as a measure of
+convergent validity for each scale. All of the scales
+exceed the threshold of 0.90 for this index Ahire et
+.
+al., 1996 .
+Finally,
+
+the high scale correlations warranted
+careful assessment of discriminant validity of the
+constructs. Discriminant validity assesses the extent
+to which a concept and its indicators differ from
+another concept and its indicators Bagozzi et al.,
+1991 . Discriminant validity of constructs can be
+assessed in different ways. First, adequate discrimi-
+nant validity is established when the Cronbach relia-
+bility coefficient of each of the scales is adequately
+larger than the average of its correlations with other
+constructs Ghiselli et al., 1981 . Second, statistically
+distinct scales exhibit interscale correlations that are
+.
+adequately different from 1.0 Bagozzi et al., 1991 .
+Third, if the percent variance extracted PVE by the
+scale items of a construct is consistently greater than
+the squared interscale correlations of the construct,
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+additional evidence for the discriminant validity of
+the construct with respect to all other constructs is
+established Fornell and Larcker, 1981 . Finally,
+nested measurement models involving pairs of dif-
+ferent constructs one with a perfect correlation and
+2
+one with correlation free to vary can be run and x
+difference tested for significance. If the x2 differ-
+ence statistic is significant for 1 df, the two con-
+.
+structs are statistically distinct Venkatraman, 1989 .
+The discriminant validity results summarized in Table
+4 confirm that they adequately pass all of the afore-
+mentioned tests of discriminant validity.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Furthermore, we tested criterion-related validity
+of the exogenous and intermediate endogenous con-
+structs of the model. Criterion-related validity indi-
+cates the extent to which a measurement instrument
+estimates some important form of related behavior or
+result that is external to the measurement instrument
+itself Nunnally, 1978 . We assessed the criterion-re-
+lated validity of the input and intermediate outcome
+constructs using two additional numerical measures
+of operational quality, namely, overall
+rating of
+product quality within the industry and percentage of
+repeat customers. The overall rating of product qual-
+ity 1sworst-in-industry, 7sbest-in-industry ex-
+(cid:14)
+at p -
+hibits statistically significant correlations
+0.01 with each construct design management: 0.40,
+training: 0.32, product design performance: 0.34,
+process quality management: 0.48, internal quality:
+0.52, external quality: 0.45 . Percentage of repeat
+customers also indicates statistically significant cor-
+relations with each construct design management:
+training: 0.18, product design performance:
+0.22,
+internal
+0.13, process quality management: 0.26,
+the
+quality: 0.18, external quality: 0.23 . Finally,
+(cid:14)
+correlations of the external quality construct
+the
+final endogenous construct with product quality rat-
+ing 0.45 and percent repeat customers 0.23 fur-
+ther confirm the convergent validity of this critical
+outcome construct.
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+5.3. Subgroups measurement model analysis
+
+The overall sample exhibited heterogeneity in
+terms of size, TQM duration, and type of industry.
+The propositions developed in Section 3 are intended
+
+
+Table 4
+Refined measurement scales validation indices
+
+Construct
+
+Unidimensio- Reliability
+.
+nality GFI
+.
+r
+c
+
+.
+a
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+a
+
+b
+
+Convergent Average
+validity D interscale
+
+(cid:14)
+
+.
+
+Percent
+variance
+correlation extracted
+.
+(cid:14)
+AVISC
+
+.
+PVE
+
+(cid:14)
+
+.
+
+(cid:14)
+
+0.90
+
+Design management
+(cid:14)
+.DM
+Quality training TRAIN 0.95
+Product design
+0.90
+.
+(cid:14)
+performance PDP
+Process quality
+.
+(cid:14)
+management PQM
+Internal quality
+(cid:14)
+.
+INTQ
+External quality
+.
+(cid:14)
+EXTQ
+
+0.99
+
+1.00
+
+1.00
+
+0.88 0.88
+
+0.91
+
+0.74 0.68
+0.83 0.85
+
+0.90
+0.91
+
+0.78 0.82
+
+0.98
+
+0.91 0.92
+
+1.00
+
+0.83 0.86
+
+1.00
+
+0.53
+
+0.51
+0.32
+
+0.60
+
+0.54
+
+0.52
+
+0.55
+
+0.51
+0.75
+
+0.54
+
+0.74
+
+0.61
+
+0.35
+
+0.23
+0.51
+
+0.18
+
+0.37
+
+0.31
+
+0.27
+
+0.25
+0.65
+
+0.18
+
+0.45
+
+0.34
+
+a The GFI and D values were obtained from first order single-scale measurement model runs.
+bThe r and PVE values were obtained from both single-scale and full measurement model runs.
+c The x2 values were based on pairwise comparisons of scales.
+)
+
+) )
+
+c
+
+p-0.01,) ))p-0.001, q p-0.1.
+
+p-0.05,
+
+Discriminant validity checks
+a-AVISC PVE-AVISC Discriminant validity x difference
+
+2
+
+2
+
+c
+
+DM
+
+TRAIN PDP
+
+PQM
+
+INTQ
+
+) ) )
+) ) )
+
+246
+395
+
+) ) )
+
+415
+
+) ) )
+
+261
+
+) ) )
+
+102
+
+) ) )
+
+291
+
+) ) )
+
+296
+
+) ) )
+
+499
+
+) ) )
+
+398
+
+) ) )
+
+363
+
+) ) )
+
+520
+
+) ) )
+
+383
+
+) ) )
+
+383
+
+) ) )
+
+210
+
+) ) )
+
+223
+
+5
+6
+2
+
+.
+
+S
+L
+
+.
+
+A
+h
+i
+r
+e
+,
+
+P
+
+.
+
+D
+r
+e
+y
+f
+u
+s
+r
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+1
+8
+
+(
+2
+0
+0
+0
+)
+
+5
+4
+9
+–
+5
+7
+5
+
+
+Table 5
+Subgroup analysis of the measurement model fit indices
+
+Grouping criteria
+
+Subgroup
+
+Sample size
+
+Overall model
+Firm size
+
+TQM duration
+
+Type of industry
+
+a
+
+(cid:14)
+
+(cid:14)
+(cid:14)
+
+.
+Small firms 250 or fewer employees
+.
+Large firms more than 250 employees
+.
+Recent TQM implementers 3 or fewer years of TQM
+.
+Experienced TQM implementers more than 3 years of TQM
+Low global competition, low logistical complexity, batch and
+.
+process production SIC: 20 through 33
+High global competition, high logistical complexity, discrete
+.
+production SIC: 34 through 38
+
+(cid:14)
+
+(cid:14)
+
+(cid:14)
+
+418
+232
+186
+127
+284
+167
+
+224
+
+2
+x
+
+969
+826
+659
+760
+767
+763
+
+684
+
+df
+
+277
+277
+277
+277
+277
+277
+
+277
+
+p-value
+
+NNFI
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+
+0.91
+0.87
+0.89
+0.80
+0.92
+0.85
+
+0.92
+
+CFI
+
+0.93
+0.90
+0.91
+0.83
+0.93
+0.88
+
+0.94
+
+a
+
+Industry groupings adapted from the following sources: global competition Porter, 1991; Kotha and Vadlamani, 1995 , logistical complexity Schmenner, 1986; Funk,
+.
+
+.
+1995 , and production process Kotha and Vadlamani, 1995; Swamidass and Kotha, 1998 .
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+S
+L
+
+.
+
+A
+h
+i
+r
+e
+,
+
+P
+
+.
+
+D
+r
+e
+y
+f
+u
+s
+r
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+1
+8
+
+(
+2
+0
+0
+0
+)
+
+5
+4
+9
+–
+5
+7
+5
+
+5
+6
+3
+
+
+564
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+to evaluate the model relationships for six specific
+subgroups corresponding to these contingency fac-
+tors: small versus large firms, recent versus experi-
+enced TQM implementers, and low versus high lo-
+gistical complexity. Firms were classified as small or
+large using the cutoff of 250 employees Ahire and
+Golhar, 1996 . TQM implementation duration of 3
+years was used as the cutoff for classifying firms
+based on TQM duration. Schmenner 1986 and
+Funk 1995 classification was used to define firms
+as low or high logistical complexity firms based on
+their industry affiliation. As discussed in Section 3,
+we classify SIC groups 20 through 33 as low logisti-
+cal complexity industries and SIC groups 34 through
+38 as high logistical complexity industries. This
+classification overlaps the classification of industries
+on the basis of competition Porter, 1991; Kotha and
+.
+Vadlamani, 1995
+and dominant production pro-
+cesses Swamidass and Kotha, 1998 . SIC groups 20
+through 33 are characterized by relatively low com-
+petition and process type production while SIC
+groups 34 through 38 are high competition and
+discrete production industries.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+The overall measurement model provides a base-
+line for evaluating the invariance of measurement
+across the subgroups. Hence, it is necessary to evalu-
+ate its fit to the subgroup samples before evaluating
+
+.
+
+(cid:14)
+
+.
+
+the path model and its invariance across subgroups
+(cid:14)
+Marsh, 1987; Bollen, 1989 . Following the recom-
+mendations of Doll et al. 1998 , we examined the
+adequacy of the baseline refined measurement model
+for each of the subgroups as follows. The measure-
+ment model was executed for each subgroup and
+NNFI and CFI values were used to assess the model
+fit. Table 5 summarizes the results of subgroup
+analysis. It is clear that the measurement model fits
+extremely well for small and large firms, more expe-
+rienced firms, and firms with high logistical com-
+plexity. The fit for low logistical complexity firms is
+also quite adequate and comparable to the fit indices
+reported by Doll et al. 1998 . Though the model fit
+for recent TQM implementers is inferior to the re-
+maining subgroups,
+two things should be noted.
+First, the lower subgroup sample size of recent TQM
+implementers Ns127 firms may have partially
+contributed to these low values. Second, the values
+of NNFI 0.80 and CFI 0.83 still exceed the
+previously reported values NNFIs0.74, CFIs
+0.79 qualifying a measurement model for ‘‘cautious
+interpretation’’ Doll et al., 1998 . These results
+demonstrate the overall adequacy of the baseline
+refined measurement model for the subgroups. All of
+these results enhance the confidence in the generaliz-
+ability of the measurement model for firms of differ-
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+Fig. 2. Model path significance results.
+
+) ) )
+
+p -0.001,
+
+) )
+
+p -0.01,
+
+)
+
+p -0.05,
+
+q
+
+p -0.1.
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+565
+
+ent sizes, TQM experience, and industry affiliations.
+They lead the way for further analysis of the struc-
+tural path model.
+
+6. Structural model results
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Following the recommendation of Anderson and
+Gerbing 1991 and Hair et al. 1998 , the measure-
+ment model was validated first as summarized above,
+followed by structural model testing. The structural
+model hypothesized in Fig. 1 was executed using
+LISREL 8.2 Joreskog and Sorbom, 1998 . The esti-
+mates and significance of the path coefficients are
+presented in Fig. 2. Table 6 summarizes the results
+of analysis. The absolute model fit
+indices GFI,
+x %df ratio, SRMR and the incremental and com-
+parative indices AGFI, NFI, NNFI, CFI of the
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+(cid:14)
+
+2
+
+(cid:14)
+
+2.
+
+structural model show that the hypothesized overall
+path model fits the data well. Also,
+the squared
+of the endogenous con-
+multiple correlations R
+structs indicate that the model explains a substantial
+amount of variance in external quality 64% , inter-
+nal quality 47% , and process quality management
+(cid:14)
+57% . Product design performance has a relatively
+low value of R
+18% , but this is adequate and
+comparable to results reported in similar quality
+.
+management studies Anderson et al., 1995 .
+
+2 (cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+.
+
+(cid:14)
+
+6.1. Path coefficients and hypotheses
+
+Fig. 2 shows the estimates and significance of
+various hypothesized paths. The significance of indi-
+vidual path coefficients direct effects can be used
+to evaluate the hypotheses developed in Section 2.
+Note that with the exception of the product design
+
+(cid:14)
+
+.
+
+Table 6
+Summary of effects in the structural modela
+
+Direct
+effect
+(cid:14)
+.
+Product design performance PDP
+) ) )
+Effect of DM
+) ) )
+Effect of TRAIN
+
+0.25
+0.12
+
+c
+
+.
+Process quality management PQM
+Effect of DM
+Effect of TRAIN
+
+(cid:14)
+) ) )
+) ) )
+
+0.41
+0.41
+
+(cid:14)
+
+.
+Internal quality INTQ
+Effect of DM
+Effect of TRAIN
+Effect of PDP
+Effect of PQM
+
+0
+0
+0.15
+0.68
+
+) )
+) ) )
+
+(cid:14)
+
+.
+External quality EXTQ
+0
+Effect of DM
+0
+Effect of TRAIN
+Effect of PDP
+0.06
+0.24
+Effect of PQM
+Effect of INTQ
+0.55
+
+q
+) ) )
+) ) )
+
+Indirect
+effect
+
+Total
+effect
+
+Correlation
+
+b
+
+PVE
+(cid:14)
+.
+%
+
+Standardized
+direct effect
+
+Standardized
+total effect
+
+0
+0
+
+0
+0
+
+) )
+) )
+
+0.31
+0.30
+0
+0
+
+) ) )
+) ) )
+) )
+) ) )
+
+0.29
+0.27
+0.09
+0.39
+0
+
+) ) )
+) ) )
+
+0.25
+0.12
+
+) ) )
+) ) )
+
+0.41
+0.41
+
+) )
+) )
+) )
+) ) )
+
+0.31
+0.30
+0.15
+0.68
+
+) ) )
+) ) )
+) )
+) )
+) )
+
+0.29
+0.27
+0.15
+0.63
+0.55
+
+0.40
+0.33
+
+0.68
+0.68
+
+0.48
+0.47
+0.30
+0.68
+
+0.47
+0.46
+0.28
+0.66
+0.75
+
+62.50
+36.00
+
+60.29
+60.29
+
+64.58
+63.83
+50.00
+100.00
+
+61.70
+58.69
+53.57
+95.45
+74.67
+
+0.31
+0.15
+
+0.43
+0.42
+
+0
+0
+0.14
+0.63
+
+0
+0
+0.06
+0.23
+0.61
+
+0.32
+0.15
+
+0.43
+0.42
+
+0.31
+0.29
+0.14
+0.63
+
+0.30
+0.28
+0.13
+0.62
+0.61
+
+(cid:14)
+
+a Model fit indices: x2rdfs4.80, GFIs0.98, SRMRs0.04, AGFIs0.91, NFIs0.98, NNFIs0.96, CFIs0.98. R2 values: external
+
+.
+quality 0.64 , internal quality 0.47 , process quality management 0.57 , and product design performance 0.18 .
+
+Percent variance explained PVE stotal effectrcorrelation.
+b
+c DM: design management, TRAIN: quality training, PDP: product design performance, PQM: process quality management, INTQ:
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+internal quality, external quality.
+
+) p -0.05, ))p -0.01, )))p -0.001,
+
+q
+
+p -0.1.
+
+
+566
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+.
+
+(cid:14)
+
+.
+
+performance–external quality link Hypothesis 2 all
+of the path coefficients of hypothesized paths in the
+model are positive and highly significant most of
+them at p -0.001 . Thus, 1, 3, 4, 5, 6, 7, 8, and 9
+are strongly supported. The product design perfor-
+mance to external quality causal hypothesis Hy-
+pothesis 2 is relatively weakly supported at p -0.1
+ps0.08 . These results of the structural model
+(cid:14)
+hypotheses are summarized in Table 7.
+
+.
+.
+
+(cid:14)
+
+(cid:14)
+
+6.2. Total effects and percent ˝ariance explained
+
+.
+
+(cid:14)
+
+Table 6 provides further information on indirect
+and total effects. Both design management and train-
+ing have significant indirect and total effects on
+internal quality and external quality. Process quality
+management has significant direct effect on external
+quality. In addition, it affects external quality signifi-
+cantly through its impact on internal quality. Interest-
+ingly, product design performance has a strongly
+significant indirect effect on external quality through
+its impact on internal quality. Thus, though there is
+
+only weak support for the direct effect of product
+design performance on external quality Hypothesis
+.2 , these results show that it does have an overall
+significant
+impact on external quality through its
+contribution to internal quality.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+Following recommendations of Anderson et al.
+(cid:14)
+1995 , we computed the PVE for key construct pairs
+of the model. PVE for a causal relationship for
+example, the direct path between training and pro-
+cess quality management or the relationship between
+design management and external quality through in-
+termediate model linkages denotes the fraction of
+the total empirical correlation between two con-
+structs explained by the total effect of the affecting
+construct on the affected construct Land, 1969;
+Anderson et al., 1995 . Note that, with the exception
+training–product design performance PVEs
+of
+.
+40% , the model effects explained more than 50% of
+correlation between key constructs. These results
+indicate that the measurement of constructs and con-
+ceptualization of the model relationships in the pro-
+posed model is adequate. They provide further em-
+pirical insights into the manner in which design and
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Table 7
+Summary of results
+
+Model hypotheses
+
+Hypothesis 1: Internal quality has a positive effect on external quality.
+Hypothesis 2: Product design performance has a positive effect on external quality.
+Hypothesis 3: Product design performance has a positive effect on internal quality.
+Hypothesis 4: Process quality management has a positive effect on internal quality.
+Hypothesis 5: Process quality management has a positive effect on external quality.
+Hypothesis 6: Design management has a positive effect on product design performance.
+Hypothesis 7: Design management has a positive effect on process quality management.
+Hypothesis 8: Quality training has a positive effect on process quality management.
+Hypothesis 9: Quality training has a positive effect on product design performance.
+
+.
+Contingency propositions null form
+
+(cid:14)
+
+Proposition 1: The levels of model constructs are not affected by firm size.
+
+Proposition 2: The strengths of model relationships are not affected by firm size.
+Proposition 3: The levels of model constructs are not affected by TQM duration.
+
+Proposition 4: The strengths of model relationships are not affected by TQM duration.
+Proposition 5: The levels of model constructs are not affected by industry characteristics.
+Proposition 6: The strengths of model relationships are not affected by industry characteristics.
+
+Results
+Strongly supported p -0.001
+Weakly supported ps0.08
+.
+.
+Strongly supported p -0.01
+Strongly supported p -0.001
+Strongly supported p -0.001
+Strongly supported p -0.001
+Strongly supported p -0.001
+Strongly supported p -0.001
+Strongly supported p -0.001
+
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+(cid:14)
+
+.
+
+.
+.
+.
+.
+.
+.
+
+Results
+
+Partially rejected: Firm size affects
+only external quality.
+Fully supported
+Fully rejected: More experienced
+TQM firms exhibit higher levels of
+all constructs vis-a-vis less
+experienced TQM firms.
+Fully supported
+Fully supported
+Fully supported
+
+`
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+567
+
+process management strategies influence operational
+quality outcomes.
+
+6.3. Standardized effects
+
+.
+.
+
+Table 6 also summarizes the standardized direct
+and total causal effects in the model. Results point to
+several interesting empirical insights regarding the
+relative magnitude of influence of competing con-
+structs on a particular construct. First, the impact of
+design management on product design performance
+(cid:14)
+0.32 is more pronounced than that of training
+(cid:14)
+0.15 . However, training and design management
+have similar impacts on process quality management
+(cid:14)
+0.42 and 0.43 . Second, both influence process qual-
+ity management more than product design perfor-
+mance. Third, design management and training have
+about the same impact on internal quality 0.31 and
+0.29 as on external quality 0.30 and 0.28 . Finally,
+internal and external quality are affected more by
+process quality management 0.63 and 0.62 than by
+product design performance 0.14 and 0.13 . The
+possible explanations for these results and their im-
+plications for TQM theory and practice are offered in
+.
+the Discussion Section Section 8 .
+
+(cid:14)
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+.
+
+(cid:14)
+
+7. Contingency analysis
+
+(cid:14)
+
+.
+
+The propositions presented in Section 3 consist of
+two parts. Propositions 1, 3, and 5 examine the
+invariance of the levels of the constructs across the
+subgroups based on firm size, TQM duration, and
+logistical complexity, respectively. Propositions 2,
+4, and 6 examine the invariance of the path relation-
+ships across the subgroups. To test the invariance of
+construct levels, we conducted a MANOVA analysis
+in SPSS 7.5. The invariance of path relationships and
+effects across the subgroups was tested by running
+multigroup analysis in LISREL 8.2.
+
+(cid:14)
+
+.
+
+7.1. MANOVA results
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+effects of firm size, TQM duration, and logistical
+complexity on levels of the model constructs are
+presented in Table 7. Four indices of multivariate
+tests of significance are presented: Pillai’s trace,
+Wilk’s lambda, Hotelling’s trace, and Roy’s largest
+root Norusis, 1998 . Due to space limitations, we do
+not provide the detailed results of MANOVA. The
+values and significance of the indices indicated that
+firm size and TQM duration have a multivariate
+significant
+impact on the model constructs while
+logistical complexity does not. Moreover, firm size
+significantly affects only the external quality out-
+comes ps0.002 . TQM duration, however, has a
+consistent impact on each of the model constructs.
+Thus, Proposition 1 invariance of construct levels
+across firm size groups is rejected but it appears that
+firm size affects only external quality outcomes. On
+the whole, firm size does not affect the model sub-
+stantially. Proposition 3 invariance of construct lev-
+els across TQM duration groups is clearly rejected.
+Note that experienced TQM firms more than 3 years
+.
+of TQM implementation
+exhibit a significantly
+higher score on each construct as compared to their
+less experienced counterparts 3 or fewer years of
+TQM . Thus, a firm’s TQM duration does appear to
+affect the intensity of implementation of the design
+and process management constructs and conse-
+quently the performance outcome levels. Finally,
+lack of significance of the multivariate statistics for
+logistical complexity industry type indicates that
+Proposition 5 cannot be rejected. Thus, the levels of
+design and process management constructs and their
+outcomes are invariant across different industry types.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+7.2. Subgroup structural model analysis
+
+(cid:14)
+
+To test if the model relationships vary across the
+subgroups, we conducted a four-stage analysis of
+path models for the various subgroups using LISREL
+8.2 Joreskog and Sorbom, 1998 . The detailed re-
+sults of the analyses described below are available
+with the principal author for interested readers. The
+(cid:14)
+conclusions of the analyses in terms of testing Pro-
+positions 2, 4, and 6 are summarized in Table 7.
+
+.
+
+.
+
+The conclusions about invariance of levels of the
+six model constructs based on MANOVA results of
+
+First, path models were run separately for each of
+the six subgroups to check if the path models ade-
+quately fit
+the subgroup samples. The model fit
+
+
+568
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+indices demonstrated that the overall baseline path
+model shown in Fig. 1 indeed fits well for all of the
+subgroups
+large firms, recent TQM
+implementers, experienced TQM firms, low logisti-
+cal complexity industries and high logistical com-
+.
+plexity industries .
+
+(cid:14)
+small firms,
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Second, a two-group LISREL analysis was con-
+ducted on the subgroup samples corresponding to
+each contingency factor. Two types of path coeffi-
+cient estimates were obtained for each subgroup:
+unstandardized coefficient estimate Type A and
+within-group completely standardized coefficient es-
+timate Type B . These were reviewed for each
+subgroup of the corresponding contingency model.
+Type A coefficients of each subgroup can be re-
+viewed to check if any subgroup deviates substan-
+tially from the overall structural model in terms of
+the significance of individual paths. The significance
+of most of the paths was similar across the sub-
+groups. The within-group completely standardized
+path coefficient estimates Type B can be used to
+compare the relative magnitudes of various direct
+effects within each subgroup. These estimates were
+obtained in LISREL 8.2 by standardizing the latent
+variables within a subgroup to unit variance for each
+subgroup, and are similar to standardized regression
+coefficients in multiple regression. The relative mag-
+nitudes of effects for various paths of the structural
+model remained consistent within all groups. Finally,
+the values of the standardized total effects of impor-
+tant model construct relationships and squared multi-
+ple correlations for each endogenous construct within
+each subgroup indicated similar patterns within each
+subgroup of corresponding contingencies.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+Third, following the multigroup invariance assess-
+ment procedures used in the literature Doll et al.,
+1998 , the invariance of each path across the two
+sub-groups of a contingency was tested as follows. A
+constrained two-sample model with equality con-
+straints specified for each path coefficient across the
+groups was executed and the x2 value of the model
+(cid:14)
+x constrained noted. Next,
+the equality con-
+straints for the path coefficients were relaxed one at
+a time and the x noted x unconstrained . The
+x difference was used as a test statistic d dfs1
+.
+c
+.
+p -0.05 ,
+with thresholds of 2.71
+p -0.01 for rejecting the specific path
+and 6.63
+invariance hypothesis. The results of path invariance
+
+p -0.1 , 3.84
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+2
+
+2
+
+2
+
+2
+
+analysis indicated that none of the path coefficients
+are statistically distinct across the subgroups for each
+contingency.
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+Finally, using recommendations for aggregate in-
+variance analysis Doll et al., 1998; Joreskog and
+Sorbom, 1998 , we further tested the overall path
+coefficients invariance across the sub-groups for each
+contingency as follows. For each contingency, first a
+fully constrained model
+invariance across subgroups
+imposed for each path coefficient, correlations be-
+tween exogenous constructs, correlations between
+endogenous constructs, and measurement errors of
+constructs was executed. Next, a relaxed model
+(cid:14)relaxing the invariance constraints for all path coef-
+ficients was executed. The two models were com-
+pared for significance of their x2 difference as well
+as other indices NNFI and CFI to conclude whether
+the path coefficients are significantly different across
+the subgroups. The results were in exact agreement
+with the single-path coefficient invariance analysis
+reported above and validated the conclusion that
+(cid:14)
+Propositions 2, 4, and 6 cannot be rejected. In
+summary, the path model relationships are empiri-
+cally shown to be invariant across all of the sub-
+groups.
+
+.
+
+(cid:14)
+
+.
+
+.
+
+8. Discussion
+
+8.1. Summary of results
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+The measurement model turned out to be ade-
+quate for the entire sample as well as for the six
+subgroups based on size, TQM duration, and logisti-
+cal complexity of firms Tables 3–5 . The hypothe-
+sized structural path model exhibited adequate fit for
+the entire sample Table 6 and in all of the sub-
+groups. Moreover, both firm size and logistical com-
+plexity did not have a significant impact on either
+the levels of individual constructs or the strength of
+their relationships Table 7 . While TQM duration
+did not influence the strength of path relations, it did
+affect the level of execution of design and process
+management constructs and internal and external
+quality outcomes. Conclusions of the hypotheses and
+propositions are summarized in Table 7.
+
+(cid:14)
+
+.
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+569
+
+8.2. Generalizability of results
+
+The model presented in Fig. 1 has significant
+generalizability to small as well as large firms. It is
+equally suitable for explaining the impact of design
+and process management on quality outcomes for
+any firm regardless of its TQM experience. Finally,
+it is applicable to different industry contexts inde-
+pendent of the level of competition, prevalent pro-
+duction processes, and logistical complexity of pro-
+duction. In order to further confirm whether clearer
+demarcation of industries into discrete versus process
+production industries affects the conclusions based
+on logistical complexity, we refined the process pro-
+duction and discrete production classification as fol-
+lows. SIC groups 34 fabricated metal products , 35
+industrial and commercial machinery, 36 electronic
+and electrical machinery , 37 transportation equip-
+ment , and 38 instrumentation were classified as
+discrete production industries. SIC groups 20 food
+and kindred , 22 textile mill products , 26 paper
+and allied products , 28 chemicals and allied prod-
+ucts , 29 petroleum refining , and 30 rubber were
+classified as process production industries. We re-
+peated the industry contingency analysis for this
+dichotomy. The pattern of results was exactly identi-
+cal to that reported in Table 10. These detailed and
+multifaceted contingency analyses demonstrate that
+the model has extremely high applicability in various
+organizational and industry contexts.
+
+(cid:14)
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+(cid:14)
+
+(cid:14)
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+8.3. Structural model relationships
+
+With the exception of the product design perfor-
+mance–external quality path, all of the hypothesized
+path linkages are strongly supported. The excellent
+model fit indices, high R2 values for endogenous
+constructs, and the high percent variance explained
+(cid:14)
+PVE for key construct pairs in the model further
+enhance the confidence in the structural model.
+
+.
+
+The standardized direct and total effects explain
+the relative importance of design and process man-
+agement
+in various intermediate and final quality
+outcomes. Vis-a-vis training, design management has
+a more pronounced impact on product design perfor-
+mance. However, both of these exogenous constructs
+have an identical impact on process quality manage-
+
+`
+
+.
+
+(cid:14)
+
+concurrent
+
+ment. This finding demonstrates the higher impact of
+the specialized design management practices cross-
+functional organization,
+engineering,
+quality function deployment, and design of experi-
+ments on a firm’s ability to excel along new product
+development and design improvement as compared
+to process quality tools training. These specialized
+design management practices also complement spe-
+cific quality training in its impact on process quality
+management. For example, cross-functional integra-
+tion of quality efforts is an enabler of teamwork,
+(cid:14)
+cooperation, and quality-oriented culture
+Funk,
+1992; Lawler et al., 1992; Mirvis, 1997; Grandzol
+and Gershon, 1998 . The same employees who par-
+ticipate in the advanced design management prac-
+tices also execute process quality management ele-
+ments. Their knowledge, experience, and attitudes
+regarding teamwork, cooperation, and customer fo-
+cus should spill over into the on-going efforts of
+tracking and improving the quality of manufacturing
+processes. Hence, both design management and qual-
+ity training are important for effective process qual-
+ity management.
+
+.
+
+Both design management and training have about
+the same impact on internal quality as well as exter-
+nal quality. This answers the principal research ques-
+tion of the relevance of design and process manage-
+ment in quality efforts. Thus, though design manage-
+ment efforts tend to take place in the background
+while quality training and process management activ-
+ities are usually in the forefront of quality efforts, the
+results demonstrate that both are critical to attaining
+superior
+internal and external quality. Focus on
+cost-efficient production of Model T cars in the late
+1920s or standardization of models and components
+at the expense of consumer dissatisfaction by Ford,
+GM, and Chrysler until the 1980s indicate the futility
+of process quality and cost management without
+regard to customer-oriented product design efforts
+(cid:14)
+Melnyk and Denzler, 1996 . On the other hand, as
+General Electric’s rotary compressor disaster in the
+1980s demonstrates, hasty introduction of ill-desig-
+ned products without regard to manufacturability and
+process quality costs can also lead to inordinate
+internal and external quality costs Dean and Evans,
+1994 . Our results validate these arguments and rein-
+force the equality of importance of design and pro-
+cess management in successful quality efforts.
+
+.
+
+.
+
+(cid:14)
+
+
+570
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+(cid:14)
+
+The weak support for the product design perfor-
+mance–external quality direct effect, in conjunction
+with significant
+indirect effect of product design
+performance on external quality through internal
+quality provides further insights. The cost and con-
+formance quality dimensions directly affect customer
+perception upon field usage. However, the customers
+.
+view cost in relation to product design features .
+Product design performance measures of product
+development speed and product simplification have a
+pronounced impact on the internal quality indicators
+such as
+than on
+customer-based views of product design changes.
+Thus, a firm’s product design performance efforts
+have more impact on customer perception indirectly
+though better costs and lower inherent defects. Hence,
+this finding again supports the aforementioned argu-
+ment that superior product designs must be accompa-
+nied by efficient and high quality manufacturing
+processes to yield superior market performance.
+
+and defects
+
+rework,
+
+scrap,
+
+The positive impact of product design perfor-
+mance on internal quality can be explained by the
+ability of firms excelling along design management
+to also manage process quality better. Toyota, Sony,
+and Rubbermaid are excellent examples of these
+abilities. Although frequent product design changes
+may have some negative implications for process
+quality due to shorter product life cycles, the experi-
+ence, competence, and attitude of people in firms
+with good design efforts helps these firms manage
+process quality better. This synergy between design
+and process management efforts keeps the negative
+impact of higher process changes caused by rapid
+new product development.
+
+8.4. Contingency effects
+
+The tests of contingency effects of firm size,
+TQM duration, and industry characteristics on the
+construct levels and relationships revealed that the
+model relationships are not impacted by the three
+factors. The levels of implementation of design and
+process management and their outcomes are also not
+affected by firm size or industry characteristics.
+However, TQM duration affects the levels of all
+constructs design management, training, product de-
+sign performance, process quality management, in-
+
+(cid:14)
+
+.
+
+(cid:14)
+
+ternal quality, and external quality positively. This
+observation supports the theory of organizational
+.
+learning Deming, 1986; Senge, 1990; Garvin, 1993 .
+It appears that firms are able to develop and stabilize
+a better infrastructure for training and design man-
+agement as TQM implementation matures. In addi-
+tion, the long-term learning from managerial tools
+such as cross-functional teams and concurrent engi-
+neering provides a synergistic support for more ef-
+fective use of specific tools such as design of experi-
+ments, SPC, and error-prevention. This synergy is
+gradually enhanced over time. Hence, as TQM im-
+plementation matures, the design management efforts
+as well as training and process quality management
+efforts are implemented more rigorously. As a conse-
+quence, firms are able to produce superior design
+products at lower costs and higher production qual-
+ity. This ultimately results in superior external qual-
+ity. These findings reflect
+the need for firms to
+persevere with balanced design and process manage-
+ment efforts for 5 or more years to reap significant
+benefits from their TQM efforts.
+
+9. Conclusion
+
+Through a large-scale cross-sectional study of
+quality practices in major manufacturing industries,
+we have demonstrated that both design and process
+management efforts have an equal impact on internal
+and external product quality. The detailed contin-
+gency analysis shows that the proposed model of
+synergies between design and process management
+holds true for large and small firms, for firms with
+different levels of TQM experience, and in different
+industries with varying levels of competition, logisti-
+cal complexity of production, or production process
+characteristics. Finally, the results also suggest that
+organizational learning enables mature TQM firms to
+implement both design and process efforts more
+rigorously and the synergies between design and
+process management help these firms to attain better
+quality outcomes.
+
+These findings indicate that,
+
+to attain superior
+quality outcomes, firms need to balance their design
+and process management efforts and persevere with
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+571
+
+(cid:14)
+
+.
+
+the long-term implementation of these efforts. Be-
+cause the study spans all of the manufacturing sec-
+tors SIC 20 through 39 , these findings have a wide
+applicability. Furthermore, these two types of efforts
+need not be perceived as being mutually exclusive.
+There are many synergistic effects of design man-
+agement and training on both product design perfor-
+mance and process quality management. This insight
+has direct implications for planning of the quality
+efforts, staffing, recruitment, training, resource allo-
+cation and prioritization of quality improvement pro-
+jects. The study also illustrates the tactical and strate-
+gic importance of design management
+techniques
+such as concurrent engineering, cross-functional
+product development organization, and involvement
+of suppliers and customers in product and process
+design to the long-term success of quality programs.
+Finally, the weak link between product design per-
+formance and external quality along with the signif-
+icant indirect effect of design performance on exter-
+nal quality through internal quality has interesting
+implications. It suggests that although design efforts
+influence customer-based quality through visible
+product changes, they influence the external quality
+perceptions primarily through their contribution to
+efficient production of high performance quality
+products internal quality . However, firms need not
+always strive for visible breakthrough improvements
+in product features. These efforts need to be bal-
+anced with on-going efficiency and production cost
+improvement.
+
+(cid:14)
+
+.
+
+.
+
+(cid:14)
+
+.
+
+What implications do these results have for spe-
+cific quality improvement actions of firms? First,
+design efforts such as concurrent engineering, quality
+function deployment, and cross-functional involve-
+ment have a significant direct
+impact on internal
+(cid:14)
+product design performance product development
+speed and product components and process quality
+management efforts such as monitoring of scrap
+rates, rework rates, defect rates, and corrective ac-
+tions. Quality training items such as employee and
+management training, and use of quality tools are
+also useful in attaining high levels of product design
+performance and process quality management ef-
+forts. These measures of the exogenous constructs
+ultimately affect internal quality measures such as
+scrap and rework rates, defect rates, and reliability,
+as well as external quality measures such as market
+
+share, customer complaints, and warranty and litiga-
+tion. Hence, the results empirically support the criti-
+cal
+influence of specific design management and
+process quality related actions on final quality out-
+comes. They should enhance practitioners’ confi-
+dence in their design and process quality efforts as
+enablers of final quality outcomes.
+
+Appendix A. Model constructs
+
+(cid:14)
+
+.
+
+Scale reliabilities a appear in the title of each
+scale. Individual factor-loadings of the final mea-
+surement model appear in the parenthesis for each
+retained item. Note that all factor-loadings were
+significant at p -0.001. Starred items were elimi-
+nated during scale refinement.
+x
+j1. Quality design management DM as0.88
+1. Customer requirements and expectations of the
+company’s products are used in developing
+strategic plans and goals during quality func-
+tion deployment. 0.73
+
+. w
+
+(cid:14)
+
+w
+
+x
+
+2. Advanced design techniques such as Design of
+Experiments are used in product and process
+design management. 0.51
+
+w
+
+x
+
+3. Management at all levels is involved in the
+
+product quality planning process. 0.80
+
+4. Employees are involved in the product quality
+
+w
+
+x
+
+planning process. 0.80
+
+planning process. 0.75
+
+planning process. 0.77
+
+w
+
+w
+
+w
+
+x
+
+x
+
+x
+
+5. Customers are involved in the product quality
+
+6. Suppliers are involved in the product quality
+
+7. Product quality and design improvement plans
+fi-
+
+functional areas marketing,
+
+include all
+nance, operations, etc. . 0.80
+
+. w
+
+(cid:14)
+
+x
+
+x
+
+(cid:14)
+
+. w
+
+8. Competitive benchmarking is used to develop
+
+10. Management has
+
+9. Management promotes the use of process qual-
+
+product design and quality goals.)
+j2. Quality training TRAIN as0.74
+ity controlrimprovement tools. 0.58
+received comprehensive
+training on quality controlrimprovement tools.
+w
+0.61
+ing on quality controlrimprovement
+w
+0.64
+
+11. Employees have received comprehensive train-
+tools.
+
+x
+
+w
+
+x
+
+x
+
+
+572
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+12. Employees are trained to do more than one
+
+w
+
+job. 0.59
+
+x
+
+x
+h1. Product design performance PDP as0.83
+13. We have successfully reduced our product de-
+
+. w
+
+(cid:14)
+
+w
+
+x
+
+velopment time. 0.93
+x
+
+in our products. 0.80
+
+w
+
+14. We have reduced number of components used
+
+h2. Process quality management PQM as0.78
+
+(cid:14)
+
+. w
+
+x
+
+x
+
+w
+
+15. Cost of scrap is tracked and reported.)
+x
+16. Cost of rework is tracked and reported. 0.55
+17. Causes of scrap and rework are identified.
+
+w
+0.78
+18. Corrective action is taken immediately when a
+productrprocess quality problem is identified.
+w
+0.81
+19. Key processes are systematically improved to
+x
+achieve better productrprocess quality. 0.78
+20. Our manufacturing facilities use SPC exten-
+
+x
+
+w
+
+sively. 0.56
+21. There is a good system of communication of
+productrprocess quality problems between
+management and employees.)
+Internal quality INTQ as0.91
+
+. w
+
+(cid:14)
+
+x
+
+22. Our scrap rate has been reduced over the last 3
+
+w
+
+x
+
+h3.
+
+w
+
+x
+
+years. 0.89
+
+23. Our rework rate has been reduced over the last
+
+3 years. 0.94
+
+w
+
+x
+
+24. Our defect rates of finished products have been
+
+x
+reduced over the last 3 years. 0.91
+(cid:14)
+
+25. Our manufacturing productivity good units
+per person-h has improved over the last 3
+years.)
+
+.
+
+w
+
+(cid:14)
+
+26. Our internal before shipping product perfor-
+mance tests have shown improved product reli-
+x
+ability over the last 3 years. 0.65
+h4. External quality EXTQ as0.83
+
+. w
+
+(cid:14)
+
+w
+
+x
+
+.
+
+27. There has been a steady decline in the number
+x
+of warranty claims over the last 3 years. 0.92
+28. There has been a steady decline in the number
+litigation claims over the last 3
+
+w
+
+of product
+years. 0.74
+
+w
+
+x
+
+29. There has been a steady decline in the number
+of customer complaints over the last 3 years.
+w
+0.87
+
+x
+
+30. The company’s market share in the key prod-
+x
+ucts has improved over the last 3 years. 0.54
+
+w
+
+References
+
+Ahire, S.L., 1996. TQM age versus quality: an empirical investi-
+(cid:14) .
+gation. Production and Inventory Management Journal 37 1 ,
+18–23.
+
+Ahire, S.L., 1997. Management science — total quality manage-
+(cid:14) .
+ment interfaces: an integrative framework. Interfaces 27 6 ,
+91–114.
+
+Ahire, S.L., Golhar, D.Y., 1996. Quality management in large
+investigation. Journal of
+
+versus small firms: an empirical
+(cid:14) .
+Small Business Management 34 2 , 1–13.
+
+Ahire, S.L., Golhar, D.Y., Waller, M.A., 1996. Development and
+validation of TQM implementation constructs. Decision Sci-
+ences 27 1 , 23–56.
+
+(cid:14) .
+
+Ahire, S.L., Rana, D.S., 1995. TQM pilot projects selection using
+an MCDM approach. International Journal of Quality and
+Reliability Management 12 1 , 61–81.
+
+(cid:14) .
+
+American Quality Foundation and Ernst and Young, 1992. The
+International Quality Study Best Practices Report: An Analy-
+sis of Management Practices that Impact Performance. Na-
+tional Association of Accountants, Montvale, NJ.
+
+Anderson, J.C., Gerbing, D.W., 1991. Some methods for respeci-
+fying measurement models to obtain unidimensional construct
+measurement. Journal of Marketing Research 19, 453–460.
+
+Anderson, J.C., Rungtusanatham, M., Schroeder, R.G., Devaraj,
+S., 1995. A path analytic model of a theory of quality manage-
+ment underlying the Deming management method: prelimi-
+nary empirical findings. Decision Sciences 26 5 , 637–658.
+
+(cid:14) .
+
+Armstrong, J.S., Overton, T.S., 1977. Estimating non-response
+(cid:14) .
+bias in mail surveys. Journal of Marketing Research 14 3 ,
+396–402.
+
+Artzt, E.L., 1992. The New Value Model. Quality Forum VIII.
+
+Proctor & Gamble, Cincinnati, OH.
+
+Bagozzi, R.P., Yi, Y., Phillips, L.W., 1991. Assessing construct
+validity in organizational research. Administrative Sciences
+Quarterly 36, 421–458.
+
+Benton, W.C., 1991. Statistical process control and the Taguchi
+method: a comparative evaluation. International Journal of
+Production Research 29 9 , 1761–1770.
+
+(cid:14) .
+
+Black, S.A., Porter, L.J., 1996. Identification of the critical factors
+
+of TQM. Decision Sciences 27 1 , 1–22.
+
+(cid:14) .
+
+Blackburn, R., Rosen, B., 1993. Total quality and human resource
+management: lessons learned from Baldrige Award-winning
+companies. Academy of Management Executive 7 3 , 49–66.
+Bollen, K.A., 1989. Structural Equations with Latent Variables.
+
+(cid:14) .
+
+Wiley, New York, NY.
+
+Boothroyd, G., Dewhurst, P., Winston, K., 1994. Production
+Design for Manufacture and Assembly. Marcel Dekker, New
+York, NY.
+
+Brown, M.G., Hitchcock, D.E., Willard, M.L., 1994. Why TQM
+Fails and What to do about it. Irwin Professional, New York,
+NY.
+
+Buzzell, R.D., Gale, B.T., 1987. The PIMS Principles: Linking
+
+Strategy to Performance. The Free Press, New York, NY.
+
+Camp, R.C., 1989. Benchmarking. ASQC Quality Press, Milwau-
+
+kee, WI.
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+573
+
+Campbell, D.T., Fiske, D.W., 1959. Convergent and discriminant
+validation by the multitrait–multimethod matrix. Psychologi-
+cal Bulletin 56 1 , 81–105.
+
+(cid:14) .
+
+Carmines, E.G., Zeller, R.A., 1979. Reliability and validity assess-
+ment, Quantitative Applications in the Social Sciences 17 Sage
+Publications, Newbury Park, CA.
+
+Chase, R.B., Aquilano, N.J., Jacobs, F.R., 1998. Production and
+Operations Management: Manufacturing and Services. 8th edn.
+Irwin-McGraw-Hill, Boston, MA.
+
+Chen, W.H., Tirupati, D., 1995. On-line quality management:
+integration of product inspection and process control. Produc-
+tion and Operations Management 4 3 , 242–262.
+
+(cid:14) .
+
+Clark, K.B., Fujimoto, T., 1991. Product Development Perfor-
+
+mance. Harvard Business School Press, Cambridge, MA.
+
+Cohen, M., Eliashberg, J., Ho, T., 1996. New product develop-
+ment: the performance and time to market tradeoff. Manage-
+ment Science 42 2 , 173–182.
+
+(cid:14) .
+
+Cronbach, L.J., 1951. Coefficient alpha and the internal structure
+
+of tests. Psychometrica 16, 297–334.
+
+Crosby, P.B., 1979. Quality Is Free. McGraw-Hill, New York,
+
+NY.
+
+Crosby, P.B., 1996. Quality Is Still Free. McGraw-Hill, New
+
+York, NY.
+
+Dawson, P., Patrickson, M., 1991. Total quality management in
+Australian banking industry. International Journal of Quality
+and Reliability Management 8 5 , 66–76.
+
+(cid:14) .
+
+Dean, J.W., Evans, J.R., 1994. Total Quality. West Publishing,
+
+Minneapolis, MN.
+
+Dean, J.W., Susman, G.I., 1989. Organizing for manufacturable
+
+design. Harvard Business Review 67 1 , 28–36.
+
+(cid:14) .
+
+Funk, J.L., 1992. The Teamwork Advantage. Productivity Press,
+
+Cambridge, MA.
+
+Funk, J.L., 1995. Just-in-time manufacturing and logistical com-
+plexity: a contingency model. International Journal of Opera-
+tions and Production Management 15 5 , 60–71.
+
+(cid:14) .
+
+Galagan, P., 1992. How to get your TQM training on track.
+
+Nation’s Business, October, 24–28.
+
+Garvin, D.A., 1987. Competing on the eight dimensions of qual-
+
+ity. Harvard Business Review 65 6 , 101–109.
+
+(cid:14) .
+
+Garvin, D.A., 1993. Building a learning organization. Harvard
+
+Business Review 71 4 , 78–91.
+
+(cid:14) .
+
+George, S., Weimerskirch, A., 1994. Total Quality Management:
+Strategies and Techniques Proven at Today’s Most Successful
+Companies. Wiley, New York, NY.
+
+Ghiselli, E.E., Campbell, J.P., Zedeck, S., 1981. Measurement
+Theory for the Behavioral Sciences. Freeman, San Francisco,
+CA.
+
+Grandzol, J.R., Gershon, M., 1998. A survey instrument for
+standardizing TQM modeling research. International Journal
+of Quality Science 3 1 , 80–105.
+
+(cid:14) .
+
+Greene, R.T., 1993. Global Quality: A Synthesis of the World’s
+Best Management Methods. ASQC Quality Press, Milwaukee,
+WI.
+
+Hair, J.F. Jr., Anderson, R.E., Tatham, R.L., Black, W.C., 1998.
+Multivariate Data Analysis. 5th edn. Prentice-Hall, Englewood
+Cliffs, NJ.
+
+Hammer, M., Champy, J., 1993. Reengineering the Corporation.
+
+Harper Collins, New York, NY.
+
+Hardie, N., 1998. The effects of quality on business performance.
+
+Quality Management Journal 5 3 , 65–83.
+
+(cid:14) .
+
+Deming, W.E., 1986. Out of the Crisis. MIT Press, Cambridge,
+
+MA.
+
+Deschamps, J.P., Nayak, R., 1995. Product Juggernauts: How
+Companies Mobilize to Generate a Stream of Market Winners.
+Harvard Business School Press, Boston, MA.
+
+Dillman, D.A., 1987. Mail and Telephone Surveys: The Total
+
+Design Method. Wiley, New York, NY.
+
+Doll, W.J., Hendrickson, A., Deng, X., 1998. Using Davis’s
+perceived usefulness and ease-of-use instruments for decision
+making: a confirmatory and multigroup invariance analysis.
+Decision Sciences 29 4 , 839–870.
+
+(cid:14) .
+
+Everett, R.J., Sohal, A.S., 1991. Individual involvement and inter-
+vention in quality improvement programmes: using the Andon
+system. International Journal of Quality and Reliability Man-
+agement 8 2 , 21–34.
+
+(cid:14) .
+
+Finch, B.J., 1986. Japanese management
+
+techniques in small
+manufacturing companies: a strategy for implementation. Pro-
+duction and Inventory Management 27 3 , 30–38.
+
+(cid:14) .
+
+Flynn, B.B., Schroeder, R.G., Sakakibara, S., 1994. A framework
+for quality management research and an associated instrument.
+Journal of Operations Management 11, 339–366.
+
+Flynn, B.B., Schroeder, R.G., Sakakibara, S., 1995. The impact of
+quality management practices on performance and competitive
+advantage. Decision Sciences 26 5 , 659–692.
+
+(cid:14) .
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural models
+with unobservable variables and measurement error. Journal of
+Marketing Research 18, 39–50.
+
+Hattie, J.R., 1985. Methodological review: assessing unidimen-
+sionality of tests and items. Applied Psychological Measure-
+.
+ment 9, 139–164, June .
+
+(cid:14)
+
+Hauser, J.R., Clausing, D., 1988. The house of quality. Harvard
+
+Business Review 66 3 , 63–73.
+
+(cid:14) .
+
+Hendricks, K.B., Singhal, V.R., 1997. Does implementing an
+effective TQM program actually improve operating perfor-
+mance? Empirical evidence from firms that have won quality
+awards. Management Science 43 9 , 1258–1274.
+
+(cid:14) .
+
+Hill, T., 1994. Manufacturing Strategy: Text and Cases. 2nd edn.
+
+Irwin, Burr-Ridge, IL.
+
+Huthwaite, B., 1991. Design for Competitiveness: A Concurrent
+Institute for Competitive Design,
+
+Engineering Handbook.
+Rochester, MI.
+
+Imai, M., 1986. Kaizen: The Key to Japan’s Competitive Success.
+
+Random House, New York, NY.
+
+Jayaram, J., Handfield, R., Ghosh, S., 1997. The application of
+quality tools in achieving quality attributes and strategies.
+Quality Management Journal 5 1 , 75–100.
+
+(cid:14) .
+
+Joreskog, K.G., Sorbom, D., 1998. LISREL 8.2: Software and
+User’s Reference Guide. Scientific Software International,
+Chicago, IL.
+
+Juran, J.M., 1981. Product quality — a prescription for the West,
+
+Part I. Management Review 70 6 , 8–14.
+
+(cid:14) .
+
+Juran, J.M., Gryna, F.M., 1993. Quality Planning and Analysis.
+
+3rd edn. McGraw-Hill, New York, NY.
+
+Kessler, E.H., Chakrabarti, A., 1996. Innovation speed: a concep-
+
+
+574
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+tual model of context, antecedents, and outcomes. Academy of
+Management Review 21 4 , 1143–1191.
+
+(cid:14) .
+
+Kim, J.S., 1996. Search for a new manufacturing paradigm.
+Research Report Series, Boston University School of Manage-
+ment, Boston, MA.
+
+Kochan, A., 1991. Simultaneous engineering puts the team to
+
+work. Multinational Business 1, 41–48.
+
+Kofturos, X.A., 1999. Testing a model of pull production: a
+paradigm for manufacturing research using structural equa-
+(cid:14) .
+tions modeling. Journal of Operations Management 17 4 ,
+467–488.
+
+Kotha, S., Vadlamani, B.L., 1995. Assessing generic strategies: an
+empirical investigation of two competing typologies in dis-
+crete manufacturing industries. Strategic Management Journal
+16 1 , 75–83.
+
+(cid:14) .
+
+Land, K.C., 1969. Principles of path analysis. In: Sociological
+Methodology. Borgatta, E.F., Bohrnstedt, G.W. Eds. , The
+Jossey-Bass Behavioral Sciences Series Jossey Bass, San
+Francisco, CA.
+
+(cid:14)
+
+.
+
+Larson, P.D., Sinha, A., 1995. The TQM impact: a study of
+quality managers’ perceptions. Quality Management Journal 2
+(cid:14) .3 , 53–66.
+
+Lawler, E.E., Mohrman, S.S., Ledford, G.E., 1992. Employee
+Involvement and Total Quality Management: Practices and
+Results in Fortune 1000 Companies. Jossey-Bass, San Fran-
+cisco, CA.
+
+Manoochehri, G., 1988. JIT for small manufacturers. Journal for
+
+Marsh, H.W., 1987. The factorial
+
+Small Business Management 26 4 , 22–30.
+
+(cid:14) .
+invariance of responses by
+males and females to a multidimensional self-concept instru-
+ment: substantive and methodological issues. Multivariate Be-
+havioral Research 22, 457–480.
+
+Melnyk, S.A., Denzler, D.R., 1996. Operations Management: A
+
+Value-Driven Approach. Irwin, Chicago, IL.
+
+Mirvis, P.H., 1997. Human resource management: leaders, lag-
+gards, and followers. Academy of Management Executive 11
+(cid:14) .2 , 43–56.
+
+Mizuno, S., 1988. Management for Quality Improvement: The
+
+Seven QC Tools. Productivity Press, Cambridge, MA.
+
+Mizuno, S., Akao, Y., 1994. QFD: The Customer-Driven Ap-
+proach to Quality Planning and Deployment. Nordica Interna-
+tional, Hong Kong.
+
+Modarress, B., Ansari, A., 1989. Quality control techniques in US
+firms: a survey. Production and Inventory Management Jour-
+nal 30 2 , 58–62.
+
+(cid:14) .
+
+NIST, 1998. Malcolm Baldrige National Quality Award Guide-
+lines. US Department of Commerce, National Institute of
+Standards and Technology, Gaithersburg, MD.
+
+Norusis, M., 1998. SPSS 8.0 For Windows: User’s Guide. SPSS,
+
+Chicago, IL.
+
+Nunnally, J.C., 1978. Psychometric Theory. 2nd edn. McGraw-
+
+Hill, New York, NY.
+
+O’Leary-Kelly, S.W., Vokurka, R.J., 1998. The empirical assess-
+ment of construct validity. Journal of Operations Management
+16, 387–405.
+
+Port, O., 1989. The best engineered part is no part at all. Business
+
+Week, 150, May 8.
+
+Porter, M.E., 1991. Towards a dynamic theory of strategy. Strate-
+.
+gic Management Journal 12, 95–117, Winter Special Issue .
+Radhakrishnan, S., Srinidhi, B., 1994. Should quality be designed
+in or inspected in? A cost-of-quality framework. Quality Man-
+agement Journal 2 3 , 72–85.
+
+(cid:14) .
+
+(cid:14)
+
+Reeves, C.A., Bednar, D.A., 1994. Defining quality: alternatives
+(cid:14) .
+and implications. Academy of Management Review 19 3 ,
+419–445.
+
+Robinson, A.G., Schroeder, D.M., 1990. The limited role of
+statistical quality control in a zero-defect environment. Produc-
+tion and Inventory Management Journal 31 3 , 60–65.
+
+(cid:14) .
+
+Robinson, A.G., Schroeder, D.M., 1993. Training, continuous
+improvement, and human relations: the US TWI programs and
+the Japanese management style. California Management Re-
+view 35 2 , 35–57.
+
+(cid:14) .
+
+Rosenthal, S.R., 1992. Effective Product Design and Develop-
+ment: How To Cut Lead Time and Increase Customer Satis-
+faction. Business One-Irwin, Homewood, IL.
+
+Schmenner, R., 1986. Comparative factory productivity. A report
+the Economic Development Administration,
+
+prepared for
+.
+Washington, DC, NTS No. PB87-140877 July .
+
+(cid:14)
+
+Schonberger, R.J., 1986. World Class Manufacturing: The Lessons
+
+of Simplicity Applied. Free Press, New York, NY.
+
+Senge, P.M., 1990. The Fifth Discipline. Double-Day, New York,
+
+NY.
+
+Shingo, S., 1986. Zero Quality Control: Source Inspection and
+
+The Poka-yoke System. Productivity Press, Stamford, CT.
+
+Sironopolis, N., 1994. Small Business Management: A Guide to
+
+Entrepreneurship. 5th edn. Houghton-Mifflin, Boston, MA.
+
+Sitkin, S.B., Suttcliffe, K.M., Schroeder, R.G., 1994. Distinguish-
+ing control from learning in total quality management: a
+contingency perspective. Academy of Management Review 19
+(cid:14) .3 , 537–564.
+
+Snell, S.A., Dean, J.W., 1992. Integrated manufacturing and
+human resource management: a human capital perspective.
+Academy of Management Journal 35 3 , 467–504.
+
+(cid:14) .
+
+Sonfield, M., 1984. Can Japanese management
+
+techniques be
+applied to American small business? Journal of Small Busi-
+ness Management 22 3 , 18–23.
+
+(cid:14) .
+
+Spector, B., Beer, M., 1994. Beyond TQM programmes. Journal
+
+of Organizational Change Management 7 2 , 63–70.
+
+(cid:14) .
+
+Svenson, R., Riderer, A., 1992. The Training and Development
+Strategic Plan Workbook. Prentice-Hall, Englewood Cliffs,
+NJ.
+
+Swamidass, P.M., Kotha, S., 1998. Explaining manufacturing
+technology use, firm size, and performance using a multidi-
+mensional view of technology. Journal of Operations Manage-
+ment 17 1 , 23–39.
+
+(cid:14) .
+
+Swink, M.L., Mabert, V.A., Sandvig, J.C., 1996. Customizing
+concurrent engineering processes: five case studies. Journal of
+Product Innovation Management 13, 229–244.
+
+Taguchi, G., 1987. On-line Quality Control During Production.
+
+Japanese Standards Association, Tokyo, Japan.
+
+
+S.L. Ahire, P. DreyfusrJournal of Operations Management 18 2000 549–575
+
+(
+
+)
+
+575
+
+Taguchi, G., Clausing, D., 1990. Robust quality. Harvard Busi-
+
+ness Review 68 1 , 65–75.
+
+(cid:14) .
+
+Venkatraman, N., 1989. Strategic orientation of business enter-
+prises: the construct, dimensionality and measurement. Man-
+agement Science 35 8 , 942–962.
+
+(cid:14) .
+
+1996. Toyota to unveil low-cost engine next month. Wall Street
+
+Journal, November 11.
+
+Werts, C.E., Linn, R.L., Joreskog, K.G., 1974. Interclass reliabil-
+
+ity estimates: testing structural assumptions. Educational and
+Psychological Measurement 34 1 , 25–33.
+
+(cid:14) .
+
+Wheelwright, S.C., Clark, K.B., 1992. Revolutionizing New Prod-
+uct Development: Quantum Leaps in Speed, Efficiency, and
+Quality. The Free Press, New York, NY.
+
+Womack, J.P., Jones, D.T., Roos, D., Carpenter, D.S., 1990. The
+Machine That Changed the World: The Story of Lean Produc-
+tion. Harper-Collins, New York, NY.
+

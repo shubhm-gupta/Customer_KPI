@@ -1,0 +1,965 @@
+ 
+ 
+Intangible Capital Aspects of Advertising and R & D Expenditures
+Author(s): Mark Hirschey
+Source: The Journal of Industrial Economics, Vol. 30, No. 4 (Jun., 1982), pp. 375-390
+Published by: Wiley
+Stable URL: http://www.jstor.org/stable/2097924
+Accessed: 02-08-2017 20:36 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+Wiley is collaborating with JSTOR to digitize, preserve and extend access to The Journal of
+Industrial Economics
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ THE JOURNAL OF INDUSTRIAL ECONOMICS
+
+ Volume XXX June 1982 No. 4
+
+ INTANGIBLE CAPITAL ASPECTS OF
+
+ ADVERTISING AND R&D EXPENDITURES
+
+ MARK HIRSCHEY*
+
+ Twenty years have passed since economists first emphasized the "intangible
+ capital" aspects of advertising. According to this view, ". . . consumers tend
+ to forget brands and continuous advertising is needed to maintain a given rate
+ of sales. Thus, advertising expenditures can be viewed as a capital good that
+ depreciates over time and needs maintenance and repair [22, p. 197]." More
+ recently, Weiss [25], among others, has suggested that research and devel-
+ opment, R&D, costs might also be capitalized as such expenditures ". . . yield
+ benefits mainly in the future [25, p. 421]." Unfortunately, most analyses of
+ the intangible capital issue have been limited to advertising largely because no
+ comprehensive data on R&D were available until quite recently. However,
+ important recent theoretical contributions on the topic and improvements in
+ data availability now make it possible more completely to consider the intang-
+ ible capital aspects of both advertising and R&D expenditures.
+
+ Here the intangible capital issue is investigated through use of a market
+ valuation model. In this approach, significant future (intangible capital) ef-
+ fects of advertising and R&D are suggested to the extent that current ex-
+ penditures have significant effects on the market value of the firm. Given
+ positive market value influences, individual coefficient estimates can be used
+ to estimate both the total stock of intangible capital as well as average annual
+ depreciation rates for advertising and R&D. While these depreciation rate
+ estimates are interfirm averages and undoubtedly err in individual instances,
+ they can be quite useful in indicating the general magnitude of corporate
+ profit and tax misstatement due to current reporting and tax policies.
+
+ In section I below, various articles closely related to this study are reviewed.
+ Section II develops a valuation model embodying intangible capital consider-
+ ations. The data are discussed in section III, and estimation results are presen-
+ ted in section IV. And finally, conclusions and implications for public policy
+ are discussed in section V.
+
+ I. PREVIOUS STUDIES
+
+ Previous studies attempting empirically to define the magnitude of the long-
+ lived aspects of advertising expenditures have focused on a distributed lag
+
+ * This research has benefited from many helpful discussions on the subject with John R.
+ Nevin, Herman F. Karreman, and Leonard W. Weiss. In addition, H. Michael Mann and an
+ anonymous referee provided many useful suggestions. I also wish to thank Knute W. Reichel for
+ valuable research assistance, and Kenneth M. Harlan for his assistance in data collection. Of
+ course, any errors which remain are mine alone.
+
+ 375
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 376 MARK HIRSCHEY
+
+ relationship between current product sales and advertising expenditures [see
+ 5]. Results have been ambiguous. Peles [15] found significant future effects of
+ advertising in beer and cigarettes, but not in automobiles. Abdel-Khalik [1],
+ however, found evidence of long-lived effects for firms in food and in drugs
+ and cosmetics, but not for tobacco and soap and cleansers firms. Schmalensee
+ [20] examined the advertising effect on sales for both the cigarette industry as
+ a whole and its individual firms and reported different effects for the various
+ companies and for the industry in general. Like Schmalensee, Falk and Miller
+ [8] also found nonuniform patterns of amortization of advertising ex-
+ penditures for individual firms in the same industry. Brown [4] has concluded
+ that such interfirm differences may be due, in part, to the age of the product
+ promoted as the returns to promoting appear to be greater for new as opposed
+ to older products. In reviewing previous studies, Picconi [ 17] found it trouble-
+ some that even among the most heavily advertised products, a systematic
+ relationship between advertising and sales or market share cannot consistently
+ be found. Even more discouraging than this finding, Clarke discovered that
+ the average implied duration interval derived from annual data is more than
+ 17 times as long as the average implied duration interval derived from
+ monthly data! Needless to say, this conflicting body of empirical evidence has
+ not resolved the policy question of whether to capitalize or expense advertis-
+ ing expenditures. These ambiguous results, however, are quite understandable
+ if one considers various theoretical and empirical problems of previous meth-
+ ods. First, an almost exclusive emphasis has been placed upon an individual
+ item's sales related or "product" advertising, while the importance of a firm's
+ aggregate level of product and "institutional" advertising has been ignored.
+ Certainly the product advertising for an individual item can be expected to
+ have an important influence on its demand, but institutional advertising which
+ is expected to improve the firm's image or aid the firm in its interactions with
+ the public may also be important [see 18]. For example, the fact that "Body
+ by Fisher" constitutes a "mark of excellence" undoubtedly contributes to the
+ sales of the entire line of General Motors products. In a similar fashion,
+ advertisements emphasizing the quality of Buick cars undoubtedly improve
+ public perceptions of Chevrolet. Therefore, both institutional and product
+ advertising might reasonably be expected to result in beneficial "spillover"
+ effects. Such spillover effects will cause a weakening of the sales-product ad-
+ vertising relationship for an individual product and cause one to draw poss-
+ ibly erroneous conclusions regarding the importance and/or durability of ad-
+ vertising expenditures.
+
+ A second problem with previous methods is that they do not fully reflect the
+ multipurpose goals of advertising. It is generally agreed that product advertis-
+ ing is an attempt to move the consumer from an unawareness of product
+ existence, to a favorable attitude towards the product, to an eventual pur-
+ chase decision-in other words, increase sales. On the other hand, institution-
+ al advertising may have quite different objectives. With institutional advertis-
+ ing the firm addresses the public not only as consumers or potential buyers of
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTISING AND R & D EXPENDITURES 377
+
+ its products, but also as voters on public policy issues important to the firm, as
+ actual or potential shareholders, and as employees [18]. Rather than increas-
+ ing sales, such advertising would seem directed towards reducing costs. Based
+ on these observations, one might argue that the firm's overall objective in
+ advertising is profit. It achieves this objective through sales related product
+ advertising, and institutional advertising aimed at both increasing sales and
+ reducing costs. To avoid measurement errors, analyses of advertising effective-
+ ness must consider the complete body of intended effects.
+
+ A third difficulty with previous research is that only aggregate media ex-
+
+ penditures are considered. This leaves possible differential media influences
+ ignored. In designing an advertising program firms have a wide choice of
+ media to choose among. Comanor and Wilson [6], Mueller and Rogers [14],
+ and Porter [19] have all suggested that the mix of advertising media adopted
+ by sellers will have important implications for the level of intangible advertis-
+ ing investment required for new firms ". . . to achieve parity with going firms
+ [19, p. 401]." They argue that the advantages to advertisers over existing and
+ potential competitors will be greater where the going firm competes and
+ advertises nationally (as opposed to locally) because of the large sums required
+ for national media, especially television, advertising. Importantly, Porter
+ found greater profitability effects for television as opposed to,other forms of
+ media advertising. Thus, it seems that the possibility of differential media
+ influences is well worth considering.
+
+ Statistical problems have presented a fourth problem for previous studies of
+
+ advertising effectiveness. In particular, high multicollinearity between current
+ and past levels of advertising expenditures has reduced the validity of tech-
+ niques employed. In fact, Picconi concluded that the distributed lag approach
+ is inappropriate for determining long-term advertising effectiveness. At a
+ minimum, Clarke suggests that alternatives to the distributed lag models
+ should be sought. He suggests that new approaches ". . . should (1) be more
+ robust in the parameters which measure the cumulative advertising effect, (2)
+ be derived from more realistic models of advertising effect, and (3) be less
+ sensitive to data interval bias [5, p. 356]."
+
+ Finally, the understandable failure to consider research expenditures in
+
+ previous studies of advertising creates the possibility of specification bias. In
+ support of Weiss' early suggestion of intangible capital aspects of R&D ex-
+ penditures, Grabowski and Mueller [9] found that R&D expenditures like
+ advertising expenditures have a large and consistent positive effect on firm
+ profit rates. With various depreciation rates of between 5 and 20 percent per
+ year, they indicated after-tax returns on R&D of between 15 and 20 percent.
+ Since such returns are significantly above average returns earned on tangible
+ investments, support is gained for Comanor and Wilson's observation that
+ intangible capital may have a substantial required rate of return as no tang-
+ ible asset is created which may be sold in the event of failure. Therefore, there
+ appears to be ample theoretical as well as empirical justification for consider-
+ ing the profitability influences of advertising and R&D expenditures jointly.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 378 MARK HIRSCHEY
+
+ Of course, failure to do so will tend to be most serious for firms in industries
+ which are both advertising and R&D intensive (e.g., pharmaceuticals).
+
+ Measuring Intangible Capital
+
+ II. METHODOLOGY
+
+ Since potentially important advertising and R&D capital are of an intangible
+ and unobservable nature, an econometric problem is encountered in measuring
+ their empirical relevance. Given only modest assumptions, however, it can
+ easily be shown that there is a strictly proportional relationship between
+ observable advertising and R&D expenditures, and unobservable advertising
+ and R&D capital. Earlier studies [15, 25] have assumed that advertising
+ depreciation is of the "evaporation" variety, and is constant at a rate of, say, 6
+ per cent per period. If a similar assumption may be made concerning R&D
+ capital, then
+
+ 00
+
+ (la) ICt = E (1 -)it_i)
+
+ i=O
+
+ (lb) = (1 - 6)01t.o + Z (1 -)it_)
+
+ i=l1
+ (Ic) = It + (1 - 6)ICt-1.
+
+ Where It refers to advertising and R&D expenditure levels during period t,
+ and ICt is the total level of intangible advertising and R&D capital.
+
+ If 0 < 6 <)1, then a portion of advertising and R&D expenditures in the
+ current period will carry over to subsequent periods and constitute an invest-
+ ment in intangible capital. On the other hand, if 6 = 1, then advertising and
+ R&D expenditures would have an influence during the current period only,
+ and should be expensed rather than capitalized.
+
+ The effect of expenditure growth (net investment) over time can easily be
+ incorporated into the analysis. Where advertising and R&D expenditures
+ grow at a constant rate y per cent per period, It = Io(l + y)t.l Then, from
+ equation (1 a) we can write
+
+ (2a) ICt = E (1 - )io(l + y)t-i,
+
+ 00
+
+ i=O
+
+ oo
+
+ (2b) = E (1 - )It(1 + Y)-i,
+
+ i=O
+
+ (2c) = i Q
+
+ 1 The assumption of a constant y is made to simplify the analysis. Nevertheless, Weiss sugges-
+ ted that this assumption is "not wildly wrong in any case." In support of this assertion, Weiss
+ reported a mean R' of .58 for logarithmic trends (log ads to time) for a sample of 32 IRS "minor
+ industries."
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTISING AND R & D EXPENDITURES 379
+
+ and since (1 1-()1(1 + Y) < 1, we can apply the power series rule and simplify
+ to yield
+
+ (2d) ICt = It
+
+ 1_ +y
+
+ (2e) = It +Y
+
+ This equation identifies the constant and proportional relationship ICt = fIt,
+ which exists between intangible capital and current levels of expenditures
+ where f = (1 + y)/(b + v).2 It follows that both advertising and R&D capital
+ will be proportionate to current advertising and R&D expenditures, i.e.,
+ ACt = fADADt and RCt = fR&DR&Dt. Importantly, amortization will only
+ be appropriate should Pi > 1, since only then will 0 < at < 1.
+
+ Of course, the above findings are of interest because they allow us to consi-
+
+ der the market value effects of current advertising and R&D expenditures as
+ indicative of the market value implications of intangible capital. Our testable
+ hypothesis becomes
+
+ (3a) MVt = f (ACt, RCt, Xt),
+
+ (3b) = f (fADADt, fiR&DR&Dt, Xt).
+ where f represents the relationship between the market value of the firm,
+ MVt, advertising capital, R&D capital, advertising and R&D expenditures;
+ and Xt, a vector of xi important determinants of firm market value which are
+ neither advertising nor R&D related. Because all variables relate to the cur-
+ rent period only, the subscript t can be dropped below without confusion.
+
+ The Valuation Model
+
+ On a theoretical basis, the market value of the firm represents the future profit
+ stream discounted to the present at an appropriate risk-adjusted rate of dis-
+ count. On a practical basis, the market value of the firm is dependent upon
+ various "indicators" of the firm's future profit potential. One such indicator is
+ the level of firm investment in tangible capital. At any point in time this level
+ will depend upon historical levels of investment, rates of physical and techno-
+ logical depreciation, current opportunity costs, etc. Obviously, measuring the
+ current level of tangible capital investment involves both theoretical and
+ practical problems. While realizing the problem of understatement during
+ inflationary periods, the accounting book value of the firm's capital invest-
+
+ 2 In a recent article Ben-Zion [2] asserted a similar proportional relationship, but one where
+ p = 1/(b + y). This assertion is only valid, however, if y can be considered "small" in relation to
+ 3 + y. In light of commonly observed y's of .10 to .15 and previous estimates by Peles of b's in the
+ .35 to .50 range, Ben-Zion's assertion seems inappropriate.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 380 MARK HIRSCHEY
+
+ ment, BV, will be adopted here. Current profits, xt, provides an additional
+ important indicator of a firm's profit potential. It has been suggested by
+ Thomadakis [23], for example, that in a capital market which evaluates all
+ available information about the future profitability of the firm, market value
+ will exceed the cost of investment to the extent that ex ante rates of return
+ exceed competitive norms. Advertising and R&D expenditures will also con-
+ stitute important determinants of firm market value to the extent that such
+ expenditures result in the creation of an economically relevant amount of
+ intangible capital. In order that the possibly differential market value effects
+ of various media, particularly television advertising, may emerge, alternative
+ aggregations of total advertising expenditures, ADi, will be considered. In all
+ cases
+
+ n
+
+ EADi = AD.
+ i=l1
+
+ The above considerations suggest a basic valuation model of the following
+
+ form:
+
+ (4) MV =a1+ aoBV + a2 + a3 R&D + ai ADi + u
+
+ i=l1
+
+ n
+
+ Direct estimation of such a form, however, would undoubtedly be hampered
+ by both multicollinearity and heteroskedasticity problems as each variable is
+ heavily influenced by characteristics related to firm size. If such influences can
+ be taken as proportionate with size as measured by firm book value [e.g., see
+ 13], we may write
+
+ MV 1 it R&D n AD
+ (5) - =aO+aVBv + BV BV BV
+
+ where u* = u/BV and as assumed to be homoskedastic.
+
+ The dependent variable MV/BV described above has an important econ-
+ omic interpretation when viewed as an approximation to "Tobin's q" ratio.
+ Tobin's q is defined as the market value of the firm divided by the replacement
+ cost value of total assets. Originally, Tobin proposed this measure as an
+ indicator of a firm's propensity to invest in new plant and equipment [e.g., see
+ 24]. According to Tobin, when q > 1 firms will expand total investment in
+ order to increase the total economic residual earned by stockholders. Whereas
+ q > 1 creates an obvious incentive for firm expansion, q < 1 creates an equally
+ obvious incentive for firm contraction.
+
+ The use of approximations to Tobin's q in industrial organization is a fairly
+ recent phenomena. Lindenberg and Ross [12], for example, have suggested
+ that they can be most useful in indicating the extent to which stockholders
+ capitalize rents attributable to invested capital, firm-specific factors and
+ market power. While this analysis focuses on the roles played by advertising
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTISING AND R & D EXPENDITURES 381
+
+ and R&D expenditures as firm-specific factors affecting the MV/BV ratio,
+ such influences cannot be considered in isolation. To a degree, equation (5)
+ allows for the effects of invested capital and market power through the 1/BV
+ and r/BV variables. Because this allowance is imperfect at best, it seems quite
+ reasonable to offer an expanded valuation model which more explicitly deals
+ with the effects of invested capital and market power.
+
+ Clearly, historical rates of return not only reflect the effects of market
+ power, but also the effects of past investment decisions and firm-specific fac-
+ tors as well. Nevertheless, when analyzing data for widely diversified firms,
+ rates of return can capture market power influences partially obscured by
+ primary product or weighted average concentration ratios. Concentration
+ ratios for a firm's primary product industry are only a poor measure of market
+ power at the firm level because many firms operate in several industries, with
+ primary product sales often representing less than 50 percent of a firm's total.
+ Even weighted concentration ratios reflecting firm involvement in a number
+ of industries can fail to capture market power influences since critical con-
+ centration ratio considerations are neglected. Of these problems associated
+ with mapping industry concentration and firm operating data, those associ-
+ ated with diversification seem most serious. Despite these limitations, the
+ effects of a firm's weighted four-firm concentration ratio, CR, will be con-
+ sidered as an additional important indicator of market power influences on
+ the value of the firm. Some collinearity problems are obvious, but unavoid-
+ able.
+
+ In addition to dealing with estimation problems concerning the effects of
+ market power, it seems reasonable to address measurement errors related to
+ the use of accounting data. A potential method for dealing with differences
+ among firms in the impact of inflation on accounting book values is to consi-
+ der the effect of growth, GR, on market value. It seems reasonable that
+ rapidly growing firms will have newer plant and equipment whose book
+ values more closely correspond with economic values than do the book values
+ of less dynamic firms with older tangible investment. One might expect,
+ therefore, that GR will have a negative "accounting" effect in regressions
+ where BV is also entered. Confounding this influence, however, is the fact that
+ past growth rates are undoubtedly used by investors to form expectations
+ concerning future growth in economic rents and rental opportunities. A priori
+ it is difficult to predict whether the negative accounting effect will be over-
+ whelmed by positive "signalling" effects. Because such influences can tend to
+ cancel one another out, the net effect of GR on market value is uncertain.
+
+ And finally, in considering the market value effects of invested capital,
+
+ firm-specific factors and market power it is necessary to control for the ex-
+ pected level of investor risk. While investor risk is often measured in terms of
+ stock-price beta, Ben-Zion and Shalit [3] present an attractive alternative
+ based upon the Standard & Poor's ranking of earnings and dividend stability
+ where A +, A, . . . D, NR is translated into a numerical scale 1, 2, . . . 8, 9.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 382 MARK HIRSCHEY
+
+ Ben-Zion and Shalit found this measure attractive as it reflects the assessment
+ of risk by investment agencies and other practitioners operating in the stock
+ market. Because required rates of return can be expected to rise as the risk, R,
+ of the anticipated profit stream increases, the discounted present (market)
+ value effect of increased R will be negative.
+
+ Therefore, the valuation model which will be tested below in an attempt to
+ isolate the intangible capital effects of advertising and R&D expenditures can
+ be written
+
+ (6) BV = + 1 BV + 2 BV + P3CR+ P4GR
+
+ () BV BV BV
+
+ +fl5R+ 36 ~+ZfPi . + e
+
+ R&D n AD.
+ BV i*1 BV
+
+ where it is expected that f2, f3, P6, pi > 0; f5 < 0; while f1 and f4 are
+ uncertain.
+
+ III. THE DATA
+
+ In developing an appropriate sample it would seem desirable to include firms
+ which both do and do not spend substantial amounts on advertising and
+ R&D. With this consideration in mind, the Fortune 500 for 1977 was adopted
+ as a sample basis for this study. Several observations had to be dropped due to
+ missing or incomplete data. Complete data were obtained on a representative
+ sample of 390 firms from 12 major product groups. Approximately $5.0 billion
+ in national media advertising and $15.2 billion in R&D expenditures were
+ undertaken by sample firms. Not surprisingly, this sample provides a better
+ coverage of total R&D expenditures (87.3 percent) than of national media
+ advertising (23.9 percent).3 Nevertheless, coverage of both is quite high. Six
+ categories of national media advertising are covered, including: network tele-
+ vision, spot television, newspaper, magazine, radio and outdoor billboard
+ advertising. This level of media aggregation will prove quite useful in testing
+ for media differences in valuation effects. In particular, previous studies sug-
+ gest lower rates of depreciation for television advertising since targeted audi-
+ ences tend to be geographically stable.
+
+ Accounting data on net income, sales and the book value of total assets were
+
+ all obtained from Fortune. Interest expenses were added to net income in order
+ to construct a profit variable which reflects returns to all holders of firm
+ securities. Interest expense data were obtained from Standard and Poor's
+
+ 3 The Fortune 500 excludes retailers, for example, many of whom (Sears, McDonalds, etc.) are
+
+ major advertisers.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTISING AND R&D EXPENDITURES 383
+
+ Compustat tapes. Four-firm concentration ratios weighted to reflect firm sales
+ in various four-digit census industries were originally compiled by Economic
+ Information Systems (EIS) Inc. and generously made available to this study
+ by Kenneth M. Harlan. Unfortunately, while all firm data relate to 1977, the
+ latest census data available at the time this analysis was undertaken were for
+ 1972. Thus, weighted census concentration ratios used here are largely for
+ 1972. In some instances, classification problems required the use of 1967 data.
+ While it would obviously be preferable to use concentration data for 1977,
+ concentration ratios are highly correlated over time and any-reduction in the
+ market value effects of conicentration due to measurement errors should be
+ minimal. And finally, all advertising data had Leading National Advertisers as its
+ source, while R&D expenditures were obtained from Business Week. Individ-
+ ual variables are defined as follows:
+
+ MV/BV is market value deflated by book value calculated as the ratio of
+ the market value of common plus book value of debt all divided
+ by the book value of total assets.
+
+ 1/BV is deflated book value calculated as the inverse of the book
+
+ value of total assets.
+
+ r/BV is profitability calculated as net income plus interest expense all
+
+ divided by the book value of total assets.
+
+ CR is concentration calculated at the four-firm level and weighted
+ to reflect firm involvement in various four-digit census indus-
+ tries.
+
+ GR is growth in terms of sales calculated as -1.
+
+ R is risk as reflected by earnings and dividend stability where
+ A +, A ... D, NR is translated into a numerical scale 1, 2, ...
+ 8,9.
+
+ R&D/BV is R&D expenditures deflated by book value and is calculated
+ as the ratio of R&D expenditures divided by the book value of
+ total assets.
+
+ AD/BV is advertising expenditures deflated by book value and is calcu-
+ lated as the ratio of total national media advertising divided by
+ the book value of total assets.
+
+ A correlation matrix for the variables described above is included in Table
+ I. Correlations for the television, TV, and nontelevision, NTV, portions of
+ total advertising are also reported as these variables are also included in the
+ analysis below.
+
+ IV. ESTIMATION RESULTS
+
+ Ordinary least squares results for equation (6) using two different levels of
+ aggregation for advertising expenditures are reported in Table II. In equation
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 384 MARK HIRSCHEY
+
+ MV/BV 1.000
+
+ 1/BV - .063 1.000
+
+ ir/BV .627 .041 1.000
+
+ CR .068 - .258 .030 1.000
+
+ GR .252 -.136 .297 .084 1.000
+
+ R -.511 .298 -.502 -.031 -.366 1.000
+
+ R&D/BV .317 -.134 .213 .279 .106 -.149 1.000
+
+ AD/BV .331 - .010 .248 .077 .006 - .231 .055 1.000
+
+ TV/BV .345 - .015 .261 .070 .023 - .226 .071 .965 1.000
+
+ NTV/BV .125 .009 .086 .060 - .049 -.131 -.027 .613 .384 1.000
+
+ TABLE I
+
+ VARIABLE CORRELATION MATRIX
+
+ MV/BV 1/BV ir/BV CR GR R R&D/BV AD/BV TV/BV NTV/BV
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTISING AND R&D EXPENDITURES 385
+
+ TABLE II
+
+ ESTIMATION RESULTS: INTANGIBLE CAPITAL As-
+ PECTS OF ADVERTISING AND R&D EXPENDITURES
+
+ (n = 390)
+
+ Dependent Variable is MV/BV
+
+ Eq. 6a Eq. 6b
+ Constant 0.781 0.790
+ (9.28)a (9.35)a
+ 1/BV 3.141 3.553
+ (0.33) (0.38)
+ 7r/BV 4.456 4.413
+ (9.49)a (9.37)a
+ CR -0.041 -0.035
+ (-0.40) (-0.34)
+ GR 0.148 0.133
+ (0.63) (0.57)
+ R - 0.055 -0.056
+ (_4.85)a (_4.92)a
+ R&D/BV 3.145 3.091
+ (4.84)a (4.75)a
+
+ AD/BV 2.732 ...
+
+ TV/BV ... 3.307
+
+ (4.32)a
+
+ (4.19)'
+
+ NTV/BV ... 0.030
+ (0.01)
+ R2 .501 .503
+ F 54.79a 48.20a
+
+ Notes: t values in parentheses.
+
+ a indicates significance at the a = .01 level.
+
+ (6a), total advertising expenditures are entered. In equation (6b), these total
+ advertising expenditures are divided into their television and non-television
+ advertising components in order that intermedia influences might be evalu-
+ ated.
+
+ Estimation results for the valuation model using total advertising ex-
+ penditures indicate significant explanatory power for the aggregate advertis-
+ ing form of the valuation model (equation (6)). On the basis of individual
+ coefficient estimates, current profit rates seem to constitute an important
+ positive and highly significant determinant of the market value of the firm. As
+ suggested above, such effects may have efficiency or market power related
+ sources. Somewhat surprisingly, neither concentration nor growth had indi-
+ vidually significant influences. These results should be interpreted cautiously,
+ however, as they probably reflect measurement and collinearity problems
+ rather than indicate an irrelevance of market power and growth related influ-
+ ences. Furthermore, as mentioned above, the accounting and signalling effects
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 386 4ARK HIRSCHEY
+
+ of growth rates on market values can tend to offset one another. Risk has the
+ expected negative and significant effect. This finding supports use of the Ben-
+ Zion and Shalit variable as an empirically relevant descriptor of risk.4
+
+ Quite robust results for the effects of advertising and R&D expenditures on
+
+ market value were obtained. Here we find support for their treatment as
+ intangible capital since each has a highly significant positive influence on
+ market value. Indeed, we can reject the null hypothesis that each variable is
+ less than one (Ho: p3i < 1) at the a = .01 level. As a result, each coefficient
+ estimate (/6 and /7, respectively) has an important interpretation in econom-
+ ic terms since they can be used to derive advertising and R&D depreciation
+ rate estimates for the Fortune sample.5 In equation (2e) we concluded that
+ ICt = PJIt, where ,B = (1 + y)/(b + y). It follows that 3 = (1 + y - y)/fl.
+ Therefore, average depreciation rate estimates, 's, for both R&D and adver-
+ tising capital can be made using /6 and f7, given appropriate expenditure
+ growth rate estimates, y's. For a given coefficient estimate, low (high) ^'s will
+ result in high (low) $'s. Because S's are sensitive to even small changes in i's,
+ the reader may wish to construct a range of S's on the basis of various assump-
+ tions regarding "true" y. Here historical rates of growth in nominal R&D and
+ advertising expenditures are used to generate j's. To the extent 's are below
+ (above) long-term growth rates, S's will be above (below) long-term deprecia-
+ tion rates.6 In light of recent growth rates for R&D expenditures of 8.8
+ percent over the 1974 to 1977 period (firm data were unavailable before
+ 1974), an average depreciation rate for R&D of 25.8 percent per year is
+ indicated. Similarly, recent growth in national media advertising of 12.3
+ percent per year over the 1972 to 1977 period indicates an average yearly rate
+ of advertising depreciation of 28.8 percent. This estimate for advertising de-
+ preciation is in the middle of the range estimated in previous studies surveyed
+ by Comanor and Wilson [7], while a R&D depreciation rate of roughly 25
+ percent per year is above Grabowski and Mueller's recent presumption of a 10
+ percent rate.
+
+ In order to consider possibly important media influences the valuation
+ model was also estimated with total advertising divided into its television and
+ non-television advertising components (equation (6b)). While both of the
+ television and non-television components of national media advertising seem
+
+ 4 Interestingly, estimation results for the variables of primary interest were quite insensitive to
+
+ the risk measure adopted. Nearly identical results were found for the R & D/BV and ADJBV
+ coefficients irrespective of whether the Ben-Zion and Shalit or stock-price beta measure was
+ adopted.
+
+ 5 Only the total of national spot and network television advertising will be considered below
+
+ since rates for national television ads vary little between the spot and network categories [see 16].
+
+ 6 Of course, b's would rise substantially if growth rates for real as opposed to nominal ex-
+ penditures were adopted. Growth rates for nominal expenditures were used in order that re-
+ sulting b's could be interpreted in terms of historical rather than replacement costs. This should
+ facilitate comparisons of the results reported here with previous studies, as well as with common
+ accounting data and standards.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTSING AND R&D EXPENDITURES 387
+
+ to have positive effects on market value, only the television advertising effect is
+ statistically significant (and highly so). Therefore, the case for treating tele-
+ vision advertising as intangible capital is far stronger than that for other types
+ of advertising promotion. Given a recent 13.1 percent rate of growth in tele-
+ vision advertising, an average depreciation rate of 21.1 percent per year is
+ indicated. Thus, somewhat lower depreciation and a longer economic "life" is
+ suggested for television advertising than for advertising in general. These
+ results are consistent with previous suggestions concerning the superior ef-
+ fectiveness of television advertising (see [10], [14], [19]). A lesser deprecia-
+ tion rate for television advertising may be explained by the fact that television
+ advertising addresses a diverse and broadly distributed population where
+ rates of potential customer turnover can be lower than for other forms of
+ media promotion (see [16]).
+
+ The reader must exercise caution in interpreting the advertising and R&D
+ depreciation rate estimates developed above. First, they are interfirm averages
+ and could tend to vary according to the type of buyer addressed (consumer
+ goods versus producer goods) as well as according to a firm's technological
+ environment (or technological opportunity). Second, as Peles has pointed out,
+ advertising depreciation will tend to be lower for large as opposed to small
+ firms because larger firms address a larger and therefore more geographically
+ stable audience. And third, with high inflation economic depreciation rates
+ will be lower than in a stable price environment due to "replacement cost"
+ effects. Thus, advertising and R&D depreciation rates will tend to be lower
+ during the highly inflationary environment experienced in the late 1970's (our
+ sample period). On balance, the depreciation rates estimated above should
+ only be taken as rough estimates and may be somewhat less than "true"
+ economic depreciation rates.
+
+ And finally, the findings reported here may have important public policy
+ implications. From equation (6a) we see that R&D capital will be roughly
+ two and one-half times current expenditures and advertising capital will be
+ roughly three times current levels of advertising. In light of current (1977)
+ R&D and national media advertising expenditures of $15.2 and $5.0 billion,
+ the stock of intangible capital enjoyed by Fortune 500 firms is estimated at
+ $47.8 billion for R&D and $13.8 billion for advertising. If only television
+ advertising is considered (using equation (6b)), the Fortune 500 stock of in-
+ tangible capital due to advertising falls to $12.4 billion. On an overall basis,
+ total 1977 private R&D and national media advertising expenditures indicate
+ an accumulated national stock of $54.7 billion in R&D capital and $57.6
+ billion in advertising capital (using equation (6a)). Again, care must be taken
+ in interpreting these admittedly rough estimates (see above). Nevertheless, the
+ total stock of intangible capital may be quite substantial. As pointed out by
+ several authors (e.g., [21]), tax laws which permit an expensing of capital
+ items result in substantial tax subsidies for affected firms. Currently, the
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 388 MARK HIRSCHEY
+
+ annual tax subsidy for expensing versus capitalization will generally equal 38
+ percent of the amount of net investment per year.7 While eliminating such tax
+ subsidies could prove formidable, Weiss has suggested that conservative de-
+ preciation guidelines for intangible capital could be established which pru-
+ dently err on the side of short lives as they currently do for tangible capital. He
+ states that such a change should improve the equity of the tax system and the
+ accuracy of corporate accounts.8 The results reported here seem to support
+ this view.
+
+ IV. CONCLUSIONS
+
+ This paper considers the intangible capital aspects of advertising and R&D
+ expenditures through use of a market valuation approach. An empirical
+ analysis finds that, on average, advertising and R&D expenditures have posi-
+ tive and significant market value (intangible capital) effects. Admittedly
+ rough average depreciation rate estimates for advertising are in the 20 to 30
+ percent range, while an average R&D depreciation rate of approximately 25
+ percent is indicated. However, because the intangible capital effects of adver-
+ tising may stem from medium-associated influences of television advertising,
+ the expensing versus capitalization issue is far from clear cut. Generally allow-
+ ing firms to capitalize and depreciate both advertising and R&D expenditures
+ is only appropriate to the extent that finding consistent future effects on
+ average provides sufficient motivation. While such a tax policy would be
+ consistent with current treatments of various classes of tangible capital invest-
+ ment, a more precise policy would be to require the capitalization of television
+ advertising and R&D expenditures, but withhold a decision concerning capi-
+ talization of other forms of advertising until the duration of their influences is
+ understood more fully. Furthermore, it may prove interesting in future re-
+
+ 7 This can easily be shown. Consider the following notation:
+
+ S = Annual tax subsidy due to use of expensing versus capitalization option.
+
+ TE = Annual tax using expensing option.
+ Te = Annual tax using capitalization option.
+
+ I = Annual net investment in intangible capital.
+ it = Annual accounting profit before net intangible capital investment.
+ m = Marginal tax rate.
+ c = Investment tax credit rate.
+
+ If TE = m(t - 1) and Te = mR - cI, an annual tax subsidy from expensing S = T- TE > 0
+ will arise so long as m > c. Under current tax law m = 48 percent and c = 10 percent. Thus, the
+ tax subsidy to expensing versus capitalization is 38 percent of annual net investment in intangible
+ capital since:
+
+ S = TC- TE,
+
+ = mR - cI- m(t - 1),
+ = (m-c)I,
+ = (.48 - .10),
+ = .38I.
+
+ 8 Accounting errors can create obvious obstacles to industrial organization research. For
+
+ example, accounting errors relating to advertising depreciation make it difficult (if not imposs-
+ ible) to learn whether price-cost margin effects of advertising reflect intangible capital or barrier
+ to entry type influences (see [11]).
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ADVERTISING AND R&D EXPENDITURES 389
+
+ search to also inquire whether or not rates of advertising and R&D deprecia-
+ tion tend to vary over time or across industries. An obvious implication of
+ findings reported here is that further investigations of the topic may be well-
+ worthwhile.
+
+ Mark Hirschey, ACCEPTED JULY 1981
+ University of Wisconsin-Madison,
+ Graduate School of Business,
+ 1155 Observatory Drive,
+ Madison,
+ Wisconsin 53706, USA.
+
+ REFERENCES
+
+ [1] ABDEL-KHALIK, A. RASHAD, "Advertising Effectiveness and Accounting Policy,"
+
+ Accounting Review, 50 (October 1975), pp. 657-70.
+
+ [2] BEN-ZION, UIu, "The Investment Aspect of Nonproduction Expenditures: An
+ Empirical Test," Journal of Economics and Business, 30 (Spring/Summer 1978), pp.
+ 224-30.
+
+ [3] BEN-ZION, URi and SHALIT, SOL S., "Size, Leverage, and Dividend Record as
+ Determinants of Equity Risk," Journal of Finance, 30 (September 1975), pp.
+ 1015-26.
+
+ [4] BROWN, RANDALL S., "Estimating Advantages to Large-Scale Advertising,"
+
+ Review of Economics and Statistics, 60 (August 1978), pp. 429-37.
+
+ [5] CLARKE, DARRAL G., "Econometric Measurement of the Duration of Advertis-
+ ing Effect on Sales," Journal of Marketing Research, 13 (November 1976), pp.
+ 345-57.
+
+ [6] COMANOR, WILLIAM S. and WILSON, THOMAS A., "Advertising Market Structure
+ and Performance," Review of Economics and Statistics, 49 (November 1967), pp.
+ 423-40.
+
+ [71 COMANOR, WILLIAM S. and WILSON, THOMAS A., "Advertising and Competition:
+
+ A Survey," Journal of Economic Literature, 27 (June 1979), pp. 453-76.
+
+ [8] FALK, HAIM and MILLER, JOSEPH C., "Amortization of Advertising Ex-
+
+ penditures," Journal of Accounting Research, 15 (Spring 1977), pp. 12-22.
+
+ [9] GRABOWSIU, HENRY G. and MUELLER, DENNIS C., "Industrial Research and
+ Development, Intangible Capital Stocks, and Firm Profit Rates," Bell Journal of
+ Economics, 9 (Autumn 1978), pp. 328-43.
+
+ [10] HIRSCHEY, MARK, "Television Advertising and Profitability," Economics Letters, 1
+
+ (1978), pp. 259-64.
+
+ [11] HIRSCHEY, MARY., "The Effect of Advertising on Industrial Mobility, 1947-
+
+ 1972," Journal of Business, 54 (April 1981), pp. 329-39.
+
+ [12] LINDENBERG, Eiuc B. and Ross, STEPHEN A., "Tobin's q Ratio and Industrial
+
+ Organization," Journal of Business, 54 (January 1981), pp. 1-32.
+
+ [13] MILLER, MERTON H. and MODIGLIANI, FRANCO, "Some Estimates of the Cost of
+
+ Capital to the Electric Utility Industry 1954-1957," American Economic Review, 56
+ (June 1966), pp. 333-48.
+
+ [14] MUELLER, WILLARD F. and ROGERS, RICHARD T., "The Role of Advertising in
+ Changing Concentration of Manufacturing Industries," Review of Economics and
+ Statistics, 62 (February 1980), pp. 89-96.
+
+ [15] PELES, YORAM, "Rates of Amortization of Advertising Expenditures," Journal of
+
+ Political Economy, 79 (September/October 1971), pp. 1032-58.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 390 MARK HIRSCHEY
+
+ [16] PETERMAN,JOHN L., "Differences Between the Levels of Spot and Network Tele-
+
+ vision Advertising Rates," Journal of Business, 52 (October 1979), pp. 549-61.
+
+ [17] PICCONI, MARIO J., "A Reconsideration of the Recognition of Advertising Assets
+ on Financial Statements," Journal of Accounting ResearchI 15 (Autumn 1977), pp.
+ 317-26.
+
+ [18] PIERsON, J. H. S., "Sales-Related and Institutional Advertising: The Case of
+ Rate-Regulated Public Utilities," in D. G. Tuerck, ed., The Political Economy of
+ Advertising (American Enterprise Institute for Public Policy Research, Wash-
+ ington, D.C., 1978).
+
+ [19] PORTER, MICHAEL E., "Interbrand Choice, Media Mix and Market Per-
+
+ formance," American Economic Review (Proceedings), 66 (May 1976), pp. 398-406.
+
+ [20] SCHMALENSEE, RICHARD, The Economics of Advertising, (North-Holland, Amster-
+
+ dam, 1972).
+
+ [21] SIEGFRIED, JOHN J. and WEISS, LEONARD W., "Advertising, Profits, and Cor-
+ porate Taxes Revisited," Review of Economics and Statistics, 56 (May 1974),
+ pp. 195-200.
+
+ [22] TELSER, LESTER G., "How Much Does It Pay Whom To Advertise?", American
+
+ Economic Review (Proceedings), 51 (May 1961), pp. 194-205.
+
+ [23] TiiOMADAKIS, STAvkoS B., "A Value-Based Test of Profitability and Market
+
+ Structure," Review of Economics and Statistics, 59 (May 1977), pp. 179-85.
+
+ [24] TOBIN, JAMES, "Monetary Policies and the Economy: The Transmission Mecha-
+
+ nism, " Southern Economnic Journal, 37 (April 1978), pp. 421-31.
+
+ [25] WEISS, LEONARD W., "Advertising, Profits, and Corporate Taxes," Review of
+
+ Economics and Statistics, 51 (November 1969), pp. 421-30.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:36:22 UTC
+
+All use subject to http://about.jstor.org/terms
+

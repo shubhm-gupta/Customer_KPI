@@ -1,0 +1,1119 @@
+ 
+ 
+An Investigation of the Information Content of (Certain) Social Responsibility Disclosures
+Author(s): Robert W. Ingram
+Source: Journal of Accounting Research, Vol. 16, No. 2 (Autumn, 1978), pp. 270-285
+Published by: Wiley on behalf of Accounting Research Center, Booth School of Business,
+University of Chicago
+Stable URL: http://www.jstor.org/stable/2490567
+Accessed: 03-02-2017 15:39 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+
+JSTOR, please contact support@jstor.org.
+
+ 
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+
+http://about.jstor.org/terms
+
+Wiley is collaborating with JSTOR to digitize, preserve and extend access to Journal of Accounting
+Research
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Journal of Accounting Research
+
+ Vol. 16 No. 2 Autumn 1978
+
+ Printed in U.SA.
+
+ An Investigation of the Information
+
+ Content of (Certain) Social
+ Responsibility Disclosures
+
+ ROBERT W. INGRAM*
+
+ This study addresses the relevance of certain social responsibility
+ disclosures of firms to investors by empirically assessing their impact
+ on security returns. The results of this investigation of the information
+ content of voluntary disclosures may provide some insight into the
+ possible effect of signals derived from a formal measurement and
+ reporting system. 1
+
+ Two related empirical tests of information content were conducted.
+ The first analyzed returns for portfolios of securities selected from a
+ broad spectrum of the market, whereas the second investigated the
+ return performance of specific market segments. The next section of
+ this paper discusses the social responsibility issue and reviews the
+ literature. The following sections delineate the theoretical framework
+ and methodology employed, depict the results of the tests, and draw
+ conclusions and implications from the study.
+
+ The Social Accountability Issue
+
+ Several proposals for reporting social accountability data have been
+ made (e.g., see American Accounting Association [1973], Beams and
+ Fertig [1971], Bedford [1973], and Estes [1972]), but few empirical
+ studies of such disclosures exist.
+
+ * Assistant Professor, University of South Carolina. The helpful comments of Ron
+ Copeland, Jan Williams, Don Bowland, Jim Wilcox, Dwayne Dowell, Roy Brooks, and
+ an anonymous reviewer in the various stages of this research are gratefully acknowl-
+ edged. [Accepted for publication February 1978.]
+
+ l The possible relationship between market responses to voluntary disclosures and to
+ disclosures prescribed by disclosure rules is discussed by Gonedes, Dopuch, and Penman
+ [1976].
+
+ 270
+
+ Copyright C), Institute of Professional Accounting 1978
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 271
+
+ Longstreth and Rosenbloom (L&R) [1973] and Belkaoui [1972] con-
+ ducted field studies to determine the extent to which certain social
+ disclosures might influence investment decisions. L&R surveyed insti-
+ tutional investors and found that approximately 57 percent of the
+ respondents indicated that they did consider social factors in addition
+ to economic factors. Belkaoui presented financial statements, some of
+ which contained pollution control data, to groups of bank officers,
+ practicing accountants, and students. He concluded that the disclosure
+ of pollution costs had an influence on investment decisions.
+
+ Market based studies were conducted by Spicer [1978] and Belkaoui
+ [1976]. Spicer tested the association between pollution performance
+ indexes and firm characteristics in the pulp and paper industry. He
+ concluded that pollution control records are useful for assessing firms'
+ total and systematic risks. Belkaoui investigated security price
+ changes in the months surrounding the date of disclosure of firms'
+ pollution expenditures and concluded that the price behavior of the
+ group of firms which made disclosures was different from the price
+ behavior of firms which did not make disclosures.
+
+ Hence, empirical studies on the actual impact of social accountabil-
+ ity data have been limited to pollution control disclosures. In this
+ study, I examine the impact of additional disclosure categories on
+ security returns. The categories are listed in table 1.
+
+ Theoretical Framework
+
+ This study relies on the assumption that capital markets are
+ efficient, in which case the information content of news announce-
+
+ Number of Firms in Sample Making Social Responsibility Disclosures (n =287)
+
+ TABLE 1
+
+ Year Type Environmental Fair Personnel Community Product
+
+ Business
+
+ Category
+
+ 1971 Monetary 33 0 0 4 1
+ Nonmonetary . 94 43 23 34 38
+ Total ..... 127 43 23 38 39
+ 1972 Monetary ..... 36 0 0 4 1
+ Nonmonetary . 99 61 38 43 39
+ Total ..... 135 61 38 47 40
+ 1973 Monetary ..... 60 5 5 24 1
+ Nonmonetary . 63 75 62 53 14
+ Total ..... 123 80 67 77 15
+ 1974 Monetary ..... 73 8 3 33 2
+ Nonmonetary 92 99 91 50 37
+ Total ..... 165 107 94 83 39
+ 1975 Monetary ..... 99 16 13 29 3
+ Nonmonetary . 90 158 109 76 131
+
+ Total 189 174 122 105 134
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 272 JOURNAL OF ACCOUNTING RESEARCH, AUTUMN 1978
+
+ ments will be immediately and unbiasedly impounded into security
+ prices. Let Rit be a random variable representing the rate of return on
+ security i in period t, and 6it a random variable representing a
+ potential source of information about security i in period t. (Tildes
+ denote random variables.) If 6it does in fact have information content,
+ the conditional distribution function of Rit should not be the same for
+ all values of Git:
+
+ G(RR1t) # G t (1)
+
+ where G represents the distribution function, and the superscripts
+ represent different signals from the information source which become
+ available after capital market equilibrium is established at time t.
+ Furthermore, if we assume the distribution function of security
+ returns is normal, the inequality is implied by:
+
+ E (RUtI61I) # E(R1 t026), or (2)
+ Var (Rt|I6lt) # Var (Rit602), (3)
+ where E represents expected value and Var represents variance (for
+ further elaboration see Gonedes [1975]).2 The information source of
+ concern for this study is firms' social responsibility disclosures con-
+ tained in annual reports.
+
+ Data Selection
+
+ The sample consisted of annual reports of Fortune 500 companies
+ issued for fiscal years ending between May 1, 1970 and April 30, 1976.3
+ The specific firms which compose the Fortune 500 change from year to
+ year, and only those firms which were listed for the entire time period
+ covered by the study were included in the sample. This restriction was
+ necessary to insure that disclosure data would be available for all
+ sample firms each year. The second test discussed below involved a
+ longitudinal study and used all five years of data for each firm.
+
+ The sample was further constrained to those firms for -which
+ monthly prices and dividends were available continuously from Janu-
+ ary 1964 to August 1976. The Compustat Price, Dividends, Earnings
+ (PDE) tape was used for these data. A total of 287 firms satisfied both
+ conditions.
+
+ 2 I assume the return-generating function of all equity securities is expressed by the
+
+ capital asset pricing model:
+
+ E (Rit) = E (Rzt) + kit [E (Rmt) -E(R )],
+
+ where E is the expected value operator, Rit is the return on security i in period t, RPt is
+ the return on portfolio z in period t, with f8zt = 0, Rmt is the return on the market
+ portfolio in period t, and kit is the systematic risk of security i in period t.
+
+ 3 The summary of firms' disclosures prepared by Ernst & Ernst [1971-76] was used to
+ identify specific firms making disclosures. The period used in the study coincides with
+ the periods used by Ernst & Ernst.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 273
+
+ The techniques used to select the sample limit the generalization of
+ results. Firms included in the study tend to be among the larger, more
+ stable firms in the market and all are listed on the New York Stock
+ Exchange. Since these firms' securities constitute a large portion of
+ the total value of all securities traded in the market, conclusions
+ drawn from the study appropriately relate to investment decisions of a
+ wide spectrum of market agents.
+
+ Table 1 specifies the number of firms making disclosures in each of
+ the five categories used in the study. The disclosures were partitioned
+ into two groups (monetary and nonmonetary) for each category.
+ Monetary disclosures possess the inherent quality of being cross-
+ sectionally comparable, whereas nonmonetary disclosures, even if
+ quantified in other terms, frequently lack a common denominator.
+ Consequently, these two groups of disclosures may differ with respect
+ to information content.
+
+ Disclosures listed in table 1 are further partitioned according to the
+ closing date of the firms' fiscal years.4 Note that both the number of
+ firms making disclosures and the ratio of monetary to nonmonetary
+ disclosures (for most categories) have increased over this time period.
+ For example, in 1971, 127 sampled firms made environmental disclo-
+ sures and only thirty-three of these were monetary. In 1975, 189 firms
+ made environmental disclosures and over half, ninety-nine, were
+ monetary.
+
+ The environmental category includes disclosures related to such
+ activities as pollution control, repair or protection of the environment,
+ and conservation of natural resources. Fair business practices refer to
+ employment and advancement of minorities (based on race and sex)
+ and support for minority businesses. The personnel category involves
+ activities related to employee health and safety and employee train-
+ ing. Community involvement consists of donations of cash, products,
+ and services to the community and support of employee involvement
+ in the community. The product category includes such activities as
+ product safety and improvement for consumer welfare. Examples of
+ typical disclosures for the various categories are reproduced in the
+ Appendix.
+
+ Methodology: Test 1
+
+ If a perfectly controlled experiment were possible, one could test for
+ inequality of return functions by using the same securities and
+ altering only the signal produced by the information source. Unfortu-
+ nately, only one unique signal is possible for a specific firm in a given
+ time period. If one relies on the empirical validity of the Capital Asset
+ Pricing Model, this problem may be solved by aggregating firm data
+
+ 4Firms with closing dates from April 30, 1970 to May 1, 1971 are identified as 1971
+
+ firms, and so forth.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 274 ROBERT W. INGRAM
+
+ into homogeneous groups. The method used consists of building
+ portfolios of firms according to the particular signals to be tested. The
+ general mechanics and advantages of this approach are discussed in
+ Gonedes [1974, 1975].
+
+ Firms were first grouped according to the type and category of
+ disclosure made. In the rest of this paper, these partitions will be
+ represented as group 1 (monetary) and 2 (nonmonetary), and category
+ E (environmental), F (fair business), Pe (personnel), C (community),
+ and Pr (product). Firms in the sample which did not make disclosures
+ were further partitioned by industry into group 3 (firms from indus-
+ tries represented in groups 1 and 2) and group 4 (firms from all other
+ industries). This partition was considered useful because various
+ disclosures may be related to underlying economic or institutional
+ conditions in some industries, but not in others. The Compustat four-
+ digit industry classification was used to partition the firms.
+
+ The actual construction of the portfolios proceeded in the following
+ manner. (1) For the environmental category, thirty firms which made
+ monetary disclosures in 1971 were selected at random, and the portfo-
+ lio beta was computed as the arithmetic mean of the individual
+ securities' betas.5 The simple market model was used to compute
+ individual beta values. The monetary return series for each firm was
+ computed for sixty months prior to the first portfolio formation month
+ using the natural logarithm of the price relative adjusted for divi-
+ dends. Fisher's arithmetic index was used as a proxy for the market
+ portfolio (see Fisher [1966] for derivation of the index).
+
+ (2) The monthly return series for the portfolio was computed as the
+ arithmetic mean of the monthly returns for each component security:
+
+ Rpt= YwRit (4)
+
+ n
+
+ where Rpt is the return on portfolio p in month t and n is the number of
+ securities in the portfolio (n 30). The period used to compute the
+ monthly return series consisted of the nine months prior to the end of
+ each firm's fiscal year and three months subsequent to the end of the
+ fiscal year.
+
+ The use of the twelve-month period beginning with the ninth month
+ prior to the close of the firms' fiscal years seems logical, since nearly
+ all firms issue their annual reports before the end of the third month
+ following the close of the fiscal year. Since alternative and more
+ timely sources of information exist in addition to annual reports, it is
+ reasonable to assume that the information content of the reports will
+ be impounded in security prices in the months prior to the release of
+ the annual reports (for additional discussion, see Gonedes [1975]).
+
+ 4 The procedure used to compute portfolio betas is one of several possible methods.
+ This method was selected because it has been tested in previous research (Gonedes
+ [1975]) and because it facilitates the creation of equal beta portfolios.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 275
+
+ (3) Identical procedures were used to produce a portfolio of thirty
+ firms which made monetary disclosures for each of the four periods
+ 1972-75, except that thirty-six firms were randomly selected and-six
+ firms were subsequently removed to produce a portfolio with the same
+ beta value as the 1971 portfolio.6
+
+ (4) Steps 1-3 resulted in a portfolio return series of sixty months for
+ the years 1971 through 1975. The-procedure produced returns for firms
+ which made environmental monetary disclosures, although any one
+ firm may not have been a part of the portfolio for the entire sixty
+ months. Reconstruction of the portfolio each period was necessary to
+ ensure beta stability, since the parameters of the regression model
+ may not be stable over time (see Gonedes [1973a]).
+
+ (5) Steps 1-4 were repeated for firms in groups 2-4. The same
+ techniques were used to ensure a portfolio return series of sixty
+ months with a beta value equal to that of the monetary disclosure
+ portfolio.
+
+ These same steps were also repeated for each of the other categories,
+ with two exceptions. First, portfolios were not constructed for group 1
+ in each category because of the small number of firms making
+ monetary disclosures in these categories. Second, the small numbers
+ of firms making any disclosures in category C in 1971 and Pr in 1973
+ forced their elimination in constructing the portfolios for these cate-
+ gories. Therefore, the portfolio return series for each of these catego-
+ ries consisted of only forty-eight months.
+
+ This portfolio construction process yielded sixteen portfolios distrib-
+ uted among the five social responsibility disclosures, as shown in table
+ 2. The portfolios will be referred to in the remainder of this study as
+ E1-4, F1-4, etc., as listed in the table. The estimated portfolio betas
+ (,3) are also indicated.
+
+ HYPOTHESES
+
+ The null hypothesis of no information content for each of the
+
+ disclosure category-group combinations may be represented as:
+
+ Ho: G(RP4Oi) = G(Rjl~j) (5)
+
+ where Pi(j, is the return on the i(j)th portfolio of each category, O6(j) is
+ the disclosure associated with the i (j)th portfolio, i r/j, and either i or
+ j is a disclosure portfolio.
+
+ RESULTS
+
+ The estimated portfolio means and variances are presented in table
+ 2. The average monthly returns for the period tested are all close to
+
+ 6 This procedure results in a strictly nonrandom sample. However, the portfolios
+ should still be representative of the population, since the selection process should not
+ bias the portfolio returns.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 276 ROBERT W. INGRAM
+
+ TABLE 2
+
+ Portfolio Composition and Return Data
+
+ Category Portfolio Disclosure Return 1B E (R) Var (R
+
+ Environment ....... El Monetary 60 .9342 .002077 .0027
+ E2 Nonmonetary 60 .9346 - .001255 .0021
+ E3 No Disclosurea 60 .9344 -.001698 .0021
+ E4 No Disclosureb 60 .9336 -.004722 .0030
+
+ Fair
+ Business ........... Fl Nonmonetary 60 .8951 .003318 .0021
+ F2 No Disclosurea 60 .8940 .001635 .0022
+ F3 No Disclosureb 60 .8944 .000047 .0024
+ Personnel .......... Pel Nonmonetary 48 .8825 - .000598 .0016
+ Pe2 No Disclosurea 48 .8824 .000393 .0019
+ Pe3 No Disclosureb 48 .8829 -.003857 .0019
+ Community ........ Cl Nonmonetary 60 .8726 .002443 .0022
+ C2 No Disclosurea 60 .8726 -.000178 .0015
+ C3 No Disclosureb 60 .8729 -.000878 .0026
+ Product ............ Prl Nonmonetary 48 .8859 .000158 .0028
+ Pr2 No Disclosurea 48 .8870 .000122 .0022
+ Pr3 No Disclosureb 48 .8872 .000982 .0022
+
+ a Firms from same industries as prior portfolio(s) of the same category.
+ I Firms from industries other than prior portfolio(s).
+
+ zero, with seven of the sixteen portfolios producing negative returns
+ for the test period. Three of the disclosure categories (E, F, and C) had
+ the same rankings within categories, with the disclosure portfolio(s)
+ demonstrating the highest return(s) and the last portfolio the lowest
+ return. In the personnel category, the second portfolio had the highest
+ return, and in the product category, the last portfolio had the highest.
+ A series of t-tests were conducted on all paired differences between
+ portfolio means for each category. A series of tests were conducted on
+ all paired variance ratios for each category as well, using the F-ratio
+ as the test statistic. The results of these tests are presented in table 3.
+ The results of the t-tests indicate that no significant differences are
+ evident between the portfolio means at a = .40. The probability
+ associated with the t-tests is at or below .40 in fifteen of the sixteen
+ tests.
+
+ The tests of variances also indicate that the ratios are insignificant
+ at a = .10 in all but one case, and this case involves two no-disclosure
+ portfolios. Consequently, the portfolio analyses did not produce evi-
+ dence to warrant rejection of the null hypotheses. That is, there was
+ no evidence that social responsibility disclosures possess information
+ content for the firms used in this investigation.
+
+ These results are consistent with either of two explanations. First,
+ the disclosures may possess no information content. Investors may
+
+ 7 Strictly speaking, equality of portfolio variances is implied by equality of portfolio
+
+ betas only when the portfolios are minimum variance portfolios.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 277
+
+ discount the disclosures as being of no predictive value. Alternatively,
+ the aggregation process used in this approach may have averaged out
+ effects on specific subsets of disclosure firms. Individual returns may
+ be conditional upon disclosures and additional factors associated with
+ various market segments.
+
+ Methodology: Test 2
+
+ A second examination of security returns was conducted to test
+ these alternative explanations. Three factors which were considered
+ to have potential impact on responses to social disclosures were
+ selected for inclusion in the study. These factors were the industry to
+ which the firm belonged, the sign of the firm's excess earnings in the
+ year of the disclosure, and the year the disclosure was made.
+
+ Industry is an important attribute for consideration, since the
+ nature of and motivation for disclosures vary according to the produc-
+ tion-investment alternatives available to individual firms. These
+ alternatives are likely to be more similar among firms in one industry
+ than between firms in different industries.
+
+ Similarly, previous research (e.g., Ball and Brown [1968] and
+ Gonedes [1974]) has shown that earnings numbers possess significant
+ information content in that positive excess earnings tend to be associ-
+ ated with positive abnormal returns and vice versa.
+
+ Another variable of potential importance for the analysis is the
+ relevance of the disclosure over time. The time period used in the
+
+ TABLE 3
+
+ Results of Portfolio Tests
+
+ Portfolios E(Ri) - t d.f. F d.f.
+
+ E(R,)
+
+ E1-E2 .......... .003332 .3725 118 1.286 (59, 59)
+ E1-E3 .......... .003775 .4221 118 1.286 (59, 59)
+ E1-E4 .......... .006799 .6976 118 1.111 (59, 59)
+ E2-E3 .......... .000443 .0529 118 1.000 (59, 59)
+ E2-E4 .......... .003467 .3760 118 1.429 (59, 59)
+ E3-E4a ......... .003024 .3280 118 1.429 (59, 59)
+ F1-F2 ........... .001683 .1988 118 1.048 (59, 59)
+ F1-F3 ........... .003271 .3777 118 1.143 (59, 59)
+ F2-F3a .......... .001588 .1814 118 1.091 (59, 59)
+ Pel-Pe2 ......... -.000991 -.1161 94 1.188 (47, 47)
+ Pel-Pe3 ......... .003259 .3727 94 1.188 (47, 47)
+ Pe2-Pe3a ........ .004250 .4777 94 1.000 (47, 47)
+ C1-C2 .......... .002621 .3338 118 1.467 (59, 59)
+ C1-C3 .......... .003321 .3713 118 1.182 (59, 59)
+ C2-C3a ......... .000700 .0847 118 1.733 (59, 59)
+ Prl-Pr2 ......... .000036 .0035 94 1.273 (47, 47)
+ Prl-Pr3 ......... -.000824 -.1009 94 1.273 (47, 47)
+ Pr2-Pr3a ........ -.000860 -.0898 94 1.000 (47, 47)
+
+ a Both no-disclosure portfolios. These results were included for comparative purposes as a matter
+
+ of interest.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 278 ROBERT W. INGRAM
+
+ present study (1971-75) represents a relatively lengthy period, given
+ the dynamic nature of the social responsibility environment. Investor
+ assessments of the usefulness of information may not have been
+ uniform across years.
+
+ The segmentation process did not use portfolios, because the large
+ number of possible segments which would result from partitioning the
+ firms according to industry (I), excess earnings (EE), fiscal year (Y),
+ and five disclosure categories would necessitate numerous portfolios of
+ few securities. Instead, a technique reported by Sonquist, Baker, and
+ Morgan [1971] was used. This technique is particularly suited to the
+ present study, since it is designed for an intervally scaled dependent
+ variable and nominally or ordinally scaled independent variables.
+ Furthermore, it does not assume additivity.
+
+ The procedure is an iterative process which partitions a group,
+ through a series of binary splits, into subgroups. At each iteration,
+ the subgroup with the largest sum of squares is selected for splitting.
+ This group is split into two mutually exclusive subgroups according to
+ the categories of the independent variable which maximize the be-
+ tween sum of squares.
+
+ Excess returns, computed via the simple market model, were used
+ as the dependent variable in order to control for systematic risk. The
+ same return data used in the portfolio analysis were used for this
+ analysis.
+
+ The excess return series for each firm-year (1971-75) was computed
+ using the regression parameters determined in the portfolio study. For
+ each month included in the analysis, the excess return was computed
+ as:
+
+ ji = Rit-ai - 8iRmt (6)
+
+ where Rit is the return on security i in month t, a and ,3 are regression
+ parameters computed over the sixty months prior to the firm-year being
+ analyzed, Rmt is the return on the market portfolio in month t, and ji is
+ the excess return on security i. The excess monthly returns for each
+ firm were next summed over the twelve months beginning with the
+ ninth month prior to the close of each fiscal year used in the study to
+ form the cumulative excess return for that year:
+
+ 12
+
+ CER = 2it (7)
+
+ t=1
+
+ Social responsibility disclosures, industry, fiscal year, and excess
+ earnings were independent variables. Social responsibility disclosures
+ were classified by disclosure type - (1) no disclosure, (2) nonmonetary,
+ (3) monetary. Fiscal years were classified 1-5 (1971-75). Industries were
+ classified into four groups according to the Compustat two-digit code of
+ those industries which were represented by at least twenty-five firms in
+ the study. The four industries were (1) foods -2200, (2) chemicals -
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 279
+
+ 2800, (3) industrial manufacturing- 3500, and (4) transportation manu-
+ facturing- 3700.
+
+ Specification of a firm's excess earnings requires a model of the
+ process generating earnings. One model which has produced successful
+ results when compared with others is a market-index model using first
+ differences:
+
+ AEit = ai + /3iAEmt + eit, (8)
+
+ where AEit is the first difference in the income of firm i in year t, ai and
+ ,3i are regression parameters, AEmt is the first difference in the income
+ of the market portfolio in period t, and eit is the excess earnings of firm
+ i in period t.
+
+ Tests of this model have shown that the model is descriptive of firms'
+ earnings processes (Gonedes [1973b]). The model is more descriptive if
+ the income numbers are weighted by the value of the firm's common
+ equity. Accordingly, the value of AEi was computed for each firm-year
+ using the first-difference of the ratio of income available for common to
+ common equity:
+
+ AEit = (itlCi t-1) - (Is t_11Ci t-2) (9)
+
+ where Iit is the income available for common for firm i in period t, and
+ Cia, is' the common equity of firm i at the end of period t-1. The
+ Compustat Annual Industrial tape was used to determine the value of
+ each variable.
+
+ The market index was computed as:
+
+ AEmt = [it(ciltil/ct-1) -Ii,t-l(Ci,t-21Ct-2)1, (10)
+
+ where the summation is across all NYSE firms on the Compustat tape
+ for year t. The values of AEit were regressed against the values of AEmt
+ for the fourteen years prior to the beginning of each year of the analysis
+ period. The resulting regression parameters were then used to deter-
+ mine the excess earnings for each firm for the years under examination.
+ The sign of the excess earnings - (1) negative or (2) positive - was used
+ as the independent variable.
+
+ The intuitive explanation for the validity of the model is that cross-
+ section dependencies exist in the economy which affect earnings just as
+ they affect security prices. Changes in production, technology, govern-
+ ment policy, and the general price level are some examples of factors
+ which may affect the earnings numbers of all firms in the economy
+ (Gonedes [1973b]).
+
+ HYPOTHESES
+
+ The null hypothesis of no information content for social responsibility
+
+ disclosures for each market segment may be represented as:
+
+ Ho: E(CERiO0i) = E(CERjlOj), (11)
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 280 ROBERT W. INGRAM
+
+ where CERi(j) is the cumulative excess return for the i (j)th group of a
+ market segment, ei(j, is the disclosure associated with the i (j)th group of
+ a market segment, and iij.8
+
+ RESULTS
+
+ The iteration process resulted in eighteen splits which partitioned the
+ sampled firms into various market segments (illustrated in fig. 1). The
+ sequence of splits denotes the relative importance of the independent
+ variables for explaining the variation in the combined group. Excess
+ earnings was the most important variable, with positive earnings being
+ associated with positive excess returns. These results are consistent
+ with earlier findings (e.g., Ball and Brown [1968] and Gonedes [1973b]).
+ Subsequent splits occurred on the year and industry variables. These
+ factors were, in most cases, of more importance in explaining the excess
+ return variations than were the disclosure variables.9 In only one case
+ (split 7) did a disclosure category precede a split on a nondisclosure
+ variable which had not previously entered into the model. The order of
+ splits suggests that the disclosure variables are of secondary impor-
+ tance, but may be significant for certain segments of the market in
+ specific years. The nonsymmetrical shape of the tree diagram indicates
+ nonuniform assessments of information content for the disclosures
+ across all firms and/or time periods. 10
+
+ The statistical significance of each split was examined via a t-test of
+ the difference between the means of the subgroups resulting from each
+ split. Results are presented in table 4. All of the splits in figure 1 are
+ statistically significant for explaining the variation in the excess
+ returns of the preceding group at a ? .10.
+
+ Table 4 indicates the classification of the variables and the estimated
+ means of each subgroup. Several of the variables had more than two
+ classes, and thus the binary splits combined classes for these variables.
+ The class(es) with the lowest excess returns is always listed first in the
+ table. In most cases, the firms which made social responsibility disclo-
+ sures outperformed those which did not. Splits 12, 13, and 15 demon-
+ strated results opposite to the other splits, and splits involving environ-
+ mental disclosures indicate that monetary disclosure firms outper-
+ formed both no-disclosure and nonmonetary disclosure firms.
+
+ 8 Information content could also be evaluated by comparing group variances. The
+ ratios of the group variances of the splits derived in the study were not significant at a
+
+ .20, and discussion is omitted to conserve space.
+ 9 The splitting procedure identifies multicollinearity by analysis of changes in the
+ ratio of between sum of squares to total sum of squares for each independent variable at
+ each iteration. Multicollinearity did not appear to be present among any of the variables
+ used in this study.
+
+ 10 The procedure can also be used as input for a multiple regression program designed
+ for categorical variables (see Andrews et al. [1973]). Since the present study is
+ descriptive in nature, the determination of a predictive model was not considered of
+ primary importance.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 281
+
+ Personnel 1
+
+ / .3846
+ Industry 3,4 8
+
+ -.2664 8
+ / ~~~~~~~~-.28
+
+ 26 Personnel 2
+
+ Year 4,
+
+ Environ. 1,2
+
+ -.1856
+
+ Industry 1,2 45
+
+ -.1321
+
+ 84 Environ. 3
+
+ .0578
+ / 064939
+
+ 275 Fair Bus. 1
+
+ -.0469
+
+ Industry 1 63
+
+ -.082 8 .0.
+
+ 81 Fair Bus. 2
+
+ .0604
+
+ Year 1,2,3 / 18 Community 2
+
+ .0097 -. 1325
+ 165 Year 4 95 9
+
+ Industry 2-4 28 Community 1
+
+ .0487 1092
+
+ -. 0007
+
+ 84 Year 2,3
+ .0707
+
+ 56
+
+ Comunity 2
+
+ Industry 1,4 31 Fair Bus. 1
+
+ -.1413
+ -.0500FarBs
+
+ Comunity 1 42
+
+ Year 2,5 6'0323 Fair Bus. 2
+
+ -.0222 . * .0882
+
+ 122 Product 2 13
+
+ -.0486
+
+ ndustry 2,3 1. 10
+
+ .0333
+
+ 1 / 36 oduct 1
+
+ Earn. 2 3 26 Product 1
+ .0596 . * .0088
+
+ 305 ~~~~~~~~~~~Industry 2.3-4:17.
+ Environ. 1,2 64.1 0
+
+ .0350 'Psoduct 2
+
+ .0936 I
+ 116 Industry 1,4 Personnel 1
+
+ Year 1.3,4 61.61 38
+
+ .1287 * Personnel 2
+ 183 .1945
+
+ .1290 18. .0788
+
+ 23
+
+ nviron. 3
+
+ .2087
+ 67
+
+ FIG. 1.-Market splits derived from binary splits of sampled firms. The number(s)
+ after the variable name indicate(s) the class(es) of the variable in the split. The first
+ number below the variable indicates the mean cumulative excess return for the split,
+ and the second number indicates the number of observations in the split.
+
+ All of the disclosure categories used in this study were significant for
+ a specific market segment, in spite of the fact that monetary disclosures
+ were not considered in four of the five categories. The specific market
+ segments which revealed significant responses are summarized in table
+ 5. From this table, one may observe the various attributes of the market
+ segments which were important for this study. For example, informa-
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 282 ROBERT W. INGRAM
+
+ TABLE 4
+
+ Results of Market Segment Tests
+
+ SNplit Category Class Observations Mean S.d. t d.f.
+
+ (1) Excess Earnings 1 275 -.0649 .2745 5.53a 578
+
+ 2 305 .0596 .2861
+
+ (2) Year 4, 5 110 -.1769 .3100 4.73a 273
+
+ 1-3 165 .0097 .2367
+
+ (3) Year 2,15 122 -.0222 .2885 6.34a 303
+
+ 1, 3, 4 183 .1287 .2651
+
+ (4) Industry 3, 4 26 -.2664 .2858 2.45a 108
+
+ 1, 2 84 -.1321 .2931
+
+ (5) Industry 1 81 -.0282 .2327 2.81a 163
+
+ 2-4 84 .0487 .2344
+
+ (6) Industry 1, 4 86 -.0500 .2962 2.16a 120
+
+ 2, 3 36 .0334 .2638
+
+ (7) Environment 1, 2 116 .0936 .2653 3.504a 181
+
+ (8) Personnel 1 8 -.3846 .2395 1.904b 24
+
+ 3 67 .2087 .2465
+
+ 2 18 -.2368 .1787
+
+ (9) Environment 1, 2 45 -.1856 .3196 2.042a 82
+
+ (10) Fair Business 1 63 -.0469 .2445 2.165a 79
+
+ 3 39 - .0578 .2321
+
+ 2 18 .0604 .2340
+
+ (11) Year 1 28 -.0007 .2684 2.03a 82
+
+ (12) Community 2 31 - .1413 .3133 1.767b 84
+
+ 2, 3 56 .0707 .2024
+
+ 1 55 -.0323 .2894
+
+ (13) Product 2 10 -.0486 .2331 1.740b 34
+
+ 1 26 .0554 .2552
+
+ (14) Industry 2,3 55 .0350 .2321 2.48a 114
+
+ (15) Community 2 9 - .1325 .2689 2.108a 27
+
+ 1, 4 61 .1290 .2775
+
+ 1 19 .0392 .2557
+
+ (16) Fair Business 1 42 -.0760 .2926 1.920b 53
+
+ 2 13 .0882 .3476
+
+ (17) Product 1 43 .0088 .2345 1.977b 53
+
+ 2 12 .1347 .1927
+
+ (18) Personnel 1 38 .0788 .2682 1.890b 59
+
+ 2 23 .1945 .2295
+
+ a Significant at a = .05.
+ b Significant at a = .10.
+
+ tion content was demonstrated in environmental disclosures for firms
+ with positive excess earnings in 1971, 1973, and 1974, regardless of
+ industry or other social responsibility disclosures. Industry attributes
+ were important, along with excess earnings and year, for nearly all
+ significant disclosures, and other social disclosures were important in
+ three cases.
+
+ These results suggest that the information content of the disclosures
+ varies across firms, once industry classification, the sign of the excess
+ earnings of the firm, and the fiscal year in which the disclosures were
+ made are taken into account. In comparing these results with those of
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 283
+
+ Significant Disclosure Categories by Market Segment
+
+ TABLE 5
+
+ Category Split
+
+ Category No. Excess YerIdsyOtr
+
+ Earnings Year Industry Disclosures
+
+ Market Segment
+
+ Environment ..... 7 Positive 1971, 73, 74 None None
+ 9 Negative 1974, 75 Foods, Chemicals None
+ Fair Business ..... 10 Negative 1971-73 Foods None
+
+ 16 Positive 1972, 75 Foods, Transport. Community
+
+ Personnel ......... 8 Negative 1974, 75 Industrial, Transport. None
+
+ 18 Positive 1971, 73, 74 Foods, Transport. Environment
+
+ Community ....... 12 Positive 1972, 75 Foods, Transport. None
+ 15 Negative 1971 Chemicals, Industrial, None
+
+ Product ........... 13 Positive 1972, 75 Chemicals, Industrial None
+
+ 17 Positive 1971, 73, 74 Chemicals, Industrial Environment
+
+ Transport.
+
+ the first test, note that the sample of firms had to be partitioned into
+ segments before the disclosures were observed to be significant. Appar-
+ ently, combining the segments, as in the first test, washes out the
+ effects of the disclosures on security returns. "I
+
+ The findings are logical in light of (1) the differences in production-
+ investment alternatives of firms in various industries, (2) the differ-
+ ences in motivation for disclosure by firms with differing performance
+ records, and (3) the dynamic nature of the legal and social environment
+ in which disclosures are made.
+
+ Summary
+
+ This study was an investigation of the information content of firms'
+ voluntary social responsibility disclosures. Two tests were performed
+ involving various groupings of firms according to the nature of the
+ disclosures made in five disclosure categories. These tests permitted
+ analysis of the information content of the disclosures for an unseg-
+ mented sample of Fortune 500 firms and for market segments parti-
+ tioned by the sign of firms' excess earnings, by industry, and by fiscal
+ year.
+
+ The results of the tests are consistent with the statement that the
+ information content of firms' social responsibility disclosures is condi-
+ tional upon the market segment with which the firm is identified. These
+ findings suggest that it may be important to evaluate information
+ content by analyzing the impact of the signals on market segments (or
+ segments identified by firm-specific characteristics), rather than on a
+ general cross-section of firms.
+
+ 11 Factors used in the present study to segment the market are obviously a selection
+ of numerous possible factors. The results of tests using alternative factors might be
+ more or less significant than the results of the present study. Identification of specific
+ factors was not as important in this research as identification of information content.
+ Analysis of factors which may affect the information content of disclosures remains a
+ topic for future research.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 284 ROBERT W. INGRAM
+
+ APPENDIX
+
+ Examples of Social Responsibility Disclosures
+
+ Examples of typical disclosures for the various categories are reproduced
+ below to enable the reader better to grasp the nature of the information
+ reported. These disclosures were selected from 1975 annual reports as reported
+ by Ernst & Ernst [1975].
+
+ Environmental. . . collecting mains at the coke oven complex were
+ replaced at a cost of $2.6 million, resulting in a reduction of air emissions ....
+ The company also completed a $2.7 million biological water treatment plant as
+ part of an overall water pollution abatement system." (Jim Walter Corporation)
+ Fair business. "The company now has approximately 17,200 employees from
+ minority groups and 26,850 women, representing 10.9 percent and 16.9 percent
+ respectively of the total IBM population in the U.S." (IBM)
+
+ Personnel. "Olin's determined safety drive produced a new safety record for
+ the company in 1975; an accident frequency rate of only 0.82 compared with the
+ previous record of 1.39 set in 1974." (Olin)
+
+ Community. "In 1975 Firestone Scholarships with a potential value of nearly
+ $500,000 were awarded to 44 sons and daughters of Firestone employees."
+ (Firestone)
+
+ Product. "Along with programs to increase consumer satisfaction with
+ product quality and performance, Celanese maintains programs designed to
+ reduce safety problems arising from the use or handling of its products."
+ (Celanese)
+
+ REFERENCES
+
+ AMERICAN ACCOUNTING ASSOCIATION. "Report of the Committee on Environmental
+ Effects of Organizational Behavior." The Accounting Review. Supplement to 48 (1973):
+ 73-119.
+
+ ANDREWS, F., ET AL. Multiple Classification Analysis. Ann Arbor: Institute for Social
+
+ Research, University of Michigan, 1973.
+
+ BALL, R., AND P. BROWN. "An Empirical Evaluation of Accounting Income Numbers."
+
+ Journal of Accounting Research 6 (Autumn 1968): 159-78.
+
+ BEAMS, F., AND P. FERTIG. "Pollution Control through Social Cost Conversion." Journal
+
+ of Accountancy 137 (November 1971): 37-42.
+
+ BEDFORD, N. "Corporate Accountability." Management Accounting 55 (November 1973):
+
+ 41-44.
+
+ BELKAOUI, A. "The Impact of the Disclosure of 'Pollution Control' Information on the
+ Investors: A Behavioral Field Experiment and a Market Reaction Investigation."
+ Ph.D. dissertation, Syracuse University, 1972.
+
+ . "The Impact of the Disclosure of the Environmental Effects of Organizational
+
+ Behavior on the Market." Financial Management (Winter 1976): 26-31.
+
+ ERNST & ERNST. Social Responsibility Disclosure. Cleveland: Ernst & Ernst, 1971-76.
+ ESTES, R. "Socio-Economic Accounting and External Diseconomies." The Accounting
+
+ Review 47 (April 1972): 284-90.
+
+ FISHER, L. "Some New Stock Market Indices." Journal of Business (January 1966): 191-
+
+ 225.
+
+ GONEDES, N. "Evidence on the Information Content of Accounting Numbers: Account-
+ ing-Based and Market-Based Estimates of Systematic Risk." Journal of Financial
+ and Quantitative Analysis 8 (June 1973a): 407-43.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ SOCIAL RESPONSIBILITY DISCLOSURES 285
+
+ . "Properties of Accounting Numbers: Models and Tests." Journal of Accounting
+
+ Research 11 (Autumn 1973b): 212-37.
+
+ . "Capital Market Equilibrium and Annual Accounting Numbers: Empirical
+
+ Evidence." Journal of Accounting Research 12 (Spring 1974): 26-62.
+
+ . "Risk, Information, and the Effects of Special Accounting Items on Capital
+
+ Market Equilibrium." Journal of Accounting Research 13 (Autumn 1975): 220-56.
+
+ , N. DOPUCH, AND S. PENMAN. "Disclosure Rules, Information-Production, and
+
+ Capital Market Equilibrium: The Case of Forecast Disclosure Rules." Journal of
+ Accounting Research 14 (Spring 1976): 89-137.
+
+ LONGSTRETH, B., AND D. ROSENBLOOM. Corporate Social Responsibility and the Institu-
+
+ tional Investor. New York: Praeger, 1973.
+
+ SONQUIST, J. A., E. L. BAKER, AND J. N. MORGAN. Searching for Structure. Ann Arbor:
+
+ Institute for Social Research, University of Michigan, 1971.
+
+ SPICER, B. "Investors, Corporate Social Performance and Information Disclosure: An
+
+ Empirical Study." The Accounting Review 53 (January 1978): 94-111.
+
+This content downloaded from 152.15.47.133 on Fri, 03 Feb 2017 15:39:28 UTC
+
+All use subject to http://about.jstor.org/terms
+

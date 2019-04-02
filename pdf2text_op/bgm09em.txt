@@ -1,0 +1,1393 @@
+Economic Modelling 26 (2009) 689–695
+
+Contents lists available at ScienceDirect
+
+Economic Modelling
+
+j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / e c o n b a s e
+
+Firm performance and labour turnover: Evidence from the 2004 workplace employee
+relations survey
+Sarah Brown a,⁎, Gaia Garino b, Christopher Martin c
+a Department of Economics, University of Shefﬁeld, 9 Mappin Street, Shefﬁeld S1 4DT, United Kingdom
+b Department of Economics, University of Leicester, University Road, Leicester LE1 7RH, United Kingdom
+c Department of Economics and International Development, University of Bath, Bath BA2 7AY, United Kingdom
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Accepted 27 January 2009
+
+JEL Classiﬁcations:
+J21
+J23
+E3
+F4
+
+Keywords:
+Firm performance
+Labour turnover
+Quit rates
+Turnover costs
+
+We explore the impact of labour turnover on ﬁrm performance by analysing the predictions of an extension
+of the efﬁciency wage model of [Salop, S., (1979) ‘A Model of the Natural Rate of Unemployment’, American
+Economic Review, 69, 117–125.] developed by [Garino, G. and Martin, C., (2008) ‘The Impact of Labour
+Turnover: Theory and Evidence from UK Micro Data’, Quantitative and Qualitative Analysis in the Social
+Sciences, 1(3), 81–104.], which separates incumbent and newly hired workers in the production function.
+Within this theoretical framework, an exogenous increase in the turnover rate can increase proﬁts if ﬁrms do
+not choose wages unilaterally. We test the theoretical predictions of the model using UK cross-section
+establishment-level data, the 2004 Workplace and Employee Relations Survey. In accordance with our
+theoretical priors, the empirical results support the standard inverse relationship between the quit rate and
+ﬁrm performance where ﬁrms unilaterally choose the wage and generally support a positive relationship
+between ﬁrm performance and the quit rate where trade unions inﬂuence wage setting.
+
+© 2009 Elsevier B.V. All rights reserved.
+
+1. Introduction and background
+
+Labour turnover is an important feature of the labour market: for
+example, in OECD countries, approximately 10–15% of workers quit
+their jobs every year (OECD Economic Outlook, 1999), with the quit
+rate for the UK estimated at approximately 10% in 2004 (Quintini and
+Martin, 2006). Labour turnover affects both workers and ﬁrms:
+workers may need to learn new job-speciﬁc skills, whilst ﬁrms incur
+the costs of hiring and training new workers. Incoming workers,
+however, may be more highly motivated, better educated and more
+highly skilled. Hence, turnover may actually enhance ﬁrm perfor-
+mance, a possibility which has attracted limited attention in the
+existing literature. The existing literature has generally focused on the
+impact of turnover on workers rather than on ﬁrms, with the
+following exceptions: turnover and hiring costs have been studied
+by (Burgess and Dolado, 1989, Hammermesh, 1995; Hammermesh
+and Pfann, 1996), while (Hutchinson et al., 1997; Kersley and Martin,
+1997), have analysed the impact of turnover on productivity. The
+theory used to explain the impact of turnover on ﬁrms is mostly based
+on the well known efﬁciency wage model of Salop (1979), in which
+ﬁrms choose wages so as to minimise the marginal cost of labour,
+
+⁎ Corresponding author.
+
+E-mail address: sarah.brown@shefﬁeld.ac.uk (S. Brown).
+
+0264-9993/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.econmod.2009.01.014
+
+balancing the marginal effect of higher wages against the marginal
+reduction in training costs induced by higher wages.
+
+In this paper, we contribute to the literature exploring the
+implications of labour turnover for the ﬁrm. To be speciﬁc, we
+empirically explore the theoretical predictions of an extension to the
+model of Salop (1979) developed by Garino and Martin (2008), which
+distinguishes between newly hired and incumbent workers, since the
+latter have more job-speciﬁc human capital but may have less general
+human capital. A higher turnover rate implies that the proportion of
+new hires in the workforce is larger. If this causes a sufﬁciently large
+increase in productivity then an increase in turnover can actually
+increase proﬁts. Garino and Martin (2008) show that this effect is
+possible, but only when ﬁrms do not unilaterally choose the wage —
+for example when the wage is negotiated with a union or set
+nationally. When the ﬁrm chooses the wage unilaterally, as in Salop's
+original model, the impact of turnover on proﬁts is negative.
+
+In order to test the predictions from this theoretical framework, we
+analyse cross-section, establishment-level data from the 2004 Work-
+place and Employee Relations Survey (WERS) to ascertain the nature of
+the relationship between turnover and ﬁrm performance. Our ﬁndings
+support the inverse relationship predicted by Salop (1979) if ﬁrms are
+able to choose wages unilaterally. In contrast, where ﬁrms do not set
+wages unilaterally, our empirical analysis generally supports a positive
+relationship between the quit rate and ﬁrm performance. The paper is
+set out as follows. Section 2 summarises the theoretical underpinnings,
+
+
+690
+
+S. Brown et al. / Economic Modelling 26 (2009) 689–695
+
+whilst Sections 3 and 4 present our empirical analysis and Section 5
+concludes.
+
+2. Theoretical underpinnings
+
+Output depends on the labour input of newly hired and incumbent
+workers. New hires and incumbents have different levels of job-
+speciﬁc human capital and are imperfect substitutes. The production
+function is given by Y=F(h, I, λ, σ), where h is the number of new
+hires, I is the number of incumbents, λ denotes exogenous produc-
+tion-speciﬁc factors and σ is the elasticity of substitution between
+new hires and incumbents.1 We assume that, because of fairness or
+legal constraints, ﬁrms pay all workers the same wage2, w N0, and the
+ﬁxed unit cost of hiring and training new workers is τ N0. The per-
+period turnover rate, i.e. the proportion of the existing workforce who
+quit, is a ﬁxed function q of wages and exogenous factors, including
+the general market wage that workers expect to earn if they quit, θ:
+ð1Þ
+
+q = q w; θ
+
+ð
+
+Þ
+
+where qw b0, qww N0, qθ N0, qθθ b0 and qwθ b0. In every period, qN
+workers quit implying h=qN and I=(1−q)N. We consider the steady
+state and normalise output prices to unity.3 Proﬁts are given by:
+Π = F qN; 1 − q
+
+Þ − w + τq
+
+ÞN; σ ; λ
+
+ð2Þ
+
+ÞN
+
+ð
+
+ð
+
+ð
+
+Assume the ﬁrm chooses employment and wages. At an interior
+
+solution, the ﬁrst-order conditions are as follows:
+ΠN = qFh + 1 − q
+Πw = N qw Fh − FI
+
+Þ = 0
+ÞFI − w + τq
+Þ − 1 + τqw
+Þ
+ = 0:
+
+ð
+
+ð
+
+ð
+
+ð
+
+½
+
+ð3Þ
+ð4Þ
+
+If new hires and incumbents are perfect substitutes then Fh
+−FI =0 and the model reduces to Salop (1979). The response of
+proﬁts to turnover factors is obtained by comparative statics:
+
+Πθ = Πqqθ = N Fh − FI − τ
+
+ð
+
+Þqθ =
+
+qθ
+qw
+
+b0:
+
+ð5Þ
+
+The negative sign arises because a rise in θ can only increase proﬁts
+if, for a given turnover cost, new hires are sufﬁciently more productive
+than incumbents at the margin. Since qw b0, Eq. (4) implies that Fh−FI
+−τ b0. At the optimal wage, new hires are less productive than
+incumbents and an increase in θ reduces proﬁts.
+
+Now suppose ﬁrms do not choose the wage unilaterally.4 There is
+only a ﬁrst-order condition for employment, so the impact of turnover
+on proﬁts is given by:
+Πθ = Πwwθ + Πqqθ = N Fh − FI − τ
+
+Þ qwwθ + qθ
+ð
+
+Þ − wθ
+
+ð6Þ
+
+:
+
+ð
+
+½
+
+The number of new hires increases by qwwθ+qθ and incumbents
+decrease by the same amount. The resulting change in output, (Fh−FI)
+(qwwθ+qθ), is ambiguous, since the signs of both qwwθ+qθ and (Fh−FI)
+are ambiguous. In qwwθ+qθ, wθ is expected to be positive, qw b0 and
+qθ N0, while the sign of (Fh−FI) depends on the relative productivities
+
+1 See Garino and Martin (2008) for a more detailed analysis of aspects of this model.
+2 In a more complex model, we could differentiate between skilled and unskilled
+workers who are paid different wages; and we could consider newly-hired and
+incumbent workers as skilled and unskilled workers respectively. This would not affect
+our main results. Nor would assuming that new hires are paid less during a training
+period, since we analyse a steady-state solution.
+
+3 A dynamic version of our model is available on request.
+4 For example, if a ﬁrm negotiates wages with a union, wages will reﬂect all factors
+relevant to both ﬁrm and union, as well as their relative bargaining power (Garino and
+Martin, 2000).
+
+of incumbents and new hires. The remaining term τ(qwwθ+qθ)+wθ
+represents the impact on proﬁts of the change in total labour costs
+induced by a rise in θ, which is itself ambiguous. Overall, therefore, the
+sign of Eq. (6) is ambiguous. For sufﬁciently high levels of qw and Fh, the
+impact of labour turnover on ﬁrm proﬁts could be positive.
+
+To summarise, we have shown that if the ﬁrm chooses the wage
+unilaterally, an exogenous increase in turnover will always reduce
+proﬁts, but that if the ﬁrm does not choose the wage unilaterally, an
+exogenous increase in turnover may increase proﬁts. We explore the
+empirical support for this in the next section.
+
+3. Data and methodology
+
+In order to explore the relationship between turnover and ﬁrm
+performance, we analyse data from the 2004 cross-section Workplace
+and Employee Relations Survey (WERS). This is the ﬁfth in a
+Government funded series of surveys conducted at British workplaces,
+the previous four surveys having been conducted in 1980, 1984, 1990
+and 1998. The aim of the WERS survey is to provide nationally
+representative data on the current state of workplace relations and
+employment practices in Britain, and it is widely regarded as the
+principal source of information pertaining to changes in British
+industrial relations (Chaplin et al., 2005). See Kersley et al. (2006) for
+a detailed description of the current British employment relations
+context.
+
+The survey population for the 2004 WERS is all British workplaces
+with at least ﬁve employees except for those in agriculture, hunting
+and forestry, ﬁshing, mining and quarrying, private households with
+employed persons, and extra-territorial organisations. The sample
+comprises 2295 workplaces, whilst the sample used for our econo-
+metric analysis includes 1900 workplaces due to missing values. The
+2004 WERS comprises four main sections: the Management Ques-
+tionnaire; the Worker Representative Questionnaire; the Financial
+Performance Questionnaire; and the Employee Questionnaire. For the
+purposes of this study, we focus on the workplace level data elicited by
+the Management Questionnaire.
+
+In the Management Questionnaire, managers were asked to
+specify: (1) how many employees (full-time and part-time) were on
+the payroll 12 months ago and (2) how many of these employees
+stopped working at the workplace as they resigned or left voluntarily.
+The distinction between voluntary quits and other reasons for leaving
+the ﬁrm is particularly important for our purposes since it allows a
+close match between the theoretical framework and the empirical
+analysis. We use the responses to the second question to calculate the
+quit rate in each workplace, deﬁned as the number of workers who
+resigned or left voluntarily divided by total employment. The average
+quit rate in our sample is 13.28%.
+
+As pointed out in the introduction, it may be the case that new
+hires are better skilled or more highly educated than incumbent
+employees. One implication of this is that ﬁrms with a low turnover
+rate may not necessarily have a more highly productive workforce.
+Using the information on the quit rate elicited from the 2004 WERS
+Management Questionnaire, we label workplaces according to
+whether they are in the ﬁrst, second, third or fourth quartile of the
+quit rate distribution. We have matched this information with
+employee level
+information from the Employee Questionnaire,
+which up to 25 employees from each workplace were asked to
+complete, yielding a sample of 18,634 employees after conditioning on
+missing values. The employee level data includes detailed information
+on human capital measures.
+
+Table 1, which is based on matched data from the Employee
+Questionnaire and the Management Questionnaire, presents informa-
+tion pertaining to the average level of human capital characteristics of
+employees across workplaces grouped according to quartiles of the
+quit rate distribution. The measures of human capital relate to the
+proportions of employees with: no academic qualiﬁcations; GCSEs
+
+
+S. Brown et al. / Economic Modelling 26 (2009) 689–695
+
+691
+
+Table 1
+Human capital measures, quit rates and workplace tenure (matched management and employee questionnaire data).
+
+Human capital measures
+No academic qualiﬁcations
+GCSE D–G
+GCSE A–C
+A levels
+First degree
+Higher degree
+Other academic qualiﬁcations
+Vocational qualiﬁcations
+Index of IT skills
+Number of observations
+
+q b q1
+
+0.1520
+0.2798
+0.5615
+0.3067
+0.2445
+0.0539
+0.3198
+0.9398
+3.4241
+
+4171
+
+q1≤q b q2
+0.1686
+0.2797
+0.5449
+0.3046
+0.2533
+0.0709
+0.3191
+0.9394
+3.5852
+
+5807
+
+q2 b q≤ q3
+0.1498
+0.2607
+0.5585
+0.3225
+0.2709
+0.0768
+0.3253
+0.9358
+3.6893
+
+4673
+
+q Nq3
+
+Tenure: ≤1 year
+
+Tenure: N1 year
+
+0.1780
+0.2885
+0.5041
+0.2717
+0.1973
+0.0429
+0.2870
+0.9259
+3.1298
+
+0.1030
+0.2863
+0.5612
+0.3538
+0.2840
+0.0722
+0.3097
+0.9170
+3.2962
+
+0.1735
+0.2751
+0.5408
+0.2935
+0.2367
+0.0609
+0.3152
+0.9402
+3.5163
+
+3983
+
+2951
+
+15611
+
+Notes: q1 denotes the 25th quartile (q1=0.0124); q2 denotes the 50th quartile (q2=0.0816); q3 denotes the 75th quartile (q3=0.1692).
+
+grades D to G; GCSEs grades A to C; A levels; ﬁrst degree; higher
+degree; other academic qualiﬁcations; vocational qualiﬁcations; and
+an index of IT skills.5 It is apparent that in the third quartile, the index
+of IT skills is relatively high as are the percentages of employees with A
+levels, a ﬁrst degree and a higher degree. Such ﬁndings support the
+argument that turnover may be beneﬁcial for the workplace, with
+relatively high turnover (i.e. turnover in the third quartile) being
+associated with a workforce with relatively high measures of human
+capital.
+In addition, qualiﬁcations and skills appear to be most
+prevalent in the third quartile, rather than the fourth quartile, which
+suggests that the relationship between turnover and human capital is
+not monotonic.
+
+In Table 1, we also present summary statistics relating to the
+human capital characteristics of the sample of employees who have
+been working at the workplace for less than one year and the sample
+of those employees who have been at the workplace for more than
+one year. With respect to academic qualiﬁcations, it is apparent that
+for all categories of qualiﬁcations, with the exception of other
+qualiﬁcations, the percentages are higher for the sample of new
+recruits suggesting that, on average, new recruits are more highly
+qualiﬁed than incumbent employees. In particular, the proportion of
+employees reporting that they have no academic qualiﬁcations is
+signiﬁcantly lower amongst the new recruits.
+
+Thus, the summary statistics from the matched establishment and
+employee level data suggest that high turnover may be associated
+with high levels of human capital, which in turn may be beneﬁcial for
+ﬁrm performance. Following the theoretical framework summarised
+in Section 2, we explore the relationship between ﬁrm performance
+and turnover by distinguishing between those ﬁrms who set wages
+unilaterally and those who do not set wages unilaterally. One of the
+most common reasons why employers may not be able to set wages
+unilaterally in the UK may be due to the fact that wages are set
+through negotiations with trade unions.
+
+In the 2004 WERS,
+
+information is available relating to the
+proportion of employees who have their pay set through negotiations
+with trade unions either at their workplace or at a higher level. A
+response of 100%, therefore, indicates that the ﬁrm has no unilateral
+power over wage setting: 26% of the sample, 484 workplaces, state
+that 100% of their employees have their pay set via negotiations with
+trade unions. Out of the remaining 74% of workplaces, there are 1037
+workplaces with a 0% response.
+
+With respect to measures of workplace performance, there is only
+one measure available in the WERS 2004 Management Questionnaire,
+which relates to overall ﬁnancial performance. Managers are asked to
+assess their workplace's ﬁnancial performance as compared to other
+
+establishments in the same industry. Responses are given on a ﬁve
+point scale: ‘a lot better than average’; ‘better than average’; ‘about
+average for industry’; ‘below average’; and, ﬁnally,
+‘a lot below
+average’.6 It is apparent that this measure of ﬁnancial performance is
+subjective. Furthermore, the response rates below suggest that there
+is a bias towards the ‘above average’ categories rather than the ‘below
+average' categories. Evaluations of this subjective measure, however,
+have indicated that the ordinal properties of the data are unaffected by
+such bias (see Bryson et al., 2005). The response rate for the ‘a lot
+below average’ category is very low (1%), so we collapse the last two
+categories into one. Hence, we use the responses to these questions to
+construct a four point index representing ﬁnancial performance
+(FPwp):
+
+8>><
+>>:
+
+FPwp =
+
+3 = A lot better than average 12kð
+Þ
+2 = Better than average 40kð
+1 = Average 39kð
+0 = Below average 9kð
+
+Þ
+
+Þ
+
+Þ
+
+ð7Þ
+
+where wp denotes the workplace subscript and the ﬁgures in
+parenthesis indicate the percentage in each category. We then conduct
+weighted ordered probit analysis to explore the determinants of FPwp:7
+ð8Þ
+wp = π VXwp + γ1qwp + γ2qwp  NUWS + γ3NUWS + vwp
+FP4
+
+where FPwp⁎ represents a latent variable denoting the unobserved
+propensity of workplace wp to achieve a certain level of ﬁnancial
+performance; qwp denotes the quit rate; Xwp is a vector of workplace
+characteristics expected to inﬂuence FPwp⁎; β is the associated coefﬁcient
+vector; y1 represents the coefﬁcient on qwp; NUWS is a dummy variable
+indicating that the workplace is characterised by non-unilateral wage
+setting (i.e. where the manager stated that 100% of employees at the
+workplace have their pay set via negotiations with trade unions); and
+νwp is a random error term. The inclusion of the interaction term
+between qwp and NUWS enables us to explore whether the effect of quit
+rates on ﬁrm level ﬁnancial performance varies according to whether
+wages are set unilaterally or not.
+
+The set of workplace characteristics included in Xwp reﬂects the
+theoretical analysis in Section 2, in which the impact of turnover on
+proﬁts depended in part on the marginal products of labour. We proxy
+for these using a series of controls for establishment-level character-
+istics. These include: industry; workplace size and age; foreign owner-
+ship; union density; an index of the percentage of the establishment's
+sales revenue or operating costs accounted for by labour costs; operating
+hours of 24 h a day; whether the establishment faces competition from
+
+5 There are thirteen possible IT skills: word processing; sending or receiving e-mail;
+checking stock movements, availability or pricing; record keeping; ordering or
+purchasing; controlling or monitoring processes or machinery; data entry; data
+analysis; desk-top publishing; computer-aided design; programming or compiling
+syntax; and any other task. The index runs from 0 to 13 depending on the number of IT
+skills that the employee reports.
+
+6 Cases where the manager indicated that either ‘no comparison is possible’ or
+
+‘relevant data is not available’ were omitted from our econometric analysis.
+
+7 The data was weighted as workplaces had different probabilities of being selected
+for the survey. The sampling frame for the 2004 WERS was the Inter-Departmental
+Business Register maintained by the Ofﬁce for National Statistics. Differential sampling
+fractions have been used according to the number of employees and the 2003 Standard
+Industrial Classiﬁcation (Chaplin et al., 2005).
+
+
+692
+
+S. Brown et al. / Economic Modelling 26 (2009) 689–695
+
+Table 2
+Financial performance and labour turnover (Sample =All Workplaces).
+
+Explanatory variables
+
+Coefﬁcient T-Stat Mean
+
+Standard
+deviation
+
+Quit rate
+Quit rate ⁎non-unilateral wage
+
+setting
+
+Non-unilateral wage setting
+Ln(workplace size)
+Ln(workplace age)
+Foreign owned
+Private sector
+24 h per day
+Overseas competition
+Growing market
+Labour costs/sales revenue
+% Trade union members
+% Fixed term contract employees
+% Agency workers
+% Females workers
+% Part-time workers
+Number of observations
+Industry controls
+Occupational structure controls
+Mean (standard deviation) of FPwp
+Wald Chi Squared
+Jarque-Bera normality test
+Log pseudo-likelihood
+Pseudo R squared
+Cut Off Point 1 (standard error)
+Cut Off Point 2 (standard error)
+Cut Off Point 3 (standard error)
+
+−0.5168 −2.06 0.1328 0.3386
+2.30 0.0199 0.0627
+
+1.6279
+
+0.2581
+
+0.0039
+0.1382
+
+0.1474
+0.0644
+0.1594
+0.0891
+
+−0.0022 −0.18 2.1705
+
+−0.3475 −2.48 0.2547 0.4358
+3.36 4.4674 1.7566
+1.63 3.0372 1.2045
+1.01 0.1379
+0.3449
+0.63 0.7100 0.4539
+−0.2280 −1.89 0.4979 0.5001
+−0.2384 −1.76 0.1426 0.3498
+2.75 0.3642 0.4813
+1.2562
+1.20 0.2857 0.1302
+0.88 0.0600 0.1659
+−0.7780 −1.93 0.0272 0.0954
+0.4996 0.2952
+−0.5228 −2.43 0.2669 0.2730
+1900
+Yes
+Yes
+1.5632 (0.8085)
+69.54 (35 d.f.)
+0.9646 (2 d.f.)
+−2180.78
+0.0352
+−0.9734 (0.4248)
+0.4089 (0.4277)
+1.7343 (0.4294)
+
+0.2613
+
+1.11
+
+Notes: (i) Occupational structure controls include: the proportion of: managers and
+senior ofﬁcials; professionals; associate professional and technical employees; admin-
+istrative and secretarial employees; skilled trade employees; personal service employ-
+ees; and operative employees. The omitted category is the proportion of routine
+unskilled employees. (ii) Controls for industry include: manufacturing; construction;
+wholesale and retail; hotels and restaurants; transport and communication; ﬁnancial
+services; other business services; public administration; education; health; and other
+community services. The omitted category is electricity, gas and water. (iii) Jarque-Bera
+Normality Test: Ho: normality.
+
+overseas based suppliers; and whether the current state of the market is
+growing. Workforce characteristics include the proportions of: females,
+part-timers, ﬁxed term contract workers, agency workers, managers,
+professionals, associate professional and technical employees, adminis-
+trative and secretarial employees, skilled trade employees, personal
+service employees, operative employees and routine unskilled employ-
+ees.8 Summary statistics of the variables used in the empirical analysis
+are presented in Table 2.
+
+We explore the robustness of our empirical analysis in four ways.
+Firstly, we re-estimate Eq. (8) via a generalised ordered probit model,
+which allows the cut-off points to vary between workplaces (see
+Williams, 2006). Secondly, we omit the interaction term and the
+unilateral wage setting control and we estimate Eq. (8) separately for
+ﬁrms that unilaterally set wages and for those who do not set wages
+unilaterally. We present one set of results whereby we do not control
+for sample selection bias and one set of results whereby we include a
+correction for sample selection bias in the ﬁnancial performance
+equation to control for the possible endogeneity of NUWS. We control
+for the latent probability of NUWS by specifying a probit model with
+NUWS as the dependent variable and the following set of over-
+identifying instruments, which are jointly signiﬁcant at the 1% level in
+the probit model: the number of trade unions who have members at
+
+8 The variables denoting the occupational structure of the workplace are included to
+control for human capital at the workplace. Unfortunately, WERS does not include
+information relating to education across the whole workforce (only for the sample of
+employees who completed the Employee Questionnaire). Since education and
+occupation are highly correlated, we include the occupation variables to control for
+workplace human capital. We also note that these characteristics are not speciﬁc to the
+British context.
+
+the workplace; the number of trade unions recognised by manage-
+ment for negotiations over pay and conditions for any section of the
+workforce; and a dummy variable for whether trade union subscrip-
+tions are deducted from employees' pay. For the unilateral wage
+setting analysis, we explore two samples: ﬁrstly, where NUWS equals
+zero; and, secondly, where the manager indicates that no employees
+at the workplace have their pay set through negotiations with trade
+unions either at the workplace or at a higher level.
+
+Thirdly, we repeat the analysis above replacing the quit rate
+variable with its predicted variable estimated by OLS specifying the
+following set of over-identifying instruments: the proportion of
+experienced employees who have been given time off from their
+normal daily work to undertake training over the past twelve months;
+the average number of days of training undertaken by experienced
+employees in the last 12 months; the proportion of employees who
+are formally trained to be able to do jobs other than their own; how
+much time is spent in induction activities; and how long it normally
+takes before new employees are able to do their job as well as
+experienced employees. We also control for employees' involvement
+in workplace decision-making,
+i.e. whether: a formal survey of
+employees' views has been conducted in the last two years; the
+workplace has groups of non-managerial employees that solve
+speciﬁc problems or discuss aspects of performance or quality; the
+number of committees of managers and employees primarily
+
+Table 3A
+Financial Performance and Labour Turnover: Marginal Effects and Robustness.
+
+FPwp=0
+
+Marginal Effects
+Panel A: All Workplaces; Ordered Probit
+0.0783
+Quit rate
+(2.01)
+−0.2466 −0.4028
+
+Quit Rate ⁎Non-Unilateral
+
+0.1279
+(2.04)
+
+FPwp=1
+
+Wage Setting
+
+Non-Unilateral Wage Setting
+
+Number of Observations
+Wald Chi Squared
+Log pseudo-likelihood
+
+(−2.25)
+0.0526
+(2.38)
+
+(−2.27)
+0.0860
+(2.46)
+
+Panel B: All Workplaces; Generalised Ordered Probit
+0.1105
+Quit Rate
+(1.02)
+
+0.0469
+(0.98)
+−0.2210 −0.3551
+
+Quit Rate ⁎Non-Unilateral
+
+Wage Setting
+
+Non-Unilateral Wage Setting
+
+Number of Observations
+Wald Chi Squared
+Log pseudo-likelihood
+
+(−1.37)
+0.0897
+(2.51)
+
+(−1.08)
+0.0378
+(0.57)
+
+FPwp=2
+
+FPwp=3
+
+−0.1194 −0.0867
+(−2.07)
+(−1.98)
+0.2732
+0.3762
+
+(2.22)
+
+(2.30)
+−0.0803 −0.0583
+(−2.43)
+(−2.44)
+1900
+69.54 (35 d.f.)
+−2180.78
+
+0.0210
+(0.18)
+0.2653
+
+−0.1784
+(−2.82)
+0.3108
+
+(2.15)
+
+(0.87)
+−0.1071 −0.0204
+(−0.73)
+(−1.69)
+1900
+250.42 (105 d.f.)
+−2074.8686
+
+Panel C: Non-Unilateral Wage Setting; Ordered Probit
+Quit Rate
+
+−0.1961 −0.3262
+(−1.73)
+(−1.75)
+
+0.1924
+(1.78)
+
+Number of Observations
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.1807
+(1.67)
+484
+68.84 (33 d.f.)
+−521.66
+
+Panel D: Unilateral Wage Setting Sample 1; Ordered Probit
+Quit Rate
+
+0.0828
+(2.13)
+
+0.1431
+(2.18)
+
+Number of Observations
+Wald Chi Squared
+Log pseudo-likelihood
+
+Panel E: Unilateral Wage Setting Sample 2; Ordered Probit
+Quit Rate
+
+0.0786
+(1.99)
+
+0.1395
+(2.04)
+
+Number of Observations
+Wald Chi Squared
+Log pseudo-likelihood
+
+−0.1293 −0.0966
+(−2.10)
+(−2.22)
+1416
+46.47 (33 d.f.)
+−1622.15
+
+−0.1240 −0.0939
+(−1.97)
+(−2.07)
+1037
+44.47 (33 d.f.)
+−1186.28
+
+
+S. Brown et al. / Economic Modelling 26 (2009) 689–695
+
+693
+
+concerned with consultation; the frequency of team brieﬁng meet-
+ings; the frequency of meetings with senior managers and the whole
+workforce; and, whether over the last two years management has
+introduced initiatives to involve employees. In addition, to allow for
+potential reverse causality, we include the ﬁnancial performance of
+the ﬁrm to control for the possibility that the ﬁrm's ﬁnancial status
+may inﬂuence quit rates.9
+
+As a fourth robustness check, we analyse data from the WERS 2004
+Financial Performance Questionnaire, which is the ﬁrst in the WERS
+series to include monetary measures of the ﬁnancial performance of
+the workplaces. After completion of the Management Questionnaire, a
+Financial Performance Questionnaire was left for ‘someone respon-
+sible for ﬁnancial matters at the workplace’ to complete. The response
+rate for the Financial Performance questionnaire (as a proportion of
+questionnaires placed) is 51.5% (see Chaplin et al., 2005). Our sample
+size is reduced to 832 establishments once we allow for missing
+values. Hence, we explore the relationship between the quit rate and a
+monetary rather than categorical indicator of ﬁnancial performance in
+order to explore the robustness of our empirical ﬁndings. To be
+speciﬁc, we explore the relationship between the natural logarithm of
+sales turnover (i.e. the total amount received in respect of sales of
+goods and services excluding value added tax) and the quit rate. For
+this smaller sample of workplaces, the mean turnover rate is at 12.92%
+(standard deviation of 15.99), slightly lower than that reported for the
+larger sample. The dependent variable is speciﬁed as the natural
+logarithm of sales turnover, which has a mean value of 9.2107.10
+
+4. Results
+
+Table 2 presents the estimated coefﬁcients related to the ﬁnancial
+performance model represented by Eq. (8). It is apparent that the
+estimated coefﬁcient on the quit rate variable is negative and
+statistically signiﬁcant at the 5% level. The inverse relationship
+between ﬁnancial performance and the quit rate is in accordance
+with the predictions of Salop (1979). In contrast, the interaction term
+between the quit rate and the dummy variable representing non-
+unilateral wage setting is characterised by a positive estimated
+coefﬁcient. Table 3A presents the associated marginal effects in
+Panel A, which reveal how the quit rate inﬂuences the probability of
+being in each of the four ﬁnancial performance categories. The quit
+rate is positively associated with the probability of being in the lowest
+two categories of ﬁnancial performance and, in accordance with the
+predictions of Salop (1979), negatively associated with being in the
+two ‘better than average’ ﬁnancial performance categories. This
+pattern is reversed in the marginal effects relating to the interaction
+term between the quit rate and the non-unilateral wage setting
+dummy variable, with turnover being positively (negatively) asso-
+ciated with the relatively high (low) levels of ﬁnancial performance. In
+accordance with our theoretical priors, the ﬁndings suggest that there
+are distinct differences in the relationship between the quit rate and
+ﬁnancial performance across ﬁrms depending on whether or not they
+set pay unilaterally.
+
+In Table 3A Panel B, the marginal effects from the generalised
+ordered probit model are presented. It is apparent that only the
+
+9 The set of instruments passes the standard validity tests and the standard errors in
+the following results are bootstrapped (with 200 replications) to allow for the
+inclusion of a generated variable in the regression model.
+10 A variety of measures of ﬁnancial performance are available in the WERS Financial
+Performance Questionnaire. The relatively low response rate to this part of the survey,
+combined with missing values, precludes their inclusion in our empirical analysis. The
+low response rate reﬂects the fact that a high proportion of workplaces declined to
+take part in the Financial Performance Questionnaire. Furthermore, there is some
+evidence that the workplaces which did not take part in this aspect of WERS were not
+a random sample (Chaplin et al., 2005). In the following analysis, weights were used
+which were calculated by multiplying the inverse of the probability of WERS
+workplaces responding to the Financial Performance Questionnaire with the establish-
+ment weight (see footnote 7 and Chaplin et al., 2005).
+
+marginal effects associated with the highest level of ﬁnancial
+performance attain statistical signiﬁcance. However, the pattern of
+the marginal effects ties in with those from the ordered probit model
+with the quit rate being inversely associated with the probability of
+being in the ‘above average’ ﬁnancial performance category and the
+interaction term being characterised by a positive association.
+
+In Table 3A Panel C, we present the marginal effect relating to the
+quit rate variable for the sample of workplaces characterised by non-
+unilateral wage setting. It is apparent that the pattern of the marginal
+effects accords with our theoretical prediction that turnover may be
+positively associated with ﬁrm performance: the marginal effects
+
+Table 3B
+Financial Performance and Labour Turnover: Marginal Effects and Robustness: Sample
+Selection and Predicted Quit Rate.
+
+Panel A: Non-Unilateral Wage Setting; Ordered Probit with correction for sample selection
+Quit Rate
+
+−0.2247 −0.3628 0.3820
+(−1.94)
+(2.02)
+
+(−1.97)
+
+Number of Observations
+Sample Selection Term: Estimated
+
+Coefﬁcient (t-statistic)
+
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.2055
+(1.88)
+484
+−0.4208
+(−1.47)
+64.28 (34d.f.)
+−524.07
+
+Panel B: Unilateral Wage Setting Sample 1; Ordered Probit with correction for sample
+
+selection
+
+Quit Rate
+
+Number of Observations
+Sample Selection Term: Estimated
+
+Coefﬁcient (t-statistic)
+
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.0836
+(2.15)
+
+0.1413
+(2.18)
+
+−0.1277 −0.0972
+(−2.22)
+(−2.12)
+1416
+−0.2416
+(−1.24)
+47.92 (34 d.f.)
+−1630.1971
+
+Panel C: Unilateral Wage Setting Sample 2; Ordered Probit with correction for sample
+
+selection
+
+Quit Rate
+
+Number of Observations
+Sample Selection Term: Estimated
+
+Coefﬁcient (t-statistic)
+
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.0786
+(1.99)
+
+0.1365
+(2.03)
+
+−0.1214 −0.0936
+(−1.97)
+(−2.06)
+1037
+−0.1830
+(−1.07)
+43.03 (34 d.f.)
+−1191.79
+
+Panel D: Non-Unilateral Wage Setting; Ordered Probit with correction for sample selection
+Quit Rate (Predicted)
+
+−0.0227 −0.0457 0.0367
+(−2.99)
+(2.99)
+
+(−3.28)
+
+Number of Observations
+Sample Selection Term: Estimated
+
+Coefﬁcient (t-statistic)
+
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.0318
+(3.52)
+484
+−0.2611
+(−1.72)
+68.16 (34 d.f.)
+−548.05
+
+Panel E: Unilateral Wage Setting Sample 1; Ordered Probit with correction for sample
+
+selection
+
+Quit Rate (Predicted)
+
+Number of Observations
+Sample Selection Term: Estimated
+
+Coefﬁcient (t-statistic)
+
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.0136
+(8.36)
+
+0.0697
+(17.04)
+
+−0.0608 −0.0225
+(−11.22)
+(−15.52)
+1416
+−0.7238
+(−7.16)
+752.14 (34 d.f.)
+−1315.50
+
+Panel F: Unilateral Wage Setting Sample 2; Ordered Probit with correction for sample
+
+selection
+
+Quit Rate (Predicted)
+
+Number of Observations
+Sample Selection Term: Estimated
+
+Coefﬁcient (t-statistic)
+
+Wald Chi Squared
+Log pseudo-likelihood
+
+0.0094
+(7.73)
+
+0.0422
+(13.50)
+
+−0.0340 −0.0177
+(−9.70)
+(−10.44)
+1037
+−0.3548
+(−4.13)
+816.73 (34 d.f.)
+−1013.74
+
+Note: (i) marginal effects are presented with t-statistics in parenthesis; (ii) sample 1
+relates to NUWS =0 and sample 2 relates to workplaces where 0% of employees have
+their pay set through negotiations with trades unions.
+
+
+694
+
+S. Brown et al. / Economic Modelling 26 (2009) 689–695
+
+suggest that turnover may be associated with a lower (higher)
+probability of being in the relatively low (high) categories of ﬁrm
+ﬁnancial performance.
+
+In Table 3A Panel D, we repeat the analysis for those ﬁrms where
+NUWS equals zero. It is apparent that the pattern of the marginal
+effects ties in with that predicted within the standard Salop (1979)
+framework whereby turnover is associated with an inverse (positive)
+probability of being in the higher (lower) ﬁnancial performance
+categories. In Table 3A Panel E, we impose a stricter deﬁnition for
+unilateral wage setting where no employees at the workplace have
+their pay set through negotiations with trade unions either at this
+workplace or at a higher level. It is apparent that the pattern of the
+estimated marginal effects in Table 3A Panel E ties in with those for the
+sample of workplaces where NUWS equals zero and, hence, with the
+predictions of Salop (1979).11
+
+In Table 3B, the results from the corresponding analysis for the
+three samples of ﬁrms, non-unilateral wage setting ﬁrms, unilateral
+wage setting ﬁrms where NUWS equals zero and unilateral wage
+setting ﬁrms based on the stricter deﬁnition, corrected for potential
+sample selection bias (Panels A to C, respectively) as well as the
+predicted quit rate (Panels D to E, respectively) are presented. It is
+apparent that the results are robust to controlling for potential sample
+selection bias as well as to replacing the quit rate with its predicated
+value, with the pattern of the marginal effects conﬁrming that
+presented in Table 3A, where for the (non) unilateral wage setting
+ﬁrms, the quit rate variable is (positively) inversely associated with
+ﬁrm performance, thereby highlighting the robustness of our ﬁndings.
+In Table 4, we repeat the analysis presented in Table 3A Panels C to
+E and Table 3B Panels A to C replacing the categorical dependent
+variable with a continuous measure of ﬁrm performance: the sales
+turnover of the ﬁrm. We specify a weighted OLS model with the
+logarithm of sales turnover as the dependent variable and the set of
+explanatory variables is consistent with that in Eqs. (2) and (3) above
+where the weights reﬂect the probability of selection into the survey.
+It is apparent that in the case of unilateral wage setting, the inverse
+association between ﬁrm performance and labour turnover prevails,
+as predicted by Salop (1979). In contrast, where there is no unilateral
+pay setting, the estimated relationship between labour turnover and
+ﬁrm performance is statistically insigniﬁcant. Such a ﬁnding of an
+ambiguous relationship between ﬁrm performance and labour turn-
+over ties in with the theoretical analysis presented in Section II, where
+the sign of Eq. (6) is ambiguous.
+
+5. Conclusions
+
+We have explored the theoretical predictions from an extension to
+the efﬁciency wage model of Salop (1979) developed by Garino and
+Martin (2008), where incumbent and newly hired workers are
+separated in the production function. If ﬁrms can choose wages
+unilaterally, the effect of turnover on proﬁts is negative, since, for a
+given turnover function, proﬁt maximising ﬁrms adjust the wage to
+minimise the cost of labour. In the case where ﬁrms cannot choose the
+wage unilaterally, the impact of an exogenous increase in turnover on
+the maximun proﬁt function can be positive as well as negative. Our
+empirical analysis of workplace level data drawn from the WERS 2004
+suggests that the nature of the relationship between employee
+turnover and ﬁrm performance is inﬂuenced by whether workplaces
+set pay unilaterally. Our empirical ﬁndings accord with the predictions
+
+11 As suggested by a referee, we also explore the robustness of the estimated
+relationship between the quit rate and ﬁrm performance by specifying semi-
+nonparametric techniques (see Stewart, 2004). In general, our ﬁndings support the
+inverse (positive) association between ﬁrm performance and the quit rate for UWS
+(NUSW) ﬁrms for a selection of polynomials (e.g. 3, 5 and 8). It should be noted
+however that although the Likelihood ratio tests support the use of the semi-
+nonparametric methods, this estimator is essentially a large sample technique and our
+sample of ﬁrms is arguably not large within the context of cross-section analysis.
+
+Table 4
+Financial Turnover and Labour Turnover.
+
+Estimated coefﬁcient
+
+t-statistic
+
+Panel A: Non-Unilateral Wage Setting; Ordered Probit
+Quit Rate
+Number of Observations
+
+0.4852
+
+Panel B: Unilateral Wage Setting Sample 1; Ordered Probit
+Quit Rate
+Number of Observations
+
+−0.3696
+
+Panel C: Unilateral Wage Setting Sample 2; Ordered Probit
+Quit Rate
+Number of Observations
+
+−0.3329
+
+0.26
+
+204
+
+−2.58
+629
+
+−2.17
+441
+
+Panel D: Non-Unilateral Wage Setting; Ordered Probit with correction for sample selection
+Quit Rate
+Sample Selection Term
+Number of Observations
+
+0.50
+−1.39
+204
+
+0.9351
+−0.6119
+
+Panel E: Unilateral Wage Setting Sample 1; Ordered Probit with correction for sample
+
+selection
+
+Quit Rate
+Sample Selection Term
+Number of Observations
+
+−0.3433
+1.4518
+
+−2.40
+1.93
+
+629
+
+Panel F: Unilateral Wage Setting Sample 2; Ordered Probit with correction for sample
+
+selection
+
+Quit Rate
+Sample Selection Term
+Number of Observations
+
+−0.3337
+−0.1862
+
+−2.17
+−0.31
+204
+
+Note: sample 1 relates to NUWS=0 and sample 2 relates to workplaces where 0% of
+employees have their pay set through negotiations with trades unions.
+
+of the theoretical framework supporting the standard inverse relation-
+ship between the quit rate and ﬁrm performance where workplaces
+are able to choose wages unencumbered by trade union negotiations.
+In cases, where workplaces cannot choose wages unilaterally, our
+empirical ﬁndings support the possibility that a positive association
+between ﬁrm performance and turnover may prevail.
+
+Our results imply a more nuanced view of labour turnover as they
+suggest that turnover is not necessarily bad for ﬁrms. The literature on
+efﬁciency wages highlighted the endogeneity of turnover and showed
+that wage-setting ﬁrms face a trade-off between lower wages per
+worker and higher turnover costs when they consider lowering wages.
+But turnover has no intrinsic beneﬁts. Our analysis shows that
+turnover can have intrinsic beneﬁts, as incoming workers may be
+more highly motivated, better educated and more highly skilled than
+those they replace. This suggests that further development of our
+model, to embed it in a richer theoretical structure, including analysis
+of wage growth as well as wage levels, would enable us to consider
+involuntary unemployment and other labour market issues addressed
+by efﬁciency wage theories. Such an extended framework would also
+allow us to comment on the policy implications of this type of model.
+
+Acknowledgements
+
+We are grateful to the Data Archive at the University of Essex for
+supplying data from the 2004 Workplace and Employee Relations
+Survey. We are especially grateful to Karl Taylor and three anonymous
+referees for excellent comments. We are also grateful to participants at
+the Work, Pensions and Labour Economics Group Annual Conference,
+2008, and at the European Association of Labour Economists Annual
+Conference, 2008, Amsterdam for excellent comments. The normal
+disclaimer applies.
+
+References
+
+Bryson, A., Forth, J., Kirby, S., 2005. High involvement management practices, trade
+union representation and workplace performance in Britain. Scottish Journal of
+Political Economy 52 (3), 451–491.
+
+
+S. Brown et al. / Economic Modelling 26 (2009) 689–695
+
+695
+
+Burgess, S., Dolado, J., 1989. Intertemporal rules with a variable speed of adjustment: an
+
+Kersley, B., Martin, C., 1997. Productivity growth, participation and communication.
+
+application to UK manufacturing employment. Economic Journal 99, 347–365.
+
+Chaplin, J., Mangla, J., Purdon, S., Airey, C., 2005. The Workplace Employment Relations
+(WERS) 2004 Technical Report (Cross-Section and Panel Surveys). Department of
+Trade and Industry. November 2005.
+
+Garino, G., Martin, C., 2000. Efﬁciency wages and ﬁrm-union bargaining. Economics
+
+Letters 69 (2), 181–185.
+
+Garino, G., Martin, C., 2008. The impact of labour turnover: theory and evidence from
+UK micro data. Quantitative and Qualitative Analysis in the Social Sciences 1 (3),
+81–104.
+
+Hammermesh, D., 1995. Labour demand and the structure of adjustment costs.
+
+Economic Journal 105, 620–634.
+
+Scottish Journal of Political Economy 44, 485–501.
+
+Kersley, B., Alpin, C., Forth, J., Bryson, A., Bewley, H., Dix, G., Oxenbridge, S., 2006. Inside
+the Workplace: Findings from the 2004 Workplace Employment Relations Survey.
+Routledge.
+
+OECD, 1999. Employment Outlook. Paris.
+Quintini, G., Martin, S., 2006. Starting well or losing their way? The position of youth in
+the labour market in OECD countries. OECD Social, Employment and Migration
+Working Papers Number 39.
+
+Salop, S., 1979. A model of the natural rate of unemployment. American Economic
+
+Review 69, 117–125.
+
+Stewart, M.B., 2004. Semi-nonparametric estimation of extended ordered probit
+
+Hammermesh, D., Pfann, G., 1996. Turnover and the dynamics of labour demand.
+
+models. Stata Journal 4 (1), 27–39.
+
+Economica 63, 359–368.
+
+Hutchinson, S., Villalobos, J., Beruvides, M., 1997. Effects of high turnover in a serial
+Journal of Production Research 35,
+
+International
+
+assembly environment.
+3201–3223.
+
+Williams, R. (2006) ‘Generalized Ordered Logit/Partial Proportional Odds Models for
+
+Ordinal Dependent Variables’, Stata Journal, 2006, Volume 6, Issue 1, 58-82.
+

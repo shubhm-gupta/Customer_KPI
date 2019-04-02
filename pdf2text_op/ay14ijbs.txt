@@ -1,0 +1,1293 @@
+International Journal of Business and Society, Vol. 15 No. 1, 2014, 151 - 170
+
+REVERSE LOGISTICS: PRESSURE FOR ADOPTION AND 
+
+THE IMPACT ON FIRM’S PERFORMANCE
+
+Nik Ab Halim Nik Abdullah♣
+
+Universiti Utara Malaysia 
+
+Sabariah Yaakub
+
+Universiti Utara Malaysia 
+
+ABSTRACT
+
+One of the new challenges faced by Malaysian firms that want to go global is the fact that 
+many  countries  have  introduced  legislation  or  directives  to  ensure  effective  disposal  of 
+manufactured products and its waste. Furthermore, the increase in awareness on environmental 
+issues, sustainable development, corporate citizenship and the benefit of recycling had also 
+placed more pressure on firms to adopt sustainable business initiatives such as a better reverse 
+logistics strategy. Manufacturing firms however often focused on forward logistics and as a 
+result, they tend to overlook at the importance of reverse logistics activities and its potential 
+of improving the firm’s performance. The objective of this study is to look at the current level 
+of reverse logistics adoption among manufacturers in Malaysia and to identify the influence 
+of  customer/stakeholder  pressure,  regulatory  pressure,  financial  and  competitive  pressure, 
+and corporate citizenship pressure on the level of reverse logistics adoption. In addition, this 
+study also aims to determine the relationship between reverse logistics adoption level and 
+firm’s performance. Data was collected through survey questionnaire, and the respondents 
+consist of managers at manufacturing firms located in the Northern State of Malaysia and the 
+Klang Valley. 101 samples were collected and data analysis was conducted using the Partial 
+Least Square (PLS) regression analysis, through SmartPLS 2.0 software. Findings indicate 
+that the level of reverse logistics adoption among Malaysia manufacturers is considerably 
+low. Out of four independent variables, only the regulatory pressure has a significantly strong 
+influence on the level of reverse logistics adoption, while customer and stakeholder pressure 
+has a significant but moderate influence. No significant relationship was observed between the 
+level of reverse logistics adoption and firm’s performance. 
+Keywords: Logistics; Reverse Logistics; Supply Chain; Environmental Awareness; Corporate 
+Social Responsibility.
+
+♣	 Corresponding  Author:  School  of  International  Studies,  Universiti  Utara  Malaysia,  06010  Sintok,  Kedah,  Malaysia.  
+
+Tel: +604-9286474, Fax: +604-9284205. Email: abhalim@uum.edu.my
+
+
+152
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+1.   INTRODUCTION
+
+Reverse logistics has been defined as the movement of product or materials in the opposite 
+direction of the supply chain for the purpose of creating or recapturing value, or for proper 
+disposal.  It  includes  processing  returned  merchandise  due  to  damage,  seasonal  inventory, 
+restock, salvage recalls and excess inventory, as well as packaging and shipping materials from 
+the end user or reseller. It also includes recycling programs, hazardous material programs, 
+obsolete equipment disposition, and asset recovery (Rogers & Tibben-Lembke, 2001).
+Manufacturing firms these days often focused on forward logistics and as a result, they tend 
+to  overlook  at  the  importance  of  reverse  logistics  activities.  Management  usually  was  so 
+concerned with the inbound movement of material and product to ensure that they can deliver 
+it efficiently within the required time frame and at the right cost, through their supply chain. As 
+a result, firms did not acknowledge the importance of having a centralized return centres (CRC) 
+to process return product and there is also a temptation to redirect reverse logistics personnel 
+to the forward logistics function when the facility is experiencing high demand (Rogers & 
+Tibben-Lembke,  1998).  In  addition,  reverse  logistics  should  be  properly  managed  just  as 
+forward logistics because it is also a cost centre to the company. Minahan (1998) estimated that 
+reverse logistics activities constitute between 3 to 4% of a company’s total logistics cost. On 
+the other hand, some forward thinking companies in industries such as electronic equipment, 
+household appliances, automotive parts, pharmaceuticals and chemicals view reverse logistics 
+as a significant source of untapped profitability (Anderson, 2009; Jayaraman & Luo, 2007). 
+Company such as Estee Lauder for example has, after a very successful reverse logistics project 
+created $250 million product line from its return goods flow. Similarly, Caterpillar investment 
+in remanufacturing plant in Mississippi that disassembles and rebuilds diesel engines pays off 
+when the division has become their fastest growing unit with annual revenue tops $1 billion 
+and is estimated to grow 20% a year (Jayaraman & Luo, 2007). These examples indicate that 
+proper reverse logistics activities may help firm’s improve the performance.
+One of the new challenges faced by Malaysian firms that want to go global is the fact that many 
+countries have introduced legislation or directives to ensure effective disposal of manufactured 
+products and its waste. Furthermore, the increase in awareness on environmental issues and the 
+benefit of recycling had also placed more pressure on firms to create a better reverse logistics 
+strategy. As an example, this is evident in Europe where a new regulation with the objective 
+to reduce the amount of waste dumped in landfills results in all manufacturers, wholesalers 
+and retailers all came under the Waste Electrical and Electronic Equipment (WEEE) Directive 
+in January 2007. Under the terms of the regulations, manufacturers had to join a WEEE 
+compliance scheme by March 2007, and as of July 2007 had full financial responsibility for 
+recycling household equipment. As a result, the ability to manage the reverse logistics process 
+efficiently will definitely become one of the critical factors for manufacturers and retailers 
+who currently doing business or those who are thinking of going into Europe during the next 
+couple of years (Scott, 2008). Firms that comply with regulations and stress on environmental 
+protection will have a good goodwill or corporate citizenship among their customers. 
+Another  activity  involved  in  firm’s  reverse  logistics  system  besides  managing  product 
+disposal is the management of after-sales service, which is also a part of customer relationship 
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+153
+
+management (CRM). A product is returned by a customer maybe because it is defective, did 
+not work as advertised, in wrong size or perhaps because the customer suddenly changed 
+minds and decided that they did not need the thing after all (Blanchard, 2007). Proper after-
+sales service may help to enhance customer’s loyalty and at the same time might improve 
+firm’s  competitive  advantage. According  to  Gentry  (1999),  overall  customers  returns  are 
+estimated at 6% of sales and may run as high as 15% for mass merchandisers and up to 35% 
+for catalogue and e-commerce retailers. However, most of the business organizations are not 
+aware about the after-sales service factors and its impact towards the customer satisfaction. 
+Failing to realize the importance of the factors can lead to a disastrous and threatening business 
+relationship. Dissatisfied customers will turn to competitors who can offer better after-sales 
+services (Shaharudin, Yusof, Elias & Mansor, 2009). 
+Besides regulation and customer, other stakeholders and even competitors are expected to also 
+put more pressure on firms to improve the level of reverse logistics adoption as rivalry between 
+firms in the global market these days put more pressure on companies to reduce costs.  Getting 
+ahead  of  the  competitors  in  customer  service  will  definitely  improve  the  manufacturer’s 
+financial proficiency, through improves profits and higher recovery rates (Stock, 1992). Based 
+on the above issues, it is obvious that Malaysian manufacturers these days faced pressures to 
+implement reverse logistics adoption. Therefore, this study is conducted in order to determine 
+which pressure has the most influence on the level of reverse logistics adoption. In addition, 
+the other objective of this study is also to identify the current level of reverse logistics adoption 
+among Malaysian manufacturers and most importantly, to study whether reverse logistics 
+based on the manufacturers point of view has an influence on firm’s performance or not.
+
+2.   REVERSE LOGISTICS ACTIVITIES
+
+Reverse  logistics  activities  offers  benefits  to  the  customers,  companies  and  even  the 
+environment. There are various business activities that are part of reverse logistics programme. 
+Each activities serve different purposes such as to remove defective and environmentally 
+hazardous products from the hands of customers and this practice subsequently leads to benefits 
+to the environment (Jayaraman, Patterson, & Rolland, 2003). At the same time, companies 
+can become more environmentally efficient through activities such as recycling, reusing, and 
+reducing the amount of materials used (Carter & Ellram, 1998; Aghazadeh, 2008). By reusing 
+the end-of-life products, the environment is benefited and the company’ goodwill among the 
+consumer might increase. Reverse logistics might also lead to production of green products 
+through recycling, remanufacturing or reconditioning that appeal the consumer, as present day 
+consumers are ready to pay more for green products (Vandermerwe & Oliff, 1990). Jayaraman 
+and Luo (2007) stresses that high quality reverse logistics activities can also promote long-
+term relationships where customers are more likely to repurchase from firms who do a good 
+job at handling returns. Table 1 describes some of the major the activities involved in reverse 
+logistics program.
+
+
+154
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+Table 1: Reverse Logistics Activities and Its Description
+
+Activities
+
+Description
+
+Products for which a customer wants a refund because it either fails 
+to meet his needs, the standard, or fails to perform.
+How a product is disposed. Either sold at an outlet, sold to broker, 
+sent to landfill etc.
+
+Returns 
+ 
+Disposition 
+ 
+Green manufacturing  Attempts to minimize the ecological impact of manufacturing  
+ 
+Reconditioning/ 
+Refurbishing 
+Recycle 
+Remanufacturing 
+ 
+Salvage 
+ 
+Landfill 
+
+activities.
+When a product is cleaned and repaired to return it to
+ “like new” state.
+When a product is reduced to its basics elements, which are reused.
+Similar to refurbishing but require more extensive work; often 
+requires completely disassembling the product.
+When a product is sold to a broker or some other low-revenue 
+customer (Outlet/discount store).
+A controlled environment for burying solid waste
+
+ 
+
+Reverse logistics activities offers benefits to both the customers, companies and even the 
+environment.  For  example,  reverse  logistics  activities  involve  the  removal  of  defective 
+and  environmentally  hazardous  products  from  the  hands  of  customers  and  this  practice 
+subsequently leads to benefits to the environment (Jayaraman, Patterson, & Rolland, 2003). 
+For companies that continually strive for achieving cost savings in their production processes, 
+reverse logistics program is a good option as it would lead to cost reduction (Fassoula, 2005; 
+Gentry, 1999; "Competitive advantage through," 2004). At the same time, companies can 
+become more environmentally efficient through recycling, reusing, and reducing the amount of 
+materials used (Carter & Ellram, 1998; Aghazadeh, 2008). By reusing the end-of-life products 
+the environment is benefited and the company’ goodwill among the consumer might increase. 
+Reverse logistics might also lead to production of green products that appeal the consumer 
+as present day consumers are ready to pay more for green products (Casadesus-Masanell et 
+al., 2009; Vandermerwe & Oliff, 1990). Jayaraman and Luo (2007) stresses that high quality 
+reverse logistics can also promote long-term relationships where customers are more likely to 
+repurchase from firms who do a good job at handling returns.
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+155
+
+3.   THEORETICAL FRAMEWORK AND HYPOTHESES DEVELOPMENT
+
+Figure 1 presents the theoretical framework of the study. It is developed based on previous 
+study related to reverse logistics adoption. The model consists of four independent variables 
+namely financial and competitive pressure, customer/stakeholder pressure, regulatory pressure 
+and corporate citizenship pressure. These four proposed factors are expected to directly impact 
+the dependent variable, which is the level of reverse logistics adoption.  
+
+Figure 1: Theoretical Framework of the Study
+
+Financial & 
+
+competitive pressure
+
+Demanding 
+
+customer’s pressure
+
+Regulatory pressure
+
+Corporate 
+
+citizenship pressure
+
+Reverse Logistics 
+Adoption Level
+
+Firm’s 
+
+Performance
+
+3.1.  Financial and Competitive Pressure
+In order to be competitive, firms these days need to innovate and discover the best competitive 
+opportunities and improve the quality of its products and methods in order to progress. At 
+the same time, firms who want to sustain their competitive advantage must earn the trust of 
+customers and this could be gained by having a good return policy. A good return policy needs 
+good reverse logistics programme. The reality is that a good reverse logistics programme 
+can be a differentiator and provides a means of gaining market and competitive advantage 
+(Jayaraman & Luo, 2007). Rivalry between firms in the global market these days put more 
+pressure  on  companies  to  reduce  costs.  Implementation  of  reverse  logistics  activities  can 
+help firms in becoming more proficient at handling returned goods. It will not only improve 
+relationships along the supply chain, but also reduces costs. Thus, this proficiency improves 
+profits and higher recovery rates are reached (Stock, 1992). Previous studies found out that 
+there is a tendency that the intensity with which firms compete with their competitors in the 
+market  positively  affects  their  strategic  business  policies,  such  as  it  influence  manager’s 
+investment decisions (Grenadier, 2002), or in their innovation effort (Aghion et al., 2005), or 
+in creating firm’s marketing strategy (Porter, 1979). Therefore, it is hypothesises that: 
+ 
+H1: Financial and competitive pressure is positively related to the level of reverse 
+logistics adoption.
+
+
+156
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+3.2.  Demanding customer/Stakeholders Pressure
+In  the  present  scenario  where  there  is  a  growing  concern  for  environmental  protection 
+among consumers and stakeholders such as the shareholders, government, non-governmental 
+Organisations (NGOs) or other pressure groups; firms are expected to be under enormous 
+pressure  to  implement  reverse  logistics.  Customers  even  are  ready  to  pay  more  for 
+environmental-friendly  products  (Casadesus-Masanell  et  al.,  2009; Vandermerwe  &  Oliff, 
+1990), so there are not many options left for companies but to go for reverse logistics practices. 
+This requires proper disposal of end-of-life products which otherwise have a negative impact 
+on the environment. This public concern for environment should not be taken as a problem, 
+but must be considered as opportunities for companies to gain more profit by marketing their 
+green products. Implementation of reverse logistics also requires a liberal return policy where 
+customers are often allowed to return products for any reason. This coupled with the need to 
+accommodate damaged or defective merchandise, product recalls, maintenance and repairs, 
+means logistics professionals must place a higher priority on effectively managing returns 
+(Autry, Daugherty, & Richey, 2001). Efficient after-sales services will definitely increase the 
+consumers’ satisfaction (Shaharudin et al., 2009). Based on the above argumentation, it is 
+hypothesises that:
+
+H2: Demanding customer/stakeholders pressure is positively related to the level of
+  
+
+reverse logistics adoption.
+
+3.3.  Regulatory Pressure
+Sustainable development and environmental protection concerns are among the significant 
+issues faced by businesses these days. Introduction of new or improved regulations that relates 
+to product and waste disposal may make it mandatory for the companies to recover used 
+products produced by them or accept them back at the end of the useful life of the product. 
+Regulations are generally credited as having the greatest influence on a firm's reverse logistics 
+activities (Carter & Ellram, 1998) and therefore, companies are expected to focus on reverse 
+logistics  operations  because  of  environmental  reasons  (Rogers  &  Tibben-Lembke,  1998). 
+European Waste electrical and electronic Equipment (WEEE) Directive introduced in January 
+2007 for example requires electrical and electronic manufacturers to comply with this scheme 
+in order to trade in Europe (Scott, 2008). The German packaging ordinance of 1991 resulted in 
+the companies working closely with their competitors to put tough environmental policies into 
+practice (Cairncross, 1992). Packaging therefore was returned mainly because it is reusable or 
+sometimes legal regulations required that it should be disposed of in a proper and acceptable 
+manner (Rogers & Tibben-Lembke, 2001). Previous studies reveal that most firms who are 
+practicing environmentally-friendly programs are doing so only because they are trying to 
+avoid violating environmental-related regulations (Luken & Van Rompaey, 2008; Hokey & 
+William 2001). As a result, the third hypothesis of this study is:
+
+H3:  Regulatory  pressure  is  positively  related  to  the  level  of  reverse  logistics
+  
+
+adoption.
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+157
+
+3.4.  Corporate Citizenship Pressure
+Firms these days are also under huge pressure to behave in a socially responsible manner, or 
+usually known as corporate citizenship pressure. Corporate citizenship is the extent to which 
+businesses are socially responsible for meeting legal, ethical and economic responsibilities 
+placed  on  them  by  shareholders. The  aim  is  for  businesses  to  create  higher  standards  of 
+living and quality of life in the communities in which they operate, while still preserving 
+profitability  for  stakeholders. As  demand  for  socially  responsible  corporations’  increases, 
+investors, consumers and employees are now more willing to use their individual power to 
+punish companies that do not share their values. For example, investors who find out about 
+a company's negative corporate citizenship practices could boycott its products or services, 
+refuse to invest in its stock or speak out against that company among family and friends 
+(Investopedia, 2012). Corporate citizenship is likely to be acknowledged by businesses as 
+a worthwhile investment if its activities clearly trigger consumers’ active support. Inasmuch 
+as corporate citizenship may be desirable for society as a whole, it is unlikely to be widely 
+embraced by organizations unless it yields concrete business benefits (Isabelle & Ferrell, 2001). 
+Implementation of reverse logistics activities is a way to portray good corporate citizenship. 
+Therefore, it is hypothesises that manufacturers will implement or increase the current level of 
+reverse logistics adoption due the corporate citizenship pressure. Thus, the fourth hypothesis 
+of this study is:
+
+H4:  Corporate citizenship pressure is positively related to the level of reverse  
+ 
+
+logistics adoption.
+3.5.  Firm’s Performance
+In measuring the firm’s performance, it is essential to recognize the multidimensional nature of 
+the performance construct (Cameron, 1978; Chakravarthy, 1986). Previous research testing the 
+relationship between firm’s strategy and performance suggested that it should include multiple 
+performance measures. Such measures could include traditional accounting measures such as 
+sales growth, market share, and profitability. Other non-financial considerations may also be 
+used such as reputation, public image and goodwill, and the commitment and satisfaction of 
+customers (Lumpkin & Dess, 1996).
+Many benefits can be associated directly with effective reverse logistics management. These 
+include,  among  others,  improved  customer  satisfaction  and  reduction  in  inventory  and 
+warehousing cost. The benefits of effective reverse logistics management can also be considered 
+as some of the key performance measures of reverse logistics program and these could include 
+environmental  regulatory  compliance,  improved  customers  relations,  recovery  of  assets 
+(products), cost containment, improved profitability and reduced inventory investment (Autry, 
+et al., 2001). An effective reverse logistics system could potentially increase profitability via 
+reduced material requirements and an improved market share via an environmental image. 
+Indirect benefits of a reverse logistics programme such as better corporate image and increased 
+levels of customer satisfaction may also add value (Jayaraman & Luo, 2007). Based on these 
+arguments, the final hypothesis of this study is:
+
+H5:  The level of reverse logistics adoption has a positive impact on firm’s   
+ 
+
+performance.
+
+ 
+
+
+158
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+4.   METHODOLOGY
+
+This study is explanatory in nature as it tries to explain the causal relationship between four 
+factors (financial and competitive pressure, customer and stakeholder pressure, regulatory 
+pressure,  and  corporate  citizenship  pressure)  with  the  level  of  reverse  logistics  adoption 
+among manufacturers in Malaysia. It also tries to find out whether the level of reverse logistics 
+implementation has a significant effect on firm’s performance or not.  In order to achieve the 
+objective of the study, quantitative research approach was adopted where primary data were 
+collected using survey questionnaires. Survey questionnaire was developed based on measures 
+used in previous related studies to gain information on the level of pressure faced by the 
+manufacturers, the current level of reverse logistics adoption and the level of performance. 
+The population of this study consists of all manufacturing companies located at the three 
+northern state of Malaysia, which are Penang, Kedah and Perlis, together with companies 
+located in the Klang Valley, namely Kuala Lumpur and Selangor. Manufacturers were selected 
+as respondents of this study because manufacturing sector is a major contributor to Malaysian 
+economy. It accounts for 20.6% of Malaysia’s gross domestic product (GDP) and is expected 
+to be an important economic growth driver during the Tenth Malaysia Plan period which 
+takes 2011 to 2015. The sector is expected to grow at 5.7% annually until 2015, raising its 
+contribution to GDP to 26.3% by the end of the Plan period (Ministry of Finance Malaysia, 
+2012). The increase in manufacturing activities however brings a serious impact on Malaysian 
+environmental  quality.  The  Malaysia  Environmental  Quality  Report  (2011)  indicates  that 
+manufacturing industries and are among the major sources of water and air pollution in this 
+country. One possible solution in reducing the environmental pollution from manufacturing 
+activities is through reverse logistics and thereby justifies the selection of manufacturers as the 
+respondent for this study. 
+The  sampling  frame  used  for  this  study  is  the  Federation  of  Malaysian  Manufacturers 
+(FMM) Directory for the year 2010. Manual count of the directory shows that there are 1356 
+manufacturers located in the above mentioned states from various industries but most numbers 
+of manufacturers are from the electrical and electronics, automotive, chemicals and petroleum, 
+food and beverage, and also machinery and fabricated metal industry. Manufacturers from 
+various different industries were randomly selected to allow generalisation of the findings 
+towards every manufacturing sector in Malaysia. Based on the sample size table developed by 
+Cavana, Delahaye and Sekaran (2001), the number of sample needed for this study is 300. A 
+simple random sampling method was adopted in selecting the respondent.
+The survey questionnaire for this study have five different sections where the first section 
+looks at the company’s demographic information while second section obtain the reverse 
+logistics activities and the level of reverse logistics implementation at the company. Third 
+section consists of questions for all four independent variables of the study (reverse logistics 
+pressures). Both the independent and dependent variables of this study was measured using 
+five points Likert scale. Survey questionnaire was developed based on the instruments used 
+in previous studies related to reverse logistics, firm’s performance or other relevant topics. 
+Before the actual distribution of questionnaires, a pilot study was conducted to determine the 
+readers understanding of the items and to confirm the internal reliability.  It is pertinent in 
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+159
+
+order to further improve the questionnaires and avoid any confusion on the part of respondents 
+before the actual questionnaire distribution took place. In addition, pilot study is relevant as 
+the feedback given by the respondents help improve the reliability of the research. First draft 
+of the questionnaire, which combined the previous measures used in related research was 
+pilot tested to confirm its internal reliability. A total of 30 companies were selected based on 
+convenience basis for this pilot study. Data from pilot study were analyzed using SPSS and 
+the reliability of each variable was checked using their Cronbach’s Alpha value. Table 3.8 
+shows the result of pilot study data analysis where all variables of the study have a Cronbach’s 
+Alpha value of more than 0.6, which is the cut-off value or the acceptable reliability level. It 
+also proofs that there is good internal consistency of the survey items in the scale. Several 
+questions were also identified by respondents as being vague and quite confusing. The pilot 
+study helped to identify this problem and thus been improved to ensure better understanding 
+of the questions asked. All the necessary changes and amendments to the questionnaire based 
+on the pilot study were conducted before the actual data collection activity was carried out.
+In total, 500 survey questionnaires were distributed either via self-administered, regular mail 
+or through email. Some questionnaires were also sent by faxes as per respondent’s request. For 
+mail survey, a mailed package that included a cover letter explaining the research objectives 
+and instructions on how to complete the questionnaire, together with a postage-paid reply 
+envelope, was sent to respondents in order to encourage the return of the questionnaire. All the 
+necessary action was taken to ensure that those who filled in the survey via self-administered 
+and through email were omitted from the mailing list. The questionnaire was sent to the key 
+informant within the companies, namely the officer in-charge of supply chain and logistics 
+operation or the top management of the company itself. A telephone follow up was made two 
+weeks after the questionnaire was posted to remind the respondents about the questionnaire. 
+Respondents were also promised anonymity for themselves and their company, in addition to 
+a guarantee of the confidentiality of data they provided.
+
+Table 2: Cronbach Alpha Value for Each Variable
+
+Variables
+
+Cronbach’s Alpha
+
+Financial/Competitors pressure 
+Customer and stakeholder pressure 
+Regulatory pressure 
+Corporate citizenship pressure 
+Reverse logistics level 
+Performance 
+
+0.689
+0.719
+0.866
+0.848
+0.817
+0.849
+
+Even with the above data collection efforts conducted to acquire more returned questionnaires, 
+only 104 of the 500 surveys distributed to selected companies were completed and returned, 
+which  makes  the  return  rate  20.8%.  Upon  preliminary  screening  of  all  the  returned 
+questionnaires, only 101 questionnaires are considered as usable for further data analysis. Three 
+questionnaires were rejected because of too many missing value. Data analysis was conducted 
+
+
+160
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+using two statistical softwares, which were SPSS for descriptive statistics and SmartPLS 2.0 in 
+order to test the relationship between the independent and dependent variables. The structural 
+equation modelling technique using the Partial Least Square (PLS) regression approach was 
+used to validate the measurement instrument and research model of this study because it 
+examine the causal relationship between pressures that influence the level of reverse logistics 
+adoption, followed by how the level of adoption impact firm’s performance. At the same time, 
+PLS also has the ability to model latent constructs under conditions of non-normality and small 
+to medium sample sizes as it places minimal restrictions on measurement scales and residual 
+distribution (Chin, Marcolin, & Newsted, 2003). PLS analysis involves two stages. The first 
+one is the assessment of reliability and validity of the measurement model established. The 
+objective is to make sure that the construct measures are valid and reliable before attempting 
+to draw the conclusions (Hulland, 1999; Barclay, Higgins, & Thompson, 1995). During this 
+stage, the convergent and discriminant validity of the research instrument was tested based on 
+indicator’s factor loading, and the average variance extracted (AVE) value. The second stage 
+is the assessment of the structural model itself and a bootstrap re-sampling procedure with 
+500 samples was used to calculate the significance of path coefficients in the research model.  
+The bootstrap approach treats the collected research sample as a population from which a 
+large number of samples are drawn with continuous replacement such that the probability of 
+selection for any given case remains equal over every random draw (Mallinckrodt, Abraham, 
+Wei & Russell, 2006).
+
+5.   RESULTS
+
+ Descriptive analysis
+
+5.1. 
+Preliminary analysis of the returned questionnaires shows that majority of the respondents 
+are from the electrical and electronics industry (64%), automotive industry (27%), food and 
+beverage (5%) and others (4%). Out of 101 manufacturers that return the survey questionnaires, 
+43 companies are fully owned by a foreign company or 42.6%, while 33 firms or 32.7% are a 
+local company with no foreign shares at all. Another 10 (9.9%) and 12 (11.9%) have foreign 
+ownership of 1 to 50% and 52 to 99% respectively. 31 companies have been in operation for 
+more than 25 years or 30.7%. Second is in between 6 to 10 years with 28 (27.7%) companies 
+and third is 16 to 20 years with 24 (23.8%) companies. Majority of respondents have more 
+than 301 employees, as a total of 64 manufacturers are in this category while 42 of them 
+employ more than 500 employees. 37 manufacturers in total have less than 300 employees 
+and 23 employs less than 100 people. In terms of annual turnover, more than half earn more 
+than RM20 million annually or over 62% of the respondents. Even 55 of them earned more 
+than RM40 million a year. Another 37 manufacturers earned less than RM20 million where 4 
+earned less than a million in revenue. 
+In order to measure the level of reverse logistics adoption, four measures were used, namely the 
+financial investment, resource allocation, management commitment and overall involvement 
+towards reverse logistics activities. Three out of these four indicators as depicted in table 
+2 scores a mean value of less than 3.0 (average), which is financial investment, resource 
+allocation and overall involvement. Only mean scores for management commitment is more 
+than the average, which is 3.12. Overall mean for reverse logistics level is 2.67.
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+161
+
+Table 3: Level of Reverse Logistics Adoption
+
+Financial investment in RL 
+Resources allocated for RL 
+Mgmt Commitment in RL 
+Overall involvement in RL 
+
+N
+100 
+100 
+100 
+101 
+
+Mean
+2.36 
+2.35 
+3.12 
+2.74 
+
+Std. Deviation
+
+1.168
+1.104
+1.249
+1.180
+
+5.2.  Measurement Model
+The  assessment  of  the  measurement  model  is  done  by  examining  the  content  validity, 
+convergent validity and discriminant validity. For content validity, all scales used in this study 
+were derived from previous studies related to reverse logistics and business performance. A 
+first draft of the questionnaire was discussed with a few lecturers before it was pilot tested 
+at 30 manufacturing companies. The Cronbach Alpha for each variable is above the cut-off 
+level 0f 0.6. Therefore, content validity is assumed to be fulfilled in this study. According 
+to  Fornell  and  Larcker  (1981),  convergent  validity  is  demonstrated  when  indicators  load 
+highly (loading> 0.50) on their associated factors. Table 4 shows the items loading for every 
+variables of the study. There are three items that have loading scores less than 0.5, which 
+are CorpCitz2, CustSH6 and Fincom1. These items therefore are removed and will not be 
+used in the assessment of the structural model analysis. Besides looking at items loading, 
+convergent validity is also consider as adequate when each constructs (variables) have an 
+Average Variance Extracted (AVE) score of at least 0.5 (Fornell & Larcker, 1981). Table 4 
+also shows that all constructs have an AVE value of more than 0.5 and therefore, it can be 
+concluded that the model has an adequate convergent validity. 
+Discriminant validity describes the degree to which the operationalisation is not similar to 
+other operationalisations that it theoretically should not be similar to. Campbell and Fiske 
+(1959) introduced the concept of discriminant validity within their discussion on evaluating 
+test validity. A successful evaluation of discriminant validity shows that a test of a concept is 
+not highly correlated with other tests designed to measure theoretically different concepts. The 
+AVE statistics are then again used to determine the discriminant validity of the model. The 
+square root of the average variance extracted (AVE) statistics were calculated using Microsoft 
+Excel and compared with the correlations among the latent variables using the latent variable 
+correlation matrix output of PLS (Chin, et al., 2003). The latent variable correlation matrix 
+and the square root of the AVE are indicated in Table 5.Correlations between constructs is 
+displayed in the lower left off-diagonal elements in the matrix. 
+Average variance shared between the construct and its measures should be greater than the 
+variance shared between the construct and other constructs in the model (Fornell & Larcker, 
+1981). Table 5 shows that the diagonal elements in bold (square root of AVE) are greater 
+than the off-diagonal elements at both corresponding rows and columns. For example, the 
+square root of AVE for CorpCitz (0.778) is higher than the correlation of CustomerSH and 
+CorpCitz (0.196). It is also higher than corporate citizenship’s correlation with other constructs 
+
+
+162
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+(FinCom = 0.343, performance = 0.154, RL_Level = 0.121, RegPres = 0.331). Therefore, it 
+can be concluded that the findings of the PLS measurement model analysis show evidence of 
+discriminant validity, where all constructs are statistically discriminated from the others.
+5.3.  Structural Model
+The second step after the assessment of the measurement model is the assessment of the 
+structural model itself by looking at the sign and magnitude of path coefficients. It is then 
+followed by the test of whether the paths are statistically significant. The bootstrap procedure 
+with 500 re-samples as recommended by Chin, Marcolin and Newsted (2003) was used to 
+calculate  the  significance  of  the  path  coefficients  (t-value).  The  bootstrapping  procedure 
+generates random samples of observations from the original data set by using a sampling 
+through replacement technique. The path coefficients were then re-estimated using each one of 
+these random samples of observations. Previous studies using PLS have typically considered 
+path coefficient of above 0.20 as having a strong relationship, path coefficients of between 0.10 
+to 0.20 as moderate, and path coefficients below 0.10 as weak (Johnson, 1997). Meanwhile, the 
+degree to which the PLS model accomplishes its objectives of minimising errors or to maximise 
+the variance explained, can be determined by examining the R2 values (Lertwongsatien, 2000).  
+R2 is a measure of the proportion of the total of the dependent variables, which is explained by 
+independent variables. Falk (2005)suggests that the R2 value should be more than 0.1, as any 
+value lower than that informs very little even though it is statistically significant. The entire 
+specified path and their coefficient, together with the R2 value is shown in figure 2.
+
+Indicators
+
+Corporate Citizenship 
+CorpCitz1 
+CorpCitz2 
+CorpCitz3 
+CorpCitz4 
+CorpCitz5 
+CorpCitz6 
+Regulatory Pressure 
+RegPres1 
+RegPres2 
+RegPres3 
+RegPres4 
+RegPres5 
+RegPres6 
+
+Loadings
+
+Table 4: Survey Items Loadings
+Composite 
+Reliability
+0.882894 
+
+ 
+
+0.679568 
+0.253059 
+0.939790 
+0.687659 
+0.788954 
+0.732401 
+0.566921 
+0.701919 
+0.640475 
+0.880858 
+0.745940 
+0.737827 
+
+ 
+
+0.863320 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Average Variance 
+Extracted (AVE)
+
+0.604626
+
+0.517393
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+163
+
+Indicators
+
+Loadings
+
+Table 4: Survey Items Loadings (cont)
+Composite 
+Reliability
+0.792424 
+
+ 
+
+ 
+
+Customer/Stakeholder Pressure 
+CustSH1 
+CustSH2 
+CustSH3 
+CustSH4 
+CustH5 
+CustSH6 
+Reverse logistics Level 
+RLlevel_Fin 
+RLlevel_Invnt 
+RLlevel_Mgmt 
+RLlevel_Res 
+Financial and Competitive Pressure 
+FinCom1 
+FinCom2 
+FinCom3 
+FinCom4 
+FinCom5 
+FinCom6 
+Firm’s Performance 
+Performance1 
+Performance2 
+Performance3 
+Performance4 
+Performance5 
+Performance6 
+Performance7 
+
+0.740709 
+0.855973 
+0.556716 
+0.514983 
+0.500000 
+-0.075948 
+0.853587 
+0.903515 
+0.744255 
+0.903126 
+0.397222 
+0.554491 
+0.678030 
+0.730651 
+0.720458 
+0.620325 
+0.785211 
+0.594126 
+0.573672 
+0.823094 
+0.755454 
+0.677491 
+0.755143 
+
+ 
+
+ 
+
+0.914318 
+
+0.796689 
+
+0.878022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Average Variance 
+Extracted (AVE)
+
+0.542479
+
+0.728479
+
+0.542880
+
+0.510881
+
+RL_Level
+
+RegPres
+
+CorpCitz 
+CustSH 
+FinCom 
+Performance 
+RL_Level 
+RegPres 
+
+CorpCitz
+0.778 
+0.196 
+0.343 
+0.154 
+0.121 
+0.331 
+
+Table 5: Latent Variable Correlation Matrix
+Performance
+
+CustomerSH
+
+FinCom
+
+ 
+
+0.737 
+0.343 
+0.110 
+0.240 
+0.215 
+
+ 
+ 
+
+0.737 
+0.216 
+0.246 
+0.324 
+
+ 
+ 
+ 
+
+0.715 
+0.191 
+0.109 
+
+ 
+ 
+ 
+ 
+
+0.853 
+0.293 
+
+0.720
+
+
+164
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+Figure 2: Structural Model Result of the Analysis
+
+FinCom
+CustSH
+RegPres
+CorpCitz
+
+0.13
+0.15*
+0.23*
+0.03
+
+Note: Significant at p < 0.05.
+
+RL Level
+R2 = 0.132
+
+Performance
+R2 = 0.037
+
+Table 6 then summarise the outcome of PLS model analysis using Bootstrapping Procedure 
+and it details out the path coefficients, their t-values and the level of significance for each of 
+them. The T-distribution table were referred in order to obtain the P value (Degree of freedom, 
+df = 100). The result shows that out of 5 relationships tested, only 2 shows a significant 
+relationship, which are between customer and stakeholder pressure (CustomerSH) with the 
+level of reverse logistics adoption (RL_Level) and between corporate citizenship (CorpCitz) 
+and the level of reverse logistics adoption (RL_Level). Even the relationship between the level 
+of reverse logistics adoption and firm’s performance did not show a significant relationship. 
+Path coefficient for regulatory pressure is 0.23, indicating a strong relationship with level 
+of  reverse  logistics  adoption  while  Customer/stakeholder  pressure  only  have  a  moderate 
+relationship with adoption, which is 0.15.The variance explained values (R2) for level of reverse 
+logistics adoption is 0.132. It means that the model explains 13.2% of the variance in the level 
+of reverse logistics adoption among manufacturers in Malaysia. For performance, the variance 
+explained values is only 0.037 or 3.7%. This is very low and it justify why the bootstrap 
+analysis before shows that the relationship between level of reverse logistics adoption and 
+firm’s performance is not significant.
+
+ Table 6: Outcome of Structural Model Analysis
+
+FinCom➔RL_Level 
+CustSH➔RL_Level 
+RegPres➔RL_Level 
+CorpCitz➔RL_Level 
+RL_Level➔ Performance 
+Note: Significant, p< 0.05 
+
+Sign
++ 
++ 
++ 
+- 
++ 
+
+Path
+0.13 
+0.15 
+0.23 
+0.03 
+0.19 
+
+T-Value
+0.924 
+1.682 
+1.760 
+0.138 
+1.401 
+
+P-Value
+0.1789 
+0.0478 
+0.0407 
+0.4453 
+0.0822 
+
+Sig
+No
+Yes
+Yes
+No
+No
+
+6.    DISCUSSIONSAND CONCLUSIONS
+
+The  first  objective  of  this  study  were  to  empirically  study  the  level  of  reverse  logistics 
+adoption  and  the  impact  of  financial  and  competitive  pressure,  customer  and  stakeholder 
+pressure, regulatory pressure and corporate citizenship pressure on reverse logistics adoption 
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+165
+
+level among manufacturing firms in Malaysia. Another objective is to study the manager’s 
+perception on whether reverse logistics have influence on firm’s performance or not. The 
+analysis of data has led to some major findings. First, the level of reverse logistics adoption 
+among Malaysian manufacturers is considerably low with a mean score of 2.67. An item by 
+item analysis shows that the level of investment, resources and overall commitment towards 
+reverse logistics are less than average. It shows that firms are not really ready to commit 
+themselves towards investing and allocating extra resources for reverse logistics adoption. 
+Even the score for commitment by the management shows just a slightly higher than average 
+score. It seems that manufacturers are not ready to invest and allocate resources even though 
+the management of the company is aware of the benefit of adopting reverse logistics. 
+Second, only two out of four studied variables have a significant relationship with reverse 
+logistics adoption level, namely regulatory pressure and, customer and stakeholder pressure. 
+It is interesting to note that the reverse logistics adoption based on this study is affected 
+strongly by rules and regulation, while demanding customer and stakeholder have a moderate 
+influence. The results demonstrated that the government, consumer and pressure groups such 
+as NGOs have a strong influence on firm’s decision and their voice would lead to an increase in 
+the likelihood of adopting reverse logistics or increasing the current level of reverse logistics 
+activities among manufacturing firms in Malaysia. Financial and competitive pressure and 
+corporate  citizenship  pressure  have  no  significant  impact  on  reverse  logistics  adoption. 
+Financial and competitive pressure might not have a significant effect as firm’s competitors 
+might also do not heavily involve in reverse logistics activities. Therefore, there is no urgency 
+for the respondent’s to increase their involvement in reverse logistics activities. 
+Corporate citizenship meanwhile is important to manufacturers that produce consumer goods 
+such as food and beverages, cosmetics, cars, but not for producers of industrial product, materials 
+or components. Possibly, most respondents of this study did not manufactured consumer goods 
+and that is why corporate citizenship does not significantly pressure firms to increase the level 
+of their reverse logistics activities. Some authors do argue that reverse logistics performance 
+could be poor due to the fact that more than one company may get involved in the reverse 
+logistics process, and thus a holistic approach is required. Another reason behind this is that 
+reverse logistics is still in its infancy and manufacturing organizations have not assumed a pro-
+active role to consider reverse logistics activities in the design phase (Carter & Ellram, 1998). 
+Additionally, an efficient reverse logistics system is much more valuable to a company selling 
+high-volume, high value product with a short life-cycle than to a retailer selling low-value 
+products (Jayaraman & Luo, 2007).
+Third, the results also indirectly indicate that the level of environmental awareness among 
+consumers and stakeholders in Malaysia have improve significantly, that it influences firms 
+decision in adopting the environmental friendly logistics practices such as reverse logistics. 
+This is evidence when one of the item in the survey questionnaire which is “Our customer and 
+shareholder are concern about environmental protection and sustainable development” scores 
+a mean of 4.07. It shows that managers involved in this study are generally agreed to the fact 
+that the environmental awareness among the customer and stakeholder these days has increase. 
+This phenomenon also put managers under a greater pressure to undertake reverse logistics 
+not only as a consequence of their ethical principles but also because they feel that it is a good 
+
+
+166
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+way of satisfying their customers and stakeholders. Finally, this study examines the impact of 
+reverse logistics adoption level on firms’ performance, as perceived by the respondents. The 
+output of data analysis stage shows that there is no significant relationship between the level 
+of reverse logistics adoption and performance. This finding indicates that reverse logistics 
+programs according to the managers of manufacturing firms in Malaysia did not contributes 
+towards the improvement in firm’s performance. Even the whole model of this study according 
+to the PLS analysis explains only 3.7% of the variance in firms’ performance, which is very 
+low. It means that there are many other factors that determine the level of performance in the 
+opinion of Malaysian manufacturers besides the adoption of reverse logistics. 
+The possible explanation for this finding may be related back to the previous discussions 
+where regulatory pressure, together with consumer and stakeholder pressure have a significant 
+influence on reverse logistics adoption level. The fact that reverse logistics adoption level have 
+no influence on performance is observed possibly because there is lack of ‘true’ commitment 
+by these manufacturers in implementing reverse logistics. They implement it not as part of 
+their business strategy in order to improve the level of customer service, to improve quality, 
+to increase their revenue, to provide environmental protection or to reduce costs but merely 
+in response to the external pressures. Furthermore, just like many other logistics and supply 
+chain strategy such as information technology adoption or any other management technique 
+implementation, performance outcomes related to reverse logistics programs may remain sub-
+par without appropriate resource commitment (Skinner, Bryant, & Richey, 2008). Reverse 
+logistics activities such as recycling, refurbishing, remanufacturing and repackaging require 
+a significant resources commitment if the company want to reclaim the value from product 
+returns. The level of resources allocated for reverse logistics activities by these manufacturers 
+are also less than average, where the mean score for this item as shown in table 2 before, is only 
+2.35. Therefore, it is assumed to be among the reason why reverse logistics according to this 
+study did not contribute much towards the performance of the company. Although previously 
+highlighted literatures do state that reverse logistics helps improve firm’s performance, there is 
+also a similar study that shows disagree with result and similar to this study. A survey conducted 
+by Eyefortransport (2012) for example reveals that high-tech manufacturing companies were 
+split between seeing their reverse logistics as just cost centers to support product sales and 
+as competitive differentiators. Only about 5% out of 200 companies involved in the study 
+were able to apply these services in their profit centers, suggesting that only some high-tech 
+manufacturing companies are able to generate revenue through reverse logistics. This finding 
+indicates that majority of the respondents did not see reverse logistics as a source of revenue 
+that consequently will improve firm’s performance.
+
+7.   CONTRIBUTIONS, LIMITATIONS AND FUTURE RESEARCH
+
+There are a number of significant contributions of this study to both the academia and business 
+practitioners.  Reverse  logistics  despite  all  the  practical  uses  by  many  manufacturers  in 
+developed countries are still not a popular practice among Malaysian manufacturers. The main 
+factors that results in adoption of reverse logistics and barriers that create this low adoption 
+level are seldom explored within the available literature. Therefore, the results of this study 
+fulfil this gap in the literature by answering the research questions of which factors increase the 
+level of adoption and which barriers contributes to totally non or minimum level of adoption of 
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+167
+
+reverse logistics activities only. Regulatory pressure, together with customer and stakeholder 
+pressure are found to have a significant relationship with the level of reverse logistics adoption. 
+Issues such as lack of awareness and knowledge of reverse logistics, implementation cost 
+is high, lack of resources and no management commitment is among the top barriers that 
+inhibit an effective reverse logistics activities implementation among the manufacturers. At 
+the same time, this study also contributes to the literature by providing some insights on the 
+impact of reverse logistics adoption on firm’s performance. Even though the finding is not as 
+hypothesized, it shed lights on Malaysian manufacturers view on the factors that determine 
+their business performance. The fact that reverse logistics is not considered as a contributors 
+towards firm’s performance means that Malaysian manufacturers are still behind if compared 
+to manufacturers in developed countries who treats reverse logistics as anew source of core 
+competency. According  to  Rogers,  Lembke  and  Benardino  (2013),  managers  should  now 
+broadened their perspective as the difference between a product’s success (and profitability) 
+and failure in today’s competitive environment depends on how the end of life is managed. 
+Finally, this study contributes to the literature on reverse logistics adoption specifically within 
+the context of developing countries like Malaysia. Most studies on reverse logistics adoption to 
+date have been conducted in developed countries such as the United States, United Kingdom, 
+Australia and Europe. 
+For the practitioners, findings of this study could provide the management of a company 
+especially a manufacturer with a better understanding on reverse logistics adoption, especially 
+the factors that influence the adoption. Those who never know on the activities related to reverse 
+logistics will have a better understanding about the concept. Manufacturing firms in particular, 
+would be able to address their main concerns by looking at the findings of this study before 
+they decide to proceed with the adoption of reverse logistics programmes.  Findings and the 
+discussions of this study could also serve as a guide for business managers or policy makers in 
+Malaysia when creating policies related to reverse logistics, sustainable development or even 
+environmental protection. This study clearly shows that strict regulation and strong pressure 
+from customer and the stakeholders can increase the environmental awareness of managers 
+and the tendency to implement reverse logistics among the manufacturers. This study also 
+found out that managers involved did not view reverse logistics as a mean to improve their 
+business performance, as there is no significant relationship evidence. Product returns and 
+reverse logistics activities always been viewed as a cost centre by manufacturers and not as a 
+source of competitive advantage. Therefore, less attention and resource allocation is given on 
+reverse logistics activities. In contrast, manufacturers in developed countries as discussed in 
+the literature review before have already reap the advantage of implementing reverse logistics 
+such as reduction in logistics costs, increase profit, better environmental regulation compliance 
+and improve in goodwill. Therefore, more efforts should be taken by the relevant government 
+agencies, training centres and educational institutions to enlighten Malaysian manufacturing 
+firm’s managers on the potential of adopting comprehensive reverse logistics activities.
+There are a few issues that arise from this study which could provide an opportunity for further 
+research. First, data collected for this study is small due to cost and time constraint. The sample 
+size of this survey is only 101 manufacturers. Another research with a greater sample size to 
+replicate this survey using a different sample of companies in the other sectors such as service 
+
+
+168
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+sector may be conducted to validate these findings. Moreover, this study did not categorized 
+the sample based on their level of adoption such as high reverse logistics adoption level, low 
+level adopters and also non-adopters to refine and test the model. This will probably contributes 
+to the variation of reverse logistics adoption in various industries. Finally, this study includes 
+all manufacturing industries from all sizes and industry. The replication of the study where the 
+analysis is conducted based on specific industry or sizes of the company would provide new 
+insights into the reverse logistics adoption factors. It would also be interesting to replicate the 
+study for the analysis of small and medium enterprises (SMEs) as the influential factors could 
+be different from big enterprises and multinational companies.
+
+REFERENCES
+
+Aghazadeh, S. M. (2008). The success of reverse logistics in supporting the environment: the 
+case of the computer industry. International Journal of Environment and Sustainable 
+Development, 7(4), 452-464. 
+
+Aghion, P., Blundell, R., Grith, R., Howitt, P., & Prantl, S. (2005). The effects of entry on 
+incumbent  innovation  and  productivity.  Review  of  Economics  and  Statistics,  91(1),  
+20-32.
+
+Anderson, P. (2009). How to succeed in reverse logistics. Material Handling Management, 
+
+64(8), 41-42. 
+
+Autry, C. W., Daugherty, P., & Richey, R. G. (2001). The challenge of reverse logistics in catalog 
+retailing.  International  Journal  of  Physical  Distribution  &  Logistics  Management, 
+31(1), 26. 
+
+Barclay, D. W., Higgins, C., & Thompson, R. (1995). The partial least squares (PLS) approach 
+to causal modeling: personal computer adoption and use as an illustration. Technology 
+Studies, 2, 285-309. 
+
+Blanchard, D. (2007). Supply chains also work in reverse. Industry Week/IW, 256(5), 48-48. 
+Cairncross, F. (1992). How Europe's companies position to recycle. Harvard Business Review, 
+
+70, 35-45. 
+
+Cameron, K. (1978). Measuring organizational effectiveness in institutions of higher education. 
+
+Administrative Science Quarterly, 23, 604-632. 
+
+Campbell,  D.  T.,  &  Fiske,  D.  W.  (1959).  Convergent  and  discriminant  validation  by  the 
+
+multitrait-multimethod matrix. Psychological Bulletin, 56, 81-105. 
+
+Carter,  C.  R.,  &  Ellram,  L.  M.  (1998).  Reverse  logistics:  a  review  of  the  literature  and 
+framework for future investigation. Journal of Business Logistics, 19(1), 85 -102. 
+Casadesus-Masanell,  R.,  Crooke,  M.  Reinhardt,  F.,  &  Vasisth,  V.  (2009).  Households’ 
+willingness to pay for ’Green’ goods. Journal of Economics and Management Strategy, 
+18 (1), 203-233.
+
+Cavana, R. Y., Delahaye, B. L., & Sekaran, U. (2001). Applied business research: Qualitative 
+
+and quantitative method. Queensland: John wiley & Sons Australia Ltd.
+
+
+ 
+
+Nik Ab Halim Nik Abdullah and Sabariah Yaakub
+
+169
+
+Chakravarthy, B. (1986). Measuring strategic performance. Strategic Management Journal, 
+
+6, 437-458. 
+
+Chin, W. W., Marcolin, B. L., & Newsted, P. R. (2003). A partial least squares latent variable 
+modelling  approach  for  measuring  interaction  effects:  Results  from  a  Monte  Carlo 
+simulation study and voice mail emotion/adoption study. Information Systems Research, 
+14(2), 189-217. 
+
+Eyefortransport. (2012). High-tech companies and service providers differ on reverse logistics. 
+
+Material Handling & Logistics, 67(5), 14-15.
+
+Falk, M. (2005). ICT-linked firm re-organisation and productivity gains. Technovation, 25(11), 
+
+1229-1250. 
+
+Fassoula, E. D. (2005).  Reverse logistics as a means to reduce the cost of quality.  Total 
+
+Quality Management and Business Excellence, 16(5), 631–643.
+
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable 
+variables and measurement error. Journal of Marketing Research (JMR), 18(1), 39-50. 
+
+Gentry, C. R. (1999). Reducing the cost of returns. Chain Store Age, 75(10), 124-125. 
+Grenadier, S. R. (2002). Option exercise games: An application to the equilibrium investment 
+
+strategies of firms. The Review of Financial Studies, 15(3), 691-721.
+
+Hokey, M., & William, P. G. (2001). Green purchasing practices of US firms. International 
+
+Journal of Operations & Production Management, 21(9), 1222-1238. 
+
+Hulland, J. (1999). Use of partial least squares (PLS) in strategic management research: A 
+
+review of four recent. Strategic Management Journal, 20(2), 195. 
+
+Investopedia.  (2012).  Corporate  Citizenship.  Retrieved  March  2,  2012,  from  http://www.
+
+investopedia.com/terms/c/corporatecitizenship.asp#ixzz1pd1BUe2h
+
+Isabelle,  M.,  &  Ferrell,  O.  C.  (2001).  Corporate  citizenship  as  a  marketing  instrument  - 
+Concepts,  evidence  and  research  directions.  European  Journal  of  Marketing,  35(3), 
+457-484. 
+
+Jayaraman, V.,  &  Luo, Y.  (2007).  Creating  Competitive Advantages Through  New Value 
+Creation:  A  Reverse  Logistics  Perspective.  Academy  of  Management  Perspectives, 
+21(2), 56-73. 
+
+Jayaraman, V., Patterson, R. A., & Rolland, E. (2003). The design of reverse distribution 
+networks: Models and solution procedures. European Journal of Operational Research, 
+150(1), 128-129. 
+
+Johnson,  J.  P.  (1997).  Strategic  decision  making,  commitment  and  organizational  justice: 
+Implications for the control and performance of international joint venture. PhD thesis, 
+University of South Carolina.   
+
+
+170
+
+Reverse Logistics: Pressure For Adoption And The Impact On Firm’s Performance
+
+Lertwongsatien,  C.  (2000).  An  Impirical  Investigation  of  The  Strategic  Implications  of 
+Information  System  Resources  and  Capabilities.  PhD  thesis,  Rensselaer  Polytechnic 
+Institute, Troy, New York.   
+
+Luken, R., & Van Rompaey, F. (2008). Drivers for and barriers to environmentally sound 
+technology adoption by manufacturing plants in nine developing countries. Journal of 
+Cleaner Production, 16, 67-77.
+
+Lumpkin, G. T., & Dess, G. G. (1996). Clarifying the entrepreneurial orientation construct and 
+
+linking it to performance. Academy of Management Review, 21(1), 135-172. 
+
+Ministry of Finance Malaysia. (2012). Economic Report 2011 - 2012. Kuala Lumpur.
+Mallinckrodt, B., Abraham, W. T., Wei, M. F., & Russell, D. W. (2006). Advances in testing the 
+statistical significance of mediation effects. Journal of Counseling Psychology, 53(3), 
+372-378. 
+
+Minahan, T. (1998). Manufacturers take aim at end of the supply chain. Purchasing, 124(6), 
+
+111-112. 
+
+Porter, M. E. (1979). How competitive forces shape strategy. Harvard Business Review, 57(2), 
+
+137 - 145.
+
+Rogers, D. S., & Tibben-Lembke, R. S. (1998). Going backwards: Reverse logistics trends and 
+
+practices. University of Nevada, Reno: Reverse Logistics Executive Council.
+
+Rogers, D. S., & Tibben-Lembke, R. S. (2001). An examination of reverse logistics practices. 
+
+Journal of Business Logistics, 22(2), 129-148. 
+
+Rogers, D. S., Lembke, R., & Benardino, J. (2013). Reverse logistics: A new core competency. 
+
+Supply Chain Management Review, 17(3), 40-47.
+
+Scott, A. (2008). Taking it back: Why reverse logistics will at last be taken seriously. Logistics 
+
+& Transport Focus, 10(6), 34-35. 
+
+Shaharudin, M. R., Md. Yusof, K. M., Elias, S. J., & Wan Mansor, S. (2009). Factors affecting 
+customer satisfaction in after-sales service of Malaysian electronic business market. 
+Canadian Social Science, 5(6), 10-18. 
+
+Skinner, L. R., Bryant, P. T., & Richey, R. G. (2008). Examining the impact of reverse logistics 
+disposition  strategies.  International  Journal  of  Physical  Distribution  &  Logistics 
+Management, 38(7), 518-539. 
+
+Stock, J. R. (Ed.). (1992). Reverse Logistics. Oak Brook, IL: Council of Logistics Management.
+The Malaysia Environmental Quality Report. (2011). Petaling Jaya, Malaysia: Department of 
+
+Environment, Ministry of Natural Resources and Environment Malaysia.
+
+Vandermerwe, S., & Oliff, M. D. (1990). Customers drive corporations green. Long Range 
+
+Planning, 23(6), 10-16. 
+

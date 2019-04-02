@@ -1,0 +1,2221 @@
+This article was downloaded by: [152.15.47.133] On: 03 February 2017, At: 07:21
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+
+Management Science
+
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+Do Corporate Global Environmental Standards Create or
+Destroy Market Value?
+
+Glen Dowell, Stuart Hart, Bernard Yeung,
+
+To cite this article:
+Glen Dowell, Stuart Hart, Bernard Yeung,  (2000) Do Corporate Global Environmental Standards Create or Destroy Market
+Value?. Management Science 46(8):1059-1074. http://dx.doi.org/10.1287/mnsc.46.8.1059.12030
+
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+
+© 2000 INFORMS
+
+Please scroll down for article—it is on subsequent pages
+
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.org
+
+
+Do Corporate Global Environmental
+
+Standards Create or Destroy
+
+Market Value?
+
+Glen Dowell • Stuart Hart • Bernard Yeung
+
+263 College of Business, University of Notre Dame, Notre Dame, Indiana 46556
+
+Kenan-Flagler Business School, University of North Carolina, Chapel Hill, North Carolina 27599
+
+New York University, Stern School of Business, 44 W 4th Street, Room 7/65, New York, New York 10012, and
+
+William Davidson Institute, University of Michigan Business School, Ann Arbor, Michigan 48109
+
+gdowell@umich.edu • srhart@unc.edu • byeung@stern.nyu.edu
+
+Arguments can be made on both sides of the question of whether a stringent global
+
+corporate environmental standard represents a competitive asset or liability for multi-
+national enterprises (MNEs) investing in emerging and developing markets. Analyzing the
+global environmental standards of a sample of U.S.-based MNEs in relation to their stock
+market performance, we ﬁnd that ﬁrms adopting a single stringent global environmental
+standard have much higher market values, as measured by Tobin’s q, than ﬁrms defaulting
+to less stringent, or poorly enforced host country standards. Thus, developing countries that
+use lax environmental regulations to attract foreign direct investment may end up attracting
+poorer quality, and perhaps less competitive, ﬁrms. Our results also suggest that externalities
+are incorporated to a signiﬁcant extent in ﬁrm valuation. We discuss plausible reasons for this
+observation.
+(Direct Investment in Developing Countries; Firm Value; Firm-Level Environmental Policy)
+
+1. Introduction
+Global companies have become major players on the
+world stage. There are now in excess of 40,000 multi-
+national enterprises (MNEs) with some 250,000 for-
+eign afﬁliates, investing more than $200 billion abroad
+each year (UNCTAD 1995). About 40% of world trade
+consists of intraﬁrm transfers of materials and compo-
+nents within MNEs (Greider 1997). The 10 largest
+MNEs have annual sales in excess of the gross national
+products of the 100 smallest countries in the world
+(Hawken 1993, p. 92). Foreign direct investment (FDI)
+now exceeds ofﬁcial development assistance by a
+factor of ﬁve, whereas ﬁve years ago it was less than
+half (Wolfensohn 1997).
+
+MNEs create, leverage, and arbitrage capabilities on
+a world scale. They are known to make positive
+
+contributions in economic efﬁciency (see, e.g., Caves
+1996, Ch. 7) and serve as a conduit for the globaliza-
+tion of economies. However, MNEs have also proven
+elusive of public policy controls because of their
+economic power and ability to shift resources and
+production across borders. Questions have been
+raised concerning MNEs’ social and environmental
+performance (e.g., in regard to their pollution record
+and labor practices, etc.) Social critics have argued that
+MNEs, in seeking to reduce costs, play employees and
+countries against one another, creating downward
+pressure on wages and social standards on a world-
+wide basis (Gladwin et al. 1995, Greider 1997).
+
+Our focus is on the environmental aspect. Led by
+MNEs, the afﬂuent societies of the developed world
+account for more than 75% of the world’s energy and
+
+0025-1909/00/4608/1059$05.00
+1526-5501 electronic ISSN
+
+Management Science © 2000 INFORMS
+Vol. 46, No. 8, August 2000 pp. 1059–1074
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+resource consumption and create the bulk of the
+industrial, toxic, and consumer waste (Hart 1997).
+Environmentalists contend that MNEs are now engag-
+ing in ﬂight to “pollution havens” by moving dirty
+operations to countries where regulatory standards
+are less stringent (Daly 1994). Through ﬂight to pollu-
+tion havens, MNEs can avoid expensive pollution
+controls, cut costs by recapitalizing old equipment,
+and continue to make products that are no longer
+considered environmentally acceptable in the more
+highly regulated markets of the developed world
+(Vernon 1992). Over time, it is claimed that these
+practices lead to a “race to the bottom” as poor nations
+and localities vie for plants and facilities that seek only
+to minimize cost and externalize environmental re-
+sponsibility (Korten 1995).
+
+While some MNEs clearly utilize such practices, it is
+unclear whether there is systematic advantage in
+racing to the bottom. There appear to be forces that
+encourage MNEs to integrate and standardize their
+environmental practices globally. Indeed, it may make
+business sense in some cases to adopt global standards
+that exceed those required by some local laws or
+regulations, especially when environmental laws and
+regulations become more stringent as an economy
+grows. By investing in state-of-the-art technology and
+processes in developing countries, MNE facilities may
+be able to achieve simultaneously world-class cost,
+quality, and environmental performance. In addition,
+MNE’s may reap standardization beneﬁts and other
+intangible advantages like positive reputation effects.
+In this paper, we therefore seek an empirical answer
+to an intriguing and important question: Is ﬁrm value
+linked to an MNE’s corporate environmental policy?
+Speciﬁcally, we examine whether adopting a single
+stringent corporate environmental standard enhances
+ﬁrm value compared to those MNEs defaulting to less
+stringent or poorly enforced host country standards.
+We ﬁnd that ﬁrms adopting a stringent global envi-
+ronmental standard have higher market values, as
+measured by Tobin’s q (market value over replace-
+ment costs of tangible assets). Our results have strong
+implications: “Better ﬁrms” appear to adopt higher
+environmental standards and pollute less. However,
+we cannot identify with our data any causal (time
+
+series) relationships between either past changes in
+environmental standards and current change in ﬁrm
+value, or past change in ﬁrm value and current change
+in environmental standards.
+
+In the next section, we describe prior research
+linked to the current work that is helpful in interpret-
+ing our results. In the third section, we discuss theory
+and propose our research questions. We present our
+methodology in §4 and results in §5. Discussion of the
+results and conclusions are contained in §6 and 7,
+respectively.
+
+2. Prior Research
+A growing body of literature ties superior environ-
+mental performance to ﬁnancial performance (e.g.
+Porter and van der Linde 1995, Hart 1995). For exam-
+ple, three recent studies link proactive environmental
+management to superior stock performance: Hamilton
+(1995), White (1995), and Klassen and McLaughlin
+(1996) all use event study methodology to demon-
+strate that (1) news of high levels of toxic emissions
+results in signiﬁcant negative abnormal returns; (2)
+ﬁrms with strong environmental management prac-
+tices have better stock price returns than ﬁrms with
+poor practices after a major environmental disaster,
+such as the Exxon Valdez accident; and (3) environ-
+mental performance awards result in signiﬁcant posi-
+tive abnormal returns. The ﬁrst and second results
+indicate that investors expect that ﬁrms incur non-
+trivial costs for environmental cleanup and that these
+costs are lower for ﬁrms with better environmental
+records. The third result suggests that recognition of
+environmental performance has a positive reputation
+effect which possibly augments ﬁrm value.1
+
+Feldman et al. (1996) analyze a sample of 300 large
+public companies in the United States to see if invest-
+ments in environmental management lead to reduced
+risk, and if such risk reduction is valued by ﬁnancial
+markets. Their ﬁndings suggest that investments in
+environmental management lead to substantial reduc-
+tion in perceived risk of a ﬁrm, with an accompanying
+
+1 The positive reputation effect may include not just investors’
+impressions of a ﬁrm’s environmental performance; it may also
+include investors’ impressions of a ﬁrm’s management quality.
+
+1060
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+increase in a public company’s stock price, of perhaps
+ﬁve percent.
+
+Other scholars have examined the relationship be-
+tween environmental and proﬁt performance. Cohen
+et al. (1995), for example, demonstrate a strong corre-
+lation between environmental performance and ﬁrm
+proﬁtability. Similarly, Hart and Ahuja (1996) present
+evidence indicating that efforts to prevent pollution
+and reduce emissions are positively associated with
+the “bottom line” (as measured by return on sales and
+return on assets) within one to two years of initiation,
+and that those ﬁrms with the highest emission levels
+stand to gain the most. Russo and Fouts (1997), in their
+study of 243 ﬁrms, ﬁnd that environmental perfor-
+mance and return on assets (ROA) are positively
+linked, and that industry growth moderates this rela-
+tionship, with returns to environmental performance
+higher for high-growth industries. Finally, Nehrt
+(1996) examines the relationship between timing and
+intensity of investment in pollution prevention and
+growth in proﬁts within a sample of 50 pulp and
+paper companies. His results indicate a positive rela-
+tionship between early movers in pollution prevention
+and proﬁt growth.
+
+While results are generally convergent, most empir-
+ical work to date has been restricted to MNEs in the
+United States or Western Europe where data are more
+available regarding environmental performance (e.g.,
+Kennelly 1996). There has been some conceptual and
+case study treatment of MNE environmental perfor-
+mance in foreign contexts and developing countries
+(e.g., Korten 1995, Hart 1997), but little empirical
+research on this dimension has been conducted. The
+limited empirical work that has been done suggests
+that MNEs are more environmentally responsible than
+their local competitors in developing countries (Eske-
+land and Harrison 1997), but the evidence regarding
+MNE social performance is mixed (e.g., Zahra et al.
+1993, Johnson and Greening 1994). We were unable to
+ﬁnd any published empirical research focusing specif-
+ically on the question of how MNE international
+environmental standards, particularly their behavior
+in developing countries, affect ﬁrm market value. It is
+to that question that we now turn our attention.
+
+3. Theory
+Arguments can be made on both sides of the question
+of whether a stringent global corporate environmental
+standard represents a competitive asset or liability for
+MNEs. Below, we articulate the major theoretical
+lenses on either side of the argument.
+
+Global Environmental Standards as Altruistic
+Liability
+Conventional economic logic suggests that, ceteris pa-
+ribus, in countries where environmental regulation is
+either lax or not enforced, it is cheaper to operate than
+in countries where strict environmental regulations
+result in ﬁnes, liabilities, and administrative or legal
+action against polluters (Stewart 1993). For example,
+the annual cost of complying with environmental
+regulation in the United States now exceeds $125
+billion, or about 2.1% of GDP. In most developing
+countries, environmental spending represents only a
+fraction of 1% of GDP (Jaffe et al. 1995).
+
+Evidence also suggests that strict pollution control
+regulations in the United States may have an adverse
+impact on productivity (Gray and Shadbegian 1993),
+perhaps by forcing companies to commit resources
+and manpower to nonproductive uses such as envi-
+ronmental auditing, waste treatment, and litigation
+(Haveman and Christiansen 1981). Hence, when oper-
+ating in countries with less stringent or poorly en-
+forced environmental regulations, defaulting to local
+standards reduces costs.
+
+Furthermore, by defaulting to local standards in
+countries with lax regulation or enforcement, compa-
+nies may be able to recapitalize old equipment that is
+no longer acceptable in more regulated markets,
+thereby lowering costs even further. Companies can
+also market products in such countries that may be
+discouraged or even banned for environmental rea-
+sons in more regulated markets, thereby extending
+product life cycles and revenue streams (Vernon 1992,
+Korten 1995).
+
+In short, there may be considerable ﬁnancial penal-
+ties associated with overly general or constraining
+environmental policies in response to standardized
+criteria when it is not really needed or justiﬁed (Ron-
+dinelli and Vastag 1996). Overall, the presumption is
+that defaulting to local standards is cost-saving, and
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1061
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+that adhering to more stringent environmental stan-
+dards where they are not required or enforced is
+wasteful. Firms that are altruistic in their attempts to
+achieve higher environmental standards when invest-
+ing in low-standard countries are not serving their
+shareholders. The behavior hurts market value and
+may be a reﬂection of managerial idiosyncrasies.
+
+Global Environmental Standards as Value-Adding
+Asset
+A competing logic suggests that value-seeking inves-
+tors may view defaulting to lower or poorly enforced
+local environmental standards as counterproductive
+to long-term proﬁt performance. First, the cost savings
+associated with lower environmental standards may
+be exaggerated and may not even exist: MNEs often
+ﬁnd that they have to pay for the remediation of
+environmental damages even if they are in full com-
+pliance with local regulations and requirements, often
+due to pressures from environmental interest groups
+or international organizations (e.g., World Bank). Such
+cleanup costs can be signiﬁcant.
+
+Second, in making new investments, a ﬁrm may
+ﬁnd that moving downward from accustomed higher
+standards violates established corporate routines and
+is actually more costly than adhering to the higher
+standards, even in the absence of regulation. By spec-
+ifying a single corporate standard, performance mon-
+itoring and evaluation costs might be reduced because
+a single set of values, speciﬁcations, and procedures
+can be deployed throughout the world, without the
+need to consider local deviations from the norm.
+Global standardization will also mean that production
+improvements made in one location can readily be
+transferred to all subsidiaries. Global strategies lever-
+age the return on investment in improvements made
+in high environmental standard regions across all
+geographic locations (Prahalad and Doz 1987, Bartlett
+and Ghoshal 1989). Thus, adopting a single stringent
+environmental standard is consistent with pursuit of
+global competitive strategies by MNEs (Christmann
+1998).
+
+Third, while adequate environmental standards
+may not yet exist in many developing countries, it can
+be argued that in the not-too-distant future, standards
+will rise as income increases and people become more
+
+sensitive toward and concerned about environmental
+deterioration. This pattern of environmental regula-
+tion following GDP growth has already been observed
+among newly industrialized nations such as Taiwan,
+Korea, and Singapore (Grossman and Krueger 1995).
+In other words, there may be an important future
+beneﬁt to adopting a single global standard if the
+productive life of capital extends beyond the period of
+lax or poorly enforced regulation.
+
+When the environmental standards in developing
+countries improve with increases in per capita income,
+ﬁrms performing above current requirements will not
+need additional investment, while ﬁrms defaulting to
+the current minimums will need to reinvest to con-
+form to the heightened requirements. A foresighted
+ﬁrm could take advantage of this by adopting higher
+environmental standards than are dictated by current
+regulations. MNEs are especially well-positioned in
+this regard: They can actually use the environment as
+a strategic competitive advantage by speeding up the
+process (e.g., by lobbying for tighter environmental
+regulations) and thus outcompete local ﬁrms with
+lesser ﬁnancial means, knowledge, and capability.
+
+Fourth, the presumption that polluting lowers pro-
+duction cost can be challenged. Putting aside the issue
+of regulatory stringency, there are other ways in
+which environmental standards may affect competi-
+tiveness. Speciﬁcally, not all environmental regula-
+tions affect ﬁrms’ behavior in the same manner, and
+the form of environmental regulation can be an im-
+portant determinant of business impact. For example,
+U.S. environmental regulations often mandate speciﬁc
+control or treatment
+technologies. These so-called
+“command and control” style regulations dictate that
+speciﬁc pollution control technologies be used, often
+at an exorbitant cost (Porter and van der Linde 1995).
+However, in many cases, it is possible to reduce or
+eliminate pollution by making changes in the manu-
+facturing or production process, rather than capturing
+pollutants for treatment or disposal at the “end-of-the-
+pipe.” Pollution and waste are reduced at the outset
+by a conscious effort to heighten resource efﬁciency.
+Many state-of-the-art technologies have high resource
+productivity. Such “eco-efﬁciency” can actually lower
+
+1062
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+operating costs, rather than raise them (Porter and van
+der Linde 1995, Hart and Ahuja 1996).
+
+Finally, there may be fringe beneﬁts associated with
+adhering to higher environmental standards. By com-
+mitting to standards that exceed those of the host
+country, the company might beneﬁt from heightened
+employee morale and thus productivity (Romm 1993).
+Adopting an internal corporate environmental stan-
+dard ahead of legal requirements avoids special inter-
+est group pressures and may result in positive repu-
+tation effects for the ﬁrm, improving its public image
+relative to competitors.
+
+These considerations suggest that a ﬁrm defaulting
+to lower or poorly enforced local environmental stan-
+dards may be overlooking both tangible and intangi-
+ble beneﬁts associated with conforming to a higher
+global standard. Firms conforming to a higher global
+environmental standard may ﬁnd that the strategy
+enhances value.
+
+Value Creation or Destruction?
+The conﬂicting nature of the above arguments sug-
+gests that the relationship between corporate environ-
+mental standards and ﬁrm value is an empirical
+question. We therefore investigate two questions:
+
+1. Are MNEs which exceed local environment
+standards (those adopting higher global standards)
+higher- or lower-value ﬁrms? Is adhering to higher
+global environmental standards associated with
+higher market value or does it represent a nonpro-
+ductive use of assets and a drag on market value?
+2. Is there a detectable lead-lag relationship be-
+tween ﬁrm value and environmental standards? In
+other words, do changes in environmental standards
+cause changes in market value or visa versa?
+
+4. Methods
+Sample
+The sample of ﬁrms for this study was drawn from the
+U.S. Standard and Poor’s 500 list of corporations.
+Although this population of ﬁrms is clearly biased
+towards the largest ﬁrms, this was not deemed to be a
+problem because MNEs were our target sample and
+the S&P 500 contains largely MNEs. Our sample
+period was from 1994 to 1997. This is the period in
+
+which we have data on both ﬁrm environmental
+standards and market value. Although the data source
+for our environmental standards, Investor Responsi-
+bility Research Center’s (IRRC) Corporate Environ-
+mental Proﬁle, collected data prior to 1994, the survey
+item that we draw upon changed in 1994, making
+comparison with prior years’ data inappropriate.
+
+Two screens were applied in selecting ﬁrms. First,
+only those MNEs involved in manufacturing or min-
+ing (SIC codes between 2000 and 3999) were selected
+because the main research variable, corporate environ-
+mental standards, was most salient to these ﬁrms.
+Second, only those MNEs with production operations
+in countries with GDP per capita below $8,000 (1985
+dollars) were included in the study. Evidence suggests
+that concern for and activity in environmental regula-
+tion decreases dramatically for countries with per
+capita income levels below $8,000 (Grossman and
+Krueger 1995). Sampling on this dimension therefore
+allows us to insure that there is a difference between
+those ﬁrms that default to local standards and those
+that adopt a global standard. After applying these two
+screens to the population, we ended up with eighty-
+nine ﬁrms, which were drawn from ﬁfteen two-digit
+SIC codes.
+
+Dependent Variable
+The key dependent variable (Tobin’s q) is deﬁned as
+ﬁrm market value per dollar of replacement costs of
+tangible assets. Tobin’s q is widely used as an indica-
+tor of intangible value in economics research (e.g.,
+Lindenberg and Ross 1981) and in the international
+business literature (e.g., Morck and Yeung 1991). We
+proxied for ﬁrm market value by summing Compustat-
+reported ﬁrm equity value (outstanding shares times
+share price), book value of long-term debt, and net
+current liabilities. We proxied for replacement costs of
+tangible assets by summing book value of inventory
+and net value of physical plant and equipment.2
+
+2 A more elaborate estimate for Tobin’s q (e.g., Lindenberg and Ross
+1981) and the current simpliﬁed estimate often yield qualitatively
+similar results. The key is whether the use of book—instead of
+market—value of debts, of inventory, and of plant and equipment
+introduces any systematic biases. Such biases are likely to be linked
+to industry and ﬁrm size. We incorporate industry effects in our
+statistical analyses in case there are any systematic biases linked to
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1063
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Independent Variables
+The focal information for our independent variable
+was derived from the Investor Responsibility Research
+Center’s (IRRC) Corporate Environmental Proﬁle.
+This data set describes each corporation’s posture with
+regard to international environmental policy from
+1994 to 1997. Each ﬁrm is allowed to check any of the
+following three categories “1,” “2,” or “3” in each year:
+(1) local—the corporation adheres to local stan-
+
+dards only;
+
+(2) U.S.—the corporation applies U.S. environmen-
+
+tal standards wherever it does business; and
+
+(3) stringent global—the corporation has its own
+internal environmental standard that exceeds any na-
+tional standard.
+
+We ﬁrst used this information to code a ﬁrm’s
+environmental standards in year t (ENV STD t) as “1,”
+“2,” and “3” accordingly. Next, we created two
+dummy variables. The ﬁrst, ED t,
+indicates that a
+ﬁrm’s environmental standard in year t was not
+“local” (i.e., the ﬁrm did not adopt “1” in the above
+scheme). The second dummy, ED2 t, indicates that a
+ﬁrm’s environmental standard in year t was “stringent
+global” (i.e.,
+the ﬁrm adopted “3” in the above
+scheme).
+
+The implicit assumption is that ﬁrms declaring a
+lower category of environmental standard pollute
+more. This assumption requires validation. Full-scale
+validation is difﬁcult, however, because consistent
+and reliable pollution data on a global scale do not
+exist, especially in developing countries (the pre-
+sumed “pollution havens”). We therefore resorted to
+validating the assumption based on each ﬁrm’s U.S.
+“Toxic Release Inventory” (TRI) data. As expected, we
+found that ﬁrms adhering to “local standards” pol-
+luted the most, while ﬁrms applying “an internal
+global standard that exceeds any national standard”
+polluted the least. Firms applying U.S. standards
+overseas were in between these two extremes. The
+difference between the ﬁrst and the third group is
+most statistically signiﬁcant. Details on the validating
+effort are reported in the Appendix.
+
+industries. We control for ﬁrm size by using the logarithm of the
+ﬁrm’s assets in a given year.
+
+To avoid the missing variable problem, we needed
+to include controls known to affect Tobin’s q that are
+also plausibly related to a ﬁrm’s choice of environ-
+mental standards. Tobin’s q is known to be related to
+capital structure, intangibles like R&D and advertising
+expenditures, and multinationality (e.g., Morck and
+Yeung 1991). Hence, we included in our regression
+analyses the following control variables: R&D inten-
+sity (R&D/dollars of total assets), advertising inten-
+sity (ADV/dollars of total assets), leverage (long-term
+debt/dollars of total assets), and multinationality (per-
+cent of foreign assets/dollars of total assets).3 We also
+included ﬁrm size (deﬁned as the log of total dollars of
+assets) to control for the possibility that ﬁrm size is
+related with Tobin’s q. 4 All data were obtained from
+Compustat for the years 1994–1997, except multina-
+tionality, which was obtained from Worldscope.
+
+These control variables are possibly correlated with
+a ﬁrm’s choice of environmental standards. For exam-
+ple, large and more internationally oriented ﬁrms are
+likely to be highly conscious of their public image
+because of the large scale and scope of any negative
+ramiﬁcation from bad publicity. Highly leveraged
+ﬁrms may be less able to afford the investment re-
+quired to implement more stringent global environ-
+mental standards.
+
+3 We also used the percentage of foreign sales as an alternative
+speciﬁcation of multinationality. The results were in all cases not
+signiﬁcantly different from those obtained using the percentage of
+foreign assets.
+4 There are other variables that are known to affect Tobin’s q.
+First, there may be industry-level effects like competitive struc-
+ture and growth potential. We ﬁlter these out by using two-digit
+SIC industry dummies to capture ﬁxed industry effects. There are
+also other known ﬁrm-level effects that affect Tobin’s q. One of
+these is growth trends. However, one runs the risk of double
+counting the growth effect if investment in intangibles is already
+incorporated. Product diversiﬁcation can also affect Tobin’s q.
+Product diversiﬁcation is highly correlated with geographic
+diversiﬁcation. Excluding either does not, however, affect the
+behavior of the other, as the comparison between Morck and
+Yeung (1998, Table 2) and Morck and Yeung (1991, Tables 4 and
+5) illustrates. To conserve degrees of freedom and to avoid
+collinearity, we do not include these extra explanatory variables.
+Following a referee’s suggestion, we include the log of size (total
+dollars of assets) as an independent variable.
+
+1064
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Data Analysis
+We used both bivariate and multivariate analyses to
+address the research questions. With regard to the ﬁrst
+question, we identiﬁed the statistical relationship be-
+tween ﬁrm value and level of corporate environmental
+standard using t-tests and multiple regression. We
+recognize that using the panel data entails counting
+ﬁrms with unchanged environmental standard multi-
+ple times, which exaggerates sample size and thus the
+t-statistics. We corrected for this by replacing the
+ﬁrm-year data with ﬁrm-average data when we con-
+ducted bivariate analyses (i.e., simple correlations).
+When we conducted multivariate regression analysis,
+we used the ﬁrm-average data to run “group mean”
+regressions. We also ran random ﬁrm effects regres-
+sions that utilize all available data points in our
+cross-sectional panel.5
+
+To create the ﬁrm-average data, we averaged the
+dependent and independent variables for each year in
+which the ﬁrm reported a consistent environmental
+standard. Thus, a ﬁrm that used host country stan-
+dards in every year would have one observation in the
+averaged ﬁrm-year data, while a ﬁrm that changed
+from host to U.S. standards would have two observa-
+tions—one for each of the environmental standards.
+Out of our 89 ﬁrms, 72 never changed their environ-
+mental standards, 16 did so once and one did so
+twice.6 Out of the 18 total changes, 12 were “positive”
+(upgrading environmental standards) while 6 were
+“negative” (downgrading environmental standards).
+Hence, there are 107 (89 ⫹ 12 ⫹ 6) ﬁrm-average
+observations. There were 6 missing “environmental
+standards” data points in our sample period. Out of
+these 107 observations, 30 adopted “local environmen-
+tal standards,” 18 adopted “U.S. standards” and 59
+adopted “stringent global standards.”
+
+5 In conducting multivariate regression analyses on the relationship
+between Tobin’s q and environmental standards, we did not intro-
+duce ﬁrm ﬁxed effects because for a very large proportion of our
+sample ﬁrms the focal independent variable (environmental stan-
+dard) does not have much variation.
+6 We are not able to tell whether the changes reported by the ﬁrm
+are real or due to reporting errors. As a conservative robustness
+check, we repeated our analyses excluding the ﬁrm. Our results
+remained intact.
+
+With regard to the second question, we used the
+Granger causality method which involves regressing,
+in turn, a) ﬁrm value on its own lags and past
+environmental standard; and b) environmental stan-
+dard on its own lags and past ﬁrm value. When we
+performed the causality tests, we used the full panel
+data, rather than the ﬁrm-average data. When past
+changes in environmental standards predict current
+changes in market value, but past changes in market
+value do not explain current changes in environmen-
+tal standards, we can conclude that adopting a higher
+environmental standard causes market value increase.
+When the reverse is true, we can conclude that higher
+ﬁrm value causes adoption of more stringent global
+environmental standards.
+
+5. Results
+Table 1 presents means, standard deviations, and
+simple correlations for the variables based on ﬁrm-
+average data in our study. As expected, we ﬁnd a
+positive correlation between a ﬁrm’s Tobin’s q and its
+levels of research and development and advertising,
+and its multinationality. Likewise, a negative correla-
+tion is found between the Tobin’s q value and the
+leverage of the ﬁrm. We now turn to consideration of
+our two research questions.
+
+Are Stringent Environmental Standards and
+Market Value Compatible?
+The key result in Table 1 is that ﬁrms that do not adopt
+local environmental standards have higher market
+values. The dummy variable ED7 allows us to com-
+pare ﬁrms that do not adopt local environmental
+standards to those that do. ED2 allows us to compare
+ﬁrms that adopt a stringent global environmental
+standard to those that do not. Both ED and ED2 are
+positively and signiﬁcantly correlated with Tobin’s q.
+These observations provide preliminary evidence that
+those companies that go beyond local environmental
+standards have higher market values. Furthermore,
+companies adopting their own “internal environmen-
+tal standard” have the highest Tobin’s q values.
+
+To better understand the differences in the charac-
+
+7 Because the data is ﬁrm-average, the time subscript for ED and
+ED2 is unnecessary.
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1065
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Table 1
+
+Means and Correlations for the Dependent and Independent Variables
+
+Tobin’s q
+
+ED
+
+ED2
+
+R&D
+
+Adv.
+
+Leverage
+
+% Foreign
+
+Log(assets)
+
+Mean
+
+(std dev)
+
+3.53
+(2.72)
+0.73
+(0.44)
+0.58
+(0.49)
+0.04
+(0.04)
+0.02
+(0.04)
+0.17
+(0.09)
+0.33
+(0.15)
+9.14
+(1.24)
+
+ED
+
+ED2
+
+R&D
+
+Adv.
+
+Leverage
+
+%Foreign
+
+Log(Size)
+
+0.3043
+(0.0001)
+
+0.3680
+(0.0001)
+0.7175
+(0.0001)
+
+0.4643
+(0.0001)
+0.2886
+(0.0001)
+0.2477
+(0.0001)
+
+0.4290
+(0.0001)
+0.1627
+(0.0027)
+0.1911
+(0.0004)
+0.0418
+(0.4440)
+
+⫺0.2107
+(0.0001)
+⫺0.2293
+(0.0001)
+⫺0.0178
+(0.7440)
+⫺0.3887
+(0.0001)
+⫺0.0439
+(0.4213)
+
+0.0953
+(0.0792)
+⫺0.0146
+(0.7884)
+0.1253
+(0.0212)
+0.2734
+(0.0001)
+0.1349
+(0.0131)
+⫺0.1478
+(0.0078)
+
+⫺0.0068
+(0.9000)
+0.1122
+(0.0392)
+0.2995
+(0.0001)
+⫺0.0650
+0.2332
+⫺0.0467
+(0.3921)
+0.04351
+(0.4335)
+0.0896
+(0.1000)
+
+Note. Numbers in parentheses are p-values.
+
+Table 2
+
+t-tests Comparing Means at Different Environmental Standards
+
+Standard
+
+Host
+
+U.S.
+
+Internal
+
+N
+
+30
+
+18
+
+59
+
+Tobin’s Q
+
+R&D
+
+Advertising
+
+Leverage
+
+% Foreign
+
+Log(assets)
+
+2.1986
+(0.8874)
+2.5317
+(1.2917)
+4.113**
+(2.729)
+
+0.0249
+(0.0280)
+0.0407
+(0.0396)
+0.045
+(0.041)
+
+0.0119
+(0.0234)
+0.0154
+(0.0346)
+0.025
+(0.038)
+
+0.1870
+(0.0844)
+0.1142***
+(0.0724)
+0.1562**
+(0.088)
+
+0.3418
+(0.1585)
+0.2703
+(0.1376)
+0.349*
+(0.154)
+
+8.9421
+(1.0523)
+8.4871
+(1.1890)
+9.437***
+(1.268)
+
+Note. The values in parentheses are standard deviations.
+
+*, **, *** denote signiﬁcantly different from the mean for the preceding category at 0.10, 0.05, and 0.01, respectively.
+
+teristics of the ﬁrm types, we present, in Table 2, the
+results of t-tests for the differences between the means
+of Tobin’s q, R&D, advertising, leverage, and multi-
+nationality at the three levels of environmental stan-
+dards (see Table 2). The ﬁrst interesting observation in
+Table 2 is that defaulting to local environmental
+standards is by no means the most common practice
+(only 30 out of 107 ﬁt this description). Rather, the
+most common strategy in this sample is to adopt a
+stringent internal standard that is applied globally (59
+out of 107 observations).
+
+The t-tests reveal that those companies which use
+
+U.S. standards worldwide have insigniﬁcantly higher
+Tobin’s q values than those companies which use the
+standards of the various host countries in which they
+operate. (The t statistic is at best marginally signiﬁcant
+at the 10% level, 1-tail.) However, the ﬁrms that
+employ their own internal standard around the world
+have signiﬁcantly higher Tobin’s q values than those
+that use U.S. standards. The remaining t-tests in Table
+2 indicate that the ﬁrms that use host, U.S., or internal
+environmental standards have roughly equal levels of
+R&D and advertising. However, ﬁrms using host
+country environmental standards are most leveraged,
+
+1066
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+while ﬁrms using internal environmental standards
+are the largest and attain the highest level of multina-
+tionality.
+
+Of course, the analyses presented thus far do not
+control for factors that may be driving the observed
+relationships (e.g., spending on intangibles, ﬁrm size,
+leverage, and multinationality, etc.). In particular,
+there could be industry effects present. For example,
+some industries (e.g., pharmaceuticals, where ﬁrms
+have generally high Tobin’s q values) utilize highly
+toxic chemicals and materials, making such ﬁrms
+more likely to adopt higher environmental standards.
+Therefore, we conduct multivariate analyses that con-
+trol for these effects.8
+
+Table 3 reports piecewise regressions which com-
+pare ﬁrms adopting the different types of environ-
+mental standards using the ED and ED2 dummy
+variables described above. Here, the base case in the
+regressions is the Tobin’s q of ﬁrms adopting local
+standards. The regression coefﬁcient for ED reveals
+the difference in Tobin’s q between ﬁrms adopting
+U.S. standards worldwide and ﬁrms adopting local
+standards. The regression coefﬁcient for ED2 reveals
+the difference in Tobin’s q between ﬁrms adopting a
+stringent internal standard and ﬁrm adopting U.S.
+standards worldwide. The difference in Tobin’s q
+between ﬁrms adopting a stringent internal standard
+and ﬁrms adopting local standards is the sum of the
+regression coefﬁcients for ED and ED2.9
+
+Regressions 3-a and 3-b are group mean regressions
+based on ﬁrm-average data that we used in Tables 1
+and 2. Regressions 3-c and 3-d are random ﬁrm effects
+regressions that utilize all available ﬁrm-year observa-
+tions. In 3-a and 3-c we do not include industry
+dummies, while in 3-b and 3-d we do. The results in all
+regression models are very consistent across all re-
+
+8 To control for industry ﬁxed effects, we use two-digit SIC industry
+dummies. It is possible to use three-digit SIC industry dummies and
+doing so does not change our results. However, there are some
+three-digit SIC industries with very few ﬁrms (some have only one).
+To avoid this potential problem, we opt to report results based on
+two-digit SIC industry dummies.
+9 We also conducted regressions using the ENV STD variable. The
+results are consistent with what we report in Table 3, but less
+revealing. These results are available upon request.
+
+Table 3
+
+Piece-Wise Linear Regression of Tobin’s q on Environmental
+Standards and Control Variables
+
+Group Mean Regressions
+
+Random Firm Effects
+
+Regressions
+
+Variable
+
+(3-a)
+
+(3-b)
+
+(3-c)
+
+(3-d)
+
+Intercept
+
+R&D
+
+Adv
+
+Leverage
+
+% Foreign
+
+Log(assets)
+
+ED
+
+ED2
+
+Industry
+
+Dummies
+
+N
+R 2
+
+2.719*
+(1.318)
+26.036***
+(4.911)
+29.944***
+(4.915)
+⫺1.658
+(2.084)
+⫺1.931*
+(1.142)
+⫺0.0620
+(0.141)
+⫺0.471
+(0.4817)
+1.467***
+(0.4817)
+No
+
+0.762
+(1.599)
+27.316***
+(5.004)
+26.747***
+(5.020)
+⫺1.242
+(1.743)
+⫺0.414
+(1.202)
+0.110
+(0.168)
+⫺0.335
+(0.487)
+1.216***
+(0.421)
+No
+
+18.291***
+6.288
+17.892***
+5.854
+⫺1.798
+1.705
+1.008
+1.332
+0.240**
+(0.116)
+⫺0.140
+0.467
+1.002***
+(0.399)
+Yes
+
+20.472***
+(6.432)
+25.368***
+(6.425)
+⫺2.878
+(2.401)
+⫺2.072
+(1.362)
+⫺0.089
+(0.177)
+⫺0.350
+(0.557)
+1.205**
+(0.523)
+Yes
+
+107
+
+0.516
+
+107
+
+0.588
+
+338
+
+0.454
+
+338
+
+0.503
+
+Note. Numbers in parentheses are standard errors.
+
+*, **, *** Signiﬁcant at 10%, 5%, and 1%, respectively.
+ED ⫽ 1 if corporate environmental standard is “U.S. standards” or “internal
+
+standards that exceeds any national standards”; 0 elsewhere.
+
+ED2 ⫽ 1 if corporate environmental standard is “internal standards that
+
+exceeds any national standards”; 0 elsewhere.
+
+gression speciﬁcations: similar in sign, magnitude,
+and statistical signiﬁcance.
+
+The ED coefﬁcients in all regression models are
+negative but insigniﬁcant, indicating that companies
+that use U.S. standards overseas and companies that
+use the standards of the host countries have similar
+market value. The ED2 coefﬁcients are positive and
+highly signiﬁcant in all models, indicating that ﬁrms
+using internal global standards overseas have higher
+Tobin’s q values than those using U.S. standards. An
+F-test reveals that the sum of the ED and ED2 coefﬁ-
+cients is signiﬁcantly above zero, indicating that ﬁrms
+using a stringent internal environmental standard
+globally have statistically higher Tobin’s q than those
+using host country standards. Table 3 results thus
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1067
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+conﬁrm that adopting a stringent internally deﬁned
+global standard is positively associated with a ﬁrm’s
+stock market value.
+
+We checked the robustness of our results. We ﬁrst
+conducted residual diagnostics. We found no outli-
+ers whose deletion materially affects the results of
+our regression analyses. Heteroskedasticity is a con-
+cern with our data, especially in our group mean
+regressions in which we analyzed ﬁrm-average ob-
+servations, where the number of observations from
+which the ﬁrm-averages are derived is not ﬁxed.
+Accordingly, we conducted White’s (1980) speciﬁ-
+cation test, and determined that heteroskedasticity
+is not affecting our results. Finally,
+to be very
+conservative (but sacriﬁcing statistical efﬁciency),
+we repeated regressions 3-a and 3-b using year-by-
+year data, one year’s worth of data per run. We
+found qualitatively similar results.
+
+Based on the above statistical analyses, we conclude
+that there is a reliable positive and signiﬁcant relation-
+ship between the use of a single global environmental
+standard and a ﬁrm’s Tobin’s q.
+
+Do Higher Environmental Standards Cause
+Increases in Market Value?
+Our next step is to explore causality in this relation-
+ship using the original time series panel data. Does
+upgrading the ﬁrm’s environmental standards lead to
+higher ﬁrm value (higher Tobin’s q)? Or, is it the case
+that increases in a ﬁrm’s Tobin’s q result in higher
+environmental standards?
+
+To address this question, we ﬁrst regress Tobin’s
+q on the ﬁve control variables used in earlier regres-
+sion runs. We then do the same for our environmen-
+tal standards variable (ENV STD t) as deﬁned in
+§4. We use this variable because it has more
+variation than either ED or ED2. The residuals from
+these regression runs comprise the portion of To-
+bin’s q and environmental standards respectively
+not explained by R&D, advertising, leverage, total
+assets, and multinationality. We then regress To-
+bin’s q residuals for a given ﬁrm on the lagged
+values of the Tobin’s q residual and the lagged
+values of the environmental standards’ residual. We
+do not know what time length,
+if any, will be
+appropriate for the lagged effect to be noticeable, so
+
+we present one, two, and three-year lags. These
+results are reported in Table 4a, columns 4a-1 to
+4a-3. We repeat the analysis replacing ENV STD t by
+ED2 t. These results are reported in columns 4a-4 to
+4a-6. 10 All speciﬁcations reveal consistent results.
+
+The results in Table 4a indicate that the previous
+years’ environmental standards are not signiﬁcant
+predictors of current Tobin’s q values.11 We tried
+several alternative speciﬁcations for assessing whether
+a change in environmental standards led to a change
+in Tobin’s q in future years. All results consistently
+showed that there is no lagged reaction to environ-
+mental standards on the part of the market. One
+interpretation is that our sample data have too few
+changes in environmental standards (only 17 ﬁrms out
+of 89 ﬁrms did so) to be able to generate statistically
+reliable results. Another plausible speculation is that
+the stock market upgrades a ﬁrm’s market value
+within an annual time window once the ﬁrm adopts a
+higher environmental standard.12
+
+Using the same analytical approach, we also looked
+to see whether ﬁrms that had changes in market
+valuations altered their environmental standards in
+subsequent years, but there was no evidence that such
+a link existed (see Table 4b).
+
+In summary, we have found a signiﬁcant and
+positive relationship between the market value of a
+company (as measured by Tobin’s q) and the level of
+environmental standard it uses. This effect remains
+even after we have controlled for industry effects as
+well as other factors known to affect Tobin’s q.
+Furthermore, our results suggest that a ﬁrm’s mar-
+
+10 Regressions 4a-4 to 4a-6 were suggested by a referee.
+11 We recognize that the “unit root” problem may be present in our
+results in Table 5a and 5b, because in each case, the coefﬁcient on the
+one-year lagged values of the dependent variable are not signiﬁ-
+cantly different from 1.0. We attempted a ﬁrst-difference analysis in
+order to correct for this potential problem, but this leaves us with
+only 42 observations in one year and may thus have the usual small
+sample difﬁculties. The results of the ﬁrst-difference analysis do not
+contradict our reported ﬁndings.
+12 As long as ﬁrm valuation is based on expectations, our result is
+not inconsistent with results obtained by, e.g., Hart and Ahuja
+(1996) which show that efforts to prevent pollution and reduce
+emissions leads to an increase in return on sales and assets after one
+or two years.
+
+1068
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Table 4a
+
+Residual for Tobin’s q Regressed on Lagged Residuals of Tobin’s q and of Environmental Standards.
+
+Environmental Standard ⫽ 1, 2, 3
+
+Environmental Standard ⫽ ED2
+
+(⫽1 if adopting a stringent global standard)
+
+4a-1
+
+4a-2
+
+4a-3
+
+4a-4
+
+4a-5
+
+4a-6
+
+Residual of Tobin’s q (t-1)
+
+Residual of Tobin’s q (t-2)
+
+Residual of Tobin’s q (t-3)
+
+Residual of Env Std (t-1)
+
+Residual of Env Std (t-2)
+
+Residual of Env Std (t-3)
+
+N
+R 2
+
+1.228***
+(0.070)
+
+⫺0.0914
+(0.090)
+
+252
+
+0.886
+
+1.246***
+(0.108)
+0.002
+(0.157)
+
+⫺0.189
+(0.125)
+0.155
+(0.115)
+
+162
+
+0.901
+
+1.352***
+(0.121)
+0.257
+(0.221)
+⫺0.733***
+(0.179)
+⫺0.203
+(0.169)
+⫺0.133
+(0.174)
+0.055
+(0.197)
+72
+0.938
+
+1.227***
+(0.035)
+
+⫺0.124
+(0.208)
+
+252
+
+0.885
+
+1.247***
+(0.099)
+0.004
+(0.137)
+
+⫺0.343
+(0.423)
+0.259
+(0.413)
+
+162
+
+0.901
+
+1.356***
+(0.138)
+0.243
+(0.234)
+⫺0.728***
+(0.191)
+⫺0.378
+(0.591)
+⫺0.039
+(0.714)
+0.034
+(0.615)
+72
+0.937
+
+Note. Numbers in parentheses are standard errors.
+
+*, **, *** Signiﬁcant at 10%, 5%, and 1%, respectively.
+In all regressions, industry effects are controlled for. In models 4a-1, to 4a-3, “environmental standards” is deﬁned as “1 (local),” 2 (U.S. standards),” and “3 (global).”
+
+In models 4a-4 to 4a-6, “environment standards” is deﬁned as ED2, a dummy indicating the employment of a stringent global standard environmental policy.
+
+ket value appreciates quickly once a ﬁrm adopts a
+higher environmental
+standard. However, past
+changes in market value do not predict whether a
+ﬁrm will adopt higher environmental standards in
+the future.
+
+6. Discussion
+Our ﬁnding that adopting stringent global environ-
+mental standards is positively associated with a
+higher ﬁrm value is open to several possible interpre-
+tations. First, it may be that private valuations inter-
+nalize environmental externalities: The less negative
+externalities a ﬁrm imposes, the higher the ﬁrm value.
+Second, it is possible that adopting stringent environ-
+mental standards is actually more proﬁtable than
+defaulting to lower or poorly enforced local environ-
+mental standards. Finally, poorly managed and less
+competitive ﬁrms may tend to adopt lower environ-
+mental standards. In this section, we discuss each of
+these interpretations.
+
+Internalization of Externalities
+The ﬁrst interpretation is based not only on our data,
+but also on the results of other studies (e.g., Hamilton
+1995, White 1995, Klassen and McLaughlin 1996). All
+these results suggest that investors incorporate poten-
+tial environmental problems and liabilities into their
+pricing of companies. In developed economies with
+strong regulatory regimes, the mechanism exists to
+support this observation: The institutional and legal
+systems support the public’s rights to a clean environ-
+ment so that polluters have to pay for their environ-
+mental damage. Hence, ﬁrms that have higher poten-
+tial environmental
+liabilities realize lower market
+values.
+
+The focus of this study (developing countries),
+however, involves locations where environmental
+regulations are lax or property rights to a clean
+environment are poorly enforced. In these contexts,
+other mechanisms must be at work. One possible
+mechanism for the internalization of externalities
+under these circumstances is as follows: Interest
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1069
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Table 4b
+
+Residual for Environmental Standards Regressed on Lagged Residuals of Tobin’s q and of Environmental Standards.
+
+Environmental Standard ⫽ 1, 2, 3
+
+IVb-2
+
+IVb-3
+
+IVb-1
+
+0.006
+(0.008)
+
+0.767***
+(0.050)
+
+Residual of Tobin’s q (t-1)
+
+Residual of Tobin’s q (t-2)
+
+Residual of Tobin’s q (t-3)
+
+Residual of Env Std (t-1)
+
+Residual of Env Std (t-2)
+
+Residual of Env Std (t-3)
+
+0.016
+(0.022)
+⫺0.024
+(0.029)
+
+0.639***
+(0.117)
+0.188*
+(0.106)
+
+N
+R 2
+
+252
+
+0.679
+
+162
+
+0.726
+
+Note. Numbers in parentheses are standard errors.
+
+⫺0.012
+(0.017)
+⫺0.027
+(0.037)
+0.023
+(0.041)
+0.713***
+(0.151)
+0.113
+(0.121)
+⫺0.028
+(0.071)
+72
+0.7947
+
+Environmental Standard ⫽ ED2
+
+(⫽1 If Adopting a Stringent Global Standard)
+
+Ivb-4
+
+0.002
+(0.007)
+
+0.765***
+(0.042)
+
+IVb-5
+
+0.010
+(0.018)
+⫺0.016
+(0.025)
+
+0.708***
+(0.078)
+0.082
+(0.077)
+
+252
+
+0.707
+
+162
+
+0.723
+
+IVb-6
+
+⫺0.007
+(0.024)
+⫺0.014
+(0.041)
+0.013
+(0.033)
+0.731*
+(0.103)
+0.099
+(0.124)
+⫺0.051
+(0.107)
+72
+0.769
+
+*, **, *** Signiﬁcant at 10%, 5%, and 1%, respectively.
+In all regressions, industry effects are controlled for. In models 4b-1, to 4b-3, “environmental standards” is deﬁned as “1 (local),” 2 (U.S. standards),” and “3 (global).”
+
+In models 4b-4 to 4b-6, “environment standards” is deﬁned as a dummy indicating the employment of a stringent global standard environmental policy.
+
+groups and nongovernmental organizations expose
+unsound corporate environmental practices, raise
+consumer awareness, and put pressure on govern-
+ments to discipline polluters even if the pollution
+is in overseas locations. Through these means
+poor environmental performance is translated into
+bad public image, lower consumer goodwill, and
+ultimately, lower ﬁrm value. 13 Aware of this disci-
+
+13 For example, The Economist (July 20, 1996; “The fun of being a
+multinational”) reported that:
+
+In Malaysia, a $5.5 billion hydroelectric dam to be built by a
+consortium including ABB Asea´ Brown Boveri, a Swiss-
+based multinational, is being attacked by local people and
+western environmental groups for destroying rainforest. The
+average oil baron or mining boss might once have shrugged
+off such events as little local difﬁculties. Some even relished
+a brawl. Nowadays, they recognise that the stakes are higher.
+It is not only the prospect of consumer boycotts that worries
+them. In addition, staff morale can suffer (many Shell em-
+ployees opposed the sinking of the Brent Spar), political
+contacts can be upset (Nelson Mandela denounced Shell’s
+behaviour in Nigeria) and worst of all sanctions can be
+
+plinary effect, far-sighted managers conscious of
+ﬁrm value opt to maintain a high level of environ-
+mental practice, even where regulations do not
+require it.
+
+Bottom-line Beneﬁts
+There appear to be economic implications of adopting
+high environmental standards that extend beyond the
+negative or “disciplinary” effects associated with poor
+environmental performance discussed above. In fact,
+the smallest coefﬁcient for ED2 (Table 3, regression
+3-d) indicates that ﬁrms adopting their own stringent
+global environmental standards have a Tobin’s q that
+is approximately 1.002 higher than those using U.S.
+standards abroad. Given the mean value of ﬁrm
+tangible assets in our sample, 1.002 represents more
+than $8.6 billion per ﬁrm. If we use the average of the
+regression coefﬁcients for ED2 in Table 4, the number
+increases to $10.4 billion per ﬁrm. Even company
+
+imposed (the state of Massachusetts recently banned con-
+tracts with ﬁrms doing business in Myanmar).
+
+1070
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+estimates of the cost (including punitive damages) of
+the largest environmental cleanup in history (the
+Exxon Valdez accident) are less than $8 billion (The
+Lamp 1999). The magnitude of the value increase
+associated with higher environmental standards thus
+represents more than just the monetarization of neg-
+ative externalities.
+
+We therefore advance our second interpretation:
+Adopting stringent environmental standards is more
+proﬁtable than defaulting to lower or poorly enforced
+local environmental standards. This interpretation is
+consistent with other studies (e.g., Cohen et al. 1995,
+Hart and Ahuja 1996, Russo and Fouts 1997), all of
+which suggest a higher level of proﬁtability associated
+with better environmental practices and efforts to
+reduce emissions and waste.
+
+We need to be careful, however, in explaining how
+stringent environmental standards might raise proﬁt
+performance. Two possible mechanisms apply. First, it
+may be that adopting the latest technologies and
+equipment increases productivity, and that is what
+makes the investment worthwhile. Better environ-
+mental practices are embedded in the latest technolo-
+gies as a result of pressures from interest groups and
+governments in developed countries. From this per-
+spective, the contribution of high environmental stan-
+dards to bottom-line performance is “coincidental”:
+The effect would not be present were it not for societal
+pressures to develop more environmentally friendly
+technologies and equipment. One would expect early
+movers to see the biggest gains from such invest-
+ments, as Nehrt (1996) reports. Over time, companies
+not able to keep up with the investments would
+evidence erosion in bottom-line performance and ﬁrm
+value.14
+
+A second, internally driven mechanism may also be
+at work, however. Firms that adopt high environmen-
+tal standards are those that strive for eco-efﬁcient
+production systems. The conscious policy to pursue
+technologies and processes that increase the resource
+
+14 However, this is not a typical “equilibrium” perspective. At
+equilibrium, the value of the above investment should reﬂect the
+value of cash ﬂow and thus should not affect Tobin’s q.
+
+productivity of their operations has a positive result
+for the bottom line.15
+
+Low Performers Race to the Bottom
+Tobin’s q can be interpreted as a measure of ﬁrm
+“quality” (e.g., better-managed ﬁrms are higher-value
+ﬁrms). One can therefore interpret our results as
+suggesting that “quality” ﬁrms adopt high environ-
+mental standards independent of local requirements,
+and generate less pollution, while lower-quality ﬁrms
+engage in a “race to the bottom,” as a means of gaining
+short term ﬁnancial advantage. High “quality” ﬁrms
+are typically more focused on corporate goals and
+competitive position. The application of a stringent
+global environmental standard may be indicative of a
+desire to build organizational awareness amongst all
+afﬁliates, of company policies and practices. It may
+also be an indicator that a company, as an industry
+leader, aims to stay on top in all aspects of its business.
+There are still other possible explanations for the
+linkage between ﬁrm quality and ﬁrm environmental
+standard. For example, it is possible that better ﬁrms
+have the foresight to plan for the future: They see the
+importance of applying high environmental standards
+even where not required because the standards will
+increase as a region grows and develops. It is also
+possible that higher-quality ﬁrms simply have the
+resources to invest in higher environment standards.
+They use environmental performance as a competitive
+weapon against other ﬁrms with fewer resources or
+means to keep up.
+
+7. Conclusion
+This paper refutes the idea that adoption of global
+environmental standards by MNEs constitutes a lia-
+bility that depresses market value. On the contrary,
+the evidence from our analysis indicates that positive
+market valuation is associated with the adoption of a
+
+15 An extension of our argument is that developing countries offer
+particularly attractive locations to experiment with such “clean
+technology” because they are not subject to the same level of costly
+“command and control” regulation that is found in developed
+economies such as the United States. Indeed, under these circum-
+stances, it may be possible for ﬁrms to jointly optimize cost, quality,
+and environmental performance.
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1071
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+single stringent environmental standard around the
+world.
+
+Our results imply that private valuations may in-
+corporate negative environmental externalities, even if
+the externalities take place in countries with lax envi-
+ronmental regulations and poorly protected environ-
+mental property rights. In addition, adopting stringent
+environmental standards may actually be more prof-
+itable than defaulting to lower local environmental
+standards. This may be a by-product of pressures in
+the developed world to make new technologies and
+equipment more environmentally friendly. It may also
+be that environmentally conscious ﬁrms are more
+diligent in reducing waste and improving resource
+productivity.
+
+The notion that MNE’s, as a group, pursue the
+lowest environmental standards and create a “race to
+the bottom” among developing countries desperate
+for foreign investments is not substantiated by the
+data. The most common corporate environmental
+practice in our sample is the opposite: adopting a
+stringent internal standard globally. We do not, how-
+ever, suggest that the race to the bottom does not exist.
+In fact, our ﬁndings also suggest that companies with
+lower market values tend to pursue lower environ-
+mental standards. Perhaps these companies opt to
+default to host country standards because they lack
+the means to make the investment in environmentally
+superior technology worldwide. They may also be less
+well-run companies focusing on short-term cost sav-
+ings. This might include, but is certainly not limited to,
+strategies such as recapitalizing old production assets,
+extending obsolete product life cycles, and exploiting
+low labor costs.
+
+From a public policy standpoint, then, there are
+clear implications regarding these results: Developing
+countries may indeed attract foreign investment by
+lowering environmental standards, but the type of
+companies they attract by doing so will be weaker
+(and more pollution-intensive) ﬁrms not investing in
+state-of-the-art plants and equipment. After a tempo-
+rary presence marked by the exploitation of the lower
+or poorly enforced host country standards, these com-
+panies may well end up fodder for those globally
+competitive ﬁrms which have adopted worldwide
+
+environmental standards and are reaping the compet-
+itive and market beneﬁts of that policy. Thus, devel-
+oping countries may be best served by promoting
+aggressive environmental objectives combined with a
+willingness to work collaboratively with the world’s
+leading MNEs to deﬁne and implement policies that
+facilitate “win-win” environmental solutions.
+
+The most important conclusion suggested by our
+results is that higher “quality” ﬁrms (as measured by
+Tobin’s q) appear to pollute less. Future research
+should examine this relationship in greater depth.
+Two future directions appear evident. First, our study
+was constrained by data availability. Future research
+should supplement the current data with more vari-
+ables, including ﬁrm reputation, more detailed infor-
+mation on ﬁrms’ actual environmental practices and
+performance, and a longer time series. Second, future
+work should aim to identify why ﬁrms adopt higher
+environmental standards. While we have proposed
+several plausible explanations here, examination of
+their validity awaits further research.16
+
+16 The authors would like to thank the editor for her encouragement
+and the associate editor for insightful and penetrating comments.
+They are also very grateful for the referees’ constructive comments
+that substantially beneﬁted the paper. In addition, the authors
+acknowledge the helpful comments from participants in the EIBA
+1998 conference, the Academy of Management 1998 meetings, and
+the University of Michigan Business School IB research seminar.
+Last but not least, the authors are grateful for the very helpful
+comments by Randall Morck, Joanne Oxley, and Marina Whitman.
+
+Appendix: Validation of IRRC Environmental
+Standard Measure
+In this study, the focal independent variables are derived from the
+Investor Responsibility Research Center’s (IRRC) Corporate Envi-
+ronmental Proﬁle. The IRRC contains a record of each corporation’s
+declared stance regarding its international environmental standard:
+(1) the corporation adheres to local standards only; (2) the corpora-
+tion applies U.S. environmental standards wherever it does busi-
+ness; and (3) the corporation has its own internal environmental
+standard that exceeds any national standards. The assumption is
+that ﬁrms declaring a lower category of environmental standard are
+poorer environmental performers.
+
+This assumption requires validation. Full-scale validation is dif-
+ﬁcult because consistent and reliable pollution data at the plant level
+on a global scale do not exist, especially in developing countries. We
+therefore resorted to validating this assumption based on each
+ﬁrm’s U.S. “Toxic Release Inventory” (TRI) data, as reported in
+
+1072
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Table A1
+
+Means and t-test for Relative Emissions
+
+Table A2
+
+Delcared environmental
+
+standard
+
+Relative Emissions
+Mean (standard error of the
+
+mean)
+
+t- and prob-value when
+
+comparing to “default to
+host country standards”
+
+t- and prob-value when
+compared to “applying
+U.S. standard”
+
+Default to
+
+Host
+
+standards
+
+Apply U.S.
+standard
+
+Apply an internal
+stringent global
+
+standard
+
+0.010
+(0.1297)
+
+—
+
+—
+
+⫺0.2691
+(0.2033)
+⫺1.578
+(0.125)
+
+—
+
+⫺0.4269***
+(0.1375)
+⫺2.368**
+(0.021)
+
+⫺0.167
+(0.868)
+
+*, **, *** denote signiﬁcance at the 0.10, 0.05 and 0.01 level, respectively. In
+the ﬁrst row, the results indicate whether the sample mean differs signiﬁcantly
+from 0.
+
+1995.17 The IRRC (Investor Responsibility Research Center) tracks
+U.S. plants’ toxic releases (by weight) and reports for each company
+its ratio of toxic releases to sales and industry average. We created
+a variable, “relative emissions,” which is the difference between a
+ﬁrm’s U.S. toxic release/sales and industry average. We then
+examined how “relative emissions” varies with a company’s de-
+clared environmental standard. To determine the robustness of our
+results, we trimmed outliers that had student residuals greater than
+or equal to three.
+
+Table A1 reports the mean “relative emissions” by each declared
+class of environmental standard. The result is consistent with our
+expectation: Firms defaulting to “local standards” (Group 1) have
+the highest relative emissions, while ﬁrms applying “an internal
+global standard that exceeds any national standard” (Group 3) have
+the lowest relative emissions. Firms applying U.S. standards over-
+seas (Group 2) were in between these two extremes.
+
+We also conducted a regression analysis. Notice that we did not
+need to control for industrywide effects because the pollution
+measure has been standardized by industry average. We controlled
+for ﬁrm size (log of total dollars of assets) because of possible
+economies (or diseconomies) of scale in “polluting.” The regression
+analysis is reported in Table A2. The results are consistent with
+those in Table A1: (i) ﬁrms that “default to local environmental
+standards” pollute statistically signiﬁcantly more than ﬁrms that
+apply “an internal global standard;” (ii) ﬁrms that “default to local
+environmental standards” pollute more than ﬁrms that apply “U.S.
+standards,” but the difference is not statistically signiﬁcant; and (iii)
+
+17 We have data for both 1994 and 1995. Using 1994 data generates
+similar results that are slightly less signiﬁcant but still acceptable.
+We chose to use the 1995 data because our records on corporate
+environmental standards for 1995 are more complete.
+
+Regression of Relative Emissions in 1995 on Environmental
+Standard and on Dummies Indicating U.S. Standards and
+Global Standards
+
+U.S. Standards
+
+Internal Global
+
+Intercept
+
+Overseas
+
+Standards
+
+Log(assets)
+
+N
+
+R-square
+(Adjusted)
+
+⫺1.857**
+(0.723)
+
+⫺0.418
+(0.307)
+
+⫺0.687***
+(0.224)
+
+0.223***
+(0.08)
+
+82
+
+0.123
+
+*, **, *** Signiﬁcant at 10%, 5% and 1%, respectively.
+The overall model is signiﬁcant at the 5% level (F-value ⫽ 2.728)
+Numbers in parentheses are standard errors.
+
+ﬁrms that apply “U.S. standards” pollute more than ﬁrms that apply
+“an internal global standard,” but the difference is not statistically
+signiﬁcant.
+
+While the tests are relatively simple, they provide evidence that
+our Environmental Standard variable is valid and meaningful:
+Companies using a global environmental standard are relatively
+cleaner in the United States than those companies defaulting to host
+country standards abroad. This is especially signiﬁcant because
+companies that default to host country standards can, by deﬁnition,
+export their dirtiest processes to lax jurisdictions, an option that is
+not open to companies using a single global standard.
+
+References
+Bartlett, C., S. Ghoshal. 1989. Managing Across Borders. Harvard
+
+Business School Press, Boston, MA.
+
+Caves, Richard E. 1996. Multinational Enterprise and Economic Anal-
+
+ysis, 2nd ed. Cambridge University Press, New York.
+
+Christmann, P. 1998. Environmental strategies of multinational chem-
+ical companies: Global integration or national responsiveness.
+Working paper, University of Virginia, Charlottesville, VA.
+
+Cohen, M., S. Fenn, J. Naimon. 1995. Environmental and Financial
+
+Performance. IRRC, Washington, DC.
+
+Daly, H. 1994. Fostering environmentally sustainable development:
+Four parting suggestions for the World Bank. Ecological Econom.
+10 183–187.
+
+Eskeland, G., A. Harrison. 1997. Moving to greener pastures? Multi-
+nationals and the pollution haven hypothesis. Policy Research
+Working Paper 1744, The World Bank, Washington, DC.
+
+Feldman, S., P. Soyka, P. Ameer. 1996. Does Improving a Firm’s
+Environmental Management System and Environmental Perfor-
+mance Result in a Higher Stock Price? ICF Kaiser, Washington.
+
+Gladwin, T., J. Kennelly, T. Krause. 1995. Shifting paradigms for
+sustainable development: Implications for management theory
+and research. Acad. Management Rev. 20 874–907.
+
+Gray, Wayne B., Ronald J. Shadbegian. 1993. Environmental regu-
+lation and manufacturing productivity at the plant level. Dis-
+cussion paper, U.S. Department of Commerce, Center for
+Economic Studies, Washington, D.C.
+
+Greider, W. 1997. One World, Ready or Not. Simon and Schuster, New
+
+York.
+
+Management Science/Vol. 46, No. 8, August 2000
+
+1073
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 
+DOWELL, HART, AND YEUNG
+
+Corporate Global Environmental Standards and Market Value
+
+Grossman, G., A. Krueger. 1995. Economic growth and the environ-
+
+ment. Quart. J. Econom. 110(2) 353–377.
+
+Hamilton, J. 1995. Pollution as news: Media and stock market
+reactions to the Toxics Release Inventory data. J. Environment.
+Econom. Management Rev. 28 98–113.
+
+Hart, S. 1995. A natural-resource-based view of the ﬁrm. Acad.
+
+Management Rev. 20 986–1014.
+1997. Beyond greening: Strategies for a sustainable world.
+Harvard Bus. Rev. 75(1) 67–76.
+, G. Ahuja. 1996. Does it pay to be green? An empirical examina-
+tion of the relationship between emission reduction and ﬁrm
+performance. Bus. Strategy and the Environment 5 30–37.
+
+Haveman, R., G. Christiansen. 1981. Environmental regulations and
+productivity growth. H. Peskin, P. Portney, A. Kneese, eds.
+Environmental Regulation and the U.S. Economy. Resources for the
+Future, Washington, DC.
+
+Hawken, P. 1993. The Ecology of Commerce. HarperBusiness, New York.
+Jaffe, A., S. Peterson, P. Portney, R. Stavins. 1995. Environmental
+regulation and the competitiveness of U.S. manufacturing:
+What does the evidence tell us? J. Econom. Literature 32
+132–163.
+
+Johnson, R., D. Greening. 1994. Relationships between corporate
+social performance, ﬁnancial performance, and ﬁrm gover-
+nance. Acad. Management Best Paper Proc. Dallas, TX 314–318
+
+Kennelly, J. 1996. The relationship of level of multinationality and
+institutional ownership of US ﬁrms and their social and envi-
+ronmental performance. Ph.D. Dissertation, Stern School of
+Business, New York University, New York.
+
+Klassen, R., C. McLaughlin. 1996. The impact of environmental man-
+
+agement on ﬁrm performance. Management Sci. 42 1199–1214.
+
+Kogut, B. 1983. Foreign direct investment as a sequential process. C.
+Kindleberger, D. Audretesch, eds. The Multinational Corporation
+in the 1980s. MIT Press, Cambridge, MA. 38–56.
+
+Korten, D. 1995. When Corporations Rule the World. Berrett-Koehler
+
+Publishers, San Francisco, CA.
+
+The Lamp. 1999. Prince William Sound Revisited. Spring.
+Lindenberg, E. B., S. A. Ross. 1981. Tobin’s q ratio and industrial
+
+organization. J. Bus. 54 (January) 1–32.
+
+Morck, R. K., B. Y. Yeung. 1991. Why investors value multination-
+
+ality. J. Bus. 64 (April) 165–187.
+
+1992. Internalization: An event study test. J. Internat.
+
+1998. Why ﬁrms diversify: Internalization vs. agency
+
+,
+Econom. 33 41–56.
+,
+behavior. Mimeo. March.
+
+Nehrt, C. 1996. Timing and intensity effects of environmental
+
+investments. Strategic Management J. 17 535–547.
+
+Porter, M., C. van der Linde. 1995. Green and competitive: Ending
+
+the stalemate. Harvard Bus. Rev. 73 120–134.
+
+Prahalad, C. K., Y. Doz. 1987. The Multinational Mission. Free Press,
+
+New York.
+
+Rondinelli, D., G. Vastag. 1996. International environmental stan-
+dards and corporate policies: An integrative framework. Cali-
+fornia Management Rev. 39(1) 106–122.
+
+Romm, J. 1993. Lean and Clean Management. Free Press, New York.
+Rugman, Alan M., Alain Verbeke. 1998. Corporate strategies and
+environmental regulations: An organizing framework. Strategic
+Management J. 19 363–375.
+
+Russo, M., P. Fouts. 1997. A resource-based perspective on corpo-
+rate environmental performance and proﬁtability. Acad. Man-
+agement J. 40 534–559.
+
+Stewart, R. 1993. Environmental regulation and international com-
+
+petitiveness. Yale Law J. 102 2039–2106.
+United Nations Commission on Trade
+
+and Development
+(UNCTAD). 1995. World Investment Report. United Nations,
+Geneva, Switzerland.
+
+Vernon, R. 1992. Transnational corporations: Where are they com-
+ing from, where are they headed? Transnational Corporations
+1(2) 7–35.
+
+White, H. 1980. A heteroskedastic-consistent covariance matrix
+estimator and a direct test for heteroskedasticity. Econometrica.
+48 (4) 817–838.
+
+White, M. 1995. Does it pay to be green? Corporate environmental
+responsibility and shareholder value. Working paper, Univer-
+sity of Virginia, Charlottesville, VA.
+
+Wolfensohn, J. 1997. Speech at the Global Knowledge Conference,
+
+Toronto, Ontario, June 18.
+
+Zahra, S., B. Oviatt, K. Minyard. 1993. Effects of corporate owner-
+ship and board structure on corporate social responsibility and
+ﬁnancial performance. Acad. Management Best Paper Proc. At-
+lanta, GA. 336–340.
+
+Accepted by Linda Argote; received July 1, 1998. This paper was with the authors 9 months for 2 revisions.
+
+1074
+
+Management Science/Vol. 46, No. 8, August 2000
+
+Downloaded from informs.org by [152.15.47.133] on 03 February 2017, at 07:21 . For personal use only, all rights reserved. 

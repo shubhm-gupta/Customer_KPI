@@ -1,0 +1,4348 @@
+Journal of Operations Management 29 (2011) 163–180
+
+Contents lists available at ScienceDirect
+
+Journal of Operations Management
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j o m
+
+Supply chain collaboration: Impact on collaborative advantage and ﬁrm
+performance
+Mei Cao a, Qingyu Zhang b,∗
+
+a Department of Business and Economics, University of Wisconsin-Superior, Superior, WI 54880, United States
+b Department of Computer & Information Technology, College of Business, Arkansas State University, State University, AR 72467, United States
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 1 January 2010
+Received in revised form 20 October 2010
+Accepted 16 December 2010
+Available online 29 December 2010
+
+Keywords:
+Supply chain collaboration
+Collaborative advantage
+Survey research
+Structural equation modeling
+
+Facing uncertain environments, ﬁrms have strived to achieve greater supply chain collaboration to lever-
+age the resources and knowledge of their suppliers and customers. The objective of the study is to uncover
+the nature of supply chain collaboration and explore its impact on ﬁrm performance based on a paradigm
+of collaborative advantage. Reliable and valid instruments of these constructs were developed through
+rigorous empirical analysis. Data were collected through a Web survey of U.S. manufacturing ﬁrms in
+various industries. The statistical methods used include conﬁrmatory factor analysis and structural equa-
+tion modeling (i.e., LISREL). The results indicate that supply chain collaboration improves collaborative
+advantage and indeed has a bottom-line inﬂuence on ﬁrm performance, and collaborative advantage is
+an intermediate variable that enables supply chain partners to achieve synergies and create superior
+performance. A further analysis of the moderation effect of ﬁrm size reveals that collaborative advan-
+tage completely mediates the relationship between supply chain collaboration and ﬁrm performance for
+small ﬁrms while it partially mediates the relationship for medium and large ﬁrms.
+
+© 2010 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+In the past decades, there has been a need for ﬁrms to look
+outside their organizations for opportunities to collaborate with
+partners to ensure that the supply chain is efﬁcient and responsive
+to dynamic market needs. Firms have strived to achieve greater
+supply chain collaboration to leverage the resources and knowl-
+edge of their suppliers and customers (Fawcett and Magnan, 2004;
+Lejeune and Yakova, 2005). Supply chain collaboration means two
+or more autonomous ﬁrms working jointly to plan and execute
+supply chain operations (Simatupang and Sridharan, 2002). It can
+deliver substantial beneﬁts and advantages to its partners (Mentzer
+et al., 2000). Firms such as Hewlett–Packard, IBM, Dell, Procter
+& Gamble have forged long-term, collaborative relationships with
+their suppliers to reduce transaction costs and achieve a stronger
+competitive position (Handﬁeld and Bechtel, 2002; Johnson and
+Sohi, 2003; Sheu et al., 2006). Collaborative relationships can help
+ﬁrms share risks (Kogut, 1988), access complementary resources
+(Park et al., 2004), reduce transaction costs and enhance pro-
+ductivity (Kalwani and Narayandas, 1995), and enhance proﬁt
+performance and competitive advantage over time (Mentzer et al.,
+2000).
+
+∗ Corresponding author.
+E-mail addresses: mcao1@uwsuper.edu (M. Cao), qzhang@astate.edu (Q. Zhang).
+
+0272-6963/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jom.2010.12.008
+
+Despite the popularity and beneﬁts of supply chain collab-
+oration, many partner relationships fall short of meeting the
+participants’ expectations (Doz and Hamel, 1998; Barringer and
+Harrison, 2000). Few ﬁrms have truly capitalized on the potential of
+supply chain collaboration (Min et al., 2005; Barratt and Oliveira,
+2001). Supply chain collaboration seems to have great potential,
+but further investigation is needed to recognize its value (Gofﬁn
+et al., 2006).
+
+First, supply chain collaboration (SCC) and supply chain integra-
+tion (SCI) sometimes have been used interchangeably since both
+refer to a tight coupling process between supply chain partners.
+However, the term integration means the uniﬁed control (or own-
+ership) of several successive or similar process formerly carried on
+independently (Webster, 1966; Flynn et al., 2010). So it puts more
+emphasis on central control, ownership, or process integration gov-
+erned by contract means. According to transaction cost economics
+(TCE) theory, between the two ends of governance continuum
+of vertical integration and market exchange, collaboration is an
+intermediate form of hybrid governance. Collaboration is attrac-
+tive since it puts more emphasis on governance through relational
+means in addition to governance through contract means (Nyaga
+et al., 2010). Although there are some overlaps between SCC and SCI,
+SCC is a better construct to capture the joint relationship between
+autonomous supply chain partners.
+
+Knowledge of supply chain collaboration has been obscured by
+the vague term of integration (Gofﬁn et al., 2006). In the exiting
+SCI literature, most studies do not focus on the conceptualiza-
+
+
+164
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+tion of integration, but focus on operationalizing the individual
+component of supply chain integration, e.g., customer integra-
+tion, supplier integration, and internal integration (Frohlich and
+Westbrook, 2001; Narasimhan and Kim, 2002; Chen and Paulraj,
+2004; Petersen et al., 2005; Das et al., 2006; Deveraj et al., 2007;
+Zhao et al., 2008; Van der Vaart and Van Donk, 2008). For more
+detailed review, see Van der Vaart and Van Donk (2008) and Flynn
+et al. (2010). Flynn et al. (2010) point out that many conceptual-
+izations of SCI are incomplete, and these incomplete and evolving
+conceptualizations have led to inconsistent ﬁndings.
+
+A signiﬁcant amount of research has focused on the devel-
+opment of supply chain integration models that advance our
+understanding of this relatively new research area (Frohlich and
+Westbrook, 2001; Narasimhan and Kim, 2002; Das et al., 2006;
+Deveraj et al., 2007; Zhao et al., 2008; Chen and Paulraj, 2004;
+Van der Vaart and Van Donk, 2008; Flynn et al., 2010). What is
+lacking is a framework for accurately deﬁning the extent of supply
+chain collaboration (Lambert et al., 1999). Previous deﬁnitions of
+supply chain collaboration put more emphasis on process integra-
+tion and less on the components of relational communication and
+knowledge creation (Simatupang and Sridharan, 2005). Miscom-
+munication, which causes conﬂicts and misunderstanding between
+supply chain partners, is recognized as the reason for many collabo-
+ration failures (Tuten and Urban, 2001). Communication is the glue
+that holds supply chain partners together through balanced, two-
+way, multilevel contacts and message services (Mohr and Nevin,
+1990; Chen and Paulraj, 2004). Further, collaboration between sup-
+ply chain partners is not merely pure transactions, but leverages
+information sharing and market knowledge creation for sustain-
+able competitive advantage (Malhotra et al., 2005).
+
+Second, in investigating the consequences of supply chain
+collaboration, existing literature has ignored the collaborative
+advantage achieved through collaboration. Collaborative advan-
+tage is a relational view of
+interorganizational competitive
+advantage (Dyer and Singh, 1998). Collaborative advantage comes
+from relational rent, a common beneﬁt that accrues to collabora-
+tive partners through combination, exchange, and codevelopment
+of idiosyncratic resources (Dyer and Singh, 1998). It is joint com-
+petitive advantage and focuses on joint value creation in dyadic
+relationship. Supply chain partners work together toward com-
+mon goals and achieve more mutual beneﬁts than can be achieved
+by acting alone (Mentzer et al., 2001; Stank et al., 2001; Manthou
+et al., 2004; Sheu et al., 2006). In contrast, according to the extended
+resource bases view, competitive advantage focuses more on value
+appropriation by both appropriating relational rent (i.e., common
+beneﬁts) and unilaterally accumulating spillover rents that produce
+private beneﬁts (Lavie, 2006).
+
+The concept of collaborative advantage has been mentioned in
+the literature (Jap, 2001; Dyer and Singh, 1998; Ferratt et al., 1996;
+Kanter, 1994; Vangen and Huxham, 2003). However, the opera-
+tionalization of this construct has not been adequately addressed
+in the extant literature. In addition, when considering performance
+implications of supply chain collaboration, a distinction should
+be made between collaboration performance (e.g., collaborative
+advantage) and the impact of collaborations on ﬁrm performance.
+There are many studies that empirically tested the relationship
+between SCI and ﬁrm performance (Frohlich and Westbrook, 2001;
+Narasimhan and Kim, 2002; Das et al., 2006; Deveraj et al., 2007;
+Van der Vaart and Van Donk, 2008). There are also some studies that
+provided empirical evidence of the impact of supply chain man-
+agement practices or SCI on competitive advantage (or operational
+performance) and ﬁrm performance (Li et al., 2006; Flynn et al.,
+2010); however, there is no empirical work on the impact of SCC
+on collaborative advantage and ﬁrm performance.
+
+The objective of the study is to uncover the nature and char-
+acteristics of supply chain collaboration and explore its impact
+
+on collaborative advantage and ﬁrm performance by answering
+the following research questions? What are the key dimensions
+of supply chain collaboration? What is the performance implica-
+tion of supply chain collaboration? How to measure collaborative
+advantage from a perspective of relational rent? Does collaborative
+advantage completely mediate the relationship between supply
+chain collaboration and ﬁrm performance? Does ﬁrm size moderate
+the relationships among supply chain collaboration, collaborative
+advantage, and ﬁrm performance?
+
+The study contributes to our knowledge on supply chain col-
+laboration by providing theoretical insights and empirical ﬁndings.
+By pooling an extensive set of factors, the research extends our
+understanding of the attributes of supply chain collaboration
+and collaborative advantage. Through a large-scale Web survey
+with manufacturers across the US, the research also intends to
+develop reliable and valid instruments and to empirically test
+the relationships among supply chain collaboration, collabora-
+tive advantage, and ﬁrm performance. In addition, the research
+also tests the moderation effect of ﬁrm size on the relation-
+ships among supply chain collaboration, collaborative advantage,
+and ﬁrm performance using multi-group analysis of structural
+invariance.
+
+2. Theoretical paradigms
+
+Supply chain collaboration is rooted in a paradigm of collabora-
+tive advantage (Kanter, 1994; Dyer, 2000) rather than competitive
+advantage (Porter, 1985). According to the collaborative paradigm,
+a supply chain is composed of a sequence or network of inter-
+dependent relationships fostered through strategic alliances and
+collaboration (Chen and Paulraj, 2004). It is a relational view of
+joint competitive advantage (Dyer and Singh, 1998). Collabora-
+tive advantage comes from relational rents that produce common
+beneﬁts for bilateral rent-seeking behaviors while competitive
+advantage encourages individual rent-seeking behaviors that max-
+imize a ﬁrm’s own beneﬁts (Lavie, 2006). The perspective of
+collaborative advantage enables supply chain partners to view
+supply chain collaboration as a positive-sum game rather than a
+zero-sum game where partners strive to appropriate more rela-
+tional rents for their own competitive advantage. The literature on
+supply chain collaboration represents multiple perspectives. This
+study examines supply chain collaboration from four perspectives:
+(1) transaction cost economics, (2) resource based view, (3) rela-
+tional view, and (4) extended resource based view.
+
+2.1. Transaction cost economics
+
+Transaction cost economics (TCE) is a very inﬂuential theory
+that can explain relationships among ﬁrms (Williamson, 1975;
+Barringer and Harrison, 2000). Williamson (1975) identiﬁes hier-
+archies and markets as two methods to organize. According to TCE,
+the decision to use either vertical integration/hierarchies or mar-
+ket mechanisms depends on the relative monitoring costs that arise
+from bounded rationality and from uncertainties due to partners’
+self-interest and opportunism (Kaufman et al., 2000).
+
+Supply chain collaboration emerges as the third alternative
+to organizing, which helps avoid the problems arising from both
+hierarchies and markets (Koh and Venkatraman, 1991). Supply
+chain collaboration helps ﬁrms reduce the costs of opportunism
+and monitoring that are inherent in market transactions through
+process integration and mutual trust, thus increasing the proba-
+bility that partners behave in the best interest of the partnership
+(Croom, 2001). Supply chain collaboration also helps ﬁrms avoid
+internalizing an activity that may not be aligned with their
+competencies.
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+165
+
+H1
+
+H4a 
+
+Supply Chain 
+Collaboration 
+
+Information Sharing 
+Goal Congruence 
+Decision Synchronization 
+Incentive Alignment 
+Resource Sharing 
+Collaborative Communication 
+Joint Knowledge Creation 
+
+Collaborative 
+
+Advantage 
+
+Process Efficiency 
+Offering Flexibility 
+Business Synergy 
+Quality 
+Innovation 
+
+Firm
+Size
+
+H4c 
+
+H3
+
+H2
+
+H4a 
+
+Firm
+
+Performance 
+
+Growth of sales  
+Return on investment 
+Growth in return on investment 
+Profit margin on sales 
+
+Fig. 1. Impact of supply chain collaboration on collaborative advantage and ﬁrm performance.
+
+2.2. Resource based view
+
+Resource based view (RBV) of the ﬁrm also receives much atten-
+tion in explaining supply chain collaboration. The key concepts of
+RBV are resources, capabilities, and strategic assets (Barney, 1991).
+RBV argues that variance in ﬁrm performance can be explained by
+strategic resources, such as core competence (Prahalad and Hamel,
+1990), dynamic capability (Teece et al., 1997), and absorptive
+capacity (Cohen and Levinthal, 1990). Firms that combine resources
+in a unique way may achieve an advantage over competing ﬁrms
+who are unable to do so (Dyer and Singh, 1998). By owning scarce
+resources and assets and excelling in core competencies and capa-
+bilities, ﬁrms can reach a sustained market advantage (Knudsen,
+2003). RBV claims that investing in relation-speciﬁc assets enables
+partnering ﬁrms to build competitive advantage because of their
+rare, valuable, non-substitutable, and difﬁcult-to-imitate nature
+(Barney, 1991).
+
+The embeddedness of the supply chain partnering ﬁrms’ rela-
+tional assets and the causal ambiguity makes it difﬁcult for their
+competitors to imitate (Jap, 2001). Supply chain collaboration also
+allows ﬁrms to focus on their unique core activities, which increase
+ﬁrm speciﬁc skills and realize economies of scale and learning
+effects, thereby improving their competitive positions (Park et al.,
+2004).
+
+2.3. Relational view
+
+The relational view (RV) complements the RBV by arguing that
+critical resources may span ﬁrm boundaries (Dyer and Singh, 1998).
+Firms can earn not only internal rents (i.e., Ricardian rents from
+scarcity of resources and quasi-rents from added value) but also
+relational rents. A relational rent is deﬁned as a supernormal proﬁt
+jointly generated in an exchange relationship that cannot be cre-
+ated by either ﬁrm in isolation and can only be created through
+the joint contributions of the collaborative partners (Dyer and
+Singh, 1998; Lavie, 2006). Relational rents are possible when col-
+laborative partners combine and exchange idiosyncratic assets,
+knowledge, and capabilities through relation-speciﬁc investments,
+inter-ﬁrm knowledge-sharing routines, complementary resource
+endowments, and effective governance mechanisms.
+
+Collaborative advantage is based on the relational view, which
+elaborates on the mechanisms of joint value creation (i.e., inter-ﬁrm
+rent generation). It argues relational rents accrue at the collabora-
+tion level for mutual beneﬁts. Unlike studies that acknowledge the
+role of both private and common beneﬁts (Hamel, 1991; Khanna
+
+et al., 1998), the relational view emphasizes common beneﬁts that
+collaborative partners cannot generate independently.
+
+2.4. Extended resource-based view
+
+Conventional RBV assumes ﬁrms must own or fully control
+the resources to create value. In the extended resource-based
+view (ERBV), resource accessibility, the right to employ resources
+or enjoy their associated beneﬁts, enables ﬁrms to achieve
+advantages. Lavie (2006) extends the RBV by explaining how inter-
+connected ﬁrms in dyadic collaboration/alliance combine external
+resources and internal resource endowments to achieve com-
+petitive advantage for the focal ﬁrm. According to Lavie (2006),
+the competitive advantage of a focal ﬁrm participating in an
+alliance/collaboration includes four elements: (1) internal rent, (2)
+appropriated relational rent, (3) inbound spillover rent, and (4)
+outbound spillover rent. Internal rent can be extracted from the
+focal ﬁrm’s own shared and nonshared resources. Appropriated
+relational rent can be extracted only from the shared resources of
+both partners. Inbound spillover rent is the rent generated from
+the partner’s shared and nonshared resources through knowledge
+leakage, inter-ﬁrm learning, relative absorptive capacity, and inter-
+nalization of the partner’s practices, whereas outbound spillover
+rent results from the transfer of beneﬁts from the focal ﬁrm to the
+partner. The combination of internal rent, inbound spillover rent,
+and outbound spillover rent forms private beneﬁts for the focal
+ﬁrm. Its competitive advantage depends on its private beneﬁts and
+appropriated relational rent (i.e., appropriated common beneﬁts).
+In contrast, collaborative advantage is joint competitive advan-
+tage and come from a relational rent, a common beneﬁt that accrues
+to collaborative partners (Dyer and Singh, 1998). This type of rent
+cannot be generated individually by either collaborative partner. In
+addition, Lavie’s (2006) model extends prior research on joint value
+creation in dyadic alliance by considering unilateral accumulation
+of spillover rents that produce private beneﬁts.
+
+3. Conceptual development
+
+By collaborating, supply chain partners can work as if they were
+a part of a single enterprise (Lambert and Christopher, 2000). They
+can access and leverage each other’s resources and enjoy their
+associated beneﬁts. Such collaboration can increase collaborative
+advantage and enhance ﬁrm performance. The relationships might
+also be moderated by ﬁrm size. These direct, mediating, and mod-
+erating effects are captured in a framework as shown in Fig. 1.
+
+
+166
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+3.1. Supply chain collaboration
+
+Supply chain collaboration has been deﬁned in many different
+ways, and basically they fall into two groups of conceptualization:
+process focus and relationship focus. Supply chain collaboration
+has been viewed as a business process whereby two or more supply
+chain partners work together toward common goals (Mentzer et al.,
+2001; Stank et al., 2001; Manthou et al., 2004; Sheu et al., 2006),
+while SCC has also been deﬁned as the formation of close, long-
+term partnerships where supply chain members work together
+and share information, resources, and risk to accomplish mutual
+objectives (Bowersox et al., 2003; Golicic et al., 2003). The litera-
+ture review reveals the importance of planning activities (Boddy
+et al., 2000), integrating cross-functional processes (Lambert et al.,
+1999), coordinating the supply chain (Kim and Umanath, 2005), set-
+ting supply chain goals (Peck and Juttner, 2000), and establishing
+information sharing parameters (Lamming, 1996).
+
+Combining both process and relationship focus, SCC is deﬁned
+as a partnership process where two or more autonomous ﬁrms
+work closely to plan and execute supply chain operations toward
+common goals and mutual beneﬁts. SCC consists of information
+sharing (Manthou et al., 2004), goal congruence (Angeles and Nath,
+2001), decision synchronization (Stank et al., 2001), resource shar-
+ing (Sheu et al., 2006), and incentive alignment (Simatupang and
+Sridharan, 2005) among independent supply chain partners.
+
+While researchers have addressed some aspects of supply chain
+collaboration, they have not adequately highlighted the need
+for collaborative communication as a critical variable (Mohr and
+Nevin, 1990). Another overlooked but crucial variable in sup-
+ply chain collaboration is joint knowledge creation (Johnson and
+Sohi, 2003). Synthesizing the literature, this study deﬁnes sup-
+ply chain collaboration as seven interconnecting components:
+information sharing, goal congruence, decision synchronization,
+incentive alignment, resources sharing, collaborative communica-
+tion, and joint knowledge creation. These seven dimensions are
+expected to be intercorrelated and covary with each other although
+there might be causal relationships among them. They add value
+to supply chain collaboration by reducing costs and response time,
+leveraging resources, and improving innovation.
+
+Information sharing refers to the extent to which a ﬁrm shares
+a variety of relevant, accurate, complete, and conﬁdential informa-
+tion in a timely manner with its supply chain partners (Angeles
+and Nath, 2001; Cagliano et al., 2003; Sheu et al., 2006). Informa-
+tion sharing is described as the “heart” (Lamming, 1996), “lifeblood”
+(Stuart and McCutcheon, 1996), “nerve center” (Chopra and Meindl,
+2001), “essential ingredient” (Min et al., 2005), “key requirement”
+(Sheu et al., 2006), and “foundation” (Lee and Whang, 2001) of
+supply chain collaboration. The Global Logistics Research Team at
+Michigan State University (1995) deﬁnes information sharing as
+the willingness to make strategic and tactical data such as inven-
+tory levels, forecasts, sales promotion, strategies, and marketing
+strategies available to ﬁrms forming supply chain nodes.
+
+Goal congruence between supply chain partners is the extent to
+which supply chain partners perceive their own objectives are sat-
+isﬁed by accomplishing the supply chain objectives. It is the degree
+of goal agreement among supply chain partners (Angeles and Nath,
+2001). In the case of true goal congruence, supply chain partners
+either feel that their objectives fully coincide with those of the sup-
+ply chain, or, in case of disparity, believe that their goals can be
+achieved as a direct result of working toward the objectives of the
+supply chain (Lejeune and Yakova, 2005).
+
+Decision synchronization refers to the process by which supply
+chain partners orchestrate decisions in supply chain planning and
+operations that optimize the supply chain beneﬁts (Simatupang
+and Sridharan, 2002). Planning decisions are required to determine
+the most efﬁcient and effective way to use the ﬁrm’s resources
+
+to achieve a speciﬁc set of objectives. There are seven key sup-
+ply chain management planning decision categories: operations
+strategy planning, demand management, production planning and
+scheduling, procurement, promise delivery, balancing change, and
+distribution management (Lockamy and McCormack, 2004). Joint
+planning is used to align collaborative partner and to make operat-
+ing decisions including inventory replenishment, order placement,
+and order delivery.
+
+Incentive Alignment refers to the process of sharing costs,
+risks, and beneﬁts among supply chain partners (Simatupang and
+Sridharan, 2005). It includes determining costs, risks, and bene-
+ﬁts as well as formulating incentive schemes. Successful supply
+chain partnerships require that each participant share gains and
+losses equitably and the outcomes of the collaboration are quan-
+tiﬁably beneﬁcial to all (Manthou et al., 2004). Incentive alignment
+requires a careful deﬁnition of mechanisms that share gains equi-
+tably, which means gains are commensurate with investment and
+risk (Lee and Whang, 2001).
+
+Resource sharing refers to the process of leveraging capabilities
+and assets and investing in capabilities and assets with supply chain
+partners. Resources include physical resources, such as manufac-
+turing equipment, facility, and technology (Harland et al., 2004).
+The large body of literature on industry clusters and regional net-
+works is one example of the importance of this phenomenon
+(e.g. Dyer, 1996). In the retailing sector, practices such as vendor-
+managed inventory (VMI) enable suppliers to assess stock-level
+data, via Electronic Data Interchange (EDI), and take the necessary
+replenishment action (Lamming, 1996).
+
+Collaborative communication is the contact and message trans-
+mission process among supply chain partners in terms of frequency,
+direction, mode, and inﬂuence strategy. Open, frequent, balanced,
+two-way, multilevel communication is generally an indication
+of close interorganizational relationships (Gofﬁn et al., 2006;
+Tuten and Urban, 2001). In-depth work by Mohr and Nevin
+(1990) explores the pattern of communication from the mecha-
+nistic perspective of communication theory. They coin the term
+“collaborative communication strategy,” which refers to key com-
+munication attributes including frequency, extent of bi-directional
+ﬂows, informal modes, and indirect content.
+
+Joint knowledge creation refers to the extent to which supply
+chain partners develop a better understanding of and response
+to the market and competitive environment by working together
+(Malhotra et al., 2005). There are two kinds of knowledge cre-
+ation activities: knowledge exploration (i.e., search and acquire
+new and relevant knowledge) and knowledge exploitation (i.e.,
+assimilate and apply relevant knowledge) (Bhatt and Grover, 2005).
+The capture, exchange, and assimilation of knowledge (e.g., process,
+technology, or market knowledge) between supply chain partners
+enable innovation and the long-term competitiveness of the supply
+chain as a whole (Harland et al., 2004).
+
+3.2. Collaborative advantage
+
+Collaborative advantage is also called joint competitive advan-
+tage (Jap, 2001).
+It refers to strategic beneﬁts gained over
+competitors in the marketplace through supply chain partnering.
+Collaborative advantage relates to the desired synergistic outcome
+of collaborative activity that could not have been achieved by
+any ﬁrm acting alone (Vangen and Huxham, 2003). Jap (1999)
+explains that collaboration can enlarge the size of the joint ben-
+eﬁts and give each member a share of greater gain that could
+not be generated by each member on its own. The value cre-
+ation from collaboration could be cost savings through the transfer
+of best practices, enhanced capacity and ﬂexibility for collective
+actions, better decision making and increased revenue through
+resource synergy, and innovation through the combination and
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+167
+
+cross-pollination of ideas. Beneﬁts by business synergy may not
+be immediately visible; however potential long-term rewards are
+enticing and strategic (Min et al., 2005). Synthesizing the above
+studies, this research conceptualizes collaborative advantage as the
+following ﬁve sub-components: process efﬁciency, offering ﬂexibil-
+ity, business synergy, quality, and innovation. These collaborative
+advantage and performance are viewed from the focal ﬁrm’s per-
+spective (Duffy and Fearne, 2004).
+
+Process efﬁciency refers to the extent to which a ﬁrm’s collab-
+oration process with supply chain partners is cost competitive
+among primary competitors (Bagchi and Skjoett-Larsen, 2005). The
+process could be information sharing process, joint logistics pro-
+cess, joint product development process, or joint decision making
+process. Process efﬁciency is a measure of success and a deter-
+minant factor of the ability of the ﬁrm to proﬁt (e.g., inventory
+turnover and operating cost). Supply chain collaboration facilitates
+the cooperation of participating members along the supply chain to
+improve performance (Bowersox, 1990). The beneﬁts of collabora-
+tion include cost reductions and revenue enhancements (Lee et al.,
+1997).
+
+Offering ﬂexibility refers to the extent to which a ﬁrm’s supply
+chain linkage supports changes in product or service offerings (e.g.,
+features, volume, and speed) in response to environmental changes.
+It is also called customer responsiveness in literature (Kiefer and
+Novack, 1999; Holweg et al., 2005). Offering ﬂexibility is based on
+the ability of collaborating ﬁrms to quickly change process struc-
+tures or adapt the information sharing process for modifying the
+features of a product or service (Gosain et al., 2004). In today’s
+market ﬁrms indeed pay attention to customers and more ﬁrms
+solicit customer inputs at the design stage resulting in better accep-
+tance of the products and services later (Bagchi and Skjoett-Larsen,
+2005).
+
+Business synergy refers to the extent to which supply chain part-
+ners combine complementary and related resources to achieve
+supernormal beneﬁts. Ansoff (1988) suggests that synergy can pro-
+duce a combined return on resources that is greater than the sum
+of individual parts (2 + 2 = 5). This joint effect results from the pro-
+cess of making better use of resources in the supply chain, including
+physical assets such as manufacturing facilities and invisible assets
+such as customer knowledge, technological expertise, and organi-
+zational culture (Itami and Roehl, 1987). Tanriverdi (2006) offers
+two major sources of synergy: super-additive value by comple-
+mentary resources and sub-additive cost (or economies of scope)
+by related resources.
+
+Quality refers to the extent to which a ﬁrm with supply chain
+partners offers quality product that creates higher value for cus-
+tomers (Gray and Harvey, 1992; Li et al., 2006). It is expected
+that ﬁrms that can respond fast to customer needs with high
+quality product and innovative design, and excellent after-sales
+service allegedly build customer loyalty, increase market share
+and ultimately gain high proﬁts. Garvin (1988) proposes eight
+dimensions of quality: performance, features, reliability, confor-
+mance, durability, serviceability, aesthetics, and perceived quality,
+which are comprehensive but measures for each are difﬁcult to
+establish.
+
+Innovation refers to the extent to which a ﬁrm works jointly with
+its supply chain partners in introducing new processes, products, or
+services. Due to shorter product life cycles, ﬁrms need to innovate
+frequently and in small increments (Handﬁeld and Pannesi, 1995;
+Kessler and Chakrabarti, 1996). By carefully managing their rela-
+tionships with suppliers and customers, ﬁrms improve their ability
+to engage in process and product innovation (Kaufman et al., 2000).
+By tapping joint creativity capacities, joint organizational learning,
+knowledge sharing, joint problem solving between supply chain
+partners, ﬁrms can improve absorptive capacity and thus introduce
+new products and services fast and frequently.
+
+3.3. Firm performance
+
+Firm performance refers to how well a ﬁrm fulﬁlls its ﬁnancial
+goals compared with the ﬁrm’s primary competitors (Yamin et al.,
+1999; Barua et al., 2004; Li et al., 2006). In this study ﬁrm perfor-
+mance is measured by sales growth, proﬁt margin on sales, return
+on investment (ROI), and growth in return on investment. These
+measures have been widely used in previous researches because
+they are primary yardsticks for most stakeholders (Vickery et al.,
+1999; Stock et al., 2000; Chang and King, 2005; Chen and Paulraj,
+2004; Flynn et al., 2010; Petersen et al., 2005; Narasimhan and
+Kim, 2002). Effectiveness of supply chain collaboration should be
+reﬂected on such ﬁnancial metrics.
+
+3.4. Hypotheses development
+
+Previous studies suggested that collaboration beneﬁts include
+cost reduction, risk sharing, access to ﬁnancial capital, complemen-
+tary assets, improved capacity for rapid learning, and knowledge
+transfer (Singh and Mitchell, 1996; Park et al., 2004). Simatupang
+and Sridharan (2005) introduce a collaboration index to measure
+the level of collaborative practices and ﬁnd that the collaboration
+index is positively associated with operational performance.
+
+Supply chain collaboration enables the chain members to cre-
+ate responsiveness to react to demand changes. Close collaboration
+enables the supply chain partners to improve their ability to fulﬁll
+customer needs by ﬂexible offerings (Simatupang and Sridharan,
+2005). Decision synchronization and incentive alignment signiﬁ-
+cantly inﬂuence responsiveness performance (Fisher, 1997).
+
+Supply chain collaboration promotes a ﬁrm’s ability to capitalize
+quickly on market opportunities (Uzzi, 1997). For example, joint
+problem-solving increases the speed that products are brought to
+market by resolving problems faster. Collaboration between supply
+chain partners can be sources of new product ideas (Kalwani and
+Narayandas, 1995).
+
+Shared resources between supply chain partners could be
+related sources, which reduces sub-additive cost, or complemen-
+tary resources, which bring super-additive value (Tanriverdi, 2006).
+Both sources of business synergy can bring joint competitive advan-
+tage (i.e., collaborative advantage). Firms such as Procter & Gamble,
+Hewlett-Packard, IBM, and Dell which work closely with their part-
+ners have captured the advantage of collaboration (Barratt and
+Oliveira, 2001; Callioni and Billington, 2001). Therefore, this study
+develops the following hypothesis:
+
+Hypothesis 1. Supply chain collaboration has a signiﬁcant posi-
+tive effect on collaborative advantage.
+
+The necessary condition for supply chain collaboration is that
+the supply chain partners are able to expand the total gain due
+to synergy (Simatupang and Sridharan, 2005). The supply chain
+partners will gain ﬁnancial beneﬁts by increasing responsiveness,
+especially for innovative products (Fisher, 1997). The literature
+also supports the ability of partnerships to achieve cost savings
+and reduce duplication of efforts by the ﬁrms involved (Lambert
+et al., 2004). In particular, cooperation among competitors can fos-
+ter greater knowledge seeking and result in synergetic rents (Lado
+et al., 1997).
+
+In the short term, ﬁrms will see operational improvements (e.g.,
+productivity) as the primary beneﬁts. In the long run, ﬁrms expect
+the supply chain collaboration to pay off through more competitive
+products and quicker product development that will transform into
+possible competitive advantage and increased proﬁts (Stuart and
+McCutcheon, 1996). Thus this study hypothesizes:
+
+Hypothesis 2. Collaborative advantage has a signiﬁcant positive
+effect on ﬁrm performance.
+
+
+168
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+Many scholars contend that both customer and supplier ﬁrms
+seek collaborative relationships with each other as a way of
+improving performance (Duffy and Fearne, 2004; Sheu et al.,
+2006). Supplier ﬁrms can obtain high sales and earn great returns
+from resources invested in maintaining long-term relationships
+with their customers (Kalwani and Narayandas, 1995). Stank
+et al. (2001) suggest that both internal and external collaboration
+are necessary to ensure performance. Partnerships can improve
+proﬁtability, reduce purchasing costs, and increase technical coop-
+eration (Ailawadi et al., 1999; Han et al., 1993).
+
+Lee and Whang (2001) report that a study conducted jointly
+by Stanford University and Accenture on 100 manufacturers and
+100 retailers in the food and consumer products industry reveals
+that companies that reported higher than average proﬁts were the
+ones who were engaged in higher levels of information sharing. In
+general, researchers suggest that the higher the level of interdepen-
+dence (i.e., higher level of collaboration) in a relationship the better
+ﬁrm performance (Duffy and Fearne, 2004; Mohr and Spekman,
+1994). Thus this study hypothesizes:
+
+Hypothesis 3. Supply chain collaboration has a signiﬁcant posi-
+tive effect on ﬁrm performance.
+
+Supply chain collaboration can deliver beneﬁts to all partners,
+for example, reducing risk and cost and increasing productivity
+and proﬁt. However, collaborating with partners can also cause
+increased costs of coordination, compromise, and inﬂexibility (Das
+et al., 2006). The effect of SCC on collaborative advantage and
+ﬁrm performance is a multi-faceted and intricate issue, which
+might require a contingency perspective (Sousa and Voss, 2008).
+Potentially, there are many other factors that might impact ﬁrm
+performance including environmental or contextual variables such
+as ﬁrm size (Frohlich and Westbrook, 2001; Hendricks and Singhal,
+2005; Krause et al., 2007; Deveraj et al., 2007; Danese, 2007;
+Småros, 2007; Johnson et al., 2007; Ramaswami et al., 2009;
+Yeung, 2008; Heim and Peng, 2008). Firm size can be repre-
+sented as the number of employees, e.g., small – less than 250,
+medium – between 250 and 500, and large – greater than 500
+(Deveraj et al., 2007). Firms with different sizes might have dif-
+ferent supply chain collaborative efforts, achieve different levels
+of collaborative advantage and beneﬁts, and thus attain different
+levels of ﬁrm performance. Thus, this study hypothesizes that ﬁrm
+size will moderate the relationships proposed in the framework.
+Speciﬁcally,
+
+Hypothesis 4a. Firm size moderates the relationship between SCC
+and collaborative advantage.
+
+Hypothesis 4b.
+collaborative advantage and ﬁrm performance.
+
+Firm size moderates the relationship between
+
+Hypothesis 4c. Firm size moderates the relationship between SCC
+and ﬁrm performance.
+
+4. Instrument development
+
+The development of instruments for supply chain collabora-
+tion and collaborative advantage was carried out in three steps:
+(1) item generation, (2) structured interview and Q-sort, and (3)
+large-scale analysis. First, to ensure the content validity of the con-
+structs, an extensive literature review was conducted to deﬁne each
+construct and generate the initial items for measuring the con-
+structs. Then, a structured interview and Q-sort were conducted
+to provide a preliminary assessment of the reliability and validity
+of the scales. The third step was a large-scale survey to validate the
+instruments.
+
+4.1. Item generation
+
+The objective of item generation is to achieve the content
+validity of constructs by reviewing literature and consulting with
+academic and industrial experts. The measurement items for a scale
+should cover the content domain of a construct (Churchill, 1979;
+Segars and Grover, 1998). To generate measurement items for each
+construct, prior research was extensively reviewed (see Appendix
+A for literature citations) and an initial list of potential items was
+compiled. Out of the extensive literature, 42 items were created
+for seven components of supply chain collaboration and 20 items
+were developed for ﬁve components of collaborative advantage.
+A 5-point Likert scale was used to indicate the extent to which
+managers agree or disagree with each statement where 1 = strongly
+disagree, 2 = disagree, 3 = neutral, 4 = agree, and 5 = strongly agree.
+
+4.2. Structured interview and Q-sort
+
+After the measurement items were created, the common pool of
+items were reviewed and evaluated by practitioners from four dif-
+ferent manufacturing ﬁrms to pre-assess the reliability and validity
+of the scales. First, structured interviews were conducted to check
+the relevance and clarity of each sub-construct’s deﬁnition and
+the wording of question items. Then, interviewees were asked to
+sort out the questionnaire items into corresponding sub-constructs.
+Based on the feedback from the experts, redundant and ambiguous
+items were eliminated or modiﬁed. New items were added when
+necessary. Three Q-sort measures were used to evaluate the instru-
+ments. Inter-judge raw agreement score is the number of items
+that both judges agree to place into a certain category divided by
+the total number of items. Second, item placement ratio (i.e., hit
+ratio) is items that are correctly sorted into the intended theoret-
+ical category divided by twice the total number of items. Third,
+Cohen’s Kappa is the proportion of joint judgments where there is
+agreement after chance agreement is excluded. The detailed Q-sort
+results are available from the authors. After two rounds of Q-sort,
+items were distributed to six academicians who reviewed each item
+and indicated to keep, drop, modify, or add items to the constructs.
+The purpose was to further reﬁne the items. Based on the feed-
+back from the reviewers, items were further modiﬁed. Overall, 59
+questionnaire items were sent out for a large-scale survey.
+
+4.3. Sampling design and large-scale data collection
+
+Supply chain collaboration and collaborative advantage focus
+on the joint relationship between supply chain partners. Therefore,
+the theoretical constructs identiﬁed in this study are conceptual-
+ized to study the dyadic relationship between manufacturers and
+their primary/key suppliers. The unit of analysis is thus the dyadic
+relationship, viewed from a focal manufacturer’s perspective.
+
+The sample respondents were expected to have knowledge or
+experience in supply chain management. The target respondents
+were CEOs, presidents, vice presidents, directors, or managers in
+the manufacturing ﬁrms across the U.S. We focused the survey on
+a senior manager per company as the key informant. The sample
+respondents were expected to cover the following seven SIC codes:
+Furniture and Fixtures (SIC 25), Rubber and Plastic Products (SIC
+30), Fabricated Metal Products (SIC 34), Industrial Machinery and
+Equipment (SIC 35), Electric and Electronic Equipment (SIC 36),
+Transportation Equipment (SIC 37), and Instruments and Related
+Products (SIC 38).
+
+An email list of 5000 target respondents were purchased from
+Council of Supply Chain Management Professionals (CSCMP), a
+prestigious association of professionals in the area of supply chain
+management, and lead411.com, a professional list company which
+is specialized at providing executive level email lists. The sam-
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+169
+
+Table 1
+Demographic data for the respondents (211 responses).
+
+Variables
+
+Total
+responses
+
+First-wave
+frequency
+
+Second/third
+wave frequency
+
+Chi-square
+test
+
+SIC
+25
+30
+34
+35
+36
+37
+38
+Others
+
+Firm size
+1–50
+51–100
+101–250
+251–500
+501–1000
+1001+
+
+Job title
+CEO/President
+Vice President
+Manager
+Director
+Others
+
+8
+9
+40
+30
+67
+29
+23
+5
+
+10
+16
+38
+58
+14
+75
+
+54
+99
+27
+23
+8
+
+4
+4
+25
+23
+43
+21
+15
+4
+
+7
+12
+27
+34
+8
+51
+
+36
+62
+20
+17
+4
+
+4
+5
+15
+7
+24
+8
+8
+1
+
+3
+4
+11
+24
+6
+24
+
+18
+37
+7
+6
+4
+
+(cid:2)2 = 10.00
+df = 7
+p = 0.17
+
+(cid:2)2 = 4.71
+df = 5
+p = 0.45
+
+(cid:2)2 = 4.73
+df = 4
+p = 0.32
+
+ple of 5000 respondents was randomly generated from their large
+databases with the speciﬁed SIC codes and job titles. A Web sur-
+vey was conducted to reach as many respondents as possible and
+retrieve as much information as possible in short time. Excluding
+multiple names from the same organization, undelivered emails,
+and returned emails saying that target respondents were no longer
+with the company, the actual mailing list contained 3538 names.
+
+Table 2
+Conﬁrmatory factor analysis results for supply chain collaboration.
+
+To improve the response rate, three waves of emails were sent
+once a week. Out of the 227 responses received (16 incomplete),
+211 are usable resulting in a response rate of 6.0%. Character-
+istics of the respondents appear in Table 1. A chi-square test is
+conducted to check non-response bias (see Table 1). The results
+show that there is no signiﬁcant difference between the ﬁrst-wave
+and second/third-wave respondents by all three categories (i.e., SIC
+code, ﬁrm size, and job title) at the level of 0.1. It exhibits that
+received questionnaires from respondents represent an unbiased
+sample.
+
+4.4. Common method variance
+
+The data were collected from a single respondent per ﬁrm, so
+common method bias may be a problem (Podsakoff et al., 2003).
+Analysis of Harmon’s single-factor test of common method bias
+(Podsakoff et al., 2003; Harman, 1967) revealed 10 factors with
+Eigenvalues above 1, explaining 74.9% total variance. The ﬁrst fac-
+tor explained 35.8% of the variance, which is not the majority of
+the total variance. As a second test of common method bias, conﬁr-
+matory factor analysis was applied to Harman’s single-factor model
+(Sanchez and Brock, 1996; Flynn et al., 2010). The model’s ﬁt indices
+of (cid:2)2/df = 7.8, NNFI = 0.49, CFI = 0.51, and RMSEA = 0.18 were signif-
+icantly worse than those of the measurement model. This suggests
+that a single factor is not acceptable, thus the common method bias
+is small. To further assess common method bias, a measurement
+model having only the traits and one including a method factor in
+addition to the traits was tested (Widaman, 1985; Williams et al.,
+1989; Podsakoff et al., 2003; Paulraj et al., 2008; Flynn et al., 2010).
+The results indicated that the method factor, accounting for 8% of
+the total variance, marginally improved the model ﬁt indices (NNFI
+by 0.01 and CFI by 0.02). Also, the item loadings for their factors are
+still signiﬁcant in spite of the inclusion of a method factor. Based on
+
+Goal
+congruence
+
+Decision syn-
+chronization
+
+Incentive
+alignment
+
+Resource
+sharing
+
+Collaborative
+communication
+
+Joint knowledge
+creation
+
+Information
+sharing
+0.86 (−)
+0.79 (12.64)
+0.75 (12.63)
+0.70 (11.50)
+
+Items
+
+SCIS2
+SCIS3
+SCIS4
+SCIS5
+SCGC1
+SCGC2
+SCGC3
+SCGC4
+SCDS1
+SCDS2
+SCDS3
+SCDS4
+SCIA1
+SCIA2
+SCIA4
+SCIA5
+SCRS1
+SCRS3
+SCRS4
+SCRS5
+SCCM1
+SCCM2
+SCCM3
+SCCM4
+SCCM5
+SCKC1
+SCKC2
+SCKC3
+SCKC4
+SCKC5
+AVE
+␳c
+(reliability)
+
+0.86 (−)
+0.77 (10.12)
+0.75 (12.63)
+0.78 (13.29)
+
+0.77 (−)
+0.75 (11.20)
+0.70 (10.35)
+0.70 (10.25)
+
+0.73 (−)
+0.80 (11.57)
+0.74 (10.60)
+0.75 (10.83)
+
+0.73 (−)
+0.81 (11.16)
+0.78 (10.78)
+0.81 (11.24)
+
+0.88 (−)
+0.88 (18.10)
+0.70 (11.97)
+0.78 (14.35)
+0.73 (12.80)
+
+0.60
+0.86
+
+0.63
+0.87
+
+0.55
+0.83
+
+0.58
+0.84
+
+0.61
+0.86
+
+0.64
+0.90
+
+0.90 (−)
+0.87 (18.27)
+0.81 (15.75)
+0.75 (13.83)
+0.76 (13.91)
+0.67
+0.91
+
+
+170
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+M
+C
+C
+S
+
+e
+e
+r
+F
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+S
+R
+C
+S
+
+e
+e
+r
+F
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+A
+I
+C
+S
+
+e
+e
+r
+F
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+b
+6
+6
+5
+
+.
+
+.
+
+9
+0
+7
+5
+
+3
+4
+1
+5
+
+.
+
+a
+9
+2
+8
+
+.
+
+a
+1
+4
+0
+1
+
+.
+
+.
+
+0
+8
+1
+5
+
+.
+
+0
+9
+9
+4
+
+1
+5
+3
+4
+
+.
+
+9
+4
+9
+3
+
+.
+
+a
+4
+7
+9
+
+.
+
+a
+1
+2
+7
+
+.
+
+b
+0
+1
+5
+
+.
+
+7
+4
+3
+5
+
+.
+
+6
+4
+5
+7
+
+.
+
+9
+2
+6
+3
+
+.
+
+3
+7
+3
+4
+
+.
+
+5
+2
+8
+6
+
+.
+
+9
+1
+1
+3
+
+.
+
+a
+6
+8
+6
+
+.
+
+a
+6
+5
+0
+1
+
+.
+
+a
+9
+5
+9
+
+.
+
+a
+9
+8
+6
+
+.
+
+.
+
+4
+6
+6
+6
+
+1
+4
+1
+5
+
+.
+
+.
+
+7
+9
+7
+8
+
+4
+7
+0
+5
+
+.
+
+S
+D
+C
+S
+
+e
+e
+r
+F
+
+8
+7
+9
+5
+
+.
+
+5
+8
+0
+4
+
+.
+
+8
+3
+8
+7
+
+.
+
+5
+8
+3
+4
+
+.
+
+a
+3
+7
+1
+1
+
+.
+
+a
+9
+4
+2
+1
+
+.
+
+b
+2
+4
+6
+
+.
+
+b
+4
+0
+5
+
+.
+
+b
+0
+5
+6
+
+.
+
+1
+7
+6
+2
+
+.
+
+.
+
+2
+0
+6
+7
+
+9
+5
+1
+6
+
+.
+
+5
+9
+3
+5
+
+.
+
+6
+8
+5
+5
+
+.
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+C
+G
+C
+S
+
+e
+e
+r
+F
+
+9
+2
+0
+2
+
+.
+
+9
+2
+4
+6
+
+.
+
+.
+
+0
+1
+9
+4
+
+1
+9
+8
+4
+
+.
+
+6
+3
+9
+4
+
+.
+
+b
+4
+2
+4
+
+.
+
+a
+4
+6
+8
+
+.
+
+a
+5
+1
+7
+
+.
+
+a
+7
+4
+7
+
+.
+
+b
+5
+0
+6
+
+.
+
+b
+7
+8
+4
+
+.
+
+.
+f
+i
+
+D
+
+9
+8
+1
+4
+
+.
+
+1
+1
+4
+7
+
+.
+
+0
+8
+0
+3
+
+.
+
+1
+4
+2
+3
+
+.
+
+.
+
+0
+2
+3
+5
+
+8
+7
+6
+5
+
+.
+
+x
+i
+F
+
+S
+I
+C
+S
+
+e
+e
+r
+F
+
+5
+6
+7
+3
+
+.
+
+7
+4
+5
+6
+
+.
+
+5
+6
+3
+2
+
+.
+
+4
+9
+4
+2
+
+.
+
+5
+1
+7
+4
+
+.
+
+1
+9
+1
+5
+
+.
+
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+C
+G
+C
+S
+
+S
+D
+C
+S
+
+A
+I
+C
+S
+
+S
+R
+C
+S
+
+M
+C
+C
+S
+
+C
+K
+C
+S
+
+.
+
+n
+o
+i
+t
+a
+r
+o
+b
+a
+l
+l
+o
+c
+n
+i
+a
+h
+c
+y
+l
+
+p
+p
+u
+s
+
+r
+o
+f
+
+s
+e
+u
+l
+a
+v
+
+2
+(cid:2)
+
+f
+o
+n
+o
+s
+i
+r
+a
+p
+m
+o
+c
+e
+s
+i
+w
+
+r
+i
+a
+P
+
+3
+e
+l
+b
+a
+T
+
+.
+
+.
+
+.
+
+1
+0
+0
+<
+p
+t
+a
+t
+n
+a
+c
+ﬁ
+n
+g
+i
+S
+
+i
+
+.
+
+5
+0
+0
+<
+p
+t
+a
+t
+n
+a
+c
+ﬁ
+n
+g
+i
+S
+
+i
+
+.
+
+.
+
+0
+1
+0
+<
+p
+t
+a
+t
+n
+a
+c
+ﬁ
+n
+g
+i
+S
+
+i
+
+a
+
+b
+
+c
+
+these analysis results, it is reasonable to conclude that the common
+method bias does not appear a problem.
+
+4.5. Large-scale data analysis methods
+
+Using conﬁrmatory factor analysis with LISREL, steps were
+undertaken to check (1) unidimensionality and convergent validity,
+(2) reliability, (3) discriminant validity, and (4) second-order con-
+struct validity. The assessment was conducted for each construct in
+one ﬁrst-order correlated model so related multi-items measures
+are grouped together (Papke-Shields et al., 2002). Iterative mod-
+iﬁcations were undertaken by dropping items with loadings less
+than 0.7 and also items with high correlated errors thus improv-
+ing the model ﬁt to acceptable levels (Hair et al., 2006). In all
+cases where reﬁnement was indicated, items were deleted if such
+action was theoretically sound and the deletions were done one
+at each step (Hair et al., 2006). Model modiﬁcations were contin-
+ued until all parameter estimates and model ﬁts were judged to be
+satisfactory.
+
+Unidimensionality is assessed by the ﬁt indices and conver-
+gent validity is assessed by the signiﬁcance of t-values of each
+measurement indicator. The overall model ﬁt can be tested using
+the comparative ﬁt index (CFI), non-normed ﬁt index (NNFI), root
+mean square error of approximation (RMSEA), and normed chi-
+square (i.e., (cid:2)2 per degree of freedom) (Byrne, 1989; Bentler, 1990;
+Chau, 1997; Hair et al., 2006). Values of CFI and NNFI between
+0.80 and 0.89 represent a reasonable ﬁt (Segars and Grover, 1998)
+and scores of 0.90 or higher are evidence of good ﬁt (Byrne, 1989;
+Joreskog and Sorbom, 1986; Papke-Shields et al., 2002). Based on
+Hair et al. (2006, p. 748), “The question of what is a ‘good’ RMSEA
+value is debatable but typically values are below 0.10 for most
+acceptable models”. The normed chi-square ((cid:2)2 divided by degrees
+of freedom) estimates the relative efﬁciency of competing models.
+For this statistic, a value less than 3.0 indicates a reasonable ﬁt and
+a value less than 2.0 shows a good ﬁt (Segars and Grover, 1998;
+Papke-Shields et al., 2002).
+
+Following Hair et al. (2006), the composite reliability (␳c) and
+the average variance extracted (AVE) of multiple indicators of a
+construct can be used to assess reliability of a construct. When AVE
+is greater than 50% and ␳c is greater than 0.70, it implies that the
+variance by the trait is more than that by error components (Hair
+et al., 2006).
+
+To check the discriminant validity, a pairwise comparison was
+performed by comparing a model with correlation constrained to
+one with an unconstrained model. A difference between the (cid:2)2 val-
+ues of the two models that is signiﬁcant at p < 0.05 level would
+indicate support for the discriminant validity criterion (Joreskog
+and Sorbom, 1996).
+
+An important aspect of construct validity is the validation of
+second-order constructs. T coefﬁcient was used to test whether a
+second-order construct exists accounting for the variations in its
+sub-constructs. T coefﬁcient is calculated as the ratio of the chi-
+square of the ﬁrst-order model to the chi-square of the second-
+order model and a T coefﬁcient of higher than 0.80 indicates the
+existence of a second-order construct (Doll et al., 1995).
+
+Finally, a LISREL model is run to test the hypotheses devel-
+oped in the framework. First, with the whole data set, a structural
+LISREL model was run. Second, to test the moderator effect of
+ﬁrm size, a multiple-group analysis of structural invariance across
+ﬁrm size was conducted (Joreskog and Sorbom, 1996; Schumacker
+and Marcoulides, 1998). A series of nested models were tested. A
+non-signiﬁcant (cid:2)2 difference between the two successive nested
+models would indicate invariance among the groups examined.
+Establishing measurement model invariance is essential before
+testing invariance of structural coefﬁcients since a failure to prove
+the invariance of the measurement model across the three groups
+
+
+Table 4
+Conﬁrmatory factor analysis results for collaborative advantage.
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+171
+
+Offering
+ﬂexibility
+
+Business
+synergy
+
+Quality
+
+Innovation
+
+Process
+efﬁciency
+0.85 (−)
+0.79 (13.06)
+0.83 (13.88)
+0.79 (12.88)
+
+Items
+
+CAPE1
+CAPE2
+CAPE3
+CAPE4
+CAOF1
+CAOF2
+CAOF3
+CAOF4
+CABS1
+CABS2
+CABS3
+CABS4
+CAQL1
+CAQL2
+CAQL3
+CAQL4
+CAIN1
+CAIN2
+CAIN3
+CAIN4
+AVE
+␳c (reliability)
+
+0.92 (−)
+0.90 (20.56)
+0.87 (19.31)
+0.81 (16.50)
+
+0.85 (−)
+0.86 (15.57)
+0.85 (15.14)
+0.87 (15.79)
+
+0.92 (−)
+0.90 (19.89)
+0.88 (19.31)
+0.71 (12.75)
+
+0.88 (−)
+0.87 (16.21)
+0.81 (14.58)
+0.82 (14.93)
+0.71
+0.91
+
+0.66
+0.89
+
+0.77
+0.93
+
+0.74
+0.92
+
+0.73
+0.92
+
+invalidates any further examination of model parameters (Joreskog
+and Sorbom, 1996).
+
+5. Results
+
+5.1. Large-scale measurement results
+
+The construct of supply chain collaboration was initially rep-
+resented by seven dimensions and 35 items (see Appendix A). An
+all-factor correlated LISREL measurement model was speciﬁed for
+each construct. Following Hair et al. (2006), iterative modiﬁcations
+were made by examining modiﬁcation indices, correlated errors,
+and loadings to improve key model ﬁt statistics.
+
+After modiﬁcations, SCIS1, SCGC5, SCDS5, SCIA3, SCRS2 were
+removed from their corresponding constructs because these items
+either had low loadings or high correlated errors, and their
+removals did not affect much the coverage of the domain of their
+corresponding constructs. No items were removed from collabo-
+rative communication and joint knowledge creation. There are 30
+items left measuring the seven dimensions of supply chain collabo-
+ration. The ﬁnal model ﬁt indices of CFI, NNFI, RMSEA, and normed
+(cid:2)2 meet the recommended criteria (see Table 7), demonstrating
+good unidimensionality. Shown in Table 2, the item loadings for
+each factor are greater than 0.70 and signiﬁcant at p < 0.01 based
+on t-values. All dimensions exhibit good convergent validity.
+
+The estimates of AVEs for the seven factors are 0.60, 0.63, 0.55,
+0.58, 0.61, 0.64, and 0.67 respectively, greater than the critical value
+of 0.50. The composite reliabilities (␳c’s) for the seven factors are
+0.86, 0.87, 0.83, 0.84, 0.86, 0.90, and 0.91 respectively, above the
+critical value of 0.70. The results of the AVEs and ␳c’s provide evi-
+dence of good reliability for each factor.
+
+Table 3 reports the results of the discriminant validity. 21
+pairwise (cid:2)2 differences between constrained and unconstrained
+models for the seven dimensions of supply chain collaboration are
+all signiﬁcant at p < 0.05; 13 out of 21 pairwise comparisons are
+signiﬁcant at p < 0.01. The results support the case for discriminant
+validity.
+
+The same process was followed for collaborative advantage.
+There are 20 items measuring the ﬁve dimensions of collabora-
+tive advantage. The ﬁnal model ﬁt indices of CFI, NNFI, RMSEA,
+and normed (cid:2)2 for each dimension meet the recommended cri-
+teria (see Table 7), demonstrating good unidimensionality. Shown
+
+in Table 4, the item loadings for each factor are greater than 0.70
+and signiﬁcant at p < 0.01 based on t-values. All dimensions exhibit
+good convergent validity.
+
+The estimates of AVEs for the ﬁve factors are 0.66, 0.77, 0.74,
+0.73 and 0.71 respectively, greater than the critical value of 0.50.
+The composite reliabilities (␳c’s) for the ﬁve factors are 0.89, 0.93,
+0.92, 0.92 and 0.91 respectively, above the critical value of 0.70. The
+results of the AVEs and ␳c’s provide evidence of good reliability for
+each factor.
+
+Table 5 reports the results of the discriminant validity. Ten
+pairwise (cid:2)2 differences between constrained and unconstrained
+models for the ﬁve dimensions of collaborative advantage are all
+signiﬁcant at p < 0.01. The results support the case for discriminant
+validity.
+
+The same process was followed for ﬁrm performance. There are
+four items measuring the ﬁrm performance. The ﬁnal model ﬁt
+indices and factor loadings (Table 6) meet the recommended crite-
+ria. The estimate of AVE of 0.74 and the composite reliability of 0.92
+exceed the critical value of 0.50 and 0.70 respectively, providing
+evidence of good reliability.
+
+5.2. Validation of second-order constructs
+
+The second-order model explains the co-variations among ﬁrst-
+order factors in a more parsimonious way. However, the variations
+shared by the ﬁrst-order factors cannot be totally explained by the
+single second-order factor, and thus the ﬁt indices of the higher-
+order model can never be better than the corresponding ﬁrst-order
+model (Segars and Grover, 1998). The ﬁrst-order model provides
+a target ﬁt for higher-order models. The efﬁcacy of second-order
+models can be assessed by examining the target (T) coefﬁcient
+(where T = ﬁrst-order (cid:2)2/second-order (cid:2)2) (Marsh and Hocevar,
+1985). The T coefﬁcient 0.80–1.00 indicates the existence of a
+second-order construct.
+
+Table 7 shows the calculated target coefﬁcient between the
+ﬁrst-order model and the second-order model for each construct
+discussed here. The T coefﬁcients for supply chain collaboration
+and collaborative advantage are 0.974 and 0.925 respectively,
+suggesting that the second-order models should be accepted
+as more accurate representation of model structure over the
+corresponding ﬁrst-order model because they represent more par-
+simonious explanation of observed covariance. The results support
+
+
+172
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+L
+Q
+A
+C
+
+e
+e
+r
+F
+
+a
+8
+1
+4
+1
+
+.
+
+.
+
+8
+6
+7
+0
+1
+
+.
+
+0
+5
+3
+9
+
+a
+0
+4
+2
+2
+
+.
+
+a
+3
+4
+9
+
+.
+
+1
+8
+5
+6
+
+.
+
+3
+2
+7
+5
+
+.
+
+.
+f
+i
+
+D
+
+x
+i
+F
+
+S
+B
+A
+C
+
+e
+e
+r
+F
+
+1
+4
+3
+4
+
+.
+
+.
+
+0
+8
+7
+4
+
+a
+2
+2
+9
+4
+
+.
+
+a
+8
+7
+4
+1
+
+.
+
+a
+3
+5
+0
+1
+
+.
+
+.
+f
+i
+
+D
+
+3
+8
+3
+9
+
+.
+
+1
+8
+6
+4
+
+.
+
+5
+6
+5
+4
+
+.
+
+x
+i
+F
+
+F
+O
+A
+C
+
+e
+e
+r
+F
+
+1
+6
+4
+4
+
+.
+
+.
+
+3
+0
+2
+3
+
+2
+1
+5
+3
+
+.
+
+a
+4
+2
+1
+1
+
+.
+
+a
+2
+3
+8
+
+.
+
+a
+4
+0
+7
+1
+
+.
+
+a
+0
+9
+0
+1
+
+.
+
+.
+f
+i
+
+D
+
+1
+8
+1
+3
+
+.
+
+.
+
+6
+9
+1
+3
+
+.
+
+9
+2
+3
+6
+
+.
+
+2
+5
+8
+2
+
+x
+i
+F
+
+E
+P
+A
+C
+
+e
+e
+r
+F
+
+7
+5
+0
+2
+
+.
+
+4
+6
+3
+2
+
+.
+
+5
+2
+6
+4
+
+.
+
+2
+6
+7
+1
+
+.
+
+t
+c
+u
+r
+t
+s
+n
+o
+C
+
+F
+O
+A
+C
+
+S
+B
+A
+C
+
+L
+Q
+A
+C
+
+I
+
+N
+A
+C
+
+.
+
+e
+g
+a
+t
+n
+a
+v
+d
+a
+e
+v
+i
+t
+a
+r
+o
+b
+a
+l
+l
+o
+c
+
+r
+o
+f
+
+s
+e
+u
+l
+a
+v
+
+2
+(cid:2)
+
+f
+o
+n
+o
+s
+i
+r
+a
+p
+m
+o
+c
+e
+s
+i
+w
+
+r
+i
+a
+P
+
+5
+e
+l
+b
+a
+T
+
+.
+
+.
+
+1
+0
+0
+<
+p
+t
+a
+t
+n
+a
+c
+ﬁ
+n
+g
+i
+S
+
+i
+
+.
+
+.
+
+5
+0
+0
+<
+p
+t
+a
+t
+n
+a
+c
+ﬁ
+n
+g
+i
+S
+
+i
+
+.
+
+.
+
+0
+1
+0
+<
+p
+t
+a
+t
+n
+a
+c
+ﬁ
+n
+g
+i
+S
+
+i
+
+a
+
+b
+
+c
+
+the second-order constructs proposed in the conceptual develop-
+ment section.
+
+5.3. Hypotheses testing results
+
+To test the Hypotheses 1–3 proposed in the framework, struc-
+tural equation modeling (LISREL) was used to assess the model ﬁt
+with the data. The summed item scores for each of the seven dimen-
+sions are used as indicators to measure supply chain collaboration.
+The summed item scores for each of the ﬁve dimensions are used as
+indicators to measure collaborative advantage. The four items are
+used as indicators for ﬁrm performance. The path diagram and the
+loadings for the LISREL model are shown in Fig. 2. In terms of over-
+all ﬁt, chi-square statistic is 293.25 with df = 101 and the ratio of
+chi-square to degrees of freedom is 2.90, which indicates a good ﬁt.
+The model ﬁt indices NNFI = 0.90, CFI = 0.92, RMSEA = 0.09 are good.
+The result in Fig. 2 supports Hypothesis 1. The LISREL path
+coefﬁcient is 0.64 (t = 8.75), which is statistically signiﬁcant at the
+level of 0.01. This supports the claim that supply chain collabora-
+tion has signiﬁcant, positive, and direct impacts on collaborative
+advantage. Hypothesis 2 is conﬁrmed. The LISREL path coefﬁcient
+is 0.50 (t = 6.39), which is statistically signiﬁcant at the level of 0.01.
+This indicates that collaborative advantage has a signiﬁcant, posi-
+tive, and direct impact on ﬁrm performance. Hypothesis 3 is also
+supported with the path coefﬁcient of 0.35 (t = 4.75), which is statis-
+tically signiﬁcant at the level of 0.01. This corroborates that supply
+chain collaboration has signiﬁcant, positive, and direct impact on
+ﬁrm performance. It is also important to note that supply chain
+collaboration have a positive indirect impact on ﬁrm performance
+(path coefﬁcient = 0.32, t = 5.23) along the path of collaborative
+advantage. Therefore, the collaborative advantage among supply
+chain partners is a huge ampliﬁer that can help partners to achieve
+synergies and create superior ﬁrm performance.
+
+While the ﬁrst three hypotheses are supported, it is not clear
+whether these hypotheses hold across small, medium and large
+ﬁrms. That means, would the relationships remain signiﬁcant or
+invariant across the three groups? To test the moderating effect
+of ﬁrm size, a multi-group analysis of structural invariance across
+ﬁrm sizes was conducted in LISREL (Joreskog and Sorbom, 1996;
+Schumacker and Marcoulides, 1998). Firms with less than 250,
+between 250 and 500, and greater than 500 employees are respec-
+tively classiﬁed as small (n = 64), medium (n = 58), and large (n = 89).
+We tested ﬁrst for the baseline model (i.e., equal pattern, Model 1
+in Table 8), then for equal factor loadings (i.e., equal lamda, Model 2
+in Table 8), for equal factor inter-correlations (i.e., equal phi, Model
+3 in Table 8), for equal measurement errors (i.e., equal theta-delta
+and theta-epsilon, Model 4 in Table 8), and ﬁnally for equal struc-
+tural coefﬁcients (i.e., equal gamma and beta, Model 4a, 4b, and 4c
+in Table 8).
+
+The baseline model (Model 1 in Table 8) has normed (cid:2)2,
+CFI, NNFI, and RMSEA of 1.75, 0.89, 0.87, and 0.104 respectively.
+Although RMSEA scores a little bit above 0.10, considering other
+model ﬁt indices using a comprehensive assessment, the model ﬁts
+sufﬁciently well with data and thus acceptable. Each factor loading
+(lamda) was forced to be equal across the three groups yielding
+Model 2 in Table 8. The (cid:2)2 differences between Model 2 and Model
+1 is 35.37 with df of 26. This insigniﬁcant result (p = 0.104) shows
+that factor loadings appear to be invariant across the three groups.
+Similarly, the (cid:2)2 differences between Model 3 and Model 2 is
+0 with two degrees of freedom. This insigniﬁcant result (p = 1.000)
+shows that factor loadings and factor inter-correlations appear to
+be invariant across the three groups. The (cid:2)2 difference between
+Model 4 and Model 3 is 21.86 with 14 degrees of freedom. This
+insigniﬁcant result (p = 0.082) shows that factor loadings, factor
+inter-correlations, and measurement errors appear to be invariant
+across the three groups.
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+173
+
+Table 6
+Conﬁrmatory factor analysis results for ﬁrm performance.
+
+Construct
+
+Measurement model ﬁt
+
+Firm
+Performance
+
+(cid:2)2 = 0.40, df = 2, p = 0.82
+AGFI = 0.94, ribution ﬂexibility
+CFI = 0.99
+NNFI = 0.98
+RMSEA = 0.001
+Normed (cid:2)2 = 0.20
+
+Loadings (t
+statistics)
+FP1: 0.80 (−)
+FP2: 0.95 (16.16)
+FP3: 0.87 (14.55)
+FP4: 0.81 (13.26)
+
+AVE
+
+0.74
+
+␳c (reliability)
+
+0.92
+
+Table 7
+Fit indices for ﬁrst and second-order model.
+
+Construct
+
+Supply chain collaboration
+
+Collaborative advantage
+
+Model
+
+First-order
+Second-order
+First-order
+Second-order
+
+(cid:2)2 (df)
+
+Normed (cid:2)2
+
+836.62 (384)
+887.42 (398)
+344.11 (160)
+384.38 (165)
+
+2.18
+2.23
+2.15
+2.33
+
+CFI
+
+0.89
+0.88
+0.94
+0.93
+
+NNFI
+
+0.87
+0.86
+0.93
+0.92
+
+RMSEA
+
+T coefﬁcient
+
+0.075
+0.077
+0.074
+0.080
+
+97.40%
+
+92.50%
+
+The next set of analysis involves testing the invariance of the
+structural coefﬁcients. The (cid:2)2 difference between Model 4a and
+Model 4 indicates the additional constraints imposed cause a dete-
+= 12.21 with two degrees of
+rioration of the model (␹2
+freedom and a p = 0.002, which is statistically signiﬁcant). The sig-
+niﬁcant result support H4a that the level of association between
+SCC and CA is different across small, medium, and large ﬁrms.
+
+− ␹2
+M4
+
+M4a
+
+M4b
+
+− ␹2
+M4
+
+Similarly, the (cid:2)2 difference between Model 4b and Model 4
+= 30.69 with two degrees of freedom and a p = 0.000)
+(␹2
+is statistically signiﬁcant, indicating that the level of association
+between CA and FP is different across the three groups and thus
+H4b is supported. The (cid:2)2 difference between Model 4c and Model 4
+= 59.97 with two degrees of freedom and a p = 0.000)
+(␹2
+is statistically signiﬁcant, supporting H4c and indicating that the
+
+− ␹2
+M4
+
+M4b
+
+0.31 
+
+0.38 
+
+0.29 
+
+0.25 
+
+CAPE
+
+0.30
+
+0.83
+
+0.80
+
+CAOF
+
+0.35
+
+SCIS 
+
+SCGC
+
+SCDS
+
+SCIA
+
+Collaborative
+
+Advantage
+
+0.69
+
+CABS
+
+0.52
+
+0.83
+
+0.79
+
+0.84
+
+0.86
+
+SC
+
+Collaboration
+
+0.78
+
+0.88
+
+0.80
+
+H1
+
+0.64** 
+(8.75) 
+
+0.35** 
+(4.75) 
+
+H3
+
+0.80
+
+0.81
+
+CAPQ
+
+0.36
+
+CAIN 
+
+0.34
+
+H2
+
+0.50* * 
+(6.39) 
+
+FP1
+
+0.34
+
+0.81
+
+SCRS
+
+SCCM
+
+SCKC
+
+0.94
+
+FP2
+
+0.12
+
+Firm 
+
+Performance 
+
+0.88
+
+0.39 
+
+0.23 
+
+0.36 
+
+0.81
+
+FP3
+
+0.23
+
+FP4
+
+0.34
+
+Note: 
+
+1. ** path is significant at 0.01; * significant at 0.05. 
+2. t-value is in parenthesis. 
+3. Chi-Square = 293.25; df =101; Normed χ2 =2.90; RMSEA = 0.09; CFI=0.92; NNFI=0.90.
+
+Fig. 2. Hypotheses test using structural equation model (Path and Measurement).
+Note: 1. ** Path is signiﬁcant at 0.01; * signiﬁcant at 0.05. 2. t-value is in parenthesis. 3. Chi-square = 293.25; df = 101; Normed (cid:2)2 = 2.90; RMSEA = 0.09; CFI = 0.92; NNFI = 0.90.
+
+
+174
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+Table 8
+The moderation effect of ﬁrm size using multi-group analysis in LISREL.
+
+Models
+
+1. Equal pattern
+2. Equal factor loadings
+3. Equal factor loadings, factor
+
+correlations
+
+correlations, measurement errors
+
+4. Equal factor loadings, factor
+4a. SCC→ CA
+4b. CA→ FP
+4c. SCC→ FP
+
+(cid:2)2
+
+528.85
+564.22
+564.22
+
+586.08
+
+598.29
+616.77
+646.05
+
+df
+
+303
+329
+331
+
+345
+
+347
+347
+347
+
+(cid:2)2/df
+
+1.75
+1.71
+1.70
+
+1.70
+
+1.72
+1.78
+1.86
+
+CFI
+
+0.89
+0.89
+0.89
+
+0.89
+
+0.88
+0.88
+0.87
+
+NNFI
+
+RMSEA
+
+Nested models
+
+(cid:2)2
+
+df
+
+Signiﬁcance level
+
+0.87
+0.88
+0.88
+
+0.89
+
+0.88
+0.88
+0.86
+
+0.104
+0.102
+0.101
+
+0.100
+
+0.102
+0.106
+0.111
+
+2–1
+3–2
+
+4–3
+
+4a–4
+4b–4
+4c–4
+
+35.37
+0
+
+21.86
+
+12.21
+30.69
+59.97
+
+26
+2
+
+14
+
+2
+2
+2
+
+0.104
+1.000
+
+0.082
+
+0.002
+0.000
+0.000
+
+Table 9
+Path coefﬁcients and t-values by ﬁrm size.
+H4a (SCC→ CA)
+
+Firm Size
+
+H4b (CA→ FP)
+
+H4c (SCC→ FP)
+
+Path coefﬁcient
+
+t-value
+
+Path coefﬁcient
+
+t-value
+
+Path coefﬁcient
+
+t-value
+
+Mediation of CA on the
+relationship of SCC and FP
+
+Small (N = 64)
+Medium (N = 58)
+Large (N = 89)
+
+0.59a
+0.50
+0.78
+
+4.50
+3.64
+6.79
+
+0.61
+0.52
+0.43
+
+4.15
+4.32
+3.02
+
+0.18
+0.43
+0.42
+
+1.38b
+3.69
+3.03
+
+Complete mediation
+Partial mediation
+Partial mediation
+
+a Value is a standardized structural coefﬁcient.
+b Indicates a non-signiﬁcant value at the level of 0.05.
+
+level of association between SCC and FP is different across the three
+groups.
+To further analyze the moderation effect of ﬁrm size, the stan-
+dardized structural path coefﬁcients for SCC→ CA, CA→ FP, and
+SCC→ FP across small, medium, and large ﬁrms are shown in
+Table 9. These path coefﬁcients are also plotted in Fig. 3. For the
+relationship of SCC→ CA, the path coefﬁcients are all signiﬁcant for
+the three groups. The path coefﬁcients for small ﬁrms (path coef-
+ﬁcient = 0.59, t = 4.50) and medium ﬁrms (path coefﬁcient = 0.50,
+t = 3.64) are similar while the path coefﬁcient for large ﬁrms (path
+coefﬁcient = 0.78, t = 6.79) are much higher. The results support that
+large ﬁrms are more effective in jointly creating value with their
+partners than small and medium ones. This is also demonstrated
+by the successful collaboration stories of large ﬁrms such as Procter
+& Gamble, Hewlett-Packard, IBM, and Dell with their partners.
+For the association of CA→ FP, all three path coefﬁcients are
+signiﬁcant, but the path coefﬁcient decreases as ﬁrm size increases
+(path coefﬁcients are 0.61, 0.52, and 0.43 respectively for small,
+medium, and large ﬁrms). The association of CA with FP is stronger
+for smaller ﬁrms than for larger ﬁrms because smaller ﬁrms are
+more likely to be highly focused and thus their performance
+depends on the joint beneﬁts of the supply chain collaboration for
+their limited set of products (Hendricks and Singhal, 2005). Thus,
+smaller ﬁrms are more effective in improving their performance
+by appropriating the relational rents than larger ones. This doesn’t
+mean that smaller ﬁrms get more returns in dollars since path
+coefﬁcients are completely standardized. Smaller ﬁrms get more
+
+Fig. 3. Plot of standardized path coefﬁcients of SCC CA, CA FP, SCC FP across ﬁrm
+size.
+
+returns relative to their ﬁrm size than larger ﬁrms. This is con-
+sistent with the relative ﬁrm size hypothesis (i.e., value creation
+expressed as a percentage of ﬁrm size) that smaller ﬁrms get more
+abnormal returns from alliances than larger ﬁrms but their gains in
+dollar value might be similar (Koh and Venkatraman, 1991; Anand
+and Khanna, 2000).
+For the relationship of SCC→ FP, the path coefﬁcient for small
+ﬁrms are insigniﬁcant (path coefﬁcient = 0.18, t = 1.38) at the level
+of 0.05 while the path coefﬁcients for both medium (path coef-
+ﬁcient = 0.43, t = 3.69), and large ﬁrms (path coefﬁcient = 0.42,
+t = 3.03) are signiﬁcant and similar. This is in line with the extended
+resource based view that inter-ﬁrm learning and knowledge are
+easier to be transferred and utilized in other related business areas
+and thus generate more spillover rents for medium and large ﬁrms
+than small ﬁrms. This also echoes the relatedness hypothesis that
+larger ﬁrms can enjoy advantages of scale and scope economies,
+efﬁciency in resource allocation, and opportunities to use technical
+and managerial skills learned from partners in its related businesses
+(Koh and Venkatraman, 1991; Ramaswami et al., 2009).
+
+6. Discussion and implications
+
+The research has provided a more accurate and comprehen-
+sive deﬁnition of supply chain collaboration with both process
+and relationship focuses. The study has identiﬁed a set of seven
+interconnecting dimensions that make up effective supply chain
+collaboration: information sharing, goal congruence, decision syn-
+chronization, incentive alignment, resource sharing, collaborative
+communication, and joint knowledge creation. Beneﬁts of supply
+chain collaboration will be realized when all parties in the sup-
+ply chain from suppliers to customers cooperate. Jointly creating
+the common pace of information sharing, replenishment, and sup-
+ply synchronization in a supply chain can reduce excess inventory,
+avoid costly bullwhip effect, enhance business synergy and quality,
+provide offering ﬂexibility, and increase joint innovation.
+
+The study has developed valid and reliable instruments for
+supply chain collaboration and collaborative advantage. All the
+scales have been tested through rigorous statistical methodologies
+including Q-sort method, conﬁrmatory factor analysis, reliability,
+and the validation of second-order construct. All the scales are
+shown to meet the requirements for reliability and validity and
+thus can be used in future research. The accurate deﬁnitions and
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+measures of supply chain collaboration has provided a rich and
+structured understanding of what occurs in a supply chain or net-
+work. They also facilitate empirical research efforts because the
+relationships among constructs can be better captured with better
+deﬁnitions and measures.
+
+Along the line of evidence for the relationship between supply
+chain integration and ﬁrm performance (Frohlich and Westbrook,
+2001; Narasimhan and Kim, 2002; Das et al., 2006; Deveraj et al.,
+2007; Flynn et al., 2010), the study has provided empirical evidence
+of the performance implications of collaboration, which is based
+on a comprehensive conceptualization of seven interconnecting
+dimensions. In this fashion, the study has answered the calls of
+researchers who have stressed the need for empirical research that
+examines the outcomes of collaboration (Jap, 1999; Wong, 1999),
+collaborative advantage and ﬁrm performance in particular. The
+research results have highlighted the critical role of supply chain
+collaboration and the amplifying role of collaborative advantage in
+achieving ﬁrms’ performance.
+
+The results strongly support the claim that supply chain collabo-
+ration increases collaborative advantage (H1). Better collaboration
+among supply chain partners expand the gain pie due to synergy
+through complementary resources and collaborative processes
+(Jap, 1999; Tanriverdi, 2006; Simatupang and Sridharan, 2005). The
+results empirically conﬁrm that collaborative advantage increases
+ﬁrm performance directly (H2) and well executed supply chain
+collaboration directly improves ﬁrm performance (H3). Previous
+research links collaboration directly to ﬁrm performance (Duffy
+and Fearne, 2004; Stank et al., 2001; Tan et al., 1998) without
+explicitly considering an intermediate variable such as collabora-
+tive advantage. This is an important ﬁnding since there exists doubt
+among researchers and practitioners in the economic justiﬁcation
+of supply chain collaboration, particularly in whether collabora-
+tive advantage can bring ﬁnancial beneﬁts to the focal ﬁrm. The
+statistical signiﬁcance of Hypotheses 2 and 3 suggests that sup-
+ply chain collaboration and collaborative advantage indeed have a
+bottom-line inﬂuence on the ﬁrm performance. The implementa-
+tion of supply chain collaboration will improve a ﬁrm’s ﬁnancial
+performances in the long run.
+
+Based on the ERBV (Lavie, 2006), collaborative advantage can
+be understood as a function of the combined value and rarity of
+all shared resources among supply chain partners (i.e., relational
+rents) while competitive advantage of a ﬁrm depends on the total
+value and rarity of the ﬁrm’s own shared and nonshared resources
+(i.e., internal rents) and resources interactions with partners (i.e.,
+appropriated relational rents and spillover rents). When collabora-
+tion is formed, each partner endows a subset of its resources to the
+collaboration with the expectation of generating common beneﬁts
+from the shared resources of both ﬁrms (Lavie, 2006).
+According to the relational view and the ERBV (Dyer and Singh,
+1998; Lavie, 2006), the link of SCC→ CA (i.e., H1) focuses on the
+joint value creation process. Firms generate common beneﬁts (i.e.,
+relational rents) through supply chain collaboration. The link of
+CA→ FP (i.e., H2) focuses on the value appropriation process. Firms
+improve their performance by appropriating relational rents. The
+direct link of SCC→ FP (i.e., H3) focuses on the spillover rents (and
+internal rents) that generate private beneﬁts to the focal ﬁrm, which
+is not related to collaborative advantage. Such private beneﬁts
+directly impact ﬁrms’ performance.
+
+In examining the moderator of ﬁrm size that set bound-
+ary conditions for SCC and CA effects, we found interesting
+results shown in Table 9. For small ﬁrms, the direct relationship
+between SCC and FP is insigniﬁcant (path coefﬁcient = 0.18, t = 1.38).
+Both SCC→ CA (path coefﬁcient = 0.59, t = 4.50) and CA→ FP (path
+coefﬁcient = 0.61, t = 4.15) are signiﬁcant. The results show that col-
+laborative advantage completely mediate the relationship between
+SCC and FP for small ﬁrms. For medium ﬁrms, the path coefﬁcients
+
+175
+for SCC→ CA, CA→ FP, and SCC→ FP are all signiﬁcant so the collab-
+orative advantage partially mediate the relationship between SCC
+and FP. Similarly, for large ﬁrms, all three path coefﬁcients are sig-
+niﬁcant so that CA also partially mediate the relationship between
+SCC and FP.
+
+These results echo the literature acknowledging both common
+beneﬁts and private beneﬁts (Hamel, 1991; Khanna et al., 1998;
+Lavie, 2006). For small ﬁrms, SCC helps them jointly create value
+with their partners but their inter-ﬁrm learning and joint knowl-
+edge are difﬁcult to internalize or transfer to other business areas
+due to their small scale and scope of operations. Thus, SCC can
+cause little spillover effect that generates private beneﬁts. In other
+words, SCC can achieve almost no beneﬁts that are not related to
+the collaborative advantage, and thus it has no direct impact on
+ﬁrm performance. So the impact of SCC on ﬁrm performance is
+completely mediated by collaborative advantages for small ﬁrms.
+For medium and large ﬁrms, it is easier for them to internalize
+and transfer what they have learned from supply chain collab-
+oration to other related business areas due to their diversiﬁed
+businesses and large scope of operations. These spillover effects
+generate private beneﬁts and thus SCC directly impact ﬁrm per-
+formance as well as indirectly improve ﬁrm performance through
+collaborative advantages by jointly creating value with their part-
+ners. This explains the partial mediation effect of collaborative
+advantage on the relationship between SCC and FP.
+
+The model development and empirical testing presented in
+the study move our understanding of supply chain collaboration
+a step forward. They provide important guidance for managers
+to achieve better partnership formation, management, and out-
+comes. Collaboration is good, but ﬁrms must invest efforts to make
+it work. Collaboration fails largely because it is not well executed
+(Lambert et al., 1999). In addition, collaboration might also cause
+the increased cost of coordination and inﬂexibility (Das et al., 2006)
+so that managers need to strike the balance and ﬁnd an optimal
+level of collaborative efforts for their ﬁrms.
+
+The deﬁnition and measures of supply chain collaboration and
+collaborative advantages can help managers to deﬁne speciﬁc
+actions to be taken collaboratively to improve shared supply chain
+processes that beneﬁt all members (Wong, 1999; Lambert et al.,
+1999). The deﬁnition and measurements can serve as a powerful
+tool for managers to form effective collaborative relationships. They
+can also help ﬁrms to minimize the chance of collaboration failure
+by addressing these key dimensions before entering the collabora-
+tive relationship.
+
+The study found that effective supply chain collaboration leads
+to collaborative advantage and better ﬁrm performance. The rela-
+tionship implies that, in order for a supply chain as a whole to
+perform well, ﬁrms should try to create a win–win situation that
+all participants collaborate to achieve business synergy and com-
+pete with other chains. Normally competitive expectations lead
+individual ﬁrms to promote their own interests at the expenses
+of others. This is very insidious for collaboration and it will worsen
+and destroy the relationships. Long-term relationships such as sup-
+ply chain collaboration have to be motivated by the mutuality of
+intent, goal congruence, and beneﬁt sharing (Wong, 1999; Tuten
+and Urban, 2001). Thus, managers need to align goals and beneﬁts
+with supply chain partners for creating collaborative advantage.
+Such collaborative advantage indeed directly increases the ﬁnancial
+performance for each partner in the chain.
+
+Collaboration between supply chain partners is not merely pure
+transactions, but leverages market knowledge creation (Malhotra
+et al., 2005). Since great diversity of knowledge is distributed
+across the supply chain, collaboration provides an ideal platform for
+learning (Verwaal and Hesselmans, 2004) and facilitates partner-
+enabled market knowledge creation (Malhotra et al., 2005). Supply
+chain collaboration can also be an effective means of transferring
+
+
+176
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+knowledge and new technical skills across ﬁrms. It is often difﬁcult
+for a ﬁrm to buy a particular skill in the marketplace because of its
+tacit nature (Mowery et al., 1996). A ﬁrm may have a better chance
+of accomplishing its objective of acquiring new skills and compe-
+tencies by collaborating with a ﬁrm that is exemplary in that area
+(Barringer and Harrison, 2000).
+
+An analysis of moderator effect of ﬁrm size shows the impor-
+tance of inter-ﬁrm learning and knowledge transfer. A ﬁrm’s ability
+to internalize and transfer its inter-ﬁrm learning and knowledge
+from collaboration depends on its absorptive capacity, which mea-
+sures a ﬁrm’s ability to identify, evaluate, assimilate, and exploit
+external knowledge (Cohen and Levinthal, 1990). A ﬁrm’s absorp-
+tive capacity enhances its learning from partners and eventually
+contributes to ﬁrm performance. Thus, the better the focal ﬁrm’s
+absorptive capacity, the higher the spillover rents and the relational
+rents appropriated by the focal ﬁrm will be. Thus, managers should
+manage to improve their absorptive capacity and thus improve
+their ﬁrm performance. Especially for small ﬁrms, they need to ade-
+quately expand the scope of their operations to transfer inter-ﬁrm
+learning from collaboration.
+
+Firms seek to internalize the resources and skills of their col-
+laborative partners to improve their performance. When the ﬁrm
+and its partners pursue such objectives, the parties might engage
+in learning races or one party exploits the collaboration for its pri-
+vate beneﬁts, which lead to an unintended leakage of rents with no
+synergistic value creation (Hamel, 1991; Khanna et al., 1998; Lavie,
+2006). So managers need to be co-opetitive and balance the collab-
+oration and competition. To collaborate well, ﬁrms need to work
+closely with partners to jointly create values that generate com-
+mon beneﬁts; to be competitive, ﬁrms might also actively invest in
+improvement of absorptive capacity and thus earn spillover rents
+that generate private beneﬁts.
+
+7. Limitations and future research
+
+While the research has made signiﬁcant contributions to
+research and practice, there are limitations that need to be
+considered when interpreting the study ﬁndings. Because of
+the limited number of observations (211), the revalidation of
+constructs was not carried out in this research. This needs
+to be addressed in the future research. New data may be
+collected to revalidate the measures and structural models.
+
+Constructs
+
+Dimensions/items
+
+Future research should conduct factorial invariance tests. Using
+the instruments developed in this research, one may test for fac-
+torial invariance across industries (Joreskog and Sorbom, 1996;
+Schumacker and Marcoulides, 1998). For example, an analysis of
+supply chain collaboration by industry would be very beneﬁcial.
+Examining how they are used across different industries and what
+are the most common level of supply chain collaboration in each
+industry would help identify any industry-speciﬁc bias toward or
+against supply chain collaboration.
+
+The respondents include both senior executives (i.e., CEO’s, pres-
+idents, and vice presidents) and mid-level managers (i.e., directors
+and managers). There might be signiﬁcant differences in rela-
+tionship perceptions between senior executives and mid-level
+directors and managers. A factorial invariance test can be used to
+explore the differences in the future research.
+
+Future research should also apply multiple methods to obtain
+data. The use of a single respondent to represent what are supposed
+to supply chain wide variables may generate some inaccuracy and
+more than the usual amount of random error. Future research
+should seek to utilize multiple respondents from each participating
+organization as an effort to enhance reliability of research ﬁndings.
+More insights will be gained by collecting information from both
+sides of the manufacturer–supplier dyad rather than just from one
+organization.
+
+In future research, it will be interesting to investigate the
+relationships at the sub-dimensional level between supply chain
+collaboration, collaborative advantage, and performance. Such
+analysis would provide more interesting and useful results for
+researchers and practitioners.
+
+Acknowledgements
+
+The ﬁrst author would like to acknowledge the support of the
+CFIRE funding and the transportation and logistics research centre
+at the UW-Superior.
+
+Appendix A. Instruments and citations
+
+These items measure your ﬁrm’s collaboration with your sup-
+ply chain partners, collaborative advantage, and ﬁrm performance
+using a 5-point Likert-type scale to indicate the extent to which
+you agree or disagree to each statement as applicable to your ﬁrm:
+1 = strongly disagree, 2 = disagree, 3 = neutral, 4 = agree, 5 = strongly
+agree. Items deleted after large-scale analysis were noted with ‘*’.
+
+Supply chain
+
+collaboration
+
+Information sharing
+SCIS1*→ Our ﬁrm and supply chain partners exchange relevant information
+SCIS2→ Our ﬁrm and supply chain partners exchange timely information
+SCIS3→ Our ﬁrm and supply chain partners exchange accurate information
+SCIS4→ Our ﬁrm and supply chain partners exchange complete information
+SCIS5→ Our ﬁrm and supply chain partners exchange conﬁdential information
+Goal congruence
+SCGC1→ Our ﬁrm and supply chain partners have agreement on the goals of the supply chain
+SCGC2→ Our ﬁrm and supply chain partners have agreement on the importance of collaboration
+across the supply chain
+SCGC3→ Our ﬁrm and supply chain partners have agreement on the importance of improvements
+that beneﬁt the supply chain as a whole
+SCGC4→ Our ﬁrm and supply chain partners agree that our own goals can be achieved through
+working toward the goals of the supply chain
+SCGC5*→ Our ﬁrm and supply chain partners jointly layout collaboration implementation plans to
+achieve the goals of the supply chain
+Decision synchronization
+SCDS1→ Our ﬁrm and supply chain partners jointly plan on promotional events
+SCDS2→ Our ﬁrm and supply chain partners jointly develop demand forecasts
+SCDS3→ Our ﬁrm and supply chain partners jointly manage inventory
+SCDS4→ Our ﬁrm and supply chain partners jointly plan on product assortment
+SCDS5*→ Our ﬁrm and supply chain partners jointly work out solutions
+
+Citations
+
+Angeles and Nath (2001), Cooper et al.
+(1997), Kim and Umanath (2005), Monczka
+et al. (1998), Sheu et al. (2006), Simatupang
+and Sridharan (2005), Stuart and
+McCutcheon (1996), Tyndall et al. (1998),
+Cagliano et al. (2003), Li et al. (2006)
+Angeles and Nath (2001), Eliashberg and
+Michie (1984), Lejeune and Yakova (2005),
+Poirier and Houser (1993), Simatupang and
+Sridharan (2005)
+
+Corbett et al. (1999), Harland et al. (2004),
+Simatupang and Sridharan (2002), Zhao
+et al. (2008), Flynn et al. (2010), Frohlich
+and Westbrook (2001), Småros (2007),
+Danese (2007), Nyaga et al. (2010)
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+177
+
+Appendix A (Continued )
+
+Constructs
+
+Dimensions/items
+
+Collaborative
+advantage
+
+Incentive alignment
+SCIA1→ Our ﬁrm and supply chain partners co-develop systems to evaluate and publicize each other’s
+performance (e.g. key performance index, scorecard, and the resulting incentive)
+SCIA2→ Our ﬁrm and supply chain partners share costs (e.g. loss on order changes)
+SCIA3*→ Our ﬁrm and supply chain partners share beneﬁts (e.g. saving on reduced inventory costs)
+SCIA4→ Our ﬁrm and supply chain partners share any risks that can occur in the supply chain
+SCIA5→ The incentive for our ﬁrm commensurate with our investment and risk
+Resource sharing
+SCRS1→ Our ﬁrm and supply chain partners use cross-organizational teams frequently for process
+design and improvement
+SCRS2*→ Our ﬁrm and supply chain partners dedicate personnel to manage the collaborative
+processes
+SCRS3→ Our ﬁrm and supply chain partners share technical supports
+SCRS4→ Our ﬁrm and supply chain partners share equipments (e.g. computers, networks, machines)
+SCRS5→ Our ﬁrm and supply chain partners pool ﬁnancial and non-ﬁnancial resources (e.g. time,
+money, training)
+Collaborative communication
+SCCM1→ Our ﬁrm and supply chain partners have frequent contacts on a regular basis
+SCCM2→ Our ﬁrm and supply chain partners have open and two-way communication
+SCCM3→ Our ﬁrm and supply chain partners have informal communication
+SCCM4→ Our ﬁrm and supply chain partners have many different channels to communicate
+SCCM5→ Our ﬁrm and supply chain partners inﬂuence each other’s decisions through discussion
+rather than request
+Joint knowledge creation
+SCKC1→ Our ﬁrm and supply chain partners jointly search and acquire new and relevant knowledge
+SCKC2→ Our ﬁrm and supply chain partners jointly assimilate and apply relevant knowledge
+SCKC3→ Our ﬁrm and supply chain partners jointly identify customer needs
+SCKC4→ Our ﬁrm and supply chain partners jointly discover new or emerging markets
+SCKC5→ Our ﬁrm and supply chain partners jointly learn the intentions and capabilities of our
+competitors
+Process efﬁciency
+CAPE1→ Our ﬁrm with supply chain partners meets agreed upon unit costs in comparison with
+industry norms
+CAPE2→ Our ﬁrm with supply chain partners meets productivity standards in comparison with
+industry norms
+CAPE3→ Our ﬁrm with supply chain partners meets on-time delivery requirements in comparison
+with industry norms
+CAPE4→ Our ﬁrm with supply chain partners meets inventory requirements (ﬁnished goods) in
+comparison with industry norms
+Offering ﬂexibility
+CAOF1→ Our ﬁrm with supply chain partners offers a variety of products and services efﬁciently in
+comparison with industry norms
+CAOF2→ Our ﬁrm with supply chain partners offers customized products and services with different
+features quickly in comparison with industry norms
+CAOF3→ Our ﬁrm with supply chain partners meets different customer volume requirements
+efﬁciently in comparison with industry norms
+CAOF4→ Our ﬁrm with supply chain partners has good customer responsiveness in comparison with
+industry norms
+Business synergy
+CABS1→ Our ﬁrm and supply chain partners have integrated IT infrastructure and IT resources
+CABS2→ Our ﬁrm and supply chain partners have integrated knowledge bases and know-how
+CABS3→ Our ﬁrm and supply chain partners have integrated marketing efforts
+CABS4→ Our ﬁrm and supply chain partners have integrated production systems
+
+Quality
+CAQL1→ Our ﬁrm with supply chain partners offers products that are highly reliable
+CAQL2→ Our ﬁrm with supply chain partners offers products that are highly durable
+CAQL3→ Our ﬁrm with supply chain partners offers high quality products to our customers
+CAQL4→ Our ﬁrm and supply chain partners have helped each other to improve product quality
+Innovation
+CAIN1→ Our ﬁrm with supply chain partners introduces new products and services to market quickly
+CAIN2→ Our ﬁrm with supply chain partners has rapid new product development
+CAIN3→ Our ﬁrm with supply chain partners has time-to-market lower than industry average
+CAIN4→ Our ﬁrm with supply chain partners innovates frequently
+
+Firm performance
+
+FP1→ Growth of sales
+FP2→ Return on investment
+FP3→ Growth in return on investment
+FP4→ Proﬁt margin on sales
+
+Citations
+
+Clemons and Row (1992), Grandori and
+Soda (1995), Melville et al. (2004), Sako
+(1992), Simatupang and Sridharan (2005),
+Womack et al. (1990), Das et al. (2006)
+
+Dwyer et al. (1987), Harland et al. (2004),
+Lambert et al. (1999), Simatupang and
+Sridharan (2002), Simpson and Mayo
+(1997)
+
+Farace et al. (1977), Jablin (1987), Mohr
+and Nevin (1990), Mohr et al. (1996),
+Prahinski and Benton (2004), Rogers and
+Agarwala-Rogers (1976), Chen and Paulraj
+(2004), Paulraj et al. (2008)
+
+Hardy et al. (2003), Johnson and Sohi
+(2003), Kaufman et al. (2000), Luo et al.
+(2006), Malhotra et al. (2005), Menon et al.
+(1999), Moorman (1995), Simonin (1997),
+Slater and Narver (1995), Srivastava et al.
+(1998)
+
+Bagchi and Skjoett-Larsen (2005), Fisher
+(1997), Lee et al. (1997), Simatupang and
+Sridharan (2005), Chen and Paulraj (2004),
+Deveraj et al. (2007), Frohlich and
+Westbrook (2001), Li et al. (2006)
+
+Beamon (1998), Gosain et al. (2004),
+Holweg et al. (2005), Kiefer and Novack
+(1999), Narasimhan and Jayaram (1998),
+Chen and Paulraj (2004), Deveraj et al.
+(2007)
+
+Jap (2001), Dyer (1996), Dyer and Singh
+(1998), Kanter (1994), Vangen and
+Huxham (2003), Ansoff (1988), Itami and
+Roehl (1987), Larsson and Finkelstein
+(1999), Lasker et al. (2001), Tanriverdi
+(2006), Zhu (2004)
+Garvin (1988), Gray and Harvey (1992),
+Chen and Paulraj (2004), Li et al. (2006),
+Gotzamani et al. (2010)
+
+Clark and Fujimoto (1991), Dyer and Singh
+(1998), Handﬁeld and Pannesi (1995),
+Kessler and Chakrabarti (1996), Malhotra
+et al. (2001), Mowery and Rosenberg
+(1998), Nishiguchi and Anderson (1995),
+Rosenblum and Spencer (1996), Sapolsky
+et al. (1999), Vesey (1991)
+
+Tan et al. (1998), Yamin et al. (1999), Li
+et al. (2006), Barua et al. (2004), Cooper
+and Kleinschmidt (1994), Loch et al.
+(1996), Vickery et al. (1999), Stock et al.
+(2000), Chen and Paulraj (2004), Chang and
+King (2005), Flynn et al. (2010), Petersen
+et al. (2005), Narasimhan and Kim (2002)
+
+
+178
+
+References
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+Ailawadi, K.L., Farris, P.W., Parry, M.E., 1999. Market share and ROI: observing the
+effect of unobserved variables. International Journal of Research in Marketing
+16 (1), 17–33.
+
+Anand, B, Khanna, T., 2000. Do ﬁrms learn to create value? The case of alliances.
+
+Strategic Management Journal 21, 295–315.
+
+Angeles, R., Nath, R., 2001. Partner congruence in electronic data interchange (EDI)
+
+enabled relationships. Journal of Business Logistics 22 (2), 109–127.
+
+Ansoff, H.I., 1988. The New Corporate Strategy. Wiley, New York, NY.
+Bagchi, P.K., Skjoett-Larsen, T., 2005. Supply chain integration: a survey. The Inter-
+
+national Journal of Logistics Management 16 (2), 275–294.
+
+Barney, J., 1991. Firm resources and sustained competitive advantage. Journal of
+
+Management 17 (1), 99–120.
+
+Barratt, M., Oliveira, A., 2001. Exploring the experiences of collaborative planning
+initiatives. International Journal of Physical Distribution & Logistics Manage-
+ment 31 (4), 66–89.
+
+Barringer, B.R., Harrison, J.S., 2000. Walking a tightrope: creating value through
+
+interorganizational relationships. Journal of Management 26 (3), 367–403.
+
+Barua, A., Konana, P., Whinston, A.B., Yin, F., 2004. An empirical investigation of
+
+net-enabled business value. MIS Quarterly 28 (4), 585–620.
+
+Beamon, B.M., 1998. Supply chain design and analysis: models and methods. Inter-
+
+national Journal of Production Economics 55 (3), 281–294.
+
+Bentler, P.M., 1990. Comparative ﬁt indexes in structural models. Psychological Bul-
+
+letin 107 (2), 238–246.
+
+Bhatt, G.D., Grover, V., 2005. Types of information technology capabilities and their
+role in competitive advantage: an empirical study. Journal of Management Infor-
+mation Systems 22 (2), 253–277.
+
+Boddy, D., Macbeth, D., Wagner, B., 2000. Implementing collaboration between orga-
+nizations: an empirical study of supply chain partnering. Journal of Management
+Studies 37 (7), 1003–1019.
+
+Bowersox, D.J., 1990. The strategic beneﬁts of logistics alliances. Harvard Business
+
+Review 68 (4), 36–43.
+
+Bowersox, D.J., Closs, D.J., Stank, T.P., 2003. How to master cross-enterprise collab-
+
+oration. Supply Chain Management Review 7 (4), 18–27.
+
+Byrne, B.M., 1989. A Primer of LISREL: Basic Applications and Programming for
+
+Conﬁrmatory Factor Analysis Analytic Models. Springer–Verlog, NY.
+
+Cagliano, R., Caniato, F., Spina, G., 2003. E-business strategy: how companies are
+shaping their supply chain through the internet. International Journal of Oper-
+ations and Production Management 23 (10), 1142–1162.
+
+Callioni, G., Billington, C., 2001. Effective collaboration: Hewlett-Packard takes sup-
+
+ply chain management to another level. OR/MS Today 28 (5), 34–39.
+
+Chang, C.J., King, W.R., 2005. Measuring the performance of information systems:
+a functional scorecard. Journal of Management Information Systems 22 (1),
+85–115.
+
+Chau, P, 1997. Reexamining a model for evaluating information center success using
+
+a structural equation modeling approach. Decision Sciences 28 (2), 309–334.
+
+Chen, I.J., Paulraj, A., 2004. Towards a theory of supply chain management: the
+constructs and measurements. Journal of Operations Management 22, 119–150.
+Chopra, S., Meindl, P., 2001. Supply Chain Management: Strategy, Planning and
+
+Operation. Prentice–Hall, Upper Saddle River, N.J.
+
+Churchill, G.A., 1979. A paradigm for developing better measures of marketing con-
+
+structs. Journal of Marketing Research 16, 64–73.
+
+Clark, K.B., Fujimoto, T., 1991. Product Development Performance: Strategy, Organi-
+zation, and Management in the World Auto Industry. Harvard Business School
+Press, Boston, MA.
+
+Clemons, E., Row, M., 1992. Information technology and industrial cooperation: the
+changing economics of coordination and ownership. Journal of Management
+Information Systems 9 (2), 9–28.
+
+Cohen, W.D., Levinthal, D.A., 1990. Absorptive capacity: a new perspective on learn-
+
+ing and innovation. Administrative Science Quarterly 35 (1), 128–152.
+
+Cooper, C., Lambert, C., Pagh, D., 1997. Supply chain management: more than a
+new name for logistics. The International Journal of Logistics Management 8 (1),
+1–14.
+
+Cooper, R.G., Kleinschmidt, E.J., 1994. Determinants of timeliness in product devel-
+
+opment. Journal of Product Innovation Management 11 (5), 381–396.
+
+Corbett, C.J., Blackburn, J.D., Van Wassenhove, L.N., 1999. Partnerships to improve
+
+supply chains. Sloan Management Review 40 (4), 71–82.
+
+Croom, S., 2001. Restructuring supply chains through information channel inno-
+vation. International Journal of Operations & Production Management 21 (4),
+504–515.
+
+Danese, P., 2007. Designing CPFR collaborations: insights from seven case stud-
+ies. International Journal of Operations and Production Management 27 (2),
+181–204.
+
+Das, A., Narasimhan, R., Talluri, S., 2006. Supplier integration: ﬁnding an optimal
+
+conﬁguration. Journal of Operations Management 24, 563–582.
+
+Deveraj, S., Krajewski, L., Wei, J., 2007. Impact of eBusiness technologies on opera-
+tional performance: the role of production information integration in the supply
+chain. Journal of Operations Management 25, 1199–1216.
+
+Doll, W.J., Raghunathan, T., Lim, S.J., Gupta, Y.P., 1995. A conﬁrmatory factor analysis
+of the user information satisfaction instrument. Information Systems Research
+6 (2), 177–188.
+
+Doz, Y.L., Hamel, G., 1998. Alliance Advantage. Harvard Business School Press,
+
+Boston.
+
+Duffy, R., Fearne, A., 2004. The impact of supply chain partnerships on supplier
+
+performance. International Journal of Logistics Management 15 (1), 57–71.
+
+Dwyer, F.R., Schurr, P.H., Oh, S., 1987. Developing buyer-seller relationships. Journal
+
+of Marketing 51 (2), 11–27.
+
+Dyer, J.H., 1996. Does governance matter? Keiretsu alliances and asset speciﬁcity as
+sources of Japanese competitive advantage. Organization Science 7 (6), 649–666.
+Dyer, J.H., Singh, H., 1998. The relational view: cooperative strategy and sources of
+interorganizational competitive advantage. Academy of Management Review
+23 (4), 660–679.
+
+Dyer, J.H., 2000. Collaborative Advantage: Winning Through Extended Enterprise
+
+Supplier Networks. Oxford University Press, New York, NY.
+
+Eliashberg,
+
+J., Michie, D.A., 1984.
+
+Interorganizational competitive advantage.
+
+Academy of Management Review 23 (4), 660–679.
+
+Farace, R., Monge, P., Russell, H., 1977. Communicating and Organizing Reading.
+
+Addison–Wesley, MA.
+
+Fawcett, S.E., Magnan, G.M., 2004. Ten guiding principles for high-impact SCM. Busi-
+
+ness Horizon 47 (5), 67–74.
+
+Ferratt, T.W., Lederer, A.L., Hall, J.M., Krella, J.M., 1996. Swords and plowshares: infor-
+mation technology for collaborative advantage. Information and Management
+30 (3), 131–142.
+
+Fisher, M.L., 1997. What is the right supply chain for your product? Harvard Business
+
+Review 75 (2), 105–116.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on per-
+formance: a contingency and conﬁguration approach. Journal of Operations
+Management 28 (1), 58–71.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an international study
+of supply chain strategies. Journal of Operations Management 19 (2), 185–
+200.
+
+Garvin, D., 1988. Managing quality. McKinsey Quarterly 3, 61–70.
+Global Logistics Research Team at Michigan State University, 1995. World Class
+Logistics: The Challenge of Managing Continuous Change. Council of Logistics
+Management, Oak Brook, IL.
+
+Gofﬁn, K., Lemke, F., Szwejczewski, M., 2006. An exploratory study of close supplier-
+manufacturer relationships. Journal of Operations Management 24 (2), 189–
+209.
+
+Golicic, S.L., Foggin, J.H., Mentzer, J.T., 2003. Relationship magnitude and its role in
+interorganizational relationship structure. Journal of Business Logistics 24 (1),
+57–75.
+
+Gosain, S., Malhotra, A., El Sawy, O.A., 2004. Coordinating for ﬂexibility in e-business
+
+supply chains. Journal of Management Information Systems 21 (3), 7–45.
+
+Gotzamani, K., Longinidis, P., Vouzas, F., 2010. The logistics services outsourcing
+dilemma: quality management and ﬁnancial performance perspectives. Supply
+Chain Management 15 (6), 438–453.
+
+Grandori, A., Soda, G., 1995. Inter-ﬁrm networks: antecedents mechanisms and
+
+forms. Organization Studies 16 (2), 183–214.
+
+Gray, J., Harvey, T., 1992. Quality Value Banking: Effective Management Systems
+that Increase Earnings, Lower Costs, and Provide Competitive Customer Service.
+John Wiley & Sons, Inc., New York.
+
+Hair, J.F., Black, W.C., Babin, B.J., Anderson, R.E., Tatham, R.L., 2006. Multivariate Data
+
+Analysis, 6th ed. Prentice-Hall, Inc., New Jersey.
+
+Hamel, G., 1991. Competition for competence and interpartner learning within inter-
+
+national strategic alliances. Strategic Management Journal 12, 83–103.
+
+Han, S., Wilson, D.T., Dant, S.P., 1993. Buyer supplier relationships today. Industrial
+
+Marketing Management 22 (4), 331–338.
+
+Handﬁeld, R.B., Bechtel, C., 2002. The role of trust and relationship structure in
+improving supply chain responsiveness. Industrial Marketing Management 31
+(4), 367–382.
+
+Handﬁeld, R.B., Pannesi, R.T., 1995. Antecedents of leadtime competitiveness
+in make-to-order manufacturing ﬁrms. International Journal of Production
+Research 33 (2), 511–537.
+
+Hardy, C, Phillips, N., Lawrence, T.B., 2003. Resources, knowledge and inﬂuence: the
+organizational effects of interorganizational collaboration. Journal of Manage-
+ment Studies 40 (2), 321–347.
+
+Harland, C.M., Zheng, J., Johnsen, T.E., Lamming, R.C., 2004. A conceptual model for
+researching the creation and operation of supply networks. British Journal of
+Management 15 (1), 1–21.
+
+Harman, H.H., 1967. Modern Factor Analysis. University of Chicago Press, Chicago,
+
+IL.
+
+Heim, G., Peng, D., 2008. The impact of information technology use on plant struc-
+ture, practices, and performance: an exploratory study. Journal of Operations
+Management 26, 490–502.
+
+Hendricks, K, Singhal, V., 2005. Association between supply chain glitches and oper-
+
+ating performance. Management Science 51 (5), 695–711.
+
+Holweg, M., Disney, S., Holmström, J., Småros, J., 2005. Supply chain collaboration:
+making sense of the strategy continuum. European Management Journal 23 (2),
+170–181.
+
+Itami, H., Roehl, T., 1987. Mobilizing Invisible Assets. Harvard University Press, Cam-
+
+bridge, MA.
+
+Jablin, F., 1987. Formal organization structure. In: Jablin, F., et al. (Eds.), Handbook
+of Organizational Communication: An Interdisciplinary Perspective. Sage Pub-
+lications, Inc, Newbury Park, CA, pp. 389–419.
+
+Jap, S.D., 1999. Pie-expansion efforts: collaboration processes in buyer-supplier rela-
+
+tionships. Journal of Marketing Research 36 (4), 461–476.
+
+Jap, S.D., 2001. Perspectives on joint competitive advantages in buyer-supplier rela-
+
+tionships. International Journal of Research in Marketing 18 (1–2), 19–35.
+
+Johnson, P., Klassen, R., Leenders, M., Awaysheh, M., 2007. Utilizing e-business tech-
+nologies in supply chains: the impact of ﬁrm characteristics and teams. Journal
+of Operations Management 25 (6), 1255–1274.
+
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+179
+
+Johnson, J.J., Sohi, R.S., 2003. The development of interﬁrm partnering competence:
+platforms for learning, learning activities and consequences of learning. Journal
+of Business Research 56 (9), 757–766.
+
+Joreskog, K.G, Sorbom, D., 1986. LISREL VI: Analysis of Linear Structural Relationships
+by Maximum Likelihood, Instrumental Variables, and Least Squares Methods.
+Scientiﬁc Software, Inc., Moorsville, IN.
+
+Joreskog, K.G., Sorbom, D., 1996. LISREL 8 User’s Reference Guide. Scientiﬁc Software
+
+Inc., Chicago, IL.
+
+Kalwani, M.U., Narayandas, N., 1995. Long-term manufacturer–supplier relation-
+
+ships: do they pay? Journal of Marketing 59 (1), 1–15.
+
+Melville, N., Kraemer, K., Gurbaxani, V., 2004. Information technology and organi-
+zational performance: an integrative model of it business value. MIS Quarterly
+28 (2), 283–322.
+
+Menon, A., Sundar, G., Bharadwaj, P.T., Edison, S.W., 1999. Antecedents and conse-
+quences of marketing strategy making: a model and a test. Journal of Marketing
+63 (2), 18–40.
+
+Mentzer, J.T., DeWitt, W., Keebler, J.S., Min, S., Nix, N.W., Smith, C.D., Zacharia, Z.G.,
+2001. Deﬁning supply chain management. Journal of Business Logistics 22 (2),
+1–25.
+
+Mentzer, J.T., Foggin, J.H., Golicic, S.L., 2000. Collaboration: the enablers, impedi-
+
+Kanter, R., 1994. Collaborative advantage: the art of alliances. Harvard Business
+
+ments, and beneﬁts. Supply Chain Management Review 5 (6), 52–58.
+
+Review. July–August, pp. 96–108.
+
+Kaufman, A., Wood, C.H., Theyel, G., 2000. Collaboration and technology linkages: a
+
+strategic supplier typology. Strategic Management Journal 21 (6), 649–663.
+
+Kessler, E., Chakrabarti, A., 1996. Innovation speed: a conceptual model of con-
+text, antecedents, and outcomes. The Academy of Management Review 21 (4),
+1143–1191.
+
+Khanna, T., Gulati, R., Nohria, N., 1998. The dynamics of learning alliances: com-
+petition, cooperation, and relative scope. Strategic Management Journal 19,
+193–210.
+
+Kiefer, A.W., Novack, R.A., 1999. An empirical analysis of warehouse measurement
+systems in the context of supply chain implementation. Transportation Journal
+38 (3), 18–27.
+
+Kim, K, Umanath, N., 2005. Information transfer in B2B procurement: an empirical
+
+analysis and measurement. Information and Management 42 (6), 813–828.
+
+Knudsen, D., 2003. Aligning corporate strategy, procurement strategy and e-
+procurement tools. International Journal of Physical Distribution & Logistics
+Management 38 (8), 720–734.
+
+Kogut, B., 1988. Joint ventures: theoretical and empirical perspectives. Strategic
+
+Management Journal 9 (4), 319–332.
+
+Koh, J., Venkatraman, N., 1991. Joint venture formations and stock market reactions:
+an assessment in the information technology sector. Academy of Management
+Journal 34 (4), 869–892.
+
+Krause, D., Handﬁeld, R., Tyler, B., 2007. The relationships between supplier develop-
+ment, commitment, social capital accumulation and performance improvement.
+Journal of Operations Management 25 (2), 528–545.
+
+Lado, A, Boyd, N.G., Hanlon, S.C., 1997. Competition cooperation and the search for
+economic rents: a syncretic model. Academy of Management Review 22 (1),
+110–141.
+
+Lambert, D.M., Christopher, M.G., 2000. From the editors. International Journal of
+
+Logistics Management 11 (2), pii-ii.
+
+Lambert, D.M., Emmelhainz, M.A., Gardner, J.T., 1999. Building successful logistics
+
+partnerships. Journal of Business Logistics 20 (1), 118–165.
+
+Lambert, D.M., Knemeyer, A.M., Gardener, J.T., 2004. Supply chain partnerships:
+model validation and implementation. Journal of Business Logistics 25 (2),
+21–42.
+
+Lamming, R.C., 1996. Squaring lean supply with supply chain management. Inter-
+
+national Journal of Operations and Production Management 10 (2), 183–196.
+
+Larsson, R., Finkelstein, S., 1999. Integrating strategic, organizational, and human
+resource perspectives on mergers and acquisitions: a case survey of synergy
+realization. Organization Science 10 (1), 1–26.
+
+Lasker, R.D, Weiss, E.S., Miller, R., 2001. Partnership synergy: a practical frame-
+work for studying and strengthening the collaborative advantage. The Milbank
+Quarterly 79 (2), 179–205.
+
+Lavie, D., 2006. The competitive advantage of interconnected ﬁrms: an extension of
+
+the resource-based view. Academy of Management Review 31 (3), 638–658.
+
+Lee, H.L., Whang, S., 2001. E-business and supply chain integration. Stanford Global
+
+Supply Chain Management Forum, SGSCMF-W2-2001.
+
+Lee, H.L., Padmanabhan, V., Whang, S., 1997. The bullwhip effect in supply chain.
+
+Sloan Management Review 38 (3), 93–102.
+
+Lejeune, N., Yakova, N., 2005. On characterizing the 4 C’s in supply china manage-
+
+ment. Journal of Operations Management 23 (1), 81–100.
+
+Li, S., Ragu-Nathan, B., Ragu-Nathan, T.S., Rao, S.S., 2006. The impact of supply chain
+management practices on competitive advantage and organizational perfor-
+mance. Omega 34, 107–124.
+
+Loch, C., Stein, L., Terwisch, C., 1996. Measuring development performance in
+electronics industry. The Journal of Product Innovation Management 13 (1),
+3–20.
+
+Lockamy, A., McCormack, K., 2004. Linking SCOR planning practices to supply chain
+performance: an exploratory study. International Journal of Operations & Pro-
+duction Management 24 (12), 1192–1218.
+
+Luo, X., Slotegraaf, R.J., Pan, X., 2006. Cross-functional coopetition: the simultaneous
+role of cooperation and competition within ﬁrms. Journal of Marketing 70 (2),
+67–80.
+
+Malhotra, A., Gasain, S., El Sawy, O.A., 2005. Absorptive capacity conﬁgurations in
+supply chains: gearing for partner-enabled market knowledge creation. MIS
+Quarterly 29 (1), 145–187.
+
+Malhotra, A., Majchrzak, A., Carman, R., Lott, V., 2001. Radical innovation without
+collocation: a case study and Boeing-Rocketdyne. MIS Quarterly 25 (2), 229–
+249.
+
+Manthou, V., Vlachopoulou, M., Folinas, D., 2004. Virtual e-Chain (VeC) model for
+supply chain collaboration. International Journal of Production Economics 87
+(3), 241–250.
+
+Marsh, H.W., Hocevar, D., 1985. Application of conﬁrmatory factor analysis to the
+study of self-concept: ﬁrst-and higher-order factor models and their invariance
+across groups. Psychological Bulletin 97 (3), 562–582.
+
+Min, S., Roath, A., Daugherty, P.J., Genchev, S.E., Chen, H., Arndt, A.D., 2005. Sup-
+ply chain collaboration: what’s happening? International Journal of Logistics
+Management 16 (2), 237–256.
+
+Mohr, J., Fisher, R.J., Nevin, J.R., 1996. Collaborative communication in interﬁrm rela-
+tionships: moderating effects of integration and control. Journal of Marketing
+60 (3), 103–115.
+
+Mohr, J., Nevin, J.R., 1990. Communication strategies in marketing channels: a the-
+
+oretical perspective. Journal of Marketing 54 (4), 36–51.
+
+Mohr, J., Spekman, R.E., 1994. Characteristics of partnership success: partnership
+attributes, communication behavior, and conﬂict resolution techniques. Strate-
+gic Management Journal 15 (2), 135–152.
+
+Monczka, R., Petersen, K., Handﬁeld, R.B., Ragatz, G., 1998. Success factors in strategic
+supplier alliances: the buying company perspective. Decision Sciences 29 (3),
+15–30.
+
+Moorman, C., 1995. Organizational market
+
+information processes: cultural
+antecedents and new product outcomes. Journal of Marketing Research 32 (3),
+318–335.
+
+Mowery, D., Rosenberg, N., 1998. Paths of Innovation: Technological Change in 20th
+
+Century America. Cambridge University Press, Cambridge, U.K.
+
+Mowery, D.C., Oxley, J.E., Silverman, B.S., 1996. Strategic alliances and interﬁrm
+knowledge transfer. Strategic Management Journal 17 (Winter Special Issue),
+77–91.
+
+Narasimhan, R., Jayaram, J., 1998. Causal linkage in supply chain management: an
+exploratory study of North American manufacturing ﬁrms. Decision Science 29
+(3), 579–605.
+
+Narasimhan, R., Kim, S.W., 2002. Effect of supply chain integration on the rela-
+tionship between diversiﬁcation and performance: evidence from Japanese and
+Korean ﬁrms. Journal of Operations Management 20 (3), 303–323.
+
+Nishiguchi, T., Anderson, E., 1995. Supplier and buyer networks. In: Bowman, E.,
+Kogut, B. (Eds.), Redesigning the Firm. Oxford University Press, New York, pp.
+65–86.
+
+Nyaga, G., Whipple, J., Lynch, D., 2010. Examining supply chain relationships: do
+buyer and supplier perspectives on collaborative relationships differ? Journal of
+Operations Management 28 (2), 101–114.
+
+Papke-Shields, K.E., Malhotra, M.J., Grover, V., 2002. Strategic manufacturing plan-
+ning systems and their linkage to planning system success. Decision Sciences 33
+(1), 1–30.
+
+Park, N.K., Mezias, J.M., Song, J., 2004. A resource-based view of strategic alliances
+and ﬁrm value in the electronic marketplace. Journal of Management 30 (1),
+7–27.
+
+Paulraj, A., Lado, A., Chen, I., 2008. Inter-organizational communication as a
+relational competency: antecedents and performance outcomes in collabora-
+tive buyer–supplier relationships. Journal of Operations Management 26, 45–
+64.
+
+Peck, H., Juttner, U., 2000. Strategy and relationships: deﬁning the interface in supply
+
+chain contexts. International Journal of Logistics Management 11 (2), 33–44.
+
+Petersen, K., Handﬁeld, R., Ragatz, G., 2005. Supplier integration into new product
+development: coordinating product, process, and supply chain design. Journal
+of Operations Management 23 (3–4), 371–388.
+
+Podsakoff, P, MacKenzie, S., Lee, J., Podsakoff, N., 2003. Common method biases
+in behavioral research: a critical review of the literature and recommended
+remedies. Journal of Applied Psychology 88 (5), 879–903.
+
+Poirier, C.C., Houser, W.F., 1993. Business Partnering for Continuous Improvement.
+
+Berrett–Koehler, San Francisco, CA, pp. 56–201.
+
+Porter, M.E., 1985. Technology and competitive advantage. Journal of Business Strat-
+
+egy 5 (3), 60–78.
+
+Prahalad, C.K., Hamel, G., 1990. The core competence of the corporation. Harvard
+
+Business Review 68 (3), 79–91.
+
+Prahinski, C., Benton, W.C., 2004. Supplier evaluations: communication strategies
+to improve supplier performance. Journal of Operations Management 22 (1),
+39–62.
+
+Ramaswami, S., Srivastava, R., Bhargava, M., 2009. Market-based capabilities and
+ﬁnancial performance of ﬁrms: insights into marketing’s contribution to ﬁrm
+value. Journal of the Academy of Marketing Science 37, 97–116.
+
+Rogers, E., Agarwala-Rogers, R., 1976. Communication in Organizations. The Free
+
+Press, New York.
+
+Rosenblum, R.S., Spencer, W.J., 1996. Engines of Innovation: U.S, Industrial Research
+
+at an End of an Era. Harvard Business School Press, Boston, MA.
+
+Sako, M., 1992. Prices, Quality and Trust: Inter-ﬁrm Relations in Britain and Japan.
+
+Cambridge University Press, Cambridge.
+
+Sanchez, J.I., Brock, P., 1996. Outcomes of perceived discrimination among His-
+panic employees: is diversity management a luxury or a necessity? Academy
+of Management Journal 39 (3), 704–719.
+
+Sapolsky, H., Gholz, E., Kaufman, A., 1999. Security lessons from the cold war. Foreign
+
+Affairs 4 (July–Aug), 77–89.
+
+
+180
+
+M. Cao, Q. Zhang / Journal of Operations Management 29 (2011) 163–180
+
+Schumacker, R., Marcoulides, G., 1998. Interaction and Nonlinear Effects in Structural
+
+Equation Modeling. Lawrence Erlbaum, Mahwah, NJ.
+
+Segars, A.H., Grover, V., 1998. Strategic information systems planning success:
+an investigation of the construct and its measurement. MIS Quarterly 22 (2),
+139–163.
+
+Sheu, C., Yen, H.R., Chae, D., 2006. Determinants of supplier-retailer collaboration:
+evidence from an international study. International Journal of Operations and
+Production Management 26 (1), 24–49.
+
+Simatupang, T.M., Sridharan, R., 2002. The collaborative supply chain. International
+
+Journal of Logistics Management 13 (1), 15–30.
+
+Simatupang, T.M., Sridharan, R., 2005. An Integrative framework for supply chain
+collaboration. International Journal of Logistics Management 16 (2), 257–274.
+Simonin, B.L., 1997. The importance of collaborative know-how: an empirical test of
+the learning organization. Academy of Management Journal 40 (2), 1150–1174.
+Simpson, J.T., Mayo, D.T., 1997. Relationship management: a call for fewer inﬂuence
+
+attempts? Journal of Business Research 39 (3), 209–218.
+
+Singh, K., Mitchell, W., 1996. Precarious collaboration: business survival after part-
+ners shut down or form new partnerships. Strategic Management Journal 17 (7),
+99–115.
+
+Slater, S.F., Narver, J.C., 1995. Market orientation and the learning organization.
+
+Journal of Marketing 59 (3), 63–74.
+
+Småros, J., 2007. Forecasting collaboration in the European grocery sector: observa-
+
+tions from a case study. Journal of Operations Management 25, 702–716.
+
+Sousa, R., Voss, C., 2008. Contingency research in operations management practices.
+
+Journal of Operations Management 26, 697–713.
+
+Srivastava, R.K., Shervani, T.A., Fahey, L., 1998. Market-based assets and shareholder
+
+value: a framework for analysis. Journal of Marketing 62 (1), 2–18.
+
+Stank, T.P., Keller, S.B., Daugherty, P.J., 2001. Supply chain collaboration and logistical
+
+service performance. Journal of Business Logistics 22 (1), 29–48.
+
+Stock, G.N., Greis, N.P., Kasarda,
+
+J.D., 2000. Enterprise logistics and supply
+chain structure: the role of ﬁt. Journal of Operations Management 18 (5),
+531–547.
+
+Stuart, F.I., McCutcheon, D., 1996. Sustaining strategic supplier alliances.
+Journal of Operation and Production Management 16 (10),
+
+International
+5–22.
+
+Tan, K.C., Kannan, V.R., Handﬁeld, R.B., 1998. Supply chain management: supplier
+performance and ﬁrm performance. International Journal of Purchasing and
+Materials Management 34 (3), 2–9.
+
+Tanriverdi, H., 2006. Performance effects of information technology synergies in
+
+multibusiness ﬁrms. MIS Quarterly 30 (1), 57–77.
+
+Teece, D.J., Pisano, P.G., Shuen, A., 1997. Dynamic capabilities and strategic manage-
+
+ment. Strategic Management Journal 18 (7), 509–533.
+
+Tuten, T.L., Urban, D.J., 2001. An Expanded model of business-to-business partner-
+ship foundation and success. Industrial Marketing Management 30 (2), 149–164.
+Tyndall, G., Gopal, C., Partsch, W., Kamauff, J., 1998. Supercharging Supply Chains:
+New Ways to Increase Value Through Global Operational Excellence. John Wiley
+& Sons, New York, NY.
+
+Uzzi, B., 1997. Social structure and competition in interﬁrm networks: the paradox
+
+of embeddedness. Administrative Science Quarterly 42 (1), 35–67.
+
+Van der Vaart, T., Van Donk, D., 2008. A critical review of survey-based research
+in supply chain integration. International Journal of Production Economics 111,
+42–55.
+
+Vangen, S., Huxham, C., 2003. Enacting leadership for collaborative advantage:
+dilemmas of ideology and pragmatism in the activities of partnership managers.
+British Journal of Management 14 (Suppl. 1), S61–S76.
+
+Verwaal, E., Hesselmans, M., 2004. Drivers of supply network governance: An explo-
+rative study of the dutch chemical industry. European Management Journal 22
+(4), 442–451.
+
+Vesey, J.T., 1991. The new competitors: they think in terms of speed-to-market.
+
+Academy of Management Executive 5 (2), 23–33.
+
+Vickery, S., Calantone, R., Droge, C., 1999. Supply chain ﬂexibility: an empirical study.
+
+The Journal of Supply Chain Management 35 (3), 16–24.
+
+Webster’s Third New International Dictionary, 1966. William Benton, Chicago.
+Widaman, K., 1985. Hierarchically nested covariance structure models for multitrait-
+
+multimethod data. Applied Psychological Measurement 9, 1–26.
+
+Williams, L., Cote, J., Buckley, M., 1989. Lack of method variance in self-reported
+affect and perceptions at work: reality or artifact. Journal of Applied Psychology
+74, 462–468.
+
+Williamson, O.E., 1975. Markets and Hierarchies. Prentice-Hall, Englewood Cliffs, NJ.
+Womack, J.P., Jones, D.T., Roos, D., 1990. The Machine that Changed the World.
+
+Harper Perennial, New York.
+
+Wong, A., 1999. Partnering through cooperative goals in supply chain relationships.
+
+Total Quality Management 10 (4–5), 786–792.
+
+Yamin, S., Gunasekruan, A., Mavondo, F.T., 1999. Relationship between generic
+strategy, competitive advantage and ﬁrm performance: an empirical analysis.
+Technovation 19 (8), 507–518.
+
+Yeung, A., 2008. Strategic supply management, quality initiatives, and organizational
+
+performance. Journal of Operations Management 26, 490–502.
+
+Zhao, X, Huo, B., Flynn, B.B., Yeung, J., 2008. The impact of power and relation-
+ship commitment on the integration between manufacturers and customers
+in a supply chain. Journal of Operations Management 26 (3), 368–388.
+
+Zhu, K., 2004. The complementarity of information technology infrastructure and
+e-commerce capability: a resource-based assessment of their business value.
+Journal of Management Information Systems 21 (1), 167–202.
+

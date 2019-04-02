@@ -1,0 +1,8281 @@
+Decision Sciences
+Volume 00 Number 0
+February 2011
+
+C(cid:2) 2012 The Authors
+Decision Sciences Journal C(cid:2) 2012 Decision Sciences Institute
+
+Managing Differentiation-Integration
+Duality in Supply Chain Integration∗
+
+†
+
+Siri Terjesen
+Kelley School of Business, Indiana University, 1309 E. 10th Street, Bloomington, IN 47405,
+e-mail: terjesen@indiana.edu
+
+Pankaj C. Patel
+Miller College of Business, Ball State University, 2000 W. University Avenue, Muncie, IN
+47306, e-mail: pcpatel@bsu.edu
+
+Nada R. Sanders
+College of Business and Economics, Lehigh University, 621 Taylor Street, Bethlehem, PA
+18015, e-mail: nrs209@lehigh.edu
+
+ABSTRACT
+
+Existing research focuses on the positive returns to operational performance of ﬁrms’
+supply chain integration (SCI) with suppliers, buyers, and customers. We draw on
+differentiation-integration duality and contingency theory to suggest that manufacturing
+ﬁrms should seek to achieve both integration through supply chain coordination activ-
+ities and differentiation through modularity-based manufacturing practices (MBMP).
+Using a sample of 261 manufacturing ﬁrms, we identify an inverse U-shaped relation-
+ship between SCI and operational performance. Furthermore, we ﬁnd support for the
+importance of differentiation-integration duality as a ﬁt between high levels of SCI and
+high levels of MBMP results in enhanced operational performance. We ﬁnd support
+for a contingency perspective as ﬁt is especially critical at higher levels of environ-
+mental uncertainty. Implications for theory, practice, and further research are suggested.
+[Submitted: November 14, 2010. Revised: May 25, 2011; August 12, 2011. Accepted:
+August 18, 2011.]
+
+Subject Areas: Differentiation, Integration, Modularity-based Manufactur-
+ing Practices, and Supply Chain Integration.
+
+INTRODUCTION
+
+Supply chain integration (SCI) is the degree to which ﬁrms strategically col-
+laborate with their supply chain partners and manage intra- and interorgani-
+zational processes (Flynn, Huo, & Zhao, 2010). A large body of research in-
+dicates that ﬁrms can realize increasing returns from enhanced customer, sup-
+plier, and internal integration efforts (Narasimhan, Swink, & Viswanathan, 2010).
+
+∗
+
+We thank Asoo Vakharia, the anonymous associate editor, and three anonymous reviewers for helpful
+
+comments on earlier versions of the manuscript.
+
+†
+
+Corresponding author.
+
+1
+
+
+2
+
+Managing Differentiation-Integration Duality
+
+For example, SCI can help ﬁrms improve responsiveness to demand (Frohlich
+& Westbrook, 2002), better allocate resources (Narasimhan & Kim, 2002), and
+reduce costs through improved process and distribution efﬁciency (Frohlich &
+Westbrook, 2001). Supported by interorganizational information technology (IT),
+which enables sharing of large amounts of data, information, and knowledge
+along the supply chain, SCI has been shown to improve buyer–supplier co-
+ordination and performance (Subramani, 2004; Ward & Zhou, 2006; Sanders,
+2008; Dong, Xu, & Zhu, 2009; Klein & Rai, 2009; Mithas, Ramasubbu, &
+Sambamurthy, 2011).
+
+Although the potential beneﬁts of SCI are generally recognized, a closer study
+of the extant research suggests inconsistencies in ﬁndings regarding its impact on
+operational performance (Germain & Iyer, 2006; Flynn et al., 2010). Further, re-
+cent research suggests that returns from integration may not be universal, but rather
+contingent on ﬁrm-speciﬁc and environmental factors (Turkulainen, 2008; Wong,
+Boon-itt, & Wong, 2011). For example, Chung, Talluri, and Narasimhan (2010)
+ﬁnd differential beneﬁts of ﬂexibility to suppliers, with high ﬂexibility beneﬁting
+lower price suppliers over quantity ﬂexibility suppliers. Similarly, Bozarth, Wars-
+ing, Flynn, and Flynn (2009) report that the nature and extent of supply chain
+complexity impacts organizational performance. Sousa and Voss (2008) suggest
+that contingency perspectives may be central to addressing mixed ﬁndings in op-
+erations management.
+
+Scholars highlight the need for further research to identify variables that
+impact the relationship between SCI and operational performance (Narasimhan
+& Kim, 2002; Zacharia, Nix, & Lusch, 2011). Wong et al. (2011) suggest fur-
+ther research is needed on interactions and combined performance impacts among
+SCI dimensions, and the joint effects of environmental uncertainty and SCI. More
+speciﬁcally, Azadegan and Dooley (2010) call for the examination of product mod-
+ularity as a contributing variable, as well as other researchers who emphasize the
+need to explore the effectiveness of modularity (Subramani, 2004; Pil & Cohen,
+2006). A recent modularity literature review (Campagnolo & Canuffo, 2010) out-
+lines the need for further investigation on the relationship between modularity and
+performance, especially considering the conﬁguration of the supply chain, market,
+and industry-speciﬁc factors.
+
+This study responds to these calls. Drawing on contingency theory and the
+differentiation-integration duality from Lawrence and Lorsch (1967), we propose
+that SCI may not be universally beneﬁcial as widely accepted in the supply chain lit-
+erature, but beneﬁts may be contingent on ﬁrm-speciﬁc and environmental factors
+(Tomlin, 2006). We ﬁrst examine the potential for an inverse U-shaped relation-
+ship between SCI and operational performance. Next, we explore Lawrence and
+Lorsch’s (1967) suggestion that higher performance is achieved by systems that
+simultaneously promote both differentiation of organizational units and integration
+of routines and processes. Differentiation is the separation of activities into distinct
+organizational units, whereas integration refers to their uniﬁcation (Lawrence &
+Lorsch, 1967). As applied to SCI, differentiation-integration duality can be a useful
+framework for explaining how ﬁrms can enhance SCI by concurrently engaging in
+modularity-based manufacturing practices (MBMP) for product design, produc-
+tion process design, and organizational design (Tu, Vonderembse, Ragu-Nathan,
+& Ragu-Nathan, 2004).
+
+
+Terjesen, Patel, and Sanders
+
+3
+
+SCI requires transaction-speciﬁc investments to effectively coordinate with
+supply chain members (Hobbs, 1996; Subramani, 2004) but can potentially limit
+ﬁrms’ development of unique bundles of resources. Furthermore, excessive in-
+tegration with outside stakeholders can create competency traps (Siggelkow &
+Levinthal, 2005), which can negatively affect performance. MBMP capabilities
+aid the implementation of supplier, customer, and internal integration. Further,
+we posit that the ﬁt between SCI and MBMP becomes especially critical under
+higher levels of environmental uncertainty, as supported by contingency theory
+(Lawrence & Lorsch, 1967). Using a sample of 261 manufacturing ﬁrms and mod-
+erated polynomial regression, we ﬁnd support for the proposed framework. The
+speciﬁc research questions we investigate are: (i) Why are some ﬁrms able to de-
+velop more effective operational responses to environmental uncertainty using SCI
+and MBMP? (ii) How can ﬁrms manage differentiation-integration duality through
+SCI and MBMP? and (iii) What patterns of differentiation and integration through
+SCI and MBMP are associated with operational performance under various levels
+of environmental uncertainty?
+
+The remainder of the article is organized as follows. The next section intro-
+duces the theoretical background of the model and hypotheses based on literatures
+associated with SCI, operational performance, MBMP, and environmental un-
+certainty. The research sample and methodology are then presented. Results are
+discussed, and the ﬁnal section highlights the contributions to theory and practice,
+limitations, and future research directions.
+
+THEORETICAL BACKGROUND AND HYPOTHESES
+DEVELOPMENT
+
+SCI and Operational Performance
+SCI is a key component of supply chain management (Chen, Daugherty, & Landry,
+2009) and has been extensively studied (Mabert & Venkataraman, 1998; Fawcett
+& Magnan, 2002; Chen, Mattioda, & Daugherty, 2007). Integration enhances
+operational performance in several ways. This includes developing responses to
+complex and uncertain environments (Frohlich & Westbrook, 2002) and pooling
+resources and capabilities across supply chain participants (Frohlich & Westbrook,
+2001; Narasimhan & Kim, 2002; Swink, Narasimhan, & Wang, 2007). Through in-
+creased interorganizational coordination, ﬁrms can access and leverage resources
+available in the supply chain and promote division of labor (Li, Ragu-Nathan,
+Ragu-Nathan, & Subba Rao, 2006). With the support of IT, buyer–supplier co-
+ordination and performance are improved (Subramani, 2004; Dong et al., 2009;
+Klein & Rai 2009; Mithas et al., 2011). IT has made possible the sharing of large
+amounts of information along the supply chain, allowing for the transmission and
+processing of information necessary for synchronous and asynchronous decision
+making (Kearns & Lederer, 2003). IT enables ﬁrms to unbundle information ﬂows
+from physical ﬂows and share information with their supply chain partners to
+create information-based capabilities for superior demand planning, staging, and
+movement of physical products, and the streamlining of complex ﬁnancial pro-
+cesses (Rai, Patnayakuni, & Seth, 2006). As such, IT supports SCI, which in turn
+leads to signiﬁcant and sustained performance gains.
+
+
+4
+
+Managing Differentiation-Integration Duality
+
+A large body of research explores the relationship between SCI and perfor-
+mance, but is characterized by inconsistencies in deﬁnitions, measurement, and
+outcomes (Pagell, 2004; Fabbe-Costes & Jahre, 2008; Flynn et al., 2010). Further-
+more, Fabbe-Costes and Jahre’s (2008) literature review reveals that research on
+SCI’s impact on performance uses a variety of performance measures, from pure
+operational logistics performance to broad strategic performance. Researchers call
+for further empirical research on the relationship between SCI and performance
+(Fabbe-Costes & Jahre, 2008), and identify the need for a contingency approach
+(Flynn et al., 2010; Wong et al., 2011).
+
+We view operational performance and SCI as multidimensional. Opera-
+tional performance includes four outcomes: delivery, production cost, product
+quality, and production ﬂexibility. Consistent with Pagell (2004), Flynn et al.
+(2010), and Wong et al. (2011), we consider SCI as having three main com-
+ponents: internal integration, supplier integration, and customer integration. We
+adapt Flynn, Huo, and Zhao’s (2010, p. 59) deﬁnition of SCI as “the degree
+to which a manufacturer strategically collaborates with its supply chain part-
+ners and collaboratively manages intra- and interorganization processes.” The
+strategic collaboration element captures the extent of ongoing, mutually bene-
+ﬁcial activities with customers and suppliers. These external integration efforts
+structure interorganizational strategies and processes. SCI also includes internal
+integration efforts within the manufacturer, to include the structure, systems, and
+processes.
+
+Although SCI increases responsiveness to enhance supply chain perfor-
+mance, it decreases distinctiveness (Swink et al., 2007). Firms with greater SCI tend
+to devote more attention to systems integration, planning, and forecasting (Saeed,
+Malhotra, & Grover, 2011). To coordinate knowledge and resources across the sup-
+ply chain, participants must develop transaction-speciﬁc knowledge and resources,
+and must adapt resources and capabilities to supply chain partners (Subramani,
+2004; Sanders, 2008). From an individual ﬁrm perspective, such suboptimal re-
+source allocation could reduce long-term performance as distinctive resources
+leading to ﬁrm competitive advantage are sidelined in favor of resource conﬁgu-
+rations for the “greater good” of the supply chain.
+
+SCI and performance outcomes do not always have a positive relationship.
+Koufteros, Vonderembse, and Jayaram (2005) ﬁnd that supplier product integration
+is signiﬁcantly negatively related to product innovation and that supplier process
+integration has a negative effect on quality, although not statistically signiﬁcant.
+Stank, Keller, and Closs (2001) examine the impact of ﬁve types of integration
+on overall logistics performance, ﬁnding that customer and internal integration
+are most critical for performance. However, there is mixed empirical support for
+the impact of supplier integration on performance. Swink et al. (2007) report that
+manufacturers with supplier integration have poorer quality and potentially poorer
+new product ﬂexibility. Furthermore, they ﬁnd that customer integration is not
+signiﬁcantly related to cost, quality, delivery, process ﬂexibility, or new product
+ﬂexibility. Although coordination costs are not explicitly explained in the context
+of SCI, increasing stakeholder integration in new product development efforts has
+both positive and negative effects on new product success and could result in longer
+lead times (Swink & Song, 2007).
+
+
+Terjesen, Patel, and Sanders
+
+5
+
+Contingency theory may be a useful framework for explaining the inconsis-
+tencies in these ﬁndings. We draw on contingency theory to explain that increasing
+returns from integration are contingent on ﬁrm and environmental factors.
+
+Contingency Theory Applied to SCI
+Contingency theory contends that there is no single best way to design, organize,
+or manage an organization; but to maximize performance, an organization should
+match its strategies, structures, and processes with its environment (Lawrence &
+Lorsch, 1967; Thompson, 1967; Miller, 1992; Donaldson, 2001; Sinha & Van
+de Ven, 2005). Thus, an organization’s success depends on the extent to which
+its chosen strategy is aligned with its structure (Chandler, 1962; Lawrence &
+Lorsch, 1967; Galbraith, 1973). This alignment, termed as ﬁt in the strategic
+management literature, explains many ﬁndings in operations and supply chain
+research (Koufteros et al., 2005; Sousa & Voss, 2008; Flynn et al., 2010; Qi, Zhao,
+& Sheu, 2011).
+
+The concept of ﬁt has a broad utility to various areas of theory develop-
+ment as it implies that there is a match between two theoretically related variables
+without reference to a criterion variable (Van de Ven & Drazin, 1985). Applica-
+tions of contingency theory and the notion of ﬁt are used extensively in the IT
+literature to explain inconsistencies in ﬁndings between IT deployment and use,
+ﬁrm integration, and performance outcomes (Kearns & Lederer, 2003; Subramani,
+2004; Demirhan, Jacob, & Raghunathan, 2007; Klein & Rai, 2009; Mani, Barua, &
+Whinston, 2010; Mithas et al., 2011). Results show that performance outcomes are
+contingent on many factors such as pattern of IT use (Lim, Richardson, & Roberts,
+2004; Sriram & Stump, 2004; Subramani, 2004) and technological “readiness” of
+ﬁrms (Khazanchi, 2005).
+
+Applied to SCI, this suggests that integration resources and activities need to
+be aligned with the ﬁrm’s competitive strategy. Firms with insufﬁcient SCI levels
+will not achieve returns in terms of delivery, production cost, product quality, and
+production ﬂexibility. However, extensive internal and external integration may
+result in unnecessary costs such as acquisition of relationship-speciﬁc assets (Sub-
+ramani, 2004). Furthermore, the manufacturing ﬁrm may lose important ﬂexibility
+and compromise its ability to meet operational goals, especially at requisite cost
+and quality levels (Flynn et al., 2010; Wong et al., 2011).
+
+A close review of the extant literature has identiﬁed inconsistencies in out-
+comes, and has revealed the fallacy of assuming a universally direct positive
+relationship between SCI and performance (Turkulainen, 2008). This leads to our
+ﬁrst hypothesis:
+
+H1: SCI has an inverse U-shaped relationship with operational performance.
+
+Achieving Differentiation-Integration Duality
+The established inconsistencies in the extant literature regarding beneﬁts of SCI
+on operational performance warrant further study of speciﬁc ﬁrm strategies that
+may enhance this relationship. In one of the seminal studies of contingency theory,
+Lawrence and Lorsch (1967) proposed an open systems theory regarding how or-
+ganizational units adapt to meet the needs of their environment. A central theme in
+
+
+6
+
+Managing Differentiation-Integration Duality
+
+their work is the need for organizations to achieve both differentiation and integra-
+tion. They deﬁne differentiation as “the state of segmentation of the organizational
+system into subsystems, each of which tends to develop particular attributes in re-
+lation to the requirements posed by its relevant external environment [and]. . . the
+behavioral attributes of members of organizational systems” (Lawrence & Lorsch,
+1967, p. 3–4). Differentiation is a consequence of local adaptation to unit-speciﬁc
+tasks (Dougherty, 2001) and increases the responsiveness of the organization (Gu-
+lati, Lawrence, & Puranam, 2005). Integration is “the process of achieving unity of
+effort among the various subsystems in the accomplishment of the organization’s
+task” (Lawrence & Lorsch, 1967, p. 4) and includes both the cooperation and
+coordination of interests and actions (Gulati et al., 2005).
+
+In organization science, the tension between differentiation and integration
+has been well accepted and studied (Gulati et al., 2005; O’Reilly & Tushman,
+2008; Raisch & Birkinshaw, 2008). Although some of the extant literature views
+differentiation and integration as a tradeoff (Boisot, Grifﬁths, & Mole, 1997), more
+recently, scholars focus on Lawrence and Lorsch’s core premise that ﬁrms jointly
+pursuing differentiation and integration may achieve more successful outcomes.
+For example, ﬁrms that carry out both structural differentiation and speciﬁc integra-
+tion mechanisms may be more successful in corporate venturing efforts (Burgers,
+Jansen, Van Den Bosch, & Volberda, 2009). Furthermore, internal integration
+mechanisms can mediate the relationship between structural differentiation and
+the ability to pursue explorative and exploitative innovation (Jansen, Tempelaar,
+Van Den Bosch, & Volberda, 2009). In a manufacturing environment, ﬁrms may
+be better positioned to achieve higher performance outcomes by pursuing both
+integration and differentiation through joint SCI and MBMP activities.
+
+As described above, a large body of literature establishes SCI as consistent
+with Lawrence and Lorsch’s (1967) deﬁnition of integration. Differentiation can be
+represented by the modularization of manufacturing systems. For example, Ulrich
+(1995, p. 422) distinguishes a modular architecture as “a one-to-one mapping
+from functional elements in the function structure to the physical components of
+the product, and speciﬁes de-coupled interfaces between components.” Support
+for modularity as providing differentiation is provided by Baldwin and Clark’s
+(1997, p. 149) deﬁnition of modularity as “building a complex product or process
+from smaller subsystems that can be designed independently yet function together
+as a whole.”
+
+Thus, MBMP as a differentiation strategy enables ﬁrms to distinctively con-
+ﬁgure their resources and increase independence of subsystems within a complex
+system (Brusoni & Prencipe, 2001a, 2001b; Brusoni, Prencipe, & Pavitt, 2001;
+Langlois, 2002; Cohen & Roussel, 2005). We follow Tu et al. (2004, p. 148) in
+deﬁning MBMP as “a set of actions that enable ﬁrms to achieve modularity in
+product design, production process design, and organizational design.” MBMP
+has three components: dynamic teaming, process modularity, and product modu-
+larity. Dynamic teaming refers to team-building processes, and captures the degree
+to which production teams are organized and united to respond to changes in
+processes and products. Process modularity is the “practice of standardizing man-
+ufacturing process modules so that they can be re-sequenced easily or new modules
+can be added quickly in response to changing product requirements” (Tu et al.,
+
+
+Terjesen, Patel, and Sanders
+
+7
+
+2004, p. 148) and can help internal operations functions respond more rapidly
+to changing environmental demands by easily adding, removing, and rearranging
+processes (Van Hoek & Weken, 1998). Product modularity refers to the use of
+standardized product modules to facilitate rearrangement into different functional
+forms to deploy new product lines.
+
+A growing body of modularity research (Pil & Cohen, 2006; Campagnolo
+& Camuffo, 2010) describes how modularity enhances ﬂexibility (Langlois &
+Richard, 1992; Baldwin & Clark, 2000), enables mass customization (Duray,
+Ward, Milligan, & Berry, 2000; Tu et al., 2004), increases alliance performance
+(Tiwana, 2008), reduces operating costs (Hoogeweegen, Teunissen, Vervest, &
+Wagenaar, 1999), facilitates development of tacit knowledge (Kotabe, Parente,
+& Murray, 2007), and leads to higher ﬁnancial performance and sales growth
+(Worren, Moore, & Cardona, 2002). However, evidence on modularity’s impact
+on performance outcomes is mixed, with some pointing to negative outcomes
+(Brusoni et al., 2001; Fleming & Sorenson, 2001; Ernst, 2005).
+
+Achieving superior performance is an important competitive objective of
+ﬁrms (Allred, Fawcett, Wallin, & Magnan, 2011). Power’s (2005) literature re-
+view describes that a key problem with SCI is that many ﬁrms are unable to fully
+achieve its implementation. Scholars highlight the difﬁculty that ﬁrms may expe-
+rience when attempting to implement and manage modularity of organizational
+routines (Lorenzi & Lello, 2001; Pan, Pan, Chen, & Hsieh, 2007). We outline how
+the dual pursuit of SCI and MBMP can lead to better ﬁrm performance outcomes.
+We focus our line of arguments on how SCI can be enhanced by MBMP capabil-
+ities. Speciﬁcally, MBMP can enhance a ﬁrm’s ability to design loose coupling
+between its internal subunits to improve its ﬂexibility to effectively integrate with
+supply chain partners. Orton and Weick (1990, p. 205) propose that “the concept of
+loose coupling allows theorists to posit that any system, in any organizational loca-
+tion, can act on both a technical level, which is closed to outside forces (coupling
+produces stability) and an institutional level, which is open to outside forces (loose-
+ness produces ﬂexibility). . . If there is responsiveness without distinctiveness, the
+system is tightly coupled. If there is distinctiveness without responsiveness, the
+system is decoupled. If there is both distinctiveness and responsiveness, the system
+is loosely coupled.”
+
+In a manufacturing ﬁrm context, SCI requires integrated system responsive-
+ness rather than individual distinctiveness. As a result, SCI demands tight coupling
+between individual units. By contrast, loose coupling of organizational units en-
+ables each unit to develop distinctive capabilities although coordinating across
+supply chain participants. One organization strategy is to maintain tight coupling
+with supply chain participants although decoupling internal units to optimize ca-
+pabilities development. Firms can increase the effectiveness of complex systems
+by dividing a system into distinct interacting yet independent subsystems to sys-
+tematically increase system performance. Modularity is typically considered on
+a continuum of the degree of interaction among subsystems. Greater modularity
+helps implement rapid changes in individual subsystems, thereby reducing the need
+for coordinated changes in other subsystems (Schilling, 2000). As a result, man-
+aging integration-differentiation duality requires decomposing design variables to
+maintain as few interactions as possible across the main subsets. We propose that
+
+
+8
+
+Managing Differentiation-Integration Duality
+
+MBMP helps ﬁrms to maintain integration although facilitating loose coupling
+within manufacturing subsystems. MBMP capabilities enhance ﬁrms’ ability to
+achieve the three SCI components of supplier integration, customer integration,
+and internal integration.
+
+Supplier integration is characterized by information exchange, strategic part-
+nership, and participation in design, procurement, and production. A ﬁrm’s product
+architecture strategy shapes its communication channels, problem-solving strate-
+gies, and coordinating routines (Henderson & Clark, 1990; Sanchez & Mahoney,
+1996; Pil & Cohen, 2006). MBMP is based on the development of common
+modular products and processes and thus a shared language is developed inter-
+nally and shared externally with suppliers and customers (Schilling, 2000; Garud,
+Karaswamy, & Langlois, 2003). This common understanding can enhance com-
+munication with suppliers, facilitating the exchange of information and greater
+partnership with suppliers at design, procurement, and production phases. Greater
+honesty and promises of suppliers are associated with higher information visibility
+(Wang & Wei, 2007). Loosely coupled MBMP enables ﬁrms to share components
+and maximize ﬂexibility (Tu et al., 2004). Sharing of information leads to dis-
+cussions between buyers and suppliers about how best to manage risks and close
+interactions during product development (Van Hoek & Weken, 1998). The dynamic
+teaming capabilities inherent in MBMP can aid supplier integration through active
+participation and quick response, especially to suppliers’ most pressing needs for
+information exchange and problem solving.
+
+Customer integration involves feedback mechanisms, computerization of or-
+dering, organic linkages, market information sharing, order process agility, and
+the frequency and level of communication. As described above, MBMP facili-
+tates the development and use of a common language. This shared vocabulary aids
+knowledge diffusion, enabling a higher level and frequency of communication with
+customers. Furthermore, modularity enables quick reconﬁguration and recombina-
+tion that can satisfy “diverse and ﬂuid customer preferences” (Pil & Cohen, 2006,
+p. 996). Organizations’ dynamic teaming capabilities are contingent on possessing
+accurate information about customers (Tu et al., 2004), and this leads to knowledge
+sharing of tasks, tools, and processes through product and process modularity con-
+duits. Process modularity hinges on ﬂexible production processes such as process
+postponement which involves delaying the customization of subprocesses until
+demand is more certain, or placing those subprocesses in distribution centers to
+achieve maximum ﬂexibility. These capabilities can enhance customer integration
+in terms of the agility of the ordering process.
+
+The third SCI component, internal integration, is characterized by informa-
+tion network data, systemwide IT integration, real time search for inventory level
+and logistics-related operating data, integration production process data and inven-
+tory management, and constructing systemswide interactions. Internal integration
+efforts can also be signiﬁcantly enhanced by MBMP. In addition to the external
+information conduits described above, MBMP facilitates internal sharing of opera-
+tional resources and capabilities. Furthermore, ﬁrms with strong MBMP initiatives
+are capable of developing teams that can be reorganized to respond to changes and
+reassigned to tasks (Tu et al., 2004). These teams can then be deployed to the most
+pressing integration issues.
+
+
+Terjesen, Patel, and Sanders
+
+9
+
+Thus, taken together, modular architectures enhance internal effectiveness
+while managing external effectiveness. Product modularity provides ﬂexibility by
+increasing the range of substitutions without requiring changes in the designs of
+product components (Garud et al., 2003). Structural design facilitated by MBMP
+encourages rapid knowledge exchange across the supply chain and reduces the
+response time for exploiting windows of opportunities. Further, product modularity
+increases the speed of product launches and helps to quickly recoup costs of
+innovation. These capabilities can enhance the systemwide information system
+and data integration.
+
+Drawing on the concept of differentiation integration, we suggest that increas-
+ing levels of SCI should be coupled with the differentiation promoting strategy of
+MBMP to enhance operational performance. This leads to our second hypothesis:
+
+H2: Higher levels of SCI require higher levels of MBMP for enhanced
+
+operational performance.
+
+Impact of Environmental Uncertainty
+Lawrence and Lorsch (1967, p. 6) suggest that “subsystems in any organiza-
+tion could be expected to develop different degrees of structure in relation to
+the certainty of their subenvironment” and ﬁnd that organizations with high sub-
+unit differentiation which also maintain high integration among subunits are best
+equipped to deal with environmental changes. As argued by Gulati et al. (2005,
+p. 417), “differentiated and diverse organizational subunits can recognize and
+engage in a wider search for new opportunities when environmental conditions
+change. . . Achieving integration between interdependent organizational subunits
+is necessary in order to respond effectively to change.”
+
+As outlined earlier, contingency theory stresses the importance for organi-
+zations to match their strategies, structure, and processes to their environment
+(Lawrence & Lorsch, 1967; Donaldson, 2001) and that this ﬁt is especially critical
+in highly uncertain environments. Environmental uncertainty describes the rate
+and unpredictability of change in a ﬁrm’s external environment (Dess & Beard,
+1984) and refers to a lack of information about future states. As a result, uncer-
+tainty requires strategic ﬂexibility and responsiveness on the part of the ﬁrm, while
+maintaining integration (Milliken, 1987). As the value of resources changes across
+different environments (Priem & Butler, 2001), we expect that the joint exhibition
+of SCI and MBMP capabilities has the most positive relationship to operational
+performance in environments characterized by high uncertainty. We examine this
+with respect to key components of an uncertain environment: lack of information
+coupled with high levels of unpredictability and change.
+
+Highly uncertain environments are characterized by a lack of information.
+To cope, organizations must develop organic structures, increase teamwork, and
+enhance decentralization while simultaneously engaging in boundary spanning
+and integration (Thompson, 1967; Orton & Weick, 1990). In these environments,
+jointly high levels of SCI and MBMP can enhance information ﬂows, helping to
+quickly coordinate resources and actions across participating units. Prior research
+suggests that the confusion and lack of understanding about a phenomenon mod-
+erate the relationship between internal and external integration and performance
+
+
+10
+
+Managing Differentiation-Integration Duality
+
+(Koufteros et al., 2005). Modularity practices can eliminate some of this confusion
+as they entail a shared language internally and externally (Schilling, 2000; Garud
+et al., 2003) and facilitate information exchange.
+
+In highly uncertain environments, change “is hard to predict and that height-
+ens uncertainty for key organizational members” (Dess & Beard, 1984, p. 56).
+In particular, there may be a high degree of uncertainty regarding customer pref-
+erences, competitor actions, and supplier capabilities. MBMP capabilities can
+enhance SCI. For example, research suggests that when customer preferences are
+complex and unknown, ﬁrms modularize their products in unique ways (Pil &
+Cohen, 2006). Furthermore, through speed and ﬂexibility of response, MBMP can
+help ﬁrms respond to uncertainty by shortening product development time and
+lowering costs (Sanchez & Mahoney, 1996). These efforts may be further aided
+by unifying IT systems.
+
+Taken together, contingency theory suggests ﬁrms that maintain high integra-
+tion among subunits while achieving high levels of subunit differentiation are best
+equipped to adapt to environmental changes (Lawrence & Lorsch, 1967; Tushman
+& Nadler, 1978; Hambrick, 1983; Kotha & Nair, 1995). This leads to our third
+hypothesis:
+
+H3: Higher levels of environmental uncertainty require higher levels of con-
+gruence between SCI and MBMP to achieve operational performance.
+
+METHODOLOGY AND DATA
+
+Sample
+The sample is comprised of private one-plant manufacturing ﬁrms from the Dun
+and Bradstreet Million Dollar Database that met the following criteria: (i) more
+than $5 million in sales revenues in 2009, (ii) located in ﬁve Midwest states (IL,
+IN, KY, OH, and MO), and (iii) SIC codes 20–39. We chose the criterion of $5
+million in sales revenues as larger ﬁrms are more likely to have undertaken SCI
+and MBMP initiatives. We assessed the representativeness of our sample against
+the entire population of private manufacturing ﬁrms listed in the database in 2009,
+yielding a sampling error of 6.91% which is within recommended limits (S¨arndal,
+Swensson, & Wretman, 2003). We randomly selected 60 ﬁrms for each of the fol-
+lowing 18 2-digit SIC codes to ensure a cross-section of manufacturing: food and
+kindred products (20), textile mill products (20), apparel and other ﬁnished prod-
+ucts (23), lumber and wood products, except furniture (24), furniture and ﬁxtures
+(25), paper and allied products (26), printing, publishing, and allied industries
+(27), chemicals and allied products (28), petroleum reﬁning and related indus-
+tries (29), rubber and miscellaneous plastics products (30), stone, clay, glass, and
+concrete products (32), primary metal industries (33), fabricated metal products,
+except machines (34), industrial and commercial machinery (35), electronic and
+other electrical equipment (36), transportation equipment (37), measuring, analyz-
+ing, and controlling instruments (38), and miscellaneous manufacturing industries
+(39).
+
+
+Terjesen, Patel, and Sanders
+
+11
+
+Pilot Study
+We developed the survey instrument using items shown to be reliable in leading
+studies. The survey was ﬁrst piloted on three operations management researchers
+using Q-sorting. The interrater agreement on sorting was 96%, 95%, and 94% for
+SCI, MBMP, and operational performance, respectively. We then sought feedback
+from three other operations management researchers on survey format, order of
+survey items, and survey wording. Based on their feedback and survey design
+guidelines for limiting common method variance by Podsakoff, MacKenzie, Lee,
+and Podsakoff (2003), we incorporated clear guidelines for the survey, provided
+a glossary of items at the end of the survey, incorporated different scale types,
+changed the order of scale items, and provided clearer question stems. We then
+piloted the survey on four operations managers. Based on their feedback, we
+included clear guidelines in the survey invitation letter and a glossary of terms at
+the end of the survey.
+
+Survey
+In December 2009, the survey was sent to operations managers and CEOs as both
+are familiar with manufacturing routines and processes in private ﬁrms (Sharfman,
+1998). We included a cover letter and a prepaid business reply envelope. To enhance
+typically low response rates, we informed the respondents that if they completed
+the survey, we would donate $10 to a charity of their choice. The initial mailing
+was followed by three reminder e-mails between January 2010 and March 2010.
+We received 307 surveys. Our 28.4% response rate is very favorable compared
+to typical rates of 10–20% in studies of mailed surveys to top executives (e.g.,
+Swink et al., 2007). Our ﬁnal sample is 261 ﬁrms as we excluded 32 ﬁrms with
+incomplete data and 14 ﬁrms with more than one manufacturing plant.
+
+We assessed the differences among early and late respondents. There were no
+signiﬁcant differences among early and late respondents on dimensions of ﬁrm age
+(F = 0.39, not signiﬁcant [n.s.]), sales revenue in 2009 (F = 0.43, n.s.), number of
+employees (F = 1.06, n.s.), SIC code (F = 0.87, n.s.), and respondent’s industry
+work experience (F = 0.91, n.s.).
+
+Further, we tested for nonresponse bias by examining the mean responses
+of respondents and nonrespondents in terms of ﬁrm demographics. No signiﬁcant
+differences were found for age (F = 1.08, n.s.), sales revenue in 2009 (F =
+0.84, n.s.), number of employees (F = 1.52, n.s.), SIC code (F = 1.21, n.s.), and
+respondent’s industry work experience (F = 1.27, n.s.). We therefore concluded
+that nonresponse bias was not a threat to validity. We calculated sampling error in
+the context of the population of manufacturing ﬁrms in 2009 in the ﬁve Midwest
+states. Our sampling error of 4.82% is within acceptable range (S¨arndal et al.,
+2003), suggesting that our sample was representative of manufacturing ﬁrms.
+
+Measures
+Our survey included multi-item measures for each construct. We also conducted
+construct validity and discriminant validity tests on each variable (Appendix). In
+addition to Cronbach’s alpha, we employed two other measures of internal con-
+sistency: Raykov’s rho (ρ) and the ordinal reliability alpha. Raykov’s rho corrects
+
+
+12
+
+Managing Differentiation-Integration Duality
+
+for the underestimation of scale reliability (Raykov, 1998). As the predictors and
+the outcome measure are based on noncontinuous Likert-type scales, we used the
+ordinal reliability alpha (Zumbo, Gadermann, & Zeisser, 2007). Table A1 presents
+individual item loadings, conﬁrmatory factor analysis (CFA) at scale and sub-
+construct levels, multiple measures of internal constancy (i.e., Cronbach’s alpha,
+Raykov’s rho, ordinal reliability alpha), and average variance extracted (AVE).
+Table A2 shows tests for alternate speciﬁcations of the measurement model. As
+SCI and MBMP are multiitem measures with subdimensions, the validity of the
+second-order factor is presented in Table A3.
+
+Dependent variable: Operational performance
+We used Wong et al.’s (2011) 17-item measure of operational performance with
+four dimensions: delivery [5 items], production cost [4 items], product quality
+[4 items], and production ﬂexibility [4 items]. The measure showed acceptable
+internal consistency (α = 0.838), convergent validity (χ 2 = 179.387, df = 112; CFI
+= 0.97; TLI = 0.96; RMSEA = 0.038; SRMR = 0.025), and discriminant validity
+(AVE = 0.682). This measure is consistent with Sousa and Voss’ (2008) advice
+that operations management (OM) contingency research should focus on multiple
+operational performance aspects. Furthermore, we use the same measures of SCI
+and operational performance as Wong et al. (2011) note that prior studies’ use of
+vastly different measures prevented meaningful comparisons and conclusions.
+
+Independent variables: SCI
+SCI is measured with a three-dimensional 21-item scale from Narasimhan and Kim
+(2002): supplier integration [6 items], internal integration [8 items], and customer
+integration [7 items]. The measure showed acceptable internal consistency (α
+= 0.822), convergent validity (χ 2 = 227.036, df = 182; CFI = 0.94; TLI =
+0.93; RMSEA = .042; SRMR = .016), and discriminant validity (AVE = 0.636).
+Recent research highlighted the need to consider all three dimensions of SCI (Flynn
+et al., 2010; Wong et al., 2011). The internal integration items capture IT-related
+concepts such as data integration, systemwide information systems integration,
+and real time searching. The customer integration item includes computerization
+of customer ordering. The supplier integration item includes information exchange
+with suppliers through IT.
+
+MBMP
+MBMP is a three-dimensional 15-item scale from Tu et al. (2004): dynamic teaming
+[5 items], process modularity [5 items], and product modularity [5 items]. MBMP
+has high internal consistency (α = 0.823), convergent validity (χ 2 = 129.328, df
+= 83; CFI = 0.96; TLI = 0.95; RMSEA = .048; SRMR = .02), and discriminant
+validity (AVE= 0.622). This multidimensional perspective on modularity (product,
+process, and organization) was called for in a recent literature review (Campagnolo
+& Camuffo, 2010).
+
+
+Terjesen, Patel, and Sanders
+
+13
+
+Environmental uncertainty
+Environmental uncertainty is based on Dess and Beard (1984). We compiled
+data from COMPUSTAT on industry (4-digit SIC code) net sales and operating
+income from 2005 to 2009. Following Keats and Hitt (1988), we conducted two
+regressions: natural logarithm of industry sales on time, and natural logarithm of
+operating income on time. Environmental uncertainty is the average of the antilog
+of the standard error of beta in each regression. Higher standard errors indicate
+increased discontinuities in the environment, and therefore greater environmental
+uncertainty.
+
+Control variables
+We included several control variables that offer alternative explanations of per-
+formance. First, we controlled for ﬁrm characteristics including ﬁrm size (natural
+logarithm of number of employees) and ﬁrm age. Based on the two regressions
+to operationalize environmental uncertainty, we calculated environmental munif-
+icence as the antilog of regression coefﬁcients of the natural log of industry net
+sales on time and the natural log of operating income on time. Environmental com-
+plexity, based on 4-digit SIC codes in COMPUSTAT, is the regression coefﬁcient
+of terminal year market shares of all ﬁrms (ﬁrms’ market shares in 2009) on their
+shares in the initial year (ﬁrms’ market share in 2005). The regression coefﬁcient is
+obtained as β = (cid:2)
+, where xi and yi are deviations from the mean market share.
+We follow Heeley, King, and Covin (2006) in multiplying the computed measure
+of environmental complexity by –1 to ensure that more complex environments are
+designated by larger numbers.
+
+xi yi(cid:2)
+x2
+i
+
+We classiﬁed ﬁrms into ﬁve distinct manufacturing processes based on 4-digit
+SIC codes: highly standardized continuous ﬂow manufacturing, high-volume mass
+production, mid-volume assembly line, mid-volume disconnected line and batch
+production, or specialized, low-volume job shops (reference category; Bharadwaj,
+Bharadwaj, & Bendoly, 2007).
+
+Means, standard deviations, and correlations are presented in Table 1.
+
+Common Method Bias
+The survey’s single respondent nature may be susceptible to common method
+bias. We took steps to mitigate this during the survey design phase and conducted
+several tests to assess the threat. First, as described earlier, we incorporated survey
+design guidelines from Podsakoff et al. (2003). Second, we used Harman’s one-
+factor test to assess common method bias. We extracted ﬁve factors accounting for
+83.62% of variance. The ﬁrst factor accounted for 17.84% of variance, indicating
+there is lower likelihood of common method variance problem. Third, based on
+recent recommendation by Podsakoff et al. (2003), we included a method factor
+in the measurement model to explain relative variance explained by substantive
+factors and the method factor. The substantive constructs explained 94.25% of
+the variance. The method factor explained 1.17% of the variance, indicating that
+common method bias was not a signiﬁcant threat to the validity of ﬁndings.
+
+
+14
+
+Managing Differentiation-Integration Duality
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+1
+
+2
+0
+
+.
+
+1
+
+3
+0
+
+.
+
+5
+0
+
+.
+
+1
+
+7
+0
+
+.
+
+2
+0
+
+.
+
+3
+0
+
+.
+
+1
+
+3
+0
+
+.
+
+4
+0
+
+.
+
+4
+0
+
+.
+
+1
+0
+
+.
+
+1
+
+∗
+
+1
+1
+.
+0
+
+2
+0
+.
+
+∗
+
+9
+0
+.
+
+∗
+
+3
+0
+.
+
+9
+0
+.
+
+∗
+
+1
+
+8
+0
+.
+
+4
+0
+.
+
+∗
+
+0
+1
+.
+0
+
+4
+0
+.
+
+2
+0
+.
+
+4
+0
+.
+
+5
+
+1
+
+∗
+∗
+∗
+
+∗
+
+7
+1
+.
+0
+
+2
+1
+.
+0
+
+5
+0
+.
+
+2
+0
+.
+
+7
+0
+.
+
+∗
+∗
+
+∗
+
+9
+0
+.
+
+2
+1
+.
+0
+
+4
+
+1
+
+∗
+∗
+∗
+
+∗
+∗
+∗
+
+∗
+∗
+∗
+
+7
+1
+.
+0
+
+0
+2
+.
+0
+
+7
+1
+.
+0
+
+∗
+
+1
+1
+.
+0
+
+2
+0
+.
+
+∗
+
+9
+0
+.
+
+∗
+
+3
+0
+.
+
+9
+0
+.
+
+3
+
+∗
+
+∗
+
+∗
+
+∗
+∗
+
+1
+
+1
+1
+.
+0
+
+0
+1
+.
+0
+
+8
+0
+.
+
+2
+1
+.
+0
+
+∗
+
+∗
+
+9
+0
+.
+
+8
+0
+.
+
+4
+0
+.
+
+4
+0
+.
+
+3
+0
+.
+
+∗
+∗
+∗
+
+∗
+∗
+
+2
+
+1
+
+8
+1
+.
+0
+
+3
+1
+.
+0
+
+∗
+∗
+
+4
+1
+.
+0
+
+∗
+∗
+∗
+
+∗
+
+8
+0
+.
+
+5
+1
+.
+0
+
+6
+0
+.
+
+∗
+∗
+
+4
+1
+.
+0
+
+∗
+
+0
+1
+.
+0
+
+2
+0
+.
+
+4
+0
+.
+
+∗
+∗
+∗
+
+∗
+∗
+∗
+
+∗
+
+1
+
+1
+
+1
+2
+.
+0
+
+1
+9
+1
+1
+.
+.
+0
+−
+
+∗
+∗
+
+3
+1
+.
+0
+
+∗
+
+8
+3
+0
+0
+.
+.
+−
+
+∗
+
+1
+1
+.
+0
+
+2
+0
+.
+
+4
+0
+.
+
+3
+0
+.
+
+2
+0
+.
+
+D
+S
+
+6
+0
+.
+1
+
+1
+0
+.
+1
+
+3
+0
+.
+1
+
+2
+8
+0
+.
+
+n
+a
+e
+
+M
+
+9
+5
+.
+2
+
+6
+2
+.
+3
+
+9
+0
+.
+3
+
+9
+0
+.
+1
+
+8
+9
+.
+6
+3
+
+2
+1
+.
+3
+5
+
+9
+1
+.
+2
+
+8
+4
+.
+0
+
+9
+2
+.
+0
+
+4
+3
+.
+0
+
+9
+4
+.
+0
+
+1
+3
+.
+0
+
+0
+3
+.
+0
+
+5
+9
+.
+
+7
+0
+.
+7
+
+3
+0
+.
+1
+
+8
+1
+.
+0
+
+9
+1
+.
+0
+
+4
+1
+.
+0
+
+1
+2
+.
+0
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+
+)
+s
+e
+e
+y
+o
+l
+p
+m
+e
+
+f
+o
+
+#
+(
+
+e
+z
+i
+s
+
+m
+
+r
+i
+F
+
+y
+t
+i
+x
+e
+l
+p
+m
+o
+c
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+
+e
+c
+n
+e
+c
+ﬁ
+
+i
+n
+u
+m
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+
+e
+g
+a
+m
+
+r
+i
+F
+
+y
+l
+h
+g
+i
+H
+
+P
+M
+B
+M
+
+I
+
+C
+S
+
+-
+h
+g
+i
+h
+/
+d
+e
+z
+i
+d
+r
+a
+d
+n
+a
+t
+s
+
+s
+u
+o
+u
+n
+i
+t
+n
+o
+c
+
+e
+m
+u
+l
+o
+v
+
+w
+o
+ﬂ
+
+y
+l
+b
+m
+e
+s
+s
+a
+
+e
+m
+u
+l
+o
+v
+-
+d
+i
+M
+
+e
+m
+u
+l
+o
+v
+-
+d
+i
+M
+
+s
+s
+a
+m
+/
+e
+m
+u
+l
+o
+v
+-
+h
+g
+i
+H
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+s
+u
+o
+u
+n
+i
+t
+n
+o
+c
+s
+i
+d
+
+h
+c
+t
+a
+b
+/
+e
+n
+i
+l
+
+.
+)
+d
+e
+l
+i
+a
+t
+-
+o
+w
+
+t
+(
+
+1
+0
+0
+.
+
+<
+p
+
+∗
+∗
+∗
+
+;
+1
+0
+
+.
+
+<
+p
+
+∗
+∗
+
+;
+5
+0
+
+.
+
+<
+p
+
+∗
+
+.
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+d
+n
+a
+
+,
+s
+n
+o
+i
+t
+a
+i
+v
+e
+d
+
+d
+r
+a
+d
+n
+a
+t
+s
+
+,
+s
+n
+a
+e
+
+M
+
+:
+1
+
+e
+l
+b
+a
+T
+
+
+Terjesen, Patel, and Sanders
+
+15
+
+Construct Validity
+Using principal components analysis with varimax rotation, we assessed the factor
+structure of the overall model. Items loaded into respective factors as proposed
+in the theoretical model, generating acceptable Kaiser–Meyer–Olkin measure of
+sampling adequacy (0.936; recommended value closer to 1) and Bartlett’s test of
+sphericity (χ 2/df = 11.482; p < .001). Bartlett’s tests the null hypothesis that
+the correlation matrix is an identity matrix. An identity matrix includes all of the
+nondiagonal elements at 0 and all of the diagonal elements at 1. An acceptable factor
+structure rejects this null hypothesis. The initial assessment suggests satisfactory
+factor loadings to further assess convergent validity.
+
+Convergent validity was assessed using item loadings and their t-values.
+Greater factor loadings provide stronger evidence for a relationship among the
+observed indicators and their respective latent factors. For discriminant validity
+we used AVE. Based on the cutoffs suggested in Bagozzi, Yi, and Singh (1991),
+our measures have adequate convergent and discriminant validity (Appendix, Table
+A1). Furthermore, before aggregating measures, we tested the validity of second-
+order factors (SCI, MBMP, and operational performance; Table A2).
+
+DISCUSSION OF HYPOTHESES RESULTS
+
+SCI and Operational Performance
+Hypothesis 1 proposes an inverse U-shaped relationship between SCI and oper-
+ational performance, testing the assumption of a universally positive relationship
+between the two variables. As shown in Table 2, H1 is supported (β = −.027, p <
+.01). Although not hypothesized, drawing on differentiation integration, excessive
+modularity-based manufacturing could also have an inverse U-shaped relationship
+to operational performance. As shown in Table 2, we ﬁnd this to be the case (β =
+−.026, p < .05). The ﬁndings suggest that separately both SCI and MBMP have
+an inverse U relationship with operational performance.
+
+To ensure a correct interpretation of the results, we tested the extent to which
+the inverse U relationship is valid in the context of the current data. Most studies
+of inverse U hypotheses are tested using signiﬁcance levels for the squared term
+of the variable of interest. If the p-value of the squared term is negative and sig-
+niﬁcant, the variables are considered to have an inverse U relationship. Following
+recommendations by Blanchﬂower (2007) and Lind and Mehlum (2010), addi-
+tional tests are necessary. We proceeded with a series of tests. First, we tested the
+joint signiﬁcance of direct and squared terms of SCI and MBMP. We then relied
+on Sasabuchi’s (1980) test for the inverse U shape of SCI to explore the joint null
+hypotheses: (i) effect of SCI on operational performance is not increasing at low
+values of SCI, and (ii) effect of SCI on operational performance is not decreasing at
+high values of SCI. We also used Sasabuchi’s (1980) test to examine the effects of
+MBMP on operational performance. Next, we estimated the extreme point of the
+effect of SCI and MBMP and calculated conﬁdence intervals based on the Fieller
+standard error and Delta method (Lind & Mehlum, 2010). Table 3 shows the results
+of the tests. The inverse U relationship is signiﬁcant. The conﬁdence intervals for
+both the Fieller and Delta methods indicate that SCI and MBMP values are within
+the limits of the data.
+
+
+16
+
+Managing Differentiation-Integration Duality
+
+Table 2: Moderated polynomial regression results.
+
+SCI (A) [β1]
+MBMP (B) [β2]
+Environmental Uncertainty (C)
+A2 [β3] [H1]
+A × B [β4]
+B2 [β5]
+A × C [β6]
+B × C (β7)
+A2 × C (β8)
+A × B × C (β9)
+B2 × C (β10)
+Controls
+
+Firm size
+Firm age
+Environmental muniﬁcence
+Environmental complexity
+Highly standardized/high volume
+
+continuous ﬂow
+
+High-volume/mass production
+Mid-volume assembly
+Mid-volume discontinuous
+
+line/batch
+
+Intercept
+F-stat
+Adjusted-R2
+ F-stat
+ Adjusted-R2
+Sample Size required for power =
+
+0.95; α = .05
+
+Model 2:
+Moderating
+
+Model 3:
+Nonlinear
+
+Model 1:
+
+Direct Effects
+
+∗∗
+∗
+∗
+
+0.149
+0.170
+−.131
+
+∗
+∗
+∗
+
+∗
+
+.03
+.06
+0.17
+−.15
+.06
+
+.08
+.05
+.03
+
+∗
+
+1.419
+72.603(11)
+0.190
+
+Effects
+∗∗
+∗
+∗
+∗∗
+∗
+∗
+
+0.119
+0.165
+−.129
+−.029
+.091
+−.031
+
+∗
+∗
+∗
+
+∗
+
+.03
+.05
+0.15
+−.12
+.06
+
+.08
+.03
+.02
+
+∗
+
+1.404
+99.747(14)
+0.276
+27.144(3)
+
+∗∗∗
+
+166
+
+.086
+142
+
+Moderating Effects
+
+∗∗
+∗
+∗
+∗∗
+∗
+∗
+∗
+∗
+∗
+∗
+∗
+
+0.114
+0.163
+−.115
+−.027
+.082
+−0.026
+.059
+.036
+.037
+.082
+.026
+
+∗
+∗
+∗
+
+∗
+
+.02
+.04
+0.12
+−.11
+.06
+
+.07
+.02
+.02
+
+∗
+
+1.396
+
+122.560(19)
+
+0.345
+22.813(5)
+
+∗∗∗
+
+.069
+127
+
+∗
+
+p < .05;
+
+∗∗
+
+p < .01;
+
+∗∗∗
+
+p < .001 (two-tailed).
+
+SCI, MBMP, and Operational Performance
+Hypothesis 2 proposes that SCI coupled with MBMP enhances operational per-
+formance. This hypothesis was tested using polynomial regression as it provides
+distinct advantages over other forms of contingency testing approaches such as
+interaction or deviance scores (Edwards, 2001).
+
+The bivariate ﬁt between SCI and MBMP is speciﬁed as:
+Y = β0 + β1 × A + β2 × B + βx × C + β3 × A2 + β4 × (A × B)
++β5 × B2 + β6 × (A × C) + β7 × (B × C) + β8 × (A2 × C)
++β9 × (A × B × C) + β10 × (B2 × C) + ε,
+
+(1)
+
+where A is SCI, B represents MBMP, and C denotes environmental uncertainty.
+
+
+Terjesen, Patel, and Sanders
+
+17
+
+Table 3: Tests of inverse U-shape relationship.
+
+Tests
+
+Test of joint signiﬁcance of direct effects
+
+and squared-terms (p-value)
+
+Sasabuchi-test of inverse U-shape of SCI
+and operational performance (p-value)
+
+Estimated extreme point
+95% conﬁdence interval—Fieller
+
+method
+
+95% conﬁdence interval—Delta method
+Test of joint signiﬁcance of control
+
+variables (p-value)
+
+Test of joint signiﬁcance of all variables
+
+in the model
+
+SCI and
+
+SCI-Squared
+
+MBMP and
+
+MBMP-Squared
+
+.011
+
+.013
+
+.009
+
+.010
+
+2.602
+
+(1.156, 3.048)
+
+2.773
+
+(1.201, 3.345)
+
+(1.361, 3.185)
+
+(1.269, 3.277)
+
+.007
+
+.011
+
+.012
+
+.009
+
+Polynomial regression is a stepwise model. First, linear effects are introduced.
+If the direct effects are signiﬁcant, nonlinear effects are introduced in the next step.
+In the context of H2, the line of ﬁt is indicated by (X = Y), and line of misﬁt is (X
+= –Y). If increasing both SCI and MBMP enhances operational performance, then
+the slope along the ﬁt line (X = Y) should be positive and the slope along the misﬁt
+line (X = –Y) should be negative. Table 4(a) shows that the slope is positive along
+the ﬁt line (β = 0.277, p < .05), and negative along the misﬁt line (β = −.049,
+p < .05). The curvature along the ﬁt line is insigniﬁcant (β = .029, p > 0.10),
+thereby indicating linearly increasing returns at higher levels of SCI and MBMP.
+Therefore, there is no excessive level of both MBMP and SCI that would lead to
+performance declines. Overall, H2 is supported.
+
+Fit to Uncertain Environments
+Hypothesis 3 proposes that with higher levels of environmental uncertainty a higher
+degree of congruence is needed between SCI and MBMP. Speciﬁcally, at higher
+levels of uncertainty, a higher degree of ﬁt is needed between the two variables
+to achieve an increase in operational performance compared to lower levels of
+uncertainty. The lower portion of Table 4(a) shows that the interaction term with
+the ﬁt line is signiﬁcant for environmental uncertainty (slope of ﬁt line: β = .095,
+p < .05; curvature of ﬁt line: β = 0.145, p < .05). Therefore, there is strong
+support for contingency theory as the returns from increased ﬁt at higher levels
+of uncertainty show nonlinearly increasing returns. Furthermore, we examined the
+misﬁt line, and found that the effects are insigniﬁcant for linear [slope (β1 + β2):
+.023, p > 0.10] and nonlinear effects [curvature (β3 + β4 + β5): −.019, p > 0.10],
+therefore substituting SCI for MBMP does not lead to increased performance.
+To test if the surfaces are statistically different at different levels of environmen-
+tal uncertainty, we split the sample at the median level of environmental uncer-
+tainty and tested differences in betas using 500 bootstrap samples in Table 4(b).
+There are signiﬁcant differences in estimates, indicating that varying levels of
+
+
+18
+
+Managing Differentiation-Integration Duality
+
+4
+
+β
+–
+
+3
+
+9
+
+β
+–
+
+8
+
+∗
+
+β
+(
+
+.
+
+)
+5
+
+5
+3
+e
+1
+r
+u
+−
+t
+β
+a
+v
++
+r
+u
+C
+
+∗
+
+9
+4
+0
+−
+
+.
+
+)
+2
+
+β
+-
+
+1
+
+β
+(
+
+e
+p
+o
+l
+
+S
+
++
+
+3
+
+9
+2
+0
+
+.
+
+β
+(
+
+)
+5
+
+e
+β
+r
+u
++
+t
+a
+v
+r
+u
+C
+
+β
+
+4
+
+e
+n
+i
+l
+
+Y
+–
+=
+X
+g
+n
+o
+l
+a
+
+e
+p
+a
+h
+S
+
+e
+n
+i
+l
+
+Y
+=
+X
+g
+n
+o
+l
+a
+
+e
+p
+a
+h
+S
+
+)
+2
+
+β
++
+
+1
+
+β
+(
+
+e
+p
+o
+l
+
+S
+
+)
+5
+
+2
+B
+
+β
+(
+
+B
+×
+A
+
+)
+4
+
+β
+(
+
+)
+3
+
+2
+A
+
+β
+(
+
+)
+B
+(
+P
+M
+B
+M
+
+)
+A
+(
+
+)
+2
+
+β
+(
+
+I
+
+C
+S
+
+)
+1
+
+β
+(
+
+s
+t
+c
+e
+f
+f
+E
+g
+n
+i
+t
+a
+r
+e
+d
+o
+M
+
+∗
+
+7
+7
+2
+
+.
+
+0
+
+∗
+
+6
+2
+0
+−
+
+.
+
+∗
+
+2
+8
+0
+
+.
+
+∗
+∗
+
+7
+2
+0
+−
+
+.
+
+∗
+
+3
+6
+1
+.
+0
+
+∗
+∗
+
+4
+1
+1
+.
+0
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+s
+t
+c
+e
+f
+f
+E
+
+t
+c
+e
+r
+i
+
+D
+
+.
+s
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+
+l
+a
+i
+m
+o
+n
+y
+l
+o
+p
+m
+o
+r
+f
+
+s
+t
+l
+u
+s
+e
+r
+
+s
+n
+o
+i
+t
+a
+l
+u
+c
+l
+a
+c
+
+t
+i
+F
+:
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+f
+o
+
+s
+t
+c
+e
+f
+f
+e
+
+n
+o
+i
+t
+a
+r
+e
+d
+o
+M
+
+:
+)
+a
+(
+4
+
+e
+l
+b
+a
+T
+
+.
+
+β
+(
+
+)
+0
+1
+
+9
+1
+0
+e
+r
+−
+u
+t
+β
+a
+v
++
+r
+u
+C
+
+3
+2
+0
+
+.
+
+)
+7
+
+β
+–
+
+6
+
+β
+(
+
+e
+p
+o
+l
+
+S
+
++
+
+8
+
+5
+4
+1
+
+.
+
+0
+
+β
+(
+
+)
+∗
+0
+1
+
+e
+β
+r
+u
++
+t
+a
+v
+r
+u
+C
+
+β
+
+9
+
+e
+n
+i
+l
+
+Y
+–
+=
+X
+g
+n
+o
+l
+a
+
+e
+p
+a
+h
+S
+
+e
+n
+i
+l
+
+Y
+=
+X
+g
+n
+o
+l
+a
+
+e
+p
+a
+h
+S
+
+)
+7
+
+β
++
+
+6
+
+β
+(
+
+e
+p
+o
+l
+
+S
+
+)
+0
+1
+
+2
+B
+
+β
+(
+
+B
+×
+A
+
+)
+9
+
+β
+(
+
+)
+8
+
+2
+A
+
+β
+(
+
+)
+B
+(
+P
+M
+B
+M
+
+)
+A
+(
+
+)
+7
+
+β
+(
+
+I
+
+C
+S
+
+)
+6
+
+β
+(
+
+∗
+
+5
+9
+0
+
+.
+
+∗
+
+6
+2
+0
+
+.
+
+∗
+
+2
+8
+0
+
+.
+
+∗
+
+7
+3
+0
+
+.
+
+∗
+∗
+
+6
+3
+0
+.
+
+∗
+∗
+
+9
+5
+0
+.
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+n
+o
+t
+n
+e
+g
+n
+i
+t
+n
+o
+c
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+.
+
+y
+l
+s
+u
+o
+e
+n
+a
+t
+l
+u
+m
+
+i
+s
+d
+e
+r
+e
+t
+n
+e
+
+s
+r
+o
+t
+c
+i
+d
+e
+r
+p
+l
+l
+a
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+c
+ﬁ
+f
+e
+o
+c
+
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+d
+e
+z
+i
+d
+r
+a
+d
+n
+.
+1
+a
+6
+t
+s
+2
+n
+=
+u
+t
+n
+c
+e
+;
+ﬂ
+1
+e
+0
+r
+
+.
+
+∗
+∗
+
+<
+p
+
+;
+5
+0
+
+.
+
+<
+p
+
+s
+r
+e
+b
+m
+u
+N
+
+:
+e
+t
+o
+N
+
+∗
+
+
+Terjesen, Patel, and Sanders
+
+19
+
+–
+
+8
+
+1
+2
+0
+−
+
+.
+
+β
+(
+
+)
+0
+1
+
+e
+β
+r
+u
++
+t
+a
+v
+r
+u
+C
+
+β
+
+9
+
+1
+1
+0
+−
+
+.
+
+1
+0
+−
+
+.
+
+e
+n
+i
+l
+
+Y
+–
+=
+X
+g
+n
+o
+l
+a
+
+e
+p
+a
+h
+S
+
+e
+n
+i
+l
+
+Y
+=
+X
+g
+n
+o
+l
+a
+
+e
+p
+a
+h
+S
+
+)
+7
+
+β
+–
+
+6
+
+β
+(
+
+e
+p
+o
+l
+
+S
+
++
+
+8
+
+β
+(
+
+)
+0
+1
+
+e
+β
+r
+u
++
+t
+a
+v
+r
+u
+C
+
+β
+
+9
+
+)
+7
+
+β
++
+
+6
+
+β
+(
+
+e
+p
+o
+l
+
+S
+
+)
+0
+1
+
+2
+B
+
+β
+(
+
+B
+×
+A
+
+)
+9
+
+β
+(
+
+)
+8
+
+2
+A
+
+β
+(
+
+)
+B
+(
+P
+M
+B
+M
+
+)
+A
+(
+
+)
+7
+
+β
+(
+
+I
+
+C
+S
+
+)
+6
+
+β
+(
+
+s
+t
+c
+e
+f
+f
+E
+g
+n
+i
+t
+a
+r
+e
+d
+o
+M
+
+.
+t
+o
+l
+p
+
+e
+c
+a
+f
+r
+u
+s
+
+n
+i
+
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+
+t
+i
+l
+p
+s
+
+n
+a
+i
+d
+e
+M
+
+:
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+f
+o
+
+s
+t
+c
+e
+f
+f
+e
+
+n
+o
+i
+t
+a
+r
+e
+d
+o
+M
+
+:
+)
+b
+(
+4
+
+e
+l
+b
+a
+T
+
+2
+0
+
+.
+
+∗
+
+5
+4
+1
+
+.
+
+∗
+
+4
+7
+1
+
+.
+
+∗
+
+5
+2
+0
+
+.
+
+∗
+
+3
+8
+0
+
+.
+
+∗
+
+7
+3
+0
+.
+
+∗
+∗
+
+7
+7
+0
+.
+
+∗
+∗
+
+7
+9
+0
+.
+
+n
+o
+t
+n
+e
+g
+n
+i
+t
+n
+o
+c
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+:
+h
+g
+i
+H
+
+5
+0
+0
+
+.
+
+3
+6
+0
+
+.
+
+5
+4
+0
+
+.
+
+1
+1
+0
+
+.
+
+7
+3
+0
+
+.
+
+5
+1
+0
+
+.
+
+2
+0
+.
+
+5
+2
+0
+.
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+:
+
+w
+o
+L
+
+5
+1
+0
+
+.
+
+∗
+∗
+∗
+
+2
+8
+0
+
+.
+
+∗
+∗
+∗
+
+9
+2
+1
+
+.
+
+∗
+
+4
+1
+0
+
+.
+
+∗
+
+6
+4
+0
+
+.
+
+∗
+
+2
+2
+0
+.
+
+∗
+∗
+
+7
+5
+0
+.
+
+∗
+∗
+∗
+
+2
+7
+0
+.
+
+.
+6
+2
+=
+n
+;
+1
+0
+
+.
+
+<
+p
+
+∗
+∗
+
+;
+5
+0
+
+.
+
+<
+p
+
+∗
+
+s
+t
+c
+e
+f
+f
+e
+
+n
+i
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+n
+o
+t
+n
+e
+g
+n
+i
+t
+n
+o
+c
+
+l
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+u
+
+
+20
+
+Managing Differentiation-Integration Duality
+
+environmental uncertainty impact ﬁt. Overall, structural model ﬁndings support
+all three hypotheses.
+
+Post hoc Analysis
+Because of our relatively smaller sample size, we draw on Cohen, Cohen, West,
+and Aiken (2003) to identify the required sample size for each model. Table 2 lists
+sample sizes required for each model at power levels of 0.95. Next, based on Efron
+and Tibshirani (1997), we calculate overall model power using a bootstrapping
+approach drawing 1,000 replications. The model’s power of 0.86 is found to be
+well above the statistically prescribed levels (Cohen et al., 2003).
+
+It is likely that gains from MBMP and SCI are contingent on ﬁrm size. To
+ensure that our results are consistent under different ﬁrm sizes, we split the sample
+into three employee groups: 50 or less, 51–100, and more than 100. We ﬁnd that
+the effects of MBMP and SCI are greater for larger ﬁrms than for smaller ﬁrms.
+However, the direction, magnitude, and statistical signiﬁcance of the proposed
+relationships do not change for any of the subgroups.
+
+Finally, in addition to polynomial regression, we use ANCOVA to test differ-
+ences in effects. We split the sample of ﬁrms based on high and low levels of SCI,
+MBMP, and environmental uncertainty. We ﬁnd signiﬁcant differences between
+low SCI, low MBMP and high SCI, and high MBMP (F-test = 7.324, p < .001).
+Next, we compare high uncertainty [low SCI: low MBMP] versus low uncertainty
+[high SCI: high MBMP], again identifying signiﬁcant differences (F-test= 12.828,
+p < .001). Taken together, our post hoc analyses support all three hypotheses.
+
+IMPLICATIONS FOR THEORY AND PRACTICE
+
+Our study makes several important contributions to the literature on SCI and
+MBMP. First, prior studies ﬁnd mixed results with respect to SCI and performance.
+These results have been attributed to a lack of consideration of the environment,
+unclear deﬁnitions, and inconsistent operationalizations (Fabbe-Costes & Jahre,
+2008). We use the three-component SCI construct (supplier, customer, and internal
+integration) called for in recent studies (Flynn et al., 2010) to inform prior research
+and guide future research. Using a stratiﬁed sample across 18 manufacturing
+industry categories and measures found to be reliable in leading studies, we ﬁnd
+that the relationship between SCI and operational performance is an inverse U. This
+suggests that there are costs to a high degree of internal and external integration.
+Similarly, we identify an inverse U relationship between MBMP and oper-
+ational performance, suggesting that high levels of differentiation resulting from
+modularity are also costly. This is supported by prior studies that suggest modular
+capability may lead to poor performance outcomes (Brusoni et al., 2001; Fleming
+& Sorenson, 2001; Ernst, 2005). We conﬁrm this, but only at extremely high levels
+of modularity and without the presence of integration. Moreover, a unique contri-
+bution of this study is that MBMP can enhance the effects of SCI on operational
+performance. The joint contribution of high levels of both SCI and MBMP to
+operational performance is especially important in environments characterized by
+high uncertainty.
+
+
+Terjesen, Patel, and Sanders
+
+21
+
+Further, our study makes important contributions toward a deeper under-
+standing of the differentiation-integration duality. Within the operations context,
+we present the case of modularity as a differentiation strategy and SCI as an
+integration strategy to show that the two can work in tandem to create organiza-
+tional synergies. Although the operations literature has recently recognized the
+importance of ambidexterity, or the balance of exploration and exploitation based
+innovation efforts (Adler et al., 2009; Kristal, Huang, & Roth, 2010), we show
+that ﬁrms also gain from balancing differentiation and integration. Organizational
+science has provided support for the notion of ambidexterity, with the expectation
+that such organizations achieve superior performance (Raisch, Birkinshaw, Probst,
+& Tushman, 2009). We provide further support for this organizational strategy
+within operations and supply chain environments.
+
+With respect to contingency theory, we answer Sousa and Voss’ (2008) call
+to develop more sophisticated theorizing and tests in operations management.
+We return to one of the seminal contributions to contingency theory (Lawrence
+& Lorsch, 1967) and explicitly explore the critical importance of pursuing both
+differentiation and integration. Furthermore, we add to the large body of research
+on SCI, operational performance, and environmental uncertainty (e.g., Koufteros
+et al., 2005; Wong et al., 2011) by examining the interrelationship of MBMP.
+
+This study also suggests a number of important managerial implications.
+Today’s manufacturing ﬁrm managers face an increasingly turbulent environment
+characterized by short product life cycles, global competition, regulatory policies,
+and new technologies, as well as changes in consumer conﬁdence and spending
+(KPMG/EIU, 2010) and pressures to cut costs (Bates, Flynn, & Flynn, 2009). Our
+research indicates that even in these uncertain times, managers should continue
+to develop and leverage SCI and MBMP capabilities. Existing research has iden-
+tiﬁed that ﬁrms have difﬁculty implementing SCI (Power, 2005) and modularity
+(Lorenzi & Lello, 2001; Pan et al., 2007). Indeed, there is great heterogeneity in
+the use of SCI (Power, 2005) and modular design practices (Pil & Cohen, 2006).
+Implementation is critical to achieving success with SCI (Power, 2005) and modu-
+larity (Pan et al., 2007). Our ﬁndings suggest that MBMP activities may help with
+SCI implementation. That is, although strategic integration and modular manufac-
+turing processes require organizational resources, their efforts may complement
+one another. The message for managers is that the integration of response offered
+by SCI may not be sufﬁcient to provide ﬂexibility and responsiveness, and should
+be coupled with a strategy that provides differentiation. The contingency theory
+perspective is especially critical as it provides guidelines for especially turbulent
+task environments.
+
+LIMITATIONS AND FUTURE RESEARCH DIRECTIONS
+
+The implications discussed should be considered in light of several limitations
+of this study, which warrant further investigation. First, the cross-sectional nature
+of the data makes it difﬁcult to empirically test causality. Future research should
+incorporate longitudinal data to evaluate the dynamic relationship of the variables
+studied. Second, our performance measures are based on perceptions. Although a
+recent literature review of 38 SCI-performance articles reported that all the studies
+
+
+22
+
+Managing Differentiation-Integration Duality
+
+used senior managers’ perceptions of performance (Fabbe-Costes & Jahre, 2008),
+triangulation with secondary data sources is desirable. Third, our measure of inter-
+nal integration does not include several potentially important subsystem interfaces
+such as manufacturing–marketing and manufacturing–research and development.
+Future studies of subsystem interfaces within and outside the ﬁrm could provide
+a more systemic understanding of differentiation-integration duality. Fourth, it
+would also be desirable to have dyadic or triadic data from buyers and suppliers
+regarding the extent of integration.
+
+In addition to the suggestions stemming from the limitations of our research,
+we offer three promising directions for future research. First, there may be cer-
+tain ﬁrm capabilities that enable SCI and MBMP. For example, Wu, Melnyk, and
+Flynn (2010) recently identiﬁed six emergent operational capabilities: operational
+improvement, innovation, customization, cooperation, responsiveness, and recon-
+ﬁguration. Other potential drivers are ﬁrm capabilities of organizational learning
+(e.g., absorptive capacity) and innovation (e.g., ambidexterity). Further research
+could investigate how these capabilities impact SCI and MBMP implementation,
+especially in uncertain environments.
+
+Second, researchers could explore other possible contingency factors. Al-
+though this study focuses on SCI, MBMP, and environmental uncertainty, there
+are likely additional factors related to internal operations (e.g., ﬁrm structure, cul-
+ture, size) or external environments (e.g., technological diffusion). For example,
+compared to the large ﬁrms examined in this study, small ﬁrms may be more able to
+adapt quickly and therefore may not require MBMP capabilities to the same extent.
+As the number of suppliers can impact the supply chain and too much ﬂexibility
+can beneﬁt low-price suppliers (Chung et al., 2010), future researchers may wish
+to investigate the patterns of supply chain partnerships. Furthermore, supply chain
+executives’ decisions regarding SCI initiatives are based on their perceptions of
+risk (Villena, Gomez-Mejia, & Revilla, 2009). Future research could explore how
+individual perceptions impact joint SCI and MBMP decisions.
+
+Third, there may be an important global component as SCI frequently in-
+volves global partners (Qi, Boyer, & Zhao, 2009) and modularization is increas-
+ingly part of a global supply chain (Kotabe et al., 2007). Given the trend of
+offshoring (Palvia, King, Xia, & Palvia, 2010), future enquiry could investigate
+these ﬁrm capabilities in an international context. National contexts and culture
+constitute a critical contingency variable (Sousa & Voss, 2008) and there is sig-
+niﬁcant cross-country variance in manufacturing plant capabilities (Bates et al.,
+2009). Further enquiry could explore whether ﬁrms’ SCI and modularization ca-
+pabilities vary when operating in foreign markets, and the impact on operational
+performance and other outcomes.
+
+CONCLUSION
+
+The purpose of this research is to investigate how ﬁrms’ SCI strategies can be
+enhanced by MBMP, especially in environments characterized by high uncertainty.
+Drawing on the concept of differentiation-integration duality, we develop and test
+a model on 261 manufacturing ﬁrms. We ﬁnd that both SCI and MBMP have an
+inverse U relationship with operational performance, and that increasing levels of
+
+
+Terjesen, Patel, and Sanders
+
+23
+
+both SCI and MBMP together leads to enhanced operational performance. Further,
+this effect is strengthened with high levels of environmental uncertainty.
+
+REFERENCES
+
+Adler, P. S., Benner, M., Brunner, D. J., MacDufﬁe, J. P., Osono, E., Staats, B. R.,
+et al. (2009). Perspectives on the productivity dilemma. Journal of Operations
+Management, 27(2), 99–113.
+
+Allred, C. R., Fawcett, S. E., Wallin, C., & Magnan, G. M. (2011). A dynamic
+collaboration capability as a source of competitive advantage. Decision Sci-
+ences, 42(1), 129–161.
+
+Azadegan, A., & Dooley, K. J. (2010). Supplier innovativeness, organizational
+learning styles and manufacturer performance: An empirical assessment.
+Journal of Operations Management, 28(6), 488–505.
+
+Bagozzi, R. P., Yi, Y., & Singh, S. (1991). On the use of structural equation models
+in experimental designs: Two extensions. International Journal of Research
+in Marketing, 8(2), 125–140.
+
+Baldwin, C. Y., & Clark, K. B. (1997). Managing in an age of modularity. Harvard
+
+Business Review, 75(5), 84–93.
+
+Baldwin, C. Y., & Clark, K. B. (2000). Design rules: The power of modularity.
+
+Cambridge, MA: MIT Press.
+
+Bates, K. A., Flynn, E. J., & Flynn, B. B. (2009). The pressure to perform:
+Innovation, cost, and the lean revolution. Business Horizons, 52(3), 215–
+221.
+
+Bharadwaj, S., Bharadwaj, A., & Bendoly, E. (2007). The performance effects of
+complementarities between information systems, marketing, manufacturing,
+and supply chain processes. Information Systems Research, 18(4), 437–453.
+Blanchﬂower, D. G. (2007). International patterns of union membership. British
+
+Journal of Industrial Relations, 45(1), 1–28.
+
+Boisot, M., Grifﬁths, D., & Mole, V. (1997). The dilemma of competence: Differ-
+entiation versus integration in the pursuit of learning. In R. Sanchez, & A.
+Heene (Eds.), Strategic learning and knowledge management. Chichester,
+UK: Wiley, 65–82.
+
+Bozarth, C., Warsing, D., Flynn, B., & Flynn, J. (2009). The impact of supply
+chain complexity on manufacturing plant performance. Journal of Opera-
+tions Management, 27(1), 79–93.
+
+Brusoni, S., & Prencipe, A. (2001a). Managing knowledge in loosely coupled
+networks: Exploring the links between product and knowledge dynamics.
+Journal of Management Studies, 38(7), 1019–1035.
+
+Brusoni, S., & Prencipe, A. (2001b). Unpacking the black box of modularity:
+Technologies, products and organizations. Industrial and Corporate Change,
+10(1), 179–205.
+
+
+24
+
+Managing Differentiation-Integration Duality
+
+Brusoni, S., Prencipe, A., & Pavitt, K. (2001). Knowledge specialization, organi-
+zational coupling, and the boundaries of the ﬁrm: Why do ﬁrms know more
+than they make? Administrative Science Quarterly, 46(4), 597–621.
+
+Burgers, J. H., Jansen, J. J. P., Van Den Bosch, F. A. J., & Volberda, H. W. (2009).
+Structural differentiation and corporate venturing: The moderation role of
+formal and informal integration mechanisms. Journal of Business Venturing,
+24(3), 206–220.
+
+Campagnolo, D., & Camuff, A. (2010). The concept of modularity in management
+studies: A literature review. International Journal of Management Reviews,
+12(3), 259–283.
+
+Chandler, A. (1962). Strategy and structure. Cambridge, MA: MIT Press.
+Chen, H., Daugherty, P., & Landry, T. D. (2009). Supply chain process integration:
+
+A theoretical framework. Journal of Business Logistics, 30(2), 27–46.
+
+Chen, H., Mattioda, D. D., & Daugherty, P. (2007). Firm-wide integration and ﬁrm
+performance. The International Journal of Logistics Management, 18(1),
+5–21.
+
+Chung, W., Talluri, S., & Narasimhan, N. (2010). Flexibility or cost savings:
+Sourcing decisions with two suppliers. Decision Sciences, 41(3), 625–650.
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple regres-
+sion/correlation analysis for the behavioral sciences. Mahwah, NJ: Erlbaum.
+Cohen, S., & Roussel, J. S. (2005). Strategic supply chain management. New York,
+
+NY: McGraw-Hill.
+
+Demirhan, D., Jacob, V. S., & Raghunathan, S. (2007). Strategic IT investments:
+The impact of switching cost and declining IT cost. Management Science,
+53(2), 208–226.
+
+Dess, G. G., & Beard, D. W. (1984). Dimensions of organizational task environ-
+
+ments. Administrative Science Quarterly, 29(1), 52–73.
+
+Donaldson, L. (2001). The contingency theory of organizations. Thousand Oaks,
+
+CA: Sage.
+
+Dong, S., Xu, S. H., & Zhu, K. X. (2009). Information technology in supply chains:
+The value of IT-enabled resources under competition. Information Systems
+Research, 20(1), 18–32.
+
+Dougherty, D. (2001). Re-imagining the differentiation and integration of work
+
+for sustained product innovation. Organization Science, 12(5), 612–631.
+
+Duray, R., Ward, P. T., Milligan, G. W., & Berry, W. L. (2000). Approaches
+to mass customization: Conﬁgurations and empirical validation. Journal of
+Operations Management, 18(6), 605–625.
+
+Edwards, J. R. (2001). Ten difference score myths. Organizational Research Meth-
+
+ods, 4(3), 265–287.
+
+Efron, B., & Tibshirani, R. J. (1997). An introduction to the bootstrap. New York,
+
+NY: Chapman & Hall.
+
+
+Terjesen, Patel, and Sanders
+
+25
+
+Ernst, D. (2005). Limits to modularity: Reﬂections on recent developments in chip
+
+design. Industry and Innovation, 12(3), 303–335.
+
+Fabbe-Costes, N., & Jahre, M. (2008). Supply chain integration and performance:
+A review of the evidence. International Journal of Logistics Management,
+19(2), 130–154.
+
+Fawcett, S. E., & Magnan, G. M. (2002). The rhetoric and reality of supply
+chain integration. International Journal of Physical Distribution and Logis-
+tics Management, 32(5), 339–351.
+
+Fleming, L., & Sorenson, O. (2001). The dangers of modularity. Harvard Business
+
+Review, 79(8), 20–21.
+
+Flynn, B. B., Huo, B., & Zhao, X. (2010). The impact of supply chain integra-
+tion on performance: A contingency and conﬁguration approach. Journal of
+Operations Management, 28(1), 58–71.
+
+Frohlich, M. T., & Westbrook, R. (2001). Arcs of integration: An international
+study of supply chain strategies. Journal of Operations Management, 19(2),
+185–200.
+
+Frohlich, M. T., & Westbrook, R. (2002). Demand chain management in manufac-
+turing and services: Web-based integration, drivers and performance. Journal
+of Operations Management, 20(6), 729–745.
+
+Galbraith, J. (1973). Organization design. Reading, MA: Addison-Wesley.
+Garud, R., Kumaraswamy, A., & Langlois, R. N. (2003). Managing in the modular
+
+age: Architectures, networks, and organizations. New York, NY: Wiley.
+
+Germain, R., & Iyer, K. N. S. (2006). The interaction of internal and external
+integration in predicting performance. Journal of Business Logistics, 27(2),
+29–52.
+
+Gulati, R., Lawrence, P. R., & Puranam, P. (2005). Adaptation in vertical rela-
+tionships: Beyond incentive conﬂict. Strategic Management Journal, 26(5),
+415–440.
+
+Hambrick, D. C. (1983). High proﬁt strategies in mature capital goods industries:
+A contingency approach. Academy of Management Journal, 26(4), 687–708.
+Heeley, M. B., King, D. R., & Covin, J. G. (2006). Effects of ﬁrm R&D investment
+and environment on acquisition likelihood. Journal of Management Studies,
+43(7), 1513–1535.
+
+Henderson, R., & Clark, K. (1990). Architectural innovation: The reconﬁgura-
+tion of existing product technologies and the failure of established ﬁrms.
+Administrative Science Quarterly, 35(1), 9–30.
+
+Hobbs, J. E. (1996). A transaction cost approach to supply chain management.
+
+Supply Chain Management: An International Journal, 1(2), 15–27.
+
+Hoogeweegen, M. R., Teunissen, W. J. M, Vervest, P. H. M., & Wagenaar, R.
+W. (1999). Modular network design: Using information and communication
+technology to allocate production tasks in a virtual organization. Decision
+Sciences, 30(4), 1073–1103.
+
+
+26
+
+Managing Differentiation-Integration Duality
+
+Jansen, J. J. P., Tempelaar, M. P., Van Den Bosch, F. A. J., & Volberda, H. W.
+(2009). Structural differentiation and ambidexterity: The mediating role of
+integration mechanisms. Organization Science, 20(4), 797–811.
+
+Kearns, G. S., & Lederer, A. L. (2003). A resource-based view of strategic IT
+alignment: How knowledge sharing creates competitive advantage. Decision
+Sciences, 34(1), 1–29.
+
+Keats, B., & Hitt, M.(1988). A causal model of linkages among environmental
+dimensions, macro organizational characteristics and performance. Academy
+of Management Journal, 31(3), 570–598.
+
+Khazanchi, D. (2005). Information technology (IT) appropriateness: The contin-
+gency theory of “ﬁt” and IT implementation in small and medium enterprises.
+Journal of Computer Information Systems, 45(3), 88–95.
+
+Klein, R., & Rai, A. (2009). Inter-ﬁrm strategic information ﬂows in logistics
+
+supply chain relationships. MIS Quarterly, 33(4), 735–762.
+
+Kotabe, M., Parente, R., & Murray, J. (2007). Antecedents and outcomes of mod-
+ular production in the Brazilian automobile industry: A grounded theory
+approach. Journal of International Business Studies, 38(1), 84–106.
+
+Kotha, S., & Nair, A. (1995). Strategy and environment as determinants of perfor-
+mance: Evidence from the Japanese machine tool industry. Strategic Man-
+agement Journal, 16(3), 497–519.
+
+Koufteros, X., Vonderembse, M., & Jayaram, J. (2005). Internal and external
+integration for product development: The contingency effects of uncertainty,
+equivocality, and platform strategy. Decision Sciences, 36(1), 97–133.
+
+KPMG/EIU. (2010). Global manufacturing outlook: Relationships, risk and reach.
+
+Amsterdam: KPMG.
+
+Kristal, M., Huang, X., & Roth, A. (2010). The effect of an ambidextrous supply
+chain strategy on combinative competitive capabilities and business perfor-
+mance. Journal of Operations Management, 28(5), 415–429.
+
+Langlois, P. L., & Richard, N. (1992). Networks and innovation in a modular
+system: Lessons from the microcomputer and stereo component industries.
+Research Policy, 21(4), 297–313.
+
+Langlois, R. N. (2002). Modularity in technology and organization. Journal of
+
+Economic Behavior & Organization, 49(1), 19–37.
+
+Lawrence, P. R., & Lorsch, J. W. (1967). Differentiation and integration in complex
+
+organizations. Administrative Science Quarterly, 12(1), 1–47.
+
+Li, S., Ragu-Nathan, B., Ragu-Nathan, T. S., & Subba Rao, S. (2006). The im-
+pact of supply chain management practices on competitive advantage and
+organizational performance. Omega, 34(2), 107–124.
+
+Lim, J. H., Richardson, V. J., & Roberts, T. L. (2004). Information technology
+investment and ﬁrm performance: A meta-analysis. Proceedings of the 37th
+Hawaii International Conference on System Sciences, Waikoloa, HI: IEE
+Computer Society, 1–11.
+
+
+Terjesen, Patel, and Sanders
+
+27
+
+Lind, J. T., & Mehlum, H. (2010). With or without U? The appropriate test for a
+U-shaped relationship. Oxford Bulletin of Economics and Statistics, 72(1),
+109–118.
+
+Lorenzi, S., & Lello, A. D. (2001). Product modularity theory and practice: The
+beneﬁts and difﬁculties in implementation within a company. International
+Journal of Automotive Technology and Management, 1(4), 426–448.
+
+Mabert, V. A., & Venkataraman, M. A. (1998). Special research focus on supply
+chain linkages: Challenges for design and management in the 21st century.
+Decision Sciences, 29(1), 537–552.
+
+Mani, D., Barua, A., & Whinston, A. B. (2010). Successfully governing business
+
+process outsourcing relationships. MIS Quarterly Executive, 5(1), 15–29.
+
+Miller, D. (1992). Environmental ﬁt versus internal ﬁt. Organization Science, 3(2),
+
+159–178.
+
+Milliken, F. J. (1987). Three types of perceived uncertainty about the environment:
+State, effect, and response uncertainty. Academy of Management Review,
+12(1), 133–143.
+
+Mithas, S., Ramasubbu, N., & Sambamurthy, V. (2011). How information manage-
+ment capability inﬂuences ﬁrm performance. MIS Quarterly, 35(1), 237–256.
+Narasimhan, R., & Kim, S. W. (2002). Effect of supply chain integration on
+the relationship between diversiﬁcation and performance: Evidence from
+Japanese and Korean ﬁrms. Journal of Operations Management, 20(3), 303–
+323.
+
+Narasimhan, R., Swink, M., & Viswanathan, S. (2010). On decisions for in-
+tegration implementation: An examination of complementarities between
+product-process technology integration and supply chain integration. Deci-
+sion Sciences, 41(2), 355–372.
+
+O’Reilly, C., & Tushman, M. (2008). Ambidexterity as a dynamic capability:
+Resolving the innovator’s dilemma. Research in Organizational Behavior,
+28(1), 185–206.
+
+Orton, J. D., & Weick, K. E. (1990). Loosely coupled systems: A reconceptualiza-
+
+tion. Academy of Management Review, 15(2), 203–223.
+
+Pagell, M. (2004). Understanding the factors that enable and inhibit the integration
+of operations, purchasing and logistics. Journal of Operations Management,
+22(5), 459–87.
+
+Palvia, P. C., King, R. C., Xia, W., & Palvia, S. C. J. (2010). Capability, quality, and
+performance of offshore IS vendors: A theoretical framework and empirical
+investigation. Decision Sciences, 41(2), 231–270.
+
+Pan, S. L., Pan, G., Chen, A., & Hsieh, M. H. (2007). The dynamics of implement-
+ing and managing modularity of organizational routines during capability
+development: Insights from a process model. IEEE Transactions on Engi-
+neering Management, 54(4), 800–813.
+
+
+28
+
+Managing Differentiation-Integration Duality
+
+Pil, F. K., & Cohen, S. K. (2006). Modularity: Implications for imitation, inno-
+vation, and sustained advantage. Academy of Management Review, 31(4),
+995–1011.
+
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. (2003). Common
+method biases in behavioral research: A critical review of the literature and
+recommended remedies. Journal of Applied Psychology, 88(5), 879–903.
+
+Power, D. (2005). Supply chain management integration and implementation:
+A literature review. Supply Chain Management: An International Journal,
+10(4), 252–263.
+
+Priem, R., & Butler, J.(2001). Is the resource-based “view” a useful perspective
+for strategic management research? Academy of Management Review, 26(1),
+22–40.
+
+Qi, Y., Boyer, K. K., & Zhao, X. (2009). Supply chain strategy, product charac-
+teristics, and performance impact: Evidence from Chinese manufacturers.
+Decision Sciences, 40(4), 667–695.
+
+Qi, Y., Zhao, X., & Sheu, C. (2011). The impact of competitive strategy and
+supply chain strategy on business performance: The role of environmental
+uncertainty. Decision Sciences, 42(2), 371–389.
+
+Rai, A., Patnayakuni, R., & Seth, N. (2006). Firm performance impact of digitally
+enabled supply chain integration capabilities. MIS Quarterly, 30(2), 225–
+237.
+
+Raisch, S., & Birkinshaw, J. (2008). Organizational ambidexterity: Antecedents,
+
+outcomes, and moderators. Journal of Management, 34(3), 375–409.
+
+Raisch, S., Birkinshaw, J., Probst, G., & Tushman, M. L. (2009). Organizational
+ambidexterity: Balancing exploitation and exploration for sustained perfor-
+mance. Organization Science, 20(4), 685–695.
+
+Raykov, T. (1998). Coefﬁcient alpha and composite reliability with interrelated
+nonhomogeneous items. Applied Psychological Measurement, 22(4), 375–
+385.
+
+Saeed, K. A., Malhotra, M. K., & Grover, V. (2011). Interorganizational system
+characteristics and supply chain integration: An empirical assessment. Deci-
+sion Sciences, 42(1), 7–42.
+
+Sanchez, T., & Mahoney, R. M. (1996). Modularity, ﬂexibility, and knowledge
+management in product and organizational design. Strategic Management
+Journal, 17(Winter SI), 63–76.
+
+Sanders, N. R. (2008). Pattern of information technology use: The impact on buyer-
+supplier coordination and performance. Journal of Operations Management,
+26(3), 349–369.
+
+S¨arndal, C. E., Swensson, B., & Wretman, J. (2003). Model assisted survey sam-
+
+pling. New York, NY: Springer Verlag.
+
+Sasabuchi, S. (1980). A test of a multivariate normal mean with composite hy-
+
+potheses determined by linear inequalities. Biometrika, 67(2), 429–439.
+
+
+Terjesen, Patel, and Sanders
+
+29
+
+Schilling, M. A. (2000). Toward a general modular systems theory and its ap-
+plication to interﬁrm product modularity. Academy of Management Review,
+25(2), 312–334.
+
+Sharfman, M. (1998). On the advisability of using CEOs as the sole informant in
+
+strategy research. Journal of Managerial Issues, 10(3), 373–392.
+
+Siggelkow, N., & Levinthal, D. A. (2005). Escaping real (non-benign) competency
+traps: Linking the dynamics of organizational structure to the dynamics of
+search. Strategic Organization, 3(1), 85–115.
+
+Sinha, K. K., & Van de Ven, A. H. (2005). Designing work within and between
+
+organizations. Organization Science, 16(4), 389–408.
+
+Sousa, R., & Voss, C. A. (2008). Contingency research in operations management
+
+practices. Journal of Operations Management, 26(6), 697–713.
+
+Sriram, V., & Stump, R. (2004). Information technology investments in purchasing:
+An empirical investigation of communications, relationship and performance
+outcomes. Omega, 32(1), 41–55.
+
+Stank, T. P., Keller, S. B., & Closs, D. J. (2001). Performance beneﬁts of supply
+
+chain integration. Transportation Journal, 41(2), 31–46.
+
+Subramani, M. (2004). How to suppliers beneﬁt from information technology use
+
+in supply chain relationships? MIS Quarterly, 28(1), 45–73.
+
+Swink, M., Narasimhan, R., & Wang, C. (2007). Managing beyond the factory
+walls: Effects of four types of strategic integration on manufacturing plant
+performance. Journal of Operations Management, 25(1), 148–164.
+
+Swink, M., & Song, M. (2007). Effects of marketing-manufacturing integration
+on new product development time and competitive advantage. Journal of
+Operations Management, 25(1), 203–217.
+
+Thompson, J. D. (1967). Organizations in action. New York, NY: McGraw-Hill.
+Tiwana, A. (2008). Does technological modularity substitute for control? A study
+of alliance performance in software outsourcing. Strategic Management Jour-
+nal, 29(7), 769–780.
+
+Tomlin, B. (2006). On the value of mitigation and contingency strategies for
+managing supply chain disruption risks. Management Science, 52(5), 639–
+657.
+
+Tu, Q., Vonderembse, M. A., Ragu-Nathan, T. S., & Ragu-Nathan, B. (2004). Mea-
+suring modularity-based manufacturing practices and their impact on mass
+customization capability: A customer-driven perspective. Decision Sciences,
+35(2), 147–168.
+
+Turkulainen, V. (2008). Managing cross-functional interdependencies: The con-
+tingent value of integration. Thesis, Helsinki University of Technology,
+Helsinki, Finland.
+
+Tushman, M., & Nadler, D. (1978). Information processing as an integrating con-
+cept in organization design. Academy of Management Review, 3(3), 613–624.
+Ulrich, K. (1995). The role of product architecture in the manufacturing ﬁrm.
+
+Research Policy, 24(3), 419–440.
+
+
+30
+
+Managing Differentiation-Integration Duality
+
+Van de Ven, A. H., & Drazin, R. (1985). The concept of ﬁt in contingency theory.
+
+Research in Organizational Behavior, 7, 333–365.
+
+Van Hoek, R. I., & Weken, H. A. M. (1998). The impact of modular produc-
+tion on the dynamics of supply chains. International Journal of Logistics
+Management, 9(2), 35–50.
+
+Villena, V. H., Gomez-Mejia, L. R., & Revilla, E. (2009). The decision of the
+supply chain executive to support or impede supply chain integration: A
+multidisciplinary behavioral agency perspective. Decision Sciences, 40(4),
+635–665.
+
+Wang, E. T. G., & Wei, H. -L. (2007). Interorganizational governance value cre-
+ation: Coordinating for information visibility and ﬂexibility in supply chains.
+Decision Sciences, 38(4), 647–674.
+
+Ward, P. W., & Zhou, H. (2006). Impact of information technology integration and
+lean/just-in-time performance practices on lead-time performance. Decision
+Sciences, 37(2), 177–203.
+
+Wong, C. Y., Boon-itt, S., & Wong, C. W. Y. (2011). The contingency effects
+of environmental uncertainty of the relationship between supply chain inte-
+gration and operational performance. Journal of Operations Management,
+29(6), 604–615.
+
+Worren, N., Moore, K., & Cardona, P. (2002). Modularity, strategic ﬂexibility,
+and ﬁrm performance: A study of the home appliance industry. Strategic
+Management Journal, 23(12), 1123–1140.
+
+Wu, S. J., Melnyk, S. A., & Flynn, B. (2010). Operational capabilities: The secret
+
+ingredient. Decision Sciences, 41(4), 721–754.
+
+Zacharia, Z. G., Nix, N. W., & Lusch, R. F. (2011). Capabilities that enhance
+outcomes of an episodic supply chain collaboration. Journal of Operations
+Management, 29(6), 591–603.
+
+Zumbo, B. D., Gadermann, A. M., & Zeisser, C. (2007). Ordinal versions of coef-
+ﬁcients alpha and theta for Likert rating scales. Journal of Modern Applied
+Statistical Methods, 6(1), 21–29.
+
+
+Terjesen, Patel, and Sanders
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+l
+a
+n
+
+i
+
+d
+r
+O
+
+ρ
+s
+’
+v
+o
+k
+y
+a
+R
+
+α
+
+b
+e
+u
+l
+a
+v
+-
+t
+
+0
+0
+1
+p
+a
+r
+t
+s
+t
+o
+o
+b
+
+e
+f
+i
+
+n
+k
+k
+c
+a
+J
+
+L
+M
+P
+
+a
+.
+e
+.
+s
+
+r
+e
+d
+r
+o
+-
+d
+n
+o
+c
+e
+S
+
+g
+n
+i
+d
+a
+o
+L
+r
+o
+t
+c
+a
+F
+
+n
+o
+i
+t
+p
+
+i
+r
+c
+s
+e
+D
+e
+l
+a
+c
+S
+
+.
+s
+e
+i
+t
+i
+l
+i
+b
+a
+i
+l
+e
+r
+
+m
+e
+t
+i
+
+d
+n
+a
+
+s
+e
+t
+a
+m
+
+i
+t
+s
+e
+
+r
+e
+t
+e
+m
+a
+r
+a
+P
+
+:
+1
+A
+e
+l
+b
+a
+T
+
+X
+I
+D
+N
+E
+P
+P
+A
+
+7
+2
+8
+
+.
+
+0
+
+3
+2
+8
+
+.
+
+0
+
+2
+2
+8
+
+.
+
+0
+
+,
+
+6
+3
+0
+
+.
+
+2
+2
+8
+
+.
+
+0
+
+0
+2
+8
+
+.
+
+0
+
+7
+1
+8
+
+.
+
+0
+
+7
+6
+7
+
+.
+
+3
+
+9
+1
+2
+
+.
+
+0
+
+0
+2
+2
+
+.
+
+0
+
+2
+2
+2
+
+.
+
+0
+
+3
+2
+2
+.
+0
+
+0
+4
+8
+.
+0
+
+3
+0
+8
+
+.
+
+0
+
+1
+0
+8
+
+.
+
+0
+
+2
+9
+7
+
+.
+
+0
+
+2
+0
+1
+
+.
+
+5
+
+3
+4
+1
+
+.
+
+0
+
+4
+4
+1
+
+.
+
+0
+
+5
+4
+1
+
+.
+
+0
+
+7
+4
+1
+.
+0
+
+0
+5
+7
+.
+0
+
+R
+M
+R
+S
+
+E
+V
+A
+
+A
+E
+S
+M
+R
+
+=
+I
+F
+C
+
+I
+L
+T
+
+;
+4
+9
+
+.
+
+7
+2
+2
+=
+
+;
+2
+8
+1
+=
+2
+χ
+(
+
+0
+f
+=
+d
+
+;
+2
+4
+0
+
+;
+6
+1
+0
+
+)
+6
+3
+6
+
+.
+
+.
+
+.
+
+;
+3
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+R
+M
+R
+S
+
+E
+V
+A
+
+A
+E
+S
+M
+R
+
+=
+I
+F
+C
+
+I
+L
+T
+
+,
+
+=
+2
+3
+2
+
+.
+
+n
+o
+8
+i
+t
+1
+a
+r
+=
+g
+e
+t
+n
+
+;
+9
+=
+2
+χ
+(
+
+f
+d
+
+i
+
+;
+2
+2
+0
+
+;
+5
+1
+0
+
+)
+2
+7
+6
+
+;
+9
+9
+
+.
+
+0
+
+.
+
+.
+
+.
+
+;
+8
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+l
+a
+n
+r
+e
+t
+n
+I
+
+r
+e
+i
+l
+
+p
+p
+u
+S
+
+c
+I
+C
+S
+
+,
+
+=
+4
+0
+5
+
+I
+F
+=
+C
+
+A
+E
+S
+M
+R
+
+I
+L
+T
+
+.
+
+n
+o
+9
+i
+t
+2
+a
+r
+=
+g
+e
+t
+n
+
+;
+7
+1
+=
+2
+χ
+(
+
+f
+d
+
+i
+
+;
+5
+2
+0
+
+;
+3
+1
+0
+
+)
+0
+1
+6
+
+;
+8
+9
+
+.
+
+0
+
+.
+
+.
+
+.
+
+;
+7
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+31
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+R
+M
+R
+S
+
+E
+V
+A
+
+
+32
+
+Managing Differentiation-Integration Duality
+
+7
+4
+8
+
+.
+
+0
+
+4
+4
+8
+
+.
+
+0
+
+3
+4
+8
+
+.
+
+0
+
+6
+7
+9
+
+.
+
+6
+
+0
+2
+1
+
+.
+
+0
+
+2
+2
+1
+
+.
+
+0
+
+3
+2
+1
+
+.
+
+0
+
+5
+2
+1
+.
+0
+
+2
+7
+8
+.
+0
+
+5
+2
+8
+
+.
+
+4
+2
+8
+
+.
+
+3
+2
+8
+
+.
+
+4
+2
+8
+
+.
+
+8
+0
+8
+
+.
+
+5
+9
+7
+
+.
+
+1
+9
+9
+
+.
+
+3
+
+8
+1
+2
+
+.
+
+2
+2
+2
+
+.
+
+6
+2
+2
+
+.
+
+8
+2
+2
+.
+
+0
+1
+9
+.
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+l
+a
+n
+
+i
+
+d
+r
+O
+
+ρ
+s
+’
+v
+o
+k
+y
+a
+R
+
+α
+
+2
+e
+u
+l
+a
+v
+-
+t
+
+0
+0
+1
+p
+a
+r
+t
+s
+t
+o
+o
+b
+
+e
+f
+i
+
+n
+k
+k
+c
+a
+J
+
+L
+M
+P
+
+1
+.
+e
+.
+s
+
+r
+e
+d
+r
+o
+-
+d
+n
+o
+c
+e
+S
+
+g
+n
+i
+d
+a
+o
+L
+r
+o
+t
+c
+a
+F
+
+n
+o
+i
+t
+p
+
+i
+r
+c
+s
+e
+D
+e
+l
+a
+c
+S
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+:
+1
+A
+e
+l
+b
+a
+T
+
+R
+M
+R
+S
+
+E
+V
+A
+
+,
+
+=
+3
+5
+1
+
+I
+F
+=
+C
+
+A
+E
+S
+M
+R
+
+I
+L
+T
+
+.
+
+n
+o
+6
+i
+t
+2
+a
+r
+=
+g
+e
+t
+n
+
+;
+2
+1
+=
+2
+χ
+(
+
+f
+d
+
+i
+
+;
+5
+2
+0
+
+;
+3
+1
+0
+
+)
+4
+2
+6
+
+;
+8
+9
+
+.
+
+0
+
+.
+
+.
+
+.
+
+;
+7
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+A
+E
+S
+M
+R
+
+R
+=
+M
+E
+R
+V
+S
+A
+
+;
+8
+4
+0
+
+;
+2
+0
+
+;
+6
+9
+
+.
+
+0
+
+.
+
+.
+
+;
+5
+0
+0
+9
+=
+=
+0
+
+.
+
+,
+
+=
+8
+2
+3
+
+.
+
+I
+F
+=
+C
+
+I
+L
+T
+
+9
+2
+1
+d
+=
+P
+M
+B
+M
+
+;
+3
+8
+=
+2
+χ
+(
+
+f
+d
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+i
+
+g
+n
+m
+a
+e
+t
+
+,
+
+=
+7
+1
+3
+
+.
+
+=
+I
+F
+C
+
+I
+L
+T
+
+A
+E
+S
+M
+R
+
+)
+2
+2
+6
+
+.
+
+0
+
+0
+1
+c
+=
+i
+m
+a
+n
+y
+D
+
+;
+5
+=
+2
+χ
+(
+
+f
+d
+
+;
+1
+3
+0
+
+;
+8
+1
+0
+
+)
+4
+8
+6
+
+;
+8
+9
+
+.
+
+0
+
+.
+
+.
+
+.
+
+;
+9
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+R
+M
+R
+S
+
+E
+V
+A
+
+
+Terjesen, Patel, and Sanders
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+l
+a
+n
+
+i
+
+d
+r
+O
+
+ρ
+s
+’
+v
+o
+k
+y
+a
+R
+
+α
+
+2
+e
+u
+l
+a
+v
+-
+t
+
+0
+0
+1
+p
+a
+r
+t
+s
+t
+o
+o
+b
+
+e
+f
+i
+
+n
+k
+k
+c
+a
+J
+
+L
+M
+P
+
+6
+7
+8
+
+.
+
+6
+7
+8
+
+.
+
+5
+6
+8
+
+.
+
+4
+8
+7
+
+.
+
+4
+
+7
+7
+1
+
+.
+
+1
+8
+1
+
+.
+
+3
+8
+1
+
+.
+
+1
+.
+e
+.
+s
+
+5
+8
+1
+.
+
+r
+e
+d
+r
+o
+-
+d
+n
+o
+c
+e
+S
+
+g
+n
+i
+d
+a
+o
+L
+r
+o
+t
+c
+a
+F
+
+n
+o
+i
+t
+p
+
+i
+r
+c
+s
+e
+D
+e
+l
+a
+c
+S
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+:
+1
+A
+e
+l
+b
+a
+T
+
+5
+8
+8
+.
+
+f
+d
+
+,
+
+4
+6
+8
+
+.
+
+8
+4
+8
+
+.
+
+2
+3
+8
+
+.
+
+4
+8
+3
+
+.
+
+3
+
+7
+5
+2
+
+.
+
+9
+5
+2
+
+.
+
+1
+6
+2
+
+.
+
+3
+6
+2
+.
+
+0
+9
+8
+.
+
+f
+d
+
+,
+
+33
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+R
+M
+R
+S
+
+E
+V
+A
+
+0
+3
+8
+
+.
+
+0
+
+8
+3
+8
+
+.
+
+0
+
+8
+3
+8
+
+.
+
+0
+
+,
+
+R
+M
+R
+S
+
+E
+V
+A
+
+A
+E
+S
+M
+R
+
+=
+
+2
+=
+2
+6
+
+.
+
+y
+t
+i
+r
+a
+8
+l
+u
+=
+d
+o
+M
+
+;
+5
+2
+χ
+=
+(
+
+I
+F
+C
+
+I
+L
+T
+
+;
+9
+9
+
+.
+
+0
+
+;
+4
+3
+0
+
+;
+1
+2
+0
+
+)
+7
+9
+5
+
+.
+
+.
+
+.
+
+;
+8
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+R
+M
+R
+S
+
+E
+V
+A
+
+A
+E
+S
+M
+R
+
+=
+
+8
+=
+3
+5
+
+.
+
+y
+t
+i
+r
+a
+9
+l
+u
+=
+d
+o
+M
+
+;
+5
+2
+χ
+=
+(
+
+I
+F
+C
+
+I
+L
+T
+
+;
+8
+9
+
+.
+
+0
+
+;
+2
+3
+0
+
+;
+3
+2
+0
+
+)
+2
+6
+7
+
+.
+
+.
+
+.
+
+;
+7
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+t
+c
+u
+d
+o
+r
+P
+
+s
+s
+e
+c
+o
+r
+P
+
+=
+I
+F
+C
+
+A
+E
+S
+M
+R
+
+I
+L
+T
+
+;
+7
+9
+
+.
+
+.
+
+7
+8
+3
+
+e
+e
+c
+n
+9
+a
+7
+m
+1
+r
+=
+o
+f
+r
+e
+P
+
+;
+2
+1
+1
+=
+2
+χ
+(
+
+0
+f
+=
+d
+
+;
+8
+3
+0
+
+;
+5
+2
+0
+
+)
+2
+8
+6
+
+.
+
+.
+
+.
+
+;
+6
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+
+34
+
+Managing Differentiation-Integration Duality
+
+8
+8
+7
+
+.
+
+0
+
+5
+9
+7
+
+.
+
+0
+
+1
+8
+7
+
+.
+
+0
+
+3
+8
+2
+
+.
+
+8
+
+0
+9
+0
+
+.
+
+0
+
+1
+9
+0
+
+.
+
+0
+
+1
+9
+0
+
+.
+
+0
+
+2
+9
+0
+.
+0
+
+2
+6
+7
+.
+0
+
+9
+4
+8
+
+.
+
+0
+
+8
+4
+8
+
+.
+
+0
+
+1
+4
+8
+
+.
+
+0
+
+9
+2
+8
+
+.
+
+4
+
+8
+6
+1
+
+.
+
+0
+
+9
+6
+1
+
+.
+
+0
+
+0
+7
+1
+
+.
+
+0
+
+0
+7
+1
+.
+0
+
+1
+2
+8
+.
+0
+
+7
+0
+8
+
+.
+
+0
+
+9
+0
+8
+
+.
+
+0
+
+7
+0
+8
+
+.
+
+0
+
+6
+0
+1
+
+.
+
+6
+
+9
+3
+1
+
+.
+
+0
+
+0
+4
+1
+
+.
+
+0
+
+0
+4
+1
+
+.
+
+0
+
+1
+4
+1
+.
+0
+
+1
+6
+8
+.
+0
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+l
+a
+n
+
+i
+
+d
+r
+O
+
+ρ
+s
+’
+v
+o
+k
+y
+a
+R
+
+α
+
+2
+e
+u
+l
+a
+v
+-
+t
+
+0
+0
+1
+p
+a
+r
+t
+s
+t
+o
+o
+b
+
+e
+f
+i
+
+n
+k
+k
+c
+a
+J
+
+L
+M
+P
+
+1
+.
+e
+.
+s
+
+r
+e
+d
+r
+o
+-
+d
+n
+o
+c
+e
+S
+
+g
+n
+i
+d
+a
+o
+L
+r
+o
+t
+c
+a
+F
+
+n
+o
+i
+t
+p
+
+i
+r
+c
+s
+e
+D
+e
+l
+a
+c
+S
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+:
+1
+A
+e
+l
+b
+a
+T
+
+R
+M
+R
+S
+
+E
+V
+A
+
+,
+
+=
+8
+2
+0
+
+.
+
+=
+I
+F
+C
+
+I
+L
+T
+
+A
+E
+S
+M
+R
+
+1
+1
+y
+=
+r
+e
+v
+i
+l
+e
+D
+
+;
+5
+=
+2
+χ
+(
+
+f
+d
+
+;
+0
+2
+0
+
+;
+1
+1
+0
+
+)
+0
+4
+6
+
+;
+9
+9
+
+.
+
+0
+
+.
+
+.
+
+.
+
+;
+9
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+R
+M
+R
+S
+
+E
+V
+A
+
+A
+E
+S
+M
+R
+
+I
+L
+T
+
+;
+9
+9
+
+.
+
+0
+
+;
+0
+2
+0
+
+;
+9
+0
+0
+
+)
+2
+8
+7
+
+.
+
+.
+
+.
+
+;
+9
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+=
+
+6
+=
+0
+4
+
+f
+d
+
+,
+
+.
+
+t
+s
+o
+C
+n
+o
+8
+i
+=
+t
+c
+u
+d
+o
+r
+P
+
+I
+F
+C
+
+;
+3
+2
+χ
+=
+(
+
+=
+
+1
+=
+2
+8
+
+f
+d
+
+,
+
+.
+
+y
+t
+i
+l
+a
+u
+Q
+6
+=
+t
+c
+u
+d
+o
+r
+P
+
+I
+F
+C
+
+;
+3
+2
+χ
+=
+(
+
+A
+E
+S
+M
+R
+
+I
+L
+T
+
+;
+9
+9
+
+.
+
+0
+
+;
+1
+2
+0
+
+;
+6
+1
+0
+
+)
+8
+2
+6
+
+.
+
+.
+
+.
+
+;
+9
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+R
+M
+R
+S
+
+E
+V
+A
+
+
+Terjesen, Patel, and Sanders
+
+35
+
+y
+t
+i
+l
+i
+
+b
+a
+i
+l
+e
+r
+
+l
+a
+n
+
+i
+
+d
+r
+O
+
+ρ
+s
+’
+v
+o
+k
+y
+a
+R
+
+α
+
+2
+e
+u
+l
+a
+v
+-
+t
+
+0
+0
+1
+p
+a
+r
+t
+s
+t
+o
+o
+b
+
+e
+f
+i
+
+n
+k
+k
+c
+a
+J
+
+L
+M
+P
+
+1
+.
+e
+.
+s
+
+r
+e
+d
+r
+o
+-
+d
+n
+o
+c
+e
+S
+
+g
+n
+i
+d
+a
+o
+L
+r
+o
+t
+c
+a
+F
+
+n
+o
+i
+t
+p
+
+i
+r
+c
+s
+e
+D
+e
+l
+a
+c
+S
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+:
+1
+A
+e
+l
+b
+a
+T
+
+1
+2
+8
+
+.
+
+0
+
+8
+1
+8
+
+.
+
+0
+
+5
+1
+8
+
+.
+
+0
+
+7
+4
+7
+
+.
+
+3
+
+3
+2
+2
+
+.
+
+0
+
+4
+2
+2
+
+.
+
+0
+
+5
+2
+2
+
+.
+
+0
+
+5
+2
+2
+.
+0
+
+3
+4
+8
+.
+0
+
+f
+d
+;
+2
+=
+0
+5
+
+=
+
+y
+t
+i
+l
+i
+
+.
+
+I
+F
+C
+
+7
+b
+=
+i
+x
+e
+l
+F
+
+;
+3
+2
+χ
+=
+(
+
+I
+L
+T
+
+;
+9
+9
+
+.
+
+0
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+P
+
+R
+M
+R
+S
+
+E
+V
+A
+
+A
+E
+S
+M
+R
+
+;
+1
+2
+0
+
+;
+5
+1
+0
+
+)
+5
+0
+6
+
+.
+
+.
+
+.
+
+;
+9
+0
+0
+0
+9
+=
+=
+=
+0
+
+.
+
+e
+r
+e
+h
+w
+e
+l
+a
+c
+s
+
+t
+r
+e
+k
+i
+L
+
+t
+n
+i
+o
+p
+
+5
+
+a
+
+g
+n
+i
+s
+u
+
+”
+g
+n
+i
+w
+o
+l
+l
+o
+f
+
+e
+h
+t
+
+h
+t
+i
+
+w
+e
+e
+r
+g
+a
+s
+i
+d
+
+r
+o
+
+e
+e
+r
+g
+a
+
+u
+o
+y
+
+h
+c
+i
+h
+w
+o
+t
+
+t
+n
+e
+t
+x
+e
+
+e
+h
+t
+
+e
+t
+a
+c
+i
+d
+n
+i
+
+e
+r
+e
+h
+w
+e
+l
+a
+c
+s
+
+t
+r
+e
+k
+i
+L
+
+t
+n
+i
+o
+p
+5
+a
+g
+n
+i
+s
+u
+”
+g
+n
+i
+w
+o
+l
+l
+o
+f
+
+e
+h
+t
+h
+t
+i
+
+w
+e
+e
+r
+g
+a
+s
+i
+d
+r
+o
+e
+e
+r
+g
+a
+u
+o
+y
+h
+c
+i
+h
+w
+o
+t
+
+t
+n
+e
+t
+x
+e
+
+e
+h
+t
+
+e
+t
+a
+c
+i
+d
+n
+i
+
+e
+s
+a
+e
+l
+P
+“
+
+.
+
+m
+h
+t
+i
+r
+o
+g
+l
+a
+
+n
+o
+i
+t
+a
+m
+
+i
+t
+s
+e
+
+t
+n
+e
+r
+r
+u
+c
+
+e
+h
+t
+
+m
+o
+r
+f
+d
+e
+v
+i
+r
+e
+d
+
+.
+e
+.
+s
+
+n
+o
+d
+e
+s
+a
+b
+
+s
+i
+
+.
+
+m
+h
+t
+i
+r
+o
+g
+l
+a
+
+n
+o
+i
+t
+a
+m
+
+i
+t
+s
+e
+
+t
+n
+e
+r
+r
+u
+c
+
+e
+h
+t
+n
+o
+
+d
+e
+s
+a
+b
+
+d
+e
+t
+a
+l
+u
+c
+l
+a
+c
+
+”
+.
+e
+e
+r
+g
+a
+
+e
+s
+a
+e
+l
+P
+“
+
+y
+l
+g
+n
+o
+t
+n
+r
+t
+e
+S
+m
+“
+e
+=
+t
+a
+t
+5
+s
+d
+n
+a
+
+e
+h
+t
+
+”
+e
+e
+r
+g
+a
+s
+i
+d
+
+y
+l
+g
+n
+o
+r
+t
+
+n
+o
+
+d
+e
+s
+a
+b
+
+e
+r
+a
+
+s
+
+m
+e
+t
+i
+
+”
+.
+e
+e
+r
+g
+a
+
+y
+l
+g
+t
+n
+n
+e
+o
+m
+r
+t
+e
+S
+t
+“
+a
+t
+=
+s
+e
+5
+h
+t
+d
+n
+n
+o
+a
+d
+e
+s
+a
+b
+e
+r
+a
+
+”
+e
+e
+r
+g
+a
+s
+i
+d
+
+s
+
+m
+e
+t
+i
+
+y
+l
+g
+n
+o
+P
+r
+t
+M
+S
+“
+B
+=
+M
+1
+
+e
+u
+l
+a
+v
+-
+t
+b
+
+I
+
+S
+“
+C
+=
+S
+1
+c
+
+.
+e
+.
+s
+a
+
+d
+
+e
+
+”
+s
+r
+o
+t
+i
+t
+e
+p
+m
+o
+c
+
+r
+u
+o
+y
+
+f
+o
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+e
+h
+t
+
+o
+t
+
+.
+t
+s
+e
+u
+q
+e
+r
+n
+o
+p
+u
+s
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+m
+o
+r
+f
+
+e
+l
+b
+a
+l
+i
+a
+v
+a
+
+s
+i
+
+s
+g
+n
+i
+d
+a
+o
+l
+
+r
+o
+t
+c
+a
+f
+
+r
+e
+d
+r
+o
+t
+s
+r
+ﬁ
+d
+n
+a
+
+s
+
+m
+e
+t
+i
+
+l
+l
+a
+h
+t
+i
+
+w
+n
+o
+i
+s
+r
+e
+v
+e
+t
+e
+l
+p
+m
+o
+c
+A
+
+.
+1
+A
+e
+l
+b
+a
+T
+f
+o
+n
+o
+i
+s
+r
+e
+v
+d
+e
+s
+n
+e
+d
+n
+o
+c
+
+a
+
+s
+i
+
+s
+i
+h
+T
+
+d
+e
+r
+a
+p
+m
+o
+c
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+”
+.
+n
+o
+i
+t
+i
+t
+e
+p
+m
+o
+c
+
+n
+a
+h
+t
+
+r
+e
+t
+t
+e
+b
+
+s
+’
+y
+h
+n
+c
+a
+u
+p
+m
+m
+“
+o
+=
+c
+5
+d
+n
+a
+
+r
+u
+o
+y
+
+”
+n
+o
+i
+t
+i
+t
+e
+p
+m
+o
+c
+n
+a
+h
+t
+
+e
+t
+a
+r
+
+e
+s
+a
+e
+l
+P
+“
+
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+n
+o
+
+e
+h
+t
+
+e
+s
+r
+o
+w
+h
+c
+u
+d
+m
+e
+“
+s
+a
+=
+b
+e
+1
+r
+a
+
+e
+r
+e
+h
+w
+e
+l
+a
+c
+s
+
+t
+r
+e
+k
+i
+L
+
+t
+n
+i
+o
+p
+
+5
+
+a
+
+s
+
+m
+e
+t
+i
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+l
+a
+n
+o
+i
+t
+a
+r
+e
+p
+O
+
+g
+n
+i
+s
+u
+
+:
+e
+t
+o
+N
+
+
+36
+
+Managing Differentiation-Integration Duality
+
+Table A2: Conﬁrmatory factor analyses and alternative measurement model spec-
+iﬁcation.a
+
+Recommended Values
+
+χ 2 (df ) < 3.0 χ 2 (df )
+
+579.202 (636)
+615.097 (634) 35.895 (2)
+604.782 (633) 25.580 (3)
+
+–
+
+∗∗∗
+∗∗∗
+
+RMSEA
+.05 – .08 CFI > .9 TLI > .9
+
+0.072
+0.183
+0.127
+
+0.921
+0.857
+0.863
+
+0.917
+0.848
+0.852
+
+628.144 (631) 48.492 (5)
+
+∗∗∗
+
+0.199
+
+0.811
+
+0.808
+
+Hypothesized model
+Two component SCI
+Three component
+
+MBMP
+
+Two component SCI and
+
+Three component
+MBMP
+
+aFor all the analyses, the robust weighted least squares (RWLS) procedure is used because
+it is prone to fewer errors resulting from a smaller sample size and nonnormal data. We
+used Mplus 5.21 unless stated otherwise.
+
+Table A3(a): Operational performance: Second-order factor validity.
+
+Model
+
+χ 2 (df)
+
+TLI
+
+CFI
+
+RMSEA
+
+0.287
+Model 1 (one factor model)
+0.263
+Model 2 (four correlated factors)
+0.038
+Model 3 (second order factor)
+χ 2 = 179.387, df = 112; CFI = 0.97; TLI = 0.96; RMSEA = .038; SRMR = .025; AVE
+= 0.682.
+
+280.251 (120)
+230.419 (116)
+179.387 (112)
+
+0.749
+0.823
+0.963
+
+0.758
+0.831
+0.971
+
+Table A3(b): SCI: Second-order factor validity.
+
+Model
+
+χ 2 (df )
+
+Normed χ 2
+
+TLI
+
+CFI RMSEA
+
+Model 1 (one-factor model)
+382.799 (189)
+Model 2 (three correlated factors) 305.217 (186)
+272.674 (183)
+Model 3 (second-order factor)
+
+2.025
+1.641
+1.490
+
+0.792 0.804
+0.857 0.873
+0.942 0.955
+
+0.34
+0.29
+0.06
+
+Table A3(c): MBMP: Second-order factor validity.
+
+Model
+
+χ 2 (df )
+
+Normed χ 2
+
+TLI
+
+CFI RMSEA
+
+Model 1 (one-factor model)
+197.559 (90)
+Model 2 (three correlated factors) 180.113 (87)
+137.611 (84)
+Model 3 (second-order factor)
+
+2.195
+2.070
+1.638
+
+0.830 0.833
+0.857 0.864
+0.942 0.951
+
+0.114
+0.102
+0.077
+
+
+Terjesen, Patel, and Sanders
+
+37
+
+Siri Terjesen is an assistant professor in the Department of Management and En-
+trepreneurship at Indiana University. She received her MSc from the Norwegian
+School of Economics and Business Administration (NHH) and her PhD from Cran-
+ﬁeld. Her research interests are at the intersection of strategy, entrepreneurship, and
+operations management. Her research has been published in Strategic Management
+Journal, Journal of Operations Management, Entrepreneurship Theory & Prac-
+tice, and Strategic Entrepreneurship Journal, and featured in U.S. News & World
+Report, Christian Science Monitor, Times (UK), CNBC Europe, and other outlets.
+She is co-author of the textbook Strategic Management: Thought and Action.
+
+Pankaj C. Patel is an assistant professor in the Miller College of Business at
+Ball State University. He holds a PhD in Entrepreneurship and Strategy from the
+University of Louisville. His research interests include operations management in
+ventures, dark side of organizational behavior, and research methods. His work
+has been published in journals such as Strategic Management Journal, Journal
+of Applied Psychology, Journal of Operations Management, Journal of Manage-
+ment, Journal of Economic Behavior and Organization, Journal of the Association
+for Information Systems, Entrepreneurship Theory and Practice, and Strategic
+Entrepreneurship Journal.
+
+Nada R. Sanders is professor of supply chain management and Iacocca Chair in
+the Department of Management at Lehigh University. She received her PhD and
+MBA from the Ohio State University. Her research interests include supply chain
+management strategy, business forecasting, the role of information technology in
+the supply chain environment, and the impact of sustainability on supply chain
+management. She has written chapters for books and encyclopedias, is author of
+the book Supply Chain Management: A Global Perspective, and is co-author of
+the book Operations Management, in its 5th edition. She is author of numerous
+articles that have appeared in journals such as Decision Sciences, Journal of Op-
+erations Management, Journal of Business Logistics, Omega, Interfaces, Interna-
+tional Journal of Production and Operations Management, Journal of Behavioral
+Decision Making, and others.
+

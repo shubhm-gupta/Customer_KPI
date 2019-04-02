@@ -1,0 +1,1618 @@
+ 
+ 
+Auditor Reputation and the Pricing of Initial Public Offerings
+Author(s): Randolph P. Beatty
+Source: The Accounting Review, Vol. 64, No. 4 (Oct., 1989), pp. 693-709
+Published by: American Accounting Association
+Stable URL: http://www.jstor.org/stable/247856
+Accessed: 02-08-2017 16:45 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+American Accounting Association is collaborating with JSTOR to digitize, preserve and
+extend access to The Accounting Review
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ THE ACCOUNTING REVIEW
+ Vol. LXIV, No. 4
+ October 1989
+
+ NOTES
+
+ Auditor Reputation and the Pricing
+
+ of Initial Public Offerings
+
+ Randolph P. Beatty
+
+ ABSTRACT: It is hypothesized that an inverse relation exists between the reputation of the
+ auditor of an initial public offering and the initial return earned by an investor. Specifically,
+ clients that hire more reputable CPA firms should exhibit lower initial returns than clients that
+ choose to hire CPA firms with less reputation capital at stake. Two proxies for auditor reputa-
+ tion are used to test this hypothesis. The first reputation proxy uses indicator variables for
+ auditor size. Results indicate that the widely used Big Eight/non-Big Eight classification may
+ measure CPA firm reputation capital with error particularly for the smaller Big Eight and larger
+ non-Big Eight firms. A second reputation proxy is developed by regressing compensation paid
+ to the auditing firms on measures of marginal cost of performing the audit. The initial return
+ to the IPO investors is regressed on the residual from the compensation regression to provide
+ evidence of the reputation hypothesis. Results indicate that clients that pay a premium for
+ their registration audit exhibit lower initial returns for their investors. Thus, the results of both
+ tests provide support for the hypothesized inverse relation between auditor reputation and
+ initial public offering initial return.
+
+ A COMPANY "going public" must pro-
+ vide a prospectus that includes a
+ description of its present and fu-
+ ture operations and audited financial
+ statements. Since privately held firms
+ face limited disclosure requirements, the
+ market usually possesses less publicly
+ available data from them than from
+ comparable publicly traded firms. This
+ difference in regulatory environment
+ provides a potentially fruitful setting in
+ which to consider the role of the public
+ accountant.
+
+ The author would like to thank Linda DeAngelo,
+ Victor Defeo, Nick Gonedes, Pat Hughes, Prem Jain,
+ Rick Lambert, Bill Kinney, David Larcker, Laurentius
+ Marais, Jay Ritter, Rex Thompson, Ivo Welch, and
+ workshop participants at the Wharton School, Indiana
+ University, Northwestern, New York University, Uni-
+ versity of Southern California, Temple, Columbia, and
+ University of Pittsburgh for providing comments and
+ suggestions. I'm particularly indebted to Jay Ritter for
+ the construction of the database used in this project.
+ Financial support was provided by the Fishman-David-
+ son Center for the Study of the Service Sector at the
+ Wharton School.
+
+ Randolph P. Beatty, Graduate School
+
+ of Business, University of Chicago.
+
+ Since switching auditor just prior to
+ going public is widely alleged, it is
+ natural to investigate management's mo-
+ tivation for such a change (see "Small
+
+ Manuscript received June 1987.
+ Revisions received August 1988 and March 1989.
+ Accepted April 1989.
+
+ 693
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 694
+
+ The Accounting Review, October 1989
+
+ CPA Concern Sues an Underwriter Over
+ Loss of Client," The Wall Street Journal
+ [July 18, 1983, p. 1]). Carpenter and
+ Strawser [1971] describe the results of a
+ survey of AICPA members concerning
+ the displacement issue as follows:
+
+ Almost universally, the reason expressed
+ [for the change in auditors] was that the
+ underwriters informed the client that a
+ "nationally known firm" was necessary
+ to sell their offering at the highest possi-
+ ble price [p. 55].
+
+ Section I draws from the previous em-
+
+ pirical and theoretical literature to sug-
+ gest testable assertions relating auditor
+ reputation and the initial return to an
+ IPO investor. Section II describes the
+ data used in the empirical tests and pro-
+ vides a number of descriptive statistics.
+ Results of regression tests of the reputa-
+ tion hypothesis are presented in Section
+ III and, finally, Section IV concludes
+ with a summary.
+
+ This widely held view suggests that the
+ employment of a "nationally known"
+ audit firm will increase the price (reduce
+ the initial return) received by the initial
+ public offering (IPO) client.
+
+ This paper presents and tests the hy-
+
+ pothesis that audit firm reputation is in-
+ versely related to the initial return earned
+ by an IPO investor. The evidence is con-
+ sistent with an inverse relation between
+ auditor reputation and the initial return
+ to the IPO investor. First, tests of linear
+ restrictions of indicator variable coeffi-
+ cients are interpreted within the tradi-
+ tional Big Eight/non-Big Eight frame-
+ work to suggest a negative relation
+ between auditor reputation and initial
+ return. A second partition (Largest-Five,
+ Middle-Six, and Smallest-Nine audit
+ firms) is introduced to provide evidence
+ that ad hoc classification schemes may
+ only crudely separate the set of audit
+ firms by reputation capital. In particu-
+ lar, it appears that smaller Big Eight and
+ larger non-Big Eight firms exhibit sim-
+ ilar reputations in the IPO market. To
+ test the reputation hypothesis without
+ relying on an ad hoc classification,
+ reputation capital is inferred from the
+ observation of auditor compensation.
+ These tests use a measure of the residual
+ compensation paid to the IPO auditing
+ firm and provide the first direct evidence
+ of the hypothesized reputation relation.
+
+ I. UNDERPRICING AND THE ROLE OF THE
+
+ AUDITING FiRM
+
+ Previous studies of the IPO market
+ have focused on an empirical phenom-
+ enon that has been described as "under-
+ pricing" of the firm's equity securi-
+ ties. l,2 The term "underpricing" is used
+ to describe the difference between the
+ offering price and the market clearing
+ price at issuance. Numerous empirical
+ papers have demonstrated this persistent
+ underpricing of equity securities [Ibbot-
+ son, 1975; Ibbotson and Jaffee, 1975;
+ and Ritter, 1984].
+
+ Various asymmetric information mod-
+ els have been proposed to explain this
+ phenomenon. In one model, the invest-
+ ment banker is "better informed" than
+ the issuing firm as to the demand for the
+ issuing firm's securities [Baron, 1982]. In
+ another, two classes of IPO investors,
+ informed and uninformed, are assumed
+ to exist [Rock, 1982 and 1986; Beatty
+ and Ritter, 1986]. In each of these mod-
+ els, the investment banker or the unin-
+ formed investors face uncertainty con-
+ cerning the IPO firm value. The precision
+
+ ' For a review of the literature on the IPO market, see
+
+ Smith [1986].
+
+ 2 Underpricing translates directly into the initial
+
+ return, defined as the return earned by an investor buying
+ at the offering price and selling at the first-day closing
+ price. These terms will be used interchangeably in the re-
+ mainder of this paper.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty
+
+ 695
+
+ of the distribution of uncertainty of firm
+ value has been described as ex ante un-
+ certainty [Beatty and Ritter, 19861. Both
+ of these models imply that there is a
+ positive relation between ex ante uncer-
+ tainty and the underpricing of the IPO.
+ Some investigators have argued in the
+ agency literature that auditing services
+ are demanded to reduce costs arising
+ from conflicts of interests between
+ owners and managers [Jensen and Meck-
+ ling, 1976; Watts and Zimmerman,
+ 1983]. Since the nature and extent of
+ agency costs vary across firms that at-
+ tempt to minimize these costs, the audit-
+ ing services demanded will be heteroge-
+ neous. This heterogeneity may lead CPA
+ firms to differentiate themselves on the
+ basis of investment in reputation capital
+ to facilitate the attestation function
+ [Kinney, 1988].
+
+ Simunic and Stein [1987] suggest that
+ auditor product differentiation on the
+ dimensions of control, credibility, and
+ product line motivates management's
+ auditor choice in the IPO market. They
+ conclude that the form of the under-
+ writer agreement, the proportion of
+ common stocks held by outsiders after
+ the IPO, and a measure of uncertainty
+ are related to the choice of auditing firm.
+ Beatty [1989] provides evidence consis-
+ tent with Simunic and Stein [1987] that
+ larger and less risky IPO clients tend to
+ hire Big Eight audit firms. As in this
+ study, preliminary evidence from indi-
+ cator variable regressions suggested that
+ auditor reputation might be related to
+ underpricing.
+
+ Titman and Trueman [1986] present a
+ signalling model that results in auditor
+ quality providing information useful to
+ investors in assessing the value of the
+ IPO firm. Two features of their model
+ lead to signalling of the IPO firm's
+ value. First, high quality auditors (or in-
+ vestment bankers) are those individuals
+
+ with a comparative advantage in estab-
+ lishing the reported information variable
+ that is related to the firm value. Second,
+ the firm is required to pay a "price pre-
+ mium" for this higher quality audit.3
+ These two expected costs of hiring the
+ high quality auditor exceed the expected
+ benefits of misclassification for the low
+ firm value IPOs. This cost-benefit rela-
+ tion leads the entrepreneur to choose an
+ audit firm that "signals" firm value to
+ the market. Although this model does
+ not consider the underpricing phenom-
+ enon, a similar signalling environment is
+ used here to hypothesize a relation be-
+ tween auditor reputation and the under-
+ pricing of an IPO.
+
+ The firm's existing owners have an in-
+ centive to minimize underpricing since it
+ transfers wealth from them to the new
+ investors.4 The literature suggests a di-
+ rect relation between ex ante uncertainty
+ and underpricing of the IPO [Baron,
+ 1982; Rock, 1982 and 1986; and Beatty
+ and Ritter, 1986]. All firms (existing
+ owners) have an incentive to disclose
+ "low" ex ante uncertainty, giving rise to
+ the classic "lemons" problem [Akerlof,
+ 1970]. However, firms whose ex ante un-
+ certainty is in fact "high" have a greater
+ incentive to misrepresent.
+
+ One means of reducing the misrepre-
+ sentation problem is to hire an agent
+ who can credibly attest to the assertions
+ contained in the audited financial state-
+ ments [Kinney, 1988]. Auditors have an
+ incentive to investigate and report devia-
+ tions in application of accounting prin-
+ ciples since their reputation capital is
+
+ 3 Klein and Leffler [19811 present a model of product
+ quality variation that requires a price premium for the
+ high quality product to assure its production.
+
+ 4 The "amount of money left on the table," the dif-
+ ference between the offering price and the market clear-
+ ing price multiplied by the number of shares in the IPO, is
+ a measure of the wealth transferred from existing owners
+ to new investors.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 696
+
+ The Accounting Review, October 1989
+
+ reduced by expost revelation of errors or
+ misstatements [Palmrose, 1988]. Since
+ auditing firms that have invested more in
+ reputation capital have greater incentives
+ to reduce application errors, the infor-
+ mation disclosed in the accounting re-
+ ports audited by these firms will be more
+ precise, ceteris paribus. This reduction in
+ measurement error will allow uninformed
+ investors to estimate more precisely the
+ distribution of firm value. Since the high
+ reputation auditor attests to a report that
+ reduces uninformed investors' ex ante
+ uncertainty, this comparative advantage
+ will be priced in the market for audit ser-
+ vices. Value-maximizing owners of the
+ IPO firm will choose the auditing firm
+ with reputation capital that equates the
+ marginal benefit of less underpricing
+ with the marginal cost of a higher quality
+ audit.
+
+ The preceding arguments have two im-
+ plications. First, the initial return of an
+ IPO will be inversely related to the repu-
+ tation of the auditing firm attesting to
+ the accounting reports. Second, the pre-
+ mium paid for a high quality auditing
+ firm will be inversely related to the initial
+ return of the IPO client.
+
+ II. DATA AND DESCRIPTIVE
+
+ STATISTICS
+
+ The data used in the empirical tests are
+ drawn from the population of 2,567
+ IPOs from 1975-1984. The final sample
+ was reduced to 2,215.5 The main data
+ sources for the variables are the IPO's
+ registration statement and amendments
+ and Going Public: The IPO Reporter
+ (published weekly).
+
+ The initial return for a firm going pub-
+ lic is defined as the first day gross return
+ to an investor who acquires a share and
+ sells at the closing bid price on the first
+ day of public trading.6 For 1975-1984,
+ the average initial return is 22.1 percent.
+ A test of the compensation premium
+
+ implication of the reputation hypothesis
+ requires a measure of the fee paid to the
+ auditor. A proxy for this fee that is avail-
+ able for the entire sample is the cash
+ compensation. This measure includes
+ auditing, printing, legal, and other mis-
+ cellaneous fees (such as "Blue Sky" reg-
+ istration fees). The average cash com-
+ pensation for 1975-1984 is $218,929.
+
+ Aftermarket standard deviation is pre-
+ sented as an ex post proxy for ex ante
+ uncertainty to assess cross-sectional dif-
+ ferences in ex ante uncertainty for the
+ sample. The aftermarket standard devia-
+ tion is computed as the standard devia-
+ tion of returns for the first 20 trading
+ days excluding the initial return using
+ bid prices. This measure is available for
+ only 1,807 firms since the remaining
+ firms were not listed on NASDAQ or
+ another exchange. The average after-
+ market standard deviation in the sample
+ is .033.
+
+ I Each IPO included in the final sample had initial re-
+ turn, age, type of offering, gross proceeds, sales, book
+ value of equity, and cash expenses (auditor fees, legal
+ fees, and miscellaneous fees) available in their SI or S18
+ registration statement or other publicly available
+ sources. Regulation A registrations, small public offer-
+ ings, were not included in this study due to data limita-
+ tions. An initial public offering that is registered under
+ Regulation A is significantly smaller than the average
+ offering in this sample. Prior to 1978, the maximum
+ amount raised in a Regulation A offer was $500,000.
+ After 1978, the limit was raised to $1,500,000. Missing
+ registration statements and the lack of an observable bid
+ price (firms trading in the "pink sheets") account for the
+ reduction in observations from 2,567 to 2,215.
+
+ 6 The first day closing price is not always available.
+ The closing bid price is available for 1,499 of the IPOs
+ within one day of the closing date. An additional 412 bid
+ prices are available within one week of the closing date.
+ Bid prices are available for 236 IPOs within a month of
+ the closing date of the IPO. The remaining 68 firms' bid
+ price is obtained within one year of the offering. For
+ IPOs listed on NASDAQ (82.6 percent), the first avail-
+ able closing bid price from the Daily Stock Price Record
+ has been used to construct the initial return. Finally, 12.4
+ percent of the IPOs in this study were not listed on
+ NASDAQ. These firms required the use of other data
+ sources to estimate the initial returns for these securities
+ [Ritter, 19841.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty
+
+ 697
+
+ Table 1 presents selected descriptive
+ statistics for audit firm IPO clients. The
+ identified firms audited at least ten IPOs
+ during the 1975-1984 period and the Big
+ Eight firms audited 58 percent of the
+ IPO clients.7 The statistical tests suggest
+ a number of differences in IPO clients by
+ Big Eight/non-Big Eight distinction.
+ First, larger clients generally are audited
+ by Big Eight firms.8 However, the tradi-
+ tional Big Eight/non-Big Eight distinc-
+ tion does not completely capture differ-
+ ences in client size. In particular, Peat
+ Marwick, Touche Ross, and Coopers
+ & Lybrand clients exhibit similar mag-
+ nitudes of median sales revenue as
+ Laventhol Horwath, Seidman & Seid-
+ man, and Alexander Grant clients.
+
+ Panels A and B of Table 1 suggest that
+ auditor compensation is larger for Big
+ Eight audit firms relative to competing
+ non-Big Eight firms.9 Aftermarket stan-
+ dard deviation is smaller for Big Eight
+ compared to non-Big Eight clients. Fi-
+ nally, initial return is significantly
+ smaller for Big Eight compared to non-
+ Big Eight clients. These differences in
+ risk and return suggest that clients of
+ particular subsets of CPA firms may not
+ be homogeneous with respect to ex ante
+ uncertainty.
+
+ III. UNDERPRICING, Ex Ante
+
+ UNCERTAINTY, AND AUDITING FIRM
+
+ REPUTATION
+
+ firm is tested with an indicator variable
+ for each of the 20 CPA firms auditing
+ more than ten IPOs in the 1975-1984
+ period, and the reputation hypothesis is
+ evaluated by testing linear restrictions
+ on the estimated coefficients of the Big
+ Eight/non-Big Eight indicator vari-
+ ables. 10 Finally, sensitivity of the results
+ to the traditional Big Eight/non-Big
+ Eight grouping is considered by alter-
+ native groupings based on client size.
+
+ The estimated model is:
+
+ Initial Return,
+
+ =a+b (Age of Clienti)
+
+ + c (Type of Underwriting
+
+ Contract)
+
+ +d (Percentage of Ownership
+
+ Offered)
+
+ +e (Oil & Gas Indicatori)
+ +f (Underwriter Reputation
+
+ Indicator)
+
+ +r (Auditing Firm (1-20) Indi-
+ catori). (1)
+
+ Indicator Variable Regression
+
+ Client age is used as a control variable
+ in the regression model (panel A of
+ Table 2) since a longer operating history
+ may provide market participants with in-
+
+ 7 This percentage is consistent with the 59 percent, 68
+ percent, and 62 percent concentration ratios for publicly
+ traded clients reported in Simunic [1980], Palmrose
+ [1986], and Francis and Simon [1987].
+
+ 8 Book value of equity, age, gross proceeds, and net
+ proceeds provide additional support for the notion that
+ larger clients tend to be audited by Big Eight firms
+ [Beatty, 1989].
+
+ In this section, an indicator variable
+ approach is used to test for a relation
+ between auditing firm reputation and the
+ underpricing of initial public offerings.
+ The regression model controls for ex
+ ante uncertainty (client age, type of
+ underwriting contract, and percentage
+ ownership offered in the IPO), indus-
+ try affiliation (oil and gas indicator
+ variable), and other reputation effects
+ (underwriter indicator variable). The
+ marginal impact of a particular CPA
+
+ 9 For a subsample of 1,276 IPOs (1981-1984), auditor
+
+ fees for preparation of the registration document were
+ collected from Part II of the registration statement. Typ-
+ ically, this involves obtaining amendments to the regis-
+ tration statement since the auditing fees are rarely sub-
+ mitted with the final prospectus. The correlation between
+ reported accounting fees (Part 2 of the prospectus) and
+ cash compensation is .771, suggesting that the cash com-
+ pensation (available for the entire sample) provides a
+ reasonable proxy for the auditor's compensation for re-
+ viewing the prospectus.
+
+ '? Testing linear restrictions on estimated coefficients
+
+ is described in Judge et al. [1980, pp. 61-62].
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 698 The Accounting Review, October 1989
+
+ TABLE 1
+
+ DESCRIPTIVE STATISTICS (1975-1984)
+
+ CLIENT SIZE, RETURN, AND Ex ANTE UNCERTAINTY MEASURES
+
+ MEDIAN SALES REVENUE, AUDITOR COMPENSATION, INITIAL RETURN,
+
+ AND STANDARD DEVIATION BY AUDITOR
+
+ Cash Aftermarket Number
+ Sales Compensation' Initial Standard of Clients3
+ Auditor (000's) (000's) Return Deviation2 (N,, N2)
+
+ Panel A. Big Eight Audit Firm Clients:
+
+ Ernst & Whinney (EW) $10,423 $219 .025 .027 141, 125
+ Deloitte Haskins & Sells (DHS) 6,437 241 .023 .034 122, 102
+ Price Waterhouse (PW) 5,939 240 .021 .030 141, 128
+ Arthur Young & Co. (AY) 6,404 252 .038 .031 163, 149
+ Arthur Andersen & Co. (AA) 5,695 230 .053 .034 225, 207
+ Peat, Marwick, Mitchell & Co. (PMM) 4,110 210 .028 .026 191, 171
+ Touche Ross & Co. (TR) 3,220 199 .050 .030 153, 139
+ Coopers & Lybrand (CL) 2,246 185 .018 .033 146, 133
+
+ Big Eight 4,926 220 .031 .031 1282, 1154
+
+ Panel B. Non-Big Eight Audit Firm Clients:
+
+ Laventhol Horwath (LH) $ 4,321 $180 .050 .034 59, 49
+ Seidman & Seidman (SS) 3,668 175 .042 .037 27, 25
+ Alexander Grant (AG) 2,300 175 .042 .035 55, 45
+ Main Hurdman (MH) 1,755 188 .033 .033 78, 67
+ Mann Judd Landau (MJL) 1,631 112 .044 .033 16, 12
+ McGladrey Hendrickson (MHD) 778 108 .250 .034 18, 16
+ Oppenheim, Appel (OAD) 307 147 .150 .040 10, 7
+ All Others 87 90 .068 .040 577, 372
+ Fox, Fox & Co. (FOX) 96 85 .125 .038 37, 33
+ Hein & Sikora (HS) 6 75 .375 .062 13, 12
+ Newman & Co. (NEW) 3 58 .188 .037 12, 10
+ Lehman, Butterwick (LB) 1 56 .125 .034 10, 4
+ Roth (R) 0 50 .600 .073 21, 1
+
+ Non-Big Eight 154 101 .067 .038 933, 653
+
+ Panel C. Non-Parametric Statistical Comparisons of Big Eight and Non-Big Eight Clients:
+
+ Cash Initial Standard
+ Statistic Sales Compensation Return Deviation
+
+ Aftermarket
+
+ Big Eight, non-Big Eight Comparison
+
+ Mann-Whitney U-Test -15.390 -15.452 2.435 -6.100
+ (Probability) .000 .000 .015 .000
+
+ Median Test Chi-Square 159.608 191.257 7.610 27.374
+ (Probability) .000 .000 .006 .000
+
+ I Cash Compensation =Auditor fees + Legal fees +Printing fees+Miscellaneous fees.
+ 2 Aftermarket Standard Deviation=standard deviation of return 2 through 21.
+ 3 Panels A and B present medians for selected variables by individual audit firm and Big Eight/non-Big Eight dis-
+
+ tinction. In the final column of panels A and B N. = the number of IPO clients and N2 = the number of clients avail-
+ able to compute aftermarket standard deviation. Panel C presents the Mann-Whitney U-test and Median test for dif-
+ ferences in the selected variables by Big Eight/non-Big Eight.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty 699
+
+ ~~~o en ~~~~~~~~~~0%
+
+ 0 N~~~~~~~~~~0
+
+ z if
+
+ 0 %N
+
+ 2 0~~~~~~~~~0
+
+ 0 4 C
+
+ 0 4 ~ ~ ~ ~ ~ ~ ~ ~~
+
+ 04 z ~ ~~ uK
+
+ e u~o ~I
+
+ a~~~~~~~~.~~W
+
+ - - %O~~~~~
+
+ J.-4 0~~~~~e i0 0
+ 2 f N
+
+ z 6:~~~~~ 4n r- 'n~~~~- 0%
+
+ 0~~~~~~~~~~~~~~~~~~~~0
+
+ 0~~~~~~0
+
+ -0~~~~~~~~~-
+
+ 0 00 e0O0 ~ ~ rn~
+
+ 0~~~~~~~~~~~~~~~~~~~
+
+ 0 ~~~~~~~0 II~0 C4C1f
+
+ Izu~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~I
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 700 The Accounting Review, October 1989
+
+ a)3C1
+ - C13 >
+
+ a)
+
+ 0 U~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~C
+
+ 0~~~~~~~~~~~~~~~~~~~~~~~~0
+
+ N0 00 0
+
+ a~~~~~~~~N 00 N
+
+ ~~~~ e~~~~~~~~ 0 ~ ~ ~ ~ ~
+
+ II II 0 II II II II II II ~~~~~~~~~~~~~~~~~~~0 t C1
+
+ L~~~~~ L~~~~~~ L~~~~~ LiZ ~~~~~~~~~~~ ~CZ r
+
+ 0 a)~~~~~~~~~~0
+
+ C14 1~~0 0 C1
+
+ o *~~~~~~~~~~~~LL~~~~~~~~~ 0~~~~~~~~ ~~~~
+
+ ~~ -- - -- W .E -
+
+ U F-~~
+
+ 0 ~~~~~~~~~ 0*c~~~~~~~~~~~~~~~ C,,~~~~~I." .
+
+ 0 a
+
+ "In 0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c
+
+ 0 ~ ~ ~ ~ ~ ~ ~ ~ ~~~~~~~-*~~~~~~~~~~~~
+
+ C' 1
+
+ 00 0 (A 0~~~~~~~~ 0
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty
+
+ 701
+
+ formation concerning managerial pro-
+ duction-investment decisions. This addi-
+ tional information may allow investors
+ to marginally reduce their estimate of ex
+ ante uncertainty. The estimated coeffi-
+ cient is negative and statistically signifi-
+ cant at the .06 probability level. This
+ result suggests that larger client age indi-
+ cates lower ex ante uncertainty.11
+
+ The second control variable is the type
+ of underwriting contract, firm commit-
+ ment or best efforts. 12 The type of
+ underwriter agreement may provide a
+ proxy for the underwriter's assessment
+ of the price uncertainty for an IPO. The
+ type of offering (best efforts =0, firm
+ commitment =1) is inversely related to
+ the initial return for the IPO at the .0001
+ probability level. This result is consistent
+ with lower ex ante uncertainty for firm
+ commitment underwriting contracts.
+
+ Research by Leland and Pyle [1977]
+ and Downes and Heinkel [1982] suggests
+ that the percent ownership retained by
+ insiders signals private information
+ possessed by the owner/manager to in-
+ vestors. The percentage offered by
+ owners in the IPO is positively related to
+ the initial return at the .04 level con-
+ sistent with Leland and Pyle's model.
+
+ Table 2 reports two final indicator
+ variable coefficients for each regression.
+ The oil and gas indicator variable (oil
+ and gas = 1, others =0) is considered
+ since Ritter [1984] observes a significant
+ association between industry affiliation
+ and initial return during the "Hot Issue"
+ market of 1980. Panel A of Table 2
+ shows that, as in the previous study, oil
+ and gas IPOs exhibit significant positive
+ initial returns."3 The underwriter indi-
+ cator variable controls for underwriter
+ reputation. Beatty and Ritter [1986]
+ argue that underwriter reputation is re-
+ lated to the level of underpricing of an
+ initial public offering. This study uses an
+ indicator variable (top 18 = 1, others = 0)
+
+ for the 18 largest underwriters by total
+ capital that are members of the Secu-
+ rities Industry Association. 14 The under-
+ writer indicator variable regression co-
+ efficient is significant at the .03 level.
+
+ Panel B of Table 2 summarizes the in-
+ dicator variables for the 20 identified
+ CPA firms. Four CPA firm indicator
+ variables are positive and significant at
+ the .05 level. They are Fox, Fox & Co.;
+ Hein & Sikora; McGladrey, Hendrickson
+ & Co.; and Allen Roth. Clients of these
+ four non-Big Eight firms exhibited sig-
+ nificantly higher initial returns than
+ those of other auditors.
+
+ Two sets of tests of linear combina-
+ tions of the coefficients of the CPA firm
+ indicator variables are presented in panel
+ C of Table 2. First, the traditional Big
+ Eight/non-Big Eight dichotomy is inves-
+ tigated. The second is partitioned based
+ upon the largest-five, middle-six, and
+
+ " It has been suggested in Manegold [1987] that dis-
+
+ tinguishing between startup and operating firms may
+ control for client risk. In unreported regressions, a
+ startup/operating indicator variable replaced the age
+ variable. The results were consistent with the reported
+ results and the startup/operating variable was not
+ significant.
+
+ 12 A "firm commitment" underwriting agreement
+
+ specifies that the underwriter purchases the shares from
+ the client to be offered for resale. In a "best efforts"
+ underwriting arrangement, an underwriter agrees to
+ place as many securities as a "best effort" permits.
+
+ 13 Elimination of the oil and gas firms from the sample
+
+ does not alter any of the inferences of the tests. Also, an
+ indicator variable for "high tech" firm was considered
+ with insignificant results.
+
+ 14 The Securities Industry Association is an organiza-
+ tion that lobbies for members' interests. Membership is
+ restricted to "reputable" securities industry members.
+ As with other voluntary organizations, the definition of
+ reputable member of the securities industry is not well-
+ defined. The SIA has summarized the capital ranks for
+ their membership in an annual publication, Securities
+ Industry Yearbook. The top 18 underwriters have been
+ assigned to the "highly" reputable category for pur-
+ poses of the underwriter indicator variable. The top 18
+ underwriters capital as of January 1, 1985 exceeded
+ $200,000,000. Alternative classifications of underwriter
+ reputation by capital rank did not appreciably change the
+ qualitative results.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 702
+
+ The Accounting Review, October 1989
+
+ reputation capital. A two-stage approach
+ estimates an auditor compensation re-
+ gression with observable independent
+ variables. Then the residuals from the
+ first regression are used as a proxy for
+ the unobservable variable, reputation
+ capital. The relation between the resid-
+ ual of the estimated auditor compensa-
+ tion regression and the unobservable
+ reputation variable is illustrated and
+ then the "omitted variables" formula-
+ tion is applied to test the reputation hy-
+ pothesis.
+
+ A compensation regression model that
+ does not include the omitted variable can
+ be estimated as follows:
+
+ Cash Comp,
+
+ = a1 + b1 (Gross Proceeds,)
+
+ +c1 (Sales1)
+ +d1 (Equityi)+ui.5 (2)
+
+ However, the reputation hypothesis as-
+ serts that the correct specification of the
+ regression equation is:
+
+ Cash Compi
+
+ =a1* +b * (Gross Proceeds )
+
+ +c1* (Salesi)
+ +dd* (Equityi)
+ +e,* (Ri)+vi. (3)
+
+ smallest-nine audit firm median client
+ sales revenue.
+
+ Panel C reports tests of the linear re-
+ strictions on the coefficients of the Big
+ Eight and non-Big Eight indicator vari-
+ ables. The results indicate significant dif-
+ ferences in initial return based upon the
+ Big Eight/non-Big Eight distinction. The
+ trichotomous partition tests indicate that
+ the middle-six CPA firms are more simi-
+ lar to the largest-five CPA firms than to
+ the smallest-nine CPA firms. This sensi-
+ tivity analysis suggests that the tradi-
+ tional Big Eight/non-Big Eight distinc-
+ tion may measure reputation with error
+ since the smallest Big Eight and largest
+ non-Big Eight appear to exhibit substan-
+ tial similarities. Finally, the correlation
+ matrix (not reported) indicates that cor-
+ relations across covariates are small (all
+ less than .32) and, thus, multicollinearity
+ is not expected to affect the results.
+
+ These results provide evidence of a
+ relation between auditor classification
+ and the initial return. However, inter-
+ preting these results as consistent with a
+ relation between reputation and initial
+ return requires the maintained hypoth-
+ esis that a particular partition, such as
+ the traditional Big Eight/non-Big Eight
+ distinction, captures differences in firm
+ reputation capital. Since choice of an
+ appropriate partition is rather ad hoc, an
+ alternative approach that does not rely
+ on arbitrary classifications to test the
+ reputation hypothesis is considered in
+ the next subsection.
+
+ If one assumes that the omitted variable,
+ R (a firm's reputation capital), is un-
+ correlated with the other independent
+ variables, the sign of the correlation be-
+ tween the estimated residual and the
+ omitted variable is directly related to the
+ sign of e1*. Formally, this correlation is:
+
+ Two-Stage Regression Approach
+
+ There are two salient features of the
+ reputation hypothesis that suggest the
+ use of an omitted variables technique to
+ establish a proxy for reputation. First, a
+ firm's reputation capital is unobserv-
+ able. Second, the reputation hypothesis
+ implies that the IPO client is charged a
+ premium for employing the auditor's
+
+ corr(ui, Ri)
+
+ S ei* Ea(Ru-E(R))tP
+
+ /(std. devu)(std. deVR). (4)
+ Since we assume that the IPO client is
+
+ 15 The chosen independent variables in the compen-
+ sation regression are intended to proxy for the marginal
+ cost of the audit. Omitted variables analysis is discussed
+ in Kmenta [1986], pp. 392-395.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty
+
+ 703
+
+ A negative coefficient on the unexpected
+ cash compensation, ui, is consistent with
+ the reputation hypothesis.
+
+ charged a premium for the auditor's
+ reputation, the sign of the omitted vari-
+ able coefficient, e1*, is positive. Thus, u,
+ from equation (2) provides a measure
+ that is positively correlated with the vari-
+ able of interest. The second-stage regres-
+ sion relates the initial return to the con-
+ trol variables and the residual from the
+ compensation regression as follows:
+
+ Initial Returni
+
+ =a2+b2 (Age of Clients)
+
+ + c2 (Type of Underwriting
+
+ Contract ,)
+
+ +dd2 (Percentage of Ownership
+
+ Offered)
+
+ +e2 (Oil & Gas Indicator,)
+ +f2 (Underwriter Reputation
+
+ Indicator,)
+
+ +r2 (Ui). (5)
+
+ Table 3 presents results of the two-
+ stage least squares approach used to
+ assesss the relation between audit firm
+ reputation and initial return. In the first
+ stage, auditor compensation is regressed
+ on three size variables, gross proceeds,
+ sales revenue, and book value of equity.
+ The residual from the regression should
+ be interpreted as the price paid to a par-
+ ticular audit firm above or below the
+ average price paid for auditor reputation.
+ The average price paid for reputation is
+ imbedded in the constant term in equa-
+ tion (2). From the analysis in Section II,
+ as the price paid for the CPA firm's repu-
+ tation capital is increased, less "money
+ is left on the table" in the form of under-
+ pricing, which suggests an inverse rela-
+ tion with initial return. The reputation
+ hypothesis predicts that the coefficient
+ on the residual auditor compensation
+ variable will be negative in the second
+ stage regression.
+
+ Sales revenue, book value of equity,
+
+ and gross proceeds provide proxies for
+ the size variables that have been found
+ by previous studies to be related to
+ auditor compensation. Although these
+ three measures are different from the in-
+ dependent variables suggested by previ-
+ ous researchers of auditor compensation
+ [Simunic, 1980; Mayer et al., 1985; and
+ Francis and Simon, 19871, they provide
+ similar control for the marginal cost of
+ performing an audit. For instance, in-
+ creased sales revenue can be expected to
+ be directly related to increased inven-
+ tories and accounts receivable. In addi-
+ tion, one would expect that larger firms
+ (measured by book value of equity and
+ gross proceeds) would more likely ex-
+ hibit more consolidated subsidiaries,
+ two-digit SIC codes, and foreign opera-
+ tions. It should be noted that the
+ R-squared for equation (2) of Table 3 is
+ .18, which is comparable to Simunic's
+ less-than-$125,000,000 regression results
+ of .28. However, the results of this anal-
+ ysis rest on the assumption that any
+ missing variables are uncorrelated with
+ the initial return of the IPO.
+
+ The coefficients for gross proceeds
+ and sales revenue in panel A of Table 3
+ are positive and significantly related to
+ cash compensation," suggesting that as
+ the size of the IPO client increases the
+ total payment to auditor, lawyer, and
+ printing fees increases (see Simunic
+ [1980] and Mayer et al. [19851).
+
+ Panel C of Table 3 provides average
+ and median residuals from equation (2)
+ that suggest Big Eight firms are being
+
+ 16 Panel B of Table 3 discloses relatively higher corre-
+
+ lations between sales, book value of equity, and gross
+ proceeds than any other correlations of other indepen-
+ dent variables. Thus, the estimated coefficients in equa-
+ tion (2) should be viewed with caution. This high level of
+ multicollinearity may explain the negative and signifi-
+ cant coefficient on stockholders' equity. The purpose of
+ this regression is merely to filter out the size related costs
+ of performing an audit, not to emphasize the magnitudes
+ of the coefficients in equation (2).
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 704 The Accounting Review, October 1989
+
+ TABLE 3
+
+ Two-STAGE REGRESSION ESTIMATES:
+
+ EQUATION (2) = CASH COMPENSATION PREDICTION MODEL
+
+ EQUATION (5) = UNDERPRICING MODEL WITH DEPENDENT VARIABLE = INITIAL RETURN AND
+
+ INDEPENDENT VARIABLES =AGE, TYPE OF OFFERING, PERCENT RETAINED BY OWNERS,
+
+ OIL AND GAS INDICATOR, UNDERWRITER INDICATOR, AND
+
+ UNEXPECTED CASH COMPENSATION
+
+ (n = 2,215)
+
+ Panel A. Regression Results:
+
+ Dependent Variable-Cash Expenses for Audit, Legal, Printing, and Miscellaneous Fees
+
+ Cash Comp, = a, + b1 (Gross Proceeds,) + c, (Sales,)
+
+ +d1 (Equityi) +uj (2)
+
+ Gross Book Value
+ Constant Proceeds Sales of Equity
+
+ Equation (2) 178.90638 .003632 .00036 -.00011
+ (4.40544) (.000233) (.00006) (.00003)
+ t=40.61 t= 15.61 t=5.88 t= -3.22
+
+ R2=.183 F-statistic = 165.293*
+
+ Dependent Variable-Initial Return
+
+ Initial Returni =a2+ b2 (Age of Client,) + c2 (Type of Underwriting Contracti)
+
+ +d2 (Percentage of Ownership Offered,)
+ +e2 (Oil and Gas Indicatori)
+ +f2 (Underwriter Reputation Indicators)
+ +r2 (us) (5)
+
+ Type of Percent by Underwriter Residual from
+ Constant Age Offering Owner Oil and Gas Indicator Equation (2)
+
+ Equation (5) .34275 -.00204 -.21628 .10011 .13753 -.05873 -.00018
+ (.03586) (.00096) (.02720) (.07378) (.03712) (.03191) (.00006)
+ t=9.56 t= -2.13 t= -7.95 t= 1.36 t=3.71 t= - 1.84 t= -2.74
+
+ R2= .085 F-statistic = 34.116*
+
+ Standard errors are in parentheses. The mean of the dependent variable (audit fees, legal fees, and miscellaneous
+ expenses) for equation (2) is $218,929. The means of the independent variables, gross proceeds, sales, and book value
+ of equity, are $9,173,808, $20,825,369, and $7,409,655, respectively. The final variable (residual from eq. (2))
+ represents the difference between the OLS estimate of auditor, legal, and printing fees and the actual observed fees by
+ IPO client.
+
+ * Significant at the .01 level.
+
+ paid relatively more than non-Big Eight
+ firms after controlling for client size dif-
+ ferences. The residuals for the audit
+ firms that were statistically significant in
+ the indicator variable regressions (Fox,
+ Fox & Co.; Hein & Sikora; McGladrey
+ Hendrickson; and Roth) tend to have the
+ largest negative residuals.
+
+ Panel D of Table 3 partitions the CPA
+ firms based on the largest-five, middle-
+ six, and smallest-nine audit firms by
+ client sales revenue from Table 1. These
+ results indicate that the auditor compen-
+ sation premium is significantly larger for
+ the largest-five firms than for the two
+ remaining groups. In addition, the fee
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty 705
+
+ TABLE 3-Continued
+
+ Panel B. Pearson Product-Moment Correlation:
+
+ Type of Percent by Gross Book Value
+ Age Offering Owners Oil and Gas Underwriter Proceeds Sales of Equity
+
+ Gross Proceeds .236* .209* -.124* -.063 .375*
+ Sales .328* .160* -.122* -.053 .321 * .538*
+ Book Value of Equity .084* .035 -.065* -.072* .089* .336* .525*
+ Residual from Equation (2) .142* .368* -.222* -.060 .279* .000 .000 .000
+
+ * Significant at the .01 level.
+
+ Panel C. Average Residualfrom Equation (2) Panel A by Audit Firm and Big Eight/Non-Big Eight Classification:
+
+ A verage Median A verage Median
+ Residual Residual Residual Residual
+
+ Big Eight
+
+ (1) AA (225) 29.258 2.769
+ (2) AY (163) 26.901 11.068
+ (3) CL (146) 9.081 -34.347
+ (4) DHS (122) 24.377 22.288 23.867 -2.231
+ (5) EW (141) 28.824 -17.952
+ (6) PMM (191) 34.964 -6.217
+ (7) PW (141) 21.309 7.297
+ (8) TR (153) 10.349 -14.796
+
+ Non-Big Eight
+
+ A verage Median
+ Residual Residual
+
+ (9) AG (55) -18.877 -31.567
+ (10) FOX (37) -69.082 -106.279
+ (11) HS (13) -105.641 -114.743
+ (12) LB (10) -124.984 -129.163
+ (13) LH (59) 3.298 -30.437
+ (14) MH (78) 20.577 -24.392 -32.795 -86.003
+ (15) MHD (18) -73.237 -83.854
+ (16) MJL (16) 36.502 -76.752
+ (17) NEW (12) -116.726 -127.294
+ (18) OAD (10) 30.847 -40.083
+ (19) SS (27) 23.831 -20.503
+ (20) R (21) -112.410 -130.719
+ (21) Oths (718) -27.343 -84.363
+
+ Mann- Whitney Probability
+ U- Test (two-tailed)
+
+ -12.744 .0000
+
+ Chi-Square Probability
+ Median Test (two-tailed)
+
+ 140.636 .0000
+
+ The number of CPA firm clients during the 1975-1984 period is listed in column 2. Columns 3 and 4 present the
+ average and median residual from the regression model of Table 3 for each of 20 CPA firms and the other category.
+ These residuals are the result of relating cash compensation (audit fees, legal fees, and miscellaneous fees) to gross
+ proceeds, sales revenue, and book value of equity. Columns 4 and 5 summarize the average and median residuals by
+ the Big Eight/non-Big Eight classification.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 706 The Accounting Review, October 1989
+
+ TABLE 3-Continued
+
+ Panel D. Average Residual from Equation (2) Panel A by Audit Firm and Largest-Five, Middle-Six, and
+
+ Smallest-Nine Audit Firm Clients by Median Sales Revenue Classification:
+
+ A verage Median A verage Median
+ Residual Residual Residual Residual
+
+ Largest-Five
+
+ (1) EW (141) 28.824 -17.952
+ (2) DHS (122) 24.377 22.288
+ (3) PW (141) 21.309 7.297 26.529 6.216
+ (4) AY (163) 26.901 11.068
+ (5) AA (225) 29.258 2.769
+
+ Middle-Six
+
+ A verage Median
+ Residual Residual
+
+ (6) PMM (191) 34.964 -6.217
+ (7) TR (153) 10.349 -14.796
+ (8) CL (146) 9.081 -34.347
+ (9) LH (59) 3.298 -30.437 14.877 -15.375
+
+ (10) SS (27) 23.831 -20.503
+ (11) AG (55) -18.877 -31.567
+
+ Smallest-Nine
+
+ A verage Median
+ Residual Residual
+
+ (12) MH (78) 20.577 -24.392
+ (13) MJL (16) 36.502 -76.752
+ (14) MHD (18) -73.237 -83.854
+ (15) OAD (10) 30.847 -40.083
+ (16) Oths (718) -27.343 -84.363
+ (17) FOX (37) -69.082 -106.279 -38.381 -92.363
+ (18) HS (13) -105.641 -114.743
+ (19) NEW (12) -116.726 -127.294
+ (20) LB (10) -124.984 -129.163
+ (21) R (21) -112.410 -130.719
+
+ Mann- Whitney Probability
+ U-Test (two-tailed)
+
+ Largest-Five, Middle-Six -2.379 .0174
+ Middle-Six, Smallest-Nine -10.383 .0000
+
+ Chi-Square Probability
+ Median Test (two-tailed)
+
+ Largest-Five, Middle-Six 8.789 .0030
+ Middle-Six, Smallest-Nine 105.453 .0000
+
+ Column I lists the 20 CPA firms by Largest-Five, Middle-Six, and Smallest-Nine firms by client sales revenue
+
+ classification from Table 1. The firms are listed by median client sales revenue. The number of firm clients during the
+ 1975-1984 period is listed in column 2. Columns 3 and 4 present the average and median residual from the equation
+ (2) for Table 3 for each of 20 firms and the other category. These residuals are the result of relating cash compensa-
+ tion (audit fees, legal fees, and miscellaneous fees) to gross proceeds, sales revenue, and book value of equity.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty
+
+ 707
+
+ premium is significantly larger for the
+ middle-six than for the smallest-nine
+ audit firms. This substantial variation in
+ premiums suggests that, within the his-
+ torical Big Eight/non-Big Eight classifi-
+ cation, audit firms may not be homoge-
+ neous [Kinney, 1986]. Again, these
+ results suggest that the traditional Big
+ Eight/non-Big Eight distinction for
+ reputation capital may suffer from sub-
+ stantial measurement error.
+
+ In the second stage regression, the re-
+ siduals from equation (2) and the control
+ variables are regressed on the initial re-
+ turn. 17 Table 3 results are similar to the
+ indicator variable regression results for
+ each of the control variables. The coeffi-
+ cient on the residuals from equation (2)
+ is significantly negatively related to the
+ initial return at the .003 level (one-
+ tailed). For payments to the auditor
+ above that predicted by equation (2), the
+ initial return will be lower, ceteris pari-
+ bus. 18 These results provide direct evi-
+ dence of a positive relation between the
+ compensation paid to an auditor and the
+ wealth of the incumbent owners of a
+ client. This evidence is consistent with
+ the proposition that an IPO client hires
+ the reputation capital of an auditing firm
+ to "signal" its ex ante uncertainty to
+ IPO investors.
+
+ The two-stage least squares method pro-
+ vides a direct test of the relation between
+ the cost (auditor fees) and the benefit
+ (lower initial return) of this signal.
+
+ IV. CONCLUSIONS
+
+ It has been argued that the auditor
+ performs the role of attesting to the level
+ of ex ante uncertainty faced by the IPO
+ investor. Since owners of the IPO firm
+ choose an auditor from a set of com-
+ peting CPA firms, value-maximizing
+ owners will choose to employ a particu-
+ lar CPA firm's reputation capital when
+ the marginal benefit equates to the mar-
+ ginal cost.
+
+ It was conjectured that a marginal
+ benefit of employing a more reputable
+ audit firm is an increase in the price ob-
+ tained by the firm that offers the IPO
+ ceteris paribus. The descriptive results
+ suggest that the assumption of homoge-
+ neity in ex ante uncertainty does not hold
+ for particular subsets of IPOs. Larger
+ and less risky clients were audited by Big
+ Eight firms. Although this result is not
+ new [Simunic and Stein, 1987; Beatty,
+ 1989], the cross-sectional tests of the
+ reputation hypothesis necessitate control
+ for differences in client ex ante uncer-
+ tainty there are unrelated to auditor
+ reputation.
+
+ Signalling models (e.g., Downes and
+ Heinkel [1982] and Titman and Trueman
+ (1986]) rely on the firm signalling infor-
+ mation to the market by undertaking a
+ costly activity that cannot be duplicated
+ by firms not possessing the signalled
+ characteristic. In the market for IPOs,
+ firms appear to signal their ex ante
+ uncertainty by hiring a "nationally
+ known" CPA firm to perform the
+ registration audit. This "signal" is credi-
+ ble to the market since auditor compen-
+ sation is higher ceteris paribus for those
+ firms that are commonly viewed as ex-
+ hibiting firm-specific reputation capital.
+
+ Two separate methods of considering
+ auditor reputation were considered.
+ First, a positive relation between four
+ non-Big Eight firm indicator variables
+ and the IPO's initial return was docu-
+ mented. The analysis of linear restric-
+
+ 17 An unreported two-stage least squares model using
+
+ reported auditor fees from Part II of the registration
+ statement for the 1982-1984 subperiod is consistent with
+ the Table 3 model results. These results are available on
+ request.
+
+ 18 The second stage of the two-stage least squares
+
+ model was analyzed employing a bootstrap technique
+ [Marais, 1984]. Inferences from the probability levels of
+ observing the OLS coefficients with this resampling
+ technique are unchanged.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 708
+
+ The Accounting Review, October 1989
+
+ tions implies that there are significant
+ differences in the relation between the
+ initial return and various subsets of audit
+ firms. With the maintained hypothesis
+ that the Big Eight/non-Big Eight dichot-
+ omy or largest-five/middle-six/smallest-
+ nine firm trichotomy proxy for differ-
+ ences in firm-specific reputation capital,
+ the results are consistent with the repu-
+ tation hypothesis. An omitted variables
+ method that measures reputation as the
+ amount of auditor compensation unex-
+ plained by measures of the marginal cost
+ of performing the audit was applied. It
+ shows that the residual from the auditor
+ compensation regression is positively
+ correlated with the unobservable audit-
+ ing firm reputation capital. The results
+ of the two-stage least squares approach
+ provide stronger and more direct evi-
+ dence of a relation between auditor repu-
+ tation and the initial return than the
+ traditional indicator variable approach.
+ In both approaches, an omitted vari-
+
+ ables problem may produce errors in in-
+ ference. For the indicator variable ap-
+ proach, an omitted variable may explain
+ the relation between the four firms and
+ the initial return. The two-stage regres-
+ sion approach is based upon the notion
+ that the residual from the first regression
+ captures the unobservable reputation
+ variable. An omitted variable in the
+ underpricing regression that is positively
+ related to both the auditor's unexplained
+ compensation and the underpricing of
+ the IPO may explain the observed rela-
+ tion. This omitted variables problem
+ should temper the interpretation of the
+ results of this test of reputation. Despite
+ this limitation, the relation observed in
+ the indicator variable approach and the
+ results provided by the residual approach
+ suggest that hiring of a "nationally
+ known" audit firm is related to less
+ underpricing of an initial public offering
+ of equity securities.
+
+ Akerlof, G. A., "The Market for 'Lemons': Quality, Uncertainty, and the Market Mechanism," Quarterly
+
+ Journal of Economics (August 1970), pp. 488-500.
+
+ Baron, D. P., "A Model of the Demand for Investment Banking Advising and Distribution Services for
+
+ New Issues," Journal of Finance (September 1982), pp. 955-976.
+
+ REFERENCES
+
+ Beatty, R. P., and J. R. Ritter, "Investment Banking, Reputation, and the Underpricing of Initial Public
+
+ Offerings," Journal of Financial Economics (January/February 1986), pp. 213-232.
+
+ , "The Initial Public Offerings Market for Auditing Services," Auditing Research Symposium
+
+ 1986 (University of Illinois, in press).
+
+ Carpenter, C. G., and R. H. Strawser, "Displacement of Auditors When Clients Go Public," Journal of
+
+ Accountancy (June 1971), pp. 55-58.
+
+ Downes, D. H., and R. Heinkel, "Signalling and the Valuation of Unseasoned New Issues," Journal of
+
+ Finance (March 1982), pp. 1-10.
+
+ Francis, J. R., and D. T. Simon, "A Test of Auditing Pricing in the Small-Client Segment of the U.S. Audit
+
+ Market," THE ACCOUNTING REVIEW (January 1987), pp. 145-157.
+
+ Ibbotson, R. G., "Price Performance of Common Stock New Issues," Journal of Financial Economics
+
+ (September 1975), pp. 235-272.
+
+ , and J. F. Jaffee, " 'Hot Issue' Markets," Journal of Finance (September 1975), pp. 1027-1042.
+ Judge, G. G., W. E. Griffiths, R. C. Hill, and T. C. Lee, The Theory and Practice of Econometrics (Wiley,
+
+ 1980).
+
+ Jensen, M. C., and W. H. Meckling, "Theory of the Firm: Managerial Behavior, Agency Costs and
+
+ Ownership Structure," Journal of Financial Economics (October 1976), pp. 305-360.
+
+ Kinney, W. R., Jr., "Audit Technology and Preferences for Auditing Standards," Journal ofAccounting
+
+ and Economics (March 1986), pp. 73-89.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ Beatty 709
+
+ ,"Attestation Research Opportunities: 1987," ContemporaryAccountingResearch (Spring 1988),
+
+ pp. 416-425.
+
+ Klein, B., and K. B. Leffler, "The Role of Market Forces in Assuring Contractual Performance," Journal
+
+ of Political Economy (August 1981), pp. 615-641.
+
+ Kmenta, J., Elements of Econometrics, Second Edition (MacMillan, 1986).
+ Leland, H. E., and D. H. Pyle, "Informational Asymmetries, Financial Structure, and Financial Inter-
+
+ mediation," Journal of Finance (May 1977), pp. 371-387.
+
+ Manegold, J. G., "An Empirical Analysis of the New Issues Securities Markets: The Effects of the Form
+
+ S-18 Registration Statement," Research Report Series No. 2for the SEC and Financial Reporting Insti-
+ tute (January 1987).
+
+ Marais, M. L., "An Application of the Bootstrap Method to the Analysis of Squared, Standardized Mar-
+
+ ket Model Prediction Errors," Journal of Accounting Research (Supplement 1984), pp. 34-54.
+
+ Mayer, M. W., A. J. Broman, R. Colson, and P. Tiessen, "Pricing of Audit Services: Additional Evi-
+
+ dence," Unpublished manuscript (1985).
+
+ Palmrose, Z., "Audit Fees and Auditor Size: Further Evidence," Journal ofAccounting Research (Spring
+
+ 1986), pp. 97-1 10.
+
+ ,"An Analysis of Auditor Litigation and Audit Service Quality," THE AcCOUNTING REVIEW (Janu-
+
+ ary 1988), pp. 55-73.
+
+ Ritter, J. R., "The 'Hot Issue' Market of 1980," Journal of Business (April 1984), pp. 215-240.
+ Rock, K., "Why New Issues Are Underpriced," Unpublished Ph.D. dissertation (University of Chicago,
+
+ 1982).
+ - 8, "Why New Issues Are Underpriced," Journal of Financial Economics (January/February 1986),
+ pp. 187-212.
+
+ Simunic, D. A., "The Pricing of Audit Services: Theory and Evidence," Journal of Accounting Re-
+
+ search (Spring 1980), pp. 161-190.
+
+ , and Michael Stein, "Product Differentiation in Auditing: Auditor Choice in the Market for Un-
+
+ seasoned New Issues, " Monograph Preparedfor the Canadian Certified General Accountant Research
+ Foundation (June 1987).
+
+ Smith, C. W., Jr., "Investment Banking and the Capital Acquisition Process," Journal of Financial Eco-
+
+ nomics (January/February 1986), pp. 3-29.
+
+ Titman, S., and B. Trueman, "Information Quality and the Valuation of New Issues," Journal of Ac-
+
+ counting and Economics (June 1986), pp. 159-172.
+
+ Watts, R. L., and J. L. Zimmerman, "Agency Problems, Auditing, and the Theory of the Firm: Some
+
+ Empirical Evidence," The Journal of Law & Economics (October 1983), pp. 613-633.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 16:45:09 UTC
+
+All use subject to http://about.jstor.org/terms
+

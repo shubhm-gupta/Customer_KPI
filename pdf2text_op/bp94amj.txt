@@ -1,0 +1,2242 @@
+ 
+ 
+Removing the Financial Performance Halo from Fortune's "Most Admired" Companies
+Author(s): Brad Brown and  Susan Perry
+Source: The Academy of Management Journal, Vol. 37, No. 5 (Oct., 1994), pp. 1347-1359
+Published by: Academy of Management
+Stable URL: http://www.jstor.org/stable/256676
+Accessed: 26-02-2017 21:14 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+
+JSTOR, please contact support@jstor.org.
+
+ 
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+
+http://about.jstor.org/terms
+
+Academy of Management is collaborating with JSTOR to digitize, preserve and extend access to The
+Academy of Management Journal
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ ? Academy of Management Journal
+ 1994, Vol. 37, No. 5, 1347-1359.
+
+ REMOVING THE FINANCIAL PERFORMANCE
+
+ HALO FROM FORTUNE'S "MOST
+
+ ADMIRED" COMPANIES
+
+ BRAD BROWN
+ SUSAN PERRY
+
+ University of Virginia
+
+ Fortune's annual ratings of America's largest corporations are shown
+ to be heavily influenced by previous financial results, thus creating a
+ halo that must be removed before these qualitative reputational mea-
+ sures can be used appropriately in other research. This article presents
+ a method for removing that performance halo and demonstrates the
+ method's validity.
+
+ Many interesting organizational research questions are difficult to an-
+ swer because there are no readily available, direct measures of the constructs
+ of interest. For example, researchers may want to identify companies that are
+ innovative, ethical, well managed, or environmentally responsible. Without
+ direct measures, they are forced to develop secondary proxies that perhaps
+ capture only a portion of the constructs of interest. Although the use of proxy
+ variables is reasonable given the inability to directly study important issues,
+ researchers must constantly be mindful that the measures being analyzed are
+ proxies, not the actual constructs of interest.
+
+ Large-scale surveys that appear to measure organizational constructs
+ directly are sometimes reported in the popular press. Our research focuses
+ on the corporate attributes reported annually in Fortune's "most admired
+ corporations" issue (e.g., Ballen, 1992). Researchers must be cautious when
+ using these large-scale surveys because the characteristics of survey respon-
+ dents, data-gathering methods, and survey questions may introduce mea-
+ surement error. If this error is pervasive, coloring many or all of the indi-
+ vidual attribute ratings of an object-the objects in our study are the com-
+ panies in the Fortune surveys-a halo is said to exist. Before these large-
+ scale surveys can be used in academic research, this halo must be removed.
+ In this article, we examine the financial performance halo derived from the
+
+ We would like to thank Stanley Slater for his earlier research in this area and this journal's
+ anonymous reviewers for their helpful comments. This research was supported by the McIntire
+ School of Commerce Associates Program.
+
+ 1347
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1348 Academy of Management Journal October
+
+ Fortune most admired companies survey and present a statistical method
+ designed to remove a significant portion of that halo. We demonstrate the
+ validity of our method by comparing four of our halo-removed measures to
+ other, independently developed proxies for similar constructs. We also com-
+ pare the results of our method for removing the financial performance halo
+ with measures obtained using less satisfactory statistical techniques. Al-
+ though our specific model applies to the Fortune data, we believe that our
+ technique is broadly applicable and should be considered whenever wide-
+ spread measurement error is suspected in survey data.
+
+ Fortune's annual list of the most admired companies, published early
+ each year since 1983, ranks large corporations on the following eight qual-
+ itative attributes: quality of management, quality of products or services,
+ value as a long-term investment, innovativeness, soundness of financial po-
+ sition, ability to attract, develop, and keep talented people, responsibility to
+ the community and environment, and wise use of corporate assets. The
+ magazine collects data on the largest firms in over 30 industries. The survey
+ sample includes 8,000 executives, directors, and market analysts, each of
+ whom reports on the industry he or she follows. Industry analysts and ex-
+ ecutives within an industry have been shown to be reliable and accurate
+ raters of corporate strategy (Chen, Fahr, & MacMillan, 1993). With a response
+ rate of about 50 percent, Fortune's survey sample is probably larger than
+ most samples obtained by academic researchers and its members are prob-
+ ably more qualified and better informed. The results are widely circulated
+ and cited in popular press outlets. In short, this survey offers data from a
+ large sample of industry experts assessing qualitative dimensions of organ-
+ izational performance that are difficult to measure quantitatively.
+
+ Unfortunately, the Fortune most admired ratings have been shown to be
+ heavily influenced by previous financial performance. Financial perfor-
+ mance, which is generally measured by combinations of accounting returns,
+ stock market returns, sales growth, size, operating leverage, and so forth, has
+ explained from 42 percent (McGuire, Schneeweis, & Branch, 1990: 176) to 53
+ percent (Fombrun & Shanley, 1990: 250) of the variance (measured as ad-
+ justed R2) of the overall rating of firm quality in the Fortune survey. The
+ influence of financial performance is understandable: executives and indus-
+ try analysts are very interested in financial performance. But this problem
+ must be dealt with if the data are to be useful to researchers.
+
+ The eight individual attributes of corporate reputation rated in this sur-
+ vey have been shown to be very highly correlated. Fombrun and Shanley
+ (1990) used factor analysis on the eight variables and extracted one factor
+ that explained 84 percent of the variance. They concluded "that the eight
+ attributes elicited from respondents were components of an underlying and
+ stable construct of reputation" (Fombrun & Shanley, 1990: 245).1 However,
+
+ 1 Fombrun and Shanley (1990: 245) found that the combination of the eight reputational
+
+ dimensions yielded an extremely reliable scale for overall reputation (ot = .97).
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1994 Brown and Perry 1349
+
+ researchers interested in finding a measure for a particular construct, such as
+ social responsibility, will be disappointed to discover that Fortune's mea-
+ sure, "responsibility to the community and environment," is analytically
+ indistinguishable from any of the other reputational dimensions, such as
+ "wise use of corporate assets" and "innovativeness," which appear to be
+ assessments of very different constructs. Halo is present whenever principal
+ components analysis results in "a common general factor showing high
+ loadings on nearly all attributes which accounts for appreciable variance"
+ (Dillon, Mulani, & Frederick, 1984: 194). The Fortune most admired survey
+ results are influenced by a strong halo, which renders the use of any single
+ attribute ratings questionable. Unfortunately, many recent studies of corpo-
+ rate social responsibility have relied on Fortune's ratings on responsibility to
+ the community and environment (e.g., Chakravarthy, 1986; McGuire,
+ Sundgren, & Schneeweis, 1988; O'Bannon & Preston, 1993; Sharfman, 1993).
+ The financial performance halo affecting results for the individual cor-
+ porate attributes rated in the Fortune survey poses a problem similar to those
+ faced by researchers studying human resource management issues (e.g., Coo-
+ per, 1981; Myers, 1965; Pulakos, Schmitt, & Ostroff, 1986; Thorndike, 1920)
+ and consumer behavior (e.g., Beckwith & Lehmann, 1975; Dillon et al., 1984;
+ Holbrook, 1983) as they struggled to remove distortion from the perceptual
+ judgments of those rating individual attributes of people, jobs, and products.
+ Both fields generally refer to this perceptual distortion-a blurring of dis-
+ tinctions among dimensions or attributes due to a strong overall impres-
+ sion-as a halo.
+
+ Many of the halo-removal techniques proposed by human resource
+ management and consumer behavior researchers were appropriate for re-
+ moving the halo from an individual rater's perceptions of an object (a person
+ or product). However, the data available from Fortune are summarized: in-
+ dividual raters' evaluations are unavailable and only mean data provided.
+ Therefore, some of the more sophisticated halo removal strategies (e.g., Dil-
+ lon et al., 1984; Holbrook, 1983) are either irrelevant or inappropriate in the
+ current research setting.
+
+ One simple strategy for removing halo distortions of attribute ratings is
+ to ignore the problematic first principal component because it is usually an
+ evaluative general factor (Dillon et al., 1984: 185). This strategy may be
+ appropriate to multifactor solutions, but in the case of the Fortune most
+ admired data set and its single-factor solution, ignoring the first principal
+ component leaves nothing on which to focus.
+
+ METHODS
+
+ The method we employed to remove the financial performance halo
+ from the Fortune ratings was a partialing-out strategy. We controlled for halo
+ statistically by forming a halo index, a set of variables believed responsible
+ for the presence of halo, and partialed the halo out of the ratings using a
+ two-step process. First, the variables of interest (in this case, Fortune attrib-
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1350 Academy of Management Journal October
+
+ ute ratings) were regressed against the halo index (in this case, various mea-
+ sures of recent financial performance). Coefficients generated in those re-
+ gressions were used to "model" each attribute, and firm-specific residuals
+ were calculated. These residuals (the portion of the Fortune ratings not
+ explained by prior financial performance) were the halo-removed attribute
+ ratings. As each attribute must be modeled separately, we performed the
+ above procedure eight times.
+
+ Sample Data
+
+ This study is based on 234 firms that met the following criteria: (1) They
+ were listed among "American's most admired corporations" in the February
+ 10, 1992, issue of Fortune. These were 1991 ratings since Fortune surveys are
+ conducted during the fall of the year prior to publication of the issue con-
+ taining the ratings. (2) Their financial data from the 1988-91 period were
+ available on the 1991 COMPUSTAT tape.
+
+ Halo Removal
+
+ Fombrun and Shanley (1990) and McGuire and colleagues (1990) found
+ strong correlations between the Fortune ratings and a number of financial
+ and operational performance measures. Our halo index includes individual
+ measures of corporate earnings, returns, growth, size, and risk, all of which
+ are commonly used to measure corporate performance in the strategy and
+ finance literature. Using multiple measures of financial performance would
+ raise problems of multicollinearity and detract from parsimony. Therefore,
+ we created our halo index using five financial and operating variables, com-
+ puted as follows: average return on assets (ROA) = (ROAit + ROAit - 1 +
+ ROAit - 2)/3; relative market to book value = market value/book valuefirm
+ over market value/book valueindustry; sales = logarithm of salesit; growth =
+ (percent change in salest + . . . + percent change in salest - 2)/3; and risk
+ = debtit/equityit. Several other variables commonly used in financial stud-
+ ies, including stock market returns, were excluded from our final model
+ since their results were not statistically significantly and did not add to the
+ model's explanatory power. Table 1 gives summary statistics and the corre-
+ lation matrix of the halo index variables and the raw Fortune attributes.
+
+ These financial performance measures were employed as independent
+ variables in regression analyses on the Fortune attribute ratings. Table 2
+ presents the results of the nine regressions, one for each of the eight attrib-
+ utes and one for the ratings combined. The regression of the combined For-
+ tune ratings on the halo index had an adjusted R2 of .55, slightly greater than
+ that reported by either McGuire and colleagues (1990) or Fombrun and
+ Shanley (1990). The highest explanatory power existed in the financial per-
+ formance attribute, soundness of financial position (59%). However, even
+ innovativeness, which one might expect to be less correlated with financial
+ performance, had an adjusted R2 of 36 percent. These findings provide fur-
+ ther evidence of the presence of a strong financial performance halo in the
+ Fortune attribute ratings. We calculated company-specific residuals from
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1994 Brown and Perry 1351
+
+ 1. ROA 0.04 0.04
+
+ 2. Relative market/book value 1.07 0.51 .59
+
+ 3. Sales 8.35 0.84 -.09 .03
+
+ 4. Growth 0.06 0.09 .29 .25 .02
+
+ 5. Risk 0.87 0.86 -.44 -.03 .11 .03
+
+ 9. Ability to attract talented
+
+ environment 6.14 0.76 .42 .46 .24 .11 -.33
+
+ 7. Innovativeness 6.12 0.95 .37 .50 .13 .34 -.23 .68
+
+ position 6.28 1.39 .56 .57 .16 .29 -.45 .77 .69
+
+ people 6.17 1.00 .48 .54 .21 .34 -.36 .81 .87 .90
+
+ TABLE 1
+
+ Correlations of Halo Index Variablesa
+
+ Variables Means s.d. 1 2 3 4 5 6 7 8 9 10 11 12
+
+ a N = 234. Financial variables were truncated to the .95/.05 percentiles to prevent the undue influence of outliers.
+
+ investment 6.08 1.16 .50 .59 .15 .37 -.32 .75 .82 .92 .95
+
+ 11. Quality of products 6.94 0.82 .40 .48 .17 .26 -.32 .79 .82 .77 .88 .82
+
+ 12. Quality of management 6.54 1.09 .45 .58 .09 .35 -.27 .71 .86 .84 .93 .94 .84
+
+ 13. Wise use of corporate assets 6.08 1.08 .50 .63 .10 .34 - .32 .74 .81 .91 .93 .95 .79 .95
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+ 
+6
+.
+ 
+R
+e
+s
+p
+o
+n
+s
+i
+b
+i
+l
+i
+t
+y
+ 
+t
+o
+ 
+c
+o
+m
+m
+u
+n
+i
+t
+y
+ 
+a
+n
+d
+ 
+8
+.
+ 
+S
+o
+u
+n
+d
+n
+e
+s
+s
+ 
+o
+f
+ 
+f
+i
+n
+a
+n
+c
+i
+a
+l
+ 
+1
+0
+.
+ 
+V
+a
+l
+u
+e
+ 
+a
+s
+ 
+a
+ 
+l
+o
+n
+g
+-
+t
+e
+r
+m
+
+ 1352 Academy of Management Journal October
+
+ TABLE 2
+
+ Results of Regression Analysesa
+
+ talented people (6.197) (3.363) (5.609) (5.267) (3.636) (-4.617)
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+ Fortune Rating Dimensions Intercept ROA Book Value Sales Growth Risk Adjusted R2
+
+ 
+R
+e
+l
+a
+t
+i
+v
+e
+ 
+M
+a
+r
+k
+e
+t
+/
+ 
+C
+o
+m
+b
+i
+n
+e
+d
+ 
+s
+c
+o
+r
+e
+ 
+3
+.
+5
+2
+9
+*
+*
+*
+ 
+5
+.
+2
+1
+0
+*
+*
+*
+ 
+0
+.
+7
+5
+4
+*
+*
+*
+ 
+0
+.
+2
+2
+7
+*
+*
+*
+ 
+1
+.
+6
+2
+2
+*
+*
+*
+ 
+-
+0
+.
+2
+8
+6
+*
+*
+*
+ 
+.
+5
+5
+ 
+(
+8
+.
+1
+6
+3
+)
+ 
+(
+3
+.
+6
+2
+0
+)
+ 
+(
+6
+.
+9
+2
+2
+)
+ 
+(
+4
+.
+4
+7
+7
+)
+ 
+(
+3
+.
+3
+2
+1
+)
+ 
+(
+-
+4
+.
+9
+5
+8
+)
+ 
+R
+e
+s
+p
+o
+n
+s
+i
+b
+i
+l
+i
+t
+y
+ 
+t
+o
+ 
+c
+o
+m
+m
+u
+n
+i
+t
+y
+ 
+a
+n
+d
+ 
+3
+.
+5
+2
+5
+*
+*
+*
+ 
+5
+.
+1
+7
+5
+*
+*
+*
+ 
+0
+.
+4
+2
+6
+*
+*
+*
+ 
+0
+.
+2
+5
+7
+*
+*
+*
+ 
+-
+0
+.
+5
+3
+4
+ 
+-
+0
+.
+1
+8
+8
+*
+*
+*
+ 
+.
+4
+1
+ 
+e
+n
+v
+i
+r
+o
+n
+m
+e
+n
+t
+ 
+(
+8
+.
+9
+8
+8
+)
+ 
+(
+3
+.
+9
+6
+5
+)
+ 
+(
+4
+.
+3
+1
+6
+)
+ 
+(
+5
+.
+5
+7
+8
+)
+ 
+(
+-
+0
+.
+2
+0
+6
+)
+ 
+(
+-
+3
+.
+5
+9
+9
+)
+ 
+I
+n
+n
+o
+v
+a
+t
+i
+v
+e
+n
+e
+s
+s
+ 
+3
+.
+8
+9
+8
+*
+*
+*
+ 
+3
+.
+1
+6
+6
+ 
+0
+.
+6
+5
+7
+*
+*
+*
+ 
+0
+.
+1
+7
+1
+*
+*
+ 
+2
+.
+1
+9
+3
+*
+*
+*
+ 
+-
+0
+.
+1
+9
+3
+*
+*
+ 
+.
+3
+6
+ 
+(
+7
+.
+5
+6
+4
+)
+ 
+(
+1
+.
+8
+4
+6
+)
+ 
+(
+5
+.
+0
+6
+2
+)
+ 
+(
+2
+.
+8
+2
+7
+)
+ 
+(
+3
+.
+7
+6
+6
+)
+ 
+(
+-
+2
+.
+8
+1
+4
+)
+ 
+S
+o
+u
+n
+d
+n
+e
+s
+s
+ 
+o
+f
+ 
+f
+i
+n
+a
+n
+c
+i
+a
+l
+ 
+p
+o
+s
+i
+t
+i
+o
+n
+ 
+2
+.
+3
+1
+8
+*
+*
+*
+ 
+8
+.
+4
+3
+9
+*
+*
+*
+ 
+0
+.
+9
+8
+5
+*
+*
+*
+ 
+0
+.
+3
+5
+3
+*
+*
+*
+ 
+1
+.
+5
+3
+2
+*
+ 
+-
+0
+.
+5
+4
+0
+*
+*
+*
+ 
+.
+5
+9
+ 
+(
+3
+.
+9
+9
+3
+)
+ 
+(
+4
+.
+6
+3
+8
+)
+ 
+(
+6
+.
+7
+3
+5
+)
+ 
+(
+5
+.
+1
+8
+6
+)
+ 
+(
+2
+.
+3
+3
+6
+)
+ 
+(
+-
+6
+.
+9
+6
+9
+)
+ 
+A
+b
+i
+l
+i
+t
+y
+ 
+t
+o
+ 
+a
+t
+t
+r
+a
+c
+t
+,
+ 
+d
+e
+v
+e
+l
+o
+p
+,
+ 
+a
+n
+d
+ 
+k
+e
+e
+p
+ 
+2
+.
+9
+3
+1
+*
+*
+*
+ 
+5
+.
+2
+9
+5
+*
+*
+*
+ 
+0
+.
+6
+6
+8
+*
+*
+*
+ 
+0
+.
+2
+9
+2
+*
+*
+*
+ 
+1
+.
+9
+4
+3
+*
+*
+*
+ 
+-
+0
+.
+2
+9
+1
+*
+*
+*
+ 
+.
+5
+0
+ 
+V
+a
+l
+u
+e
+ 
+a
+s
+ 
+a
+ 
+l
+o
+n
+g
+-
+t
+e
+r
+m
+ 
+i
+n
+v
+e
+s
+t
+m
+e
+n
+t
+ 
+2
+.
+9
+4
+9
+*
+*
+*
+ 
+5
+.
+4
+8
+8
+*
+*
+ 
+0
+.
+9
+2
+3
+*
+*
+*
+ 
+0
+.
+2
+4
+5
+*
+*
+*
+ 
+2
+.
+4
+7
+4
+*
+*
+*
+ 
+0
+.
+3
+1
+9
+*
+*
+*
+ 
+.
+5
+3
+ 
+(
+5
+.
+5
+6
+2
+)
+ 
+(
+3
+.
+1
+1
+0
+)
+ 
+(
+6
+.
+9
+1
+5
+)
+ 
+(
+3
+.
+9
+3
+5
+)
+ 
+(
+4
+.
+1
+3
+0
+)
+ 
+(
+-
+4
+.
+5
+0
+8
+)
+ 
+Q
+u
+a
+l
+i
+t
+y
+ 
+o
+f
+ 
+p
+r
+o
+d
+u
+c
+t
+s
+ 
+o
+r
+ 
+s
+e
+r
+v
+i
+c
+e
+s
+ 
+4
+.
+7
+7
+2
+*
+*
+*
+ 
+2
+.
+9
+7
+9
+*
+ 
+0
+.
+5
+5
+9
+*
+*
+*
+ 
+0
+.
+1
+9
+2
+*
+*
+*
+ 
+1
+.
+1
+7
+6
+*
+ 
+-
+0
+.
+2
+5
+5
+*
+*
+*
+ 
+.
+3
+8
+ 
+o
+f
+f
+e
+r
+e
+d
+ 
+(
+1
+0
+.
+9
+0
+6
+)
+ 
+(
+2
+.
+0
+4
+6
+)
+ 
+(
+5
+.
+0
+7
+4
+)
+ 
+(
+3
+.
+7
+3
+2
+)
+ 
+(
+2
+.
+3
+8
+0
+)
+ 
+(
+-
+4
+.
+3
+7
+6
+)
+ 
+Q
+u
+a
+l
+i
+t
+y
+ 
+o
+f
+ 
+m
+a
+n
+a
+g
+e
+m
+e
+n
+t
+ 
+4
+.
+1
+8
+8
+*
+ 
+*
+ 
+*
+ 
+4
+.
+9
+7
+0
+*
+ 
+*
+ 
+0
+.
+8
+7
+8
+*
+ 
+*
+ 
+*
+ 
+0
+.
+1
+5
+2
+*
+*
+ 
+0
+.
+2
+0
+4
+*
+*
+*
+ 
+-
+0
+.
+2
+3
+4
+*
+ 
+*
+ 
+*
+ 
+.
+4
+6
+ 
+(
+7
+.
+7
+9
+6
+)
+ 
+(
+2
+.
+7
+8
+0
+)
+ 
+(
+6
+.
+4
+9
+3
+)
+ 
+(
+2
+.
+4
+0
+9
+)
+ 
+(
+3
+.
+6
+3
+0
+)
+ 
+(
+-
+3
+.
+2
+7
+2
+)
+ 
+W
+i
+s
+e
+ 
+u
+s
+e
+ 
+o
+f
+ 
+c
+o
+r
+p
+o
+r
+a
+t
+e
+ 
+a
+s
+s
+e
+t
+s
+ 
+3
+.
+5
+5
+8
+*
+ 
+*
+ 
+*
+ 
+6
+.
+3
+1
+4
+*
+ 
+*
+*
+ 
+0
+.
+9
+0
+8
+*
+ 
+*
+ 
+*
+ 
+0
+.
+1
+6
+8
+*
+*
+ 
+1
+.
+8
+3
+1
+ 
+*
+ 
+0
+.
+2
+5
+8
+*
+ 
+*
+ 
+*
+ 
+.
+5
+5
+ 
+(
+7
+.
+3
+5
+7
+)
+ 
+(
+3
+.
+9
+2
+3
+)
+ 
+(
+7
+.
+4
+5
+3
+)
+ 
+(
+2
+.
+9
+5
+4
+)
+ 
+(
+3
+.
+3
+5
+2
+)
+ 
+(
+-
+4
+.
+0
+0
+6
+)
+ 
+a
+ 
+E
+a
+c
+h
+ 
+e
+q
+u
+a
+t
+i
+o
+n
+ 
+h
+a
+d
+ 
+2
+3
+4
+ 
+o
+b
+s
+e
+r
+v
+a
+t
+i
+o
+n
+s
+ 
+a
+n
+d
+ 
+t
+o
+o
+k
+ 
+t
+h
+e
+ 
+f
+o
+r
+m
+:
+ 
+R
+a
+t
+i
+n
+g
+ 
+=
+ 
+B
+o
+ 
++
+ 
+B
+j
+R
+O
+A
+ 
++
+ 
+B
+2
+R
+E
+L
+M
+V
+ 
++
+ 
+B
+3
+S
+A
+L
+E
+S
+ 
++
+ 
+B
+4
+G
+R
+O
+W
+T
+H
+ 
++
+ 
+B
+5
+R
+I
+S
+K
+ 
++
+ 
+e
+.
+ 
+U
+n
+s
+t
+a
+n
+d
+a
+r
+d
+i
+z
+e
+d
+ 
+c
+o
+e
+f
+f
+i
+c
+i
+e
+n
+t
+s
+ 
+a
+n
+d
+ 
+t
+-
+s
+t
+a
+t
+i
+s
+t
+i
+c
+s
+ 
+a
+r
+e
+ 
+s
+h
+o
+w
+n
+.
+ 
+*
+ 
+p
+ 
+<
+ 
+.
+0
+5
+ 
+*
+*
+ 
+p
+ 
+<
+ 
+.
+0
+1
+ 
+*
+*
+*
+ 
+p
+ 
+<
+ 
+.
+0
+0
+1
+
+ 1994 Brown and Perry 1353
+
+ models developed using the variables and coefficients given in Table 2.
+ These residuals are halo-removed ratings for each of the eight attributes,
+ appropriate for use in research in which financial performance is also a
+ variable of interest.
+
+ VALIDATION TESTS
+
+ To demonstrate the validity of the halo-removed ratings, we compared
+ the halo-removed rating on four of these Fortune attributes with indepen-
+ dent evaluations of corporate performance on similar attributes. We also
+ compared our halo-removed measures with those obtained using a common
+ factor process that removed most of the correlations among the Fortune
+ attributes. Our final test employed a criss-cross analysis to ensure that our
+ halo-removed attributes were meaningfully different from one another and
+ that each was the best measure of the construct it was supposed to measure.
+
+ Comparison with Independent Evaluations
+
+ Kinder, Lydenberg, Domini & Co., Inc. (KLD) applied a series of "social
+ screens," each composed of several individual, objective measures of a cor-
+ poration's social responsibility, to the hundreds of firms that it tracks. KLD,
+ an investment advisory service specializing in identifying socially respon-
+ sible companies for investors, used these measures to create the Domini 400
+ social index of corporations exhibiting social responsibility. Our database
+ had 196 companies that were included in both Fortune's 1992 most admired
+ companies list and the KLD database for 1991.
+
+ Each KLD measure of social responsibility is rated dichotomously (0 or
+ 1), so they are a coarse measures but adequate for validation purposes. From
+ the KLD screens, we selected items that appeared to measure at least a
+ portion of the Fortune attributes and formed scales to represent four of our
+ halo-removed attribute ratings. For our first two proxies, we summed the
+ chosen KLD measures, with strengths having positive values and concerns
+ having negative values, to obtain greater range. The last two proxies were
+ single-item scales with limited range.2
+
+ The scales formed were as follows: (1) Fortune's responsibility to the
+ community and environment was represented by community and environ-
+ ment, a scale formed from 23 KLD items. Given that the KLD database was
+ developed to track corporate social responsibility, the large number of items
+ in this scale is not surprising. (2) Fortune's ability to attract, develop, and
+ keep talented people was represented by five KLD items that we designated
+ employee relations. (3) For Fortune's quality of products or services, we
+
+ 2 Descriptions and summary statistics of the KLD measures are available upon request. We
+
+ chose items for their face validity. The two multiple-item scales are not reliable in a statistical
+ sense. The KLD scales are formed from dichotomous variables, which on the average are scored
+ 1 on only 8 percent of the observations. The range in the KLD data is very limited, and treating
+ individual items as continuous measures is questionable. And because the individual KLD
+ items measure specific attributes that are relatively independent but collectively measure a
+ single broad construct, such as responsibility to the community and environment, scale reli-
+ ability as measured by Cronbach's alpha can be expected to be low.
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1354 Academy of Management Journal October
+
+ Correlation of Halo-Removed Fortune Attribute Ratings and
+
+ KLD Proxiesa
+
+ TABLE 3
+
+ Variables Means s.d. 1 2 3 4 5 6 7
+
+ Fortune attributes
+
+ 1. Responsibility to
+
+ community and
+ environment .02 0.59
+
+ 2. Ability to attract
+
+ talented people .02 0.71 .66
+
+ 3. Quality of products
+
+ or services .01 0.65 .68 .82
+
+ 4. Innovativeness .01 0.78 .52 .80 .73
+
+ KLD scales
+
+ 5. Community and
+
+ environment -.39 1.89 .34 .20 .22 .14
+
+ 6. Employee relations .20 0.65 .29 .31 .25 .22 .24
+ 7. High-quality products .13 0.34 .30 .32 .37 .29 .07 .08
+ 8. Inventiveness .04 0.20 .09 .05 .06 .16 .12 .21 -.07
+
+ a N = 196.
+
+ used a single KLD item, "The company has a reputation for high quality
+ products or services relative to others in its industry." (4) For Fortune's
+ innovativeness, we also used a single KLD item, "The company is consis-
+ tently among the leaders in its industry in research and development (R&D)
+ expenditures as a percentage of sales, or the company has a reputation for
+ exceptional inventiveness in new product development."
+
+ Table 3 presents the correlations between the four halo-removed For-
+ tune attributes and their corresponding KLD social screen proxies. We per-
+ formed a series of four simple regression analyses of the halo-removed at-
+ tributes on their corresponding KLD proxies. The regression for responsibil-
+ ity to the community and environment had an R2 of .11; for ability to attract,
+ develop, and keep talented people, the R2 was .09; for quality of products or
+ services, the R2 was .13; and for innovativeness, the R2 was .02.3 Results of
+ the first three regressions were significant at p < .0001, and the innovative-
+ ness equation was significant at p = .02. We concluded that these regression
+ analyses supported the validity of the halo removal process and the halo-
+ removed measures.4
+
+ 3The explanatory power of each regression analysis was limited by the relatively small
+ number of positive observations on most of the KLD database items. For instance, only eight
+ companies (about 4%) were rated as particularly innovative.
+
+ 4Regression analyses of the raw Fortune attributes (before halo removal) on the same four
+ KLD proxy variables also yielded significant results. Two of the four raw regressions had about
+ the same explanatory power (adjusted R2) as our halo-removed variables. The raw scores for the
+ third, quality of product, explained less of the variance than our halo-removed variable (8% vs.
+ 13%) and ability to attract, develop, and keep talented people explained more than our halo-
+ (continued)
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1994 Brown and Perry 1355
+
+ Comparison with the Common Factor Removal Method
+
+ We examined a different approach to removing halo distortions by tak-
+ ing advantage of the single-factor structure of the Fortune data. The corre-
+ lations among dimensions are attributed to a general or common factor (Jack-
+ son, 1983). The portion of a corporation's rating on a dimension not ex-
+ plained by the common factor is assumed to be specific to that dimension.
+ Factor ratings can be used to develop an expectations model, the residuals of
+ which are the dimensions or attribute ratings purged of the common factor,
+ or halo. This common factor removal method is designed to remove all the
+ shared variance captured by that first principal component.
+
+ In this sample factor analytic model, a company's rating on any attribute
+
+ (Zjj) is the sum of three components: Zij = a?fi + mi + djuij, where i iden-
+ tifies a company, j identifies an attribute, aj represents the loading of the jth
+ attribute on the common factor, fi represents the factor scores of the indi-
+ vidual company, mj is the mean score for all companies on attribute j, dj is
+ a constant across all companies for the jth attribute, and uij is an unobserved
+ variable, both company-specific and attribute-specific. The individual com-
+ panies' attribute-specific scores, djuij, can be determined from the above
+ equation (djuij = Zij - ajfi - mj) and can be considered halo-removed
+ measures.
+
+ The assumption underlying this model is that the true constructs are
+ independent and uncorrelated. But the apparent purity of the measures ob-
+ tained using this technique can present a problem; often a researcher sus-
+ pects that the underlying constructs are correlated. For instance, in analyz-
+ ing Fortune's most admired companies, it is reasonable to assume some
+ "construct content overlap" (Spector, 1987) among even such nonfinancial
+ variables as quality of management, ability to attract, develop, and keep
+ talented people, and innovativeness. Good management may be reflected in
+ progressive personnel policies and a record of innovation. Use of the com-
+ mon factor removal technique will treat what may well be construct content
+ overlap as measurement error and eliminate it, sacrificing potentially useful
+ information. However, we demonstrate the common factor removal process
+ and compare its results with those of our preferred method of halo removal.
+ Correlation tables can illustrate some differences between our method
+ and the common factor removal method. Table 4 presents three correlation
+ matrixes in one: correlations of the raw Fortune rankings appear in plain
+ type; those for the halo-removed variables derived from our method appear
+ in parentheses; and those for the variables obtained from the common factor
+ removal process appear in italics. We made no attempt to show correlations
+
+ removed variable (15% vs. 11%). But in most research using these attribute ratings, the point is
+ not to demonstrate their validity, but to measure their effects on other variables, frequently
+ those measuring financial performance. Even though our halo-removed measures did not al-
+ ways explain more of the variance of the KLD screens than their associated raw measures, it
+ would be ill-advised to perform analyses with the latter as they are so heavily influenced by
+ financial performance.
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1356 Academy of Management Journal October
+
+ Correlations of Fortune Attribute Ratingsa
+
+ TABLE 4
+
+ Variables Means s.d. 1 2 3 4 5 6 7
+
+ 1. Responsibility 6.14 0.76
+ to community (.01) (.58)
+ and environment -.01 .47
+
+ 2. Innovativeness 6.12 0.95 .68
+ (.00) (.76) (.53)
+ .03 .45 - .15
+
+ 3. Soundness of 6.28 1.39 .77 .69
+ financial (.00) (.85) (.58) (.47)
+ position - .09 .64 - .21 - .62
+
+ 4. Ability to 6.17 1.00 .81 .87 .90
+ attract, develop (.00) (.69) (.68) (.80) (.79)
+ and keep .04 .02 -.02 .09 -.13
+ talented people
+
+ 5. Value as a 6.08 1.16 .75 .82 .92 .95
+ long-term (.01) (.78) (.59) (.68) (.84) (.89)
+ investment - .00 .31 - .51 - .34 .41 - .13
+
+ 6. Quality of 6.94 0.82 .79 .82 .77 .88 .82
+ products or (.01) (.64) (.67) (.72) (.59) (.80) (.69)
+ services .04 .40 .31 .17 - .51 .02 - .54
+
+ 7. Quality of 6.54 1.09 .71 .86 .84 .93 .94 .84
+ management (.01) (.78) (.55) (.77) (.71) (.89) (.88) (.73)
+ -.02 .32 -.58 .08 -.23 -.13 .19 -.25
+
+ 8. Wise use of 6.08 1.08 .74 .81 .91 .93 .95 .78 .95
+ corporate (.01) (.71) (.57) (.67) (.82) (.86) (.90) (.62) (.91)
+ assets -.01 .31 -.38 .31 .25 -.26 .37 -.61 .42
+
+ a N = 234. Raw Fortune attribute correlations are shown in roman type. Halo-removed
+ attribute correlations are in parentheses. Attributes developed using the common factor removal
+ process are in italics.
+
+ among the raw variables and the two types of halo-removed variables. Using
+ our preferred method, we reduced correlations by an average of 13.3 percent.
+ The common factor removal process greatly reduced correlations, leaving
+ many negative values.
+
+ As expected, our controlled halo removal technique (it is controlled in
+ that we are removing only the financial performance halo from the measure-
+ ments) yielded measures that are much more closely associated with the
+ independent proxy variables than those obtained using the common factor
+ removal process. We conducted regression analyses using variables with
+ common factors removed for responsibility to the community and environ-
+ ment, ability to attract, develop, and keep talented people, quality of prod-
+ ucts or services, and innovativeness on our associated KLD social screen
+ proxies, but only the results for innovativeness were significant, explaining
+ 2 percent of the variance-about the same amount our preferred method had
+ explained (results are available upon request). Kemery and Dunlap used
+ Monte Carlo techniques to show that partialing out the first factor to remove
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1994 Brown and Perry 1357
+
+ method variance can introduce spurious negative correlations and "thor-
+ oughly confound subsequent analysis" (1986: 529). Our results support their
+ findings. Therefore, we consider our halo removal process, which removes
+ only the known financial performance halo, not all correlations with other
+ attributes, superior.
+
+ Further Validation Using a Criss-Cross Design
+
+ Another test of validity employed a criss-cross design (Seltzer & Bass,
+ 1990). If our halo-removed measures are to be useful, each must explain
+ more of the variance of the corresponding proxy we developed from the KLD
+ social screens than do any of the other halo-removed Fortune attributes.
+ Some explanatory power from the crossed regression equations is acceptable
+ given the assumed construct content overlap, but the appropriate equations
+ should have more explanatory power. In every case, we found that regres-
+ sions of the appropriate halo-removed Fortune attributes on their corre-
+ sponding KLD social screens explained more variance than regressions of
+ crossed or mismatched Fortune attributes on the KLD social screens (results
+ are available upon request). We concluded that the criss-cross tests further
+ support the validity of our halo removal procedure.
+
+ CONCLUSIONS
+
+ This article demonstrates the extent to which financial performance
+ influences the ratings of Fortune's most admired companies and presents a
+ technique for removing that halo to derive the underlying construct. In our
+ research, we validated that technique by demonstrating a strong association
+ between four of the halo-removed variables and proxy variables developed
+ from another data source (Kinder, Lydenberg, Domini & Co.) and by dem-
+ onstrating our method's superiority to the common factor removal and criss-
+ cross design processes. Researchers wishing to use Fortune's ratings for at-
+ tributes that can be theoretically distinguished from financial performance
+ should remove the financial performance halo before using the data, espe-
+ cially if they are testing the impact of one or more of these attributes on
+ corporate financial performance or stock market returns. If the financial
+ performance halo is not removed, the use of the Fortune most admired
+ company attributes will confound results. We suggest that the halo-removed
+ technique demonstrated in this article is generalizable beyond its current use
+ and that researchers consider its application before using measures derived
+ from any survey results that may be heavily influenced by factors extraneous
+ to the construct of interest.
+
+ We suspect that the high correlations that remained after removal of the
+ financial performance halo were largely the result of construct content
+ overlap; many of the attributes are similar or theoretically related and
+ would be expected to be correlated. The superior performance of our halo-
+ removed measures (relative to the measures developed using the common
+ factor removal process) in explaining the independent proxy variables sup-
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1358 Academy of Management Journal October
+
+ ports this notion. However, we also suspect that an additional halo not
+ influenced by financial performance may exist in the Fortune data, a halo
+ related to the construct of corporate reputation sought by Fombrun and
+ Shanley (1990: 245). The factors that drive this possible corporate reputation
+ halo and that halo's potential for confounding other research will be left for
+ future investigations, but researchers should recognize those possibilities
+ when using halo-removed measures in their research.
+
+ Our results suggest several areas for future research. First, it would be
+ useful if others would revalidate this technique by removing the financial
+ performance halo from the Fortune database using other independent mea-
+ sures. In addition, it would be interesting to see the technique applied to
+ databases other than Fortune's survey. And finally, we would like to see
+ halo-removed variables used in other research.
+
+ Practicing managers should realize that the Fortune most admired com-
+ panies rankings, although entertaining (especially if your company is highly
+ regarded), are strongly driven by prior financial performance. Ratings of
+ companies on single dimensions are not particularly informative because of
+ that financial performance halo.
+
+ REFERENCES
+
+ Ballen, K. 1992. America's most admired corporations. Fortune, 125(3): 40-72.
+
+ Beckwith, N., & Lehmann, D. 1975. The importance of halo effects in multi-attribute attitude
+
+ models. Journal of Marketing Research, 10: 262-269.
+
+ Chakravarthy, B. 1986. Measuring strategic performance. Strategic Management Journal, 7:
+
+ 437-458.
+
+ Chen, M-J., Fahr, J-L., & MacMillan, I. 1993. An exploration of the expertness of outside infor-
+
+ mants. Academy of Management Journal, 36: 1614-1632.
+
+ Cooper, W. 1981. Ubiquitous halo. Psychological Bulletin, 90: 218-244.
+
+ Dillon, W., Mulani, N., & Frederick, D. 1984. Removing perceptual distortions in product space
+
+ analysis. Journal of Marketing Research, 21: 184-193.
+
+ Fombrun, C., & Shanley, M. 1990. What's in a name? Reputation building and corporate strat-
+
+ egy. Academy of Management Journal, 33: 233-258.
+
+ Holbrook, M. 1983. Using a structural model of halo effect to assess perceptual distortion due
+
+ to affective overtones. Journal of Consumer Research, 10: 247-252.
+
+ Jackson, B. 1983. Multivariate data analysis: An introduction. Homewood, IL: Irwin.
+
+ Kemery, E, & Dunlap, W. 1986. Partialing factor scores does not control method variance: A
+
+ reply to Podsakoff and Todor. Journal of Management, 12: 525-544.
+
+ McGuire, J., Schneeweis, T., & Branch, B. 1990. Perceptions of firm quality: A cause or result of
+
+ firm performance. Journal of Management, 16: 167-180.
+
+ McGuire, J., Sundgren, A., & Schneeweis, T. 1988. Corporate social responsibility and firm
+
+ financial performance. Academy of Management Journal, 31: 854-872.
+
+ Myers, J. 1965. Removing halo from job evaluation factor structure. Journal of Applied Psy-
+
+ chology, 49: 217-221.
+
+ O'Bannon, D., & Preston, L. 1993. Corporate social responsibility and firm financial perfor-
+ mance relationships: A typology and analysis of possible relationships. Paper presented
+ at the annual meeting of the Academy of Management, Atlanta.
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 1994 Brown and Perry 1359
+
+ Pulakos, E., Schmitt, N., & Ostroff, C. 1986. A warning about the use of a standard deviation
+ across dimensions within ratees to measure halo. Journal of Applied Psychology, 71:
+ 29-32.
+
+ Seltzer, J., & Bass, B. 1990. Transformational leadership: Beyond initiation and consideration.
+
+ Journal of Management, 16: 693-703.
+
+ Sharfman, M. 1993. A construct validity study of the KLD social performance ratings data. In J.
+ Pasquero & D. Collins (Eds.), Proceedings of the Fourth Annual Meeting of the Interna-
+ tional Associations for Business and Society: 551-558. Madison, WI: Omnipress.
+
+ Spector, P. 1987. Method variance as an artifact of self-reported affect and perception at work:
+
+ Myth or a significant problem? Journal of Applied Psychology, 72: 438-443.
+
+ Thorndike, E. 1920. A constant error in psychology ratings. Journal of Applied Psychology, 4:
+
+ 25-29.
+
+ Brad Brown (Ph.D, University of Washington) is an assistant professor in the manage-
+ ment area at the McIntire School of Commerce, University of Virginia. His current
+ research interests include corporate social responsibility and entrepreneurial networks.
+
+ Susan Perry (Ph.D, University of Wisconsin-Madison) is an assistant professor in the
+ accounting area at the McIntire School of Commerce, University of Virginia. Her current
+ research interests include earnings management and corporate social responsibility.
+
+This content downloaded from 152.15.47.133 on Sun, 26 Feb 2017 21:14:18 UTC
+
+All use subject to http://about.jstor.org/terms
+

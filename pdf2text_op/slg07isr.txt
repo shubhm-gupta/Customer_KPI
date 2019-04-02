@@ -1,0 +1,2521 @@
+This article was downloaded by: [131.193.251.47] On: 02 August 2017, At: 11:39
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+
+Information Systems Research
+
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+IS Application Capabilities and Relational Value in
+Interfirm Partnerships
+
+Nilesh Saraf, Christoph Schlueter Langdon, Sanjay Gosain,
+
+To cite this article:
+Nilesh Saraf, Christoph Schlueter Langdon, Sanjay Gosain,  (2007) IS Application Capabilities and Relational Value in Interfirm
+Partnerships. Information Systems Research 18(3):320-339. https://doi.org/10.1287/isre.1070.0133
+
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+
+Copyright © 2007, INFORMS
+
+Please scroll down for article—it is on subsequent pages
+
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.org
+
+
+Information Systems Research
+Vol. 18, No. 3, September 2007, pp. 320–339
+issn 1047-7047(cid:1) eissn 1526-5536(cid:1) 07(cid:1) 1803(cid:1) 0320
+
+informs ®
+
+doi 10.1287/isre.1070.0133
+© 2007 INFORMS
+
+IS Application Capabilities and Relational
+
+Value in Interﬁrm Partnerships
+
+Nilesh Saraf
+
+Faculty of Business Administration, Simon Fraser University, 8888 University Drive,
+
+Burnaby, British Columbia, Canada V5A 1S6, nsaraf@sfu.ca
+
+Christoph Schlueter Langdon
+
+Center for Telecom Management, University of Southern California, 444 South Flower Street,
+
+Los Angeles, California 90089, clangdon@marshall.usc.edu
+
+Capital Group Companies, Inc., 16370 Barranca Parkway, Irvine, California 92618, gosain@gmail.com
+
+Sanjay Gosain
+
+This study examines how capabilities of information systems (IS) applications deployed in the context of
+
+interﬁrm relationships contribute to business performance. We propose that these capabilities augment the
+relational value that a ﬁrm derives from its business partners—channel partners and customer enterprises—in
+the context of the distribution channel. Two cospecialized relational assets are considered as key to realization of
+relational value—knowledge sharing and process coupling. Hypotheses linking two IS capabilities (IS ﬂexibility
+and IS integration) to the relational asset dimensions, and ultimately to ﬁrm performance, are proposed. The
+research model is tested based on data collected through a survey of business units of enterprises embedded in
+customer and channel partner ties in the high-tech and ﬁnancial services industries. We ﬁnd that IS integration
+with channel partners and customers contributes to both knowledge sharing and process coupling with both
+types of enterprise partners, whereas IS ﬂexibility is a foundational capability that indirectly contributes to value
+creation in interﬁrm relationships by enabling greater IS integration with partner ﬁrms. We ﬁnd that two types
+of relational assets are signiﬁcantly associated with business performance—knowledge sharing with channel
+partners and process coupling with customers—pointing to underlying mechanisms that differentially leverage
+resources of different types of channel partners. Implications for theory development and practice based on
+these ﬁndings are proposed.
+Key words: interorganizational information systems; competitive impacts of IS; strategic management of IT;
+
+IS applications management; relational value; marketing channels
+
+History: Robert Zmud, Senior Editor. This paper was received on August 15, 2005, and was with the authors
+
+9 months for 3 revisions.
+
+Introduction
+
+1.
+Researchers have proposed the relational view of
+the ﬁrm as an extension of
+the resource-based
+view. The relational view suggests that, rather than
+being fully housed internally, a ﬁrm’s critical re-
+sources may also span its boundaries and may be
+embedded in interﬁrm routines and processes (Dyer
+and Singh 1998). Increasingly, IS applications are
+being used to enable interorganizational relation-
+ships (Hagel and Brown 2005, Schlueter Langdon
+2003b). For example, ﬁrms such as Cisco and Dell
+have created an extended enterprise network on
+which they depend for their core value creation
+(Häcki and Lighton 2001). This network consists
+
+of a variety of external entities, including contract
+manufacturers, suppliers, subcontractors, and resource
+planners—all
+through IS
+applications.
+
+linked to one another
+
+Our objective is to understand the sources of busi-
+ness value from information technology (IT) deployed
+in the context of interorganizational relationships. In
+particular, greater attention is now paid to IS applica-
+tions as the layer in the IT infrastructure stack that is
+in most direct contact with IT users within ﬁrms (Weill
+and Vitale 1999). However, despite organizational
+efforts toward IT standardization, signiﬁcant hetero-
+geneity persists at the IS applications level because
+of factors such as the rapid changes in the business
+
+320
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+321
+
+environment and products markets, as well as mergers
+and acquisitions activity (Markus 2000). Although the
+role of interorganizational ISs in supporting process
+coordination in the extended enterprise is well under-
+stood, recent studies have also begun to characterize
+IS applications1 as enabling knowledge-based pro-
+cess linkages with partners and thus value creation
+(Malhotra et al. 2005, Sambamurthy et al. 2003). To
+better characterize such value, we use the term rela-
+tional value to refer to the economic rents generated
+within a relationship by unique combinations of com-
+plementary relation-speciﬁc resources that partnering
+ﬁrms bring to bear (Dyer and Singh 1998). A ﬁrm’s
+IS applications base provides a platform for this com-
+bination of resources to occur and thus yields rela-
+tional value (Bensaou and Venkatraman 1996). Given
+that organizations today face increasing scrutiny with
+respect to their IT investments, it is imperative to
+establish if and which speciﬁc characteristics of the IS
+applications contribute to better ﬁrm performance by
+enhancing relational value.
+
+An emerging body of IS literature suggests the need
+to characterize IT investments in terms of IS capabil-
+ities. The IS capability of an organization is its abil-
+ity to combine IS components (resources) and direct
+efforts toward achieving business objectives or capi-
+talizing on business opportunities (Bharadwaj 2000).
+For an organization aiming to leverage its IT assets
+for managing its interﬁrm relationships, IS capabili-
+ties have to be developed to address relational chal-
+lenges such as those that arise in the face of business
+ﬂuctuations (e.g., changes in business partners, inter-
+ﬁrm transaction volumes, product or process adapta-
+tions) or those that arise from the lack of integration
+of information across business partners.
+
+Studies have started to examine the relational value
+of well-designed IS applications, but there tends to
+be a selective focus on speciﬁc capabilities, such as
+IT integration (Rai et al. 2006) or IT ﬂexibility (Byrd
+and Turner 2001, Ray et al. 2005). On the one hand,
+research on IS in supply chains has shown that IT
+can lead to “electronic integration” (Hart and Estrin
+
+1991). On the other hand, research also suggests that
+IS integration is not unequivocally beneﬁcial (Gosain
+et al. 2004). Highly partner-speciﬁc IT investments
+face the risk of lock-in because they lose their value if
+the relationship is terminated (Hart and Estrin 1991).
+Therefore, apart from IS integration, particularly, in
+business markets, we highlight the importance of the
+ﬂexibility of IS applications.
+
+Additionally, very few studies focus on more than
+one type of interﬁrm relationship, be it with suppli-
+ers, customers, or channel partners. In reality, ﬁrms
+conﬁgure their relational networks to include all three
+types of entities; and depending on the business con-
+tingencies, they place differing emphases on generat-
+ing relational value in these partnerships (Sa Vinhas
+and Anderson 2005). This aspect limits the general-
+izability of prior studies and thus limits the under-
+standing of the role of IT in the extended enterprise.
+So although linking the IS applications with a sin-
+gle partner maybe beneﬁcial for an enterprise, more
+realistically, extracting business value from IT invest-
+ments in multiple business-to-business (B2B) relation-
+ships appears to be signiﬁcantly more challenging.
+Finally, as recommended in the IS literature (Barua
+et al. 1995), we will identify appropriate mediating
+mechanisms to understand the role of IS capabilities
+on relational value. We pose the following research
+questions: How do a ﬁrm’s IS application capabilities
+enable relational value to be derived in conjunction with
+its business partners? What mediating mechanisms lead to
+the creation of relational value? Do these effects vary across
+types of business partnerships?
+
+The rest of the paper is organized as follows. The
+following section presents the theoretical develop-
+ment with two subsections that describe the rela-
+tional assets followed by the hypotheses linking these
+dimensions to ﬁrm performance. The next subsec-
+tion conceptualizes the capabilities of the IS applica-
+tions salient to the extended enterprise and proposes
+hypotheses relating them to the relational assets. Sec-
+tion 3 describes the operationalization of constructs
+and data collection. Section 4 presents the results of
+our analysis, followed by the discussion and limita-
+tions in §5 and implications in §6.
+
+1 By the term IS application we mean a piece of software function-
+ality that is developed and installed on speciﬁc IT platform(s) to
+perform a set of one or more business tasks independently of other
+surrounding IS components.
+
+2. Theory Development
+Because our study addresses value-creation activity
+at the interﬁrm level, the mediating constructs of
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+322
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+interest to this study pertain to the relationship net-
+work of enterprises. The term network is conceptually
+broad, but we draw on a ﬁner conceptualization of the
+relationship network (Lorenzoni and Lipparini 1996)
+that proposes that organizations deliberately shape
+and design a narrower set of tightly related partners.
+The intensity of exchanges is greater and the con-
+tent of exchanges within this select network is richer
+and more varied than in other ties. In this study,
+these select relationships are seen as constituting the
+extended enterprise for a ﬁrm. Further, some enterprises
+may focus more on generating value through their
+customer relationships compared with their channel
+partner relationships, whereas others may place more
+emphasis on channel partner relationships (Sa Vinhas
+and Anderson 2005). This deliberate conﬁguring of a
+relationship network also occurs in the supply chain
+of a ﬁrm as it maintains closer relationships with dis-
+tributors and dealers of production inputs, compared
+with manufacturers (Weiss and Kurland 1997). Fig-
+ure 1 depicts our conceptual model, which includes
+the two speciﬁc types of relational assets: interﬁrm
+knowledge sharing and process coupling with chan-
+nel partners and customers. Relational assets medi-
+ate the link between capabilities of the IS applications
+and business unit (BU). It is important to note that in
+our theory development, we conceptualize relational
+value not within a (single) dyad, but we aggregate
+the relational value across a ﬁrm’s key relationships.
+We do this for two reasons. One, aggregation across
+multiple relationships allows us to better understand
+the role of IS application capabilities, because IS appli-
+cations are intended to help manage the vagaries of
+multiple relationships. Further, an “aggregate view”
+of relational value is also useful empirically in trac-
+ing the link between relational assets and business
+
+Figure 1
+
+Conceptual Model
+
+BU level
+
+IS application
+capabilities
+
+Cospecialized
+relational assets
+Knowledge sharing
+with customers and
+channel partners
+
+Process coupling
+with customers and
+
+channel partners
+
+BU
+
+performance
+
+performance. Therefore, even though the concept of
+relational value was initially proposed at a dyadic
+level (Dyer and Singh 1998), we draw on this litera-
+ture to support our theory development in the context
+of the favored trading partners of a focal ﬁrm.
+
+Our conceptual model (Figure 1) is proposed in the
+context of operational relationships between ﬁrms,
+their customers, and their channel partners. Dyer
+and Singh’s (1998) framework of relational value
+and its antecedents is general enough to apply to
+a variety of interﬁrm relationships, including scien-
+tiﬁc alliances (e.g., to share know-how) and marketing
+alliances (e.g., for market expansion). In IS research,
+these insights have been used to understand supply
+chain relationships, for example (Malhotra et al. 2005).
+Therefore, the speciﬁc context of our study allows us
+to exclude strategic antecedents such as complemen-
+tary resources (and capabilities), effective governance
+of relationships, partner scarcity, resource indivisibil-
+ity, and institutional environment. These antecedents
+are a part of Dyer and Singh’s framework as well
+but are more salient to other types of relationships
+such as joint ventures and R&D collaborations. How-
+ever, the relational assets in our framework closely
+map to Dyer and Singh’s 1998 constructs: interﬁrm
+knowledge sharing routines, relation-speciﬁc assets,
+and interﬁrm asset interconnectedness. Therefore, our
+framework with two mediating constructs of inter-
+ﬁrm knowledge sharing and process coupling is con-
+veniently sparse to be tested and at the same time is
+theoretically grounded.
+
+The unit of analysis in this study is a BU of a
+multiunit enterprise performance—where a BU typi-
+cally focuses on a single (or select) industry segments
+or products of large diversiﬁed ﬁrms (per Mendel-
+son and Pillai’s [1998] deﬁnition of a BU). By focus-
+ing on a BU, we can focus on explaining variance
+in performance that can be speciﬁcally attributed
+to relational value generated through its relation-
+ships and eliminate countervailing effects that are
+due to aggregation across units at the corporate level
+that can mask underlying effects. A similar approach
+was taken in some earlier studies where one of the
+purposes behind selecting the BU level of analysis
+was to avoid the confounding effects of divergent
+business strategies (Chan et al. 1997, Massetti and
+Zmud 1996, Mendelson and Pillai 1998). Borrowing
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+323
+
+from Venkatraman and Ramanujam (1986), we deﬁne
+business performance as organizational effectiveness
+of a BU in terms of its ﬁnancial and operational
+performance relative to its competitors. In strategy
+literature, performance is deﬁned depending on the
+stakeholder. Therefore, our theory development is
+based on the assumption that BUs are sufﬁciently
+independent of the corporate managers to be able to
+direct their IS investments and their interactions with
+customers and channel partners and thus inﬂuence
+their own performance.
+
+2.1.
+
+Interﬁrm Knowledge Sharing and
+Firm Performance
+Firms attach signiﬁcant
+importance to knowledge
+sharing with business partners because they derive
+competitive advantage from knowledge resources
+embedded in their key interﬁrm relationships (Loren-
+zoni and Lipparini 1996). Depending on the business
+domain of the relationship, the content of knowledge
+exchanges varies. For instance, the major subcon-
+tractors in the Toyota network intensely exchanged
+knowledge about best practices and new produc-
+tion methods that subsequently led to a quantum
+improvement in the quality of Toyota products (Dyer
+and Nobeoka 2000). Similarly, in the sales channel
+context it is known that the knowledge gleaned from
+the key sales channel partners (distributors, logistics
+providers, retailers) contributes signiﬁcantly to ﬁrm
+performance (Day 1994).
+
+We deﬁne interﬁrm knowledge sharing as the ex-
+tent to which an enterprise shares insights and know-
+how about its business context with its partners.
+Direct knowledge sharing with key customers will
+help a ﬁrm better understand market needs. Knowl-
+edge sharing with key channel partners will help the
+ﬁrm ﬁne tune product offerings in conjunction with
+other ﬁrms that can help serve these needs (Weiss and
+Kurland 1997). Both these types of knowledge shar-
+ing will also lead to other outcomes, such as better
+responsiveness to customer needs, leading to greater
+customer satisfaction and loyalty (Narus and Ander-
+son 1996), resulting in gains in long-term ﬁnancial
+performance. Hence, we propose that:
+
+Hypothesis 1A (H1A). Knowledge sharing with cus-
+
+tomers positively affects BU performance.
+
+Hypothesis 1B (H1B). Knowledge sharing with chan-
+
+nel partners positively affects BU performance.
+
+2.2.
+
+Interﬁrm Process Coupling and
+Firm Performance
+
+Process coupling refers to the intermeshing of activi-
+ties of a focal ﬁrm with its business partners such that
+processes spanning ﬁrm boundaries are operationally
+integrated. It is an outcome of coordinated inter-
+ﬁrm activities such that each ﬁrm works to accom-
+plish its set of collective tasks (Van de Ven et al.
+1976). This concept is similar to operational integra-
+tion (Robicheaux and Coleman 1994), which is indi-
+cated by joint actions and quicker assistance with
+exception handling, whereas low operational
+inte-
+gration is characterized by one-shot exchanges with
+reduced or no interaction or assistance after the trans-
+action is complete.
+
+Process coupling is derived in part from asset inter-
+connectedness—where partners link their processes,
+thus adding some degree of speciﬁcity to the relation-
+ship or cospecialization in the degree to which a ﬁrm
+invest in assets speciﬁc to its relationships with key
+trading partners (Dyer and Singh 1998). A tightly cou-
+pled system consists of interdependent elements so
+joined that a disturbance in any one element requires
+a readjustment in other elements (Orton and Weick
+1990). As against a decoupled system, tight coupling
+also requires a merging of the elements such that they
+lose their distinctiveness. Drawing from this concep-
+tualization, a tightly coupled (or coordinated) busi-
+ness process between a seller and a customer is one
+in which the seller responds to the idiosyncrasies in
+the customer’s processes. Process coupling, however,
+may or may not be associated with sharing of knowl-
+edge that is more strategic in nature.
+
+Past studies suggest that process coupling is chal-
+lenging and takes signiﬁcant time and resources. If a
+ﬁrm wants to terminate a given relationship and initi-
+ate a relationship with another ﬁrm, it will again have
+to restructure its interfaces with the new partner and
+make the required organizational changes (Gosain
+et al. 2004). Further, an initial level of relation-speciﬁc
+investment makes additional relation-speciﬁc invest-
+ment more viable. This is so especially in the key
+B2B relationships of ﬁrms. Such relationships involve
+a process of continuous enactment of routines and
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+324
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+thus result in experiential learning. Partners engage
+in “congruent sense making” processes to result in an
+incremental adaption of their processes (Ring and Van
+de Ven 1994). It is this path-dependent nature of pro-
+cess coupling that provides competitive advantage to
+ﬁrms by precluding quick imitation and replication
+by competitors (Dyer and Singh 1998).
+
+Tightly coupled relationships become a source of
+value to partners because they form the basis on
+which their joint capabilities are exploited (Dyer and
+Singh 1998). For example, highly coupled channel
+partners can help a supplier launch and market
+newer products swiftly in response to competitive
+moves (Van Camp 2004), or they can provide a quick
+response to customer problems (El Sawy and Bowles
+1997). This is not to argue that coupling processes
+tightly with their partners is unequivocally beneﬁ-
+cial to ﬁrms, because that may constrain them oper-
+ationally in executing their strategic plans (Gosain
+et al. 2004). However, overall, the importance of pro-
+cess coupling as a cospecialized relational asset is evi-
+dent from past instances of failures of collaborative
+agreements, attributed to coordination or communica-
+tion breakdowns at organizational boundaries (Tucker
+2004).
+
+In sales channel relationships, process coupling
+can take the form of channel partners setting aside
+inventory to satisfy preferred customers or sellers
+adjusting their production schedule to accommo-
+date the demand from preferred channel partners
+and customers, instant rerouting of shipments, rapid
+repricing of product bundles to favor the customers,
+etc. Such adaptations take place seamlessly and with-
+out delay, as in the case of Enterprise Rent-A-Car’s
+implementation of an automated rental management
+system (ARMS) (Premkumar et al. 2004). This has
+tangibly increased Enterprise’s market share in the
+B2B insurance segment. Hence, we propose that:
+
+Hypothesis 2A (H2A). Process coupling with cus-
+
+tomers positively affects BU performance.
+
+Hypothesis 2B (H2B). Process coupling with channel
+
+partners positively affects BU performance.
+
+IS Application Capabilities
+
+2.3.
+As IT increasingly enables interﬁrm relationships, IS
+application capabilities are an obvious set of orga-
+nizational variables that need to be managed. The
+
+IS literature suggests that the outcomes of myriad
+IS management processes—such as standardization
+initiatives (Dewan et al. 1995), enterprise software
+implementations (Markus 2000), and incremental IS
+development and maintenance—can be expressed in
+terms of the overall IS application capability con-
+structs (Sambamurthy et al. 2003, Schlueter Lang-
+don 2006), such as the reach-range framework (Keen
+1991), interface integration in the EDI context (Tru-
+man 2000), or IT infrastructure integration (Rai et al.
+2006).
+
+In literature the two capabilities of IS integration
+and IS ﬂexibility can be viewed as representing efﬁ-
+ciency and ﬂexibility, which conceptually are consid-
+ered as at odds with each other (Adler et al. 1999).
+This mirrors the paradox between the need for adapt-
+ability in interﬁrm links versus the need to maintain
+rich integration (Gosain et al. 2004). Therefore, consid-
+ering both these constructs in our model is essential
+if we want to test our intuition that IS ﬂexibility and
+IS integration together balance an organization’s need
+to maintain adaptable electronic links with multiple
+business partners and at the same time maintain suf-
+ﬁcient richness in the electronic links so as to support
+creation of relational assets.
+
+IS Integration
+
+2.4.
+We deﬁne IS integration as the extent to which the
+IS applications of a focal ﬁrm work as a functional
+whole in conjunction with the IS applications of its
+business partners. Whereas other prior frameworks
+(Broadbent et al. 1999) measure the capability of the
+enterprisewide infrastructure to internally integrate
+diverse IS components, we restrict our notion of IS
+integration to the interﬁrm interface. Also, integra-
+tion is assessed in functional terms without reference
+to governance outcomes such as vertical or business
+integration (Zaheer and Venkatraman 1994). Further,
+we refer to functional IS integration at higher lev-
+els (the functional application level), which subsumes
+integration at the lower levels of the technology stack
+(such as network or hardware). Finally, there are mul-
+tiple approaches with which IS integration may be
+achieved internally by ﬁrms (Markus 2000). The same
+approaches can be used for external IS integration
+with suppliers, customers, and other business part-
+ners. Thus, our deﬁnition of IS integration refers to
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+325
+
+the aggregate result of a combination of any of these
+technological approaches, including not just techni-
+cal compatibility of software applications at the code
+level but also IT skills that render a higher degree
+of IS integration at the functional levels. Unlike in
+the earlier decades, when external integration was
+achieved using primarily EDI technology, nowadays
+a large number of IT components support external IS
+integration and offer a variety of functional features
+(Straub and Watson 2001).
+
+A high level of IS integration can be character-
+ized by data, once captured by a ﬁrm, being imme-
+diately accessible by its partners. This involves not
+just syntactic integration between the databases or
+implementing a single enterprisewide database, but it
+also requires integration at the semantic level as well
+(Yang and Papazoglou 2000). It is only when such
+semantic integration exists that interorganizational IS
+applications can be integrated to process orders, col-
+laboratively forecast sales, project earnings, or share
+customer data.
+
+IS integration with customer enterprises allows a
+focal enterprise’s business processes that deliver value
+to customers to be intermeshed with consumption
+processes at the customer end. This can be done in
+a variety of ways, including joint forecasting, buffer-
+ing inventories for customers, managing logistics,
+and transportation (Rai et al. 2006). For instance, the
+American Hospital Supply Corporation’s case (Short
+and Venkatraman 1992) illustrates how Baxter’s hos-
+pital ordering system was used to respond to the
+needs of customers and improve their internal sup-
+plies management. The higher level of IS integration,
+achieved by the supplier (Baxter), resulted in higher
+efﬁciency of ordering, tracking, and managing sup-
+plies; in addition, it also helped customers eventually
+eliminate many manual steps. Hence, we expect,
+
+Hypothesis 3A (H3A). IS integration positively affects
+
+process coupling with customers.
+
+Hypothesis 3B (H3B). IS integration positively affects
+
+process coupling with channel partners.
+
+The knowledge-based view of the ﬁrm emphasizes
+that the ability of organizations to create cross-func-
+tional and interﬁrm capabilities helps in knowledge
+integration (Grant 1996). A high level of IS integration
+across ﬁrms forms the basis of a critical organizational
+capability—that of acquiring, transforming, mixing,
+
+and matching knowledge objects across ﬁrms and
+business partners. The impact of IS integration on
+knowledge creation is well known at the ﬁrm level.
+In a qualitative study that explores the impact of inte-
+grated systems on cross-functional knowledge ﬂows,
+D’Adderio (2003) views the activity of integrating IS
+as essentially promoting communication and coordi-
+nation of viewpoints by imposing similar product and
+process representations throughout the organization
+or by enhancing shared meanings. Recent interﬁrm-
+level
+literature suggests why IS integration helps
+enhance knowledge sharing, and not just to auto-
+mate business activities. In the context of a supply
+chain, Malhotra et al. (2005) describe how integration
+through standardized interfaces reduces the effort
+required to process valuable information from supply
+chain partners. IS applications connecting ﬁrms not
+only automate repetitive, supply chain-related tasks in
+real time but also provide “latitude to focus on richer,
+higher value-adding information exchange” (p. 10).
+Similarly, using the theoretical anchors of knowledge
+and insights, Christaanse and Venkatraman (2002)
+study how American Airlines’ usage of its electronic
+reservation system enabled it to exploit the expertise
+of their travel agents. We propose that by making
+available large quantities of high-quality and reliable
+information through IS integration, it becomes easier
+for ﬁrms to harness the resources of their partners or
+customers and generate richer insights about the mar-
+ket. Hence:
+
+Hypothesis 4A (H4A). IS integration positively affects
+
+knowledge sharing with customers.
+
+Hypothesis 4B (H4B). IS integration positively affects
+
+knowledge sharing with channel partners.
+
+IS Flexibility
+
+2.5.
+Flexibility connotes the ability of an organization to
+incur relatively small penalties for departure from
+an optimal conﬁguration of assets (Carlsson 1989).
+Depending on which functional area they are de-
+ployed for, ﬂexible assets enable an organization
+to withstand ﬂuctuations in its customer demand,
+changes in products or manufacturing processes, or
+changes in partners. In supply chains, ﬂexible busi-
+ness processes may render a ﬁrm relatively immune
+to changes in partners (Gosain et al. 2004). We view
+such ﬂexibility in terms of changing products or
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+326
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+partners as dimensions of organizational ﬂexibility,
+deﬁned as “the ease with which organizations’ struc-
+tures and processes can be changed” (Huber and
+McDaniel 1986, p. 583). Just as organizational ﬂexi-
+bility is of strategic importance, our interest lies in
+examining the link between ﬂexibility of IS applica-
+tions and the (relational) value derived from interﬁrm
+relationships.
+
+Flexibility has often been recognized as an impor-
+tant aspect of how IS applications are conﬁgured. In
+the IS literature, an enterprise possessing ﬂexible IS
+applications lowers its IT-related costs when its prod-
+ucts, environment, or partners change. Thus, in our
+paper, IS ﬂexibility refers to the ability to quickly and
+economically adapt the IS applications to changing
+business requirements (Kumar 2004, Schlueter Lang-
+don 2006).
+
+However, the value of IS ﬂexibility to organiza-
+tions depends on the type of business requirements
+that can emerge either at the operational level or at
+the tactical or strategic level. For example, if the abil-
+ity to switch business partners quickly is important,
+then IS ﬂexibility generates business value by lower-
+ing the costs of switching business partners (Gosain
+et al. 2004); if the ability to scale up the volume of
+transactions with partners or to adapt the interﬁrm
+business processes is important, then IS ﬂexibility can
+generate value by enabling such local adjustments in
+the IT assets. This results in better alignment of IT
+applications across partners. This notion of ﬂexibil-
+ity is echoed by Duncan (1995), who notes that “the
+ideally ﬂexible infrastructure would be one that was
+designed to evolve, itself, with emerging technologies
+and [that] would support the continuous redesign of
+business and related IS processes” (1995, p. 44). We
+borrow the deﬁnition of IS ﬂexibility proposed by
+Nelson and Ghods (1998) as “the ability of the IT
+assets to adapt to both incremental and revolution-
+ary changes in the business or business process with
+minimal penalty to current time, effort, cost, or per-
+formance” (p. 233).
+
+Several initiatives led by internal IT organizations
+underlie the ﬂexibility of IS applications. For example,
+selection of standardized lower-level IT infrastructure
+components such as operating systems, networking
+components, or IT architectures (Allen and Boynton
+1991, Dietrich et al. 2007) can help maintain ﬂexibility
+
+of IS applications. These are labeled as the structural
+elements of the IS ﬂexibility that pertain to the design
+and organization of the artifacts constituting IT in
+organizations (Nelson and Ghods 1998). Apart from
+such structural elements, IS ﬂexibility is also enabled
+by the processes managed by the internal IT organiza-
+tion, such as expertise creation through training of IT
+staff or creation of governance standards that pertain
+to the rate of response of IT support activities (Nelson
+and Ghods 1998).
+
+Despite the importance of IS ﬂexibility to business
+operations, we argue that ﬂexibility per se does not
+directly lead to the creation of relational assets; rather
+it facilitates integration—making IS applications spe-
+ciﬁc to each partner. Such incremental change and
+improvement, also termed as adaptation, of IT appli-
+cations for speciﬁc partners is important because it is
+the relationship-speciﬁc nature of assets that leads to
+relational value for partnering ﬁrms (Dyer and Singh
+1998). That is, we propose that the link from IS ﬂexi-
+bility to relational assets is mediated by IS integration
+with customer and channel partners.
+
+However, just because IS ﬂexibility can help achieve
+higher IS integration at the application level does not
+mean that partner organizations will attempt to main-
+tain these linkages. For this to happen, the organiza-
+tions have to be willing to link their IS applications
+electronically. We argue that such incentives are cre-
+ated because ﬂexible IS applications lower the risk to
+a focal ﬁrm that it will be locked into an unproﬁtable
+relationship because of partner-speciﬁc IT deploy-
+ments. In transaction costs literature the risk that
+partner-speciﬁc investments pose to organizations is
+that its value will be lost once the relationship is ter-
+minated (Williamson et al. 1996). This renders ﬁrms
+vulnerable to opportunism by their partners. There-
+fore, we propose that higher IS ﬂexibility increases
+not only the ability, but also the willingness of orga-
+nizations to integrate the applications more tightly.
+Speciﬁcally,
+
+Hypothesis 5A (H5A). IS ﬂexibility positively affects
+
+IS integration with customers.
+
+Hypothesis 5B (H5B). IS ﬂexibility positively affects
+
+IS integration with channel partners.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+327
+
+2.6. Control Variables
+We also control for market orientation and ﬁrm size
+in explaining business unit performance.
+
+2.6.1. Market Orientation. Past
+
+literature sug-
+gests that market-oriented ﬁrms can be expected to
+perform better than other ﬁrms (Kohli and Jaworski
+1990). It is important to control for market orientation
+in the sales channel context because organizations dif-
+fer in their tendency to derive value from their selling
+activities. For example, some ﬁrms may place more
+emphasis on quality improvements and cost cutting
+in their supply chains than on generating revenues
+from their sales channels. Market orientation is the
+organizationwide generation of market intelligence
+pertaining to current and future customer needs, dis-
+semination of the intelligence across departments, and
+organizationwide responsiveness to it (Santos and
+Eisenhardt 2004). A consistent view is that market ori-
+entation is a “state of mind” of the organization or its
+philosophy of business management, or, alternately,
+it is recognition of the importance of customer focus
+and intelligence gathering. A highly market-oriented
+organization is likely to have a signiﬁcant stock of
+market intelligence and to recognize the importance
+of reaching and retaining customers, either directly or
+indirectly through channel partners.
+
+2.6.2. Firm Size. Larger ﬁrms have a higher level
+of resources that can lead to differences in rela-
+tive performance. Multi-unit ﬁrms with signiﬁcantly
+larger revenues have considerable clout to coerce their
+partners in sharing knowledge; they also have signif-
+icant slack to outperform competitors.
+
+Figure 2 illustrates the research model.
+
+Figure 2
+
+Research Model
+
+IS application capabilities
+
+IS integration with
+
+customers
+
+H5A
+
+IS flexibility
+
+H5B
+
+IS integration with
+channel partners
+
+H3B
+
+H4B
+
+H4A
+
+Knowledge sharing
+
+with customers
+
+H3A
+
+Process coupling with
+
+customers
+
+Process coupling with
+
+channel partners
+
+H1A
+
+H2A
+
+H2B
+
+BU
+
+performance
+
+Knowledge sharing with
+
+channel partners
+
+H1B
+
+3. Research Design
+A questionnaire was developed for a single-respon-
+dent, cross-sectional survey-based data-collection ef-
+fort with the BU as the level of analysis. Our research
+employs an embedded design (Phillips and Bagozzi
+1986) in which the BU is seen as embedded in a net-
+work of relationships that impact its performance.
+Though a multiple-respondent,
+longitudinal study
+would provide a stronger basis to claim our hypoth-
+esized effects, a single-respondent, cross-sectional de-
+sign was chosen to maintain an acceptable response
+rate.
+
+B2B sales executives were targeted for answering
+our survey because we framed our research model
+in the sales channel context. Speciﬁcally, the selected
+respondents were mid-level managers; they are the
+ones who are most likely to be aware of tactical
+as well as operational details. This follows the key
+informant approach, where the individual within the
+organization who is most knowledgeable about the
+aspects of the topic is selected (Sabherwal and Chan
+2001, Wall et al. 2004). Because our model addresses
+the interﬁrm level, and in the marketing context busi-
+ness partners can be either customers or channel part-
+ners, we used two sets of questions, with one set
+referring to the channel partnerships and the other
+referring to the customer relationships. To ensure that
+a single respondent could provide accurate answers
+to all questions, we kept the questions as broad as
+possible, and the IT-related constructs were elicited
+from a functional rather than a technical perspective.
+Those who did not have sufﬁcient knowledge about
+both types of relationship and the BU’s IS applications
+were asked to leave the questionnaire incomplete and
+were then excluded from further analysis. A pretest
+of our survey instrument was carried out with prac-
+titioners and doctoral students.
+
+3.1. Measures
+Most of the scales were adapted from prior liter-
+ature. For measuring all constructs (except for IS
+ﬂexibility, market orientation, and performance), the
+respondents were asked to keep in mind only those
+customers (channel partners) most important to their
+BUs. This helped avoid respondents’ “averaging”
+their responses across all partners (see Table 1 for
+scales). Further, considering that the target respon-
+dents were from the high-tech and ﬁnancial services-
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+328
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+Table 1
+
+Construct Operationalization
+
+Construct name
+Abbreviation
+Composite reliability
+Type of scale
+
+(cid:1)1 = Strongly disagree, 2 = Somewhat disagree, 3 = Neutral, 4 = Somewhat agree, 5 = Strongly agree(cid:2)
+
+[VARIABLE NAME] (Item loadings in PLS output)
+
+Indicators
+
+Over the past 3 years, our BU’s ﬁnancial performance has exceeded our competitors’. [PERFORM1] (0.9051)
+The past 3 years have been more proﬁtable than our competitors’. [PERFORM2] (0.9292)
+Over the past 3 years, our BU’s sales growth has exceeded our competitors’. [PERFORM3] (0.7973)
+
+Business unit
+performance (PERFORM)
+0.910
+Reﬂective
+Market orientation
+(MORT)
+0.864
+Reﬂective
+Please indicate the extent to which you agree or disagree with the following statements describing your BU’s ties with its large accounts and channel
+
+Business strategies are driven by the goal of increasing customer value. [MORT1] (0.9351)
+We emphasize “putting customers ﬁrst” throughout our BU. [MORT2] (0.7178)
+Our philosophy of doing business is driven by the need of putting customers ﬁrst. [MORT3] (0.8107)
+
+partners only. Examples can include remote maintenance, systems monitoring, etc.
+
+Process coupling with
+
+customers
+(PROCCST)
+0.865
+Reﬂective
+
+Process coupling with
+
+channel partners
+
+(PROCCP)
+0.90
+Reﬂective
+
+Our way of doing business is closely linked with our customers’. [PROCCST1] (0.7977)
+The business procedures and routines of our business unit are highly coupled with the ones of our customers.
+
+[PROCCST2] (0.8571)
+
+Some of our operations are closely connected with the ones of our customers. [PROCCST3] (0.8286)
+To operate efﬁciently, we rely on procedures and routines of our customers. [PROCCST4] (0.6469)
+Dropped item: To facilitate operations, our BU’s business procedures and routines are linked with the ones of
+
+our customers.
+
+To facilitate operations, our BU’s business procedures and routines are linked with the ones of our channel partners.
+
+[PROCCP1] (0.81111)
+
+Our way of doing business is closely linked with our channel partners. [PROCCP2] (0.8644)
+The business procedures and routines of our business unit are highly coupled with the ones of our channel partners.
+
+[PROCCP3] (0.8108)
+
+Some of our operations are closely connected with the ones of our channel partners. [PROCCP4] (0.7413)
+To operate efﬁciently, we rely on procedures and routines of our channel partners. [PROCCP5] (0.7774)
+
+Questions below pertain to your BU and its relationships with channel partners and customers. Please indicate the extent to which you
+
+agree or disagree with the following statements about your largest channel partners and large accounts.
+
+Knowledge sharing with
+customers (KSCST)
+
+0.863
+Reﬂective
+Knowledge sharing with
+
+channel partners
+
+We frequently share knowledge about our business environment (e.g., other business relationships) with our customers.
+
+[KSCST1] (0.7999)
+
+Knowledge about all of our channel partners, competitors, etc., is shared with our other customers. [KSCST2] (0.8972)
+Business insights are exchanged between us and our other customers. [KSCST3] (0.7672)
+We frequently share knowledge about our business environment (e.g., other business relationships) with our channel
+
+partners. [KSCP1] (0.8811)
+
+Knowledge about all of our channel partners, competitors, etc., is shared with our other channel partners.
+
+(KSCP)
+0.912
+Reﬂective
+Because the questions in this section pertain to your IS capabilities, we welcome the inputs of your IS personnel in answering this section. Please indicate the
+
+Business insights are exchanged between us and our other channel partners. [KSCP3] (0.8547)
+
+[KSCP2] (0.9041)
+
+extent to which you agree or disagree with the following statements: In terms of channel partners and customers, only consider your largest ones.
+
+IS integration with
+
+customers (INTCST)
+
+0.797
+Reﬂective
+
+IS integration with
+channel partners
+
+(INTCP)
+0.897
+Reﬂective
+
+Flexibility
+(FLEX)
+0.932
+Reﬂective
+
+Data are entered only once to be retrieved by most applications of our customers. [INTCST1] (0.6181)
+We can easily share our data with our customers. [INTCST2] (0.7737)
+We have successfully integrated most of our software applications with the ones of our customers. [INTCST3] (0.8572)
+Dropped items: (i) Most of our software applications work seamlessly across our customer. (ii) Software applications on
+
+multiple machines of multiple vendors are interoperable with each other across our customers.
+
+Data are entered only once to be retrieved by most applications of our channel partners. [INTCP1] (0.7433)
+We can easily share our data with our channel partners. [INTCP2] (0.7529)
+We have successfully integrated most of our software applications with the ones of our channel partners [INTCP3] (0.8367)
+Most of our software applications work seamlessly across our channel partners [INTCP4] (0.8631)
+Software applications on multiple machines of multiple vendors are interoperable with each other across our channel
+
+partners [INTCP5] (0.7829)
+
+The manner in which the components of our information systems are organized and integrated allows for rapid changes.
+
+[FLEX1] (0.8607)
+
+Our information systems are highly scalable. [FLEX2] (0.8474)
+Our information system is designed to support new business relationships easily. [FLEX3] (0.8922)
+Our information systems are designed to accommodate changes in business requirements quickly. [FLEX4] (0.9161)
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+329
+
+related sectors, we expected their actual business
+context to be highly diverse, such that creating a
+formative scale grounded in their actual decision con-
+text was not possible. Our extensive review of liter-
+ature did not lead to any past scale suitable for our
+purposes. Therefore, we created reﬂective scales that
+leave room for the respondents to interpret the items
+in their speciﬁc context before responding. During
+pretests and face-to-face interviews with profession-
+als, these scales were further reﬁned prior to ﬁnalizing
+the survey instrument.
+
+3.1.1. Business Performance (PERFORM). We re-
+fer to business performance in terms of the overall
+ﬁnancial performance relative to competitors. Because
+of a diversity of industries in our sample, there is no
+single objective measure comparable across the en-
+tire sample. Perceptual measures afford comparability
+across ﬁrms (during data analysis) and accordingly
+can be considered appropriate proxies for objective
+measures (Chan et al. 1997, Grewal and Tanushaj
+2001, Homburg and Pﬂesser 2000, Matsuno et al.
+2002). To address the sales channel context of this
+study, we included items that captured the extent to
+which a respondent’s BU performed better than its
+competitors in terms of sales growth, proﬁts, over-
+all ﬁnancial performance, company reputation, and
+return on investment. This initial set of ﬁve items was
+adapted from a survey of prior studies (Hansen 2002,
+Tsai 2002).
+
+3.1.2. Knowledge Sharing (KSCST and KSCP).
+Knowledge sharing entails sharing insights and
+understanding of the business context with busi-
+ness partners. Scales for knowledge-related constructs
+need to be very speciﬁc to the context. A number
+of prior studies helped us to develop the ﬁve-item
+reﬂective scale. Examples scales are interunit knowl-
+edge sharing (Dyer 1996), degree of information shar-
+ing (Monczka et al. 1998), and information sharing
+(Cannon and Perreault 1999, Robicheaux and Coleman
+1994). However, to avoid semantic overlap with the
+scale items for IS integration, the items for the knowl-
+edge sharing were worded so as to capture the intelli-
+gence aspect of the exchange rather than exchange of
+raw sales data.
+
+3.1.3. Process Coupling (PROCCST and PRO-
+CCP). A reﬂective scale was developed from prior lit-
+erature on operational-integration in the sales channel
+
+context (Hasselbring 2000, Yang and Papazoglou 2000).
+The items were developed keeping in mind the concep-
+tual difference between knowledge sharing and process
+coupling. Care was taken not to word the scale exclu-
+sively in terms of information-based coordination but
+in terms of operational procedures and routines.
+
+3.1.4.
+
+IS Integration (INTCST and INTCP). Five
+reﬂective scale items were initially identiﬁed based
+on the literature on workﬂow and Internet-based
+applications that stresses interoperability and from
+Truman’s (2000) EDI-related scale on internal integra-
+tion. The dimensions most referred to in the current
+literature on integration are application and data inte-
+gration (Markus 2000), which are captured by our
+measures. The scale items essentially focus on the
+seamlessness with which data and applications inter-
+operate across BU boundaries and channel partners
+or customers. It is to be noted that rather than captur-
+ing the list of various technological solutions imple-
+mented by organizations to integrate their BUs (e.g.,
+ERP, EAI, data warehousing), we used outcome-based
+measures to capture the degree of IS integration.
+
+3.1.5.
+
+IS Flexibility (FLEX). A four-item reﬂec-
+tive scale was constructed that captures the extent to
+which the IS applications can be adapted quickly to
+the changes in business requirements, including part-
+nerships and volume of business. The items broadly
+cover three aspects of ﬂexibility: operational, tactical,
+and strategic. The operational dimension pertains to
+short-run business requirements, tactical dimension
+refers to scalability, and strategic dimension refers to
+changing products or relationships (Carlsson 1989).
+
+Market orientation was operationalized using a
+reﬂective scale based on past research (Kohli and
+Jaworski 1990, Slater and Narver 1995). The high-
+level construct of market orientation has three dimen-
+sions: customer focus, competitor focus, and inter-
+functional coordination. Because our objective is to
+use this construct as a control variable, and because
+customer orientation is the “heart of market orienta-
+tion” (Slater and Narver 1994), two of our scale items
+tap the customer dimension. The third item taps the
+strategic effort that a ﬁrm exerts to satisfy its cus-
+tomers’ needs. We excluded the intelligence-gathering
+dimension from this scale so as not to overlap with
+the knowledge-sharing construct. The scale items
+were therefore created solely to measure the overall
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+330
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+importance a ﬁrm attaches to its selling goals. Firm
+size was operationalized in terms of revenue at the
+corporate level.
+
+3.2. Data Collection
+Data collection for this study was done in three waves
+and targeted BUs of enterprises mainly in the high-
+tech (computing) and the ﬁnancial services sector.
+A sample was drawn from three different sources:
+(i) a respondent database maintained by an academic
+research center, (ii) a database of member companies
+of the Cellular Telecommunications Industry Associa-
+tion (CTIA), and (iii) a database maintained by a mar-
+ket research agency. The sample excluded companies
+whose revenue ﬁgures were very small (less than $15
+million). Most respondents varied in their designa-
+tions, and included director of marketing, vice pres-
+ident of marketing, sales executives, sales managers,
+and new product development manager. One of the
+coauthors spoke brieﬂy to each of them before seek-
+ing their response to the questionnaire. We found that
+being users of various types of marketing and sales
+ISs, most respondents were knowledgeable about
+the customer and channel partner-related IS appli-
+cations and data-level integration issues. Those who
+denied being knowledgeable were not administered
+the questionnaire or directed the questionnaire to oth-
+ers within their departments. Thirty-four respondents
+who were contacted denied being knowledgeable and
+did not have a colleague respond to the survey (13, 15,
+and 6, respectively, for each of the three data sources
+mentioned earlier, that is, the academic research cen-
+tre, CTIA member list, and market research agency).
+There were 18 missing values in the data set, which
+is less than 0.5% of the total number of values. We
+performed Little’s MCAR test (Little and Rubin 1987)
+and found that these values were missing completely
+at random (p > 0(cid:3)05). Therefore, a multiple imputation
+method was applied (Hair et al. 1998) to create a com-
+plete data set of 63 observations. The ﬁnal sample has
+11, 41, and 11 distinct companies each from the three
+waves of data collection, for a total of 63 responses.
+The data collection was complete within four months
+and the three waves overlapped in time. The response
+rate was 27%, 18%, and 24% for each wave. There
+were 46 respondents in the high-tech computing sec-
+tor and 17 in the ﬁnancial services-related sector. The
+overall response rate was 23%.
+
+The average number of key channel partners was
+33 (standard deviation, −161) and the average num-
+ber of key customer accounts was 580 (standard devi-
+ation, −3(cid:4)369). The sales revenues for the enterprises
+to which the BUs belonged were acquired from sec-
+ondary sources. Though some respondents provided
+BU-level revenues, others declined for conﬁdential-
+ity reasons. For many of these enterprises, BU-level
+ﬁnancial results are not reported. Fifty percent of the
+multiunit organizations in our sample had revenue of
+at least US$764 million, the minimum revenue was
+US$19 million, and the highest revenue was US$31
+billion. About 95% of the responses were collected
+in the ﬁrst attempt and the rest in the second call-
+back. Further, the callbacks indicated that nonrespon-
+dents did not participate largely because of the lack
+of time. These reasons are unrelated to the survey
+variables and thus reduce the possibility of nonre-
+sponse bias (Colombo 2000). To test for nonresponse
+bias, ANOVA and t-tests indicated absence of such
+bias (p = 0(cid:3)42 for sales revenue and 0.64 for employee
+size). ANOVA tests to check for differences across
+subsamples (data collection waves) yielded no signif-
+icant differences. Tests for differences in means again
+revealed no signiﬁcant difference in revenue or sur-
+vey response items across the subsamples. The results
+of the PLS structural model also remain unchanged
+after including two dummy variables in the model to
+account for the subsamples.
+
+We also analyzed the data for halo effects using
+Harmon’s one-factor test (Harmon 1967). Accord-
+ingly, a principal components analysis of all con-
+structs in our model yielded 11 factors that had
+eigenvalues greater than 1.0 and accounted for 80% of
+the total variance, with no single factor accounting for
+more than 11.1% of the variance. This suggests that
+a signiﬁcant level of common method bias does not
+appear to be present (Podsakoff and Organ 1986). To
+further eliminate the confounding effects of the com-
+mon factor, we tested the “method” model, which did
+not yield any evidence of common method bias (see
+Appendix B in the online version).2
+
+2 An online supplement to this paper is available on the Information
+Systems Research website (http://isr.pubs.informs.org/ecompanion.
+html).
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+331
+
+Figure 3
+
+PLS Analysis
+
+KSCST
+
+0.226
+
+INTCUST
+
+0.476***
+
+0.241
+
+0.491***
+
+0.325***
+
+MORT
+
+0.297***
+
+FLEX
+
+PROCCST
+
+0.106
+
+PROCCP
+
+0.181
+
+0.254**
+
+PERFORM
+
+0.262
+
+0.479***
+
+INTCP
+
+0.23
+
+0.425***
+
+0.523***
+
+Not significant
+
+***p<0.01
+**p<0.05
+*p<0.1
+
+Note. R-square values are inside the circles.
+
+0.283*
+
+0.274
+
+KSCP
+
+REV
+
+4. Results
+The research model was tested using partial least
+squares (PLSGraph version 3.0) (Chin 1998b) because
+of the lower requirement for sample size, unlike in
+other structual equation modeling (SEM) techniques
+such as LISREL. Heuristics suggest that the sample
+size is adequate for our data analysis. For PLS the
+required sample size should be 10 times the max-
+imum number of paths leading into any one con-
+struct in the structural equation model (Tabachnick
+and Fidell 1989). For our model, a sample size greater
+than 60 (6 incoming paths × 10) affords sufﬁcient
+power, considering that a maximum of six constructs
+are hypothesized to lead to PERFORM (see Figure 3).
+
+4.1. Measurement Model
+The mean, range, and standard deviation for each
+construct are reported in Table 2. Path loadings for all
+items are signiﬁcant at 1% level. For multi-item reﬂec-
+tive constructs, the composite reliability estimates are
+above 0.8 for all constructs (Table 1), indicating good
+
+internal consistency (Fornell and Larcker 1981). The
+constructs were also assessed for reliability using a
+standardized Cronbach’s alpha, which is above 0.75
+for all constructs (Cronbach 1971). Preliminary checks
+of data such as the normal Q-Q plot of construct
+scores do not indicate any deviation from a nor-
+mal distribution. The results from the PLS analysis
+also support the convergent and discriminant valid-
+ity of our constructs (Table 2).3 Discriminant validity
+is established when the square root of the average
+variance extracted (AVE) by each construct is larger
+
+3 Because the correlation between KSCP and KSCST is 0.609, addi-
+tional steps were taken to check whether multicollinearity is sup-
+pressing the signiﬁcance of path estimate of KSCST. Considering
+that the PLS algorithm is a series of iterated multiple regressions
+(Chin 1998b), we used the latent variable scores from PLSGraph to
+run a multiple regression with PERFORM as the dependent vari-
+able and the six constructs in Figure 3 (those loading on PERFORM)
+as the independent variables. We ﬁnd that the highest variance
+inﬂation factor (Hair et al. 1998) is 2.23, which is signiﬁcantly less
+than the threshold of 10 normally considered the point beyond
+which multicollinearity is a concern.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+332
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+Table 2
+
+Construct Means, Standard Deviations, and Interconstruct Correlations (cid:1)N = 63(cid:2)
+
+1 PERFORM
+2 KSCST
+3 KSCP
+4 PROCCST
+5 PROCCP
+6 INTCST
+7 INTCP
+8 FLEX
+9 MORT
+10 REV
+
+Mean
+
+3(cid:5)67
+3(cid:5)40
+3(cid:5)45
+3(cid:5)79
+3(cid:5)47
+3(cid:5)07
+2(cid:5)93
+3(cid:5)45
+4(cid:5)08
+6(cid:5)54
+
+Std.
+
+1(cid:5)02
+0(cid:5)91
+0(cid:5)92
+1(cid:5)15
+0(cid:5)87
+0(cid:5)95
+0(cid:5)92
+1(cid:5)04
+0(cid:5)90
+2(cid:5)20
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+0(cid:5)879
+0(cid:5)089
+0(cid:5)294
+0(cid:5)307
+0(cid:5)271
+0(cid:5)217
+0(cid:5)285
+0(cid:5)272
+0(cid:5)419
+−0(cid:5)049
+
+0(cid:5)823
+0(cid:5)609
+0(cid:5)381
+0(cid:5)149
+0(cid:5)476
+0(cid:5)378
+0(cid:5)127
+0(cid:5)222
+−0(cid:5)111
+
+0(cid:5)880
+0(cid:5)229
+0(cid:5)428
+0(cid:5)347
+0(cid:5)523
+0(cid:5)065
+0(cid:5)357
+−0(cid:5)118
+
+0(cid:5)787
+0(cid:5)474
+0(cid:5)325
+0(cid:5)182
+0(cid:5)190
+0(cid:5)323
+0(cid:5)071
+
+0(cid:5)802
+0(cid:5)198
+0(cid:5)425
+−0(cid:5)078
+0(cid:5)302
+0(cid:5)092
+
+0(cid:5)756
+0(cid:5)698
+0(cid:5)491
+0(cid:5)211
+−0(cid:5)279
+
+0(cid:5)797
+0(cid:5)479
+0(cid:5)387
+−0(cid:5)329
+
+0(cid:5)880
+0(cid:5)297
+−0(cid:5)157
+
+0(cid:5)826
+0(cid:5)002
+
+1(cid:5)00
+
+Note. Square root of AVE is shown along the diagonal.
+
+than the interconstruct correlations (Chin 1998a). This
+is also ascertained by comparing the correlations of
+each indicator variable with its own construct (i.e.,
+path loading) and with its correlations with other con-
+structs (Table 3, Appendix A in the online version).
+We note that all the cross-loadings for the individual
+construct items are less than construct-speciﬁc load-
+ings, which supports the convergent and discriminant
+validity of our main constructs.
+
+4.2. Structural Model
+To assess the signiﬁcance of the path coefﬁcients in
+the structural model, PLSGraph was used to generate
+200 samples using a bootstrapping technique (Chin
+1998b). The full model has an R2 of 26.2% for the
+business performance construct. R2 for the mediating
+constructs ranges from 10.6% (PROCCST) to 27.4%
+(KSCP) (see Figure 3).
+
+The results indicate broad support for most of the
+hypothesized effects in the research model. Knowl-
+edge sharing with channel partners and process cou-
+pling with customers is found to contribute to ﬁrm
+performance (H1B and H2A). However, process cou-
+pling with channel partners is not found to be signiﬁ-
+cantly linked to performance (H2B is not supported),
+and knowledge sharing with customers is also not
+found to be signiﬁcant (H1A). Of the two dimen-
+sions of the IS application capability, we ﬁnd that IS
+integration is positively associated with process cou-
+pling and knowledge sharing in the customer as well
+as channel partner relationships (H3A, H3B, H4A,
+H4B). Both the hypothesized effects of IS ﬂexibility
+are supported. Thus, IS ﬂexibility is positively asso-
+ciated with IS integration with customers (H5A) and
+
+channel partners (H5B). Finally, the control variable,
+market orientation, is signiﬁcant, thus validating its
+importance as indicated in the prior literature; orga-
+nizational size is not signiﬁcant. The R-square of the
+entire model excluding market orientation is 19.2%.
+The results for the structural model did not differ
+when a dummy variable representing the industry
+was included in the model.4
+
+The mediating effects of knowledge sharing and
+process coupling were tested using two different pro-
+cedures. As recommended by Baron and Kenny (1986),
+ﬁrst, a sparser model was tested that included only
+customer-related constructs (PROCCST and KSCST)
+and paths only between INTCST and PERFORM.
+The coefﬁcient of INTCST is signiﬁcant and positive.
+When the paths between KSCST and PROCCST with
+PERFORM are also included, then the direct link
+between INTCST and PERFORM becomes nonsignif-
+icant, whereas the link between PROCCST becomes
+signiﬁcant. Similar analysis was done for the other
+two constructs, INTCP and FLEX. We found sup-
+port for full mediation of IS integration constructs;
+i.e., INTCP and INTCST are completely mediated
+by knowledge sharing and process coupling. How-
+ever, we ﬁnd that FLEX is only partially mediated—
+the path coefﬁcient between FLEX and PERFORM is
+positive and signiﬁcant in the full model. Follow-
+ing Rai et al. (2006), we also compared the hypoth-
+esized model with competing models that propose
+partial mediation of IS integration and IS ﬂexibility.
+
+4 Post hoc analysis also yielded similar estimates (and nonsignif-
+icance) for KSCST and PROCCP when the structural model ex-
+cluded KSCP and PROCCST in turn.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+333
+
+For this, we computed pseudo F statistics for each
+of the three competing models formulated by adding
+a direct
+link between IS capabilities and perfor-
+mance (INTCST → PERFORM, INTCP → PERFORM,
+FLEX → PERFORM) in the hypothesized model. The
+pseudo F statistics are computed in a way similar to
+that for testing the signiﬁcance of moderating effects
+(Carte and Russell 2003).5 The pseudo F statistics
+(F (cid:8)1(cid:4)55(cid:9)(cid:9) are 1.84, 0.755, and 0.45, all of which are
+not signiﬁcant at p = 0(cid:3)1 level. This supports full
+mediation of IS capabilities by the two constructs,
+knowledge sharing with channel partners, and pro-
+cess coupling with customers.
+
+5. Discussion
+The ﬁndings yield a rich set of insights. First, our
+expectation that IS integration yields a higher-order
+beneﬁt by providing a substrate for richer informa-
+tion exchange and greater process coupling are con-
+ﬁrmed. This is because on the one hand integrated
+ISs strengthen the information processing capacity
+at the interorganizational level (Rai et al. 2006) and
+thus facilitates coordination of interﬁrm business pro-
+cesses. Tight coordination is possible because infor-
+mation is available in real time and in an interpretable
+format throughout the supply chain, spanning part-
+nering ﬁrms. On the other hand,
+integrated data
+formats and applications facilitate communication of
+viewpoints by imposing similar product or process
+representations (D’Adderio 2003, Tenkasi and Boland
+1996). Thus, IS integration also creates a second-order
+beneﬁt by establishing a common semantic platform
+that facilitates reinterpretation of information from
+diverse sources and thus sharing of knowledge with
+customers and channel partners.
+
+However, even though the link between IS inte-
+gration and all four relational value dimensions is
+strong, only two are signiﬁcantly associated with
+performance—knowledge sharing with channel part-
+ners and process coupling with customers. This
+implies that while IS integration with customers may
+
+5 The formula used for computing the f 2 statistic was (R2 Par-
+tial mediation − R2 Full mediation)/(1 − R2 Partial mediation)/
+(n− k − 1) where n− k − 1 is the degrees of freedom of the partial
+mediation model, n, the sample size, k − the number of constructs
+in the hypothesized model linked to ﬁrm performance.
+
+lead to an increase in knowledge sharing with cus-
+tomers; this may not result in higher performance.
+Similarly, IS integration may also strengthen the pro-
+cess coupling with channel partners, but, against our
+expectations, we do not ﬁnd that this translates into
+signiﬁcantly higher performance.
+
+Results strongly support the hypothesized effects of
+IS ﬂexibility. That is, IS ﬂexibility enhances the inte-
+gration of the IS applications across customers and
+channel partners. Intuitively, the challenge of main-
+taining high IS ﬂexibility is at odds with maintain-
+ing high IS integration—and is therefore viewed as
+a trade-off. This intuition is rooted in the EDI con-
+text where, to maintain high IS integration, enter-
+prises had to create highly partner-speciﬁc EDI links
+that afforded minimal ﬂexibility in reconﬁguring
+the IT linkages (Hart and Estrin 1991, Hart and
+Saunders 1998). Contemporary IT advancements such
+as standardized and modular software components
+(e.g., Web services and extensible markups) may ren-
+der higher IS ﬂexibility, which in turn can enable a
+higher degree of IS integration (Hagel and Brown
+2001). This suggests that the conventional views of
+an IS integration—ﬂexibility trade-off—may be less
+applicable to contemporary information technologies,
+particularly when ﬁrms need to forge and maintain
+ties with a multitude of partners.
+
+The results that show that
+
+the two mediating
+constructs, knowledge sharing with channel part-
+ners and process coupling with customers, lead to
+higher performance is interesting. They suggest that
+channel partners are the tactically and strategically
+important partners of an enterprise, e.g., for gaining
+insights to respond to markets needs. Channel part-
+ners help to collect important market-related infor-
+mation that can be recombined by the focal ﬁrm
+to general deeper insights into the market (Cohen
+and Levinthal 1990, Lorenzoni and Lipparini 1996).
+These knowledge elements in turn will enable a ﬁrm
+to better respond to current customers or acquire
+additional customers, thus resulting in better perfor-
+mance (Narus and Anderson 1996, Weiss and Kurland
+1997). The product-innovation literature also illus-
+trates the importance of external partners. It ﬁnds
+that a signiﬁcant number of innovations can be traced
+back to customers and suppliers (von Hippel 1994).
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+334
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+The mediation analysis reveals that the effect of IS
+integration on business performance is fully medi-
+ated by the relational assets, whereas the effect of
+IS ﬂexibility is only partially mediated. Although
+a complete theoretical explanation is beyond the
+scope of our model, the partial mediation could per-
+haps be caused by conceptualization of integration
+in relationship-speciﬁc terms. Apart from strengthen-
+ing IS integration simultaneously with multiple cus-
+tomers and channel partners, IS ﬂexibility can also
+potentially generate economies of scope across rela-
+tionships by transferring knowledge and resources, a
+key capability in business networks (Anderson et al.
+1994). Therefore, in the extended enterprise we sug-
+gest that the positive link between IS ﬂexibility and
+performance can be explained not only by the medi-
+ated pathways hypothesized in this study but also by
+alternative explanations grounded in the literature on
+transaction costs and opportunism (Williamson 1985)
+or social exchange theories (Anderson et al. 1994). It
+is also possible that the direct positive link between IS
+ﬂexibility and performance appears because of inter-
+nal factors such as scope economies, instead of rela-
+tional factors.
+
+The role of the market orientation is consistent
+with prior empirical studies establishing its impact
+on performance. This construct captures about 8% of
+the variation in the performance construct and thus,
+not surprisingly, is the most signiﬁcant of the inde-
+pendent variables. This effect is likely to be strong
+in relatively turbulent contexts of the high-tech and
+ﬁnancial services-related companies, where customers
+are a valuable resource and market shares can change
+rapidly. Kohli and Jaworski (1990) predicted that mar-
+ket orientation would have a stronger relationship
+with business performance in more turbulent mar-
+kets, which was conﬁrmed by Narver and Slater
+(1990) through their empirical study. Our study has
+conﬁrmed that market orientation is signiﬁcant even
+after we control for process coupling and knowledge
+sharing, two key relational assets.
+
+5.1. Limitations
+In applying the insights from this study, it is impor-
+tant to recognize some of its limitations. First, we
+did not use formative measures of knowledge shar-
+ing such as technology transfer, sharing of product
+
+designs, customer proﬁles/tastes, etc., which would
+have more pointedly captured the interorganizational
+context. Second, to maintain higher response rates,
+we used cross-sectional data from survey responses
+provided by single respondents. This did not pro-
+vide more accurate data, as is gathered using mul-
+tiple respondent surveys. A multirespondent sur-
+vey would have helped to avoid the bias in our
+sample because we excluded respondents who did
+not have sufﬁcient technical knowledge to answer the
+IT-related questions. As a result this may have limited
+us to ﬁrms whose business partners were most likely
+to have established process and knowledge linkages.
+Third, a smaller sample size also precluded us from
+testing a more comprehensive multitheoretic model
+that includes the entire range of beneﬁts and lim-
+itations of IS application capabilities. For example,
+the model can conceptualize constructs to represent
+the losses an enterprise faces from opportunism aris-
+ing from partner-speciﬁc IS integration and ﬂexibil-
+ity. Fourth, we have limited ourselves to the contexts
+of the sales channel relationships in the high-tech
+and ﬁnancial services-related sectors. Finally, because
+the sample is drawn from member companies of a
+research center and the clients of a market research
+agency, these ﬁrms are more likely to represent ﬁrms
+closer to the leading edge of practice.
+
+It is also important to point out that interpersonal
+trust plays a critical role as an enabler of relational
+exchanges. Organizations that trust each other may
+undertake joint activities that exhibit a level of risk
+that would preclude others from doing so (Ghoshal
+and Moran 1996). Interpersonal trust may also lead
+partners to be proactive in exploring opportunities for
+increased collaboration (Dyer and Singh 1998). Given
+our research goals, we have implicitly controlled for
+trust between partners by restricting our analysis to a
+focal ﬁrm’s closest long-term partners, where there is
+evidence of a continuing association.
+
+Implications
+Implications for Theory
+
+6.
+6.1.
+The main theoretical implications of our ﬁndings lie
+in two areas. First, we uncover the interrelation-
+ships between two key IS characteristics, showing
+that IS ﬂexibility is a foundational capability that
+contributes to integration with channel partners and
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+335
+
+customers; and IS integration is
+the proximal
+antecedent of co-specialized relational assets. Second,
+our ﬁndings suggest a need to consider not only
+value creation, but also value appropriation as the
+end goals of ﬁrms’ IT investments. The antecedents in
+our model, process coupling and knowledge sharing,
+are mechanisms by which relational value is created,
+whereas the performance construct in our model mea-
+sures to what extent the value has been appropriated
+by the focal ﬁrm. We ﬁnd that not all relational assets
+are equally valuable. In dynamic industry contexts,
+knowledge sharing with customers may not confer
+competitive insights, and process coupling with chan-
+nel partners may not allow the ﬁrm to react to new
+opportunities. We discuss these issues in the follow-
+ing section.
+
+The ﬁnding that IS integration can enhance rela-
+tional assets and thus contribute to performance sug-
+gests that IS integration can play a strategic value
+in the extended enterprise. Although the role of IS
+integration in enabling process efﬁciencies is well
+understood in IS literature,
+its role in enhancing
+knowledge sharing and recombination across enter-
+prises needs to be further explored using more gran-
+ular constructs.
+
+that
+
+Our ﬁndings suggest
+
+the ﬂexibility of the
+IS applications is a critical foundational capability
+underlying IS integration. This is not to suggest that
+ﬂexibility does not beneﬁt an enterprise in other ways.
+For example, by helping enterprises to curb oppor-
+tunism arising from their partner-speciﬁc IT invest-
+ments, IS ﬂexibility may enable a ﬁrm to retain its
+bargaining power vis-à-vis its partners (Bakos and
+Brynjolfsson 1993) and thus enjoy higher prices or bet-
+ter service. However, this can only be ascertained by
+a holistic, multitheoretic model that factors in gov-
+ernance and appropriability concerns (Gulati et al.
+2005). Further, the beneﬁts of ﬂexibility may be bet-
+ter assessed with a longitudinal study than with
+snapshot measures. Indeed, our analysis reveals that
+the relational assets—knowledge sharing and process
+coupling—do not fully mediate the effect of IS ﬂexi-
+bility on performance, which implies that other theo-
+retical arguments (in addition to the logic of relational
+value) can link IS ﬂexibility to performance.
+
+The result that only two of the four relational assets,
+knowledge sharing with channel partners and process
+
+coupling with customers, lead to higher performance
+is interesting. This suggests that it is the channel part-
+ners that are strategically important partners to an
+enterprise in terms of sharing knowledge to create
+business value (Achrol 1999). Knowledge about the
+market environment is important, but the negative
+(but not signiﬁcant) link of knowledge sharing with
+customers and performance being in line with the
+recent literature suggests that deep relationships with
+customers are even likely to generate myopia and
+may be detrimental to ﬁrms (Danneels 2003). Thus,
+our results may be indicative of a counter-productive
+relationship, where the knowledge gathered from
+deep relationships with customers does not contribute
+to competitive performance. This is consistent with
+the theory of weak ties (Granovetter 1973), which
+suggests that under certain circumstances strong ties
+lead to misdirected efforts by an organization and
+thus may be detrimental to its performance (Uzzi
+1997).6 The customers in our study are the largest cus-
+tomers of the focal enterprises and therefore are the
+ones with whom the focal enterprise may have the
+strongest ties. Along similar lines, the recent litera-
+ture in organization theory suggests that only ﬁrms
+that employ organizational features that push the ﬁrm
+toward exploration and pull it toward stability tend to
+have high performance (Rivkin and Siggelkow 2003).
+Further, dynamic structural changes such as reinte-
+gration of “temporarily decentralized” organizational
+units have been shown to allow the ﬁrm to avoid
+poor-performing activity conﬁgurations and to even-
+tually coordinate across its divisions (Siggelkow and
+Levinthal 2003).
+
+Our study contributes an interenterprise perspec-
+tive to extend the above idea that business value
+can be enhanced by balancing conﬂicting needs by
+strategically developing IS capabilities. Thus, high IS
+integration achieved by customizing IS applications
+to an individual customer can result in higher efﬁ-
+ciency through tight coordination; but when the goal
+is to coordinate processes and share knowledge with
+
+6 We suggest that the weak-tie argument does not apply as well
+to channel partner relationships directly because they play a more
+active role as an aggregator of rich, market-related information for
+enterprises. The study by Uzzi (1997) is in the buyer-supplier net-
+works similar to the customer ties in our context.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+336
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+a number of different partners, the role of ﬂexibility as
+a critical foundational capability comes into play. The-
+oretically, IS integration across multiple relationships
+can therefore be viewed as an “ambidextrous” capa-
+bility (Gibson and Birkinshaw 2004), and its empirical
+elaboration can be a basis for future studies.
+
+Our ﬁndings suggest that the value of strong cus-
+tomer ties lies not in conveying richer knowledge
+about the market, but more in facilitating quicker
+adaptation by enterprises to customer needs and thus
+faster response in the face of uncertainty. However,
+unexpectedly, process coupling with channel partners
+was not found to be signiﬁcantly associated with
+business performance. This unexpected result may be
+caused by a “loosely coupled” coordination paradigm
+employed in the industry setting. By modular struc-
+turing of interﬁrm interfaces, dependencies among
+channel partners may be minimized, resulting in a
+lower need to couple processes (Gosain et al. 2004).
+A similar explanation may not apply to customer
+relationships because perhaps it is less feasible to
+codesign modular process interfaces with customer
+enterprises. Although this difference in modularity
+across relationship types is a possible reason (because
+suppliers are generally more dependent on customers
+than on channel partners), the argument needs to
+be tested in future empirical studies. We also have
+not measured modularity in this study and there-
+fore recognize this as a limitation to testing the above
+conjecture.
+
+Implications for Practice
+
+6.2.
+Our study reveals several ﬁndings that have impor-
+tant implications for the design of the IT applications
+of a ﬁrm that aims to harness the resources embedded
+in its relationship network. To our knowledge, no past
+study has tested a model linking multiple dimensions
+of the IS application capability to business-level out-
+comes. This study directs managers to focus on the
+ﬂexibility of their IS applications as a foundational
+capability that will aid IS integration across multiple
+and simultaneous relationships with key customers
+and channel partners. Further, the business case for
+IS ﬂexibility has to be made by highlighting the per-
+formance impacts based on relational value generated
+from a number of relationships, rather than consider-
+ing ties in isolation.
+
+Another important implication for managers lies
+in a nuanced understanding of how IT investments
+link to business value through mediating constructs.
+Appreciation of
+this causal pathway is likely to
+help managers devise IT investment policies directed
+toward functional ends that are likely to bear greater
+gains in business performance. For instance, we pro-
+pose that managers conceive of knowledge sharing
+with channel partners and process coupling with cus-
+tomer enterprises as value-generating assets that will
+lead to improved business performance in the longer
+term. In recent work, Hagel and Brown (2005, p. 158)
+suggest: “Companies that master techniques required
+to accelerate capability building across broad net-
+works of enterprises will be in the best position to
+generate superior returns.” Our study highlights spe-
+ciﬁc IT-focused pathways to hone such capabilities,
+particularly in light of current evidence that con-
+temporary technologies are being used to a signiﬁ-
+cant extent in interenterprise IT infrastructures (The
+McKinsey Quarterly 2007).
+
+7. Electronic Companion
+An e-companion to this paper is available as part of
+the online version that can be found at http://isre.
+pubs.informs.org/.
+
+Acknowledgments
+The authors thank Robert W. Zmud and Arun Rai for their
+thoughtful suggestions, as well as anonymous reviewers,
+and participants at the ISR special issue workshop at the
+University of Michigan, Ann Arbor, for their generous help
+in improving this manuscript. The authors thank Omar
+El Sawy, Bernie Jaworski, Ann Majchrzak, V. Sambamurthy,
+Huseyin Tanriverdi, and seminar participants at the Uni-
+versity of Southern California for valuable feedback. The
+authors also thank the Institute for the Study of Busi-
+ness Markets, Penn State University, and afﬁliated faculty
+for feedback and access to their respondent database. This
+study is partially based on the ﬁrst author’s dissertation,
+which won the runner-up award in the ICIS 2003 Best Doc-
+toral Dissertation Competition.
+
+References
+Achrol, R. S. 1999. Marketing in the network economy. J. Marketing
+
+63(Special Issue) 146–163.
+
+Adler, P. S., B. Goldoftas, D. Levine. 1999. Flexibility versus efﬁ-
+ciency? A case study of model changeovers in Toyota produc-
+tion system. Organ. Sci. 10(1) 43–68.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+337
+
+Allen, B. R., A. C. Boynton. 1991. Information architecture: In search
+
+of efﬁcient ﬂexibility. MIS Quart. 15(4) 435–445.
+
+Anderson, J. C., H. Hakansson, J. Johanson. 1994. Dyadic business
+relationships within a business network context. J. Marketing
+58(4) 1–15.
+
+Bakos, Y. J., E. Brynjolfsson. 1993. From vendors to partners: Infor-
+mation technologies and incomplete contracts in buyer-seller
+relationships. J. Organ. Comput. 3(3) 301–328.
+
+Baron, R. M., D. A. Kenny. 1986. The moderator-mediator variable
+distinction in social psychological research: Conceptual, strate-
+gic, and statistical considerations. J. Personality Soc. Psych. 51(6)
+1173–1182.
+
+Barua, A., C. H. Kriebel, T. Mukhopadhyay. 1995. Information tech-
+nologies and business value: An analytic and empirical inves-
+tigation. Inform. Systems Res. 6(1) 3–23.
+
+Bensaou, M., N. Venkatraman. 1996. Inter-organizational relation-
+ships and information technology: A conceptual synthesis and
+a research framework. Eur. J. Inform. Systems 5(2) 84–91.
+
+Bharadwaj, A. S. 2000. A resource-based perspective on informa-
+tion technology capability and ﬁrm performance: An empirical
+investigation. MIS Quart. 24(1) 169–193.
+
+Broadbent, M., P. Weill, B. S. Neo. 1999. Strategic context and pat-
+terns of IT infrastructure capability. J. Strategic Inform. Systems
+8(2) 157–187.
+
+Byrd, T. A., D. E. Turner. 2001. An exploratory examination of the
+relationship between ﬂexible IT infrastructure and competitive
+advantage. Inform. Management 39(1) 41–52.
+
+Cannon, J. P., W. D. Perreault. 1999. Buyer-seller relationships in
+
+business markets. J. Marketing Res. 36(4) 439–460.
+
+Carlsson, B. 1989. Flexibility and the theory of the ﬁrm. Internat. J.
+
+Indust. Organ. 7(2) 179–203.
+
+Carte, T. A., C. J. Russell. 2003. In pursuit of moderation: Nine
+common errors and their solutions. MIS Quart. 27(3) 479–501.
+Chan, Y., S. Huff, D. Barclay, D. Copeland. 1997. Business strate-
+gic orientation, information systems strategic orientation, and
+strategic alignment. Inform. Systems Res. 8(2) 125–150.
+
+Chin, W. 1998a. Issues and opinions on structural equation model-
+
+ing. MIS Quart. 22(1) vii–xvi.
+
+Chin, W. 1998b. The partial least squares approach to structural
+equation modeling. G. A. Marcoulides, ed. Modern Methods
+for Business Research. Lawrence Earlbaum Associates, Hillsdale,
+NJ, 304, 295–336.
+
+Christiaanse, E., N. Venkatraman. 2002. Beyond SABRE: An empir-
+ical test of expertise exploitation in electronic channels. MIS
+Quart. 26(1) 15–38.
+
+Cohen, W. M., D. A. Levinthal. 1990. Absorptive capacity: A new
+perspective on learning and innovation. Admin. Sci. Quart.
+35(1) 128–152.
+
+Colombo, R. 2000. A model for diagnosing and reducing non-
+
+response bias. J. Advertising Res. 40(1/2) 85–93.
+
+Cronbach, L.
+
+J. 1971. Test validation. R. L. Thorndike, ed.
+Educational Measurement. American Council on Education,
+Washington, D.C., 443–507.
+
+D’Adderio, L. 2003. Conﬁguring software, reconﬁguring memo-
+ries: The inﬂuence of integrated systems on the reproduc-
+tion of knowledge and routines. Indust. Corporate Change 12(2)
+321–350.
+
+Danneels, E. 2003. Tight-loose coupling with customers: The enact-
+ment of customer orientation. Strategic Management J. 24(6)
+559–576.
+
+Day, G. 1994. The capabilities of market-driven organizations.
+
+J. Marketing 58(4) 37–52.
+
+Dewan, R. M., A. Seidmann, S. Sundaresan. 1995. Strategic choices
+in IS infrastructure: Corporate standards versus “best of breed”
+systems. 16th Internat. Conf. Inform. Systems. Amsterdam, The
+Netherlands, 97–108.
+
+Dietrich, A. J., S. Kirn, V. Sugumaran. 2007. A service-oriented
+architecture for mass customization a shoe industry case study.
+IEEE Trans. Engrg. Management 54(1) 190–204.
+
+Duncan, N. 1995. Capturing ﬂexibility of information technology
+infrastructure: A study of resource characteristics and their
+measure. J. Management Inform. Systems 12(2) 37–57.
+
+Dyer, J. H. 1996. Does governance matter? Keiretsu alliances and
+asset speciﬁcity as sources of Japanese competitive advantage.
+Organ. Sci. 7(6) 649–666.
+
+Dyer, J. H., K. Nobeoka. 2000. Creating and managing a high perfo-
+mance knowledge-sharing network: The Toyota case. Strategic
+Management J. 21(3) 345–367.
+
+Dyer, J. H., H. Singh. 1998. The relational view: Cooperative strat-
+egy and sources of interorganizational competitive advantage.
+Acad. Management Rev. 23(4) 660–679.
+
+El Sawy, O. A., G. Bowles. 1997. Redesigning the customer sup-
+port process for the electronic economy: Insights from storage
+dimensions. MIS Quart. 21(4) 457–483.
+
+Fornell, C., D. F. Larcker. 1981. Evaluating structural equation mod-
+els with unobservable variables and measurement error. J. Mar-
+keting Res. 18(1) 39–50.
+
+Ghoshal, S., P. Moran. 1996. Bad for practice: A critique of transac-
+
+tion cost theory. Acad. Management Rev. 21(1) 13–47.
+
+Gibson, C. B., J. Birkinshaw. 2004. The antecedents, consequences,
+and mediating role of organizational ambidexterity. Acad. Man-
+agement J. 47(2) 209–226.
+
+Gosain, S., A. Malhotra, O. A. El Sawy. 2004. Coordinating for ﬂex-
+ibility in e-business supply chains. J. Management Inform. Sys-
+tems 21(3) 7–45.
+
+Granovetter, M. S. 1973. The strength of weak ties. Amer. J. Sociol.
+
+78(6) 1360–1380.
+
+Grant, R. M. 1996. Prospering in dynamically competitive envi-
+ronments: Organizational capability as knowledge integration.
+Organ. Sci. 7(4) 375–387.
+
+Grewal, R., P. Tanushaj. 2001. Building organizational capabilities
+for managing economics crisis: The role of market orientation
+and strategic ﬂexibility. J. Marketing 65(2) 67–80.
+
+Gulati, R., P. R. Lawrence, P. Puranam. 2005. Adaptation in vertical
+relationships: Beyond incentive conﬂict. Strategic Management J.
+26(5) 415–440.
+
+Häcki, R., J. Lighton. 2001. The future of the networked economy.
+
+McKinsey Quart. 2001(3) 26–39.
+
+Hagel, J., J. B. Brown. 2005. The Only Sustainable Edge. Harvard
+
+Business School Press, Boston, MA.
+
+Hagel, J. I., J. S. Brown. 2001. Your next IT strategy. Harvard Bus.
+
+Rev. 79(9) 105–113.
+
+Hair, J., R. Anderson, R. Tatham, W. Black. 1998. Multivariate Data
+
+Analysis, 5th ed. Prentice Hall, Englewood Cliffs, NJ.
+
+Hansen, M. T. 2002. Knowledge networks: Explaining effective
+knowledge sharing in multi-unit companies. Organ. Sci. 13(3)
+232–248.
+
+Harmon, H. H. 1967. Modern Factor Analysis. University of Chicago
+
+Press, Chicago, IL.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+338
+
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+Hart, P., D. Estrin. 1991. Inter-organization networks, computer
+integration, and shifts in interdependence: The case of the
+semiconductor industry. ACM Trans.
+Inform. Systems 9(4)
+370–398.
+
+Hart, P. J., C. S. Saunders. 1998. Emerging electronic partnerships:
+Antecedents and dimensions of EDI use from the supplier’s
+perspective. J. Management Inform. Systems 14(4) 87–111.
+
+Hasselbring, W. 2000. Information system integration. Comm. ACM
+
+43(6) 33–38.
+
+Homburg, C., C. Pﬂesser. 2000. A multiple-layer of market-oriented
+organizational culture: Measurement issues and performance
+outcomes. J. Marketing Res. 37(4) 449–462.
+
+Huber, G. P., R. R. McDaniel. 1986. The decision-making paradigm
+
+of organizational design. Management Sci. 32(5) 572–589.
+
+Keen, P. G. W. 1991. Shaping the Future: Business Design Through
+Information Technology. Harvard Business School Press, Boston,
+MA.
+
+Kohli, A. K., B. J. Jaworski. 1990. Market orientation: The construct,
+research propositions, and managerial implications. J. Market-
+ing 54(2) 1–18.
+
+Kumar, R. 2004. A framework for assessing the business value of
+information technology infrastructures. J. Management Inform.
+Systems 21(2) 11–32.
+
+Little, R. J. A., D. A. Rubin. 1987. Statistical Analysis with Missing
+
+Data. John Wiley & Sons, New York.
+
+Lorenzoni, G., A. Lipparini. 1996. The leveraging of interﬁrm rela-
+tionships as a distinctive organizational capability: A longitu-
+dinal study. Strategic Management J. 20(4) 317–338.
+
+Malhotra, A., S. Gosain, O. A. El Sawy. 2005. Absorptive capacity
+conﬁgurations in supply chains: Gearing for partner-enabled
+market knowledge creation. MIS Quart. 29(1) 145–187.
+
+Markus, L. 2000. Paradigm shifts in e-business and business/
+
+systems integration. Comm. AIS 4(10).
+
+Massetti, B., R. W. Zmud. 1996. Measuring the extent of EDI usage
+in complex organizations: Strategies and illustrative examples.
+MIS Quart. 20(3) 331–345.
+
+Matsuno, K., J. T. Mentzer, A. Ozsomer. 2002. The effects of
+entrepreneurial proclivity and market orientation on business
+performance. J. Marketing 66(3) 18–32.
+
+Mendelson, H., R. Pillai. 1998. Clockspeed and information
+response: Evidence from the information technology industry.
+Inform. Systems Res. 9(4) 415–433.
+
+Monczka, R. M., K. J. Petersen, R. B. Handﬁeld, G. L. Ragatz. 1998.
+Success factors in strategic supplier alliances: The buying com-
+pany perspective. Decision Sci. 29(3) 553–577.
+
+Narus, J. A., J. C. Anderson. 1996. Rethinking distribution. Harvard
+
+Bus. Rev. 74(4) 112–120.
+
+Narver, J. C., S. F. Slater. 1990. The effect of market orientation on
+
+business proﬁtability. J. Marketing 54(4) 20–35.
+
+Nelson, K. M., M. Ghods. 1998. Measuring technology ﬂexibility.
+
+Eur. J. Inform. Systems 7(4) 232–240.
+
+Orton, J. D., K. E. Weick. 1990. Loosely coupled systems: A recon-
+
+ceptualization. Acad. Management Rev. 15(2) 203–223.
+
+Phillips, L. W., R. P. Bagozzi. 1986. On measuring the organizational
+properties of distribution channels: Methodological issues in
+the use of key informants. Res. Marketing 8 313–369.
+
+Podsakoff, P., D. Organ. 1986. Self-reports in organizational
+research: Problems and prospects. J. Management 12(4) 531–545.
+
+Premkumar, G., V. J. Richardson, R. Zmud. 2004. Sustaining com-
+petitive advantage through a value net: The case of enterprise
+rent-a-car. MISQ Executive 3(4) 189–199.
+
+Rai, A., R. Patnayakuni, N. Patnayakuni. 2006. Firm performance
+impacts of digitally enabled supply chain integration capabili-
+ties. MIS Quart. 30(2) 225–246.
+
+Ray, G., W. Muhanna, J. Barney. 2005. Information technology and
+the performance of the customer service process: A resource-
+based analysis. MIS Quart. 29(4) 625–652.
+
+Ring, P. S., A. H. Van de Ven. 1994. Developmental processes
+of cooperative interorganizational relationships. Acad. Manage-
+ment Rev. 19(1) 90–118.
+
+Rivkin, J. W., N. Siggelkow. 2003. Balancing search and stability:
+Interdependencies among elements of organizational design.
+Management Sci. 49(3) 290–311.
+
+Robicheaux, R. A., J. S. Coleman. 1994. The structure of marketing
+
+channel relationships. J. Acad. Marketing Sci. 22(1) 38–51.
+
+Sa Vinhas, A., E. Anderson. 2005. How potential conﬂict drives
+channel structure: Concurrent (direct and indirect) channels.
+J. Marketing Res. 42(4) 507–515.
+
+Sabherwal, R., Y. Chan. 2001. Alignment between business and IS
+strategies: A study of prospectors, analyzers and defenders.
+Inform. Systems Res. 12(1) 11–33.
+
+Sambamurthy, V., A. Bharadwaj, V. Grover. 2003. Shaping agility
+through digital options: Reconceptualizing the role of infor-
+mation technology in contemporary ﬁrms. MIS Quart. 27(2)
+237–263.
+
+Santos, F. M., K. M. Eisenhardt. 2004. Constructing Markets and
+Organizing Boundaries: Entrepreneurial Action in a Nascent Field.
+Academy of Management, New Orleans, LA.
+
+Schlueter Langdon, C. 2003a. Information systems architecture
+styles and business interaction patterns: Toward theoretic cor-
+respondence. J. Inform. Systems E-Bus. 1(3) 283–304.
+
+Schlueter Langdon, C. 2003b. The state of Web services. IEEE Com-
+
+put. 36(7) 93–95.
+
+Schlueter Langdon, C. 2006. Designing information systems capa-
+bilities to create business value: A theoretical conceptualizaton
+of the role of ﬂexibility and integration. J. Database Management
+17(3) 1–18.
+
+Short,
+
+J. E., N. Venkatraman. 1992. Beyond business process
+redesign—Redeﬁning Baxter business network. Sloan Manage-
+ment Rev. 34(1) 7–21.
+
+Siggelkow, N., D. A. Levinthal. 2003. Temporarily divide to con-
+quer: Centralized, decentralized, and reintegrated organiza-
+tional approaches to exploration and adaptation. Organ. Sci.
+14(6) 650–669.
+
+Slater, S. F., J. C. Narver. 1994. Market orientation, customer value,
+
+and superior performance. Bus. Horizons 37(2) 22–28.
+
+Slater, S. F., J. C. Narver. 1995. Market orientation and the learning
+
+organization. J. Marketing 59(3) 63–74.
+
+Straub, D. W., R. T. Watson. 2001. Research commentary: Trans-
+formational issues in researching IS and net-enabled organiza-
+tions. Inform. Systems Res. 12(4) 337–345.
+
+Tabachnick, B. G., L. S. Fidell. 1989. Using Multivariate Statistics.
+
+Allyn & Bacon, Harper, NY.
+
+Tenkasi, R. V., R. J. J. Boland. 1996. Exploring knowledge diver-
+sity in knowledge intensive ﬁrms: A new role for information
+systems. J. Organ. Change Management 9(1) 79–91.
+
+The McKinsey Quarterly. 2007. How businesses are using Web 2.0:
+
+A McKinsey Global Survey. McKinsey Quart. 2–9.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 
+Saraf, Langdon, and Gosain: IS Application Capabilities and Relational Value in Interﬁrm Partnerships
+Information Systems Research 18(3), pp. 320–339, © 2007 INFORMS
+
+339
+
+Truman, G. E. 2000. Integration in electronic environment. J. Man-
+
+agement Inform. Systems 17(1) 209–244.
+
+Tsai, W. 2002. Social structure of “coopetition” within a multiu-
+nit organization: Coordination, competition, and intraorgani-
+zational knowledge sharing. Organ. Sci. 13(2) 179–190.
+
+Tucker, A. L. 2004. The impact of operational failures on hospital
+
+nurses and their patients. J. Oper. Management 22(2) 151–170.
+
+Uzzi, B. 1997. Social structure and competition in interﬁrm net-
+works: The paradox of embeddedness. Admin. Sci. Quart. 42(1)
+35–67.
+
+Van Camp, S. 2004. New platform distributes marketing content to
+
+CE partners. Adweek Magazines’ Tech. Marketing.
+
+Van de Ven, A. H., A. L. Delbecq, R. J. Koenig. 1976. Determinants
+of coordination modes within organizations. Amer. Sociol. Rev.
+41(2) 322–338.
+
+Venkatraman, N., V. Ramanujam. 1986. Measurement of business
+performance in strategy research: A comparison of approaches.
+Acad. Management Rev. 11(4) 801–814.
+
+von Hippel, E. 1994. The Sources of Innovation. Oxford University
+
+Press, New York.
+
+Wall, T. B., M. Jonathan, M. Patterson, S. J. Wood, M. Sheehan, C. W.
+Clegg, M. West. 2004. On the validity of subjective measures
+of company performance. Personnel Psych. 57(1) 95–118.
+
+Weill, P., M. Vitale. 1999. Assessing the health of an information
+systems applications portfolio: An example from process man-
+ufacturing. MIS Quart. 23(4) 601–624.
+
+Weiss, A. M., N. Kurland. 1997. Holding distribution channel rela-
+tionships together: The role of transaction-speciﬁc assets and
+length of prior relationships. Organ. Sci. 8(6) 612–623.
+
+Williamson, O. 1985. The Economic Institutions of Capitalism. The Free
+
+Press, New York.
+
+Williamson, O. E., S. Clegg, C. Hardy, W. Nord. 1996. Transaction
+cost economics and organization theory. S. Clegg, C. Hardy,
+W. Nord, eds. Handbook of Organization Studies. Sage, Newbury
+Park, CA.
+
+Yang, J., M. P. Papazoglou. 2000. Interoperation support for elec-
+
+tronic business. Comm. ACM 43(6) 39–47.
+
+Zaheer, A., N. Venkatraman. 1994. Determinants of electronic inte-
+gration in the insurance industry: An empirical test. Manage-
+ment Sci. 40(5) 549–566.
+
+Downloaded from informs.org by [131.193.251.47] on 02 August 2017, at 11:39 . For personal use only, all rights reserved. 

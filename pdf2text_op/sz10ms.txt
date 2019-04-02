@@ -1,0 +1,3121 @@
+MANAGEMENT SCIENCE
+Vol. 56, No. 8, August 2010, pp. 1398–1414
+issn 0025-1909! eissn 1526-5501! 10! 5608! 1398
+
+informs ®
+doi 10.1287/mnsc.1100.1188
+© 2010 INFORMS
+
+Management Economics in a Large Retail Company
+
+Birmingham Business School, University of Birmingham, Birmingham B15 2TT, United Kingdom, w.s.siebert@bham.ac.uk
+
+W. Stanley Siebert
+
+University of Tilburg, 5000 LE Tilburg, The Netherlands, n.v.zubanov@uvt.nl
+
+Nikolay Zubanov
+
+We use unique data from 245 stores of a UK retailer to study links among middle (store) manager skills,
+
+sales, and manager pay. We ﬁnd that, of the six management practice areas surveyed, the most important
+is “commercial awareness,” where abler managers achieve up to 13.9% higher sales per worker. We ﬁnd that
+many stores have poor managers on this indicator. However, the company is careful to incentivize managers,
+operating a scheme giving shares (approximately 20%) in both positive and negative deviations of actual sales
+from expected. Abler managers do not receive higher pay, implying that their skills are company speciﬁc.
+Key words: management; ﬁrm behavior; business economics; productivity; compensation methods
+History: Received July 20, 2009; accepted March 22, 2010, by Olav Sorenson, organizations. Published online in
+
+Articles in Advance July 2, 2010.
+
+Introduction
+
+1.
+Although debates continue on what makes good man-
+agement, there is little doubt that management, just
+as other production inputs, matters to ﬁrm perfor-
+mance. Yet the observed effects of management on
+performance are in part shaped by corporate gover-
+nance practices aimed at dealing with, among other
+issues, lack or misallocation of resources within the
+ﬁrm and agency concerns stemming from the divi-
+sion of ownership and control. This study combines
+the perspectives on management as an input into pro-
+duction function and as an outcome of corporate gov-
+ernance in an attempt to produce a fuller picture of
+its effect on performance.
+
+Taking the management input perspective, we esti-
+mate the effect of middle management skills on the
+economic performance of the establishments of a
+single ﬁrm. Our unique, uniformly collected data
+from more than 200 retail stores of a UK clothing
+specialist offer an opportunity to study the impor-
+tant, but elusive, middle management input (Kanter
+2004) in isolation from the confounding inﬂuences
+of most ﬁrm-speciﬁc factors. Controlling for a num-
+ber of other inputs, observed and unobserved, we
+obtain plausible estimates of the differences in sales
+per worker between stores due to differences in their
+managers’ skill grades, with the highest-grade man-
+agers achieving up to 13.9% higher sales per worker
+than those with the lowest grade.
+
+We next turn to the corporate governance per-
+spective, looking at the particular ﬁrmwide practices
+shaping the overall contribution of middle manage-
+ment to sales: manager allocation among stores and
+
+incentivization. We ﬁnd that, because it is hard to
+dismiss underperforming managers or easily improve
+their allocation among stores, the company operates
+a type of incentive pay scheme in pay contracts
+reviewed every year. Under this scheme, store man-
+agers bear a deﬁnite share (approximately 20%) in
+deviations of actual store sales from expected, giv-
+ing them an incentive to perform to the best of their
+ability, high or low as the case may be. At the same
+time, we ﬁnd that store managers’ skill grades are not
+reﬂected in their pay. Consistent with the resource-
+based view of the ﬁrm, these skills therefore exem-
+plify highly speciﬁc human capital, valuable to the
+ﬁrm and yet not valued outside, and thus a source of
+competitive advantage for the ﬁrm that we study.
+
+The rest of the article is organized as follows.
+Section 2 offers a review of the literature on the per-
+formance effects of middle management and how
+these managers are themselves managed. Section 3
+introduces the data and estimation techniques used
+in the regression analysis that underlies the results
+presented in §§4 and 5. In §6 we use our regression
+results to assess the economic importance of manage-
+ment skills and corporate governance practices and
+relate our ﬁndings to the earlier studies. Section 7
+concludes.
+
+2. Prior Literature and Our Study
+“Executives matter” argue Hambrick and Mason
+(1984, p. 194), but this proposition is surprisingly
+difﬁcult to prove empirically. Further questions as
+to how much they matter, and how best to man-
+age them, arise. Moreover, these questions radiate
+
+1398
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+1399
+
+beyond the top executive to the top management
+team (Finkelstein et al. 2009, Chap. 5) and further to
+the ranks of middle managers below. The basic difﬁ-
+culty, of course, is that the management input is pecu-
+liarly difﬁcult to measure.
+
+Several methods are available. Historically, estimat-
+ing the effect of management on performance began
+by capturing it
+through manager (or CEO) ﬁxed
+effects. In other words, a panel of ﬁrms and CEOs
+was followed over time, allowing variation in per-
+formance to be apportioned into year, industry, com-
+pany, and CEO effects. Studies within this approach
+started with Mundlak (1961) (see also Lieberson and
+O’Connor 1972, Lieberman et al. 1990, Bertrand and
+Shoar 2003, and Crossland and Hambrick 2007). Typi-
+cally manager ﬁxed effects are found to be statistically
+signiﬁcant, though to many, starting with Lieberson
+and O’Connor (1972), they seem surprisingly small.
+There is also the question of what an “average” man-
+ager effect can mean, given that industries naturally
+vary in the extent to which “managerial discretion”
+(Finkelstein et al. 2009, pp. 26–36) can be exercised.
+A further problem is that the ﬁxed effects are tracked
+via the CEO and offer little insight into Kanter’s
+(2004) “innovative” middle management tier.
+
+Another approach to capturing the management
+input is to analyze share price movements associated
+with CEO turnover, hypothetical or actually observed.
+Terviö (2008), using CEO pay as a proxy for their abil-
+ity, calculates that, if we were to replace the CEOs of
+the 1,000 largest U.S. businesses with the lowest paid
+and presumably least able, their total capital value
+would fall by 0.13%–0.16% in 2004, or by 4.3%–5.3%
+in the long run, applying a 3% future discount rate
+(approximately the average of the Federal Reserve
+System’s discount rate for 2004). Hayes and Schaefer
+(1999) ﬁnd that share prices fall by 3%–5% when a
+(presumably more able) CEO quits for a better job, an
+effect of similar magnitude to Terviö’s (2008). How-
+ever, the applicability of the approach using share
+price movements is limited to large publicly quoted
+ﬁrms.
+
+A more universal approach is to measure manager
+skills directly, which is what we do in this study. Well
+known examples of this approach, though initially
+conﬁned to skills in the human resource management
+(HRM) area, are the Huselid (1995) and Ichniowski
+et al. (1997) management practice surveys. Other
+studies consider several HRM practices together, as
+separate inputs into production process (Capelli and
+Neumark 2001) or as “bundles” (Macdufﬁe 1995,
+Ichniowski et al. 1997, Black and Lynch 2004). There
+are two general conclusions emerging from this lit-
+erature: (i) HRM practices matter individually, and
+(ii)
+is greater when they are bundled,
+
+the effect
+
+making a coherent work system connected with other
+parts of the organizational capital of the ﬁrm.
+
+More recently, the surveys have expanded to cover
+a wide range of management practices. Bloom and
+Van Reenen’s’s (2007) study scores eighteen indi-
+vidual practices from 732 ﬁrms in four countries
+(the United Kingdom, the United States, France, and
+Germany) to produce an average management score
+for each company. This score, reﬂecting the overall
+ability of the top management team, is found to be
+positively associated with a range of ﬁrm economic
+performance measures. Grifﬁths et al. (2006) use the
+“balanced scorecard” approach of Kaplan and Norton
+(1992) to calculate manager scores on ﬁnancial, cus-
+tomer satisfaction, innovation, and internal controls
+criteria in stores of a UK building materials whole-
+saler, again ﬁnding a strong association with ﬁrm per-
+formance. Their study is more like ours in that it looks
+at the middle manager level, with the company’s top
+management policies given.
+
+The contribution of managers to ﬁrm perfor-
+mance is affected by what is known as the “agency
+problem”—a misalignment of
+the manager’s and
+the owner’s incentives (Bebchuk and Fried 2003,
+Carpenter and Wade 2002). This problem is partic-
+ularly important for large and geographically dis-
+persed ﬁrms such as our study company—hence the
+importance of managing the managers in our study.
+Speciﬁcally, we consider two practices of managing
+the managers applied within our study company:
+incentivizing store managers to perform and allocat-
+ing managers suitably across stores within the ﬁrm.
+There are two main theoretical models of incen-
+tive pay: Holmström’s’s (1979) pay-for-performance
+model, which predicts that conditioning pay on out-
+put is essential for inducing worker effort, and Lazear
+and Rosen’s (1981) tournament-based model, which
+predicts that effort is induced by workers’ compet-
+ing for higher positions in an organizational hierarchy
+offering progressively higher pay. Substantial empir-
+ical evidence exists on both models (see Prendergast
+1999 for a survey). Speciﬁcally for the middle man-
+agement level, Lambert et al. (1993) ﬁnd that the
+earnings gap between the plant manager and the cor-
+porate CEO can be explained through a mix of pay for
+performance and tournaments-based elements. Roth
+and O’Donnell’s (1996) study of manager pay in over-
+seas subsidiaries ﬁnds that the weight given to pay
+for performance increases with “cultural distance”
+of a subsidiary manager from central headquarters,
+which is plausible because cultural distance increases
+information asymmetry and hence the extent of the
+agency problem. As a contribution to the pay-for-
+performance literature, we show how our study com-
+pany has developed a manager pay review system
+based on expected annual store sales to make the
+
+
+1400
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+most of its available store manager pool. Building
+on this system, we develop a measure of expected
+sales and ﬁnd that positive (negative) deviations are
+rewarded (punished), as expected.
+
+As for manager allocation, Lucas’s (1978) model
+predicts that abler managers will end up in con-
+trol of larger establishments, because of the “scale of
+operations” effect (that is, the contribution of good
+managers to overall proﬁt is magniﬁed by their estab-
+lishment’s size). We ﬁnd the scale of operations effect
+is indeed manifested among the company’s stores, but
+it seems weaker than in the larger economy (as in
+Terviö 2008). Store managers appear difﬁcult to re-
+allocate perhaps because their skills are highly spe-
+ciﬁc (such skills being difﬁcult to imitate and hence a
+source of competitive advantage—see Holcomb et al.
+2009). In other words, middle managers’ skills in our
+company exemplify skills speciﬁcally tied (Bailey and
+Helfat 2003) to knowledge of their particular store
+and its personnel, customers, and internal strengths
+and weaknesses. The high proportion of top man-
+agers (nearly 90% in Bailey and Helfat’s 2003 study)
+recruited internally already suggests skill speciﬁcity
+at the top level. We now ﬁnd such speciﬁcity farther
+down the hierarchy as well.
+
+3. Data and Method
+3.1. The Study Company
+Our study company is a large UK-based clothing
+retailer with more than 600 stores in the United King-
+dom and many more internationally, though we con-
+ﬁne ourselves to the UK operations. At the top of
+the organizational hierarchy is central headquarters
+(HQ), where companywide ﬁnancial, marketing, and
+operational decisions are made. Thus, HQ decides on
+the goods to be sold and managers to be employed
+at each store, as well as their remuneration. Sales
+assistants’ pay rates and store wage budgets are also
+set by HQ in the beginning of each accounting year
+(February), taking into account changes in operat-
+ing environment and newly acquired information.
+Wage budgets, in particular, are set according to a
+“wage budget rule,” allowing wages to be no more
+than a certain fraction (approximately 10%) of the
+previous year’s sales. This rule of course sets an
+important constraint on how many worker-hours a
+manager can hire over the year because wage rates
+are given. A network of twenty regional managers
+coordinates store managers and, importantly, negoti-
+ates the implementation of the wage budget rule and
+helps assess store manager performance.
+
+Even though store managers’ activities are closely
+directed by HQ, which sets both product prices and
+wage budgets, they have considerable autonomy in
+the day-to-day running of their stores, and their
+
+assessments reveal considerable variation in their
+skill levels (see §3.3). Generally speaking, they must
+maintain an attractive store appearance and provide
+adequate customer service within the store’s wage
+budget. An important part of this task is ensuring
+there are enough sales assistants at all times, which
+is generally achieved through maintaining a pool of
+part-time workers employed at peak times and laid
+off when business is quiet. Store managers are also
+responsible for sales assistants’ selection, training, and
+promotion; in fact, nearly two-thirds of store man-
+agers are recruited from sales assistants.
+
+Our analysis runs through the data collected for the
+trading year February 2005 to February 2006. The rea-
+son for taking only one year’s worth of observations
+is to ensure that the same manager was in charge of a
+given store for the entire study period. All managers
+who participated in the assessment must have been
+running their stores for at least a year as of February
+2006. There are 245 such stores.
+
+3.2. Descriptive Statistics
+Table 1 offers an illustration of the workings of our
+study company and its environment. The average
+store is, in UK terms, comparable to a small enter-
+prise, producing approximately £60 worth of sales
+per worker-hour, employing 314.5 worker-hours of
+labor per week (8.4 full-time-equivalent (FTE) work-
+ers, 1 week = 37!5 hours), and occupying approxi-
+mately 150 square meters of space (store space being
+our measure of capital input). Even though all our
+stores belong to the same company, selling the main
+brand of medium-priced casual clothing and gen-
+erally located in large shopping centers, they vary
+considerably in sales per worker-hour (our measure
+of labor productivity), giving a standard deviation
+of £15.07. We aim to explain this high variation in
+productivity.
+
+The company needs to accommodate large ﬂuctu-
+ations in business by day of the week and season,
+which requires a ﬂexible workforce. Indeed, most of
+the sales assistants work less than 15 hours per week.
+There is also considerable employee turnover (the
+FTE separation rate is 15% annually, approximately
+30% in headcount terms), characteristic of the retail
+sector. Such ﬂuid conditions present a challenge to the
+store manager, who must match labor input to ﬂuc-
+tuating demand while keeping labor turnover under
+control. Competitive pressures, averaging 36.45 stores
+in the catchment area, pose another challenge for store
+managers.
+
+We see that an average store manager is in her
+late 30s and has been with the company for a con-
+siderable part of her working life. Most of the man-
+agers are women, but the share of men (0.27) is twice
+as high as for sales assistants. Their average pay rate
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+Table 1
+
+Descriptive Statistics
+
+Variable
+
+Obs.
+
+Mean
+
+Std. dev.
+
+Store characteristics
+12!671
+12!671
+245
+
+Sales per hour worked
+Total hours worked per week
+Capital control: Store space in
+
+square meters
+Store belongs to:
+
+Main brand
+Other brands
+Store location:
+
+Stand-alone, city center
+Stand-alone, local area
+Subregional shopping center
+Regional shopping center
+Other
+
+Share of children’s products in
+
+total sales
+
+245
+245
+
+245
+245
+245
+245
+245
+245
+
+Sales assistants characteristics
+
+Average sales assistant’s age,
+years, adjusted for full-time
+equivalence (FTE)
+
+Average sales assistant’s tenure,
+
+years, FTE
+
+Share of male sales assistants,
+
+FTE
+
+Share of sales assistants working:
+
+0–4 hours per week
+5–14 hours per week
+15–30 hours per week
+30+ hours per week
+Sales assistant’s average hourly
+pay
+
+Area average hourly pay for a
+
+similar joba
+
+Number of sales assistants
+
+working on an average week
+Number of sales assistants ever
+
+worked during the year
+
+245
+
+245
+
+245
+
+245
+245
+245
+245
+245
+
+21
+
+12!656
+
+245
+
+Separations rate, FTE
+
+Area average pay
+Area unemployment rate
+Number of competitors in a
+
+store’s catchment areac
+
+245
+Area characteristics
+21
+21
+245
+
+Store manager characteristics
+
+236
+236
+236
+236
+
+Manager age (years)
+Manager experience (years)
+Store manager is male
+Manager hourly pay (based on
+
+1,900 hours worked per year),
+data for 2006
+
+Area average hourly pay for a
+
+similar jobb, data for
+January–September 2006
+
+59"93
+314"48
+148"98
+
+15"07
+211"76
+82"47
+
+0"93
+0"07
+
+0"13
+0"1
+0"44
+0"16
+0"17
+0"29
+
+34"71
+
+7"26
+
+0"13
+
+0"33
+0"25
+0"22
+0"2
+5"02
+
+7"49
+
+15"32
+
+22"47
+
+0"15
+
+11"05
+0"05
+36"45
+
+38"06
+10"71
+0"27
+11"24
+
+0"26
+0"26
+
+0"34
+0"3
+0"5
+0"37
+0"36
+0"11
+
+6"61
+
+3"71
+
+0"14
+
+0"19
+0"17
+0"16
+0"1
+0"23
+
+0"87
+
+11"06
+
+17"04
+
+0"11
+
+1"54
+0"01
+25"89
+
+10"09
+6"38
+0"44
+2"59
+
+21
+
+11"06
+
+1"45
+
+aIntermediate, routine, and semiroutine sales and services (categories 7.2,
+
+12.1, 12.2, and 13.1 of the Labour Force Survey occupation classiﬁer).
+
+bLower managerial (category 5.0) and lower and higher supervisory occu-
+
+pations (categories 6.0 and 10.0).
+
+cInformation on competitors in each store’s catchment area is derived
+
+from a company survey.
+
+1401
+
+(£11.24 per hour) exceeds that for similar occupations
+in the area (£11.06 per hour)—unlike that of sales
+assistants. Note that the manager pay data are for
+2006, one year after the sales data, as our incentive
+pay model (§5.1) requires.
+
+the
+
+3.3. Key Behavioral Indicators
+The basis for our study is the company’s unique sur-
+vey of six management practice areas, or key behav-
+ioral
+indicators (KBIs): “sales focus,” “commercial
+awareness,” “developing people,” “drive and personal
+development,” “leadership,” and “planning and orga-
+nizing.” Each participating store manager received
+one of the three grades for each KBI—“development
+need” (signifying inadequate performance), “capable”
+(minimum appropriate performance), and “strength”
+(exceptional performance)—matching
+grade
+descriptions in Table 2. In addition to the individual
+KBI grades, the managers’ overall performance was
+also graded, ranging from E (lowest) to A (highest),
+based on the sum of scores on individual KBIs. All
+managers who had worked in their stores for at least
+one year as of early 2006 took part. This minimum
+tenure restriction ensures that every store manager
+had enough evidence for his or her skills to be ade-
+quately assessed. It took a dedicated HR team, store,
+and area managers ﬁve months to collect, verify, and
+summarize these data.
+
+The objectivity of the KBI grades is important
+because we wish to use them to help explain store
+performance (as, indeed, does the company). Let us
+ﬁrst consider the KBI measurement method. Each
+store manager had initially to self-assess by ﬁlling in
+the survey questionnaire. Those self-assessments were
+later discussed with the area managers, and then,
+based on the evidence supporting the self-assessment
+results, agreed assessments were produced.
+
+As we show, it is the area manager who gives the
+KBI measures objectivity. The question is whether the
+area manager is inﬂuenced by store sales themselves
+in assessing the store manager skills, which we now
+consider. Given the lack of repeated KBI observations
+by store, we cannot test for a possible reverse causal-
+ity between sales and KBI grades, which remains a
+caveat to our analysis. However, we believe that sales
+affecting KBI grades is unlikely, because there is no
+mention of sales in the KBI grade descriptions. Sales
+together with other “hard” performance outcomes,
+such as employee turnover and the wage budget tar-
+get, were monitored in a separate Key Performance
+Indicators survey administered by another depart-
+ment within the company. The KBI survey, on the
+other hand, is an expensive effort aimed at identify-
+ing managers’ strengths and weaknesses and testing
+the company’s beliefs about which managerial skills
+are good for performance (in fact, our results do not
+support some of these beliefs).
+
+
+1402
+
+Table 2
+
+Key Behavioral Indicators
+
+KBI and components
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+Grade capable
+
+I. Sales focus
+
+Grade strength
+
+1. Maintains high operational and visual
+
+standards
+
+Delivers the company operational and visual
+
+standards to drive sales performance
+
+2. Uses company initiatives to increase sales Makes sure all training and selling initiatives are
+
+delivered
+
+3. Exhibits and develops selling skills within
+
+the team
+
+4. Uses reports and information to improve
+
+sales performance
+
+Displays thorough product knowledge and effective
+
+selling skills; ﬂexes selling conversations
+according to consumer types
+
+Reviews and analyzes reports and sales information
+
+to improve performance
+
+Generates a passion for high operational and visual
+standards in everyone; store consistently delivers
+high standards
+
+Gains commitment from all team members so that
+training and selling initiatives become properly
+embedded
+
+Can model excellent selling skills; observes
+
+performance on sales ﬂoor and gives feedback
+and recommendations for improvement
+
+Uses information to identify additional selling
+
+opportunities
+
+5. Uses knowledge of fashion trends to
+
+enhance sales performance
+
+Keeps up to date with fashion trends, can relate them
+
+to products, and uses this knowledge in selling
+
+Develops in others a knowledge of fashion trends
+and an ability to incorporate this when selling
+
+1. Aligns own plans to business priorities
+
+II. Commercial awareness
+
+Makes plans for peak trading periods to ensure
+
+effective use of resources
+
+2. Uses knowledge of products to maximize
+
+business performance
+
+Knows the performance of all departments and key
+
+products within each of these
+
+3. Delivers controllable costs
+
+4. Observes own and monitors competitors’
+
+activity
+
+1. Is a positive role model
+
+2. Is an effective communicator
+
+3. Builds winning teams
+
+4. Makes sound decisions
+
+5. Manages poor performance
+
+6. Deals with and resolves problems
+
+7. Manages change
+
+Can manage payroll and makes plans to deliver wage
+
+control
+
+Constantly reviews the store through the eyes of a
+customer and makes adjustments to improve the
+shopping experience
+
+III. Leadership
+
+Behavior and work of a high professional standard.
+
+Respected by colleagues
+
+Sets clear expectations of performance standards
+Communicates information clearly and concisely
+
+Encourages a sense of friendly competition and
+
+cooperation; praises and recognizes good
+performance
+
+Can be relied on to make decisions right for the store
+
+and the business
+
+Takes appropriate and timely action to address poor
+
+performance
+
+Can deal with problems and seeks advice when
+
+needed to resolve them
+
+Reacts to change positively and sells the beneﬁts to
+
+the team
+
+1. Uses company recruitment and induction
+
+practices
+
+Follows company procedures in recruitment;
+
+provides induction training to new hires
+
+IV. Developing people
+
+Knows the trading period strategy and uses it to
+identify priorities and determine plans that will
+provide the best ﬁnancial results
+
+Makes the best use of space on the sales ﬂoor given
+
+the store’s product mix
+
+Is ﬂexible and can adjust manpower to deliver a
+
+great experience for customers while achieving
+the wage control targets
+
+Monitors local competitors and considers shopping
+
+experiences in other retailers to make
+improvements in own store
+
+Is a highly credible role model, an inspiration for
+
+others
+
+Listens and responds well. Encourages sharing of
+
+ideas; adapts the style of communication to build
+rapport
+
+Generates a positive “buzz”; coaches and motivates
+
+the team to succeed while maintaining good
+working relationships
+
+Makes excellent decisions and considers their
+
+immediate and long-term impact; puts plans in
+place to overcome potential barriers
+
+Differentiates between conduct and capability,
+
+identiﬁes the root cause of poor performance and
+manages it accordingly
+
+Tackles problems in their early stages and can make
+
+sound decisions to resolve them objectively
+
+Puts plans in place to implement change
+
+successfully; deals with resistance in a positive
+way
+
+Has a good working knowledge of recruitment
+
+practices; follows up all induction sessions to
+ensure their effectiveness
+
+Identiﬁes training need and uses available materials
+
+to deliver effective training
+
+Consistently uses feedback to enhance performance
+
+2. Uses training to continuously improve
+
+performance
+
+3. Uses feedback to improve performance
+
+4. Completes performance development
+
+reviews
+
+5. Develops people for the future
+
+Ensures everyone complete standard training
+
+requirements; keeps training records up to date
+Gives genuine praise and constructive criticism to
+
+improve performance
+
+Ensures all employees attend one review meeting
+
+each year to agree on business goals and identify
+development opportunities
+
+Follows up the formal performance review with
+
+informal reviews of the agreed goals and
+development activities
+
+Identiﬁes and develops individuals who demonstrate
+
+potential and a desire to progress
+
+Has a succession plan in place and develops talent
+
+so that positions can be ﬁlled internally
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+1403
+
+Table 2
+
+(Continued)
+
+KBI and components
+
+1. Is committed to company standards
+
+2. Is motivated to succeed
+
+3. Responds to challenges positively
+
+4. Takes responsibility for own development
+
+1. Plans in advance
+
+2. Prioritizes tasks
+
+3. Delegates effectively and meets deadlines
+
+Grade capable
+
+Grade strength
+
+V. Drive and personal development
+
+Shows commitment to achieve agreed performance
+
+Strives to exceed performance standards
+
+standards
+
+to succeed
+
+challenges well
+
+Demonstrates passion and enthusiasm, is motivated
+
+Is a self-starter, is consistently passionate, and
+
+Maintains a positive outlook and responds to
+
+Demonstrates a “can do” attitude. Is resilient under
+
+shows dedication to the task
+
+challenging circumstances
+
+Looks for opportunities to enhance skills and
+knowledge; shows initiative to improve self
+
+Maintains a personal development plan; can
+
+demonstrate improvements in skills, knowledge,
+and behavior over time
+
+VI. Planning and organizing
+Uses company materials to plan in advance
+
+Considers tasks according to importance and
+urgency; understands the difference among
+“must do,” “should do,” and “nice to do”
+
+Delegates tasks and follows them up to ensure that
+
+deadlines are met
+
+Plans ahead on a daily and weekly basis and
+
+carefully considers forthcoming trading periods
+
+Prioritizes logically and according to maximum
+
+business beneﬁt
+
+Delegates appropriately and takes time to put tasks
+into context; monitors progress so that deadlines
+are met
+
+Note. Grade “development need” was given for substandard performance.
+Source. Survey documentation, minimal editing applied.
+
+Looking at the KBI grade descriptions in Table 2,
+we see an extensive range of practices, from the
+more administrative (such as planning and organiz-
+ing) to the more entrepreneurial (such as commercial
+awareness). Attention is paid to HRM practices, too,
+with the KBI developing people related to some of
+the “high-performance” work practices described in
+Pfeffer (1998), such as training and communication
+with employees. Admittedly, there are overlaps; for
+example, both sales focus and leadership reward team
+building. At the same time, the important commercial
+awareness KBI appears to be unique. It emphasizes
+four skills: Knowing the trading period strategy, mon-
+itoring local competition, adjusting manpower subject
+to wage control, and making best use of space—none
+of which are touched on by the other KBIs. As we
+show below, by comparing the estimates for the KBIs
+entered separately and jointly into the sales equation,
+the characteristics of commercial awareness matter for
+sales the most. To repeat, none of the four skills mea-
+sured under this KBI mentions store sales.
+
+Table 3 shows that the performance of store man-
+agers with respect to the KBIs varies considerably.
+Approximately 20% were rated as development need
+for sales focus, commercial awareness,
+leadership,
+and drive and personal development, and approxi-
+mately one-quarter were rated at the highest grade.
+The best-performing KBI is planning and organizing,
+in which 95% of the store managers achieve satisfac-
+tory performance. The weakest results are for devel-
+oping people, with 40% of store managers rated as
+underperforming.
+
+We would expect the KBI grades to be linked to
+store labor productivity. Indeed, as Table 3 demon-
+strates, managers with higher KBI grades are found
+in more productive stores. This early indication of
+the link between manager skills and performance
+is encouraging but needs to be tested controlling
+for other factors, especially the fact that stores with
+higher-graded managers are also larger and located in
+more competitive areas, each of these factors affecting
+productivity on its own. In the sections to follow, we
+apply multivariate regression analysis to test whether
+the KBIs really translate into sales performance.
+
+3.4. Estimation Issues
+We begin our regression analysis by estimating the
+contribution of manager skills to sales, controlling
+for labor and store space, as well as store, area, and
+workforce characteristics. We do not have data on the
+cost of sales, which is an obvious input in the sales
+function, but, plausibly assuming that it is a constant
+fraction of the total sales, we can abstract from it.
+We assume that the sales function is Cobb-Douglas.
+Our robustness checks (skipped here but available on
+request) show that this simple functional form is ade-
+quate for our data.
+
+Because management input is ﬁxed for the whole
+year, we could in principle aggregate our weekly sales
+and labor input data and estimate the sales func-
+tion on the year totals. The problem with this simple
+approach, however, is that it may bias the estimate
+for the elasticity of sales with respect to the labor
+input, leading to biased estimates for manager skills
+because labor and management inputs are correlated.
+
+
+1404
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+Table 3
+
+Averages of Key Variables by KBI Grade
+
+KBI
+
+Sales focus
+
+Commercial awareness
+
+Leadership
+
+Developing people
+
+Drive and personal
+
+development
+
+Planning and organizing
+
+Grade
+
+Development need
+Capable
+Strength
+Development need
+Capable
+Strength
+Development need
+Capable
+Strength
+Development need
+Capable
+Strength
+Development need
+Capable
+Strength
+Development need
+Capable
+Strength
+
+%
+
+17"14
+59"18
+23"68
+17"55
+56"33
+26"12
+17"55
+54"29
+28"16
+39"59
+44"90
+15"51
+21"22
+49"80
+28"98
+4"49
+42"04
+53"47
+
+FTE
+
+personnel
+
+Store
+
+Manager
+space, sq. m pay, £/hour
+
+Competition,
+
+1 to 4a
+
+Sales per
+
+hour worked, £
+
+6"49
+7"97
+11"61
+6"56
+7"75
+11"72
+7"30
+7"49
+11"48
+7"33
+8"24
+12"74
+6"87
+8"00
+10"83
+7"13
+6"97
+9"97
+
+119"57
+142"93
+185"37
+125"73
+139"41
+185"24
+136"25
+132"71
+188"28
+134"50
+140"66
+210"02
+125"04
+140"58
+180"95
+135"22
+124"62
+169"29
+
+10"48
+10"95
+12"55
+10"29
+10"96
+12"54
+10"55
+10"83
+12"53
+10"65
+11"08
+13"24
+10"61
+11"10
+11"95
+11"02
+10"54
+11"80
+
+2"24
+2"41
+2"82
+2"19
+2"31
+3"07
+2"40
+2"27
+2"86
+2"31
+2"39
+3"09
+2"29
+2"35
+2"80
+2"36
+2"18
+2"71
+
+55"45
+59"47
+61"60
+55"59
+58"49
+62"80
+57"34
+59"24
+61"01
+58"32
+59"36
+62"20
+57"20
+59"43
+61"04
+60"56
+57"53
+60"86
+
+a1 = number of competitors 1–17 (bottom 25%), 2 = 18–30, 3 = 31–51, and 4 = 52+ (top 25%).
+
+The current year’s labor input is correlated with the
+last year’s shock to sales through the wage budget
+rule. If the last year’s shock to sales continues to
+affect the current year’s sales then sales and labor
+input will be simultaneously determined, causing an
+upward bias to labor input’s estimate. Indeed, run-
+ning a simple regression with year totals (not shown)
+gives an improbably large labor input elasticity
+estimate: 1.02.
+
+An alternative approach, also implemented in pre-
+vious studies of the management input (e.g., Black
+and Lynch 2004, Bloom and Van Reenen’s 2007), is
+to include store ﬁxed effects in the production func-
+tion to control for the possible correlation between
+labor input, which varies by week, and store-speciﬁc
+unobservables (such as last year’s sales shock), which
+are ﬁxed for at least one year. Having weekly data
+on sales and employment, we also allow for dynam-
+ics in the response of sales to changes in labor input.
+For instance, hours spent on shelving in one week
+may increase sales in the following weeks. Our inclu-
+sion of lags will improve the quality of the estimates
+for labor input by allowing for differences between
+short- and long-run labor input elasticities. However,
+the lags do not change the regression estimates for the
+KBIs materially.
+
+Because,
+
+like unobservables, management, store
+space, and other controls are also ﬁxed throughout
+the year, introducing store ﬁxed effects necessitates a
+two-stage estimation procedure as follows. At the ﬁrst
+stage we obtain the estimates for the short- and long-
+
+run labor input elasticities, ""1 and #""1 +""2$/#1− ˆ%$,
+by running the sales equation with store ﬁxed effects:
+
+ln#sales$it = % ln#sales$it−1 + "1 ln#labor$it
+
++ "2 ln#labor$it−1 + week dummyt
++ ﬁxed effecti + error1st stage
+
+(1)
+where i = 1 ! ! ! 245 and t = 1 ! ! ! 52 are the store and
+week counters. The elasticities’ standard errors are
+calculated by using the delta method.1 We then pro-
+ceed to the second stage, where we use the estimated
+ﬁxed effects as the dependent variable, as follows:
+
+&
+
+it
+
+!ﬁxed effecti = ’1 ln#space$i + ’2KBIi + ’3other controlsi
+
+(2)
+
++ error2nd stage
+
+i
+
+!
+
+It is at this stage that we obtain the estimates (’2) for
+the KBI grades.
+
+The literature identiﬁes three other estimation
+issues. First, the labor input elasticity may be overes-
+timated since sales and labor input may be simultane-
+ously determined by an unobserved process (Blundell
+
+1 To see that ""1 and #""1 +""2$/#1− ˆ%$ represent the short- and long-
+run labor input elasticities, it is enough to rewrite Equation (1) in
+the error-correction form,
+△ ln#sales$it = "1△ ln#labor$it + error1st stage
+ln#sales$it−1−
+1
+1−%
+
+"1+"2
+1−%
+week dummyt−
+
+ln#labor$it−1
+1
+1−%
+
+−#1−%$⎛
+⎜⎜⎝
+
+⎞
+⎟⎟⎠!
+
+ﬁxed effecti
+
+−
+
+it
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+1405
+
+et al. 2000), for instance, change in consumer tastes.
+To correct for the upward bias, following Bloom and
+Van Reenen’s (2007), we instrument labor input with
+its lags from 2 to 5. We ﬁnd, however, that instru-
+mentation makes little difference to the estimates, pre-
+sumably because using data from a single company
+helps ensure that time-varying unobservables are the
+same for all stores and thus can be captured by the
+week dummies. Second, estimating a dynamic equa-
+tion such as (1) on panel data produces a bias to some
+of the estimates, mainly % (Nickell 1981), which can
+be corrected by instrumenting the lagged dependent
+variable with its earlier lags. We choose, however,
+not to instrument it because of the loss of efﬁciency
+that the instrumenting would entail, while the bias in
+question is negligible in long (52 weeks) panels such
+as ours (see Judson and Owen 1999 for Monte-Carlo
+simulations of the bias). Finally, we test for autocor-
+relation in the ﬁrst-stage regression residual, ﬁnding
+which would imply an incorrectly speciﬁed model
+because in that case the error term would be corre-
+lated with one of the regression variables, ln#sales$it−1.
+Our ﬁrst-stage regression passes this test.
+
+3.5. Causality or Association?
+As noted earlier (Lucas 1978), it is proﬁt-maximizing
+for the company to allocate store managers with
+better skills to bigger and better-performing stores
+because store size and efﬁciency magnify the contri-
+bution of more skilled managers to the total proﬁt.
+The consequence of such nonrandom allocation will
+be an overestimate of the causal effect of manager
+skills on sales unless we can control for all of the rele-
+vant factors or use suitable instruments to recover the
+causal effect. Still, in the absence of such instruments
+and controls, we can reduce this bias by introducing
+a proxy for the unobservables as we now explain.
+
+Suppose that, holding all else constant, log sales
+depend on log management input (x), an unobserved
+store characteristic (z), and random noise (() that is
+uncorrelated with both x and z,
+
+ln#sales$ = )· x + z+ (!
+Because z is not observed, we estimate
+
+ln#sales$ = ˜)· x + e&
+
+where e = z + (. Applying the omitted variable bias
+formula, the expected value of the effect of manage-
+ment on sales is
+
+˜) = )+
+
+cov#x& z$
+var#x$
+
+&
+
+which is biased upward by cov#x& z$/var#x$ to the
+extent that better managers (higher x) are allocated to
+intrinsically more-productive stores (higher z).
+
+To illustrate this bias on our data, we run par-
+tial correlations between the commercial awareness
+score (0 = “development need,” 1 = “capable,” 2 =
+“strength”) as the measure of management input (x)
+and the store’s annual labor input (denoted z∗). The
+store’s annual labor input is used here because it is
+closely correlated with the unobserved z, holding all
+other inputs in the sales function ﬁxed.2 The estimate
+for the bias, cov#x& z∗$/var#x$, is 0.062. This estimate
+tells us that, if not corrected for the bias, the effect of
+management on sales will be overestimated, but it is
+not informative enough about the magnitude of the
+bias because we do not observe the distribution of the
+true z.
+
+Adding store-speciﬁc ﬁxed effects, as is done in
+Capelli and Neumark (2001) and Ichniowski et al.
+(1997), would eliminate this bias, but then the effect
+of management would not be separately identiﬁed
+because management input does not vary within
+store. We can, however, reduce the bias and allow
+for some independent variation in management input
+by grouping stores likely to have similar unobserv-
+ables. Store size measured as annual labor input is
+an appropriate criterion for grouping because, as we
+showed above, it is correlated with the unobserv-
+ables that we aim to capture. In fact, grouping stores
+into four size quartiles and adding a ﬁxed effect for
+each quartile reduces the estimated bias by 75%, from
+0.062 to 0.016, implying that stores within the same
+size quartile are quite similar in terms of the unob-
+servables. Our procedure thus corrects for a large part
+of the nonrandom manager selection bias, bringing
+the estimates for manager skills closer to their true
+causal effect.
+
+4. Regression Results for Store Sales
+Table 4 presents the regression results from both
+stages of
+the estimation procedure together. The
+ﬁrst-stage results are the same for all speciﬁca-
+tions reported in this table. The short- and long-
+run labor input elasticities (0.279 and 0.516, respec-
+tively) differ in a predictable direction, implying that
+
+2 Consider a Cobb-Douglas sales function with three inputs,
+labor (L), capital (K), and management (X), and a total factor pro-
+ductivity component (A) summarising all other inﬂuences on out-
+i · K’
+i ·
+i=1#w1i · Li + w2i · Xi$ = B,
+X)
+with wages (w1i&w 2i) given and K ﬁxed, a typical ﬁrst-order condi-
+tion for labor is
+ln Li =−
+
+put. Maximising expected sales across the stores, (N
+i · ezi , subject to the budget constraint, (N
+1− "− ) ·)ln *+ #1− )$ ln w1i
+
+i=1 Ai · L"
+
+1
+
+) *
+" + ) ln w2i
+1
+ln Ki +
+
+1− "− ) · zi&
+
+1
+
++
+
+1− "− )
+
+ln Ai +
+
+’
+
+1− "− )
+
+where * is the Lagrange multiplier. So, controlling for capital input,
+wages and A, the store’s annual labor input is simply linked to the
+unobserved store characteristic z.
+
+
+1406
+
+Table 4
+
+Regression Results for Sales
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+Dependent variable: Log sales
+
+(1)a
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Labor, short-run
+Labor, long-run
+Adjusted R2
+Number of observations
+
+First-stage equation (1)b
+
+Second-stage equation (2)
+
+Management gradesc
+
+0"279∗∗∗
+0"516∗∗∗
+0.678
+12,671
+
+Sales focus
+“Capable”
+“Strength”
+
+Commercial awareness
+
+“Capable”
+“Strength”
+Commercial awareness score (0 = “development need,”
+1 = “capable,” 2 = “strength”)
+Leadership
+“Capable”
+“Strength”
+
+Developing people
+
+Drive and pers. development
+
+“Capable”
+“Strength”
+
+“Capable”
+“Strength”
+
+“Capable”
+“Strength”
+
+Planning and organizing
+
+Overall grade (relative to C)
+A or B (15.1% of sample)
+D or E (19.6%)
+
+0"056∗∗
+0"114∗∗∗
+
+0"099∗∗∗
+0"176∗∗∗
+
+0"078∗∗∗
+0"092∗∗∗
+
+0"014
+0"074∗∗∗
+
+0"032
+0"079∗∗∗
+−0"015
+0"032
+
+0"100∗∗∗
+0"165∗∗∗
+0"078∗∗∗
+
+0"056∗∗
+0"022
+−0"023
+0"002
+
+0"008
+0"024
+−0"056
+−0"064
+
+−0"002
+0"029
+
+0"004
+0"029
+
+0"011
+0"029
+
+0"011
+0"030
+
+0"004
+0"030
+
+0"092∗∗∗
+0"139∗∗∗
+
+0"004
+0"016
+
+0"074∗∗
+0"120∗∗∗
+
+0"058∗
+
+0"067∗∗∗
+
+0"053
+0"016
+−0"019
+−0"003
+0"010
+0"034
+−0"051
+−0"062
+
+0"026
+−0"015
+−0"028
+−0"022
+−0"014
+−0"010
+−0"042
+−0"039
+
+0"027
+−0"015
+−0"030
+−0"024
+−0"014
+−0"006
+−0"038
+−0"040
+
+0"028
+−0"012
+−0"035
+−0"024
+−0"017
+−0"011
+−0"043
+−0"044
+
+Store space
+Weekly contract hoursd
+
+0–4
+5–14
+15–29
+
+ln(area average pay)
+Area unemployment rate
+ln(store assistant relative pay)
+Competitors in catchment areae
+
+18–30
+31–51
+52+
+Store size quartile ﬁxed effectsf
+Quartile effects× comm. awareness score
+Adjusted R2
+Number of observations
+
+Other controls
+0"284∗∗∗
+
+0"282∗∗∗
+
+0"113∗
+
+0"115∗∗
+
+0"116∗∗
+
+0"251∗∗∗
+0"147
+0"168∗
+0"770∗∗∗
+−2"449∗
+0"703∗∗∗
+
+0"012
+0"143∗∗∗
+0"248∗∗∗
+
+No
+No
+0"785
+
+0"280∗
+0"163
+0"198
+0"737∗
+−2"268
+0"724∗∗
+
+0"015
+0"141∗∗∗
+0"237∗∗∗
+
+No
+No
+0"785
+
+0"209∗
+0"180
+0"151
+0"543∗
+−1"591
+0"645∗∗
+−0"021
+0"010
+0"073
+Yes
+Yes
+0"872
+245
+
+0"213∗
+0"182
+0"161
+0"517
+−1"455
+0"617∗∗
+−0"023
+0"008
+0"072
+Yes
+No
+0"873
+
+0"195
+0"176
+0"147
+0"526
+−1"464
+0"623∗∗
+−0"025
+0"011
+0"081
+Yes
+No
+0"873
+
+No
+No
+
+Note. Other controls in each speciﬁcation include week dummies, area manager dummies (20), location, brand, average employee age, tenure, turnover, share
+of male employees, share of children’s products in total.
+
+aThe estimates for other controls in column (1) are skipped because column (1) summarizes results from six separate regressions, one for each KBI. These
+
+are available on request.
+
+bObservations for the ﬁrst stage are store weeks; labor input is instrumented with its lags from 2 to 5.
+c“Development need” is the base category.
+dShare of employees working 30+ hours per week is the base category.
+eThe number of competitors fewer than 17 (ﬁrst quartile of distribution) is the base category.
+fThe store quartile ﬁxed effects are four dummies picking up the annual labor input size quartile in which each store falls.
+∗∗∗, ∗∗, and ∗ denote estimates signiﬁcant at 1%, 5%, and 10%, respectively.
+
+it takes longer than one week for sales to react to
+an extra hour worked. The reduction in the magni-
+tude of the long-run labor input elasticity to 0.516
+from 1.02 estimated earlier is consistent with our
+hypothesis that last year’s sales shocks persist. The
+
+sum of the long-run labor elasticity, 0.516, plus the
+capital (store space) elasticity of approximately 0.11
+in our preferred speciﬁcation (column (6)) gives a
+returns to scale value below unity (as required for
+the company’s proﬁt maximization problem to have
+
+0"001
+−0"026
+−0"046
+−0"026
+−0"020
+−0"018
+−0"029
+−0"034
+0"013
+−0"083∗∗∗
+0"109
+
+0"216∗
+0"188
+0"166
+0"427
+−1"183
+0"500∗
+
+0"005
+0"037
+0"094∗
+Yes
+No
+0"877
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+1407
+
+an interior solution). Thus, our two-step procedure,
+which uses weekly, within-store variation in labor
+input—independent of last year’s sales shocks—is
+required to derive reasonable labor input elasticity
+and returns to scale parameters.
+
+Turning to the KBI grades, we ﬁrst enter them into
+the sales equation one by one (column (1)) and then
+together (columns (2)–(7)) with the aim of detecting
+overlaps and ﬁnding which one is most important.
+Looking at column (1), which contains estimates from
+six separate regressions, one for each KBI, most KBIs
+are individually signiﬁcant. Yet whenever all six KBIs
+are included together (for instance, in column (2))
+only commercial awareness remains signiﬁcant. The
+loss of individual signiﬁcance of KBI grades indicates
+substantial intercorrelations between different KBIs,
+probably as a result of overlapping deﬁnitions. Yet
+evidently it is the special characteristics of commer-
+cial awareness that are important for sales because its
+coefﬁcients are similar whether entered separately or
+jointly. As noted above, these characteristics consist
+mainly of entrepreneurial skills, such as monitoring
+local competition and efﬁcient use of resources subject
+to the wage budget rule. These skills are not assessed
+based on sales, so the estimates for commercial aware-
+ness are unlikely to be driven by reverse causality.
+
+Our next step is to address the issue of nonrandom
+allocation of managers to stores, which, as discussed
+in §3.5, results in an upward bias for the KBI esti-
+mates. We concentrate on the most important com-
+mercial awareness KBI, beginning with column (3),
+where, for simplicity, the commercial awareness score
+is used instead of grade dummies. Following the pro-
+cedure outlined in §3.5, we introduce quartile ﬁxed
+effects as partial controls for the unobservables, and
+their cross-products with the commercial awareness
+score, thus allowing each quartile of store size to have
+its own bias to the commercial awareness score esti-
+mate (column (4)). We see that, consistent with the
+predicted upward bias, the estimate for the commer-
+cial awareness score goes down from 0.078 in col-
+umn (3) to 0.058 in column (4). The quartile ﬁxed
+effects are highly signiﬁcant, but the cross-products
+are not (restrictions test p-value = 0!70), so we skip
+them in columns (5)–(7). Their insigniﬁcance implies
+that the bias due to nonrandom allocation of man-
+agers to stores is approximately the same for big
+stores as for small. Comparing the estimates for the
+commercial awareness score in the speciﬁcations with
+the quartile ﬁxed effects (0.067, column (5)) and with-
+out (0.078, column (3)) shows that this bias is not
+large. Turning to our preferred speciﬁcation with KBI
+grade dummies (column (6)), we see that control-
+ling for quartile ﬁxed effects reduces the estimates for
+grade capable from 0.100 (column (2)) to 0.092, i.e.,
+
+9.2% higher sales than grade development need, and
+for grade strength from 0.165 to 0.139.
+
+In addition to individual KBIs, we introduce dum-
+mies for the overall grade (an indicator based on the
+sum of KBI scores; see §3.3) to ﬁnd out whether there
+is a joint effect of several KBIs not captured by their
+individual estimates. We ﬁnd (column (7)) that sets of
+different competencies matter beyond their individ-
+ual components, supporting the management practice
+complementarity view (Macdufﬁe 1995, Ichniowski
+et al. 1997). Our results imply that failing to develop
+some minimal proﬁciency in all competence areas
+(overall grade C) results in 8.3% lower sales. Yet
+excelling in overall performance (grade A or B) as
+opposed to particular competencies brings little addi-
+tional beneﬁt (1.3%, and insigniﬁcant). Still,
+in all
+speciﬁcations, the commercial awareness KBI retains
+its importance.
+
+Turning to the controls, we see that paying
+higher wages relative to competitors’ enters posi-
+tively, reﬂecting presumably the better quality of
+attracted workers. Sales tend to be higher in wealthier
+areas and in areas where there are clusters of com-
+petitors. Importantly, many controls lose magnitude
+and signiﬁcance once quartile ﬁxed effects, proxy-
+ing for unobservables in our analysis, are introduced.
+The case of local competition is instructive. Its loss
+of importance suggests that much of its correlation
+with sales was due to its correlation with the unob-
+servables such as special location, which are now
+better controlled. Thus, the implication is that it is
+not that high competition results in more sales, but
+rather that more competitors are lured to more advan-
+tageous locations.3 Picking up location, the quartile
+ﬁxed effects also contribute to the control for capital,
+whose estimate goes down as we introduce them.
+
+5. Managing the Managers
+We have seen that
+the company has a substan-
+tial minority (approximately 18%, Table 3) of under-
+performing store managers,
+i.e., those with grade
+development need for commercial awareness, whose
+stores generate signiﬁcantly less sales than com-
+parable stores with more capable managers. To
+some extent, the wide distribution of manager skill
+grades within our company parallels Bloom and Van
+Reenen’s (2007) cross-company distribution, which
+reveals “huge heterogeneity” (p. 1379) and a long tail
+of managers with low skill ratings. However, their
+
+3 It might be thought, alternatively, that the effect of competition
+on performance fully manifests itself in better management (as in
+Grifﬁths 2001). However, competition is insigniﬁcant in the size
+quartile ﬁxed effects speciﬁcation even when the management KBIs
+are excluded.
+
+
+1408
+
+Table 5
+
+Determinants of Manager to Store Allocation
+
+Dependent variable:
+Commercial awareness score
+
+Log annual labor input
+Competitors in catchment area
+
+18–30
+31–51
+52+
+ln(area average pay)
+Store type and location dummies
+Adjusted R2
+Number of observations
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+0"372∗∗∗
+
+0"303∗∗∗
+
+0"355∗∗∗
+
+0"063 −0"058 −0"033
+0"111 −0"106 −0"092
+0"152
+0"510∗∗∗
+0"128
+Yes
+0"101
+
+No
+0"079
+
+No
+0"104
+
+0"172
+
+245
+
+No
+0"093
+
+Note. The commercial awareness score takes the value 0 for “development
+need,” 1 for “capable,” and 2 for “strength.”
+
+∗∗∗, ∗∗, and ∗ denote estimates signiﬁcant at 1%, 5%, and 10%,
+
+respectively.
+
+ﬁnding that poor family-owned company manage-
+ment accounts for some of this tail clearly cannot
+apply in our case where ownership is held constant.
+Their other ﬁnding, that more intense competition
+leads to weeding out bad managers, seems more
+applicable but requires an investigation into the prac-
+tices of managing store managers, which is the topic
+of the present section.
+
+We consider three broad ways to manage store
+managers, ﬁrst by matching managers to appropri-
+ate stores, second by weeding out the poor managers
+as they reveal themselves, and ﬁnally by provid-
+ing incentives to the existing management
+team.
+As regards matching managers to stores, we report in
+Table 5 the results of regressing the managers’ com-
+mercial awareness score on their store size (measured
+as log annual labor input) and area characteristics.
+We ﬁnd, consistent with Lucas’s (1978) theory, that
+store size measured in log annual
+labor input is
+the single most
+important correlate of manager
+skill grade in a given store, whether other possi-
+ble factors, including local competition, are present
+(columns (2)–(4)) or not (column (1)). That said, the
+estimated elasticity of commercial awareness score to
+store size (0.355) is rather small, implying a mere
+0.3 standard deviation increase in the average com-
+mercial awareness score with a one standard devia-
+tion increase in store size. (Ordered probit and logit
+estimators that we have used as alternatives to the
+ordinary least squares estimator in Table 5 give simi-
+larly low elasticity.) Thus, the allocation of managers
+to stores does not look very precise.
+
+Turning to the possibility of weeding out the poor
+managers, the distribution of manager skill grades
+is hard to improve for several reasons. First, store
+managers tend to be attached to their locality, and
+with an average salary of £21,000 per year (just under
+the national average) attracting new talent is difﬁcult.
+Second, as our top management informants explained,
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+it is expensive in the UK legal context to weed out
+the bad managers through dismissal. The option of
+demotion is also disruptive. Third, management tal-
+ent is difﬁcult to identify, especially as it appears to
+be highly company speciﬁc (see discussion of the pay
+regressions below). Therefore, because the company
+is unable to improve the quality of its store manager
+pool easily, it is left with the option of incentivizing its
+managers to perform to the best of their ability, as we
+show next.
+
+5.1. A Model of Incentive Pay
+in the spirit
+Consider an incentive pay model
+(see also Holmström and
+of Holmström’s (1979)
+Milgrom 1987), with a risk-neutral company and a
+risk-averse manager, but which includes manager
+skill. In year t, the manager produces output (y),
+which depends on her effort ((), observable to her
+only, skill level (c), observable to both parties, and the
+annual random shock term (+), observable to none:4
+
+yt = +t
+
+if (t = 0&
+
+yt = (t + c + +t
+
+if (t > 0!
+
+The manager expects a wage wt+1 to be paid at the
+beginning of the next period, which in part depends
+on her past period’s output,
+wt+1 = "+ ’+t
+
+if (t = 0&
+
+wt+1 = "+ ’#(t + c + +t$
+
+if (t > 0!
+
+She chooses the level of effort,
+
+(∗t =
+
+’
+)
+
+&
+
+(3)
+
+which maximizes her utility function,
+
+U#w t+1& (t$ = E#w t+1$− )·
+
+(2
+2 − *· var#wt+1$&
+t
+
+where parameters )> 0 and *> 0 represent the cost
+of effort and aversion to uncertainty over the realized
+value of output.5 She will work only if her utility given
+her chosen effort is no less than her utility from work-
+ing elsewhere, ¯u#ht&c$ , which we assume to depend
+on her skill level c and her outside options (vector ht).
+The company maximizes its expected proﬁt deﬁned
+as the difference between the output in period t
+
+4 There are, of course, other determinants of output, such as store
+size, but, assuming that their contribution to output does not
+depend on manager’s effort, their “prices” can be agreed on in
+advance rather than determined endogenously within the incentive
+pay model. Therefore, we abstract from them for now for the ease
+of exposition.
+5 Our assumption that the cost of effort, )> 0, is invariant with
+respect to manager skill level is admittedly heroic, but we test it
+and ﬁnd it to hold (results are available upon request).
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+and the wage to be paid to the manager, having
+worked out the manager’s chosen level of effort (∗t
+(Equation (3)). The result of a strategic interaction
+between the company and the manager is a wage
+offer with the following parameters:
+
+"∗t = ¯u#ht&c$ −
+
+c
+
+1+ 2*)· var#+t$
+1− 2*)· var#+t$
+2)#1+ 2*)· var#+t$$2 &
+’∗t =
+1+ 2*)· var#+t$
+
+1
+
+&
+
+−
+
+simplifying to
+
+wt+1 = ¯u#ht&c$ +
+
+1
+2)’∗t + ’∗t +t!
+
+(4)
+
+(5)
+
+For the empirically relevant case of 0 <’ ∗t < 1, the
+model implies that pay is determined by (i) the man-
+ager’s outside alternatives (¯u#ht&c$ ) and (ii) meeting
+sales expectations set by HQ given the manager’s skill
+level and other inputs (+t). If these expectations are
+not met, the manager takes a proportionate ’∗t cut
+in her next year’s pay, and conversely if expectations
+are exceeded. The dependence of a manager’s pay
+on meeting HQ’s expectations helps ensure that she
+applies herself even if close monitoring of her activ-
+to be less than
+ities is not possible. We expect ’∗t
+unity because of manager risk aversion (*> 0). The
+model thus also implies that managers are “insured”
+by bearing only a fraction of the shock.
+
+5.2. Store Manager Pay Regression Speciﬁcation
+We now develop a suitable proxy for +t and test the
+above model by estimating the manager pay equa-
+tion (5). It might be thought that Equation (5) can
+be estimated directly by using the available store and
+manager data and the estimated second-stage error
+term from the sales regression (error2nd stage
+) as a proxy
+for the annual random shock term +. The problem
+with this direct approach is that error2nd stage
+contains
+components observable to both HQ and store man-
+agers (and therefore not part of the unexpected sales)
+but not observable to us. Indeed, we show in Table 6
+that error2nd stage
+is not a signiﬁcant predictor of pay.
+However, adding some intuitive structure to it brings
+back its signiﬁcance.
+
+Assume that the current (2005) year’s error term
+from Equation (2) is a function of the last year’s error
+term plus our annual random shock term (+):
+
+i
+
+i
+
+i
+
+Table 6
+
+Regression Results for the Store Manager Pay Equation (5)
+
+1409
+
+Dependent variable: Log 2006 pay
+
+Error term from sales equation
+
+(error 2nd stage)a
+
+Log unexpected sales (#)b
+Log average pay for similar job
+Log FTE personnel
+Store manager age
+Store manager age2 × 100
+Experience with company
+Store manager is male
+Sales focus
+“Capable”
+“Strength”
+
+Commercial awareness
+
+“Capable”
+“Strength”
+
+Leadership
+“Capable”
+“Strength”
+
+Developing people
+
+“Capable”
+“Strength”
+
+“Capable”
+“Strength”
+
+“Capable”
+“Strength”
+
+Planning and organizing
+
+Drive and personal development
+
+Competitors in the catchment area
+Adjusted R2
+Number of observations
+
+(1)
+
+0"033
+
+0"343∗∗∗
+0"281∗∗∗
+0"010∗
+−0"012
+0"002
+0"047∗∗
+
+−0"015
+0"005
+
+0"020
+0"026
+
+−0"008
+0"005
+
+0"011
+0"050
+
+0"005
+−0"030
+−0"024
+−0"042
+Yes
+0"695
+
+(2)
+
+(3)
+
+0"233∗∗∗
+0"354∗∗∗
+0"284∗∗∗
+0"011∗
+−0"012∗
+0"002
+0"043∗∗
+
+−0"017
+0"003
+
+0"019
+0"025
+
+−0"006
+0"006
+
+0"238∗
+
+0"012
+0"039
+
+0"029
+0"070
+
+−0"011
+0"063
+
+0"011
+0"049∗
+
+0"001
+0"118∗∗
+
+0"004
+−0"030
+−0"023
+−0"041
+Yes
+0"705
+236
+
+0"010
+−0"021
+−0"057
+−0"041
+No
+0"703
+
+aerror 2nd stage is the error term from the second-stage sales equation (2).
+b# is the error term from the augmented second-stage sales equation (8).
+∗∗∗, ∗∗, and ∗ denote estimates signiﬁcant at 1%, 5%, and 10%,
+
+respectively.
+
+i
+
+effects on sales lasting longer than a year.6 Once cap-
+ital, management, and other ﬁxed inputs have been
+set, the only way for a store to adapt to changes
+in trading environment is to adjust its annual labor
+input. Part of this adjustment happens in response
+to changes in the expected value of the unobservable
+term, E#error2nd stage
+(Equation (6)),
+implying that labor input in the current year is a
+positive function of the last year’s unexpected sales,
+error2nd stage
+
+$ = , · error2nd stage
+
+i&−1
+
+To estimate the annual random shock term +, we
+take advantage of the fact that, with capital and
+management inputs ﬁxed and the trading environ-
+ment exogenous, error2nd stage
+is uncorrelated with all
+i&−1
+from log annual
+of
+k=1 laborik$. Therefore, we can
+regress annual labor input on the rest of the observed
+
+labor input, ln Li = ln#(52
+
+the observed variables apart
+
+i&−1
+
+.
+
+error2nd stage
+
+i
+
+= ,· error2nd stage
+
+i&−1
+
++ +i&
+
+(6)
+
+where 0 <,< 1 is the autoregression parameter.
+This assumption is reasonable because many unob-
+servables (for instance, location or tastes) can have
+
+6 As evidence for the persistence of unexpected sales, recall the
+result from §3.4, that in the absence of store ﬁxed effects the esti-
+mate for labor input elasticity is biased upward because of labor
+input’s correlation with store unobservables containing last year’s
+unexpected sales.
+
+
+1410
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+variables that are constant throughout the year (all of
+the controls in Equation (2) including the KBIs and
+quartile ﬁxed effects, denoted as vector xi),
+
+ln Li = xi- + .i&
+
+(7)
+
+and use the estimated residuals from this regression
+( ˆ.i) as a proxy for error2nd stage
+in Equation (6). We then
+recover + as the residual of the second-stage sales
+equation (2), which we rerun with ˆ.i included as a
+separate regressor:
+
+i&−1
+
+!ﬁxed effecti = ’1 ln#space$i + ’2KBIi
+
++ ’3other controlsi + ˆ.i + +i!
+
+Note that, because ˆ.i
+is independent of all of the
+observed regression variables in the sales equation by
+construction (see Equation (7)), all of the estimates in
+Table 4 remain the same.
+
+5.3. Manager Pay Regression Results
+Table 6 reports the regression results for log store
+manager total annual pay in 2006. As can be seen
+from column (1), the annual random shock term mea-
+sured simply as the second-stage error (error2nd stage)
+from the sales regression is unimportant for store
+manager pay. Consequently, our procedure for recov-
+ering + via Equation (8)
+is indeed necessary to
+reveal the incentives available to store managers.
+Columns (2) and (3) then demonstrate that, once we
+correct error2nd stage for persistent unobservables that
+both managers and HQ can predict, it becomes a sig-
+niﬁcant determinant of pay. This result supports our
+incentive pay model (Equation (5)).
+
+The incentives to perform come from the possibil-
+ity of failing to meet sales expectations, which then
+means a cut in the next year’s pay. The 0.233 elastic-
+ity result shows the proportion in which unexpected
+sales gains and losses are shared between the man-
+agers and the company. It is the manager’s aversion
+to risk (*> 0, see Equation (4)) that limits full sharing.
+Thus, a 10% change in + (not unusual and close to +’s
+standard deviation of 0.11) results in a 2.3% change in
+a store manager’s pay.
+
+As can be seen from Table 6, there is no signif-
+icant link between pay and commercial awareness.
+This ﬁnding parallels that of Bloom and Van Reenen’s
+(2007, p. 1386), who also ﬁnd no link between the
+management score in a ﬁrm and its CEO’s pay. Com-
+parison of columns (2) and (3) shows that there is
+no link whether or not we control for other potential
+correlates of manager skill grade, such as manager
+age and experience, or pay for a similar job and local
+competition, which proxy the outside opportunities
+available to managers. The implication is that the KBI
+commercial awareness measures a type of company-
+speciﬁc manager skill that raises sales in company
+
+stores as we have seen but that is not easily tradable
+on the outside labor market.
+
+Turning to the other determinants of manager
+pay, we see that pay is 4.3% higher for male store
+managers and for those living in areas with higher
+managerial pay (an elasticity of 0.354)—presumably
+reﬂecting the more generous outside options available
+to them. Managing more workers attracts a signiﬁcant
+premium as well (0.284), which is consistent with the
+greater responsibilities of running a larger store and
+has nothing to do with rewarding skill.
+
+(8)
+
+6. Discussion
+6.1. Management and Economic Performance:
+
+Some Illustrations
+
+We ﬁnd that the most important management skill is
+commercial awareness, which rewards efﬁcient use of
+store space and workforce, sticking to the wage bud-
+get, and watching competitors. Variation in commer-
+cial awareness is responsible for a sizable portion of
+variation in labor productivity. Using the results from
+our preferred speciﬁcation (column (6) in Table 4) we
+ﬁnd that moving from the bottom quartile of the dis-
+tribution of commercial awareness (i.e., development
+need, 18% of the sample) to the top quartile (strength,
+26%) is associated with a 13.9% improvement in sales,
+which, holding all factor inputs constant, results in
+the same improvement in labor productivity. With the
+interquartile range in store labor productivity at 40%,
+commercial awareness accounts for approximately
+35% (=13.9/40) of it. Continuing to assume the cost of
+sales to be a constant fraction of sales, we calculate the
+interquartile range of store total factor productivity
+(TFP) at 52%;7 hence, commercial awareness accounts
+for approximately 27% of
+the interquartile range
+in TFP.
+
+Based on our regression results in Table 4, let us
+now calculate the contribution to sales, △/, of man-
+ager skills higher than grade development need. We
+compare actual sales with some plausible counterfac-
+tuals as follows:
+
+△/ =
+
+2+k=0
+
+#Sa
+
+kGa
+
+k − Sc
+
+kGc
+
+k$&
+
+(9)
+
+where k = 0& 1& 2 is an indicator for commercial aware-
+ness grade (0 = development need, 2 = strength), Sa& c
+are the actual (a) and counterfactual (c) shares of
+
+k
+
+7 We calculate TFP as the term A from the Cobb-Douglas sales func-
+tion, giving TFP = log sales−0!516×log number of hours worked−
+0!116 × log store space. This measure includes the contribution of
+the cost of sales, which, given that it is proportional to sales, does
+not affect TFP’s interquartile range.
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+1411
+
+0 = 0, Ga
+
+1 = 0!509, and Sa
+
+worker-hours controlled by managers of grade k in
+total, and Ga& c
+are sales gains from higher manage-
+k
+ment grades as compared with development need.
+We calculate the shares in total labor controlled by
+managers of different grades taking into account the
+differences in the size of the stores run by them, giving
+2 = 0!357. From Table 4,
+0 = 0!134, Sa
+Sa
+2 = 0!139. Suppose
+0 = Gc
+Ga
+in the counterfactual that all managers are develop-
+ment need and are allocated to stores of the same size
+(that is, the share in total workforce controlled by each
+grade is equal to its share in the store manager skill
+grades distribution), so that Gc
+2 = 0, and
+2 = 0!261 (see Table 3). Sub-
+0 = 0!176, Sc
+Sc
+stituting these parameter values into Equation (9), we
+calculate the contribution at 9.6% of the actual sales,
+or £23 million for our sample.
+
+1 = 0!092, and Ga
+
+1 = 0!563, Sc
+
+1 = Gc
+
+0 = Gc
+
+Rewriting Equation (9), we can break down the
+total 9.6% contribution into two components: (i) that
+due to allocation of abler managers to bigger stores,
+holding gains from manager skills ﬁxed, and (ii) that
+due to manager skills alone, holding store size equal
+for all managers, as follows:
+
+△/ =
+
+2+k=0
+,
+
+Ga
+
+k#Sa
+
++
+
+k − Sc
+k$
+/
+-.
+
+2+k=0
+,
+
+Sc
+k#Ga
+
+!
+
+k − Gc
+k$
+-.
+
+/
+
+manager allocation
+
+manager skills
+
+Given our chosen counterfactual, the ﬁrst compo-
+nent (manager allocation) contributes only 0.9% of the
+total 9.6%, and the second component makes up the
+remaining 8.7%. The small contribution of manager
+allocation is consistent with the weak link between
+store size and commercial awareness score reported in
+Table 5. Moreover, the gains from manager allocation
+would remain limited even if abler managers always
+ran larger stores. For instance, even under a per-
+fect correspondence of manager skill grade and store
+size rank, the total contribution of management skills
+to sales would be 10.8%, a mere 1.2-point increase.
+Hence most of the sales gains from manager skills are
+independent of manager allocation by store size.
+
+6.2. Our Results and Other Studies
+Because store manager skills are highly speciﬁc and
+difﬁcult to allocate among stores in the short run, our
+results help explain part of persistent interworkplace
+differences in productivity documented in the litera-
+ture (Bartelsman and Doms 2000, Grifﬁths et al. 2006).
+It is instructive to compare our quantitative ﬁnd-
+ings for management with those in the studies closest
+to ours. Our estimate of the share of the interquar-
+tile range of store TFP explained by store manage-
+ment, 27%, is higher than Bloom and Van Reenen’s’s
+(2007) 10%–23%. A possible explanation for this dif-
+ference is that in a cross-company study such as theirs
+it is harder to control for company-speciﬁc factors
+affecting the relationship between management and
+
+productivity. As a result, this relationship may be
+blurred by “contingent management” (pp. 1371–1374),
+whereby practices are employed in different combi-
+nations as beﬁts the company in question. The blur-
+ring occurs through combining many management
+practices, some of which are irrelevant to productiv-
+ity, into one z-score, which effectively increases the
+measurement error component in the management
+regressor, therefore resulting in an attenuated esti-
+mate. Thus, when we put grades from all of the KBIs
+into a management z-score, its interquartile variation
+explains only a 6% movement in store productiv-
+ity, thereby accounting for only 6/52 = 12% of the
+interquartile store TFP range, on a par with Bloom
+and Van Reenen’s (2007) 10%–23%.
+
+On the other hand, if aggregating individual com-
+petencies into a z-score attenuates the estimate for
+management because of measurement error, the ques-
+tion arises as to why our estimate of the share of
+the interquartile store productivity range explained
+by management (35%) is close to the 40% found
+by Grifﬁths et al. (2006), which they derive from
+the management score aggregating over 11 measures.
+The reason seems to be fewer controls used in their
+study, a possibility that they do anticipate (p. 523).
+Thus, when we control only for labor input
+(as
+they do), the interquartile range in our management
+z-score explains nearly 70% of the interquartile store
+productivity range. Hence, the degree of detail in
+management data and statistical controls are equally
+important for the quantitative results of a manage-
+ment study.
+
+Although most of our ﬁndings so far are consistent
+with the existing literature, our ﬁnding that compe-
+tence in developing people is insigniﬁcant for sales
+seems to contradict the many studies showing the
+importance of high-performance HRM practices for
+ﬁrm performance (e.g., Ichniowski et al. 1997). There
+will be no contradiction, however, if one acknowl-
+edges the context of this company’s business and the
+coexistence of different work systems within it. Such
+high-performance HRM practices as selection, train-
+ing, and pay for performance are clearly important
+for core employees such as store managers. On the
+other hand, the sales assistants, who are predomi-
+nantly part-time and inexpensive to replace, receive
+a much lighter HRM package from the company,
+and store managers can contribute only marginally.
+The coexistence of different work systems within one
+company—in our case, one for managers, another for
+sales assistants—is not unusual and has been found
+before (Leepak et al. 2007).
+
+Turning to the manager pay results, our 0.23 esti-
+mate of the elasticity of pay with respect to the annual
+random shock term + is slightly to the right of the
+range of estimates reported in the literature for the
+
+
+1412
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+elasticity of CEO compensation to share returns, for
+example, Murphy’s (1986) 0.14, Barro and Barro’s
+(1990) 0.17, and Conyon and Murphy’s (2000) 0.12 for
+the United Kingdom and 0.27 for the United States.
+Admittedly, we should not push comparisons from
+such different regression speciﬁcations too far. But,
+noting that our measure of + may be regarded as
+similar to unexpected share returns, it is interesting
+that our estimate of the key incentive pay parame-
+ter appears to be broadly consistent with those previ-
+ously reported.
+
+Our results ﬁt with the literature even more closely
+when it comes to the elasticity of manager pay with
+respect to ﬁrm (store) size. Our 0.284 estimate (Table 7)
+is well within the range of estimates reported: 0.22 for
+UK and 0.41 for U.S. ﬁrms (Conyon and Murphy’s
+2000); 0.37 for the top 1,000 U.S. corporations (Gabaix
+and Landier 2008); 0.32 for U.S. banks (Barro and
+Barro’s 1990); 0.25 for Canadian publicly traded ﬁrms
+(Zhou 2000); and 0.25 for small U.S. ﬁrms (total assets
+up to 150 million 1993 U.S. dollars) in Cyert et al.
+(2002). This range is fairly narrow, considering differ-
+ences in samples with respect to time, country, and
+industry, but our result ﬁts neatly within it. The simi-
+larities between our pay results for middle managers
+and those from studies of CEOs are noteworthy and
+suggest that similar incentive mechanisms are at work
+at the middle as well as the top of the management
+hierarchy.
+
+Finally, the manager pay results indicate that store
+manager skills in our company, particularly commer-
+cial awareness skills, are highly speciﬁc. They are
+important for sales and yet are not rewarded. This
+ﬁnding might seem surprising, but it accords exactly
+with the result in Bloom and Van Reenen’s (2007), that
+CEO pay is not correlated with the management score
+(p. 1386). The implication is that the market for man-
+ager skills is more limited than might be expected.8
+Admittedly, the description of commercial awareness
+(Table 2) appears to reveal a mixture of general skills
+(e.g., manpower planning) and speciﬁc skills (e.g.,
+making the best use of a store’s space), as envisaged
+in the human capital literature starting from Becker
+(1964). Yet, in our case of store managers, even though
+we seem to have the usual mixture of general and
+speciﬁc skills, these skills are more speciﬁc than might
+be thought.
+
+8 Hence we have Peter Drucker’s (1974) classic statement that “It
+is an admission of bankruptcy for a big business to have to go on
+the outside to recruit into top management. It is also a desperate
+gamble” (p. 662). Thus, although much is made of the ﬂuid market
+for managers, it seems in fact that most managers, from top man-
+agers (Bailey and Helfat 2003) down to our small store managers,
+are groomed within their ﬁrms.
+
+7. Conclusions
+In this paper we have looked into the black box
+of the middle management input in the production
+function of a ﬁrm and how this input is shaped by
+ﬁrmwide corporate governance practices. To do so,
+we have used data from a single ﬁrm. Our study thus
+shares the “insider econometrics” paradigm (Bartel
+et al. 2004) with other studies of the management—
+performance link, such as Ichniowski et al. (1997) and
+Grifﬁths et al. (2006). To Crossland and Hambrick’s
+(2007) consideration of “macro environment” con-
+straints on management, our study can be seen as
+analyzing the micro environment. Let us summarize
+our ﬁndings and their implications.
+
+We ﬁnd a strong link between the company’s mea-
+sure of manager skill grade—the KBIs—and store
+sales performance, and we believe that
+this link
+is causal. The company’s procedures are objective.
+Moreover, our allowing for store size effects provides
+a powerful control that reduces simultaneity between
+manager quality and store performance. The core of
+our study, the management measure and its effect on
+performance, is therefore meaningful.
+
+The middle manager skills that we ﬁnd most
+important are described by the KBI for commercial
+awareness. It encapsulates entrepreneurial skills, such
+as monitoring local competition and making efﬁcient
+use of available resources. Differences in commer-
+cial awareness skills between store managers explain
+a considerable part of inter-store productivity differ-
+ences: 27%–35%, depending on the measure. The esti-
+mated total contribution to sales of manager skills
+above grade “development need” is 9.6% of the total
+actually observed. Thus, we ﬁnd a signiﬁcant con-
+tribution of middle (store) management to produc-
+tivity. This result shows that “management matters”
+(Hambrick and Mason 1984) and speciﬁcally supports
+Kanter’s (2004) research on the importance of the
+middle management tier.
+
+At the same time, we ﬁnd a long tail of poor
+managers, comparable with that found between ﬁrms
+(Bloom and Van Reenen’s 2007), and this motivates
+our inquiry into the ﬁrmwide practices of manag-
+ing the managers. Of these we have considered in
+detail allocating managers to stores of different size
+and incentivizing them through pay-for-performance
+contracts. We have found that abler managers tend
+to be assigned to larger stores, but their allocation is
+rather imprecise. However, our results also suggest
+that, even if allocation of managers to stores is perfect,
+securing the gains from manager skills still requires
+overcoming agency issues, especially when company
+operations are so dispersed geographically.
+
+We show with an adaptation of Holmström’s (1979)
+incentive pay model that the corporate governance
+practice of annual manager salary review helps
+accomplish this task. In support of our incentive pay
+
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+1413
+
+model, we ﬁnd that the process of salary review works
+to give an expected annual sales value for the manager
+in her store (which we assume is determined by the
+sales function that we estimate). Our ﬁndings show
+that positive/negative deviations are indeed propor-
+tionately rewarded/punished.
+
+At the same time, we ﬁnd that, while controlling
+manager effort, the company does not seem to reward
+middle manager skills, because higher-graded store
+managers do not receive higher pay all else equal.
+The implication here is that not only are top man-
+ager skills speciﬁc (Bailey and Helfat 2003) and gen-
+erally difﬁcult to trade or imitate, but so are middle
+manager skills. This ﬁnding therefore suggests that it
+makes sense for organizations to develop their man-
+agement resources in-house—as a source of competi-
+tive advantage that cannot be easily bid away.
+
+Acknowledgments
+The authors thank the executives and staff at the study com-
+pany for providing the company data and for many dis-
+cussions on managing managers. They also thank depart-
+ment editor Olav Sorenson, the reviewers, and all those
+involved in preparing this paper for publication for helpful
+comments and patience. The authors are grateful for valu-
+able suggestions from seminar participants at the Univer-
+sity of Birmingham; the Hong Kong University; the CPB
+Netherlands Bureau for Economic Policy Analysis; Uni-
+versitat Pompeu Fabra; the University of Tilburg; and the
+Work, Pensions, and Employment Group (WPEG); and par-
+ticularly from John Heywood, Henry van der Wiel, Dinand
+Webbink, and Xiangdong Wei.
+
+References
+Bailey, E., C. Helfat. 2003. Management succession, human capi-
+tal, and ﬁrm performance: An integrative analysis. Managerial
+Decision Econom. 24(2/3) 347–369.
+
+Barro, J. R., R. J. Barro. 1990. Pay, performance, and turnover of
+
+bank CEOs. J. Labor Econom. 8(4) 448–481.
+
+Bartel, A. P., C. Ichniowski, K. Shaw. 2004. Using “insider econo-
+metrics” to study productivity. Amer. Econom. Rev. 94(2)
+217–223.
+
+Bartelsman, E. J., M. Doms. 2000. Understanding productivity:
+Lessons from longitudinal microdata. J. Econom. Literature 38(3)
+569–594.
+
+Bebchuk, L. A., J. M. Fried. 2003. Executive compensation as an
+
+agency problem. J. Econom. Perspectives 17(3) 71–92.
+
+Becker, G. S. 1964. Human Capital: A Theoretical and Empirical Anal-
+ysis, with Special Reference to Education. University of Chicago
+Press, Chicago.
+
+Bertrand, M., A. Shoar. 2003. Managing with style: The effect of
+managers on ﬁrm policies. Quart. J. Econom. 118(4) 1169–1208.
+Black, S., L. Lynch. 2004. What’s driving the new economy? The
+beneﬁts of workplace innovation. Econom. J. 114(493) F97–F116.
+Bloom, N., J. Van Reenen. 2007. Measuring and explaining man-
+agement practices across ﬁrms and countries. Quart. J. Econom.
+122(4) 1351–1408.
+
+Blundell, R., S. Bond, F. Windmeijer. 2000. Estimation in dynamic
+panel data models: Improving on the performance of the stan-
+dard GMM estimator. Working Paper W00/12, Institute for Fis-
+cal Studies (IFS), London.
+
+Capelli, P., D. Neumark. 2001. Do “high-performance” work prac-
+tices improve establishment-level outcomes? Indust. Labor Rela-
+tions Rev. 54(4) 737–775.
+
+Carpenter, M., J. Wade. 2002. Microlevel opportunity structures
+as determinants of non-CEO pay. Acad. Management J. 45(6)
+1085–1103.
+
+Conyon, M. J., K. J. Murphy. 2000. The prince and the pauper?
+CEO pay in the United States and United Kingdom. Econom. J.
+110(467) F640–F671.
+
+Crossland, C., D. Hambrick. 2007. How national systems differ
+in their constraints on corporate executives: A study of CEO
+effects in three countries. Strategic Management J. 28(8) 767–789.
+Cyert, R. M., S.-H. Kang, P. Kumar. 2002. Corporate governance,
+takeovers, and top-management compensation: Theory and
+evidence. Management Sci. 48(4) 453–469.
+
+Drucker, P. 1974. Management: Tasks, Responsibilities, Practices.
+
+Harper and Row, New York.
+
+Finkelstein, D., D. Hambrick, A. Cannella. 2009. Strategic Leadership:
+Theory and Research on Executives, Top Management Teams, and
+Boards. Oxford University Press, New York.
+
+Gabaix, X., A. Landier. 2008. Why has CEO pay increased so much?
+
+Quart. J. Econom. 123(1) 49–100.
+
+Grifﬁths, R. 2001. Product market competition, efﬁciency and
+agency costs: An empirical analysis. Working Paper WP01/12,
+Institute for Fiscal Studies, London.
+
+Grifﬁths, R., J. Haskel, A. Neely. 2006. Why is productivity so dis-
+
+persed? Oxford Rev. Econom. Policy 22(4) 513–525.
+
+Hambrick, D., P. Mason. 1984. The organization as a reﬂection of
+
+its top managers. Acad. Management Rev. 9(2) 193–206.
+
+Hayes, M., S. Schaefer. 1999. How much are differences in manage-
+
+rial ability worth? J. Accounting Econom. 27(2) 125–148.
+
+Holcomb, T. R., R. M. Holmes, B. L. Connelly. 2009. Making the
+most of what you have: Managerial ability as a source of
+resource value creation. Strategic Management J. 30(5) 457–485.
+Holmström, B. 1979. Moral hazard and observability. Bell J. Econom.
+
+10(1) 74–91.
+
+Holmström, B., P. Milgrom. 1987. Aggregation and linearity in the
+provision of intertemporal incentives. Econometrica 55 303–328.
+Huselid, M. A. 1995. The impact of human resource management
+practices on turnover, productivity and corporate ﬁnancial per-
+formance. Acad. Management J. 38(3) 635–672.
+
+Ichniowski, C., K. Shaw, G. Prennushi. 1997. The effects of human
+resource management practices on productivity: A study of
+steel ﬁnishing lines. Amer. Econom. Rev. 87(3) 291–313.
+
+Judson, R. A., A. L. Owen. 1999. Estimating dynamic panel data
+models: A guide for macroeconomists. Econom. Lett. 65(1) 9–15.
+Kanter, R. M. 2004. The middle manager as innovator. Harvard Bus.
+
+Rev. (July–August) 150–161.
+
+Kaplan, R. S., D. P. Norton. 1992. The balanced scorecard—
+Measures that drive performance. Harvard Bus. Rev. (January–
+February) 71–79.
+
+Lambert, R., D. Larcker, K. Weigelt. 1993. The structure of organi-
+
+zational incentives. Admin. Sci. Quart. 38(2) 438–461.
+
+Lazear, E., S. Rosen. 1981. Rank-order tournaments as optimum
+
+labor contracts. J. Political Econom. 89(5) 841–864.
+
+Leepak, D., M. Taylor, A. Tekleab, J. Marrone, D. Cohen. 2007. An
+examination of the use of high-investment human resource sys-
+tems for core and support employees. Human Resource Manage-
+ment 46(2) 223–246.
+
+Lieberson, S., J. O’Connor. 1972. Leadership and organizational per-
+formance: A study of large corporations. Amer. Sociol. Rev. 37(2)
+117–130.
+
+Lieberman, M. B., L. J. Lau, M. D. Williams. 1990. Firm-level pro-
+ductivity and management inﬂuence: A comparison of U.S.
+and Japanese automobile producers. Management Sci. 36(10)
+1193–1215.
+
+Lucas, R. E., Jr., 1978. On the size distribution of business ﬁrms.
+
+Bell J. Econom. 9(2) 508–523.
+
+Macdufﬁe, J. P. 1995. Human resource bundles and manufacturing
+performance: Organizational logic and ﬂexible production sys-
+tems in the world auto industry. Indust. Labor Relations Rev.
+48(2) 197–221.
+
+
+1414
+
+Siebert and Zubanov: Management Economics in a Large Retail Company
+Management Science 56(8), pp. 1398–1414, © 2010 INFORMS
+
+Mundlak, Y. 1961. Empirical production function free of manage-
+
+Prendergast, C. 1999. The provision of incentives in ﬁrms. J. Econom.
+
+ment bias. J. Farm Econom. 43(1) 44–56.
+
+Murphy, K. J. 1986. Incentives, learning, and compensation: A the-
+oretical and empirical investigation of managerial labor con-
+tracts. RAND J. Econom. 17(1) 59–76.
+
+Nickell, S. J. 1981. Biases in dynamic models with ﬁxed effects.
+
+Econometrica 49(6) 1417–1426.
+
+Literature 37(1) 7–63.
+
+Roth, K., S. O’Donnell. 1996. Foreign subsidiary compensation strat-
+egy: An agency theory perspective. Acad. Management J. 39(3)
+678–703.
+
+Terviö, M. 2008. The difference that CEOs make: An assignment
+
+model approach. Amer. Econom. Rev. 98(3) 642–668.
+
+Pfeffer, J. 1998. The Human Equation: Building Proﬁts By Putting Peo-
+
+Zhou, X. 2000. CEO pay, ﬁrm size, and corporate performance: Evi-
+
+ple First. Harvard Business School Press, Boston.
+
+dence from Canada. Canadian J. Econom. 33(1) 213–251.
+

@@ -1,0 +1,7003 @@
+Journal of Business Ethics (2009) 88:133–153
+DOI 10.1007/s10551-008-9826-9
+
+Ó Springer 2008
+
+Ambition Versus Conscience, Does
+Corporate Social Responsibility Pay off?
+The Application of Matching Methods
+
+Chung-Hua Shen
+Yuan Chang
+
+impact hypothesis and shift of
+
+ABSTRACT. In this article, we examine the effect of
+corporate social responsibility (CSR) on firms’ financial
+performance (CSR-effect). Two competing hypotheses,
+social
+focus hypothesis, are
+proposed to investigate this
+issue, where the former
+suggests that CSR has a positive relation with perfor-
+mance and the latter are opposite. In order to ensure the
+CSR-effect
+is not contaminated by other factors or
+samples are randomly drawn, we employ four matching
+methods, Nearest, Caliper, Mahala and Mahala Caliper to
+match the samples of CSR (CSR-ﬁrms) and without
+CSR (NonCSR-ﬁrms) with similar
+characteristics.
+Although four methods yield slightly different results,
+ﬁrms engaging in CSR activities tend to obtain signiﬁ-
+cantly higher values on pretax income to net sales and
+proﬁt margin, and adopting CSR at the very least not
+deteriorate the performance of ﬁrms, making our con-
+clusion favors the social impact hypothesis and against shift of
+focus hypothesis in Taiwan. Thus, ambition and conscience
+are not conﬂicting with each other.
+
+KEY WORDS: corporate social responsibility, selection
+bias, matching method
+
+JEL CLASSIFICATIONS: G30, M14
+
+Introduction
+
+A corporation is not only beholden to the wealth
+maximization of stockholders, but also take care of
+interests of employee and consumers, maintaining
+working opportunity of underprivileged minority,
+protecting environment of community and ecology,
+etc. This is the concept of corporate social respon-
+sibility (CSR),1 which advocates taking care of the
+interest of all stakeholders in addition to the stock-
+holders, becomes
+an alternative framework of
+
+measuring ﬁrm achievement around the globe in
+recent years.
+
+shows
+
+evidence
+
+Corporations around the world are realizing they
+have a responsibility to be good citizens2 and
+Taiwanese companies are taking heed because of
+vital links in the global supply chain and faced with
+scrutiny from overseas customers and market regu-
+lators. Anecdotal
+that many
+Taiwanese ﬁrms are putting the following words
+into practice, ‘‘if you take from society, put back
+into society.’’ For example, Lite-On Technology
+Co. forms Lite-On Cultural Foundation with more
+than 1,000 volunteers to help schoolchildren who
+have slight or moderate behavioral problems as a
+result of dysfunctional family lives at 39 primary
+schools across northern Taiwan. Gigabyte, a manu-
+facturer of motherboards and mobile phones, has
+been using an internet platform to get fruit farmers
+together with corporate purchasers, creating a new
+public service model. Thousand of cases are bought
+by over 2,000 employees and help farmers to rebuild
+their homes after the 1999 earthquake. The late vice
+president of Inventec Co., Sayling Wen, he helped
+the local vocational school in a poor rural town in
+China named Huangyangchuan to set up a website
+and an e-commerce system, and by selling local farm
+products over the web, the residents lifted them-
+selves out of poverty.3
+
+Even so the popularity of CSR with some ﬁrms
+responded to these concerns by devoting more
+resources, others have resisted by arguing that
+additional investments in CSR is inconsistent with
+proﬁt maximization.
+legal
+precedent is Ford Motor. Co vs. Dodge case in
+1916, in which Henry Ford, the controlling share-
+holder, refused to distribute the accumulated cash to
+
+In history, a famous
+
+
+134
+
+Chung-Hua Shen and Yuan Chang
+
+interest
+
+the shareholders, and invested the money instead
+into production of low price car, purportedly to
+increase the convenience of
+the populace and
+improve local employment. This may have served
+Henry Ford’s
+in keeping the minority
+shareholders, the Dodge brothers, from using their
+investments. The court ruled against Ford and said
+that: ‘‘A business corporation is organized and car-
+ried on primarily for the proﬁt of the stockholders.
+The powers of the directors are to be employed for
+that end. The discretion of directors is to be exer-
+cised in the choice of means to attain that end, and
+does not extend to a change in the end itself, to the
+reduction of proﬁts, or to the nondistribution of
+proﬁts among stockholders in order to devote them
+to other purposes.’’ Thus, the clincher to be con-
+cerned is that sustainable CSR activities should lead
+to improvement, at least not deteriorate the ﬁnancial
+performance.
+
+Academically, there are two prominent conﬂicting
+theoretical views regarding the ﬁnancial impacts of
+CSR. The social impact hypothesis, proposed by Cornell
+and Shapiro (1987) and Preston and O’Bannon
+(1997), claims positive association between CSR and
+ﬁnancial performance. Several channels could explain
+this positive effects, such as providing better working
+place improves employee productivity (Turban and
+Greening, 1997); donation to the public beneﬁts
+increases social reputation, trust (Bowman and Haire,
+1975; Alexander and Buchholtz, 1978) and brand
+image and product competitiveness (Porter and van
+der Linde, 1995; Fombrun et al., 2000). Studies by
+Moskowitz (1972), Parket and Eilbirt (1975) and
+Soloman and Hansen (1985) also claim that CSR leads
+to more beneﬁts than the cost incurred, suggesting
+that there is positive correlation between CSR and
+ﬁnancial performance. As for Taiwanese companies,
+there are more and more manufacture products sold
+by major European, U.S, and Japanese brands. The
+major brands are held to account by the media,
+stockholders and customers, and the responsibility
+ﬂows downstream. CSR improves company’s image
+and the customers prefer to do business with good
+companies and, thus, gain beneﬁts.
+
+The shift of focus hypothesis, the competing view,
+suggested by Becchetti, Ciciretti and Hasan (2007),
+argue that most of the CSR activities such as building
+employee and community relationship, providing
+environmental protection and improving corporate
+
+governance causes a shift of focus from the maxi-
+mization of stockholders’ value to the interests of a
+wider set of stakeholders and thereby increasing the
+ﬁrm’s costs. Previous studies also argue that corpo-
+rations engaged in CSR activities are found to have
+lower market competitiveness and worse perfor-
+mance through using resources inefﬁciently (Friedman,
+1970), limiting product developments (Bragdon and
+Marlin, 1972) and pushing nonproﬁtable social
+activities
+(Aupperle et al., 1985; Vance, 1975;
+Ullmann, 1985). Particularly noteworthy is the lack
+of public responsiveness to philanthropic behavior as
+well as the insigniﬁcant feedback effect on ﬁnancial
+performance (Henderson, 2002; Walley and White-
+head, 1994). Therefore, ﬁrms having higher social
+awareness result
+in worse ﬁnancial performance.
+Some Taiwanese companies may take longer to get
+involved with CSR because most are small and
+medium-sized enterprises with limited resources.
+Many companies are also reluctant to invest because
+they are not sure how long they will get back the
+money and how long they will be in business.
+
+Empirical studies regarding the relation between
+CSR and performance are mixed.4 Supporters of
+social impact hypothesis, such as Cochran and Wood
+(1984), adopted Moskowitz’s (1972) reputation in-
+dex, which rates ﬁrms into outstanding, honorable
+mention and worst companies, as the proxy of CSR
+measurement. They ﬁnd that CSR ratings positively
+affect ﬁrms’ accounting returns. Waddock and
+Graves
+(1997) employ similar reputation ratings
+developed by Kinder, Lydenberg and Domini
+(KLD) as the proxy of CSR5 and also found ﬁnd that
+past and current KLD ratings are positively related to
+subsequent ﬁrm performance. Tsoutsourz (2004)
+also employ KLD rating and conﬁrm these results.
+
+Alternatively, the shift of focus hypothesis also
+receives substantial supports. Vance (1975) employs
+Moskowitz’s (1972) ratings and ﬁnd that ﬁrms with
+better ratings have lower stock returns. Newgren
+et al. (1985) ﬁnd that those ﬁrms with environ-
+mental assessment have inferior stock market returns.
+Brammer et al. (2005a) examine the relationship
+between stock returns and CSR score, proxied by
+the composite indicator constructed from environ-
+ment protection,
+relationship and
+ﬁnancial transparency. They ﬁnd that CSR scores on
+composite indicator
+are signiﬁcantly negatively
+related to stock returns.
+
+community
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+135
+
+While the above conﬂicting empirical results may
+be a result of using different proxies of CSR or
+different sample periods and ﬁrms used, one of their
+common features is that the adoption of CSR may
+be endogenously determined. That is, ﬁrms with
+better performance tend to adopt CSR because they
+have excess proﬁt to engage CSR but not vice versa.
+That is, when comparing ﬁrms taking on social
+causes (CSR-ﬁrms hereafter) with those that do not
+(NonCSR-ﬁrms hereafter), we expect that the only
+difference between the two groups is the engage-
+ment of CSR in the former but not in the latter,
+other
+regres-
+sion method of adding a dummy variable with
+CSR-ﬁrms being equal to unity and zero for Non-
+CSR-ﬁrms may cause the CSR dummy to be cor-
+related with the residuals, creating a sample selection
+bias problem.
+
+things being equal. Conventional
+
+Heckman (1979)
+
+suggests using a two-stage
+method to eliminate sample selection bias. The ﬁrst
+step is to estimate a probability model. The resulting
+inverse Mill’s ratio serves as the explanatory variable
+in the performance function. Hoﬂer et al. (2004)
+point out two difﬁculties for this approach. First, this
+approach needs to satisfy an identiﬁcation require-
+ment. That is, we must have at least one variable in
+the probability model that is not included in the
+performance
+so-called
+LaLonde’s (1986) critiques, suggest that nonexperi-
+mental estimates may vary widely, become sensitive
+to model speciﬁcations, and differ greatly from the
+experimental estimates.
+
+equation. Next,
+
+the
+
+are
+
+treatment
+
+called the
+
+The second approach, i.e., to eliminate sample
+selection bias is the adoption of the matching theory
+which is developed mainly in the medical and bio-
+logical research ﬁelds and has been widely used in
+economics and ﬁnance. In standard medical or bio-
+logical
+studies, observations participating in an
+experiment
+samples.
+Nonparticipants of experiment
+that have similar
+characteristics with participants are called the con-
+trolled samples. The changes owing to the experi-
+ment between treatment sample and control sample
+is referred to as experimental or treatment effect.
+The basic concept of matching theory is that, when
+examining treatment effect, the treatment sample
+(e.g., CSR-ﬁrm) should have similar characteristics
+as those of the controlled sample (e.g., NonCSR-
+ﬁrm). If they have similar characteristics, then the
+
+resulting difference between two matched observations
+is theoretically the treatment effect (e.g., the effect of
+CSR activities on ﬁnancial performance). In other
+words, other characteristics of ﬁrms in two groups
+should be roughly the same to ensure the sample is
+random determined or is exogenously given. See
+Rubin (1973) for details.
+
+While the original concept of matching theory is
+simple, its implementation is not because matching
+two or more ﬁrms with the same multi-dimensional
+characteristics is difﬁcult, especially when the dimen-
+sions are large. The matching, once successful, often
+reduces the available sample substantially. Rosen-
+baum and Rubin (1983, 1985a, b) proposed Pro-
+pensity Score Matching (PSM)
+to resolve this
+problem as it reduces multi-dimension matching to
+only one-dimension matching. PSM contains two
+steps: The ﬁrst step is to estimate the probability of
+including in the experiment by all samples using
+characteristic variables as the explanatory variables.
+Then for each ﬁrm in the treatment sample, ﬁrms in
+the control samples are selected as matched samples
+according to the closeness of the above estimated
+probability. Therefore, the multi-dimensional char-
+acteristics are projected into one-dimensional prob-
+ability and still fulﬁll the requirement of other things
+being equal. Rubin and Thomas
+further
+prove that
+the use of PSM can overcome the
+selection bias problem.
+
+(1992)
+
+and ﬁnances
+
+The applications of PSM to investigate the
+treatment effect as well as removing the selection
+bias problem in economics
+are
+increasing. Persson (2001) applied this methodology
+to investigate the effect of joining currency unions
+on trade growth of countries. Hutchison (2004)
+examined the effect of IMF program participation
+on output growth. Hoﬂer et al. (2004) investigated
+the relationship between institutional ownership and
+dividend payout behavior of the ﬁrm while using
+PSM to control for selection bias problem. Glick
+et al. (2006) applied PSM in currency crisis and
+liberalization, Vega and Winkelried (2005) in inﬂa-
+tion targeting, Ham et al. (2004) in migration and
+wage growth of young men.
+
+One caveat is worth noting. In order to investi-
+gate the CSR effect, it is often suggested to compare
+the performances of a ﬁrm before and after adopting
+CSR. We do not conduct this comparison for three
+reasons. First, the macro environments may not be
+
+
+136
+
+Chung-Hua Shen and Yuan Chang
+
+the same for two periods, making other things not to
+be the same. Second, engaging in philanthropic
+activities by a ﬁrm is usually a gradual process and we
+can hardly identify the exact starting date of this
+behavior. Third, the ﬁrms’ characteristics may not be
+the same in the two periods.
+
+launches ‘‘CSR Award’’
+
+The purpose of this article is to investigate ﬁnan-
+cial performance differences between CSR-ﬁrms
+and NonCSR-ﬁrm by using Taiwan’s data from
+2005Q2 to 2006Q1. Since May 2005, one leading
+Taiwan’s commercial magazine,
+the Global View
+Monthly (GMV),
+to 25
+ﬁrms by using the following three criteria: social
+participation, environmental protection and ﬁnancial
+transparency to evaluate the listing companies in
+Taiwan Stock Exchange (TSE).6 A corporate is the
+CSR-ﬁrm if its aggregate ranks of the evaluations
+are on the top 25; otherwise, it is NonCSR-ﬁrm.
+Once we obtain the CSR- and NonCSR-ﬁrms, we
+adopt
+the matching theory and to compare the
+ﬁnancial performance of these two groups.
+the article is as
+
+follows.
+Section ‘‘Measures of corporate social responsibility’’
+describes the measures of corporate social responsi-
+bility and how the GMV’s compile the CSR data
+bank. Section ‘‘Matching theory and propensity
+score matching methodology’’ discusses the match-
+ing methodology and its
+application. Section
+‘‘Econometric model’’ discusses the estimation of
+probability function of being philanthropic ﬁrms and
+analyzes the methods we use. Section ‘‘Empirical
+results’’ presents empirical results concerning esti-
+mation of the propensity scores used in creating the
+matched samples and main empirical results. Section
+‘‘Conclusion’’ concludes this article.
+
+The organization of
+
+Measures of corporate social responsibility
+
+The estimation of effect of CSR activities on
+ﬁnancial performance of ﬁrms often confronts with
+the problem of classifying CSR- from NonCSR-
+ﬁrms. In early stage of research, the CSR-ﬁrms are
+often deﬁned by those which spend the amount of
+polluting control investment, expenditure on envi-
+ronmental
+recuperation and protection, prestige
+investigation from business
+students, and
+social reputation ratings by leading business maga-
+zines, such as the Fortune, Times, and Business Ethics.7
+
+school
+
+Recently, some research and ﬁnancial institutions,
+like the above-mentioned KLD and FTSE, develop
+some widely acknowledged social responsible criteria
+which gradually became an international standard.
+For example, KLD rates company as a CSR-ﬁrm on
+the basis of the eight criteria, i.e., community, cor-
+porate governance, diversity, employee relations,
+environment, human rights, product quality and
+controversial business issues. Also, the ﬁrms included
+in FTSE4GOOD indices must meet
+criteria
+requirements in three areas, environmental, social
+and stakeholders, and human rights. Also,
+those
+companies whose business interests are involved in
+tobacco, nuclear weapons and power station, and
+uranium are also excluded from the index. These
+indices have been widely employed.8
+
+In order to understand the status of CSR aware-
+ness and fulﬁllment among Taiwanese corporations,
+and to help bring Taiwan in line with global trends
+in this area, the GVM conducted its ﬁrst ‘‘Survey of
+Corporate Social Responsibility’’ of around 700
+publicly listed companies in 2005. The magazine also
+established the annual ‘‘Corporate Social Responsi-
+bility Award’’ to commend domestic companies for
+CSR excellence and encourage speciﬁc action and
+attention to this area.
+
+The framework of evaluating performance of
+social responsibility is following three dimensions,
+which are social participation, environmental pro-
+tection and ﬁnancial
+transparency. To be more
+speciﬁc, they refer to OEKOM, an independent
+research and rating agency of CSR in Germany, to
+design a questionnaire about engagement
+and
+effectuation of the above three aspects for ﬁrms listed
+on the Taiwan Stock Exchange. They then compute
+scores on each three dimensions of CSR activities
+based on respondents’ reply. Finally, they ranked
+companies according to their total scores upon three
+aspects. Firms with the following infamies are also
+eliminated from rating: negative events challenged
+by government agencies like Environmental Pro-
+tection Administration or Council of Labor Affairs;
+major controversy between the labor and capital,
+agro with consumers,
+litigation and departure
+restriction of CEO; and losses for years.
+
+Once the ranks are yielded in a descending order,
+the top 25 ﬁrms which are elected to conferred on
+the ‘‘Corporate Social Responsibility Award.’’ Fol-
+lowing Chih et al.
+(2007), we exclude ﬁnancial
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+137
+
+institutions, making our CSR samples be 20. Other
+TSE-listing companies are deﬁned as the control
+samples, with a total of 640 NonCSR-ﬁrms. The
+ﬁrst announcement of these ranking is on May 2005,
+which determines our sample period from 2005Q2
+to 2006Q1.
+
+Matching theory and propensity score
+matching methodology
+
+Estimating the effect of adopting CSR
+
+Our goal is to use matching methods to estimate the
+effects of CSR on the ﬁnancial performance of a
+ﬁrm. Following Dehejia and Wahba (2002), we
+deﬁne Yi1 and Yi0 as the ﬁnancial performance of
+ﬁrm i with and without adopting CSR, respectively.
+The difference of the performance between these
+thus, Di ¼ Yi1   Yi0: The average
+two ﬁrms
+treatment effect over the treated population (ATET)
+is (we omit subscript i below for simplicity)
+
+is,
+
+
+
+
+
+
+
+
+
+
+
+D¼1  EðY1   Y0
+
+D ¼ 1Þ
+
+D
+
+
+
+
+
+
+¼ EðY1
+
+D ¼ 1Þ   EðY0
+
+
+
+
+
+
+D ¼ 1Þ;
+
+ð1Þ
+
+where D is a dummy variable and is equal to one
+if ﬁrms adopt CSR and zero otherwise. The esti-
+mation of equation (1) is nonfeasible because the
+second term, E(Y0|D = 1) is not observed, that is,
+we are not able to observe the performance of
+ﬁrm without engaging in CSR when it is actually
+a CSR-ﬁrm. Conventional wisdom suggests using
+E(Y0|D = 0) to substitute it. However,
+for this
+substitution to be valid, the following conditional
+independence
+(Rosenbaum and
+Rubin, 1983; Rubin, 1973) needs to hold:
+
+assumption (CIA)
+
+Y1; Y0?DjX
+
+where ? denotes independence and X is a vector of
+characteristic variables that are unaffected by the
+treatment. This assumption states that, conditional
+on a set of observable X, the treated and control
+groups are regarded as being drawn from the same
+population. Firms are randomly selected to be in
+the treated group, therefore, the only difference
+between the two groups are the treatment effect.
+Then, E(Y0 |D = 0) is an unbiased estimator for
+
+E(Y0|D = 1). Alternatively,
+if the treatment and
+control group differ systematically, we have to con-
+sider them to be nonrandom sampling of the same
+population or drawn from different populations,
+and thus, E(Y0|D = 0) is no longer an appropri-
+ate substitute for E(Y0|D = 1). The difference
+between these two measures is the selection bias.
+
+The CIA could fail by two reasons (Heckman
+et al. 1998). One is that when the characteristic
+variables of CSR-ﬁrms are not comparable with
+those of NonCSR-ﬁrms (noncomparability bias).
+The other is the different distributions of X between
+the treated and the control groups (distribution bias),
+which suggests that ﬁrms are not picked via ran-
+domized process.
+
+Matching methods
+
+tends
+
+techniques
+
+to eliminate
+
+Matching
+the
+aforementioned bias by pairing CSR-ﬁrms with
+NonCSR-ﬁrms that have similar observed char-
+acteristics. The paired NonCSR-ﬁrms
+are the
+counterfactuals
+for CSR-ﬁrms, and hence we can
+attribute the difference of outcome between them
+to the treatment effect. Through this matched
+counterfactuals, we can reestablish the conditions
+of a randomized experiment when actually no such
+data are available.
+
+The propensity score
+Matching all variables in X becomes nonfeasible as
+the dimension of number of variables increases. In
+order to overcome this problem of dimensionality,
+Rosenbaum and Rubin (1983) propose propensity
+score matching (PSM), which reduces a multidi-
+mensional matching problem to a one-dimensional
+problem. Speciﬁcally,
+instead of matching on a
+vector X, we can match on an index function P(X).
+This index, the propensity score, is the probability of
+treatment conditional upon observable characteris-
+tics (the probability of being a CSR-ﬁrm),
+PðXÞ ¼ EðDjXÞ ¼ PðD ¼ 1 XÞj
+
+which states that observations with the same pro-
+pensity score must have the same distribution of X
+independent of the treatment status.9
+
+
+138
+
+Chung-Hua Shen and Yuan Chang
+
+Y1; Y0?D Xj ) Y1; Y0?D PðXiÞ
+
+j
+
+8i
+
+j
+
+j
+
+and equation (1) becomes
+j
+D D¼1
+
+ EðY1 Y0 D¼ 1Þ¼ EðY1 Y0 PðXÞ;D¼ 1Þ
+The noncomparability bias can be eliminated by only
+considering ﬁrms within the common support, the
+intersection on the real line of the supports of the
+distribution [P(X)| D = 1] and [P(X)| D = 0]. The
+bias from different distributions of X is eliminated by
+reweighing the NonCSR-ﬁrms observations.
+
+The estimation of the propensity score proceeded
+with the following steps. Starting with a parsimo-
+nious Logit or Probit speciﬁcation to obtain the
+estimated propensity score Pr(Di = 1|Xi)
+for all
+and NonCSR-ﬁrms,10 which are
+CSR-ﬁrms
+denoted as Pi and Pj, respectively. Since it is rare to
+ﬁnd two groups with exactly the same propensity
+score, the objective is to ﬁnd the NonCSR-ﬁrms
+whose propensity scores that are ‘‘sufﬁciently’’ close
+to those of the CSR-ﬁrms.
+
+Two criteria are often suggested in the literature
+to ﬁnd the approximation. The ﬁrst criterion is the
+Nearest-Neighbor Matching (Nearest hereafter),
+which matches each treatment
+sample with the
+control sample such that the difference of the two is
+minimized. That is,
+
+CðPiÞ ¼ min
+
+j
+
+jPi   Pjj;
+
+where C(Pi) is a set of control units matched with
+the treated unit i, i.e., samples that has the nearest
+propensity score with CSR ﬁrm i.
+
+The second criterion is
+
+the caliper matching
+(Caliper hereafter), which requires the two groups to
+be not too distant. That is, it requires the propensity
+score of the CSR-ﬁrm and NonCSR-ﬁrm to fall
+within a prespeciﬁed caliper. That is,
+CðPiÞ ¼ jPi   Pjj< g
+
+where g is a very small number and is speciﬁed as
+quarter of standard error of estimated propensity
+scores for all CSR-ﬁrms and NonCSR-ﬁrms. Note
+that under this criterion, the number of control
+samples contained in C(Pi) is arbitrary, from zero
+to all control samples.
+
+Conventional matching methods
+Besides minimizing the differences of
+the two
+propensity scores, we also directly compare the char-
+acteristic variables between CSR-ﬁrm and Non-
+CSR-ﬁrm. Thus, the third criterion is Mahalanobis
+Metric Matching (Mahala hereafter), which is
+ 1ðXi   XjÞ
+
+dði; jÞ ¼ ðXi   XjÞ0
+
+V
+
+where d(i, j) is the Mahalanobis distance between
+treated ﬁrm i and control ﬁrm j, and Xi and Xj
+respective k 1 vectors of observed
+are their
+characteristic variables, where k is the number of
+characteristic variables and V is k  k variance–
+covariance matrix of observed characteristics. For
+any given treated ﬁrm i, we choose the control ﬁrm j
+which gives the smallest d.11
+
+The fourth criterion is Mahalanobis Metric
+Matching with Caliper (Mahala Caliper hereafter), it
+matches each treated sample to the control samples
+with Mahalanobis distance smaller than a prespeci-
+is, when d(i,j) < g, where g is
+ﬁed caliper,
+deﬁned above.
+
+that
+
+Veriﬁcation of matching results
+
+Once the matching NonCSR-ﬁrms are selected, we
+could verify the matching by performing the follow-
+ing two tests: The ﬁrst one examines
+the null
+hypothesis of H0 : ð X i   X jÞ ¼ 0; where X i and X j
+are average of characteristic variables of treated ﬁrm i
+and control ﬁrm j, respectively. The two groups have
+the same characteristics if the null is not rejected,
+
+The second veriﬁcation is to calculate
+
+ð X iB   X jBÞ   ð X iA   X jAÞ
+
+ð X iB   X jBÞ
+
+ 100
+
+where X iB and X jB are average of characteristic vari-
+ables of treated and control sample before matching,
+respectively and X iA and X jA are average of charac-
+teristic variables of treated and control sample after
+matching, respectively. This measure calculates the
+percentage change from before-matching to after-
+matching for a given characteristic variable. For each
+matching criteria, the larger the average percentage
+changes, the better the matching.12
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+139
+
+Econometric model
+
+Propensity scoring matching
+
+As we have mentioned, the ﬁrst step in adopting
+PSM is to estimate the propensity scores by using
+Probit model, which is
+
+PrðDCSR ¼ 1Þ ¼ Fðb0
+
+XÞ
+
+ð2Þ
+
+where DCSR is a dummy variable which is equal
+to 1 if it is a CSR-ﬁrm, and 0 otherwise, F(Æ) is
+the cumulative probability density function of nor-
+mal distribution, b is a vector of marginal impact
+coefﬁcients and X is the vector of characteristic
+variables.
+
+Our characteristic variables can be categorized
+into three groups. The ﬁrst group is related to the
+scale factor, containing ASSET (the total asset) and
+SALES (the net sales);
+the second group is the
+income factor, containing EBIT (the earnings before
+interest and tax) and OPERAINC (the operation
+income) and the last group is the management factor,
+containing TURNOVER (the asset turnover) and
+CURRENT (current ratio). Note that Dehejia and
+Wahba (2002) have stressed that the role of pro-
+pensity score is only to reduce the dimensions of the
+conditioning; as such, it has no behavioral assump-
+tions attached to it. Thus, while these variables are
+close to the determinant of being selected as CSR-
+ﬁrms, the main focus is that they serve as the basic
+characteristic of two groups of ﬁrms. The reason of
+choosing these variables and their expected signs are
+explained as follows.
+
+Scale: Dierkes and Coppock (1978), Trotman and
+Bradley (1981), Fombrun and Shanley (1990)
+pointed out that the larger the scale, the more the
+attention that a company attracts from the public.
+Thus, the response from its philanthropic activities is
+noticeable. Thus, scale is often considered as a cru-
+cial characteristic variable and its effect on the
+probability of adopting CSR is positive.
+
+Income: McGuire et al. (1988) and Moore (2001)
+proposed the available funds theory to argue that
+ﬁrms with abundant resources have more ability to
+engage in CSR activities. Posner and Schmidt
+(1992) and Alkhafaji (1989), on the contrary, prove
+that ﬁrms with earn sufﬁcient proﬁts could have
+egocentric behaviors without fear of being challenged
+
+for not noticing the interests of the public. Income
+is also the important characteristic variable and its
+effect is uncertain.
+
+Management: Pava and Krausz (1996), Preston
+and O’Bannon (1997), Stanwick and Stanwick
+(1998) argued that the ﬁrms with well-functioning
+administration system and management ability are
+prone to take more care of the beneﬁts of their
+stakeholders in order to maintain their competitive
+advantage. Thus, management ability is also an
+observed characteristic of a ﬁrm in its decision to
+become a CSR- or NonCSR-ﬁrm. The effect is
+expected to be positive.
+
+Once we obtain the estimated propensity score
+Pr(Di = 1|Xi) for all CSR-ﬁrms and NonCSR-
+ﬁrms,13 which are denoted as Pi and Pj, respectively,
+our objective to ﬁnd the NonCSR-ﬁrms whose
+propensity scores are ‘‘sufﬁciently’’ close to those of
+the CSR-ﬁrms.
+
+Two approaches to estimate the treatment effects
+
+Two approaches are implemented to determinate
+whether adopting CSR activities affect the perfor-
+mance of ﬁrms. The ﬁrst one is the basic statistical
+method, which computes the mean differences of
+ﬁnancial performances between two pairs of groups,
+i.e., the pair of the treatment and controlled samples
+before- and after- matching, respectively. Boot-
+strapping methods (1000 times) are used to establish
+conﬁdence intervals to determine signiﬁcance for
+the above differences.
+
+The second approach employs
+
+the regression
+analysis with a CSR dummy variable to examine the
+differences of ﬁnancial performances between two
+groups of ﬁrms. The regression model is
+PERFORMANCE ¼ a þ bASSET þ kDCSR þ e
+ð3Þ
+
+where PERFORMANCE is the ﬁnancial perfor-
+mance, ASSET is the total asset of a ﬁrm in order to
+remove the third factor inﬂuence, a, k and b are
+coefﬁcients to be estimated, and e is error term. Esti-
+mated k captures the effect on ﬁrm performance of
+being philanthropic. A signiﬁcant positive k suggests
+that CSR-ﬁrms have better ﬁnancial performance
+than NonCSR-ﬁrms, supporting the social
+impact
+
+
+140
+
+Chung-Hua Shen and Yuan Chang
+
+Abbreviation and deﬁnition of characteristic and performance variables
+
+TABLE I
+
+Variable
+
+Deﬁnition
+
+Expected signs
+
+Characteristic variables
+DCSR
+
+Scale factors
+ASSET
+
+SALES
+Income factors
+EBIT
+OPERAINC
+
+Management ability
+TURNOVER
+CURRENT
+Performance variable
+ROA
+ROE
+PTI
+RGM
+EPS
+
+A dummy variable which equal to one if ﬁrm is winner
+of ‘‘CSR Award’’ (CSR-ﬁrms), conferred by the
+Global View Monthly in 2005. Otherwise, it is equal to
+zero (NonCSR-ﬁrms)
+
+Current Assets + Long-term Investment + Total
+Fixed Assets + Total Other Assets
+Gross Sales–Sales Discount and Allowance
+
+(PreTax Income + Interest Expenses)
+Gross Sales–Sales Discount and Allowance–Cost
+of Goods Sold–Operating Expenses
+
+(Total Sales/Total Assets)
+(Current Asset/Current Liability) 100
+(Net Income/Total Assets) 100%
+(Net Income/Total Equity)  100%
+(PreTax Income/Net Sales) 100%
+(Gross Proﬁt/Net Sales) 100%
+(Net Income/Shares Outstanding)
+
++
+
++
+
+Uncertain
+Uncertain
+
++
++
+
+Note:
+1. The CSR- and NonCSR-ﬁrms are classiﬁed as whether they are winners of ‘‘CSR Award,’’ which is conferred by the
+Global View Monthly in 2005.
+2. Their characteristic and ﬁnancial performance variables are taken from the database of Taiwan Economics journal
+(TEJ). The last column is expected signs for ﬁrms of undertaking CSR.
+
+hypothesis, whereas a signiﬁcant negative k supports
+theshift of focus hypothesis.
+
+Our performance measures are: return on assets
+(ROA), return on equity (ROE), pretax income to
+net sales (RPTI), gross proﬁt to net sales (RGM) and
+earnings per share (EPS).14 Table I presents
+the
+deﬁnitions and source of six characteristic and ﬁve
+ﬁnancial performance variables.
+
+Empirical results
+
+Basic statistics before matching
+
+Our samples of CSR- and NonCSR-ﬁrms are 80
+and 2,480 ﬁrm-quarters,
+respectively. Table II
+
+lower CURRENT.
+
+reports basic statistics of
+the characteristic and
+performance variables. Based on samples before the
+matching, CSR-ﬁrms tend to have larger ASSET
+and SALE, higher EBIT, OPERAINC and
+TURNOVER but
+For
+instance, the average ASSET and EBIT of CSR- and
+before-matching NonCSR-ﬁrms are (97.696, 6.477)
+and (16.109, 0.728) billion NTD,
+respectively;
+but they are 182.01 and 209.96 for the CURRENT,
+respectively. With respect
+to the performance
+variables,
+the average ROA of CSR-ﬁrms and
+before-matching NonCSR-ﬁrms are 6.6848% and
+4.5026%, respectively and the average EPS for the
+two groups are 1.61 and 0.9014, respectively. The
+results from basic statistics suggest that CSR-ﬁrms
+perform better
+than before-matching NonCSR-
+ﬁrms.
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+141
+
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+n
+o
+N
+
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+
+s
+e
+l
+p
+m
+a
+S
+
+l
+l
+
+A
+
+x
+a
+M
+
+i
+
+n
+M
+
+v
+e
+d
+
+.
+t
+S
+
+e
+g
+a
+r
+e
+v
+A
+
+x
+a
+M
+
+n
+i
+M
+
+v
+e
+d
+
+.
+t
+S
+
+e
+g
+a
+r
+e
+v
+A
+
+x
+a
+M
+
+i
+
+n
+M
+
+v
+e
+d
+
+.
+t
+S
+
+e
+g
+a
+r
+e
+v
+A
+
+I
+I
+
+E
+L
+B
+A
+T
+
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+n
+o
+N
+d
+n
+a
+
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+
+,
+s
+e
+l
+p
+m
+
+a
+s
+
+l
+l
+a
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+
+c
+i
+s
+a
+B
+
+7
+3
+0
+.
+6
+6
+
+6
+8
+3
+.
+1
+6
+
+4
+2
+.
+5
+8
+4
+
+2
+3
+.
+3
+4
+4
+
+4
+1
+1
+3
+.
+0
+
+3
+1
+0
+0
+.
+0
+
+3
+8
+0
+8
+.
+8
+)
+
+1
+4
+3
+5
+.
+9
+)
+
+0
+0
+9
+2
+.
+4
+
+0
+0
+1
+0
+.
+0
+
+3
+.
+3
+9
+9
+2
+
+0
+0
+7
+7
+.
+1
+
+9
+1
+3
+0
+.
+4
+
+9
+4
+3
+2
+.
+3
+
+7
+8
+1
+6
+.
+0
+
+8
+5
+0
+.
+2
+4
+
+8
+7
+8
+.
+3
+2
+
+6
+4
+3
+7
+.
+7
+
+0
+8
+2
+7
+.
+0
+
+4
+7
+9
+4
+.
+0
+
+4
+2
+3
+8
+.
+0
+
+9
+4
+2
+.
+6
+9
+
+4
+1
+0
+.
+3
+9
+
+0
+5
+.
+3
+7
+6
+
+8
+6
+8
+1
+.
+1
+
+7
+6
+1
+2
+.
+9
+)
+
+7
+6
+9
+5
+.
+3
+)
+
+7
+5
+4
+.
+8
+9
+
+0
+5
+0
+.
+5
+1
+
+0
+3
+3
+.
+3
+1
+
+0
+0
+1
+1
+.
+4
+
+0
+0
+5
+2
+.
+0
+
+5
+5
+9
+8
+.
+0
+
+9
+0
+1
+.
+6
+1
+
+2
+7
+.
+3
+4
+5
+
+6
+5
+9
+5
+.
+4
+
+0
+6
+.
+9
+2
+1
+
+0
+7
+7
+4
+.
+6
+
+4
+4
+9
+6
+.
+4
+
+4
+8
+4
+2
+.
+1
+
+6
+9
+6
+.
+7
+9
+
+9
+6
+9
+.
+7
+5
+
+9
+4
+2
+.
+6
+9
+
+4
+1
+0
+.
+3
+9
+
+2
+7
+.
+3
+4
+5
+
+0
+5
+.
+3
+7
+6
+
+4
+1
+1
+3
+.
+0
+
+3
+1
+0
+0
+.
+0
+
+7
+6
+1
+2
+.
+9
+)
+
+1
+4
+3
+5
+.
+9
+)
+
+0
+0
+9
+2
+.
+4
+
+0
+0
+1
+0
+.
+0
+
+5
+2
+7
+8
+.
+4
+
+5
+9
+1
+0
+.
+4
+
+1
+3
+3
+6
+.
+0
+
+2
+3
+3
+.
+9
+4
+
+6
+6
+4
+.
+0
+3
+
+1
+5
+0
+3
+.
+9
+
+6
+7
+0
+9
+.
+0
+
+5
+8
+2
+6
+.
+0
+
+4
+5
+4
+8
+.
+0
+
+9
+5
+6
+.
+8
+1
+
+R
+E
+V
+O
+N
+R
+U
+T
+
+I
+
+C
+N
+A
+R
+E
+P
+O
+
+T
+E
+S
+S
+A
+
+S
+E
+L
+A
+S
+
+T
+I
+B
+E
+
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+
+6
+7
+.
+1
+2
+2
+
+6
+9
+.
+9
+0
+2
+
+2
+9
+.
+7
+2
+6
+
+0
+4
+0
+.
+9
+3
+
+8
+6
+.
+6
+0
+1
+
+1
+0
+.
+2
+8
+1
+
+3
+.
+3
+9
+9
+2
+
+0
+0
+7
+7
+.
+1
+
+3
+1
+.
+9
+1
+2
+
+8
+0
+.
+9
+0
+2
+
+T
+N
+E
+R
+R
+U
+C
+
+0
+6
+2
+.
+8
+4
+
+0
+9
+5
+.
+8
+6
+
+0
+6
+2
+.
+3
+3
+
+0
+0
+.
+0
+0
+1
+
+8
+.
+9
+0
+8
+3
+
+0
+1
+0
+.
+6
+7
+)
+
+0
+0
+5
+.
+0
+1
+)
+
+1
+.
+8
+4
+2
+2
+)
+
+2
+.
+2
+0
+7
+6
+)
+
+0
+.
+3
+5
+5
+6
+)
+
+0
+6
+8
+0
+.
+8
+
+8
+8
+9
+.
+4
+6
+
+5
+8
+.
+8
+1
+3
+
+6
+2
+0
+5
+.
+4
+
+7
+6
+2
+0
+.
+1
+)
+
+2
+9
+2
+.
+2
+1
+)
+
+5
+2
+8
+2
+.
+2
+
+4
+1
+0
+9
+.
+0
+
+5
+2
+.
+6
+5
+2
+
+5
+1
+6
+0
+.
+7
+
+0
+8
+4
+.
+9
+2
+
+0
+8
+0
+.
+7
+2
+
+0
+3
+1
+.
+8
+5
+
+0
+3
+9
+.
+9
+5
+
+0
+1
+2
+.
+0
+1
+
+0
+0
+9
+2
+.
+7
+)
+
+0
+4
+8
+.
+9
+1
+)
+
+0
+4
+2
+.
+3
+4
+)
+
+0
+0
+1
+1
+.
+3
+
+0
+0
+4
+3
+.
+2
+)
+
+6
+4
+3
+0
+.
+7
+
+9
+9
+3
+7
+.
+9
+
+5
+8
+1
+.
+5
+1
+
+9
+1
+6
+.
+3
+1
+
+8
+4
+8
+6
+.
+6
+
+4
+4
+3
+6
+.
+6
+
+3
+1
+6
+1
+.
+9
+
+9
+2
+5
+.
+7
+1
+
+0
+6
+2
+.
+8
+4
+
+0
+9
+5
+.
+8
+6
+
+0
+0
+.
+0
+0
+1
+
+8
+.
+9
+0
+8
+3
+
+3
+1
+3
+2
+.
+2
+
+0
+0
+1
+6
+.
+1
+
+0
+6
+2
+.
+3
+3
+
+0
+1
+0
+.
+6
+7
+)
+
+0
+0
+5
+.
+0
+1
+)
+
+1
+.
+8
+4
+2
+2
+)
+
+2
+.
+2
+0
+7
+6
+)
+
+0
+.
+3
+5
+5
+6
+)
+
+9
+2
+6
+0
+.
+8
+
+1
+0
+0
+.
+4
+6
+
+5
+8
+.
+3
+1
+3
+
+8
+0
+7
+5
+.
+4
+
+3
+7
+8
+7
+.
+0
+)
+
+2
+2
+6
+.
+1
+1
+)
+
+8
+3
+8
+2
+.
+2
+
+5
+3
+2
+9
+.
+0
+
+3
+2
+.
+2
+5
+2
+
+7
+8
+8
+3
+.
+7
+
+A
+O
+R
+
+E
+O
+R
+
+I
+
+T
+P
+R
+
+M
+G
+R
+
+S
+P
+E
+
+:
+e
+t
+o
+N
+
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+
+.
+1
+Q
+6
+0
+0
+2
+
+o
+t
+
+2
+Q
+5
+0
+0
+2
+m
+o
+r
+f
+
+g
+n
+
+i
+g
+n
+a
+r
+
+,
+d
+e
+s
+u
+
+e
+r
+a
+
+a
+t
+a
+d
+
+y
+l
+r
+e
+t
+r
+a
+u
+Q
+
+.
+s
+r
+a
+l
+l
+
+o
+D
+n
+a
+w
+i
+a
+T
+w
+e
+N
+
+f
+o
+
+s
+n
+o
+i
+l
+l
+i
+b
+
+s
+i
+
+I
+
+C
+N
+A
+R
+E
+P
+O
+d
+n
+a
+
+T
+I
+B
+E
+
+,
+S
+E
+L
+A
+S
+
+,
+
+T
+E
+S
+S
+A
+
+f
+o
+
+t
+i
+
+n
+u
+
+e
+h
+T
+
+.
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+0
+8
+4
+,
+2
+
+d
+n
+a
+
+0
+8
+
+e
+r
+a
+
+s
+
+m
+r
+ﬁ
+R
+S
+C
+n
+o
+N
+d
+n
+a
+
+-
+
+R
+S
+C
+
+f
+o
+
+s
+r
+e
+b
+m
+u
+n
+
+e
+h
+t
+
+e
+r
+e
+h
+w
+
+,
+s
+e
+l
+p
+m
+
+a
+s
+
+l
+l
+a
+
+n
+
+i
+
+s
+r
+e
+t
+r
+a
+u
+q
+-
+m
+r
+ﬁ
+
+0
+6
+5
+,
+2
+
+e
+r
+a
+
+e
+r
+e
+h
+T
+
+.
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+f
+o
+
+n
+o
+i
+t
+i
+
+n
+ﬁ
+e
+d
+
+e
+h
+t
+
+r
+o
+f
+
+I
+
+e
+l
+b
+a
+T
+e
+e
+S
+
+.
+1
+
+.
+2
+
+.
+3
+
+
+142
+
+Chung-Hua Shen and Yuan Chang
+
+Table III reports correlation matrix of character-
+istic and performance variables and dummy variable
+of being CSR-ﬁrms, which equal to one if given
+sample is belong to CSR-ﬁrm and equal to zero if
+otherwise. From the ﬁrst column we observe that,
+ﬁrst, the correlation coefﬁcient between CSR and
+ASSET and EBIT are 0.2877 and 0.2052, respec-
+tively; for CURRENT, coefﬁcient is relatively low,
+)0.0227. Thus, CSR-ﬁrms tend to have larger scale
+and higher level of income than NonCSR-ﬁrms.
+Second, the correlation coefﬁcients between CSR
+and each performance variable are all slightly posi-
+tive,
+the correlation coefﬁcients
+between CSR and ROA, between CSR and ROE
+are 0.0467 and 0.0206, respectively.
+
+for examples,
+
+of
+
+divergence
+
+characteristic
+
+Although one tends to conclude that CSR-ﬁrms
+slightly outperform NonCSR-ﬁrms using before
+matching data, we observe that there is also sys-
+tematic
+variables
+between two groups of ﬁrms, at least on average. We
+cannot attribute performance difference purely to
+ﬁrms’ engaging to philanthropic activities and have
+to ﬁx the differences in characteristics and get purer
+identiﬁable effect on performance of being CSR-
+ﬁrms,
+that’s the performance difference between
+CSR- and NonCSR-ﬁrms at least not duo to dif-
+ference in characteristics between them.
+
+Basic statistics after matching
+
+Table IV presents the estimated results of propensity
+score function (PSF) by Probit model.15 We employ
+two speciﬁcations to examine the robustness. For
+Model I, contemporary characteristic variables are
+used to estimate PSF, and we observe that coefﬁ-
+cients for ASSET, SALES, and TURNOVER are
+signiﬁcantly positive, suggesting that ﬁrms with large
+asset, sales and high asset turnover tend to engage in
+more CSR. The coefﬁcients for EBIT, OPERAINC,
+and CURRENT are negative but insigniﬁcantly
+negative. Although the high correlation coefﬁcient
+between each two characteristic variables, as we
+discussed earlier,
+the model of
+choosing determinants of CSR, but is to reduce the
+dimensions.
+
+the PSM is not
+
+We use model I as our benchmark model to
+estimate propensity score function, that’s the timing
+of explanatory variables are all contemporaneous.
+
+One may concern that whether lagged characteristics
+affect the probability of being classiﬁed as CSR-ﬁrm,
+for example, a ﬁrms with large earnings this period
+could engage more in CSR activities in the next
+period because they have more available funds,
+suggested by McGuire et al.
+(1988) and Moore
+(2001). Thus, we also consider lagged income factor,
+EBITt)1, and OPERAINCt)1 as explanatory vari-
+ables to replace contemporary EBIT and OPERA-
+INC to establish model II. Since the estimated results
+of PSF as roughly the same with results of model I,
+we leave it in latter part of the article.
+
+Based on estimation results of PSF by model I, we
+obtain propensity score for each sample of ﬁrm.
+Thus, we can select the samples based on the four
+matching methods, Nearest, Caliper, Mahala and
+Mahala Caliper.
+
+the averages of
+
+Table V compares
+
+the means of characteristic
+variables between two groups based on before- and
+after-matching samples. Unlike those in Table II
+where the whole sample of CSR-ﬁrms and Non-
+CSR-ﬁrms are used in Table II, we only employ
+matched samples here. It is not surprising that, after
+matching,
+two pairs become
+approximately equal. The Caliper and Mahala Cal-
+iper, are the most successful in matching our sample.
+In order to illustrate this, six characteristic variables
+between CSR- and after-matching NonCSR-ﬁrms
+become approximately equal because the differences
+in their means are insigniﬁcant. Using Nearest
+matching method, signiﬁcant differences exist
+in
+CURRENT, but not in the remaining ﬁve vari-
+ables. When Mahala matching is employed, similar
+results are obtained. As mentioned earlier,
+the
+comparison of performance is meaningful only when
+the characteristic variables are close to each other.
+Accordingly, the Caliper and the Mahala Caliper
+methods provide a more reliable matching than
+those of the Nearest and Mahala methods.
+
+Table VI presents percentage changes of the gaps
+of the characteristic variables between CSR-ﬁrms
+and NonCSR-ﬁrms before and after matching. The
+deviation of whole NonCSR-ﬁrms from matched
+NonCSR-ﬁrms helps us to evaluate the outcome of
+the matching methods. The large percentage change
+suggests the success of the matching, and therefore,
+the use of the whole sample is biased. Two inter-
+esting results can be highlighted as follows. First, the
+Mahala and Mahala Caliper are expected to be better
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+143
+
+S
+P
+E
+
+M
+G
+R
+
+I
+
+T
+P
+R
+
+E
+O
+R
+
+A
+O
+R
+
+T
+N
+E
+R
+R
+U
+C
+
+R
+E
+V
+O
+N
+R
+U
+T
+
+I
+
+C
+N
+A
+R
+E
+P
+O
+
+T
+I
+B
+E
+
+S
+E
+L
+A
+S
+
+T
+E
+S
+S
+A
+
+I
+I
+I
+
+E
+L
+B
+A
+T
+
+t
+n
+e
+i
+c
+ﬁ
+f
+e
+o
+c
+
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+f
+o
+
+x
+i
+r
+t
+a
+
+M
+
+0
+0
+0
+0
+.
+1
+
+0
+0
+0
+0
+.
+1
+
+0
+8
+9
+0
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+5
+2
+3
+9
+.
+0
+
+3
+8
+5
+1
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+9
+2
+9
+0
+.
+0
+
+8
+4
+3
+0
+.
+0
+
+8
+6
+7
+2
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+8
+6
+3
+3
+.
+0
+
+9
+7
+5
+2
+.
+0
+
+7
+6
+9
+1
+.
+0
+
+5
+5
+2
+8
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+7
+5
+2
+1
+.
+0
+
+0
+4
+7
+0
+.
+0
+
+0
+0
+7
+0
+.
+0
+
+3
+2
+5
+0
+.
+0
+
+4
+1
+2
+1
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+6
+1
+7
+0
+.
+0
+)
+
+6
+3
+8
+1
+.
+0
+
+5
+9
+9
+0
+.
+0
+
+3
+7
+6
+0
+.
+0
+
+2
+2
+4
+0
+.
+0
+
+2
+0
+3
+2
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+7
+2
+4
+0
+.
+0
+
+2
+7
+1
+0
+.
+0
+
+0
+1
+5
+2
+.
+0
+
+7
+4
+5
+0
+.
+0
+
+0
+6
+3
+0
+.
+0
+
+8
+1
+3
+0
+.
+0
+
+9
+9
+5
+2
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+6
+8
+3
+9
+.
+0
+
+8
+0
+4
+0
+.
+0
+
+0
+9
+1
+0
+.
+0
+
+9
+5
+9
+2
+.
+0
+
+8
+9
+7
+0
+.
+0
+
+3
+3
+4
+0
+.
+0
+
+5
+8
+2
+0
+.
+0
+
+9
+1
+2
+3
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+7
+8
+9
+6
+.
+0
+
+5
+1
+1
+6
+.
+0
+
+0
+3
+1
+2
+.
+0
+
+4
+3
+4
+0
+.
+0
+)
+
+5
+0
+7
+1
+.
+0
+
+2
+9
+4
+0
+.
+0
+
+5
+0
+2
+0
+.
+0
+
+7
+8
+0
+0
+.
+0
+
+4
+2
+4
+2
+.
+0
+
+0
+0
+0
+0
+.
+1
+
+3
+2
+1
+7
+.
+0
+
+9
+9
+1
+7
+.
+0
+
+2
+8
+4
+6
+.
+0
+
+8
+7
+1
+0
+.
+0
+)
+
+0
+9
+2
+0
+.
+0
+)
+
+2
+0
+1
+1
+.
+0
+
+9
+4
+3
+0
+.
+0
+
+6
+3
+2
+0
+.
+0
+
+7
+9
+0
+0
+.
+0
+
+7
+8
+2
+1
+.
+0
+
+R
+S
+C
+D
+
+0
+0
+0
+0
+.
+1
+
+7
+7
+8
+2
+.
+0
+
+9
+6
+8
+2
+.
+0
+
+2
+5
+0
+2
+.
+0
+
+6
+1
+8
+1
+.
+0
+
+6
+4
+1
+1
+.
+0
+
+7
+2
+2
+0
+.
+0
+)
+
+7
+6
+4
+0
+.
+0
+
+6
+0
+2
+0
+.
+0
+
+1
+1
+1
+0
+.
+0
+
+4
+7
+0
+0
+.
+0
+
+5
+3
+5
+0
+.
+0
+
+R
+E
+V
+O
+N
+R
+U
+T
+
+I
+
+C
+N
+A
+R
+E
+P
+O
+
+T
+N
+E
+R
+R
+U
+C
+
+T
+E
+S
+S
+A
+
+S
+E
+L
+A
+S
+
+R
+S
+C
+D
+
+T
+I
+B
+E
+
+A
+O
+R
+
+E
+O
+R
+
+I
+
+T
+P
+R
+
+M
+G
+R
+
+S
+P
+E
+
+:
+e
+t
+o
+N
+
+.
+s
+e
+l
+p
+m
+
+a
+s
+
+l
+l
+a
+
+n
+i
+
+s
+r
+e
+t
+r
+a
+u
+q
+-
+m
+r
+ﬁ
+
+0
+6
+5
+,
+2
+
+e
+r
+a
+
+e
+r
+e
+h
+T
+
+.
+1
+Q
+6
+0
+0
+2
+
+o
+t
+
+2
+Q
+5
+0
+0
+2
+m
+o
+r
+f
+
+g
+n
+i
+g
+n
+a
+r
+
+,
+d
+e
+s
+u
+
+e
+r
+a
+
+a
+t
+a
+d
+
+y
+l
+r
+e
+t
+r
+a
+u
+Q
+
+.
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+f
+o
+
+n
+o
+i
+t
+i
+n
+ﬁ
+e
+d
+
+e
+h
+t
+
+r
+o
+f
+
+I
+
+e
+l
+b
+a
+T
+
+e
+e
+S
+
+.
+1
+
+.
+2
+
+
+144
+
+Chung-Hua Shen and Yuan Chang
+
+Estimation of propensity score function, probit regressions Pr (DCSR = 1) = F(b0X)
+
+TABLE IV
+
+Variables
+
+Constant
+ASSET
+SALES
+EBIT
+OPERAINC
+TURNOVER
+CURRENT
+No. of Observations
+Pseudo R2
+
+Model I
+
+Estimated coefﬁcients
+
+)2.3479 ()17.4)
+0.0059*** (6.11)
+0.0029* (1.80)
+)0.0128 ()0.61)
+)0.0060 ()0.28)
+0.3334*** (4.63)
+)0.0001 ()1.02)
+
+2,459
+
+0.175
+
+Variables
+
+Model II
+
+Estimated coefﬁcients
+
+Constant
+ASSET
+SALES
+EBITt)1
+OPERAINCt)1
+TURNOVER
+CURRENT
+No. of Observations
+Pseudo R2
+
+)2.3757 ()15.0)
+0.0064*** (4.87)
+0.0030* (1.69)
+)0.0231 ()1.03)
+0.0020 (0.09)
+0.3294*** (3.89)
+)0.0004 ()0.70)
+
+1,913
+
+0.179
+
+Note:
+1. The period of data ranged from 2005Q2 to 2006Q1.
+2. Subscript t)1 denotes the time at t)1, those without subscripts denote time at t.
+3. The t-statistics are given in the parentheses, and ***, ** and * denote the signiﬁcance at the 1%, 5% and 10% level,
+respectively.
+
+two matching algorithms because the average per-
+centage changes of the two groups are the largest,
+70.4 % and 97.5%, respectively. The conclusion is
+slightly differs from the results obtained in Table V,
+where the Caliper and Mahala Caliper methods
+provide more successful matching.
+
+freedom is
+
+It is worth noting that the superior matching
+results are not without costs. For example,
+the
+degree of
+substantially reduced from
+2,480 to 7 when Mahala Caliper method is adopted.
+Next, the Nearest and Caliper methods are slightly
+less reliable because of their lower average percent-
+age changes, which are 54.3% and 65.1% respec-
+tively. Although their percentage changes
+are
+smaller, they do not lose as many observations as
+Mahala Caliper method and still retain 80 and 78,
+respectively. Therefore, there might be a trade-off
+between the closeness in matching and the losses in
+the degrees of freedom. Mahala Caliper produces a
+better selection of the NonCSR-ﬁrms but it loses a
+lot of observations; by contrast, Nearest, Caliper and
+Mahala produces a slightly worse selection but
+maintain a lots more observations. Since no method
+is overwhelmingly superior to the others, we report
+the regression results using all four methods.
+
+Performance comparisons
+
+the differences
+
+Table VII presents
+in means of
+ﬁnancial performances between CSR- and Non-
+CSR-ﬁrms, based on before- and after-matching
+samples. Before matching, the signiﬁcantly differ-
+ences are exist in ROA and EPS, where the average
+ROA and EPS of CSR-ﬁrms are higher
+than
+NonCSR-ﬁrms by 2.16% and 0.7, respectively.
+
+The after matching comparisons are reported
+from the third to sixth columns in Table VII. First,
+original signiﬁcantly superiority of ROA and EPS
+for CSR-ﬁrms disappear. Second, under
+the
+matching methods of Nearest, RGM of CSR-ﬁrms
+are signiﬁcantly higher
+than NonCSR-ﬁrms by
+8.653% and others performance variables are insig-
+niﬁcantly different from them. Similar results are
+obtained under Mahala and Mahala Caliper match-
+ing. Third, when Caliper is used, the performance of
+CSR- and NonCSR-ﬁrms is regardless of which
+performance variable is used.
+
+Table VIII presents
+
+the estimated results of
+regression analysis (3) by adding the control variable,
+ASSET.16 Employing the sample before matching
+(reported in Panel A), the estimated coefﬁcients of
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+145
+
+)
+r
+e
+p
+i
+l
+a
+C
+a
+l
+a
+h
+a
+M
+
+(
+
+s
+r
+e
+p
+i
+l
+a
+c
+
+h
+t
+i
+
+w
+
+)
+a
+l
+a
+h
+a
+M
+
+(
+
+)
+t
+s
+e
+r
+a
+e
+N
+
+(
+
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+c
+i
+r
+t
+e
+m
+
+s
+i
+b
+o
+n
+a
+l
+a
+h
+a
+M
+
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+c
+i
+r
+t
+e
+m
+
+s
+i
+b
+o
+n
+a
+l
+a
+h
+a
+M
+
+)
+r
+e
+p
+i
+l
+a
+C
+
+(
+
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+
+r
+e
+p
+i
+l
+a
+C
+
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+
+r
+o
+b
+h
+g
+i
+e
+n
+-
+t
+s
+e
+r
+a
+e
+N
+
+i
+
+g
+n
+h
+c
+t
+a
+
+m
+e
+r
+o
+f
+e
+B
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+n
+o
+N
+
+-
+
+R
+S
+C
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+n
+o
+N
+
+-
+
+R
+S
+C
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+n
+o
+N
+
+-
+
+R
+S
+C
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+n
+o
+N
+
+-
+
+R
+S
+C
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+n
+o
+N
+
+R
+S
+C
+
+)
+e
+u
+l
+a
+v
+-
+t
+(
+
+-
+
+R
+S
+C
+
+s
+
+m
+r
+ﬁ
+
+)
+e
+u
+l
+a
+v
+-
+t
+(
+
+-
+
+R
+S
+C
+
+s
+
+m
+r
+ﬁ
+
+)
+e
+u
+l
+a
+v
+-
+t
+(
+
+-
+
+R
+S
+C
+
+s
+
+m
+r
+ﬁ
+
+)
+e
+u
+l
+a
+v
+-
+t
+(
+
+-
+
+R
+S
+C
+
+s
+
+m
+r
+ﬁ
+
+)
+e
+u
+l
+a
+v
+-
+t
+(
+
+-
+
+R
+S
+C
+
+s
+
+m
+r
+ﬁ
+-
+
+V
+E
+L
+B
+A
+T
+
+s
+e
+l
+p
+m
+
+a
+s
+
+g
+n
+i
+h
+c
+t
+a
+
+m
+
+-
+r
+e
+t
+f
+a
+
+d
+n
+a
+
+-
+e
+r
+o
+f
+e
+b
+
+:
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+
+r
+e
+t
+f
+
+A
+
+e
+l
+b
+a
+i
+r
+a
+v
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+
+)
+4
+0
+.
+0
+)
+
+)
+9
+0
+.
+0
+)
+
+(
+
+(
+
+8
+4
+0
+.
+0
+)
+
+7
+4
+0
+.
+0
+)
+
+)
+2
+2
+.
+1
+(
+
+4
+8
+0
+.
+0
+
+)
+3
+0
+.
+0
+)
+
+(
+
+)
+4
+9
+.
+0
+(
+
+4
+0
+0
+.
+0
+)
+
+7
+3
+0
+.
+0
+
+)
+9
+1
+.
+0
+(
+
+0
+0
+3
+.
+3
+
+s
+
+m
+r
+ﬁ
+
+7
+4
+4
+.
+7
+
+7
+7
+8
+.
+2
+
+5
+2
+0
+.
+0
+
+2
+2
+0
+.
+0
+
+3
+9
+8
+.
+0
+
+6
+.
+4
+7
+1
+
+9
+9
+3
+.
+7
+
+1
+3
+8
+.
+2
+
+8
+0
+1
+.
+0
+
+9
+5
+0
+.
+0
+
+9
+8
+8
+.
+0
+
+)
+9
+7
+.
+0
+(
+
+1
+1
+.
+5
+1
+
+)
+4
+8
+.
+0
+(
+
+8
+1
+.
+1
+1
+
+)
+4
+7
+.
+0
+(
+
+1
+5
+5
+.
+1
+
+)
+5
+4
+.
+0
+(
+
+5
+5
+8
+.
+0
+
+)
+8
+2
+.
+0
+(
+
+9
+3
+0
+.
+0
+
+9
+.
+7
+7
+1
+
+)
+5
+6
+.
+1
+(
+
+*
+4
+7
+.
+2
+2
+
+s
+
+m
+r
+ﬁ
+
+9
+5
+.
+2
+8
+
+9
+7
+.
+6
+4
+
+6
+2
+9
+.
+4
+
+9
+3
+8
+.
+3
+
+9
+0
+2
+.
+1
+
+3
+.
+9
+5
+1
+
+0
+7
+.
+7
+9
+
+7
+9
+.
+7
+5
+
+7
+7
+4
+.
+6
+
+4
+9
+6
+.
+4
+
+8
+4
+2
+.
+1
+
+0
+.
+2
+8
+1
+
+)
+2
+0
+.
+1
+)
+
+(
+
+)
+4
+9
+.
+0
+(
+
+4
+5
+1
+.
+0
+)
+
+7
+9
+6
+.
+1
+
+)
+0
+1
+.
+1
+(
+
+0
+4
+.
+8
+1
+
+)
+3
+2
+.
+1
+(
+
+0
+4
+.
+3
+2
+
+)
+7
+4
+.
+0
+(
+
+0
+7
+9
+.
+4
+
+)
+0
+8
+.
+0
+(
+
+4
+3
+6
+.
+1
+
+s
+
+m
+r
+ﬁ
+
+0
+4
+.
+8
+6
+
+1
+2
+.
+0
+4
+
+2
+9
+9
+.
+3
+
+5
+6
+6
+.
+2
+
+7
+7
+3
+.
+1
+
+5
+.
+4
+6
+1
+
+0
+8
+.
+1
+9
+
+8
+1
+.
+5
+4
+
+6
+2
+6
+.
+5
+
+2
+6
+3
+.
+4
+
+2
+2
+2
+.
+1
+
+9
+.
+2
+8
+1
+
+)
+9
+2
+.
+1
+)
+
+(
+
+)
+8
+1
+.
+1
+(
+
+0
+8
+1
+.
+0
+)
+
+9
+0
+1
+.
+2
+
+)
+5
+9
+.
+1
+(
+
+*
+2
+1
+.
+6
+2
+
+)
+2
+0
+.
+1
+(
+
+2
+1
+.
+9
+1
+
+)
+1
+6
+.
+0
+(
+
+1
+6
+7
+.
+8
+
+)
+5
+3
+.
+1
+(
+
+5
+8
+7
+.
+2
+
+s
+
+m
+r
+ﬁ
+
+8
+5
+.
+8
+7
+
+1
+2
+.
+9
+4
+
+2
+9
+6
+.
+3
+
+5
+8
+5
+.
+2
+
+8
+2
+4
+.
+1
+
+9
+.
+5
+5
+1
+
+0
+7
+.
+7
+9
+
+)
+2
+.
+5
+1
+(
+
+*
+*
+*
+4
+5
+.
+1
+8
+
+7
+9
+.
+7
+5
+
+)
+1
+.
+5
+1
+(
+
+*
+*
+*
+0
+2
+.
+0
+5
+
+7
+7
+4
+.
+6
+
+)
+6
+.
+0
+1
+(
+
+*
+*
+*
+6
+4
+7
+.
+5
+
+4
+9
+6
+.
+4
+
+)
+2
+3
+.
+9
+(
+
+*
+*
+*
+5
+9
+1
+.
+4
+
+8
+4
+2
+.
+1
+
+0
+.
+2
+8
+1
+
+)
+2
+8
+.
+5
+(
+
+*
+*
+*
+6
+1
+4
+.
+0
+
+)
+4
+1
+.
+1
+)
+
+(
+
+1
+5
+.
+8
+2
+)
+
+s
+
+m
+r
+ﬁ
+
+6
+1
+.
+6
+1
+
+6
+6
+7
+.
+7
+
+2
+3
+7
+.
+0
+
+0
+0
+5
+.
+0
+
+2
+3
+8
+.
+0
+
+5
+.
+0
+1
+2
+
+0
+7
+.
+7
+9
+
+7
+9
+.
+7
+5
+
+7
+7
+4
+.
+6
+
+4
+9
+6
+.
+4
+
+8
+4
+2
+.
+1
+
+0
+.
+2
+8
+1
+
+R
+E
+V
+O
+N
+R
+U
+T
+
+I
+
+C
+N
+A
+R
+E
+P
+O
+
+T
+N
+E
+R
+R
+U
+C
+
+:
+e
+t
+o
+N
+
+T
+E
+S
+S
+A
+
+S
+E
+L
+A
+S
+
+T
+I
+B
+E
+
+0
+8
+4
+,
+2
+d
+n
+a
+
+,
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+e
+r
+a
+0
+8
+h
+t
+i
+
+w
+
+,
+s
+e
+l
+p
+m
+
+a
+s
+
+r
+a
+e
+y
+-
+m
+r
+ﬁ
+0
+6
+5
+,
+2
+
+y
+l
+l
+a
+t
+o
+t
+
+e
+r
+a
+
+e
+r
+e
+h
+T
+
+.
+s
+d
+o
+h
+t
+e
+m
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+y
+n
+a
+
+g
+n
+i
+t
+p
+o
+d
+a
+
+t
+u
+o
+h
+t
+i
+
+w
+
+s
+
+m
+r
+ﬁ
+
+f
+o
+s
+p
+u
+o
+r
+g
+o
+w
+
+t
+
+e
+h
+t
+
+f
+o
+e
+l
+p
+m
+
+a
+s
+
+w
+a
+r
+
+e
+h
+t
+
+s
+e
+t
+o
+n
+e
+d
+g
+n
+
+i
+
+h
+c
+t
+a
+
+M
+
+e
+r
+o
+f
+e
+B
+
+.
+2
+
+.
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+
+r
+i
+e
+h
+t
+
+d
+n
+a
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+n
+o
+N
+d
+n
+a
+
+-
+
+R
+S
+C
+
+f
+o
+
+s
+n
+a
+e
+m
+e
+r
+a
+
+d
+e
+t
+n
+e
+s
+e
+r
+p
+
+s
+r
+e
+b
+m
+u
+n
+
+e
+h
+T
+
+.
+1
+
+.
+s
+
+m
+r
+ﬁ
+-
+R
+S
+C
+n
+o
+N
+e
+r
+a
+
+-
+
+R
+S
+C
+n
+o
+N
+e
+h
+t
+
+r
+o
+f
+n
+o
+
+i
+t
+a
+v
+r
+e
+s
+b
+o
+f
+o
+r
+e
+b
+m
+u
+n
+e
+h
+T
+
+.
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+s
+d
+o
+h
+t
+e
+m
+
+r
+e
+p
+i
+l
+a
+C
+a
+l
+a
+h
+a
+M
+d
+n
+a
+
+a
+l
+a
+h
+a
+M
+
+,
+r
+e
+p
+i
+l
+a
+C
+
+,
+t
+s
+e
+r
+a
+e
+N
+e
+h
+t
+
+g
+n
+
+i
+t
+p
+o
+d
+a
+
+y
+b
+d
+e
+h
+c
+t
+a
+
+m
+n
+e
+e
+b
+e
+v
+a
+h
+e
+l
+p
+m
+
+a
+s
+
+e
+h
+t
+
+s
+e
+t
+o
+n
+e
+d
+
+i
+
+g
+n
+h
+c
+t
+a
+
+M
+
+r
+e
+t
+f
+
+A
+
+.
+3
+
+.
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+l
+e
+v
+e
+l
+
+%
+0
+1
+
+d
+n
+a
+%
+5
+
+,
+
+%
+1
+
+e
+h
+t
+
+t
+a
+
+e
+c
+n
+a
+c
+ﬁ
+n
+g
+i
+s
+
+i
+
+e
+h
+t
+
+e
+t
+o
+n
+e
+d
+
+*
+
+d
+n
+a
+
+*
+*
+
+,
+*
+*
+*
+
+.
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+n
+
+i
+
+d
+e
+t
+n
+e
+s
+e
+r
+p
+
+e
+r
+a
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+-
+t
+
+e
+h
+T
+
+.
+4
+
+.
+5
+
+.
+s
+d
+o
+h
+t
+e
+m
+g
+n
+
+i
+
+h
+c
+t
+a
+
+m
+
+r
+u
+o
+f
+
+e
+v
+o
+b
+a
+
+e
+h
+t
+
+g
+n
+
+i
+s
+u
+
+y
+b
+
+7
+
+d
+n
+a
+
+0
+8
+
+,
+8
+7
+
+,
+0
+8
+
+e
+r
+a
+
+s
+
+m
+r
+ﬁ
+
+
+146
+
+Chung-Hua Shen and Yuan Chang
+
+Percentage changes of characteristic variables after the matchings
+
+TABLE VI
+
+Characteristic variable
+
+After matching
+
+Nearest-neighbor
+matching (Nearest)
+
+Caliper matching
+
+(Caliper)
+
+Mahalanobis metric
+matching (Mahala)
+
+Mahalanobis metric
+
+matching with calipers
+
+(Mahala Caliper)
+
+ASSET
+SALES
+EBIT
+OPERAINC
+TURNOVER
+CURRENT
+Average
+
+76.6
+82.5
+51.5
+49.7
+56.8
+
+8.40
+
+54.3
+
+71.3
+90.1
+71.6
+59.5
+62.9
+35.4
+65.1
+
+81.5
+77.7
+73.0
+79.6
+90.6
+20.2
+70.4
+
+99.9
+99.9
+98.5
+99.1
+99.0
+88.4
+97.5
+
+Note:
+1. The numbers are the percentage changes of means of ﬁve characteristic variables after the matching. The larger the
+percentage changes, the more efﬁcient in matching, i.e., reducing difference between the two groups: CSR- and
+NonCSR-ﬁrms.
+2. Average denotes the average of the six percentage changes of characteristic variables.
+
+The differences of performance variables: CSR-ﬁrms and NonCSR-ﬁrms: before- and after-matching samples
+
+TABLE VII
+
+Performance
+variable
+
+Before
+
+matching
+
+After matching
+
+Nearest-neighbor
+matching (Nearest)
+
+Caliper
+matching
+(Caliper)
+
+Mahalanobis metric
+matching (Mahala)
+
+Mahalanobis
+
+metric matching
+
+with calipers (Mahala Caliper)
+
+ROA
+ROE
+RPTI
+RGM
+EPS
+
+2.160** (2.36)
+7.566 (1.04)
+17.62 (0.56)
+10.70 (0.37)
+0.700*** (2.70) )0.276 ()0.60) )0.489 ()1.13) )0.032 ()0.09)
+
+0.407 (0.29)
+)0.086 ()0.01)
+5.681 (0.65)
+8.944 (1.27)
+
+0.726 (0.55)
+0.439 (0.06)
+5.570 (0.34)
+8.653* (1.72)
+
+6.339 (1.11)
+4.073*** (3.02)
+
+3.315** (2.08)
+
+23.12 (1.28)
+
+0.649 (0.67)
+1.523 (1.00)
+2.861 (1.12)
+7.600** (2.05)
+0.366 (1.10)
+
+Note:
+1.The numbers are the differences of the means for the two groups: CSR- and NonCSR-ﬁrms.
+2. The bootstrap t-statistics are presented in the parentheses by repeating sampling 1000 times.
+3. ***, ** and * denote the signiﬁcance at the 1%, 5% and 10% level, respectively.
+
+DCSR are all positive but insigniﬁcantly regardless of
+the performance variables being used as dependent
+variable. Thus, before matching, one may conclude
+that adopting CSR at least not worsen the ﬁnancial
+performance of a ﬁrm.
+
+The results changed when the after matching
+samples are used (reported in Panels B to E). First,
+when Nearest is used and when performance vari-
+ables are RPTI and RGM, the estimated coefﬁcient
+
+of DCSR are signiﬁcantly positive with 4.813 and
+8.325, respectively. It implies that CSR-ﬁrms have
+higher pretax income to net sales and gross margin.
+Similar results are obtained when the method of
+Caliper are used. Second, when method of Mahala is
+used and when performance variable is RGM, the
+estimated coefﬁcient is signiﬁcantly positive. Third,
+under Mahala Caliper, the estimated coefﬁcients of
+CSR dummy are all
+insigniﬁcantly positive no
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+147
+
+TABLE VIII
+
+Performance regression: ROA, ROE, RPTI, RGM and EPS: OLS Method
+
+PERFORMANCE = a + b ASSET + k DCSR + e
+
+ROA
+
+ROE
+
+RPTI
+
+RGM
+
+EPS
+
+0.479 (0.27)
+0.040 (4.08)
+4.813** (2.09)
+
+)14.68 ()2.21)
+0.148 (1.13)
+9.364 (0.25)
+
+5.003 (5.39)
+0.012 (2.42)
+0.493 (0.41)
+
+4.223 (24.9)
+0.017 (5.17)
+0.767 (0.81)
+
+Panel A: Before matching
+)1.694 ()1.25)
+Constant
+ASSET
+0.041 (1.55)
+DCSR
+4.280 (0.56)
+Panel B: Nearest)neighbor matching (Nearest)
+5.542 (3.59)
+Constant
+0.008 (0.99)
+ASSET
+DCSR
+0.280 (0.14)
+Panel C: Caliper matching (Caliper)
+5.557 (3.59
+Constant
+0.011 (1.19)
+ASSET
+DCSR
+0.051 (0.03)
+Panel D: Mahalanobis metric matching (Mahala)
+)22.47 ()1.81)
+Constant
+ASSET
+0.072 (1.11)
+DCSR
+Panel E: Mahalanobis metric matching with calipers (Mahala Caliper)
+Constant
+ASSET
+DCSR
+
+1.507 (1.05)
+0.023 (2.97)
+2.974 (1.62)
+
+5.019 (5.41)
+0.015 (2.76)
+0.237 (0.20)
+
+0.525 (0.15)
+0.013 (1.65)
+4.802 (1.28)
+
+3.132 (1.29)
+0.018 (3.24)
+1.780 (0.69)
+
+22.03 (1.39)
+
+0.492 (0.10)
+0.052 (4.53)
+3.574 (0.67)
+
+)3.132 ()0.77)
+0.072 (3.35)
+5.250 (1.01)
+
+0.503 (0.28)
+0.043 (4.21)
+4.440* (1.90)
+
+6.399 (1.20)
+0.041 (0.39)
+7.111 (0.24)
+
+0.809 (16.9)
+0.006 (6.07)
+0.239 (0.89)
+
+7.529 (5.04)
+0.017 (2.12)
+8.325*** (4.34)
+
+1.772 (3.45)
+0.001 (0.52)
+)0.304 ()0.46)
+
+7.543 (5.02)
+0.019 (2.24)
+8.115*** (4.17)
+
+1.777 (3.44)
+0.002 (0.70)
+)0.369 ()0.55)
+
+10.30 (6.57)
+
+0.038 (4.62)
+3.496* (1.75)
+
+1.346 (3.74)
+0.004 (1.89)
+)0.086 ()0.19)
+
+7.605 (1.56)
+0.027 (2.43)
+7.272 (1.41)
+
+0.045 (0.06)
+0.003 (1.75)
+1.250 (1.46)
+
+Note:
+1. This table reports pooled OLS estimation results of regression analysis of relating being CSR-ﬁrm to ﬁnancial per-
+formance.
+2. Data are ranged from 2005Q2 to 2006Q1. Before sample matching, there are 80 CSR-ﬁrms and 2,480 NonCSR-ﬁrms.
+After matching, the number of NonCSR-ﬁrms of Nearest, Caliper, Mahala and Mahala Caliper, are 80, 78, 80 and 7.
+3. The t-statistics are presented in parentheses
+4. ***, ** and * denote the signiﬁcance at the 1%, 5% and 10% level, respectively.
+
+matter what
+the performance variables are used.
+Fourth, results commonly show that the estimated
+coefﬁcients DCSR are positive, while some of them
+are signiﬁcant, none of them are signiﬁcantly nega-
+tive. Therefore, engagement of CSR activities is
+beneﬁcial
+for the ﬁnancial performance of ﬁrms
+in Taiwan,
+impact
+hypothesis.
+
+thereby supporting the social
+
+Recall that we use PSM Model I as our bench-
+speciﬁcation,
+mark. We now employ different
+model II,
+to examine the robustness. Table IX
+reports regression results of being CSR-ﬁrms on
+ﬁnancial performance. The estimated results do not
+change signiﬁcantly. First, using the Nearest meth-
+od, when performance variable are RPTI and
+RGM, both estimated coefﬁcients of CSR dummy
+
+is
+
+superior
+
+are signiﬁcantly negative (4.110 and 5.896, respec-
+tively), suggesting the same results that the perfor-
+mance of CSR-ﬁrms
+to those of
+NonCSR-ﬁrms. Signiﬁcantly higher RGM for
+CSR-ﬁrms under the matching of Caliper and
+similar results obtained under Mahala. Since most
+part of estimated coefﬁcients of CSR dummy are
+positive,
+implying the advantage of CSR-ﬁrms.
+Thus, using model II to estimate PSF does not shift
+our principal outcome.
+
+While several matching methods obtain slightly
+ﬁndings, the general results seem to suggest that
+ﬁrms adopting CSR has no worse than ﬁnancial
+performance than ﬁrms do not adopt it. Therefore,
+the social impact hypothesis seems to be preferred. Our
+results
+that corporate ambition can be
+
+suggest
+
+
+148
+
+Chung-Hua Shen and Yuan Chang
+
+Performance regression: ROA, ROE, RPTI, RGM and EPS: OLS Method (Using Model II to Estimate PSF)
+
+PERFORMANCE = a + b ASSET + k DCSR + e
+
+TABLE IX
+
+ROA
+
+ROE
+
+RPTI
+
+RGM
+
+EPS
+
+)14.68 ()2.21)
+0.148 (1.13)
+9.364 (0.25)
+
+5.850 (3.94)
+0.008 (1.07)
+0.033 (0.02)
+
+4.223 (24.9)
+0.017 (5.17)
+0.767 (0.81)
+
+5.534 (5.66)
+0.010 (2.17)
+0.142 (0.12)
+
+)1.694 ()1.25)
+0.041 (1.55)
+4.280 (0.56)
+
+Panel A: Before matching
+Constant
+ASSET
+DCSR
+Panel B: Nearest)neighbor matching (Nearest)
+Constant
+ASSET
+DCSR
+Panel C: Caliper matching (Caliper)
+Constant
+ASSET
+DCSR
+Panel D: Mahalanobis metric matching (Mahala)
+Constant
+ASSET
+DCSR
+Panel E: Mahalanobis metric matching with calipers (Mahala Caliper)
+Constant
+ASSET
+DCSR
+
+5.618 (5.71)
+0.013 (2.54)
+)0.196 ()0.16)
+
+5.976 (3.99)
+0.011 (1.38)
+)0.389 ()0.21)
+
+0.999 (0.28)
+0.013 (1.660
+4.328 (1.16)
+
+1.507 (1.05)
+0.023 (2.97)
+2.974 (1.62)
+
+2.642 (1.08)
+0.018 (3.24)
+2.270 (0.88)
+
+)22.47 ()1.81)
+0.072 (1.11)
+
+22.03 (1.39)
+
+1.814 (1.02)
+0.033 (3.84)
+4.110* (1.90)
+
+2.006 (1.12)
+0.038 (4.06)
+3.483 (1.57)
+
+)3.132 ()0.77)
+0.072 (3.35)
+5.250 (1.01)
+
+1.847 (0.37)
+0.052 (4.54)
+2.221 (0.42)
+
+6.399 (1.20)
+0.041 (0.39)
+7.111 (0.24)
+
+0.809 (16.9)
+0.006 (6.07)
+0.239 (0.89)
+
+10.19 (6.14)
+
+0.015 (1.84)
+5.896*** (2.91)
+
+1.478 (4.63)
+0.002 (1.12)
+)0.038 ()0.10)
+
+10.34 (6.17)
+
+0.018 (2.12)
+5.396*** (2.59)
+
+1.510 (4.69)
+0.002 (1.49)
+)0.143 ()0.36)
+
+10.30 (6.57)
+
+0.038 (4.62)
+3.496* (1.75)
+
+1.346 (3.74)
+0.004 (1.89)
+)0.086 ()0.19)
+
+9.286 (1.91)
+0.027 (2.43)
+5.593 (1.08)
+
+0.114 (0.14)
+0.003 (1.75)
+1.181 (1.38)
+
+Note:
+1. Using model II to estimate PSF, this table reports pooled OLS estimation results of regression analysis of relating being
+CSR-ﬁrm to ﬁnancial performance.
+2. Data are ranged from 2005Q2 to 2006Q1. Before sample matching, there are 80 CSR-ﬁrms and 2,480 NonCSR-ﬁrms.
+After matching, the number of NonCSR-ﬁrms of Nearest, Caliper, Mahala and Mahala Caliper, are 60, 57, 80 and 7.
+3. The t-statistics are presented in parentheses.
+4. ***, ** and * denote the signiﬁcance at the 1%, 5% and 10% level, respectively.
+
+achieved through kindly conscious. The preach of
+CSR advocates that companies cannot count only
+on ﬁnancial performance to survive in this ever-
+changing scenario of global competition, but also
+need to take responsibilities to the various stake-
+holders
+in which and where they exist. These
+established practices are prevalent in modern busi-
+ness environment, and based on our empirical
+results, taking CSR and maximizing proﬁts are not
+conﬂicting goals.
+
+With the extension of business operations in the
+international realm, multinational businesses – orig-
+inally perceived as merely face intense economic
+competition – recognize that they have to view
+CSR as a signiﬁcant issue. Taiwan is a country that
+relies on trade and its companies are investing
+
+exporting overseas. As companies in Taiwan become
+more international, the impressions and inﬂuence of
+the ﬁrms abroad on foreign employment opportu-
+nities, employers, and suppliers is growing steadily.
+Therefore, as a member of
+the global village,
+Taiwanese ﬁrms need an international outlook and
+CSR should become a part of its corporate ideals.
+This business model will help to build the business
+reputational capitals that Taiwanese ﬁrms are good
+corporate citizens. Many Taiwanese ﬁrms in China,
+which exist huge gap between the rich and the poor
+in recent year, has led to violent incidents and a
+backlash against capitalism. Taiwanese ﬁrms also
+have rooms to give something back to society to
+lessen the sense of relative deprivation of
+their
+workers and local residents. Our CSR-ﬁrms are
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+149
+
+for Taiwanese companies with
+benchmark cases
+most efforts
+in CSR activities, and the positive
+rewards to these companies conﬁrms the words,
+‘‘doing well by doing good,’’ and it pays to take
+social responsibility for corporate sustainability.
+
+Our empirical results are consistent with Cochran
+and Wood (1984), McGuire et al. (1988), Waddock
+and Graves (1997) and Tsoutsourz (2004) etc. All of
+them ﬁnd positive association between the degree of
+taking CSR and accounting performance measures
+of ﬁrms. Our results are not in accordance with
+Vance (1975), Newgren et al. (1985), Brooks and
+Pavelin (2005a) and Anginer et al. (2008), which
+present outcomes of negative relationship between
+CSR and market performance measures. This article
+contribute to the introduction of matching methods
+in standard medical and biological research and
+consideration of ‘‘other things being equal’’ in ana-
+lyzing performance difference between CSR- and
+NonCSR-ﬁrms, and thus reduce selection bias from
+nonrandom sampling in the existing literature. This
+research is also parallel
+to more scientiﬁc causal
+inference in program evaluation and policy impact
+analysis, such as Heckman et al. (1998).
+
+Conclusion
+
+and NonCSR-ﬁrms
+
+This article examines the effect of corporate social
+responsibility on ﬁnancial performance by using
+CSR-
+in Taiwan. Two
+hypotheses, social
+impact hypothesis and shift of
+focus hypothesis, are raised, where the former sug-
+gests that CSR has positive relation with the ﬁrms’
+performance and the latter are opposite. We adopt
+matching theory to ﬁx the characteristics of ﬁrms in
+two groups so as to remove the selection bias due to
+nonrandom assignment of samples. Four matching
+methods, Nearest, Caliper, Mahala and Mahala
+Caliper are used.
+
+Before matching, the simple t-statistics show that
+CSR-ﬁrms outperform NonCSR-ﬁrms in return on
+asset and earnings per share, but are equally same for
+return on equity, pretax income to net sales, and
+gross proﬁt to net sales.
+
+As for our regression analysis results on samples
+before matching, using Nearest and Caliper, RPTI
+and RGM are signiﬁcantly higher for CSR-ﬁrms.
+Under Mahala matching, CSR-ﬁrms signiﬁcantly
+
+outperform NonCSR-ﬁrms in RGM. Most of the
+estimated coefﬁcients for CSR dummy are positive
+regardless of which matching methods are used. This
+trend of outperformance of CSR-ﬁrms is unchanged
+as we consider alternative model speciﬁcation of
+estimating PSF for
+checks. Thus,
+although the estimated results are slightly mixed, at
+the very least, adopting CSR not deteriorate the
+performance of ﬁrms, making our conclusion favors
+the social
+focus
+hypothesis in Taiwan. Thus, corporate ambition and
+conscience are not conﬂicting with each other,
+taking CSR gets more gains than pains.
+
+impact hypothesis and against shift of
+
+robustness
+
+Future research could proceed in following
+directions. First, our study ﬁnds that some methods
+provide more close matching but lose the sample size
+(the efﬁciency), such as Mahala Caliper; in contrast,
+some methods are just the opposite, they provide less
+satisfactory matching but retain larger sample size,
+such as Nearest, Caliper and Mahala. Thus, using the
+matching theory often reduces the samples, making
+the estimation less efﬁciency. Further study using
+matching theory should take longer period of data or
+larger samples if possible. Second, CSR topics are
+also important for ﬁnancial industry, it is of interest
+to know whether CSR bank produce better results
+in Islamic banking (Iqbal and Molyneux, 2005;
+Lewis and Algaud, 2001).
+
+Notes
+
+1 According to World Business Council for Sustain-
+able Development (WBCSD), CSR is deﬁned as ‘‘the
+continuing commitment by business to contribute to
+economic development while improving the quality of
+life of the workforce and their families as well as of the
+community and society at
+large.’’ While there exist
+other deﬁnitions of CSR,
+such as
+they are similar,
+Frooman (1997), Carroll (1999) and McWilliams and
+Siegel (2001).
+
+2 For example,
+
+IBM mobilizes 40,000 employees
+willing to do volunteer work to bring technology into
+communities. In Los Angeles, Dreamworks jointly orga-
+nizes classes with local community colleges and high
+schools to provide low-income kids with knowledge
+that may help them get into the entertainment industry.
+3 Other example such as Chang Yung-fa, chairman
+of the Evergreen Group, pledged 2 billion NTD to buy
+the KMT building for a foundation that will devote to
+
+
+150
+
+Chung-Hua Shen and Yuan Chang
+
+international charity work. The Shin Kong Group has
+contributed money to support abused children, and
+Taiwan Mobile has provided aid to the victims of natu-
+ral disasters, while UMC and the Hon Hai Group have
+provided a ‘‘children’s aid plan’’ to beneﬁt disadvan-
+taged children.
+
+4 Three types of ﬁnancial performance are found in
+the empirical studies between CSR and ﬁnancial perfor-
+mance. The performance measures of ﬁrst kind of study
+is accounting-based,
+like ROA, ROE (Aigner, 2006;
+Dam, 2006; Grifﬁn and Mahon, 1997; Guenster et al.,
+2005; Nelling and Webb, 2006; Orlitzky et al., 2003).
+The second is market-based, using measures like stock
+returns
+(Anderson and Smith, 2006; Brammer et al.,
+2005a, b; Guerard, 1997a, b; Hamilton et al., 1993).
+The third method relates to event studies about
+the
+impact on short-run stock returns
+from emersion of
+engagement or contravention of CSR activities (Bram-
+mer et al., 2005b; Becchetti et al., 2007; Posnikoff,
+1997; Teoh et al., 1999; Wright and Ferris, 1997).
+
+5 KLD assessed the performance of multi-dimension
+
+stakeholders’ concerns among S&P 500 companies.
+
+6 While there are numerous data of corporate social
+performance of ﬁrms around the world,
+like KLD,
+FTSE4Good indices, Dow Jones Sustainability Group
+Index etc., their evaluation do not consider full TSE-
+listing companies in Taiwan.
+
+7 For example, Fortune magazine has been publishing
+the results of an annual survey of company reputations
+since 1983 by asking thousands of senior executives,
+directors and securities analysts who responded to the
+survey to rate the ten largest companies in their indus-
+tries on eight attributes of reputation, using a scale of
+zero (poor) to ten (excellent). The attributes were qual-
+ity of management; quality of products or
+services;
+innovativeness;
+long-term investment value; ﬁnancial
+soundness; ability to attract, develop, and keep talented
+people; responsibility to the community and the envi-
+ronment; and wise use of corporate assets. The score
+of a company is the mean of the ratings on the right
+attributes. Surveys were published in January during
+1983–1990, February during 1991–1994 and March
+during 1995–2006. Anderson and Smith (2006) and
+Antunovich et al. (2000) found that stocks of companies
+ranked high by Fortune had higher subsequent returns
+than stocks that ranked low. But Shefrin and Statman
+(2003) found conﬂicting results.
+
+8 Chih et al. (2007) apply FTSE4GOOD index to
+study the relationship between the earnings management
+and CSR and get positive association. Waddock and
+Graves (1997), Tsoutsoura (2004) use KLD to study the
+performance between CSR and ﬁnancial performance.
+
+and
+
+show that
+
+0 < P(X) < 1
+
+9 Rosenbaum and Rubin (1983)
+the
+conditions Y1; Y0?D Xj
+together
+(strong ignorability of the treatment) are sufﬁcient to
+identify the treatment effect.
+10 Vega and Winkelried (2005) have pointed out that
+the estimation requires choosing a set of conditioning
+variable X that are not inﬂuenced by the adoption of
+the CSR regime. For this reason, the X is the measure
+of ﬁrm attributes before the treatment.
+11 For example, if there are 10 treated ﬁrms and 20
+control ﬁrms, we have to compute 200 Mahalanobis
+distance.
+12
+
+If the numbers of after-matching control samples
+are very few, then there are trade-off between perfor-
+mance of matching and degree of freedom of samples.
+However, it is arrearage for the existing literature.
+13 Vega and Winkelried (2005) have pointed out that
+the estimation requires choosing a set of conditioning
+variableX that are not inﬂuenced by the adoption of the
+CSR regime. For this reason, the X is the measure of
+ﬁrm attributes before the treatment.
+14 Literature using accounting ﬁnancial ratios can be
+found in Grifﬁn and Mahon (1997), Orlitzky et al.
+(2003), Guenster et al. (2005), Aigner (2006), Nelling
+and Webb (2006), Dam (2006). Alternatively, literature
+using stock market performance includes Hamilton et
+al. (1993), Guerard (1997a, b), Brammer et al. (2005a,
+b), Anderson and Smith (2006).
+15 We get similar results when PSF is estimated by
+Logit model.
+16 We use pooled estimation without considering
+ﬁxed and random effect.
+
+References
+
+Aigner, D. J.: 2006, ‘Corporate Social Responsibility and
+the Bottom Line’, Working Paper, Paul Merage
+School of Business, University of California, Irvine.
+
+Alexander, G. J. and R. A. Buchholz: 1978, ‘Corporate
+Social Performance and Stock Market Performance’,
+Academy of Management Journal 21, 479–486.
+
+Alkhafaji, A. F.: 1989, A Stakeholder Approach to Corporate
+in a Dynamic Environment
+
+Governance: Managing
+(Quorum Books, New York).
+
+Anderson, J. and G. Smith: 2006, ‘A Great Company Can
+be a Great Investment’, Financial Analysts Journal, July/
+August, 86–93.
+
+Antunovich, P., D. Laster and S. Mitnick: 2000, ‘Are
+High-Quality Firms also High-Quality Investments?’,
+Current Issues in Economics and Finance 6, 1–6.
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+151
+
+Aupperle, K., A. Carroll and J. Hatﬁeld: 1985,
+
+‘An
+Empirical Examination of the Relationship Between
+Corporate Social Responsibility and Proﬁtability’,
+Academy of Management Journal 28, 446–463.
+
+Becchetti, L., R. Ciciretti and I. Hasan: 2007, Corporate
+Social Responsibility and Shareholder’s Value: An
+Event Study Analysis. Working Paper, Federal
+Reserve Bank of Atlanta.
+
+Bowman, E. H. and M. Haire: 1975, ‘A Strategic Posture
+Toward Corporate Social Responsibility’, California
+Management Review 18, 49–58.
+
+Bragdon, J. and J. Marlin: 1972, ‘Is Pollution Proﬁtable?’,
+
+Risk Management 19, 9–18.
+
+Brammer, S., C. Brooks and S. Pavelin: 2005a, ‘Corpo-
+rate Social Performance and Stock Returns: UK Evi-
+dence
+Financial
+Management 35, 97–116.
+
+from Disaggregate Measures’,
+
+Brammer, S., C. Brooks and S. Pavelin: 2005b, The
+Stock Performance of America’s 100 Best Corporate
+Citizens. Working Paper, Cass Business School, City
+University.
+
+Carroll, A. B.: 1999, ‘Corporate Social Responsibility:
+Evolution of a Deﬁnitional Construct’, Business and
+Society 38, 268–295.
+
+Chih, H. L., C. H. Shen and F. C. Kang: 2007, ‘Cor-
+porate Social Responsibility, Investor Protection, and
+Earnings Management: Some International Evidence’,
+Journal of Business Ethics (forthcoming).
+
+Cochran, P. L. and R. A. Wood: 1984, ‘Corporate Social
+Responsibility and Financial Performance’, Academy of
+Management Journal 27, 42–56.
+
+Cornell, B. and A. C. Shapiro: 1987, ‘Corporate Stake-
+holder and Corporate Finance’, Financial Management
+16, 5–14.
+
+Dam, L.: 2006,
+
+‘Corporate Social Responsibility in a
+General Equilibrium Stock Market Model: Solving the
+Financial Performance Puzzle’, Working Paper,
+Department of Economics, University of Groningen.
+Dehejia, R. H. and S. Wahba: 2002, ‘Propensity Score
+Matching Methods for Nonexperimental Causal Stud-
+ies’, The Review of Economics and Statistics 84, 151–161.
+Dierkes, M. and R. Coppock: 1978, ‘Europe Tries the
+Corporate Social Report’, Business and Society Review,
+Spring, 21–24.
+
+Fombrun, C. J., N. A. Gardberg and M. L. Barnett: 2000,
+‘Opportunity Platforms and Safety Nets: Corporate
+Citizenship and Reputational Risk’, Business and
+Society Review 105, 85–106.
+
+Fombrun, C. and M. Shanley: 1990, ‘What’s in a Name?
+Reputation Building and Corporate Strategy’, Academy
+of Management Journal 33, 233–258.
+
+Friedman, M.: 1970,
+
+‘The Social Responsibility of
+Business Is to Increase Its Proﬁts’, The New York Times
+Magazine, 13 September.
+
+Frooman,
+
+J.: 1997,
+
+‘Socially Irresponsible and Illegal
+Behavior and Shareholder Wealth: A Meta-analysis of
+Event Studies’, Business and Society 36, 221–249.
+
+Glick, R., X. Guo and M. Hutchison: 2006, ‘Currency
+Crises, Capital-Account Liberalization, and Selection
+Bias’, The Review of Economics and Statistics 88,
+698–714.
+
+Grifﬁn, J. J. and J. F. Mahon: 1997,
+
+‘The Corporate
+Social Performance and Corporate Financial Perfor-
+mance Debate: Twenty-ﬁve Years of Incomparable
+Research’, Business and Society 36, 5–31.
+
+Guenster, N., J. Derwall, R. Bauer and K. Koedijk: 2005,
+‘The Economic Value of Corporate Eco-Efﬁciency’,
+Academy of Management Conference Paper.
+
+Guerard, J. B. Jr.: 1997a,
+
+‘Is There a Cost to being
+
+Socially Responsible?’, Journal of Investing 6, 11–18.
+
+Guerard, J. B. Jr.: 1997b, ‘Additional Evidence on the
+Cost of being Socially Responsible in Investing’,
+Journal of Investing 6, 31–35.
+
+Ham, J., X. Li and P. Reagan: 2004, Propensity Score
+Matching: A Distance-Based Measure of Migration and the
+Wage Growth of Young Men (Ohio State University,
+Department of Economics, Columbus).
+
+Hamilton, S., H. Jo and M. Statman: 1993, ‘Doing Well
+While Doling Good? The Investment Performance of
+Socially Responsible Mutual Funds’, Financial Analysts
+Journal, 62–66.
+
+Heckman, J., H. Ichimura, J. Smith and P. Todd: 1998,
+‘Characterizing Selection Bias using Experimental
+Data’, Econometrica 66, 1017–1098.
+
+Heckman, J.: 1979, ‘Sample Selection Bias as a Speciﬁ-
+
+cation Error’, Econometrica 47, 153–162.
+
+Henderson, D.: 2002, Misguided Virtue: False Notions of
+Corporate Social Responsibility (Institute of Economic
+Affairs, London).
+
+Hoﬂer, R., J. Elston and J. Lee: 2004, ‘Dividend Policy
+and Institutional Ownership: Empirical Evidence using
+a Propensity Score Matching Estimator’, Discussion
+Papers on Entrepreneurship, Growth and Public Pol-
+icy, No. 2004-27, Group for Entrepreneurship,
+Growth and Public Policy, Max Planck Institute of
+Economics.
+
+Hutchison, M. M.: 2004, ‘Selection Bias and the Output
+Cost of IMF Programs’, University of California, Santa
+Cruz, Discussion Paper.
+
+Iqbal, M. and P. Molyneux: 2005, Thirty Years of Islamic
+(Palgrave
+
+Banking: History,Performance and Prospects
+Macmillan, New York).
+
+
+152
+
+Chung-Hua Shen and Yuan Chang
+
+LaLonde, R.: 1986, ‘Evaluating the Econometric Evalu-
+ations of Training Programs with Experimental Data’,
+American Economic Review 76, 604–620.
+
+Lewis, M. K. and L. M. Algaud: 2001, Islamic Banking
+
+(Edward Elgar, Cheltenham).
+
+McGuire, J., A. Sundgren and T. Schneeweis: 1988,
+‘Corporate Social Responsibility and Firm Financial
+Performance’, Academy of Management
+Journal 31,
+854–872.
+
+McWilliams, A. and D. Siegel: 2001, ‘Corporate Social
+Responsibility: A Theory of the Firm Perspective’,
+Academy of Management Review 26, 117–127.
+
+Moore, G.: 2001, ‘Corporate Social and Financial Per-
+formance: An Investigation in the U.K. Supermarket
+Industry’, Journal of Business Ethics 34, 299–315.
+
+Moskowitz, M. R.: 1972, ‘Choosing Socially Responsi-
+
+Rosenbaum, P. and D. Rubin: 1985a, ‘Constructing a
+Control Group Using Multivariate Matched Sampling
+Methods that Incorporate the Propensity’, American
+Statistician 39, 33–38.
+
+Rosenbaum, P. and D. Rubin: 1985b, ‘The Bias Due to
+
+Incomplete Matching’, Biometrics 41, 103–116.
+
+Rubin, D.: 1973, ‘Matching to Remove Bias in Obser-
+
+vational Studies’, Biometrics 29, 159–183.
+
+Rubin, D. B. and N. Thomas: 1992, ‘Characterizing the
+Effect of Matching Using Linear Propensity Score
+Methods with Normal Distributions’, Biometrika 79,
+797–809.
+
+Shefrin, H. and M. Statman: 2003, ‘Style of Investment
+Expectation’,
+(eds.), The
+Handbook of Equity and Style Management (Wiley, New
+York).
+
+in Coggin and Fabozzi
+
+ble Stocks’, Business and Society Review 1, 71–75.
+
+Soloman, R. and K. Hansen: 1985, It’s Good Business
+
+Nelling, E. and E. Webb: 2006, Corporate Social
+Responsibility and Financial Performance: The Vir-
+tous Circle Revisited. Working Paper.
+
+Newgren, K., A. Rasher, M. LaRoe and M. Szabo: 1985,
+‘Environmental Assessment and Corporate Perfor-
+mance: A Longitudinal Analysis Using Market-Deter-
+mined Performance Measures’, in L. E. Preston (ed.),
+Research in Corporate Social Performance and Policy, 7,
+pp. 153–164.
+
+Orlitzky, M., F. L. Schmidt and S. L. Rynes: 2003,
+‘Corporate Social and Financial Performance: A Meta-
+Analysis’, Organization Studies 24, 403–441.
+
+Pava, M. L. and J. Krausz: 1996,
+
+Parket, I. R. and H. Eilbirt: 1975, ‘Social Responsibility:
+The Underlying Factors’, Business Horizons 18, 5–10.
+‘The Association
+Between Corporate Social Responsibility and Finan-
+cial Performance: The Paradox of Social Cost’, Journal
+of Business Ethics 15, 321–357.
+
+Persson, T.: 2001, ‘Currency Unions and Trade: How
+Large is the Treatment Effect?’, Economic Policy 33,
+435–448.
+
+Porter, M. E. and C. van der Linde: 1995, ‘Green and
+Competitive. Ending the Stalemate’, Harvard Business
+Review, September–October, 120–135.
+
+Posner, B. Z. and W. H. Schmidt: 1992, ‘Values and the
+American Manager: An Update Updated’, California
+Management Review 34, 80–94.
+
+Posnikoff, J. F.: 1997, ‘Disinvestment from South Africa:
+They Did Well by Doing Good’, Contemporary Eco-
+nomic Policy 15, 76–86.
+
+Preston, L. E. and P. O’Bannon: 1997, ‘The Corporate–
+Social Financial Performance Relationship’, Business
+and society 36, 419–429.
+
+Rosenbaum, P. and D. Rubin: 1983, ‘The Central Role
+of the Propensity Score in Observational Studies for
+Causal Effects’, Biometrika 70, 41–55.
+
+(Atheneum, New York).
+
+Spicer, B. H.: 1978, ‘Investors, Corporate Social Perfor-
+mance and Information Disclosure: An Empirical
+Study’, Accounting Review 53, 94–111.
+
+Stanwick, P. A. and S. D. Stanwick: 1998, ‘The Rela-
+tionship Between CSP and Organizational Size,
+Financial Performance, and Environmental Perfor-
+mance: An Empirical Examination’, Journal of Business
+Ethics 17, 195–204.
+
+Teoh, S. H., I. Welch and C. P. Wazzan: 1999, ‘The
+Effect of Socially Activist Investment Policies on the
+Financial Markets: Evidence from the South African
+Boycott’, Journal of Business 72, 35–89.
+
+Trotman, K. T. and G. W. Bradley: 1981, ‘Associations
+Between Social Responsibility Disclosure and Char-
+acteristics of Companies’, Accounting, Organizations and
+Society 6, 355–362.
+
+Tsoutsourz, M.: 2004, Corporate Social Responsibility and
+(Applied Financial Project,
+
+Financial Performance
+Berkeley, California).
+
+Turban, D. B. and D. W. Greening: 1997, ‘Corporate
+Social Performance and Organizational Attractiveness
+to Prospective Employees’, Academy of Management
+Journal 40, 658–672.
+
+Ullmann, A.: 1985, ‘Data in Search of a Theory: A Critical
+Examination of the Relationship among Social Perfor-
+mance, Social Disclosure, and Economic Performance’,
+Academy of Management Review 10, 540–577.
+
+Vance, S.: 1975, ‘Are Socially Responsible Firms Good
+
+Investment Risks?’, Management Review 64, 18–24.
+
+Vega, M. and D. Winkelried: 2005, ‘Inﬂation Targeting
+and Inﬂation Behavior: A Successful Story?’, Interna-
+tional Journal of Central Banking 1, 153–175.
+
+Waddock, S. and S. Graves: 1997, ‘The Corporate Social
+Performance – Financial Performance Link’, Strategic
+Management Journal 18, 303–319.
+
+
+Ambition Versus Conscience, Does Corporate Social Responsibility Pay off?
+
+153
+
+Walley, N. and B. Whitehead: 1994, ‘It’s Not Easy Being
+
+Green’, Harvard Business Review 72, 2–7.
+
+Wright, P. and S. Ferris: 1997, ‘Agency Conﬂict and
+Corporate Strategy: The Effect of Divestment on Cor-
+porate Value’, Strategic Management Journal 18, 77–83.
+
+Chung-Hua Shen
+Department of Finance,
+National Taiwan University,
+Taipei, Taiwan, Republic of China
+
+Yuan Chang
+Department of Money and Banking,
+National Chengchi University,
+No. 64, Sec. 2, ZhiNan Rd., Taipei City, Wenshan
+District, 11605 Taiwan, Republic of China
+E-mail: ccuecon@yahoo.com.tw
+

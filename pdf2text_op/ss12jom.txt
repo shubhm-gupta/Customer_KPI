@@ -1,0 +1,3513 @@
+Journal  of  Operations  Management  30  (2012)  99–115
+
+Contents  lists  available  at  SciVerse  ScienceDirect
+
+Journal   of   Operations   Management
+
+j o  u r  n a l  h o m e  p a g e :  w w w . e l s e v i e r . c o m / l o c a t e / j o m
+
+Revisiting   the   arcs   of   integration:   Cross-validations   and   extensions
+Tobias   Schoenherr a,∗, Morgan   Swink b,1
+
+a The  Eli  Broad  Graduate  School  of  Management,  Michigan  State  University,  Department  of  Supply  Chain  Management,  N370  North  Business  Complex,  East  Lansing,  MI   48824,  United
+States
+b Neeley  School  of  Business,  Department  of  Information  Systems  and  Supply  Chain  Management,  Texas  Christian  University,  TCU  PO  Box  298530,  Fort  Worth,  TX  76129,  United  States
+
+a
+
+ 
+
+r
+
+ 
+
+t
+
+ 
+
+i
+
+ 
+
+c
+
+ 
+
+l
+
+ 
+
+e
+
+ 
+
+i
+
+ 
+
+n
+
+ 
+
+f
+
+ 
+
+o
+
+a
+
+ 
+
+b
+
+ 
+
+s
+
+ 
+
+t
+
+ 
+
+r
+
+ 
+
+a
+
+ 
+
+c
+
+ 
+
+t
+
+Article  history:
+Received  18  November  2010
+Received  in  revised  form  19  August  2011
+Accepted  2  September  2011
+Available  online  10  September  2011
+
+Keywords:
+Supply  chain  integration
+Resource-based  view  (RBV)
+Information  processing  theory
+Arcs  of  integration
+Empirical  research
+
+This   paper   revisits   Frohlich   and   Westbrook’s   arcs   of   integration   concept   [Arcs   of   integration:   an   inter-
+national   study   of   supply   chain   strategies.   Journal   of  Operations   Management   2001,   19  (2)   pp.   185–200].
+Using   survey   responses   from   403   supply   chain   professionals,   we   compare   the   arcs   of   integration   group
+memberships   generated   with   our   sample   to  the   original   study,   rationalize   the  classiﬁcation   scheme,   and
+assess   the   impact   of   supply   chain   integration   strategies   on  quality,   delivery,   ﬂexibility   and   cost  per-
+formance.   In  doing   so   we   cross-validate   Frohlich   and   Westbrook’s   framework   with   a   more   recent   and
+broader   sample   of   data   utilizing   multi-dimensional   performance   measures   collected   from   supply   chain
+managers.   We   ground   these   relationships   in   the  relational   and   resource-based   views   of  the  ﬁrm.   We
+also  extend   Frohlich   and   Westbrook’s   study   by   investigating   the   moderating   role  of   internal   integration
+on   the   relationships   between   arcs   of  integration   and   performance.   In  accordance   with   information   pro-
+cessing   theory,   the   results   indicate   that   internal   integration   strengthens   the   positive   impacts   of  external
+integration   on   both   delivery   and  ﬂexibility   performance.   However,   the   theory   is   not   supported   for   either
+quality   or   cost   performance.   Overall,   our   study   conﬁrms   and   extends   the   work   of   Frohlich   and   Westbrook,
+augments   theories   used   to   describe   supply   chain   integration   efforts,   and   provides   practical   implications
+for   managers.
+
+©  2011   Elsevier   B.V.  All  rights   reserved.
+
+1.  Introduction
+
+Research  identiﬁes  supply  chain  integration  activities  as  impor-
+tant  contributors  to  a  ﬁrm’s  success.  The  literature  broadly  deﬁnes
+supply  chain  integration  as  the  extent  to  which  a  ﬁrm  is  strate-
+gically  interconnected  and  aligned  with  its  supply  chain  partners
+(e.g.,  Das  et  al.,  2006;  Jayaram  et  al.,  2010).  Integration  with  sup-
+pliers  and  customers  enables  ﬁrms  to  better  manage  the  smooth
+and  efﬁcient  ﬂow  of  products  through  the  supply  chain,  and  pro-
+vides  access  to  resources  and  capabilities  at  supply  chain  partners
+that  otherwise  may   have  been  costly  to  develop  internally.  Multiple
+research  efforts  have  empirically  associated  supply  chain  integra-
+tion  with  increased  performance  (e.g.,  Braunscheidel  and  Suresh,
+2009;  Flynn  et  al.,  2010;  Koufteros  et  al.,  2007;  Swink  et  al.,  2007;
+Wong  et  al.,  2011;  Zhao  et  al.,  2011).
+
+A  seminal  paper  by  Frohlich  and  Westbrook  (2001)  detailed  an
+early  examination  of  supply  chain  integration.  The  authors  for-
+warded  an  “arcs  of  integration”  concept,  in  which  they  deﬁned
+ﬁve  strategy  groups  based  upon  different  combinations  (“arcs”)
+
+∗ Corresponding  author.  Tel.:  +1  517  432  6437;  fax:  +1  517  432  1112.
+E-mail  addresses:  Schoenherr@bus.msu.edu  (T.  Schoenherr),
+
+M.Swink@tcu.edu  (M.   Swink).
+
+1 Tel.:  +1  817  257  7463;  fax:  +1  817  257  7765.
+
+0272-6963/$  –  see  front  matter  ©  2011  Elsevier  B.V.  All  rights  reserved.
+doi:10.1016/j.jom.2011.09.001
+
+levels  of  supplier  and  customer 
+
+of 
+integration  ranging  from
+“inward-facing”  to  “outward-facing”.  The  authors  concluded  that
+a  comprehensive  external  integration  strategy  involving  intense
+relationships  with  both  suppliers  and  customers  outperformed
+other  integration  strategies.  Numerous  subsequent  studies  have
+drawn  conceptually  upon  this  “arcs  of  integration”  framework
+and  related  insights,  attesting  to  the  popularity  of  the  concept.
+For  example,  the  work  has  been  used  to  stress  the  importance
+of  integrating  with  supply  chain  partners  (both  customers  and
+suppliers),  to  describe  characteristics  of  information  sharing  with
+supply  chain  partners,  and  as  a  source  of  measurement  items
+for  subsequent  research  (Jayaram  et  al.,  2010;  Swink  et  al.,
+2007).
+
+The  objectives  of  our  research  are  to  cross-validate  and  extend
+the  important  ﬁndings  from  the  original  Frohlich  and  Westbrook
+(2001)  study.  Such  empirical  corroboration  and  extension  is  cru-
+cial  for  the  integrity  of  research,  for  further  theory  development
+(Tsang  and  Kwan,  1999),  and  for  ascertaining  the  predictive  validity
+and  generalizability  of  theory  (Douglas  and  Craig,  2005).  Frohlich
+and  Westbrook  (2001)  themselves  noted  that  “this  classiﬁcation
+could  be  of  potential  value  to  future  researchers  and  is  capa-
+ble  of  further  reﬁnement”  (p.  195).  We   stress,  however,  that  our
+study  is  not  a  pure  replication  of  Frohlich  and  Westbrook’s  (2001)
+work;  rather,  it  is  a  cross-validation  and  extension  of  their  ﬁndings,
+and  thus  provides  a  more  contemporaneous  view  of  supply  chain
+
+
+100 
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+integration.  Speciﬁcally,  we  offer  three  main  contributions  to
+extant  research.
+
+Our  ﬁrst  contribution  is  to  develop  a  more  ﬁrmly  grounded
+theoretical  rationale  for  the  effects  of  supply  chain  integration  on
+performance.  Much  has  been  written  about  supply  chain  integra-
+tion  in  the  decade  since  Frohlich  and  Westbrook’s  (2001)  work  was
+published.  We   review  the  research  literature  and  develop  solid  the-
+oretical  arguments  for  the  expected  direct  and  interacting  effects
+of  external  and  internal  integration  efforts  by  drawing  upon  two
+venerable  perspectives:  the  relational  and  resource-based  views  of
+the  ﬁrm  (Barney,  1991;  Dyer  and  Singh,  1998;  Wernerfelt,  1984)
+and  information  processing  theory  (Cohen  and  Levinthal,  1990;
+Galbraith,  1973;  Thompson,  1967).
+
+Secondly,  to  determine  whether  the  “arcs  of  integration”  con-
+cept  is  robust  to  sampling  differences  and  over  time,  we  analyse
+survey  responses  from  403  supply  chain  professionals.  Our  analy-
+sis  compares  the  arcs  of  integration  group  membership  generated
+with  our  sample  to  the  original  study,  and  rationalizes  the  classi-
+ﬁcation  scheme.  In  addition,  we  test  the  criterion  validity  of  the
+arcs  of  integration  concept  by  evaluating  the  performance  impacts
+of  various  integration  strategies.  This  investigation  is  important,
+since  while  the  supply  chain  integration  concept  is  foundational
+to  many  research  studies,  ambiguity  and  inconsistency  in  research
+ﬁndings  and  ensuing  interpretations  still  remain  (Flynn  et  al.,  2010;
+Zhao  et  al.,  2011).  Our  large,  multi-country,  multi-industry  dataset
+affords  us  the  opportunity  to  examine  the  predictive  validity  and
+generalizability  of  the  “arcs  of  integration”  concept,  thus  answer-
+ing  the  call  for  such  research  issued  by  Frohlich  and  Westbrook
+(2001).  Furthermore,  our  study  incorporates  a  multi-dimensional
+set  of  performance  measures  and  control  variables,  augmenting
+their  research  design.
+
+Our  cross-validation  also  addresses  four  limitations  of  the  origi-
+nal  study.  First,  Frohlich  and  Westbrook  (2001)  sampled  fabricated
+metal  products,  machinery,  and  equipment  manufacturers;  they
+noted  that  there  may   be  particular  characteristics  to  these  supply
+chains  that  do  not  apply  to  other  sectors.  Our  dataset  includes  a
+broader  set  of  manufacturing  industries,  as  well  as  distribution  and
+retail  ﬁrms.  Second,  Frohlich  and  Westbrook  (2001)  analysed  sur-
+vey  responses  from  manufacturing  managers,  and  called  for  future
+research  to  include  purchasing  and  marketing  representatives  to
+better  gauge  supplier  and  customer  integration.  We   collected  data
+from  supply  chain  professionals  at  the  director  level  and  above,
+also  including  purchasing  and  marketing  managers.  Third,  the
+Frohlich  and  Westbrook  (2001)  study  represents  managers’  per-
+ceptions  from  over  10  years  ago.  We   provide  an  updated  view  from
+a  decade  later,  a  decade  that  has  witnessed  an  enormous  prolifera-
+tion  of  internet-based  and  other  integration-oriented  technologies.
+Finally,  we  address  other  methodological  aspects  of  Frohlich  and
+Westbrook’s  (2001)  ﬁndings.  For  example,  the  authors  indicated
+that  over  40%  of  their  sample  was  in  the  periphery-facing  group
+(characterized  by  medium-levels  of  customer  and  supplier  integra-
+tion),  and  they  speculated  as  to  whether  this  is  a  “natural  point  of
+equilibrium”  in  supply  chain  development.  We   address  this  ques-
+tion.
+
+integration  strategy  (arc  of 
+
+The  third  contribution  of  this  research  is  extension.  We   extend
+Frohlich  and  Westbrook’s  (2001)  study  by  investigating  the  mod-
+erating  role  of  internal  integration  on  the  relationship  between
+integration)  and  perfor-
+external 
+mance.  As  a  newer,  third  dimension  of  supply  chain  integration,
+researchers  have  recently  recognized  internal  integration  as  a  cru-
+cial  building  block  for  “complete”  supply  chain  integration  leading
+to  superior  ﬁrm  performance  (Flynn  et  al.,  2010;  Koufteros  et  al.,
+2010;  Wong  et  al.,  2011).  However,  there  is  limited  empirical
+evidence  on  the  relationship  between  internal  and  external  integra-
+tion  (Hillebrand  and  Biemans,  2003;  Zhao  et  al.,  2011),  and  ﬁndings
+have  been  conﬂicting.  While  some  studies  postulated  the  inﬂuence
+
+of  internal  integration  on  external  integration  (Braunscheidel  and
+Suresh,  2009),  others  suggested  a  reverse  relationship  (Salvador
+et  al.,  2001).  Our  contention,  which  is  grounded  in  information  pro-
+cessing  theory,  is  that  internal  integration  efforts  complement  and
+amplify  the  positive  performance  impacts  of  greater  arcs  of  external
+integration.
+
+2.  Theoretical  background  and  hypothesis  development
+
+2.1.  Deﬁnition  and  dimensions  of  supply  chain  integration
+
+Research  on  supply  chain  integration  has  offered  numerous
+deﬁnitions  and  dimensions  characterizing  the  concept.  While
+some  studies  have  utilized  a  uni-dimensional  operationalization
+(Cousins  and  Menguc,  2006),  others  have  differentiated  between
+internal  and  external  integration  (Stank  et  al.,  2001),  or  only  focused
+on  the  external  integration  dimension  (Devaraj  et  al.,  2007).
+
+Following  most  recent  research  in  this  domain  (Wong  et  al.,
+2011;  Zhao  et  al.,  2011),  we   conceptualize  supply  chain  integra-
+tion  as  consisting  of  the  three  dimensions  of  supplier,  customer
+and  internal  integration.  Thus,  supply  chain  integration  involves
+both  inter-organizational  (customer  and  supplier  integration)  and
+intra-organizational  (internal  integration)  interfaces  that  facilitate
+coordination  and  the  effective  and  efﬁcient  ﬂows  of  information,
+material,  money,  and  decisions,  with  the  ultimate  goal  of  maximiz-
+ing  customer  value  (cf.  Flynn  et  al.,  2010;  Zhao  et  al.,  2011).
+
+Customer  and  supplier  integration  are  the  external  integration
+dimensions  that  form  the  fundamental  components  of  Frohlich
+and  Westbrook’s  (2001)  arcs  of  integration  concept.  Customer
+integration  refers  to  close  collaboration  and  information  sharing
+activities  with  key  customers  that  provide  the  ﬁrm  with  strate-
+gic  insights  into  market  expectations  and  opportunities  (Wong
+et  al.,  2011),  ultimately  enabling  a  more  efﬁcient  and  effective
+response  to  customer  needs  (Swink  et  al.,  2007).  Supplier  integra-
+tion  involves  coordination  and  information  sharing  activities  with
+key  suppliers  that  provide  the  ﬁrm  with  insights  into  suppliers’
+processes,  capabilities  and  constraints,  ultimately  enabling  more
+effective  planning  and  forecasting,  product  and  process  design,  and
+transaction  management  (Ragatz  et  al.,  2002).  In  contrast,  internal
+integration  refers  to  cross-functional  intra-ﬁrm  collaboration  and
+information  sharing  activities  that  occur  via  interconnected  and
+synchronized  processes  and  systems  (Morash  and  Clinton,  1998).
+Along  with  beneﬁts,  integration  activities  also  involve  costs.
+Greater  levels  of  integration  may   require  investments  in  more
+involved  and  expensive  communication  protocols  and  technolo-
+gies.  Some  researchers  suggest  that 
+lead  to
+decreased  innovation  potential,  as  well  as  greater  inﬂexibility  due
+to  greater  interdependence  (Sorenson,  2003).  Thus,  elaborate  inte-
+gration  regimes  may   not  always  be  appropriate,  depending  on
+the  nature  of  a  ﬁrm’s  products  (Fisher,  1997)  and  its  compet-
+itive  priorities.  In  general,  however,  researchers  have  supposed
+that  the  beneﬁts  derived  from  integration  activities  outweigh  their
+associated  costs,  leading  to  overall  greater  levels  of  operational
+performance.
+
+integration  can 
+
+2.2.  Cross-validating  the  link  to  performance
+
+We   deﬁne  performance  as  a  ﬁrm’s  ability  to  achieve  abnor-
+mally  positive  operational  outcomes  relative  to  their  competitors.
+While  Frohlich  and  Westbrook  (2001)  classiﬁed  their  performance
+measures  into  the  groups  of  marketplace-,  productivity-  and  non-
+productivity-related  measures,  we   examine  the  more  conventional
+operational  dimensions  of  quality,  delivery,  ﬂexibility  and  cost
+(Schmenner  and  Swink,  1998).  Because  supply  chain  integration
+is  an  enterprise  wide  phenomenon,  we   adopted  performance
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+101
+
+measures  that  were  consistent  with  the  supply  chain  operations
+reference  (SCOR)  model  to  reﬂect  these  four  capabilities.
+
+A  substantial  research  stream  has  examined  the  impacts  of
+supply  chain  integration  on  performance;  Appendix  A  provides
+a  representative  sample  of  studies.  Empirical  ﬁndings  have  been
+mixed.  For  example,  researchers  have  linked  supplier  integration
+to  better  product  development  performance  (Koufteros  et  al.,  2007;
+Ragatz  et  al.,  2002),  yet  they  have  found  links  of  supplier  integration
+to  other  dimensions  of  performance  to  be  not  signiﬁcant  (Cousins
+and  Menguc,  2006;  Flynn  et  al.,  2010;  Stank  et  al.,  2001)  or  even
+negative  (Narasimhan  et  al.,  2010;  Swink  et  al.,  2007).  In  their  dis-
+course  on  the  positive  and  negative  effects  of  supplier  integration,
+Das  et  al.  (2006,  p.  568)  went  so  far  as  to  refer  to  the  concept
+as  “an  ambivalent  intervention  in  terms  of  impact.”  The  ﬁndings
+for  customer  integration  are  similarly  inconsistent.  For  example,
+researchers  have  reported  positive  relationships  to  product  innova-
+tion,  quality,  and  market  success  (Koufteros  et  al.,  2005),  logistical
+performance  (Germain  and  Iyer,  2006),  and  quality,  delivery,  ﬂex-
+ibility  and  cost  performance  (Wong  et  al.,  2011).  However,  others
+were  unable  to  conﬁrm  signiﬁcant  links  to  glitches  and  on-time
+execution  of  engineering  changes  (Koufteros  et  al.,  2010),  opera-
+tional  performance  (Devaraj  et  al.,  2007),  or  business  performance
+(Flynn  et  al.,  2010).
+
+Many  researchers  have  built  arguments  for  the  value  of  supply
+chain  integration  upon  the  resource-based  view  of  the  ﬁrm  (RBV)
+(Chen  et  al.,  2009;  Das  et  al.,  2006;  Devaraj  et  al.,  2007;  Rosenzweig
+et  al.,  2003;  Swink  et  al.,  2007;  Wang  and  Wei,  2007).  The  RBV  for-
+wards  the  notion  that  ﬁrms  differentiate  themselves  by  employing
+their  unique  resources  in  distinctive  ways  that  cannot  be  eas-
+ily  replicated  (Barney,  1991;  Wernerfelt,  1984).  The  development
+of  such  resources  is  often  founded  upon  relation-speciﬁc  orga-
+nizational  routines  (Holweg  and  Pil,  2008),  and  tacit-knowledge
+intensive  processes  (Rosenzweig  et  al.,  2003).
+
+The  supply  chain  researchers  cited  above  have  focused  on  “rela-
+tional”  resources  associated  with  supply  chain  integration.  For
+example,  Wang  and  Wei   (2007)  describe  supply  chain  integration
+as  a  means  for  creating  a  system  of  integrative  and  effective  rela-
+tional  governance.  As  ﬁrms  gain  competence  in  managing  intensive
+supply  chain  integration  processes,  they  are  able  to  acquire  and
+exploit  unique  knowledge  in  ways  that  improve  transactional  efﬁ-
+ciencies,  solve  problems,  and  identify  new  product  and  business
+opportunities  (Chen  et  al.,  2009;  Das  et  al.,  2006;  Rosenzweig  et  al.,
+2003;  Swink  et  al.,  2007).  To  develop  such  organizational  skills,
+a  ﬁrm  typically  must  work  on  creating  effective  communication
+protocols,  shared  understandings  and  languages,  and  shared  col-
+laborative  values  with  supply  chain  partners.  As  it  does  so,  the  ﬁrm
+grows  its  relational,  collaborative  competence.  This  competence
+serves  as  a  key  resource  that  provides  operational  and  competitive
+advantages  (Cao  and  Zhang,  2011;  Mishra  and  Shah,  2009).
+
+Applying  these  theoretical  foundations,  we  expect  that  greater
+levels  of  integration  with  customers  and  suppliers  (i.e.  greater  arcs
+of  integration)  positively  inﬂuence  quality,  delivery,  ﬂexibility  and
+cost  performance.  Supply  chain  integration  involves  organizational
+routines  that  are  developed  between  ﬁrms.  These  connections  cre-
+ate  distinctive  pairings  of  individual  capabilities  that  are  built  upon
+tacit,  heterogeneous,  and  context-speciﬁc  knowledge.  For  example,
+higher  integration  intensity  is  often  reﬂected  by  joint  commit-
+ments,  dedicated  relationships,  and  co-developed  systems  that
+may   be  peculiar  to  the  capabilities,  knowledge  assets,  and  other
+characteristics  of  speciﬁc  dyads  of  supply  chain  partners  (Swink
+et  al.,  2007).
+
+Accordingly,  inter-ﬁrm  integration  can  create  combinations
+of  unique  skills,  knowledge,  and  joint  capabilities.  For  instance,
+greater  integration  intensity  is  likely  to  produce  product  quality
+improvements  through  quicker  identiﬁcation  and  communica-
+tion  of  challenges, 
+joint  problem  solving  efforts,  and  deeper
+
+understanding  of  the  interdependencies  among  supply  chain  pro-
+cesses  (Deming,  1982).  In  addition,  research  shows  that  idea
+generation  and  evaluation  conducted  jointly  with  both  suppliers
+and  customers  can  lead  to  better  product  design  and  launch  qual-
+ity  (Clark,  1989).  External  integration  can  also  beneﬁt  delivery  and
+ﬂexibility  performance  by  providing  more  accurate  and  up-to-date
+demand  and  supply  information,  more  detailed  production  plans
+and  forecasts,  and  clearer  future  trends  and  directions  (Lee  et  al.,
+1997).  Through  external  integration  efforts,  supply  chain  partners
+are  better  able  to  understand  and  anticipate  each  other’s  needs,
+reducing  uncertainties  (Swink  et  al.,  2007)  and  enabling  better  per-
+formance  capabilities  inherent  in  quality,  delivery,  ﬂexibility  and
+cost.
+
+Like  Frohlich  and  Westbrook  (2001),   our  study  differentiates
+itself  from  other  studies  of  external  integration  in  that  it  exam-
+ines  combinations  of  supplier  and  customer  integration  efforts,
+highlighting  the  importance  of  balancing  supply  constraints  and
+demand  requirements  across  the  supply  chain.  This  suggests  that
+synergies  might  emerge  when  a  ﬁrm  possesses  superior  knowledge
+resources  regarding  both  opportunities  and  boundary  conditions
+in  both  demand  and  supply  markets.  As  Frohlich  and  Westbrook
+(2001,  p.  194)  maintained,  myopic  supplier-focused  or  customer-
+focused 
+integration  efforts  “are  not  making  use  of  their  full
+potential  by  focusing  on  only  one  side  of  their  supply  chains.”  Based
+on  our  theoretical  perspective  and  the  ﬁndings  described  above,  we
+expect  that  a  greater  scope  (“arc”)  of  integration  efforts  increasingly
+adds  to  performance.
+
+Hypothesis  1  (a–d).  A  greater  arc  of  combined  supplier  and  cus-
+tomer  integration  is  associated  with  greater  levels  of  (a)  quality,
+(b)  delivery,  (c)  ﬂexibility  and  (d)  cost  performance.  Speciﬁcally,
+ﬁrms  that  engage  in  more  comprehensive  integration  regimes,
+from  inward-facing  to  outward-facing,  exhibit  greater  levels  of
+operational  performance  in  each  of  the  four  dimensions.
+
+2.3.  The  moderating  role  of  internal  integration
+
+Recently,  researchers  have  highlighted  the 
+
+importance  of
+internal  integration  as  part  of  a  “complete”  conceptualization
+of  supply  chain  integration,  and  a  growing  literature  provides
+emergent  insights.  Consistent  empirical  ﬁndings  indicate  that
+internal  integration  positively  inﬂuences  outcomes  related  to  logis-
+tical  performance  (Germain  and  Iyer,  2006),  supply  chain  agility
+(Braunscheidel  and  Suresh,  2009),  operational  and  business  perfor-
+mance  (Flynn  et  al.,  2010),  and  quality,  delivery,  ﬂexibility  and  cost
+(Wong  et  al.,  2011).  Researchers  argue  that  internal  integration  fos-
+ters  better  intra-ﬁrm  goal  alignment  among  supply  chain  functions
+(e.g.,  purchasing,  planning,  manufacturing,  and  logistics)  through
+better  information  sharing  and  cross-functional  collaboration.  Such
+integration  also  enables  the  utilization  of  each  function’s  strengths
+and  competencies,  and  points  out  functional  interdependencies
+(Pagell,  2004).  Somewhat  surprisingly,  however,  supply  chain  man-
+agers  often  perceive  that  their  companies  are  more  accomplished  in
+external  integration  efforts  than  they  are  in  internal  efforts  (Poirier
+et  al.,  2008).
+
+Despite  the  growing  body  of  knowledge  surrounding  internal
+integration,  its  relationship  to  external  integration  remains  some-
+what  obscured  by  contradictory  ﬁndings  (Zhao  et  al.,  2011).  Some
+studies  have  treated  internal  integration  as  a  precursor  to  exter-
+nal  integration  efforts  (Braunscheidel  and  Suresh,  2009;  Koufteros
+et  al.,  2010;  Zhao  et  al.,  2011),  while  others  have  investigated
+the  interaction  of  internal  and  external  integration.  Germain  and
+Iyer  (2006)  found  support  for  the  positive  moderating  role  of
+internal  integration  on  the  relationship  between  customer  integra-
+tion  and  logistical  performance.  Flynn  et  al.  (2010)  hypothesized
+moderating  roles  of  both  customer  and  supplier  integration  on
+
+
+102 
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+the  relationship  between  internal  integration  and  operational  and
+business  performance.  The  results  of  their  data  analyses  did  not
+support  either  hypothesis.
+
+Our  research  differentiates  itself  from  prior  studies  in  that  we
+consider  both  customer  and  supplier  integration  simultaneously
+as  we  examine  the  moderating  effect  of  internal  integration  on  the
+relationship  between  external  integration  (operationalized  via  the
+arcs  of  integration  framework)  and  a  broader  set  of  operational
+measures.  In  addition  to  differences  in  operationalization,  our  study
+is  perhaps  even  more  importantly  distinguished  by  its  theoretical
+grounding.  In  our  view,  internal  integration  creates  information
+processing  capabilities  that  enable  the  absorption  and  applica-
+tion  of  knowledge  attained  through  external  integration  processes.
+Early  researchers  identiﬁed  the  importance  of  information  process-
+ing  capabilities  in  organizations  (Galbraith,  1973;  Thompson,  1967;
+Tushman  and  Nadler,  1978).  Within  this  context,  information  pro-
+cessing  theory  (IPT)  explains  organizational  behavior  “in  terms  of
+information  that  must  be  gathered,  interpreted,  synthesized,  and
+coordinated  in  the  context  of  decision  making”  (Burns  and  Wholey,
+1993,  p.  110).  Such  behavior  is  constrained  by  bounded  rational-
+ity,  which  suggests  that  a  single  entity  can  never  have  complete
+knowledge  regarding  a  decision.  In  an  attempt  to  improve  decision
+making,  managers  typically  apply  logical  rules,  procedures,  organi-
+zational  structures,  and  other  strategies  for  information  processing
+(Galbraith,  1973;  Gattiker  and  Goodhue,  2004).
+
+While  others  have  employed  IPT  to  argue  for  the  direct  beneﬁts
+of  internal  integration  (Hult  et  al.,  2004;  Rosenzweig  et  al.,  2003;
+Swink  et  al.,  2007;  Wong  et  al.,  2011),  we  posit  that  information
+processing  capability  created  by  internal  integration  also  serves  as
+an  important  complement  to  external  integration  processes.  Inter-
+nal  integration  efforts  are  often  characterized  by  interconnected
+information  systems  and  approaches  aimed  at  improving  lateral
+relations  (e.g.,  cross-functional  teams,  liaison  roles,  etc.).  These
+efforts  provide  linkages  by  which  externally  sourced  information
+can  be  internally  absorbed  (Egelhoff,  1991;  Morash  and  Clinton,
+1998;  Zhao  et  al.,  2011).  Cohen  and  Levinthal  (1990,  p.  128)  deﬁne
+absorptive  capacity  as  “the  ability  of  a  ﬁrm  to  recognize  the  value  of
+new,  external  information,  assimilate  it,  and  apply  it  to  commercial
+ends.”  A  ﬁrm’s  level  of  internal  integration  can  thus  be  viewed  as
+the  source  of  its  capability  to  effectively  absorb  (recognize,  evalu-
+ate,  assimilate,  and  apply)  the  information  it  collects  via  external
+supply  chain  integration  efforts.
+
+A  ﬁrm  that  has  greater  internal  integration  should  be  better  able
+to  transform  and  exploit  knowledge  obtained  via  external  integra-
+tion,  because  through  established  rules,  systems,  procedures,  and
+cross-functional  relations,  its  internal  personnel  can  more  easily
+and  effectively  share  and  access  the  information.  Parallels  can  be
+drawn  to  the  ﬁndings  in  Hult  et  al.  (2004),   who  employed  infor-
+mation  processing  perspectives  to  argue  for  the  positive  impact  of
+a  “shared  meaning”  from  internal  integration  on  operating  perfor-
+mance.  More  generally,  Hillebrand  and  Biemans  (2003)  proposed
+that  internal  cooperation  is  required  for  effective  learning  and  coor-
+dination  that  stem  from  external  cooperation.  Internal  integration
+extends  the  bounded  rationality  with  which  decisions  are  made,
+as  it  enables  a  wider  range  of  personnel  to  participate  in  joint
+evaluations  and  planning  for  the  use  of  knowledge  content.  In  addi-
+tion,  with  enhanced  internal  integration,  relevant  information  from
+external  partners  can  be  channeled  most  effectively  and  efﬁciently
+to  the  most  appropriate  internal  constituents,  where  opportuni-
+ties  are  more  likely  to  be  recognized,  and  a  deeper  meaning  can  be
+generated  (Swink  et  al.,  2007).
+
+Information  technologies  and  enterprise  resource  planning  sys-
+tems  that  span  multiple  agents  provide  cases  in  point  (Gattiker
+and  Goodhue,  2004).  These  elements  create  the  infrastructure  of
+internal  integration,  which  creates  a  fertile  ground  in  which  new
+opportunities  identiﬁed  through  external  integration  efforts  can
+
+take  root.  In  contrast,  if  insights  derived  from  external  integration
+hit  a  “disintegrative  wall”  inside  the  ﬁrm,  its  potential  to  impact
+performance  is  likely  to  be  lost  (Germain  and  Iyer,  2006,  p.  33).
+Overall,  internal  integration  processes  are  expected  to  improve  the
+recognition,  dissemination  and  application  of  valuable  knowledge
+gathered  through  external  integration  processes,  enabling  better
+decisions  that  lead  to  higher  quality  and  more  impactful  opera-
+tional  improvements.  Accordingly,  we   hypothesize  the  following:
+
+Hypothesis  2  (a–d).  Greater  internal  integration  strengthens  the
+relationship  between  increasingly  outward  focused  arcs  of  external
+integration  and  (a)  quality,  (b)  delivery,  (c)  ﬂexibility  and  (d)  cost
+performance.
+
+3.  Research  methods
+
+3.1.  Sample
+
+We  used  data  collected  for  the  annual  Global  Survey  of  Supply
+Chain  Progress  to  test  our  hypotheses.  This  cross-sectional  survey
+is  the  outcome  of  collaborative  efforts  between  a  large  Midwestern
+university,  the  Council  of  Supply  Chain  Management  Profession-
+als  (CSCMP),  Computer  Sciences  Corporation,  and  the  magazines
+Supply  Chain  Management  Review  and  Supply  Chain  Europe.   For  the
+present  study  we   utilized  data  collected  in  the  ﬁfth  and  sixth  rounds
+of  the  survey,  which  were  administered  in  2007  and  2008.
+
+The  survey  was   developed  for  a  single  respondent  with  the
+organization  serving  as  the  unit  of  analysis.  As  such,  our  research
+utilizes  an  embedded  design,  in  which  the  organization  is  viewed
+as  “embedded  in  a  network  of  relationships  that  impact  its  perfor-
+mance”  (Saraf  et  al.,  2007,  p.  327).  Although  a  multiple-respondent,
+dyadic  or  even  triadic  survey  design  would  have  been  preferable,
+surveying  customers  and  suppliers  directly,  a  single-respondent
+design  was  elected  to  achieve  an  acceptable  response  rate  (Saraf
+et  al.,  2007).  Measurement  items  were  therefore  also  kept  as  sim-
+ple  as  possible  to  ensure  that  the  single-respondent  could  provide
+accurate  answers  to  all  questions.  This  is  consistent  with  recent
+approaches  for  studying  inter-organizational  phenomena  (Rai  and
+Tang,  2010;  Flynn  et  al.,  2010).
+
+The  sampling  frame  for  the  survey  included  supply  chain  exec-
+utives  and  managers  located  around  the  world.  Senior  supply  chain
+managers  in  procurement,  operations  and  logistics  functions  were
+targeted.  The  research  team  sent  e-mail  invitations  to  readers  of
+the  Supply  Chain  Management  Review,   clients  of  the  Computer  Sci-
+ences  Corporation  supply  chain  consulting  division,  and  a  list  of
+former  participants  of  supply  chain  executive  education  programs
+at  a  large  Midwestern  university.  Three  waves  of  invitations  were
+sent  over  an  eight-week  period.  In  addition,  advertisements  invit-
+ing  participation  in  the  internet  based  survey  were  posted  on  the
+journal  and  participating  corporate  web  sites.
+
+Following  the  key  informant  approach,  we   carefully  screened
+the  responses  and  eliminated  those  whose  titles  were  not  directly
+related  to  supply  chain  functions  (Wall  et  al.,  2004).  Most  sur-
+vey  respondents  held  titles  such  as  Chief  Executive  Ofﬁcer,  Vice
+President,  Director  of  Logistics,  and  Chief  Procurement  Ofﬁcer.
+Respondents  that  had  inappropriate  titles  or  organization  types
+(non-businesses,  health-care)  were  deleted  from  the  sample.  A
+total  of  403  usable  responses  were  received,  141  for  2007  and  262
+for  2008.  Respondents  came  from  27  different  industries,  including
+process  manufacturing  (14.3%),  consumer  goods  (13.8%),  discrete
+manufacturing  (11.2%),  retail  (7.4%),  third-party  logistics  (5.9%),
+wholesale  and  distribution  (5.7%),  high  tech  (5.2%),  aerospace  and
+defense  (4.3%),  and  chemicals  (4.0%).  Overall,  63.9%  of  ﬁrms  were
+involved  in  manufacturing,  whereas  the  remaining  36.1%  were
+involved  in  distribution  or  retail  activities,  thus  being  positioned
+farther  down  the  supply  chain.  Respondents  came  from  39  differ-
+ent  countries,  with  the  North  American  region  representing  the
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+103
+
+Table   1
+Summary  statistics  and  correlations.
+
+Customer  integration  (CI) 
+Supplier  integration  (SI)
+Internal  integration  (II)
+Quality  performance  (QP) 
+Delivery  performance  (DP) 
+Flexibility  performance  (FP) 
+Cost   performance  (CP) 
+
+Mean 
+
+3.802 
+3.636 
+3.310 
+2.510 
+2.374 
+2.135 
+2.200 
+
+S.D. 
+
+.681 
+.738 
+.751 
+.537 
+.515 
+.521 
+.477 
+
+CI 
+
+.685
+.409 
+.490 
+.139 
+.286 
+.297 
+.348 
+
+SI 
+
+.730
+.542 
+.189 
+.236 
+.316 
+.289 
+
+II 
+
+QP 
+
+DP 
+
+FP 
+
+CP
+
+.717
+.138 
+.264 
+.310 
+.327 
+
+.822
+.354 
+.332 
+.412 
+
+.734
+.478 
+.491 
+
+.706
+.550 
+
+.694
+
+All  correlations  are  signiﬁcant  at  the  .01  level;  the  square-root  of  the  average  variance  extracted  (AVE)  is  printed  on  the  diagonal.
+
+strongest  contingent  (73.8%).  We   recorded  about  an  equal  num-
+ber  of  respondents  coming  from  the  Asia-Paciﬁc  region  (12.3%)
+and  Europe  (9.7%),  and  the  lowest  response  from  Latin  and  South
+America  (4.2%).  In  our  ensuing  analysis  we  control  for  these  con-
+tingencies.
+
+In  terms  of  size,  most  respondents  were  from  large  ﬁrms  with
+annual  sales  greater  than  $1  billion  (49.7%).  A  large  proportion  of
+our  sample  also  represented  companies  that  reported  annual  sales
+of  $250  million  or  below  (29.2%).  The  remaining  21.1%  of  the  sample
+fell  in  between  these  two  extremes  (11.6%  recorded  annual  sales
+between  $215  and  $500  million,  and  9.5%  between  $500  million
+and  $1  billion).  We   controlled  for  ﬁrm  size  in  our  subsequent  anal-
+ysis  and  performed  a  size-invariance  robustness  check  (reported  in
+Section  5.3).
+
+Given  the  method  used  to  invite  participants,  it  is  not  possible  to
+know  the  number  of  contacted  potential  respondents  who  met   our
+targeted  criteria.  Thus,  because  calculation  of  a  response  rate  was
+not  possible  or  relevant,  we  used  the  respondent  data  and  general
+industry  information  to  assess  potential  response  biases  and  sam-
+ple  representativeness.  As  such,  we  tested  for  nonresponse  bias  in
+two  ways.  First,  we  compared  return  on  assets  of  the  sampled  ﬁrms
+with  their  respective  industry  median  values  using  paired  sample
+t-tests.  Our  results  showed  that  there  were  no  statistically  signif-
+icant  differences  (p  >  .05)  between  the  sample  ﬁrms  and  industry
+median  values,  suggesting  that  performance  was   not  a  source  of
+bias.  Second,  no  statistically  signiﬁcant  differences  were  detected
+in  the  responses  for  any  of  the  measurement  items  across  early  (ﬁrst
+25%)  and  late  respondents  (last  25%)  in  both  years  (Armstrong  and
+Overton,  1977),  suggesting  that  nonresponse  bias  is  not  a  serious
+concern.
+
+3.2.  Measures
+
+Measurement  items  were  developed  through  a  close  collabora-
+tion  between  academics  and  practicing  managers,  ensuring  both
+theoretical  grounding  in  research  and  practical  relevance  in  indus-
+try.  While  almost  all  measurement  items  were  adapted  from  prior
+sources  (e.g.,  Koufteros  et  al.,  2005;  Swink  et  al.,  2007),  a  few  item
+additions  and  revisions  were  provided  by  a  team  of  more  than
+ten  participants  including  representatives  from  CSCMP,  Computer
+Sciences  Corporation,  and  editors  of  Supply  Chain  Management
+Review  and  Supply  Chain  Europe,  who  reviewed  both  the  2007  and
+2008  surveys  for  item  content,  understandability,  and  reasonable-
+ness  regarding  expectations  for  respondent  knowledge.  This  group
+of  reviewers  provided  exceptional  subject  matter  expertise,  as  it
+included  practicing  supply  chain  managers,  consultants  who   had
+interacted  with  numerous  companies,  and  editors  who  had  encom-
+passing  perspectives  of  the  ﬁeld  of  supply  chain  management.
+
+Consistent  with  our  theoretical  grounding  and  the  deﬁnitions
+introduced  above,  measurement  items  for  supplier  and  customer
+integration  assessed  the  degree  to  which  more  involved,  synchro-
+nized  and  proactive  relationships  are  sought.  Internal  integration
+was  measured  by  the  extent  to  which  intra-ﬁrm  functional  teams
+(operations,  logistics,  sales,  marketing,  supply  management)  work
+
+together  to  accomplish  supply  chain  planning  and  execution.  Simi-
+lar  as  in  Das  and  Joshi  (2007),   we   employed  the  mean  split  method
+in  later  analyses  to  generate  a  dichotomous  variable  dividing  our
+sample  in  a  group  with  high  internal  integration  and  a  group  with
+low  internal  integration.  Performance  was  assessed  on  17  differ-
+ent  operational  outcomes  related  to  quality,  delivery,  ﬂexibility
+and  cost  performance  dimensions  developed  in  the  SCOR  model
+(Bolstroff,  2002).  Appendix  B  provides  the  exact  wording  of  the
+measures,  and  Table  1  presents  summary  statistics  and  correla-
+tions  of  our  seven  main  constructs.  Of  note  in  Table  1  are  the  lower
+means  for  internal  integration  compared  to  supplier  and  customer
+integration.  This  is  consistent  with  comments  we  received  from
+practitioners  in  informal  conversations,  i.e.  that  their  ﬁrms  are  pro-
+ﬁcient  in  external  integration,  but  that  internal  integration  is  still
+lacking.  Internal  integration  seems  to  be  the  more  difﬁcult  compe-
+tence  to  achieve.
+
+We   executed  a  conﬁrmatory  factor  analysis  (CFA)  to  validate
+the  measures  and  to  compute  factor  scores  of  the  measurement
+items.  The  results  of  the  CFA  indicate  overall  good  model  ﬁt  and  sug-
+gest  no  modiﬁcation  to  the  speciﬁed  factor  structure  ((cid:2)2 =  820.239,
+df  =  384,  RMSEA  =  .051,  NFI  =  .942,  NNFI  =  .964,  CFI  =  .968,  IFI  =  .968).
+Measures  for  customer  integration  loaded  strongly  on  the  customer
+integration  construct,  measures  for  supplier  integration  loaded
+strongly  on  the  supplier  integration  construct,  and  measures  for
+internal  integration  loaded  strongly  on  the  internal  integration  con-
+struct.  For  our  performance  constructs  assessing  quality,  delivery,
+ﬂexibility  and  cost  performance,  three  measurement  items  were
+removed  due  to  weak  item-loadings,  cross-loadings,  small  t-values,
+and  theoretical  determination.  Though  the  loading  for  FP1,  pro-
+duction  ﬂexibility,  fell  just  below  conventionally  acceptable  values
+(0.445  <  0.500),  we   kept  the  item  because  of  its  strong  content  valid-
+ity.  Table  2  summarizes  the  test  statistics  of  the  ﬁnal  measurement
+items.
+
+Validity  and  reliability  were  assessed  via  approaches  suggested
+by  Anderson  and  Gerbing  (1988).   First,  content  validity  was  estab-
+lished  by  the  close  collaboration  between  academics  and  industry
+professionals  in  the  development  of  the  measurement  items,
+as  noted  above.  Second,  convergent  validity  was   ensured  by  the
+estimated  coefﬁcients  loading  signiﬁcantly  on  their  underlying
+construct.  As  can  be  seen  in  Table  2,  the  coefﬁcients  are  always
+greater  than  twice  their  standard  errors,  establishing  convergent
+validity.  Third,  discriminant  validity  was   provided,  given  that  the
+conﬁdence  interval  around  the  coefﬁcients  does  not  include  1.0.
+Discriminant  validity  was  also  conﬁrmed  by  the  more  stringent
+approach  of  comparing  the  average  variance  extracted  (AVE)  to
+the  inter-construct  variances.  The  seven  values  for  the  square-root
+of  the  AVE  were  all  greater  than  the  corresponding  correlations
+(Table  1),  further  conﬁrming  discriminant  validity  (Fornell  and
+Larcker,  1981).  Fourth,  unidimensionality  was  established  by  the
+CFA  and  all  measurement  items  having  loadings  of  above  the  sug-
+gested  minimum  of  0.30.  (O’Leary-Kelly  and  Vokurka,  1998).  Fifth,
+reliability  was   provided  by  Cronbach’s  alpha  and  composite  reliabil-
+ity  values  being  above  0.70.  (Fornell  and  Larcker,  1981).  And  ﬁnally,
+construct  validity  was   ensured  by  conﬁrming  content  validity,
+
+
+104 
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+Table   2
+Conﬁrmatory  factor  analysis  results.
+
+Construct 
+
+Variable 
+
+Loading 
+
+Customer  integration  ˛  =  .812  CRa =  .815 
+
+Supplier  integration 
+
+˛
+
+  =  .850  CRa =  .850 
+
+Internal  integration 
+
+˛
+
+  =  .862  CRa =  .864 
+
+Quality  performance 
+
+˛
+
+  =  .856  CRa =  .862 
+
+Delivery  performance 
+
+˛
+
+  =  .824  CRa =  .823 
+
+Flexibility  performance 
+
+˛
+
+  =  .760  CRa =  .792 
+
+Cost   performance 
+
+˛
+
+  =  .725  CRa =  .735 
+
+a Composite  reliability.
+
+CI1 
+CI2
+CI3
+CI4  
+CI5
+
+SI1 
+SI2  
+SI3
+SI4
+SI5
+
+II1 
+II2  
+II3  
+II4  
+II5
+II6  
+
+QP1
+QP2  
+QP3
+
+DP1 
+DP2  
+DP3  
+DP4
+
+FP1 
+FP2  
+FP3  
+FP4  
+
+CP1
+CP2  
+CP3  
+
+.682 
+.678
+.733 
+.638 
+.689 
+
+.693 
+.762 
+.760
+.746
+.683 
+
+.714 
+.708 
+.781 
+.729 
+.713 
+.654 
+
+.794
+.804 
+.866 
+
+.781 
+.753 
+.714 
+.685
+
+.445 
+.702 
+.816 
+.799 
+
+.723
+.729 
+.626 
+
+t-value 
+
+14.308 
+14.197 
+15.734 
+13.143 
+14.518 
+
+14.941 
+17.008 
+16.962 
+16.507 
+14.681 
+
+15.716 
+15.529 
+17.793 
+16.146 
+15.672 
+13.975 
+
+17.982 
+18.274 
+20.229 
+
+17.258 
+16.419 
+15.321 
+14.486 
+
+8.691 
+15.019 
+18.308 
+17.796 
+
+14.884 
+15.054 
+12.507 
+
+Std.  error 
+
+.040 
+.042
+.043 
+.047 
+.043 
+
+.044 
+.044 
+.040
+.042 
+.042 
+
+.041 
+.046 
+.042 
+.046 
+.044 
+.046 
+
+.027
+.027 
+.026 
+
+.027 
+.028 
+.031 
+.031
+
+.035 
+.031 
+.031 
+.029 
+
+.032
+.030 
+.032 
+
+R2
+
+.465
+.459
+.538
+.407
+.475
+
+.480
+.580
+.548
+.556
+.467
+
+.510
+.501
+.610
+.531
+.508
+.427
+
+.630
+.646
+.750
+
+.610
+.566
+.511
+.469
+
+.198
+.522
+.532
+.392
+
+.493
+.665
+.638
+
+unidimensionality,  reliability,  convergent  and  discriminant  validity
+(O’Leary-Kelly  and  Vokurka,  1998).
+
+To  avoid  common  method  bias  we  grouped  the  independent  and
+dependent  variables  in  different  sections  of  the  questionnaire  and
+used  different  scale  types  (Podsakoff  et  al.,  2003).  Similar  to  Boyer
+and  Hult  (2005),   we  assessed  the  potential  for  common-method
+bias  via  the  Harman’s  one  factor  test.  The  single  factor  model
+produced  a  signiﬁcantly  worse  ﬁt  than  the  model  with  the  differen-
+tiated  measurement  items  ((cid:2)2 =  3053.742,  df  =  405,  RMSEA  =  .159,
+NFI  =  .784,  NNFI  =  .792,  CFI  =  .807,  IFI  =  .807),  suggesting  that  com-
+mon   method  bias  is  not  of  serious  concern  (Podsakoff  and  Organ,
+1986).  Based  on  these  tests,  we  felt  that  we  could  conﬁdently  opera-
+tionalize  the  arcs  of  integration  consisting  of  supplier  and  customer
+integration,  internal  integration  and  the  performance  dimensions.
+Five  control  variables  were  considered  in  the  present  study:  year
+of  data  collection,  geographic  region  (North  America,  Asia-Paciﬁc,
+Europe,  and  Latin  and  South  America),  annual  sales  (to  account
+for  economies  of  scale  and  bargaining  power  associated  with  ﬁrm
+size),  whether  manufacturing  activities  were  part  of  the  ﬁrm’s  busi-
+ness  (being  indicative  of  a  ﬁrm’s  location  in  the  supply  chain),  and
+industry.
+
+3.3.  Methods  comparison
+
+We   stress  that  our  study  is  not  a  pure  replication  of  Frohlich
+and  Westbrook’s  (2001)  work.  Rather,  it  is  a  cross-validation  and
+extension  of  their  ﬁndings.  We   also  note  that  replicating  a  study
+does  not  necessarily  mean  to  literally  duplicate  it  without  making
+any  changes  (Kerlinger  and  Lee,  2000).  However,  it  is  important
+to  clearly  identify  methodological  differences.  Table  3  summarizes
+the  key  methodological  design  and  sample  characteristics  of  our
+study  in  comparison  to  Frohlich  and  Westbrook  (2001).
+
+We   further  highlight  differences  in  how  supplier  and  customer
+integration  were  measured  in  the  two   studies.  While  the  general
+content  domain  of  the  two  sets  of  measures  is  comparable,  the
+integration  measures  in  Frohlich  and  Westbrook  (2001)  relied  on
+the  extent  to  which  knowledge  is  shared  with  customers  or  sup-
+pliers  (access  to  planning  systems,  sharing  production  plans,  joint
+EDI  access/networks,  knowledge  of  inventory  mix/levels),  logistics
+responsiveness  (packaging  customization,  delivery  frequencies),
+and  the  use  of  common  resources  (common  use  of  logistical  equip-
+ment/containers,  common  use  of  third-party  logistics  services).
+Respondents  to  their  survey  were  asked  to  indicate  the  extent  to
+which  each  item  is  practiced  with  suppliers  or  customers  on  a  ﬁve-
+point  scale  ranging  from  “none”  to  “extensive”.  In  contrast,  our
+measures  for  customer  and  supplier  integration  are  grounded  in
+and  adapted  from  recent  research  (e.g.,  Koufteros  et  al.,  2005;  Swink
+et  al.,  2007),  and  measure  integrative  activities/behavior  pursued
+between  the  ﬁrm  and  its  customers  or  suppliers.
+
+Similarly  as  in  Frohlich  and  Westbrook  (2001),   we  utilized
+related  measures  to  assess  the  integration  on  both  sides;  how  inte-
+gration  is  measured  with  customers  and  suppliers  thus  remains
+comparable.  In  contrast  to  the  scales  utilized  in  the  original  study,
+which  focused  on  knowledge  sharing  mechanisms/systems  and
+types  of  knowledge,  our  scales  can  be  said  to  more  contemporary
+and  to  be  more  directly  measuring  the  concept  of  integration.  The
+measures  can  also  be  seen  as  an  evolution  of  the  early  integration
+scales,  and  as  such,  as  an  improvement  of  these  measures  over  time.
+The  scale  items  beneﬁted  from  their  application  and  validation  in
+recent  integration  studies,  as  well  as  the  direct  validation  with
+industry  practitioners  preceding  the  administration  of  the  ques-
+tionnaire.  We   thus  believe  our  scales  to  represent  an  evolution  of
+the  integration  scales  by  Frohlich  and  Westbrook  (2001),   and  to
+thus  be  comparable.
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+105
+
+Table   3
+Methodological  comparison  to  Frohlich  and  Westbrook  (2001).
+
+Our  study 
+
+Data  source 
+Collection  date
+Target  population
+
+Sample  size
+Primary  industry 
+
+Geographic  distribution 
+
+Global  Survey  of  Supply  Chain  Progress 
+2007  and  2008
+Supply  chain  executives  and  senior  managers  in  procurement,
+operations  and  logistics  functions  located  around  the  world
+403 
+Process  manufacturing,  consumer  goods,  discrete  manufacturing
+overall,  63.9%  manufacturing,  36.1%  non-manufacturing
+39  countries:  12.3%  Asia/Paciﬁc,  9.7%  Europe,  73.8%  North  America,
+4.2%  Latin/South  America
+
+Frohlich  and  Westbrook  (2001)
+
+International  Manufacturing  Strategy  Survey
+1998
+(not  available)
+
+322
+Manufacturers  of  fabricated  metal  products,  machinery  and
+equipment;  distribution  and  retail
+23  countries:  26.4%  Asia/Paciﬁc,  48.8%  Europe,  14.3%  North  America,
+10.6%  South  America
+
+Table  4
+Summary  of  Frohlich  and  Westbrook’s  (2001)  results.
+
+Performance  dimension 
+
+Summary  results
+
+Quality
+Customer  satisfaction**  (1,3,4)
+Conformance  quality**  (1,3)
+Supplier  quality***  (1,2,3,4)
+
+Delivery
+Delivery  lead  time**  (1,4)
+Customer  service**  (1,3,4)
+On-time  delivery*  (1,3,4)
+
+Flexibility
+Manufacturing  lead  time*  (1,4)
+Equipment  changeover  time*
+Procurement  lead  time**  (1,3,4)
+Inventory  turnover
+Product  variety**  (1,3,4)
+Speed  of  product  development**  (4)
+
+Results  suggest  a  positive  link  between  integration  and  quality  performance.  Signiﬁcant  ANOVAs  at  the  .01  level,  with  the
+outward-facing  group  being  the  most  differentiating;  most  frequent  differences  between  outward-facing  group  and  both
+inward-  and  supplier-facing  groups;  no  differences  among  other  groups.
+
+Results  suggest  a  positive  link  between  integration  and  delivery  performance.  Signiﬁcant
+ANOVAs  at  the  .01  and  .05  levels,  with  the  outward-facing  group  being  the  most
+differentiating;  most  common  differences  between  outward-facing  group  and  both  inward-
+and  customer-facing  groups;  no  differences  among  other  groups.
+
+Mixed  results,  providing  partial  support  for  a  link  between  integration  and  ﬂexibility  performance.  Signiﬁcant  ANOVA  results
+at   the  .01  and  .05  levels,  with  the  outward-facing  group  being  the  most  differentiating;  most  common  differences  between
+outward-facing  group  and  both  inward-  and  customer-facing  groups;  no  differences  among  other  groups.  Non-signiﬁcant
+ANOVA  for  inventory  turnover;  also,  no  signiﬁcant  group  differences  for  equipment  changeover  time.
+
+Cost
+Average  unit  manufacturing  cost
+Materials  and  overhead  total  costs
+Worker/direct  labor  productivity**  (3,4)
+
+Mixed  results,  providing  partial  support  for  a  link  between  integration  and  cost  performance.  Signiﬁcant  ANOVA  result  at  the
+.01   level  for  worker/direct  labor  productivity,  and  at  the  .05  level  for  average  unit  manufacturing  cost.  Non-signiﬁcant  ANOVA
+for   materials  and  overhead  total  costs.  Only  signiﬁcant  group  differences  in  the  worker/direct  labor  productivity  model
+between  the  outward-facing  group  and  both  the  supplier-  and  customer-facing  groups.  No  signiﬁcant  group  differences
+otherwise.
+
+Source:  Derived  from  Table  7  in  Frohlich  and  Westbrook  (2001,  p.  193).
+ANOVA  signiﬁcance  levels:  ***p  <  .001,  **p  <  .01,  *p  <  .05.  Numbers  in  parentheses  indicate  the  group  number  to  which  the  outward-facing  group  is  signiﬁcantly  different  (1:
+inward-facing,  2:  periphery-facing,  3:  supplier-facing,  4:  customer-facing).  The  inward-,  periphery-,  supplier-  and  customer-facing  groups  were  not  statistically  different
+from   each  other.
+
+While  we  grouped  our  performance  measures  into  the  four
+competitive  dimensions,  Frohlich  and  Westbrook  (2001)  relied  on
+single  item  measures  grouped  into  three  categories:  marketplace,
+productivity  and  non-productivity  performance  outcomes.  How-
+ever,  upon  examination  of  their  speciﬁc  items,  most  of  their  items
+can  be  roughly  classiﬁed  into  our  four  categories,  making  a  compar-
+ison  possible.  Table  4  presents  selected  measures  of  Frohlich  and
+Westbrook  (2001)  grouped  along  our  four  dimensions,  as  well  as  a
+summary  of  their  primary  ﬁndings  pertaining  to  each  dimension.
+We  will  refer  to  this  summary  later  when  we  compare  the  results.
+
+4.  Operationalizing  the  classiﬁcation  scheme
+
+To  evaluate  whether  the  arcs  of  integration  is  a  robust  con-
+cept  we  proceed  with  the  operationalization  of  the  arcs  as  done
+in  the  original  study,  and  then  compare  the  derived  group  mem-
+bership  to  Frohlich  and  Westbrook’s  (2001)  results.  In  interpreting
+these  ﬁndings  we  take  a  deeper  look  into  the  rationalization  of  the
+classiﬁcation  scheme.
+
+Consistent  with  Frohlich  and  Westbrook  (2001),   we  grouped
+respondents  into  quartiles  based  on  their  factor  scores  for  cus-
+tomer  and  supplier  integration,  respectively,  and  then  classiﬁed
+each  respondent  into  one  of  ﬁve  mutually  exclusive  groups.  These
+groups  represent  “the  major  different  integration  strategies  that
+.
+.
+.
+  [ﬁrms]  could  undertake  in  relation  to  suppliers  and  customers”
+(Frohlich  and  Westbrook,  2001,  p.  190).  Table  5  presents  the  ﬁve
+strategies,  their  operationalizations,  and  group  membership  counts
+
+ 
+
+ 
+
+for  our  sample  and  Frohlich  and  Westbrook’s  (2001)  sample.  We
+note  that  this  classiﬁcation  considers  only  external  integration,  i.e.
+the  “inward-facing”  strategy  denotes  a  lack  of  external  integration,
+but  indicates  nothing  about  the  level  of  internal  integration.
+
+In  the  same  manner  as  in  Frohlich  and  Westbrook  (2001),   we
+conducted  tests  to  ensure  that  the  ﬁve  groups  accurately  represent
+covariances  in  the  data.  First,  we   grouped  the  respondents  into  ﬁve
+groups  via  K-means  cluster  analysis  based  on  their  item  scores  for
+customer  and  supplier  integration.  Cluster  membership  was  saved
+and  compared  to  the  group  membership  determined  by  the  opera-
+tionalization  from  above.  Similar  to  the  original  study,  the  Pearson’s
+correlation  between  the  two   classiﬁcation  procedures  was   signiﬁ-
+cant  (r  =  .109,  p  <  .05),  providing  support  for  the  conceptualization.
+Second,  we  ran  discriminant  analysis  to  further  ensure  the  cor-
+rect  classiﬁcation  of  the  respondents.  Similar  as  in  Frohlich  and
+Westbrook  (2001),   we  listed  the  ten  supplier  and  customer  inte-
+gration  activities  as  independent  variables,  and  the  ﬁve-group
+classiﬁcation  as  the  dependent  variable.  The  result  of  83.1%  correct
+classiﬁcations  (Table  6)  adds  support  for  the  validity  of  the  opera-
+tionalization,  and  conﬁrms  the  ﬁndings  in  Frohlich  and  Westbrook
+(2001),   who  reported  81.8%  correctly  classiﬁed  cases.  The  pattern
+of  cases  correctly  classiﬁed  for  each  group  is  also  consistent  with
+the  results  in  Frohlich  and  Westbrook  (2001).2
+
+2 To  further  test  the  robustness  of  the  ﬁndings,  we  conducted  a  discriminant  anal-
+ysis  using  the  two  factor-score  constructs  as  independent  variables.  The  result  was
+
+
+106 
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+Table   5
+Arc  of  integration  group  membership  comparison  to  Frohlich  and  Westbrook  (2001).
+
+Integration  type 
+
+Inward-facing 
+
+Periphery-facing 
+
+Supplier-facing 
+
+Customer-facing
+
+Outward-facing 
+
+Total  
+
+In  lower  quartile  for  suppliers,  and  in  lower
+quartile  for  customers
+Above  lower  quartile  for  suppliers  or
+customers,  but  below  upper  quartile  for
+suppliers  and  customers
+In  upper  quartile  for  suppliers,  and  below
+upper  quartile  for  customers
+In  upper  quartile  for  customers,  and  below
+upper  quartile  for  suppliers
+In  upper  quartile  for  suppliers,  and  in  upper
+quartile  for  customers
+
+Our  study 
+
+Number 
+
+43 
+
+219 
+
+40 
+
+47
+
+54 
+
+403 
+
+Frohlich  and
+Westbrook  (2001)
+
+Expected  proportions
+(%)  if  correlation  (r)  =
+
+% 
+
+10.7 
+
+54.3 
+
+9.9 
+
+11.7
+
+13.4 
+
+Number 
+
+44 
+
+137 
+
+39 
+
+42
+
+29 
+
+% 
+
+15.1 
+
+47.1 
+
+13.4 
+
+14.4
+
+10.0 
+
+100.0 
+
+291 
+
+100.0 
+
+r  =  1 
+
+r  =  -1 
+
+25 
+
+50 
+
+0 
+
+0 
+
+25 
+
+100 
+
+0 
+
+50 
+
+25 
+
+25 
+
+0 
+
+100 
+
+r  =  0
+
+6.25
+
+50
+
+18.75
+
+18.75
+
+6.25
+
+100
+
+Table  6
+Classiﬁcation  results  for  discriminant  analysis  test  for  arcs  of  integration.a
+
+Group 
+
+Predicted  group  membership
+
+Inward-facing
+
+Periphery-facing
+
+Supplier-facing
+
+Customer-facing 
+
+Outward-facing
+
+Inward-facing 
+Periphery-facing 
+Supplier-facing 
+Customer-facing 
+Outward-facing
+
+40  (93.0%) 
+14  (6.4%) 
+1  (2.5%) 
+0  (0.0%) 
+0  (0.0%)
+
+3  (7.0%) 
+170  (77.6%) 
+0  (0.0%) 
+1  (2.1%) 
+0  (0.0%)
+
+0  (0.0%) 
+16  (7.3%) 
+31  (77.5%) 
+0  (0.0%) 
+0  (0.0%)
+
+0  (0.0%) 
+16  (6.8%) 
+0  (0.0%) 
+40  (85.1%) 
+0  (0.0%)
+
+0  (0.0%)
+4  (1.8%)
+8  (20.0%)
+6  (12.8%)
+54  (100.0%)
+
+Values  printed  in  bold  represent  the  percentage  of  cases  correctly  classiﬁed  for  the  corresponding  group.
+
+a Overall  percent  of  grouped  cases  correctly  classiﬁed:  83.1%  The  columns  correspond  to  the  predicted  group  membership  following  Frohlich  and  Westbrook’s  (2001)
+
+conceptualization,  and  the  rows  are  the  predicted  group  memberships  based  on  the  discriminant  analysis.
+
+4.1.  Comparison  of  group  memberships
+
+Using  a  one-sample  chi-square  difference  test  we  compared
+the  group  membership  classiﬁcation  derived  from  our  sample
+to  that  of  Frohlich  and  Westbrook  (2001)  (Table  5),  which  sug-
+gested  that  the  group  membership  proportions  in  our  sample
+are  signiﬁcantly  different  to  the  proportions  received  by  Frohlich
+and  Westbrook  (2001)  ((cid:2)2(4,  N  =  403)  =  20.340,  p  <  .001).  Post-
+hoc  tests  based  on  the  standardized  residuals  showed  that  both
+the  periphery-facing  strategy  and  outward-facing  strategy  were
+more  frequently  observed  in  our  sample  than  in  the  Frohlich  and
+Westbrook  (2001)  sample  (p  <  .001  and  p  <  .01,  respectively).  The
+remaining  three  integration  strategies  were  signiﬁcantly  underrep-
+resented  in  our  sample  (p  <  .05)  relative  to  Frohlich  and  Westbrook
+(2001).
+
+These  differences  in  the  frequencies  of  integration  strategies
+could  be  due  to  differences  in  the  samples  of  the  two   studies.  How-
+ever,  the  results  of  multiple  sub-sample  analyses  suggest  that  our
+distribution  of  strategic  types  is  not  sample  dependent  (we  ran-
+domly  created  subsamples  of  varying  sizes  and  then  classiﬁed  each
+respondent  into  their  respective  arc).  A  more  likely  explanation  for
+the  differences  may   be  a  progression  in  general  trends  related  to
+supply  chain  integration  over  the  past  decade.  The  change  in  strat-
+egy  frequencies  implied  in  our  data  may   suggest  that  in  the  decade
+
+comparable  (81.9%  correctly  classiﬁed).  In  addition,  we  ran  discriminant  analyses
+with  various  subsamples  of  our  data  including  subsamples  with  the  2007  and  2008
+data   separately,  both  with  all  10  measurement  items  as  inputs  to  the  discrimi-
+nant  analysis  and  with  the  two  factor  scores  as  inputs  in  separate  analyses.  The
+results  were  again  consistent  with  above  assessment.  As  a  ﬁnal  robustness  check
+we   repeated  the  discriminant  analysis  with  ﬁve  randomly  drawn  subsamples  of  200
+observations  (about  half  of  the  dataset),  again  using  both  all  10  measurement  items
+and   the  two   factor  scores  as  independent  variables  in  separate  analyses.  Correctly
+classiﬁed  cases  ranged  from  78.5%  to  88.5%.  Overall,  these  results  support  the  relia-
+bility  of  the  arcs  of  integration  framework  as  proposed  by  Frohlich  and  Westbrook
+(2001);   it  is  reproducible  and  robust  to  sampling.
+
+since  the  Frohlich  and  Westbrook’s  (2001)  study,  ﬁrms  have  recog-
+nized  the  importance  to  integrate  both  upstream  and  downstream,
+to  both  suppliers  and  customers.  The  more  myopic  “supplier-
+facing”  and  “customer-facing”  strategies  have  apparently  become
+less  prevalent  over  the  last  10  years.  Frohlich  and  Westbrook  (2001)
+speculated  that  such  strategies  might  actually  represent  steps  in
+an  evolution  toward  more  integrated  strategies.  Similarly,  ﬁrms
+may   be  recognizing  that  pursuing  only  an  inward-facing  integration
+strategy  is  insufﬁcient  in  today’s  world,  as  outsourcing  and  supply
+chain  perspectives  have  become  more  pervasive  over  the  last  10
+years.  In  contrast,  the  two   strategies  that  emphasize  both  upstream
+and  downstream  integration  to  equal  degrees,  the  periphery-facing
+and  outward  facing  arcs,  appear  to  be  more  prevalent  today  than
+in  the  past.  This  trend  would  suggest  that  managers  are  adopting
+more  overall  integrated  and  holistic  approaches  to  supply  chain
+management.
+
+4.2.  Rationalizing  the  classiﬁcation  scheme
+
+Frohlich  and  Westbrook  (2001)  noted  that  the  majority  of  their
+sample  fell  in  the  periphery-facing  group,  and  they  posed  the  ques-
+tion  of  whether  “this  is  the  natural  point  of  equilibrium  in  terms  of
+supply  chain  management.”  We   point  out  that  their  result  is  actu-
+ally  a  mathematical  outcome  of  their  classiﬁcation  rules,  rather
+than  a  propensity  for  strategic  choice  combinations.  Upon  closer
+examination  of  the  rules  used  to  classify  respondents  into  the  ﬁve
+integration  strategies,  one  recognizes  that  all  groups  do  not  have
+an  equal  likelihood  of  membership.  The  probability  of  a  given  ﬁrm
+falling  into  a  certain  arc  is  dependent  upon  how  correlated  the
+ﬁrm’s  supplier  and  customer  integrations  are.  Table  5  provides  the
+probabilities  of  class  membership  when  these  integration  strate-
+gies  are  perfectly  uncorrelated,  perfectly  positively  correlated,  and
+perfectly  negatively  correlated.  In  each  case  we   would  expect  about
+50%  of  the  sample  to  fall  in  the  periphery-facing  group.  Equal  rep-
+resentation  (i.e.  20%  membership  in  each  of  the  ﬁve  groups)  is
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+107
+
+Table   7
+ANCOVA  results  for  performance  measures  by  arc  of  integration.
+
+Performance  indicator 
+
+Inward-facing
+(1)
+
+Periphery-facing
+(2)
+
+Supplier-facing
+(3)
+
+Customer-facing
+(4)
+
+Outward-facing
+(5)
+
+F  Value  and  Sign. 
+
+R2 (Adj.  R2)
+
+Quality  performance  (n  =  379) 
+
+Delivery  performance  (n  =  375) 
+
+Flexibility  performance  (n  =  372) 
+
+Cost   performance  (n  =  372)
+
+2.276(3,5)
+(.086)
+
+2.040(2,3,4,5)
+(.079) 
+
+1.924(5)
+(.082)
+
+1.918(2,3,4,5)
+(.075)
+
+2.507(5)
+(.038) 
+
+2.359(1,5)
+(.035) 
+
+2.047(5)
+(.036)
+
+2.148(1,5)
+(.033) 
+
+2.620(1)
+(.84) 
+
+2.395(1)
+(.078) 
+
+2.203(5)
+(.080)
+
+2.258(1,5)
+(.073) 
+
+2.438(5)
+(.078) 
+
+2.469(1)
+(.073) 
+
+2.188(5)
+(.074)
+
+2.273(1,5)
+(.068) 
+
+2.721(1,2,4)
+(.073) 
+
+2.619(1,2)
+(.068) 
+
+2.474(1,2,3,4)
+(.069)
+
+2.518(1,2,3,4)
+(.063) 
+
+4.524*
+
+7.938**
+
+9.258**
+
+10.722**
+
+.088
+(.052)
+
+.132
+(.099)
+
+.125
+(.090)
+
+.131
+(.097)
+
+This  table  shows  marginal  means  and  standard  errors  (in  parentheses  below  the  means).  The  numbers  in  the  superscripted  parentheses  indicate  the  group  score  number
+from   which  the  group  score  is  signiﬁcantly  different  (Bonferroni  adjustment  for  multiple  comparisons  with  signiﬁcance  level  at  0.05).
+
+* p  <  .01.
+** p  <  .001.
+
+not  possible.  Thus,  it  is  not  surprising  that  the  results  suggest  the
+periphery-facing  strategy  to  be  the  most  frequently  applied  strat-
+egy.
+
+We   note,  however,  that  this  does  not  invalidate  the  results
+or  conclusions  drawn  by  Frohlich  and  Westbrook  (2001).   Rather,
+our  analysis  provides  for  a  more  rigorous  understanding  of  the
+results.  One  has  to  determine  whether  a  strategy  group  is  over-
+or  underrepresented  relative  to  the  expected  proportions,  rather
+than  using  equal  proportions  as  a  baseline  for  comparison.  A  chi-
+square  test  conﬁrmed  that  the  classiﬁcation  proportions  in  the
+Frohlich  and  Westbrook  (2001)  data  are  signiﬁcantly  different  from
+the  expected  proportions  for  uncorrelated  integration  scores  ((cid:2)2(4,
+N  =  291)  =  50.890,  p  <  .001).  Thus,  rather  than  representing  a  “nat-
+ural  point  of  equilibrium,”  the  frequency  of  the  periphery-facing
+strategy  in  the  Frohlich  and  Westbrook  (2001)  sample  is  actually
+signiﬁcantly  lower  than  expected  (50%).  This  suggests  that  compa-
+nies  in  their  sample  were  more  likely  to  pursue  other  strategies.
+In  addition,  the  data  from  Frohlich  and  Westbrook  (2001)  suggest
+that  more  companies  than  expected  pursued  the  inward-facing  and
+outward-facing  strategies,  whereas  fewer  ﬁrms  than  expected  pur-
+sued  the  remaining  three  strategies  in  between  these  two   extremes.
+Comparing  these  expected  proportions  (for  uncorrelated  inte-
+gration  strategies)  to  the  counts  received  with  our  data  also
+produces  a  signiﬁcant  chi-square  value  ((cid:2)2(4,  N  =  403)  =  76.610,
+p  <  .001).  Our  data  are  suggestive  of  a  movement  toward  even
+greater  levels  of  coordinated  integration  strategies  than  those
+revealed  in  the  Frohlich  and  Westbrook  (2001)  data.  Speciﬁcally,
+in  our  data,  more  ﬁrms  than  expected  are  in  the  outward-facing
+and  periphery-facing  groups,  whereas  fewer  ﬁrms  than  expected
+are  in  the  supplier-facing  and  customer-facing  groups.
+
+5.  The  link  to  performance,  and  the  moderating  role  of
+internal  integration
+
+5.1.  Validating  and  extending  the  link  to  performance
+
+Similar  to  Frohlich  and  Westbrook  (2001),   we   used  one-way
+analysis  of  covariance  (ANCOVA)  to  analyse  differences  in  perfor-
+mance  among  the  strategic  integration  groups.  ANCOVA  combines
+features  of  analysis  of  variance  and  regression  (Hair  et  al.,  1996),
+and  was  deemed  the  most  appropriate  analytical  approach  given
+the  categorical  nature  of  the  arcs  of  integration.  Table  7  provides
+the  results.  In  contrast  to  Frohlich  and  Westbrook  (2001),   who   did
+not  include  any  control  variables,  we  included  ﬁve  contingencies
+in  the  analysis,  results  pertaining  to  which  are  presented  in  Section
+5.3.
+
+The  results  support  Hypothesis  1a–d,  indicating  that  greater
+arcs  of  supplier  and  customer  integration  are  associated  with
+greater  levels  of  (a)  quality,  (b)  delivery,  (c)  ﬂexibility  and  (d)
+
+cost  performance.  In  general,  the  nominal  performance  scores
+in  Table  7  increase  from  left  to  right,  moving  from  the  entirely
+inward-facing  strategy  (low  supplier  and  customer  integration)
+to  the  entirely  outward-facing  strategy  (high  supplier  and  cus-
+tomer  integration).  Thus,  ﬁrms  that  reported  higher  levels  of
+external  integration  also  tended  to  rate  themselves  as  top  perform-
+ers  in  their  respective  industries  on  each  of  the  four  operational
+dimensions.  Most  notably,  performance  scores  for  the  outward-
+facing  ﬁrms  are  signiﬁcantly  higher  (p  <  .05)  than  those  for  the
+inward-facing  and  periphery-facing  ﬁrms  for  every  performance
+construct.  Reported  performance  scores  for  the  outward-facing
+ﬁrms  are  signiﬁcantly  higher  than  those  of  customer-facing  ﬁrms
+on  quality,  ﬂexibility  and  cost  performance,  and  they  are  signif-
+icantly  higher  than  those  of  supplier-facing  ﬁrms  on  ﬂexibility
+and  cost  performance.  In  addition,  inward-facing  ﬁrms  recorded
+signiﬁcantly  lower  performance  than  periphery-facing  ﬁrms  on
+delivery  and  cost  performance,  signiﬁcantly  lower  performance
+than  supplier-facing  ﬁrms  on  quality,  delivery  and  cost  perfor-
+mance,  and  signiﬁcantly  lower  performance  than  customer-facing
+ﬁrms  on  the  delivery  and  cost  dimensions.  In  general,  the  results
+suggest  that  a  combined  customer  and  supplier  integration  effort
+(outward-facing)  yields  signiﬁcantly  superior  returns  over  a  more
+myopic  or  less  intensive  integration  effort.
+
+The  pattern  of  signiﬁcant  differences  among  the  ﬁve  groups
+for  each  of  the  performance  models  is  more  pronounced  in  our
+data  compared  to  the  Frohlich  and  Westbrook  (2001)  sample.
+Speciﬁcally,  in  the  original  study  the  outward-facing  group  was
+differentiated  most  signiﬁcantly,  in  contrast  to  the  remaining  four
+arcs,  which  did  not  differ  signiﬁcantly  among  each  other.  Our
+data  indicate  both  the  inward-  and  the  outward-facing  groups  as
+the  most  differentiated.  The  results  in  Table  7  show  a  signiﬁcant
+improvement  in  performance  as  one  moves  from  the  former  group
+to  the  latter.  This  pattern  may   indicate  that  ﬁrms  today  realize  sig-
+niﬁcant  improvements  in  performance  even  from  small  integration
+steps,  whereas  Frohlich  and  Westbrook’s  (2001)  results  suggested
+that  signiﬁcant  performance  improvement  was  gained  only  when
+ﬁrms  progressed  to  the  most  advanced  outward-facing  strategy.
+Even  small-scale  integration  efforts  linked  to  beneﬁcial  efﬁcien-
+cies  may   be  associated  with  better  mechanisms  and  approaches  for
+integration  on  these  levels,  which  have  had  to  evolve  slowly  over
+the  years.  Overall,  our  sample  data  provide  stronger  support  for  the
+performance  impacts  of  a  comprehensive  integration  strategy  than
+the  Frohlich  and  Westbrook  (2001)  sample  did,  as  differentiation
+between  the  arcs’  scores  in  our  sample  is  even  more  pronounced
+than  in  their  original  2001  study.
+
+From  a  theory  building  perspective,  our  results  support  the
+notion  that  integration  is  a  heterogeneous,  relational  resource  that
+can  yield  competitive  differentiation.  The  ﬁndings  indicate  that
+relational  rents  can  be  created  through  competent,  integrative
+
+
+108 
+
+Table   8
+Interaction  analysis.
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+Performance  indicator 
+
+Internal  integration 
+
+Low  external
+integration
+
+High  external
+integration
+
+Quality  performance
+
+Delivery  performance 
+
+Flexibility  performance 
+
+Cost  performance
+
+High  internal  integration  (n  =  184)
+Low  internal  integration  (n  =  158)
+
+High  internal  integration  (n  =  185) 
+Low  internal  integration  (n  =  161) 
+
+High  internal  integration  (n  =  184) 
+Low  internal  integration  (n  =  159)
+
+High  internal  integration  (n  =  184)
+Low  internal  integration  (n  =  159) 
+
+2.538  (n  =  210) 
+2.396 
+
+2.423  (n  =  214) 
+2.222 
+
+2.141  (n  =  211) 
+1.946 
+
+2.242  (n  =  211) 
+2.009 
+
+2.623  (n  =  132) 
+2.513
+
+2.611  (n  =  132) 
+2.183
+
+2.415  (n  =  132) 
+1.963
+
+2.437  (n  =  132) 
+2.128
+
+R2 and  adjusted  R2 values:  quality  (.073,  .037),  delivery  (.151,  .118),  ﬂexibility  (.178,  .146),  cost  (.153,  .120).
+
+* p  <  .05.
+** p  <  .01.
+
+F  values  and
+Sign.
+
+External
+integration
+main  effect
+
+2.257 
+
+1.489 
+
+5.717*
+
+7.601**
+
+Internal
+integration
+main  effect
+
+3.426*
+
+25.926**
+
+27.446**
+
+21.955**
+
+Interaction
+effect
+
+.059
+
+3.511*
+
+4.529*
+
+.454
+
+intensity.  The  speciﬁc  activities  inherent  in  external  integration
+efforts  presumably  lead  to  unique  insights,  customized  routines
+(e.g.,  communication  protocols)  and  knowledge  bases  that  are
+able  to  positively  inﬂuence  operational  performance.  Our  ﬁndings
+demonstrated  the  impact  on  quality,  delivery,  ﬂexibility  and  cost
+performance.  These  ﬁndings  serve  to  validate  the  results  of  Frohlich
+and  Westbrook  (2001),   and  provide  support  for  our  theoretical
+rationales  grounded  in  the  RBV  and  the  relational  view.
+
+5.2.  Testing  the  moderating  role  of  internal  integration
+
+To  test  our  second  hypothesis  we  included  in  the  ANCOVAs  an
+interaction  term  between  arcs  of  integration  (external  integration
+strategy)  and  internal  integration  (Baron  and  Kenny,  1986).  Our
+initial  analysis  using  two  levels  of  internal  integration  and  ﬁve  lev-
+els  of  external  “arcs  of  integration”  yielded  inconclusive  results.
+An  examination  of  the  mean  score  plots  visually  indicated  that  an
+interaction  was  present.  However,  the  sample  sizes  in  some  groups
+were  quite  low,  as  we  were  dividing  the  overall  sample  into  ten
+different  groups  (two  internal  integration  groups ×  ﬁve  arcs  of  inte-
+gration  groups).  As  a  result,  many  of  the  interaction  terms  were  not
+statistically  signiﬁcant.  The  results  were  also  difﬁcult  to  interpret  in
+some  cases  as  we  had  no  theory  to  guide  our  expectations  regard-
+ing  an  interaction  between  internal  integration  and  each  speciﬁc
+arc  of  external  integration.
+
+To  deal  with  the  sample  size  problem  we  combined  ﬁrms  that
+were  in  the  inward-facing  and  periphery-facing  groups,  classifying
+them  with  the  title  “low  external  integration”.  Likewise  we   com-
+bined  the  ﬁrms  that  were  in  the  customer-facing,  supplier-facing,
+and  outward-facing  groups,  classifying  them  with  the  title  “high
+external  integration”.  This  dichotomization  made  sense  theoreti-
+cally  based  on  how  each  of  these  arcs  was  conceptualized.  It  was
+also  beneﬁcial  from  a  practical  perspective  in  that  the  more  parsi-
+monious  treatment  provides  a  clearer  interpretation  of  the  ﬁndings
+(cf.  Devaraj  et  al.,  2007;  Flynn  et  al.,  2010).  ANCOVAs  were  con-
+ducted  to  examine  the  main  and  interaction  effects  of  high  and
+low  levels  of  internal  and  external  integration.  Table  8  presents  the
+results,  including  the  performance  means  for  the  four  groups.
+
+The  results  support  hypothesis  2b  and  c,  i.e.  the  relationship
+between  external  integration  strategy  and  performance  is  moder-
+ated  by  internal  integration,  for  both  the  delivery  and  ﬂexibility
+dimensions  of  performance.  However,  the  moderating  effect  is  not
+demonstrated  for  either  quality  or  cost  performance,  offering  no
+support  for  hypothesis  2a  and  d.  The  mean  score  plots  for  these
+four  models  in  Fig.  1  visually  conﬁrm  these  results.  The  plots  indi-
+cate  that  external  integration  has  enhanced  signiﬁcant  positive
+effects  on  both  delivery  and  ﬂexibility  performance  when  internal
+
+integration  is  higher  than  average.  Thus,  internal  integration  can
+be  considered  to  be  an  important  complement  to  external  inte-
+gration  in  enhancing  a  ﬁrm’s  delivery  and  ﬂexibility  performance.
+An  IPT-based  interpretation  of  the  ﬁndings  is  that  internal  inte-
+gration  activities  help  the  ﬁrm  to  absorb  and  apply  knowledge
+generated  from  customer  and  supplier  integration  efforts,  such  that
+the  beneﬁts  of  such  knowledge  are  more  fully  realized  among  the
+dimensions  of  delivery  and  ﬂexibility.
+
+The  non-signiﬁcant  interaction  terms  for  quality  and  cost  per-
+formance  suggest  that  the  knowledge  gained  through  external
+integration  efforts  creates  beneﬁts  for  these  outcomes  in  ways  that
+are  independent  from  internal  integration  efforts.  We   posit  that
+knowledge  ﬂows  from  external  and  internal  integration  efforts  may
+follow  separate  pathways  to  different  knowledge  users  for  differ-
+ent  dimensions  of  performance.  Decisions  affecting  product  quality
+and  cost  are  heavily  inﬂuenced  by  product  designers  who  are
+typically  somewhat  isolated  from  supply  chain  functional  organiza-
+tions  (cf.  Ragatz  et  al.,  2002).  Strategic  product-process  integration
+(Swink  et  al.,  2007)  would  provide  the  vertical  pathways  important
+for  helping  designers  to  absorb  and  apply  knowledge  from  exter-
+nal  supply  chain  integration,  rather  than  the  horizontal  pathways
+offered  by  internal  supply  chain  functional  integration.
+
+On  the  other  hand,  process  improvements  applied  to  areas
+of  delivery  and  ﬂexibility  are  more  likely  to  be  accomplished
+through  the  integrated  efforts  of  internal  supply  chain  functions,
+and  are  likely  to  beneﬁt  also  from  short-term  interactions  asso-
+ciated  with  integration  activities.  Thus,  whereas  product-related
+knowledge  ﬂows  (pertaining  to  quality  and  cost)  generated  by
+internal  and  external  integration  efforts  may   follow  independent
+paths  to  product  designers,  applications  of  process-related  knowl-
+edge  (pertaining  to  delivery  and  ﬂexibility)  gained  from  customer
+and  supplier  integration  efforts  appear  to  depend  upon  the  infor-
+mation  processing  capabilities  provided  by  internal  integration
+routines.  When  these  internal  integration  capabilities  are  present,
+the  evidence  suggests  that  a  ﬁrm  will  reap  greater  beneﬁts  from
+external  integration  activities  in  terms  of  delivery  and  ﬂexibility
+performance.
+
+Furthermore,  delivery  and  ﬂexibility  performance  are  both
+time-related;  thus  they  rely  more  heavily  on  the  swift  and  even
+ﬂow  of  information  and  products  through  the  supply  chain,  requir-
+ing  to  a  greater  degree  the  existence  of  appropriate  structures  for
+effective  and  efﬁcient  information  processing  (i.e.  internal  integra-
+tion)  (Schmenner  and  Swink,  1998).  Accordingly,  it  makes  sense
+that  the  relationships  between  external  integration  and  both  deliv-
+ery  and  ﬂexibility  performance  are  more  likely  to  be  strengthened
+in  the  presence  of  internal  integration.  Internal  integration  pro-
+vides  a  means  to  communicate  insight  derived  from  external
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+109
+
+Fig.  1.  Interaction  between  internal  and  external  integration.
+
+integration  to  most  effectively  inﬂuence  the  time-based  outcomes.
+The  just-in-time  environment  provides  a  case  in  point.  In  contrast,
+quality  and  cost  performance,  which  have  been  described  as  less
+time-sensitive  (Wong  et  al.,  2011)  and  less  susceptible  to  external
+inputs  (Ragatz  et  al.,  2002),  may   be  less  dependent  on  internal  inte-
+gration  facilitating  the  inﬂuence  of  external  integration  (Eisenhardt
+and  Tabrizi,  1995).
+
+We   note  that  the  main  effects  of  external  integration  on  qual-
+ity  and  delivery  performance  are  both  non-signiﬁcant.  Neither  of
+these  ﬁndings  invalidates  our  support  for  H1,  but  they  do  point
+to  the  added  discrimination  and  insight  provided  by  Frohlich
+and  Westbrook’s  (2001)  ﬁve-category  classiﬁcation  scheme.  Some
+of  the  differences  between  outward-facing  and  more  myopic
+customer-  or  supplier-facing  strategies  are  hidden  in  this  aggre-
+gated  analysis.
+
+Several  important  implications  emerge  from  our  ﬁndings.  Over-
+all,  our  data  illustrate  the  beneﬁts  of  internal  integration,  as
+it  enables  and  reinforces  the  beneﬁts  of  external 
+integration
+strategies  on  select  performance  measures.  This  again  nicely  illus-
+trates  the  notion  of  the  supply  chain.  While  Frohlich  and  Westbrook
+
+(2001)  brought  attention  to  the  need  to  integrate  with  both  cus-
+tomers  and  suppliers,  we  show  that  the  internal  aspects  of  supply
+chain  management  should  not  be  neglected.  Supply  chain  man-
+agement  excellence  involves  the  swift,  even  ﬂow  of  materials  and
+information  throughout  the  entire  network,  including  the  ﬁrm’s
+internal  operations.  Our  results  also  point  to  the  fact  that  non-time-
+based  performance  (quality  and  cost)  does  not  appear  to  depend
+upon  the  internal  infrastructure  to  transform  the  beneﬁts  derived
+from  external  integration.
+
+From  a  theory-based  perspective,  our  study  once  again  points
+to  the  power  of  the  information  processing  theoretic  argument  in
+explaining  why  and  how  a  certain  strategic  initiative  is  more  or  less
+successful.  Because  integration  is  an  information  intensive  process,
+it  makes  perfect  sense  to  view  internal  and  external  integration
+activities  as  complements  to  one  another.  Internal  integration  can
+therefore  be  seen  as  an  important  enabler  of  full  supply  chain  inte-
+gration.  While  ﬁrms  that  are  poorly  integrated  internally  may   reap
+some  beneﬁts  from  external  supply  chain  integration,  the  poten-
+tial,  especially  in  terms  of  delivery  and  ﬂexibility  performance,  is
+much  enhanced  with  sound  internal  integration  in  place.
+
+
+110 
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+5.3.  Robustness  check
+
+We  conducted  several  robustness  checks  to  assess  the  reliabil-
+ity  and  generalizability  of  our  ﬁndings.  To  do  so  we  repeated  the
+ANCOVAs  described  above,  but  added  respective  interaction  effects.
+We  ﬁrst  tested  whether  the  ﬁrm’s  location  in  the  supply  chain  had
+any  signiﬁcant  effect  on  the  results  by  dividing  the  sample  into
+manufacturing-oriented  and  non-manufacturing-oriented  (distri-
+bution  and/or  retail)  ﬁrms,  with  the  latter  subset  representing  ﬁrms
+located  more  downstream  in  the  supply  chain.  None  of  the  twelve
+interaction  tests  were  signiﬁcant  at  the  .05  signiﬁcance  level,  sug-
+gesting  that  the  ﬁrm’s  position  in  the  supply  chain  does  not  affect
+the  results.  We   conducted  similar  robustness  checks  to  evaluate
+whether  the  results  are  invariant  across  subsamples  deﬁned  by
+time  (survey  year),  respondent  ﬁrm  location  (North  America  or
+non-North  America),  and  ﬁrm  size.  Only  one  interaction  term  was
+signiﬁcant  in  each  of  the  three  sets  of  models  (over  36  tests  in  all),
+indicating  that  our  ﬁndings  are  also  robust  to  sampling  time  frame,
+the  ﬁrm’s  geographical  location,  and  its  size.
+
+6.  Conclusions
+
+Because  theory  surrounding  supply  chain  integration  is  still
+underdeveloped,  we  deemed  it  crucial  to  revisit  Frohlich  and
+Westbrook’s  (2001)  conceptualizations  and  results.  As  such,  our
+paper  offers  reﬁnements  on  what  may   be  called  a  theory  of  inte-
+gration,  i.e.  a  conﬁrmation  of  the  signiﬁcant  beneﬁts  that  ﬁrms
+can  realize  by  being  strategically  interconnected  and  aligned  with
+their  supply  chain  partners.  We   have  ﬁrmly  grounded  this  theory
+in  two  well-known  perspectives,  the  RBV  combined  with  the  rela-
+tional  view,  and  information  processing  theory.  As  we   have  shown,
+the  combination  of  these  two  perspectives  provides  a  useful  foun-
+dation  for  explaining  the  effects  of  supply  chain  integration  on
+performance.  The  RBV  explains  why  external  integration  should  be
+expected  to  enhance  performance,  while  information  processing
+theory  explains  how  internal  integration  can  make  external  inte-
+gration  more  beneﬁcial.
+
+Our  study  further  empirically  corroborates  the  arcs  of  integra-
+tion  concept,  and  thus  contributes  to  the  integrity  of  research  and
+further  theory  development.  We   validated  the  ﬁndings  in  a  dif-
+ferent  context,  and  ascertained  the  concept’s  predictive  validity
+and  generalizability,  thereby  addressing  calls  for  further  research
+issued  by  Frohlich  and  Westbrook  (2001).   By  means  of  compar-
+ison,  our  study  also  provides  insight  into  the  changing  levels  of
+integration  in  business  ﬁrms,  and  offers  a  rationalization  of  the
+classiﬁcation  scheme  utilized  in  the  original  study.
+
+Our  results  conﬁrm  that  closer  integration  with  both  customers
+and  suppliers  yields  enhanced  performance  over  more  myopic
+or  non-integrated  approaches.  The  ﬁndings  suggest  that  sup-
+ply  chain  integration  can  lead  to  the  internalizing  of  resources
+from  outside  partners,  such  as  supplier  capabilities  or  customer
+
+market  insights.  The  results  also  bring  further  clarity  to  inconsis-
+tent  ﬁndings  reported  in  prior  studies,  and  conﬁrm  the  link  to  four
+operational  performance  dimensions.
+
+Applying  IPT,  we   elucidated  the  moderating  effect  of  internal
+integration  on  the  relationship  between  external  integration  and
+performance,  proposing  a  more  reﬁned  role  of  internal  integration.
+The  results  suggest  that  an  information  processing  infrastructure
+is  needed  to  effectively  and  efﬁciently  process  knowledge  gained
+from  external  sources  for  the  beneﬁt  of  delivery  and  ﬂexibility.
+However,  effects  on  quality  and  cost  performance  are  not  enhanced
+via  internal  integration.  This  ﬁnding  may   be  indicative  of  differ-
+ences  in  speciﬁc  knowledge  pathways  within  the  ﬁrm  and  their
+associated  susceptibilities  to  external  inputs.  We   leave  it  to  future
+research  to  further  investigate  these  possibilities.
+
+Our  ﬁndings  reiterate  Frohlich  and  Westbrook’s  (2001)  argu-
+ment  that  managers  should  pursue  both  customer  and  supplier
+integration  in  an  integrated  fashion.  This  may   require  a  shift  in
+responsibilities,  so  that  the  supply  management  function  obtains
+visibility  not  only  for  its  suppliers,  but  also  for  its  customers.  The
+reverse  applies  for  marketing  and  sales  management  functions.  We
+extended  this  notion  by  conﬁrming  the  direct  and  moderating  roles
+of  internal  integration.  Managers  should  thus  seek  ways  to  use
+internal  integration  capabilities  to  leverage  supplier  and  customer
+relationships  for  improved  delivery  and  ﬂexibility  performance.
+
+Opportunities  to  extend  our  ﬁndings  and  address  their  limi-
+tations  provide  promising  avenues  for  future  research.  Potential
+antecedents  and  contingencies  to  supply  chain  integration  should
+be  examined.  For  example,  neither  Frohlich  and  Westbrook  (2001)
+nor  our  study  directly  addressed  the  issue  of  culture.  While  our
+analysis  of  regional  differences  showed  no  signiﬁcant  effects,  future
+research  might  further  investigate  such  potential  impact.  Our  study
+speciﬁcally  addressed  the  issue  of  generalizability  by  replicating
+an  original  study.  However,  further  investigation  might  assess
+whether  the  results  hold  in  different  settings.  For  example,  our
+data  suggest  that  respondents  considered  themselves  to  be  above
+average  performers  in  some  dimensions.  Against  this  background,
+future  studies  might  evaluate  the  effects  of  performance  bias.  In
+addition,  we   have  ignored  possible  contingency  effects  such  as
+environmental  uncertainty  (Koufteros  et  al.,  2005;  Wong  et  al.,
+2011);  this  too  could  be  considered  in  future  research.
+
+Different  models  and  operationalizations  of  integration  present
+other  research  opportunities.  As  such,  future  studies  could  incor-
+porate  all  three  dimensions  of  integration  into  an  overall  supply
+chain  arc  of  integration  taxonomy,  similar  as  in  Flynn  et  al.  (2010).
+Further  studies  should  also  aim  to  collect  dyadic  or  even  triadic
+integration  measures;  our  study  was  limited  to  data  provided  by
+single  respondents.  In  addition,  while  most  integration  research
+has  focused  on  the  positive  effects,  studies  also  need  to  address  the
+costs  associated  with  integration  efforts.
+
+Appendix  A.  Representative  supply  chain  integration
+studies.
+
+Integration  types 
+
+Performance  measure 
+
+Braunscheidel  and
+
+Suresh  (2009)
+
+Supplier  integration
+Internal  integration
+Customer  integration
+
+External  ﬂexibility
+Supply  chain  agility
+
+Theoretical
+foundation
+
+Development  of  a
+theory  of  supply
+chain  integration
+
+Major  thrust  of  study 
+
+Major  ﬁndings
+
+Examination  of  the  impact  of
+organizational  orientation
+(market  orientation,  learning
+orientation)  on
+organizational  practices
+(supplier  integration,  internal
+integration,  customer
+integration)  and  ultimately
+on  a  ﬁrm’s  supply  chain
+agility.
+
+Both  internal  and  external
+integration  inﬂuence  supply
+chain  agility;  internal
+integration  inﬂuences
+external  integration;  market
+orientation  inﬂuences  both
+internal  and  external
+integration,  learning
+orientation  only  inﬂuences
+internal  integration.
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+111
+
+Appendix  A  (Continued  )
+
+Integration  types 
+
+Performance  measure 
+
+Cousins  and
+
+Menguc  (2006)
+
+Supply  chain
+integration
+
+Das   et  al.  (2006) 
+
+External  supplier
+integration  practices
+Internal  supplier
+integration  practices
+
+Devaraj  et  al.
+
+(2007)
+
+Supplier  integration
+Customer  integration
+
+Supplier’s  operational
+performance
+Supplier’s
+communication
+performance
+
+Manufacturing  cost
+reduction
+Quality  improvement
+Manufacturing  cycle
+time  reduction
+New  product
+introduction  time
+Delivery
+
+Operational
+performance  (cost,
+quality,  ﬂexibility,
+delivery)
+
+Theoretical
+foundation
+
+Development  of  a
+theory  of  supply
+chain  integration
+
+Resource-based
+view
+Transaction  cost
+economics
+Institutional
+isomorphism
+theory
+
+Resource-based
+view
+Relational  view
+Theory  of  swift  and
+even  ﬂow
+
+Flynn  et  al.  (2010) 
+
+Supplier  integration
+Internal  integration
+Customer  integration
+
+Operational
+performance
+Business  performance
+
+Contingency  theory
+Conﬁguration
+theory
+
+Germain  and  Iyer
+
+(2006)
+
+Internal  integration
+Downstream
+integration
+
+Logistical  performance
+Financial  performance
+
+Development  of  a
+theory  of  supply
+chain  integration
+
+Handﬁeld  et  al.
+
+(2009)
+
+Cross-enterprise
+integration
+Supplier  integration
+
+Sourcing  enterprise
+performance
+Buyer  ﬁnancial
+performance
+
+Development  of  a
+theory  of  supply
+chain  integration,
+link  to
+organizational
+entrepreneurship
+
+Koufteros  et  al.
+
+Supplier  integration 
+
+(2007)
+
+Product  innovation
+External  quality
+
+Social  network
+theory
+
+Koufteros  et  al.
+
+(2010)
+
+Internal  integration
+Customer  integration
+Supplier  product
+integration
+Supplier  process
+integration
+
+Glitches
+On-time  execution  of
+engineering  change
+orders
+Market  success
+
+Development  of  a
+theory  of  supply
+chain  integration
+
+Major  thrust  of  study 
+
+Major  ﬁndings
+
+Examination  of  the  impact  of
+supply  chain  integration  and
+socialization  on  the  supplier’s
+operational  and
+communication  performance,
+with  the  ultimate  impact  on
+the  buyer’s  perception  of  the
+supplier’s  contractual
+performance.
+Examination  of  speciﬁc
+conﬁgurations  of  supplier
+integration  practices,  which
+can  be  classiﬁed  into  external
+and  internal  integration
+practices;  examination  of  the
+inﬂuence  of  practices
+conﬁguration  on
+performance.
+Examination  of  the  inﬂuence
+of  e-business  capabilities  on
+customer  and  supplier
+integration,  with  the  ultimate
+impact  on  operational
+performance.
+Relationship  between
+individual  integration
+dimensions  and  their
+interactions  on  performance;
+the  inﬂuence  of  integration
+patterns  on  performance.
+
+Examination  of  the  effects  of
+internal  integration  and
+downstream  integration  on
+logistical  performance  and
+ultimately  ﬁnancial
+performance;  investigation  of
+the  moderating  effect  of
+internal  integration.
+
+Linking  supply  market
+intelligence  and  supply
+management  inﬂuence  with
+cross-enterprise  integration
+and  supplier  integration;
+examining  their  relationship
+to  sourcing  enterprise
+performance  and  the
+ultimate  impact  on  buyer
+ﬁnancial  performance.
+Examination  of  the
+antecedents  to  gray-box  and
+black-box  integration  and
+their  inﬂuence  on  product
+innovation.
+
+Relationship  between
+internal  integration,
+customer  integration,
+supplier  product  integration,
+and  supplier  process
+integration  on  glitches,
+on-time  execution  of
+engineering  change  orders,
+and  market  success.
+
+Supply  chain  integration  only
+positively  inﬂuences  the
+supplier’s  communication
+performance,  but  not  the
+supplier’s  operational
+performance.
+
+There  exists  an  optimal  set  of
+supplier  integration
+practices;  departures  from  it
+lead  to  a  deterioration  in
+performance.
+
+Supplier  integration
+positively  inﬂuences
+performance,  while  the
+inﬂuence  of  customer
+integration  on  performance  is
+non-signiﬁcant.
+Supply  chain  integration  is
+related  to  both  operational
+and  business  performance;
+internal  and  customer
+integration  are  more  strongly
+related  to  performance  than
+supplier  integration.
+Both  internal  and
+downstream  integration
+positively  inﬂuence  logistical
+performance;  the
+relationship  between
+downstream  integration  and
+logistical  performance  is
+moderated  by  internal
+integration;  the  relationship
+between  logistical
+performance  and  ﬁnancial
+performance  is  supported.
+Entrepreneurial  behaviors
+(supply  market  intelligence
+and  supply  management
+inﬂuence)  are  related  to
+cross-enterprise  and  supplier
+integration,  which  both  have
+a  positive  inﬂuence  on
+performance  improvement.
+
+Only  gray-box  integration
+positively  inﬂuences  product
+innovation;  the  inﬂuence  of
+black-box  integration  on
+product  innovation  is
+negligible.
+Internal  integration
+inﬂuences  customer
+integration,  supplier  product
+integration  and  supplier
+process  integration;  customer
+integration  inﬂuences  market
+success,  and  supplier  product
+and  supplier  process
+integration  inﬂuence  glitches
+and  on-time  execution  of
+engineering  change  orders.
+
+
+Major  thrust  of  study 
+
+Major  ﬁndings
+
+112 
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+Appendix  A  (Continued  )
+
+Koufteros  et  al.
+
+(2005)
+
+Integration  types
+
+Performance  measure 
+
+Internal  integration
+Customer  integration
+Supplier  product
+integration
+Supplier  process
+integration
+
+Product  innovation
+performance
+Quality  performance
+Proﬁtability
+
+Theoretical
+foundation
+
+Contingency  theory 
+
+Lao   et  al.  (2010) 
+
+Supply  chain
+integration
+
+Product  modularity
+Product  performance
+
+Theory  of  modular
+product  design
+
+Narasimhan  et  al.
+
+(2010)
+
+Product-process
+technology  integration
+Customer  integration
+Supplier  integration
+
+Cost  performance
+Quality  performance
+Delivery  performance
+Process  ﬂexibility
+New  product  ﬂexibility
+
+Development  of  a
+theory  of  supply
+chain  integration
+
+Relationship  between
+internal
+integration  in  the  form  of
+concurrent  engineering
+practices  and  customer
+integration,  supplier  product
+integration,  and  supplier
+process  integration;
+evaluation  of  the  moderating
+role  of  uncertainty,
+equivocality,  and  platform
+development
+strategy.
+Relationship  between  supply
+chain  integration,  comprised
+of  information  sharing,
+product  co-development  and
+organizational  coordination,
+on  product  modularity  and
+product  performance.
+
+Examination  of
+complementarities  between
+product-process  technology
+integration,  customer
+integration  and  supplier
+integration  and  their
+inﬂuence  on  performance.
+
+Swink  et  al.  (2007)
+
+Corporate  strategy
+integration
+Product-process
+technology  integration
+Customer  integration
+Supplier  integration
+
+Cost  efﬁciency
+Quality
+Delivery
+Process  ﬂexibility
+New  product  ﬂexibility
+Market  performance
+Customer  satisfaction
+
+Strategic  ﬁt  theory
+Information
+processing  theory
+Knowledge-based
+view
+
+Examination  of  the  impact  of
+four  different  types  of
+integration  on  business
+performance;  examination  of
+the  mediating  effect  of
+manufacturing  competitive
+capabilities.
+
+Wong  et  al.  (2011) 
+
+Supplier  integration
+Internal  integration
+Customer  integration
+
+Quality  performance
+Delivery  performance
+Flexibility  performance
+Cost  performance
+
+Information
+processing  theory
+Contingency  theory
+
+Zhao   et  al.  (2011)
+
+Supplier  integration
+Internal  integration
+Customer  integration
+
+n/a 
+
+Development  of  a
+theory  of  supply
+chain  integration
+
+Relationship  between
+individual  integration
+dimensions  and
+performance;  environmental
+uncertainty  as  a  moderator  to
+the  relationship  between
+integration  and  performance.
+
+Linking  internal  integration,
+relationship  commitment  to
+customers  and  relationship
+commitment  to  suppliers
+with  customer  and
+supplier  integration;
+examination  of  the
+moderating  role  of
+ownership,  industry  and
+region.
+
+Internal  and  external
+integration  are  related  to
+product  innovation,  quality
+and  proﬁtability;  equivocality
+moderates  the  link  between
+integration  and  performance.
+
+Product  co-development
+inﬂuences  product
+modularity  and  product
+performance,  and
+organizational  coordination
+inﬂuences  product
+modularity;  no  support  was
+found  for  the  remaining  links
+between  supply  chain
+integration  and  the  two
+performance  measures.
+Product-process  technology
+integration  and  supply  chain
+integration  are
+complementary  in  achieving
+quality,  delivery,  and  process
+ﬂexibility;  product-process
+technology  integration  and
+customer  integration  are
+complementary  in  achieving
+quality  and  new  product
+ﬂexibility.
+Each  of  the  four  integration
+types  is  likely  to  result  in
+beneﬁts  related  to
+manufacturing  competitive
+capabilities,  market
+performance,  or  customer
+satisfaction;  however,  all  but
+corporate  strategy
+integration  also  involve
+potential  costs  to  either
+market  performance  or
+product  quality.
+Environmental  uncertainty
+moderates  the  relationship
+between  internal  integration
+and  cost  and  quality
+performance,  between
+supplier  integration  and
+delivery  and  ﬂexibility
+performance,  and  between
+customer  integration  and
+ﬂexibility  performance.
+Relationship  commitment  to
+customers  inﬂuences
+customer  integration,  and
+relationship  commitment  to
+suppliers  inﬂuences  supplier
+integration;  internal
+integration  inﬂuences  both
+customer  and  supplier
+integration;  differences
+between  regions  and
+industries  were  also  detected.
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+113
+
+Appendix  B.  Questionnaire  items
+
+(1)  Customer  integration  –  extent  to  which  speciﬁc  customers  and  their  needs  are  incorporated  into  planning  and  execution  activities.
+
+Please  rate  your  level  of  agreement  with  the  following  statements  describing  customer  integration  activities.
+
+(a)  We  pursue  customer  relationships  and  involvement  that  go
+
+beyond  sales  transactions  (CI1)
+
+(b)   Our  plans  address  individual  customer’s  requirements  (CI2) 
+(c)   We  synchronize  our  activities  with  those  of  key  customers  (CI3) 
+(d)   We  have  clearly  deﬁned  roles  and  responsibilities  for  managing
+
+customer  relationships  (CI4)
+
+(e)   We  are  constantly  exploring  new  working  relationships  with
+
+customers  (CI5)
+
+Strongly  agree
+(cid:3)
+
+Agree 
+(cid:3)
+
+ 
+
+Neutral 
+(cid:3)
+
+ 
+
+Disagree 
+(cid:3)
+
+ 
+
+Strongly  disagree
+(cid:3)
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+(cid:3)
+
+(2)  Supplier  integration  – extent  to  which  planning  and  execution  incorporate  and  are  synchronized  with  suppliers’  capabilities.  Please
+rate  your  level  of  agreement  with  the  following  statements  describing  supplier  integration  activities.
+Neutral
+(cid:3)
+
+Strongly  disagree
+(cid:3)
+
+Strongly  agree
+(cid:3)
+
+(a)  We  pursue  supplier  relationships  and  involvement  that  go
+
+Disagree 
+(cid:3)
+
+Agree
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+beyond  operational  transactions  (SI1)
+
+(b)   Our  plans  address  individual  suppliers’  capabilities  (SI2) 
+(c)   We  synchronize  our  activities  with  those  of  key  suppliers  (SI3) 
+(d)   We  exchange  operational  information  with  suppliers  (SI4) 
+(e)   We  are  constantly  exploring  new  working  relationships  with
+
+suppliers  (SI5)
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+(3)  Internal  integration  –  extent  to  which  intra-ﬁrm  functional  teams  (operations,  logistics,  sales,  marketing,  supply  management)  work
+together  to  accomplish  supply  chain  planning  and  execution.  Please  rate  your  level  of  agreement  with  the  following  statements  describing
+internal  integration  activities.
+
+(a)  Functional  teams  are  aware  of  each  other’s  responsibilities  (II1) 
+(b)   Functional  teams  have  a  common  prioritization  of  customers  in
+
+case  of  supply  shortages  and  how  allocations  will  be  made  (II2)
+
+(c)   Operational  and  tactical  information  is  regularly  exchanged
+
+between  functional  teams  (II3)
+
+(d)   Purchasing  decisions  are  based  on  plans  agreed  upon  by  all
+
+functional  teams  (II4)
+
+(e)   All  functional  teams  use  common  product  roadmaps  and  other
+
+procedures  to  guide  product  launch  (II5)
+
+(f)   Performance  metrics  promote  rational  trade-offs  among
+
+customer  service  and  operational  costs  (II6)
+
+Strongly  agree 
+(cid:3)
+(cid:3)
+
+ 
+
+Agree 
+(cid:3)
+(cid:3)
+
+ 
+
+Neutral 
+(cid:3)
+(cid:3)
+
+ 
+
+Disagree 
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+Strongly  disagree
+(cid:3)
+(cid:3)
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+ 
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(4)  Performance  –  please  indicate  your  level  of  performance  relative  to  your  industry  average  for  the  following  supply  chain  operational
+
+areas.
+
+In  the  bottom  third  of
+industry  performers
+
+In  the  middle  third  of
+industry  performers
+
+In  the  top  third  of
+industry  performers
+
+Quality  performance
+(a)  Product  conformance  quality  (QP1) 
+(b)   Product  design  quality  (performance  and  features)  (QP2) 
+(c)   Product  reliability  (QP3) 
+
+Delivery  performance
+(a)  Delivery  performance  to  commit  data  (DP1) 
+(b)   Fill  rate  (DP2)
+(c)   Perfect  order  fulﬁllment  (deliveries  with  no  errors)  (DP3) 
+(d)   Order  fulﬁllment  lead  time  (DP4) 
+
+Flexibility  performance
+(a)  Production  ﬂexibility  (FP1) 
+(b)   Cash-to-cash  cycle  time  (FP2) 
+(c)   Inventory  days  of  supply  (inventory/sales)  (FP3)
+(d)   Asset  turns  (sales/working  capital)  (FP4) 
+
+Cost   performance
+(a)  Total  supply  chain  management  cost  (CP1) 
+(b)   Cost  of  goods  sold  (CP2) 
+(c)   Value-added  productivity  (sales  per  employee)  (CP3) 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+ 
+
+ 
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+
+(cid:3)
+(cid:3)
+(cid:3)
+
+
+114 
+
+References
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115
+
+Anderson,  J.C.,  Gerbing,  D.W.,  1988.  Structural  equation  modeling  in  practice:  a
+review  and  recommended  two-step  approach.  Psychological  Bulletin  103  (3),
+411–423.
+
+Armstrong,  J.C.,  Overton,  T.S.,  1977.  Estimating  nonresponse  bias  in  mail  surveys.
+
+Journal  of  Marketing  Research  14  (3),  396–402.
+
+Barney,  J.B.,  1991.  Firm  resources  and  sustained  competitive  advantage.  Journal  of
+
+Management  17  (1),  99–120.
+
+Baron,  R.M.,  Kenny,  D.A.,  1986.  The  moderator-mediator  variable  distinc-
+in  social  psychological  research:  conceptual,  strategic,  and  statisti-
+Journal  of  Personality  and  Social  Psychology  51  (6),
+
+tion 
+cal   considerations. 
+1173–1182.
+
+Bolstroff,  P.,  2002.  How  does  SCOR  measure  up?  A  user’s  perspective  on  SCOR  met-
+
+rics.   Supply  Chain  Technology  News  (March),  22–25.
+
+Boyer,  K.K.,  Hult,  G.T.M.,  2005.  Extending  the  supply  chain:  integrating  operations
+and  marketing  in  the  online  grocery  industry.  Journal  of  Operations  Manage-
+ment  23  (6),  642–661.
+
+Braunscheidel,  M.J.,  Suresh,  N.C.,  2009.  The  organizational  antecedents  of  a  ﬁrm’s
+supply  chain  agility  for  risk  mitigation  and  response.  Journal  of  Operations
+Management  27  (2),  119–140.
+
+Burns,  L.R.,  Wholey,  D.R.,  1993.  Adoption  and  abandonment  of  matrix  management
+programs:  effects  of  organizational  characteristics  and  interorganizational  net-
+works.  Academy  of  Management  Journal  36  (1),  106–138.
+
+Cao,  M.,   Zhang,  Q.,  2011.  Supply  chain  collaboration:  impact  on  collaborative
+advantage  and  ﬁrm  performance.  Journal  of  Operations  Management  29  (3),
+163–180.
+
+Chen,  H.,  Daugherty,  P.J.,  Landry,  T.D.,  2009.  Supply  chain  process  integration:  a
+
+theoretical  framework.  Journal  of  Business  Logistics  30  (2),  27–46.
+
+Clark,  K.B.,  1989.  Project  scope  and  project  performance:  the  effect  of  parts  strategy
+and  supplier  involvement  on  product  development.  Management  Science  35
+(10),  1247–1263.
+
+Cohen,  W.M.,   Levinthal,  D.A.,  1990.  Absorptive  capacity:  a  new  perspec-
+tive  on  learning  and  innovation.  Administrative  Science  Quarterly  35  (1),
+128–152.
+
+Cousins,  P.D.,  Menguc,  B.,  2006.  The  implications  of  socialization  and  integra-
+tion  in  supply  chain  management.  Journal  of  Operations  Management  24  (5),
+604–620.
+
+Das,  S.R.,  Joshi,  M.P.,  2007.  Process  innovativeness  in  technology  services  organi-
+zations:  roles  of  differentiation  strategy,  operational  autonomy  and  risk-taking
+propensity.  Journal  of  Operations  Management  25  (3),  643–660.
+
+Das,  A.,  Narasimhan,  R.,  Talluri,  S.,  2006.  Supplier  integration  –  ﬁnding  an  optimal
+
+conﬁguration.  Journal  of  Operations  Management  24  (5),  563–582.
+
+Deming,  W.E.,  1982.  Quality,  Productivity,  and  Competitive  Position.  Massachusetts
+
+Institute  of  Technology,  Center  for  Advanced  Engineering  Study,  Cambridge.
+
+Devaraj,  S.,  Krajewski,  L.,  Wei,  J.C.,  2007.  Impact  of  e-business  technologies  on  oper-
+ational  performance:  the  role  of  production  information  in  the  supply  chain.
+Journal  of  Operations  Management  25  (6),  1199–1216.
+
+Douglas,  S.P.,  Craig,  C.S.,  2005.  On  improving  the  conceptual  foundations  of  interna-
+
+tional  marketing  research.  Journal  of  International  Marketing  14  (1),  1–22.
+
+Dyer,  J.H.,  Singh,  H.,  1998.  The  relational  view:  cooperative  strategy  and  sources  of
+interorganizational  competitive  advantage.  Academy  of  Management  Review
+23   (4),  660–679.
+
+Egelhoff,  W.G.,  1991.  Information-processing  theory  and  the  multinational  enter-
+
+prise.  Journal  of  International  Business  Studies  22  (3),  341–368.
+
+Eisenhardt,  K.M.,  Tabrizi,  B.,  1995.  Accelerating  adaptive  processes:  product  innova-
+tion  in  the  global  computer  industry.  Administrative  Science  Quarterly  40  (1),
+84–110.
+
+Fisher,  M.L.,  1997.  What  is  the  right  supply  chain  for  your  product?  Harvard  Business
+
+Review  75  (2),  105–116.
+
+Flynn,  B.,  Huo,  B.,  Zhao,  X.,  2010.  The  impact  of  supply  chain  integration  on  per-
+formance:  a  contingency  and  conﬁguration  approach.  Journal  of  Operations
+Management  28  (1),  58–71.
+
+Fornell,  C.,  Larcker,  D.F.,  1981.  Evaluating  structural  equation  models  with  unob-
+servable  variables  and  measurement  error.  Journal  of  Marketing  Research  18
+(1),  39–50.
+
+Frohlich,  M.T.,  Westbrook,  R.,  2001.  Arcs  of  integration:  an  international  study
+(2),
+
+Journal  of  Operations  Management  19 
+
+of   supply  chain  strategies. 
+185–200.
+
+Galbraith,  J.R.,  1973.  Designing  Complex  Organizations.  Addison-Wesley,  Reading,
+
+MA.
+
+Gattiker,  T.F.,  Goodhue,  D.L.,  2004.  Understanding  the  local-level  costs  and  beneﬁts
+of   ERP  through  organizational  information  processing  theory.  Information  and
+Management  41  (4),  431–443.
+
+Germain,  R.,  Iyer,  K.N.S.,  2006.  The  integration  of  internal  and  downstream  integra-
+tion  and  its  association  with  performance.  Journal  of  Business  Logistics  27  (2),
+25–52.
+
+Hair   Jr.,  J.F.,  Anderson,  R.E.,  Tatham,  R.L.,  Black,  W.C.,  1996.  Multivariate  Data  Anal-
+
+ysis,  5th  ed.  Prentice  Hall,  Upper  Saddle  River,  NJ.
+
+Handﬁeld,  R.,  Petersen,  K.,  Cousins,  P.,  Lawson,  B.,  2009.  An  organizational
+entrepreneurship  model  of  supply  management  integration  and  performance
+outcomes.  International  Journal  of  Operations  and  Production  Management  29
+(2),   100–126.
+
+Hillebrand,  B.,  Biemans,  W.G.,  2003.  The  relationship  between  internal  and  external
+cooperation:  literature  review  and  propositions.  Journal  of  Business  Research
+56   (9),  735–743.
+
+Holweg,  M.,  Pil,  F.K.,  2008.  Theoretical  perspectives  on  the  coordination  of  supply
+
+chains.  Journal  of  Operations  Management  26  (3),  389–406.
+
+Hult,  G.T.M.,  Ketchen  Jr.,  D.J.,  Slater,  S.F.,  2004.  Information  processing,  knowledge
+management,  and  strategic  supply  chain  performance.  Academy  of  Management
+Journal  47  (3),  241–253.
+
+Jayaram,  J.,  Tan,  K.-C.,  Nachiappan,  S.P.,  2010.  Examining  the  interrelationships
+between  supply  chain  integration  scope  and  supply  chain  management  efforts.
+International  Journal  of  Production  Research  48  (22),  6837–6857.
+
+Kerlinger,  F.R.,  Lee,  H.,  2000.  Foundations  of  Behavioral  Research,  4th  ed.  Thomson
+
+Learning,  U.S.
+
+Koufteros,  X.A.,  Cheng,  T.C.E.,  Lai,  K.H.,  2007.  Black-box  and  grey-box  supplier
+in  product  development:  antecedents,  consequences  and  the
+integration 
+moderating  role  of  ﬁrm  size.  Journal  of  Operations  Management  25  (4),
+847–870.
+
+Koufteros,  X.,  Vonderembse,  M.,   Jayaram,  J.,  2005.  Internal  and  external  integration
+for  product  development:  the  contingency  effects  of  uncertainty,  equivocality,
+and   platform  strategy.  Decision  Sciences  36  (1),  97–133.
+
+Koufteros,  X.A.,  Rawski,  G.E.,  Rupak,  R.,  2010.  Organizational  integration  for  product
+development:  the  effects  on  glitches,  on-time  execution  of  engineering  change
+orders,  and  market  success.  Decision  Sciences  41  (1),  49–80.
+
+Lao,  A.K.W.,  Yam,  R.C.M.,  Tang,  E.P.Y.,  2010.  Supply  chain  integration  and  product
+modularity:  an  empirical  study  of  product  performance  for  selected  Hong  Kong
+manufacturing  industries.  International  Journal  of  Production  and  Operations
+Management  30  (1),  20–56.
+
+Lee,  H.L.,  Padmanabham,  V.,  Whang,  S.,  1997.  The  bullwhip  effect  in  supply  chains.
+
+Sloan  Management  Review  38  (3),  93–102.
+
+Mishra,  A.A.,  Shah,  R.,  2009.  In  union  lies  strength:  collaborative  competence  in
+new  product  development  and  its  performance  effects.  Journal  of  Operations
+Management  27  (4),  324–338.
+
+Morash,  E.A.,  Clinton,  S.R.,  1998.  Supply  chain  integration:  customer  value  through
+collaborative  closeness  versus  operational  excellence.  Journal  of  Marketing  The-
+ory   and  Practice  6  (4),  104–120.
+
+Narasimhan,  R.,  Swink,  M.,  Viswanathan,  S.,  2010.  On  decisions  for  integration  imple-
+mentation:  an  examination  of  complementarities  between  product-process
+technology  integration  and  supply  chain  integration.  Decision  Sciences  41  (2),
+355–372.
+
+O’Leary-Kelly,  S.W.,  Vokurka,  R.J.,  1998.  The  empirical  assessment  of  construct  valid-
+
+ity.  Journal  of  Operations  Management  16  (4),  387–405.
+
+Pagell,  M.,  2004.  Understanding  the  factors  that  enable  and  inhibit  the  integration
+of   operations,  purchasing  and  logistics.  Journal  of  Operations  Management  22
+(5),  459–487.
+
+Podsakoff,  P.M.,  MacKenzie,  S.B.,  Lee,  J.,  Podsakoff,  N.,  2003.  Common  methods  biases
+in  behavioral  research:  a  critical  review  of  the  literature  and  recommended
+remedies.  Journal  of  Applied  Psychology  88  (5),  879–903.
+
+Podsakoff,  P.M.,  Organ,  D.W.,  1986.  Self-reports  in  organizational  research:  problems
+
+and  prospects.  Journal  of  Management  12  (4),  531–544.
+
+Poirier,  C.C.,  Swink,  M.L.,  Quinn,  F.J.,  2008.  Sixth  annual  global  survey  of  supply  chain
+progress:  still  chasing  the  leaders.  Supply  Chain  Management  Review  12  (7),
+26–32.
+
+Ragatz,  G.L.,  Handﬁeld,  R.B.,  Peterson,  K.J.,  2002.  Beneﬁts  associated  with  supplier
+integration  into  new  product  development  under  conditions  of  technology
+uncertainty.  Journal  of  Business  Research  55  (5),  389–400.
+
+Rai,  A.,  Tang,  X.,  2010.  Leveraging  IT  capabilities  and  competitive  process  capabilities
+for   the  management  of  interorganizational  relationship  portfolios.  Information
+Systems  Research  21  (3),  516–542.
+
+Rosenzweig,  E.D.,  Roth,  A.V.,  Dean,  J.W.,  2003.  The  inﬂuence  of  an  integration  strategy
+in   competitive  capabilities  and  business  performance:  an  exploratory  study  of
+consumer  products  manufacturers.  Journal  of  Operations  Management  21  (4),
+437–456.
+
+Salvador,  F.,  Forza,  C.,  Rungtusanatham,  M.,   Choi,  T.Y.,  2001.  Supply  chain  interac-
+tions  and  time-related  performances:  an  operations  management  perspective.
+Journal  of  Operations  and  Production  Management  21  (4),
+International 
+427–445.
+
+Saraf,  N.,  Langdon,  C.S.,  Gosain,  S.,  2007.  IS  application  capabilities  and  rela-
+tional  value  in  interﬁrm  partnerships.  Information  Systems  Research  18  (3),
+320–339.
+
+Schmenner,  R.W.,  Swink,  M.L.,  1998.  On  theory  in  operations  management.  Journal
+
+of   Operations  Management  17  (1),  97–113.
+
+Sorenson,  O.,  2003. 
+
+learn-
+ing  and  the  long-term  effect  of  integration.  Management  Science  49  (4),
+446–463.
+
+Interdependence  and  adaptability:  organizational 
+
+Stank,  T.P.,  Keller,  S.B.,  Closs,  D.J.,  2001.  Performance  beneﬁts  of  supply  chain  logis-
+
+tical  integration.  Transportation  Journal  41  (2/3),  32–46.
+
+Swink,  M.,   Narasimhan,  R.,  Wang,  C.,  2007.  Managing  beyond  the  factory  walls:
+effects  of  four  types  of  strategic  integration  on  manufacturing  plant  perfor-
+mance.  Journal  of  Operations  Management  25  (1),  148–164.
+
+Thompson,  J.D.,  1967.  Organization  in  Action.  McGraw-Hill,  New  York,  NY.
+Tsang,  E.W.K.,  Kwan,  K.-M.,  1999.  Replication  and  theory  development  in  organiza-
+tional  science:  a  critical  realist  perspective.  Academy  of  Management  Review  24
+(4),   759–780.
+
+Tushman,  M.L.,  Nadler,  D.A.,  1978. 
+
+integrating
+in  organization  design.  Academy  of  Management  Review  3  (3),
+
+Information  processing  as  an 
+
+concept 
+613–624.
+
+Wall,  T.B.,  Jonathan,  M.,  Patterson,  M.,  Wood,  S.J.,  Sheehan,  M.,  Clegg,  C.W.,  West,  M.,
+2004.  On  the  validity  of  subjective  measures  of  company  performance.  Personnel
+Psychology  57  (1),  95–118.
+
+
+T.  Schoenherr,  M.  Swink  /  Journal  of  Operations  Management  30  (2012)  99–115 
+
+115
+
+Wang,   E.T.G.,  Wei,  H.,  2007.  Interorganizational  governance  value  creation:  coor-
+dinating  for  information  visibility  and  ﬂexibility  in  supply  chains.  Decision
+Sciences  38  (4),  647–674.
+
+Wernerfelt,  B.,  1984.  A  resource-based  view  of  the  ﬁrm.  Strategic  Management  Jour-
+
+nal  5  (2),  171–180.
+
+Wong,  C.Y.,  Boon-itt,  S.,  Wong,  C.W.Y.,  2011.  The  contingency  effects  of  envi-
+ronmental  uncertainty  on  the  relationship  between  supply  chain  integration
+
+and  operational  performance.  Journal  of  Operations  Management  29  (6),
+604–615.
+
+Zhao,  X.,  Huo,  B.,  Selen,  W.,   Yeung,  J.,  2011.  The  impact  of  internal  integration  and
+relationship  commitment  on  external  integration.  Journal  of  Operations  Man-
+agement  29  (1-2),  17–32.
+

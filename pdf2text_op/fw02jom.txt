@@ -1,0 +1,2366 @@
+Journal of Operations Management 20 (2002) 729–745
+
+Demand chain management in manufacturing and services:
+
+web-based integration, drivers and performance
+
+Markham T. Frohlich a,∗
+
+, Roy Westbrook b
+a London Business School, Regent’s Park, London NW1 4SA, UK
+b Sa¨ıd Business School, University of Oxford, Oxford OX2 6LE, UK
+
+Abstract
+
+This paper investigated the relationship between Internet-enabled supply chain integration strategies and performance in
+manufacturing and services. It summarizes the literature on demand and supply integration and describes four web-based
+strategies. A stratiﬁed random sample was collected from UK manufacturers and services, and there was strong evidence
+that demand chain management (DCM) led to the highest performance in manufacturing, but few signs of DCM in services.
+Manufacturers and services relying on only web-based demand or supply integration outperformed their low integration
+counterparts, but lagged DCM in manufacturing. The study also investigated DCM adoption drivers and found that rational
+efﬁciency and bandwagon effects drove change. The ﬁndings have some important implications for theory as well as for
+manufacturing and service companies interested in improving their performance.
+© 2002 Elsevier Science B.V. All rights reserved.
+
+Keywords: Demand chain management; Supply chain strategy; Empirical research
+
+1. Introduction
+
+The most admired (and feared) competitors today
+are companies that link their customers and suppliers
+together into tightly integrated networks using what
+is now commonly called demand chain management
+(DCM). DCM is deﬁned as practice that manages
+and coordinates the supply chain from end-customers
+backwards to suppliers (Vollmann et al., 2000).
+Speciﬁcally, end-customers trigger actions up the sup-
+ply chain and products and services are pulled (not
+pushed) from one link to the next based upon demand
+(Lummus and Vokurka, 1999).
+
+Corresponding author: Tel.: +44-207-262-5050;
+
+∗
+fax: +44-207-724-7875.
+Frohlich),
+E-mail
+roy.westbrook@said-business-school.oxford.ac.uk (R. Westbrook).
+
+addresses: mfrohlich@london.edu
+
+(M.T.
+
+Although we have know about the theoretical bene-
+ﬁts of DCM for many years, making it work in practice
+was typically impossible before the Internet. DCM re-
+quires extensive up- and downstream integration be-
+tween all business partners in order to succeed and
+these types of connections have only recently become
+possible due to the web. Notably, in pre-Internet days
+there were no great solutions to the tradeoffs between
+low cost, rich content, real-time data and broad de-
+ployment across supply chains using traditional meth-
+ods, such as EDI and Kanban.
+
+In contrast, the Internet effectively resolved these
+tradeoffs and allowed the types of integration neces-
+sary between every partner in the supply chain. Where
+real-time demand information and inventory visibility
+were once impossible, web-based technologies are
+now increasing indispensable for supply chain fore-
+casting, planning, scheduling and execution. Real-time
+information travels immediately backwards though
+
+0272-6963/02/$ – see front matter © 2002 Elsevier Science B.V. All rights reserved.
+PII: S 0 2 7 2 - 6 9 6 3 ( 0 2 ) 0 0 0 3 7 - 2
+
+
+730
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+these web-based, demand-driven supply chains while
+inventory ﬂows swiftly forwards. Most importantly,
+goods and services are delivered quickly and reliably
+when and where they are needed. The more integrated
+the ﬂow of data between customers and suppliers, the
+easier it also becomes to balance supply and demand
+across the entire network. Together, greater online
+coordination with associated reduced lead times helps
+defeat the bullwhip effect and contributes to higher
+performance (Lee et al., 1997a).
+
+Given that DCM is potentially a powerful strate-
+gic weapon, there are still many unanswered questions
+about its use in practice. Notably, we know little about
+what differentiates manufacturers and services regard-
+ing demand-driven supply chains and our knowledge
+is especially weak concerning modern Internet-based
+integration in all sectors (Bowersox et al., 2000). Com-
+petitive advantage comes from seamlessly coordinat-
+ing operations across demand-driven chains, but which
+web-based integration strategies lead to the highest
+performance?
+
+Our investigation was especially motivated by the
+possibility that manufacturing and services are sufﬁ-
+ciently different enough that it affects the need for
+DCM. This study, therefore, contributes to the ﬁeld
+by simultaneously analyzing the relationships between
+demand and supply integration and performance in
+
+Table 1
+Summary of literature review: supply and demand integration
+
+Types of integration/issue
+
+Studies
+
+both a manufacturing and service context. The paper
+also extends our knowledge about the implementa-
+tion of supply chain improvements and adds evidence
+to this emerging stream of literature on the adoption
+drivers behind the use of demand-driven chains.
+
+2. Demand and supply integration, conceptual
+framework and hypotheses
+
+2.1. Demand integration
+
+Integration is “to make into a whole” (Oxford
+English dictionary) and substantial previous research
+highlights many opportunities separately associated
+with either demand or supply integration (Table 1). In
+terms of the demand-side of companies, major chal-
+lenges are improving demand visibility and planning
+in supply chains (Fisher et al., 1994). “Distorted infor-
+mation from one end of the supply chain to the other
+can lead to tremendous inefﬁciencies: excess inven-
+tory investment, poor customer service, lost revenues,
+misguided capacity plans, ineffective transportation
+and missed production schedules” (Lee et al., 1997b,
+p. 93). One trend is integrating up- and downstream
+information to coordinate non-vertically integrated
+ﬁrms (Mabert and Venkataramanan, 1998). Since
+planning instability is magniﬁed up supply chains,
+
+Demand integration
+Efﬁcient delivery
+
+Delivery/logistics communication
+Speed of delivery/ route
+Inventory stocking points
+Demand planning
+
+Supply integration
+
+Supplier reliability
+
+Multiple sourcing
+Responsive/ﬂexible supply base
+Inbound logistics communication
+Supplier planning
+
+Cachon (1999), Cachon and Fisher (1997), Clark and Hammond
+(1997), Daugherty et al. (1999), Johnson and Scudder (1999),
+Kopczak (1997), Waller et al. (1999)
+Corbett et al. (1999), Kopczak (1997), Waller et al. (1999)
+Clark and Hammond (1997), Kopczak (1997)
+Kopczak (1997)
+Fisher et al. (1994), Gavirneni et al. (1999), Gilbert and Ballou
+(1999), Hariharan and Zipkin (1995), Lummus and Vokurka
+(1999), Magretta (1998)
+
+Carr and Pearson (1999), Chapman (1989), Choi and Hartley (1996), Fawcett and Birou
+(1993), Freeland (1991), Grout (1998), Hill and Vollman (1986), Krause (1999), Krause et al.
+(1998), Narasimhan and Jayaram (1998)
+Bozarth et al. (1998)
+Krause (1999), Narasimhan and Das (1999)
+Grout (1998)
+Fisher et al. (1994), Magretta (1998)
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+731
+
+controlling this ampliﬁcation is vital for good demand
+management (Bhaskaran, 1998). Successful demand
+integration, therefore, typically relies on information
+technologies including the Internet (Bowersox et al.,
+2000) and involves shared data between planning
+and control systems (Bowersox and Daugherty, 1995;
+Narasimhan and Carter, 1998).
+
+Other important issues regarding demand integra-
+tion include the need for efﬁcient and rapid deliv-
+ery (Cachon and Fisher, 1997; Clark and Hammond,
+1997), as well as improved logistics communication
+(Corbett et al., 1999). At the core of demand-driven
+supply chains, therefore, are the basics of forecast in-
+tegration, inventory reductions and the elimination of
+non-valued added activities (Claycomb et al., 1999).
+
+2.2. Supply integration
+
+Other studies have investigated the supply-side in-
+tegration of companies (Table 1). Krause et al. (1998)
+pointed out that many companies seek supplier im-
+provements in delivery and cost. As Handﬁeld (1993,
+p. 290) noted, supply integration typically means
+“obtaining frequent deliveries in small lots, using sin-
+gle or dual sources of supply, evaluating alternative
+sources on the basis of quality and delivery instead of
+price, establishing long term contracts with suppliers,
+reducing buffer inventories and eliminating formal
+paperwork.” Integrated supply not only reduces costs
+but also improves lead times (Ansari and Modarress,
+
+1990). Other beneﬁts from supply integration include
+improved supplier reliability (Carr and Pearson, 1999)
+and communication (Freeland, 1991). Studies have,
+therefore, consistently linked supplier integration to
+greater performance (Chapman and Carter, 1990;
+Akinc, 1993; Lawrence and Hottenstein, 1995;
+Agrawal and Nahmias, 1997; Tan et al., 1998).
+
+2.3. Four web-based demand and supply
+integration strategies and hypotheses
+
+While it has always been theoretically possible to
+broadly integrate with customers and suppliers, it is
+only recently through a combination of theory and the
+Internet that it has become practical (Bowersox et al.,
+2000). Pre-Internet, real-time demand information
+and inventory visibility were typically impossible to
+achieve and most supply and demand “integration”
+involved a patchwork of telephoning, faxing and
+EDI. This has changed in the Internet era and widely
+available web-based technologies now permit strong
+customer and supplier integration for inventory plan-
+ning, demand forecasting, order scheduling, targeted
+marketing and customer relationship management.
+New Internet technologies, overlaid on the traditional
+demand and supply integration practices discussed
+above, present four strategic options shown in Fig. 1.
+At one extreme is a strategy of little or no web-based
+integration (model A). At the other end of the con-
+tinuum is a strategy with high levels of web-based
+
+Fig. 1. Four web-based supply chain integration strategies.
+
+
+732
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+integration coordinating the whole demand chain from
+customers backwards to suppliers popularly called
+DCM (model D). In between these polar extremes
+are companies whose strategies involve web-based
+integration with either their suppliers (model B) or
+customers (model C).
+
+The DCM strategy (model D) should deliver the
+highest levels of performance. The higher the level of
+traditional integration with suppliers and customers
+the greater the beneﬁts (Frohlich and Westbrook,
+2001) and the Internet should only reinforce this rela-
+tionship. Given the partial nature of their web-based
+integration, the performance for the supply integra-
+tion (model B) and the demand integration (model
+C) strategies should logically fall between the low
+integration (model A) and DCM (model D) ap-
+proaches. While integrating with the supply-side gives
+higher performance than for low integration compa-
+nies (Germain and Droge, 1998; Tan et al., 1998)
+and demand-side coordination also improves results
+(Daugherty et al., 1999; Waller et al., 1999), partially
+deploying web-based technologies on one-side of a
+company should still only deliver limited beneﬁts. Fi-
+nally, as with the ﬁndings for traditional supply chain
+management (Narasimhan and Jayaram, 1998), a low
+integration strategy (model A) in the Internet era
+should deliver the fewest beneﬁts. These arguments
+lead to the ﬁrst set of hypotheses.
+
+H1a. Manufacturers and services adopting a web-
+based DCM integration strategy (model D) will have
+the highest levels of operational performance.
+
+H1b. Manufacturers and services adopting either a
+web-based supply (model B) or demand (model C)
+integration strategy will have medium levels of oper-
+ational performance.
+
+H1c. Manufacturers and services adopting a low
+web-based integration strategy (model A) will have
+the lowest levels of operational performance.
+
+2.4. Three drivers of web-based demand and
+supply integration and hypotheses
+
+While the adoption of new managerial techniques
+like Internet-based DCM seems faddish,
+there is
+strong theoretical evidence that companies actually
+
+adopt practices for both rational efﬁciency and band-
+wagon reasons (Abrahamson and Rosenkopf, 1993).
+Rational efﬁciency theory holds that if more orga-
+nizations adopt a technique, then greater knowledge
+about the innovation’s efﬁciency and beneﬁts are cre-
+ated (Abrahamson, 1996). When this knowledge is
+shared between companies, eventually more and more
+non-adopters will rationally adopt the concept be-
+cause of the innovation’s inherent efﬁciency (Rogers,
+1983; Mansﬁeld, 1985).
+
+The literature correspondingly suggests two ra-
+tional efﬁciency explanations for DCM’s adoption.
+The ﬁrst driver is greater access to new markets.
+DCM is perceived in many industries as one of the
+most powerful tools presently available for creating
+real competitive advantage (Vollmann et al., 2000).
+By providing customers with unrivaled beneﬁts,
+demand-driven supply chains not only allow compa-
+nies to better satisfy existing clients but also to win
+over the most proﬁtable customers in new markets.
+Widely-cited examples of using DCM to gain market
+share and dominate the competition include Zara’s
+case in the fashion industry (Walker et al., 2000) and
+Dell’s model in computers (Magretta, 1998). Com-
+panies, therefore, rationally adopt DCM in a quest to
+serve new markets and win customers.
+
+The second rational efﬁciency argument for adopt-
+ing DCM is the anticipated internal performance
+improvement.
+In theory, better coordination re-
+duces uncertainty throughout networks (Davis, 1993;
+Lee et al., 1997a) and lets inventory and ﬁnished
+goods move more efﬁciently. This better coordina-
+tion translates into reduced variability and eliminates
+non-value-adding activities, which in turn leads to
+greater operational performance (Metters, 1997; Lee
+and Tang, 1998; Grout, 1998). Famous examples of
+such improvements include Hewlett-Packard’s dra-
+matic decrease in printer inventory carrying costs due
+to DCM and postponement (Billington, 1994) as well
+as National Semiconductor’s large reductions in deliv-
+ery times and distribution costs (Henfoff, 1994). Based
+upon these (and other) early adopter success stories,
+subsequent companies may have rationally adopted
+DCM to improve their own internal performance.
+
+The other main driver of new practice adoption
+is the so-called “bandwagon” effect. Bandwagons
+are diffusion processes whereby organizations adopt
+innovations, not because of any rational efﬁciency
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+733
+
+Fig. 2. Conceptual framework and study hypotheses.
+
+assessment of the practice, but because of external
+pressure caused by the large number of organizations
+that have already adopted (or are considering adopt-
+ing) the concept (Tolbert and Zucker, 1983). In some
+cases, even after companies have assessed new meth-
+ods as highly inefﬁcient and likely to cause losses,
+they are still adopted because of bandwagon pressures
+(Abrahamson and Rosenkopf, 1993). The pursuit of
+legitimacy (Scott, 1995) leads to a technique’s adop-
+tion because management is more afraid of being
+perceived by customers, suppliers, investors and com-
+petitors as industry laggards than any legitimate fears
+about misapplying the practice. When innovations are
+new or poorly understood, following the lead of other
+organizations (whether right or wrong) is often the
+simplest way forward (March and Olsen, 1976). Exter-
+nal pressures can thus drive the adoption of web-based
+methods like DCM, regardless of their inherent ben-
+eﬁts. Rational efﬁciency and bandwagon theory to-
+gether support this study’s second set of hypotheses
+and the overall conceptual framework shown in Fig. 2.
+
+H2a. Access to new markets drives the adoption of
+web-based demand chain integration.
+
+H2b. Anticipated beneﬁts drives the adoption of
+web-based demand chain integration.
+
+H2c. External pressure drives
+the
+web-based demand chain integration.
+
+adoption of
+
+3. Methods
+
+3.1. Data collection
+
+The survey was developed in three stages. In the ﬁrst
+stage, we identiﬁed relevant measures of web-based
+
+demand and supply integration, drivers and perfor-
+mance in the literature and drafted the instrument. We
+held a series of meetings with managers in the sec-
+ond stage to gauge the content and face validity of the
+instrument. In the ﬁnal stage, we pre-tested the sur-
+vey with 30 manufacturers and service ﬁrms to further
+gauge its content validity and overall readability.
+
+Data were collected from a stratiﬁed random sample
+of manufacturing and service companies from across
+UK. The research design proportionally represented
+large and small companies, and we sampled from all
+13 regions of the UK including Scotland and Wales. In
+terms of external validity, the UK is the world’s fourth
+largest economy (behind the US, Japan and Germany)
+and the nation’s e-business adoption rate generalizes
+well to North America and continental Europe. By
+sampling an entire country, the research design also
+controlled for many confounding factors like telecom-
+munication infrastructure, technology costs, govern-
+ment programs and the overall economy.
+
+Typical respondents were VPs of Operations or
+General Managers and therefore, the data were col-
+lected from managers with enough seniority to know
+about their companies’ up and downstream integra-
+tion, DCM drivers and performance. The data col-
+lection was completed in early 2001 and followed
+Dillman’s (1978) total design method. The industry
+breakdown of the sample is shown in Table 2. In to-
+tal, 890 usable surveys were returned and the survey
+response rate was 20%.
+
+3.1.1. Differences between manufacturing
+and services
+
+According to Standard Industry Classiﬁcation
+(SIC) deﬁnitions, manufacturing establishments (SIC
+Division D) are engaged in the mechanical or chem-
+ical transformation of materials or substances into
+
+
+734
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+Table 2
+Sample breakdown for manufacturers and services by sectora
+
+Manufacturers
+
+Sector
+
+Aerospace
+Automotive
+Chemicals
+Computers/hi-tech
+Consumer appliances
+Food/beverages
+Furniture/household
+Industrial products
+Medical products
+Other Manufacturing
+Mixed industries
+
+Count
+
+Percent
+
+14
+24
+14
+16
+12
+26
+4
+22
+6
+27
+22
+
+7.5
+12.8
+7.5
+8.6
+6.4
+13.9
+2.1
+11.8
+3.2
+14.4
+11.8
+
+Total
+
+187
+
+100.0
+
+a Based on the company’s primary product/service lines.
+b Accounting, consulting, engineering, legal, etc.
+
+new products while service establishments (SIC Di-
+visions E–I) are engaged in providing a wide variety
+of services for individuals, business and government
+establishments, and other organizations. Perhaps most
+importantly, the literature has long noted important
+differences between manufacturing and services ﬁrms
+(McColgan, 1997). Notably, service operations have
+unique characteristics that are rarely found in man-
+ufacturing including customer participation,
+intan-
+gibility, inseparability of production and consump-
+tion, heterogeneity, perishability and labor intensity
+(Nie and Kellogg, 1999). The direct participation of
+customers in the service process adds complexity that
+is generally not found in manufacturing (Chase and
+Tansik, 1983). Moreover, direct customer participation
+means that service ﬁrms tend to have many more phys-
+ical sites than manufacturers along with the unique
+challenges presented by wide geographic dispersion.
+Intangibility is often cited as another fundamental
+difference between goods and services since a ser-
+vice cannot be seen, touched or tasted in the same
+manner as a manufactured product (Fitzsimmons and
+Fitzsimmons, 1997). Services also tend to have higher
+heterogeneity and thus can be either deliberately or
+accidentally customized between different service
+providers and customers in comparison to the greater
+process standardization of a typical manufacturer’s
+production. Services are likewise more perishable
+
+Services
+
+Sector
+
+Banking/insurance
+Entertainment/tourism
+Groceries/food
+Hospitality/travel
+Healthcare services
+Professional servicesb
+Retail/merchandising
+Telecommunications
+Transport/distribution
+Utilities
+Other services
+Mixed industries
+
+Count
+
+Percent
+
+70
+16
+12
+6
+12
+112
+6
+4
+26
+4
+24
+6
+
+298
+
+23.5
+5.4
+4.0
+2.0
+4.0
+37.6
+2.0
+1.3
+8.7
+1.3
+8.1
+2.0
+
+100.0
+
+than physical products given that unused capacity
+is lost forever. This perishability leads to difﬁculties
+in managing demand, utilizing capacity, planning
+services and scheduling labor. Finally, services are
+typically more labor intensive in comparison to man-
+ufacturing (Heskett, 1986) and hence manufacturers
+can often realize more productivity gains through
+technological innovations (Quinn and Gagnon, 1986).
+
+3.1.2. Data classiﬁcation procedure and response
+accuracy tests
+
+In order to best isolate the differences between
+manufacturing and services, this study focused on
+the predominately manufacturing only (n = 187) and
+predominately services only (n = 298) sub-samples
+of the 890 total responses collected. The other 405
+cases, involving both mixed manufacturing/services
+and unclassiﬁable companies, were not used for
+this analysis. This three-group classiﬁcation follows
+Nie and Kellogg’s (1999) logic when they investigated
+service research and teaching in OM and categorized
+167 members of ‘Decision Sciences’ and ‘INFORMS’
+into manufacturing, service or mixed types.
+
+We sorted the data into the correct groups based
+upon a multi-step process. First, the research team
+classiﬁed each case into either: (1) predominately
+manufacturing; (2) predominately services; or (3)
+mixed manufacturing/services
+and unclassiﬁable
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+735
+
+companies based upon an objective database called
+‘ﬁnancial analysis made easy’ (FAME) that holds 10
+years data on 2.7 million UK companies including
+their industry, company type, SIC codes and trade de-
+scriptions. Where necessary, we also triangulated with
+other databases, such as LEXIS-NEXIS and PRO-
+QUEST and at times even logged onto companies’
+websites in order to determine which classiﬁcation
+that they belonged in.
+
+Second, we set up an acceptance sampling plan
+for directly telephoning a random subset of all the
+respondents in order to ensure that we had cor-
+rectly classiﬁed them into one of the three groups.
+We followed a conservative sampling plan with
+AQL = 0.01, LTPD = 0.05, type-I error (α) = 0.05,
+and type-II error (β) = 0.10. This plan required
+us to telephone 137 (n) respondents with a criti-
+cal value (c) of three and ask them to self-classify
+their own organizations. All but one company was
+correctly classiﬁed, which suggested that we had suc-
+cessfully isolated the predominately manufacturing
+and predominately service companies in our sub-
+samples.
+
+As an additional test, we had embedded in the sur-
+vey several randomly spaced questions related to the
+design of products and new product development that
+only applied to companies which manufactured prod-
+ucts. As expected, based upon ANOVA and the Scheffé
+method, there was an overwhelmingly signiﬁcant dif-
+ference (P < 0.001) in the mean emphasis on design-
+ing products and new product development between
+the predominately manufacturing and services groups.
+This further supported our data classiﬁcation.
+
+Three months after the original sample was col-
+lected, 150 of
+the responding companies were
+re-contacted and asked to complete a second survey
+with a different respondent to help test response ac-
+curacy. Thirty-seven companies participated,
+there
+were no differences (P < 0.05) on selected measures
+and the inter-rater reliability was satisfactory per
+Boyer and Verma’s (2000) guidelines. Similar to the
+above acceptance sampling, we again checked in this
+second survey to ensure that the companies were
+correctly classiﬁed as predominately manufacturing
+versus predominately services. All of the 37 responses
+were correctly classiﬁed.
+
+We also compared a matched random sample of 60
+responding and non-responding companies to assess
+
+non-response bias and found no differences (P <
+0.05) in terms of size, age, location or industry. Since
+a single respondent rated integration, drivers and per-
+formance, this may have led to common-method bias
+that we checked for using Harmon’s one-factor test
+(Podsakoff and Organ, 1986). Six factors with eigen-
+values greater than one were extracted from all the
+measures in this study and in total accounted for 67%
+of the variance. The ﬁrst factor accounted for 23%
+of the variance. Since a single factor did not emerge
+and one-factor did not account for most of the vari-
+ance, this suggested that the results were not due to
+common-method bias.
+
+3.2. Scale development
+
+Respondents were asked to rate on multi-item scales
+(Appendix A) their degree of web-based integration
+with suppliers and customers, DCM drivers and per-
+formance. These scales were grounded in the literature
+(O’Leary-Kelly and Vokurka, 1998) and conﬁrmatory
+factor analysis was used to ensure reliability (Kim and
+Mueller, 1978). All scales were unidimensional us-
+ing principal components as shown in the Appendix
+A. The scales were summed averages of the measure-
+ment items and reliability (Table 3) was acceptable
+(Nunnally, 1968). Table 3 also shows the measures’
+Pearson correlations.
+
+The reliability and validity of each scale and objec-
+tive measure were further analyzed following Flynn
+et al.’s (1995) example. Construct validity was es-
+tablished by testing whether the items in a scale all
+loaded on a common factor when within-scale fac-
+tor analysis was run. Appendix A shows that the
+eigenvalues all exceeded the threshold of 1.0, which
+supports each scale’s dimensionality. Divergent or
+discriminant validity was tested three ways. Bivari-
+ate correlations were checked between each of the
+scale’s measures and other potentially confounding
+variables included in the instrument such as location,
+company age, lack of previous demonstrated beneﬁts
+and adequate external advice (Table 4). There were
+no signiﬁcant correlations (P < 0.05), which helped
+establish that the scales were not measuring other
+unintended constructs. Second, we compared the av-
+erage inter-scale correlations in Table 4 to the α’s
+in Table 3. Acceptable divergent validity is shown
+when the α’s are greater than the average inter-scale
+
+
+736
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+Table 3
+Model measurement and correlation matrixa
+
+Scale
+
+Measureb
+
+1. Demand integration
+2. Supply integration
+3. External pressure
+4. Anticipated beneﬁts
+5. New markets
+6. Performance
+
+Scale
+Scale
+Scale
+Scale
+Scale
+Scale
+
+#1
+
+0.78
+0.62
+0.34
+0.55
+0.52
+0.44
+
+#2
+
+0.91
+0.32
+0.38
+0.46
+0.45
+
+#3
+
+#4
+
+#5
+
+#6
+
+0.65
+0.50
+0.50
+0.34
+
+0.85
+0.49
+0.39
+
+0.76
+0.39
+
+0.83
+
+a Cronbach’s α’s are in italics on the diagonal. All correlations signiﬁcant at P < 0.05.
+b See Appendix A for scale measures.
+
+correlations. Finally, the average correlations between
+scale and non-scale items were lower than between
+scale and scale items that helped support discriminant
+validity.
+
+Cluster analysis was used to conﬁrm the four
+web-based integration strategies predicted in Fig. 1.
+Methodologists advocate using a two-stage cluster
+procedure whereby a hierarchical algorithm deter-
+mines the number of clusters and starting means, and
+then a non-hierarchical method is run for ﬁnal clus-
+tering (Punj and Stewart, 1983; Ketchen and Shook,
+1996). This combined approach was used with SPSS’s
+hierarchical Ward’s method (squared Euclidean dis-
+tance) and K-means (quick cluster) non-hierarchical
+algorithm. The most appropriate number of clusters
+were determined using multiple methods (Ketchen
+and Shook, 1996). First, the dendogram for the clus-
+ter analysis was inspected to conﬁrm the number
+
+of major groups (Aldenderfer and Blashﬁeld, 1984).
+Second, the incremental changes in the agglomeration
+coefﬁcient were checked for relatively large increases
+that implied dissimilar clusters were merged (Ketchen
+and Shook, 1996). Third, a split-half analysis was
+conducted to assess the reliability of the four-cluster
+model. We selected a six-cluster solution as the
+starting point for the split-half analysis and tested
+six-, ﬁve-, four-, three- and two-cluster models. The
+four-cluster solutions in each of the two split-halves
+shared the most uniform similarities. Finally, the de-
+cision to employ a four-cluster solution was based
+on interpretability. Moving from ﬁve- to four-cluster
+solution combined similar clusters, whereas moving
+from four- to three-cluster solution forced together
+dissimilar clusters.
+
+Table 5 shows the results for the service and man-
+ufacturing companies. As expected, the manufactur-
+
+Table 4
+Measurement analysis: model and performance measures
+
+Measure
+
+Average inter-
+scale correlate
+
+1. Demand integration
+2. Supply integration
+3. External pressure
+4. Anticipated beneﬁts
+5. New markets
+6. Performance
+
+0.43
+0.45
+0.47
+0.44
+0.43
+0.47
+
+Correlationsa between measures and other
+implementation-related variables
+Company
+locationb
+0.06
+0.07
+0.07
+0.01
+0.11
+0.04
+
+Company
+agec
+0.05
+0.05
+0.11
+0.02
+0.07
+0.08
+
+Lack of
+proofd
+−0.09
+−0.07
+0.02
+0.00
+0.02
+0.05
+
+Average item total
+correlation
+Non-scale
+items
+0.35
+0.34
+0.38
+0.35
+0.36
+0.33
+
+Scale
+items
+0.60
+0.79
+0.46
+0.69
+0.57
+0.50
+
+External
+advicee
+−0.07
+−0.03
+0.06
+−0.04
+0.06
+0.04
+
+a No correlations signiﬁcant at P < 0.05.
+b Company location in UK (0: north; 1: south).
+c Company age: actual age in years.
+d To what extent was lack of previous demonstrated beneﬁts a major barrier to this implementation? (1: insigniﬁcant; 5: highly signiﬁcant).
+e To what extent was inadequate external advice a major barrier to this implementation? (1: insigniﬁcant; 5: highly signiﬁcant).
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+737
+
+Table 5
+Total sample for manufacturing and service companies
+
+Integration strategy
+
+Manufacturers
+
+Services
+
+Count
+
+Percent
+
+Count
+
+Percent
+
+Manufacturers + services combined
+Count
+
+Percent
+
+Model A (low integration)
+Model B (supply integration)
+Model C (demand integration)
+Model D (demand chain integration)
+
+Valid cases
+
+73
+36
+52
+18
+179b
+
+41.0
+20.0
+29.0
+10.0
+
+100.0
+
+225
+0
+66
+1a
+292c
+
+77.0
+0.0
+23.0
+0.0
+
+100.0
+
+298
+36
+118
+19
+471d
+
+63.0
+8.0
+25.0
+4.0
+
+100.0
+
+a A large transportation and distribution company.
+b Eight excluded missing values reduced the valid manufacturing sample of 187 cases to 179.
+c Six excluded missing values reduced the valid services sample of 298 cases to 292.
+d Fourteen excluded missing values reduced the total valid sample of 485 cases to 471.
+
+ing sample contained all four integration strategies.
+Surprisingly, the service sub-sample contained only
+one DCM (model D) company and no supply integra-
+tion (model B) organizations. Although conﬁdentiality
+prevents us from naming the one DCM service com-
+pany, it is a large and well-known transportation and
+distribution company.
+
+We ran discriminant analysis to ensure that the four
+integration strategies were correctly classiﬁed follow-
+ing Miller and Roth’s (1994) example. The demand
+and supply measures were entered as independent vari-
+ables with cluster membership (models A to D) as the
+dependent. Table 6 shows that 92.78% of the cluster
+groups were correctly classiﬁed indicating extremely
+good differentiation and well above the 25% correct
+classiﬁcation expected by chance.
+
+4. Results
+
+4.1. Supply and demand integration strategies and
+performance in manufacturing and services
+
+We tested the ﬁrst set of hypotheses, concerning the
+relationships between web-based integration strategies
+and performance in manufacturing and services, us-
+ing ANOVA and the Scheffé method. Table 7 shows
+signiﬁcant (P < 0.01) differences between the four
+strategies.
+
+There was good support for H1a that manufac-
+turers adopting the DCM strategy (model D) have
+the highest
+levels of performance. Though few
+in absolute number, as seen in Table 7 the DCM
+manufacturing companies consistently matched or
+
+exceeded the other three groups’ performance. H1a
+for services, however, was rejected. While the per-
+formance of the lone DCM service company was
+higher than the other three strategies the sample size
+was not large enough to draw a meaningful statistical
+conclusion.
+
+There was also good support for H1b that manu-
+facturers adopting either web-based supply (model
+B) or demand (model C) integration strategies would
+have medium levels of performance. As shown in
+Table 7, while the web-based supply and demand in-
+tegration strategies statistically equaled or exceeded
+the low integration group (model A),
+the DCM
+manufacturing companies outperformed them. There
+was only mixed support for H1b among the service
+companies. No web-based supply integration ser-
+vice companies were discovered in our sample, but
+the demand-integrated (model C) services signiﬁ-
+cantly (P < 0.01) outperformed the low integration
+group.
+
+Hypothesis H1c, that manufacturers and services
+adopting the low integration strategy will have the low-
+est levels of performance, was strongly supported. As
+seen in Table 7, the low integration strategy in both
+manufacturing and services had signiﬁcantly worse
+performance in comparison to the supply, demand and
+DCM integration groups.
+
+As a further evaluation of H1a, H1b and H1c, the
+manufacturing and service sub-sets were merged to-
+gether and general factorial ANOVA was run to test
+the effect of web-based integration (models A–D) on
+mean performance. As shown in Table 8, the overall
+model was signiﬁcant (P < 0.01) and the higher the
+
+
+738
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+Table 6
+Results of discriminant analysis for cluster membership
+
+Cluster
+
+Number of casesa
+
+Predicted group membership
+
+Model A (low integration)
+Model B (supply integration)
+Model C (demand integration)
+Model D (demand chain integration)
+
+298
+36
+118
+19
+
+1
+
+285 (95.6)
+0 (0.0)
+8 (6.8)
+0 (0.0)
+
+2
+
+5 (0.0)
+36 (100.0)
+12 (10.2)
+1 (5.3)
+
+3
+
+11 (3.7)
+0 (0.0)
+98 (83.1)
+0 (0.0)
+
+4
+
+2 (0.7)
+0 (0.0)
+0 (0.0)
+18 (94.7)
+
+Percent of “grouped” cases correctly classiﬁed: 92.78%. The values given in parenthesis are in percentage.
+
+a Four hundred and seventy-one valid cases; 14 cases were excluded that had at least one missing discriminating variable.
+
+Table 7
+ANOVA for performance by integration strategy and company type
+
+Integration strategy
+
+Meana
+
+Model A (low integration)
+Model B (supply integration)
+Model C (demand integration)
+Model D (demand chain integration)
+
+1.81 (2, 3, 4)
+2.93 (1, 4)
+2.57 (1, 4)
+3.75 (1, 2, 3)
+
+1.47 (3)
+–
+2.19 (1)
+3.00d
+
+Manufacturing companiesb
+
+Service companiesc
+
+Numbers in parentheses shows which other integration strategy type the cluster’s means performance is signiﬁcantly different from. Bold
+print highlights the highest mean score for manufacturing and service performance.
+
+a Range 1–5 (see performance scale in the Appendix A).
+b F ratio = 36.34; probability of F ratio = 0.00.
+c F ratio = 28.72; probability of F ratio = 0.00.
+d Sample size too small for ANOVA (n = 1) (see Table 5).
+
+level of integration (overall and towards the customer)
+the greater the performance (P < 0.01). Interestingly,
+the signiﬁcant t-test (P < 0.01) for the co-variate sug-
+gests that the effect of DCM integration is greater in
+manufacturing than in services.
+
+4.2. Drivers of supply and demand
+integration strategies
+
+The second set of hypotheses, concerning the
+drivers of web-based supply and demand integration,
+
+Table 8
+General factorial ANOVA: dependent performance by independent integration strategy with manufacturing and services co-variate
+
+SS
+
+MS
+
+F
+
+Signiﬁcance of F
+
+216.55
+10.44
+90.56
+161.00
+377.55
+
+0.50
+10.44
+30.19
+40.25
+0.86
+
+21.06
+60.91
+81.22
+
+0.00
+0.00
+0.00
+
+B
+
+−0.36180
+
+β
+
+−0.19045
+
+Standard error
+
+0.079
+
+t-Value
+−4.589
+
+Signiﬁcance of t
+
+0.00
+
+Source of variation
+Within + residual
+Regression
+Integration Strategy (models A–D)a
+Overall model
+Total
+
+Co-variate
+
+Manufacturing or servicesb
+R2 = 0.426; adjusted R2 = 0.421.
+
+chain integration coded 4.
+
+b Codes: 0, manufacturing; 1, services.
+
+a Model A: low integration coded 1; model B: supply integration coded 2; model C: demand integration coded 3; model D: demand
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+739
+
+was tested using logistic regression. Logistic regres-
+sion estimates the coefﬁcients of a probabilistic model
+of independent variables that best predict the value
+of a dichotomous dependent variable. This procedure
+was used because the dependent variable is dichoto-
+mous (adoption/non-adoption of a web-based inte-
+gration strategy) which violates a basic assumption
+of multiple regression. Three separate logistic regres-
+sion analyses were done using the combined data
+(n = 471) for manufacturing and services in Table 5.
+For example, to test for the drivers of web-based
+supply integration (model C) the 36 adopters were
+ﬁrst coded “1” and the 435 non-adopters “0”. This
+dichotomous dependent variable was then tested with
+the three predicted independent drivers of web-based
+integration (anticipated beneﬁts, new markets and
+external pressure). The logistic regression runs for
+web-based demand (model C) and DCM integration
+(model D) were similarly coded 1/0 for adopters and
+non-adopters.
+
+Table 9 shows the results. The non-signiﬁcant χ 2
+goodness-of-ﬁt statistics for the three analyses (0.796
+for supply, 0.322 for demand and 0.889 for DCM inte-
+gration) supports the null hypotheses that the logistic
+regression models were not signiﬁcantly different from
+the perfect model that correctly classiﬁes all respon-
+dents into their respective adopter/non-adopter groups.
+Given the relatively large sample size and R2, the sta-
+tistical powers (with 1% type-I error) for all three lo-
+gistic regression models were >99%. These statistical
+powers all exceeded the recommended 80% threshold
+(Cohen, 1988) and further suggest a high degree of
+accuracy in identifying important drivers (i.e. predic-
+tors) of the three integration strategies.
+
+The logistic regression coefﬁcient (β) indicate the
+direction and magnitude of each variable’s inﬂuence
+on the odds of adopting that integration strategy. If β
+for a variable is signiﬁcant and greater than zero, an
+increase of one unit in the variable increases the odds
+of adopting that integration strategy. As for individ-
+ual factors, the β coefﬁcients of anticipated beneﬁts
+were signiﬁcantly different from zero (P < 0.01) for
+all three strategies. The β of new markets were sig-
+niﬁcant for demand (model C) and DCM (model D)
+integration, but it was not a driver of supply integra-
+tion. External pressure was signiﬁcant (P < 0.05) for
+DCM integration and had a borderline signiﬁcant ef-
+fect (P = 0.054) for supply integration. The overall
+
+rank order of the β’s suggests that the rational efﬁ-
+ciency hypotheses of anticipated beneﬁts and new mar-
+kets mainly drove demand chain integration. External
+pressure and the bandwagon effect was a somewhat
+less important driver.
+
+5. Discussion and suggestions for further research
+
+In this section, we discuss the main ﬁndings in this
+order: the relevance or otherwise of DCM for service
+organizations, the relationship of integration strategy
+and integration drivers, and the importance of DCM
+in manufacturing.
+
+5.1. DCM in services
+
+While these ﬁndings suggest that DCM is an im-
+portant development for manufacturers, they do not
+support a similar claim for service companies. There
+are three possible explanations for our results. First,
+it may simply be the case that services are lagging
+several years behind manufacturing in terms of DCM
+and thus nothing showed up in our sample. Assuming
+that services lags manufacturing in adopting practice,
+however, is dangerous. While manufactures may have
+pioneered programs like TQM, JIT and cells in the
+1980s, many services were just as aggressive as man-
+ufacturers at implementing ERP, re-engineering and
+the Internet in the 1990s.
+
+The second possible reason for our ﬁnding may
+be a limitation in the data. The sample contained
+a wide variety of service companies, but only a
+relatively few total number of retailers (n = 6)
+and grocery/food distribution companies (n = 12).
+Many of the examples in the practitioner literature
+of DCM in services seem to be from these sectors
+(e.g. Wal-Mart or Tesco), and if our sample was
+considerably larger then we might have found more
+evidence of this strategy. While our ﬁndings suggest
+that DCM does not readily apply in services, future
+research merits investigating DCM in a larger strati-
+ﬁed sample of retailers and grocery/food distribution
+companies.
+
+Certainly services should not in this context be
+seen as a single homogeneous category. There are
+differences between retailers that hold some physi-
+cal inventory and consulting ﬁrms whose costs are
+
+
+740
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+Table 9
+Logistic regression for integration drivers
+
+Model B (supply integration)
+
+Model C (demand integration)
+
+Model D (chain management)
+
+B
+
+Wald
+
+Signiﬁcance
+
+B
+
+Wald
+
+Signiﬁcance
+
+B
+
+Wald
+
+Signiﬁcance
+
+Anticipated beneﬁts
+New markets
+External pressure
+
+0.590
+0.238
+0.353
+
+7.468
+1.962
+3.635
+
+0.006
+0.161
+0.054
+
+Model ﬁt and
+
+statistical power
+
+Hosmer and Lemeshow test:
+χ 2 = 4.635 with d.f. = 8;
+signiﬁcance = 0.796
+Nagelkerke R2 = 0.182
+Statistical power α > 99%
+(P < 0.01)
+
+0.00
+0.00
+0.266
+
+17.816
+13.019
+1.238
+
+0.538
+0.441
+−0.139
+Hosmer and Lemeshow test:
+χ 2 = 9.241 with d.f. = 8;
+signiﬁcance = 0.322
+Nagelkerke R2 = 0.123
+Statistical power α > 99%
+(P < 0.01)
+
+2.107
+1.355
+0.671
+
+18.647
+20.093
+5.648
+
+0.00
+0.00
+0.017
+
+Hosmer and Lemeshow test:
+χ 2 = 3.633 with d.f. = 8;
+signiﬁcance = 0.889
+Nagelkerke R2 = 0.475
+Statistical power α > 99%
+(P < 0.01)
+
+dominated by personnel expenditures. While our
+ﬁndings suggest that DCM does not readily apply in
+services, future research which used a richer clas-
+siﬁcation scheme like Chopra and Meindl’s (2001)
+implied uncertainty and responsiveness dimensions,
+might reveal a greater range of DCM beneﬁts and
+relevance.
+
+The ﬁnal plausible reason for this ﬁnding may
+be that DCM does not matter in services. The bane
+of physical products is inventory build-up due to
+the bullwhip effect in the supply chain. Does the
+bullwhip phenomen on really exist
+in a service
+context? Services are simultaneously produced and
+consumed and cannot be inventoried. If something
+cannot be inventoried, does the bullwhip effect
+apply?
+
+Typically for manufacturers, materials are often
+over 60% of costs while labor is under 15% so many
+supply chain savings naturally come from inventory
+reductions and transportation efﬁciencies. Similarly,
+manufacturing delays and stockouts are frequently
+caused by a few late inbound raw materials so most
+manufacturers can beneﬁt from sharing real-time de-
+mand information with their upstream partners. In
+services,
+the materials/labor ratio is often the re-
+verse of that in manufacturing and service supply
+chains normally involve human skills over mate-
+rial ﬂows (Cox et al., 2001). Service stockouts are,
+therefore, mainly driven by underestimating future
+demand and lacking sufﬁcient capacity (i.e. service
+providers) on the day that customers actually ar-
+rive in the process. While no doubt stafﬁng levels
+and queue sizes between partners in service supply
+
+chains are important, is sharing real-time demand
+data with suppliers and improving inventory visibility
+over relatively few materials really that strategic in
+services?
+
+Although beyond the scope of this paper,
+
+the
+bullwhip effect in services needs to be more thor-
+oughly documented. If there is a signiﬁcant bullwhip
+in services,
+then DCM probably makes sense. If
+the bullwhip is not a signiﬁcant factor, then service
+providers may have the luxury of only concentrating
+on the web-based demand integration (model C) that
+23% of the service companies in this study pursued.
+This parallels Watson’s (2001, p. 41) services ﬁnd-
+ing that for insurance companies, while downstream
+customer integration was straightforward, upstream
+integration “remains little more than an unfulﬁlled
+desire”.
+
+5.2. Integration strategy and integration drivers
+
+The next major ﬁnding is that the drivers of in-
+tegration vary depending on the type of strategy.
+While all three integration strategies were partially
+driven by the anticipated beneﬁts of the practice, the
+demand-driven strategies (models C and D) were also
+strongly motivated by the rational access to new mar-
+kets. Conversely, the supply-driven integration strate-
+gies (models B and D) had external pressure driving
+their adoption. This suggests that demand integration
+is more driven by proactive rational efﬁciency factors
+like performance and market share, while reactive
+bandwagon pressures are an important driver behind
+web-based supply integration.
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+741
+
+This ﬁnding is important given the relatively little
+evidence that our ﬁeld has accumulated so far con-
+cerning the process of implementing supply chain
+strategy. Marucheck et al. (1990) noted that OM re-
+searchers often tend to pay less theoretical attention to
+the process of formulating and implementing strate-
+gies in comparison to their deﬁnition and content.
+Findings in this study suggest a dual context behind
+the process of implementing coordinated up- and
+downstream strategies. If only upstream supplier-side
+pressures are present,
+then companies will evolve
+their supply chain strategies in that direction. Con-
+versely, if the opportunities from integrating on the
+downstream demand-side outweigh the costs then a
+company’s supply chain strategy will naturally de-
+velop in that direction. It seems likely that only when
+upstream supply pressures and downstream market
+opportunities collide that companies take the ultimate
+step and implement DCM. This is an important insight
+for managers—the time may not be right to imple-
+ment broad supply chain integration until upstream
+pressures and downstream opportunities are both
+present.
+
+5.3. The importance of DCM for manufacturing
+
+This study strongly suggests that DCM is currently
+the most powerful web-based integration strategy
+that a manufacturer can adopt. Although this has
+been an assumption behind much of the recent DCM
+literature, this is the ﬁrst time that it has been demon-
+strated empirically with a large group of companies
+from the integrated perspective that Narasimhan and
+Jayaram (1998) argued for. The results in partic-
+ular suggest that DCM has the strong potential to
+differentiate manufacturing performance. The low
+integration manufacturers recorded the lowest per-
+formance, while the highly successful DCM group
+enjoyed the powerful beneﬁts of up- and downstream
+integration.
+
+The companies in this group are unlikely of course
+to owe all their performance achievement to DCM;
+such a high degree of integration is typically an ex-
+tension of earlier initiatives, such as JIT and other
+supply chain improvements, which give performance
+enhancements of their own. But
+the extra perfor-
+mance edge found in this group can reasonably be
+associated with the use of the Internet and DCM to
+
+give that superior supply chain coordination which
+reduces uncertainty throughout networks (Lee et al.,
+1997a),
+lets inventory move more efﬁciently, and
+reduces variability (Metters, 1997).
+
+6. Conclusions
+
+In conclusion, we offer some reﬂections on the im-
+plications for managers of our study. First, the DCM
+strategy appeared to be the best overall approach for
+manufacturers to follow and the relatively few man-
+ufacturers that are already following this approach
+should, therefore, continue holding the course and
+perhaps even increase integration with suppliers and
+customers wherever possible. Conversely, for most
+services the best approach right now is to focus on de-
+mand integration. Although this study’s ﬁndings need
+replication before any ﬁnal prescription can be made, it
+may be a waste of resources for services to chase either
+supplier integration or full-blown DCM integration.
+
+Manufacturers already pursuing the supply and
+demand integration strategies have the simplest next
+steps. Although easier said than done, these groups
+need to make the ﬁnal leap and begin integrating the
+up or downstream sides of their supply chains using
+the Internet. The low integration manufacturers and
+services, on the other hand, have a much harder task.
+They need to start implementing the web-based sup-
+ply and demand integration that unlocks performance.
+Although this is a daunting task, the alternative of try-
+ing to compete without integration is worse since their
+survival may ultimately be at stake. Enhanced compet-
+itiveness requires that companies ceaselessly integrate
+within a network of organizations—manufacturers
+and services ignoring this new challenge are destined
+to fall hopelessly behind their more Internet-enabled
+rivals.
+
+On the other hand, in the 21st century manufactur-
+ers may be seriously jeopardizing their performance
+by continuing to follow a low integration approach.
+Schmenner and Swink’s (1998) theory of swift, even
+ﬂows postulated that the most successful operations
+smoothly move raw materials and subassemblies
+through processes and into ﬁnished goods. Materials
+and ﬁnished goods only move swiftly if there are
+no ﬂow impediments in the way and productivity
+rises proportionally to the speed that materials move
+
+
+742
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+Acknowledgements
+
+This research was supported in part by Deloitte Con-
+sulting and London Business School’s Center for
+the Network Economy. The authors gratefully ac-
+knowledge the comments of the anonymous referees
+and, in particular, the guest editors for this special
+issue.
+
+through processes. By extension, manufacturers not
+exploiting the Internet and DCM have little hope of
+achieving the swiftest and most even ﬂows.
+
+As expected, results for the web-based supply and
+demand integration strategies show that focusing
+on only the inbound or the outbound sides provide
+marginal beneﬁts. Lee and Billington (1992) and
+Hammel and Kopczak (1993) reached similar con-
+clusions concerning the dangers of fragmented tra-
+ditional supply chains—the same rules apply in the
+Internet era.
+
+Appendix A. Scale measurement
+
+A.1. Independent measures
+
+A.1.1. Supply Integration
+
+To what extent have you implemented web-based processes for any of the following with suppliers?
+
+Not at all
+
+Fully
+
+Factor loading
+
+Integrated inventory planning
+Integrated supply chain management
+Integrated demand/forecasting
+Integrated order scheduling and tracking
+
+1
+1
+1
+1
+
+2
+2
+2
+2
+
+3
+3
+3
+3
+
+4
+4
+4
+4
+
+5
+5
+5
+5
+
+0.9134
+0.9025
+0.8798
+0.8630
+
+Eigenvalue
+Percent of variation
+Kaiser–Meyer–Olkin measure = 0.80; Bartlett test of sphericity = 1396.44; signiﬁcance = 0.00.
+
+3.17
+79.20
+
+A.1.2. Demand Integration
+
+To what extent have you implemented web-based processes for any of the following with customers?
+
+Not at all
+
+Fully
+
+Factor loading
+
+Targeted marketing/customer proﬁling
+Online order taking/receipt
+Integrated demand/forecasting
+Customer relationship management
+
+1
+1
+1
+1
+
+2
+2
+2
+2
+
+3
+3
+3
+3
+
+4
+4
+4
+4
+
+5
+5
+5
+5
+
+Eigenvalue
+Percent of Variation
+Kaiser–Meyer–Olkin measure = 0.78; Bartlett test of sphericity = 525.54; signiﬁcance = 0.00.
+
+0.8412
+0.7988
+0.7439
+0.7322
+
+2.43
+60.90
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+743
+
+A.1.3. Drivers of change
+
+What were the main factors driving your web-based integration?
+
+Not at all
+
+Fully Factor loading
+
+Anticipated beneﬁts New markets External pressure
+
+Improving speed of response
+Improving service/support
+Improving reliability and delivery
+Anticipated cost reduction
+
+1
+1
+1
+1
+
+Access to European single market 1
+1
+Access to global markets
+1
+Lack of local partners
+Greater market valuation
+1
+
+1
+Peer pressure “to get onboard”
+1
+Pressure from suppliers
+Pressure from customers
+1
+Threat from traditional competitors 1
+
+2 3 4 5
+2 3 4 5
+2 3 4 5
+2 3 4 5
+
+2 3 4 5
+2 3 4 5
+2 3 4 5
+2 3 4 5
+
+2 3 4 5
+2 3 4 5
+2 3 4 5
+2 3 4 5
+
+0.8576
+0.8226
+0.8142
+0.6740
+
+0.1639
+0.1722
+0.0701
+0.3606
+−0.0584
+0.1882
+0.4909
+0.3819
+
+0.1381
+0.2195
+0.1930
+0.1921
+
+0.8313
+0.7251
+0.6337
+0.6291
+
+0.0952
+0.1921
+0.1053
+0.2518
+
+0.0974
+0.0187
+0.2001
+0.2146
+
+0.0464
+0.1811
+0.3580
+0.1155
+
+0.7543
+0.6162
+0.5637
+0.5463
+
+Eigenvalue
+1.08
+Percent of variation
+9.0
+Kaiser–Meyer–Olkin measure = 0.87; Bartlett test of sphericity = 1667.36; signiﬁcance = 0.00.
+
+1.41
+11.8
+
+4.77
+39.8
+
+A.2. Dependent measure
+
+A.2.1. Performance
+
+What beneﬁts have you had from your web-based integration?
+
+Faster delivery time
+Reduced transaction costs
+Greater proﬁtability
+Enhanced inventory turnover
+
+None
+
+1
+1
+1
+1
+
+2
+2
+2
+2
+
+3
+3
+3
+3
+
+4
+4
+4
+4
+
+5
+5
+5
+5
+
+Eigenvalue
+Percent of Variation
+Kaiser–Meyer–Olkin measure = 0.81; Bartlett test of sphericity = 673.69; signiﬁcance = 0.00.
+
+0.8514
+0.8370
+0.8047
+0.7746
+
+2.67
+66.80
+
+Extensive
+
+Factor loading
+
+References
+
+Abrahamson, E., 1996. Management
+
+fashion. Academy of
+
+Management Review 21, 254–286.
+
+Abrahamson, E., Rosenkopf, L., 1993. Institutional and competitive
+bandwagons: using mathematical modeling as a tool to explore
+innovation diffusion. Academy of Management Review 18 (3),
+487–517.
+
+Agrawal, N., Nahmias, S., 1997. Rationalization of the supplier
+base in the presence of yield uncertainty. Production and
+Operations Management 6 (3), 291–308.
+
+Akinc, U., 1993. Selecting a set of vendors in a manufacturing
+environment. Journal of Operations Management 11, 107–
+122.
+
+Aldenderfer, M.S., Blashﬁeld, R.K., 1984. Cluster Analysis. Sage,
+
+London.
+
+
+744
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+Ansari, A., Modarress, B., 1990. Just in time purchasing. Free
+
+Press, New York.
+
+Bhaskaran, S., 1998. Simulation analysis of a manufacturing
+
+supply chain. Decision Science 29 (3), 633–657.
+
+Billington, C., 1994. Strategic supply chain management. OR/MS
+
+Today 21 (2), 20–27.
+
+Bowersox, D.J., Daugherty, P.J., 1995. Logistics paradigms:
+the impact of information technology. Journal of Business
+Logistics 16 (1), 65–80.
+
+Bowersox, D.J., Closs, D.J., Stank, T.P., 2000. Ten mega-trends
+revolutionize supply chain logistics. Journal of
+
+that will
+Business Logistics 21 (2), 1–16.
+
+Boyer, K.K., Verma, R., 2000. Multiple raters in survey-based
+research: a review and tutorial.
+
+operations management
+Production and Operations Management 9 (2), 128–140.
+
+Bozarth, C., Handﬁeld, R., Das, A., 1998. Stages of global
+sourcing strategy evolution: an exploratory study. Journal of
+Operations Management 16, 241–255.
+
+Cachon, G.P., 1999. Managing supply chain demand variability
+with scheduled ordering policies. Management Science 45 (6),
+843–856.
+
+Cachon, G.P., Fisher, M., 1997. Campbell Soup’s continuous
+replenishment program: evaluation and enhanced inventory
+decision rules. Production and Operations Management 6 (3),
+266–276.
+Carr, A.S.,
+
+Pearson,
+
+J.N.,
+
+1999.
+and
+
+Strategically managed
+performance
+outcomes.
+
+buyer–supplier
+Journal of Operations Management 17 (5), 497–519.
+
+relationships
+
+Chapman, S.N., 1989. Just-in-time supplier inventory: an empirical
+International Journal of Production
+
+implementation model.
+Research 27 (12), 1993–2007.
+
+Chapman, S., Carter, P., 1990. Supplier–customer
+
+inventory
+relationships under just-in-time. Decision Science 21 (1), 35–51.
+Chase, R.B., Tansik, D.A., 1983. A customer contact model for
+
+organizational design. Management Science 29, 1037–1050.
+
+Choi, T.Y., Hartley, J.L., 1996. An exploration of supplier selection
+practices across the supply chain. Journal of Operations
+Management 14, 333–343.
+
+Chopra, S., Meindl, P., 2001. Supply Chain Strategy, Planning
+
+and Operations. Prentice-Hall, Englewood Cliffs, NJ.
+
+Clark, T.H., Hammond, J.H., 1997. Re-engineering channel
+reordering processes to improve total supply chain performance.
+Production and Operations Management 6 (3), 248–265.
+
+Claycomb, C., Droge, C., Germain, R., 1999. The effect of
+just-in-time with customers on organizational design and
+performance. International Journal of Logistics Management
+10 (1), 37–58.
+
+Cohen, J., 1988. Statistical Power Analysis for the Behavioral
+
+Sciences. Lawrence Erlbaum, Hillsdale, NJ.
+
+Corbett, C.J., Blackburn, J.D., Van Wassenhove, L.N., 1999.
+Partnerships to improve supply chains. Sloan Management
+Review 40 (4), 71–82.
+
+Cox, A., Sanderson, J., Watson, G., 2001. Supply chains and
+power regimes: toward an analytic framework for managing
+extended networks of buyer and supplier relationships. Journal
+of Supply Chain Management 37 (2), 28–35.
+
+Daugherty, P.J., Myers, M.B., Autry, C.W., 1999. Automatic
+replenishment programs: an empirical examination. Journal of
+Business Logistics 20 (2), 63–82.
+
+Davis, T., 1993. Effective supply chain management. Sloan
+
+Management Review 34 (4), 35–46.
+
+Dillman, D.A., 1978. Mail and Telephone Surveys: The Total
+
+Design Method. Wiley, New York.
+
+Fawcett, S.E., Birou, L.M., 1993. Just-in-time sourcing techniques:
+current state of adoption and performance beneﬁts. Production
+and Inventory Management Journal 34 (1), 18–24.
+
+Fisher, M.L., Hammond, J.H., Obermeyer, W.R., Raman, A.,
+1994. Making supply meet demand in an uncertain world.
+Harvard Business Review 72 (3), 83–93.
+
+Fitzsimmons
+
+J.A.,
+
+Service
+Management: Operations, Strategy and Information Technology.
+McGraw-Hill, Boston.
+
+Fitzsimmons, M.J.,
+
+1997.
+
+Flynn, B.B., Sakakibara, S., Schroeder, R.G., 1995. Relationship
+between JIT and TQM: practices and performance. Academy
+of Management Journal 38 (5), 1325–1360.
+
+Freeland, J.R., 1991. A survey of just-in-time purchasing practices
+in the United States. Production and Inventory Management
+Journal 32 (2), 43–49.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an
+international study of supply chain strategies. Journal of
+Operations Management 19 (2), 185–200.
+
+Gavirneni, S., Kapuscinski, R., Tayur, S., 1999. Value of
+information in capacitated supply chains. Management Science
+45 (1), 16–24.
+
+Germain, R., Droge, C., 1998. The context, organizational design
+and performance of JIT buying versus non-JIT buying ﬁrms.
+Journal of Supply Chain Management 34 (2), 12–18.
+
+Gilbert, S.M., Ballou, R.H., 1999. Supply chain beneﬁts from
+Journal of Operations
+
+commitments.
+
+advanced customer
+Management 18, 61–73.
+
+Grout, J.R., 1998. Inﬂuencing a supplier using delivery windows:
+its effect on the variance of ﬂow time and on-time delivery.
+Decision Science 29 (3), 747–764.
+
+Hammel, T.R., Kopczak, L.R., 1993. Tightening the supply chain.
+Production and Inventory Management Journal 34 (2), 63–70.
+Handﬁeld, R.B., 1993. A resource dependence perspective of
+just-in-time purchasing. Journal of Operations Management
+11, 289–311.
+
+Hariharan, R., Zipkin, P., 1995. Customer-order
+
+information,
+lead times and inventories. Management Science 41 (10),
+1599–1607.
+
+Heskett, J.L., 1986. Managing in the Service Economy. Harvard
+
+Business School Press, Boston.
+
+Hill, A.V., Vollman, T.E., 1986. Reducing vendor delivery
+uncertainties in a JIT environment. Journal of Operations
+Management 6 (4), 381–392.
+
+Henfoff, R., 1994. Delivering the goods. Fortune 140 (11), 34–47.
+Johnson, M.E., Scudder, G., 1999. Supporting quick response
+through scheduling of make-to-stock production/inventory
+systems. Decision Science 30 (2), 441–467.
+
+Ketchen, D., Shook, C., 1996. The application of cluster analysis
+in strategic management research: an analysis and critique.
+Strategic Management Journal 17 (6), 441–459.
+
+
+M.T. Frohlich, R. Westbrook / Journal of Operations Management 20 (2002) 729–745
+
+745
+
+Kim, J., Mueller, C.W., 1978. Factor analysis: statistical methods
+
+Kopczak, L.R.,
+
+1997. Logistics
+
+and practical issues. Sage, Newbury Park, CA.
+partnerships
+
+supply
+chain restructuring: survey results from the US computer
+industry. Production and Operations Management 6 (3), 226–
+247.
+
+and
+
+Krause, D.R., 1999. The antecedents of buying ﬁrms’ efforts
+to improve suppliers. Journal of Operations Management 17,
+205–224.
+
+Krause, D.R., Handﬁeld, R.B., Scannell, T.V., 1998. An empirical
+investigation of supplier development: reactive and strategic
+processes.
+Journal of Operations Management 17, 39–
+58.
+
+Lawrence, J.J., Hottenstein, M.P., 1995. The relationship between
+JIT manufacturing and performance in Mexican plants afﬁliated
+with US companies. Journal of Operations Management 13,
+3–18.
+
+Lee, H.L., Billington, C., 1992. Managing supply chain inventory:
+pitfalls and opportunities. Sloan Management Review 33 (3),
+65–73.
+
+Lee, H.L., Tang, C.S., 1998. Variability reduction through
+
+operations reversal. Management Science 44 (2), 162–172.
+
+Lee, H.L., Padmanabhan, V., Whang, S., 1997a. Information
+distortion in a supply chain: the bullwhip effect. Management
+Science 43 (4), 546–558.
+
+Lee, H.L., Padmanabhan, V., Whang, S., 1997b. The bullwhip
+effect in supply chains, Sloan Management Review 38 (3),
+93–102.
+
+Lummus, R.R., Vokurka, K.L., 1999. Managing the demand chain
+through managing the information ﬂow: capturing “moments of
+information”. Production and Inventory Management Journal
+40 (1), 16–20.
+McColgan, E.A.,
+
+1997. How ﬁdelity
+
+service
+
+invests
+
+in
+
+professionals. Harvard Business Review 75 (1), 137–143.
+
+Mabert, V.A., Venkataramanan, M.A., 1998. Special
+
+research
+focus on supply chain linkages: challenges for design and
+management
+in the 21st century. Decision Science 29 (3),
+537–552.
+
+Mansﬁeld, E., 1985. How rapidly does new industrial technology
+
+leak out? Journal of Industrial Economics 34, 217–223.
+
+March,
+
+J.G., Olsen,
+
+J.P., 1976. Ambiguity and choice in
+
+organizations. Universitetsforlaget, Bergen, Norway.
+
+Magretta, J., 1998. The power of virtual integration: an interview
+with Dell Computer’s Michael Dell. Harvard Business Review
+76 (2), 73–82.
+
+Marucheck, A., Pannesi, R., Anderson, C., 1990. An exploratory
+study of the manufacturing strategy process in practice. Journal
+of Operations Management 9 (1), 101–123.
+
+Metters, R., 1997. Quantifying the bullwhip effect
+
+in supply
+
+chains. Journal of Operations Management 15, 89–100.
+
+Miller, J.G., Roth, A., 1994. A taxonomy of manufacturing
+
+strategies. Management Science 40 (3), 285–304.
+
+Narasimhan, R., Carter, J.R., 1998. Linking business unit and
+material sourcing strategies. Journal of Business Logistics
+19 (2), 155–171.
+
+Narasimhan, R., Das, A., 1999. An empirical investigation of the
+contribution of strategic sourcing to manufacturing ﬂexibilites
+and performance. Decision Science 30 (3), 683–718.
+
+Narasimhan, R., Jayaram, J., 1998. Causal
+
+linkages in supply
+chain management: an exploratory study of North American
+manufacturing ﬁrms. Decision Science 29 (3), 579–605.
+
+Nie, W., Kellogg, D.L., 1999. How process of operations
+and
+
+view service
+
+management
+Operations Management 8 (3), 339–355.
+
+operations.
+
+Production
+
+Nunnally, J.C., 1968. Psychometric Theory. McGraw-Hill, New
+
+York.
+
+O’Leary-Kelly, S.W., Vokurka, R.J., 1998. The
+
+empirical
+Journal of Operations
+
+assessment of
+Management 16, 387–405.
+
+construct validity.
+
+Podsakoff, P.M., Organ, D.W., 1986. Self reports in organizational
+research: problems and prospects. Journal of Management
+12 (4), 531–544.
+
+Punj, G., Stewart, D., 1983. Cluster analysis in marketing research:
+review and suggestions. Journal of Marketing Research 20,
+134–148.
+
+Quinn,
+
+J.B., Gagnon, C.E.,
+
+follow
+manufacturing into decline? Harvard Business Review 64 (6),
+95–105.
+
+1986. Will
+
+service
+
+Rogers, E., 1983. Diffusion of Innovation, 3rd Edition. Free Press,
+
+New York.
+
+Schmenner, R.W., Swink, M.L., 1998. On theory in operations
+management. Journal of Operations Management 17, 97–113.
+Scott, W. R., 1995. Institutions and Organizations. Sage, Thousand
+
+Oaks, CA.
+
+Tan, K.C., Kannan, V.R., Handﬁeld, R.B., 1998. Supply chain
+management: supplier performance and ﬁrm performance.
+International Journal of Purchasing and Materials Management
+34 (3), 2–9.
+
+Tolbert, P.S., Zucker, L.G., 1983. Institutional sources of change
+in the formal structure of organizations: the diffusion of civil
+service reform 1880–1935. Administration Science Quarterly
+28, 22–39.
+
+Vollmann, T.E., Cordon, C., Heikkila, J., 2000. Teaching supply
+to business executives. Production and
+
+chain management
+Operations Management 9 (1), 81–90.
+
+Waller, M., Johnson, M.E., Davis, T., 1999. Vendor-managed
+inventory in the retail supply chain. Journal of Business
+Logistics 20 (1), 183–203.
+
+Walker, B., Bovet, D., Martha, J., 2000. Unlocking the supply
+chain to build competitive advantage. International Journal of
+Logistics Management 11 (2), 1–8.
+
+Watson, G., 2001. Subregimes of power and integrated supply
+chain management. Journal of Supply Chain Management
+37 (3), 36–41.
+

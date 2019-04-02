@@ -1,0 +1,6250 @@
+Han et al. Asian Journal of Sustainability
+and Social Responsibility (2016)1:61–76
+DOI 10.1186/s41180-016-0002-3
+
+Asian Journal of Sustainability
+and Social Responsibility
+
+R ES EAR CH
+Empirical study on relationship between
+corporate social responsibility and financial
+performance in Korea
+Jae-Joon Han1, Hyun Jeong Kim2*
+
+and Jeongmin Yu1
+
+Open Access
+
+* Correspondence: kimhj@inha.ac.kr
+2College of Business Administration,
+Inha University, 100 Inha-Ro,
+Nam-Gu, Incheon 22212, Korea
+Full list of author information is
+available at the end of the article
+
+Abstract
+
+There have been numerous studies on corporate social responsibility (CSR) and its
+relation to corporate performance. Recently, studies in this field have paid particular
+attention to the method of measurement in order to identify the CSR activities. One of
+the widely recognized measures to proxy CSR is the Environmental, Social, and
+Governance (ESG) score. This paper examines the relationship between Corporate Social
+Responsibility (CSR) and corporate profit by testing the ESG performance score on the
+firm’s Financial Performance (FP), specifically for Korea Stock Market (KOSPI) listed firms in
+the period of 2008 ~ 2014. We use three separate individual Environmental, Social and
+Corporate Governance (ESG) disclosure scores from Bloomberg for the CRS proxy
+measure, as well as the Return on Equity (ROE), Market-to-Book Ratio (MBR) and Stock
+Return for the FP measures. We found that the ESG disclosure scores (the measures of
+environmental, social, and governance responsibility performance) in the Korean
+corporations shows diversified results. Particularly, the environmental responsibility
+performance score presents a negative (or U curve) relationship with FP, whereas the
+governance responsibility performance score presents a positive (or inverse U curve)
+relationship with FP. On the other hand, we did not find any statistically significant
+evidence of a relationship between the social responsibility performance score and FP.
+Keywords: Corporate social responsibility (CSR), Environmental, Social, Governance (ESG),
+Financial performance (FP), Sustainability
+
+Introduction
+Corporate Social Responsibility (CSR) is a form of corporate self-regulation integrated into
+business models. CSR functions as a self-regulatory mechanism by which a corporation
+ensures its active compliance with the spirit of the law and ethical standards. Its aim is to
+increase the long-term profits or survival of a firm through constructing positive public
+relations and high ethical standards, in order to reduce the business and legal risk and build
+shareholder trust. Accordingly, the CSR strategies of a corporation are tightly related to its
+sustainable growth. To ensure sustainable growth, it is necessary for a company to make a
+positive impact on the surrounding environment, as well as on its stakeholders, such as its
+consumers, employees, investors, communities, and others. Beltratti (2005) and Jamali et al.
+(2008) examined the positive relationship among CSR, corporate governance, and the
+enhancement of the firm’s value. Furthermore, Beltratti (2005) concluded that by ensuring
+the protection of the stakeholders, firms are more likely to survive in the long term, and
+
+© The Author(s). 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and
+indicate if changes were made.
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 62
+
+Aras and Crowther (2008) pointed out the significance of the corporate governance and the
+subsequent sustainability of firm.
+
+Thus, CSR has become a noticeable issue in the management literature, not only
+from a theoretical point of view, but also from empirical methods’ point of view about
+how to measure CSR activities (McWilliams et al. 2006; Dobers 2009; Nejati and
+Ghasemi 2012). Attempts to identify the relationship between CSR and the perform-
+ance of firms have been made by many scholars (Aupperle et al. 1985; Mittal et al.
+2008; Crisóstomo et al. 2011).
+
+Possible explanations for the lack of consensus and difficulties in measuring CSR have
+been given in previous studies (Waddock and Graves 1997). One possibility is to attribute
+this inconsistency to the multidimensional CSR concept and its interrelationship across
+many disciplines; varying concepts and issues from strategic perspectives to human re-
+source management, culture, and stakeholder/shareholder ones. Another research group
+suggested that these unidentified and omitted explanatory variables (McWilliams and Sie-
+gel 2000) made it difficult understand the latent mechanisms. Meanwhile, several studies
+tested the existence of a relationship between a firm’s CSR performance and FP. However,
+these findings are rather inconclusive in answering the question as to whether a firm’s per-
+formance in terms of its corporate social responsibility can be translated into positive cor-
+porate financial performance (FP). While such a relation (Margolis et al. 2009) sounds
+appealing, this finding is still fragile, since a range of other studies have reported either
+negative (Mittal et al. 2008) or mixed results (Schreck 2011). Most of those studies relied
+heavily on the dataset provided by Kinder, Lydenberg and Domini (KLD). Due to this
+shortfall, Margolis et al. suggested the need to consider alternative measures of CSR per-
+formance. Furthermore, those studies based on the KLD dataset only test for a linear rela-
+tionship between a firm’s CSR and its FP. However,
+in
+microeconomic theory suggested that a non-linear set-up should be considered
+(Manasakis et al. 2013, 2014; García-Gallego and Georgantzis 2009). A non-linear
+relationship between CSR and FP is therefore in line with economic intuition, but
+has rarely been tested, as pointed out in Barnett and Salomon (2012). For instance,
+those firms which voluntarily engage in more socially responsible activities incur
+higher corresponding costs at an earlier stage and, therefore, the increase in their
+CSR score has a negative relationship with their FP if the study is done only
+linearly. In this line of consideration, Nollet et al. (2016) tested both linear and
+non-linear relationships between CSR performance and FP. They also used an
+alternative third-party auditors’ data set, viz. Bloomberg’s ESG (Environmental,
+Social, and Governance) disclosure score, as a new proxy for CSR.
+
+recent developments
+
+At this point, we would like to remark that our research is motivated by both Barnett
+and Salomon (2012) and Nollet et al. (2016). For the test subject, unlike in the study of
+Nollet et al. (2016), we chose Korea corporates and their CSR performance for two rea-
+sons. Firstly, most of the CSR studies done so far have focused on Western countries,
+such as the U.S. and Europe, rather than Asian ones, and we wanted to fill this geo-
+graphical gap. Particularly, Chambers et al. (2003) reported that although there are
+increasing expectations of socially responsible business in Korea, little research on this
+topic has actually been done. Secondly, although the domestic literature in Korea
+includes various studies on CSR, their focus has been on the cultural orientation (e.g.
+Park et al. 2008; Kim and Kim 2010), ownership structure (Oh et al. 2011), financial
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 63
+
+reporting quality, and corporate governance (Choi and Pae 2011), which have no link-
+age with FP. Therefore, going one step further, our study also aimed to fill this gap by
+identifying the relationship between a firm’s CSR performance and its profit.
+
+Our study is different from that of Nollet et al. (2016) from three viewpoints, which is
+our benchmark. Firstly, as mentioned above, this paper considers Korean corporations.
+To the best of our knowledge, our study is the first to test the relationship between ESG
+disclosure scores and FP for Korean firms at home and abroad. For our study, the dataset
+of 94 Korean firms (out of all 700 KOSPI listed firms) that have Bloomberg Environmental
+Social Governance (ESG) Disclosure scores for the period of 2008-2014 was used.
+
+Secondly, this study examines the effects of CSR (specifically separate ESG scores) on
+FP by advanced methods, viz. the panel methods (random and fixed effect) and quasi-
+maximum likelihood methods. On the other hand, Nollet et al. (2016) tested the relation-
+ship only by the pooled OLS method. We examine the individual ESG disclosure score,
+i.e. the environmental, social and governance, instead of the overall ESG composite score.
+Note that Nollet et al. (2016) used the same method. This paper investigates which di-
+mension out of 3 different Environmental Social Governance responsibilities has more ef-
+fect on FP and how this effect is brought about. We try to answer the following questions.
+Is there any relationship between individual ESG and FP? If so, is it positive or negative?
+Furthermore, if the relationship a mixed or inclusive one, what would be the alternative
+solution? For these reasons, we examine non-linear relationship.
+
+Thirdly, our finding is interesting in the sense that it is basically in line with the study
+of Nollet et al. (2016), but our finding shows a different pattern. We confirmed the
+existence of a non-linear relationship in Korean corporations, similar to that shown by
+Nollet et al. (2016) in US corporations. However, our non-linear relationship pattern is
+different from theirs. For reference, Nollet et al (2016) found both a linearly negative
+and non-linearly U curve relationship only between GDS (Governance Disclosure
+Score, proxy for CSR effort in Governance dimension) and FP in US corporations. By
+contrast, we observed that the same relationship exists for Korean firm between EDS
+(Environmental Disclosure Score, proxy for CSR effort in Environmental dimension)
+and FP, but not between GDS and FP. For GDS, we found the opposite pattern (i.e., a
+linearly positive and non-linearly inverse U curve relationship) compared to what
+Nollet et al (2016) found. On the other hand, we did not find any empirical evidence
+on the relationship between SDS (Social Disclosure Score) and FP. This is the same
+finding as that of Nollet et al. (2016) in SDS for US firms.
+
+Literature review and ESG overview
+CSR and FP
+From the earliest classic studies by Bowen (1953), Eells and Walton (1961), McGuire
+(1963), Carroll (1979), the importance of CSR and its impact on society has been ex-
+plored from various viewpoints. However, their opinions are divided on the need for
+corporate CRS. Some studies with a positive appraisal of CSR argued that ‘a corpor-
+ation has a duty to society’ (Andrews 1973; Davis and Blomstrom 1975; Carroll 1979;
+Drucker 1984; Epstein 1987), whereas others reported that ‘a corporation only has the
+duty to maximize its benefit within the fence of law and minimum ethical restrictions’
+(Levitt 1958; Friedman 1970).
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 64
+
+Nonetheless, in the 2000s, various studies identified CSR as a source of competitive
+advantage (e.g. Russo and Fouts 1997; McWilliams and Siegel 2011). Donaldson and
+Preston (1995) and Porter and Kramer (2006) investigated whether a strategic CSR
+activity enhances the competitive advantage of the firms. Baron (2008) argued that CSR
+activities could be a productive investment. He concluded that CSR helps firms to
+attract consumers who value CSR expenditures but do not mind paying more for the
+corporate executives or the employees whose personal values are aligned with CSR.
+Baron (2008) suggested that some investors might value CSR more, even though it
+could lower financial profit in the short-run, because they are satisfied by owning such
+a firm that makes socially responsible expenditures. On the other hand, Besley and
+Ghatak (2007) found that breaking CSR promises will result in lower profits, whereas
+more responsible firms will earn higher profits due to their reputational premium. In
+this regard, Benabou and Tirole (2010) raised the question as to whether CSR helps
+the firm in the long run. Margolis et al. (2007) found that CSR engagement helps
+firms to gain a competitive advantage. They reported a positive relation between CSR
+and performance except in two percent of cases. The role of governance in CSR is
+also important. Several studies found the importance of sustainable development
+issues, such as stakeholder dialogue and core values, and of embedding these issues
+into the firm’s strategy. The study of Beltratti (2005), as well as that of Jamali et al.
+(2008), found a positive relationship between CSR and corporate governance. Beltratti
+(2005) concluded that by ensuring the protection of the stakeholders, firms are more
+likely to survive in the long term. Jamali et al. (2008) found that CSR and corporate
+governance strengthen each other. Furthermore, Aras and Crowther (2008) stressed
+the significance of the corporate governance and the subsequent sustainability of
+firm.
+
+Meanwhile, empirical analysis has been inconclusive as to whether adopting CSR has
+a positive or negative effect on a firm’s FP. This is because the empirical findings were
+divided. The first group of literature finds a positive relationship between CSR and FP.
+The works of Orlitzky et al. (2003), Wu (2006), and Margolis et al. (2007) in manage-
+ment studies found a significant positive relationship between CSR and FP (Peiris and
+Evans 2010). The study of Barnett and Salomon (2006, 2012) in finance also suggested
+that firms with a higher CSR index score have better performance compared to those
+with a lower CSR score. The longitudinal study by Margolis et al. (2009) conducted
+from 1972 to 2007 also suggests the positive effect of CSR on accounting and market-
+based profits.
+
+On the contrary, the second literature group argues that CSR has a negative effect on
+FP. Fisher-Vanden and Thorburn (2011) suggested the unfavorable effect of CSR. They
+found the possibility of the market reacting negatively to news of companies joining an
+environmentally friendly program, for instance, the Environmental Protection Agency’s
+Climate Leaders program, due to the anticipated negative effect on its financial
+performance.
+
+Lastly, the third group of Brammer and Millington (2008) argued that a positive or
+negative relationship can occur depending on the level of CSR. They also provided
+some empirical evidence for the existence of a U shaped relationship between CSR and
+FP. Although they did not specifically hypothesize a U shaped relationship, they found
+evidence that the highest and lowest levels of CSR were associated with the highest
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 65
+
+levels of FP based on the firm-level data. However, in their study, CSR was represented
+by only one variable (i.e. corporate charitable), which is one of its limitations.
+
+In light of the third group, Mittal et al. (2008) provided the rationale for a negative
+CSR-FP relationship. That is, when the expected relationship between CSR and FP is U
+shaped, the negative relationship could be observed at an earlier stage of CSR effort
+because the cost of CSR caused the initial downward slope of the U curve. Supporting
+the conjecture of Mittal et al. (2008), Nollet et al. (2016) empirically proved the exist-
+ence of a U curve shaped relationship between corporate governance and FP in US cor-
+porations, and this is the first empirical finding of a U curve relationship in the CSR
+literature up until now.
+
+Summarizing the above literature shows that the literature findings have been mixed
+until now, and so further research is needed. On this basis, our study examines the
+relationship between CSR and FP in Korean corporations. In Korea, recently, various
+studies of CSR have been conducted on cultural orientation, ownership structure and
+CSR, and on financial reporting quality, corporate governance and CSR. However, none
+of them analyzed the relationship between CSR and FP. Thus, we attempt to determine
+the effect of CSR on FP in Korean firms listed on the Korea (KOSPI) stock markets.
+For the analysis of Corporate Social Responsibility (CSR), the activities dataset of the
+individual ESG disclosure scores from Bloomberg in the period of 2008 to 2014 was
+used as its proxy.
+
+Environmental, Social and Governance (ESG) overview
+Most of the analyses of CSR appear in corporate sustainability reports. However, relying
+on the individual corporate CSR report has intrinsic shortcomings, such as a biased
+disclosure problem due to the deficiency of the firm’s revelation mechanism, viz. reveal-
+ing only the firm’s favorite interpretation of its CSR and its operationalization (Butz
+and Pictet 2008). Thus, to investigate the relationship between CSR and FP unbiasedly,
+several studies examined the relationship based on third party ratings of environmental,
+social and corporate governance.
+
+Practically, the ESG disclosure score is used as one of the major indexes in the identi-
+fication of CSR effort. It is used to gain an understanding of the overall CSR activities;
+how corporations develop CSR issues with respect to their objectives and strategies for
+long-term growth, how they manage risks and other organizational characteristics in
+terms of general management practices, and so on. Originally, ESG terminology first
+appeared in the United Nations Principles of Responsible Investment and then in a
+number of companies’ CSR reports (Davis and Stephenson 2006). Although there is no
+clear understanding of this concept yet, ESG score has been practically used by major
+business consulting firms. Bassen and Kovacs (2008) argued that ESG score monitoring
+is important to implant CSR practically, as well as delivering ESG information in order
+for investors to assess a corporation’s risks and opportunities. Particularly, scoring indi-
+cators such as the environment activity (environmental scores and environmental fac-
+tors), social responsibility (number of employees, employee turnover ratio, employee
+unionized, women in management, women in employees) and governance mechanisms
+(size of the board, independent directors, board duration, board meetings per year,
+women on board) is important.
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 66
+
+Meanwhile, because ESG issues are extra-financial attributes, ESG scores could lack
+the consistency and standardized definitions (Peiris and Evans 2010) necessary for their
+comparison. Even with quantified data, it is difficult to compare them with the informa-
+tion delivered by peers and across periods. The ESG disclosure scores used in other
+studies faced the problem, particularly in terms of their objectivity. As a matter of fact,
+there are companies which are uncooperative in providing the information necessary to
+assess the impact of their ESG factors on FP (financial performance) or cases where the
+ESG score provided by the company lacks consistency. In order to resolve these prob-
+lems or minimize the ESG measurement bias, this study use the ESG scores provided
+by Bloomberg, which is a third-party data collecting institution that cares very much
+about its own reputation for accumulating accurate data.
+
+As shown in the literature review, there are no consistent findings on the relationship
+between overall CSR and FP yet. We suspected that using the combined ESG score might
+result in mixed findings or non-significant test results. Thus, we consider the effects of
+the three individual ESG scores on FP separately, instead of the overall ESG score. As a
+matter of fact, Nollet, Filis, and Mitrokostas (2016) conducted their study in the same way
+as ours. They tested for the effects of GDS, SDS, and EDS on FP separately.
+
+We describe the individual ESG score in more detail below. Firstly, the Environmental
+Disclosure performance Score (EDS) is designed to address the business environment and
+the relationship between business and society. EDS is known to cover the corporation’s dis-
+closure policy issues on their CO2 emissions, energy consumption, total waste, energy effi-
+ciency policy, and emissions reduction policy. Secondly, the Social Disclosure performance
+Score (SDS) covers the company’s disclosure policy on the number of employees, employee
+turnover ratio, number of unionized employees, percentage of women in management, per-
+centage of women employees, and so forth. Both of these scores (EDS and SDS) are likely
+to be affected by the firm’s CSR spending. Thirdly, the Governance Disclosure performance
+Score (GDS) is designed to reflect the corporate governance structure.1
+
+Given the above CSR literature and description of ESG, our research questions the
+
+following two hypotheses.
+
+Hypothesis 1. There is a linear and positive effect of Corporate Social Responsibility
+performance (EDS, SDS, GDS) on Corporate Financial Performance.
+Hypothesis 2. The effects of the Environment, Social and Governance performances on
+Corporate Financial Performance are non-linear, viz. it implies that the relationship
+could be convex (U curve) or concave (inverse U curve).
+
+Data description and methodology
+Data description
+The paper examines the effect of corporate social responsibility (CSR) on corporate
+Financial Performance (FP) in both a linear and non-linear framework. Particularly, we
+investigated the Korean (KOSPI) stock market. As measures of CSR, we used Bloomberg’s
+Environmental, Social, Governance (ESG) Disclosure scores: the Environmental Disclosure
+Score (EDS), Social Disclosure Score (SDS) and Governance Disclosure Score (GDS). ESG
+measures the listed firm’s CSR performance. We only use individual ESG score, technically
+because the number of firms whose overall ESG scores are available is relatively too small
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 67
+
+compared to that of the firms whose individual ESG scores are provided, and also due to
+our suspicion of the mixed result based on the overall score. To measure the corporate
+Financial Performance (FP), we used the Return on Equity (as a measure of the firms’ per-
+formance from an accounting perspective), Annual Stock Returns (as a measure of their
+performance from a market perspective) and Market-to-Book ratio (MBR, as a mixed meas-
+ure of both perspectives). We adopted the Market-to-Book ratio as a proxy for Tobin’s q as
+in Dowell, Hart, and Yeung (2000). Like these authors, we constructed the MBR by dividing
+the total of the firm’s market capitalization value plus book value of long-term debt plus net
+current liabilities by the book value of total assets.
+
+Our sample consists of the annual data of firms listed on the Korea Stock Exchange
+(known as KOSPI firms) in the period of 2008–2014 if their ESG score provision is
+available. This availability issue restricts the number of sample firms to 94 out of
+around 700 listed firms. All of the data used in our paper are collected from the
+Bloomberg terminal. Bloomberg’s ESG disclosure score is based on publicly available
+company material. It covers a wide range of data from CO2 emissions, total waste,
+energy efficiency, and emissions reduction policy to the share of women on the board
+and the number of board meetings per year. Its scoring scale ranges from 100 to null
+disclosure with a score of 0.
+
+One limitation of using Bloomberg’s ESG Disclosure score as the proxy of CSR as in
+Nollet, Filis, and Mitrokostas (2016) is that, although it is not the corporates’ direct
+ESG effort level itself, it is assumed to reflect firms’ ESG responsibility improvement
+effort. Using the three individual ESG disclosure score provides us with the chance to
+assess how each CSR activity of firm affects FP improvement and which of these three
+ESG scores is the key driver for improving FP.
+
+Table 1 presents descriptive statistics of the variables used. Table 2 provides the linear
+correlation among the variables. Table 1 shows that the three ESG scores have differ-
+ences. Out of the three scores, GDS shows the highest average value, whereas EDS has
+the lowest mean value. Regarding the standard errors, GDS is the most stable, while
+EDS is the least. Another observation regarding the three FP measures is that ROE
+shows the highest volatility in its standard errors, as well as its minimum and max-
+imum values, while Stock Return turns out to be the least volatile. Finally, other control
+
+Table 1 Descriptive statistics of the variables used
+Variables
+EDS
+
+Mean
+22.570
+
+Obs
+658
+
+SDS
+
+GDS
+
+ROE
+
+MBR
+
+Stock Return
+
+Leverage
+
+Log (Asset size)
+
+658
+
+658
+
+658
+
+658
+
+658
+
+658
+
+658
+
+33.814
+
+48.779
+
+6.726
+
+1.204
+
+0.112
+
+0.437
+
+28.564
+
+Std. Errors
+
+Min
+
+17.998
+
+17.715
+
+8.353
+
+17.999
+
+0.569
+
+0.761
+
+0.193
+
+1.485
+
+1.550
+
+3.125
+
+33.929
+
+-198.100
+
+0.426
+
+-1.000
+
+0.049
+
+23.492
+
+Max
+85.271
+
+80.702
+
+71.429
+
+73.650
+
+5.473
+
+14.034
+
+0.981
+
+32.731
+
+The variables are EDS environmental disclosure score, SDS social disclosure score, GDS governance disclosure score, ROE
+return on equity, MBR market-to-book ratio implying Tobin’s q, Stock Return annual stock market return, Leverage leverage
+ratio as proxy for risk, Log (Asset size) log value of asset size
+Data source: Bloomberg
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 68
+
+Table 2 Linear correlations of the variables used. The sample period runs from 2008 to 2014
+
+SDS
+
+GDS
+
+ROE
+
+MBR
+
+Stock Return
+
+Leverage
+
+Asset size
+
+EDS
+
+SDS
+
+GDS
+
+ROE
+
+MBR
+
+Stock Return
+
+Leverage
+
+Asset size
+
+EDS
+1
+
+0.8445
+
+0.8321
+
+0.0307
+
+0.1610
+
+0.0164
+
+0.1232
+
+0.6339
+
+1
+
+0.8435
+
+0.0655
+
+0.2114
+
+0.0226
+
+0.1075
+
+0.5651
+
+1
+
+0.0858
+
+0.1642
+
+0.004
+
+0.163
+
+1
+
+0.1461
+
+0.1556
+
+1
+
+0.0565
+
+1
+
+-0.2868
+
+-0.1164
+
+0.6334
+
+0.0364
+
+-0.147
+
+-0.0353
+
+-0.0847
+
+1
+
+0.3182
+
+1
+
+The variables are EDS environmental disclosure score, SDS social disclosure score, GDS governance disclosure score, ROE
+return on equity, MBR market-to-book ratio implying Tobin q, Stock Return annual stock market return, Leverage leverage
+ratio as proxy for risk, Log (Asset size) log value of asset size
+Data source: Bloomberg
+
+variables such as the leverage ratio and asset size after taking log function show moder-
+ate volatility.
+
+The correlations in Table 2 imply that the variables used are not highly correlated
+with each other. The highest correlations are observed among the ESG scores, while
+these high correlations among them do not lead to multicollinearity issues. Our VIF
+test result indicates that there is no problem of collinearity. The correlations among
+the financial performance (FP) measures are quite moderate. Furthermore, the correl-
+ation between the three ESG scores and FP measure is observed to be the highest for
+the MBR. In addition, some leverage is observed, implying that the firms’ risk indicator
+is negatively related with all three FP measures. Meanwhile, the asset size shows a
+mixed correlation with the FP measures.
+
+Table 3 provides more detailed descriptive statistics of the three ESG scores’ mean
+values over the study period. We observe that there is a general upward trend in the
+three ESG score during the period of 2008 ~ 2014. This upward trend is slightly inter-
+cepted in 2011 for SDS and in 2012 for both EDS and GDS as a small decrease is
+observed in these two scores. However, the upward trend is immediately restored and
+then becomes faster, except for GDS. Most of all, the fact that all three ESG scores
+show constant increases over the study period indicates that the CSR commitment in
+the Korean listed firms is quite resilient and noticeable, considering that there was no
+sharp drop in these ESG scores during the financial crisis of 2008 ~ 2010. Another
+
+Table 3 EDS, SDS and GDS. The sample period runs from 2008 to 2014
+Year
+2008
+
+EDS
+16.402
+
+SDS
+29.827
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Average
+
+Data source: Bloomberg
+
+18.810
+
+20.790
+
+22.578
+
+21.630
+
+29.134
+
+28.647
+
+22.570
+
+30.360
+
+32.921
+
+32.644
+
+30.590
+
+40.525
+
+39.834
+
+33.814
+
+GDS
+48.024
+
+48.290
+
+49.601
+
+49.696
+
+48.670
+
+48.784
+
+48.385
+
+48.779
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 69
+
+observation is that both EDS and SDS exhibit a relatively high variance (as shown in
+the standard errors) among the KOSPI firms, while this does not hold for GDS. This
+observation suggests that the firms listed in Korea may have different levels of environ-
+mental and social responsibility. Nonetheless, all of the firms show very similar levels
+of governance responsibility.
+
+Regression model
+This section describes the empirical method used to examine the effect of ESG on FP.
+Our panel regression model is as follows:
+3GDSit þ β
+
+for i ¼ 1; 2; …; k and t ¼ 1; 2; …; n
+
+1EDSit þ β
+
+2SDSit þ β
+
+þ ∈it;
+
+¼ β
+
+þ β
+
+4x′
+
+yit
+
+it
+
+0
+
+ð1Þ
+
+where yit is the corporate financial performance (FP) measure (i.e. ROE, MBR and Stock
+Returns) for firm i at time n. EDSit, SDSit and GDSit represent the firm’s social responsibil-
+ity score in the three dimensions, i.e. environmental, social and governance responsibility
+efforts, respectively. x′
+it is a vector composed of control variables such as the leverage ratio
+and log asset size, lagged dependent variables (yit-1), and cross-terms among ESG scores
+(EDSit × SDSit, GDSit × SDSit, EDSit × GDSit).2 The choice of control variables could be
+justified by recent CSR studies and other finance literature testing FP. The ∈ it term con-
+tains both an independent idiosyncratic error term uit and unobserved firm specific char-
+acteristics cit, such that ∈ it = uit + cit. Depending on the assumption on the unobserved
+firm specific characteristics term, cit, we can run two different panel regressions. Firstly,
+we run a random effect panel under the assumption that cit varies across time. Secondly,
+assuming that cit does not change across time, we run a fixed effect panel. We also run
+simple pooled OLS (Ordinary Least Square) regression, as done by Nollet, Filis, and
+Mitrokostas (2016). In this case, we need to consider the specific time period effect add-
+itionally, because the pooled OLS does not distinguish the firms’ identity and time trend
+on its own, unlike the above two panel models. Thus, we introduce Dt as a dummy vari-
+able to capture the effect of the financial crisis during the period of 2008 ~ 2010 (Dt takes
+a value of one for the years 2008 ~ 2010 and zero otherwise). For the pooled OLS, our re-
+gression model is modified as follows:
+
+¼β0þβ1EDSitþβ2SDSitþβ3GDSitþβ4x′
+
+itþDtþ∈it
+
+yit
+
+ð2Þ
+
+In addition, we run a quasi-maximum likelihood estimate to avoid the critique that in-
+cluding a lagged dependent variable in the random effect panel might violate the indepen-
+dency between the unobserved firm specific characteristics cit and dependent variables.3
+Finally, we examine the quadratic relationship between the ESG scores and FP, as in Nollet,
+Filis, and Mitrokostas (2016), in order to consider the possibility of a U shaped or inversed
+U shaped relationship. This is about testing Hypothesis 2. Now the equation becomes:
+it þ ∈it
+x′
+
+GDSit þ β
+
+EDSit þ β
+
+SDSit þ β
+
+it þ β
+
+it þ β
+
+it þ β
+
+¼ β
+
+þ β
+
+GDS2
+
+EDS2
+
+SDS2
+
+5
+
+6
+
+0
+
+1
+
+yit
+
+2
+
+3
+
+4
+
+7
+
+ð3Þ
+
+Empirical findings
+Table 4 reports the linear regression results for the effect of the three ESG scores on
+FP (financial performance). The relationship between the ESG score and ROE is
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 70
+
+)
+6
+9
+1
+0
+0
+(
+
+.
+
+7
+7
+4
+0
+0
+0
+
+.
+
+)
+3
+2
+2
+0
+0
+(
+
+.
+
+7
+2
+7
+0
+0
+0
+
+.
+
+)
+7
+4
+1
+0
+0
+0
+(
+
+.
+
+1
+8
+2
+0
+0
+0
+0
+-
+
+.
+
+)
+4
+5
+2
+0
+0
+(
+
+.
+
+8
+2
+2
+0
+0
+
+.
+
+)
+6
+3
+1
+0
+0
+0
+(
+
+.
+
+5
+9
+2
+0
+0
+0
+0
+
+.
+
+d
+o
+o
+h
+
+i
+l
+
+i
+
+e
+k
+L
+-
+x
+a
+M
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+)
+8
+(
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+m
+o
+d
+n
+a
+R
+
+)
+7
+(
+
+R
+B
+M
+
+S
+L
+O
+d
+e
+o
+o
+P
+
+l
+
+d
+o
+o
+h
+
+i
+l
+
+e
+k
+i
+L
+-
+x
+a
+M
+
+)
+6
+(
+
+)
+5
+(
+
+)
+5
+6
+4
+0
+(
+
+.
+
+0
+7
+1
+0
+
+.
+
+)
+8
+3
+5
+0
+(
+
+.
+
+0
+1
+4
+0
+
+.
+
+E
+O
+R
+
+)
+0
+0
+6
+0
+(
+
+.
+
+5
+7
+5
+0
+-
+
+.
+
+)
+8
+2
+6
+0
+(
+
+.
+
+4
+9
+4
+0
+-
+
+.
+
+)
+3
+1
+6
+0
+(
+
+.
+
+5
+6
+2
+0
+-
+
+.
+
+d
+e
+x
+F
+
+i
+
+E
+O
+R
+
+)
+4
+(
+
+m
+o
+d
+n
+a
+R
+
+E
+O
+R
+
+)
+3
+(
+
+)
+1
+5
+4
+0
+(
+
+.
+
+2
+5
+1
+0
+
+.
+
+)
+5
+1
+5
+0
+(
+
+.
+
+2
+3
+5
+0
+
+.
+
+)
+4
+1
+2
+0
+0
+(
+
+.
+
+*
+*
+*
+0
+2
+6
+0
+0
+
+.
+
+)
+1
+3
+2
+0
+0
+(
+
+.
+
+7
+9
+2
+0
+0
+
+.
+
+)
+8
+4
+1
+0
+(
+
+.
+
+3
+8
+7
+0
+0
+
+.
+
+)
+7
+2
+2
+0
+0
+0
+0
+(
+
+.
+
+*
+*
+*
+2
+0
+6
+0
+0
+0
+0
+
+.
+
+)
+2
+4
+2
+0
+0
+0
+0
+(
+
+.
+
+*
+*
+*
+1
+9
+6
+0
+0
+0
+0
+
+.
+
+)
+5
+5
+4
+0
+0
+0
+0
+(
+
+.
+
+*
+*
+4
+2
+9
+0
+0
+0
+0
+-
+
+.
+
+)
+8
+0
+5
+0
+0
+0
+0
+(
+
+.
+
+2
+2
+8
+0
+0
+0
+0
+-
+
+.
+
+)
+5
+5
+4
+0
+0
+0
+0
+(
+
+.
+
+2
+4
+5
+0
+0
+0
+0
+-
+
+.
+
+)
+4
+0
+5
+0
+0
+0
+0
+(
+
+.
+
+0
+6
+6
+0
+0
+0
+0
+-
+
+.
+
+)
+5
+9
+4
+0
+0
+0
+(
+
+.
+
+9
+5
+6
+0
+0
+0
+
+.
+
+)
+8
+4
+5
+0
+0
+0
+(
+
+.
+
+2
+4
+1
+0
+0
+0
+-
+
+.
+
+)
+9
+8
+4
+0
+0
+0
+(
+
+.
+
+7
+9
+6
+0
+0
+0
+
+.
+
+)
+9
+3
+4
+0
+0
+0
+(
+
+.
+
+6
+7
+4
+0
+0
+0
+
+.
+
+)
+4
+0
+1
+0
+0
+(
+
+.
+
+2
+2
+1
+0
+0
+-
+
+.
+
+)
+1
+3
+1
+0
+0
+(
+
+.
+
+0
+1
+9
+0
+0
+0
+
+.
+
+)
+2
+0
+1
+0
+0
+(
+
+.
+
+0
+2
+1
+0
+0
+-
+
+.
+
+)
+1
+5
+8
+0
+0
+0
+(
+
+.
+
+1
+0
+1
+0
+0
+-
+
+.
+
+)
+8
+0
+1
+0
+0
+(
+
+.
+
+7
+1
+1
+0
+0
+-
+
+.
+
+)
+8
+2
+1
+0
+0
+(
+
+.
+
+5
+9
+7
+0
+0
+0
+
+.
+
+)
+3
+0
+1
+0
+0
+(
+
+.
+
+1
+4
+1
+0
+0
+-
+
+.
+
+)
+4
+4
+8
+0
+0
+0
+(
+
+.
+
+*
+4
+4
+1
+0
+0
+-
+
+.
+
+)
+9
+6
+2
+0
+0
+(
+
+.
+
+*
+*
+*
+7
+2
+8
+0
+0
+-
+
+.
+
+)
+5
+2
+3
+0
+0
+(
+
+.
+
+*
+*
+*
+3
+0
+1
+0
+-
+
+.
+
+)
+7
+4
+1
+0
+0
+(
+
+.
+
+*
+*
+*
+8
+1
+6
+0
+0
+-
+
+.
+
+)
+3
+5
+7
+0
+(
+
+.
+
+*
+4
+6
+3
+1
+
+.
+
+)
+5
+7
+2
+3
+(
+
+.
+
+9
+4
+5
+4
+
+.
+
+)
+8
+5
+6
+0
+(
+
+.
+
+*
+9
+0
+1
+1
+
+.
+
+)
+6
+1
+8
+0
+(
+
+.
+
+0
+4
+2
+1
+
+.
+
+)
+9
+2
+8
+0
+(
+
+.
+
+5
+3
+2
+1
+
+.
+
+)
+1
+5
+2
+0
+0
+(
+
+.
+
+6
+1
+6
+0
+0
+0
+
+.
+
+)
+6
+6
+4
+1
+(
+
+.
+
+*
+*
+*
+4
+9
+0
+6
+
+.
+
+)
+6
+4
+5
+1
+(
+
+.
+
+*
+*
+*
+3
+1
+9
+5
+
+.
+
+)
+0
+5
+6
+0
+0
+(
+
+.
+
+*
+*
+*
+7
+0
+3
+0
+
+.
+
+)
+2
+9
+4
+0
+0
+(
+
+.
+
+1
+7
+2
+0
+0
+
+.
+
+)
+9
+2
+4
+0
+0
+(
+
+.
+
+*
+*
+*
+0
+7
+3
+0
+
+.
+
+)
+2
+0
+1
+0
+(
+
+.
+
+*
+*
+*
+6
+7
+3
+0
+
+.
+
+)
+2
+0
+1
+0
+(
+
+.
+
+*
+*
+*
+3
+8
+3
+0
+
+.
+
+)
+4
+4
+5
+0
+0
+(
+
+.
+
+3
+9
+5
+0
+0
+
+.
+
+)
+6
+4
+0
+1
+(
+
+.
+
+1
+9
+4
+0
+0
+
+.
+
+8
+5
+6
+
+)
+4
+1
+4
+0
+0
+(
+
+.
+
+8
+8
+3
+0
+0
+-
+
+.
+
+)
+3
+0
+6
+0
+0
+(
+
+.
+
+*
+*
+*
+6
+1
+9
+0
+
+.
+
+)
+5
+1
+2
+1
+(
+
+.
+
+3
+9
+6
+0
+
+.
+
+)
+8
+4
+3
+0
+(
+
+.
+
+*
+*
+*
+9
+4
+4
+1
+
+.
+
+.
+
+)
+8
+8
+5
+2
+(
+
+*
+*
+*
+9
+3
+5
+7
+-
+
+.
+
+.
+
+)
+3
+8
+7
+9
+(
+
+.
+
+3
+3
+5
+5
+-
+
+.
+
+)
+0
+6
+4
+2
+(
+
+*
+*
+*
+8
+8
+3
+7
+-
+
+.
+
+.
+
+)
+0
+6
+3
+3
+(
+
+*
+*
+7
+8
+2
+7
+-
+
+.
+
+.
+
+)
+2
+3
+2
+2
+(
+
+.
+
+0
+0
+4
+3
+-
+
+2
+3
+0
+0
+
+.
+
+4
+6
+5
+
+4
+8
+7
+0
+
+.
+
+4
+6
+5
+
+8
+5
+6
+
+4
+9
+1
+0
+
+.
+
+4
+6
+5
+
+4
+4
+2
+0
+
+.
+
+4
+6
+5
+
+6
+6
+2
+0
+
+.
+
+4
+6
+5
+
+9
+5
+2
+0
+
+.
+
+4
+6
+5
+
+)
+9
+3
+2
+0
+0
+(
+
+.
+
+*
+*
+1
+1
+6
+0
+0
+
+.
+
+)
+2
+8
+3
+0
+0
+0
+(
+
+.
+
+*
+*
+1
+3
+8
+0
+0
+0
+
+.
+
+)
+6
+0
+5
+0
+(
+
+.
+
+*
+*
+*
+8
+1
+3
+1
+
+.
+
+)
+5
+8
+4
+0
+(
+
+.
+
+*
+*
+*
+5
+9
+3
+1
+
+.
+
+)
+6
+4
+4
+0
+(
+
+.
+
+*
+*
+*
+9
+5
+1
+1
+
+.
+
+)
+4
+3
+1
+0
+(
+
+.
+
+*
+1
+4
+2
+0
+
+.
+
+)
+5
+8
+1
+0
+(
+
+.
+
+0
+5
+1
+0
+
+.
+
+)
+6
+8
+6
+0
+0
+(
+
+.
+
+2
+0
+3
+0
+0
+
+.
+
+)
+2
+5
+2
+5
+(
+
+.
+
+*
+*
+*
+4
+5
+8
+2
+-
+
+.
+
+)
+8
+6
+1
+1
+(
+
+.
+
+.
+
+*
+*
+*
+6
+3
+1
+1
+-
+
+)
+7
+8
+8
+3
+(
+
+.
+
+*
+*
+*
+6
+1
+5
+2
+-
+
+.
+
+)
+2
+7
+3
+7
+(
+
+.
+
+*
+*
+*
+9
+0
+5
+2
+-
+
+.
+
+)
+0
+9
+2
+7
+(
+
+.
+
+*
+*
+*
+7
+9
+3
+2
+-
+
+.
+
+e
+g
+a
+r
+e
+v
+e
+L
+
+e
+z
+i
+S
+
+D
+
+E
+O
+R
+L
+
+.
+
+S
+D
+S
+_
+S
+D
+E
+
+S
+D
+G
+_
+S
+D
+E
+
+s
+S
+D
+G
+_
+S
+D
+S
+
+R
+B
+M
+L
+
+.
+
+S
+D
+E
+
+S
+D
+S
+
+S
+D
+G
+
+n
+r
+u
+t
+e
+R
+k
+c
+o
+t
+S
+L
+
+.
+
+t
+n
+a
+t
+s
+n
+o
+C
+
+N
+
+2
+R
+
+)
+1
+6
+3
+0
+(
+
+.
+
+7
+9
+1
+0
+
+.
+
+)
+1
+2
+6
+0
+0
+(
+
+.
+
+*
+1
+2
+1
+0
+-
+
+.
+
+)
+2
+6
+4
+0
+(
+
+.
+
+4
+5
+6
+0
+
+.
+
+)
+5
+1
+7
+0
+0
+(
+
+.
+
+9
+2
+5
+0
+0
+
+.
+
+S
+L
+O
+d
+e
+o
+o
+P
+
+l
+
+S
+L
+O
+d
+e
+o
+o
+P
+
+l
+
+E
+O
+R
+
+E
+O
+R
+
+l
+
+e
+b
+a
+i
+r
+a
+v
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+n
+
+I
+
+)
+2
+(
+
+)
+1
+(
+
+n
+o
+i
+t
+a
+c
+i
+f
+i
+c
+e
+p
+S
+
+s
+l
+e
+d
+o
+m
+
+r
+a
+e
+n
+
+i
+l
+
+n
+
+i
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+
+l
+
+P
+F
+-
+G
+S
+E
+
+4
+
+e
+l
+b
+a
+T
+
+t
+e
+k
+r
+a
+m
+k
+c
+o
+t
+s
+
+l
+
+a
+u
+n
+n
+a
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+,
+
+q
+
+i
+
+n
+b
+o
+T
+
+i
+
+g
+n
+y
+p
+m
+
+l
+
+i
+
+o
+i
+t
+a
+r
+
+k
+o
+o
+b
+-
+o
+t
+-
+t
+e
+k
+r
+a
+m
+R
+B
+M
+
+,
+
+y
+t
+i
+u
+q
+e
+
+n
+o
+
+n
+r
+u
+t
+e
+r
+
+E
+O
+R
+
+,
+
+e
+r
+o
+c
+s
+
+e
+r
+u
+s
+o
+l
+c
+s
+i
+d
+
+e
+c
+n
+a
+n
+r
+e
+v
+o
+g
+
+S
+D
+G
+
+,
+
+e
+r
+o
+c
+s
+
+e
+r
+u
+s
+o
+l
+c
+s
+i
+d
+
+l
+
+a
+i
+c
+o
+s
+
+S
+D
+S
+
+,
+
+e
+r
+o
+c
+s
+
+e
+r
+u
+s
+o
+l
+c
+s
+i
+d
+
+l
+
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+S
+D
+E
+
+e
+r
+a
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+
+e
+h
+T
+
+m
+r
+e
+t
+-
+s
+s
+o
+r
+c
+
+x
+x
+x
+_
+x
+x
+x
+
+,
+
+l
+
+e
+b
+a
+i
+r
+a
+v
+
+d
+e
+g
+g
+a
+
+l
+
+x
+x
+x
+L
+
+.
+
+,
+
+s
+i
+s
+i
+r
+c
+
+l
+
+a
+i
+c
+n
+a
+n
+i
+f
+
+r
+o
+f
+
+l
+
+e
+b
+a
+i
+r
+a
+v
+
+y
+m
+m
+u
+d
+D
+
+,
+
+e
+z
+i
+s
+
+t
+e
+s
+s
+a
+
+f
+o
+
+e
+u
+a
+v
+
+l
+
+g
+o
+
+l
+
+)
+e
+z
+i
+s
+
+t
+e
+s
+s
+A
+
+(
+
+g
+o
+L
+
+,
+
+k
+s
+i
+r
+
+r
+o
+f
+
+y
+x
+o
+r
+p
+
+s
+a
+
+o
+i
+t
+a
+r
+
+e
+g
+a
+r
+e
+v
+e
+
+l
+
+e
+g
+a
+r
+e
+v
+e
+L
+
+,
+
+n
+r
+u
+t
+e
+r
+
+1
+0
+0
+
+.
+
+b
+
+p
+
+*
+*
+*
+
+,
+
+5
+0
+0
+
+.
+
+b
+
+p
+
+*
+*
+
+,
+
+1
+0
+
+.
+
+b
+
+p
+
+*
+
+:
+
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+n
+
+i
+
+l
+
+s
+e
+u
+a
+v
+-
+P
+
+g
+r
+e
+b
+m
+o
+o
+B
+
+l
+
+:
+
+e
+c
+r
+u
+o
+s
+
+a
+t
+a
+D
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 71
+
+reported in specifications (1)-(5), viz. the two types of pooled OLS, random effect panel,
+fixed effect panel and quasi-maximum likelihood regression, respectively. The regres-
+sion results suggest that, in the linear specifications, the effect of ESG on ROE is mixed
+and insignificant for EDS and SDS. On the other hand, the effect of GDS is shown to
+be positive with significance in specifications (2), (3) and (5). By the way, the ESG
+cross-terms’ coefficients show mixed signs with no statistical significance. Therefore,
+we can confirm that Hypothesis 1 holds only for GDS. This result is in line with
+Margolis et al. (2009)’s empirical result of the positive effect of CSR on accounting
+based profits. Also, the insignificance of the ESG cross-terms’ coefficients is the same
+as that reported by Nollet, Filis, and Mitrokostas (2016).
+
+We also applied the same five types of regression methods to MBR and, then, the
+Stock Return as dependent variables. However, we can only find three cases with any
+level of significance in any of the ESG coefficients. Thus, we report only specifications
+(6)-(8). Here, we can see that the effect of GDS on both MBR and Stock Return is
+significant, whereas neither EDS nor SDS has any significant effect on these two FP
+measures.4 In the latter cases, we can also observe significance in the cross-term of
+EDSit × SDSit. However, with there being no significant effect of ESD and SDS at all, it
+is difficult to find any meaningful implications. Finally, the lagged dependent variables
+are significantly positive for ROE and MBR, but not for Stock Return.
+
+Now we turn our attention to the quadratic models of equation (3) with the same
+types of regression methods. In this case, we ignored the ESG cross-term for simplicity,
+considering both their insignificance in the linear regression and increased number of
+dependent variables (three additional ESG cross-term variables) in the quadratic model.
+This quadratic model finds some interesting results: there exist both U shaped and
+inversely U shaped relationships between the ESG scores and FP in Korea stock market.
+This is in sharp contrast to the finding of only a U shaped relationship by Nollet, Filis,
+and Mitrokostas (2016) in the US stock market.
+
+Table 5 provides the quadratic regression results. The quadratic relationship of the
+ESG disclosure scores with ROE is reported in specifications (1)-(4) for the pooled
+OLS, random effect panel, fixed effect panel and quasi-maximum likelihood regression,
+respectively. Firstly, we detected a U shaped relationship between the EDS and ROE in
+specification (3). This supports Hypothesis 2. By the way, the U shaped relationship in
+Table 5 is also related to the negative coefficient of EDS in the previous linear specifica-
+tion (1) in Table 4, although the significance level is weak (i.e. 10%). Combining these
+two findings on the coefficients of the EDS terms in Tables 4 and 5 explains well that,
+while a negative relation between EDS and ROE may occur at an early stage of EDS in
+Table 4 (i.e. linear framework), Table 5 (i.e. quadratic framework) picks up a positively
+turning point in the latter part of a convexly U shaped relationship. We would like to
+emphasize that our finding fills the gap between the negative relationship reported by
+both Mittal et al. (2008) and Fisher-Vanden and Thorburn (2011) and the U shaped
+relationship stressed by Brammer and Millington (2008), and Nollet and al (2016).5
+Furthermore, although Nollet, Filis, and Mitrokostas (2016) failed to find a U shaped
+relation in US EDS (i.e. corporate environmental effort), our study on Korean listed
+firms found a U shaped relation in EDS. The U shaped relation between EDS and ROE
+(accounting-based FP measures) suggests that although investment in environmental
+activities may not pay off immediately, it pays off ultimately after a certain threshold
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 72
+
+d
+o
+o
+h
+
+i
+l
+
+e
+k
+
+i
+l
+-
+x
+a
+M
+
+)
+7
+2
+3
+0
+0
+(
+
+.
+
+*
+8
+6
+5
+0
+0
+
+.
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+)
+8
+(
+
+)
+7
+(
+
+d
+o
+o
+h
+
+i
+l
+
+e
+k
+
+i
+l
+-
+x
+a
+M
+
+d
+e
+x
+F
+
+i
+
+)
+6
+(
+
+m
+o
+d
+n
+a
+R
+
+)
+5
+(
+
+d
+o
+o
+h
+
+i
+l
+
+e
+k
+i
+l
+-
+x
+a
+M
+
+)
+4
+(
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+E
+O
+R
+
+)
+5
+0
+4
+0
+0
+0
+0
+(
+
+.
+
+*
+0
+5
+7
+0
+0
+0
+0
+
+.
+
+)
+7
+1
+9
+0
+0
+0
+0
+(
+
+.
+
+*
+*
+2
+1
+2
+0
+0
+0
+-
+
+.
+
+)
+0
+5
+8
+0
+0
+0
+0
+(
+
+.
+
+5
+7
+1
+0
+0
+0
+0
+0
+-
+
+.
+
+)
+4
+5
+2
+0
+0
+0
+0
+(
+
+.
+
+6
+5
+3
+0
+0
+0
+0
+
+.
+
+)
+4
+5
+9
+0
+0
+0
+0
+0
+(
+
+.
+
+*
+*
+6
+9
+1
+0
+0
+0
+0
+
+.
+
+)
+0
+7
+1
+0
+0
+0
+0
+(
+
+.
+
+*
+7
+9
+2
+0
+0
+0
+0
+
+.
+
+)
+8
+0
+1
+0
+0
+0
+0
+(
+
+.
+
+7
+5
+1
+0
+0
+0
+0
+
+.
+
+)
+1
+3
+2
+0
+0
+0
+(
+
+.
+
+8
+4
+3
+0
+0
+0
+
+.
+
+)
+5
+1
+3
+0
+0
+0
+(
+
+.
+
+*
+*
+5
+7
+6
+0
+0
+0
+
+.
+
+)
+2
+2
+2
+0
+0
+0
+(
+
+.
+
+8
+3
+3
+0
+0
+0
+
+.
+
+)
+3
+6
+1
+0
+0
+0
+(
+
+.
+
+4
+2
+2
+0
+0
+0
+
+.
+
+)
+7
+0
+3
+0
+0
+(
+
+.
+
+0
+0
+1
+0
+0
+
+.
+
+)
+9
+1
+1
+0
+0
+(
+
+.
+
+4
+9
+6
+0
+0
+0
+
+.
+
+)
+8
+6
+1
+0
+0
+(
+
+.
+
+5
+1
+2
+0
+0
+0
+-
+
+.
+
+)
+7
+2
+1
+0
+0
+(
+
+.
+
+9
+0
+1
+0
+0
+
+.
+
+)
+9
+6
+2
+0
+(
+
+.
+
+6
+9
+1
+0
+
+.
+
+)
+0
+1
+3
+0
+(
+
+.
+
+6
+1
+1
+0
+
+.
+
+)
+4
+6
+2
+0
+(
+
+.
+
+8
+1
+2
+0
+
+.
+
+)
+4
+0
+3
+0
+(
+
+.
+
+7
+9
+2
+0
+
+.
+
+)
+7
+9
+2
+0
+0
+0
+0
+(
+
+.
+
+7
+7
+3
+0
+0
+0
+0
+-
+
+.
+
+)
+9
+2
+1
+0
+0
+0
+0
+(
+
+.
+
+0
+4
+7
+0
+0
+0
+0
+0
+-
+
+.
+
+)
+9
+9
+1
+0
+0
+0
+0
+(
+
+.
+
+9
+6
+1
+0
+0
+0
+0
+
+.
+
+)
+9
+3
+1
+0
+0
+0
+0
+(
+
+.
+
+1
+8
+7
+0
+0
+0
+0
+0
+-
+
+.
+
+)
+7
+9
+2
+0
+0
+0
+(
+
+.
+
+3
+1
+2
+0
+0
+0
+-
+
+.
+
+)
+7
+6
+3
+0
+0
+0
+(
+
+.
+
+0
+8
+2
+0
+0
+0
+-
+
+.
+
+)
+0
+9
+2
+0
+0
+0
+(
+
+.
+
+1
+3
+2
+0
+0
+0
+-
+
+.
+
+)
+1
+0
+3
+0
+0
+0
+(
+
+.
+
+4
+9
+2
+0
+0
+0
+-
+
+.
+
+)
+4
+1
+1
+0
+0
+0
+(
+
+.
+
+2
+1
+6
+0
+0
+0
+0
+
+.
+
+)
+3
+8
+5
+0
+0
+0
+0
+(
+
+.
+
+*
+*
+6
+1
+1
+0
+0
+0
+-
+
+.
+
+)
+0
+2
+8
+0
+0
+0
+0
+(
+
+.
+
+0
+3
+1
+0
+0
+0
+-
+
+.
+
+)
+3
+2
+6
+0
+0
+0
+0
+(
+
+.
+
+*
+7
+0
+1
+0
+0
+0
+-
+
+.
+
+)
+6
+3
+1
+0
+0
+(
+
+.
+
+*
+*
+9
+2
+3
+0
+0
+-
+
+.
+
+)
+2
+5
+1
+0
+0
+(
+
+.
+
+9
+4
+1
+0
+0
+
+.
+
+)
+1
+3
+1
+0
+0
+(
+
+.
+
+*
+*
+*
+1
+5
+3
+0
+0
+-
+
+.
+
+)
+4
+2
+1
+0
+0
+(
+
+.
+
+*
+*
+*
+7
+2
+3
+0
+0
+-
+
+.
+
+)
+7
+9
+8
+0
+0
+(
+
+.
+
+5
+0
+1
+0
+0
+
+.
+
+)
+9
+1
+6
+0
+0
+(
+
+.
+
+*
+*
+0
+3
+1
+0
+
+.
+
+)
+4
+8
+8
+0
+0
+(
+
+.
+
+1
+2
+1
+0
+
+.
+
+)
+5
+6
+6
+0
+0
+(
+
+.
+
+5
+0
+1
+0
+
+.
+
+)
+0
+5
+4
+1
+(
+
+.
+
+*
+*
+*
+0
+2
+9
+3
+
+.
+
+)
+2
+3
+6
+1
+(
+
+.
+
+2
+8
+1
+1
+-
+
+.
+
+)
+4
+9
+3
+1
+(
+
+.
+
+*
+*
+*
+4
+3
+1
+4
+
+.
+
+)
+8
+5
+3
+1
+(
+
+.
+
+*
+*
+*
+2
+0
+7
+3
+
+.
+
+)
+4
+6
+2
+0
+0
+(
+
+.
+
+*
+*
+*
+6
+3
+7
+0
+0
+-
+
+.
+
+)
+4
+6
+2
+0
+0
+(
+
+.
+
+*
+*
+*
+2
+8
+7
+0
+0
+-
+
+.
+
+)
+8
+7
+1
+0
+(
+
+.
+
+*
+*
+*
+2
+8
+9
+0
+-
+
+.
+
+)
+5
+1
+3
+0
+0
+(
+
+.
+
+*
+*
+*
+5
+9
+8
+0
+0
+-
+
+.
+
+)
+8
+5
+7
+0
+(
+
+.
+
+*
+9
+4
+3
+1
+
+.
+
+)
+7
+8
+2
+3
+(
+
+.
+
+*
+7
+4
+4
+5
+
+.
+
+)
+7
+5
+6
+0
+(
+
+.
+
+9
+7
+0
+1
+
+.
+
+)
+0
+0
+8
+0
+(
+
+.
+
+6
+8
+1
+1
+
+.
+
+)
+2
+4
+1
+0
+(
+
+.
+
+5
+1
+9
+0
+0
+
+.
+
+)
+6
+4
+1
+0
+(
+
+.
+
+1
+2
+8
+0
+0
+
+.
+
+)
+2
+2
+6
+0
+(
+
+.
+
+*
+*
+7
+9
+3
+1
+
+.
+
+)
+0
+8
+1
+0
+(
+
+.
+
+2
+5
+1
+0
+
+.
+
+)
+9
+5
+1
+5
+(
+
+.
+
+*
+*
+*
+9
+3
+8
+2
+-
+
+.
+
+)
+5
+6
+1
+1
+(
+
+.
+
+.
+
+*
+*
+*
+2
+2
+1
+1
+-
+
+)
+2
+9
+8
+3
+(
+
+.
+
+*
+*
+*
+1
+1
+5
+2
+-
+
+.
+
+)
+7
+7
+2
+7
+(
+
+.
+
+*
+*
+*
+9
+0
+5
+2
+-
+
+.
+
+)
+4
+0
+6
+0
+0
+(
+
+.
+
+*
+1
+0
+1
+0
+
+.
+
+)
+8
+7
+5
+0
+0
+(
+
+.
+
+7
+7
+7
+0
+0
+
+.
+
+)
+1
+3
+4
+0
+0
+(
+
+.
+
+*
+*
+*
+6
+6
+1
+0
+-
+
+.
+
+)
+9
+1
+7
+0
+0
+(
+
+.
+
+*
+*
+*
+1
+6
+4
+0
+
+.
+
+)
+0
+0
+4
+0
+0
+(
+
+.
+
+4
+3
+4
+0
+0
+-
+
+.
+
+)
+3
+4
+6
+0
+0
+(
+
+.
+
+*
+*
+*
+7
+9
+2
+0
+
+.
+
+)
+1
+9
+4
+0
+0
+(
+
+.
+
+0
+1
+2
+0
+0
+
+.
+
+)
+9
+2
+4
+0
+0
+(
+
+.
+
+*
+*
+*
+4
+6
+3
+0
+
+.
+
+)
+2
+0
+1
+0
+(
+
+.
+
+*
+*
+*
+1
+7
+3
+0
+
+.
+
+)
+7
+4
+4
+1
+(
+
+.
+
+*
+*
+*
+8
+7
+8
+5
+
+.
+
+)
+9
+5
+8
+1
+(
+
+.
+
+8
+0
+7
+0
+
+.
+
+)
+2
+0
+6
+1
+(
+
+.
+
+7
+1
+1
+1
+-
+
+.
+
+)
+6
+8
+5
+5
+(
+
+.
+
+*
+*
+*
+0
+9
+4
+2
+
+.
+
+)
+0
+7
+7
+1
+(
+
+.
+
+7
+3
+2
+0
+-
+
+.
+
+.
+
+)
+3
+3
+8
+3
+(
+
+.
+
+*
+*
+*
+0
+9
+2
+1
+-
+
+.
+
+)
+2
+3
+0
+1
+(
+
+.
+
+3
+6
+0
+7
+-
+
+.
+
+)
+7
+1
+7
+3
+(
+
+.
+
+*
+*
+*
+2
+9
+2
+1
+-
+
+)
+8
+8
+6
+4
+(
+
+.
+
+.
+
+*
+*
+*
+9
+2
+2
+1
+-
+
+8
+5
+6
+
+8
+5
+6
+
+7
+1
+1
+0
+
+.
+
+4
+6
+5
+
+6
+9
+0
+0
+
+.
+
+4
+6
+5
+
+8
+5
+6
+
+1
+0
+2
+0
+
+.
+
+4
+6
+5
+
+9
+4
+2
+0
+
+.
+
+4
+6
+5
+
+9
+6
+2
+0
+
+.
+
+4
+6
+5
+
+)
+8
+2
+7
+0
+0
+0
+(
+
+.
+
+*
+3
+2
+1
+0
+0
+-
+
+.
+
+)
+3
+2
+1
+0
+0
+(
+
+.
+
+5
+6
+1
+0
+0
+-
+
+.
+
+)
+8
+2
+8
+0
+0
+0
+(
+
+.
+
+7
+2
+5
+0
+0
+0
+-
+
+.
+
+)
+5
+7
+1
+0
+(
+
+.
+
+*
+*
+8
+2
+4
+0
+-
+
+.
+
+)
+8
+2
+2
+0
+(
+
+.
+
+*
+*
+*
+0
+1
+6
+0
+-
+
+.
+
+)
+9
+6
+1
+0
+(
+
+.
+
+*
+*
+3
+1
+4
+0
+-
+
+.
+
+)
+8
+4
+1
+0
+(
+
+.
+
+*
+0
+8
+2
+0
+-
+
+.
+
+q
+s
+_
+
+S
+D
+E
+
+q
+s
+_
+S
+D
+S
+
+S
+D
+G
+
+S
+D
+S
+
+S
+D
+E
+
+q
+s
+_
+S
+D
+G
+
+e
+g
+a
+r
+e
+v
+e
+L
+
+e
+z
+i
+S
+
+t
+e
+s
+s
+A
+
+E
+O
+R
+L
+
+.
+
+D
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+.
+
+L
+
+S
+D
+S
+_
+S
+D
+E
+
+S
+D
+G
+_
+S
+D
+E
+
+S
+D
+G
+_
+S
+D
+S
+
+t
+n
+a
+t
+s
+n
+o
+C
+
+N
+
+2
+R
+
+d
+e
+x
+F
+
+i
+
+E
+O
+R
+
+)
+3
+(
+
+m
+o
+d
+n
+a
+R
+
+E
+O
+R
+
+)
+2
+(
+
+S
+L
+O
+d
+e
+o
+o
+P
+
+l
+
+E
+O
+R
+
+l
+
+e
+b
+a
+i
+r
+a
+v
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+n
+
+I
+
+)
+1
+(
+
+n
+o
+i
+t
+a
+c
+i
+f
+i
+c
+e
+p
+S
+
+s
+l
+e
+d
+o
+m
+c
+i
+t
+a
+r
+d
+a
+u
+q
+
+n
+
+i
+
+i
+
+p
+h
+s
+n
+o
+i
+t
+a
+e
+r
+
+l
+
+P
+F
+-
+G
+S
+E
+
+5
+
+e
+l
+b
+a
+T
+
+t
+e
+k
+r
+a
+m
+k
+c
+o
+t
+s
+
+l
+
+a
+u
+n
+n
+a
+
+n
+r
+u
+t
+e
+R
+
+k
+c
+o
+t
+S
+
+,
+
+q
+
+i
+
+n
+b
+o
+T
+
+i
+
+g
+n
+y
+p
+m
+
+l
+
+i
+
+o
+i
+t
+a
+r
+
+k
+o
+o
+b
+-
+o
+t
+-
+t
+e
+k
+r
+a
+m
+R
+B
+M
+
+,
+
+y
+t
+i
+u
+q
+e
+
+n
+o
+
+n
+r
+u
+t
+e
+r
+
+E
+O
+R
+
+,
+
+e
+r
+o
+c
+s
+
+e
+r
+u
+s
+o
+l
+c
+s
+i
+d
+
+e
+c
+n
+a
+n
+r
+e
+v
+o
+g
+
+S
+D
+G
+
+,
+
+e
+r
+o
+c
+s
+
+e
+r
+u
+s
+o
+l
+c
+s
+i
+d
+
+l
+
+a
+i
+c
+o
+s
+
+S
+D
+S
+
+,
+
+e
+r
+o
+c
+s
+
+e
+r
+u
+s
+o
+l
+c
+s
+i
+d
+
+l
+
+a
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+S
+D
+E
+
+e
+r
+a
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+
+e
+h
+T
+
+m
+r
+e
+t
+-
+s
+s
+o
+r
+c
+
+x
+x
+x
+_
+x
+x
+x
+
+,
+
+l
+
+e
+b
+a
+i
+r
+a
+v
+
+d
+e
+g
+g
+a
+
+l
+
+x
+x
+x
+L
+
+.
+
+,
+
+s
+i
+s
+i
+r
+c
+
+l
+
+a
+i
+c
+n
+a
+n
+i
+f
+
+r
+o
+f
+
+l
+
+e
+b
+a
+i
+r
+a
+v
+
+y
+m
+m
+u
+d
+D
+
+,
+
+e
+z
+i
+s
+
+t
+e
+s
+s
+a
+
+f
+o
+
+e
+u
+a
+v
+
+l
+
+g
+o
+
+l
+
+)
+e
+z
+i
+s
+
+t
+e
+s
+s
+A
+
+(
+
+g
+o
+L
+
+,
+
+k
+s
+i
+r
+
+r
+o
+f
+
+y
+x
+o
+r
+p
+
+s
+a
+
+o
+i
+t
+a
+r
+
+e
+g
+a
+r
+e
+v
+e
+
+l
+
+e
+g
+a
+r
+e
+v
+e
+L
+
+,
+
+n
+r
+u
+t
+e
+r
+
+1
+0
+0
+
+.
+
+b
+
+p
+
+*
+*
+*
+
+,
+
+5
+0
+0
+
+.
+
+b
+
+p
+
+*
+*
+
+,
+
+1
+0
+
+.
+
+b
+
+p
+
+*
+
+:
+
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+n
+
+i
+
+l
+
+s
+e
+u
+a
+v
+-
+P
+
+g
+r
+e
+b
+m
+o
+o
+B
+
+l
+
+:
+
+e
+c
+r
+u
+o
+s
+
+a
+t
+a
+D
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 73
+
+level of EDS is accumulated. Based on the coefficients of the EDSit and EDS2
+it terms in
+specification (3) of Table 5, we can compute the threshold level of the EDS score. It is
+calculated to be 45.2, which is far greater than the current average EDS value of 28.6
+(as of 2014). This suggests that improving environmental responsibility is a costly pro-
+cedure and that it may take a long time to reap the fruits. Until then, Korean firms
+need to continue their EDS efforts.
+
+Secondly, our quadratic test results identify an inverse U curve relationship of the
+governance responsibility activities in the Korean firms. The results are in sharp con-
+trast to the finding of only a U shaped relation in US GDS in the study of Nollet, Filis,
+and Mitrokostas (2016). However, in reality, such an inversely U shaped relation is
+understandable. This is a very general phenomena known as the law of diminishing
+marginal returns in micro-economics. When the input variable has a positive effect on
+the output variable, the extent of the contribution from the former to the latter starts
+to diminish as the input amount accumulates. In the same way, when GDS increases,
+the marginal extent of its contribution to the corporate financial performance starts to
+diminish at a certain point. An interesting question is when the firm’s financial per-
+formance stops increasing as GDS increases. We can compute the stopping point based
+on the estimate of the coefficient from specifications (1) (2) and (4) of Table 5. It is cal-
+culated to be in the range of 56.6 ~ 59.5, which is far greater than the 2014 average
+GDS value of 48.6. This suggests that improving governance responsibility is still help-
+ful to improve the ROE, at least for Korean firms.
+
+We also ran the same quadratic regression procedures on MBR and Stock Return.
+However, we found a few cases of significant ESG coefficients only with Stock
+Return. Interestingly, we could not find any significant quadratic coefficients with
+MBR. Thus, we only report the Stock Return cases in specifications (5)-(8) in Table
+5. Among them, in specification (7), we observed an inversely U shaped effect of
+GDS with moderate significance, whereas none of the other regressions showed any
+significant quadratic relationships. Finally, when it comes to the control variables,
+risk and asset size retain similar levels of significance to the linear model. Overall,
+the signs of the control variables and coefficients remain unchanged, regardless of
+the specification.
+
+Conclusion
+In the present study, we investigated the relationship between corporate social respon-
+sibility and financial performance using the Bloomberg ESG disclosure score. Particu-
+larly, we considered the three individual ESG scores, namely EDS, SDS and GDS. The
+FP (Financial Performance) was measured using accounting-based measures, i.e. ROE,
+a market-based measure, i.e. Stock Returns, and proxy of Tobin’s q, i.e. MBR. The con-
+trol variables include the debt-to-equity ratio, asset size and lagged dependent variables.
+For the sample, all of the firms listed on the KOSPI market, whose ESG scores are
+available from 2008 to 2014, were used.
+
+Overall, the results from the linear model suggested that a significantly positive rela-
+tionship exists between GDS and ROE. Further analysis with quadratic terms provided
+evidence of an inversely U shaped relationship between GDS and the accounting-based
+FPs. Also, the quadratic test provided evidence of a U shaped relationship between EDS
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 74
+
+and the accounting-based FP, which implies that CSR activity pays off only after a cer-
+tain threshold amount of CSR has been accumulated. In other words, before this
+point is reached, the required additional CSR expenditures may act to decrease FP at
+early stage. The most prominent finding is the following. Through Tables 4 and 5, we
+found evidence that ESG effort made in Korean firms will ultimately be beneficial.
+Specifically, though EDS effort in Korea as of now shows negative profit for its initial cost,
+it will ultimately make a profit in the long-run with further commitment. Meanwhile, im-
+proving governance responsibility (i.e. GDS effort) is still fruitful in improving the firm’s
+profit. Our study also indicated the need to use a broader measure of CSR to obtain a
+clearer relationship between corporate social responsibility and financial performance.
+
+As regards the management implications, our results can provide firms with useful
+guidelines when considering their CSR investments. As our study suggests that there is
+no immediate detrimental
+impact or disadvantage from CSR activities, firms have
+enough rationale to utilize their resources to improve their CSR and to enhance the ex-
+pectations of their stakeholders. Overall, companies with effective CSR strategies can
+increase the willingness of their stakeholders to invest in them.
+
+The main limitation of this study is the fact that the ESG score fails to take into ac-
+count the actual CSR actions a firm engages in. In other words, a firm’s ESG disclosure
+activity index might differ from the type of CSR (or ESG here) effort they actually
+made. This drawback is commonly shared with other measurements of corporate social
+responsibility, as noted in the works of Nollet, Filis, and Mitrokostas (2016) and Baron
+(2001). The second limitation is derived from the limited number of samples. Out of
+the 700 KOSPI listed firms, we were able to use the data from only 94 firms whose
+ESG scores are available in Bloomberg. However, more significant results could have
+been driven if the sample size was enlarged. The final limitation in our research is the
+possibility that other variables could affect the associations among the CSR and finan-
+cial performance. For instance, factors affecting the business environment (e.g., uncer-
+tainty (Arag’on-Correa and Sharma 2003)) or degree of competition (Bagnoli and
+Watts 2003) might influence the relationship. These issues will be the subject of future
+research.
+
+Endnotes
+
+1The governance score, in particular, considers CSR oriented issues such as “internally de-
+veloped statements of mission or values, codes of conduct, and principles relevant to eco-
+nomic, environmental, and social performance and the status of their implementation”,
+“externally developed economic, environmental, and social charters, principles, or other ini-
+tiatives to which the organization subscribes or endorses” and “key topics and concerns that
+have been raised through stakeholder engagement, and how the organization has responded
+to those key topics and concerns, including through its reporting” (Bloomberg, 201, p74–75).
+2Because size and risk have been suggested in previous articles to be factors that affect
+both the firm’s performance and CSP (e.g., Ullman, 1985), each of these characteristics
+was operationalized as a control variable. Size is relevant because there is some evidence
+that smaller firms may not exhibit as many overt socially responsible behaviors as do
+larger firms. Perhaps this is the case because, as they mature and grow, firms attract more
+attention from external constituents and need to respond more openly to stakeholder
+demands (c.f., Burke, Logsdon, Mitchell, Reiner, and Vogel, 1986). The management’s risk
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 75
+
+tolerance influences its attitude toward activities that have the potential to 1) elicit savings
+(e.g., a recycling or waste reduction effort, costly at first but potentially money saving in the
+long run, such as 3 M Corporation’s Pollution Prevention Pays program; 2) incur future or
+present costs (e.g., pollution control equipment that helps avoid future fines), or 3) build
+(environmentally friendly firm) or destroy (perceived as unfriendly to certain types of
+people) markets. As a proxy for management’s risk tolerance, we use the firm’s debt ratio.
+
+3The maximum likelihood used in our study was pioneered by Bhargava and Sargan
+in their study (1983), which incorporates all of the restrictions implied by the model in an
+optimally efficient way. Their method has recently been implemented by Kripfganz (2015)
+in a Stata command called xtdpdqml, which stands for “cross-section time-series dynamic
+panel data estimation by quasi-maximum likelihood.”
+
+4These results are available upon request.
+5Mittal et al. (2008) and Fisher-Vanden and Thorburn (2011) attributed the negative
+effect of CSR on FP to either the early massive cost of CSP affecting the aggregate
+corporation’s financial performance or the negative market reaction to news of the
+company joining the environmental friendly program. Meanwhile, Brammer and Millington
+(2008) provided some support for the existence of a U shaped relationship between CSP
+and CFP on the firm-level relationship. Furthermore, Nollet, Filis, and Mitrokostas (2016)
+found an empirically U shaped relationship between the firm’s governance effort and its
+ROA (Return of Asset) with US S&P500 listed firms.
+
+Acknowledgement
+Authors appreciate Korea Institute of Finance for allowing the first author to use Bloomberg DB when he was a visiting scholar.
+
+Authors’ contributions
+All authors read and approved the final manuscript.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Author details
+1Department of Global Finance and Banking, Inha University, 100 Inha-Ro, Nam-Gu, Incheon 22212, Korea. 2College of
+Business Administration, Inha University, 100 Inha-Ro, Nam-Gu, Incheon 22212, Korea.
+
+Received: 1 April 2016 Accepted: 2 November 2016
+Published: 12 December 2016
+
+References
+Andrews KR (1973). Can best corporations be made moral. Harv Bus Rev 51(3):57–64
+Arag’on-Correa JA, Sharma S (2003) A contingent resource-based view of proactive corporate environmental strategy.
+
+Acad Manag Rev 28(1):71–88
+
+Aras G, Crowther D (2008) Governance and sustainability: an investigation into the relationship between corporate
+
+governance and corporate sustainability. Manag Decis 46(3):433–448
+
+Aupperle KE, Carroll AB, Hatfield JD (1985) An empirical examination of the relationship between corporate social
+
+responsibility and profitability. Acad Manag J 28(2):446–463
+
+Bagnoli M, Watts S (2003) Selling to socially responsible consumers: competition and the private provision of public
+
+goods. J Econ Manag Strateg 12(3):419–445
+
+Barnett ML, Salomon RM (2006) Beyond dichotomy: the curvilinear relationship between social responsibility and
+
+financial performance. Strateg Manag J 27(11):1101–1122
+
+Barnett ML, Salomon RM (2012) Does it pay to be really good? Addressing the shape of the relationship between
+
+social and financial performance. Strateg Manag J 33(11):1304–1320
+
+Baron DP (2001) Private politics, corporate social responsibility, and integrated strategy. J Econ Manag Strateg 10(1):7–45
+Baron D (2008) Managerial contracting and corporate social responsibility. J Public Econ 92(1-2):268–288
+Bassen A, Kovacs AMM (2008) Environmental, social and governance key performance indicators from a capital market
+
+perspective. Zeitschrift für Wirtschafts-und Unternehmensethik 9(2):182–192
+
+Beltratti A (2005) The complementarity between corporate governance and corporate social responsibility. Geneva
+
+Papers Risk Insurance-Issues Pract 30(3):373–386
+
+Besley T, Ghatak M (2007) Retailing public goods: the economics of social responsibility. J Public Econ 91(9):1645–1663
+Bénabou R, Tirole J (2010) Individual and corporate social responsibility. Economica 77(305):1–19
+
+
+Han et al. Asian Journal of Sustainability and Social Responsibility (2016)1:61–76
+
+Page 76
+
+Bowen HR (1953) Social Responsibility of the Business man. Harper and Row, New York
+Brammer S, Millington, A (2008). Does it pay to be different? An analysis of the relationship between corporate social
+
+and financial performance. Strateg Manag J 29(12):1325–1343
+
+Butz C, Pictet O (2008) The SRI performance paradox. Pictet, Geneva, https://www.pictet.com/content/dam/pictet_
+
+documents/pdf_documents/pam_sri/sri_performance_paradoxen.pdf. Accessed 20 Feb 2016
+
+Carroll AB (1979) A three dimensional conceptual model of corporate social performance. Acad Manag Rev 4(4):497–505
+Chambers E, Moon J, Sullivan M, Matten D (2003) A seven country study of CSR website reporting. http://citeseerx.ist.
+
+psu.edu/viewdoc/download?doi=10.1.1.470.5464&rep=rep1&type=pdf. Accessed 22 May 2016
+
+Choi TH, Pae J (2011) Business ethics and financial reporting quality: evidence from Korea. J Bus Ethics 103(3):403–427
+Crisóstomo VL, Freire F, de Souza X, Vasconcellos FC (2011) Corporate social responsibility, firm value and financial
+
+performance in Brazil. Soc Responsibility J 7(2):295–309
+
+Davis K, Blomstrom RL (1975) Business and Society. McGraw-Hill, New York
+Davis I, Stephenson E (2006). Ten trends to watch in 2006, vol 1. The McKinsey Quarterly, pp 1–5
+Dobers P (2009) Corporate social responsibility: management and methods. Corp Soc Responsib Environ Manag 16(4):185–191
+Donaldson T, Preston LE (1995) The stakeholder theory of the corporation: concepts, evidence, and implications.
+
+Acad Manag Rev 20(1):65–91
+
+Drucker PF (1984) The new meaning of corporate social responsibility. Calif Manag Rev 26(2):53–63
+Eells R, Walton C (1961) Conceptual Foundations of Business. Richard D. Irwin, Homewood, Illinois
+Epstein EM (1987) The corporate social policy process: beyond business ethics, corporate social responsibility, and
+
+corporate social responsiveness. Calif Manag Rev 29(3):99–114
+
+Fisher-Vanden K, Thorburn KS (2011) Voluntary corporate environmental initiatives and shareholder wealth. J Environ Econ Manag
+
+Friedman M (1970) The social responsibility of business is to increase its profits. New York Times Magazine, 122–124
+García‐Gallego A, Georgantzís N (2009) Market effects of changes in consumers’ social responsibility. J Econ Manag
+
+62(3):430–445
+
+Strateg 18(1):235–262
+
+Jamali D, Safieddine AM, Rabbath M (2008) Corporate governance and corporate social responsibility synergies and
+
+interrelationships. Corp Gov 16(5):443–459
+
+Kim Y, Kim S-Y (2010) The influence of cultural values on perceptions of corporate social responsibility: Application of
+
+Hofstede’s dimensions to Korean public relations practitioners. J Bus Ethics 91(4):485–500
+
+Levitt T (1958) The dangers of social responsibility. Harv Bus Rev 36(5):41–50
+Manasakis C, Mitrokostas E, Petrakis E (2013) Certification of corporate social responsibility activities in oligopolistic
+
+markets. Can J Econ 46(1):282–309
+
+Manasakis C, Mitrokostas E, Petrakis E (2014) Strategic corporate social responsibility activities and corporate
+
+governance in imperfectly competitive markets. Manag Decis Econ 35(7):460–473
+
+Margolis JD, Elfenbein HA, Walsh, JP (2007) Does it pay to be good? A meta-analysis and redirection of research on the
+
+relationship between corporate social and financial performance. Ann Arbor 1001:48109–1234
+
+Margolis JD, Elfenbein HA, Walsh JP (2009) Does it Pay to Be Good…And Does it Matter? A Meta-Analysis of the Relationship
+between Corporate Social and Financial Performance (March 1). Available at SSRN: https://ssrn.com/abstract=1866371 or
+http://dx.doi.org/10.2139/ssrn.1866371
+
+McGuire JW (1963) Business and Society. McGraw-Hill, New York
+McWilliams A, Siegel D (2000) Corporate social responsibility and financial performance: Correlation or misspecification?
+
+Strateg Manag J 21(5):603–609
+
+McWilliams A, Siegel DS (2011) Creating and capturing value: strategic corporate social responsibility, resource-based
+
+theory, and sustainable competitive advantage. J Manag 37(5):1480–1495
+
+McWilliams A, Siegel DS, Wright PM (2006) Introduction: corporate social responsibility: strategic implications. J Manag Stud
+
+26(1):1–18
+
+Mittal RK, Sinha N, Singh A (2008) An analysis of linkage between economic value added and corporate social
+
+responsibility. Manag Decis 46(9):1437–1443
+
+Nejati M, Ghasemi S (2012) Corporate social responsibility in Iran from the perspective of employees. Soc Responsibility J
+
+8(4):578–588
+
+Nollet J, Filis G, Mitrokostas E (2016) Corporate social responsibility and financial performance: a non-linear and
+
+disaggregated approach. Econ Model 52(B):400–407
+
+Oh WY, Chang YK, Martynov A (2011) The effect of ownership structure on corporate social responsibility: empirical
+
+evidence from Korea. J Bus Ethics 104(2):283–297
+
+Orlitzky M, Schmidt FL, Rynes SL (2003) Corporate social and financial performance: A metaanalysis. Organization Stud, 24(3):403–441
+Park H, Blenkinsopp J, Oktem MK, Omurgonulsen U (2008) Cultural orientation and attitudes toward different forms of
+
+whistleblowing: a comparison of south Korea, turkey, and the U.K. J Bus Ethics 82(4):929–939
+
+Peiris D, Evans J (2010) The relationship between environmental social governance factors and US stock performance.
+
+J Investing 19(3):104–112
+
+Acad Manag J 40(3):534–559
+
+Porter ME, Kramer MR (2006) The link between competitive advantage and corporate social responsibility. Harv Bus Rev 84(12):78–92
+Russo MV, Fouts PA (1997) A resource-based perspective on corporate environmental performance and profitability.
+
+Schreck P (2011) Reviewing the business case for corporate social responsibility: New evidence and analysis. J Bus Ethics 103(2):167–188
+Waddock SA, Graves SB (1997) The corporate social performance-financial performance link. Strateg Manag J 18(4):303–319
+Wu ML (2006) Corporate Social Performance, Corporate Financial Performance and Firm Size: A Meta-Analysis.
+
+J Am Acad Bus 8(1):163-171
+

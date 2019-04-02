@@ -1,0 +1,1349 @@
+Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+Contents lists available at SciVerse ScienceDirect
+
+Paciﬁc-Basin Finance Journal
+
+j o u r na l h o me p a g e : ww w . e l s e v i e r . c o m / l oc a t e / p a c f i n
+
+Corporate philanthropy: Insights from the 2008 Wenchuan
+Earthquake in China
+Fox Gao a, Robert Faff a,⁎, Farshid Navissi b
+a University of Queensland, Australia
+b Monash University, Australia
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 7 November 2011
+Accepted 15 November 2011
+Available online 25 November 2011
+
+JEL classiﬁcation:
+G14
+G19
+M3
+L19
+
+Keywords:
+China
+Corporate philanthropy
+Event study
+Strategic investment
+2008 earthquake
+
+1. Introduction
+
+We explore the equity market impact of board announcements of cor-
+porate donations made in response to the May 12th 2008 Wenchuan
+earthquake in China. Our event study uses a sample of board an-
+nouncements of corporate donations from Chinese A-share listed
+companies. We ﬁnd that donor companies providing products and/
+or services directly to end-consumers tend to enjoy higher abnormal
+stock returns, thereby documenting a link between corporate social
+responsibility and corporate ﬁnancial performance at least for some
+corporate citizens. In light of the empirical results, the study suggests
+that corporate philanthropic involvement should be treated as a dif-
+ferentiated type of marketing tool to obtain social reputation and
+publicity, as well as a relationship cultivation mechanism with local
+government authorities.
+
+© 2011 Elsevier B.V. All rights reserved.
+
+Drawing upon prior research (for example, Patten, 2008 and Godfrey, 2005), we examine the market
+impact of board announcements of corporate donations made in response to the May 12th 2008 Wenchuan
+earthquake in China by domestic listed companies. Speciﬁcally, we test if the market reacts positively to of-
+ﬁcial board announcements of corporate donations with an event study based on a sample of 221 Chinese
+A-share listed company announcements. Moreover, we conduct cross-sectional multiple regression ana-
+lyses to investigate whether the size of the donations and the timing of the donation announcements, as
+
+⁎ Corresponding author at: UQ Business School, University of Queensland, Queensland, 4072, Australia. Tel.: +61 7 3346 8055;
+
+fax: +61 7 3346 8166.
+
+E-mail address: r.faff@business.uq.edu.au (R. Faff).
+
+0927-538X/$ – see front matter © 2011 Elsevier B.V. All rights reserved.
+doi:10.1016/j.pacﬁn.2011.11.002
+
+
+364
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+possible factors that might affect public and media perceptions, inﬂuence the magnitude of market reac-
+tion. Six other relevant ﬁrm characteristics are also explored as potential inﬂuences on the market
+reaction observed: (1) whether the donor company's core business is directly consumer-oriented;
+(2) whether the donor company has committed in-kind support in its donation announcement; (3) the de-
+gree of competition within a donor company's industry; (4) the size of the donor company; (5) the proﬁt-
+ability of the donor company; and (6) the degree of ﬁnancial leverage of the donor company.
+
+Since Milton Friedman's (1970) famous ‘attack’ on corporate social responsibility, the literature on cor-
+porate philanthropy has evolved dramatically. In the past decade or so, numerous studies have attempted
+to uncover the ‘true’ objectives and functional forms of corporate philanthropic involvement, with the ma-
+jority documenting a link between corporate philanthropy as a strategic investment and economic beneﬁts.
+Distinct from the more generalised studies of corporate social responsibility, corporate philanthropy in
+the context of natural disasters poses a distinct topic, mostly due to its contingent nature. While consider-
+able media and academic attention has been paid in recent years focusing on the potential that ﬁrms invest
+philanthropically in ordinary times, the relevant research has not reached any clear consensus in the ways
+in which corporate philanthropic involvement in natural disaster relief efforts might be beneﬁcial to the
+donor ﬁrm itself. Without clearly identiﬁable economic beneﬁts, corporate philanthropy goes against the
+long-established concepts of rationality and proﬁt maximisation in ﬁnancial management. As such, the crit-
+ical importance of providing strategic justiﬁcation to various stakeholders (especially investors) of this spe-
+cial category of corporate philanthropy in the event of natural disasters is increasingly being recognised.
+One way of providing strategic justiﬁcation of a ﬁrm's engagement in corporate philanthropic disaster
+relief effort is through the effective communication between the ﬁrm and its investors. Assuming corporate
+rationality and proﬁt maximisation, when investors are better informed, they might be able to consider the
+ﬁrm's philanthropic involvement as a “strategic” investment. Muller and Whiteman (2009) report that
+ﬁrms typically communicate their philanthropic participation in natural disaster relief efforts to the public
+through press releases and/or website correspondence. If such communications come via ofﬁcial board
+announcements, investors could be more conﬁdent that the ﬁrm is trying to gain strategic beneﬁts.
+
+While studies on corporate philanthropy take many different forms (for example, Campbell et al., 1999,
+2002; Gardberg and Fombrun, 2006; and Godfrey, 2005), with the majority advocating a positive relation-
+ship between corporate philanthropy as part of corporate social responsibility and corporate ﬁnancial per-
+formance and thus implying positive shareholder reactions, there is a distinct absence of research testing
+this relationship empirically. One of the major obstacles to exploring such linkages is that ﬁrms are not
+obliged to publicly report their philanthropic activities. While there are numerous cases where such dis-
+closure does take place through various means such as board announcements, press releases and website
+correspondence, there is a paucity of published studies that examine whether, and under what conditions,
+market participants react positively to ofﬁcial board announcements of corporate donations to natural
+disaster relief efforts. Our study aims to help redress this situation.
+
+There is also a very limited amount of research addressing the economic incentives behind corporate
+philanthropic involvement in the context of natural disasters and corporate responses. The occurrence
+of a particular natural disaster can be seen as a special major event—which serves as a unique platform
+for ﬁrms trying to obtain strategic beneﬁts, by actively participating in disaster relief efforts. As such, it
+presents a powerful, natural experimental setting to explore investor reaction to corporate philanthropy.
+Apart from the general economic reasoning that can be explored in this scenario, the unique Chinese
+setting adds great ﬂavour to the understudied area of corporate philanthropy. As the largest emerging mar-
+ket and transitional economy in the world, China has not yet been able to achieve an efﬁcient separation
+between business entities and government agencies, making ‘relationship cultivation’ an essential factor
+for ﬁrms to obtain economic rent-seeking beneﬁts. However, China's social and institutional characteristics
+prohibit formal corporate political rent-seeking activities in the overt forms of campaign contributions or
+corporate lobbying, resulting in strategic philanthropy being one important legal form of political rent-
+seeking strategies.
+
+Our study contributes to the literature in a variety of important ways. First, it directly addresses corpo-
+rate philanthropic involvement issues raised from the one-off nature of natural disasters. Second, this
+study provides evidence of the associations between the magnitude of abnormal stock returns and certain
+donations and ﬁrm characteristics. Third, the results of this study assist a broad spectrum of stakeholders
+in understanding corporate philanthropic involvement in natural disaster relief efforts and the underlying
+
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+365
+
+economic implications, to establish a rational philanthropic mechanism which aligns corporate motiva-
+tions with social and political expectations, as well as investor interests. Fourth, this study provides a bet-
+ter understanding of the unique business culture in the largest emerging market in the world—China, by
+which the objectives and functional forms of corporate philanthropy can be vastly different to those of
+Western economies.
+
+The remainder of our paper proceeds as follows. The next section provides a brief background of the
+2008 Wenchuan earthquake and reviews the extant literature on corporate philanthropic involvement
+in general, the relationship between corporate social responsibility and corporate ﬁnancial performance,
+as well as the theoretical arguments underpinning any such relationship. The paper subsequently builds
+on these arguments by developing a number of testable hypotheses in the event of a natural disaster.
+Data and the research method used in this study are then discussed, followed by presentation of research
+ﬁndings. Finally, the paper provides discussion and draws conclusions, as well as highlighting several
+managerial and policy implications.
+
+2. General background
+
+2.1. The 2008 Wenchuan earthquake in China and the corporate response
+
+In the afternoon of May 12th, 2008, a massive earthquake—measuring 8.0 on the Richter scale, occurred
+in Wenchuan County, Sichuan (Szechuan) Province, China. The earthquake quickly spread to other adjacent
+areas within the greater Sichuan area, killing more than 87,000 people, with many more injured, as well as
+causing enormous economic losses, with an estimated total of 845.1 trillion RMB (CCTV.com, 2008).
+
+As a direct response to this catastrophic event, massive donations from individuals, communities, as
+well as corporations were made to the affected areas and victims. It is evident that corporate donations
+dominate the total contribution from both public and private sources. However, in sharp contrast with
+Western societies, the general public of China didn't exhibit overwhelming support for the donor ﬁrms.
+To illustrate, two extreme examples associated with the 2008 Wenchuan earthquake relate to dona-
+tions made by China Vanke Co., Ltd. and the JDB Group. As the largest listed property developer in
+China, Vanke announced a donation of 2 million RMB on the day of the earthquake, inducing immediate
+unexpected public and media criticism for being too miserly, accompanied by a fall in the company's
+stock price. A week later (on May 19th), the company announced that it would further donate 100 million
+RMB to the earthquake relief effort, and on May 21st, the chairman of the company, Shi Wang, made a
+public apology for the company “not being socially responsive and responsible”; but this was interpreted
+by the public and the media as subsequent “crisis management” and public perception of the company
+remained negative for some time. On the other hand, the JDB Group, an unlisted manufacturer of a popular
+soft drink (called Wong Lo Kat) in China, attracted seemingly unanimous public and media applause for its
+100 million RMB donation announced on May 15th, accompanied by a sharp increase in sales.
+
+From these two examples it can be observed that corporate donations do affect corporate image, and
+might bring about certain strategic effects. If acts of corporate philanthropic involvement are viewed pos-
+itively by the public, they can increase the value of the donating ﬁrm by creating/enhancing what Fombrun
+(1996) and Godfrey (2005) refer to as “reputational capital”.
+
+On the basis that corporate philanthropy is aimed at increasing ﬁrm value by way of achieving a poten-
+tial strategic effect, such behaviour, if perceived favourably by various stakeholders, should enhance corpo-
+rate image, reputation and ultimately be reﬂected by positive stock returns. That is, announcements of
+corporate donations have a signalling effect regarding the donating company's decision of making a strate-
+gic “investment”. The effectiveness of this strategic investment is then directly linked to the donor compa-
+ny's share price.
+
+Corporate donations themselves represent a cost to the company and thus, any associated signal must
+create a beneﬁt that outweighs the cost to achieve a positive net outcome on ﬁrm value. However, market
+participants might not perceive such corporate behaviour as rational and could interpret the donation as
+an agency cost to the company. That is, company executives might pursue a “benevolent” status for their
+own good; or as suggested by Huang et al. (2011) that in the case of China, such cash outﬂow could be an
+over-investment induced by top executives’ overconﬁdence. Accordingly, our study seeks to investigate
+market participants’ reaction to corporate donations, to assess whether such corporate resource outﬂows
+
+
+366
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+represent an agency cost to the principal, or a costly signal to the market conveying strategic motivations
+of the donating ﬁrm.
+
+2.2. A general view of corporate philanthropic involvement
+
+Given that the link between corporate social responsibility and corporate ﬁnancial performance might
+not be directly observable, researchers attempt to look at various motivations behind corporate philan-
+thropic involvement. Campbell et al. (2002) identify four such possible motivations: strategic, altruistic, po-
+litical and managerial utility.1 It is widely accepted that, in line with Friedman's (1970) view, absent
+strategic beneﬁt, corporate philanthropic involvement goes against the long-established concepts of corpo-
+rate rationality and proﬁt maximisation in ﬁnancial management. As a result, the current study recognises
+that corporate philanthropic involvement may serve more than just a benevolent purpose where it can be
+treated as a strategic tool to improve a ﬁrm's own bottom line.
+
+The prior literature has identiﬁed strategic motivation as the most notable explanation of corporate
+philanthropic involvement. An abundance of prior literature (for example, Campbell et al., 1999, 2002;
+Haley, 1991; Mescon and Tilson, 1987; Navarro, 1988; and Schiller, 1988) labels corporate philanthropic in-
+volvement as another marketing tool to be employed in an attempt to achieve the ultimate goal of maxi-
+mising sales. The literature generally provides that ﬁrms engage corporate philanthropic involvement by
+focusing on strategies relating to their core business and customer base, and a perceived positive outcome
+is an enhanced corporate public image, which ultimately leads to an indirect impact on sales.
+
+A similar perspective is taken by both Godfrey (2005), and Gardberg and Fombrun (2006), where corpo-
+rate philanthropy can create reputational capital among communities and stakeholders. Such capital can pro-
+vide shareholders with “insurance-like” protection for many of a ﬁrm's relations with various stakeholders,
+including government, employees, suppliers and partners, and ultimately customers. Given that corporate
+philanthropy can be seen as a shareholder wealth-maximising strategy, a direct link can be established be-
+tween corporate social responsibility and corporate ﬁnancial performance, in which social responsibility is
+manifested by philanthropic involvement and ﬁnancial performance is measured by shareholder wealth.
+
+There appears to be no published empirical studies that document a positive linkage between corporate
+disclosures of donations towards natural disaster relief efforts and market reactions, with the exception of
+the study by Patten (2008). Based on a sample of 79 Fortune 500 ﬁrms, Patten (2008) conducts an event
+study which investigates whether the US ﬁnancial market reacted to press releases (general web page dis-
+closures from the contributing ﬁrm and third-party sources) of corporate donations made to the disaster
+relief effort following the 2004 Southeast Asian tsunami. He ﬁnds, in general, signiﬁcant positive results
+in terms of a 5-day cumulative abnormal return of just less than 1%. He further contends that, the positive
+market reactions to donation announcements stem [only] from enhanced reputational capital. However,
+Patten's study proposes only two donation characteristics (namely, size of the donation and the timing of
+the donation announcement) as the possible drivers of the market reaction, and they are only tested
+under a univariate simple t-test setting. Overall, to the extent that his analysis provides evidence that
+there is no market penalty associated with such philanthropic behaviour, Patten's work suggests that
+ﬁrms should consider participating in natural disaster relief efforts. The study, however, fails to justify
+the validity of both motivations for corporate philanthropic involvement as a strategic investment and
+the notion of reputational capital, as well as the “insurance-like” protection for the contributing ﬁrm,
+when there is an apparent heterogeneity among corporate donors.
+
+Although documenting a positive market reaction, Patten's (2008) study lacks some convincing ingre-
+dients. First, his is a relatively small sample size: a total of 79 ﬁrms. Our study uses a much larger sample
+of 221 ﬁrms. Second, his univariate-based analysis ignores the joint inﬂuence of variables that potentially
+impact the economic motivations underlying corporate philanthropy. In contrast, we employ a cross-
+sectional multiple regression approach which overcomes the concern of such univariate comparisons.
+Moreover, there could be other drivers behind abnormal market reactions; or, to put it another way, corpo-
+rate philanthropic involvement as a strategic investment and the associated gain in corporate reputation
+might not be sufﬁciently captured by the size of the donations and the timing of the donation
+
+1 Rather than “corporate philanthropic behaviour”, Campbell et al. (2002) label this term as “corporate charitable involvement”.
+
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+367
+
+announcements; there are other variables which can potentially explain abnormal market reactions. Third,
+the characteristics of US ﬁnancial markets, in terms of the bonding between corporate philanthropy and the
+socioeconomic environment might be very different and generally weaker than in many of the Asian coun-
+tries. High social sentiment and politically-related economic motivations should trigger a more efﬁcient
+market reaction to corporate philanthropic involvement, which could then address more directly and effec-
+tively the strategic motivation and the “insurance-like” protection property of reputational capital behind
+corporate philanthropy.
+
+Given the above discussion, we focus on the Chinese market, which exhibits properties of high social
+sentiment and a sensitive political environment that can facilitate the empirical testing of arguments sup-
+porting the strategic beneﬁt of corporate philanthropy. There is also the possibility that, looking at general
+press releases as the designated “event” in Patten's study, does not present as powerful an experimental
+setting as ofﬁcial board announcements. We argue that board announcements of donations likely represent
+a carefully considered decision in terms of strategic investments, which could in turn trigger a more efﬁ-
+cient evaluation by the market participants.
+
+2.3. Business culture in China and the event study setting
+
+China exhibits a unique social and political environment within which corporations operate. Business
+culture impacts on the way ﬁrms behave and for many years this has been used extensively in various
+business literatures as the basis for explaining differences in corporate behaviour (Hofstede, 1984).
+
+Corporate behaviour in China can be seen as a unique relationship cultivation strategy (Hung, 2004).
+This relationship cultivation is twofold. At the social level, it focuses on the societal aspect of the business
+culture in China, where sentimental or moral reasons might encourage ﬁrms to strengthen ties with their
+“hometown”; while at the political level, the management of government affairs and subsequent public
+opinions can encourage certain corporate political action in an attempt to cope with media function and
+mainstream culture predetermined by the Chinese political system (Chen, 2007; Dahles, 2005; Gao,
+2006; and Wu, 2002). Corporate philanthropic involvement, as an implicit but direct response to social
+and political “request”, serves as a unique tool in managing the corporations’ public relations with the
+host nation, China, at both the social and political levels.
+
+A further reason for selecting China as the target market is that, according to Muller and Whiteman
+(2009), there is a “home region effect” (i.e., home bias effect) in corporate philanthropic involvement to-
+wards natural disaster relief efforts, by which ﬁrms pay more attention to natural disasters that are closer
+to their home regions, due to a sense of responsibility or a greater degree of tangibility.
+
+There is also anecdotal evidence that the widespread coverage and dominance of media in China, espe-
+cially the Internet, plays an important role in corporate philanthropic behaviour. This is so because it pro-
+vides a far-reaching platform for expressing both genuine and disingenuous opinions, in which case public
+perception of a particular ﬁrm could stem from these obligation-free fora. As a result of this media promi-
+nence in China, corporate philanthropic involvement can also be driven by the public exerting pressure on
+corporate citizens.
+
+Consistent with the literature drawn from developed countries, several recent studies aimed at the
+Chinese market also show that corporate philanthropic involvement is based on various strategic factors.
+Gao (2009) indicates that corporate philanthropy in China is still in its infancy but exhibiting a blowout ef-
+fect, where it is evident that more and more companies are now paying attention to philanthropic activi-
+ties; he also ﬁnds that companies in household electronics and banking/insurance industries are more
+concerned with their philanthropic responsibility. Su and He (2010) argue that Chinese companies carry
+out philanthropic activities to better protect property rights and nurture political connections, which in
+turn leads to enhanced corporate proﬁtability. Zhang et al. (2010) and Zu and Song (2009) show that
+Chinese companies participate in philanthropic activities with a view of gaining economic beneﬁts, by
+enhancing their own reputation and credibility.
+
+Chen et al. (2010) show that return predictors in China are less heterogeneously distributed and stock
+price is less informative, compared to their US counterparts, implying general market inefﬁciency in the
+Chinese stock market. This contrasts Cheung et al. (2009) and Lei and Song (2011), who both demonstrate
+the effect of corporate tunnelling with and without proper information disclosure and ﬁnd that, on aver-
+age, stock price in China reacts efﬁciently to publicly available information. These mixed ﬁndings suggest a
+
+
+368
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+need for further empirical testing of market efﬁciency in China, hence, further motivating our study with
+its adoption of the event study approach.
+
+The event study approach is commonly used to assess whether there is an abnormal stock price effect
+associated with an unanticipated event. It is mostly associated with mainstream corporate events such as
+merger and acquisition, dividend/earnings announcement, and regulatory changes. But the actual application
+can be extended to many more ‘non-standard’ events such as the effect of corporate name changes where
+under certain conditions, the announcement by a listed company with regard to a trading name change in-
+duces a stock price impact (Kot, 2011). Likewise, for the purpose of the current study, each individual commu-
+nication (more speciﬁcally, corporate board announcements publicising the total monetary value of corporate
+donations to the earthquake relief effort) can be seen as a discrete event representing a social investment by
+the ﬁrm. If the corporate role in responding to catastrophic events like the 2008 Wenchuan earthquake in
+China was so prominent, it is an important case for exploring whether, and under what conditions, making
+a contribution in response to a natural disaster can be beneﬁcial to the ﬁrm itself.
+
+3. Basic literature review and hypothesis development
+
+3.1. General market reaction
+
+While corporate philanthropy has become a reasonably common practice in recent times, whether it is
+a value-enhancing activity is unresolved. A diverse body of literature has emerged to provide modern in-
+sights into corporate philanthropic behaviour and argue that corporate donations can be justiﬁed on a
+“strategic” level (Campbell et al., 1999, 2002; and Porter and Kramer, 2002). Campbell et al. (1999) and
+Ricks (2005) show that corporate philanthropy can be associated with greater brand equity and consumer
+perceptions, and can lead to increased sales due to a special marketing effect which corporate donations
+can bring to the contributing ﬁrms themselves. Occurrence of natural disasters may create a special
+one-off opportunity for a marketing campaign that companies can engage; and therefore corporate phil-
+anthropic involvement in natural disaster relief efforts could be considered a form of cause-related mar-
+keting to promote the ﬁrm's brand image.
+
+Saiia et al. (2003, p. 170) deﬁnes strategic corporate philanthropy as the practice of “… giving of corpo-
+rate resources to address nonbusiness community issues that also beneﬁt the ﬁrm's strategic position and,
+ultimately, its bottom line.” Consistent with this line of reasoning, Godfrey (2005) argues that corporate
+philanthropy can create what is known as “moral capital” or “relational wealth”, and by participating in
+philanthropic activities, ﬁrms tie their social positions more closely to various stakeholders in an attempt
+to enhance corporate reputation, which in turn can translate into higher levels of trust, loyalty, goodwill
+and legitimacy. Consequently, these enhanced attributes can provide an “insurance-like” protection against
+adverse conditions arising from various stakeholder groups, such as consumer boycotts and excessive gov-
+ernment scrutiny.
+
+Another potential strategic motivation behind corporate philanthropic involvement in natural disaster
+relief efforts relates to the donating company's ability to “signal”. On the basis of being able to capture the
+strategic beneﬁts associated with disaster relief engagement, corporate donations could signal the donating
+company's current ﬁnancial standing. Such a signal could convey information to market participants that
+the donating company is cash rich, experiencing sound ﬁnancial performance and expecting good future
+business conditions, not constrained by ﬁnancial leverage, as well as trying to be identiﬁed as being socially
+responsive and responsible. Thus, donor ﬁrms could attract the attention of market participants and lead to
+a positive abnormal stock return.
+
+Based on the forgoing discussion, the following hypothesis is proposed:
+
+H1. The announcement of corporate donations to the earthquake relief effort will induce a positive market
+impact.
+
+3.2. Donation characteristics
+
+Following Patten (2008), the donation characteristics that we examine are the size of donations and
+the timing of the donation announcements. Assuming corporate rationality and proﬁt maximisation,
+
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+369
+
+ﬁrms making larger (smaller) donations to the earthquake relief effort might be perceived as more (less)
+generous and exhibiting more (less) genuine corporate social responsibility and, as a result, could lead to a
+larger (smaller) increase in reputational capital as well as a better (weaker) marketing effect.
+
+Because the early donation announcements received substantial media exposure towards the end of the
+ﬁrst week following the earthquake (May 12th–May 18th), especially in the case of Vanke (one of the two
+extreme examples with regard to the size of donations), announcements of corporate donations after the
+ﬁrst week following the earthquake might be perceived as exhibiting disingenuous corporate social re-
+sponsibility. As a result, delayed donations might lead to a lower, if any, increase in reputational capital
+as well as the proposed marketing effect. A short reaction time with regard to announcements of corporate
+donations within the ﬁrst week could be rewarded more by market participants as a result of the novelty
+and ﬁrst mover advantage.
+
+Accordingly, the following hypotheses are proposed:
+
+H2. The announcement of corporate donations to the earthquake relief effort will induce a market impact that
+is positively associated with the size of the donation.
+
+H3. The announcement of corporate donations to the earthquake relief effort will induce a market impact that
+is more positive for earlier announcing ﬁrms.
+
+3.3. Firm characteristics
+
+Campbell et al. (1999), Strahilevitz (1999), and Strahilevitz and Myers (1998), provide evidence that
+corporate philanthropy can positively manipulate corporate public image by enhancing corporate reputa-
+tion, leading to the ultimate goal of sales promotion. Therefore, ﬁrms could utilise corporate philanthropy
+to increase their corporate reputation, by transforming corporate philanthropy into a marketing mecha-
+nism. Campbell et al. (1999) further show that charitable behaviour varies considerably, based on the ﬁrm's
+main type of product sold. That is to say, such marketing efforts should be more effective for ﬁrms’ products
+or core business that are directly consumer-oriented, and a less effectiveness should be anticipated for
+ﬁrms having non-directly consumer-oriented products or core business. For example, commodity manu-
+facturers tend to incur a larger marketing expense than mining companies, because marketing could pro-
+mote more sales for commodity manufacturers whereas customers of mining companies are not general
+consumers, and the marketing efforts should be more effective for commodity manufacturers.
+
+Accordingly, the following hypothesis is proposed:
+
+H4. The announcement of corporate donations to the earthquake relief effort will induce a market impact that
+is more positive for companies whose products or core business are directly consumer-oriented.
+
+Apart from donating cash, many ﬁrms choose to participate in natural disaster relief efforts by donating
+goods and/or services. In particular, ﬁrms make in-kind donations in line with their core business and such
+in-kind donations, according to Campbell et al. (1999) and Ricks (2005), exhibit a cause-related marketing
+effect in which the goods and/or services delivered are apparently associated with the donating company's
+brand image, and thus serving as marketing samples. In addition, it could also be suggested that making in-
+kind donations allow the donor company to write off its excess inventory while deducting taxes, as well as
+attracting other strategic beneﬁts of corporate philanthropy. Based on this line of reasoning, market partic-
+ipants might perceive corporate donations that include in-kind components (with or without cash dona-
+tions) to be more strategic than cash only donations.
+
+Based on the above arguments the following hypothesis is proposed:
+
+H5. The announcement of corporate donations to the earthquake relief effort will induce a market impact that
+is more positive for companies whose announced donation package includes in-kind donations.
+
+The degree of competition within a speciﬁc industry can have an impact on market reaction in terms of
+the usefulness and effectiveness of corporate philanthropic involvement as a strategic investment. For rel-
+atively competitive industries, the strategic value of corporate philanthropic involvement manifested in the
+form of a marketing mechanism should be higher, because a natural disaster provides a unique marketing
+
+
+370
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+opportunity for ﬁrms to engage, and thus ﬁrms within these relatively competitive industries could enjoy a
+relatively higher abnormal stock return. On the other hand, if the industries are relatively concentrated, the
+attached strategic value is expected to be low, because the beneﬁt associated with corporate philanthropic
+involvement is marginal and the marketing mechanism is less likely to be of much use, and, thus, ﬁrms
+within these relatively concentrated industries might only experience a relatively lower abnormal stock
+market reaction.
+
+On the other hand, however, ﬁrms that have relatively large market power (i.e., ﬁrms within relatively
+concentrated industries) are perceived to be more vulnerable to adverse political and social sentiment
+than those in relatively competitive industries. Such ﬁrms might, at their discretion, seek protection
+against adverse stakeholder pressures. It is therefore by participating in philanthropic activities, that
+these ﬁrms make a strategic investment to “purchase” what Godfrey (2005) refers to as an “insurance-
+like” protection from the general public, media and government agencies. The occurrence of a natural
+disaster can serve as a special avenue of corporate reputation and legitimacy, and is vastly different to gen-
+eral corporate philanthropy because of the substantial media exposure during the time of intense disaster
+relief efforts. The effect of promoting corporate benevolence during natural disaster relief efforts is analo-
+gous to the marketing effect, which can be magniﬁed because of the enormous scale of media and public
+attention. Therefore, ﬁrms within relatively concentrated industries might see a higher stock market reac-
+tion associated with a higher gain in reputational capital and legitimacy; whereas ﬁrms within relatively
+competitive industries might only beneﬁt from marginal effects and, thus, experience a lower market
+impact.
+
+Accordingly, the following hypotheses are proposed:
+
+H6a. The announcement of corporate donations to the earthquake relief effort will induce a market impact that
+is more positive for companies within a relatively competitive industry.
+
+H6b. The announcement of corporate donations to the earthquake relief effort will induce a market impact that
+is more positive for companies within a relatively concentrated industry.
+
+4. Data and research method
+
+4.1. Sample
+
+Our sample comprises Chinese A-share listed companies issuing a dated board announcement (as op-
+posed to general press release) of corporate donation to the Wenchuan earthquake in China. The board an-
+nouncements collected and utilised in this study range from the earliest on May 13th (one day right after
+the earthquake) to July 18th, within a period of around two months.2 Similar to the argument in Patten
+(2008), requiring a dated board announcement increases the likelihood that the company is motivated
+by a strategic advantage; and also facilitates the implementation of the event study research method.
+
+Board announcements made by China A-share listed companies in relation to the earthquake relief
+effort have been hand collected and reviewed from the two Chinese stock exchange websites3 and one
+ofﬁcial listed company information disclosure website.4 An initial sample of 278 earthquake relief effort
+oriented board announcements issued within the two-month time frame are identiﬁed. However, 57 of
+these are eliminated from the ﬁnal sample for one or more reasons.5 Accordingly, there are 221 announce-
+ments in the ﬁnal sample, with 118 (103) coming from the Shanghai (Shenzhen) Stock Exchange.
+
+2 The use of the cut-off date of July 18th, while ad hoc, is justiﬁed by a further data search which indicates that there are very few
+
+board announcements made with regard to corporate donations to the earthquake relief effort beyond this time frame.
+
+3 The Shanghai Stock Exchange (SSE): http://www.sse.com.cn; and the Shenzhen Stock Exchange (SZSE): http://www.szse.cn.
+4 Shenzhen Securities Information Co., Ltd.: http://www.cninfo.com.cn.
+5 First, for six of the announcements, the donation size cannot be determined. Second, 29 announcements were excluded because
+the announcers, 14 companies in total, issued more than one donation announcement in the period of analysis indicating additional
+contributions to the earthquake relief effort. Third, four announcements came together with an information release that the donat-
+ing companies’ business operations were adversely affected by the earthquake. Fourth, one company was newly listed on the stock
+exchange only 4 days prior to the earthquake. Finally, a review of the archived board announcements and stock market trading his-
+tory revealed 17 companies with potentially confounding information disclosures and/or frequent trading halts during the period of
+analysis.
+
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+371
+
+Our sample spans 54 different industries (based on the two-digit primary CSRC code).6 Companies in
+the pharmaceutical industry (22) and the chemical material and products manufacturing industry (16)
+have the highest incidence. In terms of size (total operating revenues),7 our sample companies range
+from 7.37 million RMB to 65.33 billion RMB. The mean size is 1.07 billion RMB, whereas the median is
+339.56 million RMB.
+
+4.2. Measuring market impact
+
+An event study approach using the market and risk-adjusted return model (i.e., the standard market
+model) and daily stock returns was employed to calculate the abnormal returns associated with a ﬁrm's
+board announcement of its intent to donate towards the earthquake relief effort. This method analyses
+the overall impact of announcements of corporate philanthropic involvement on donating companies’
+stock returns, which is hypothesised to be positive (H1).
+
+Market model estimation is based on a 100-trading day estimation window ending on May 9th, 2008
+(the last trading day preceding the earthquake).8 Market return was measured using the two prominent
+indices in China: Shanghai Stock Exchange Composite Index and Shenzhen Stock Exchange Component
+Index. All stock return and market data were collected using the China Stock Market & Accounting Re-
+search Database (CSMAR).
+
+Cumulative abnormal returns (CARs) are calculated by summing daily abnormal returns (ARs) over the
+5-day event window beginning on day 0 (the announcement date) and ending on day +4. Statistical sig-
+niﬁcance is assessed following two alternative approaches. First, the one sample Student t-statistic is used
+to verify whether the mean abnormal return for a particular event day is signiﬁcantly different from zero
+(as discussed in Brown and Warner, 1985). Second, each ﬁrm's daily ARs are standardised using the mean
+standard deviation of the company's prediction error over the estimation period adjusted for prediction
+outside of the estimation window and then summed over the relevant event window to arrive at daily
+and cumulative abnormal returns. The sample's mean standardised CARs are tested for statistical signiﬁ-
+cance using the Z-statistic (as discussed in MacKinlay, 1997 and McWilliams and Siegel, 1997).
+
+4.3. Donation and ﬁrm characteristics
+
+To test H2 to H6a and H6b, a multiple regression model is estimated using the OLS method. The abnor-
+mal return (ARit) and/or any cumulative abnormal return (CARit) on each ﬁrm's stock on the respective
+day as derived from the event study above are chosen as the dependent variable in separate regressions.
+The multivariate regression model is given by:
+
+ð
+
+ARi0 CARit
+
+Þ ¼ α þ β1 Di=ORi
+
+ð
+
+Þ þ β2Ti þ β3COi þ β4IKi þ β5HHIi þ β6ORi þ β7ROAi þ β8DRi þ ε
+
+ð1Þ
+
+where ARi0 (CARit) is the Day 0 abnormal stock return (cumulative abnormal stock return); (Di/ORi) is the
+total donation (both cash and in-kind) scaled by total operating revenue; Ti is the timing of board
+announcement and is a dummy variable taking a value of 1 if the board announcement is made during
+the ﬁrst week following the earthquake and 0 otherwise; COi is the consumer orientation and is a
+dummy variable taking a value of 1 if the donor has direct consumer orientation and 0 otherwise; IKi is
+the inclusion of in-kind donations and is a dummy variable taking a value of 1 if the board announcement
+includes in-kind donations and 0 otherwise; HHIi is the Herﬁndahl–Hirschman Index indicating industry
+concentration in the contributing ﬁrm's industry (whereby industry is deﬁned based on the two-digit pri-
+mary CSRC code); ORi is the total operating revenue of the ﬁrm; ROAi is the return on assets of the ﬁrm,
+deﬁned as net proﬁt over total assets; and DRi is the debt ratio, deﬁned as total liabilities over total assets.
+
+6 China Securities Regulatory Commission (CSRC): http://www.csrc.gov.cn.
+7 All ﬁnancial information for sample companies is sourced from the most recent quarterly accounting reports preceding the
+earthquake, with all reports dated March 31st, 2008. Total operating revenue is used instead of market capitalisation because it
+can be problematic to analyse ﬁrm size in China using market capitalisation due to the existence of various non-circulating stock-
+holdings such as State shares and Legal person shares.
+
+8 The use of a 100-day estimation period is necessary in this study, rather than the more standard 250-day estimation window,
+because a number of sample companies were not established 100 days prior to the earthquake; also frequent trading halts occur
+within the 250-day window, which could potentially undermine the consistency of AR estimation using the standard market model.
+
+
+372
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+The variable (Di/ORi) is used to test H2; variable Ti is used to test H3; variable COi is used to test H4; and
+variable IKi is used to test H5—in each case a positive coefﬁcient is predicted. HHIi is used to test H6a (H6b)
+and a positive (negative) coefﬁcient is predicted. Variables ORi, ROAi, and DRi are used as control variables.
+In Table 1, we present some basic descriptive statistics and correlations for our key empirical proxies.
+We observe that the Consumer Orientation (CO) variable is positively correlated with daily abnormal
+returns but not correlated with either of the two cumulative abnormal returns; whereas the Herﬁndahl–
+Hirschman Index (HHI) variable is positively correlated with the two cumulative abnormal returns but
+not correlated with daily abnormal returns; the Return on Assets (ROA) variable is negatively correlated
+with both daily and cumulative abnormal returns. None of the other explanatory variables are statistically
+correlated with the explained variables. Table 2 presents a summary of the hypotheses and how they relate
+to the core test variables.
+
+5. Results
+
+5.1. Market reaction
+
+Table 3 reports the results of the average abnormal stock returns associated with ofﬁcial board an-
+nouncement of donations to the 2008 Wenchuan earthquake relief effort, for our sample of 221 ﬁrms.
+The table shows daily abnormal returns for each day from day 0 to day +4, as well as cumulative abnormal
+returns for the period of analysis, to capture possible price effects of board announcements. Table 3 also re-
+ports the percentage of abnormal return measures that are positive across the full sample, which gives a
+descriptive understanding as to the effects of announcements of corporate donations.
+
+According to Table 3, the day zero abnormal return of approximately 0.414% is statistically signiﬁcant at
+conventional levels (p-value b5%, for both the t-statistic and Z-statistic). Two-day cumulative abnormal
+returns and three-day cumulative abnormal returns are also positive and statistically signiﬁcant at conven-
+tional levels. However, an examination of subsequent individual daily abnormal returns reveals that the
+day 0 positive return quickly disappears. Moreover, the pattern may be reversed later and move into neg-
+ative territory, after the initial effects of the announcements gradually fade away. This could be due to
+investors initially reacting positively in an efﬁcient manner to donation decisions, but then reversing
+their pricing support when more and more companies participate in the cause-related campaign and,
+thus, netting out the initial positive effects. Nonetheless, the proportion of positive effects (i.e. the percent-
+age of positive return cases) outweighs the negative effects and the results, therefore, at least provide
+evidence that for some companies, there is a favourable acceptance in the local stock market of board
+announcements of corporate donations to the 2008 earthquake relief effort. It is thus informative, as
+hypothesised earlier, to examine the ﬁrm-level drivers behind these event date returns in an attempt to
+better explain the relationship between donation announcements and market reaction.9
+
+5.2. Multiple regression analysis
+
+Table 4 presents the results for the cross-sectional regression model when three alternative dependent
+variables are used: day 0 AR, two-day CAR and three-day CAR, regressed upon the independent and con-
+trol variables. The estimated multivariate regression shows that on day 0, Consumer Orientation (CO), as a
+factor which could potentially affect the magnitude of announcements of corporate donations as a
+
+9 Due to the existence of event time clustering in this the results presented in Table 3 could be biased due to potential dependen-
+cies in abnormal returns. While Patten (2008) ignores this potential concern in his analysis of the 2004 Tsunami event, we apply a
+portfolio return approach as a robustness check. The portfolio approach aggregates the individual abnormal returns into a portfolio
+dated using event time (date of board announcement). This approach allows for cross correlation of the abnormal returns among
+different securities and industries. Although daily abnormal return and two-day cumulative abnormal returns (untabulated) remain
+signiﬁcant (three-day cumulative abnormal returns is now insigniﬁcant), their respective signiﬁcance levels drop from 5% to 10%.
+This result does not threaten the validity of the general approach for detecting abnormal stock returns, as in their classic study of
+event study methodologies using daily stock returns, Brown and Warner (1985) show that tests ignoring cross-sectional depen-
+dence can be well speciﬁed and have higher power than tests which account for potential dependencies. Since the daily abnormal
+return and two-day cumulative abnormal returns remain qualitatively unchanged to those reported in Table 3, we conclude that the-
+se results are not materially affected by the potential dependencies in abnormal stock returns.
+
+
+Table 1
+Some basic descriptive statistics and correlations. The variables reported in this table are: ARi0 (CARit) is the Day 0 abnormal stock return (cumulative abnormal stock return) as described in the
+text; (Di/ORi) is the total donation (both cash and in-kind) scaled by total operating revenue; Ti is the timing of board announcement and is a dummy variable with a value of 1 representing a board
+announcement made during the ﬁrst week following the earthquake and 0 otherwise; COi is the consumer orientation and is a dummy variable with a value of 1 representing direct consumer
+orientation and 0 otherwise; IKi is the inclusion of in-kind donations and is a dummy variable with a value of 1 representing board announcement that include in-kind donations and 0 otherwise;
+HHIi is the Herﬁndahl–Hirschman Index indicating industry concentration in the contributing ﬁrm's industry (whereby industry is deﬁned based on two-digit primary CSRC code); ORi is the total
+operating revenue of the ﬁrm; ROAi is the return on assets of the ﬁrm, deﬁned as net proﬁt over total assets; and DRi is the debt ratio, deﬁned as total liabilities over total assets. The sample is 221
+board announcements of corporate donations made by Chinese A-share listed companies. * signiﬁcant at the 10% level; ** signiﬁcant at the 5% level and *** signiﬁcant at the 1% level.
+
+Descriptive statistics
+
+Correlations (Pearson product–moment)
+
+Variable
+
+Mean
+
+S.D.
+
+1 AR
+
+2 CAR-2
+
+3 CAR-3
+
+4 TD
+
+5 TD/OR
+
+6 T
+
+7 CO
+
+8 IK
+
+9 HHI
+
+10 OR
+
+11 ROA
+
+Panel A: dependent variables—abnormal return measures
+1
+2
+3
+
+ARi0
+2-day CARit
+3-day CARit
+
+0.00414
+0.00495
+0.00507
+
+0.03278
+0.04351
+0.05353
+
+1
+0.7021⁎⁎⁎ 1
+0.4692⁎⁎⁎ 0.8158⁎⁎⁎
+
+1
+
+Panel B: explanatory variables
+Donation amount
+4
+(Di)
+Di/ORi
+Ti
+COi
+IKi
+HHIi
+ORi ($1 m)
+ROAi
+DRi
+
+5
+6
+7
+8
+9
+10
+11
+12
+
+2,799,18 4,429,91 0.0302
+
+−0.0021
+
+−0.0449
+
+1
+
+0.07385
+0.1471⁎⁎
+
+0.02016 −0.0752 −0.0657
+0.00891
+0.36591
+0.15837
+0.47608
+0.34389
+0.46258 −0.0097 −0.0538
+0.30769
+0.1185⁎
+0.07728
+0.08016
+1,068.49 4,704.58 −0.0158 −0.0447
+0.01467
+0.50767
+
+0.0153
+0.0242
+
+0.02563
+
+−0.0660
+0.00026
+0.0370
+−0.0815
+0.1126⁎
+−0.0844
+
+0.02282 −0.1258⁎ −0.1399⁎⁎ −0.1742⁎⁎⁎ 0.1418⁎⁎
+0.19577 −0.0155
+
+0.002316
+
+0.0088
+
+0.2093⁎⁎⁎ 1
+0.0145
+0.0092
+0.1773⁎⁎⁎ 0.1189⁎
+0.0840
+0.0683
+−0.1243⁎ −0.0148 −0.1773⁎⁎⁎ −0.0890 1
+0.0420
+0.3106⁎⁎⁎ −0.0712
+
+1
+0.1034
+−0.0475 0.0333
+
+0.0119
+0.1212⁎ −0.0265
+−0.04199 −0.1547⁎⁎ −0.1055 −0.0266
+
+−0.0517 0.0851
+0.0196
+−0.0789 0.0901
+
+0.0016
+
+0.0397
+
+1
+
+1
+
+1
+
+−0.0077 −0.0086
+
+1
+
+0.2211⁎⁎⁎ −0.3034⁎⁎⁎
+
+F
+
+.
+
+G
+a
+o
+
+e
+t
+
+a
+l
+.
+
+/
+
+P
+a
+c
+i
+
+ﬁ
+c
+-
+B
+a
+s
+i
+n
+
+F
+i
+n
+a
+n
+c
+e
+
+J
+o
+u
+r
+n
+a
+l
+
+2
+0
+
+(
+2
+0
+1
+2
+)
+
+3
+6
+3
+–
+3
+7
+7
+
+3
+7
+3
+
+
+374
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+Table 2
+Summary of hypotheses and key test variables. The variables in this table are: ARi0 is the Day 0 abnormal stock return as described in
+the text; (Di/ORi) is the total donation (both cash and in-kind) scaled by total operating revenue; Ti is the timing of board announce-
+ment and is a dummy variable with a value of 1 representing a board announcement made during the ﬁrst week following the earth-
+quake and 0 otherwise; COi is the consumer orientation and is a dummy variable with a value of 1 representing direct consumer
+orientation and 0 otherwise; IKi is the inclusion of in-kind donations and is a dummy variable with a value of 1 representing
+board announcement that include in-kind donations and 0 otherwise; HHIi is the Herﬁndahl–Hirschman Index indicating industry
+concentration in the contributing ﬁrm's industry (whereby industry is deﬁned based on two-digit primary CSRC code).
+
+Hypothesis
+number
+
+Hypothesis description
+
+H1
+
+H2
+
+H3
+
+H4
+
+H5
+
+H6a
+
+H6b
+
+The announcement of corporate donations to the earthquake relief effort will induce a
+positive market impact
+The announcement of corporate donations to the earthquake relief effort will induce a
+market impact that is positively associated with the size of the donation
+The announcement of corporate donations to the earthquake relief effort will induce a
+market impact that is more positive for earlier announcing ﬁrms
+The announcement of corporate donations to the earthquake relief effort will induce a
+market impact that is more positive for companies whose products or core business are
+directly consumer-oriented
+The announcement of corporate donations to the earthquake relief effort will induce a
+market impact that is more positive for companies whose announced donation package
+includes in-kind donations
+The announcement of corporate donations to the earthquake relief effort will induce a
+market impact that is more positive for companies within a relatively competitive industry.
+The announcement of corporate donations to the earthquake relief effort will induce a
+market impact that is more positive for companies within a relatively concentrated industry
+
+Key test
+variable
+
+ARi0
+
+Di/ORi
+
+Ti
+
+COi
+
+IKi
+
+HHIi
+
+Prediction
+
++
+
++
+
++
+
++
+
++
+
++
+
+−
+
+strategic investment on marketing expense, is positive and statistically signiﬁcant, thus supporting H4.
+This ﬁnding is consistent with various theoretical arguments that corporate philanthropy has a marketing
+effect and in the case of board announcements of engagement to disaster relief effort, market participants
+continue to see value of such marketing strategy. The magnitude of the effect, 1.07%, is surprisingly large
+and indicates that this strategic marketing effect could potentially dominate other possible strategic mo-
+tivations behind corporate philanthropic involvement in natural disaster relief efforts.
+
+The Herﬁndahl–Hirschman Index (HHI), although not signiﬁcant in the day 0 analysis, does exhibit sig-
+niﬁcant effects on the two-day CAR and three-day CAR. The direction of the estimated coefﬁcient is positive
+indicating that market participants value such strategic investment in line with the donating companies’
+needs to raise reputational capital and legitimacy, as well as creating the “insurance-like” protection for
+the ﬁrm, as opposed to a relatively non-productive marketing expense and the associated potential market
+effect. This thus rejects hypothesis H6a and supports hypothesis H6b.
+
+The other three test variables: donation amount (i.e. relating to H2), donation timing (i.e. relating to
+H3) and in-kind (i.e. relating to H5) donations, are not statistically signiﬁcant. As such, these latter results
+imply that: (1) market participants assume corporate rationality and proﬁt maximisation and regard the
+amount of donations as appropriate; (2) investors continue to see value in the announcements of
+
+Table 3
+Daily abnormal returns (ARs) and cumulative abnormal returns (CARs). This table reports the outcome of the basic event study as
+described in the text. ARit (CARit) is the Day 0 abnormal stock return (cumulative abnormal stock return) as described in the text.
+The sample is 221 board announcements of corporate donations made by Chinese A-share listed companies. * signiﬁcant at the
+10% level; ** signiﬁcant at the 5% level and *** signiﬁcant at the 1% level.
+
+Event date
+
+Mean ARit (%)
+
+T-statistic
+
+Z-statistic
+
+CARit (%)
+
+T-statistic
+
+Z-statistic
+
+Percentage CARs >0
+
+0
+1
+2
+3
+4
+
+0.414
+0.081
+0.013
+−0.187
+−0.200
+
+1.88**
+0.39
+0.06
+−1.00
+−0.97
+
+2.03**
+0.40
+0.42
+−0.68
+−0.44
+
+0.414
+0.495
+0.508
+0.321
+0.121
+
+1.88**
+1.69**
+1.41*
+0.82
+0.29
+
+2.03**
+1.72**
+1.65**
+1.09
+0.78
+
+59.73
+56.56
+57.92
+57.47
+56.56
+
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+375
+
+Table 4
+Multivariate cross-sectional regression analysis of the linkage between abnormal returns and donation and ﬁrm characteristics. This
+table reports the outcome of estimating cross-sectional regressions designed to explain variation in market reaction to corporate
+philanthropy in terms of donation and ﬁrm characteristics. The variables reported in this table are: ARi0 (CARit) is the Day 0 abnormal
+stock return (cumulative abnormal stock return) as described in the text; (Di/ORi) is the total donation (both cash and in-kind)
+scaled by total operating revenue; Ti is the timing of board announcement and is a dummy variable with a value of 1 representing
+a board announcement made during the ﬁrst week following the earthquake and 0 otherwise; COi is the consumer orientation and is
+a dummy variable with a value of 1 representing direct consumer orientation and 0 otherwise; IKi is the inclusion of in-kind dona-
+tions and is a dummy variable with a value of 1 representing board announcement that include in-kind donations and 0 otherwise;
+HHIi is the Herﬁndahl–Hirschman Index indicating industry concentration in the contributing ﬁrm's industry (whereby industry is
+deﬁned based on two-digit primary CSRC code); ORi is the total operating revenue of the ﬁrm; ROAi is the return on assets of the
+ﬁrm, deﬁned as net proﬁt over total assets; and DRi is the debt ratio, deﬁned as total liabilities over total assets. The sample is 221
+board announcements of corporate donations made by Chinese A-share listed companies. * signiﬁcant at the 10% level; ** signiﬁcant
+at the 5% level and *** signiﬁcant at the 1% level.
+
+Variable
+
+Di/ORi
+Ti
+COi
+IKi
+HHIi
+ORi ($1 m)
+ROAi
+DRi
+Intercept
+
+Hypothesis and
+prediction
+
+H2: +
+H3: +
+H4: +
+H5: +
+H6a: +/H6b: −
+Control
+Control
+Control
+
+ARi0
+
+Coefﬁcient
+−0.1615
+0.0063
+0.0107**
+−0.0003
+0.0196
+>−0.0001
+−0.2145**
+−0.0108
+0.0083
+
+Two-day CAR
+
+Three-day CAR
+
+t-statistic
+−1.45
+1.04
+2.26
+−0.05
+0.70
+−0.30
+−2.12
+−0.88
+1.02
+
+Coefﬁcient
+−0.1391
+0.0030
+0.0045
+−0.0040
+0.0671*
+>−0.0001
+−0.2942**
+−0.0103
+0.0103
+
+t-statistic
+−0.94
+0.37
+0.72
+−0.63
+1.79
+−0.80
+−2.17
+−0.63
+0.95
+
+Coefﬁcient
+−0.1843
+0.0015
+0.0073
+−0.0085
+0.0809*
+>−0.0001
+−0.4454***
+−0.0161
+0.0162
+
+t-statistic
+−1.02
+0.15
+0.96
+−1.10
+1.77
+−1.38
+−2.71
+−0.81
+1.24
+
+corporate philanthropic involvement in natural disaster relief efforts that were less timely than those of
+the early responders; and (3) investors treat in-kind donations as comparable in corporate resource out-
+ﬂow terms as cash donations, and in-kind donation's marketing effect is not valued as opposed to the con-
+sumer orientation factor.
+
+One of the control variables, return on assets (ROA), generates an interesting insight. While not
+hypothesised, ROA turns out to be highly signiﬁcant across all three event windows and the negative esti-
+mated coefﬁcients indicate that investors are rational in judging the appropriateness of corporate philan-
+thropic involvement as a strategic investment. The rationale is that if a ﬁrm is currently enjoying a
+relatively high proﬁtability from its business operations, the incentive to participate in philanthropic activ-
+ities and the associated strategic motivations and beneﬁts are rather marginal, or such behaviour could
+even represent a negative NPV investment and is detrimental to the value of the contributing ﬁrm.
+
+6. Conclusion
+
+Drawing on the general literature of strategic philanthropy, this study presents a special case of corpo-
+rate philanthropic involvement in natural disaster relief efforts. Our results show that market participants
+in general do react positively to the announcements of corporate donations towards the 2008 Wenchuan
+earthquake relief effort. Extended analysis indicates that the abnormal stock returns are higher for compa-
+nies whose products and/or services that are directly consumer oriented. It is believed that this is primarily
+due to the marketing effect of the donor ﬁrm's participation in the disaster relief effort, leading to enhanced
+brand image and awareness. It is also found that donating ﬁrms in relatively concentrated industries tend
+to realise higher abnormal stock returns, implying that the market participants view the donating ﬁrm's
+philanthropic behaviour as a relationship cultivation strategy with various stakeholders, especially govern-
+ment authorities and the general public.
+
+While possessing various strategic motivations and potential beneﬁts, corporate philanthropic involve-
+ment should still be in line with overall corporate proﬁtability. Although not hypothesised, the return on
+assets (ROA) variable exhibits signiﬁcant negative inﬂuence on the magnitude of abnormal stock returns.
+This ﬁnding suggests that ﬁrms with relatively high proﬁtability need to carefully consider involvement in
+philanthropic activities, as doing so tends to negatively affect stock returns.
+
+
+376
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+The implications of this study are of particular interest to not only corporate management, but also var-
+ious stakeholders, especially government policymakers and the general public. First, the evidence on cor-
+porate philanthropic involvement in natural disaster relief efforts from China could be useful in other
+settings, as the various underpinning theoretical arguments favouring corporate philanthropy generally
+hold in this capital market research type of study. Second, the results of this study could enhance the mo-
+tivations of corporate managers to make philanthropic contribution to disaster relief efforts, due to the po-
+tential strategic beneﬁts associated with such philanthropic behaviour. Third, government policymakers
+could take advantage of the potential economic beneﬁts corporations have to gain from philanthropic ac-
+tivities, to better promote corporate philanthropy in the event of natural disasters. Finally, the general
+public, especially the media, could better understand the objectives and forms of corporate philanthropic
+involvement in natural disaster relief efforts and thus can also help encourage corporate giving.
+
+References
+
+Brown, S.J., Warner, J.B., 1985. Using daily stock returns: the case of event studies. Journal of Financial Economics 14 (1), 3–31.
+Campbell, L., Gulas, C.S., Gruca, T.S., 1999. Corporate giving behavior and decision maker social consciousness. Journal of Business
+
+Ethics 19 (4), 375–383.
+
+Campbell, D., Moore, G., Metzger, M., 2002. Corporate philanthropy in the U.K. 1985–2000: some empirical ﬁndings. Journal of Busi-
+
+ness Ethics 39 (1/2), 29–41.
+
+CCTV.com, 2008. 汶川地震损失8451亿 遇难失踪人数超8.7万, Cctv.com (in Chinese). http://news.cctv.com/china/20080904/102837.shtml
+
+2008.
+
+Chen, Y.R., 2007. The strategic management of government affairs in China: how multinational corporations in China interact with
+
+the Chinese government. Journal of Public Relations Research 19 (3), 283–306.
+
+Chen, X., Kim, K.A., Yao, T., Yu, T., 2010. On the predictability of Chinese stock returns. Paciﬁc-Basin Finance Journal 18 (4), 403–425.
+Cheung, Y.-L., Jing, L., Lu, T., Rau, P.R., Stouraitis, A., 2009. Tunneling and propping up: an analysis of related party transactions by
+
+Chinese listed companies. Paciﬁc-Basin Finance Journal 17 (3), 372–393.
+
+Dahles, H., 2005. Culture, capitalism and political entrepreneurship: transnational business ventures of the Singapore–Chinese in
+
+China. Culture and Organization 11 (1), 45–58.
+
+Fombrun, C.J., 1996. Reputation: Realizing Value from the Corporate Image. Harvard Business School Press, Boston.
+Friedman, M., 1970. The social responsibility of business is to increase its proﬁts. The New York Times Magazine 122–126 September 13.
+Gao, Y., 2006. Corporate political action in China and America: a comparative perspective. Journal of Public Affairs 6 (2), 111–121.
+Gao, Y., 2009. Corporate social performance in China: evidence from large companies. Journal of Business Ethics 89 (1), 23–35.
+Gardberg, N.A., Fombrun, C.J., 2006. Corporate citizenship: creating intangible assets across institutional environments. Academy of
+
+Management Review 31 (2), 329–346.
+
+Godfrey, P.C., 2005. The relationship between corporate philanthropy and shareholder wealth: a risk management perspective.
+
+Academy of Management Review 30 (4), 777–798.
+
+Haley, U.C.V., 1991. Corporate contributions as managerial masques: reframing corporate contributions as strategies to inﬂuence
+
+society. Journal of Management Studies 28 (5), 485–509.
+
+Hofstede, G., 1984. Culture's Consequences: International Differences in Work-Related Values. Sage Publications, CA, Beverly Hills.
+Huang, W., Jiang, F., Liu, Z., Zhang, M., 2011. Agency cost, top executives' overconﬁdence, and investment-cash ﬂow sensitivity—
+
+evidence from listed companies in China. Paciﬁc-Basin Finance Journal 19 (3), 261–277.
+
+Hung, C.F., 2004. Cultural inﬂuence on relationship cultivation strategies: multinational companies in China. Journal of Communica-
+
+tion Management 8 (3), 264–281.
+
+Kot, H.W., 2011. Corporate name changes: price reactions and long-run performance. Paciﬁc-Basin Finance Journal 19 (2), 230–244.
+Lei, A.C.H., Song, F.M., 2011. Connected transactions and ﬁrm value: evidence from China-afﬁliated companies. Paciﬁc-Basin Finance
+
+Journal 19 (5), 470–490.
+
+MacKinlay, A.C., 1997. Event studies in economics and ﬁnance. Journal of Economic Literature 35 (1), 13–39.
+McWilliams, A., Siegel, D., 1997. Event studies in management research: theoretical and empirical issues. Academy of Management
+
+Journal 40 (3), 626–657.
+
+Mescon, T.S., Tilson, D.J., 1987. Corporate philanthropy: a strategic approach to the bottom line. California Management Review 29
+
+(2), 49–61.
+
+Muller, A., Whiteman, G., 2009. Exploring the geography of corporate philanthropic disaster response: a study of fortune global 500
+
+ﬁrms. Journal of Business Ethics 84 (4), 589–603.
+
+Navarro, P., 1988. Why do corporations give to charity? Journal of Business 61 (1), 65–93.
+Patten, D.M., 2008. Does the market value corporate philanthropy? Evidence from the response to the 2004 tsunami relief effort.
+
+Journal of Business Ethics 81 (3), 599–607.
+
+Porter, M., Kramer, M., 2002. The competitive advantage of corporate philanthropy. Harvard Business Review 80 (12), 56–68.
+Ricks, J.M., 2005. An assessment of strategic corporate philanthropy on perceptions of brand equity variables. The Journal of
+
+Consumer Market 22 (3), 121–134.
+
+Saiia, D., Carroll, A., Buchholtz, A., 2003. Philanthropy as strategy: when corporate charity “beings at home”. Business & Society 42
+
+(2), 169–201.
+
+Schiller, Z., 1988. Doing well by doing good. Business Week 5, 53–57 December.
+Strahilevitz, M., 1999. The effects of product type and donation magnitude on willingness to pay more for a charity-linked brand.
+
+Journal of Consumer Psychology 8 (3), 215–241.
+
+Strahilevitz, M., Myers, J., 1998. Donations to charity as purchase incentives: how well they work may depend on what you are trying
+
+to sell. Journal of Consumer Research 24 (4), 434–446.
+
+
+F. Gao et al. / Paciﬁc-Basin Finance Journal 20 (2012) 363–377
+
+377
+
+Su, J., He, J., 2010. Does giving lead to getting? Evidence from Chinese private enterprises. Journal of Business Ethics 93, 73–90.
+Wu, X., 2002. Doing PR in China: a 2001 version—concepts, practices and some misperceptions. Public Relations Quarterly 47 (2),
+
+10–18.
+
+Zhang, R., Rezaee, Z., Zhu, J., 2010. Corporate philanthropic disaster response and ownership type: evidence from Chinese ﬁrms’
+
+response to the Sichuan Earthquake. Journal of Business Ethics 91, 51–63.
+
+Zu, L., Song, L., 2009. Determinants of managerial values on corporate social responsibility: evidence from China. Journal of Business
+
+Ethics 88, 105–117.
+

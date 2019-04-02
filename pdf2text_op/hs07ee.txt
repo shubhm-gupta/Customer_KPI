@@ -1,0 +1,1892 @@
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+ava i l a b l e a t w w w. s c i e n c e d i r e c t . c o m
+
+w w w. e l s ev i e r. c o m / l o c a t e / e c o l e c o n
+
+ANALYSIS
+
+Can capital markets respond to environmental policy of firms?
+Evidence from Greece
+
+George Halkosa,⁎, Anastasios Sepetisb
+aEconomics Department, University of Thessaly, Korai 43, Volos 38221, Greece
+bLaboratory Corporate Environmental Policy and Management, Environment Department, University of the Aegean, Mytilini 81100, Greece
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+In this study we attempt to evaluate the stock value of Greek firms, which apply systems of
+environmental management in the light of systemic risk. Risk is examined empirically with
+the help of conditional volatility models of investment in environmental friendly firms. The
+empirical analysis relies on financial econometric models, which determine the underlying
+conditional volatility. We find that improved environmental management system and
+environmental performance result in reductions in firms’ beta. Specifically, our empirical
+estimates show evidence of volatility clustering, short- and long-run persistence of shocks
+to the returns of the market and asymmetry in the leverage effect between negative and
+positive shocks to returns. Finally, the macroeconomic factors proposed and included in the
+analysis have no statistical significant influence on the beta estimates in almost all cases.
+© 2007 Elsevier B.V. All rights reserved.
+
+Article history:
+Received 25 February 2006
+Received in revised form
+9 December 2006
+Accepted 21 December 2006
+Available online 7 February 2007
+
+Keywords:
+Environmental management
+Systematic risk
+Capital market
+TGARCH
+
+JEL classification:
+G14; Q25
+
+1.
+
+Introduction
+
+Nowadays environmental cost steadily increases and more and
+more firms, whose capitals are concentrated on environmental
+products and services, make their appearance. This raises the
+question whether business environmental policy and the
+systems of environmental management are being attuned or
+opposed to the evolution of the shareholder value. In order to give
+an answer to this question we have to analyze and find out what
+is being projected as evaluation of shareholder value indexes.
+Firms or companies, as far as their relation to the environment is
+concerned, are based mainly on the establishment of a flexible
+legal system, which is capable to promote the environmental
+
+harmonization and the effective application of the legal provi-
+sions. The latter is in accordance to direct and objective
+information towards the mass of share-hold market (share-
+holders–stakeholders), which expresses interest in locating
+enterprises with preferential discounted future business value.
+The improvement of the pre-mentioned relation will
+encourage the mass of business community to re-establish
+its relation to the environment. In addition, the improvement
+of the above relation and the financial effectiveness of every
+firm are directly and indirectly influenced by the capital
+market and the formation of the stock value within. At the
+same time, based on a different prospective, environmental
+management and policy are closely related to the modern
+
+⁎ Corresponding author. Alexandroupoleos 31, Ano Melissia 15127, Athens, Greece.
+
+E-mail address: halkos@uth.gr (G. Halkos).
+
+0921-8009/$ - see front matter © 2007 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ecolecon.2006.12.015
+
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+579
+
+strategy of firms, due to the fact that they aim towards better
+financial results. In other words, environmental management
+is associated with increasing rate of environmental strategy
+and becomes its organic part.
+
+Due to these reasons, the question of compliance of the
+operation of capital market with the environmental dimension
+of business strategy arises. The scientific community already
+deals with the issue of how it is possible that the two
+superficially controversial aspects of “stock value” and “envi-
+ronmental policy and management” can be finally related, at
+the level of strictly business strategy as well as at the level of
+capital market operation. The question that emerges is in what
+way could the conditions that can effectively lead a capital
+market network towards a perfect function consist of condi-
+tions related to environmental management. If the answer is
+positive then the two areas of business strategy evolution
+could have mutual and compatible goals even at the level of
+environmental strategy. In that case, the capital market and
+the microeconomics system of each firm could affect each
+other, with mutual gain, contributing to the achievement of
+environmental policy and management's goals.
+
+Our research mainly tries to highlight that the recognition of
+relativity of corporate environmental policy and management
+with the configuration of shareholder value is required to be
+incorporated into a horizontal aspect of environmental policy.
+This has to take place with all the manifestations of component
+elements, which constitute the operation mechanism of capital
+market under efficiency conditions. The reduction of in
+question relativity in its horizontal dimension will elect the
+necessity for planning a model (Horizontal equilibrium model),
+which will interpret the peculiarity that the application lends
+from the corporate environmental policy in the light of general
+important macroeconomic and microeconomic factors that
+prevail in the capital market they negotiate.
+
+For the first time, we try to relate environmental policy,
+management planning and the stock value for the case of Greek
+companies. Using a sample of 11 Greek companies verified in
+the Athens Stock Exchange Market and applying adequate
+econometric techniques we reach a number of interesting
+conclusions with the associated policy implications. At the
+same time we apply a number of diagnostic tests in order to
+justify and check the validity of the proposed models. Compa-
+nies that make a reference for their environmental policy in the
+annual financial report or publish an annual social report seem
+to have a reduction in their beta estimates especially in sectors
+that influence heavily the environment. Macroeconomic factors
+seem to be insignificant in almost all cases.
+
+The structure of the paper is organized as follows. Section 2
+reviews the existing literature. The data and the methodology
+adopted are presented in Section 3 while Section 4 discusses
+the empirical results extracted in the study. The Final section
+concludes the paper.
+
+2.
+
+Materials studied
+
+Up to now research dealt with two different approaches trying
+to discover and reveal the relations of interdependence of
+corporate environmental policy and firms' shareholder value
+and capital market in general. The upside approach aims to
+
+analyze on one hand the influence of the incorporation of
+environmental policy and systems of business strategy with the
+direct effect on the level of conditions that form the shareholder
+value of firms (Blumberg et al., 1997; Schaltegger and Figge,
+2000). On the other hand, the downside approach focuses on the
+financial and technical analysis of firms, which respond to the
+stock market, from an outside approach. It relates the Stock
+Exchange performance of firms in order to find the super-
+normal profits that the recognition of the applied environmen-
+tal policy adds to the changes of stock value.
+
+The most important result is that an increasing environ-
+mental sector performance has a significantly positive influ-
+ence on the shareholder value. Feldman et al. (1997) suggest
+that environmental improvement is recognized by the invest-
+ing community and leads to a real decrease of business
+expected risk (lower beta), which comes together with a rise of
+stock market value of about 5%. According to Ziegler et al.
+(2002) an increasing environmental sector performance has a
+significantly positive influence on the shareholder value, but
+in contrast, an increasing social sector performance has a
+negative influence on the average monthly stock returns. In
+the new era of environmental policy and innovation the ‘Win–
+Win’ theory (Porter and Linde, 1995; Halkos and Evangelinos,
+2002) support that the distinctive environmental regulations
+and the proper financial tools open the way to innovation,
+increase the productivity of inputs, decrease the total produc-
+tion cost, improve the value and offer a comparative advan-
+tage to the firm that works within a competitive environment.
+But Hart and Ahuja (1996) pointed out that firm's effort on
+restraining pollution by reducing emission of pollutants is
+opposed to firms' net profit for a period of one to two years
+after the beginning of environmental management and as a
+result, firms with high levels of emission seem to have higher
+profit. According to Palmer et al. (1995), Reinhardt (1999a,b) if it
+is to pay to be green then firm's engagements in a voluntary
+measure beyond compliance ought to be guided by consumers
+and investors performance that are not necessarily captured
+by regulations. Dowell et al. (2000) find that firms adopting a
+single stringent global environmental standard have much
+higher market values.
+
+Capital Market value of state firms consists of an estimated
+future obligation, which relates to environmental perfor-
+mance. A connection between corporate environmental policy
+and effectiveness is the risk associated with the investment,
+which is determined in the capital market, and could as well be
+characterized as ‘environmental recognition’ and inhere in
+these two approaches (upside and downside). This is accom-
+plished through the acceleration of information procedures
+and in time distribution to shareholders and their consultants
+as well as the domestic and international Institutional
+Investor. Researcher's (Gentry et al., 1997; Reed, 1998) points
+out that the majority of investing community can, under
+proper information, accept the fact that environmental
+performance constitutes an important index for the definition
+of stock value. Yamashita et al. (1999) examining the relation-
+ship between environmental conscientiousness scores and
+stock returns find that the US capital markets have only weakly
+rewarded environmentally conscientious companies.
+
+Researchers also find that the decrease in stock price is
+comparable in dollars value to the fines and penalties issued
+
+
+580
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+by governance (Barth and McNichols, 1994; Karpoff et al., 1998;
+Garber and Hammitt, 1998) while King and Lenox (2000) find
+evidence of an association between lower pollution and
+higher financial valuation. Thomas (2001) concluded that the
+adoption of environmental policy as well as the continuous
+prosecutions for violations of environmental regulations
+could give a strong explanation, within the framework of an
+analysis of excessive profit, to the shareholders who invest on
+firms, which adopt a responsible environmental behavior.
+Similarly, Hall and Rieck (1998) claim that announcements of
+firm's donations have an important positive impact on
+shareholder value. According to Blacconiere and Pattem
+(1994) and Blacconiere and Northcutt (1997) the non-incorpo-
+ration of environmental statement of a firm as well as the
+distribution to the administration of inadequate accountabil-
+ity results, cause problems to operational process and more of
+these costs that could have been avoided. These additional
+costs transfer through the capital market to stakeholders and
+as a characteristic result stakeholders have paid a large
+amount of USA environmental pollution (Ditz et al., 1995).
+
+In the USA further forms of mandated reporting come from
+the securities regulations and accounting professions disclo-
+sure requirement for risk and environmentally related matters
+(Goodman and Little, 2003). The operation of stock market is
+more effective when the level and credibility of information are
+available to the judgment of the investors. When new
+information becomes available in the market, the uncertainty
+of the investors decreases (for example the unemployment
+and the price levels) and so show a willingness to re-establish,
+in a relevant way, their demands according to the new levels of
+uncertainty as far as firm's value is concerned (Gupta and
+Goldbar, 2005). Hamilton (1995) investigated whether the facts
+about pollution, which were pointed out, by the Environmental
+Protection Agency (E.P.A.) and Toxis Release Inventory (T.R.I.)
+in 1989 were ‘news’ about the journalists and the investors.
+The analysis shows that the actual stock performance for
+those companies was lower than the expected market adjusted
+returns.
+
+Klassen and McLaughlin (1996) remarked outstandingly
+negative, unexpected under normal circumstances, results
+when had to announce bad environmental news, like an oil
+slick and on the other hand positive results when firms were
+granted environmental awards. Lanoie et al. (1998) using
+evidence drawn from American and Canadian studies indicate
+that capital markets react to the release of information, and that
+large polluters are affected more significantly by such release
+than smaller polluters. Lorraine et al. (2004) reached the same
+point by examining whether publicity (either good or bad) about
+environmental performance affects British companies share
+prices. Specifically they find that there is a stock market
+response to such news especially for details on fines-typically
+up to 1 week after news is published. But in their research Bosch
+et al. (1998) pointed out that market responds negatively in
+unfavourable announcements of E.P.A. about firm's wrong
+environmental action.
+
+The demand for sustainable financial services and rating
+organizations contributed to the establishment of companies
+and the creation of an annual corporate environmental index
+of benchmark which focuses on counselling and informing the
+investing community about companies, which apply sustain-
+
+able environmental policy (Business in the Environment—BiE
+index, Innovest-EcoValue21 Index). Financial houses like Dow
+Jones and Financial Times in order to meet the case for new
+profit from sustainable development have established the
+Dow Jones Sustainable Group Index (DJSGI) and the Financial
+Time Security Exchange for Good (FTSE4G), which are being
+promoted as sustainable indexes.
+
+According to Dobers and Cerin (2001), for the year 2001,
+the performance of DJSGI compared to the performance of
+DJGI, appear to be 2.5 times higher. Also the bad environ-
+mental situation of firms creates many legal and financial
+problems that should be paid by the financial market; and
+second the financial institutions seize the opportunity for
+raising their position in an oligopoly framework (Bouma
+et al., 2001).
+
+From the beginning of the idea of environmental protection
+and sustainable development a new oligopoly market was
+created in the funds community. The practice of strictly
+environmental criteria adoption as well as the establishment
+of “Green Funds” and ‘Green Mutual Funds’ is relatively recent.
+The complete picture of social responsible investment is
+determined by the Social Investment Forum (2005) as com-
+prising three strategies: positive and negative screening
+practices, shareholders activism and community-based in-
+vestment programs. Individual groups of environmental
+investors are now responding to poor corporate environmen-
+tal management through active shareholding practices such
+as shareholder resolutions and divestment strategies, in order
+to pressure targeted companies to improve environmental or
+social performance (Elkington and Beleo, 2000). Papers in this
+field confirm that ‘Green Funds’ have positive efficiency with
+respectable profit, while moral green investors don't pay the
+‘risk premium’ for this investing attitude (White, 1995; Fayers
+et al., 2000; Konar and Cohen, 2001). Finally Heinkel et al. (2001)
+find that a key determinant of the incentive for polluting firms
+to reform is the fraction of funds controlled by green investors.
+In their model, empirically reasonable parameter estimates
+indicate that more than 20% green investors are required to
+induce any polluting firms to reform.
+
+From the literature review it emerges that these downside
+and upside approaches and the general theory of corporate
+environmental policy cannot explain alone the differences
+that lend the corporate environmental policy and manage-
+ment in their shareholder values. But the most important is
+that the literature presents the phenomenon that the capital
+market has failed to incorporate effectively the corporate
+environmental policy of firms. This failure implies that the
+cross-correlation between the corporate environmental policy
+of firm and shareholder value that is created in the capital
+market form asymmetrical information, rigidities of prices
+and oligopoly situations to individual sectors and markets. It
+is recognized that the two factors that can promote simulta-
+neously the corporate environmental policy with the opera-
+tion of capital market is the availability of environmental
+information and the relativity, or more precisely, the percep-
+tible relativity. The latter constitutes cultural constitutive
+element of social growth and social capital as well as corporate
+governance principle for each society and at extension to local
+capital market. And here enters the significance of horizontal
+dimension of environmental policy.
+
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+581
+
+3.
+
+Framework, methodology and data
+
+The Efficient Market Hypothesis argues that new information
+will be reflected in a stock's return. A company's risk profile
+can be distinguished into two components: the systematic and
+the specific or unique risk to the firm. The former form of risk
+reflects factors such as changes in interest rates, oil prices,
+inflation rates etc that affect all firms in the market
+simultaneously. This implies that investing in a more
+diversified portfolio cannot eliminate the risks posed by
+those factors. This is in line with modern financial portfolio
+theory, which concludes that investors require a return for
+accepting only the systematic risk as firm-specific risk can be
+diversified away. This reduction in systematic risk results to a
+decrease in the cost of financial capital and, for a given cash
+flow, in an increase in the stock price. A company's systematic
+risk is measured by its “beta”, which is a measure of volatility
+of the stock under consideration to the overall market with the
+market's beta taking the value of 1. The higher a firm's beta,
+the greater its systematic risk is. Companies with a beta
+greater than 1 are more volatile compared to market. On the
+other hand, companies with beta less than 1 are less volatile.
+
+3.1.
+
+Modeling environmental risk
+
+In order to demonstrate the connections between changes in
+environmental risk and a company's stock price then we may
+consider firms that have publicly aligned its overall business
+mission with a number of environmental objectives and
+publicly acknowledges that its excellent business reputation
+is mainly due to its environmental performance.
+
+In our empirical estimation we use the Capital Asset Pricing
+
+ð1Þ
+
+Model (hereafter CAPM) formulation expressed as
+ðRj−RfÞ ¼ b0j þ b1jðRm−RfÞ þ ej
+where the stochastic disturbance term εj represents the effect
+of unsystematic and diversifiable risk. We assume that εj has a
+zero identically normally distributed mean. The term Rj−Rf rep-
+resents the risk premium for security j while Rm−Rf the overall
+market risk premium. Estimating β1 by OLS is equivalent to
+b1j ¼ rjm
+
+ð2Þ
+
+r2
+m
+
+where σjm is the covariance between firm j's return and that of
+the market in total and σm
+2 is the variance of market's return.
+Considering the CAPM model as a special case of a more
+general model we proceed to the implementation of the
+Arbitrage Pricing Model (hereafter APM). In this way, securities
+are allowed to respond differentially to macroeconomic shocks
+(or changes) such as unexpected oil price shocks or changes in
+the inflation rates. That is, the APM is formulated as:
+ðRj−RfÞ ¼ b0j þ b1jðRm−RfÞ þ b2j Factor1 þ b3j Factor2
+
+ð3Þ
+where factors 1 to 3 correspond to price of oil, industrial
+production and inflation rate respectively.
+
+þ b4j Factor3 þ Vt
+
+In our last step we investigated the need to extend our model
+to cope with ARCH effects and risk as an explanatory variable.
+The most common used ARCH and GARCH models as intro-
+
+duced by Engle (1982) and Bollerslev (1986) take the conditional
+variance as a linear function of lagged conditional variances and
+squared residuals. Theoretically these models are characterized
+by linearity as they imply an ARMA equation for the squared
+2 allowing a full study of the distributional
+prediction errors ut
+properties of ut as well as easier statistical inference.
+
+A time series following a GARCH (p,q) model satisfies
+
+ð4Þ
+
+Yt ¼ Xtb þ vt
+where X represents the vector of independent variables (and
+the lagged dependent variable), β is a constant vector and vt
+the disturbance term. The latter is defined as
+vt ¼ rtZt Zt
+¼ g0 þ Xq
+i¼1
+
+fi:i:d: Nð0; 1Þ
+þ Xp
+j¼1
+
+g1iv2
+t−1
+
+g2ir2
+t−j
+
+r2
+t
+
+ð5Þ
+
+where p and q are non-negative integers and γ1i≥0∀i N0,
+≥0 ∀j N0 and γ0 N0 to secure a strictly positive conditional
+γ
+2i
+variance. The ARCH effect (α
+2i) shows the short-run persistence
+of shocks while the GARCH (β
+2i) indicates the contribution of
+shocks to the long-run persistence.
+
+¼ a þ b1S−
+t−1
+
+Following Engle and Ng (1993) a joint diagnostic test for
+non-linear ARCH effects is performed and is reported in the
+last row of Table 2. The test relies on the following regression
+ð6Þ
+
+e2
+it
+where εit are the standardized residuals, St−1 a dummy variable
+taking the value of 1 if εit−1 is negative and 0 otherwise and Z a
+vector of explanatory variables. The test statistic for this test is
+the LM statistic (n⁎R2)∼χα2 with 3 degrees of freedom.
+
+ei;t−1 þ b3ð1−S−
+
+Þeit−1 þ cZi þ ei
+
+þ b2S−
+t−1
+
+t−1
+
+As the conditional variance in a GARCH formulation is a
+function of the magnitude of the lagged residuals and not their
+signs, this implies that one of the main restrictions of GARCH
+models is that they rely on a symmetric response of volatility
+to positive and negative shocks. Specifically, the GARCH
+formulation proposes a symmetrical treatment of the effects
+of these shocks on the conditional variance in such a way that
+the effect of negative and positive shocks on the conditional
+volatility to be identical.
+
+It is argued that in financial time series, negative shocks
+increase volatility more compared to equal positive shocks.
+These asymmetries are usually attributed to leverage effects.
+A reduction in the value of a company's stock increases the
+firm's debt to equity ratio and the shareholder who bear the
+residual risk of the firm consider their future cash flows as
+more risky. Two popular asymmetric formulations may be
+used in case of asymmetries: the Threshold GARCH or
+TGARCH (Zakoian, 1991; Glosten et al., 1993) and the Expo-
+nential GARCH or EGARCH proposed by Nelson (1991). A
+limitation of the latter is the fact that the effects on volatility
+of positive values relative to negative remain fixed in time.
+
+The TGARCH is used here as it treats the asymmetric effects
+of shocks and presumes that negative shocks have a higher
+impact on volatility (and thus greater leverage) compared to
+positive shocks of similar magnitude. A TGARCH (1,1) can be
+formulated as
+¼ d0 þ d1m2
+t−1
+
+þ d2r2
+t−1
+
+þ d3m2
+
+t−1It−1
+
+ð7Þ
+
+r2
+t
+
+
+582
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+Table 1 – Description of variables
+Company
+
+Sector
+
+Mean
+
+Max Min
+
+S.D. Skewness Kurtosis
+
+Unit root
+
+test
+
+Sample
+
+size
+
+1. Heracles Cement
+
+Industrial minerals
+
+0.0000064 0.086 −0.1004 0.024
+
+0.1196
+
+5.06
+
+−37.35 (0.000)
+
+Company
+S&B Industrial Minerals Industrial minerals
+Frigoglass
+
+2.
+3.
+
+Kreta Farm
+Elais Oleaginous Prod.
+Fanco S.A.
+
+4.
+5.
+6.
+7. Halcor Metal Works
+8. Motor Oil Refineries
+9. Hellenic Cables
+10. Varvaressos European
+
+Spinning Mills
+
+Machinery and
+equipments
+Food
+Food
+Clothing
+Metal
+Oil refineries
+Cables
+Textiles
+
+11. Naoussa Spinning Mills Textiles
+12. General Index of A.S.E
+13. Rate of inflation
+14.
+15. Price of oil
+
+Industrial production
+
+Macroeconomic variable
+Macroeconomic variable
+Macroeconomic variable
+
+0.00041
+−0.0011
+
+−0.0005
+0.00007
+0.0005
+−0.0002
+0.00016
+−0.00016
+0.00024
+
+0.00023
+0.00054
+0.00014
+0.00025
+0.00075
+
+0.119 −0.1173 0.025
+0.179 −0.177
+0.03
+
+0.3676
+0.014
+
+5.96
+7.358
+
+−36.48 (0.000)
+−31.899 (0.000)
+
+0.154 −0.1784 0.027
+0.119 −1.00
+0.033
+−0.1777 0.051
+0.18
+0.098
+0.1133 0.028
+0.129 −0.0797 0.015
+0.177 −0.1055 0.031
+0.173 −0.1195 0.041
+
+0.186 −0.24
+0.048
+0.079 −0.0917 0.018
+0.025 −0.0195 0.003
+0.225 −0.2105 0.017
+0.177 −0.1804 0.027
+
+0.2448
+
+−15.61
+
+0.3628
+−0.331
+1.28
+0.2837
+0.2474
+
+0.39
+0.0938
+0.0025
+0.0174
+0.0716
+
+9.865
+47.86
+4.14
+3.945
+17.211
+4.3826
+3.4262
+
+4.7
+6.083
+6.2198
+8.4831
+6.737
+
+−28.39 (0.000)
+−27.49 (0.000)
+−33.44 (0.000)
+−35.86 (0.00)
+−30.173 (0.000)
+−37.35 (0.000)
+−36.46 (0.000)
+
+−34.401 (0.000)
+−35.98 (0.000)
+−41.795 (0.000)
+−41.674 (0.000)
+−40.959 (0.000)
+
+1740
+
+1740
+1264
+
+1163
+1740
+1740
+1740
+848
+1740
+1601
+
+1740
+1740
+1740
+1740
+1740
+
+where It−1=1 if νt−1=0 and It−1=0 otherwise. If γ N0 then we
+may have a leverage effect. The non-negativity conditions are
+α0≥0, α1≥0, β≥0 and α1+γ≥0.
+
+Thus the TGARCH's main advantage of the parameteriza-
+tion is that it takes into account asymmetries in volatility as
+well as the non-negativity of the parameters. This asymmetry
+is important, as volatility tends to be higher after a decrease
+than after an equal increase.
+
+3.2.
+
+Data
+
+In our analysis we constructed a “green” portfolio constituted
+from 11 companies chosen from different sectors and which
+were certified in the Athens Stock Exchange Market (ASE)
+(mostly with ISO14000 or EMAS in the year 2001) for their
+environmental situation. Data are available on a daily basis
+from 2nd of January 1998 to 30th of December 2004. The source
+of the data is the database created in the Laboratory of
+Econometrics at the University of Thessaly.1
+
+The returns of the bonds and of the General Index of the
+Athens Stock Exchange Market are estimated as the ratio of the
+difference between the values in period t (Pt) minus the values in
+period t − 1 (Pt−1) over the values in period t −1. For the
+approximation of the main macroeconomic variables we use
+the consumer price index, the price of Brent oil and the index of
+industrial production. Following Berndt (1991) we construct first
+the rate of inflation, the growth rate in the real price of oil and
+the growth in industrial production and then from each
+constructed variable we subtract its corresponding sample
+mean. Specifically, the rate of inflation (INFLRATE) is defined
+as the consumer price index (hereafter CPI) in period t minus CPI
+in period t−1 divided by CPI in period t−1; the growth rate in the
+
+1 The source of the macroeconomic data is the National
+Statistics Service of Greece as well as the site http://www.
+economics.gr/allMedia/gr/. The source of the European Brent Spot
+Price is the US Department of Energy, Energy Information
+Administration.
+
+real price of oil (ROILPG) is defined as [(ROILPG/CPI)t−(ROILPG/
+CPI)t − 1]/(ROILPG/CPI)t−1; and the growth in industrial produc-
+tion (INDPRG) is defined as the ratio of the difference in
+industrial production in period t minus the industrial produc-
+tion in period t−1 over the industrial production in period t−1.
+The risk free rate refers to the interest of the Greek Govern-
+mental Bond Yield.
+
+Table 1 presents the basic descriptive statistics and general
+information concerning the macroeconomic variables and the
+companies (like the sector) included in the sample under
+consideration. We have also included the results of the unit
+root tests (P-values in parentheses) where in all cases
+stationarity is present.
+
+4.
+
+Results
+
+Table 2 presents the estimation results for the proposed model
+formulation. The first row presents the parameters estimated;
+the next two rows contain the parameters following the
+notation of relationships (3)–(5) and (7). The beta coefficient β1
+is significantly different from zero at all levels and in all cases.
+The GARCH components are also significant suggesting that
+there is an important ARCH component to the error process.
+Coefficient γ2 has sensible magnitude and it is significant
+suggesting that the risk premium is time varying. At the same
+time γ0 and γ1 are significant but their magnitudes are
+negligible. The coefficients on all three estimated terms in
+the conditional variance equation are statistically significant
+in all cases. The sum of the coefficients on the lagged squared
+error and the lagged conditional variance is close to unity
+implying that shocks to conditional variance will be highly
+persistent. The magnitude of the constant of the variance
+equation is negligible while the coefficient of the lagged
+conditional variance (GARCH component) is higher than 0.9.
+Due to Engle–Ng test and the resulted asymmetries for some
+companies we have proceeded to TGARCH estimations. Specif-
+ically, in Table 2 and in the cases of Hellenic Cables, Naoussa and
+
+
+Table 2 – OLS and ML GARCH estimates (dependent variable: bond returns)
+
+Fanco
+
+Motor oil
+
+Hellenic Cables
+
+Varvaressos
+
+Naoussa
+
+2001–04
+
+n=995
+
+1998–01
+
+n=102
+
+2001–04
+
+n=848
+
+1998–01
+
+n=994
+
+1.745 (16.71)
+
+0.975 (8.8494)
+
+0.582 (15.33)
+
+1.03 (17.91)
+
+1998–01
+
+n=994
+
+0.89 (13.8)
+0.1731 (6.55)
+
+0.00002 (2.16)
+0.028 (3.06)
+0.963 (92.47)
+
+0.25
+1726.3
+66.85
+1.85
+
+0.00015 (2.647)
+0.0828 (2.5425)
+0.7858 (16.06)
+0.15013 (2.2458)
+0.225
+1749.7
+70.44
+1.75
+
+0.44
+260.52
+78.31
+1.69
+
+13.01 (0.41)
+19.5 (0.08)
+2.02 (0.16)
+
+22.45 (0.11)
+4.72 (0.98)
+0.63 (0.43)
+
+14.58 (0.27)
+1.27 (0.99)
+0.012 (0.91)
+
+Parameters
+
+Regression
+
+Market returns
+(Bond return)t−1
+Inflation rate
+
+GARCH
+Constant
+Residuals(−1)2
+GARCH(−1)
+Resid(−1)2*(Resid(−1) b0)
+R2 adjusted
+Log likelihood
+F-statistic
+Durbin–Watson
+
+Diagnostics
+Q(12)
+Qsq(12)
+ARCH(1)
+ARCH(2)
+ARCH(3)
+Breusch–Godfrey
+Reset
+Engle–Ng
+
+0.22
+2478.1
+235.14
+2.07
+
+15.77 (0.21)
+14.51 (0.27)
+0.079 (0.78)
+3.14 (0.21)
+4.57 (0.21)
+2.52 (0.28)
+0.8 (0.8)
+
+0.38
+2345.2
+320.77
+1.92
+
+8.32 (0.76)
+5.92 (0.92)
+0.423 (0.52)
+0.79 (0.67)
+0.896 (0.6)
+1.03 (0.6)
+4.03 (0.133)
+
+2001–04
+
+n=995
+
+0.903 (25.06)
+0.065 (2.78)
+0.734 (3.363)
+
+0.00001 (1.93)
+0.005 (1.33)
+0.9786 (85.95)
+0.0406 (2.933)
+0.244
+2329.81
+63.86
+1.999
+
+1998–01
+
+n=854
+
+1.028 (17.83)
+0.108 (3.43)
+
+2001–04
+
+n=995
+
+0.434 (5.244)
+
+1998–01
+
+n=993
+
+0.855 (17.15)
+0.153 (5.44)
+
+2001–04
+
+n=995
+
+1.7184(21.963)
+
+0.0003 (3.203)
+0.192 (4.503)
+0.611 (7.16)
+
+0.00041 (3.663)
+0.137 (4.34)
+0.546 (5.17)
+
+0.0002 (3.88)
+0.2004 (4.81)
+0.713 (13.29)
+
+0.27
+1599.3
+61.8
+1.94
+
+0.24
+1918.5
+6.2
+2.17
+
+0.26
+1827.6
+73.5
+1.83
+
+0.00003 (1.493)
+0.04068 (1.118)
+0.8965 (25.8)
+0.1279 (2.2526)
+0.22
+1854.07
+55.59
+1.89
+
+15.59 (0.21)
+5.1 (0.96)
+0.05 (0.83)
+
+17.59 (0.13)
+10.72 (0.55)
+0.16 (0.68)
+
+12.28 (0.42)
+3.71 (0.98)
+0.009 (0.93)
+
+14.56 (0.27)
+7.57 (0.82)
+0.101 (0.75)
+
+11.31 (0.51)
+3.324 (0.99)
+0.56 (0.45)
+
+1.36
+
+2.21
+
+1.55
+
+1.13
+
+1.76
+
+3.11
+
+(continued on next page)
+
+(continued on next page)
+
+E
+
+C
+
+O
+
+L
+
+O
+
+G
+
+I
+
+C
+
+A
+
+L
+
+E
+
+C
+
+O
+
+N
+
+O
+M
+
+I
+
+C
+
+S
+
+6
+
+3
+
+(
+
+2
+
+0
+
+0
+
+7
+
+)
+
+5
+
+7
+
+8
+
+–
+
+5
+
+8
+
+7
+
+5
+8
+3
+
+
+Table 2 (continued)
+
+Parameters
+
+Regression
+
+Market returns
+(Bond return)t−1
+Inflation rate
+
+GARCH
+Constant
+Residuals(−1)2
+GARCH(−1)
+Resid(−1)2*(Resid(−1) b0)
+R2 adjusted
+Log likelihood
+F-statistic
+Durbin–Watson
+
+Diagnostics
+Q(12)
+Qsq(12)
+ARCH(1)
+ARCH(2)
+ARCH(3)
+Breusch–Godfrey
+Reset
+Engle–Ng
+
+Elais
+
+Halkor
+
+Heracles
+
+Arba
+
+Frigoglass
+
+Kreta
+
+1998–01
+
+2001–04
+
+n=994
+
+n=995
+
+1998–01
+
+n=994
+
+2001–04
+
+n=995
+
+1998–01
+
+n=994
+
+2001–04
+
+n=995
+
+1998–01
+
+n=994
+
+2001–04
+
+n=995
+
+1998–01
+
+n=518
+
+2001–04
+
+n=995
+
+2001–04
+
+n=417
+
+0.71 (31.415)
+
+0.34 (3.996)
+
+0.983 (25.31)
+
+0.907 (27.9)
+
+0.894 (36.52)
+0.052 (2.453)
+
+0.772 (27.92)
+0.0812 (3.1773)
+
+0.793 (31.16)
+0.0448 (1.86)
+
+0.60085 (18.61)
+
+1.069 (22.14)
+
+0.9862 (19.96)
+
+0.3398 (9.86)
+
+2001–04
+
+n=995
+
+0.441 (14.71)
+0.144 (5.558)
+−0.672 (−3.23)
+
+0.38
+2455.5
+148.9
+1.86
+
+10.6 (0.53)
+7.92 (0.79)
+1.07 (0.3)
+
+0.00012 (3.22)
+0.1288 (4.19)
+0.55 (4.96)
+
+0.00006 (4.51)
+0.1198 (5.5)
+0.781 (22.12)
+
+0.00004 (3.427)
+0.107 (4.511)
+0.788 (17.17)
+
+0.16
+1927.98
+15.97
+1.71
+
+0.33
+2557.6
+121.81
+1.89
+
+0.41
+2343.26
+170.2
+1.59
+
+0.531
+2570.9
+225.77
+1.7
+
+0.000006 (1.4245)
+0.008088 (0.6514)
+0.937 (29.779)
+0.05363 (1.9137)
+0.37
+2837.44
+96.91
+1.963
+
+0.00004 (4.34)
+0.151 (5.845)
+0.774 (21.68)
+
+0.00004 (5.11)
+0.153 (7.31)
+0.727 (19.53)
+
+0.00012 (3.714)
+0.1984 (3.77)
+0.6296 (8.016)
+
+0.00012 (5.696)
+0.158 (8.274)
+0.643 (13.40)
+
+0.00011 (7.8364)
+0.683 (7.552)
+0.247 (4.25)
+
+0.0002 (7.77)
+0.13 (9.10)
+0.86 (76.6)
+
+0.42
+2411.4
+141.1
+1.82
+
+0.23
+2685.04
+73.48
+1.896
+
+0.397
+1163.4
+84.58
+1.76
+
+0.244
+2356.4
+80.0
+1.999
+
+0.122
+1081.25
+14.342
+1.71
+
+0.16
+2431.7
+30.5
+1.896
+
+0.43 (0.99)
+0.012 (0.99)
+0.07 (0.93)
+0.07 (0.96)
+0.10 (0.99)
+2.06 (0.36)
+0.68 (0.71)
+
+16.01 (0.19)
+9.41 (0.67)
+0.26 (0.61)
+
+17.2 (0.14)
+13.2 (0.35)
+0.49 (0.44)
+
+17.64 (0.13)
+4.29 (0.98)
+0.36 (0.55)
+
+2.99 (0.99)
+6.77 (0.87)
+0.16 (0.69)
+
+21.1 (0.05)
+6.79 (0.87)
+1.29 (0.26)
+
+14.2 (0.29)
+7.01 (0.86)
+0.07 (0.8)
+
+25.4 (0.02)
+14.5 (0.27)
+0.82 (0.37)
+
+6.5 (0.89)
+5.4 (0.94)
+0.19 (0.66)
+
+12.8 (0.39)
+5.56 (0.94)
+0.51 (0.48)
+
+9.52 (0.66)
+11.1 (0.52)
+1.57 (0.29)
+
+2.14
+
+1.99
+
+2.68
+
+1.13
+
+1.76
+
+3.11
+
+2.67
+
+2.33
+
+1.987
+
+5
+8
+4
+
+E
+
+C
+
+O
+
+L
+
+O
+
+G
+
+I
+
+C
+
+A
+
+L
+
+E
+
+C
+
+O
+
+N
+
+O
+M
+
+I
+
+C
+
+S
+
+6
+
+3
+
+(
+
+2
+
+0
+
+0
+
+7
+
+)
+
+5
+
+7
+
+8
+
+–
+
+5
+
+8
+
+7
+
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+585
+
+Heracles the TGARCH(1,1) estimates show, on contrary to
+expectations, that ARCH (or δ1) estimates are insignificant. At
+the same time the estimates of GARCH (or δ2) are again quite
+high and significant. The parameter of asymmetry (δ3) is in all
+cases positive and highly statistically significant. This implies
+that negative shocks imply a higher next period conditional
+variance compared to positive shocks of the same magnitude.
+This means that the leverage of negative shocks is greater than
+that of positive shocks and both the short-run persistence
+arising from negative shocks and the long-run persistence of
+shocks are highly statistically significant.
+
+In the same table some diagnostic statistics and their
+associated P-values can be found. The first and second rows in
+the diagnostics give the results of the Box–Pierce test on the
+residuals and the squared residuals. If the mean equation is
+correctly specified all Q-statistics should be insignificant. In
+the case of the GARCH model, the diagnostic tests were
+applied again. The variance equation is correctly specified, as
+in all cases the Q-statistics of the residuals are insignificant.
+As the ARCH(1) test shows, the standardized residuals do not
+exhibit additional ARCH effects.
+
+To cope with the problem of non-normality indicated by
+the Bera–Jarque test, a quasi-maximum likelihood procedure
+(maximum likelihood with Borrerslev–Wooldridge standard
+errors) was followed. The third, fourth and fifth give the LM
+tests and the P-value for ARCH(1), ARCH(2) and ARCH(3)
+specifications of the residuals and the seventh the Breusch–
+Godfrey LM test for serial correlation. The last two rows of the
+diagnostic tests present the Ramsey's RESET and the Engle–Ng
+tests. As already mentioned, the test statistic for the Engle–Ng
+test is the LM statistic nR2∼χα,3
+2 and it is not significant at the
+usual significance levels implying that the null hypothesis of
+no asymmetries is not rejected.
+
+To avoid autocorrelation and increase the explanatory
+capacity of the models, we decided to incorporate in our
+analysis as an independent variable the returns of a stock
+lagged one period. The idea behind the selection is no other than
+the effect that the existing (known) bond returns should have on
+current developments. In financial markets existing situations
+are very influential. Running the model with the bond return
+lagged one day, gives both the beta estimate and the lagged
+variable statistically significant. Finally, all the macroeconomic
+variables are statistically insignificant with exceptions in two
+cases; these of Hellenic Cables and Kreta Farm for the period
+2001–2004. In all cases the final adopted models have no serious
+problems according to the diagnostic tests.2
+
+5.
+
+Concluding remarks
+
+In this study, we tried to model environmental risk relying on
+econometric models, which determine the underlying condi-
+tional volatility. Our empirical results lead to a number of
+conclusions. Generally speaking, there is a perceptible rela-
+
+2 Similarly and using a sample of 13 non-certified representative
+firms per sector fount in all cases but one (Barba–Stathis in the
+food sector) show an increase in their beta estimates.
+
+tivity; all companies with high environmental risk present a
+reduction in their beta estimates. Specifically,
+
+1. For companies that make a reference for their environ-
+mental policy in their annual financial report and those
+that publish an annual social report, beta has decreased in
+the period 2001–2004 compared to the period 1998–2001.
+Out of the eleven firms included in our “green portfolio”
+three (Elais Oleaginous Prod. S.A., Halcor SA Metal Works,
+Hellenic Cables S.A) make a reference for their environ-
+mental policy in their annual (2003, 2004) financial report
+and one publishes an annual social report (S&B Industrial
+Minerals S.A.). For all these companies beta has decreased.
+2 The three cases of increased beta estimates refer to
+companies from low environmental risk sectors such as
+Food, Clothing and Textile.
+
+3. The macroeconomic factors have no statistical significant
+
+influence on the beta estimates in almost all cases.
+
+4. Shocks to the conditional variance are highly persistent.
+Our empirical estimates show evidence of volatility clus-
+tering, short- and long-run persistence of shocks to the
+returns of the market and asymmetry in the leverage effect
+between negative and positive shocks to returns.
+
+Up to now in Greece there is no systematic availability of
+environmental information and no governmental, political or
+judicial applied decisions that would force the financial
+intermediary investments to promote environmental policy
+in firms. Additionally, there are no financial products like
+eco-loans or annual environmental benchmark indexes for
+the segregation of firms as environmental friendly (green)
+or not.
+
+It is notable that several Greek efforts (TITAN — Dow Jones
+Sustainable Group Index, and Eurobank, Commercial Bank,
+FTSE 4Good) are negotiating and drawing capital from the
+international capital market due to their integration in Dow
+Jones Sustainable Group and FTSE 4Good Indexes. The
+existence of a special law that regulates the Stock Exchange
+Market (Act 2992/2002 F.E.K. 54 A′/20-3-2002), induces firms
+that negotiate in the Athens Stock Exchange Market (ASE) to
+apply international accounting standards (I.A.S.s), which
+could be included in the recognition of environmental
+situations (see also Sepetis et al., 2005).
+
+Day by day we realise that the mechanisms that lead to the
+decline in environmental quality are so complicated and
+interdependent so that the mapping out and application of an
+effective overall policy in the fragmentary sector seems
+reasonably infeasible. For example, an abrupt change of
+investors to firms with right environmental policy is not
+only a result of a big environmental accidental event — like
+Exxon Valdez or an environmental statement (T.R.I.) that can
+be explained for a short interval. Potentially the participants in
+capital markets react to environmental news on an important
+accident or an environmental fine, ignoring if this involves or
+not damage for the environment and public health. This does
+not irrevocably prove that sustainability will finally increase
+the shareholder value. It simply means that capital markets
+consider the information related to future environmental
+expenses and that these news lead to a short-term reduction
+of shareholder value.
+
+
+586
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+One realization that is in effect for Greek but also interna-
+tional reality is that there is no scientifically argued conceptual
+definition that would fix the environmental or sustainable
+effective capital market as well as the factors that contribute in
+the characterization of capital market as environmental or
+sustainable effective. It becomes clear that Environmental or
+Sustainable Policy must be drawn and applied horizontally as to
+incorporate also its environmental or sustainable “dimension”.
+Its scientific approach (risk/return adjusted) has guided the
+finance research into a more general equilibrium model
+framework, representative of the economic theory of total
+factors, which have repercussions in the stock's evaluation.
+
+Henceforth it is obvious that in order to convince the
+investment community more complex financial risk adjusted
+return and multi-factor models are required. These will help
+interpreting the relativity exempted from environmental bias
+and exploitation of environmental subjects from firms and
+financial institutions for the improvement of their short-term
+oligopoly position.
+
+Acknowledgments
+
+Thanks are given to three anonymous referees for their
+helpful and constructive comments. Any remaining errors
+are solely the authors' responsibility.
+
+R E F E R E N C E S
+
+Barth, M.E., McNichols, M.F., 1994. Estimations and market
+
+valuations of environmental liabilities relating to superfund
+sites. Journal of Accounting Research 32, 177–213.
+
+Berndt, E.R., 1991. The Practice of Econometrics: Classic and
+
+Contemporary. Addison-Wesley.
+
+Blacconiere, W.G., Northcutt, W.D., 1997. Environmental
+
+information and market reactions to environmental legislation.
+Journal of Accounting, Auditing & Finance 12, 149–178.
+
+Blacconiere, W.G., Pattem, D.M., 1994. Environmental disclosures,
+
+regulatory costs, and changes in firms value. Journal of
+Accounting and Economic 18, 357–477.
+
+Blumberg, J., Korsovold, A., Blum, G., W.B.C.S.D. (Eds.), 1997.
+
+Environmental Performance and Shareholder Value. Word
+Business Council for Sustainable Development.
+
+Bollerslev, T., 1986. Generalized autoregressive conditional
+heteroskedasticity. Journal of Econometrics 31, 307–327.
+Bosch, J.C., Woodrow, E., Lee, I., 1998. E.P.A enforcement, firm
+response strategies, and stockholder wealth: an empirical
+examination. Managerial and Decision Economics 19, 167–177.
+Bouma, J.J., Jeucken, Ì., Klinkers, L., 2001. Sustainable Banking the
+
+Greening of Finance. Deloitte and Touche. 480 pp.
+
+Ditz, D., Ranganathan, J., Darry, R., Banks, R.D. (Eds.), 1995. Green
+Ledgers: Case Studies in Corporate Environmental Accounting.
+Washington D.C World Resources Institute W.R.I.
+
+Dobers, P., Cerin, P., 2001. What does the performance of Dow
+
+Jones Sustainability Group Index tell us? Eco-Management and
+Auditing 8 (3), 123–133.
+
+Dowell, G., Hart, S., Yeung, B., 2000. Do corporate global
+
+environmental standards create or destroy market value?
+Management Science 46 (8), 1059–1074.
+
+Elkington, J., Beleo, S., 2000. A Responsible Investment? London.
+
+Center for Business Performance, Institute of Chartered
+Accountants of England and Wale (ICAEW), Sustainability.
+
+Engle, R.F., 1982. Autoregressive conditional heteroskedasticity
+with estimates of the variance of United Kingdom inflation.
+Econometrica 50 (4), 987–1007.
+
+Engle, R.F., Ng, V.K., 1993. Measuring and testing the impact of
+
+news on volatility. Journal of Finance 48, 987–1007.
+Fayers, C., Cocklin, C., Holmes, D., 2000. Environmental
+
+consideration in the decisions of Australian investment
+professionals. Journal of Environmental Assessment Policy
+and Management 2, 173–201.
+
+Feldman, S.J., Soyka, P.A., Ameer, Paul, 1997. Does improving a
+
+firm's environmental management system and environmental
+performance result in a higher stock price? Journal of Investing
+6 (4), 87–97.
+
+Garber, S., Hammitt, J.K., 1998. Risk premiums for environmental
+liability: does superfund increase the cost of capital? Journal of
+Environmental Economics and Management 36, 267–294.
+Gentry, S.B., Fernandez, L., U.N.D.P. (Eds.), 1997. Valuing the
+
+Environment: How Fortune 500 CFO's and Analysts Measure
+Corporate Performance. UNDP/Yale Collaborative Programme
+on the Urban Environment.
+
+Glosten, L.R., Jagannathan, R., Runkle, D.E., 1993. On the
+
+relation between the expected value and the volatility of
+the nominal excess return on stocks. Journal of Finance 48
+(5), 1779–1801.
+
+Goodman, S.B., Little, T., 2003. The Gap in G.A.A.P: An Examination
+of Environmental Accounting Loop Holes. The Rose Foundation
+for Communities and the Environment, Environmental
+Fiduciary Project. Internet site www.rosefdn.org.
+
+Gupta, S., Goldar, B., 2005. Do stock markets penalize
+
+environment-unfriendly behaviour? Evidence from India.
+Ecological Economics 52, 81–95.
+
+Halkos, G.E., Evangelinos, K., 2002. Determinants of environmental
+
+management systems standards implementation: evidence
+from Greek industry. Business Strategy and the Environment
+11 (6), 360–375.
+
+Hall, P.L., Rieck, R., 1998. The effect of positive corporate social
+
+actions on shareholder wealth. Journal of Financial and
+Strategic Decisions 11 (2), 83–89.
+
+Hamilton, J.T., 1995. Pollution as news: media and stock markets
+
+reactions to the toxics release inventory data. Journal
+Environmental Economics and Management Review 28, 98-11.
+
+Hart, S., Ahuja, G., 1996. Does it pay to be green? An empirical
+
+examinations of the relationships between emissions
+reduction and firm performance. Journal Business Strategy
+and the Environment 5, 30–37.
+
+Heinkel, R., Kraus, A., Zechner, J., 2001. The effect of green
+
+investment on corporate behavior. Journal of Financial and
+Quantitative Analysis 36 (4), 431–449.
+
+Karpoff, J.M., Lott, J.R., Rankine, G., 1998. Environmental violations,
+
+legal penalties, and reputation costs. John M. Olin Law and
+Economics Working Paper, vol. 71. October.
+
+King, A., Lenox, M., 2000. Does it really pay to be green? An
+
+empirical study of firm environmental and financial
+performance. Journal of Industrial Ecology 4, 1–27.
+
+Klassen, R., McLaughlin, C., 1996. The impact of environmental
+management on firm performance. Management Science 42
+(8), 1199–1214.
+
+Konar, S., Cohen, M.A., 2001. Does the market value environmental
+
+performance? Review of Economics and Statistics 83 (2),
+281–289.
+
+Lanoie, P., Laplante, B., Roy, M., 1998. Can capital markets create
+
+incentives for pollution control? Ecological Economics 26,
+31–41.
+
+Lorraine, N., Collison, J., Power, D., 2004. An analysis of the stock
+
+market impact of environmental performance information.
+Accounting Forum 28, 7–26.
+
+Nelson, D.B., 1991. Conditional heteroskedasticity in asset returns:
+
+a new approach. Econometrica 59, 347–370.
+
+
+E C O L O G I C A L E C O N O M I C S 6 3 ( 2 0 0 7 ) 5 7 8 – 5 8 7
+
+587
+
+Palmer, K., Oates, W., Portney, P.R., 1995. Tightening
+
+environmental standards: the benefit–cost or the no-cost
+paradigm? Journal of Economic Perspectives 9 (4), 119–132.
+
+Porter, M., Linde, C.V.D., 1995. Towards a new conception of
+
+environment-competitiveness relationship. Journal Economic
+Perspectives 9 (4), 97–118.
+
+Reed, D., 1998. Green Shareholder Value Hyper or Hit. The World
+
+Bank, Washington, DC.
+
+Reinhardt, F.L., 1999a. Bringing the environment down to Earth.
+
+Harvard Business Review 77 (4), 149–157.
+
+Reinhardt, F.L., 1999b. Market failure and the environmental
+
+policies of firms: economic rationales for beyond compliance
+behavior. Journal of Industrial Ecology 3 (1), 9–21.
+
+Social Investment Forum, 2005. Report on Socially Responsible
+
+Investing Trends in the United States. Internet site. www.
+socialinvest.org.
+
+Thomas, A., 2001. Corporate environmental policy and abnormal
+
+stock price returns: an empirical investigation. Business
+Strategy and the Environment 125–134.
+
+White, M.A., 1995. The performance of environmental mutual
+funds in the United States and Germany: is there economic
+hope for ‘green’ investors? Research in Corporate Social
+Performance and Policy Supplement 1, 323–344.
+
+Yamashita, M., Sen, S., Roberts, M.C., 1999. The rewards for
+
+environmental conscientiousness in the U.S. capital markets.
+Journal of Financial and Strategic Decisions 12, 73–82.
+
+Schaltegger, S., Figge, F., 2000. Environmental shareholder value:
+
+Zakoian, J.M., (1991). Threshold heteroskedastic models, D.P.
+
+economic success with corporate environmental
+management. Eco-Management and Auditing 7, 29–42.
+
+Sepetis, Á., Nikolaou, I., Sophoulis, C.M., 2005. Environmental and
+
+social accounting method assists financial market to
+contribute to sustainable development. International
+Conference, Rhodes GlobanNET.
+
+INSEE.
+
+Ziegler, A., Rennings, K. Schroder,M., 2002. The Effect of
+
+Environmental and Social Performance on the Shareholder
+Value of European Stock Corporations. Research Project. Centre
+for European Economic Research (ZEW) November 20, 2002.
+

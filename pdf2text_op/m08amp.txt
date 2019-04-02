@@ -1,0 +1,272 @@
+ENVIRONMENTAL REGULATION AS A LINK BETWEEN CORPORATE 
+
+ENVIRONMENTAL AND FINANCIAL PERFORMANCE 
+
+ 
+
+PETER M. MADSEN 
+
+Marriott School of Management 
+
+Brigham Young University 
+
+Provo UT 84602 
+
+ 
+
+INTRODUCTION 
+
+ 
+
+For three decades, management scholars, strategists, and economists have debated 
+
+whether or not firms benefit financially from efforts to minimize their impact on the natural 
+environment, in other words, whether “it pays to be green” (Folger & Nut, 1975; Freedman & 
+Jaggi, 1982; Hart & Ahuja, 1996; Russo & Fouts, 1997).  Empirical tests of the relationship 
+between corporate environmental performance (CEP) and corporate financial performance (CFP) 
+have been largely inconclusive (e.g. Jaffe et al., 1995; King & Lenox, 2002; Margolis & Walsh, 
+2003; McWilliams & Siegel, 2001; Sarkis & Cordeiro, 2001). 
+
+Recent work on the relationship between corporate environmental performance (CEP) 
+and CFP moves away from attempting to identify correlations between high-level measures of 
+CEP and firm-level profitability.  Rather, it seeks to identify and investigate the causal 
+mechanisms that relate CEP to firm performance.  The purpose of the work presented here is to 
+empirically test one such mechanism: that strong CEP allows firms to gain competitive 
+advantage when governments increase the stringency of environmental regulations.  I examine 
+this issue in the context of the global automobile industry between 1968 and 2000, inclusive.   
+ 
+
+THEORY AND HYPOTHESES 
+
+ 
+
+Environmental regulation looms large in the context of corporate environmental activity.  
+Industrial pollution abatement expenditures comprise around 2% of GPD in the U.S. and several 
+Western European nations, with firms in pollution-intensive industries bearing the bulk of these 
+costs (Jaffe, 1995; U.S. Census Bureau, 2002).  Governmental environmental regulation drives 
+most corporate interest in environmental issues and the majority of corporate environmental 
+initiatives are specifically aimed at allowing firms to comply with current or expected future 
+regulations (Bansal & Roth, 2000; Clemons, 2001; Majumdar & Marcus, 2001; Palmer et al., 
+1995).   
+
+To the extent that the costs of improved CEP differs between firms, those firms with low-
+
+CEP costs could gain an advantage by increasing their own CEP while lobbying for more 
+stringent environmental regulation that would force their competitors to increase CEP as well 
+(Hart, 1995; Shrivastava 1995; Vogel, 1997).  Such a strategy is a special case of the general 
+strategy of competing by “raising rivals’ costs” (Salop & Scheffman, 1983).   
+
+Empirical work suggests that improved CEP typically comes at the cost of small 
+
+increases in operating costs (Berman & Bui, 2001; Gray & Shadbegian, 2003).  But these costs 
+are unlikely to be uniform across firms, for several reasons.  First, operational and administrative 
+economies of scale in pollution abatement allow large firms to increase their CEP at a lower 
+price (per unit of output) than smaller firms (Brock & Evans, 1986; Dean & Brown, 1995; 
+Pashigian, 1984; Pittman, 1981; Scherer & Ross, 1990).  Second, firms with more experience 
+
+
+operating with high CEP may face lower costs of increasing CEP than firms with less experience 
+(Dean & Brown, 1995). 
+
+Empirical work suggests that firms with greater experience operating at high levels of 
+
+CEP are able to more easily meet new, more-stringent environmental regulations than are firms 
+with less experience.  For example, Dean and Brown (1995) find that environmental regulation 
+constitutes a barrier to entry in a sample of U.S. manufacturing industries, suggesting that 
+incumbents face lower costs of compliance than do new entrants.  This work suggests that the 
+costs of meeting stringent environmental regulation should fall disproportionately on the low-
+CEP firms in an industry.  Such differential costs of compliance with new environmental policies 
+may grant high-CEP firms a competitive advantage over their low-CEP rivals.   
+
+ 
+H1: When a jurisdiction tightens the stringency of its environmental regulation of an 
+industry, high-CEP industry participants gain market share relative to low-CEP 
+participants in that jurisdiction. 
+
+ 
+ 
+
+ 
+
+Sample, Data & Analysis 
+ 
+
+METHODS 
+
+ 
+
+The effects of changes in environmental regulation on competition are examined using a 
+sample consisting of all automakers for which country-level sales data were available during the 
+33-year period between 1968 and 2000, inclusive.  The unit of analysis in this study is the 
+automaker-country-standard change.  In other words, the sample includes one observation for 
+each automaker present in a country for each significant change in automobile emission 
+standards that occurred in that country during the sampling period.   The sample includes 89 
+different automakers and 147 changes in emission standards in 45 countries, resulting in a total 
+of 3318 automaker-country-standard change observations.   
+
+The primary sources of information on national emissions standards are various 
+
+publications of the European Oil Companies’ Organization for Environmental Protection and 
+Health (CONCAWE).  I obtained data on automaker production and sales by country from 
+various editions of World Motor Vehicle Data published by the Motor Vehicle Manufacturers 
+Association of the United States (and continuing from 1999 as Ward’s World Motor Vehicle 
+Data) and from various years of the World Automotive Market Report published by Auto & 
+Truck International. 
+
+Because the data were clustered by automaker, country, and year, I use a fixed effects 
+
+OLS panel model, also known as the Least Squares Dummy Variable (LSDV) model, with fixed 
+effects for automaker, country, and year.  The LSDV model specifies a compound error term, 
+with automaker, country, and year components as well as a residual error term. 
+
+ 
+
+Variables.  
+ 
+
+The dependent variable of interest in this study is automaker competitive performance 
+
+around the time of a country-level change in automobile emission standards.  Competitive 
+performance is operationalized as the change in an automaker’s market share of new car sales in 
+a country from the year before an automobile emission standard took effect to the year after it 
+
+
+took effect.  In other words, if a country changed its automobile emission standards in year t, the 
+dependent variable in this study, denoted (cid:1) market share, equals automaker market share in year 
+t+1 minus automaker market share in year t-1.   
+
+H1 suggests that high-CEP firms gain an advantage when environmental regulations are 
+
+tightened.  Consequently, the independent variable in this study, denoted automaker CEP, is a 
+proxy for automaker CEP.  Automaker CEP indicates the degree to which an automaker has 
+developed the ability to meet auto emission standards more stringent than those in force in a 
+given country and is operationalized as the fraction of an automaker’s prior-year sales that were 
+made in countries with emission standards at least 25% more stringent than those in force in the 
+focal country.   
+
+An automaker’s market share in a given country could be impacted by many factors, 
+
+including characteristics of the automaker (and its vehicles), the country, the automaker-country 
+combination and the time period.  This study uses two strategies to control for these effects.  
+First, it employs automaker, country, and year fixed effects.  Second, it includes a series of 
+control variables to account for dynamic factors influencing automaker market share.  In the 
+analysis, I include automakers’ share of the worldwide passenger car market, denoted global 
+market share, to account for automaker size and the change in an automaker’s worldwide market 
+share, (cid:1) global market share, to control for factors influencing automaker competitiveness 
+internationally.   
+
+At the country level, I include population, per capita GDP, and per capita automobile 
+sales to control for the size and growth of a country’s automobile market and the country’s 4-
+firm concentration ratio to control for the effects of market concentration.  I also include the 
+automaker’s production share (the fraction of all cars produced in a country accounted for by an 
+automaker) to control for the possibility that automakers with production facilities in a country 
+gain an advantage in that country’s auto market.  And, finally, I include an indicator variable, 
+headquarters, that takes a value of 1 for the country in which an automaker is headquartered and 
+0 otherwise.  Headquarters accounts for the possibility that being headquartered in a country 
+impacts market share growth in that country.  
+ 
+Results 
+ 
+
+Table 1 reports results of the regression analyses of automaker market share change in 
+
+response to changes in national automobile emission standards.  Models 1 and 2 report results of 
+models estimated without automaker, country, and year fixed effects and models 3 and 4 include 
+the fixed effects.  Models 1 and 3 contain only control variables.  The coefficients for global 
+market share and (cid:1) global market share are both positive and highly significant in Model 1.  
+These findings indicate that large automakers are more likely to increase their market share in 
+any given market than are their smaller competitors and that automakers that are growing 
+internationally are also likely to increase their market share in a particular country.  The global 
+market share coefficient is no longer significant when the fixed effects are added in Model 3.  
+This is not surprising because automaker market shares are fairly stable over time and the fixed 
+automaker effects should remove the effect of variables that vary little over time.  But the (cid:1) 
+global market share coefficient remains highly significant in Model 3, suggesting that global 
+market share change is a strong predictor of market share change in any given country. 
+
+___________________ 
+
+Table 1 about here 
+
+
+___________________ 
+
+ 
+
+None of the other control variables appear to significantly impact changes in automaker 
+
+ 
+market share surrounding changes in emission standards in Model 1.  But in Model 3, the per 
+capita automobile sales and 4-firm concentration ratio coefficients become highly significant.  
+Because both of these coefficients are positive, these results suggest that on average automakers 
+are more likely to gain market share in countries with high rates of new car sales per person and 
+in countries with highly concentrated automobile markets.  In these data, the later effect appears 
+to be driven by the expansion of foreign automakers into markets that at one time were 
+dominated by local producers.   
+
+Models 2 and 4 introduce the independent variable, automaker CEP.  In both cases the 
+automaker CEP coefficient is positive and highly significant, indicating that automakers with 
+high CEP gain market share relative to low-CEP automakers during periods in which a country 
+increases the stringency of its automobile emission standards.  These findings suggest that high-
+CEP automakers benefit competitively from the enactment of strict environmental regulations at 
+the expense of their low-CEP competitors.  This result provides strong support for H1.  
+ 
+
+DISCUSSION AND CONCLUSION 
+
+ 
+
+These findings may be considered a very conservative test of the effect of CEP on 
+
+automaker competitiveness when emissions standards change, for two reasons.  First, because of 
+data availability this paper examines only the time periods in which new auto emission standards 
+went into effect, not when they were first announced.  Several years frequently elapse between 
+the announcement of a new standard and the enforcement of that standard (for example, the U.S. 
+CAAA standards were enacted in 1970, but did not come into effect until the mid 1970’s).  
+Consequently, because automakers that could not meet new, stringent standards in a country 
+likely began to pull out of that country before the standards come into force, the analysis here 
+may be capturing only a portion of the competitive impact of new emission standards.  Second, 
+the study included change in automakers’ international market share during the time periods 
+examined as a control variable and this variable may mask a portion of the effect of CEP on 
+automaker competitiveness.  To the extent that new automobile emission standards came into 
+effect in multiple countries in the same years, the true effect to CEP on automaker market share 
+in those countries is larger than the effect reported here.  Due to these factors, the results of 
+indicate a very strong effect of CEP on automaker competitiveness. 
+
+However, CEP only impacts automaker performance during time periods in which 
+
+environmental regulations are tightened.  I ran a series of models (not reported here) that were 
+identical to those reported in Table 1, but covered time periods in which national automobile 
+emission standards did not change.  In these models, automaker CEP had no effect on market 
+share, indicating that during periods of constant environmental policy, CEP was not related to 
+firm performance.  CEP becomes advantageous only under the condition of tightened emissions 
+regulation.  This finding offers a partial explanation for the chronic inconclusive results of 
+studies of the effect of CEP on CFP.  In this industry, strong CEP enhances firm competitiveness 
+under certain conditions, but under other conditions it has a non-significant effect. 
+ 
+environmental strategy.  Because environmental regulations are central to corporate 
+environmental activities, political strategies aimed at influencing such regulations may represent 
+
+The analyses presented here portray an important and neglected aspect of corporate 
+
+
+one of the most significant avenues through which CEP may impact firm performance.  This 
+paper constitutes a strong empirical demonstration that changes in environmental standards 
+moderate the relationship between CEP and CFP.  During the latter half of the 20th century, high-
+CEP gained market share relative to their low-CEP competitors when more stringent automobile 
+emission controls went into effect. 
+ 
+ 
+
+REFERENCES AVAILABLE FROM THE AUTHOR
+
+
+ 
+
+
+
+
+Copyright of Academy of Management Annual Meeting Proceedings is the property of Academy of
+Management and its content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email articles for
+individual use.
+

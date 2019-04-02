@@ -1,0 +1,2638 @@
+Journal of Operations Management 22 (2004) 557–573
+
+www.elsevier.com/locate/dsw
+
+The effects of internal versus external integration
+practices on time-based performance and overall
+
+ﬁrm performance
+
+Cornelia Drogea,*, Jayanth Jayaramb, Shawnee K. Vickerya
+
+aDepartment of Marketing and Supply Chain Management, 324 North Business Complex,
+
+Michigan State University, East Lansing, MI 48824, USA
+
+bDepartment of Management Science, Moore School of Business,
+
+University of South Carolina, Columbia, SC 29208, USA
+
+Received 31 May 2002; received in revised form 31 March 2004; accepted 31 August 2004
+
+Available online 28 October 2004
+
+Abstract
+
+This paper examines the effects of integration practices on time-based performance and on overall ﬁrm performance
+(ﬁnancial and market share). Integration practices are grouped into two categories: (1) external strategic design integration,
+which reaches across ﬁrm boundaries to involve suppliers and customers and (2) internal design-process integration, which
+comprises more tactically oriented, integration practices that match design requirements and process capabilities. First,
+regression results show that both internal and external integration are related to time-based performance, which in turn is related
+to ﬁrm performance. Thus, two indirect routes to ﬁrm performance are identiﬁed. Second, hierarchical regression reveals that
+integration directly affects ﬁrm performance even after time-based performance is accounted for. Finally, we found that the
+interaction of internal and external integration is signiﬁcantly related to both market share and ﬁnancial performance (after
+controlling for all other effects). This latter result suggests that the joint use of external and internal integration practices has a
+synergistic effect on ﬁrm performance.
+# 2004 Elsevier B.V. All rights reserved.
+
+Keywords: Internal and external integration; Time-based competition; Firm performance; Hierarchical regression
+
+1. Introduction
+
+Time-based competition has received much atten-
+tion in the literature and in industry (Stalk and Hout,
+
+* Corresponding author. Tel.: +1 517 353 6381;
+
+fax: +1 517 432 1112.
+
+E-mail address: Droge@pilot.msu.edu (C. Droge).
+
+1990; Handﬁeld, 1995). Some companies have
+concentrated on increasing product development
+and launch speeds, while others have focused on
+improving manufacturing, delivery, and/or customer
+response times. However, evidence for the pervasive
+competitive value of time-based strategies comes
+primarily from case studies, anecdotal evidence, and
+management impressions (Stalk, 1988; Bower and
+
+0272-6963/$ – see front matter # 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jom.2004.08.001
+
+
+558
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+Hout, 1988; Stalk and Hout, 1990; Gupta and
+Wilemon, 1990; Cordero, 1991; Millson et al.,
+1992; Mabert et al., 1992; Carter et al., 1995). Only
+a few empirical studies have either examined the
+performance outcomes of implementing time-based
+strategies or explored antecedent practices.
+
+(2)
+
+integration);
+
+Our goal is to examine relationships among: (1)
+(grouped into internal versus
+speciﬁc practices
+external
+time-based performance
+(the intermediate performance outcome); and (3)
+overall ﬁrm performance (the ﬁnal performance
+outcome). Other researchers have examined parts of
+this model. For example, Vickery et al. (1995, 1997)
+and Narasimhan and Jayaram (1998) investigated the
+effects of time-based performance on overall ﬁrm
+performance, while Eisenhardt and Tabrizi (1995) and
+Hartley et al. (1997) examined the effects of new
+product development (NPD) practices on innovation
+lead-time. However, we are unaware of research that
+incorporates all three parts while at the same time
+considering direct versus indirect effects as well as
+interaction effects.
+
+The practices we consider naturally fall into two
+broad categories: (1) strategic design integration
+practices (or external integration) and (2) design-
+process integration practices (or internal integra-
+tion). ‘Strategic design integration’ is an index
+consisting of (1) supplier partnerships, (2) supplier
+development, and (3) closer customer relationships.
+Taken together, these practices effectively integrate a
+ﬁrm’s suppliers and customers into a synergistic
+network that facilitates product design and develop-
+ment activities (hence the nomenclature, strategic
+design integration). The remaining practices focus
+on spanning the internal boundary between design
+engineering and manufacturing to achieve an index
+called ‘design-process integration’: (1) concurrent
+engineering, (2) design for manufacturability, (3)
+standardization, and (4) computer-aided design/
+computer-aided
+(CAD/CAM).
+Many other studies have focused on similar NPD
+practices and their
+to time-based
+performance outcomes, ‘time-to-market’ in particu-
+lar (Millson et al., 1992; Eisenhardt and Tabrizi,
+1995; Hartley et al., 1997). However, few have
+considered multiple outcomes, results have been
+mixed, and no clear-cut managerial guidelines have
+emerged.
+
+manufacturing
+
+relationships
+
+In this study, we not only investigate the effects of
+integration practices on ‘time-to-market’ but also on
+the overall product delivery cycle (‘time-to-product’)
+and on suppliers’ responsiveness to their OEM
+customers. These we consider intermediate perfor-
+mance outcomes; our ﬁnal overall performance
+outcomes are market share and ﬁnancial performance.
+An important question is whether either strategic
+design integration or design-process integration affect
+overall ﬁrm performance outcomes after controlling
+for the intermediate time-based outcomes (see Fig. 1).
+Another important question is what role the interac-
+tion of the two integration constructs plays.
+
+The study focuses on the automotive supply
+industry: the sampling frame comprises the top 150
+independently owned ﬁrst tier suppliers to General
+Motors, Ford, and Chrysler (now DaimlerChrysler).
+Our ﬁnal sample of 57 ﬁrms had a mean market share
+of 24.7, and 83.9% of their sales were to North
+American OEMs. This highly competitive industry
+segment encompasses a wide variety of products (e.g.,
+stamped metal, seating systems, and steering assem-
+blies) and a diversity of processes
+(job shop,
+manufacturing cell, continuous ﬂow, etc.). The
+broader automobile industry (in which this segment
+plays a critical role) has provided the context for many
+advances in time-based performance over the past two
+decades, making it an ideal candidate for study.
+
+integration and internal
+
+The paper is organized as follows. First, we develop
+our external
+integration
+constructs from relevant literature and explore their
+associations with time-to-market, time-to-product and
+customer responsiveness. Research hypotheses link-
+ing these integration practices,
+time-based perfor-
+mance, and ﬁrm performance are then presented and
+discussed. The sample is described and measurement
+issues are addressed. Hierarchical regression is used
+for hypotheses testing. Finally, the results of the study
+and their potential managerial
+implications are
+examined.
+
+1.1. Antecedent constructs: components,
+justiﬁcation and context
+
+1.1.1. Strategic (external) design integration:
+components
+
+Our strategic design integration construct encom-
+passes key boundary-spanning initiatives for fostering
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+559
+
+Fig. 1. Research: (a) effects of enablers on intermediate outcomes; (b) effects of intermediate outcomes on ﬁrm performance; (c) direct effects of
+enablers on ﬁrm performance; (d) indirect effects of enablers on ﬁrm performance.
+
+high-level coordination between a ﬁrm and its
+suppliers and customers to effectively support product
+design and development activities. The ‘index-like’
+construct consists of three core items (discussed
+individually below): supplier development, supplier
+partnerships, and closer customer relationships. Note
+that this construct: (1) is strategic since its focus is on
+relationship building with external parties for the
+purposes of competitive advantage and (2) explicitly
+encompasses the integration of both suppliers and
+customers into the innovation process. Recently,
+Frohlich and Westbrook (2001) demonstrated that a
+strategy that focuses simultaneously on supplier and
+customer integration (i.e., a broad ‘‘arc’’ of integra-
+tion) is associated with performance improvements,
+conﬁrming the
+integrating both
+suppliers and customers in product development
+efforts (see also, e.g., Smith and Reinertsen, 1998).
+
+importance of
+
+Firms recognize that the performance of suppliers’
+products and the performance of their own products
+are inextricably linked. Supplier development is a key
+approach for facilitating supplier performance and
+capability improvements. Supplier development activ-
+
+ities include providing feedback from performance
+evaluation, site visits by buying ﬁrm personnel, raising
+performance expectations, instituting a certiﬁcation
+program, and the training/education of the supplier’s
+personnel (Krause and Ellram, 1997).
+
+Supplier partnering moves beyond supplier devel-
+opment activities and treats the supplier as a strategic
+collaborator. Supplier partnering seeks to bring all
+participants in the product life cycle into the process
+early on so that each can provide input to the other’s
+processes. Thus, the partnership often entails early
+supplier involvement in product design and/or access
+to superior supplier technological capabilities (see
+e.g., Narasimhan and Das, 1998). Close integration
+ensures unity of effort and responsiveness.
+
+Closer customer relationships can be viewed as the
+downstream counterpart
+to supplier development/
+partnership. Closer customer relationships depend
+on proactively determining customer requirements
+and committing to meet those requirements (Powell,
+1995), and thus it becomes increasingly difﬁcult for
+competitors
+to intervene (Stank et al., 1999).
+Drickhamer (2002) found that ﬁrms who excelled in
+
+
+560
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+total value chain integration emphasized building
+collaborative relationships with customers; this in turn
+improved timely responsiveness. Insights from cus-
+tomers also provide key inputs to the innovation
+process (e.g., Robins and Atuahene-Gima, 2003).
+
+1.2. Design-process (internal) integration:
+components
+
+Our internal design-process integration construct
+encompasses practices concerned with matching
+design requirements and process capabilities (i.e.,
+product-process integration). These practices integrate
+manufacturing expertise with design engineering
+activities to ensure a seamless transition from drawing
+board to factory ﬂoor. Internal integration cannot be
+fully achieved by the isolated use of boundary-
+spanning practices, but instead requires the ‘bundling’
+of management tools with technology tools such as
+CAD and CAM (see e.g., Smith and Reinertsen,
+1998).
+
+The ﬁrst component
+
+is concurrent engineering
+(CE). CE overlaps product and process design
+activities to achieve a simultaneous development
+process. Conventional NPD programs execute concept
+exploration, product design, testing, and production
+serially and typically each activity is controlled by one
+function at a time (e.g., marketing, manufacturing). In
+CE, multiple aspects are simultaneously attacked and
+activities overlap. Sometimes, CE focuses only on
+manufacturability (e.g., ease of assembly); other
+programs examine the effects of product design
+decisions on competitive issues and product life-cycle
+considerations (McGrath, 1992; Trygg, 1993; Swink,
+1998).
+
+Another key-integrating tool is design for manu-
+facturability (DFM), which is concerned with facil-
+itating the quick transfer of designs to production.
+DFM may encompass product design simpliﬁcation,
+parts minimization, the simpliﬁcation of fasteners, and
+design for assembly techniques. DFM’s goal is to
+closely coordinate design with manufacturing cap-
+abilities in order to maximize manufacturing perfor-
+mance.
+
+Standardization refers to the use of standard
+procedures, materials, parts, and/or processes for
+designing and manufacturing a product. It inhibits a
+‘‘reinventing the wheel’’ syndrome: engineers must
+
+either standardize or else provide justiﬁcation for
+‘‘starting from scratch’’ and developing ‘‘new’’
+components, methods, and/or processes.
+
+for
+
+the use of computers
+
+Our study also considers CAD/CAM, which is
+CAM in conjunction with computer-aided design/
+computer-aided engineering (CAD/CAE). CAD/CAE
+involves
+interactive
+engineering drawing and the storage/retrieval of
+designs. CAD/CAE is used to quickly design products
+that are easy to manufacture and that make use of
+existing components where possible. CAM (compu-
+ter-aided manufacturing) uses a computer to program,
+direct, and control machines. CAM may include
+coordinating
+controlled machines,
+robotics, ﬂexible manufacturing systems, automated
+storage and retrieval systems, and automatic identi-
+ﬁcation systems. CAD/CAE outputs can be directly
+input
+to produce a seamless design/
+manufacturing process.
+
+numerically
+
+to (CAM)
+
+1.2.1. Practices as antecedents to time-based
+performance capabilities
+
+Previous research suggests that
+
+the following
+widely cited practices can individually speed up the
+innovation process: (1) the use of CAD (Stalk, 1988;
+Rosenau, 1988; Cordero, 1991; Millson et al., 1992;
+Mabert et al., 1992); (2) supplier involvement (Imai et
+al., 1985; Bower and Hout, 1988; Hayes et al., 1998;
+Clark, 1989; Clark and Fujimoto, 1991; Crawford,
+1992); (3) overlapping product development stages
+(i.e., concurrent engineering) (Imai et al., 1985; Hayes
+et al., 1998; Clark and Fujimoto, 1991; Cordero,
+1991); and (4) multifunctional teams (Quinn, 1985;
+Stalk and Hout, 1990; Bower and Hout, 1988; Hayes et
+al., 1998; Clark and Fujimoto, 1991; Crawford, 1992;
+Mabert et al., 1992; Meyer, 1993; Henke et al., 1993;
+Hershock et al., 1994; Carmel, 1995; Cooper and
+Kleinschmidt, 1995).
+
+Several empirical studies have examined the effects
+of these product development practices on product
+development time. The results are mixed. One study
+(see Eisenhardt and Tabrizi, 1995) concluded that only
+product-process overlap and multifunctional teams
+(but not CAD and supplier
+involvement) were
+inversely related to product development time. But
+Malhotra et al.
+(2001) demonstrated that CAD
+functionality and sophistication are positively related
+to time and range ﬂexibility. Another study comparing
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+561
+
+‘‘supplier
+
+involvement
+
+Japanese and American automobile companies found
+that
+(and strong supplier
+relationships) . . . contributes 4–5 months of the lead
+time advantage [of Japanese auto producers]’’ (Clark,
+1989; p. 1260). However, a more recent study found
+no relationship between buyer-supplier
+interface
+methods and product development time (Hartley et
+al., 1997). Furthermore, an earlier electronics industry
+study by Zirger and Hartley (1996) also failed to ﬁnd
+such a link.
+
+The effects of these product development practices
+on time-to-product (i.e., the overall product delivery
+cycle) and on customer responsiveness have not been
+investigated. In addition, the effects of other high
+proﬁle product development practices (e.g., DFM,
+standardization) have not been examined in the
+context of a large-scale empirical study. This research
+addresses these voids by examining the relationships
+that exist among strategic design integration and
+design-process integration practices, time-based per-
+formance, and overall ﬁrm performance.
+
+Our two major categories of antecedent practices—
+a category spanning external ﬁrm boundaries and a
+category focused on internal
+integration—broadly
+mirror
+the two opposing forces in new product
+development proposed by Sheremata (2002). She
+calls these two forces centrifugal and centripetal
+forces. Centrifugal forces are deﬁned as structural
+elements and processes that increase the quantity and
+quality of ideas, knowledge, and information an
+organization can access; they pull an organization
+outward, away from its conceptual center. In contrast,
+centripetal forces are structural elements and pro-
+cesses that integrate dispersed ideas, knowledge, and
+information into collective action; they pull parts of an
+organization inward,
+toward its conceptual center.
+Sheremata argues that the co-existence of both forces
+increases the probability of successful new product
+development. In the context of this paradigm, we view
+our external integration practices of supplier devel-
+opment, supplier partnership, and closer customer
+relationships as exerting an outward pull on the ﬁrm,
+providing access to new knowledge and engendering
+creativity. Likewise, we view our internal integration
+practices of concurrent engineering, design for
+manufacturability, standardization, and CAD/CAM
+as processes that facilitate the integration of dispersed
+ideas, knowledge, and information into the collective
+
+action required for successful new product develop-
+ment and introduction. Like Sheremata (2002), we
+view both as essential to new product development but
+further contend that their effects will be felt on other,
+related measures of time-based performance (i.e.,
+time-to-product, customer responsiveness). Not only
+do we examine these two integration constructs
+separately as antecedents, but we also investigate
+their interaction effect (as speciﬁed in the hypotheses
+below).
+
+1.2.2. Practices in the context of the automotive
+supply industry
+
+The context for our study is the automotive supply
+industry, and thus we brieﬂy discuss the time it takes to
+make and deliver cars (e.g., Teresko, 2002; Verespej,
+2002). Automobile OEMs have signiﬁcant inﬂuence
+over the development of new products by ﬁrst tier
+suppliers since they dictate product speciﬁcations (in
+some cases providing their own engineering designs)
+and timetables for launch. Indeed, product develop-
+ment is often a joint venture between suppliers and
+their OEM customers in this industry, which means
+responsibility for ‘time-to-market’ performance is
+shared. While our study does focus on ‘time-to-
+market’ (i.e., product development and launch speed),
+we also concentrate considerable attention on those
+elements of lead-time for which ﬁrst tier suppliers
+have sole responsibility (i.e., procurement, manufac-
+turing, and delivery) as well as on the overall
+responsiveness of suppliers to their OEM customers.
+The reliance on ﬁrst
+tier suppliers is especially
+important in light of the rapid pace of new products (or
+car models) being introduced by the automotive
+OEMs. Such a rapid pace of innovation requires strong
+integration with capabilities of the suppliers. It is these
+aspects of time-based performance that have received
+the least attention in empirical studies.
+
+2. The research model
+
+The core premise of this research (see Fig. 1) is that
+ﬁrm performance (as well as time-based performance)
+is affected by:
+strategic, externally-focused
+boundary spanning practices; (2) tactical, internally-
+focused boundary-spanning practices; and (3) the
+
+(1)
+
+
+562
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+synergistic effect of external and internal integration
+(i.e., their interaction).
+
+We employed a two-stage approach. First, we
+sought
+to identify the effects of strategic design
+integration and design-process integration on three
+aspects of time-based performance—time-to-market,
+time-to-product and responsiveness. In the second
+stage, we explored whether these two constructs (and
+their interaction) signiﬁcantly inﬂuence ﬁrm perfor-
+mance, after the effects of time-based performance on
+ﬁrm performance is accounted for. Firm performance
+encompasses market share and ﬁnancial performance.
+
+2.1. Integration and time-based performance
+
+The literature suggests that external strategic
+design integration engenders quicker product devel-
+opment and introduction times. Different stages of the
+product development cycle require the expertise of
+key suppliers. For example, this expertise is critical in
+the idea generation and concept stage, sometimes
+called the ‘fuzzy front end’ of product development. In
+this stage, internal units that have speciﬁc knowledge
+of market conditions and customer needs coordinate
+and communicate with external units
+such as
+customers and suppliers to facilitate early involvement
+in product design. The fuzzy front end presents a
+signiﬁcant business risk to all concerned, and there-
+fore it is imperative for ﬁrms to build relationships to
+ensure cooperation. For example, Rooney (2002)
+explored how a customer and supplier dyad used a
+partnering approach to improve products, processes,
+and services;
+this partnering resulted in open
+communication lines, quicker resolution of proble-
+matic issues and higher responsiveness (see also
+Takeuchi and Nonaka, 1986; Wheelwright and Clark,
+1992).
+
+Early involvement helps accelerate the new product
+process by eliminating steps, preventing delays,
+presenting opportunities for simpliﬁcation and parallel
+processing, and speeding up the times for ramp-up
+manufacturing (Clark and Fujimoto, 1991; Wheel-
+wright and Clark, 1992). Supplier partnering provides
+a framework for strategic collaboration, ensuring that
+the supplier is involved early on to provide needed
+expertise and/or critical
+technological capabilities.
+This marrying of capabilities in the design phase
+speeds up the product development process by
+
+ensuring a match between what the supplier provides
+and what the manufacturer actually needs to develop a
+marketable product. In a similar vein, closer customer
+relationships engender the rapid development and
+launch of a new product by ensuring customer input
+throughout the process.
+
+Design integration is also vital
+
+in ensuring
+responsiveness to customers after the product launch.
+Being responsive means providing post-launch pro-
+duct support for customers. For large system sourcing
+that requires signiﬁcant customization, many ﬁrms
+may have to provide customer service even prior to the
+sale (e.g., sharing technical knowledge of how the
+product ﬁts into the end user’s product line). Also,
+many of the design related problems surface after the
+product is delivered. Having an integrated database
+that tracks problems systematically and transmits the
+information to the appropriate product development
+groups is useful for reﬁning future product designs.
+However, some problems are unique to particular
+customers. In such cases, problem solving might be
+facilitated by clearly deﬁning the scope of the projects
+and assigning speciﬁc tasks to suppliers. This is
+similar to the concept of continuous improvement
+called Kaizen events (see for example, Handﬁeld et
+al., 2000).
+
+Design integration is also facilitated through
+building collaborative relationships with customers.
+Automotive OEMs (who are the customers in this
+research context) oversee a wide program of product
+development that spans several car models, design
+platforms and variations in customer needs globally.
+OEMs depend heavily on ﬁrst tier suppliers for the
+production and delivery of systems and sub-assem-
+blies in a timely fashion. For example, in Ford’s MN-
+12 program for development of the Thunderbird and
+Cougar models, the responsibility for the entire brake
+system was assigned to the ﬁrst tier systems supplier,
+Bendix (McElroy, 1987). Building trust and commit-
+ment with ﬁrst tier suppliers has been mentioned as a
+vital strategic initiative for the automotive OEMs
+(Drickhamer, 2002; Teresko, 2002). Results include a
+signiﬁcant reduction in vehicle development time,
+inventory and total cost in the value chain (see also
+Corswant and Tunalv, 2002). Past research suggests
+that building closer customer
+relationships with
+automotive OEMs reduces overall development and
+delivery cycle times. Thus:
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+563
+
+H1. The extent of use of external strategic design
+integration practices has a positive effect on product
+development
+time (time-to-market), product cycle
+time (time-to-product) and responsiveness.
+
+time-to-market,
+
+Internal design-process
+
+integration could also
+affect
+time-to-product and respon-
+siveness. The emphasis placed on concurrent engi-
+neering is based on avoiding costly failures stemming
+from poor designs/manufacturing/assembly or failure
+to respond to customer needs in a timely fashion. In
+CE, at least some stages of product development are
+executed simultaneously. The ‘manufacturability’
+resulting from such parallel processing should
+positively affect lead times and delivery (i.e., cycle
+times).
+
+Other techniques that facilitate speed include CAD/
+CAM. In addition to its innate automation capability,
+CAD/CAM can speed up manufacturing by simplify-
+ing processes as well as components, products and
+eliminating redundant steps (Millson et al., 1992;
+Carter et al., 1995). Furthermore, when one part of the
+design is changed, the parallel effects on other parts
+can more easily be identiﬁed, and the ﬁnal speciﬁca-
+tions can perhaps be communicated electronically to
+the robots that will manufacture the parts. No
+empirical study has examined the effects of both
+CAD and CAM on time-to-market and time-to-
+product performance. Previous studies have shown,
+however, that CAD by itself has no effect on time-to-
+market performance.
+
+such as
+
+Similarly, practices
+
+standardization
+and DFM should have time-based consequences.
+Products that have a high proportion of standardized
+parts, procedures and sources of supply are relatively
+easy to design, make and support. However, the need
+for product differentiation necessitates the introduc-
+tion of new parts, new designs, more efﬁcient methods
+of manufacturing and faster modes of providing
+support. The sheer volumes of products ensure
+difﬁculties. Firms have been proactive in anticipating
+potential problems by adopting DFM techniques.
+Thus:
+
+H2. The extent of use of internal design-process
+integration practices has a positive effect on product
+development
+time (time-to-market), product cycle
+time (time-to-product) and responsiveness.
+
+2.2. Time-based performance and overall ﬁrm
+performance
+
+We consider both ﬁnancial performance and
+market share as indicators of overall ﬁrm perfor-
+mance. Limited empirical studies have looked at the
+relationship between time-based performance and
+overall ﬁrm performance (Vickery et al. 1995, 1997;
+Narasimhan and Jayaram, 1998). Vickery et al.
+(1995) examined the following antecedents to ﬁrm
+performance: (1) product development cycle time;
+(2) new product introduction; (3) production lead
+time; and (4) delivery speed. The most consistent
+predictor was new product introduction. In a later
+analysis, a delivery performance factor (consisting of
+volume ﬂexibility, delivery speed, and delivery
+dependability) was found to be related to growth in
+ROI, ROS, and Sales (Vickery et al., 1997; see also
+Handﬁeld and Pannesi, 1992).
+the
+Narasimhan and Jayaram (1998) study found no
+relationship
+responsiveness
+(a composite measure of minimizing delays in
+order cycle time and reducing product design time)
+and ﬁrm performance in the North American
+and European samples. A signiﬁcantly, negative
+relationship between customer responsiveness and
+ﬁrm performance was found in the Pan Paciﬁc
+sample.
+
+In contrast,
+
+customer
+
+between
+
+We extend this research by adding a customer
+responsiveness construct (and also adding procure-
+ment
+lead time as a separate measure) and then
+categorizing measures as either ‘time-to-market’ if the
+measure pertained to NPD or ‘time-to-product’ if the
+measure pertained to the procurement, manufacturing
+and delivery stages of the value chain. In addition, we
+included a responsiveness dimension capturing both
+the speed and efﬁciency with which products were
+designed, manufactured, delivered and supported.
+This expanded deﬁnition is consistent with the works
+of Barker (1993), Azzone et al. (1991), and Carter et
+al. (1995). Our approach is also consistent with Naylor
+et al. (1999) who suggest that time-based performance
+in an extended value chain (they use the term
+‘‘leagility’’) should include lead time as well as
+agility or responsiveness.
+
+To our knowledge, no empirical
+
+study has
+examined the differential impacts of all of these core
+dimensions of value chain timing on overall ﬁrm
+
+
+564
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+performance. This approach is logical and intuitively
+appealing to managers since it can guide them in
+deciding whether
+in time-
+based performance should be directed in the design
+cycle, manufacturing cycle or product support cycle.
+Thus:
+
+future improvements
+
+H3. The relationships from time-to-market, time-to-
+product and responsiveness to: (a) market share and
+(b) ﬁnancial performance are positive.
+
+effects are important (but under-researched), thus we
+test:
+
+H5. There is a positive relationship between the
+interaction of external strategic design integration
+and internal design-process integration and (a) market
+share and (b) ﬁnancial performance, after controlling
+for the effects of time-to-market, time-to-product and
+responsiveness on market share and ﬁnancial perfor-
+mance.
+
+2.3. Practices and ﬁrm performance, controlling for
+time-based performance
+
+are
+
+We
+
+also interested in examining the
+direct effects of practices on overall ﬁrm perfor-
+mance after controlling for the effects through time-
+based performance. This is an important, under-
+researched issue (cf., for example, Marsh and Stock,
+2003). Boundary spanning integration practices may
+positively affect market share and ﬁnancial perfor-
+mance over and above their effects through time-
+based performance outcomes because integration
+practices may also lead to quality/reliability perfor-
+mance, ﬂexibility performance, cost performance
+and other outcomes not considered here. For
+example, integration may enhance ﬂexibility and
+reduce costs—leading to improved performance by
+retaining more customers and increasing proﬁt ratios.
+Thus:
+
+H4. There is a positive direct relationship between . . .
+(a) external strategic design integration and market
+share, (b) internal design-process integration and mar-
+ket share, (c) external strategic design integration and
+ﬁnancial performance, (d) internal design-process
+integration and ﬁnancial performance . . . after con-
+trolling for the effects of time-to-market, time-to-
+product and responsiveness on market share and
+ﬁnancial performance.
+
+2.4. Interaction effect
+
+interact. Sanchez
+
+Finally, we examine how the two integration
+constructs
+(2003)
+studied 63 Spanish automotive suppliers, examining
+the effects of cooperation and NPD practices on
+NPD time and cost minimization:
+they found
+signiﬁcant main and interaction effects. Interaction
+
+and Perez
+
+3. Research methodology
+
+3.1. The sampling procedure
+
+We focused on ﬁrst tier suppliers to the ‘‘Big
+Three’’ car companies (OEMs) in North America. The
+unit of analysis was the strategic business unit (SBU)
+or individual ﬁrm. The population frame consisted of
+the top 150 ﬁrst tier suppliers in terms of annual sales.
+The list of companies was provided by experts from
+the Automotive Industry Action Group (AIAG), a
+professional association with over 1000 members
+(Actionline, 1995).
+
+A panel of AIAG experts ensured the content
+validity of the items and assisted in the pretest. All
+items were deﬁned on the questionnaire. The
+questionnaire was mailed to CEOs, along with an
+informational letter stating the research purpose and
+that a member of the research team would be calling
+soon. CEOs of multiple business units were instructed
+to select one SBU and to forward the questionnaire to
+the CEO of that unit. Repeat telephone calls were
+made to obtain participation. The ﬁnal sample
+consisted of 57 SBUs (about 39% response). Mean
+sales were $488.3 million (S.D. = $646.8), of which
+83.9% were direct to North American OEMs. Mean
+number of employees was 2862 (S.D. = 3442). Mean
+market share was 24.7% (S.D. = 19.1%).
+
+Using available Dun&Bradstreet secondary data,
+we compared 71 non-responding companies versus 55
+companies whose SBU responded:
+there was no
+statistically signiﬁcant difference in average company
+sales ($1848 versus $2349 million) nor in the average
+number of employees (10,678 versus 13,824). About
+51% of non-responding companies were public,
+versus about 42% of responders.
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+565
+
+3.2. Measurement of exogenous independent
+variables
+
+The ‘‘extent of use’’ scale had seven-points with
+endpoints labeled ‘‘extremely low’’ (=1) and ‘‘extre-
+mely high use of item’’ (=7). The respondents were
+asked to ‘‘rate the degree to which the following
+initiatives were utilized by your SBU.’’ The question-
+naire items themselves are listed in the Appendix A.1.
+Respondent were told to circle ‘‘not used’’ (coded as
+zero) ‘‘if the initiative was not used at all in your
+SBU.’’
+
+3.3. Measurement of endogenous dependent
+variables
+
+Time-to-market capability was measured using
+product development time and new product intro-
+duction time. Three types of time-to-product cap-
+ability—procurement lead time, manufacturing lead
+time and delivery speed—were also measured.
+Finally, the three items measuring responsiveness
+were pre-sale customer service, product support and
+responsiveness to customers. The items are in the
+Appendix A.2. Return on investment, pre-tax return
+on assets and return on sales were used to capture
+ﬁnancial performance. Market share and growth in
+market share were used to capture market share,
+deﬁned at the ﬁrm or SBU level as per cent of the
+North American OEM market. For all
+items,
+respondents were asked to subjectively rate the
+ﬁrm’s performance relative to its major competitors
+on 7-point scales, where 1 = ‘‘poor’’ and 7 = ‘‘excel-
+lent’’.
+
+Descriptive statistics (means and S.D.) as well as
+the correlation matrix of all variables are presented in
+Table 1. The constructs were formed by taking the
+mean of their respective measurement items.
+
+formance [market Share: r = .487, p < .01; growth in
+r = .611,
+market
+share:
+p < .01; ROI:
+r = .605,
+p < .01]. In all analyses, we used the subjective
+measures to which more respondents answered.
+
+r = .338, p < .05; ROA:
+r = .341, p < .05; ROS:
+
+Next, we performed a conﬁrmatory factor analysis
+to verify overall measurement ﬁt (Table 2). The overall
+ﬁt was good (x2 = 192.477; d.f. = 149; p = .009;
+Bentler–Bonnet non-normed ﬁt index = .975; com-
+paritive ﬁt
+index (CFI) = .973; standardized root
+mean-squared residual (SRMSQ) = .046). All factor
+loadings were statistically signiﬁcant,
+indicating
+good convergent validity. The Lagrange multiplier
+(LM) test for omitted paths revealed no signiﬁcant
+cross
+indicating discriminant validity
+(in particular, between internal and external integra-
+tion). An exploratory principal components factor
+analysis reveals exactly two factors with eigenvalue
+over 1, with the variables splitting on the factors
+as speciﬁed in the CFA. This supports unidimension-
+ality.
+
+loadings,
+
+Internal consistency was evaluated using Cron-
+bach’s alpha (which indicates reliability of the
+mean): all exceeded .60, which is the standard
+minimum for exploratory research. An ‘‘alpha if
+dropped’’ analysis shows that
+if any variable is
+dropped from either the internal or external integra-
+tion construct, Cronbach’s alpha will decrease. It
+should be noted that the Cronbach alphas for the
+internal versus external integration constructs are in
+the low .60 s and that some of the CFA standardized
+factor loadings are low. This is typical of macro-
+level, ‘index-like’ constructs. The important char-
+acteristics are that the alphas are acceptable, the
+loadings are statistically signiﬁcant, and that the
+measurements discriminate between internal and
+external integration.
+
+3.4. Veriﬁcation of the measurement model
+
+4. Results
+
+We ﬁrst scrutinized the validity of our ﬁrm
+performance measures. Most ﬁrms/SBUs are reluctant
+to reveal objective performance data because of
+conﬁdentiality. However, we did ask for objective ﬁrm
+performance measures, and 28 of 57 ﬁrms did respond.
+We thus established substantial concordance (high
+correlations) between subjective and objective per-
+
+The hypotheses were tested using regression or
+hierarchical regression (see Aiken and West, 1991).
+The regression results of testing for the effects of
+integration on each of the three time-based dependent
+measures are in Table 3. H1 stated that external
+integration would be a positive antecedent to each, and
+as can be seen from the ﬁrst row in Table 3, H1 is
+
+
+Table 1
+Means, standard deviations and correlations
+
+Variable
+
+Mean S.D.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+2
+
+1
+
+3
+
+Supplier
+development
+Supplier
+partnership
+Closer customer
+relationships
+Concurrent
+engineering
+5 Design for
+
+4
+
+4.610 1.303 –
+
+4.821 1.241
+
+.439***
+
+–
+
+5.580
+
+.905
+
+.300**
+
+.330*** –
+
+5.241 1.335
+
+.305**
+
+.236*
+
+.111
+
+–
+
+4.566 1.289
+
+.066
+
+.279**
+
+.293**
+
+.321**
+
+–
+
+manufacturability
+Standardization
+CAD/CAM
+
+6
+7
+8 New product
+
+deviation time
+
+5.140 1.315
+5.382 1.037
+5.018 1.142
+
+.261*
+.148
+.159
+
+.356***
+.165
+.192
+
+.290**
+.377***
+.094
+
+.264**
+.239*
+.235*
+
+.336*** –
+.225*
+.097
+
+.238*
+.034
+
+–
+
+.191
+
+–
+
+9 New product
+
+4.719 1.082
+
+.073
+
+.162
+
+.278**
+
+.162
+
+.199
+
+.179
+
+.250*
+
+.423*** –
+
+introduction time
+
+10 Procurement
+
+5.110 1.145
+
+.004
+
+.282**
+
+.388***
+
+.101
+
+.322**
+
+.464***
+
+.407***
+
+.313**
+
+.284**
+
+lead time
+
+11 Manufacturing
+
+5.298 1.085
+
+.195
+
+.199
+
+.185
+
+.259*
+
+.090
+
+.283**
+
+.211
+
+.212
+
+.423***
+
+.506*** –
+
+lead time
+
+12 Delivery speed
+13 Pre-sale customer
+
+5.140 1.231
+5.470 1.020
+
+.131
+.049
+
+.274**
+ .005
+
+.342***
+.162
+
+.089
+ .054
+
+.140
+.196
+
+.385***
+.243*
+
+.355***
+.055
+
+.289**
+.185
+
+.330**
+.262*
+
+.353***
+.347**
+
+.273**
+.202
+
+.290**
+.473***
+
+.305**
+.129
+
+.094
+.148
+
+.198
+.234
+
+.272*
+.217
+
+.275**
+.265*
+
+.148
+.079
+
+.023
+.089
+
+.214*
+.300**
+
+.237*
+.298**
+
+.040
+.134
+
+.099
+.024
+
+.446***
+.188
+
+.635***
+.324***
+
+.623*** –
+.290**
+
+.288**
+
+–
+
+.409***
+.307**
+
+.452***
+.495***
+
+.495***
+.534***
+
+.484***
+.562***
+
+.379*** –
+.536***
+
+.552*** –
+
+.207
+.214
+
+.134
+.112
+
+.304**
+.246*
+
+.379***
+.284**
+
+.303**
+.144
+
+.243*
+.202
+
+.340***
+.298**
+
+.210
+.113
+
+.229*
+.233*
+
+.210
+.235*
+
+.372***
+.399***
+
+.314** –
+.259**
+
+.654*** –
+
+.381***
+.375***
+
+.204
+.234*
+
+.449***
+.394***
+
+.366*** –
+.362***
+
+.843*** –
+
+.318**
+
+.258*
+
+.333***  .048
+
+ .049
+
+.083
+
+.211
+
+.294**
+
+.086
+
+.206
+
+.329**
+
+.251*
+
+.449***
+
+.511***
+
+.824***
+
+.828***
+
+service
+
+14 Product support
+15 Responsiveness to
+
+5.610 1.082
+5.386 1.031
+
+.209
+.250*
+
+.155
+.136
+
+.360***
+.330***
+
+customer
+
+16 Market share
+17 Growth in
+
+market share
+
+4.846 1.444
+4.818 1.338
+
+.341***
+.237*
+
+.294**
+.096
+
+.355***
+.306**
+
+18 Return on assets
+19 Return on
+
+4.900 1.376
+5.080 1.309
+
+.245*
+.110
+
+.197
+.107
+
+.058
+.060
+
+investments
+
+20 Return on sales
+
+4.920 1.342
+
+.134
+
+.109
+
+.049
+
+* p < .10.
+** p < .05.
+*** p < .01.
+
+5
+6
+6
+
+C
+
+.
+
+D
+r
+o
+g
+e
+
+e
+t
+
+a
+l
+.
+
+/
+J
+o
+u
+r
+n
+a
+l
+
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+2
+2
+
+(
+2
+0
+0
+4
+)
+
+5
+5
+7
+–
+5
+7
+3
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+567
+
+Table 2
+Factor analysis results
+
+Construct/(Cronbach’s a)
+
+Strategic design integration (external) (a = .633)
+
+Design-process integration (internal) (a = .617)
+
+Time-to-market (a = N.A.)
+
+Time-to-product (a = .811)
+
+Responsiveness (a = .741)
+
+Market share index (a = N.A.)
+
+Financial performance (a = .939)
+
+Items
+
+Factor loadings
+(standardized)
+
+t-values
+(all signiﬁcant at .01)
+
+Supplier development
+Supplier partnership
+Closer customer relationships
+
+Concurrent engineering
+Design for manufacturability
+Standardization
+CAD/CAM
+
+Product development time
+Product introduction time
+
+Procurement lead time
+Manufacturing lead time
+Delivery speed
+
+Pre-sale customer service
+Product support
+Responsiveness to customers
+
+Market share
+Growth in market share
+
+Return on assets
+Return on investments
+Return on sales
+
+.545
+.714
+.469
+
+.281
+.317
+.803
+.283
+
+.656
+.726
+
+.717
+.730
+.814
+
+.541
+.703
+.896
+
+.603
+.559
+
+.994
+.895
+.947
+
+3.648
+4.760
+3.097
+
+1.814
+2.053
+4.162
+1.998
+
+4.210
+4.540
+
+5.749
+5.892
+6.852
+
+4.061
+5.623
+7.777
+
+4.788
+4.372
+
+10.130
+8.416
+8.939
+
+strongly supported. Similarly, the results in the second
+row of Table 3 show that H2 concerning the impact of
+internal integration was fully supported.
+
+All other hypotheses were evaluated using hier-
+archical regressions. The results for market share are
+presented in Table 4, while those for ﬁnancial
+performance are in Table 5. In hierarchical regression,
+constructs are entered in sequence. First, the time-
+related constructs are entered (see Model 1 in Table 4
+or in Table 5), then the integration constructs (see
+Model 2 in Tables 4 and 5). Then, the interaction term
+
+is also entered (see Model 3 in Tables 4 and 5). The
+key question at each stage is whether the additional
+regression variables are signiﬁcant, given the variables
+already in the model.
+
+Examining ﬁrst Model 1 in both tables, the results
+show that only time-to-product displayed a signiﬁcant
+inﬂuence on market share, while only responsiveness
+was signiﬁcantly related to ﬁnancial performance.
+This provides some support for H3a and b.
+
+In Model 2 of Table 4 or 5, the two constructs
+representing integration were added to determine
+
+Table 3
+Multiple regressions for time-based performance measures
+
+Independent variables
+
+Dependent variables
+
+Time-to-market
+
+Time-to-product
+
+Responsiveness
+
+Beta
+
+.238*
+.280**
+
+t-value
+
+1.819
+2.167
+
+R2
+
+.057
+.079
+
+Beta
+
+.329***
+.401***
+
+t-value
+
+2.587
+3.243
+
+R2
+
+.108
+.216
+
+Beta
+
+.283**
+.465***
+
+t-value
+
+2.189
+3.896
+
+R2
+
+.080
+.161
+
+(H1) External integration
+(H2) Internal integration
+
+* p < .10.
+** p < .05.
+*** p < .01.
+
+
+568
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+Table 4
+Regressions for market share
+
+Dependent variable: market share index
+
+Variables
+
+Model 1
+
+Model 2
+
+Model 3
+
+Beta-coefﬁcient
+
+t-value
+
+Beta-coefﬁcient
+
+t-value
+
+Beta-coefﬁcient
+
+t-value
+
+Step 1
+
+Time-to-market
+Time-to-product
+Responsiveness
+
+Step 2
+
+External integration
+Internal integration
+
+Step 3
+
+External X internal integration
+
+R2
+Changes of R2
+F-value of change of R2
+
+** p < .05.
+*** p < .01.
+
+ .068
+.387
+.121
+
+.149
+
+ .463
+2.249**
+.713
+
+ .095
+.415
+.128
+
+.327
+.105
+
+.179
+.030
+4.299**
+
+ .685
+2.821**
+.753
+
+2.220**
+.715
+
+ .120
+.457
+.123
+
+.325
+.125
+
+.348
+
+.199
+.020
+6.909***
+
+ .817
+3.203***
+.724
+
+2.858**
+.979
+
+2.628***
+
+the additional variance explained was
+whether
+signiﬁcant. The incremental improvement in R-square
+over Model 1 in Table 4 was about 3% (p < .05),
+suggesting that inclusion of external strategic design
+integration was important and providing support for
+H4a. About 18% of the variation in market share is
+explained, most of it by time-to-product and external
+integration (the two signiﬁcant variables). For
+
+ﬁnancial performance, Model 2 in Table 5 is an
+incremental improvement over Model 1 in R-square of
+about .5% (p < .05), providing support for H4d. About
+11% of the variation in ﬁnancial performance is
+explained, mostly by responsiveness and internal
+design-process integration.
+
+Model 3 of Table 4 or 5 shows the main effects of
+timing, followed by the main effects of integration,
+
+Table 5
+Regressions for ﬁnancial performance
+
+Dependent variable: ﬁnancial performance index
+
+Variables
+
+Model 1
+
+Model 2
+
+Model 3
+
+Beta-coefﬁcient
+
+t-value
+
+Beta-coefﬁcient
+
+t-value
+
+Beta-coefﬁcient
+
+t-value
+
+Step 1
+
+Time-to-market
+Time-to-product
+Responsiveness
+
+Step 2
+
+External integration
+Internal integration
+
+Step 3
+
+External X internal integration
+
+R2
+Changes of R2
+F-value of change of R2
+** p < .05.
+*** p < .01.
+
+ .116
+.111
+.355
+
+.101
+
+ .763
+.630
+2.009**
+
+ .103
+.137
+.373
+
+ .005
+.377
+
+.106
+.005
+4.085**
+
+ .825
+.697
+2.869**
+
+ .037
+2.567***
+
+ .097
+.123
+.320
+
+.035
+.375
+
+.300
+
+.153
+.047
+5.061**
+
+ .697
+.734
+2.391**
+
+.027
+2.557**
+
+2.250**
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+569
+
+followed by the inclusion of the interaction effect. The
+interaction effect was signiﬁcant at .05 in the case of
+market share (Model 3, Table 4). It explained an
+additional 2% variance, which was also statistically
+signiﬁcant. Thus, H5a was supported. For ﬁnancial
+performance (Table 5), the interaction term was also
+signiﬁcant and its inclusion explained an additional
+5% in ﬁnancial performance variance. This supports
+H5b.
+
+It may be noted that the results reported in Model 3
+of Tables 4 and 5 indicate a fairly strong support for
+the links shown in Fig. 1 (see R-squared values).
+Speciﬁcally, our results show that our hypothesized
+variables explain 20% variation in market share
+performance and 15% variation in ﬁnancial perfor-
+mance. In the next section, the implications of the
+pattern of results obtained are discussed.
+
+5. Discussion
+
+three types of
+
+This paper examined the relationships among
+integration practices,
+time-based
+performance (viewed as intermediate performance
+outcomes), and overall ﬁrm performance (i.e.,
+ﬁnancial and market share, viewed as the ﬁnal
+performance outcomes). Integration practices were
+grouped into: (1) external strategic design integration,
+which included supplier development, supplier part-
+nerships, and closer customer relationships; and (2)
+internal design-process integration, which included
+CE, DFM, standardization and CAD/CAM. External
+integration reaches across the supply chain to involve
+suppliers and customers, while internal integration is
+more tactical, matching design requirements and
+process capabilities. For each of the seven constructs,
+the mean of the measurement items was taken to form
+an index (after testing for acceptable reliability and
+validity). The multiplicative interaction of internal and
+external integration was also examined.
+
+temper
+
+the results’
+
+Before discussing the results, a number of
+limitations that
+interpretation
+should be noted. First, the sample comprised suppliers
+to the Big Three auto manufacturers only, and thus
+direct generalizability to other industries must be
+made cautiously. Second, the population of ﬁrst tier
+suppliers and the resulting sample size are small.
+There are only about 150 signiﬁcant ﬁrst tier suppliers
+
+for automobile OEMs, and we obtained co-operation
+from 57 of them (close to 40%). Thus, some of the
+validity of our sample comes from the proportion of
+the business we ‘‘cover’’. Third, we had one
+respondent per supplier and no direct way of testing
+that the questionnaire items meant exactly the same
+thing to each respondent. Although all items were
+approved by the industry association and all were
+deﬁned on the questionnaire, it is possible that terms
+such as ‘‘concurrent engineering’’ had different
+meanings to different individuals. In our discussion
+of the results below, we present anecdotal information
+to provide additional support for the validity of our
+results.
+
+5.1. Integration: routes to ﬁrm performance
+through time-based performance
+
+One manager of a well-known OEM supplier told
+us that closer customer relationships enabled the
+company to reduce lead times signiﬁcantly and that
+the implementation of CAD and rapid prototyping had
+reduced tooling time and product development time.
+Also, the use of concurrent engineering in combina-
+tion with DFM had allowed compression of launch
+timing and increases
+in quality and customer
+satisfaction. Another manager from a very large ﬁrst
+tier supplier provided anecdotal information concern-
+ing the beneﬁcial effects of CAD, CAM, standardiza-
+tion, concurrent engineering, and DFM on various
+time-based performance measures (e.g., customer
+responsiveness and lead time).
+
+Regression results support these anecdotes. First,
+each of internal and external integration is related to
+each of the three time-based intermediate performance
+constructs: ‘time-to-market’, ‘time-to-product’, and
+customer responsiveness. Thus, given any one of these
+three time-based performance goals, managers can
+expect improvements towards that goal if they take
+steps to implement either external strategic design
+integration practices or internal design-process inte-
+gration practices. Of course we are not implying that
+internal and external integration are the only ways to
+achieve time-based performance; nor are we implying
+that the speciﬁc practices that formed our indices of
+internal and external integration are the only relevant
+ones, or
+relevant at all outside of our context.
+However, we believe that most managers will ﬁnd
+
+
+570
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+the external versus internal conceptualization useful as
+they examine practices relevant to their industry or
+ﬁrm.
+
+being
+
+the other
+
+Second, we examined the effects of time-to-market,
+time-to-product, and customer
+responsiveness on
+market share and on ﬁnancial performance (i.e., ﬁnal
+performance outcomes). The results show that time-
+to-product appears to have a signiﬁcant inﬂuence on
+market share but, given that time-to-product is in the
+time-based constructs are not
+model,
+signiﬁcant. Similarly,
+responsive
+enhances ﬁrm ﬁnancial performance, but the other
+time-based constructs are not signiﬁcant (given that
+responsiveness is accounted for). And, again we add a
+caveat: we are not implying that time-based perfor-
+mance outcomes are the only relevant intermediate
+performance outcomes. For example, cost or quality
+performance could also enhance ﬁrm performance,
+and either may be an important
+intermediate
+performance outcome as far as the management of
+the ﬁrm is concerned.
+
+highly
+
+internal or external
+
+The results of our research imply that there are two
+distinct ‘‘2-step’’ indirect routes to enhanced ﬁrm
+performance when integration is the starting point and
+time-based outcomes are the intermediate perfor-
+mance indicators. The ﬁrst major route starts with
+either
+integration leading to
+improved time-to-product (the ﬁrst step), which in
+turn has a positive inﬂuence on market share (the
+second step); and the other major route starts with
+either
+integration enhancing
+responsiveness (the ﬁrst step), followed by respon-
+siveness in turn having a positive impact on ﬁrm
+ﬁnancial performance (the second step). In each of
+these ‘‘2-step’’ routes, internal and/or external integra-
+tion impact ﬁrm performance indirectly through their
+impact on one or more time-based performance
+outcomes.
+
+internal or external
+
+5.2. Integration: direct routes to ﬁrm performance
+
+construct
+
+We next addressed the question of whether either
+integration
+affects ﬁrm performance
+directly, after accounting for their indirect effects
+through time-based performance. Hierarchical regres-
+sion analyses revealed afﬁrmative answers.
+
+External integration has a direct positive impact on
+market share, even after accounting for the indirect
+
+effects on market share through the timed-based
+outcomes. This means that external
+integration is
+operating on market share in ways over and above the
+impact exerted through the ‘‘2-step’’ route discussed
+in the previous section. We also found that internal
+integration has a direct positive impact on ﬁnancial
+performance, even after accounting for its indirect
+effects through the timed-based constructs. Thus,
+internal integration is inﬂuencing ﬁnancial perfor-
+mance in ways not accounted for by the second ‘‘2-
+step’’
+indirectly through timed-based
+outcomes as discussed previously).
+
+route (i.e.,
+
+Our
+
+integration:
+
+these direct
+
+in this sense,
+
+research cannot
+
+evaluate whether
+
+identify the ways
+
+in
+integration could
+which these direct effects of
+operate. The empirical results only support
+the
+contention that effects on ﬁrm performance through
+time-based outcomes have been separated from
+other effects of
+the
+direct effects found are accounted-for variance not
+attributable to the dual indirect ‘‘2-step’’ routes. We
+cannot
+effects
+could also be decomposed into ‘‘2-step’’ routes if
+other intermediate performance outcomes had been
+in the model. For example, quality, inventories and
+cost are possible intermediate performance out-
+comes of
+integration that were mentioned by
+managers: either type of integration could affect
+quality (/inventory levels/cost), which then affects
+performance. In this way, other ‘‘2-step’’ routes
+could be identiﬁed and the question becomes
+there are remaining direct effects of
+whether
+integration after
+including the indirect effects
+through time, quality, inventory, cost, etc. We leave
+this to future research.
+
+5.3. The interaction of internal and external
+integration: synergistic effects
+
+Finally, we found that the interaction of internal
+and external integration was signiﬁcantly related to
+both market share and ﬁnancial performance (after
+controlling for all other effects). This latter result
+suggests that the joint use of external and internal
+integration has synergistic effects on ﬁrm performance
+outcomes. Note that these synergistic effects exist in
+addition to: (a) the direct effects of integration on ﬁrm
+performance and (b) the ‘‘2-step’’ routes of indirect
+effects through time-based outcomes.
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+571
+
+The existence of the interaction effect implies for
+managers that while there is performance impact of
+implementing either internal or external integration
+practices, it may be better to proceed simultaneously,
+rather
+than sequentially with internal practices
+implemented ﬁrst. For example, suppose four internal
+and four external integration practices are identiﬁed,
+but only half can be implemented this year. Is it better
+to tackle all four internal practices ﬁrst, followed by
+the external ones (i.e., use the internal versus external
+division as the basis for deciding order of implemen-
+tation, perhaps because internal practices are per-
+ceived as easier to control)? Our interaction effect
+results suggest that this strategy is not necessarily
+better and in fact may be worse in terms of
+performance impact than tackling two internal and
+two external practices.
+
+of
+
+are
+
+effects
+
+interaction
+
+In general, the theoretical meaning and managerial
+implications
+under
+researched. Indeed, few researchers include hypothe-
+sized interaction effects in their proposed models, and
+few test for the existence of interaction effects that
+were not
+initially proposed. In this research, we
+examined a limited number of variables, grouped into
+a limited number of constructs; however, we
+scrutinized direct effects, indirect effects and inter-
+action effects. Unfortunately, as the number of
+constructs increases, the effects decomposition pro-
+blem does not
+increase proportionately: with two
+there is one interaction; with three
+constructs,
+constructs,
+there are four
+interactions; with 4
+constructs, there are 10; and so on. This makes it
+very important
+those
+interaction effects that have a compelling theoretical
+rationale.
+
+researchers to test
+
+for
+
+for
+
+in multiple areas such as quality, design support,
+and delivery.
+
+(2) Supplier partnership: bringing all of the partici-
+pants in the product life cycle into the process
+early on so even suppliers and customers can
+provide input to each others’ processes.
+
+(3) Closer customer relationships: determining cus-
+(both inside and outside the ﬁrm)
+tomers’
+requirements, then meeting those requirements
+no matter what it takes.
+
+Design-process integration (internal integration)
+
+(4) Concurrent engineering: overlapping activities in
+product and process development
+to ensure a
+match between design requirements and process
+capabilities, reducing time-to-market
+
+(5) Design for manufacturability: an approach (using
+concepts such as design for assembly, design for
+serviceability, and design for test) for designing
+products that can be more effectively manufac-
+tured.
+
+(6) Standardization: the use of standard procedures,
+materials, parts, and/or processes for designing
+and manufacturing a product.
+
+(7) Computer-aided design/engineering: the use of
+computers in interactive engineering drawing and
+storage of design to obtain graphical views of a
+part and its relationship with other parts.
+
+(8) Computer-aided manufacturing:
+
+the use of a
+computer
+to program, direct and control an
+independent machine in the fabrication of
+manufactured items.
+
+A.2. Endogeneous variables (deﬁnitions as provided
+on the questionnaire)
+
+Appendix A. Deﬁnitions for the measurement
+items
+
+Time-to-market
+
+A.1. Exogeneous independent variables (deﬁnitions
+as provided on the questionnaire)
+
+Strategic design integration (external integration)
+
+(1) Supplier development:
+
+implementing policies,
+procedures and practices
+for assessing and
+improving supplier capability and performance
+
+(1) Product development time: the ability to minimize
+
+the time it takes to develop new products.
+
+(2) Product introduction time: the ability to minimize
+the time to make product improvements/varia-
+tions
+to introduce
+completely new products.
+
+to existing products, or
+
+Time-to-product
+
+
+572
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+(3) Procurement lead time: the ability to minimize the
+time from order placement to the delivery of the
+procured item, which includes supplier lead time,
+transportation, and receiving and inspection.
+
+(4) Manufacturing lead time: the ability to minimize
+the time from when the order was released to the
+shop ﬂoor to the time of its completion.
+
+(5) Delivery speed: the ability to minimize the time
+between receipt of customer order and ﬁnal
+delivery, to as close to zero as possible.
+
+Responsiveness
+
+(6) Pre-sale customer service: the ability to service
+the customer during the purchase decision process
+(i.e., before the customer buys the product).
+
+(7) Product
+
+support:
+
+the ability to service the
+customer in providing product support after the
+sale of the product to ensure continuing customer
+satisfaction.
+
+(8) Responsiveness
+
+to customers:
+
+the ability to
+minimize the time it takes to cater to customer
+needs by processing and solving customer
+complaints by rapid conﬁrmation of orders and
+by minimizing customer information lead time.
+
+References
+
+Actionline, 1995. Strength in Numbers (July) 8.
+Aiken, L.S., West, S.G., 1991. Multiple Regression: Testing and
+
+Interpreting Interactions. Sage, Newbury Park, CA.
+
+Azzone, G., Masella, C., Bertele, U., 1991. Design of performance
+measures for time-based companies. International Journal of
+Operations and Production Management 11 (3), 77–85.
+
+Barker, R.C., 1993. Value adding performance measurement: a time-
+based approach. International Journal of Operations and Produc-
+tion Management 13 (5), 23–40.
+
+Bower, J.L., Hout, T.M., 1988. Fast-cycle capability for competitive
+power. Harvard Business Review (November–December) 66,
+110–118.
+
+Carmel, E., 1995. Cycle time in packaged software ﬁrms. Journal of
+
+Product Innovation Management 12 (2), 110–123.
+
+Carter, P.L., Melnyk, S.A., Handﬁeld, R.B., 1995. Identifying the
+basic process strategies for time-based competition. Production
+and Inventory Management Journal 36 (1), 65–70.
+
+Clark, K.B., 1989. Project scope and project performance: the effect
+of parts strategy and supplier involvement on product develop-
+ment. Management Science 35 (October (10)), 1247–1263.
+
+Clark, K.B., Fujimoto, T., 1991. Product Development Performance:
+Strategy, Organization and Management in the World Auto
+Industry. Harvard Business School Press, Boston, MA.
+
+Cooper, R.G., Kleinschmidt, E.J., 1995. Benchmarking the
+ﬁrm’s critical
+in new product develop-
+ment. Journal of Product Innovation Management 12 (5),
+374–391.
+
+success
+
+factors
+
+Cordero, R., 1991. Managing for speed to avoid product obsoles-
+cence: a survey of techniques. Journal of Product Innovation
+Management 8, 283–294.
+
+Corswant, F., Tunalv, C., 2002. Coordinating customers and proac-
+tive suppliers: a case study of supplier collaboration in product
+development. Journal of Engineering Technology Management
+19, 249–261.
+
+Crawford, C.M., 1992. The hidden costs of accelerated product
+development. Journal of Product Innovation Management 9,
+188–199.
+
+Drickhamer, D., 2002. Getting down to brass tacks. Industry Week
+
+251 (3), 53–54.
+
+Eisenhardt, K.M., Tabrizi, B.N., 1995. Accelerating adaptive pro-
+cesses: product innovation in the global computer industry.
+Administrative Science Quarterly 40, 84–110.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an inter-
+national study of supply chain strategies. Journal of Operations
+Management 19, 185–200.
+
+Gupta, A.K., Wilemon, D.L., 1990. Accelerating the development of
+technology-based new products. California Management
+Review (Winter), 24–44.
+
+Handﬁeld, R.B., Pannesi, R.T., 1992. An empirical study of delivery
+speed and reliability. International Journal of Operations and
+Production Management 12 (2), 58–72.
+
+Handﬁeld, R.B., 1995. Re-engineering for Time-based Competition.
+
+Quorum Books, Westport, CT.
+
+Handﬁeld, R.B., Krause, D., Scannell, T., Monczka, R., 2000. Avoid
+the pitfalls in supplier development. Sloan Management Review
+(Winter), 37–49.
+
+Hartley, J.L., Zirger, B.J., Kamath, R.R., 1997. Managing the
+buyer-supplier interface for on-time performance in product
+development. Journal of Operations Management 15, 57–70.
+
+Hayes, R.H., Wheelwright, S.C., Clark, K.B., 1998. Dynamic
+
+Manufacturing. Free Press, New York.
+
+Henke, J.W., Krachenburg, R.A., Lyons, T.F., 1993. Cross-func-
+tional teams: good concept, poor implementation. Journal of
+Product Innovation Management 10, 216–229.
+
+Hershock, R.J., Cowman, C.D., Peters, D., 1994. From experience:
+action teams that work. Journal of Product Innovation Manage-
+ment 11, 95–104.
+
+Imai, K., Nonaka, I., Takeuchi, H., 1985. Managing the new
+product development process: how Japanese companies learn
+and unlearn. In: Hayes, R., Clark, K., Lorenz, P. (Eds.), The
+Uneasy Alliance: Managing the Productivity-Technology
+Dilemma. Harvard Business School Press, Boston, pp. 337–375.
+Krause, D.R., Ellram, L.M., 1997. Critical elements of supplier
+development. European Journal of Supply Management 3 (1),
+21–31.
+
+Mabert, V.A., Muth, J.F., Schmenner, R.W., 1992. Collapsing new
+product development times: six case studies. Journal of Product
+Innovation Management 9, 200–212.
+
+Malhotra, M.K., Heine, M.L., Grover, V., 2001. An evaluation of the
+relationship between management practices and computer aided
+
+
+C. Droge et al. / Journal of Operations Management 22 (2004) 557–573
+
+573
+
+design technology. Journal of Operations Management 19, 307–
+333.
+
+Marsh, S.J., Stock, G.N., 2003. Building dynamic capabilities in
+new product development through intertemporal integration.
+Journal of Product Innovation Management 20, 136–148.
+
+McElroy, J., 1987. We’re ready to deal! For suppliers and auto-
+makers it’s a whole new ball game Automotive Industries 167
+(12), 39–42.
+
+McGrath, M.E., 1992. Product Development: Success Through
+Product and Cycle-time Excellence. Reed Publishing, Stone-
+ham, Massachusetts.
+
+Meyer, C., 1993. Fast Cycle Time: How to Align Purpose, Strategy
+
+and Structure for Speed. Free Press, New York, NY.
+
+Millson, M.R., Raj, S.P., Wilemon, D., 1992. A survey of major
+approaches for accelerating new product development. Journal
+of Product Innovation Management 9, 53–69.
+
+Narasimhan, R., Das, A., 1998. Causal linkages in supply chain
+management: an exploratory study of North American manu-
+facturing ﬁrms. Decision Sciences 29 (3), 579–605.
+
+Narasimhan, R., Jayaram, J., 1998. An empirical investigation of the
+antecedents and consequences of manufacturing goal achieve-
+ment in North American, European, and Pan Paciﬁc ﬁrms.
+Journal of Operations Management 16, 159–176.
+
+Naylor, B., Naim, M.M., Berry, D., 1999. Leagility: integrating the
+lean and agile manufacturing paradigms in the total supply
+chain.
+International Journal of Production Economics 62,
+107–118.
+
+Powell, T.C., 1995. Total Quality Management as competitive
+advantage: a review and empirical study. Strategic Management
+Journal 16 (1), 15–38.
+
+Quinn, J.B., 1985. Managing innovation: controlled chaos. Harvard
+
+Business Review(May–June), 73–84.
+
+Robins, J., Atuahene-Gima, K., 2003. The effects of external
+relationships on innovative activities within ﬁrms. Academy
+of Management Best Paper Proceedings, Annual Conference,
+Seattle, WA.
+
+Rooney, J.J., 2002. Two sides of the same coin: using teams in
+customer-supplier relationships. Journal for Quality and Parti-
+cipation 25 (3), 4–8.
+
+Rosenau, M., 1988. Speeding your product to market. Journal of
+
+Consumer Marketing 5, 23–40.
+
+Sanchez, A.M., Perez, M.P., 2003. Cooperation and the ability to
+minimize the time and cost of new product development within
+the Spanish automotive supplier industry. Journal of Product
+Innovation Management 20, 57–69.
+
+Sheremata, W.A., 2002. Centrifugal and centripetal forces in radical
+new product development under time pressure. Academy of
+Management Review 25 (2), 389–408.
+
+Smith, P.G., Reinertsen, D.G., 1998. Developing Products in Half
+
+the Time: New Rules, New Tools. Wiley & Sons, NY.
+
+Stalk, G., 1988. Time—the next source of competitive advantage.
+
+Harvard Business Review (July–August), 41–51.
+
+Stalk, G., Hout, T.M., 1990. Competing Against Time: How Time-
+based Competition is Reshaping Global Markets. The Free
+Press, New York, NY.
+
+Stank, T.P., Goldsby, T.J., Vickery, S.K., 1999. Effect of service
+supplier performance on satisfaction and loyalty of store man-
+gers in the fast food industry. Journal of Operations Management
+17 (4), 429–448.
+
+Swink, M.L., 1998. A tutorial on implementing concurrent engi-
+neering in new product development programs. Journal of
+Operations Management 16 (1), 103–116.
+
+Takeuchi, H., Nonaka, I., 1986. The new product development
+
+game. Harvard Business Review 64 (1), 137–146.
+
+Teresko, J., 2002. Transforming GM. Industry Week 250 (15), 35–39.
+Trygg, L., 1993. Concurrent engineering practices in selected
+Swedish companies: a movement or an activity of the few?
+Journal of Product Innovation Management 10, 403–415.
+
+Verespej, M.A., 2002. Automakers put wheels on supply chains.
+
+Industry Week 250 (15), 66–71.
+
+Vickery, S.K., Droge, C., Yeomans, J.M., Markland, R.E., 1995.
+Time-based competition in the furniture industry: an empirical
+study. Production and Inventory Management Journal 36 (4),
+14–21.
+
+Vickery, S.K., Droge, C., Markland, R.E., 1997. Dimensions of
+manufacturing strength in the furniture industry. Journal of
+Operations Management 15, 317–330.
+
+Wheelwright, S.C., Clark, K.B., 1992. Revolutionizing Product
+
+Development. Free Press, New York.
+
+Zirger, B.J., Hartley, J.L., 1996. The effect of acceleration techni-
+time. IEEE Transactions on
+
+ques on product development
+Engineering Management 43, 143–152.
+

@@ -1,0 +1,5908 @@
+The Effects of  Unions on Firm Behavior: 
+
+An Empirical Analysis Using Firm-Level Data 
+
+STEPHEN G. BRONARS, DONALD R. DEERE, 
+
+and JOSEPH S. TRACY* 
+
+We  evaluate the use of  firm-level union coverage rates in empirical mod- 
+els  of  firm  behavior  and  performance.  We  focus  on  the  potential  for 
+measurement error  in  both  firm-  and industry-level  data,  and  find  that 
+firm-level union  coverage rates provide  more  precise  estimates of  union 
+effects. Higher union coverage at a firm is associated with slower employ- 
+ment  and  sales  growth,  decreased  productivity  in  nonmanufacturing 
+firms,  increased productivity  in  manufacturing  firms, lower  profitability, 
+and less investment in durable assets, such as research and development. 
+
+Introduction 
+
+In recent years, there has been renewed interest in the impact of  labor 
+unions on the behavior and performance of firms. Higher unionization rates 
+have  been  associated  with  reduced investment  in  plant,  equipment,  and 
+research and development (R&D), decreased profitability, slower growth, 
+and higher labor productivity.  In many empirical studies, industry unioni- 
+
+*The authors' affiliations are, respectively, Department of  Economics, University of  Texas; Depart- 
+ment of  Economics, Texas A&M University; and Department of Economics, Columbia University. We 
+are indebted to Peter  Griffin for excellent research  assistance,  to Barry  Hirsch for making  his union 
+coverage data available to us, and to John Abowd, Melissa Famulari, and three anonymous referees for 
+helpful comments and suggestions. Any remaining errors are ours. A portion of this work was completed 
+while Deere was on leave at the University of  California, Santa Barbara. This material is based in part 
+upon  work  supported by  the Texas Advanced  Research  Program  under Grant No.  14581 to  Deere. 
+I  These  studies include  estimation  of  the  impact  of  unions on profitability  (Abowd,  1989; Bronars 
+and  Deere,  1990; Hirsch  1991a,b; Ruback  and  Zimmerman,  1984; Salinger  1984), investment  and 
+employment decisions (Bronars and Deere, 1993a; Clark, 1984; Connolly, Hirsch, and Hirschey,  1986; 
+Hirsch 1991b, 1992; Hirsch and Link, 1987), and the productivity of union versus nonunion employees 
+(Allen, 1984; Brown and Medoff,  1978; Clark, 1980). 
+
+INDUSTRIAL RELATIONS, Vol. 33, No. 4 (October 1994). 0 1994 Regents of the University of California 
+Published by Blackwell Publishers, 238 Main Street, Cambridge, MA 02142, USA, and 108 Cowley 
+
+Road, Oxford, OX4 lJF, UK. 
+
+426 
+
+
+The Effects of Unions on Firm Behavior  I 427 
+zation rates have been used  as proxies for firms’ unionization  rates. This 
+practice involves two potential problems. Industry unionization rates mea- 
+sure a firm’s union coverage with error, and their use prevents the inclusion 
+of industry-specific effects in econometric models of firm behavior. A grow- 
+ing number of  studies have utilized firm-level union data that can, in princi- 
+ple, provide a more accurate measure of  a firm’s union coverage.2 
+
+In this paper, we utilize a new source of  firm-level union coverage data 
+to evaluate the use of  firm-level data in  empirical models of  unionization 
+and  firm  behavior  and performance.  These unionization  rates  are calcu- 
+lated from Bureau of  Labor Statistics (BLS) union contract data and Stan- 
+dard and Poor’s Compustat employment data (see Bureau of Labor Statis- 
+tics).  We  focus on the potential  for measurement error in both firm- and 
+industry-level  coverage  data,  and  examine  the  implications  of  omitting 
+industry-specific fixed effects from these empirical models. 
+
+Our  firm-level  unionization  rates  exhibit  substantial  variation  across 
+firms in the same two-digit  SIC industry. For a subsample of  our data set, 
+we are able to estimate the degree of  measurement error in our firm-level 
+unionization rates by comparing them to independent firm-level coverage 
+rates calculated by  Hirsch  (1991b).  Although nearly half  of  the observed 
+within-industry  variation  in  our  firm-level  unionization  rates  is  due  to 
+measurement error, substantial within-industry  variation remains. 
+
+A  standard  source  of  union  coverage  rates  for  empirical  studies  of 
+unionization  effects  is  the  Current  Population  Survey  (CPS).  The CPS 
+does  not  identify  employers,  and  therefore  cannot  be  used  to  compute 
+firm-level unionization  rates. If  the aim in an empirical study is to control 
+for firm-level unionization, then  by  maintaining the  “classical” measure- 
+ment error assumptions, we show that our admittedly noisy firm-level rates 
+are  a  better  proxy  than  are  the  CPS  industry  rates  for  a  firm’s  true 
+unionization  rate.  However,  if  industry  average  unionization  rates  are 
+desired for a specific application, then it is unlikely that an alternative data 
+set could rival the depth of  coverage of  the CPS.3 
+* These studies include Clark (1984), Ruback and Zimmerman  (1984), Abowd (1989), Bronars and 
+Deere (1993b). Card (1990), and Hirsch  (1991a,b, 1992). 
+
+In some  applications,  the industry  unionization  rate may provide  a better measure of  the union 
+environment facing a firm, particularly  when “threat effects” are thought to be important. A limitation 
+of the CPS is that it uses U.S. Census industry codes. Thus, reliable estimates of unionization  rates by 
+three-digit  SIC codes  are  generally  infeasible  from  the  CPS.  The vast  majority  of  publicly  traded 
+firms-firms 
+in  more  than  one four-digit  SIC 
+industry, while many operate in multiple three-digit U.S. Census industries, and several even produce 
+output in more than one two-digit SIC industry. Thus, assigning an industry unionization  rate to each 
+firm is problematic. The best approach would be to take weighted averages of industry rates where the 
+weights were proportional to a firm’s activity in each industry. The necessary line-of-business data are 
+
+for  which  other  data  are  readily  available-operate 
+
+
+428  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+
+An important benefit of  firm-level unionization rates is that they permit 
+estimation  of  models  with  industry  fixed  effects,  and  allow tests  of  the 
+hypothesis  that unobserved  industry  factors are uncorrelated  with union 
+coverage  and other regressors.  We generally fail to reject these specifica- 
+tion  tests,  and  proceed  to  use  random-effects  estimators  in  conjunction 
+with our firm-level data. We then find that the precision of these estimated 
+unionization  effects falls sharply, however, if  we substitute CPS industry- 
+level coverage rates for our firm-level coverage rates. 
+
+In  our  empirical applications we  estimate union  effects on  several as- 
+pects of  firm behavior: growth, profitability, productivity, and investment 
+in  plant  and  equipment,  R&D,  and  advertising.  We  find  fairly  strong 
+evidence  that  higher  unionization  at  a  firm  is  associated  with  slower 
+employment  and  sales  growth,  decreased  productivity  in  nonmanufac- 
+turing firms, and increased productivity in  manufacturing  firms.  We  also 
+find  weaker  evidence  that  higher  unionization  at  a  firm  leads  to  lower 
+profitability  and  less  investment  in  durable  assets,  such  as  R&D  and 
+advertising. 
+
+Empirical Methodology 
+
+Consider  the  following  econometric  model  of  firm  behavior  and 
+
+performance: 
+
+where the subscript ij denotes firm i and industry j, Yij is an indicator  of 
+firm behavior, Xij is  a vector of  control variables,  Uij is the fraction  of  a 
+firm's workforce  covered by  union  contracts, and  eij is an error term.  In 
+many applications it is reasonable to expect that eij contains an unobserv- 
+able industry-specific component , Sj: 
+
+where  eij is  identically, independently  distributed.  For  example,  Sj may 
+represent  unobserved  industry-specific R&D  and  investment  opportuni- 
+ties, barriers to entry, or growth opportunities in industry j. If  these unob- 
+servable  industry-specific  factors  are  correlated  with  union  coverage, 
+ordinary-least-squares (OLS)  regressions  yield  inconsistent  estimates  of 
+union effects4 Even if  these industry-specific factors are uncorrelated with 
+
+generally quite difficult to assemble. See Salinger (1984) and Bronars and Deere (1993a), however, for 
+empirical analyses that use such a weighted average measure of unionization. 
+
+If Sj is uncorrelated with union coverage but is correlated with some other regressor in X, then the 
+OLS coefficient on union coverage will  still  be  biased unless X,  and unionization are  uncorrelated. 
+
+
+The Effects of  Unions on Firm Behavior  I  429 
+a firm’s observable characteristics, the OLS-reported standard errors for p 
+and T will be biased toward zero. 
+
+Industry fixed-effects models consistently estimate /? and T ,  regardless of 
+this ~orrelation.~ A fixed-effects specification of  (1) amounts to estimating 
+
+DY,, = DXij/? + 7DUij + eij, 
+
+where the operator D denotes deviation from industry means; hence DU,, 
+= Uj - uj, where uj is the mean unionization rate in industry j. Estimates 
+based on within-industry variation are not contaminated by  unobservable 
+industry factors, even if  these factors are correlated with unionization or 
+other regressors.6 Using (1’), it is possible to estimate  consistently even if 
+Sj is correlated with Uij. 
+Alternatively,  industry  random-effects  (GLS)  models  yield  consistent 
+estimates of /? and T only if  Sj is uncorrelated with Xi, and the unionization 
+rate. In this case OLS, fixed-effects, and GLS estimates are all consistent, 
+but the GLS estimates have the lowest variances. Given firm-level data, it 
+is possible to test for correlation between unobserved industry effects and 
+regressors by  comparing fixed-effects estimates of  (1’) that treat the 8, as 
+parameters  to  GLS  estimates  of  (1)  that  treat  the  Sj as  random  (see 
+Hausman, 1978). These specification tests provide valuable information on 
+the  importance  of  omitted  industry  factors  and  the  appropriate  econo- 
+metric model for estimating unions’ effects on firms. 
+
+Because of  data limitations, many studies use the CPS industry unioni- 
+zation  rates,  denoted by  UCPS,,  as a proxy for U,,. This approach pres- 
+ents  two  potential  problems.  Estimates  of  7 using  industry-level  union 
+data  are  biased  toward  zero  because  of  measurement  error.  This  bias 
+with  error.  If  UCPS, accurately  measures u,, then DU,, is the measure- 
+occurs because a firm’s behavior depends on Uij, and UCPS, measures Uij 
+- ment  error component  of  the proxy variable UCPSj. If  UCPS, measures 
+U, with error, then the within-industry variance, Var(DUij), gives a lower 
+bound for the variance of  the measurement error component  of  UCPSj.7 
+The magnitude of  this downward bias will  be larger, the greater the true 
+within-industry  variation  in  union  coverage.  However,  measurement  er- 
+ror  is  not  unique  to  industry-level  data; firm-level union  coverage rates 
+are also likely to be measured with error. The smaller the measurement 
+error in firm-level union  rates, and the greater  the within-industry varia- 
+
+Note, however, that Pk is identified only if  XI,, varies within industries. 
+It  is  also  possible  that  the inclusion  of  industry  effects  reduces  measurement  error that  may  be 
+
+present in our firm-Ievel union variable. 
+
+could introduce measurement error problems. 
+
+’See  Mellow and Sider (1983) for a discussion of  possible errors in CPS industry classifications that 
+
+
+430  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+tion  in  union  coverage,  the  greater  the  benefit  from  using  firm-level 
+unionization data. 
+
+In addition, the use of  UCPS, precludes industry fixed-effects estimation 
+because UCPS, has no within-industry variation. If  6, is correlated with Xi, 
+or UCPS,, then  as noted above GLS and OLS estimates using UCPS are 
+inconsistent.  Without prior information  (see Hausman and Taylor, 1981), 
+it  is impossible to test whether such correlation  between  industry factors 
+and unionization  is present when  using  industry-level union  data such as 
+UCPS. 
+aj. Letting the subscript t denote the time period, this yields 
+
+Last, with panel data equation  (1) can be  first-differenced  to eliminate 
+
+‘J t  - Yijt_l = (xijt - Xijt-l)P + T(Uijt - Uijt-l) + Eijt  - EijtPl, 
+Y.. 
+
+(1”) 
+where p, T ,  and 6, are assumed to be time invariant. A key problem with 
+this  approach  is  that  measurement  error in  Uijt may  be  exacerbated  by 
+differencing (Freeman,  1984). In the next section, we show that both our 
+firm-level unionization  rates and UCPS are rather noisy  measures of  the 
+true Uij. We then provide estimates of the relative variance of the measure- 
+ment error component of  UBLS using an independent source of  firm-level 
+unionization rates. 
+
+Evaluating the Reliability of Firm-Level  Unionization  Rates 
+
+We construct firm-specific unionization rates from all “major” U.S. col- 
+lective bargaining agreements reported to the BLS, i.e., those involving at 
+least  1,000 workers.  Our BLS contract sample contains over  10,000 con- 
+tracts in manufacturing and nonmanufacturing industries (excluding public 
+sector  and  construction  contracts) from  1971 to  1989.8 We  match  these 
+union employment data to the total employment of  publicly traded firms in 
+the  Compustat  database  as  described  in  the  appendix.  In  our  matched 
+sample, we  compute the ratio of  union to total  employment,  denoted as 
+UBLS,, (for firm i  in  industry j), in each year from  1971 to 1982 for 560 
+firms. In our empirical applications, we use average levels of  UBLS,, com- 
+puted over three different time periods:  1971-74,  1975-78,  and 1979-82.9 
+Table  1  provides  for each  time  period  the  decomposition  of  the  total 
+variance  in  UBLS,,, into the variance within  and  between  two-digit  SIC 
+industry classifications. In each time period at least two-thirds of  the total 
+
+*These data were collected from various issues of the annual BLS publication, Bargaining Calendar, 
+
+which provides information on major contracts scheduled to expire in that year. 
+
+We  chose these time  periods because the number of union contracts declines dramatically  in the 
+
+1980s and substantially reduces our potential sample size. 
+
+
+The Effects of Unions on Firm Behavior  I  431 
+
+TABLE 1 
+
+WITHIN AND ACROSS 
+
+INDUSTRY VARIANCES OF FIRM-LEVEL UNIONIZATION RATES (UBLS) 
+(percentage of total variation in parentheses) 
+
+Year 
+
+197 1-74 
+
+1975-78 
+
+1979-82 
+
+Within Two-Digit 
+
+SIC Industry 
+
+Variance 
+
+Across Two-Digit 
+
+SIC Industry 
+
+Variance 
+
+Total 
+
+Variance 
+
+,04010 
+
+(69.4) 
+
+.04582 
+
+(68.9) 
+
+(66.8) 
+
+.04005 
+
+,01772 
+
+(30.6) 
+
+(31.1) 
+
+.02066 
+
+,01993 
+
+(33.2) 
+
+( 100.0) 
+
+,05782 
+
+,06648 
+
+(100.0) 
+
+.05998 
+
+(100.0) 
+
+variation in UBLS,, is within a two-digit industry. These results suggest that 
+there  may  be substantial differences in  true union  coverage  rates across 
+firms within the same two-digit industry, which implies that the CPS indus- 
+try  average  may  be  a  poor  proxy  for  a  firm’s union  coverage.  Whether 
+UBLS,, is a superior proxy for Uij depends on how much of  the observed 
+variation  in UBLSij is due to measurement error compared to true varia- 
+tion in Uij. 
+
+The most  direct approach  to assessing  the measurement  error compo- 
+nent of  UBLSij is to obtain an independent measure of  firms’ union cover- 
+age  ratios  for  our  sample.1°  Hirsch  (1991b)  has  constructed  firm-level 
+unionization  rates  for  a  sample  of  large  publicly  traded  firms  in  1977, 
+which we denote by UHij.ll We can obtain estimates of  measurement error 
+variances by examining the covariation between these independently calcu- 
+lated  measures  of  union  coverage for the  194 firms that  are common  to 
+both samples. 
+
+In  our  empirical  applications,  there  is  considerable  evidence  that 
+industry-specific effects explain a substantial portion of  the observed varia- 
+tion in behavior and performance across firms. Throughout the empirical 
+analysis that follows, we reject the simple OLS specifications in  favor of 
+industry-fixed  or  random-effects  models.  Therefore  our  discussion  here 
+emphasizes obtaining estimates of  the within-industry  measurement error 
+in our firm-level data, i.e., measurement error in DUBLSij. 
+
+Suppose  that  both  the  BLS  contract  data  and  Hirsch’s  data provide 
+
+Greene (1990, pp. 293-303)  provides a useful discussion of the issues involved. 
+See  Hirsch  (1991b)  for  details. The  means  and  standard deviations  of  UH  and  UBLS  in  the 
+matched  sample are  ,468 (.225) and  ,327 (.225), respectively. The comparable  statistics for the  full 
+samples are  ,380 (.300) and .329 (.281) for UBLS and UH, respectively. 
+
+
+432  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+unbiased but noisy measures of unionization at firm i in industry j. We  can 
+then write UBLS,, and UH,, as 
+
+UBLSij = Uij + EBLS,, 
+
+(34 
+
+and 
+
+UH.. = U.. + EH.. 
+'1 ' 
+
+'I 
+
+(3b) 
+where  EBLS,, and EH,, are zero mean  i.i.d.  measurement  error compo- 
+nents. Assuming that EBLS,, and EH,, are orthogonal, and each is orthogo- 
+nal to U,,, it follows that 
+
+'I 
+
+Var(U)  = Cov(UBLS,UH) 
+
+( 4 4  
+
+and 
+
+Var(EBLS)  = Var(UBLS)  - Var(U) 
+
+= Var(UBLS)  - Cov(UBLS,UH). 
+
+(4b) 
+The  inclusion  of  industry  dummy  variables  in  regression  analyses  of 
+union effects implies that  the resulting estimates depend on only within- 
+industry variation. The variation in true unionization rates can be decom- 
+posed  into  within-industry  and  between-industry  components.  If  the 
+within-industry deviation in UBLS and UH, denoted DUBLS and DUH, 
+are independent, then the true within-industry variance is given by12 
+
+Var(DU)  = Cov(DUBLS,DUH), 
+
+while 
+
+Var(DEBLS) = Var(DUBLS)  - Cov(DUBLS,DUH). 
+
+In a similar fashion the between-industry variance, Var(u), equals 
+
+Var(TS)  = COV(UBLS, UH), 
+
+while 
+
+( 5 4  
+
+(5b) 
+
+( 6 4  
+
+- 
+
+Var(EBLS)  = Var(UBLS)  - COV(UBLS,UH) 
+
+(W 
+where the "  " indicates industry means. Equations (3)-(6)  can be used to 
+estimate  the  fraction  of  the  variance  in  UBLS  (total  variance  and  its 
+within-  and  between-industry components)  that  is  due  to  measurement 
+error. 
+
+l2 If we had prior information that measurement error was more of  a problem in some industries, we 
+would  weight  observations  differently  on the  basis  of  a  firm's  industry.  Our maintained  hypothesis 
+throughout the analysis is that measurement error variances are equal for each industry. 
+
+
+The Effects of  Unions on Firm Behavior  I  433 
+Finally, information on the measurement error component of  UCPS, can 
+also  be  obtained.  The  mean  squared  error  of  UCPSj  around  the  true 
+unionization  rate, Uij, can be written as 
+
+MSE(UCPS) = Var(DU) + A ,  
+
+(7) 
+where A  2 0 is the weighted (by number of firms) average across industries 
+of  the squared difference between  UCPSj and u,. Thus the true within- 
+industry variance, which equals Cov(DUBLS,DUH) from (5a), provides a 
+lower bound on the error from using UCPSj as a proxy for Uij. Also, the 
+inclusion of  UCPS, precludes the use of  industry dummies. 
+
+In Table 2 we  use  estimates of  equations (3)-(6)  for the  1975-78  time 
+period to decompose the total observed variation in UBLS into within- and 
+between-industry components and to estimate the percentages of  the over- 
+all variation and of  these components that are due to measurement error. 
+We find that the covariance between UBLS and UH, which is our estimate 
+of  the true variance in union coverage (i.e., Var(U)), is 56.1 percent of  the 
+total observed variance of UBLS. For comparison we find that 56.2 percent 
+
+ESTIMATED VARIANCE DECOMPOSITIONS 
+OF FIRM-LEVEL UNIONIZATION RATES (UBLS) 
+1975-78 
+
+TABLE 2 
+
+Within- 
+Industry 
+Variance 
+due to 
+
+Between- 
+Industry 
+Variance 
+due to 
+
+True 
+
+True 
+within-  Measure-  between-  Measure- 
+Industry 
+Variance 
+
+Industry 
+Variance 
+
+ment 
+Error 
+
+ment 
+Error 
+
+Total 
+
+Measure- 
+
+ment 
+Error 
+
+True 
+Total 
+
+Observed 
+Variance  Variance  Variance 
+
+Total 
+
+0.02470 
+
+0.02112 
+
+0.01260 
+
+0.00806 
+
+0.03730 
+
+0.02918 
+
+0.06648 
+
+37.1 
+
+31.8 
+
+19.0 
+
+12.1 
+
+56.1 
+
+43.9 
+
+100.0 
+
+53.9 
+
+46.1  -  -  __  -  - 
+
+Percent of  Ob-  -  - 60.0 
+
+40.0  -  -  - 
+
+66.2 
+
+- 
+
+33.8 
+
+- 
+
+100.0 
+
+-  - 
+
+Variation in 
+
+UBLS 
+Percent of 
+
+Observed To- 
+tal Variation 
+
+Percent of 
+
+Observed 
+within-hdus- 
+try Variation 
+
+served 
+between- 
+Industry Varia- 
+tion 
+
+Percent of 
+
+True Total 
+Variation 
+
+
+434  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+of the total observed variation in Hirsch’s measure of  union coverage re- 
+flects true variation  in unionization. Using the covariance of  DUBLS and 
+DUH to estimate the within-industry variance  in  true  unionization  (i.e., 
+Var(DU)), we find that true within-industry variation  in unionization  ac- 
+counts for 53.9 percent of the observed within-industry variation in UBLS. 
+The analogous estimate of Var(0) implies that true between-industry varia- 
+tion accounts for 61 .O percent of the observed between-industry variation in 
+UBLS. The comparison figures for Hirsch’s data are that 46.7 percent of the 
+observed  within-industry  and  84.7  percent  of  the  observed  between- 
+industry variation in UH reflect true variation in unionization. 
+
+At  this  point,  it  is  worth  considering  further  the  possible  sources  of 
+measurement error in UBLS and UH. UBLS is derived from contempora- 
+neous  information  on  collective  bargaining  contracts  covering  at  least 
+1,000 workers. As noted in the appendix, we adjust for workers in smaller 
+contracts using data from 1974. Our coverage rates exclude workers cov- 
+ered in multiemployer contracts because we cannot identify the employers. 
+Hirsch’s data for  1977 are derived from three sources: (1) a retrospective 
+survey  of  1977 coverage  conducted  in  1987;  (2)  adjusted  figures  from 
+responses on 1987 coverage from the same survey; and (3) adjusted figures 
+on 1972 coverage from a survey conducted around 1972. The survey ques- 
+tions for 1977 and 1987 coverages referred to a firm’s entire North Ameri- 
+can workforce. There are several potential  sources of  measurement error 
+in Hirsch’s 1977 coverage rates:  (1) retrospective recall bias; (2) inclusion 
+of  Canadian plants where unionization is higher than in the United States; 
+and  (3)  inaccuracies  in  the  data  adjustments.l3  Our  priors  about  the 
+greater potential for between-industry errors in UBLS was somewhat con- 
+firmed  by  the  fact  that  UH is  a less noisy  measure  of  between-industry 
+variation. The relatively better performance of UBLS in measuring within- 
+industry variation may largely reflect the effect of  using contemporaneous 
+information. 
+
+Despite the  sizable within-industry measurement  error in  both  UBLS 
+and  UH,  the  results  in  Table  2  confirm  that  UCPSj is  an  even  noisier 
+measure of  Uij. Recall that true within-industry variation in Uij is a lower 
+bound  for  the  measurement  error component  of  UCPSj. Table 2  shows 
+that,  in  the  absence  of  measurement  error  in  union  coverage,  within- 
+industry variation accounts for 66.2 percent (.0247/.0373) of  the total varia- 
+
+13 The data adjustments are made  for about 27 percent  of  Hirsch’s entire  sample but  an unknown 
+fraction  of the sample in common with UBLS. Inaccuracies in these adjustments  are exacerbated by 
+the inclusion of  Canadian plants because  of  differences in unionization trends between  the two coun- 
+tries. Note also that the inclusion of  Canadian plants helps explain the higher mean of  UH as reported 
+in note  11. 
+
+
+The Effects of  Unions on Firm Behavior  /  435 
+tion in Uij. Thus UCPSj can account for at most 33.8 percent  of  the total 
+variation  in  union  coverage  across firms.  Hence UCPSj appears to be  a 
+noisier measure of  Uij than does either of  the firm-level unionization rates, 
+UH or UBLS. When coupled with the fact that the use of UCPS precludes 
+the  estimation  of  industry  fixed-effects, it  follows  that  firm-level union 
+coverage  rates  can  provide  more  accurate estimates of  union  effects  on 
+firm behavior.14 
+
+Empirical Applications 
+
+In  the  next  four  subsections, we  examine  the  relationship  between  a 
+firm’s union coverage and its behavior and performance. We  estimate two 
+cross-sectional regressions using variable  means calculated over the time 
+periods 1975-78  and 1979-82,  respectively. Annual observations on each 
+firm’s  union  coverage  are  combined  with  annual  data  on  firms  from 
+Compustat  before  averaging.  We  estimate  separate  regressions  for  the 
+manufacturing and nonmanufacturing sectors, and we estimate the impact 
+of  union coverage on firm behavior with and without a fairly extensive set 
+of  control variables in the regre~si0n.l~ The coefficient on unionization in 
+the specifications with the control variables estimates only the direct effect 
+of unionization, holding several firm characteristics constant. On the other 
+hand,  as stressed by  Hirsch  (1991b), the  union  coefficient in the regres- 
+sions without other controls estimates both the direct effect of unionization 
+and its indirect effect through changes in the control variables.  Each row 
+of our tables presents a different empirical specification of the model using 
+either  UBLS  or  UCPS  as  the  measure  of  union  coverage,  while  each 
+column  represents  a  different  dependent  variablehime  period  combina- 
+tion.  Because of  space limitations,  our tables present  only the estimated 
+union coefficient and associated standard errors. l6 
+
+For  regressions  using  UBLS,  we  estimated  industry  fixed-effects, 
+random-effects,  and  first-differenced  regression  models. l7  For  each 
+
+14  Industry fixed-effects and industry average unionization rates can be included in the same regres- 
+sion if  the industry  level of  aggregation differs.  For example,  Connolly, Hirsch,  and Hirschey (1986) 
+assign  unionization  rates  by  three-digit  U.S.  Census  industry,  and  include  one-  and  two-digit  SIC 
+industry dummy variables in their  regressions.  A drawback to this approach  is that it requires a large 
+firm to be  assigned  to a rather  narrow  industry  classification, even though  its employment  and sales 
+may cut across a variety of  three-digit U.S. Census industries. 
+
+15  Sample sizes vary  across  dependent  variables and  time  periods  because  of  missing data.  If  the 
+regressions  with  larger  samples  are  reestimated  with  the  smaller  samples  of  other  regressions  the 
+results are not materially changed. 
+
+16  More details on the regression results are available from the authors. 
+17 The first-differenced specifications entail regressing Y,,_,, - P,,-,, on X,,_,, - X,,_,,. First differ- 
+
+
+436  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+random-effects regression, we test the hypothesis that 6, is uncorrelated with 
+Xij and UBLS,,. When we fail to reject this hypothesis we report the more 
+efficient random-effects estimates as the “Industry Effects” specifications. 
+When we reject the hypothesis that 6, is uncorrelated with Xij or UBLS,,, we 
+report the consistent fixed-effects estimates. For purposes of comparison we 
+also present estimated union effects from OLS, random-effects,  and first- 
+differenced regressions using UCPS. 
+
+It is important to note that the estimated union effects we present based 
+on  UBLS  have  not  been  adjusted  for  measurement  error bias.  If  46.1 
+percent of  within-industry variation in UBLS is due to measurement error, 
+consistent estimates of  unionization effects are obtained by multiplying the 
+reported results by  1.855 = U(1-.461).  This adjustment factor applies to 
+our estimated standard errors as well, and hence does not affect the signifi- 
+cance level of  the reported  results.  An alternative  approach  to unbiased 
+estimation  is to utilize an instrumental variables (IV) technique with  UH 
+employed  as  an  instrument  for  UBLS.  We  did  not  take  this  approach 
+because  it  would  have  greatly  reduced  our  sample  sizes,  especially  in 
+nonmanufacturing. As a  check on the accuracy of  this adjustment, how- 
+ever, we calculated  IV estimates for manufacturing for the  1975-78  time 
+period  and  compared  them  to  GLS  estimates  derived  from  the  same 
+(smaller) samples. The results of  this comparison were quite encouraging. 
+For  the  profitability  and investment  regressions, the  IV  estimates of  the 
+union coefficient were about twice as large as the  GLS estimates and the 
+significance  levels  were  very  similar.  For  the  growth  measures,  the  IV 
+estimates of  the union  coefficient were  about 25 percent  larger  than  the 
+GLS estimates and the significance levels were again similar. The IV esti- 
+mates of  union productivity effects were, on the other hand, insignificant. 
+Thus  the  suggested  average  upward  coefficient  adjustment  of  about  80 
+percent seems consistent with the results of  the IV procedure. 
+
+Unionization and profitability.  A number of  authors (including Abowd, 
+1989; Bronars  and Deere, 1990; Hirsch,  1991a,b; Ruback  and Zimmer- 
+man, 1984; and Salinger, 1984) have examined the impact of  unionization 
+on  the  profitability  of  firms.  In  this  section,  we  examine  the  impact  of 
+higher union coverage on three different measures of  a firm’s profitability: 
+
+ences in  UBLS and UCPS may be  even noisier measures of  the  true change in  Uij (see Bound  and 
+Krueger, 1991). Although we present estimates of union effects based on first-differenced data, these 
+estimated  effects  may  contain  a  substantial  bias  and  should be  viewed  with  some  skepticism.  See 
+Freeman  (1984)  for  a related discussion pertaining  to estimates of  union wage  effects in  panel  data 
+based  on  changes  in  union  status.  In  these  studies,  measurement error due  to misclassification or 
+coding errors can result in sizable bias in estimated union wage effects. 
+
+
+The Effects of  Unions on Firm Behavior  /  437 
+(1) Tobin’s q ;  (2)  Excess Market  Value/Sales, the ratio of  excess market 
+value of the firm to sales; and (3) Net Operating Income/Sales, the ratio of 
+a firm’s annual net operating income to its sales.18 
+
+We model a firm’s profitability as a function of  several lagged variables: 
+log(Capita1 Stock/Employment), the logarithm of  the firm’s capital/labor 
+ratio; Sales Growth, the annual rate of  growth in sales; Advertising/Sales, 
+the ratio of  advertising expenditures to sales; and R&D/Sales, the ratio of 
+R&D expenditures to sales.  Each  variable is calculated using Compustat 
+data averaged over the preceding four-year period. For specifications in the 
+manufacturing sector, we include Four-Firm Concentration Ratio, the four- 
+firm concentration ratio in the firm’s primary industry, adjusted for imports. 
+Table 3 presents the estimated profitability effects of  a change in union 
+coverage. These effects are negative and statistically significant in manufac- 
+turing in the random-effects regressions using UBLS and no other control 
+variables. After controlling for a firm’s observable characteristics, the prof- 
+itability effects are reduced by about one-half and are statistically signifi- 
+cant only for Net Operating Income/Sales. In nonmanufacturing, there are 
+significant negative effects of unionization on Tobin’s q and Excess Market 
+Value/Sales in the random-effects  regressions with no  other control vari- 
+ables. When  other regressors  are included,  only the effect  on Tobin’s q 
+remains statistically significant. The first-differenced regressions generally 
+yield insignificant results, with only marginally significant effects on Excess 
+Market Value/Sales in nonmanufacturing. 
+
+In  general, we find fairly strong and  significant evidence  that the total 
+effect  of  higher  union  coverage  rates is to reduce  profitability. There is 
+rather weak evidence that unions directly decrease profits, conditional on 
+lagged values of  a firm’s capital/labor ratio, sales growth, and investment 
+in R&D and advertising. After adjusting the random-effects estimates for 
+measurement  error  bias,  a  10 percent  (between  3.5  and  4 percentage 
+points) increase in union coverage reduces Tobin’s q by  1.5 to 2.5 percent 
+in nonmanufacturing, and reduces Net Operating Income/Sales by 1.5 to 4 
+percent  in  manufacturing.  These  results  are  consistent  with  Connolly, 
+Hirsch, and Hirschey’s (1986) finding that unions indirectly reduce profit- 
+ability through changes in investment behavior and growth. 
+
+Estimated profitability effects using UCPS vary  substantially, depend- 
+ing on the empirical specification. Both  OLS and random-effects  regres- 
+sions yield  sizable negative  effects in  manufacturing.  The OLS standard 
+
+I*  Tobin’s q is the ratio of a firm’s market value of equity plus book value of  debt to the book value of 
+its tangible assets. Excess Market Value/Sales is a firm’s market value of  equity plus book value of debt 
+minus the book value of its assets, divided by its annual sales. 
+
+
+438  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+
+TABLE 3 
+
+IMPACT OF A CHANGE 
+
+I N  UNION COVERAGE ON FIRM PROFITABILITY 
+
+(standard errors in parentheses) 
+
+Measure of  Profitability and Time Period 
+
+Tobin's 9 
+
+Excess Market 
+Value/Sales 
+
+Net Operating 
+Incorne/Sales 
+
+1975-78 
+
+1979-82 
+
+1975-78 
+
+1979-82 
+
+1975-78  1979-82 
+
+Manufacturing' 
+Mean (S.D.) 
+
+Union Coverage Variable:  UBLS 
+Industry Effects 
+
+Industry Effects with Controls 
+
+First Difference 
+
+First Difference with Controls 
+
+Union Coverage Variable: UCPS 
+OLS with Controls 
+
+Industry Effects with Controls 
+
+First Difference with Controls 
+
+Nonmanufacturingb 
+Mean (S.D.) 
+
+Union Coverage Variable:  UBLS 
+industry Effects 
+
+industry Effects with Controls 
+
+First Difference 
+
+First Difference with Controls 
+
+Union Coverage Variable: UCPS 
+OLS with Controls 
+
+Industry Effects with Controls 
+
+First Difference with Controls 
+
+1.080 
+(.760) 
+
+-.425** 
+(. 172) 
+-.078 
+(. 148) 
+
+- .837* * 
+(.291) 
+-.462 
+(1.284) 
+
+.!I78 
+(.456) 
+
+- ,303 * * 
+(.097) 
+-.178* 
+(.09 1) 
+
+.352* 
+(.199) 
+,456 
+(.577) 
+
+,445 
+(.420) 
+
+,120 
+(.057) 
+
+,106 
+( ,060) 
+
+.500 
+(.368) 
+
+-.229** 
+(.083) 
+-.  138 
+(.085) 
+
+-.423** 
+(. 161) 
+-.312 
+(.327) 
+
+1.109 
+(.680) 
+
+-.379** 
+(. 163) 
+- ,238 
+(.173) 
+- ,212 
+(. 198) 
+- ,320 
+( ,208) 
+
+- 1.075 * * 
+(.317) 
+-1.177 
+(1.861) 
+,566 
+(1.129) 
+
+-.039** 
+(.013) 
+-.028** 
+(.012) 
+
+-.076** 
+(.023) 
+-.053 
+(.061) 
+
+-.232** 
+(.094) 
+-.129 
+(.097) 
+- ,032 
+(.110) 
+- ,089 
+(.115) 
+
+-.557** 
+(.172) 
+
+-1.109 
+(1.142) 
+- ,884 
+( ,787) 
+
+,904 
+(.361) 
+
+,028 
+( ,770) 
+
+-.086 
+(1.035) 
+
+- ,052 
+(. 194) 
+,037 
+(. 182) 
+
+.074 
+(.299) 
+-.812 
+(1.347) 
+
+-.315** 
+(. 109) 
+- .229** 
+(.112) 
+-. 144 
+(.177) 
+- ,084 
+(. 192) 
+
+.524*" 
+(.239) 
+,618 
+(. 670) 
+-2.158** 
+(.716) 
+
+-.333** 
+(.162) 
+-.169 
+( ,160) 
+-.302* 
+(. 175) 
+- .329* 
+(. 197) 
+
+,390 
+(.365) 
+,652 
+(.871) 
+
+-1.066 
+
+(.891) 
+
+,194 
+(.142) 
+
+,046 * 
+(.025) 
+,020 
+(.026) 
+
+,044 
+(.052) 
+,014 
+(.102) 
+
+-.061** 
+(.015) 
+- .042** 
+(.015) 
+,015 
+(.016) 
+.006 
+(.016) 
+
+-.121** 
+( ,025) 
+-.110 
+( ,070) 
+.001 
+(.091) 
+
+.184 
+(. 143) 
+
+.064** 
+(.031) 
+.034 
+(.029) 
+,005 
+( .033) 
+,009 
+(.038) 
+
+,069 
+( ,065) 
+- ,017 
+(.094) 
+-.563** 
+(.136) 
+
+*  Significant at .10 level; **significant at  .05 level. 
+a  Control variables  include Four-Firm Concentration Ratio and lagged values of log(Capita1 StocWEmployment), Sales 
+Growth, Advertising/Sales,  and R&D/Sales. Sample sizes ranged from 280 to 300 for 1979-82 and from 320 to 360 for 
+1975-78. 
+Control  variables  include  lagged  values  of  log(Capita1 StocWEmployment), Sales Growth,  AdvertisingiSales,  and 
+R&D/Sales. Sample sizes ranged from  120 to 130 for 1979-82 and from 130 to 150 for 1975-78. 
+
+
+The Effects of  Unions on Firm Behavior  /  439 
+errors appear to contain a substantial  downward  bias,  due to the within- 
+industry  correlation in  the disturbance term.  GLS models generally  lead 
+to  imprecisely  estimated  and  insignificant  profitability  effects.  In  non- 
+manufacturing,  estimates  based  on  first-differenced  regressions  using 
+UCPS yield  large negative  and statistically significant profitability  effects 
+for Tobin’s q and Net  Operating  Income/Sales.  In general,  however,  the 
+first-differenced  estimates  differ  in  both  direction  and  magnitude  from 
+the OLS and GLS estimates. 
+
+Unionization and investment.  A number of  researchers have examined 
+the  relationship  between  a  firm’s  investment  in  durable  assets  and  its 
+unionization  rate (see Bronars and Deere, 1993a; Connolly,  Hirsch,  and 
+Hirschey,  1986; Hirsch,  1991b,  1992; and  Hirsch  and  Link,  1987).  The 
+maintained hypothesis is that unions are able to extract some of  the returns 
+(quasi  rents)  to  such  intangible  sunk  assets,  hence  reducing  the  firm’s 
+incentive to invest in these assets.19 We test this hypothesis by  estimating 
+the  impact of  union  coverage  on a  firm’s investment  in  plant  and equip- 
+ment,  research  and development,  and advertising. We  also estimate  the 
+impact of  union coverage on the firm’s capital/labor ratio. 
+
+The dependent variables  in  our  empirical  analysis  are  averages  over 
+1975-78  and 1979-82,  respectively, of  (1) Capital Expenditures/Sales, the 
+ratio of  expenditures on plant and equipment to sales, (2) R&D/Sales, (3) 
+Advertising/Sales,  and  (4)  log(Capita1 Stock/Employment).  We  include 
+Tobin’s q and Four-Firm Concentration Ratio (for firms in the manufactur- 
+ing  sector)  as controls for  a  firm’s potential  profitability.  The additional 
+control variables  are lagged values  (averaged over the previous four-year 
+period)  of  Sales  Growth; log(Capita1  Stock/Employment);  R&D/Sales; 
+and Capital Expenditures/Capital Stock, the ratio of  current investment to 
+the stock of  plant and equipment.20 Capital Expenditures/Capital Stock is 
+a measure of  the portion of  a firm’s capital stock that has been put in place 
+in the recent  past,  and hence should control for some unobserved differ- 
+ences in growth potential across firms. 
+
+For two random-effects regressions in nonmanufacturing, Capital Expen- 
+ditures/Sales in 1979-82  and R&D/Sales in 1975-78,  we reject the hypothe- 
+sis that aj is uncorrelated with Xij and UBLS,,. Therefore, Table 4 presents 
+fixed-effects estimates in these two cases and the more efficient random- 
+effects estimates for the remainder  of the Industry Effects specifications. 
+
+19 Grout (1984) and Baldwin (1983) develop theoretical models that imply that firms will underinvest 
+
+in capital as a response to unionization. 
+
+*O The controls that  are included vary some across dependent variables so that own  lags are never 
+
+included. See the notes to the tables for the exact content of the controls in each regression. 
+
+
+ 
+/
+
+ 
+
+k
+c
+o
+t
+S
+1
+a
+t
+i
+p
+a
+C
+(
+g
+o
+t
+
+ 
+
+~
+
+ 
+
+~
+~
+
+ 
+)
+t
+n
+e
+m
+y
+o
+l
+
+p
+m
+E
+
+ 
+
+i
+
+d
+o
+i
+r
+e
+P
+ 
+e
+m
+T
+d
+n
+a
+ 
+t
+n
+e
+m
+
+ 
+
+t
+s
+e
+v
+n
+I
+ 
+f
+o
+ 
+e
+r
+u
+s
+a
+e
+M
+
+ 
+s
+e
+l
+a
+S
+
+/
+g
+n
+
+i
+s
+i
+t
+r
+e
+v
+d
+A
+
+ 
+s
+e
+l
+a
+S
+D
+&
+R
+
+/
+
+ 
+
+~
+
+ 
+
+~
+~
+
+ 
+
+~
+
+ 
+
+~
+~
+
+ 
+/
+s
+e
+r
+u
+t
+i
+
+d
+n
+e
+p
+x
+E
+
+ 
+s
+e
+l
+a
+S
+
+ 
+
+~
+~
+~
+~
+
+ 
+l
+a
+t
+i
+p
+a
+C
+
+ 
+
+ 
+
+T
+N
+E
+M
+T
+S
+E
+V
+N
+M
+I
+R
+I
+F
+ 
+E
+N
+G
+O
+A
+R
+E
+V
+O
+ C
+N
+O
+
+ 
+
+ 
+ 
+
+I
+N
+U
+E
+N
+I
+G
+N
+A
+H
+C
+A
+
+ 
+
+ 
+
+F
+ O
+T
+C
+A
+P
+M
+
+I
+
+ 
+)
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+ 
+
+n
+
+i
+ 
+s
+r
+o
+r
+r
+e
+ 
+d
+r
+a
+d
+n
+a
+t
+s
+(
+
+ 
+
+4
+ 
+E
+L
+B
+A
+T
+
+ 
+2
+8
+-
+9
+7
+9
+1
+
+ 
+8
+7
+-
+5
+7
+9
+1
+
+ 
+2
+8
+-
+9
+7
+9
+1
+
+ 
+8
+7
+-
+5
+7
+9
+1
+
+ 
+
+2
+8
+-
+9
+7
+9
+1
+
+ 
+
+8
+7
+-
+5
+7
+9
+1
+
+ 
+
+2
+8
+-
+9
+7
+9
+1
+
+ 
+
+8
+7
+-
+5
+7
+9
+1
+
+ 
+)
+5
+9
+3
+(
+
+ 
+5
+4
+1
+.
+3
+
+ 
+)
+4
+6
+8
+.
+(
+
+ 
+0
+1
+0
+.
+3
+
+ 
+3
+2
+3
+.
+1
+
+ 
+)
+1
+7
+3
+.
+2
+(
+
+ 
+9
+5
+1
+.
+1
+
+ 
+)
+3
+5
+0
+
+.
+
+2
+(
+
+ 
+
+2
+0
+4
+1
+
+.
+
+ 
+)
+3
+7
+5
+
+.
+
+1
+(
+
+ 
+
+8
+8
+1
+1
+
+.
+
+ 
+)
+3
+5
+3
+1
+(
+
+.
+
+ 
+
+9
+2
+9
+6
+
+.
+
+ 
+)
+4
+8
+6
+4
+(
+
+.
+
+ 
+
+9
+7
+7
+5
+
+.
+
+ 
+)
+3
+7
+1
+
+.
+
+4
+(
+
+ 
+)
+6
+5
+ 1
+.
+(
+
+ 
+2
+9
+1
+,
+
+ 
+)
+0
+3
+ 1
+.
+(
+
+ 
+9
+7
+1
+,
+
+ 
+*
+2
+2
+2
+.
+
+ 
+)
+0
+1
+1
+.
+(
+
+ 
+)
+3
+1
+1
+.
+(
+
+ 
+5
+1
+0
+.
+-
+
+ 
+6
+9
+1
+,
+
+ 
+)
+5
+3
+ 1
+.
+(
+
+ 
+*
+*
+0
+6
+3
+.
+
+ 
+)
+1
+1
+1
+.
+(
+
+ 
+ *
+*
+8
+4
+1
+.
+ 1
+-
+
+ 
+)
+2
+3
+5
+
+.
+(
+
+ 
+)
+3
+4
+5
+.
+(
+
+ 
+5
+6
+8
+ ,
+-
+
+ 
+o
+o
+O
+
+.
+
+ 
+)
+7
+9
+3
+.
+(
+
+ 
+7
+0
+2
+,
+
+ 
+)
+2
+1
+4
+.
+(
+
+ 
+*
+*
+5
+1
+9
+
+.
+-
+
+ 
+
+*
+*
+7
+9
+9
+
+.
+-
+
+ 
+)
+0
+0
+4
+
+.
+(
+
+ 
+*
+*
+3
+7
+0
+.
+ 1
+-
+
+ 
+
+ 
+)
+4
+6
+3
+
+*
+*
+3
+1
+8
+
+.
+(
+
+ 
+)
+S
+6
+3
+.
+(
+
+.
+-
+
+ 
+
+0
+6
+2
+
+,
+
+ 
+)
+1
+9
+2
+
+.
+(
+
+ 
+
+4
+0
+2
+
+.
+
+ 
+)
+0
+1
+3
+
+.
+(
+
+ 
+ *
+*
+3
+2
+6
+ .
+-
+
+ 
+)
+5
+6
+2
+.
+(
+
+ 
+
+1
+8
+2
+ ,
+-
+
+ 
+)
+4
+7
+2
+ ,
+(
+
+ 
+)
+6
+7
+1
+1
+(
+
+.
+
+ 
+
+2
+6
+1
+ ,
+-
+
+ 
+)
+3
+3
+2
+1
+(
+
+.
+
+ 
+
+1
+1
+9
+.
+-
+
+ 
+)
+3
+4
+6
+1
+(
+
+.
+
+ 
+
+1
+2
+5
+
+.
+
+1
+-
+
+ 
+)
+3
+4
+7
+1
+(
+
+.
+
+ 
+
+9
+5
+8
+1
+-
+
+.
+
+ 
+
+*
+*
+6
+6
+7
+ 1
+-
+
+.
+
+ 
+)
+7
+6
+8
+
+.
+(
+
+ 
+
+5
+5
+1
+1
+-
+
+.
+
+ 
+)
+5
+8
+8
+.
+(
+
+ 
+*
+*
+4
+1
+0
+.
+1
+
+ 
+)
+3
+9
+2
+.
+(
+
+ 
+8
+6
+5
+.
+1
+
+ 
+ *
+*
+0
+6
+4
+.
+1
+
+ 
+)
+0
+1
+5
+.
+1
+(
+
+ 
+)
+0
+1
+6
+.
+(
+
+ 
+*
+*
+4
+9
+3
+.
+1
+
+ 
+)
+9
+6
+2
+.
+(
+
+ 
+*
+6
+0
+3
+.
+2
+
+ 
+)
+7
+4
+3
+.
+1
+(
+
+ 
+*
+*
+2
+9
+9
+.
+3
+-
+
+ 
+)
+2
+5
+1
+.
+1
+(
+
+ 
+2
+3
+2
+.
+6
+-
+
+ 
+)
+7
+6
+8
+.
+5
+(
+
+ 
+)
+1
+5
+2
+.
+2
+(
+
+ 
+8
+4
+7
+.
+1
+-
+
+ 
+ *
+ *
+5
+2
+8
+ 2
+-
+
+.
+
+ 
+)
+4
+2
+9
+
+.
+(
+
+ 
+)
+9
+4
+6
+
+.
+
+4
+(
+
+ 
+8
+3
+7
+
+.
+
+3
+-
+
+ 
+)
+2
+2
+7
+ ,
+(
+
+ 
+
+9
+7
+9
+ ,
+-
+
+ 
+)
+7
+ 1
+1
+
+.
+
+3
+(
+
+ 
+
+*
+8
+3
+2
+
+.
+
+1
+-
+
+ 
+
+4
+7
+1
+
+.
+
+2
+-
+
+ 
+)
+7
+9
+6
+
+.
+
+1
+(
+
+ 
+
+*
+*
+4
+8
+2
+
+.
+
+1
+-
+
+ 
+)
+9
+0
+6
+
+.
+(
+
+ 
+)
+4
+9
+0
+
+.
+
+3
+(
+
+ 
+
+9
+4
+0
+1
+-
+
+.
+
+ 
+
+*
+6
+1
+9
+3
+
+.
+
+ 
+)
+0
+3
+3
+
+.
+
+2
+(
+
+ 
+
+4
+3
+3
+2
+
+.
+
+ 
+)
+8
+6
+5
+
+.
+
+8
+(
+
+ 
+
+7
+5
+5
+3
+
+.
+
+ 
+)
+2
+3
+3
+9
+(
+
+.
+
+ 
+
+*
+*
+0
+6
+3
+
+.
+
+4
+
+ 
+)
+5
+3
+8
+1
+(
+
+.
+
+ 
+
+2
+5
+1
+7
+
+.
+
+ 
+)
+7
+6
+3
+
+.
+
+6
+(
+
+ 
+
+S
+L
+B
+U
+
+ 
+:
+e
+l
+
+b
+a
+i
+r
+a
+V
+ 
+e
+g
+a
+r
+e
+v
+o
+C
+n
+o
+i
+n
+U
+
+ 
+
+ 
+s
+t
+c
+e
+f
+f
+
+ 
+
+E
+y
+r
+t
+s
+u
+d
+n
+I
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+c
+e
+f
+f
+
+ 
+
+E
+y
+r
+t
+s
+u
+d
+n
+I
+
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+t
+s
+r
+i
+F
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+t
+s
+r
+i
+F
+
+ 
+
+S
+P
+C
+U
+
+ 
+:
+e
+l
+
+b
+a
+i
+r
+a
+V
+ 
+e
+g
+a
+r
+e
+v
+o
+C
+n
+o
+i
+n
+U
+
+ 
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+ 
+
+w
+S
+L
+O
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+c
+e
+f
+f
+
+ 
+
+E
+y
+r
+t
+s
+u
+d
+n
+I
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+t
+s
+r
+i
+F
+
+ 
+”
+g
+n
+i
+r
+u
+t
+c
+a
+f
+u
+n
+a
+M
+
+ 
+)
+.
+
+D
+
+.
+
+S
+(
+ 
+n
+a
+e
+M
+
+
+ 
+8
+1
+5
+.
+4
+
+ 
+)
+9
+3
+5
+.
+1
+(
+
+ 
+2
+5
+2
+.
+4
+
+ 
+)
+2
+4
+7
+.
+1
+(
+
+ 
+6
+4
+6
+,
+
+ 
+)
+0
+6
+1
+.
+1
+(
+
+ 
+0
+7
+5
+
+.
+
+ 
+)
+4
+2
+0
+1
+(
+
+.
+
+ 
+
+5
+7
+0
+
+.
+
+ 
+)
+5
+9
+2
+.
+(
+
+ 
+
+7
+9
+0
+
+,
+
+ 
+)
+7
+7
+3
+
+.
+(
+
+ 
+
+7
+4
+8
+1
+
+.
+
+ 
+)
+9
+6
+5
+1
+(
+
+.
+
+ 
+
+8
+6
+
+.
+
+6
+1
+
+ 
+)
+4
+3
+
+.
+
+6
+1
+(
+
+ 
+*
+9
+3
+3
+.
+
+ 
+)
+2
+9
+ 1
+.
+(
+
+ 
+1
+5
+0
+.
+
+ 
+)
+7
+5
+ 1
+.
+(
+
+ 
+8
+4
+1
+,
+
+ 
+)
+7
+7
+ 1
+.
+(
+
+ 
+1
+1
+2
+,
+
+ 
+)
+8
+5
+ 1
+.
+(
+
+ 
+*
+*
+1
+0
+2
+.
+2
+
+ 
+)
+6
+7
+5
+.
+(
+
+ 
+9
+0
+7
+.
+1
+
+ 
+)
+8
+3
+3
+.
+1
+(
+
+ 
+'
+2
+2
+8
+.
+ 1
+-
+
+ 
+)
+4
+5
+9
+.
+(
+
+ 
+*
+1
+7
+3
+.
+
+ 
+-
+4
+7
+3
+,
+
+ 
+)
+2
+0
+2
+.
+(
+
+ 
+)
+5
+4
+1
+.
+(
+
+ 
+*
+*
+9
+8
+2
+.
+2
+
+ 
+)
+6
+0
+5
+.
+(
+
+ 
+*
+3
+6
+0
+.
+2
+
+ 
+)
+5
+6
+0
+.
+1
+(
+
+ 
+)
+8
+8
+2
+.
+(
+
+ 
+*
+3
+9
+4
+.
+-
+
+ 
+3
+2
+3
+ ,
+-
+
+ 
+)
+0
+9
+2
+.
+(
+
+ 
+0
+9
+1
+,
+
+ 
+)
+5
+4
+3
+.
+(
+
+ 
+6
+7
+0
+.
+
+ 
+)
+2
+7
+3
+.
+(
+
+ 
+*
+*
+2
+9
+4
+
+.
+-
+
+ 
+)
+0
+4
+2
+.
+(
+
+ 
+5
+7
+3
+ .
+-
+
+ 
+)
+9
+7
+2
+
+.
+(
+
+ 
+
+8
+8
+0
+ ,
+-
+
+ 
+)
+8
+0
+ 1
+.
+(
+
+ 
+)
+6
+0
+1
+.
+(
+
+ 
+
+3
+3
+0
+ ,
+-
+
+ 
+
+5
+1
+0
+
+,
+
+ 
+)
+7
+8
+0
+.
+(
+
+ 
+
+6
+2
+0
+
+,
+
+ 
+)
+7
+8
+0
+
+.
+(
+
+ 
+c
+*
+*
+3
+1
+2
+ .
+-
+
+ 
+)
+6
+8
+ 0
+.
+(
+
+ 
+
+*
+3
+6
+1
+ 
+.
+-
+
+ 
+)
+5
+8
+0
+
+.
+(
+
+ 
+
+*
+5
+7
+9
+
+ 
+)
+6
+7
+6
+
+.
+
+8
+
+.
+
+4
+(
+
+ 
+
+9
+5
+6
+
+.
+
+2
+
+ 
+)
+3
+0
+1
+
+.
+
+6
+(
+
+ 
+)
+4
+5
+7
+5
+(
+
+.
+
+ 
+
+6
+6
+1
+
+.
+
+8
+-
+
+ 
+
+5
+4
+8
+8
+-
+
+.
+
+ 
+)
+8
+1
+4
+
+.
+
+6
+(
+
+ 
+)
+7
+7
+6
+.
+(
+
+ 
+*
+*
+6
+1
+7
+.
+1
+-
+
+ 
+)
+1
+6
+0
+.
+2
+(
+
+ 
+*
+*
+7
+8
+9
+.
+2
+-
+
+ 
+)
+4
+9
+4
+.
+1
+(
+
+ 
+8
+9
+6
+.
+1
+-
+
+ 
+*
+ 
+'
+0
+2
+4
+1
+ 
+-
+
+.
+
+ 
+)
+9
+6
+5
+ ,
+(
+
+ 
+0
+8
+4
+ ,
+-
+
+ 
+)
+6
+5
+ S
+1
+(
+
+ 
+
+*
+2
+9
+3
+.
+-
+
+ 
+)
+5
+3
+2
+.
+(
+
+ 
+
+8
+6
+1
+ 
+.
+-
+
+ 
+)
+4
+8
+5
+.
+(
+
+ 
+4
+4
+5
+,
+
+ 
+)
+2
+7
+5
+.
+(
+
+ 
+)
+o
+o
+Z
+.
+(
+
+ 
+
+4
+7
+7
+ ,
+-
+
+ 
+)
+2
+8
+5
+ .
+(
+
+ 
+
+9
+2
+2
+ ,
+-
+
+ 
+
+*
+*
+0
+9
+3
+
+.
+
+8
+2
+
+ 
+)
+2
+ 1
+8
+
+.
+
+8
+(
+
+ 
+
+0
+7
+7
+7
+1
+
+.
+
+ 
+*
+ 
+*
+6
+0
+8
+8
+4
+-
+
+ 
+)
+9
+2
+7
+4
+1
+(
+
+.
+
+.
+
+ 
+)
+6
+4
+0
+3
+2
+(
+
+.
+
+ 
+
+3
+8
+5
+
+.
+
+6
+
+ 
+)
+0
+2
+0
+
+.
+
+4
+(
+
+ 
+
+4
+8
+2
+7
+
+.
+
+ 
+)
+7
+1
+7
+4
+(
+
+.
+
+ 
+ '
+*
+4
+5
+5
+1
+4
+
+.
+
+ 
+)
+9
+8
+1
+
+.
+
+8
+(
+
+ 
+
+2
+8
+4
+0
+2
+
+.
+
+ 
+)
+0
+9
+4
+5
+1
+(
+
+.
+
+ 
+
+S
+L
+B
+U
+
+ 
+:
+e
+l
+b
+a
+i
+r
+a
+V
+ 
+e
+g
+a
+r
+e
+v
+o
+C
+n
+o
+i
+n
+U
+
+ 
+
+ 
+
+ 
+s
+t
+c
+e
+f
+f
+E
+y
+r
+t
+s
+u
+d
+n
+I
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+c
+e
+f
+f
+E
+
+ 
+
+y
+r
+t
+s
+u
+d
+n
+I
+
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+t
+s
+r
+i
+
+F
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+t
+s
+r
+i
+
+F
+
+ 
+
+S
+P
+C
+U
+
+ 
+:
+e
+l
+b
+a
+i
+r
+a
+V
+ 
+e
+g
+a
+r
+e
+v
+o
+C
+n
+o
+i
+n
+U
+
+ 
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+ 
+
+w
+S
+L
+O
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+c
+e
+f
+f
+e
+ 
+
+y
+r
+t
+s
+u
+d
+n
+I
+
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+h
+t
+i
+
+ 
+
+w
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+t
+s
+r
+i
+
+F
+
+ 
+
+b
+g
+n
+i
+r
+u
+t
+c
+a
+f
+u
+n
+a
+m
+n
+o
+N
+
+ 
+)
+.
+
+.
+
+D
+S
+(
+ 
+
+n
+a
+e
+
+M
+
+ 
+r
+o
+f
+ 
+
+k
+c
+o
+t
+S
+
+ 
+l
+a
+t
+i
+p
+a
+C
+/
+s
+e
+r
+u
+t
+i
+d
+n
+e
+p
+x
+E
+
+ 
+l
+a
+t
+i
+p
+a
+C
+d
+n
+a
+ 
+,
+
+ 
+
+h
+t
+w
+o
+r
+
+G
+ 
+s
+e
+l
+a
+ S
+,
+)
+t
+n
+e
+m
+y
+o
+I
+p
+m
+E
+
+i
+k
+c
+o
+t
+S
+ 
+1
+a
+t
+i
+p
+a
+C
+(
+g
+o
+l
+f 
+o
+ 
+s
+e
+u
+l
+a
+v
+ 
+d
+e
+g
+g
+a
+l
+ 
+d
+n
+a
+ 
+o
+i
+t
+a
+R
+ 
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+C
+m
+
+ 
+
+r
+i
+
+F
+-
+r
+u
+o
+F
+
+ 
+;
+n
+o
+i
+s
+s
+e
+r
+g
+e
+ r
+s
+e
+l
+a
+S
+
+l
+s
+e
+r
+u
+t
+i
+d
+n
+e
+p
+x
+E
+
+ 
+l
+a
+t
+i
+p
+a
+C
+ 
+e
+h
+t
+ 
+r
+o
+ f
+s
+e
+l
+a
+S
+/
+D
+&
+R
+ 
+d
+n
+a
+ 
+h
+t
+w
+o
+r
+G
+ 
+s
+e
+l
+a
+S
+
+ 
+f
+o
+ 
+s
+e
+u
+l
+a
+v
+ 
+d
+e
+g
+g
+a
+l
+ 
+d
+n
+a
+ 
+o
+i
+t
+a
+R
+
+ 
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+C
+m
+
+ 
+
+r
+i
+F
+-
+r
+u
+o
+F
+
+ 
+e
+d
+u
+l
+c
+n
+i
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+
+ 
+s
+e
+l
+a
+S
+
+ 
+
+d
+n
+a
+ 
+s
+e
+l
+a
+S
+
+l
+s
+e
+r
+u
+t
+i
+d
+n
+e
+p
+x
+E
+
+ 
+l
+a
+t
+i
+p
+a
+C
+
+ 
+f
+o
+
+ 
+s
+e
+u
+l
+a
+v
+ 
+d
+e
+g
+g
+a
+l
+ 
+d
+n
+a
+ 
+o
+i
+t
+a
+R
+ 
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+C
+m
+
+ 
+
+r
+i
+F
+-
+r
+u
+o
+F
+ 
+d
+n
+a
+ 
+;
+s
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+ 
+s
+e
+l
+a
+S
+l
+g
+n
+i
+s
+i
+t
+r
+e
+v
+d
+A
+ 
+d
+n
+a
+ 
+s
+e
+l
+a
+S
+D
+&
+R
+ 
+e
+h
+t
+
+/
+
+ 
+.
+
+8
+7
+-
+5
+7
+9
+1
+
+ 
+r
+o
+f
+ 
+
+0
+6
+3
+
+ 
+
+o
+t
+ 
+
+ 
+
+0
+2
+3
+m
+o
+r
+f
+ 
+
+d
+n
+a
+ 
+
+2
+8
+-
+9
+7
+9
+1
+
+ 
+r
+o
+f
+ 
+0
+0
+3
+ 
+
+o
+t
+ 
+0
+8
+2
+ 
+m
+o
+r
+f
+ 
+d
+e
+g
+n
+a
+r
+ 
+s
+e
+z
+i
+s
+ 
+e
+l
+p
+m
+a
+S
+
+ 
+.
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+ 
+)
+t
+n
+e
+m
+y
+o
+l
+p
+m
+E
+
+i
+k
+c
+o
+t
+S
+ 
+1
+a
+t
+i
+p
+a
+C
+(
+g
+o
+l
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+
+h
+t
+w
+o
+r
+
+G
+
+ 
+
+ 
+/
+k
+c
+o
+t
+S
+1
+a
+t
+i
+p
+a
+C
+(
+g
+o
+l
+
+ 
+f
+o
+
+ 
+s
+e
+u
+l
+a
+v
+
+ 
+
+d
+e
+g
+g
+a
+l
+ 
+;
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+ 
+s
+e
+l
+a
+S
+i
+s
+e
+r
+u
+t
+i
+d
+n
+e
+p
+x
+E
+
+ 
+l
+a
+t
+i
+p
+a
+C
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+s
+e
+l
+a
+S
+/
+D
+&
+R
+ 
+d
+n
+a
+ 
+h
+t
+w
+o
+r
+
+G
+ 
+s
+e
+l
+a
+S
+
+ 
+f
+o
+ 
+s
+e
+u
+l
+a
+v
+ 
+d
+e
+g
+g
+a
+l
+ 
+e
+d
+u
+l
+c
+n
+i
+ 
+s
+l
+o
+r
+t
+n
+o
+C
+
+ 
+f
+o
+ 
+s
+e
+u
+l
+a
+v
+
+ 
+
+d
+e
+g
+g
+a
+l
+ 
+
+d
+n
+a
+ 
+;
+s
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+ 
+s
+e
+l
+a
+S
+i
+g
+n
+i
+s
+i
+t
+r
+e
+v
+d
+A
+ 
+d
+n
+a
+ 
+s
+e
+l
+a
+S
+i
+D
+&
+R
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+k
+c
+o
+t
+S
+
+ 
+l
+a
+t
+i
+p
+a
+c
+l
+s
+e
+r
+u
+t
+i
+d
+n
+e
+p
+x
+E
+
+ 
+l
+a
+t
+i
+p
+a
+C
+ 
+d
+n
+a
+ 
+.
+h
+t
+w
+o
+r
+
+G
+ 
+s
+e
+l
+a
+S
+
+ 
+,
+)
+t
+n
+e
+m
+y
+o
+l
+p
+m
+E
+
+ 
+
+2
+8
+-
+9
+7
+9
+1
+
+ 
+r
+o
+f
+ 
+0
+3
+1
+
+ 
+
+ 
+
+o
+ t
+0
+2
+1
+m
+o
+r
+f
+ 
+d
+e
+g
+n
+a
+r
+ 
+s
+e
+z
+i
+s
+ 
+e
+l
+p
+m
+a
+S
+
+ 
+.
+n
+o
+i
+s
+s
+e
+r
+g
+e
+ r
+)
+t
+n
+e
+m
+y
+o
+l
+p
+m
+E
+
+i
+k
+c
+o
+t
+ S
+1
+a
+t
+i
+p
+a
+C
+(
+g
+o
+l
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+h
+t
+w
+o
+r
+
+G
+ 
+s
+e
+l
+a
+S
+
+ 
+d
+n
+ a
+s
+e
+l
+a
+S
+i
+s
+e
+r
+u
+t
+i
+d
+n
+e
+p
+x
+E
+
+ 
+l
+a
+t
+i
+p
+a
+C
+
+ 
+.
+l
+e
+v
+e
+l
+ 
+5
+0
+.
+ 
+t
+
+ a
+t
+n
+a
+c
+i
+f
+i
+n
+g
+i
+s
+*
+*
+ 
+;
+l
+e
+v
+e
+ l
+0
+1
+
+.
+ 
+t
+a
+ 
+t
+n
+a
+c
+i
+f
+i
+n
+g
+i
+
+S
+
+ 
+*
+
+ 
+.
+s
+t
+c
+e
+f
+f
+e
+ 
+m
+o
+d
+n
+a
+r
+ 
+n
+a
+h
+t
+ 
+r
+e
+h
+t
+a
+r
+ 
+s
+t
+c
+e
+f
+f
+e
+-
+d
+e
+x
+i
+f
+ 
+
+n
+o
+ 
+
+d
+e
+s
+a
+B
+
+ 
+.
+8
+7
+-
+5
+7
+9
+1
+ 
+r
+o
+f
+ 
+0
+5
+1
+ 
+o
+t
+ 
+0
+3
+1
+m
+o
+r
+f
+ 
+
+ 
+
+d
+n
+a
+
+
+442  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+
+Table 4 shows that there are generally strong negative effects of  UBLS 
+on investment in plant and equipment, R&D, and advertising in manufac- 
+turing,  when  no other control  variables  are included  in  random-effects 
+regressions.  Controlling  for  a  firm’s observable  characteristics,  the  esti- 
+mated direct effects of  union coverage are roughly equal in magnitude but 
+less precisely measured. The capital/labor ratio is higher in manufacturing 
+firms with higher values of  UBLS in all the random-effects specifications. 
+After  adjusting our estimates for  measurement  error bias,  a  10 percent 
+increase in UBLS decreases R&D/Sales by 3.5-5  percent in manufacturing 
+and decreases Advertising/Sales by 5-7  percent. The first-differenced esti- 
+mates using UBLS are imprecisely measured,  and yield no significant  re- 
+sults except for log(Capita1 Stock/Employment). 
+
+In nonmanufacturing there is some evidence that an increase in UBLS 
+is  associated  with  reduced  investment  in  R&D  and  advertising  and  a 
+higher capital/labor ratio, but these effects often become statistically insig- 
+nificant  after  controlling  for  a  firm’s  observable  characteristics.  After 
+adjusting  for  measurement  error  bias,  a  10 percent  increase  in  UBLS 
+decreases Advertising/Sales by  3.5-6.5  percent.  The first-differenced re- 
+gressions using UBLS in nonmanufacturing yield  statistically insignificant 
+results for all of  our investment variables. 
+
+The regression  models using  UCPS  again  yield  widely  different  point 
+estimates, depending on the empirical specification. Random-effects  esti- 
+mates  are generally  statistically  insignificant  with  large  standard  errors; 
+hence,  the  OLS reported  standard  errors  are again  misleading.  In  non- 
+manufacturing  the  negative  and significant effects in the  first-differenced 
+regressions are generally of  the opposite sign of  either the random-effects 
+or the OLS estimates. 
+
+Unions and  firm  growth.  Bronars  and  Deere  (1993a,b)  and  Hirsch 
+(1991b) have examined the relationship between union coverage and firm 
+growth. In this section, we estimate the impact of  unionization on a firm’s 
+average  growth  rate  in  sales  (Sales  Growth)  and  employment  (Employ- 
+ment Growth) over the periods  1975-78  and 1979-83.  We include lagged 
+values  of  Tobin’s  q ,  R&D/Sales,  log(Capita1  Stock/Employment),  and 
+Capital Expenditures/Capital Stock as control variables. Lagged values of 
+a firm’s logarithm of  sales and employment  are included to allow for size 
+effects on growth rates. In our manufacturing sample, we include the Four- 
+Firm Concentration Ratio to control for differences in potential profitabil- 
+ity across firms. We fail to reject the hypothesis that aj is uncorrelated with 
+Xij and UBLSij in  any of  these specifications. Table 5  presents only GLS 
+estimates for the Industry Effects specifications. 
+
+
+The Effects  of  Unions on Firm Behavior  I  443 
+
+TABLE 5 
+
+IMPACT OF A  CHANGE 
+
+IN UNION COVERAGE ON SALES AND EMPLOYMENT GROWTH 
+
+(t-statistics in parentheses) 
+
+Measure of  Growth and Time Period 
+
+Sales Growth 
+
+1975-78 
+
+1979-82 
+
+Employment Growth 
+1979-82 
+
+1975-78 
+
+Manufacturing= 
+Mean (S.D.) 
+
+Union Coverage Variable:  UBLS 
+Industry Effects 
+
+Industry Effects with Controls 
+
+First Difference 
+
+First Difference with Controls 
+
+Union Coverage Variable:  UCPS 
+OLS with Controls 
+
+Industry Effects with Controls 
+
+First Difference with Controls 
+
+Nonmanufacturingb 
+Mean (S.D.) 
+
+Union Coverage Variable: UBLS 
+Industry Effects 
+
+Industry Effects with Controls 
+
+First Difference 
+
+First Difference with Controls 
+
+Union Coverage  Variable: UCPS 
+OLS with Controls 
+
+Industry Effects with Controls 
+
+First Difference  with Controls 
+
+,0216 
+(.0879) 
+
+- .0668* * 
+(.0204) 
+- ,0325 
+(.0200) 
+
+,0009 
+(.0338) 
+- ,0416 
+(.0828) 
+
+,0467 
+(.0933) 
+
+-.0217 
+(.0286) 
+- .0523* 
+(.0295) 
+
+- ,0225 
+(.0497) 
+.0329 
+(. 1353) 
+
+- .0145 
+(.1168) 
+
+- ,0298 
+(.0275) 
+- ,0342 
+(.0298) 
+- ,0699 
+(.0499) 
+- ,0591 
+(.0513) 
+
+- ,0569 
+( ,0464) 
+,1081 
+(.2946) 
+.7208** 
+(.3271) 
+
+,0382 
+( ,0942) 
+
+-.0639** 
+(.0269) 
+-. 1052** 
+(.0299) 
+-.1595* 
+(.0908) 
+-.1553** 
+(.0766) 
+
+.1030* 
+(.0546) 
+,1089 
+(. 1303) 
+- .5058* 
+(.2862) 
+
+,0119 
+(.0969) 
+
+- .0788* * 
+(.0225) 
+- .0526* * 
+( ,0214) 
+
+,0212 
+(.0362) 
+,0344 
+(.0944) 
+
+,0156 
+(.0819) 
+
+- ,0360 
+(.0278) 
+- ,0456 
+(.0279) 
+
+- ,0085 
+(.0409) 
+- ,0156 
+(.0925) 
+
+- .0272 
+(.1263) 
+
+- ,0431 
+( ,0308) 
+- .0563* 
+(.0341) 
+- .1643* * 
+(.0582) 
+-.1327** 
+(.0533) 
+
+- ,0400 
+(.0544) 
+- ,0850 
+(.2305) 
+,0154 
+(.3409) 
+
+,0168 
+(. 1107) 
+
+- .0922* * 
+(.0263) 
+- .1178** 
+(.0301) 
+- .1365* * 
+(.0689) 
+-.1491** 
+(.0603) 
+
+.1136* 
+( .0627) 
+.0650 
+(. 1883) 
+.5353** 
+(.2691) 
+
+* Significant at .10 level; ** significant at  .05 level. 
+Controls include  Four-Firm Concentration Ratio  and lagged values of  R&D/Sales, Capital  Expenditures/Capital 
+Stock, log(Capita1 StocWEmployment), Sales, log(Employment), and Tobin's q .  Sample sizes ranged from 280 to 
+300 for 1979-82  and from 320 to 360 for 1975-78. 
+Controls  include  lagged  values  of  R&D/Sales,  Capital  ExpendituredCapital  Stock,  log(Capita1  Stock/ 
+Employment), Sales, log(Employment), and Tobin's q .  Sample sizes ranged from 120 to 130 for 1979-82 and from 
+130 to 150 for 1975-78. 
+
+
+444  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+Table 5 shows that in both GLS and first-differenced regression models, 
+there are significant  negative effects of  UBLS on  employment growth in 
+manufacturing and nonmanufacturing.  Higher union coverage is also nega- 
+tively associated with a firm’s sales growth in both manufacturing and non- 
+manufacturing. In both the GLS and first-differenced models, these effects 
+are generally insignificant in manufacturing and significant in nonmanufac- 
+turing.  Adjusting  for  measurement  error  bias,  a  10 percent  increase  in 
+UBLS reduces sales growth by about .25-.5  percentage points in manufac- 
+turing, and .5-.75  percentage points in nonmanufacturing. Similarly, em- 
+ployment growth rates are reduced significantly in all specifications; declin- 
+ing by  .5-1.0  percentage points in manufacturing,  and  .6-1.1  percentage 
+points in nonmanufacturing in response to a 10 percent increase in UBLS. 
+In contrast, the GLS estimates using UCPS are in all cases insignificantly 
+different  from zero.  The first-differenced  regressions indicate  that  an in- 
+crease in  UCPS is associated with higher  sales growth in  manufacturing, 
+and  higher  sales  growth  and  lower  employment  growth  in  nonmanu- 
+facturing. However, the first-differenced estimates again typically differ in 
+both magnitude and direction from either the GLS or the OLS estimates. 
+In  an  influential  study,  Brown  and 
+Medoff  (1978)  estimate  the  relative  productivity  of  union  and  nonunion 
+labor  in  U. S. manufacturing  industries.  Brown  and Medoff  hypothesize 
+that  union  labor is more productive because  union  workers are likely to 
+receive  more  training, have  more job seniority, and have  higher  morale 
+than  are nonunion  workers.  Alternatively,  unions  may  have  a  negative 
+effect on productivity because of  the work rules and restrictions they im- 
+pose on management. 
+
+Unions  and  labor  productivity. 
+
+Brown  and  Medoff  used  weighted  averages  of  industryhtate  data  to 
+estimate a  Cobb-Douglas production function with  capital and an aggre- 
+gate labor input: 
+
+ln(Y/L)  = y + aln(Capita1 Stock/Employment) 
+
++ (p + a - 1)lnL + TU + E ,  
+
+(8) 
+where Y is output, K is capital, L is employment, U is the ratio of  union 
+employment to total employment, a is the elasticity of  output with respect 
+to capital, and p is the elasticity of  output with respect to labor. Brown and 
+Medoff’s  estimate  of  T  is  consistent  with  a  22-24  percent  productivity 
+differential between union and nonunion establishments?  In this section, 
+
+21  Brown and Medoff estimate equation (4) using cross-state data (there are 29 states or state groups 
+in  the  1972 May  CPS)  for  20  two-digit  SIC manufacturing  industries.  Output  data  for  each  state/ 
+industry cell are obtained  from the value added data reported in the Census of  Manufactures  (COM). 
+
+
+The Effects of  Unions on Firm Behavior  /  445 
+we  estimate  (4) using  firm-level  data  on  output,  employment,  capital 
+stock,  and union  coverage in  our sample over  the  periods  1975-78  and 
+1979-82. 
+
+As  an alternative to the restrictive Cobb-Douglas specification, we em- 
+ploy a nonparametric method to evaluate the relative productivity of union- 
+ized firms.  Specifically, we use the production frontier approach outlined 
+in  Fare,  Grosskopf,  and Love11 (1985)  and  Burgess  and  Wilson  (1992). 
+First, we establish a nonparametric production frontier for each two-digit 
+industry and time period in our sample. Firms with input/output vectors on 
+the  production  frontier  are  assigned  a  technical  efficiency  measure  of 
+unity. Firms with input/output vectors in the interior of  the production set 
+are assigned technical efficiency measures between 0 and 1. The higher the 
+measure of technical efficiency, the smaller the distance between the firm’s 
+input/output  vector  and the production  frontier. We  then model  a firm’s 
+technical efficiency as a function of  its unionization rate and other observ- 
+able characteristics. 
+
+Table 6 presents the impact of  an increase in union coverage on a firm’s 
+technical  efficiency  based  on  the  nonparametric  production  frontier and 
+the Cobb-Douglas production function in equation (4). We include lagged 
+values  of  log(Capita1  Stock/Employment),  Capital  Expenditures/Capital 
+Stock,  R&D/Sales,  Sales  Growth,  the  logarithm  of  employment,  and 
+Four-Firm  Concentration  Ratio  (in  manufacturing)  as additional control 
+variables.  We  reject  the  hypothesis  that  6,  is  uncorrelated  with  Xij and 
+UBLS,, in one case, and thus present fixed-effects estimates for the Indus- 
+try  Effects  specification  of  the  frontier  approach  in  nonmanufacturing 
+from 1975-78. 
+
+The results in Table 6 indicate a significant positive impact of  UBLS on 
+productivity in manufacturing, using both GLS and first-differenced regres- 
+sions,  for  both  the  nonparametric  and  Cobb-Douglas  production  func- 
+tions.  In  nonmanufacturing  there  is  evidence  of  a  negative  impact  of 
+UBLS  on  productivity  when  using  fixed-  or  random-effects  models.  In 
+both the manufacturing and nonmanufacturing sectors, the implied union/ 
+nonunion productivity differentials are surprisingly similar whether produc- 
+tivity is measured relative to the nonparametric or the Cobb-Douglas pro- 
+duction function. 
+
+In contrast, industry  average unionization  rates from the  CPS provide 
+
+Brown and Medoff use predicted wages from May CPS data on state-by-industry employment for the 
+1973-75  period to weight the “raw” data on the number of employee hours reported in the COM. See 
+Brown and Medoff (1978) for a more complete discussion of this weighting procedure. All variables 
+are measured per establishment in each statehdustry cell. 
+
+
+TABLE 6 
+
+IMPACT OF A  CHANGE 
+
+I N  UNION COVERAGE ON FIRM PRODUCTIVITY 
+
+(t-statistics in parentheses) 
+
+Method of  Productivity  Measurement  and Time Period 
+
+Frontier Approach 
+
+Cobb-Douglas 
+
+1975-78 
+
+1979-82 
+
+1975-78 
+
+1979-82 
+
+Manufacturing' 
+Mean (S.D.) 
+
+Union Coverage Variable:  UBLS 
+Industry Effects 
+
+Industry Effects with Controls 
+
+First Difference 
+
+First Difference with Controls 
+
+Union Coverage Variable: UCPS 
+OLS with Controls 
+
+Industry Effects with Controls 
+
+First Difference with Controls 
+
+Nonmanufacturingb 
+Mean (S.D.) 
+
+Union Coverage Variable:  UBLS 
+Industry Effects 
+
+Industry Effects with Controls 
+
+First Difference 
+
+First Difference with Controls 
+
+Union Coverage Variable: UCPS 
+OLS with Controls 
+
+Industry Effects with Controls 
+
+First Difference with Controls 
+
+,784 
+(.197) 
+
+.log** 
+( ,042) 
+.140** 
+( ,046) 
+
+,021 
+(. 106) 
+- .007 
+(.253) 
+
+,727 
+(.24O) 
+
+-.I26 
+(.085) 
+,026~ 
+(. 100) 
+
+,150 
+(.245) 
+,494 
+(.430) 
+- 1.162* 
+(.613) 
+
+,824 
+(.177) 
+
+.128** 
+(.047) 
+.174** 
+(.053) 
+.215** 
+(.057) 
+.203** 
+(.059) 
+
+- ,0225 
+(.099) 
+- ,045 
+(. 172) 
+- ,083 
+(.362) 
+
+,668 
+(.225) 
+
+-.161* 
+(.087) 
+- .202* * 
+(.088) 
+- ,062 
+(.115) 
+-.125 
+(. 136) 
+
+- ,466 
+(.381) 
+,068 
+(.995) 
+
+4.496 
+(.487) 
+
+.188** 
+( .074) 
+.188** 
+(.077) 
+.132** 
+(.065) 
+.153** 
+(.069) 
+
+-.257* 
+(. 150) 
+.341 
+( ,677) 
+1.553** 
+(.369) 
+
+4.899 
+(.613) 
+
+-.185* 
+(.131) 
+.233* 
+(. 140) 
+,026 
+(. 127) 
+,123 
+(. 139) 
+
+-.715** 
+( ,282) 
+- ,365 
+(.671) 
+
+4.419 
+(.464) 
+
+.146** 
+( ,064) 
+.164** 
+( ,069) 
+
+-.235* 
+(.141) 
+,076 
+(.535) 
+
+4.758 
+(.639) 
+
+-.263** 
+(. 120) 
+- .223* 
+(.125) 
+
+-.604** 
+( ,262) 
+-.337 
+(.882) 
+1,647' * 
+( ,462) 
+
+* Significant at .10 level; ** significant at .0S level. 
+a  Controls include  Four-Firm Concentration Ratio  and lagged values of  R&D/Sales, Capital ExpendituresiCapital 
+Stock, log(Capita1 StockiEmployment), Sales Growth. and log(Emp1oyment) for the frontier approach; and Four- 
+Firm Concentration Ratio and lagged values of R&D/Sales. Capital ExpendituresiCapital Stock, and Sales Growth 
+in  addition to contemporaneous values of log(Capita1 StockiEmployment) and log(Emp1oyment) for the  Cobb- 
+Douglas  approach. Sample sizes ranged  from 250 to 270 for the  frontier approach and  from  280 to 300 for  the 
+Cohb-Douglas approach for 1979-82  and from 280 to 300 for the frontier approach and from 320 to 360 for the 
+Cobb-Douglas approach for 1975-78. 
+Controls  include 
+lagged  values  of  R&D/Sales,  Capital  ExpendituresiCapital  Stock,  log(Capita1  Stock/ 
+Employment), Sales Growth, and log(Emp1oyment) for the frontier approach; and lagged values of  R&D/Sales, 
+Capital  ExpendituredCapital  Stock,  and  Sales  Growth  in  addition  to  contemporaneous  values  of  log(Capita1 
+StockiEmployment) and log(Emp1oyment) for the Cobb-Douglas approach. Sample sizes ranged  from 80 to 100 
+for the frontier approach and from 130 to 150 for the Cobb-Douglas approach in both  time periods. 
+Based on fixed-effects rather than random effects. 
+
+
+The Effects of Unions on Firm Behavior  I  447 
+imprecise estimates of  union  productivity effects in  the GLS regressions. 
+The  first-differenced  regressions  provide  some  conflicting  evidence  on 
+union  productivity  effects  in  nonmanufacturing;  using  the  frontier  ap- 
+proach  it  appears  that  an  increase  in  UCPS  reduces  a  firm’s  technical 
+efficiency, while the Cobb-Douglas specification implies the opposite. The 
+latter results also contrast sharply with the point estimates from either the 
+OLS or GLS Cobb-Douglas specifications in nonmanufacturing. 
+
+Conclusion 
+
+In  this  paper  we  analyze  the  impact  of  unions  on  the  behavior  and 
+performance  of  firms  using  both  industry-level  and  firm-level  data  on 
+union  coverage.  True  within-industry  variation  appears  to  account  for 
+more than half the within-industry variation in our firm-level unionization 
+rates derived  from BLS contract data. Despite  the  sizable  measurement 
+error in our firm-level union coverage ratios, they yield estimates of  union 
+effects  that are more precise  and more robust  than are industry  average 
+unionization rates based on the CPS. First-differenced regression using the 
+BLS unionization  rates rarely yield significant results, suggesting that our 
+measured changes in firm-level union coverage may be rather noisy prox- 
+ies for the true changes in firm-level union coverage. 
+
+We  find  that  estimated  union  effects  based  on  CPS  industry  average 
+unionization rates vary substantially depending on the empirical specifica- 
+tion.  GLS and  OLS estimates  are generally  quite  different  from  those 
+based on first-differenced regressions using UCPS. In light of  these results, 
+estimates  of  union  effects  based  on these  industry-level  data should  be 
+viewed  with  some caution.  Comparing  the  GLS  and  OLS  results  using 
+UCPS  implies  that, at the  very  least,  random-effects  models  should  be 
+estimated in order to avoid seriously overstating the precision of  the coeffi- 
+cient estimates. 
+
+The application of firm-level unionization rates to econometric models of 
+firm  behavior  leads to a  number  of  interesting  findings  that are broadly 
+consistent with the results of  Hirsch (1991a,b, 1992), who also utilizes firm- 
+level union data. Unions appear to have a strong negative effect on profit- 
+ability  in  both  manufacturing  and  nonmanufacturing.  Much  of  the  esti- 
+mated effect of unionization on profits works indirectly through changes in 
+investment or growth. There is also strong evidence that higher union cover- 
+age significantly reduces current investment, though this effect is less pre- 
+cisely estimated when several controls are included. In addition, the results 
+indicate that more heavily unionized firms are more capital intensive. Em- 
+ployment growth in unionized firms is lower in manufacturing and nonmanu- 
+
+
+448  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+facturing, but sales growth is significantly reduced by unionization  only in 
+nonmanufacturing. Unions are associated with higher relative productivity 
+levels in manufacturing and lower productivity in  nonmanufacturing,  re- 
+gardless of  the methodology used to measure productivity. 
+
+Appendix 
+
+In this appendix we briefly summarize how BLS contract data are used 
+to  generate  union  employment  by  firm/year  and  how  these  data  are 
+merged  with  the  Compustat  database  to calculate unionization  rates  for 
+each firm and year in the sample. Each contract in the BLS file includes an 
+identification  number that is unique to the bargaining unit (defined by the 
+firm(s) and union(s) signing the contract). This gives a panel structure to 
+the data and allows us to follow a bargaining unit through each successive 
+contract. For any given contract, we know the firm(s)  and union(s) in the 
+bargaining  unit,  the  number  of  workers in  the  bargaining  unit  as of  the 
+effective  date of  the contract,  the three-digit  industry  SIC code for  the 
+major product line associated with the bargaining unit, the state or region 
+where the bargaining unit  is located,  and the planned expiration date of 
+the contract. 
+
+The first task  is  to generate  an employment  chronology listing the ex- 
+pected  number of  workers in each bargaining unit  for each month  in  the 
+sample  period.  The  BLS  contract  data  reports  the  number  of  workers 
+covered  by  each  bargaining  agreement,  and  thus  contains  snapshots  of 
+employment levels at each negotiation of  a new contract. Care is taken by 
+the BLS to measure as best as possible the number of  permanent workers 
+in  the bargaining  unit.  Part-time workers  are recorded  as the number  of 
+full-time equivalent workers, and workers on layoff are included if the firm 
+perceives a high chance of  recall. We generate a time series of  employment 
+for each  bargaining  unit  by  linearly  interpolating  employment  observa- 
+tions  between  successive  contracts.  The  employment  level  for  the  last 
+contract in the panel is assumed to be constant for the expected duration of 
+the contract. 
+
+For each uniodfirm bargaining pair, we sum employment levels in each 
+month  across all bargaining units involving  the uniodfirm  pair.  We  then 
+calculate annual averages of  these union/firm monthly employment tools. 
+To  obtain the overall union employment at a firm in a given year, we sum 
+across the annual averages of  union employment  for all unions that bar- 
+gained with the firm in that year. 
+
+It  should  be  noted  that  multiemployer  bargaining  units  are excluded 
+from the calculations above.  Our firm-specific union  coverage  measures 
+
+
+The Effects of  Unions on Firm Behavior  I  449 
+only include workers covered by union contracts with  a single employer. 
+For multiemployer bargaining units,  the BLS only reports the total num- 
+ber  of  workers covered  across all employers in  the  bargaining  unit.  The 
+contract  data do not  specify employment per firm, nor  do they  typically 
+identify the firms comprising the bargaining unit. It is worth noting, how- 
+ever, that a large majority of multiemployer agreements are in the construc- 
+tion, retail/wholesale trade, and service industries. Less than 10 percent of 
+the firms in our sample are in these industries and the inclusion of  industry 
+fixed-effects should help to reduce this source of  measurement error. 
+
+The approach  outlined  above  allows  us  to  construct  a  time  series  of 
+unionized  employment  for  each  firm  in  the  BLS  data  set.  In  order  to 
+construct  a  measure  of  a  firm’s unionization  rate, i.e., the  fraction  of  a 
+firm’s  total  employment  covered  by  a  union  contract,  we  must  obtain 
+measures of  total  employment for the firms in our sample. We  therefore 
+match the names of  the companies in the BLS contract file to Compustat 
+data  for publicly  traded  firms.  The Compustat  data  are compilations  of 
+information  in  firms’  annual  reports,  10K  reports,  and  other  financial 
+statements, and include a firm’s total employment, measured  as the total 
+number of  workers on payroll at the end of  the fiscal year. Name-by-name 
+matching of  the BLS contract and Compustat data sets results in a sample 
+of  653 firms. A number of  firms were deleted because of  missing values for 
+employment  on the  Compustat  tape, or because  the firms had  been dis- 
+solved, had been acquired by other firms, or were too young to have any 
+data for  the  1971-82  period.  This  left  560  firms  for  which  an  average 
+unionization rate can be calculated for at least one of  the periods 1975-78 
+or 1979-82. 
+
+As noted above, the union employment series generated from the BLS 
+contract  file  is  a  smoothed time  series; bargaining  units  are assumed  to 
+expand or contract according to a linear time trend across contract dates. 
+In order to take account of  this smoothing and the lack of a cyclical pattern 
+in the union employment data, we construct unionization rates as the ratio 
+of  average bargaining  unit  employment to average firm  employment  for 
+each  of  the  1975-78  and  1979-82  periods.  We  also  adjusted  a  firm’s 
+unionization rate to account for bargaining units of  less than 1,000 workers 
+that  were  not  present  in  our main  data  by  definition.  We  were  able  to 
+obtain from the BLS a listing of  contracts for all sizes of  bargaining units 
+for the year 1974. This listing is referred to by the BLS as the Alpha List of 
+Key and Non-Key Contracts. (Note that for this year about 85 percent of 
+workers were in  bargaining  units  of  1,000 or more  workers.)  Using  this 
+listing we calculated the fraction of  a firm’s covered workers that were in 
+large  bargaining  units  (1,000  or  more).  We  then  multiplied  the  firm’s 
+
+
+450  /  STEPHEN G. BRONARS, DONALD R. DEERE, AND JOSEPH S. TRACY 
+“large-contract” unionization  rate (described above) by the reciprocal  of 
+this fraction to get a final unionization rate for each firmhime period. 
+
+Our sample is  comprised  of  only  large  publicly  traded  firms  that  had 
+some  unionized  workers.  Thus the  union  effects  noted  in  the  paper  are 
+conditional  on a firm having a nonzero unionization rate. Although these 
+large firms are not  a random  sample of  the population  of  employers, we 
+focus on them  for two reasons.  First, union  coverage  and total  employ- 
+ment  data  are  generally  only  available  for  large  collectively  bargained 
+contracts and publicly traded firms. Second, almost all of the recent empiri- 
+cal work  on the impact of  unionization  on firm  behavior  has  focused on 
+large  publicly  traded  firms,  because  measures  of  firm  performance  and 
+behavior  (e.g., profits,  market  value,  investment,  and  employment)  are 
+typically only available for these firms. 
+
+REFERENCES 
+
+Abowd,  John  M.  1989. “The Effect  of  Wage Bargains on the  Stock Market  Value of  the Firm.”  The 
+
+American Economic Review 79 (September):774-800. 
+
+Allen, Steven G. 1984. “Unionized Construction Workers are More Productive.”  Quarterly Journal uf 
+
+Economics 99 (May) :25 1-74. 
+
+Baldwin,  Carliss.  1983. “Productivity  and  Labor  Unions:  An  Application  of  the  Theory  of  Self- 
+
+Enforcing Contracts.” Journal of  Business 56 (April): 155-85. 
+
+Bound, John, and Alan  B. Krueger.  1991. “The Extent  of  Measurement  Error in Longitudinal Earn- 
+
+ings Data: Do Two Wrongs Make a Right?” Journal of  Labor Economics  9 (January):l-24. 
+
+Bronars,  Stephen G., and Donald R. Deere. 1990. “Union Representation Elections and Firm Profit- 
+
+ability.” Industrial Relations 29 (Winter):15-37. 
+
+Bronars,  Stephen  G., and  Donald  R.  Deere.  1993a. “Unionization,  Incomplete  Contracting,  and 
+
+Capital  Investment.” Journal of  Business 66 (January): 117-32. 
+
+Bronars, Stephen G., and Donald  R. Deere.  1993b. “Union Organizing Activity, Firm Growth, and 
+
+the Business Cycle.” American Economic Review 83 (March):203-20. 
+
+Brown,  Charles,  and  James  Medoff.  1978. “Trade  Unions  in  the  Production  Process.”  Journal  of 
+
+Political Economy 86 (June):355-78. 
+
+Bureau of  Labor Statistics.  United States Department of  Labor.  Bargaining Calendar. Various issues. 
+
+Washington, DC: U.S. Government Printing Office. 
+
+Burgess, James F., and Paul W. Wilson. 1992. “Technical Efficiency in VA Hospitals.”  In The Mensure- 
+men/ of  Production  EfjTciency: Techniques and Applications.  Oxford: Oxford University  Press. 
+Card,  David.  1990. “Unexpected  Inflation,  Real  Wages,  and  Employment  Determination in  Union 
+
+Contracts.” American  Economic Review  80 (September):669-88. 
+
+Clark, Kim. 1980. “The Impact of  Unionization  on Productivity: A Case Study.” Industrial and Labor 
+
+Relations Review  33 (July):451-69. 
+
+Clark, Kim.  1984. “Unionization and Firm Performance: The Impact on Profits, Growth, and Produc- 
+
+tivity.” American  Economic Review 74 (December):893-919. 
+
+Connolly,  Robert  A,, Barry  T.  Hirsch,  and  Mark  Hirschey.  1986. “Union  Rent  Seeking,  Intangible 
+Capital, and the Market Value of the Firm.” Review ufEconomics and Statistics 68 (November): 
+567-77. 
+
+Fire, Rolf,  Shawna  Grosskopf,  and  C.  A.  Knox  Lovell.  1985.  The  Measurement  of  EfjTciency  of 
+
+Production. Boston: Kluwer-Nijhoff Publishing. 
+
+Freeman, Richard.  1984. “Longitudinal  Analyses of  the  Effects of  Trade Unions.” Journal  of  Labor 
+
+Economics 2 (January): 1-26. 
+
+
+The Effects of Unions on Firm Behavior  I  451 
+
+Greene, William H. 1990. Econometric Analysis. New York: Macmillan. 
+Grout, Paul A. 1984. “Investment  and Wages in the Absence of Binding Contracts:  A Nash Bargaining 
+
+Approach.” Econometrica  52 (March):449-60. 
+
+Hausman, Jerry.  1978. “Specification Test in Econometrics.”  Econometrica  46 (November): 1251-72. 
+Hausman,  Jerry,  and  William  Taylor.  1981.  “Panel  Data  and  Unobservable  Individual  Effects.” 
+
+Hirsch, Barry.  1991a. “Union Coverage and Profitability among U.S. Firms.” The Review of  Econom- 
+
+Econometrica 49 (November): 1377-98. 
+
+ics and Statistics 73 (May):69-77. 
+
+Hirsch, Barry.  1991b. Labor  Unions and the Economic Performance of  Firms. Kalamazoo,  MI:  W.  E. 
+
+Upjohn Institute for Employment Research. 
+
+Hirsch, Barry.  1992. “Firm Investment Behavior and Collective Bargaining Strategy.” Industrial Rela- 
+
+tions 31 (Winter):95-121. 
+
+Labor Research 8 (Fall):323-32. 
+
+Hirsch,  Barry T., and  Albert Link.  1987. “Labor Union  Effects  on Innovative  Activity.” Journal of 
+
+Mellow, Wesley, and Hal Sider. 1983. “Accuracy of  Response in Labor Market Surveys: Evidence and 
+
+Implications.” Journal of  Labor Economics 1 (October):331-44. 
+
+Ruback, Richard, and Martin Zimmerman. 1984. “Unionization and Profitability:  Evidence from the 
+
+Capital Market.” Journal of  Political Economy 92 (December):1134-57. 
+
+Salinger,  Michael  A.  1984. “Tobin’s Q, Unionization,  and  the  Concentration-Profits  Relationship.” 
+
+Rand Journal of  Economics 15 (Sumrner):159-70. 
+

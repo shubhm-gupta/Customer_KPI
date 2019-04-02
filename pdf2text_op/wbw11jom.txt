@@ -1,0 +1,2421 @@
+Journal of Operations Management 29 (2011) 604–615
+
+Contents lists available at ScienceDirect
+
+Journal of Operations Management
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j o m
+
+The contingency effects of environmental uncertainty on the relationship
+between supply chain integration and operational performance
+Chee Yew Wong a,1, Sakun Boon-itt b,∗, Christina W.Y. Wong c,2
+
+a Logistics Institute, Hull University Business School, Hull HU6 7RX, UK
+b Department of Operations Management, Thammasat Business School, 2 Prachan, Rd Pranakorn, Bangkok 10200, Thailand
+c Business Division, Institute of Textiles and Clothing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 16 February 2009
+Received in revised form 24 January 2011
+Accepted 27 January 2011
+Available online 5 February 2011
+
+Keywords:
+Environmental uncertainty
+Contingency
+Supply chain integration
+Operational performance
+
+This paper extends prior supply chain research by building and empirically testing a theoretical model of
+the contingency effects of environmental uncertainty (EU) on the relationships between three dimensions
+of supply chain integration and four dimensions of operational performance. Based on the contingency
+and organizational information processing theories, we argue that under a high EU, the associations
+between supplier/customer integration, and delivery and ﬂexibility performance, and those between
+internal integration, and product quality and production cost, will be strengthened. These theoretical
+propositions are largely conﬁrmed by multi-group and structural path analyses of survey responses col-
+lected from 151 of Thailand’s automotive manufacturing plants. This paper contributes to operations
+management contingency research and provides theory-driven and empirically proven explanations for
+managers to differentiate the effects of internal and external integration efforts under different environ-
+mental conditions.
+
+© 2011 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Growing evidence suggests that supply chain integration (SCI)
+has a positive impact on operational performance outcomes, such
+as delivery, quality, ﬂexibility and cost (Rosenzweig et al., 2003;
+Dröge et al., 2004; Devaraj et al., 2007; Swink et al., 2007; Flynn
+et al., 2010). Sousa and Voss (2008) suggested that when the value
+of a best practice, such as SCI, is supported by empirical evidence,
+research should shift from the justiﬁcation of its value to the under-
+standing of the contextual conditions under which it is effective.
+Among other factors, environmental uncertainty (EU) has been
+identiﬁed as a contextual factor which may affect the effectiveness
+of a best practice (Thompson, 1967; Venkatraman, 1989; Souder
+et al., 1998).
+
+Some recent studies argue that SCI–performance relationships
+are moderated by EU (O’Leary-Kelly and Flores, 2002; Fynes et al.,
+2004; Koufteros et al., 2005). However, these studies are prob-
+lematic in three areas. First, the use of different approaches in
+conceptualizing SCI, performance and EU constructs disallows a
+meaningful comparison of, or conclusion about, the contingency
+
+∗ Corresponding author. Tel.: +66 2613 2201; fax: +66 2947 8912.
+E-mail addresses: c.wong@hull.ac.uk (C.Y. Wong), sboonitt@tu.ac.th (S. Boon-itt),
+
+Christina.WY.Wong@inet.polyu.edu.hk (C.W.Y. Wong).
+
+1 Tel.: +44 1482 347548.
+2 Tel.: +852 2766 6415; fax: +852 2733 1432.
+
+0272-6963/$ – see front matter © 2011 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jom.2011.01.003
+
+effects of EU. Second, the evidence reported so far indicates that
+SCI–performance relationships are not always moderated by EU
+(Fynes et al., 2004; Koufteros et al., 2005), and even if moderating
+effects exist, their direction varies (O’Leary-Kelly and Flores, 2002).
+For example, Koufteros et al. (2005) found insigniﬁcant moderating
+effects of EU on the relationships between supplier/customer inte-
+gration and quality/product innovation. O’Leary-Kelly and Flores
+(2002) found positive relationships between marketing/sales plan-
+ning decision integration and ﬁrm performance under a high, but
+not a low EU. However, their results surprisingly indicated that the
+relationships between manufacturing planning decision integra-
+tion and ﬁrm performance are positive under a low, instead of a high
+EU. Anchored in the premise that EU creates the need for SCI, some
+studies argue that SCI–performance relationships will become sig-
+niﬁcant or stronger under a high EU. Such a “theory” cannot explain
+the above mixed ﬁndings. The lack of a theoretical explanation is
+the third, and perhaps the most pressing issue that deserves more
+research attention.
+
+This paper builds and empirically tests a theoretical model to
+explain the contingency effects of EU on the salient operational
+performance outcomes of SCI. This paper differs from others in
+a number of aspects. We conceptualize both SCI and operational
+performance as multidimensional constructs, instead of the uni-
+dimensional approach applied by others (e.g., Stank et al., 1999;
+Rosenzweig et al., 2003). We have collapsed SCI into three dimen-
+sions – internal, supplier, and customer integration – to enable the
+examination of the performance impacts of different SCI dimen-
+
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+605
+
+sions and to prove that each SCI dimension might be effective under
+different environmental conditions (Wong and Boon-itt, 2008).
+Furthermore, we examine four areas of operational performance
+– delivery, production cost, product quality, and production ﬂex-
+ibility – which reﬂect the four key capabilities of a focal ﬁrm in
+responding to competition (Schmenner and Swink, 1998). The con-
+sideration of multiple performance dimensions not only helps to
+explain the mixed ﬁndings in the literature, but also addresses the
+need to obtain a holistic understanding of the relationships among
+contingencies (in this case, EU), response alternatives (different
+dimensions of SCI) and multiple performance criteria (Sousa and
+Voss, 2008).
+
+Most importantly, we have integrated the contingency theory
+(CT) and organizational information processing theory (OIPT) to
+explain the contingency effects of EU. CT posits that ﬁrm per-
+formance is dependent on the “ﬁt” between the structure and
+processes of a ﬁrm, and the environment (Lawrence and Lorsch,
+1967; Thompson, 1967; Miller, 1987). Based on CT, external inte-
+gration is expected to “ﬁt” with a high EU (Thompson, 1967). The
+OIPT further provides the conceptual foundation upon which such a
+“ﬁt” is valuable for ﬁrms to achieve a certain performance. The OIPT
+suggests the need to improve information processing capability and
+information quality under high uncertainty (Galbraith, 1973). The
+OIPT also recognizes that, as an open social–economical system,
+a ﬁrm performs business processes within and beyond organiza-
+tional boundaries (Thompson, 1967), which suggests the need to
+distinguish internal from external integration. Based on the OIPT,
+we expect that ﬁrms need external integration to improve infor-
+mation processing capability, especially to cope with a high EU.
+Speciﬁcally, we argue that delivery and production ﬂexibility are
+highly sensitive to uncertainty from the external environment and
+therefore, can be improved by external integration, but not internal
+integration, under a high EU. On the other hand, product quality and
+production cost are more internally dependent (Ragatz et al., 2002)
+and therefore, unlike external integration (Dröge et al., 2004), the
+impacts of internal integration on product quality and production
+cost will be strengthened under a high EU. Based on a survey of
+Thailand’s automotive supply chains, our ﬁndings largely support
+our contingency arguments.
+
+The novel theories and results of this paper offer numerous
+implications to the operations and supply chain management
+research on SCI. First, this paper supplements previous studies by
+providing theories and supporting evidence to explain why the per-
+formance impacts of some SCI dimensions could be strengthened
+or weakened, and thus, contributes to operations management
+contingency research (Sousa and Voss, 2008). This novel under-
+standing is very important for both researchers and managers.
+Such an explanation of the contingency effects of EU not only
+clariﬁes the tenuous relationships between SCI, operational perfor-
+mance and EU (Stonebraker and Liao, 2006), but also contributes
+to the building of a contingency theory for SCI. Furthermore, this
+paper provides theory-driven and empirically proven explanations
+for managers to differentiate the effects of internal and external
+integration efforts on various operational performance outcomes
+under different environmental conditions. Since integration efforts
+involve costs (Souder et al., 1998; O’Leary-Kelly and Flores, 2002)
+and risks (Fabbe-Costes and Jahre, 2008), it is important to inform
+managers precisely which SCI efforts are effective under speciﬁc
+environmental conditions.
+
+Environmental 
+Uncertainty (EU) 
+
+H4a-d 
+
+H6a-d 
+
+H5a-d 
+
+Delivery 
+
+Production 
+
+Cost 
+
+Product 
+Quality 
+
+Production 
+Flexibility 
+
+Internal 
+
+Integration  
+
+Supplier 
+Integration 
+
+Customer 
+Integration 
+
+H1a 
+H1b 
+H1c 
+H1d 
+H2a 
+H2b 
+H2c 
+H2d 
+H3a 
+H3b 
+H3c 
+H3d 
+
+Fig. 1. Theoretical model.
+
+2.1. Dimensions of supply chain integration (SCI)
+
+The understanding of SCI requires clear construct deﬁnitions
+and good measures (Fabbe-Costes and Jahre, 2008; Flynn et al.,
+2010). Following Pagell (2004) and Flynn et al. (2010), SCI is deﬁned
+as the strategic collaboration of both intra-organizational and inter-
+organizational processes. We have collapsed SCI construct into
+three dimensions: customer, supplier and internal integration, to
+reﬂect its multidimensionality (Flynn et al., 2010). In this paper,
+internal integration is deﬁned as the strategic system of cross-
+functioning and collective responsibility across functions (Follett,
+1993), where collaboration across product design, procurement,
+production, sales and distribution functions takes place to meet
+customer requirements at a low total system cost (Morash et al.,
+1997). Internal integration efforts break down functional barriers
+and facilitate sharing of real-time information across key functions
+(Wong et al., 2007).
+
+External integration comprises supplier and customer inte-
+gration. Supplier integration involves strategic joint collaboration
+between a focal ﬁrm and its suppliers in managing cross-ﬁrm
+business processes, including information sharing, strategic part-
+nership, collaboration in planning, joint product development, and
+so forth (Ettlie and Reza, 1992; Lai et al., 2010; Ragatz et al.,
+2002). Likewise, customer integration involves strategic infor-
+mation sharing and collaboration between a focal ﬁrm and its
+customers which aim to improve visibility and enable joint plan-
+ning (Fisher et al., 1994). Customer integration enables a deeper
+understanding of market expectations and opportunities, which
+contributes to a more accurate and quicker response to customer
+needs and requirements (Swink et al., 2007) by matching supply
+with demand (Lee et al., 1997). The above deﬁnitions are distinct
+from those in some of the existing literature which ignore the dif-
+ferences between the dimensions of integration (Stank et al., 1999;
+Rosenzweig et al., 2003).
+
+2. Theoretical model and hypotheses
+
+2.2. The SCI–performance relationships
+
+In this section, we ﬁrst deﬁne the key theoretical constructs and
+then develop a theoretical model and hypotheses to explain the
+moderating effects of EU on SCI–performance relationships.
+
+Fig. 1 illustrates our proposed theoretical model which suggests
+the impacts of the three SCI dimensions on four operational per-
+formance outcomes under the effects of EU. A model is proposed
+
+
+606
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+for each SCI dimension because we intend to clarify the distinct
+impacts of each SCI dimension under varying EUs.
+
+We ﬁrst examine the relationships between internal, supplier
+and customer integration and the four dimensions of operational
+performance without taking into consideration the effects of EU.
+To understand internal integration–performance relationships, we
+draw upon existing knowledge from total quality management
+(TQM), product development, and production literature. Internal
+integration is arguably the basis of SCI; it removes functional bar-
+riers (Flynn et al., 2010) and enables cooperation across internal
+functions (Morash et al., 1997). As suggested by the TQM literature,
+the successful implementation of quality management requires
+a constancy of purpose and breaking down of barriers between
+departments (Deming, 1982). With a lack of internal integration,
+different functions may work at cross-purposes and result in effort
+redundancy and waste of resources, which can have a detrimental
+impact on cost and quality performance (Pagell, 2004). Likewise,
+the product development literature ascertains that internal inte-
+gration enables product design, engineering, manufacturing, and
+marketing departments to work closely in supporting concurrent
+engineering and design for manufacturing (Crawford, 1992). Inter-
+nal integration facilitates cross functional teams to simultaneously
+improve product and process designs, which are instrumental to
+reducing production cost (Ettlie and Stoll, 1990) and improving
+product quality (Rosenzweig et al., 2003). From the production lit-
+erature, there are arguments that internal integration enables the
+sharing of knowledge across functions and manufacturing plants
+(Roth, 1996; Narasimhan and Kim, 2002), and allows for better
+coordination of production capacity to improve production ﬂexibil-
+ity (Sawhney, 2006) and delivery performance (Dröge et al., 2004).
+These theoretical arguments have been supported by numerous
+studies which demonstrated positive associations between inter-
+nal integration and process efﬁciency (Saeed et al., 2005; Swink
+et al., 2007), logistics service performance (Germain and Iyer, 2006;
+Stank et al., 2001), delivery performance (Swink et al., 2007), quality
+(Swink et al., 2007) and product development cycle time or respon-
+siveness (Dröge et al., 2004). All these theoretical arguments and
+empirical evidence suggest the following hypothesis.
+
+Hypothesis 1.
+Internal integration is positively associated with (a)
+delivery, (b) production cost, (c) product quality, and (d) production
+ﬂexibility.
+
+Employing a reductionist approach, we view a focal ﬁrm as an
+internal environment and suppliers and customers as its exter-
+nal environment. We argue that such an approach allows us to
+understand how each SCI dimension operates, as well as how its
+performance impacts may be affected by EU. Within a focal ﬁrm,
+new product development, marketing, procurement, production
+and logistics are major tasks that contribute to operational per-
+formance improvement. However, the performance of these tasks
+greatly depends on input and collaboration from suppliers and cus-
+tomers. Based on the OIPT developed by Galbraith (1973), external
+integration supports external routines and processes that collect
+accurate demand and supply information essential for the coor-
+dination of the above tasks (Stank et al., 1999). With a low level
+of supplier and customer integration, a focal ﬁrm is more likely
+to receive inaccurate or distorted supply and demand information,
+which results in poor production plans, high level of inventory and
+poor delivery reliability (Lee et al., 1997).
+
+Furthermore, integration with suppliers and customers pro-
+motes cooperation and development of cross-ﬁrm problem-solving
+routines (Flynn and Flynn, 1999; Narasimhan and Jayaram, 1998).
+This creates mutual understanding and facilitates task coordina-
+tion, which help to reduce wastage and redundancy of efforts in
+managing supply chain activities across partner ﬁrms (Swink et al.,
+2007). More importantly, integration with customers and suppli-
+
+ers helps to resolve conﬂicting objectives and further facilitates
+joint efforts in cost and inventory reduction, quality improvement
+and new product development, which result in a better time-based
+performance, such as delivery and production ﬂexibility (Scannell
+et al., 2000; Rosenzweig et al., 2003), and product quality (Scannell
+et al., 2000; Ettlie and Reza, 1992; Rosenzweig et al., 2003). Fur-
+thermore, external integration improves process ﬂexibility (Ettlie
+and Reza, 1992) by allowing supply chain partners to better antic-
+ipate and coordinate supply and demand (Flynn et al., 2010). Such
+a coordination effort is essential for the improvement of deliv-
+ery performance as well as a quick response to changing market
+needs. Furthermore, prior studies have ascertained positive associ-
+ations between supplier integration and cost (Scannell et al., 2000;
+Devaraj et al., 2007), supply chain integration intensity and product
+quality and delivery reliability (Rosenzweig et al., 2003), and exter-
+nal integration and time-based performance (Dröge et al., 2004).
+All these theoretical arguments and empirical evidence suggest the
+following hypotheses.
+
+Hypothesis 2. Supplier integration is positively associated with
+(a) delivery, (b) production cost, (c) product quality, and (d) pro-
+duction ﬂexibility.
+
+Hypothesis 3. Customer integration is positively associated with
+(a) delivery, (b) production cost, (c) product quality, and (d) pro-
+duction ﬂexibility.
+
+2.3. The strengths of SCI–performance relationships under EU
+
+Uncertainty can be deﬁned as the inability to assign probabili-
+ties to future events (Duncan, 1972) or the difﬁculties to accurately
+predict the outcomes of decisions (Downey et al., 1975; Duncan,
+1972). In this paper, we focus on the uncertainty aroused from the
+external environment of a focal ﬁrm and therefore, call it environ-
+mental uncertainty (EU). In the context of a supply chain, EU is
+an inherent condition of cross-ﬁrm interactions because the ﬂow
+of goods and information involve multiple lines of communication
+and tasks across ﬁrms (Miller, 1987), making it difﬁcult to predict
+the causal relationships of events. In this paper, EU is considered as a
+moderator of SCI–performance relationships. Our main focus is the
+strength but not the form of the moderation effect (Venkatraman,
+1989). This means we aim to investigate the impact of EU on the
+strengths of SCI–performance relationships, but not the joint effect
+of SCI dimensions and EU on performance outcomes.
+
+To explain the moderating effects of EU, we have integrated
+CT with OIPT. According to the CT, a ﬁrm’s performance is
+attributable to the “match” or “ﬁt” between its structure and pro-
+cesses with environmental conditions (Lawrence and Lorsch, 1967;
+Thompson, 1967; Miller, 1987). The CT suggests that ﬁrms often
+enact or shape their business environment through a series of
+externally oriented strategies when facing uncertainty in their
+environment (Thompson, 1967). The CT posits that external inte-
+gration is expected to “ﬁt” with a high EU (Thompson, 1967).
+Furthermore, the OIPT suggests the need to improve information
+processing capability and information quality under high uncer-
+tainty (Galbraith, 1973; Thompson, 1967). There is certainly a
+need to acquire and process additional and rich information under
+a high EU (Stonebraker and Liao, 2006; Koufteros et al., 2005)
+because a high EU creates the need to scan the markets. Conse-
+quently, this would then require external integrative mechanisms
+to collect information (Galbraith, 1973), coordinate and monitor
+business activities of partner ﬁrms (Miller, 1992), and facilitate
+ﬂexible response and quick decision-making (Sitkin et al., 1994).
+These two theories strongly suggest the need to distinguish inter-
+nal from external integration, which was previously suggested by
+Miller (1992).
+
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+607
+
+To further explain the direction of moderating effects, we distin-
+guish the mechanisms in which internal and external integration
+affect different groups of operational performance outcomes. A
+study by Souder et al. (1998) concluded that different integration
+dimensions will have different impacts on different performance
+measures. We argue that time-based performance outcomes, such
+as delivery and production ﬂexibility, are highly sensitive to exter-
+nal inputs, such as the accuracy and timeliness of supply and
+demand information (Blackburn, 1991). Thus, under a high EU, sup-
+plier and customer integration are likely to strengthen delivery
+and production ﬂexibility performance. Furthermore, for manu-
+facturers operating in a just-in-time (JIT) production environment,
+internal integration alone may not be adequate for improving deliv-
+ery performance and production ﬂexibility, especially when there
+are high levels of demand and supply uncertainties (Schonberger,
+1986), where a ﬁrm needs to acquire market information in addi-
+tion to coordinate its internal functions. Thus, we posit that, under a
+high EU, the associations between internal integration and delivery
+performance and production ﬂexibility will not be strengthened,
+but those between supplier and customer integration, and delivery
+performance and production ﬂexibility, will be strengthened.
+
+On the other hand, product quality and production cost perfor-
+mance of a focal ﬁrm heavily relies on internal ﬁt and constancy
+of purpose across functions. According to the TQM literature, it is
+the sharing of information, constancy of purpose and cooperation
+across functions which allow workers to focus on cost reduction
+and quality improvement (Deming, 1982; Crawford, 1992). Under a
+high EU, cross-functional integration will further enable the explo-
+ration and synergy of cross-functional knowledge sharing (Roth,
+1996) and therefore, helps to develop new skills and resources
+to improve product quality and cost (Sitkin et al., 1994). Thus,
+we argue that the associations between internal integration, and
+product quality and production cost will be strengthened under a
+high EU. A high EU will also create the need for external alignment
+with suppliers and customers, but not necessarily improve product
+quality and production cost. In fact, the literature on product devel-
+opment argues that the performance impact of supplier integration
+diminishes under EU. Eisenhardt and Tabrizi (1995) revealed that
+supplier integration has a negative impact, particularly in uncer-
+tain environments, as supplier and customer collaboration makes
+product development more costly, complicated, time-consuming,
+and difﬁcult to manage and control. Furthermore, in the context of
+an automotive supply chain, product quality is often regarded as
+an order qualiﬁer for supplier qualiﬁcation purpose. Thus, product
+quality is not the main focus of supplier and customer integra-
+tive efforts, and we do not expect the external integration–product
+quality relationships to be strengthened under a high EU. With
+the above arguments, we have established the following three
+hypotheses.
+
+Hypothesis 4. Under a high EU, the associations between inter-
+nal integration and (b) production cost and (c) product quality will
+be strengthened, but those between internal integration and (a)
+delivery and (d) production ﬂexibility, will not be strengthened.
+
+Hypothesis 5. Under a high EU, the associations between sup-
+plier integration and (a) delivery and (d) production ﬂexibility will
+be strengthened, but those between supplier integration (b) pro-
+duction cost and (c) product quality, will be not strengthened.
+
+Hypothesis 6. Under a high EU, the associations between cus-
+tomer integration and (a) delivery and (d) production ﬂexibility will
+be strengthened, but those between customer integration and (b)
+production cost and (c) product quality, will be not strengthened.
+
+3. Research method
+
+3.1. Sample and data collection
+
+This study focuses on Thailand’s automotive industry, which is
+one of the largest motor vehicle manufacturing bases in terms of
+gross output and export value in the world currently ranking 13th
+globally. According to the Federation of Thai Industries, Thailand
+produced approximately 1.7 million motor vehicles in 2010, which
+accounted for 10.5 percent of the Thai economy (The Economist
+Intelligence Unit, 2010). Compared to 325,000 units produced in
+2000, Thailand has the highest production growth rate among
+the major Association of Southeast Asian Nations (ASEAN) motor
+vehicle producing countries (Wad, 2009). Furthermore, Thailand’s
+automotive industry exports half of the vehicles produced worth
+about 250 million U.S. dollars. Thailand is poised to become an
+export-oriented auto producing country with exports far sur-
+passing domestic use (Janakiraman, 2010). Many foreign major
+automakers, including Toyota, Mitsubishi, General Motors, Nissan,
+Honda, and Ford, set up their production facilities and operations
+in Thailand (Fuller, 2010b) to seize the advantage of low exchange
+rate and labor costs (Tabuchi, 2010), and ﬁnancing supports of local
+banks (Fuller, 2010a).
+
+We tested our theoretical model through a survey of Thailand’s
+automotive industry for four main reasons. First, automotive sup-
+ply chains and operational structures have been well documented
+in previous research, and SCI is widely adopted in the industry
+(Lockström et al., 2010). Secondly, the automotive sector is a lead-
+ing Thai industry in implementing SCI strategies (Pantumsinchai,
+2002). Thirdly, focusing on a single industry will ensure high inter-
+nal validity. Finally, previous studies on the contingency effects
+of EU were conducted based largely on samples from developed
+countries such as the U.S.; studies in developing countries such
+as Thailand will allow us to assess the validity of the contingency
+arguments.
+
+The sample for this research was identiﬁed from two sources: (1)
+the Directory of the Society of Automotive Engineering of Thailand,
+and (2) the Thailand Automotive Industry Directory. A mailing list of
+799 automakers and ﬁrst-tier automotive suppliers in Thailand was
+established. Sample selection is not an issue because the mailing list
+covered the whole population. An address validation exercise was
+conducted, which resulted in a ﬁnal mailing list of 724 ﬁrms. Posi-
+tions, such as CEO/president, vice president/director, operations
+manager, and supply chain manager, were identiﬁed as respon-
+dents because of their knowledge on the level of SCI practices and
+operational performance in their ﬁrms.
+
+We followed Frohlich’s (2002) suggestion to improve the
+response rate by calling all 724 respondents before sending out the
+questionnaire. The questionnaire was then sent out in two phases.
+In the ﬁrst phase, 116 responses were received. Phone calls were
+then made to targeted respondents who did not respond, and con-
+sequently, we received 47 additional responses in the second phase.
+Twelve returned questionnaires were discarded due to incomplete
+responses, which resulted in 151 usable responses. A response rate
+of 20.85% is close to the recommended number for empirical stud-
+ies in operations management (Malhotra and Grover, 1998). Table 1
+summarizes the demographic characteristics of the respondents. Of
+the respondents, 12% are automakers, and the rest are different part
+suppliers.
+
+Non-response bias was ﬁrst tested by using the extrapolation
+method suggested by Armstrong and Overton (1977). A comparison
+between early and late responses showed no statistical differences
+across the 4 key characteristics and 10 measures at p < 0.05, which
+suggests no non-response bias. We further tested non-response
+bias by conducting a t-test to check whether there is any signiﬁcant
+difference across 4 key characteristics and 10 measures between
+
+
+608
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+Percentage of
+samples (%)
+
+dents) to ensure that the indicators were understandable and
+relevant to practices in Thailand’s automotive industry. Feedback
+from the pilot test was used to improve the wording in some of the
+questions.
+
+Table 1
+Demographic characteristics of respondents.
+
+Demographic characteristics
+
+Position of respondents
+Supply chain manager
+Purchasing/logistics manager
+General manager
+Production manager
+President/managing director
+Ownership
+100% Thai owned
+Thai-foreign joint ventures
+Foreign owned
+Number of employees
+>700
+351–250
+201–250
+101–200
+51–100
+<50
+
+40
+22
+22
+8
+8
+
+48
+34
+18
+
+16
+23
+23
+18
+16
+4
+
+early respondents and respondents who initially declined to partic-
+ipate, but later returned the questionnaires. The t-test results show
+no signiﬁcant difference (p < 0.05), which suggests no non-response
+bias issues.
+
+Since data were collected from a single person at a single point
+in time, common method variance (CMV) might be a threat to
+the validity of our results. Thus, we segmented the questions that
+pertained to the independent (SCI) and dependent (operational
+performance) variables into different sections in the questionnaire
+(Podsakoff et al., 2003). We conducted the Harman’s one-factor test
+(Podsakoff and Organ, 1986) to ensure that no one general factor
+accounted for the majority of covariance between the predictor and
+criterion variables. Our factor analysis indicated no single factor,
+where the independent and dependent variables load on different
+factors with the ﬁrst factor accounting for less than 40% of total
+variance, which suggests that there is no CMV problem.
+
+3.2. Measures and questionnaire design
+
+As depicted in Table 2, all measures of our key constructs are
+adapted from the literature. We adapted existing scales to measure
+internal integration (Stank et al., 2001; Narasimhan and Kim, 2002;
+Flynn et al., 2010), supplier and customer integration (Narasimhan
+and Kim, 2002; Flynn et al., 2010), delivery, product quality and pro-
+duction cost (Ward and Duray, 2000; Boyer and Lewis, 2002), and
+production ﬂexibility (Gupta and Somers, 1992; Chang et al., 2003).
+EU is conceptualized as a composite measure of supply, demand,
+competitive, and technological uncertainties based on the scales
+developed by Germain et al. (1994) and Wong et al. (2009). A ﬁve-
+point Likert scale was used for all the above constructs; a higher
+value indicates a higher level of integration and uncertainty, or a
+better performance.
+
+Since the scales adapted from the literature were in English,
+they were translated into Thai by two bilingual Thai researchers. A
+back-translation process was applied to ensure conceptual equiv-
+alence (Cai et al., 2010). Three academics from the ﬁeld of supply
+chain and operations management reviewed the initial measure-
+ment scales and provided feedback. Next, we invited four expert
+judges who have related industry experience to validate the scales
+using the Q-Sort method. The Q-Sort method required experts to
+sort the scales into groups, in which each group corresponded to
+a construct upon agreement (Moore and Benbasat, 1991). The Q-
+Sort results suggested acceptable content validity because the scale
+achieved a placement score greater than 70% (Moore and Benbasat,
+1991). As suggested by Hensley (1999), the revised questionnaire
+was pilot-tested with a small-scale survey (21 potential respon-
+
+3.3. Measure validation and reliability
+
+The unidimensionality of the key constructs were assessed by
+a conﬁrmatory factor analysis (CFA). The CFA results summarized
+in Table 2 show that the comparative ﬁt index (CFI) values and
+the standardized root mean square residual (SRMR) values are
+well above the recommended cut-off value of 0.90, and below
+or equal the recommended value of 0.08, respectively (Hu and
+Bentler, 1999), which suggest all the constructs are unidimensional.
+Furthermore, the incremental ﬁt index (IFI) and the Tucker-Lewis
+index (TLI) are also well above the recommended threshold of 0.90
+(Hu and Bentler, 1999).
+
+The reliability of the constructs and scales was assessed using
+Cronbach’s alpha and composite reliability. As shown in Table 2,
+the Cronbach’s alpha and composite reliability of all the constructs
+are greater than 0.70, which indicate adequate reliability of the
+measurement scales (Nunnally, 1978; Fornell and Larcker, 1981;
+O’Leary-Kelly and Vokurka, 1998). Following O’Leary-Kelly and
+Vokurka’s (1998) suggestion, we evaluated the convergent validity
+of each measurement scale by conducting another CFA using the
+maximum likelihood approach. As summarized in Table 2, all indi-
+cators in their respective constructs have statistically signiﬁcant
+(p < 0.05) factor loadings from 0.50 to 0.90, which suggest conver-
+gent validity of the theoretical constructs (Anderson and Gerbing,
+1988). Furthermore, the average variance extracted (AVE) of each
+construct exceeds the recommended minimum value of 0.5 (Fornell
+and Larcker, 1981), which indicates strong convergent validity.
+
+Table 3 presents the means, standard deviations, and correla-
+tions of all the theoretical constructs. The bivariate correlations
+between the SCI and operational performance outcomes range
+from 0.33 to 0.46 with signiﬁcances p < 0.01, which indicate
+acceptable criterion validity (Nunnally, 1978). The possibility of
+multicollinearity among the indicators is assessed by computing
+the variance inﬂation factor (VIF), which evaluates the degree to
+which each variable can be explained by other variables (Hair et al.,
+1998). All VIFs are well below the maximum acceptable cut-off
+value of 10, which indicate the absence of multicollinearity (Neter
+et al., 1996).
+
+The discriminant validity of the constructs is tested by mea-
+suring the degree to which each construct and its indicators are
+different from another construct and its indicators. We conducted
+a series of (cid:2)2 difference tests between nested CFA models for all
+pairs of constructs. For each pair of constructs, we compared the
+(cid:2)2 between the unconstrained model (with two constructs varying
+freely) and the constrained model (with the correlations between
+two constructs constrained to 1) (Bagozzi et al., 1991). Table 4
+summarizes the (cid:2)2 for the unconstrained and constrained models.
+Signiﬁcant (cid:2)2 differences between all pairs of constructs suggest
+discriminant validity (Bagozzi et al., 1991). In addition, the square
+root of AVE of all the constructs is greater than the correlation
+between any pair of them as shown in Table 3, which indicates
+a satisfactory level of discriminant validity (Fornell and Larcker,
+1981).
+
+4. Analyses and results
+
+4.1. SCI–performance relationships
+
+We ﬁrst established a structural equation model to test each
+hypothesis (H), H1–H3. According to the results summarized in
+
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+609
+
+Table 2
+Construct reliability and validity analysis.
+
+Construct (source)/indicator
+
+Internal integration (Stank et al., 2001; Narasimhan and Kim, 2002; Flynn et al., 2010)
+Have a high level of responsiveness within our plant to meet other
+
+department’s needs
+
+Have an integrated system across functional areas under plant control
+Within our plant, we emphasize on information ﬂows among purchasing,
+
+inventory management, sales, and distribution departments
+
+Within our plant, we emphasize on physical ﬂows among production, packing,
+
+warehousing, and transportation departments
+
+Supplier integration (Narasimhan and Kim, 2002; Flynn et al., 2010)
+Share information to our major suppliers through information technologies
+Have a high degree of strategic partnership with suppliers
+Have a high degree of joint planning to obtain rapid response ordering process
+
+(inbound) with suppliers
+
+Our suppliers provide information to us in the production and procurement
+
+processes
+
+Our suppliers are involved in our product development processes
+
+Customer integration (Narasimhan and Kim, 2002; Flynn et al., 2010)
+Have a high level of information sharing with major customers about market
+
+information
+
+Share information to major customers through information technologies
+Have a high degree of joint planning and forecasting with major customers to
+
+anticipate demand visibility
+
+Our customers provide information to us in the procurement and production
+
+processes
+
+Our customers are involved in our product development processes
+
+Delivery (Ward and Duray, 2000; Boyer and Lewis, 2002)
+Correct quantity with the right kind of products
+Delivery products quickly or short lead-time
+Provide on-time delivery to our customers
+Provide reliable delivery to our customers
+Reduce customer order taking time
+
+Production cost (Ward and Duray, 2000; Boyer and Lewis, 2002)
+Produce products with low costs
+Produce products with low inventory costs
+Produce products with low overhead costs
+Offer price as low or lower than our competitors
+
+Product quality (Ward and Duray, 2000; Boyer and Lewis, 2002)
+High performance products that meet customer needs
+Produce consistent quality products with low defects
+Offer high reliable products that meet customer needs
+High quality products that meet our customer needs
+
+Production ﬂexibility (Gupta and Somers, 1992; Chang et al., 2003)
+Able to rapidly change production volume
+Produce customized product features
+Produce broad product speciﬁcations within same facility
+The capability to make rapid product mix changes
+
+Environmental uncertainty (Wong et al., 2009; Germain et al., 1994)
+Our customers often change their order over the month
+Our suppliers performance is unpredictable
+Competitors’ actions regarding marketing promotions are unpredictable
+Our plant uses core production technologies that often change
+
+Loading
+
+Reliability and validity
+
+0.74
+
+0.83
+0.67
+
+0.72
+
+0.72
+0.88
+0.80
+
+0.53
+
+0.80
+
+0.70
+
+0.70
+0.71
+
+0.82
+
+0.79
+
+0.76
+0.87
+0.90
+0.84
+0.70
+
+0.80
+0.78
+0.86
+0.60
+
+0.76
+0.78
+0.86
+0.60
+
+0.57
+0.68
+0.79
+0.79
+
+0.80
+0.54
+0.65
+0.80
+
+Goodness-of-ﬁt indices: (cid:2)2 = 11.67,
+df = 2, p < 0.001; CFI = 0.96; IFI = 0.96;
+TLI = 0.90; SRMR = 0.03; Cronbach’s
+alpha = 0.83; composite
+reliability = 0.83; AVE = 0.56
+
+Goodness-of-ﬁt indices: (cid:2)2 = 8.01,
+df = 4, p < 0.001; CFI = 0.98; IFI = 0.98;
+TLI = 0.96; SRMR = 0.03; Cronbach’s
+alpha = 0.79; composite
+reliability = 0.87, AVE = 0.51
+
+Goodness-of-ﬁt indices: (cid:2)2 = 9.09,
+df = 2.27, p < 0.001; CFI = 0.99; IFI = 0.98;
+TLI = 0.94; SRMR = 0.04; Cronbach’s
+alpha = 0.79; composite
+reliability = 0.86; AVE = 0.50
+
+Goodness-of-ﬁt indices: (cid:2)2 = 10.94,
+df = 5, p < 0.001; CFI = 0.99; IFI = 0.99;
+TLI = 0.99; SRMR = 0.02; Cronbach’s
+alpha = 0.90; composite
+reliability = 0.90; AVE = 0.64
+
+Goodness-of-ﬁt indices: (cid:2)2 = 3.26,
+df = 2, p < 0.001; CFI = 0.99; IFI = 0.99;
+TLI = 0.99; SRMR = 0.01; Cronbach’s
+alpha = 0.84; composite
+reliability = 0.85; AVE = 0.58
+Goodness-of-ﬁt indices: (cid:2)2 = 10.10,
+df = 2, p < 0.001; CFI = 0.92; IFI = 0.92;
+TLI = 0.90; SRMR = 0.07; Cronbach’s
+alpha = 0.75; composite
+reliability = 0.76; AVE = 0.50
+Goodness-of-ﬁt indices: (cid:2)2 = 40.08,
+df = 5, p < 0.001; CFI = 0.92; IFI = 0.92;
+TLI = 0.90; SRMR = 0.04; Cronbach’s
+alpha = 0.80; composite
+reliability = 0.80; AVE = 0.51
+Goodness-of-ﬁt indices: (cid:2)2 = 6.52,
+df = 2, p < 0.001; CFI = 0.92; IFI = 0.92;
+TLI = 0.90; SRMR = 0.06; Cronbach’s
+alpha = 0.70; composite
+reliability = 0.72, AVE = 0.50
+
+Table 3
+Mean, standard deviations, and correlations of the constructs.
+
+Variables
+
+Mean
+
+II
+SI
+CI
+D
+PC
+PQ
+PF
+EU
+
+3.75
+3.67
+3.80
+3.99
+3.22
+4.04
+3.72
+2.94
+
+S.D.
+
+0.69
+0.69
+0.70
+0.68
+0.66
+0.64
+0.69
+0.68
+
+II
+
+.748
+.477**
+.576**
+.444**
+.341**
+.447**
+.234**
+−.013
+
+SI
+
+CI
+
+D
+
+PC
+
+PQ
+
+PF
+
+EU
+
+.714
+.614**
+.418**
+.390**
+.465**
+.279**
+.069
+
+.707
+.353**
+.345**
+.462**
+.332**
+.001
+
+.800
+.427**
+.514**
+.275**
+−.217**
+
+.762
+.448**
+.468**
+−.069
+
+.707
+.382**
+−.063
+
+.842
+.246**
+
+.707
+
+Note: Square root of AVE is on the diagonal; II: internal integration; SI: supplier integration; CI: customer integration; D: delivery; PC: production cost; PQ: product quality;
+PF: production ﬂexibility; EU: environmental uncertainty.
+** Correlation is signiﬁcant at the 0.01 level (two-tailed).
+
+
+(cid:2)2
+
+73.91***
+42.33***
+84.57***
+73.76***
+70.52***
+86.25***
+86.74***
+
+53.17***
+90.99***
+93.50***
+81.78***
+93.67***
+81.73***
+
+70.22***
+63.82***
+54.61***
+60.50***
+62.96***
+
+80.93***
+78.05***
+72.08***
+100.53***
+
+69.70***
+86.58***
+117.79***
+
+77.83***
+101.61***
+
+57.61***
+
+610
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+Table 4
+Discriminant validity analysis.
+
+Construct pairs
+
+Unconstrained
+
+Constrained
+
+Internal integration
+Supplier integration
+Customer integration
+Production cost
+Delivery
+Product quality
+Production ﬂexibility
+Environmental uncertainty
+Supplier integration
+Customer integration
+Production cost
+Delivery
+Product quality
+Production ﬂexibility
+Environmental uncertainty
+Customer integration
+Production cost
+Delivery
+Product quality
+Production ﬂexibility
+Environmental uncertainty
+Production Cost
+Delivery
+Product quality
+Production ﬂexibility
+Environmental uncertainty
+Delivery
+Product quality
+Production ﬂexibility
+Environmental uncertainty
+Product quality
+Production ﬂexibility
+Environmental uncertainty
+Production ﬂexibility
+Environmental uncertainty
+
+*** p < 0.001.
+
+Table 5
+Structural model testing.
+
+Structural paths
+
+(cid:2)2
+
+81.69
+81.13
+35.73
+57.49
+30.40
+51.57
+37.24
+
+127.55
+65.09
+84.49
+64.01
+81.79
+93.74
+
+57.56
+66.54
+51.57
+74.74
+64.89
+
+38.25
+24.97
+71.96
+41.77
+
+54.43
+65.84
+47.91
+
+37.12
+34.29
+
+47.70
+
+df
+
+26
+26
+19
+26
+19
+19
+19
+
+34
+26
+34
+26
+26
+26
+
+26
+34
+26
+26
+26
+
+26
+19
+19
+19
+
+26
+26
+26
+
+19
+19
+
+19
+
+(cid:2)2
+
+155.60
+123.46
+120.30
+131.25
+100.92
+137.82
+123.98
+
+180.72
+156.08
+177.99
+145.79
+175.46
+175.47
+
+127.78
+130.36
+106.18
+135.24
+127.85
+
+119.18
+103.02
+144.04
+142.30
+
+124.13
+152.42
+165.70
+
+114.95
+135.90
+
+105.31
+
+Standardized estimates
+
+Internal integration and operational performance
+H1 (a) Internal integration→ Delivery
+H1 (b) Internal integration→ Production cost
+H1 (c) Internal integration→ Product quality
+H1 (d) Internal integration→ Production ﬂexibility
+Model ﬁt: (cid:2)2 = 342.919, df = 182; CFI = 0.91; IFI = 0.91; TLI = 0.90; SRMR = 0.07
+Supplier integration and operational performance
+H2 (a) Supplier integration→ Delivery
+H2 (b) Supplier integration→ Production cost
+H2 (c) Supplier integration→ Product quality
+H2 (d) Supplier integration→ Production ﬂexibility
+Model ﬁt: (cid:2)2 = 336.08, df = 203; CFI = 0.92; IFI = 0.92; TLI = 0.91; SRMR = 0.06
+Customer integration and operational performance:
+H3 (a) Customer integration→ Delivery
+H3 (b) Customer integration→ Production cost
+H3 (c) Customer integration→ Product quality
+H3 (d) Customer integration→ Production ﬂexibility
+Model ﬁt: (cid:2)2 = 350.63, df = 203; CFI = 0.91; IFI = 0.91; TLI = 0.90; SRMR = 0.06
+
+0.68 (5.08)***
+0.62 (4.64)***
+0.71 (5.11)***
+0.42 (3.89)***
+
+0.66 (4.13)***
+0.66 (4.24)***
+0.73 (4.26)***
+0.49 (3.18)***
+
+0.61 (4.47)***
+0.61 (4.38)***
+0.73 (4.87)***
+0.53 (3.61)***
+
+Numbers in parenthesis are t-values.
+*** p < 0.001.
+
+df
+
+27
+27
+20
+27
+20
+20
+20
+
+35
+27
+35
+27
+27
+27
+
+27
+35
+27
+27
+27
+
+27
+20
+20
+20
+
+27
+27
+27
+
+20
+20
+
+20
+
+R2
+
+0.48
+0.38
+0.50
+0.18
+
+0.44
+0.44
+0.54
+0.24
+
+0.37
+0.37
+0.53
+0.28
+
+Table 5, the overall ﬁts of all three structural models are good,
+with the CFI, IFI, and TLI well above the recommended threshold
+of 0.90 (Hu and Bentler, 1999), and the SRMR less than 0.08 (Hu
+and Bentler, 1999).
+
+Table 5 indicates that internal integration is positively and sig-
+niﬁcantly (p < 0.001) associated with the four areas of operational
+performance, which lends support for H1a-H1d. Similarly, sup-
+plier integration is positively and signiﬁcantly (p < 0.001) associated
+
+with the four areas of operational performance, which provides
+support for H2a–H2d. Finally, the same holds for customer integra-
+tion (p < 0.001), which lends support for H3a–H3d.
+
+4.2. Contingency effects of environmental uncertainty (EU)
+
+To examine
+
+effects of EU on the
+SCI–performance relationships (H4–H6), we created a two-
+
+contingency
+
+the
+
+
+Table 6
+Results of multi-group analysis.
+
+Models
+
+(cid:2)2
+
+df
+
+(cid:2)2/df
+
+IFI
+
+CFI
+
+RMR
+
+(cid:2)2
+
+df
+
+(cid:2)2 difference test
+
+Panel A: Multi-group analysis for hypothesis H4
+1. Baseline Model
+2. Constrained Model
+3. Constrained paths
+
+3a. Internal integration→ delivery
+3b. Internal integration→ production cost
+3c. Internal integration→ product quality
+3d. Internal integration→ production ﬂexibility
+
+Panel B: Multi-group analysis for hypothesis H5
+1. Baseline Model
+2. Constrained Model
+3. Constrained paths
+
+3a. Supplier integration→ delivery
+3b. Supplier integration→ production cost
+3c. Supplier integration→ product quality
+3d. Supplier integration→ production ﬂexibility
+
+Panel C: Multi-group analysis for hypothesis H6
+1. Baseline Model
+2. Constrained Model
+3. Constrained paths
+
+3a. Customer integration→ delivery
+3b. Customer integration→ production cost
+3c. Customer integration→ product quality
+3d. Customer integration→ production ﬂexibility
+
+608.16
+690.66
+
+609.25
+612.75
+612.12
+610.90
+
+667.02
+746.21
+
+670.96
+669.40
+669.54
+671.57
+
+660.52
+768.68
+
+660.79
+660.80
+660.99
+664.44
+
+362
+412
+
+363
+363
+363
+363
+
+404
+455
+
+405
+405
+405
+405
+
+400
+453
+
+401
+401
+401
+627
+
+1.68
+1.68
+
+1.68
+1.68
+1.68
+1.68
+
+1.65
+1.64
+
+1.65
+1.65
+1.65
+1.66
+
+1.65
+1.70
+
+1.65
+1.65
+1.60
+1.60
+
+0.90
+0.86
+
+0.89
+0.90
+0.90
+0.90
+
+0.90
+0.89
+
+0.90
+0.89
+0.89
+0.90
+
+0.92
+0.83
+
+0.90
+0.89
+0.89
+0.89
+
+t-Values are in brackets.
+
+a Paths coefﬁcients.
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+High
+environmental
+uncertainty
+(n = 75)
+
+Low
+environmental
+uncertainty
+(n = 76)
+
+Hypotheses
+
+0.67a (3.29)***
+0.72 (3.46)***
+0.76 (3.64)***
+0.47(2.87)**
+
+0.78 (4.29)***
+0.42 (2.84)**
+0.58 (3.73)***
+0.33 (2.36)*
+
+H4a supported
+H4b supported
+H4c supported
+H4d supported
+
+0.72a (2.19)*
+0.68 (2.24)*
+0.74 (2.21)*
+0.62 (2.04)*
+
+0.65 (3.22)***
+0.63 (3.43)***
+0.73 (3.58)***
+0.40 (2.12)*
+
+H5a supported
+H5b supported
+H5c supported
+H5d supported
+
+0.90 0.06
+0.85 0.08
+
+0.89 0.08
+0.90 0.06
+0.90 0.06
+0.90 0.06
+
+0.90 0.07
+0.88 0.08
+
+0.90 0.08
+0.88 0.07
+0.89 0.07
+0.90 0.08
+
+82.50
+
+50
+
+p < 0.05
+
+1.09
+4.59
+3.96
+1.94
+
+1
+1
+1
+1
+
+Insigniﬁcant
+p < 0.05
+p < 0.05
+Insigniﬁcant
+
+79.19
+
+51
+
+p < 0.05
+
+3.94
+2.38
+2.52
+4.55
+
+1
+1
+1
+1
+
+p < 0.05
+Insigniﬁcant
+Insigniﬁcant
+p < 0.05
+
+0.90 0.06
+0.84 0.08 108.16
+
+53
+
+p < 0.05
+
+0.89 0.08
+0.89 0.08
+0.89 0.08
+0.89 0.08
+
+0.27
+0.28
+0.47
+3.92
+
+1
+1
+1
+1
+
+Insigniﬁcant
+Insigniﬁcant
+Insigniﬁcant
+p < 0.05
+
+0.69 a (3.68)***
+0.66 (3.60)***
+0.78 (4.11)***
+0.65 (3.24)***
+
+0.67 (2.54) **
+0.60 (2.44)***
+0.78 (2.59)**
+0.47 (2.00)*
+
+H6a not supported
+H6b supported
+H6c supported
+H6d supported
+
+.
+
+.
+
+C
+Y
+W
+o
+n
+g
+e
+t
+a
+l
+.
+
+/
+
+J
+o
+u
+r
+n
+a
+l
+o
+f
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+2
+9
+(
+2
+0
+1
+1
+)
+6
+0
+4
+–
+6
+1
+5
+
+6
+1
+1
+
+
+612
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+group model by dividing the sample into high (n = 75, mean = 3.50)
+and low (n = 76, mean = 2.40) EU groups based on the median of
+its composite score (Germain et al., 2008). Next, we conducted
+multi-group and structural path analyses using AMOS 17.0. A
+multi-group analysis for each dimension of the SCI was conducted
+to investigate the performance impacts under the inﬂuence of high
+and low EUs. This procedure satisﬁes the recommended guidelines
+of having at least a couple of cases per free parameter in each
+model for each high and low EU group (Marsh et al., 1998). Table 6
+summarizes the results of the multi-group and structural path
+analyses.
+
+Panel A in Table 6 summarizes the path estimates and (cid:2)2
+statistics for the path from internal integration to the various
+operational performance outcomes under high and low EUs (H4).
+We found signiﬁcant differences in the (cid:2)2 statistics ((cid:2)2 = 82.50,
+df = 50, p < 0.05) between the baseline model (e.g., the struc-
+tural model parameters varied freely across the two uncertainty
+groups), and the constrained model (e.g., structural parameters
+constrained to be equal across the two uncertainty groups), which
+suggest variance of the model under high and low EUs. We then
+tested the equality of the paths between the high and low EU
+groups. A signiﬁcant (cid:2)2 difference ((cid:2)2 with p < 0.05) indicates
+a moderation effect of the EU. The results showed that the inter-
+nal integration–delivery relationship is signiﬁcant but invariant in
+terms of its strengths under high and low EUs ((cid:2)2 = 1.09, p > 0.05),
+which lends support for H4a. The results further indicated that
+the internal integration–production cost relationship is signiﬁcant
+under low (ˇ = 0.42, p < 0.01) and high EUs (ˇ = 0.72, p < 0.001).
+Based on a signiﬁcant difference in the (cid:2)2 statistics ((cid:2)2 = 4.59,
+p < 0.05) and the difference in ˇ, we concluded that the internal
+integration–production cost relationship is strengthened under a
+high EU, which lends support for H4b. The relationship between
+internal integration and product quality is also signiﬁcant under
+low (ˇ = 0.58, p < 0.001) and high EUs (ˇ = 0.76, p < 0.001) with a sig-
+niﬁcant (cid:2)2 difference ((cid:2)2 = 3.96, p < 0.05), which suggests that the
+internal integration–product quality relationship is strengthened
+under a high EU, and hence, supports H4c. Finally, the relationship
+between internal integration and production ﬂexibility is signiﬁ-
+cant under low and high EUs, but the (cid:2)2 difference test suggests
+invariance of the relationship across high and low EUs ((cid:2)2 = 1.94,
+p > 0.05), and hence, supports H4d.
+
+Panel B of Table 6 shows a repeat of the above analysis for the
+supplier integration–performance paths. We also found signiﬁcant
+differences in the (cid:2)2 statistics ((cid:2)2 = 79.19, p < 0.05) between the
+baseline and constrained models. The results indicated that the
+relationship between supplier integration and delivery is signif-
+icant under low (ˇ = 0.65, p < 0.001) and high uncertainty groups
+(ˇ = 0.72, p < 0.05). While a signiﬁcant difference in the (cid:2)2 statistics
+((cid:2)2 = 3.94, p < 0.05) suggests variance, the difference in ˇ suggests
+that the supplier integration–delivery relationship is strengthened
+under high EU, which lends support for H5a. However, the path
+from supplier integration to production cost ((cid:2)2 = 2.38, p > 0.05),
+and the path from supplier integration to product quality are found
+to have an insigniﬁcant (cid:2)2 difference ((cid:2)2 = 2.52, p > 0.05), which
+suggest the absence of a contingency effect, and hence, lend support
+to H5b and H5c. Finally, the relationship between supplier integra-
+tion and production ﬂexibility is signiﬁcant under low (ˇ = 0.40,
+p < 0.05) and high uncertainty groups (ˇ = 0.62, p < 0.05). A signif-
+icant difference of the (cid:2)2 statistics ((cid:2)2 = 4.55, p < 0.05) suggests
+variance of the path across high and low EUs. These results suggest
+that the supplier integration–production ﬂexibility relationship is
+strengthened under a high EU, which lends support for H5d.
+
+Lastly, panel C of Table 6 shows a repeat of the above analysis for
+the paths from customer integration to operational performance.
+We found signiﬁcant differences in the (cid:2)2 statistics ((cid:2)2 = 108.16,
+df = 53, p < 0.05) between the baseline and constrained models.
+
+The results showed an insigniﬁcant (cid:2)2 difference between high and
+low EU groups for the relationship between customer integration
+and delivery ((cid:2)2 = 0.27, p > 0.05), which does not support H6a. The
+results indicated that customer integration–production cost and
+the customer integration–product quality relationships are posi-
+tively signiﬁcant. However, there are no signiﬁcant (cid:2)2 differences
+between the customer integration–production cost relationship
+((cid:2)2 = 0.28, p > 0.05) and the customer integration–product qual-
+ity relationship ((cid:2)2 = 0.47, p > 0.05), and hence, supports H6b
+and H6c. Finally, a signiﬁcant (cid:2)2 difference is found between the
+high and low uncertainty groups ((cid:2)2 = 3.92, p < 0.05) for the path
+from customer integration to production ﬂexibility; its path coef-
+ﬁcients are signiﬁcant in both high (ˇ = 0.65, p < 0.001) and low
+uncertainty groups (ˇ = 0.47, p < 0.05). A difference in ˇ shows
+that the customer integration–production ﬂexibility relationship
+is strengthened when the EU is high, which lends support for H6d.
+
+5. Discussion and implications
+
+5.1. Discussion of results
+
+The results of the SCI–performance relationships (H1–H3) sup-
+port our expectations and are largely consistent with prior research
+studies. Although the value of SCI has been proven by prior studies,
+our results further justify the value of the three SCI dimensions in
+an emerging country such as Thailand. Our results offer evidence
+of the purported impacts of internal, supplier and customer inte-
+gration on various operational performance outcomes. Previous
+studies have demonstrated the positive impacts of internal inte-
+gration on delivery and quality (Dröge et al., 2004; Germain and
+Iyer, 2006; Swink et al., 2007); our results further provide evidence
+of the positive impacts of internal integration on production cost
+and production ﬂexibility. These results reinforce the argument for
+the need to remove functional barriers (Flynn et al., 2010) and to
+achieve agreement on consistent purposes and cooperation across
+functions (Deming, 1982) to reduce cost (Ettlie and Stoll, 1990) and
+improve ﬂexibility (Sawhney, 2006).
+
+In terms of the value of external integration, our results demon-
+strate positive impacts of both supplier and customer integration
+on delivery, product quality, and production cost, consistent with
+the results of prior studies (Scannell et al., 2000; Rosenzweig et al.,
+2003; Dröge et al., 2004; Devaraj et al., 2007). Our results further
+add evidence to the purported positive impacts of supplier and
+customer integration on production ﬂexibility (Rosenzweig et al.,
+2003). More importantly, our results indicate the beneﬁts of consid-
+ering suppliers and customers as the providers of information and
+collaboration (Galbraith, 1973) which will improve product devel-
+opment, marketing, procurement, production and logistics, and
+facilitate information exchange (Lee et al., 1997), task coordination
+(Stank et al., 1999), cross-border problem-solving routines (Flynn
+and Flynn, 1999), joint cost and inventory reduction (Scannell et al.,
+2000).
+
+Although the value of SCI has been recognized, previous lit-
+erature lacks a theory which can explain why in some instances,
+EU has no effect on an SCI–performance relationship (Koufteros
+et al., 2005), but in other instances, an SCI–performance relation-
+ship could be strengthened or weakened under the inﬂuence of EU
+(O’Leary-Kelly and Flores, 2002). Our results (H4–H6) conﬁrmed
+that such complex relationships can largely be explained by our
+proposed theories. Our theories are supported by the results which
+indicate that internal integration will have greater impacts on prod-
+uct quality and production cost under a high EU because these
+performance outcomes greatly depend on internal ﬁt, but not exter-
+nal input (Ragatz et al., 2002). These results further support the
+TQM literature which argues for the importance of constancy of
+
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+613
+
+purpose and cooperation across functions as the foundations for
+improving cost and quality (Deming, 1982; Crawford, 1992). Such
+foundations will encourage knowledge sharing and development of
+new skills when a focal ﬁrm is faced with an uncertain environment
+(Roth, 1996; Sitkin et al., 1994). These explanations are conﬁrmed
+by further interviews with some respondents who suggested that
+Thailand’s automotive industry embraces internal integration to
+reduce uncertainty by facilitating internal collaboration amongst
+business functions in response to high production cost and to
+reduce the defect rate in production (Lai et al., 2008).
+
+Our results further conﬁrm our theoretical premise which sug-
+gests that external integration, instead of internal integration, will
+have greater impact on delivery and production ﬂexibility under
+a high EU because these performance outcomes are sensitive to
+external input and collaboration. On the other hand, the absence
+of moderating effects of EU on the relationships between sup-
+plier/customer integration, and product quality and production
+cost is as expected because these two performance outcomes are
+less sensitive to external input and collaboration (Ragatz et al.,
+2002). Further interviews with some of the respondents suggest
+that delivery performance is one of the most important perfor-
+mance criteria for automotive ﬁrms. Also, delivery performance
+is highly sensitive to external input and coordination. Thus, these
+ﬁrms need to work closely by sharing information and joint plan-
+ning to ensure continuous input ﬂow, especially when facing a
+highly uncertain environment.
+
+Even though our results largely support our contingency the-
+ories, one of our hypotheses (H6a) is rejected. We theorized
+that both supplier integration–delivery performance and customer
+integration–delivery performance relationships are strengthened
+under a high EU. Our results indicate that only the former,
+not the latter relationship, is strengthened. To gain an in-depth
+understanding on this counter-intuitive result, we conducted fur-
+ther interviews with Thailand’s automotive industry managers to
+identify contextually embedded explanations. Our interviewees
+suggested that customer integration is insufﬁcient to improve
+delivery performance under a high EU. Instead, internal integration
+plays a signiﬁcant role in ensuring coordination between internal
+functions to improve delivery performance. This is because, under
+a highly uncertain environment, it is difﬁcult for JIT delivery to
+the market to correspond with JIT production. As suggested by the
+interviewees, although they have customer integration to support
+JIT delivery, internal integration is required to support JIT pro-
+duction and collaboration amongst business functions to achieve
+delivery performance improvements.
+
+5.2. Implications and contributions to theory
+
+The ﬁndings of this paper provide implications and contribu-
+tions to SCI and OM theories. The ﬁrst implication is concerned
+with the conceptualization of constructs. This paper demonstrates
+the beneﬁts of conceptualizing SCI and operational performance as
+multidimensional constructs (Dröge et al., 2004; Koufteros et al.,
+2005; Devaraj et al., 2007; Swink et al., 2007; Flynn et al., 2010).
+Unlike some previous studies which conceptualize SCI and/or oper-
+ational performance as unidimensional constructs (e.g., Stank et al.,
+1999; Rosenzweig et al., 2003), this paper allows us to comprehen-
+sively understand the details of SCI–performance relationships at
+dimension levels. More importantly, the use of multidimensional
+SCI and performance constructs (Ketokivi and Schroeder, 2004)
+allows us to develop a comprehensive model and theory of the con-
+tingency effects of EU. Knowledge at this level of particularity could
+not be created without taking approaches like ours.
+
+Perhaps the most signiﬁcant contribution of this paper is the
+development and testing of a novel theoretical model on the mod-
+erating effects of EU on SCI–performance relationships. The model
+
+complements previous studies (O’Leary-Kelly and Flores, 2002;
+Fynes et al., 2004; Koufteros et al., 2005), and lays the founda-
+tions for the development of a contingency theory of SCI. Our
+contribution lies in the approach in which we integrate CT and
+OIPT. OIPT allows us to demonstrate the beneﬁt of viewing a
+focal ﬁrm and its environment from an organizational informa-
+tion processing perspective (Galbraith, 1973), and the importance
+of understanding the distinct mechanisms in which internal and
+external integration affect the different groups of performance out-
+comes. Organizational information processing logic serves as the
+basis to identify two contingencies which were previously not
+considered in the SCI and OM literature. The ﬁrst contingency
+concerns the nature of operational performance outcomes, which
+can be divided into time-based externally sensitive and non time-
+based internally dependent performance outcomes. The second
+contingency concerns the distinct effects of the two groups of
+SCIs (internal versus external integration) on these two groups of
+performance outcomes under a high EU. Such a novel approach
+provides the much needed logical arguments to explain why only
+some SCI–performance relationships could be strengthened under
+a high EU. In summary, this paper helps to clarify the tenuous and
+spotty relationships among EU, SCI and operations performance
+(Stonebraker and Liao, 2006), and contributes to contingency oper-
+ations management research (Sousa and Voss, 2008).
+
+5.3. Implications and contributions to practice
+
+In terms of implications for managerial practice, this paper
+advances the understanding of operations and supply chain man-
+agers. Managers are now equipped with theories and supporting
+evidence which explain why their SCI efforts to cope with a high
+EU do not always bring about desirable operational performance
+outcomes. By differentiating internal from external integration,
+managers can now understand that both supplier and customer
+integration are paramount in providing input to the operational
+tasks required to improve time-based and externally sensitive per-
+formance outcomes, such as delivery and ﬂexibility under a high EU.
+This means that managers should focus on investment in external
+integration to improve time-based performance, such as delivery
+and ﬂexibility, because these performance outcomes are sensitive
+to input and collaboration with suppliers and customers, especially
+under a high EU. For instance, in the context of our study, Thailand’s
+automotive industry is one of the major car exporters in Asia, and
+faces severe competition with Japan and South Korea in seizing
+shares in such markets as Southeast Asia, Australia, and the Mid-
+dle East (Fuller, 2010b). Integrating with suppliers and customers
+becomes crucial for the automakers to secure components and
+parts to ensure on-time, reliable, and timely delivery, while main-
+taining ﬂexibility in product speciﬁcations, production volume,
+customized product features, and product mix changes to compete.
+Instead, internal integration is essential for improving non
+time-based performance and internally dependent performance
+outcomes, such as product quality and production cost under a
+high EU. The improvement of product quality and production cost
+under a high EU can be achieved by putting more effort into internal
+integration, because the performance outcomes are less sensitive
+to external input and collaboration, but heavily rely on internal
+ﬁt across functions. When allocating investment in integration,
+managers with such knowledge will be more competent in estimat-
+ing and explaining the performance impacts of various integration
+efforts.
+
+5.4. Limitation and future research
+
+This paper has some limitations. It attempts to explain the
+performance implications of SCI under the contingency effects
+
+
+614
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+of EU, but the performance explanation is likely to be incom-
+plete because SCI is not the only approach to mitigate negative
+effects of EU. Although EU is a key factor that affects the perfor-
+mance of operations, it is not the only contingency factor in the
+SCI–performance relationship. Based on the resource dependency
+theory (Pfeffer and Salancik, 1978), EU may originate from the
+nature of inter-organizational dependency (Handﬁeld, 1993). Other
+means to mitigate such an uncertainty are, for example, acquir-
+ing control over resources to minimize dependence on other ﬁrms.
+Thus, when considering inter-dependency as another contingency
+factor, other aspects of understanding may be created and differ-
+ent managerial implications may emerge. For example, in order to
+reduce the disturbance of supply uncertainty in a JIT environment, it
+is advisable to take over the responsibility of inbound logistics (Hill
+and Vollmann, 1986). Alternatively, legal means may also help to
+control the environment. For example, the possession of a patent
+may reduce the negative impacts of technological and competitive
+uncertainties.
+
+Furthermore, some literature suggests that when integration is
+coupled with different ﬁrm structures, there will be different per-
+formance implications under different levels of EU. Miller (1987)
+argued that integration with bureaucratic mechanisms (with for-
+mal control and integration of decisions) is required for a stable
+environment, and integration with organic mechanisms is more
+effective for an unpredictable environment. Organic mechanisms
+such as environment scanning, delegation of authority, and simpli-
+ﬁcation of procedures are able to reduce or mitigate uncertainty.
+Future studies may extend our research model by including the
+bureaucratic–organic nature of focal ﬁrms, and also explore other
+contingency factors, such as industrial maturity, order qualiﬁer,
+level of outsourcing, etc. (Sousa and Voss, 2008).
+
+To understand the complex contingency effects of EU, this
+paper employs a large-scale survey of a single industry. Although
+the survey of a single industry has its own advantages, omitting
+other industries may decrease the generalizability of the results.
+Thus, further large-scale and cross-sectional research is recom-
+mended. However, the use of large-scale studies with surveys offers
+more statistically generalizable, but potentially superﬁcial ﬁnd-
+ings (Ketokivi and Schroeder, 2004). In addition, the relationships
+among SCI, operational performance, EU and other contextual fac-
+tors are rather multi-faceted and complicated (Stonebraker and
+Liao, 2006). Even though more theory-testing research is required,
+longitudinal and case studies are recommended to fully under-
+stand the mechanisms behind each SCI–performance relationship
+and the contingency effects of other contextual factors. In order
+to meet some of the data analysis criteria (Marsh et al., 1998),
+this paper investigates internal, supplier and customer integration
+in three separate models, and has therefore ignored the potential
+interactions among SCI dimensions. Future research should take
+into account the potential interactions and combined performance
+impacts among different SCI dimensions (Germain and Iyer, 2006;
+Flynn et al., 2010). Finally, this paper focuses on the strength of
+the moderating effects, but further studies on their form (the joint
+effects of EU and SCI) are required. Such joint effects may be tested
+using a moderated regression analysis (Venkatraman, 1989).
+
+6. Conclusion
+
+This paper advances SCI research by developing theories and
+providing empirical evidence to explain the contingency effects of
+EU on the impacts of three SCI dimensions on four dimensions of
+operational performance outcomes. Integrating CT and OIPT, this
+paper develops a novel approach and theory to explain the com-
+plex relationships among EU, SCI and operational performance.
+With this approach, we are able to differentiate the performance
+
+mechanism of internal from external integration, and time-based,
+externally dependent performance outcomes, from non time-
+based, internally dependent performance outcomes. With this
+approach, we are able to explain how and why the impacts of cer-
+tain SCI dimensions on speciﬁc operational performance outcomes
+can be strengthened.
+
+Such an enhanced understanding has implications for opera-
+tions management contingency research (Sousa and Voss, 2008)
+and managerial practice. We can further progress from the justiﬁ-
+cation of the value of SCI to the explanation of the contexts to which
+it is effective. With the theories and ﬁndings of this paper, it is now
+possible for managers to stipulate the environmental conditions
+to which an appropriate SCI dimension would have on particular
+operational performance outcomes. However, the search for con-
+tingency effects is still at its infancy stage. Our ﬁndings lay the
+grounds to expand SCI research into exploring different means of
+reducing or mitigating the impacts of EUs, and the understanding of
+other contingency factors. In addition, more qualitative and quan-
+titative investigations of the inherently complex interactions and
+relationships among SCI, EU, operational performance and other
+contextual factors are required.
+
+Acknowledgements
+
+The authors would like to acknowledge the Associate Editor and
+four anonymous reviewers for the constructive and insightful sug-
+gestions provided to improve the earlier versions of this paper. We
+also thank the Editor-in-Chief, Morgan Swink, for providing us with
+helpful comments. This research is supported in part by Thammasat
+Business School, and the Research Grants Council of the Hong Kong
+Special Administration Region (GRF PolyU 5301/08E).
+
+References
+
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practices:
+a review and recommended two-step approach. Psychology Bulletin 103,
+411–423.
+
+Armstrong, J.S., Overton, T.S., 1977. Estimating nonresponse bias in mail surveys.
+
+Journal of Marketing Research 14, 396–402.
+
+Bagozzi, R.P., Yi, Y., Philips, L.W., 1991. Assessing construct validity in organizational
+
+research. Administrative Science Quarterly 36 (3), 421–458.
+
+Blackburn, J., 1991. Time-Based Competition. BusinessOne Irwin, Homewood, IL.
+Boyer, K.K., Lewis, M.W., 2002. Competitive priorities: investigating the need for
+trade-offs in operations strategy. Production and Operations Management 11
+(1), 9–19.
+
+Cai, S., Jun, M., Yang, Z., 2010. Implementing supply chain information integra-
+tion in China: the role of institutional forces and trust. Journal of Operations
+Management 28 (3), 257–268.
+
+Chang, S.C., Yang, C.L., Cheng, H.C., Sheu, C., 2003. Manufacturing ﬂexibility and busi-
+ness strategy: an empirical study of small and medium sized ﬁrms. International
+Journal of Production Economics 83 (1), 13–26.
+
+Crawford, M., 1992. The hidden costs of accelerated product development. Journal
+
+of Product Innovation Management 9 (3), 188–199.
+
+Deming, W.E., 1982. Quality, Productivity, and Competitive Position. Massachusetts
+
+institute of Technology, Center for Advanced Engineering Study, Cambridge.
+
+Devaraj, S., Krajewski, L., Wei, J.C., 2007. Impact of e-business technologies on oper-
+ational performance: the role of production information in the supply chain.
+Journal of Operations Management 25 (6), 1199–1216.
+
+Downey, H.K., Hellriegel, D., Slocum Jr., J.W., 1975. Environmental uncertainty: the
+construct and its application. Administrative Science Quarterly 20 (4), 613–629.
+Dröge, C., Jayaram, J., Vickery, S.K., 2004. The effects of internal versus external
+integration practices on time-based performance and overall ﬁrm performance.
+Journal of Operations Management 22, 557–573.
+
+Duncan, R.B., 1972. Characteristics of organizational environments and perceived
+
+environmental uncertainty. Administrative Science Quarterly 17, 313–327.
+
+Eisenhardt, K.M., Tabrizi, B., 1995. Accelerating adaptive processes: product innova-
+tion in the global computer industry. Administrative Science Quarterly 40 (1),
+84–110.
+
+Ettlie, J.E., Reza, E., 1992. Organizational
+
+integration and process innovation.
+
+Academy of Management Journal 34, 795–827.
+
+Ettlie, J.E., Stoll, H.W., 1990. Managing the Design-Manufacturing Process. McGraw-
+
+Hill, New York.
+
+Fabbe-Costes, N., Jahre, M., 2008. Supply chain integration and performance: a
+review of the evidence. The International Journal of Logistics Management 19
+(2), 130–154.
+
+
+C.Y. Wong et al. / Journal of Operations Management 29 (2011) 604–615
+
+615
+
+Fisher, M.L., Hammond J.H., Obermeyer, W.R., Raman, A., 1994. Making supply meet
+
+demand in an uncertain world. Harvard Business Review (May–June), 83–93.
+
+Flynn, B., Flynn, J., 1999. Information-processing alternatives for coping with man-
+
+ufacturing environment complexity. Decisions Sciences 17 (3), 249–269.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on per-
+formance: a contingency and conﬁguration approach. Journal of Operations
+Management 28, 58–71.
+
+Follett, M.P., 1993. Freedom and Coordination: Lectures in Business Organization
+1968–1933. Garland Publishing, New York, NY, 1987 (originally published in
+1949).
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unob-
+servable variables and measurement error. Journal of Marketing Research 18
+(1), 39–50.
+
+Frohlich, M.T., 2002. Techniques for improving response rates in OM survey research.
+
+Journal of Operations Management 20 (1), 53–62.
+
+Fynes, B., de Buˇırca, S., Marshall, D., 2004. Environmental uncertainty, supply chain
+relationship quality and performance. Journal of Purchasing & Supply Manage-
+ment 10 (4–5), 179–190.
+
+Fuller, T., 2010a. 2 big U.S. carmakers turn to local banks for Thai factories. The New
+
+York Times, February 27, 2010.
+
+Fuller, T., 2010b. Thailand attracts investment despite turmoil. The New York Times,
+
+June 29, 2010.
+
+Galbraith, J.R., 1973. Designing Complex Organizations. Addison-Wesley, Reading,
+
+MA.
+
+Germain, R., Claycomb, C., Dröge, C., 2008. Supply chain variability, organizational
+structure, and performance: the moderating effect of demand unpredictability.
+Journal of Operations Management 26, 557–570.
+
+Germain, R., Dröge, C., Daugherty, P.J., 1994. The effect of just-in-time selling on
+organizational performance structure: An empirical investigation, Journal of
+Marketing Research 31 (4), 471–483.
+
+Germain, R., Iyer, K.N.S., 2006. The interaction of internal and downstream integra-
+tion and its association with performance. Journal of Business Logistics 27 (2),
+29–52.
+
+Gupta, Y.P., Somers, T.M., 1992. The measurement of manufacturing ﬂexibility. Euro-
+
+pean Journal of Operations Research 60 (2), 166–182.
+
+Hair, J.F., Anderson, R.E., Tatham, R.L., Black, W.C., 1998. Multivariate Data Analysis.
+
+Prentice Hall, Upper Saddle River, NJ.
+
+Handﬁeld, R., 1993. A resource dependence perspective of just-in-time purchasing.
+
+Journal of Operations Management 11, 289–311.
+
+Hensley, R.L., 1999. A review of operations management studies using scale devel-
+
+opment techniques. Journal of Operations Management 17 (3), 343–358.
+
+Hill, A.V., Vollmann, T.E., 1986. Reducing vendor delivery uncertainties in a JIT envi-
+
+ronment. Journal of Operations Management 6 (4), 381–392.
+
+Hu, L., Bentler, P.M., 1999. Cutoff criteria for ﬁt indexes in covariance structure analy-
+sis: conventional criteria versus new alternatives. Structural Equation Modeling
+6, 1–55.
+
+Janakiraman, S., 2010. Growth of the automobile industry in Thailand. Asia-Paciﬁc
+
+Business and Technology Report, August 1, 2010.
+
+Ketokivi, M., Schroeder, R., 2004. Manufacturing practices, strategic ﬁt and perfor-
+mance: a routine-based view. International Journal Operations and Production
+Management 24 (1/2), 171–191.
+
+Koufteros, X.A., Vonderembse, M., Jayaram, J., 2005. Internal and external integration
+for product development: the contingency effects of uncertainty, equivocality,
+and platform strategy. Decision Sciences 36 (1), 97–133.
+
+Lai, K.H., Wong, C.W.Y., Cheng, T.C.E., 2008. A coordination-theoretic investigation
+of the impact of electronic integration on logistics performance. Information &
+Management 45 (1), 10–20.
+
+Lai, K.H., Wong, C.W.Y., Cheng, T.C.E., 2010. Bundling digitized logistics activities
+and its performance implications. Industrial Marketing Management 39 (2),
+273–286.
+
+Lawrence, P., Lorsch, J., 1967. Organization and Environment: Managing Differenti-
+
+ation and Integration. Irwin, Illinois.
+
+Lee, H.L., Padmanabham, V., Whang, S., 1997. The bullwhip effect in supply chains.
+
+Sloan Management Review 38 (3), 93–102.
+
+Lockström, M., Schadel, J., Harrison, N., Moser, R., Malhotra, M.K., 2010. Antecedents
+to supplier integration in the automotive industry: a multiple-case study of for-
+eign subsidiaries in China. Journal of Operations Management 28 (3), 240–258.
+Malhotra, M.K., Grover, V., 1998. An assessment of survey research in POM: from
+
+constructs to theory. Journal of Operations Management 16 (4), 407–425.
+
+Marsh, H.W., Hau, K.-T., Balla, J.R., Grayson, D., 1998. Is more ever too much? The
+number of indicators per factor in conﬁrmatory factor analysis. Multivariate
+Behavioral Research 33 (2), 181–220.
+
+Miller, D., 1992. Environmental ﬁt versus internal ﬁt. Organization Science 3 (2),
+
+159–178.
+
+Miller, D., 1987. The structural and environmental correlates of business strategy.
+
+Strategic Management Journal 8 (1), 55–78.
+
+Morash, E.A., Dröge, C., Vickery, S., 1997. Boundary-spanning interfaces between
+logistics, production, marketing and new product development. International
+Journal of Physical Distribution and Logistics Management 27 (5/6), 350–369.
+
+Moore, G.C., Benbasat, I., 1991. Development of an instrument to measure the
+perceptions of adopting an information technology innovation. Information Sys-
+tems Research 2 (3), 173–191.
+
+Narasimhan, R., Jayaram, J., 1998. Causal linkage in supply chain management: an
+exploratory study of North American manufacturing ﬁrms. Decision Science 29
+(3), 579–605.
+
+Narasimhan, R., Kim, S.W., 2002. Effect of supply chain integration on the rela-
+tionship between diversiﬁcation and performance: evidence from Japanese and
+Korean ﬁrms. Journal of Operations Management 20, 303–323.
+
+Neter, J., Kutner, M.H., Nachtsheim, C.J., Wasserman, W., 1996. Applied Linear Sta-
+
+tistical Models, 4th ed. WCB McGraw-Hill, New York, NY.
+
+Nunnally, J., 1978. Psychometric Theory. McGraw-Hill, New York, NY.
+O’Leary-Kelly, S.W.O., Flores, B.E., 2002. The integration of manufacturing and
+marketing/sales decisions: impact on organizational performance. Journal of
+Operations Management 20, 221–240.
+
+O’Leary-Kelly, S.W.O., Vokurka, R.J., 1998. The empirical assessment of construct
+
+validity. Journal of Operations Management 16 (4), 387–405.
+
+Pagell, M., 2004. Understanding the factors that enable and inhibit the integration
+of operations, purchasing and logistics. Journal of Operations Management 22,
+459–487.
+
+Pantumsinchai, P., 2002. Greening the supply chain. In: Automotive Handbook and
+
+Directory. Society of Automotive Engineers of Thailand, pp. 43–45.
+
+Pfeffer, J., Salancik, G.R., 1978. The External Control of Organizations: A Resource
+
+Dependence Perspective. Harper & Row, NewYork NY.
+
+Podsakoff, P.M., Organ, D.W., 1986. Self-reports in organizational research: problem
+
+and process. Journal of Management 12 (4), 531–544.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J., Podsakoff, N., 2003. Common methods biases
+in behavioral research: a critical review of the literature and recommended
+remedies. Journal of. Applied Psychology 88 (5), 879–903.
+
+Ragatz, G.L., Handﬁeld, R.B., Peterson, K.J., 2002. Beneﬁts associated with supplier
+integration into new product development under conditions of technology
+uncertainty. Journal of Business Research 55 (5), 389–400.
+
+Rosenzweig, E.D., Roth, A.V., Dean Jr., J.W., 2003. The inﬂuence of an integration
+strategy on competitive capabilities and business performance: an exploratory
+study of consumer products manufacturers. Journal of Operations Management
+21, 437–456.
+
+Roth, A.V., 1996. Achieving strategic agility through economies of knowledge. Strat-
+
+egy & Leadership 24 (2), 30–37.
+
+Saeed, K.A., Malhotra, M.K., Grover, V., 2005. Examining the impact of interorgani-
+zational systems on process efﬁciency and sourcing. Decision Sciences 36 (3),
+365–396.
+
+Sawhney, R., 2006. Interplay between uncertainty and ﬂexibility across the value-
+chain: towards a transformation model of manufacturing ﬂexibility. Journal of
+Operations Management 24 (5), 476–493.
+
+Scannell, T.V., Vickery, S.K., Dröge, C.L., 2000. Upstream supply chain management
+and competitive performance in the automotive supply chain industry. Journal
+of Business Logistics 21 (1), 23–48.
+
+Schmenner, R.W., Swink, M.L., 1998. On theory in operations management. Journal
+
+of Management 17, 97–113.
+
+Schonberger, R.J., 1986. World Class Manufacturing. Free Press, New York.
+Sitkin, S.B., Sutcliffe, K.M., Schroeder, R.G., 1994. Distinguishing control from learn-
+ing in total quality management: a contingency perspective. The Academy of
+Management Review 19 (3), 537–564.
+
+Souder, W.E., Sherman, J.D., Davies-Cooper, R., 1998. Environmental uncertainty,
+organizational integration, and new product development effectiveness: a test
+of contingency theory. Journal of Product Innovation Management 15, 520–
+533.
+
+Sousa, R., Voss, C.A., 2008. Contingency research in operations management prac-
+
+tices. Journal of Operations Management 26, 697–713.
+
+Stank, T.P., Keller, S.B., Daugherty, P.J., 2001. Supply chain collaboration and logistical
+
+service performance. Journal of Business Logistics 22 (1), 29–48.
+
+Stank, T.P., Crum, M., Arango, M., 1999. Beneﬁts of interﬁrm coordination in food
+
+industry supply chain. Journal of Business Logistics 20 (2), 21–41.
+
+Stonebraker, P.W., Liao, J., 2006. Supply chain integration: exploring product and
+environmental contingencies. Supply Chain Management: an International Jour-
+nal 11 (1), 34–43.
+
+Swink, M., Narasimhan, R., Wang, C., 2007. Managing beyond the factory walls:
+effects of four types of strategic integration on manufacturing plant perfor-
+mance. Journal of Operations Management 25, 148–164.
+
+Tabuchi, H., 2010. Toyota feels exchange-rate pinch as rivals gain. The New York
+
+Times, September 2, 2010.
+
+The Economist Intelligence Unit, 2010. Thailand Automotive Report, May 2010.
+Thompson, J., 1967. Organizations in Action. McGraw-Hill, New York, NY.
+Venkatraman, N., 1989. The concept of ﬁt in strategy research: toward verbal
+and statistical correspondence. The Academy of Management Review 14 (3),
+423–444.
+
+Wad, P., 2009. The automobile industry of Southeast Asia: Malaysia and Thailand.
+
+Journal of the Asia Paciﬁc Economy 14 (2), 172–193.
+
+Ward, P.T., Duray, R., 2000. Manufacturing strategy in context: environment,
+competitive strategy and manufacturing strategy. Journal of Operations Man-
+agement 18, 123–138.
+
+Wong, C.Y, Boon-itt, S., 2008. The inﬂuence of institutional norms and environmen-
+tal uncertainty on supply chain integration in the Thai automotive industry.
+International Journal of Production Economics 115 (2), 400–410.
+
+Wong, C.Y., El-Beheiry, M.M., Johansen, J., Hvolby, H.H., 2007. The implications of
+information sharing on bullwhip effects in a toy supply chain. International
+Journal of Risk Assessment and Management 7 (1), 4–18.
+
+Wong, C.W.Y., Lai, K.H., Ngai, E.W.T., 2009. The role of supplier operational adapta-
+tion on the performance of IT-enabled transport logistics under environmental
+uncertainty. International Journal of Production Economics 122 (1), 47–55.
+

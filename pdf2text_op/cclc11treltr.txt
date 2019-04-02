@@ -1,0 +1,1656 @@
+Transportation Research Part E 47 (2011) 822–836
+
+Contents lists available at ScienceDirect
+
+Transportation Research Part E
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / t r e
+
+The inﬂuence of greening the suppliers and green innovation
+on environmental performance and competitive advantage in Taiwan
+Tzu-Yun Chiou a,b, Hing Kai Chan a,⇑
+
+, Fiona Lettice a, Sai Ho Chung c
+
+a Norwich Business School, University of East Anglia, UK
+b William E. Connor Group, Taipei, Taiwan
+c Department of Industrial & Systems Engineering, Hong Kong Polytechnic University, Hong Kong
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Keywords:
+Green supply chain management
+Green innovation
+Competitiveness
+Environmental performance
+
+Recently, many companies have recognized the concepts of green supply chain manage-
+ment or supply chain environmental management. However, relatively little research
+attention has been devoted to the consideration of relations between greening the supply
+chain, green innovation, environmental performance and competitive advantage. Hence,
+this paper aims to bridge this gap by providing empirical evidence to encourage companies
+to implement green supply chain and green innovation in order to improve their environ-
+mental performance, and to enhance their competitive advantage in the global market. A
+model is constructed to link the aforementioned constructs. Data were collected through
+a questionnaire-based survey across 124 companies from eight industry sectors in Taiwan.
+The data are analyzed using Structural Equation Modeling and the results from the ﬁnal
+measurement model are used to evaluate the structural model that veriﬁes the signiﬁcance
+of the proposed relationships. A prominent result of this study is that greening the supplier
+through green innovation contributes signiﬁcant beneﬁts to the environmental perfor-
+mance and competitive advantage of the ﬁrm.
+
+Ó 2011 Elsevier Ltd. All rights reserved.
+
+1. Background and research motivation
+
+With the increasing concern about environmental issues from customers, the public and governments around the world,
+companies have been developing a number of environmentally friendly programs and ‘‘green’’ products (e.g. green brands,
+green technologies, and eco-design) (Hoffmann, 2007; Zhu et al., 2008; Yung et al., 2011). It is becoming increasingly impor-
+tant for companies to raise their environmental awareness because more and more international customers and buyers are
+now requiring their suppliers to produce products that do not contain hazardous and toxic substances. They are also increas-
+ingly expecting their suppliers to reduce their consumption of natural energy during the production process in order to re-
+duce the negative impacts of production on the environment. According to Green et al. (1995), the main driving force to
+implement environmental management is compliance with regulation and legislation and cost saving. Bowen et al.
+(2001) also indicated that companies will implement Green Supply Chain Management (GSCM) practices if they can gain
+both ﬁnancial and operational beneﬁts. Well-designed environmental standards can increase a producer’s initiatives to inno-
+vate green products and green technologies. Shrivastava (1995) suggests that companies can differentiate their products, im-
+prove product quality and lower the cost of production through product and process innovations. They can also extend the
+environmental concept into their packaging design considerations.
+
+⇑ Corresponding author.
+
+E-mail address: h.chan@uea.ac.uk (H.K. Chan).
+
+1366-5545/$ - see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.tre.2011.05.016
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+823
+
+Continuous innovation is a vital solution to overcome pressures from customers, competitors, and regulators (Porter and
+Van der Linde, 1995). Therefore, it is very important to adopt green innovation and implement Green Supply Chain Manage-
+ment (GSCM) practices within an organization’s value chain (Steger, 1993). Rao and Holt (2005) conducted empirical re-
+search on GSCM practices and their relationship between competitiveness and economic performance. Their research
+showed that implementing GSCM can improve a company’s competitiveness and economic performance. This is in line with
+previous research which has found that organizations can further reduce production costs and increase economic efﬁciency
+by applying environmental related initiatives (Porter, 1991). Improvements in corporate environmental performance and
+compliance with environmental regulations can also contribute to a company’s competitiveness (Bacallan, 2000). In addi-
+tion, the implementation of GSCM through internal and external environmental management contributes substantial ben-
+eﬁts by enhancing corporate competitiveness and improving environmental performance (Rao, 2002; Tukker et al., 2001;
+Cairncross, 1992; Hart, 1995; Schmidheiny, 1992; Shrivastava, 1995; Porter and van der Linde, 1995; Vermulen, 2002).
+
+Green innovation can be classiﬁed into three main categories: green product innovation; green process innovation; and
+green managerial innovation (Chen et al., 2006; Chen, 2008). Chen et al. (2006) found that green product and green manu-
+facturing process innovations are positively associated with corporate competitive advantage. Chen (2008) then introduced
+the concept of core competencies. His study showed that green core competencies, deﬁned as ‘‘the collective learning and
+capabilities about green innovation and environmental management’’ (p. 533), have a positive inﬂuence on a ﬁrm’s ability
+to develop green product and process innovations. In turn, this helps to improve a company’s green image and thus compet-
+itive advantage. These studies do not consider the impact of green innovation speciﬁcally on environmental performance nor
+the inﬂuence of a greener supply chain on green innovation or performance.
+
+Although the green supply chain management literature is rich, relatively little research attention has been focused on
+Taiwanese industry. For green innovation, Chen et al. (2006) and Chen (2008) are the only studies in this area that focus
+on Taiwan. In Taiwan, the economy has grown drastically in the past few decades, but this has had a negative impact on
+the natural environment. Taiwan’s industries are mostly involved in Original Equipment Manufacturing (OEM) and Original
+Design Manufacturing (ODM). These companies play important roles in global markets as they are the largest partners of the
+world leading IT organizations (Yu and Hsu, 2006). Globally, Taiwan is a major international producer of information prod-
+ucts (Chen, 2004). The consumption of resources by Taiwanese industry cannot therefore be underestimated.
+
+This research will therefore focus on the Taiwanese context, as it is relatively under-researched. Although other studies
+have considered the relationship between green supply chain management and performance or competitive advantage,
+these have not considered the links between a greener supply chain (greening the supplier) and green innovation, or the abil-
+ity to develop green products and manufacturing processes and green managerial innovation. In this study, these relation-
+ships will be examined and subsequently the impact of these factors on both the environmental performance and
+competitive advantage of organizations. Theoretically, the contribution of this research is therefore to consider the interplay
+and relationships between all of these factors, which has not previously been considered. Speciﬁcally, this study will answer
+two research questions: (1) To what extent are ﬁrms greening their supply chain and implementing green innovation? (2)
+Are there any signiﬁcant direct and indirect links between greening the supplier, green innovation, environmental perfor-
+mance and competitive advantage? To answer these research questions, a questionnaire survey was conducted with Taiwan-
+ese industry respondents. This paper will present the results of the survey and identify implications for practice and further
+research needed in this area. Section 2 presents a literature review and develops the hypotheses which form the basis of this
+study. Section 3 presents the research method and how the data were collected and analysed. Section 4 discusses the key
+statistical results and Section 5 discusses these results and concludes this paper.
+
+2. Review of literature and hypotheses development
+
+Green Supply Chain Management (GSCM) plays an important role in traditional Supply Chain Management (SCM) (Linton
+et al., 2007). In the past, a company could gain competitive advantage through implementing SCM practices, such as improv-
+ing sourcing decisions (Wouters et al., 2009). However, companies nowadays have to integrate their supply chain with envi-
+ronmental management due to pressures from customers who have increasing environmental concerns. In addition,
+organizations can generate more business opportunities than their competitors if they can address environmental issues
+(e.g. by implementing a proper environmental management system) successfully (Hansmann and Claudia, 2001).
+
+Although there are many competing deﬁnitions for GCSM (Zhu and Sarkis, 2004), GSCM can be broadly classiﬁed into
+internal and external environmental management (Rao, 2002). Internal environmental management focuses on internal sup-
+port and commitment for GCSM, compliance with certiﬁcation and the existence of environmental management systems
+within the organization (Zhu and Sarkis, 2004). External environmental management is related to greening the suppliers
+so that they are involved with the organization towards achieving environmental objectives (Bowen et al., 2001; Lamming
+et al., 1999; Lloyd, 1994; Rao, 2002; Hamner, 2006; Makower, 1994; Green et al., 1998; Rajagopal and Bernard, 1993). It also
+includes green purchasing, cooperation with customers, environmental requirements, investment recovery, and eco-design
+practices (Rao and Holt, 2005) or green product innovation (Chen et al., 2006).
+
+In the literature, some studies have provided evidence that integrating suppliers more strongly into the product innova-
+tion process can improve a ﬁrm’s overall performance (e.g. Bonaccorsi and Lipparini, 1994; Ragatz et al., 2002; Johnsen,
+2009; Lau et al., 2010). However, conﬂicting evidence has been found in other studies, where they show that such integration
+
+
+824
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+could result in poor performance; for example, increased development time and development costs (Zirger and Hartley,
+1994; Ittner and Larcker, 1997; Ragatz et al., 2002; Das et al., 2006). Extending this into the debate around environmental
+practices, it is therefore important to understand the impact and relationship of more closely integrating GSCM practices and
+in particular greening the suppliers with green innovation processes to better understand the relationship and impact on
+both environmental performance and competitive advantage.
+
+2.1. The relationship between greening the supplier and green innovation
+
+Environmental issues are becoming part of strategic planning in organizations due to stricter environmental regulations
+and customers’ increasing concern about environmental issues (Walton et al., 1998). As a result, long-term strategic advan-
+tages can be developed by working closely with suppliers (Rajagopal and Bernard, 1993; Chan, 2007). A partnership working
+and appraisal system is necessary to ensure the appropriate level of product and service quality can be achieved (Sroufe,
+2006). This involves a signiﬁcant change in the attitudes of those companies who want to establish closer supplier relation-
+ships, which requires an investment of time and resources for both parties (Lettice et al., 2010). Those companies need to
+work closely with their suppliers to provide sufﬁcient guidance, advice and assistance, and to share their knowledge and
+skills to help them to become more ‘green’. Working towards this, many large companies have established their own envi-
+ronmental standards for their suppliers (Rao, 2002).
+
+Green innovation is often classiﬁed into green product and green process innovations (Klassen and Whybank, 1999; Por-
+ter and Van der Linde, 1995; Hart, 1995; Schmidheiny, 1992; Chen et al., 2006; Chen, 2008). For example, Klassen and Why-
+bank (1999) categorized green innovation into the product design aspect and the manufacturing process aspect. From the
+product design aspect, green innovation includes the process to modify an existing product design to reduce any negative
+impact on the environment during any stage of a product’s life cycle. From the process aspect, green innovation is any adap-
+tation to the manufacturing process that reduces the negative impact on the environment during material acquisition, pro-
+duction, and delivery. Green managerial innovation cannot be underestimated in the implementation of GSCM practices.
+Senior management support is one of the key drivers for the successful implementation of innovation (Hamel and Prahalad,
+1989). Zhu and Sarkis (2004), in their research on Chinese manufacturing industry, found that getting commitment from top
+or middle level managers has a signiﬁcant inﬂuence on the implementation of successful internal environmental manage-
+ment. In this research, we therefore deﬁne green innovation as comprising of green product innovation, green process inno-
+vation and green managerial innovation.
+
+With increasing concern for environmental issues and regulations, customers and buyers require their suppliers to offer
+products and materials which take environmental issues into consideration. Therefore, it is necessary to work closely with
+suppliers early in the product development process to reduce material and packaging which could cause a negative impact
+on the environment. It is also beneﬁcial to invite suppliers to help to improve the product design and manufacturing pro-
+cesses and to improve overall compliance with environmental regulations. Rao (2002) identiﬁed that greening the supplier
+initiatives do lead to greener suppliers and more green innovations. However, other studies have found that such integration
+could result in poor performance; for example, by increasing development time and development costs (Zirger and Hartley,
+1994; Ittner and Larcker, 1997; Ragatz et al., 2002; Das et al., 2006). Finally, studies have shown that internal managerial
+support for green initiatives is one of the key drivers to successfully implement environmental management systems and
+practices (Zhu and Sarkis, 2004; Hamel and Prahalad, 1989). To determine whether there is a positive relationship between
+greening the supplier and green innovation we propose our ﬁrst hypothesis. Other studies have tended to focus on just green
+product and process innovation. For this study we separate green innovation into three parts to understand whether green-
+ing the supplier inﬂuences green product innovation, green process innovation, green managerial innovation, or all three:
+
+H1. Greening the supplier is positively associated with green innovation.
+
+H1a: Greening the supplier is positively associated with green product innovation.
+H1b: Greening the supplier is positively associated with green process innovation.
+H1c: Greening the supplier is positively associated with green managerial innovation.
+
+2.2. The relationship between green innovation and environmental performance
+
+As discussed above, green innovation is composed of green product innovation, green process innovation and green man-
+agerial innovation. Chen et al. (2006) and Chen (2008) considered how green product and process innovation affect compet-
+itive advantage and the green image of an organization, but did not consider how they affected an organization’s
+environmental performance. They also did not consider how green managerial innovation affects environmental perfor-
+mance. Although other studies have considered how GCSM initiatives and greening the supplier impact environmental per-
+formance (Porter and Van Der Linde, 1995; Cairncross, 1992; Hart, 1995; Schmidheiny, 1992; Zhu et al., 2008), they have not
+explicitly considered the links between green innovation and environmental performance. In this study, we therefore pro-
+pose to contribute to the literature by exploring whether the three categories of green innovation do affect environmental
+performance. The following hypothesis and sub-hypotheses are therefore proposed:
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+825
+
+H2. Green innovation is positively associated with environmental performance.
+
+H2a: Green product innovation is positively associated with environmental performance.
+H2b: Green process innovation is positively associated with environmental performance.
+H2c: Green managerial innovation is positively associated with environmental performance.
+
+2.3. The relationship between green innovation and competitive advantage
+
+Innovation is one of the key forces to increase corporate competitive advantage (Porter and Van Der Linde, 1995). With
+more environmental regulations, it is becoming increasingly necessary to consider the whole product life cycle when making
+product and design process decisions. Green products and processes not only reduce the negative impact on the environ-
+ment, but they can also increase company’s competitive advantage (Porter and Van Der Linde, 1995). Noci and Verganti
+(1999) have investigated this through a qualitative case study and Chen et al. (2006) initiated a survey in the information
+and electronics industry to consider how green product and process innovations affect competitive advantage. However,
+there is still a need to provide more empirical evidence across different industries and to consider all three types of green
+innovation. The following hypotheses are therefore proposed:
+
+H3. Green innovation is positively associated with competitive advantage.
+
+H3a: Green product innovation is positively associated with competitive advantage.
+H3b: Green process innovation is positively associated with competitive advantage.
+H3c: Green managerial innovation is positively associated with competitive advantage.
+
+2.4. The relationship between environmental performance and competitive advantage
+
+In general, companies can improve their environmental performance by implementing environmental management or
+GSCM. Organizations can add value to core business programs by implementing environmental programs successfully
+(Hansmann and Claudia, 2001). In addition, GSCM promotes efﬁciency and synergy which includes enhancing environmental
+performance, improving competitiveness and cost saving (Rao and Holt, 2005). Companies can also enhance their green cor-
+porate image by improving their environmental performance, which in turn helps to open up new business opportunities
+and improve competitive advantage (Chen, 2008). Vachon and Klassen (2008) showed a correlation between environmental
+performance and competitive advantage in their survey of North American organizations. However, Rao’s (2002) study of
+ﬁrms in South East Asia (Malaysia, Philippines, Indonesia, Thailand, and Singapore) could not ﬁnd a correlation between
+environmental performance and economic performance/competitive advantage. This study will therefore extend this
+previous research into the Taiwanese context and collect more empirical evidence to see if there is indeed a link between
+environmental performance and competitive advantage. Therefore, the following hypothesis is proposed:
+
+H4. Environmental performance is positively associated with competitive advantage.
+
+2.5. The relationship between greening the supplier and environmental performance and between greening the supplier and
+competitive advantage
+
+Working with suppliers on long term strategy to reduce the negative impact on the environment improves corporate
+competitive advantage. Rao (2002) identiﬁed that companies would like to ‘green’ their supply chains by implementing
+mentoring methods, and by building stronger relationships and networks. The study also found that companies can improve
+their environmental performance by working more closely with their suppliers. Similarly, Hamner (2006) found that buyers
+can improve their environmental performance by educating their suppliers about environmental issues and helping their
+suppliers to implement environmental management systems. Some studies have attempted to develop supplier selection
+models from an environmental performance point of view (e.g. Lee et al., 2009; Bai and Sarkis, 2010). However, they over-
+looked the effect of greening the suppliers on environmental performance. Although some studies have already identiﬁed the
+importance of some supply chain activities (Zhu and Sarkis, 2004), more understanding of the speciﬁc relationship between
+greening the suppliers and environmental performance is sought in this study. This leads to the ﬁfth hypothesis:
+
+H5. Greening the supplier is positively associated with environmental performance.
+
+Working closely with suppliers can enhance competitiveness because suppliers can provide organizations with useful
+market information. For example, some of the leading organizations in Taiwan have enhanced their competitiveness in
+the global market, improved their product quality and reduced production cost through implementing partnering systems
+(Rao, 2002). In the past few years, one key success factor for GSCM has been to work with suppliers who have met environ-
+mental criteria to reduce the cost of compliance with regulations (Sarkis, 1999). Many large and medium sized enterprises
+have worked with their suppliers not only to meet the environmental regulations, but also to organize other environmental
+
+
+826
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+activities for their suppliers, such as providing environmental technical advice and awareness seminars to them and inviting
+suppliers to be involved earlier in the product development process (Handheld and Nichols, 1999; Rao, 2002; Rao and Holt,
+2005). This has led to improved product quality, reduced costs (unnecessary expense) and enhanced competitiveness in the
+market. Again, this study focuses speciﬁcally on greening the supplier, which has received less attention in previous studies
+and the following hypothesis is therefore proposed:
+
+H6. Greening the supplier is positively associated with competitive advantage.
+
+2.6. The relationship between green product, process and managerial innovation
+
+Since in this study we have included three types of green innovation, it is also interesting to investigate the synergy and
+
+correlation among these three variables. Therefore, the following hypotheses are established:
+
+H7. Green product innovation, green process innovation and green managerial are positively associated with each other.
+
+H7a: Green product innovation is positively associated with green process innovation.
+H7b: Green process innovation is positively associated with green managerial innovation.
+H7c: Green managerial innovation is positively associated with green product innovation.
+
+In summary, the literature review indicates that greening the supplier has a positive inﬂuence on green innovation
+(Rao, 2002; Tukker et al., 2001; Porter and Van Der Linde, 1995; Shrivastava, 1995). In addition, green innovation has a
+positive impact on competitive advantage (Porter and Van Der Linde, 1995; Klassen and Whybank, 1999; Rao, 2002; Rao
+and Holt, 2005; Chen et al., 2006; Chen, 2008). Furthermore, greening the supplier has a positive impact on environmental
+performance (Rao, 2002; Rao and Holt, 2005; Tukker et al., 2001; Crowe and Brennan, 2007) and competitive advantage
+(Rao, 2002; Rao and Holt, 2005). This study aims to formulate the complex relationship between all of the factors: greening
+the supplier; green product, process and managerial innovation, environmental performance and competitive advantage.
+These relationships form a conceptual framework, as illustrated in Fig. 1, which will be tested in this study. In this study,
+greening the supplier is an exogenous variable, and green innovation, competitive advantage and environmental perfor-
+mance are endogenous variables. In addition, green innovation is also an intervening variable in this study.
+
+3. Research method
+
+3.1. Research design
+
+In order to carry out Conﬁrmatory Factor Analysis (CFA) that establishes causal relationships among the constructs shown
+in Fig. 1, an empirical questionnaire survey followed by Structural Equation Modeling (SEM) is employed. SEM is a statistical
+methodology which provides parameter estimates of the direct, indirect or total direct links and causal relationships be-
+tween observed or manifest and reference variables and unobserved variables. Bentler (1988) states that SEM theory repre-
+
+H5 
+
+Environmental 
+Performance 
+
+Green Innovation 
+Product Innovation 
+
+H2 
+
+Greening 
+
+H1 
+
+the 
+
+Supplier 
+
+Process Innovation 
+
+H7 
+
+Managerial Innovation 
+
+H4 
+
+H3 
+
+GSCM 
+
+H6 
+
+Fig. 1. Conceptual framework.
+
+Competitive   
+Advantage 
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+827
+
+sents ‘‘causal’’ processes that create observations on multiple variables. SEM can also provide parameter estimates for rela-
+tionships among unobserved variables (latent constructs) which are measured using indicator variables. In general, an SEM
+model can be decomposed into two sub-models: a measurement model and a structural model. The measurement model
+deﬁnes relationships between the observed and unobserved variables and evaluates the reliability and validity of the model.
+In contrast to the measurement model, the structural model deﬁnes the relationships among the unobserved variables and
+tests the research hypotheses.
+
+For SEM, we have to identify the latent variables that are exogenous and endogenous. Exogenous latent variables are
+independent variables that are not inﬂuenced by other latent variables. Endogenous latent variables are dependent variables
+that are affected by exogenous variables in the model. In this study, ‘‘greening the supplier’’ is an exogenous variable. ‘‘Green
+innovation’’, ‘‘environmental performance’’ and ‘‘competitive advantage’’ are endogenous latent variables. There are different
+analytical tools to analyze SEM. In this study, AMOS 7.0 is employed. The proposed model (see Fig. 1) which would be val-
+idated has six latent constructs, each being measured by the indicators in Table 1. A ﬁve-point Likert scale (1 = Strongly Dis-
+agree and 5 = Strongly Agree) is used as the response format for each indicator variable. The pre-test analysis is illustrated
+later in this section before analyzing the data for SEM.
+
+3.2. Sample size and data collection
+
+In this study, an online questionnaire survey is the research instrument and an invitation to complete the questionnaire
+survey was sent out by email. The questionnaire was developed based on the literature presented in preceding sections, and
+is attached in Appendix A of this paper. The questionnaire items regarding the construct ‘‘Greening the supplier’’ (items 1–6)
+are adopted from the studied conducted by Rao (2002) and Rao and Holt (2005). The respondents were asked if the environ-
+mental actions had been taken into consideration when selecting and working with suppliers. In addition, the items regard-
+ing ‘‘Environmental performance’’ and ‘‘Competitive advantage’’ are also adopted from Rao (2002) and Rao and Holt (2005).
+They are items 16–18 and items 19–22 within the questionnaire respectively. The other three variables for ‘‘Green innova-
+tion’’ are measured based on the items proposed by Chen et al. (2006) and Chen (2008), which can be found in items 7–15 of
+the questionnaire.
+
+Table 1
+Indicator variables.
+
+Latent construct
+
+Indicator variables
+
+Greening the
+
+supplier
+
+Selecting suppliers by environmental criteria
+
+Code
+
+Mean
+
+Standard
+deviation
+
+Q1011
+
+4.4597
+
+0.75868
+
+Requiring and assisting suppliers to obtain a third-party certiﬁcation of
+environmental management system (EMS)
+Providing environmental awareness seminars and training for suppliers
+Providing environmental technical advice to suppliers and contractors in order to help
+suppliers to meet environmental criteria.
+Invite suppliers to join in the development and design stage
+Sending in-house auditor to appraise environmental performance of supplier.
+
+Q1021
+
+3.8952
+
+0.75243
+
+Q1031
+Q1041
+
+3.7581
+4.1371
+
+0.86833
+0.90468
+
+Q1051
+Q1061
+
+4.2661
+3.8871
+
+0.85643
+1.04539
+
+Using less or non-polluting/toxic materials. (Using environmentally friendly material) Q2011
+
+4.2823
+
+0.89770
+
+ITC
+
+0.774
+
+0.795
+
+0.719
+0.837
+
+0.740
+0.769
+
+0.862
+
+Green product
+innovation
+
+Green process
+innovation
+
+Green managerial
+
+innovation
+
+Environmental
+performance
+
+Improving and designing environmentally friendly packaging (e.g.: less paper and
+plastic material used) for existing and new products.
+Recovery of company’s end-of-life products and recycling
+Using eco-labeling
+
+Low energy consumption such as water, electricity, gas and petrol during production/
+use/disposal.
+Recycle, reuse and remanufacture material
+Use of cleaner technology to make savings and prevent pollution (such as energy,
+water and waste)
+
+Redeﬁne operation and production processes to ensure internal efﬁciency that can
+help to implement GSCM
+Re-designing and improving product or service to obtain new environmental criteria
+or directives
+
+Q2021
+
+4.1774
+
+0.83664
+
+0.852
+
+Q2031
+Q2041
+
+4.2016
+4.2984
+
+0.88327
+0.84565
+
+Q2051
+
+4.4032
+
+0.83539
+
+Q2061
+Q2071
+
+4.2581
+4.2984
+
+0.89143
+0.88653
+
+0.804
+0.879
+
+0.877
+
+0.891
+0.904
+
+Q2081
+
+4.3468
+
+0.85582
+
+0.870
+
+Q2091
+
+4.3790
+
+0.83220
+
+0.888
+
+Reduction of hazardous waste, emission, etc.
+
+Q3O11
+
+4.2016
+
+0.91046
+
+0.870
+
+Less consumption of e.g. water, electricity, gas and petrol
+Improvement of environmental compliance
+
+Competitive
+advantage
+
+Customer response
+
+Product design and innovation
+Quality of product and service
+Low production cost
+
+Q3O21
+Q3031
+
+4.1371
+4.1935
+
+0.88653
+0.93424
+
+Q4O11
+
+4.2903
+
+0.85325
+
+Q4O21
+Q4031
+Q4041
+
+4.2661
+4.3468
+4.2258
+
+0.95516
+0.87461
+0.91810
+
+0.872
+0.877
+
+0.886
+
+0.887
+0.877
+0.833
+
+
+828
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+The emailing list had been randomly selected from the online resource ‘‘Business Express’’ (http://business.com.tw), a
+business directory, which lists the ﬁrms in Taiwan under different industry sectors. The ﬁnal sample frame was 1569 com-
+panies from eight industries. Most of Taiwan’s companies do not have a supply chain department to coordinate and manage
+their upstream and downstream supply chain activities. Therefore, the purchasing department was identiﬁed as the target
+respondent of this study. A covering letter was included to explain the purpose and intention of the survey. It also promised
+anonymity of both the respondent and the company in the research report.
+
+The invitation was e-mailed directly to the company’s purchasing departments. In order to maximize the response rate, a
+follow up email was sent to respondents 2 weeks after sending out the ﬁrst email. Within 2 weeks of the ﬁrst invitation, 70
+questionnaires were received. A further 54 questionnaires were received within 2 weeks of sending out the follow up email.
+Therefore, a total of 124 completed surveys had been received from 1569 respondents. All of these returned surveys were
+complete and acceptable for analysis. Therefore the overall response rate is 7.9%. Based on responses to previous studies
+(e.g. 72 respondents in Lu’s (2000) study; 83 respondents in Oum and Park’s (2004) study; 72 respondents in Sodhi and Son’s
+(2009) study), these ﬁgures are representative and are of an acceptable standard for publication.
+
+3.3. Pre-test analysis
+
+The main purpose of the pre-test analysis was to validate the sample size and identify whether there was any indication
+of non-response bias between the two groups of respondents. First of all, the acceptability of the sample size was investi-
+gated. Sample size is one of the key issues in SEM because it affects the degrees of freedom of the model and the model ﬁtting
+process. In general, when sample size is lower than 100, SEM analysis is not stable (Kline, 1998). According to Bagozzi and Yi
+(1988), a sample size of between 100 and 200 is required to use the maximum likelihood method. Therefore, the sample size
+of 124 in this study is acceptable.
+
+The second test was to verify the non-response bias between the two groups of respondents. Initially, 70 questionnaires
+were received before a follow-up email was sent out, which represents a 4.46% response rate. A second set of 54 question-
+naires were received after sending a follow-up email, which represents a 3.44% response rate. Non-response bias was estab-
+lished in two separate tests, the t-test and the Chi-Square test.
+
+The t-test is the most commonly used statistical method to evaluate the differences in means between two groups. To
+compare the data from the two different response groups, an independent sample t-test was undertaken and the results
+of the p-value for each observed variable was greater than or equal to 0.05, indicating that there was no signiﬁcant difference
+between the groups. The data are summarized in Table 2a. The Chi-Square test was then employed to test the two groups of
+respondents based on industry sector, ISO14000 certiﬁed or not and the number of employees. These results are summarized
+in Table 2b. Again, a p-value equal to or greater than 0.05 indicated that there was no signiﬁcant difference between the two
+groups of respondents. Based on the results of these two tests, there is an indication that there might be no non-response
+bias.
+
+3.4. Reliability analysis
+
+Reliability analysis is a method to measure the precision or lack of distortion of the indicators. Reliability concerns the
+consistency, precision and repeatability of the indicator (Kline, 1998). Through the value of Cronbach’s Alpha, reliability
+of each construct and items established in the study are veriﬁed. In addition, item-total correlation, composite reliability
+and variance extracted estimate are used to validate the reliability of each construct through Conﬁrmatory Factor Analysis
+in the SEM model.
+
+1. Cronbach’s Alpha: Ranges between 0.00 (without any reliability) and 1.0 (perfect reliability) inclusive. The larger the
+Cronbach’s Alpha, the better is the consistency in the measurement (Vogt, 1999). Nunnally (1978) suggests that the Cron-
+bach’s Alpha should be at least equal to 0.5 and preferably larger than 0.7.
+
+2. Corrected Item-Total Correlation (ITC): Sums up each item correlation and then excludes items with ITC values below 0.4
+
+(Nunnally, 1978), to see if excluding the item increases the Cronbach’s Alpha.
+
+Table 2
+Pre-test for the groups industry, ISO14000 and number of employees. (a) t-test and p-value. (b) Chi-Square and p-value.
+
+Industry
+ISO14000
+Number of employees
+
+Chi Square value
+
+Degrees of freedom (df)
+
+Industry
+ISO14000
+Number of employees
+
+8.99
+0.762
+1.648
+
+7
+1
+5
+
+p-Value
+
+0.066
+0.385
+0.355
+
+p-Value
+
+0.253
+0.383
+0.895
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+829
+
+3. Composite Reliability: Measures the internal consistency of a single construct. The reliability is higher if the value of com-
+posite reliability is greater than 0.6 (Hatcher, 1994). However, a minimum of 0.7 is recommended (Fornell and Larcker,
+1981).
+
+4. Average Variance Extracted (AVE): Measures the internal consistency of the model. If the AVE is greater than 0.5, then
+
+reliability is good (Hatcher, 1994).
+
+The results of the reliability analysis are discussed in Section 4.
+
+4. Results and analysis
+
+4.1. Descriptive analysis
+
+The main purpose of using descriptive analysis is to describe the basic features of the data in this study. It provides a sim-
+ple summary of how the respondents from different industry sectors have implemented greening the supplier and green
+innovation practices. The size of the companies in the sample is shown in Table 3. There are 29 companies out of 124 respon-
+dents (23.4%) with less than 200 employees, and only 7 of these 29 (24%) are ISO 14000 certiﬁed. In addition, there are 95
+companies with more than 200 employees (76.6%), and a high percentage (91.58%) of these companies have been ISO 14000
+certiﬁed. That means the respondents are mostly medium and large enterprises. Table 4 shows the statistics of the respon-
+dents with respect to their industry. Most of the respondents (nearly 50%) come from two industries: the computer, elec-
+tronic product and components industry and the chemical, rubber and plastic product industry. In addition, 24 out of 28
+(85%) of the companies in the chemical, rubber and plastic industry have ISO14000 certiﬁcation. The car and transport equip-
+ment sector companies in this sample all have ISO14000 certiﬁcation.
+
+The mean and standard deviations were also calculated to further explain the current situation for greening the supplier,
+green innovation, environmental performance and competitive advantage for the Taiwanese ﬁrms in the sample. Each of
+these observed variables were evaluated on a ﬁve-point scale (strongly agree, agree, neutral, disagree, and strongly disagree).
+As can be seen in Table 1, the means for all items across all of the constructs are in the range of 3.76–4.46. This implies that
+many companies in Taiwan have already implemented actions to improve the greening of their suppliers; and to develop
+green products, processes and managerial innovations and have had corresponding results in terms of good environmental
+performance and competitive advantage
+
+4.2. Reliability of the measurement model
+
+A total of 22 items (observed variables) are in the model to measure the relationship between greening the supplier, green
+product innovation, green process innovation, green managerial innovation, environmental performance and competitive
+advantage. After evaluating the ITC values, it was not necessary to exclude any item in this study because no ITC value
+was lower than 0.4, as shown in Table 1. The Cronbach’s Alpha for six latent constructs were calculated to test the reliability
+of the questionnaire. The reliability measures are listed in Table 5. The Cronbach’s Alpha of each item is more than 0.9 and
+less than 1.0 (0.9 < Cronbach Alpha < 1.0), which means that the questionnaire has high reliability and consistency.
+
+In terms of composite reliability, the values for all constructs (0.85, 0.77, 0.96, 0.92, 0.94 and 0.96) are greater than the
+recommended value of 0.7. That means the measures of the constructs are highly reliable in terms of their internal consis-
+tency. In addition, the AVE values for the variables are all greater than the recommended value of 0.5 (66%, 78%, 88%, 86%,
+83%, and 86%), which means that those (indicator) variables in the questionnaire have been understood.
+
+4.3. Structural model: statistical signiﬁcance
+
+The results from the ﬁnal measurement model were used to evaluate the structural model that tested the signiﬁcance of
+the theorized relationships. The ﬁnal model with path coefﬁcients is shown in Fig. 2. Fourteen of 15 path coefﬁcients are
+signiﬁcant. The path coefﬁcients were measured to support hypotheses, as shown in Table 6. In addition, the goodness of
+ﬁt test is carried out. This test was established by different indices to negate bias related to the use of a single index (Hair
+
+Table 3
+Background of the respondents (N = 124).
+
+Number of employees
+
+Frequency
+
+Under 200
+200–399
+400–599
+600–799
+800–999
+Over 1000
+Total
+
+29
+14
+7
+8
+7
+59
+124
+
+%
+
+23.4
+11.3
+5.6
+6.5
+5.6
+47.6
+100
+
+ISO14000 (YES)
+
+7
+7
+6
+8
+7
+59
+94
+
+%
+
+5.65
+5.65
+4.83
+6.44
+5.65
+47.58
+75.8
+
+Without ISO14000 (NO)
+
+22
+7
+1
+0
+0
+0
+30
+
+%
+
+17.75
+5.65
+0.82
+0
+0
+0
+24.2
+
+
+830
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+Table 4
+Industry of the respondents (N = 124).
+
+Industry
+
+Frequency
+
+Percentage
+(%)
+
+Number with
+ISO14000 (Yes)
+
+Percentage
+(%)
+
+Number without
+ISO14000 (No)
+
+Percentage
+(%)
+
+Food products and beverages
+Computer and electronic products and
+
+components
+
+Electric products
+Chemical, rubber and plastic products
+Machinery and optical equipment
+Car and transport equipment
+Service
+Others
+Total
+
+9
+32
+
+15
+28
+14
+11
+11
+4
+124
+
+7.3
+25.8
+
+12.1
+22.6
+11.3
+8.9
+8.9
+3.2
+100
+
+6
+22
+
+9
+24
+11
+11
+7
+4
+94
+
+4.85
+17.74
+
+7.26
+19.35
+8.87
+8.87
+5.65
+3.23
+75.8
+
+3
+10
+
+6
+4
+3
+0
+4
+0
+30
+
+2.42
+8.06
+
+4.84
+3.23
+2.42
+0
+3.23
+0
+24.2
+
+et al., 1995 and Bollen and Long, 1993). The sets of goodness of ﬁt indices that were employed in this study are the goodness
+of ﬁt index (GFI), Chi Square (v2)/degrees of freedom (df), the comparative ﬁt index (CFI), the Tucker Lewis index (TLI), the
+normed ﬁt index (NFI) and the incremental ﬁt index (IFI). According to Bagozzi and Yi (1988), a value of 0.9 is acceptable for
+the model ﬁt for GFI, CFI, NFI and IFI. Byrne (1989) indicates that the model of ﬁtness (GFI and AGFI) with a range of values
+between 0.80 and 0.89 is acceptable. Moreover, the modiﬁcation indices were evaluated in order to modify and increase the
+validity of the model ﬁtness. Several sets of SEM models and analyses were conducted for the model with alternate path de-
+leted or added to increase the ﬁtness of the model.
+
+The value of the goodness of ﬁt statistics (illustrated in Table 7) were: GFI = 0.88, v2/df = 1.66(v2 = 222.6, df = 134),
+CFI = 0.98, NFI = 0.94, IFI = 0.98 and TLI = 0.96. Although v2 is recognized as the measure of ﬁt, it is inﬂuenced by the size
+of samples (Byrne, 2001). Because of the limitation of sample size, it is replaced by the ratio of v2 to the degree of freedom
+(v2/df), and it is acceptable if the value is less than 3.0 (Carmine and McIver, 1981; Marsh et al., 1998). In this study, the value
+of v2/df is 1.66, which is therefore acceptable. In addition, the GFI is within the acceptable levels of 0.80–0.89, which rep-
+resents the overall degrees of freedom in the speciﬁed model. In contrast to GFI, the next set of goodness of ﬁt statistics
+was measured for incremental and comparative indexes of ﬁt (Hu and Bentler, 1995). One which should be considered in
+Baseline Comparisons is CFI, which is recognized as an index to reﬂect all sample sizes and measure the comparative reduc-
+tion in noncentrality (Bentler, 1990). The value is 0.98 in this model and is highly acceptable. Moreover, if the value of TLI,
+which is 0.96 in this study, is larger than 0.95, it is considered a good indicator of good ﬁt (Hu and Bentler, 1995). Next, the
+values of NFI and IFI are 0.94 and 0.98 respectively, which fall into the acceptable ranges. Bentler (1990) indicates that NFI
+can estimate the model ﬁtness based on small sample sizes. Based on these values, the ﬁnal structural model is acceptable,
+even under the limitation of a small sample size.
+
+4.4. Results and discussion for structural equation model
+
+The measurement model measures the reliability of each latent construct; and the structural model with path coefﬁcients
+are to test the 15 hypotheses, as shown in Table 6. The ﬁnal structural model with path coefﬁcients is illustrated in Fig. 2. The
+path coefﬁcients are measured to test 15 hypotheses between ﬁve latent constructs: ‘‘Greening the supplier’’ represents an
+independent variable (f1); whereas the others are dependent variables, which are ‘‘green product innovation’’ (g1), ‘‘green
+process innovation’’ (g2), ‘‘green managerial innovation’’ (g3), ‘‘environmental performance’’ (g4) and ‘‘competitive advan-
+tage’’ (g5). The causal effects between these latent variables are also measured. The ﬁnal survey data support fourteen of the
+ﬁfteen hypotheses in this study, as shown in Table 6.
+
+First of all, the association of greening the supplier with environmental performance (H5) is signiﬁcant (c = 0.39,
+p < 0.001). More importantly, the path association between environmental performance and competitive advantage is strong
+and highly signiﬁcant (b = 1.87, p < 0.001), which supports H4. Secondly, green process innovation (H2b) and green product
+innovation (H2a) are positively associated with environmental performance (b = 1.26 and 1.04, respectively; p < 0.001).
+However, green managerial innovation (H2c), surprisingly, did not show a signiﬁcant relationship with environmental per-
+
+Table 5
+Descriptive statistics and reliability measures.
+
+Latent construct
+
+Greening the supplier
+Green innovation
+
+Environmental performance
+Competitive advantage
+
+Cronbach’s Alpha
+
+Composite reliability
+
+Average variance extracted (%)
+
+Product innovation
+Process innovation
+Managerial innovation
+
+0.917
+0.934
+0.936
+0.92
+0.942
+0.954
+
+0.85
+0.77
+0.96
+0.92
+0.94
+0.96
+
+66
+78
+88
+86
+83
+86
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+831
+
+H5, (+) 0.39*** 
+
+η1  
+Product 
+
+Innovation 
+
+H1a, (+) 0.99***
+
+H7a, (+) 0.92***
+
+ζ
+
+Greening the 
+
+supplier 
+
+H1b, (+) 0.93***
+
+η2 
+Process 
+
+Innovation 
+
+η4 
+
+Environmental 
+
+Performance 
+
+H2a, (+) 1.04***  
+
+H2b, (+) 1.26***
+
+H4, (+) 1.87***
+
+H2c, (-) 0.13 
+
+H1c, (+) 0.95***
+
+H7b, (+) 0.94***
+
+H3a, (+) 0.59***
+
+η3 
+
+Managerial 
+
+Innovation 
+
+H7c, (+) 1.04***
+
+H3c, (+) 0.72***
+
+H6, (+) 0.99***
+
+H3b, (+) 0.6***
+
+η5 
+
+Competitive 
+
+Advantage 
+
+(*, **, *** represent p level of 0.05, 0.01, and 0.001, respectively.)
+
+Fig. 2. The ﬁnal structural model with path coefﬁcient between latent constructs.
+
+Table 6
+Support hypotheses: path coefﬁcient.
+
+Hypotheses
+
+Support (Yes/No)
+
+Path coefﬁcient
+
+H1a: Greening the supplier is positively associated with green product innovation.
+H1b: Greening the supplier is positively associated with green process innovation.
+H1c: Greening the supplier is positively associated with green managerial innovation.
+H2a: Green product innovation is positively associated with environmental performance.
+H2b: Green process innovation is positively associated with environmental performance.
+H2c: Green managerial innovation is positively associated with environmental performance.
+H3c: Green product innovation is positively associated with competitive advantage.
+H3b: Green process innovation is positively associated with competitive advantage.
+H3c: Green managerial innovation is positively associated with competitive advantage
+H4: Environmental performance is positively associated with competitive advantage
+H5: Greening the supplier is positively associated with environmental performance
+H6: Greening the supplier is positively associated with competitive advantage
+H7a: Green product innovation is positively associated with green process innovation
+H7b: Green managerial innovation is positively associated with green process innovation.
+H7c: Green managerial innovation is positively associated with green product innovation.
+
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+*** represent p level of 0.001
+
+0.99***
+0.93***
+0.95***
+1.04***
+1.26***
+ 0.13
+0.59***
+0.6⁄⁄⁄
+0.72***
+1.87***
+0.39***
+0.99***
+0.92***
+0.94***
+1.04***
+
+formance. (b =  0.13, p = 0.21). In other words, green product and process innovations may be more effective than green
+managerial innovations in improving a company’s environmental performance. This might be because managerial innova-
+tion has a more indirect effect on the measurement of environmental performance, compared to the other two types of inno-
+
+
+832
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+Table 7
+Measurement of goodness of ﬁt.
+
+Heuristic
+
+Final structural model
+
+Chi-Square
+v2/df
+Goodness of ﬁt index (GFI)
+Comparative ﬁt index (CFI)
+Normed ﬁt of index (NFI)
+Incremental ﬁt index (IFI)
+Tucker–Leis ﬁt index (TLI)
+
+p > 0.05
+<3.0
+>0.80
+>0.9
+>0.9
+>0.9
+>0.9
+
+222.6
+1.66
+0.88
+0.98
+0.94
+0.98
+0.96
+
+vation. Managerial innovation relates to high level strategy and hence it is positively linked to competitive advantage (H3c to
+be discussed below). Normally, the managerial innovation will be implemented through process or product innovation,
+which can be veriﬁed by H7a and H7b, to be discussed later. The results imply that green managerial innovation may have
+a moderating effect on green product and process innovation, which is further discussed in Section 5.
+
+Thirdly, the associations between greening the supplier and green product innovation (H1a), green process innovation
+(H1b), and green managerial innovation (H1c) are also highly signiﬁcant (c = 0.99, 0.93, and 0.95, respectively, p < 0.001).
+Likewise, the path associations between greening the supplier and competitive advantage (c = 0.99, p < 0.001) provide sup-
+port for H6. N addition, green product innovation (H3a), green process innovation (H3b) and green managerial innovation
+(H3c) all have positive path associations with competitive advantage (b = 0.59, 0.6, and 0.72, respectively, p < 0.001). This
+implies that a company can gain competitive advantage through the implementation of green product innovation, green pro-
+cess innovation and green managerial innovation.
+
+Finally, the associations between green managerial innovation and green product innovation (H7c) and green process
+innovation (H7b) are signiﬁcant (b = 1.04 and 0.94, respectively, p < 0.001). Similarly, the path association between green
+product innovation and green process innovation (b = 0.92, p < 0.001) provides support for H7a. Green product innovation
+therefore contributes to green process innovation, and green managerial innovation contributes to both green product inno-
+vation and green process innovation, as shown in Fig. 2.
+
+More importantly, the standardized direct and indirect effects between greening the supplier and green innovation are
+shown in Table 8. The direct effect of greening the supplier to competitive advantage is 0.99, and the indirect effect through
+green innovation between greening the supplier and competitive advantage is 5.48. The indirect effect (5.48) for greening the
+supplier to competitive advantage with the intervening variable of green innovation is greater than the direct effect (0.99) for
+greening the supplier to competitive advantage. Therefore, the intervening variable of green innovation contributes to the
+relationship between greening the supplier and competitive advantage.
+
+5. Discussion and conclusions
+
+There are some limitations of this survey research. First of all, a total of 124 questionnaires have been collected from 1569
+organizations. Although this sample size is acceptable for this study, the response rate is still relatively low, which might
+affect the representativeness of this sample to all enterprises in Taiwan. In addition, the sample was designed to cover a vari-
+ety of industry sectors, rather than to focus on a single industry sector. Chen et al. (2006) had only focused on the informa-
+tion and electronics sector and this study aimed to extend their study beyond a single sector in Taiwan. However, as a
+consequence, the results of our study may not be sufﬁciently speciﬁc for a single industry or sector. Another limitation of
+this research is related to common method bias. Since the survey was conducted with a single questionnaire (i.e. common
+source), measurement error may be introduced (Podsakoff et al., 2003). The authors have, however, followed the procedures
+suggested by Podsakoff et al. (2003) and Menguc and Auh (2008) in order to reduce some of the risks for common method
+bias. They include: (i) protecting respondent anonymity and reducing evaluation apprehension; (ii) careful construction of
+scale items to avoid item ambiguity; (iii) separating or combining the scale items from different constructs; and (iv) statis-
+tical tests to negate bias related to the use of a single index. The ﬁnal limitation is that the questionnaire survey was not pilot
+
+Table 8
+Effect of green supplier on competitive advantage.
+
+Greening the supplier
+
+Green innovation
+
+(a) Standardized direct effects
+Green innovation
+Competitive advantage
+(b) Standardized indirect effects
+Green innovation
+Competitive advantage
+
+2.87
+0.99
+
+0
+5.48 (2.87 * 1.91)
+
+0
+1.91
+
+0
+1.1
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+833
+
+tested prior to the full scale survey. However, in view of the reliability tests presented in this paper, where all Cronbach’s
+Alpha are above the accepted standard 0.7, the survey was shown to be reliable, even though it was not pilot tested (whereas
+in Chen et al.’s (2006) survey, some of the Cronbach’ Alpha values fell below the 0.7 threshold).
+
+Despite these limitations, this research provides signiﬁcant insights regarding the deployment of green supply chain
+management practices (in terms of greening the supplier and green innovation) in Taiwanese industry, and the implications
+for performance (in terms of environmental performance and competitive advantage). The results in the previous section
+demonstrate that greening the supplier leads to green product innovation, green process innovation, and green managerial
+innovation. The results of this study also show that a company can acquire competitive advantage by engaging in green
+product innovation, green process innovation and green managerial innovation. In addition, the results of this study show
+that greening the supplier leads to competitive advantage. More importantly, the ﬁndings support that the intervening vari-
+ables of green product, process and managerial innovation contribute to competitive advantage. More speciﬁcally, the indi-
+rect effect between green innovation and greening the supplier leads to better competitive advantage than the direct effect
+between greening the supplier and competitive advantage.
+
+However, the results supported only two of the three hypothesized relationships between the three constructs for green
+innovation (i.e., green product innovation (H2a), green process innovation (H2b), green managerial innovation (H2c)) and
+environmental performance. The path coefﬁcient between green managerial innovation and environmental performance
+is not signiﬁcant. This implies that green managerial innovation is not as effective as green product and process innovation
+for improving a company’s environmental performance. This is possibly because green managerial innovations are normally
+implemented through green product and process innovations. This should be further investigated in future research, which
+should study the moderating effect of green managerial innovation on the relationship between green product and process
+innovations and environmental performance.
+
+The ﬁndings of this study show that Taiwanese companies have started to implement actions towards greening their sup-
+pliers and developing greener products and manufacturing processes. The results lead to two key implications for business
+practice, which are discussed in the next two subsections.
+
+5.1. Green innovation leads to competitive advantage
+
+Environmental management and innovation are predicted to be the most important performance indicators for the com-
+petitive advantage of ﬁrms in the future. Although green managerial innovation may not necessarily result in improved envi-
+ronmental performance, by focusing on green product and process innovation and green managerial innovation, ﬁrms will
+gain cost savings, increased efﬁciency, increased productivity and better product quality, all leading to improved competitive
+advantage. As well as enhancing the green reputation of the ﬁrm, there will also be increased opportunities to enter new
+markets through green product innovation.
+
+One potential beneﬁt of green innovation is that it increases the entry barriers of other competitors. Moreover, reducing
+pollution and limiting hazardous and toxic waste can improve green efﬁciency; reduce the cost of hazardous waste disposal;
+improve compliance with regulation; improve the response to external environmental pressures from customers, and en-
+hance global competitive advantage with better product quality. Therefore organizations should implement environmental
+management, and integrate green innovation into business strategies in order to build and maintain competitive advantage.
+However, green managerial innovation may not necessarily lead to good environmental performance. Therefore, top man-
+agement should focus predominantly on green product and process innovations, as there is a stronger link between these
+and environmental performance.
+
+5.2. Greening the suppliers for a win–win situation
+
+The results of this study show that encouraging green suppliers leads to internal green product, process and managerial
+innovations, which in turn enhance competitive advantage. Therefore, this research suggests that companies should work
+closely with, and even integrate their business processes with, their upstream and downstream suppliers to achieve environ-
+mental goals and to relieve the pressure on the buyer’s requirements. More business opportunities may then be generated by
+these organizations than by their competitors in the global market.
+
+In practice, companies should devote substantial effort to provide technical support, assistance and guidance to suppliers
+to implement environmental management systems and to organize environmental awareness seminars or training sessions
+to help their supplier to improve environmental performance. This will not only improve competitive advantage as discussed
+before, but also raise suppliers’ environmental performance and productivity, which will result in a win–win situation be-
+tween the two parties.
+
+Although implementing environmental management systems involves capital outlay, it is a valuable investment in the
+future. Organizations should continuously invest in GSCM, and in particular in greening the supplier and green innovation,
+to meet tighter and tighter environmental regulations and to build and maintain sustainable competitive advantage in the
+global market.
+
+In summary, greening the suppliers and green innovation are highly related to the environmental performance of ﬁrms
+and their competitive advantage. Companies should therefore devote substantial efforts to address environmental issues
+along their supply chains in order to survive and maintain competitive advantage. Future research should be conducted with
+
+
+834
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+an even larger scale survey within a single country and across more sectors. It would also be useful to conduct a comparative
+survey across countries, including both developed and developing countries, with industries and economies at different
+stages of maturity. This survey was focused particularly on the links between greening the supplier and green innovation
+and subsequent environmental and competitive performance. Future studies could extend this to other GCSM practices as
+well as exploring in more detail the moderating effect of green managerial innovation on green product and process
+innovations.
+
+Acknowledgement
+
+The authors would like to thank the three anonymous reviewers who provided insightful and constructive comments,
+
+which helped to improve the quality and clarity of this paper.
+
+Appendix A. The questionnaire
+
+Part 1 Has your company ever taken the following action with your main suppliers or subcontractors?
+SD – Strongly Disagree, D – Disagree, N – Neutral, SA – Strongly Agree, A – Agree
+
+1. Selecting suppliers or subcontractors based on environmental criteria
+2. Requiring suppliers or subcontractors to obtain a third-party certiﬁcation of environmental
+
+management system (EMS) such as ISO14000
+
+SD D N SA A
+h h h h h
+h h h h h
+
+3. Providing environmental awareness seminars and training sessions for suppliers
+4. Providing environmental technical advice to suppliers and subcontractors to help them to meet
+
+h h h h h
+h h h h h
+
+environmental criteria.
+
+5. Inviting suppliers to join in the early product design and development.
+6. Sending in-house auditors to appraise the environmental performance of suppliers
+
+h h h h h
+h h h h h
+
+Part 2. Has your company ever taken the following action when designing the product?
+SD – Strongly Disagree, D – Disagree, N – Neutral, SA – Strongly Agree, A – Agree
+
+7. Using less or non-polluting/toxic materials. (i.e. using environmentally friendly material)
+8. Designing or improving environmentally friendly packaging (e.g. use less paper and plastic
+
+materials) for existing and new products
+
+9. Recovering company’s end-of-life products and recycling
+10. Using eco-labeling
+
+Part 3. Has your company ever taken the following action in the production process?
+SD – Strongly Disagree, D – Disagree, N – Neutral, SA – Strongly Agree, A – Agree
+
+11. Lower consumption of e.g. water, electricity, gas and petrol during production/use/disposal
+12. Recycle, reuse and remanufacture materials or parts
+13. Use of cleaner or renewable technology to make savings (such as energy, water, waste)
+14. Redesign of production and operation processes to improve environmental efﬁciency
+15. Redesigning and improving products or services to meet new environmental criteria or
+
+directives (such as WEEE/RoHs/REACH/EuP directives)
+
+SD D N SA A
+h h h h h
+h h h h h
+
+h h h h h
+h h h h h
+
+SD D N SA A
+h h h h h
+h h h h h
+h h h h h
+h h h h h
+h h h h h
+
+Part 3. Has your company performed better compared to your main competitors in the following areas?
+SD – Strongly Disagree, D – Disagree, N – Neutral, SA – Strongly Agree, A – Agree
+
+16. Reduction of hazardous waste, emissions, etc.
+17. Consume less resources, such as energy, water, electricity, gas and petrol
+18. Compliance to environmental regulations
+19. Customer satisfaction in relation to product design and development
+20. Product design and innovation skill
+21. Quality of product and service
+22. Production cost
+
+SD D N SA A
+h h h h h
+h h h h h
+h h h h h
+h h h h h
+h h h h h
+h h h h h
+h h h h h
+
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+835
+
+Part four: company’s proﬁle
+1. What is the company’s main business activity?
+h Food product and beverages
+h Computer and electric products and components
+h Electric products (e.g.: electric machines, ovens, fridges, washing machines and other electronic products)
+h Chemical, rubber and plastic products
+h Machinery and optical equipment
+h Car and transport equipment
+h Service
+h Other, please specify. _____________________________.
+
+2. Dose your company have ISO14000?
+h Yes, we are an ISO14000 certiﬁed company
+h No, we are not an ISO14000 certiﬁed company
+
+3. How many people does your company employ?
+h under 200. h between 200 and 399. h between 400 and 599
+h between 600 and 799. h between 800 and 899. h between 900 and 999
+h over 1000
+This is the end of the questionnaire.
+Please check if there are any missing answers.
+Thank you very much for your time and input.
+
+References
+
+Bacallan, J.J., 2000. Greening the supply chain. Business & Environment 6 (5), 11–12.
+Bagozzi, R.P., Yi, Y., 1988. On the evaluation of structural equation models. Academy of Marketing Science 16 (3), 396–402.
+Bai, C., Sarkis, J., 2010. Green supplier development: analytical evaluation using rough set theory. Journal of Cleaner Production 18 (12), 1200–1210.
+Bentler, P.M., 1988. Causal modeling via structural equation system. In: Nesselroade, J.R., Cattel, R.B. (Eds.), Handbook of Multivariate Experimental
+
+Psychology, second ed. Plenum, New York, pp. 317–335.
+
+Bentler, P.M., 1990. Comparative ﬁt indexes in structural models. Psychological Bulletin 107, 238–246.
+Bollen, K.A., Long, J.S., 1993. Testing Structural Equation Models. Sage, Newbury Park, CA.
+Bonaccorsi, A., Lipparini, A., 1994. Strategic partnerships in new product development: an Italian case study. Journal of Product Innovation Management 11
+
+(2), 134–145.
+
+Bowen, F.E., Cousins, P.D., Lamming, R.C., Faruk, A.C., 2001. The role of supply management capabilities in green supply. Journal of Production and Operation
+
+Management Society 10 (2), 174–189.
+
+Byrne, B.M., 1989. A Primer of LISREL: Basic Applications and Programming for Conﬁrmatory Factor Analysis Model. Springer Verlag, NY.
+Byrne, B.M., 2001. Structural Equation Modeling with AMOS: Basic Concepts, Applications, and Programming. Lawrence Erlbaum Associates, Inc., London.
+Cairncross, F., 1992. Costing the Earth. Harvard Business School Press, Boston.
+Carmine, E.G., McIver, S.P., 1981. Analyzing models with unobserved variables: analysis of covariance structures. In: Bohrnstedt, G.W., Borgatta, E.F. (Eds.),
+
+Social Measurement: Current Issue. Sage, Beverly Hill, CA.
+
+Chan, H.K., 2007. A proactive and collaborative approach to reverse logistics – a case study. Production Planning & Control 18 (4), 350–360.
+Chen, S.H., 2004. Taiwanese IT ﬁrms offshore R&D in China and the connection with the global innovation network. Research Policy 33 (2), 337–349.
+Chen, Y.-S., 2008. The driver of green innovation and green image – green core competence. Journal of Business Ethics 81 (3), 531–543.
+Chen, Y.-S., Lai, S.-B., Wen, C.-T., 2006. The inﬂuence of green innovation performance on corporate advantage in Taiwan. Journal of Business Ethics 67 (4),
+
+331–339.
+
+Crowe, D., Brennan, L., 2007. Environmental considerations within manufacturing strategy: an international study. Journal of Production Innovation
+
+Management 16 (4), 266–289.
+
+Das, A., Narasimhan, R., Talluri, S., 2006. Supplier integration – ﬁnding an optimal conﬁguration. Journal of Operations Management 24 (5), 563–582.
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research 18
+
+(1), 39–50.
+
+Green, K., Morton, B., New, S., 1995. Environmental impact of purchasing in organisations. In: Paper Presented to the Fourth Greening of Industry
+
+Conference, Toronto in November.
+
+Green, K., Morton, B., New, S., 1998. Green purchasing and supply policies: do they improve companies’ environmental performance? Journal of Supply
+
+Chain Management 3 (2), 89–95.
+
+Hair, J.F., Anderson, R.E., Tatham, R.L., Black, W.C., 1995. Multivariate Data Analysis with Reading, fourth ed. Prentice-Hall, Englewood Cliffs, NJ.
+Hamel, G., Prahalad, C.K., 1989. Strategic Intent, vol. 67. Harvard Business Review, pp. 63–76.
+Hamner, B., 2006. Effects of green purchasing strategies on supplier behaviour. In: Sarkis, J. (Ed.), Greening the Supply Chain. Springer Publishing, London,
+
+pp. 25–37.
+
+Handheld, R.B., Nichols, E.L., 1999. Introduction to Supply Chain Management. Prentice-Hall, Englewood, Cliffs, NJ.
+Hansmann, K.W., Claudia, K., 2001. Environmental management policies. In: Sarkis, J. (Ed.), Green Manufacturing and Operations: from Design to Delivery
+
+and Back. Greenleaf Publishing, Shefﬁeld, pp. 192–204.
+
+Hart, S.L., 1995. A natural-resource-based view of the ﬁrm. Academy of Management Review 20 (4), 986–1014.
+Hatcher, L., 1994. A Step-by-Step Approach to Using the SAS System for Factor Analysis and Structural Equation Modeling. SAS Institute Inc., Cary, NC.
+Hoffmann, E., 2007. Consumer integration in sustainable product development. Journal of Production Innovation Management 16 (5), 332–338.
+Hu, L.-T., Bentler, P.M., 1995. Evaluating model ﬁt. In: Holye, R.H. (Ed.), Structural Equation Modeling: Concepts, Issues and Applications. Sage, Thousand
+
+Oaks, CA, pp. 76–99.
+
+Ittner, C.D., Larcker, D.F., 1997. Product development cycle time and organizational performance. Journal of Marketing Research 34 (1), 13–23.
+Johnsen, T.E., 2009. Supplier involvement in new product development and innovation: taking stock and looking to the future. Journal of Purchasing and
+
+Supply Management 15 (3), 187–197.
+
+
+836
+
+T.-Y. Chiou et al. / Transportation Research Part E 47 (2011) 822–836
+
+Klassen, R.D., Whybank, D.C., 1999. The impact of environmental technologies on manufacturing performance. Academy of Management Journal 42 (6),
+
+599–615.
+
+Kline, R.B., 1998. Principles and Practice of Structural Equation Modeling. Guilford Press, NY, pp. 8–13.
+Lamming, R., Cousins, P., Bowen, F., Faruk, A., 1999. A comprehensive conceptual model for managing environmental impacts, cost and risks in supply chain.
+
+Working Paper, Centre for Research in Strategic Purchasing & Supply, University of Bath, Bath.
+
+Lau, A.K.W., Tang, E., Yam, R.C.M., 2010. Effects of supplier and customer integration on product innovation and performance: empirical evidence in Hong
+
+Kong manufacturers. Journal of Product Innovation Management 27 (5), 761–777.
+
+Lee, A.H.I., Kang, H.-Y., Hsu, C.-F., Hung, H.-C., 2009. A green supplier selection model for high-tech industry. Expert Systems with Applications 36 (4), 7917–
+
+7927.
+
+Lettice, F., Wyatt, C., Evans, S., 2010. Buyer-supplier partnerships for product design and development in the automotive sector: who invests, in what and
+
+when? International Journal of Production Economics 127, 309–319.
+
+Linton, J.D., Klassen, R., Jayaraman, V., 2007. Sustainable supply chains: an introduction. Journal of Operations Management 25 (6), 1075–1082.
+Lloyd, M., 1994. How green are my suppliers? Buying environmental risk. Purchasing and Supply Management, October, pp. 36–39.
+Lu, C.-S., 2000. Logistics services in Taiwanese maritime ﬁrms. Transportation Research Part E: Logistics and Transportation Review 36 (2), 79–96.
+Makower, J., 1994. The E Factor. Tilden Press, Oakland, California.
+Marsh, H.W., Balla, J.R., McDonald, R.P., 1998. Goodness-of-ﬁt indexes in conﬁrmatory factor analysis: the effect of sample size. Psychology Bulletin 103,
+
+391–411.
+
+Menguc, B., Auh, S., 2008. The asymmetric moderating role of market orientation on the ambidexterity-ﬁrm performance relationship for prospectors and
+
+defenders. Industrial Marketing Management 37 (4), 455–470.
+
+Noci, G., Verganti, R., 1999. Managing ‘‘green’’ product innovation in small ﬁrms. R&D Management 29 (1), 3–15.
+Nunnally, J., 1978. Psychometric Theory, second ed. McGraw-Hill, NY.
+Oum, T.-H., Park, J.-H., 2004. Multinational ﬁrms’ location preference for regional distribution centers: focus on the Northeast Asian region. Transportation
+
+Research Part E: Logistics and Transportation Review 40 (2), 101–121.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.-Y., Podsakoff, N.P., 2003. Common method biases in behavioral research: a critical review of the literature and
+
+recommended remedies. Journal of Psychology 99 (5), 879–903.
+
+Porter, M.E., 1991. Towards a dynamic theory of strategy. Strategic Management Journal, Winter Special Issue, No. 12, pp. 95–117.
+Porter, M.E., van der Linde, 1995. Green and competitive. Harvard Business Review 73 (5), 120–134.
+Ragatz, G.L., Handﬁeld, R.B., Petersen, K.J., 2002. Beneﬁts associated with supplier integration in new product development under conditions of technology
+
+uncertainty. Journal of Business Research 55 (5), 389–400.
+
+Rajagopal, S., Bernard, K.N., 1993. Strategic procurement and competitive advantage. International Journal of Purchasing and Materials Management, 13–20
+
+(autumn).
+
+Rao, P., 2002. Greening the supply chain: a new initiative in South East Asia. International Journal of Operation and Production Management 22 (6), 632–
+
+655.
+
+Rao, P., Holt, D., 2005. Do green supply chains lead to competitiveness and economic performance? International Journal of Operation & Production
+
+Management 25 (9), 898–916.
+
+Sarkis, J., 1999. How Green is the Supply Chain? Practice and Research Working Paper. Graduate School of Management at Clark University, Worcester, NY.
+Schmidheiny, S., 1992. Changing Course: A Global Business Perspective on Development and the Environment. MIT Press, Cambridge, MA.
+Shrivastava, P., 1995. Environmental technologies and competitive advantage. Strategic Management Journal 16 (S1), 183–200.
+Sodhi, M.S., Son, B.-G., 2009. Supply-chain partnership performance. Transportation Research Part E: Logistics and Transportation Review 45 (6), 937–945.
+Sroufe, R., 2006. A framework for strategic environmental sourcing. In: Sarkis, J. (Ed.), Greening the Supply Chain. Springer Publishing, London, pp. 3–23.
+Steger, U., 1993. The Green of the Board Room: how German companies are dealing with environmental issue? In: Fisher, K., Schot, J. (Eds.), Environmental
+
+Strategies for Industry. Island Press, Washington, DC.
+
+Tukker, A., Eder, P., IPTS, Charter, M., Haag, E., Vercalsteren, A., Wiedmann, T., 2001. Eco-design: the state of implementation in Europe – conclusions of a
+
+state of the art study for IPTS. The Journal of Sustainable Product Design 1 (3), 171–181.
+
+Vachon, S., Klassen, R.D., 2008. Environmental management and manufacturing performance: the role of collaboration in the supply chain. International
+
+Journal of Production Economics 111 (2), 299–315.
+
+Vermulen, W.J.V., 2002. Greening productions as co-responsibility. In: Driessen, P.P.J., Glasbergen, P. (Eds.), Greening Society, the Paradigm Shift in Dutch
+
+Environmental Politics. Kluwer, Dordrecht, pp. 67–90.
+
+Vogt, W.P., 1999. Dictionary of Statistics and Methodology: A Nontechnical Guide for the Social Science, second ed. Sage Publications, Thousand Oaks, CA.
+Walton, S.V., Handﬁeld, R.B., Melnyk, S.T., 1998. The green supply chain integrating suppliers into environmental management process. International
+
+Journal of Purchasing and Materials Management 2–11 (spring).
+
+Wouters, M., Anderson, J.C., Narus, J.A., Wynstra, F., 2009. Improving sourcing decisions in NPD projects: monetary quantiﬁcation of points of difference.
+
+Journal of Operations Management 27 (1), 64–77.
+
+Yu, C.H., Hsu, T.C., 2006. The conceptual construction of core competence for two distinct corporations in Taiwan. American Academy of Business 8 (1), 197–
+
+201.
+
+Yung, W.K.C., Chan, H.K., So, J.H.T., Wong, D.W.C., Choi, A.C.K., Yue, T.M., 2011. A life-cycle assessment for eco-redesign of a consumer electronic product: a
+
+case study. Journal of Engineering Design 22 (2), 69–85.
+
+Zhu, Q., Sarkis, J., 2004. Relationships between operational practices and performance among early adopters of green supply chain management practices in
+
+Chinese manufacturing enterprises. Journal of Operations Management 22 (3), 265–289.
+
+Zhu, Q., Sarkis, J., Lai, K.H., 2008. Green supply chain management implications for closing the loop. Transportation Research Part E: Logistics and
+
+Transportation Review 44 (1), 1–18.
+
+Zirger, B.J., Hartley, J.L., 1994. A conceptual model of product development cycle time. Journal of Engineering and Technology Management 11 (3–4), 229–
+
+251.
+

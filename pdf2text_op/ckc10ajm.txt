@@ -1,0 +1,2482 @@
+Article
+
+Corporate social responsibility 
+and corporate financial 
+performance: Evidence 
+from Korea
+
+Australian Journal of Management
+35(3) 291–311
+© The Author(s) 2010
+Reprints and permission: sagepub.
+co.uk/journalsPermissions.nav
+DOI: 10.1177/0312896210384681
+http://aum.sagepub.com
+
+Jong-Seo Choi
+College of Business, Pusan National University, South Korea
+
+Young-Min Kwak
+College of Business, Pusan National University, South Korea
+
+Chongwoo Choe
+Department of Economics, Monash University, Australia
+
+Abstract
+This paper studies the empirical relation between corporate social responsibility (CSR) and corporate financial 
+performance  in  Korea  using  a  sample  of  1222  firm-years  during  2002–2008. We  measure  corporate  social 
+responsibility by both an equal-weighted CSR index and a stakeholder-weighted CSR index suggested by Akpinar 
+et al. (2008). Corporate financial performance is measured by return on equity, return on assets, and Tobin’s Q. We 
+find a positive and significant relationship between corporate financial performance and the stakeholder-weighted 
+CSR index, but not the equal-weighted CSR index. This finding is robust to alternative model specifications and 
+several additional tests, providing evidence in support of instrumental stakeholder theory.
+
+Keywords
+corporate financial performance, corporate social responsibility, instrumental stakeholder theory, KEJI index
+
+1. Introduction
+
+Corporate social responsibility (CSR) is now seen as an integral part of corporate strategy. For exam-
+ple, KPMG (2008) reports that about three-quarters of Global Fortune 250 companies surveyed dur-
+ing  2007–2008  have  a  publicly  communicated  CSR  strategy  that  includes  defined  objectives. 
+According to the Economist Intelligence Unit’s 2007 survey (The Economist, 2008), nearly 30% of 
+surveyed global executives consider CSR as the highest priority issue for their organizations, with a 
+further 40% assigning it high priority. Another piece of evidence for the growing importance of CSR 
+
+Corresponding author:
+Chongwoo Choe, Department of Economics, Monash University, PO Box 197, Caulfield East, VIC, Australia. 
+Email: Chongwoo.Choe@buseco.monash.edu.au
+
+
+292   
+
+Australian Journal of Management 35(3)
+
+is the proliferation of a new corporate title such as chief sustainability officer or chief responsibility 
+officer (‘Companies giving green an office’, The New York Times, July 3, 2007; ‘The old future is 
+gone’, Forbes, April 1, 2008),1 or the rapidly spreading Socially Responsible Investment movement 
+that aims at combining investors’ financial objectives with their concerns about social, environmen-
+tal, and ethical issues (Eurosif, 2003; Lewis and Mackenzi, 2000; SRI Research, 2001–2006).
+
+Examples of CSR activities abound. They range from Intel’s education and development pro-
+grams in countries such as Afghanistan, Cambodia, Haiti and Uganda, General Electric’s charitable 
+donations and investment in environmentally friendly practices and products (‘Surprising survi-
+vors: corporate do-gooders’, Fortune, January 20, 2009), Pfizer’s supply of free name-brand drugs 
+to newly unemployed customers (‘Why doing good is good for business’, Fortune, February 2, 
+2010), to Starbucks’ offering of health-care benefits and stock to even part-time employees and 
+promotion of sound environmental practices by forging partnerships with coffee growers (‘How 
+UPS, Starbucks, Disney do good’, Fortune, February 25, 2006). In 2008, the jury of the Internatinal 
+Design Excellence Awards also stressed the importance of socially responsible product design; it 
+recognized products that promoted sustainability, helped the electoral process, eradicated disease, 
+bolstered  village  education  for  the  poor,  etc.  (‘IDEA  Design  Trend:  Social  Responsibility’, 
+BusinessWeek, July 17, 2008). Despite the recent financial crunch, many large corporations have 
+been sustaining or expanding their CSR budgets. In Australia too, companies such as BHP and Rio 
+Tinto have been actively engaging in various community education and development programs in 
+countries where their mining activities could have negative effects.2
+
+CSR can be defined as actions that appear to further some social good, beyond the interests of 
+the firm and that which is required by law (McWilliams and Siegel, 2001). Important in this defini-
+tion is that CSR activities are on a voluntary basis, going beyond the firm’s legal and contractual 
+obligations. As  such  it  involves  a  wide  range  of  activities  such  as  being  employee-friendly, 
+environment-friendly,  mindful  of  ethics,  respectful  of  communities  where  the  firms’  plants  are 
+located, and even investor-friendly (Bénabou and Tirole, 2010). If CSR activities are beyond the 
+firm’s legal obligation and may require some sacrifice in short-term profits, then why do firms 
+promote CSR? Is sacrifice of short-term profits compensated by improvement in firms’ long-term 
+financial performance? Or are they purely feel-good activities initiated by corporate insiders?
+
+In academic circles, extensive research has been conducted to assess the empirical association 
+between  CSR  and  corporate  financial  performance  under  diverse  geographical  contexts.  The 
+results of previous studies, however, are largely indeterminate. For example, according to ‘instru-
+mental  stakeholder  theory’  (Jones,  1995),  companies  with  superior  social  performance  tend  to 
+perform better financially by attracting socially responsible consumers (Bagnoli and Watts, 2003), 
+alleviating the threat of regulation (Lev et al., 2008), improving their reputation with consumers 
+(Orlitzky et al., 2003), or soothing concerns from activists and non-governmental organizations 
+(Baron,  2001).  On  the  other  hand,  other  researchers  argue  that  trying  to  satisfy  the  conflicting 
+objectives of different stakeholders might result in inefficient use of resources and eventual dete-
+rioration of financial performance, and that the costs incurred from socially responsible actions 
+may put the firms at an economic disadvantage (Aupperle et al., 1985; Ullman, 1985). Still others 
+argue that it is not possible to determine the relation between CSR and corporate financial perfor-
+mance since there are so many intervening variables that are hard to control (Fombrun and Shanley, 
+1990). It short, it is a moot question whether CSR contributes to or harms corporate financial per-
+formance for all companies or for all types of CSR activities.
+
+This research adds to the empirical literature on the relation between CSR and corporate financial 
+performance by providing the first comprehensive evidence from Korea using multi-dimensional CSR 
+measures. The business climate in Korea has traditionally put more focus on economic value than on 
+
+
+Choi et al. 
+
+293
+
+softer values such as fair distribution of wealth, environmental protection, and community relations, 
+etc. Such emphasis upon financial success still lingers on, particularly when the pursuit of profit and 
+social goals tend to collide with each other. The two recent cases of a west coast oil spill and large-scale 
+money  laundering  committed  by  Korea’s  leading  conglomerates  provide  telling  evidence  in  this 
+regard.3 These incidents have provided momentum for a heated debate about CSR in public arena, led 
+to a rise in public outcry for changing the old-fashioned way of doing business, and increased concern 
+for  environment  and  transparency  in  corporate  governance.  Moreover,  with  its  first  sustainability 
+report published in 2003, CSR movements emerged as a major social agenda in Korea. In this sense, 
+the Korean corporate environment provides a pertinent test case for examining the empirical relation-
+ship between corporate financial prosperity and the extent of corporate social initiatives.
+
+Despite the growing importance of CSR in Korea, existing Korean studies are focused only on 
+corporate environmental performance (Choi et al., 2008; Choi and Kwak, 2010, among others). 
+Empirical research examining the association between multi-dimensional CSR activities and cor-
+porate financial performance in Korea does not exist, to our knowledge. As such, this study is the 
+first that provides Korean evidence on the relationship between multi-dimensional CSR and corpo-
+rate financial performance. Specifically, we measure CSR performance by the Korea Economic 
+Justice Institute (KEJI) index developed by the Citizens’ Coalition for Economic Justice (CCEJ). 
+The CCEJ is one of Korea’s leading NGOs, and it established the KEJI for the purpose of evaluat-
+ing the moral management and social responsibility of Korea’s leading corporations.4 The KEJI 
+index is the first comprehensive, multi-dimensional CSR index developed in Korea, and is compa-
+rable to the Council on Economic Priorities (CEP) index in the US, the Corporate Responsibility 
+Index in Australia, and the Asahi Foundation index of Japan.
+
+Our main findings can be summarized as follows. There is a positive and significant relation 
+between CSR and corporate financial performance when CSR is measured by a stakeholder-weighted 
+index  that  takes  into  account  the  degree  with  which  specific  stakeholder  groups  are  prioritized. 
+When CSR is measured by an equal-weighted index, the relation is insignificant. These results hold 
+for all three financial performance variables that we use, i.e. return on equity (ROE), return on assets 
+(ROA) and Tobin’s Q. The positive association between the stakeholder-weighted CSR index and 
+corporate financial performance is robust to alternative model specifications and several additional 
+tests, further strengthening the case for using the stakeholder-weighted metric in measuring CSR. In 
+an additional analysis of the bi-directional relationship between CSR and corporate financial perfor-
+mance after controlling for potential endogeneity, we also find that high levels of corporate financial 
+performance have a positive impact on the stakeholder-weighted CSR index. Thus we conclude that, 
+on average, Korean firms can do well by doing good on the one hand, and firms that do well can 
+spend money for good causes on the other, demonstrating the existence of a virtuous cycle.
+
+The remainder of the paper is organized as follows: Section 2 reviews the related literature; 
+Section 3 describes research design, while Section 4 reports the empirical findings. Section 5 con-
+cludes the paper with some discussions.
+
+2. Related literature
+The empirical literature examining the relation between CSR and corporate financial performance 
+is extensive. As discussed previously, however, the results are generally mixed, which could be 
+attributed to the various ways corporate financial performance and CSR have been operationally 
+defined (Carroll, 1979; Orlitzky et al., 2003), to the lack of appropriate statistical controls (Margolis 
+and Walsh, 2003; Wood and Jones, 1995), or to the ‘stakeholder misalignment’ problem (Akpinar 
+et al., 2008; Wood and Jones, 1995).
+
+
+294   
+
+Australian Journal of Management 35(3)
+
+Typically used firm performance variables are accounting-based measures such as ROE and 
+ROA,  and  market-based  measures  such  as Tobin’s  Q.  Regarding  corporate  social  performance, 
+existing studies have used a diversity of measures. Earlier studies relied on various reputational 
+indices, such as Moskowitz’s (1972, 1975) tripartite ratings of ‘outstanding’, ‘honorable mention’, 
+and ‘worst’ companies (Cochran and Wood 1984; Sturdivant and Ginter 1997), or the Fortune’s 
+ratings of a corporation’s responsibility to the community and environment (Conine and Madden 
+1987; Fombrun and Shanley 1990; McGuire et al. 1998). Another widely used index is the measure 
+provided by the CEP based on social audits. Various studies have used the CEP social audit ranking 
+of companies’ pollution records (Blackburn et al., 1994; Bragdon and Marlin 1972; Fogler and 
+Nutt 1975; Spicer 1978). The KLD index is one of the most recent measures designed to explicitly 
+evaluate multiple dimensions of a company’s social and financial performance.5 Many recent stud-
+ies rely on the KLD index to measure CSR in investigating the relation between CSR and corporate 
+financial performance (Akpinar et al., 2008; Berman et al., 1999; McWilliams et al., 2006; Orlitzky 
+et al., 2003; Waddock and Graves, 1997).
+
+Table 1 provides a summary of selected empirical studies where the second column indicates 
+the statistical relation between CSR and corporate financial performance. As shown in the table, 
+some studies report a positive relationship while others report a mixed or negative relationship. In 
+
+Table 1.  Summary of selected empirical studies
+
+Authors
+
+Sign 
+
+Measure of CSR
+
+Measure of firm performance
+
+Bragdon and Marlin (1972)
+Bowman and Haire (1975)
+
+(+)
+(+)
+
+Fogler and Nutt (1975)
+Sturdivant and Ginter (1977)
+
+neutral
+(+)
+
+Alexander and Buchholz (1978)
+Spicer (1978)
+Cochran and Wood (1984)
+
+Aupperle et al., (1985)
+
+Conine and Madden (1987)
+
+McGuire et al. (1988)
+Fombrun and Shanley (1990)
+
+Teoh and Shiu (1990) 
+
+Blackburn et al. (1994)
+Waddock and Graves (1997)
+Berman et al. (1999)
+Teoh et al. (1999)
+
+McWilliams and Siegel (2000)
+Orlitzky et al. (2003)
+Akpinar et al. (2008)
+Lev et al. (2008)
+
+(+)
+(+)
+(+)
+
+(-)
+
+(+)
+
+mixed 
+neutral
+
+neutral
+
+(+)
+(+)
+(+)
+neutral
+
+neutral
+mixed
+(+)
+(+)
+
+CEP index
+Carroll’s (1979) CSR  
+construct and CEP index
+CEP index
+Moskowitz reputation 
+index
+Reputation ratings
+CEP index
+Moskowitz reputation 
+index
+Carroll’s (1979) CSR  
+construct
+Erdos and Morgan’s  
+corporate reputation 
+survey
+Fortune index
+Charitable contributions, 
+Fortune index
+CSR disclosure
+
+CEP index
+KLD index
+KLD index
+Divestment from South 
+Africa
+KLD index
+KLD index
+KLD index
+Charitable contributions
+
+EPS growth, ROE, ROC
+ROE
+
+P/E ratio
+EPS growth
+
+Market return on security
+ROE
+Abnormal return
+
+ROA
+
+Perceptual/expectational survey 
+measures
+
+ROA, sales growth, asset growth
+ROIC, market-to-book ratio
+
+Institutional investors’ survey 
+questionnaire
+ROA, abnormal return, EPS
+ROA, ROE, return on sales
+ROA
+Abnormal return
+
+ROA
+P/E ratio, ROE, ROA
+Stock return, Tobin’s Q
+Sales growth
+
+
+Choi et al. 
+
+295
+
+regards to the mixed evidence, McWilliams and Siegel (2000) stress the importance of including 
+other variables that are acknowledged to be important determinants of corporate financial perfor-
+mance. For example, they show that, once R&D investment is included in the equation, the positive 
+relation between CSR and corporate financial performance is no longer significant.
+
+The so-called ‘stakeholder misalignment’ problem suggested by Wood and Jones (1995) is that 
+of relating stakeholder-specific variables to a set of aggregated stakeholder variables, ignoring many 
+differences between different stakeholder groups. They argue that the research on CSR should take 
+into account the fact that a company should weigh which sub-dimensions of social performance are 
+perceived to be important by its stakeholders. To circumvent the stakeholder misalignment prob-
+lem, Lev et al. (2008) classify firms into two groups based on the degree of sensitivity to consumer 
+perceptions. The first group consists of firms belonging to industries where sensitivity to consumer 
+perception is high, such as consumer goods and finance industries, and the second group has firms 
+operating in industries where sensitivity to consumer perception is low. They empirically show that 
+firms producing goods and services purchased by individual consumers are more likely to enhance 
+their revenue by having a reputation as a good corporate citizen than firms that produce goods and 
+services for industrial or government use. Akpinar et al. (2008) measure CSR by a stakeholder-
+weighted CSR index which aggregates the index scores for CSR sub-dimensions after taking into 
+account stakeholder conflicts and varying importance of different CSR sub-dimensions in different 
+industries.  They  find  a  significantly  positive  association  between  CSR  and  corporate  financial 
+performance when the stakeholder-weighted CSR index is used to measure CSR. Our paper is in 
+the same vein as Akpinar et al. (2008) in that we develop a stakeholder-weighted CSR index.
+
+With a steady increase in the number and kind of stakeholder groups interested in broader cor-
+porate social performance (Shapiro, 1992), a number of studies have elaborated on or empirically 
+tested the instrumental stakeholder theory (Alexander and Buchholz, 1978; Berman et al., 1999; 
+Bowman and Haire, 1975; Jones, 1995; Margolis and Walsh, 2003; Waddock and Graves, 1997). 
+Graves and Waddock (1994) and Teoh and Shiu (1990) argue that institutional investors are favor-
+ably inclined toward companies with better social performance when other factors are held con-
+stant and independent information on social performance is available. Bowman and Haire (1975) 
+contend that other stakeholders in addition to stockholders and bondholders may regard CSR as an 
+indication  of  management  skill. Alexander  and  Buchholz  (1978)  also  suggest  that  CSR  makes 
+firms  an  attractive  investment  target,  since  investors  evaluate  socially  aware  and  concerned 
+management as possessing the requisite skill to run a superior company. Similarly, Spicer (1978) 
+finds a positive association between stock price and corporate social performance, and suggests 
+that the latter provides information about management competence. Along the same line, Waddock 
+and Graves (1997) report a positive relation between CSR and the quality of management, where 
+the latter is measured by the Fortune reputation survey ranking.
+
+Among related Korean research, Choi et al. (2008) study the relation between corporate environ-
+mental disclosure and financial performance over the 7-year period following the financial crisis of 
+1997. They find no significant relationship between the quality of disclosure and economic perfor-
+mance, while corporate size and industry profile are shown to be the most significant factors behind 
+corporate environmental disclosure. More recently, Choi and Kwak (2010) studied the relationship 
+between the level of corporate environmental disclosure and environmental performance using a 
+sample of 180 cases of stand-alone environmental reports and/or environmental information disclosed 
+on corporate websites. They document a positive association between corporate environmental 
+performance  and  the  level  of  discretionary  environmental  disclosure. As  mentioned  previously, 
+however, we are not aware of any Korean studies that use a comprehensive, multi-dimensional CSR 
+measure in investigating the relation between CSR and corporate financial performance.
+
+
+296   
+
+Australian Journal of Management 35(3)
+
+3. The empirical model and variable description
+3.1 The empirical model
+We start with the following cross-sectional regression model:
+
+CFP
+it
+
+=
+
+ 
+
+β β
+CSRindex
+1
+it
+
++
+
+0
+
++
+
+∑
+
+j
+
+γ
+j
+
+CONTROL
+ijt
+
++
+
+ε
+it
+
+ 
+
+(1)
+
+where  CFP  denotes  corporate  financial  performance,  CSRindex  denotes  the  corporate  social 
+responsibility index, CONTROL stands for various control variables, subscripts index firm (i) and 
+time (t), and ε
+ is an i.i.d. error term. Equation (1) is designed to investigate the relation between 
+it
+corporate financial performance and CSR index on a cross-sectional basis, where the former is 
+measured using firm-level performance measures such as accounting- and/or market-based indica-
+tors. However, cross-sectional regression models are not likely to control other variables that are 
+acknowledged to be major determinants of corporate financial performance over a period of time.
+We thus employ Carhart’s (1997) four-factor market model in addition to Equation (1) in order 
+to see whether market-based financial performance measured by stock returns incorporates corpo-
+rate social performance as well. As is well known, Carhart’s four-factor model extends Fama and 
+French’s (1993) three-factor model by adding the momentum factor suggested by Jegadeesh and 
+Titman (1993): it controls for the impact of market risk, the size factor, the book-to-market factor, 
+and the momentum factor on stock returns. Numerous studies have employed Fama–French or 
+Carhart or other variants of multi-factor models to test the financial market performance based on 
+potential  additional  factors  such  as  information  asymmetry  stemming  from  R&D  (Aboody  and 
+Lev,  2000),  corporate  governance  (Bauer  et  al.,  2004),  accruals  quality  (Francis  et  al.,  2005), 
+socially responsible investing (Kempf and Osthoff, 2007), etc.
+
+Using  the  four-factor  model,  we  analyze  whether  investors  can  obtain  abnormal  returns  by 
+employing socially responsible screens, i.e. holding a long position in the good CSR portfolio and 
+a short position in the bad CSR portfolio.6 To this end, we rank firms according to their CSR index 
+order and construct two portfolios by including firms from the first decile in the top portfolio and 
+those from the tenth decile in the bottom portfolio. We then calculate the difference in monthly 
+returns between the top and bottom portfolios, which shows a return on the hedge portfolio that can 
+be earned by taking a long position in the most socially responsible firms and a short position in 
+the least socially responsible counterparts. Therefore, the dependent variable in our model is the 
+difference between monthly portfolio returns of high CSR and low CSR firms over the sample 
+period. The independent variables are the four factors of market return, size, book-to-market, and 
+momentum. The market risk factor is the monthly excess return on the market portfolio over the 
+risk-free rate. The size factor is the monthly return on the size factor portfolio. The book-to-market 
+factor is the monthly return on the book-to-price factor-mimicking portfolio based on the book-to-
+market ratio. The momentum factor is the monthly return on a momentum factor portfolio.7
+
+To examine the extent to which investors can gain by taking the aforementioned long–short 
+strategy based on the CSR index, we estimate the intercept term of the four-factor market model, 
+known as the Carhart’s alpha. The alpha coefficient represents the excess return an investor could 
+have earned by pursuing the CSR-based investment strategy, after controlling for the four factors 
+included in the model. Our second model to be estimated is thus as follows:
+
+ 
+
+R
+t
+
+=
+
+α α
+1
+
++
+
+0
+
+RMRF
+t
+
++
+
+α
+2
+
+SMB
+t
+
++
+
+α
+3
+
+HML
+t
+
++
+
+α
+4
+
+Momentum
+t
+
++
+
+η
+t
+
+ 
+
+(2)
+
+
+Choi et al. 
+
+297
+
+t
+
+ is the portfolio return mimicking the growth factor, and Momentum
+t
+
+ is the difference in monthly returns between the top and bottom portfolios, RMRF
+t
+
+ is the 
+where R
+ is the portfolio return mimicking 
+portfolio return that mimics the market risk premium factor, SMB
+t
+ is the 
+the size factor, HML
+t
+portfolio return mimicking the momentum factor. The intercept term a
+ in Equation (2) represents 
+0
+the abnormal return on a zero-investment strategy that buys the top portfolio and sells short the 
+bottom portfolio. If it is positive and significant, then we can say that there is a difference in market 
+performance of top and bottom portfolios even after removing the influence from the four factors. 
+Such a difference can be due to the difference in CSR since our hedge portfolios are based on firms’ 
+CSR index scores.
+
+3.2 Variable description
+3.2.1 Corporate financial performance.  For corporate financial performance, we follow the litera-
+ture and use both accounting-based and market-based financial performance measures. As account-
+ing-based performance measures, we use ROA = earning before interest and tax (EBIT) / total 
+asset, and ROE = EBIT / owner’s capital. Our market-based performance measure is Tobin’s Q 
+following Chung and Pruitt’s (1994) approximation.8 Tobin’s Q = (market value of common stock 
++ market value of preferred stock + short-term liabilities – short-term assets + book value of long-
+term debt) / book value of total assets. This approximation assumes that the replacement cost of a 
+firm’s plant, property, and equipment and inventories is equal to their book value. It also assumes 
+that market and book values of short-term debt are identical, while long-term debt is measured by 
+its book value as an approximation of its market value.
+
+3.2.2 Corporate social responsibility.  To measure corporate social performance by Korean firms, we 
+use two proxies based on the KEJI index developed by the CCEJ. The KEJI index, introduced in 
+1991, is the first comprehensive evaluation scheme for corporate business ethics and social respon-
+sibility  developed  and  implemented  in  Korea.9  Each  year,  the  KEJI  selects  annual  Economic 
+Justice Award winners. The KEJI’s procedure to select award winners consists of both quantitative 
+and qualitative evaluation. Quantitative evaluation is applied to Korean companies listed on the 
+Korea Exchange (KRX) on the basis of annual reports, news reports, and other information avail-
+able from governmental authorities such as the National Tax Service, the Fair Trade Commission, 
+and the KRX, excluding those firms under serious financial trouble.10 Qualitative evaluation is 
+subsequently conducted by sending questionnaires to the overall top 10% firms and top 20% firms 
+for each of the Korean SIC-based industry based on their KEJI index scores. The main purpose of 
+qualitative evaluation is to collect non-public information to determine final award winners. The 
+KEJI annually discloses the scores of top 200 companies in its brochure, with the names of three 
+award winners.
+
+The KEJI index is comparable to the CEP index in the US, the Corporate Responsibility Index 
+in Australia, the Asahi Foundation index of Japan, and several other corporate ethics indices of 
+European countries. One of the distinctive features of the KEJI index is that it is a product of an 
+independent  rating  service  that  focuses  on  the  evaluation  of  multidimensional  corporate  social 
+performance. It gives a score on seven individual categories of CSR: soundness, fairness, contribu-
+tion to society, consumer protection, environmental protection, employee satisfaction, and contri-
+bution to economy.11 We develop two proxies based on the KEJI index. As explained in footnote 7, 
+the original KEJI index assigns different maximum scores to different individual categories, which 
+is rather arbitrary. Thus we converted original scores for individual categories to scores that take 
+
+
+298   
+
+Australian Journal of Management 35(3)
+
+the maximum value of 100. For example, a score of 20 for the soundness category is converted to 
+20*(100/25) = 80 since the maximum score for the soundness category is 25. This way, the maxi-
+mum total score becomes 700.
+
+The first proxy is defined as the simple sum of scores for seven categories of the KEJI index:
+
+ 
+
+Equal-weighted CSR index (EW)it =
+
+7
+
+∑ xikt
+
+=
+k 1
+
+ 
+
+(3)
+
+ikt
+
+where x
+ is the score for firm i, the KEJI category k for year t, which takes the maximum value of 
+100 as described above. This approach has an obvious drawback in that it assumes all KEJI catego-
+ries are equally important to all stakeholders. As discussed in the instrumental stakeholder theory, 
+firms with different interests may need to attend to different stakeholders differently (Wood and 
+Jones, 1995). Depending on the specific areas of social responsibility considered to be important 
+by major stakeholders, firms may exert different levels of effort to different categories of social 
+responsibility, hence are likely to receive different scores for different CSR categories. Our first 
+proxy for CSR suffers from the lack of a weighting scheme for the different categories of CSR. We 
+thus introduce weighted measures of CSR, as proposed by Akpinar et al. (2008).
+
+Akpinar et al. (2008) argue that the stakeholder-weighted CSR index is a new CSR measure that 
+reflects the relative importance of each stakeholder group based on the industry to which individual 
+firms belong. In order to operationalize the second proxy for CSR, we first classify our sample firms 
+into 18 industries according to the Korean Standard Industry Classification codes. After this, the 
+KEJI index score for each of the seven categories is summed up to obtain an aggregate score of social 
+performance for that particular industry-year. Then individual sums for each of the seven categories 
+are divided by this overall sum to compute the weights for each of the seven categories for every 
+industry-year. After finding the weights for every industry-year, we multiply the raw KEJI index 
+scores with associated weights to obtain the stakeholder-weighted CSR index for every firm-year:
+
+ 
+
+Stakeholder-weighted CSR index (SW)it =
+
+7
+
+∑ x Weight
+
+×
+
+ijkt
+
+k
+
+=
+1
+
+jkt
+
+ 
+
+(4)
+
+Average
+7
+
+jkt
+
+jkt
+
+jkt
+
+ijkt
+
+=
+
+ is the score  for firm i in industry j, the KEJI category k for year t,
+Weight
+ 
+
+where x
+ 
+ 
+and Average
+ is the average score for industry j, the KEJI category k for year t. As is clear from 
+the definition, the weight measures how an industry scores in a particular KEJI category relative to 
+the average performance of that industry in overall CSR. To the extent that different industries 
+perform  better  in  different  KEJI  categories,  possibly  because  their  CSR  activities  are  directed 
+towards the interests of their primary stakeholders, one can interpret these weights as reflecting 
+varying stakeholder interests. Indeed, our data lend support to this interpretation: environmental 
+protection is given the highest weight in the chemical and hard-coal industry, employee satisfaction 
+in the metal industry, and consumer protection in the retail trade industry.12
+
+Average
+
+∑
+=
+1
+
+,  
+
+jkt
+
+k
+
+3.2.3 Control variables.  We use several control variables that are consistently shown to be related 
+to corporate financial performance. These control variables can be broadly broken down into two 
+groups: firm characteristics and management preferences. The firm characteristics group includes 
+
+
+Choi et al. 
+
+299
+
+size (Arlow and Gannon, 1982; Shin and Stulz, 1998), risk (McWilliams and Siegel, 2000) and 
+sales growth (De, 1992). To control for the past corporate performance, we also lag sales growth 
+
+by 1 year and include it as an additional control. We take logarithm of total assets to measure firm 
+
+size and define firm risk using long-term debt divided by total asset. We include sales growth for 
+year t using log of sales in year t divided by sales of year t–1. We also include lagged sales growth 
+for year t, which is measured by sales of year t–1 divided by sales of year t–2. Management prefer-
+ence  variables  include  R&D  expenditure  standardized  by  total  assets  (McWilliams  and  Siegel, 
+2000). Lastly, we also control for industry and year effects by including eight industry- and two 
+year-dummy variables to distinguish nine industries and 3 years under coverage in this study. Thus 
+our control variables are SIZE = Log (total asset), RISK = Long-term debt / total asset, DSales
+ = 
+t
+log (Sales for year t / Sales for year t–1), DSales
+ = log (Sales for year t–1 / Sales for year t–2), and 
+R&D = R&D expenditure / total asset.
+
+t–1
+
+(high minus low), and Momentum
+t
+
+ as the market return in month t minus the risk-free rate. SMB
+t
+
+3.2.4 Variables used in Carhart’s (1997) four-factor model. 
+In estimating Carhart’s (1997) four-factor 
+ as the difference in monthly returns between top and bottom 
+model (Equation (2)), we measure R
+t
+ (small minus 
+portfolios and RMRF
+t
+big), HML
+ are the month t returns on zero-investment factor-
+t 
+mimicking portfolios designed to capture size, book-to-market, and momentum effects, respec-
+tively. The factor portfolios are specifically constructed following the method of Fama and French 
+(1993) and Carhart (1997). The SMB portfolio is based on the firm’s market capitalization at the 
+end of January from 2002–2007. The companies with the lowest 10% of market capitalization are 
+defined as ‘small’, while the top 10% of firms are defined as ‘big’. The return on the portfolio of 
+‘big’ companies is subtracted from the return on the ‘small’ portfolio.13 The HML factor-mimicking 
+portfolio is constructed in a similar way: the 10% of companies with the highest book-to-market 
+are included in the ‘value portfolio’ while the bottom 10% are defined as ‘growth portfolio’, and 
+the return on the growth portfolio is subtracted from the return on the value portfolio. To construct 
+
+the momentum portfolio, the 10% of firms with the highest 11-month returns lagged by 1 month 
+
+are classified as ‘winners’. The bottom 10% are classified as ‘losers’. Each month, the return on the 
+losers’ portfolio is subtracted from the return on the winners’ portfolio.
+
+4. Empirical results
+
+4.1 Data and descriptive statistics
+Our sample is drawn from companies listed on the KRX14 for which the KEJI index is available. 
+While the selection of our sample is inevitably limited to those firms that appear on the KEJI index, 
+hence subject to possible selection bias, we are not aware of any alternative reliable measures of 
+CSR in Korea comparable to the KEJI index in its coverage, and measurement validity. For our 
+sample firms, financial data were retrieved from the TS-2000 database.15 Up to 2001, the KEJI 
+index had only six categories, and from 2002 the index was expanded to include an additional 
+category. In order to maintain consistency of our data, we have used the seven-category KEJI index 
+scores from 2002. Thus our sample period covers 7 years from 2002–2008 and the final sample 
+includes 1222 firm-years from both manufacturing and non-manufacturing industries.
+
+We classified sample firms into 18 industries using the Korean Standard Industry Classification 
+codes. The distribution of sample firms based on their industry classification is shown in Table 
+2, while the weights for each of the seven KEJI categories for each industry are shown in Table 
+3. These weights are used to calculate the stakeholder-weighted CSR index on an annual basis. 
+
+
+300   
+
+Australian Journal of Management 35(3)
+
+Table 2.  Sample distribution by industry
+
+Industry Classification
+
+Frequency
+
+%
+
+Manufacture of basic metal products
+Manufacture of rubber and plastic products
+Manufacture of other machinery and equipment
+Manufacture of other non-metallic mineral products
+Manufacture of wearing apparel, Clothing 
+Manufacture of food product and beverage
+Manufacture of pharmaceuticals, medicinal chemicals
+Manufacture of motor vehicles, trailers
+Manufacture of electronic components, computer, radio, television 
+and communication equipment and apparatuses
+Manufacture of pulp, paper and paper products
+Manufacture of chemicals and chemical products
+Manufacture of fabricated metal products
+Professional Services
+Manufacture of coke, hard-coal products
+Wholesales trade and commission trade
+Retail trade
+Electricity, gas, steam and air conditioning supply
+General construction
+Total 
+
+73
+48
+70
+56
+38
+93
+171
+96
+122
+
+31
+175
+18
+32
+19
+33
+31
+32
+84
+1222
+
+Table 3.  Mean Weights by Industry and the KEJI category over 2002–2008.
+
+Categories
+
+Industries
+
+Soundness Fairness Contribution 
+
+to Society
+
+Consumer 
+Protection
+
+Environmental 
+Protection
+
+Employee 
+Satisfaction
+
+6.0
+3.9
+5.7
+4.6
+3.1
+7.6
+14.0
+7.9
+10.0
+
+2.5
+14.3
+1.5
+2.6
+1.6
+2.7
+2.5
+2.6
+6.9
+
+100
+
+Contribution 
+to Economy
+
+0.16
+Metal
+0.15
+Rubber
+0.17
+Machinery
+0.17
+Mineral
+0.18
+Clothing
+0.17
+Food
+0.17
+Medicine
+0.16
+Vehicles
+0.16
+Electronics
+0.16
+Paper
+0.17
+Chemical
+Fabricated metal
+0.16
+Professional Services 0.17
+0.18
+Hard-coal
+0.18
+Wholesales Trade
+Retail Trade
+0.2
+0.18
+Electricity Supply
+Construction
+0.15
+
+0.19
+0.18
+0.18
+0.17
+0.19
+0.18
+0.17
+0.16
+0.15
+0.18
+0.15
+0.18
+0.18
+0.2
+0.18
+0.19
+0.19
+0.15
+
+0.15
+0.13
+0.13
+0.16
+0.12
+0.14
+0.14
+0.12
+0.11
+0.14
+0.12
+0.14
+0.12
+0.1
+0.13
+0.11
+0.14
+0.12
+
+0.12
+0.13
+0.12
+0.12
+0.13
+0.14
+0.1
+0.1
+0.16
+0.12
+0.12
+0.13
+0.11
+0.09
+0.11
+0.17
+0.12
+0.12
+
+0.14
+0.16
+0.13
+0.14
+0.13
+0.11
+0.12
+0.14
+0.13
+0.16
+0.19
+0.14
+0.14
+0.19
+0.14
+0.11
+0.13
+0.17
+
+0.12
+0.13
+0.14
+0.12
+0.15
+0.15
+0.17
+0.18
+0.14
+0.13
+0.13
+0.13
+0.15
+0.13
+0.16
+0.12
+0.14
+0.17
+
+0.12
+0.12
+0.13
+0.12
+0.1
+0.11
+0.13
+0.14
+0.15
+0.11
+0.12
+0.12
+0.13
+0.11
+0.1
+0.1
+0.1
+0.12
+
+As shown in Table 3, environmental protection is given the highest weight in the chemical and 
+hard-coal industry (weight = 0.19) while consumer protection is the highest in the retail trade 
+industry (weight = 0.17).
+
+
+Choi et al. 
+
+Table 4.  Descriptive statistics
+
+ROA
+ROE
+Tobin’s Q
+EW
+SW
+SIZE
+DSalest-1
+DSalest
+RISK
+R&D
+
+Mean
+
+0.071
+0.124
+0.917
+416.098
+61.657
+12.835
+0.030
+0.031
+0.109
+0.016
+
+S.D
+
+0.052
+0.099
+0.397
+24.141
+3.412
+1.482
+0.067
+0.079
+0.090
+0.020
+
+Min
+
+-0.166
+-0.188
+0.114
+362.711
+54.101
+10.001
+-0.173
+-0.147
+0.000
+0.000
+
+Median
+
+0.065
+0.115
+0.821
+412.927
+61.136
+12.463
+0.032
+0.031
+0.083
+0.014
+
+301
+
+Max
+
+0.348
+0.593
+2.991
+523.692
+76.752
+18.099
+0.392
+0.432
+0.382
+0.164
+
+RISK
+
+R&D
+
+Table 5.  Pearson correlation coefficients
+
+ROA ROE
+
+Tobin's Q EW
+
+SW
+
+SIZE
+
+DSalest-1 DSalest
+0.252***
+0.193*** 0.173*** 0.258***
+0.333**
+0.285*** 0.134***
+0.572*** 0.260**
+
+0.752*** 0.284***
+0.290***
+
+0.167** 0.241*** 0.031
+0.088
+0.038
+
+ROA
+ROE
+Tobin's Q
+EW
+SW
+SIZE
+DSalest-1
+DSalest
+RISK
+R&D
+Note: ***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+0.074
+0.354*** 0.065
+0.069**
+
+0.273*** -0.104***
+0.322*** -0.132***
+0.087*** -0.120***
+0.057*
+0.062*
+0.079***
+0.261***
+
+0.004
+0.040
+0.387***
+0.057**
+0.035*
+
+0.162***
+0.087***
+0.347***
+0.331***
+0.315***
+0.044*
+0.089***
+0.010
+-0.026
+
+Descriptive statistics for the variables used in the estimation are summarized in Table 4. The stan-
+dard deviations of equal weight (EW) and stakeholder weight (SW) are relatively small, suggesting 
+that our sample consists of relatively homogeneous group of firms in their perceived CSR activities.
+
+4.2 Correlation and analysis of variance
+As discussed previously, good management theory or instrumental stakeholder theory predict a posi-
+tive relation between corporate social performance and financial performance. Table 5 reports Pearson 
+correlation  coefficients  and  provides  some  preliminary  evidence  in  support  of  this.  While  EW  is 
+shown to be positively correlated with ROA only, SW is positively correlated with all three perfor-
+mance measures. SIZE is positively correlated with both EW and SW, which is consistent with a 
+commonly shared view that, as firm size increases, corporate responsibility tends to increase as well.
+Using a series of one-way ANOVA tests, Table 6 examines the mean differences among three 
+different groups of CSR for corporate financial performance. In panel A, we used the equal-weighted 
+CSR  index  to  rank  the  sample  firms,  while  in  panel  B,  we  used  the  stakeholder-weighted  CSR 
+
+
+302   
+
+Australian Journal of Management 35(3)
+
+Table 6.  Results of variance analysis
+
+Panel A : EW is the classification variable to group the sample firms
+
+Bottom 25%
+
+Middle 50%
+
+0.0582
+0.0711
+0.7594
+
+0.0689
+0.0847
+0.9059
+
+Top 25%
+
+0.0871
+0.1059
+1.543
+
+Panel B : SW is the classification variable to group the sample firms
+
+Bottom 25%
+
+Middle 50%
+
+0.0584
+0.0674
+0.5090
+
+0.0650
+0.0796
+0.9259
+
+Top 25%
+
+0.0952
+0.1209
+1.3537
+
+F-Value
+
+  5.42***
+  2.41**
+  1.99*
+
+F-Value
+
+  6.38***
+  9.73***
+15.41***
+
+ROA
+ROE
+Tobin’s Q
+
+ROA
+ROE
+Tobin’s Q
+
+***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+index. In both panels, corporate financial performance for firms with higher CSR index is shown to 
+be higher than those with lower CSR index. This is true for all three financial performance variables 
+and the difference among the three groups of firms is statistically significant. In sum, both Tables 5 
+and 6 seem to suggest a positive relation between CSR and corporate financial performance. We 
+examine this more rigorously below.
+
+4.3 Cross-sectional regression analysis
+This section reports the results from the cross-sectional regression analysis, specified in Equation 
+(1). The dependent variable is corporate financial performance, measured by ROA, ROE, or Tobin’s 
+Q. In Table 7, Model 1 reports the results when the equal-weighted CSR index (EW) and five con-
+trol variables are used as independent variables, while Model 2 reports the results when the stake-
+holder-weighted CSR index (SW) is used along with the same set of control variables. Both models 
+used dummy variables to control for industry- and year-effects, but for brevity the results are not 
+shown in the table. Both models are shown to have significant explanatory power at the conven-
+tional level. However, the coefficient to EW is not significant in Model 1 regardless of how corpo-
+rate financial performance is measured. On the other hand, Model 2 shows that the coefficient to 
+SW is positive and statistically significant for all three financial performance variables. This implies 
+that, when CSR is measured while taking into account firm-specific stakeholders’ interests, there is 
+a positive association between corporate financial performance and CSR. We do note, however, that 
+our results should not be interpreted to render direct support to good management theory or instru-
+mental stakeholder theory. While both theories suggest a positive link from CSR to corporate finan-
+cial performance, our results do not imply causality in either direction, for which we need longer 
+and more comprehensive time-series data. We discuss this issue in Section 4.5.
+
+4.4 Estimation of the four-factor model
+Table 8 reports the estimation results from Carhart’s (1997) four-factor model, specified in Equation 
+(2). As discussed previously, the dependent variable in this regression is the difference in monthly 
+returns between top and bottom portfolios, ranked based on their KEJI indices, and independent 
+
+
+Choi et al. 
+
+303
+
+Table 7.  Estimation results for corporate financial performance
+
+Independent Variables
+
+Dependent Variables
+
+Model 1
+
+Model 2
+
+ROA
+
+ROE
+
+Tobin’s Q
+
+ROA
+
+ROE
+
+Tobin’s Q
+
+0.036
+(1.58)
+
+0.019
+(1.35)
+
+0.002
+(0.33)
+
+0.002*
+(1.83)
+0.145***
+(7.07)
+0.151***
+(8.67)
+-0.082***
+(-5.14) 
+
+0.229***
+(2.81)
+0.298
+18.91***
+
+0.007***
+(3.12)
+0.246***
+(6.17)
+0.326***
+(9.67)
+-0.061*
+(-1.95)
+0.026
+(0.16)
+0.263
+15.93***
+
+0.068***
+(7.15)
+0.602***
+(3.43)
+0.528***
+(3.55)
+-0.238*
+(-1.73)
+
+5.182***
+(7.41)
+0.332
+32.96***
+
+0.252***
+(5.54)
+0.000*
+(1.90)
+0.117***
+(7.05)
+0.130***
+(8.65)
+-0.079***
+(-4.99)
+
+0.240***
+(2.95)
+0.315
+20.84***
+
+0.214***
+(4.35)
+0.005***
+(3.12)
+0.271***
+(5.17)
+0.208***
+(4.03)
+-0.039*
+(-1.81)
+0.017
+(0.11)
+0.280
+19.09***
+
+0.542***
+(3.36)
+0.039***
+(5.95)
+0.600***
+(3.42)
+0.517***
+(3.51)
+-0.251***
+(-1.82)
+
+5.229***
+(7.50)
+0.446
+41.98***
+
+EW
+
+SW
+
+SIZE
+
+DSalest-1
+
+DSalest
+
+RISK
+
+R&D
+
+Adj-R2
+F-statistic
+
+Note: ***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+Table 8.  Estimation results from the four-factor model
+
+Variables
+
+EW
+
+SW
+
+Coefficient
+
+t-statistic
+
+Coefficient
+
+t-statistic
+
+a
+0
+RMRF
+SMB
+HML
+Momentum
+Adj-R2
+F-statistic
+
+  0.069
+-0.217*
+-0.497***
+-0.283***
+  0.196
+  0.247
+12.513***
+
+  0.79
+-1.97
+-3.96
+  2.59
+  1.13
+
+  0.311***
+-0.117*
+-0.288**
+-0.098*
+  0.004
+  0.378
+21.047***
+
+  3.98
+-1.80
+-2.20
+-1.93
+  0.15
+
+Note: ***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+variables are RMRF, SMB, HML, and Momentum. The intercept term a
+ captures the abnormal 
+0
+return on the zero-investment strategy of buying the top decile portfolio and selling short the bot-
+tom decile portfolio. We estimated two models using the equal-weighted and stakeholder-weighted 
+CSR indices to form top and bottom portfolios.
+
+Table 8 shows that a
+0
+
+ is not significantly different from zero (t = 0.79) when the sample firms 
+are ranked based on the equal-weighted CSR index, but it is positive and significant (t = 3.98) 
+when the stakeholder-weighted CSR index is used to rank the sample firms. We can interpret the 
+latter result to imply that there is a 31.1 basis point difference in monthly returns between the two 
+portfolios that can be explained by the firms’ corporate social performance. This is in addition to 
+the difference that can be explained by Carhart’s four factors. Once again, our result indicates a 
+
+
+304   
+
+Australian Journal of Management 35(3)
+
+positive association between CSR and corporate financial performance when firms prioritize their 
+CSR activities based on their stakeholder interests.
+
+4.5 Additional analyses
+As discussed previously, the various theories in the management literature predict different links 
+between corporate social performance and financial performance. On the one hand, good manage-
+ment theory or instrumental stakeholder theory suggest a positive link from corporate social per-
+formance to financial performance. According to slack resources theory (Ullmann, 1985; Waddock 
+and Graves 1997), however, the link is reversed: financially healthy firms can afford to engage in 
+more CSR activities, which in turn are likely to improve financial performance further, particularly 
+when the CSR activities are properly directed toward stakeholder preferences.
+
+As an additional test, we address such an endogeneity issue by estimating the following simul-
+taneous equation system after controlling for endogeneity by employing two-stage least squares 
+(2SLS) regression analysis:
+
+Equation 1:
+
+Equation 2:
+
+CSRindex
+t
+
+=
+
+α α
+CFP
+1
+t
+
++
+
+0
+
++
+
+α
+2
+
+CSRindex
+t
+
+−
+1
+
++
+
+α
+3
+
+SIZE
+t
+
++
+
+ε
+1
+t
+
+CFP
+t
+
+=
+
+ 
+
+β β
+CSRindex
+1
+t
+
++
+
+0
+
++
++
+
+β
+2
+β
+5
+
+CSRindex
+t
+∆ aales
++
+S
+t
+
+−
+1
+β
+6
+
++
+β
+3
+RISK
+
+SIZE
+t
++
+β
+7
+
++
+∆
+β
+Sales
+t
+4
+ε
+R D
+&
+2
+t
+
++
+
+t
+
+t
+
+−
+1
+
+ 
+
+(5)
+
+The results are presented in Table 9.16 As can be seen in panel B of the table, only the estimated 
+coefficients for stakeholder-weighted CSR are positive and statistically significant, which is con-
+sistent with previous results. Panel A also shows that high levels of financial performance provide 
+slack resources necessary to engage in CSR with which stakeholders are prioritized. In a nutshell, 
+Table 9 shows that CSR activities which take stakeholders’ priority into account can have a posi-
+tive impact upon corporate financial performance, which in turn feeds back to stakeholder-oriented 
+CSR activities. These results support Waddock and Graves’ (1997) argument in favor of a ‘virtuous 
+cycle’ between CSR and corporate financial performance.
+
+To address any statistical causation between CSR and corporate financial performance, we also 
+conduct Granger causality tests. Since the selection of firms on the KEJI index varies year to year, 
+we could identify only 40 firms in our sample that had seven consecutive years of time-series data 
+on the KEJI index. Partial results from Granger causality tests for this sub-sample are presented in 
+Table 10, where financial performance is measured by Tobin’s Q. Panels A and B show that causal-
+ity runs in neither direction when CSR is measured by EW while Panels C and D suggest bilateral 
+causality when CSR is measured by SW. Once more, these results provide support for the virtuous 
+cycle between CSR and corporate financial performance.17
+
+Finally, we conducted further analyses to check the robustness of our findings. First, for each CSR 
+index presented in Table 6, we replicated the difference test across the four CSR groups using non-
+parametric Kruskal–Wallis test. The results from this test are qualitatively similar, and with compa-
+rable level of significance, to those reported in the parametric ANOVA-test.18 Second, we replicated 
+
+
+Choi et al. 
+
+305
+
+Table 9.  Estimation of the simultaneous equation system
+
+Panel A: Result from Equation 1
+
+Independent Variables
+
+Dependent Variables
+
+ROA
+
+ROE
+
+Tobin’s Q
+
+SIZE
+
+Pre CSR
+
+Adj-R2
+F-statistic
+
+EW
+
+13.116
+(0.96)
+
+0.411***
+(6.01)
+0.351***
+(7.51)
+0.175
+14.41***
+
+SW
+
+15.123***
+(8.72)
+
+0.624***
+(6.72)
+0.325***
+(7.00)
+0.253
+26.91***
+
+7.82
+(0.47)
+
+0.695***
+(2.58)
+0.459***
+
+(11.42)
+0.182
+17.93***
+
+3.973
+(0.39)
+0.603
+(0.64)
+0.278***
+(4.67)
+0.111
+10.27***
+
+7.248***
+(6.07)
+
+0.333***
+(3.90)
+0.449***
+
+(11.86)
+0.276
+27.92***
+
+3.797***
+(5.17)
+0.227**
+(2.14)
+0.381***
+(8.58)
+0.204
+19.03***
+
+Independent Variables
+
+Dependent Variables
+
+Panel B: Result from Equation 2
+
+Model 1
+
+Model 2
+
+ROA
+
+ROE
+
+Tobin’s Q
+
+ROA
+
+ROE
+
+Tobin’s Q
+
+0.000
+(0.41)
+
+0.000
+(0.99)
+
+0.000
+(0.57)
+
+0.002
+(1.43)
+0.199***
+(6.79)
+0.127***
+(5.99)
+-0.078***
+(-3.85)
+
+0.383***
+(4.33)
+0.000
+(0.86)
+0.200
+18.92***
+
+0.004
+(1.55)
+0.357***
+(6.77)
+0.266***
+(6.99)
+-0.093***
+(2.53)
+0.567***
+(3.57)
+0.000
+(0.31)
+0.197
+18.47***
+
+0.069***
+(5.20)
+0.758***
+(2.56)
+0.414*
+(1.95)
+-0.062
+(-0.30)
+
+0.692***
+(7.76)
+0.000
+(1.51)
+0.210
+20.95***
+
+0.002***
+(3.38)
+0.002
+(1.49)
+0.185***
+(6.67)
+0.106***
+(6.02)
+-0.064***
+(-3.66)
+
+0.392***
+(4.47)
+0.001**
+(2.11)
+0.247
+21.93***
+
+0.001***
+(2.78)
+0.004
+(1.56)
+0.212***
+(3.70)
+0.197**
+(2.23)
+-0.096***
+(2.64)
+0.580***
+(3.69)
+0.003*
+(1.98)
+0.216
+21.02***
+
+0.044***
+(3.50)
+0.051***
+(2.94)
+0.730**
+(2.44)
+0.358*
+(1.66)
+-0.150
+(-0.71)
+1.599
+(0.38)
+0.035*
+(1.83)
+0.391
+30.04***
+
+EW
+
+SW
+
+SIZE
+
+DSalest-1
+
+DSalest
+
+RISK
+
+R&D
+
+Pre CSR
+
+Adj-R2
+F-statistic
+
+Note: ***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+our regressions by calculating EW and SW for each of the seven CSR categories in the KEJI index 
+and used them as the CSR variable. Again the results are similar in that there is a positive and signifi-
+cant association between corporate financial performance and only the stakeholder-weighted CSR 
+index, except for the two categories of contribution to society and consumer protection. Partial results 
+of this analysis are provided in Table 11, where financial performance is measure by Tobin’s Q.
+
+
+306   
+
+Australian Journal of Management 35(3)
+
+Table 10.  Granger Causality Tests for CSR and corporate financial performance measured by Tobin’s Q
+
+Full Model
+
+Restricted Model
+
+p-value
+
+Causality
+
+Estimate
+
+FM t-stat
+
+Estimate
+
+FM t-stat
+
+  0.5665
+  0.1851*
+  0.1625*
+  0.8137
+  0.4663
+
+-1.5423
+  0.1448***
+  0.0957*
+  0.0035
+  0.0020
+
+Panel A : EW → Tobin’s Q
+Intercept
+Tobin’s Qt-1
+Tobin’s Qt-2
+EWt-1
+EWt-2
+Panel B : Tobin’s Q → EW
+Intercept
+EWt-1
+EWt-2
+Tobin’s Qt-1
+Tobin’s Qt-2
+Panel C : SW → Tobin’s Q
+  0.6599
+Intercept
+  0.2008**
+Tobin’s Qt-1
+  0.0837*
+Tobin’s Qt-2
+  0.0136***
+SWt-1
+  0.0084**
+SWt-2
+Panel D : Tobin’s Q → SW
+Intercept
+  0.0858
+  0.2285**
+SWt-1
+  0.1425*
+SWt-2
+  0.7834***
+Tobin’s Qt-1
+  0.4539***
+Tobin’s Qt-2
+
+0.0858***
+0.2743***
+0.1554***
+
+0.4790**
+0.1626***
+0.0379*
+
+0.0858***
+0.2743***
+0.1554***
+
+0.0768
+0.2407***
+0.1224**
+
+4.04
+3.88
+2.79
+
+2.13
+2.36
+1.79
+
+4.04
+3.88
+2.79
+
+1.18
+3.86
+2.21
+
+-0.81
+  2.57
+  1.89
+  0.73
+  0.73
+
+  0.08
+  1.91
+  1.85
+  0.09
+  0.87
+
+  0.56
+  2.14
+  1.86
+  2.96
+  2.07
+
+  0.63
+  2.22
+  1.90
+  2.63
+  2.37
+
+2 Lags
+1 Lag
+
+0.21
+0.13
+
+2 Lag
+1 Lag
+
+0.69
+0.33
+
+no
+no
+
+no
+no
+
+2 Lag
+1 Lag
+
+0.00
+0.00
+
+yes
+yes
+
+2 Lag
+1 Lag
+
+0.00
+0.00
+
+yes
+yes
+
+Note:  1) ***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+2) FM t-stat is the Fama-MacBeth t-statistic.
+
+Table 11.  Estimation results for corporate financial performance for each of CSR categories (dependent 
+variable:  Tobin’s Q)
+
+Soundness
+
+Fairness Contribution 
+
+to society 
+
+Consumer 
+protection
+
+Environmental 
+protection
+
+Employee 
+satisfaction
+
+Contribution 
+to economy
+
+EW 0.01
+(0.77)
+SW 0.05***
+(7.67)
+
+0.02
+(1.03)
+0.03***
+(3.39)
+
+0.00
+(0.65)
+0.00
+(0.13)
+
+0.01
+(1.09)
+0.06***
+(8.10)
+
+0.04
+(1.15)
+0.13***
+(4.01)
+
+0.05
+(1.30)
+0.08***
+(6.43)
+
+0.08
+(1.15)
+0.13***
+(2.79)
+
+Note: ***, **, * represent significance levels at the 1%, 5%, and 10%, respectively.
+
+5. Conclusion
+
+The existing studies on the relation between CSR and corporate financial performance provide 
+mixed results. This study was motivated by the lack of consistent evidence on the one hand and the 
+relative paucity of research in the Korean context on the other. We have investigated the relation 
+
+
+Choi et al. 
+
+307
+
+between CSR and corporate financial performance using a sample of Korean firms where CSR is 
+measured by the KEJI index, the first comprehensive, multi-dimensional CSR measure in Korea. 
+The main contribution of this paper is twofold. First, our research design improves upon many 
+existing studies in several ways by (i) circumventing the stakeholder misalignment problem with 
+use of the stakeholder-weighted CSR index; (ii) employing Carhart’s (1997) four-factor model to 
+control for other variables that are known to be important determinants of corporate financial per-
+formance; (iii) conducting additional analysis of bi-directional relation between CSR and corpo-
+rate financial performance after controlling for potential endogeneity; and (iv) carrying out Granger 
+causality tests for CSR and corporate financial performance. Second, our study provides the first 
+comprehensive evidence from Korea on the relation between multi-dimensional CSR and corpo-
+rate financial performance.
+
+Our main finding is that there is a positive and significant association between corporate finan-
+cial  performance  and  the  stakeholder-weighted  CSR  measure,  but  not  the  equal-weighted  CSR 
+measure. The positive association is robust to alternative model specifications and several addi-
+tional tests, further strengthening the case for using the stakeholder-weighted metric in measuring 
+CSR.  These  results  suggest  that  it  is  important  for  a  firm  to  realize  which  aspect  of  its  social 
+responsibility is more important to its primary stakeholders, and that a firm’s social initiatives, 
+when properly directed, tend to improve its bottom line in Korea.
+
+We conclude the paper with discussions on some limitations of this study that need to be addressed 
+in future studies. First, we have not clearly addressed the concern for a possible bias in sample selection. 
+Our sample is drawn from a population of firms selected by the CCEJ for construction of its KEJI 
+index. The selected firms tend to be large, with superior position in terms of financial performance 
+and CSR. However, this limitation is inevitable since the KEJI index is the only reliable multi-
+dimensional CSR measure available in Korea. Second, while the KEJI index is considered to be 
+the most reliable measure of CSR currently available in Korea, it has room for further improvement 
+in the way firms are selected and in the process whereby qualitative and quantitative assessments 
+determine the final score. Finally, the 7-year period this study covers may not be long enough to 
+generalize the results. It would be necessary to exercise caution when deriving inference from the 
+results of this study. In future research, we expect to extend the coverage of sample firms both by 
+using augmented datasets on CSR and by experimenting with alternative model specifications.
+
+Funding
+The first author wishes to acknowledge the financial support provided by the 2010 Specialization Project 
+Research Grant funded by Pusan National University.
+
+Notes
+  1  Chief sustainability officer, usually with the rank of vice president or higher, is in charge of overall CSR 
+programs in the corporation. As of 2005, almost all of the 150 largest companies in the world had a chief 
+sustainability officer (Willard, 2005).
+
+  2  Rio Tinto made a total community contribution of $134 million in 2008, the largest component being 
+in various community education programs (http://www.riotinto.com/ourapproach/17215_communities_ 
+17356.asp).
+
+  3  On  7  December  2007,  a  large-scale  oil-spill  accident  occurred  off  the  coast  of Tae-an,  South  Korea, 
+caused by the reckless sailing of a tugboat owned by one of the leading Korean shipbuilders amidst 
+hostile weather conditions. The crude oil leakage of about 12,000 tons was the largest in Korea, resulting 
+in the devastation of regional economy with the estimated total damage of $519 million, not to mention 
+the colossal damage to the ecosystem. The company involved paid only $5 million to the affected com-
+munity,  and  the  compensation  case  is  still  unresolved  as  of  early  2010.  In  another  case  involving  a 
+
+
+308   
+
+Australian Journal of Management 35(3)
+
+massive earnings manipulation amounting to some $1.2 billion, committed by another leading Korean 
+conglomerate in 2003, the CEO and other responsible executives were sentenced to probation, on the 
+ground that the accounting fraud was intended to help alleviate the financial difficulties incumbent upon 
+the whole group.
+
+  4  More details on the CCEJ and KEJI can be found at http://www.ccej.or.kr/English/
+  5  The KLD index, developed by Kinder, Lydenberg, and Domini, rates companies based on five criteria, 
+along a scale of -2 to +2, depending upon their social performance, and provides data on financial perfor-
+mance of socially screened portfolios. For details, see http://www.kld.com/indexes/index.html
+
+  6  There are two ways one can estimate the multi-factor models such as Fama–French or Carhart. The first 
+approach  includes  the  additional  factor  as  an  additional  independent  variable  by  forming  a  factor-
+mimicking portfolio on the basis of the potential factor (Francis et al., 2005). The second approach incor-
+porates the additional factor in the dependent variable by calculating the difference between portfolio 
+returns constructed on the basis of the potential factor (Aboody and Lev, 2000; Bauer et al., 2003; Kempf 
+and Osthoff , 2007). We follow the second approach.
+
+  7  The historical excess return data on the four factors are available from the Kenneth French Data Library 
+for the US and several other international markets. Since the Korean stock market data are not directly 
+available from this library, however, we calculate the four factors by combining portfolios composed by 
+stocks rank-ordered according to each of the factors with market data available from the Korean Stock 
+Exchange. The details are provided in Section 3.2.4.
+
+  8  We use Chung and Pruitt’s approximation simply because the market value of debt is not available from 
+accounting information. The information required to calculate Chung and Pruitt’s approximation is read-
+ily  obtainable  from  the  firm’s  financial  report.  Chung  and  Pruitt  showed  that  their  approximation  of 
+Tobin’s Q has a high correlation with that based on Lindenberg and Ross (1981). Moreover a great major-
+ity of academic researchers and financial practitioners nowadays use Chung and Pruitt’s approximation.
+  9  The index was subsequently modified and refined in 1993 based on wide consultation with the represen-
+tatives from academia, journalists, governmental authorities, labor union, NGOs, business community, 
+and general public.
+
+10  Criteria for exclusion include the following: three consecutive years of net losses, less than 1.0 debt-to-
+equity ratio, lower than 1.0 times-interest-rate (interest expense plus EBIT divided by EBIT), merger 
+target, and newly listed companies whose financial data are unavailable.
+
+11  More  specifically,  the  soundness  category  comprises  stockholder  composition,  investment,  financing, 
+and is assigned a maximum score of 25. The fairness category consists of fair trade, economic concentra-
+tion, transparency, supplier relationship, and is assigned a maximum score of 15. The contribution to 
+society  category  considers  care  for  minority  groups,  corporate  donation,  and  is  assigned  a  maximum 
+score of 10. The consumer protection category comprises protection of consumer sovereignty, product 
+quality  and  promotion  with  a  maximum  score  of  10.  The  environmental  protection  category  covers 
+environmental  improvement  efforts,  environmental  friendliness,  and  compliance  with  environmental 
+regulation with a maximum score of 15. The employee satisfaction category consists of workplace safety, 
+human resource investment, wage and welfare, labor-management relationship, and gender equality with 
+a maximum score of 15. The contribution to economy category relates to R&D efforts, operating per-
+formance, and contribution to economy through tax payment, productivity growth and export, for which 
+a maximum score of 10 is given. More details on the KEJI index and its scoring system are available from 
+the authors.
+
+12  An alternative interpretation of these weights is the relative competitive position of each industry on their 
+CSR activities. Our interpretation is not inconsistent with this interpretation if we accept the assumption, 
+which we believe is innocuous, that an industry’s CSR activities are geared towards the interests of its 
+primary stakeholders. This assumption is also supported by McWilliams et al. (2006).
+
+
+Choi et al. 
+
+309
+
+13  This procedure yields a series of 12*7 = 84 monthly factor returns since the sample period covers 2002–
+2007 in our analyses. The factor-mimicking portfolios are rebalanced as of the end of January. The same 
+technique is applied to construct other factor-mimicking portfolios. We also replicated the procedure by 
+reconstructing portfolios on a monthly basis, which resulted in qualitatively similar results.
+
+14  The Korea Exchange (KRX) was created through the integration of the three existing Korean spot & 
+futures exchanges (Korea Stock Exchange, Korea Futures Exchange and KOSDAQ) under the Korea 
+Stock & Futures Exchange Act. As of 31 December 2007, the KRX had 1757 listed companies with a 
+combined market capitalization of $1.1 trillion. For more details, see http://www.krx.co.kr.
+
+15  TS-2000 stands for Business Information Total Solution 2000, which is a Korean version of CRSP data-
+base, developed by Korea Listed Companies Association. It provides financial information on KRX- and 
+KOSDAQ-listed companies and industrial data for statistics and analysis.
+
+16  We also conducted Hausman’s test to detect the presence of any endogenous relation between CSR and 
+corporate financial performance. Untabulated results of Hausman’s test indicate that there is endogeneity 
+between CSR and corporate financial performance. This result suggests that it is necessary to employ the 
+simultaneous equations model as in (5).
+
+17  We also replicated the analysis using ROA and ROE and arrived at qualitatively similar results, which are 
+
+available from the authors.
+
+18  The results are not reported, but available from the authors.
+
+(Date of receipt of final transcript: July 01, 2010. Accepted by Garry Twite and John Handley, Associate 
+Editors)
+
+References
+Aboody D and Lev B (2000) Information asymmetry, R&D, and insider gains. Journal of Finance 55(6): 
+
+2747–2765.
+
+Akpinar A, Jiang Y, Gomez-Mejia LR, Berrone P and Walls JL (2008) Strategic use of CSR as a signal for 
+
+good management. IE Business School Working Paper.
+
+Alexander  GJ  and  Buchholz  RA  (1978)  Corporate  social  responsibility  and  stock  market  performance. 
+
+Academy of Management Journal 21(3): 479–486.
+
+Arlow  P  and  Gannon  MJ  (1982)  Social  responsiveness,  corporate  structure,  and  economic  performance. 
+
+Academy of Management Review 7(2): 235–241.
+
+Aupperle K, Carroll A and Hatfield J (1985) An empirical examination of the relationship between corporate 
+
+social responsibility and profitability. Academy of Management Journal 28(2): 446–463.
+
+Bagnoli  M  and  Watts  SG  (2003)  Selling  to  socially  responsible  consumers:  Competition  and  the  private 
+
+provision of public goods. Journal of Economics & Management Strategy 12(3): 419–445.
+
+Baron D (2001) Private politics, corporate social responsibility and integrated strategy. Journal of Economics 
+
+and Management Strategy 10(1): 7–45.
+
+Bénabou R and Tirole J (2010) Individual and corporate social responsibility. Economica 77: 1–19.
+Bauer R, Guenster N and Otten R (2004) Empirical evidence on corporate governance in Europe: the effect on 
+
+stock returns, firm value and performance. Journal of Asset Management 5(2): 91–104.
+
+Berman  S,  Wicks A,  Kotha  S  and  Jones  T  (1999)  Does  stakeholder  orientation  matter?  The  relationship 
+between  stakeholder  management  models  and  firms’  financial  performance.  Academy  of  Management 
+Journal 42(5): 488–506.
+
+Blackburn VL, Doran M and Shrader CB (1994) Investigating the dimensions of social responsibility and the 
+
+consequences for corporate financial performance. Journal of Managerial Issues 6(2): 195–212.
+
+Bowman E and Haire M (1975) A strategic posture towards CSR. California Management Review 18(2): 
+
+49–58.
+
+
+310   
+
+Australian Journal of Management 35(3)
+
+Bragdon JH Jr. and Marlin JAT (1972) Is pollution profitable? Risk Management 19(1): 9–18.
+Carhart M (1997) On persistence in mutual fund performance. Journal of Finance 52: 57–82.
+Carroll  AB  (1979)  A  three-dimensional  conceptual  model  of  corporate  social  performance.  Academy  of 
+
+Management Review 4(3): 497–506.
+
+Choi  J-S,  Jang  J-K  and  Chang  I-Y  (2008)  The  relations  among  corporate  environmental  disclosures, 
+public  initiatives,  and  corporate  characteristics:  Korean  Evidence.  Korean Accounting  Review  33(1): 
+1–32.
+
+Choi J-S and Kwak Y-M (2010) An empirical analysis on the relation between corporate environmental per-
+formance and discretionary environmental disclosure using stand-alone environmental reports or supple-
+mentary web disclosures. DAEHAN Journal of Business 23(1): 545–573.
+
+Chung KH and Pruit SW (1994) A Simple approximation of Tobin’s Q. Financial Management 23(3): 70–74.
+Cochran  PL  and Wood  RA  (1984)  Corporate  social  responsibility  and  financial  performance. Academy  of 
+
+Management Journal 27(1): 42–56.
+
+Conine TE and Madden GP (1987) Corporate social responsibility and investment value: the expectational 
+relationship. In: Guth WK (ed) Handbook of Business Strategy. New York: Warren, Gorham and Lamont.
+De  S  (1992)  Diversification  patterns  and  long-term  corporate  performance.  Managerial  and  Decision 
+
+Economics 13(1): 1–13.
+
+The Economist (2008) A special report on corporate social responsibility. January 19–25.
+Eurosif (2003) Socially responsible investment among European institutional investors. European Commission 
+
+Employment and Social Affairs DG.
+
+Fama EF and French KR (1993) Common risk factors in the returns on stocks and bonds. Journal of Financial 
+
+Economics 33(1): 3–56.
+
+Fogler HR and Nutt F (1975) A note on social responsibility and stock valuation. Academy of Management 
+
+Journal 18(2): 155–160.
+
+Fombrun C and Shanley M (1990) What’s in a name? Reputation building and corporate strategy. Academy 
+
+of Management Journal 33(2): 233–258.
+
+Francis J, LaFond R, Olsson P and Schipper K (2005) The market pricing of accruals quality. Journal of 
+
+Accounting and Economics 39: 295–327.
+
+Graves  SB  and  Waddock  SA  (1994)  Institutional  owners  and  corporate  social  performance.  Academy  of 
+
+Management Journal 37: 1034–1046.
+
+Jegadeesh N and Titman S (1993) Returns to buying winners and selling losers: implications for stock market 
+
+efficiency. Journal of Finance 48(1): 65–91.
+
+Jones  TM  (1995)  Instrumental  stakeholder  theory:  A  synthesis  of  ethics  and  economics.  Academy  of 
+
+Management Review 20(2): 404–437.
+
+Kempf A and Osthoff P (2007) The effect of socially responsible investing on portfolio performance. European 
+
+Financial Management 13(5): 908–922.
+
+KPMG (2008) KPMG international survey of corporate responsibility reporting. KPMG, 2008.
+Lev BI, Petrovits C and Radhakrishnan S (2008) Is doing good good for you? How corporate charitable con-
+
+tributions enhance revenue growth. Available at: http://ssrn.com/abstract=920502.
+
+Lewis  AM  and  Mackenzi  C  (2000)  Moral,  money,  ethical  investing  and  economic  psychology.  Human 
+
+Relation 53(2): 179–191.
+
+Lindenberg EB and Ross SA (1981) Tobin’s q ratio and industrial organization. Journal of Business 54: 1–32.
+McGuire JB, Sundgren A and Schneeweis T (1988) Corporate social responsibility and firm financial perfor-
+
+mance. Academy of Management Journal 31(4): 854–872.
+
+McWilliams A and Siegel D (2000) Corporate social responsibility and financial performance: Correlation or 
+
+misspecification? Strategic Management Journal 21(5): 603–609.
+
+
+Choi et al. 
+
+311
+
+McWilliams A and Siegel D (2001) Corporate social responsibility: A theory of the firm perspective. Academy 
+
+of Management Review 26(1): 117–127.
+
+McWilliams  A,  Siegel  D  and  Wright  PM  (2006)  Corporate  social  responsibility:  strategic  implications. 
+
+Journal of Management Studies 43(1): 1–18.
+
+Margolis JD and Walsh JP (2001) People and Profits? The Search for a Link Between a Company’s Social and 
+
+Financial Performance. Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Margolis  JD  and  Walsh  JP  (2003)  Misery  loves  companies:  Rethinking  social  initiatives  by  business. 
+
+Administrative Science Quarterly 48(2): 268–305.
+
+Moskowitz MR (1972) Choosing socially responsible stocks. Business and Society Review 1(1): 71–75.
+Moskowitz MR (1975) Profiles in corporate social responsibility. Business and Society Review 13(1): 29–42.
+Orlitzky M, Schmidt FL and Rynes SL (2003) Corporate social and financial performance: A meta-analysis. 
+
+Organization Studies 24(3): 403–441.
+
+Shapiro J (1992) The movement in social investment since 1970. In: Kinder P, Lydenberg S and Domini A 
+
+(eds) Social Investment Almanac. New York, NY: Henry Holt and Company.
+
+Shin H and Stulz RM (1998) Are internal capital markets efficient? Quarterly Journal of Economics 113(2): 
+
+531–552.
+
+Spicer BH (1978) Investors, corporate social performance and information disclosure: an empirical study. The 
+
+Accounting Review 53(1): 94–111.
+
+SRI Research (2001–2006) Green, social, and ethical funds in Europe. SIRI Group. Available at: http://www.
+
+avanzi-sri.org/download_SRIFund.htm.
+
+Sturdivant FD and Ginter JL (1977) Corporate social responsiveness: Management attitudes and economic 
+
+performance. California Management Review 19(1): 30–39.
+
+Teoh HY and Shiu GY (1990) Attitudes towards corporate social responsibility and perceived importance of 
+social responsibility information characteristics in a decision context. Journal of Business Ethics 9: 71–77.
+Teoh SH, Welch I and Wazzan CP (1999) The effect of socially activist investment policies on the financial 
+
+markets: evidence from the South African boycott. Journal of Business 72(1): 35–89.
+
+Ullman A (1985) Data in search of a theory: A critical examination of the relationship among social perfor-
+mance,  social  disclosure  and  economics  performance  of  U.S.  firms.  Academy  of  Management  Review 
+10(1/2): 540–557.
+
+Waddock SA and Graves SB (1997) The corporate social performance-financial performance link. Strategic 
+
+Management Journal 18(4): 303–319.
+
+Willard B (2005) The Next Sustainability Wave: Building Boardroom Buy-in. New Society Publishers.
+Wood  DJ  and  Jones  RE  (1995)  Stakeholder  mismatching: A  theoretical  problem  in  empirical  research  on 
+
+corporate social performance. International Journal of Organizational Analysis 3(3): 229–267.
+

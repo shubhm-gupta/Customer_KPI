@@ -1,0 +1,1418 @@
+ 
+ 
+Is High Employee Turnover Really Harmful? An Empirical Test Using Company Records
+Author(s): Arie C. Glebbeek and  Erik H. Bax
+Source: The Academy of Management Journal, Vol. 47, No. 2 (Apr., 2004), pp. 277-286
+Published by: Academy of Management
+Stable URL: http://www.jstor.org/stable/20159578
+Accessed: 02-08-2017 22:55 UTC
+ 
+REFERENCES 
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/20159578?seq=1&cid=pdf-reference#references_tab_contents 
+You may need to log in to JSTOR to access the linked references.
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+Academy of Management is collaborating with JSTOR to digitize, preserve and extend access
+to The Academy of Management Journal
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ - Academy of Management Journal
+ 2004, Vol. 47, No. 2, 277-286.
+
+ IS HIGH EMPLOYEE TURNOVER REALLY HARMFUL?
+ AN EMPIRICAL TEST USING COMPANY RECORDS
+
+ ARIE C. GLEBBEEK
+
+ ERIK H. BAX
+
+ University of Groningen
+
+ We tested the hypothesis that employee turnover and firm performance have an
+ inverted U-shaped relationship: overly high or low turnover is harmful. Our analysis
+ was based on economic performance data from 110 offices of a temporary employment
+ agency. These offices had high variation in turnover but were otherwise similar,
+ allowing control for important intervening variables. Regression analysis revealed a
+ curvilinear relationship; high turnover was harmful, but the inverted U-shape was not
+ observed with certainty.
+
+ We1 are not the first to conclude that a remark
+ able imbalance exists in the literature on employee
+ turnover. While much has been written about the
+ determinants of turnover, little has been published
+ about its effects. The research literature is domi
+ nated by analyses in which turnover is treated as
+ the dependent variable (e.g., Griffeth & Horn, 1995;
+ Lee & Mowday, 1987; Morrow, McElroy, Laczniak,
+ & Fenton, 1999). In general, researchers have set
+ out to define factors that predict some empirical
+ measurement of actual turnover, or they have used
+ an indicator such as individuals' intentions to
+ leave a job, or both (Mitchell, Holtom, Lee, Sablyn
+ ski, & Erez, 2001).
+
+ Studies that treat employee turnover as an inde
+ pendent variable are relatively scarce. This imbal
+ ance in the research on employee turnover was
+ noted as' early as 1982, when Mobley wrote that
+ "relative to the causes of turnover, consequences
+ have been underemphasized" (Mobley, 1982: 31).
+ In 1980, Staw explicitly pointed out the potential
+ danger of a research practice that concentrates on
+ the causes of employee turnover while neglecting
+ its effects: such research is based on the assump
+ tion that turnover is an important organizational
+ problem and should be dealt with accordingly.
+ Hence, potential positive effects for organizations
+ are overlooked (Staw, 1980). Research on turnover
+ has not really changed direction since then. In
+ 1989, Mueller and Price again pleaded for research
+ into the consequences of turnover rather than into
+
+ The authors thank Germaine van Bree, Hans Ooteman,
+
+ and Raimond L. Schikhof for their assistance in collect
+ ing data, and Peter van der Meer and Eric Molleman for
+ their critical remarks on drafts of this work. Further, we
+ want to thank the editor and three anonymous reviewers
+ for their very clear and helpful comments.
+
+ 277
+
+ its determinants. Nevertheless, in the Human Re
+ source Management Review's 1999 special issue on
+ employee turnover, all papers treated turnover as a
+ dependent variable and not as an independent one.
+ "While thousands of studies have investigated why
+ employees choose to leave their jobs, very little
+ research has directly examined the organizational
+ consequences associated with voluntary employee
+ turnover/' one of the authors observed (Williams,
+ 1999: 549). In another journal, we have read this:
+ "While there is an immense literature covering the
+ subject of personnel turnover, there is a paucity of
+ writing on the impact of turnover on the organiza
+ tion" (Hutchinson, Villalobos, & Beruvides, 1997:
+ 3202). It is significant that neither of these articles
+ mentions even one relevant title.
+
+ Even Griffeth, Horn, and Gaertner's (2000) meta
+ analysis of the domain, which they described as "a
+ final review of turnover research conducted in the
+ 20th century" (2000: 463), was explicitly limited to
+ the causes of turnover, thereby completely neglect
+ ing its effects. We agree with Hutchinson and his
+ colleagues that "this dearth of studies on the im
+ pact of turnover is especially surprising, since it is
+ presumably the assumed impact of turnover on or
+ ganizational effectiveness which has prompted so
+ much turnover research in the first place"
+ (Hutchinson et al., 1997: 3203).
+ We have found only three recent studies that
+ report on the effects of turnover. In all these cases,
+ the topic is treated more or less as a side issue. The
+ three studies yield evidence that suggests a nega
+ tive effect of employee turnover on organizational
+ performance, but the effects are small (Huselid,
+ 1995), not significant (Koys, 2001) or "preliminary"
+ (Baron, Hannan, & Burton, 2001), resulting from the
+ fact that the research design was not developed
+ with this specific issue in mind. Therefore, impor
+ tant control variables such as absenteeism could
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 278 Academy of Management Journal April
+
+ not be considered. Furthermore, it remains uncer
+ tain whether the effects of turnover were linear or
+ only manifest beyond a certain level.
+
+ One must therefore conclude that there seems to
+ be no tradition of empirical research into the effects
+ of employee turnover. The reason for this omission
+ is probably twofold: first, companies are often un
+ willing to provide the necessary data, and second,
+ when data are available, they do not enable re
+ searchers to control for spurious relationships. In
+ the next section, we will explain that, as an unfor
+ tunate consequence of all this, a sound theoretical
+ model concerning the effects of employee turnover
+ has remained untested. As a result, it has gone
+ largely unnoticed in subsequent turnover research.
+ In this study, we tested that theoretical model. As
+ this model deviates from the assumptions common
+ in turnover research, this test should also make a
+ substantial contribution to the existing knowledge
+ on turnover effects.
+
+ THEORETICAL BACKGROUND AND
+
+ HYPOTHESES
+
+ Much research on the causes of turnover has
+ been inspired by the thought that turnover is costly
+ to firms and should therefore be prevented if pos
+ sible. This assumption was popular in the consult
+ ants' literature of the 1990s (e.g., Herman, 1997;
+ White, 1995). In the theoretical literature, a more
+ balanced view on turnover has been upheld, ac
+ cording to which turnover may actually yield ben
+ efits (e.g., Staw, 1980). This view has led to the
+ well-known proposal that firms and researchers
+ distinguish "functional" from "dysfunctional"
+ turnover (Dalton, Krackhardt, & Porter, 1981). In
+ the aggregate, these ideas suggest that a firm's turn
+ over level can be too high or too low.
+
+ This insight was expressed 20 years ago by Abel
+ son and Baysinger (1984), in their "optimal turn
+ over" model, which can still be regarded as the
+ standard theoretical model for inferring the conse
+ quences of turnover. Yet their model is not often
+ applied, and it has left few traces in the empirical
+ literature on turnover. The question, of course, is
+ why this model has had so little impact.
+
+ The starting point for Abelson and Baysinger
+ (1984) is the fact that many companies and re
+ searchers admit that turnover is not always dys
+ functional. They do, however, dismiss as inade
+ quate the most common solution of distinguishing
+ between valuable and expendable employees (im
+ plying that turnover should only be prevented for
+ the former), as companies do not even retain valu
+ able employees at all costs. Apart from higher
+ wages and fringe benefits, a number of other expen
+
+ ditures are inherent in tempting an employee to
+ stay (pleasant working conditions, high job auton
+ omy, flexible working hours, and so forth). There
+ fore, a firm has to find a balance between the costs
+ of turnover and the costs of avoiding it. As these
+ turnover and retention costs are opposing forces,
+ simple economic reasoning tells us that the rela
+ tionship between employee turnover and the firm
+ economic performance has to be an inverted U
+ shaped curve. Figure 2 of the article by Abelson
+ and Baysinger (1984) is a graph of this relationship.
+ Performance is placed on the Y-axis, and the rate of
+ turnover, on the X-axis. On the left side of the
+ figure, the curve is upward sloping (representing a
+ positive relation between turnover and perfor
+ mance), and on the right, the curve is downward
+ sloping (representing a negative relation).
+
+ This theory implies that, for every company,
+
+ there is an optimal turnover rate, which can be
+ defined as "the rate that minimizes the sum of the
+ costs of turnover plus the costs associated with
+ reducing it" (Abelson & Baysinger, 1984: 333). At
+ the same time, however, the theory implies that the
+ optimal turnover rate is not the same for all organ
+ izations. "The optimal turnover rate for different
+ organizations is likely to vary according to differ
+ ences in circumstances that influence the balance
+ point between retention and turnover costs. Be
+ cause this is peculiar to individual organizations,
+ there probably is no general benchmark for the
+ optimal, nonzero rate of turnover" (Abelson &
+ Baysinger, 1984: 335, emphasis added).
+
+ How then can an organization find out where its
+ optimal turnover rate lies or?what is perhaps more
+ relevant to everyday practice?on which side of the
+ curve the organization finds itself? At this point,
+ Abelson and Baysinger's article follows a course
+ that, we believe, may explain the lack of impact it
+ has had. Instead of offering the promised guide
+ lines for "on-site evaluation of whether or not ob
+ served turnover rates are optimal" (Abelson &
+ Baysinger, 1984: 332), the authors ask their readers
+ to perform an analysis that would discourage any
+ human resource manager.
+
+ The basis of this approach is a conceptual model
+ that shows how individual, organizational, and en
+ vironmental factors all influence the "individually
+ perceived costs and benefits of quitting or staying."
+ These costs in turn lead to an "individual quit
+ propensity" that, together with the number of em
+ ployees, produces the "baseline aggregate organiza
+ tional turnover rate." Somehow, the human re
+ source managers of an organization have to acquire
+ a notion of this baseline rate and then estimate the
+ turnover and retention costs that would support a
+ policy aimed at the reduction of this baseline. This
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 2004 Glebbeek and Bax 279
+
+ implies that human resource managers have to fa
+ miliarize themselves with the determinants of turn
+ over before they can estimate its effects.
+
+ Learning these determinants would require no
+ less than a massive research program. Even the "not
+ exhaustive" list of possibly relevant factors that
+ Abelson and Baysinger present (for instance, eco
+ nomic conditions, skill levels, types of rewards de
+ sired, staffing strategies, housing prices, local pub
+ lic services, medical facilities, and so forth) is very
+ long. "All of these attributes may influence (1) quit
+ propensities and turnover rates and/or (2) the costs
+ of turnover and retention for any given level of
+ turnover.. . . Thus, it is important for future re
+ search to examine which of these numerous vari
+ ables influence aggregate optimal organizational
+ turnover rates and the extent of this influence"
+ (Abelson & Baysinger, 1984: 339). Only a mammoth
+ alliance of managers and researchers could accom
+ plish such a task.
+
+ Even for academic researchers, it would be diffi
+
+ cult if not impossible to identify a level of optimal
+ turnover with the help of this method. Gigantic
+ quantities of data would be needed to put all the
+ necessary control variables in place. It is with good
+ reason that Abelson and Baysinger proposed limit
+ ing these endless variations by performing the nec
+ essary analyses for a series of similar companies
+ under similar conditions. For example, all hospi
+ tals in a particular region could provide the objects
+ of study. For this population, the relationship be
+ tween employee characteristics, organizational fac
+ tors, and other independent variables on the one
+ hand and turnover rates on the other would have to
+ be established. This process would yield regression
+ weights that could subsequently be combined with
+ the specific characteristics of a specific organiza
+ tion. An estimate of the baseline aggregate turnover
+ rate ofthat organization could then be obtained. We
+ propose calling this procedure multivariate bench
+ marking.
+
+ Even with this less elaborate version, it might
+ prove impossible to find enough organizations in
+ sufficiently comparable circumstances to extract an
+ externally validated turnover criterion. Further
+ more, the empirically derived coefficients might
+ soon be outdated, as the relevant relationships
+ change over time. As Baysinger and Abelson them
+ selves admitted, local and cyclical economic fluc
+ tuations strongly influence the propensity of em
+ ployees to quit. Finally, it is likely that interactions
+ between variables would make a linear transforma
+ tion of a regression coefficient to a specific organi
+ zation impossible. In short, we have to conclude
+ that Abelson and Baysinger (1984) have set re
+ searchers and practitioners an impossible task by
+
+ linking the application of their model to data that
+ have to be obtained outside a given company itself.
+ It is our belief that this is the main reason why
+ this elegant and plausible model has not swept the
+ field. The authors rightly stated that once the no
+ tion of an optimal rate of turnover is widely ac
+ cepted, "research into turnover should capture this
+ possibility in its premises'' (Abelson & Baysinger,
+ 1984: 332, emphasis added). However, as our liter
+ ature review has already revealed, the reverse
+ seems to be true. "Although recognizing that each
+ firm may have an optimal rate of turnover [Abelson
+ & Baysinger, 1984], in this study I assumed that low
+ rates of turnover are preferred to high rates,"
+ Huselid (1995: 65) wrote?thus formulating what
+ might be called the "conventional assumption of
+ turnover research."
+
+ The objective of our study was twofold. Firstly,
+ we sought to demonstrate that Abelson and
+ Baysinger's theory on the effects of turnover is
+ essentially correct. Our central hypothesis is
+ therefore:
+
+ Hypothesis 1. The overall relationship between
+ employee turnover and firm performance has
+ an inverted U-shape.
+ Secondly, we intend to demonstrate that the
+ analysis concerned can be performed with intraov
+ ganizational data?that is, company records. As
+ suming these two goals are met, this article should
+ provide a practical guideline for managers who
+ wish to find out for themselves on which side of the
+ optimal turnover curve their firm lies.
+
+ METHODS
+
+ It is not easy to empirically test Abelson and
+ Baysinger's curve. To do that, one would need data
+ from different firms or departments with different
+ turnover rates (or, alternatively, data from one firm
+ or department taken at different times). However,
+ in these situations the relationship between turn
+ over and performance is usually burdened with so
+ many other differences between the organizations
+ that the underlying curve easily becomes obscured.
+ Normally, it is impossible to control for all these
+ differences statistically. Besides, when control
+ variables exceed a certain number, there is a risk of
+ arbitrariness in the models. By some good fortune,
+ we obtained a data set that was almost ideally
+ suited for our purpose.
+
+ Data
+
+ Our data originate from a temporary job agency
+ that has offices spread throughout The Nether
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 280 Academy of Management Journal April
+
+ lands. The company functions in a highly compet
+ itive and dynamic segment of the private service
+ sector. Temping is a major business in The Nether
+ lands; the total number of temp jobs equaled 3.5
+ percent of Dutch employment in 1996. The vast
+ increase of flexible labor, in combination with a
+ general, rapid growth of employment, has been de
+ scribed as the "Dutch miracle" of the labor market.
+
+ Although the profits of the firm we studied
+ largely depended on the turnover in other organi
+ zations, the firm itself benefited by having a loyal
+ and experienced staff. The subject of our study was
+ this staff, comprising intermediaries, supervisors,
+ office managers, and support staff. In the period to
+ which our data refer, 1995-98, the agency's staff
+ grew from 667 to 1,894 employees. (In the same
+ period, the agency's average volume of daily work
+ ing temp employees increased from 18,500 to
+ 39,000.) Our units of observation were those offices
+ active during the whole period 1995-98; we omit
+ ted from the analysis about 100 offices that began
+ activity in this period and 2 offices that ceased
+ activity. We also omitted the data of one office with
+ a turnover percentage of zero, as we considered it
+ lent an artificial bias: the office was primarily ac
+ tive in an area dominated by seasonal employment,
+ and employees from other offices were temporarily
+ relocated there. A total of 110 offices were included
+ in the analysis.
+
+ The offices studied varied highly in staff turn
+ over but were similar in product and operational
+ management. In fact, the firm consisted of nearly
+ identical units that provided an identical product.
+ Consequently, we kept constant a number of factors
+ potentially affecting turnover effects, including
+ skill composition, firm-specific human capital, and
+ learning curves. Because of the strong similarities
+ between the offices, a unique opportunity to test
+ the effects of employee turnover on office perfor
+ mance presented itself. If the Abelson and Baysinger
+ curve does exist, it should manifest itself here.
+
+ The agency's management was convinced that
+ the firm was on the right-hand side of the curve.
+ Turnover was indeed an issue. After being at an
+ average of 16 percent throughout 1995-97, it had
+ risen to 18 percent in 1998. In that year, a quarter of
+ all offices had turnover of more than 25 percent,
+ and some had more than 40 percent. In the com
+ pany's 1999 Plan of Operations, top management
+ complained that "a turnover rate too high jeopar
+ dizes the quality of service and costs a lot of
+ money." Its target for 1999 was a decrease in turn
+ over of one-third.
+ We used several data sources, but all were offi
+ cial firm statistical records. Data on the financial
+ performance of the offices were taken from the
+
+ central accounts of the firm's headquarters. Data on
+ the number of employees, absenteeism, and turn
+ over came from the company's automated person
+ nel files. Of course, our use of firm records did not
+ completely guarantee the reliability of the data, but
+ the principle that unreliability is generally random
+ and therefore suppresses existing relationships ap
+ plied here. There was no basis for believing that a
+ systematic bias in the data could artificially pro
+ duce the relationship we meant to test.
+
+ Measures
+
+ Turnover. We measured the turnover rate of an
+ office in a conventional way, using the formula
+ number of leavers during year/average number of
+ workers during same year. Although other formulas
+ are conceivable (cf. Mobley, 1982), this one "is in
+ widespread use and offers advantages of clarity and
+ simplicity of calculations" (Wild & Dawson, 1972:
+ 3). In this measure "worker" is defined as a person
+ and not as a full-time equivalent (FTE). To obtain
+ the average number of office staff employed per
+ office per year, we measured on three dates, Janu
+ ary 1, July 1, and December 31, and divided the
+ sum total by three. District managers, supporting
+ staff at the district level, and all personnel not
+ engaged in operational functions were excluded
+ from the analyses and from the turnover figures.
+
+ Performance. Since the bulk of the potential
+ costs and benefits of turnover are indirect (Sailors &
+ Sylvestre, 1994), it is advisable to take the total
+ economic performance of an office as a measure of
+ the effects of turnover (Staw, 1980). However, this
+ dependent variable of our study is more difficult to
+ grasp than the independent one. Temp agencies
+ usually measure their performance in three differ
+ ent ways. The first is the number of temp hours
+ "sold" by an office. The second is the annual sales
+ made by an office: the total number of temp hours
+ multiplied by the price per hour. As with the first
+ measure, one can calculate sales per full-time
+ equivalent and use the result to compare one office
+ with another. However, this procedure does not
+ give insight into profitability: even if an office pro
+ duces below the break-even point, sales may be
+ impressive. The third measure, the gross result of
+ an office, provides the desired insight into profit
+ ability because it equals sales (second measure)
+ minus the direct wage costs of the temp workers
+ involved. However, it does not include other im
+ portant costs, such as office staff wages and over
+ head. This is unfortunate, as the wage costs of
+ the office staff are directly related to the level of
+ turnover.
+
+ In order to solve these problems, we developed a
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 2004 Glebbeek and Bax 281
+
+ fourth measure, the net result per office. This mea
+ sure was made by taking the gross result per office
+ and subtracting the wage costs of the office staff.
+ For a complete picture of an office's contribution to
+ the firm's profit, overhead costs made for office
+ space and publicity might also be subtracted from
+ the results. We did not do this, as the office staff
+ could not influence the greater part of these costs
+ and, consequently, these costs had no clear rela
+ tionship to performance in an office. However, one
+ could well argue that turnover-related costs such as
+ those for recruitment and selection would now be
+ obscured by the label "overheads." Given the struc
+ ture of the data available, these costs could not be
+ specified separately. Consequently, because the re
+ sults of the offices with a relatively high level of
+ recruitment and selection activities would be esti
+ mated as too positive, any potential bias resulting
+ from this procedure would flatten out the right
+ hand side of the inverted U-shaped curve, thus
+ weakening the hypothesized relationship (that is,
+ the bias is conservative). Therefore, although our
+ measure was not perfect, it suited our purpose,
+ especially as it embraced all the "hidden costs" of
+ turnover that may be regarded as being crucial to
+ the research (Sailors & Sylvestre, 1994).
+
+ The correlations between these four measures
+
+ and the turnover rates of the offices show the rele
+ vance of the choice for a particular performance
+ measure. These correlations are -.45, -.42, -.39,
+ and -.23, respectively. It is notably the net result
+ (-.23) that differs. Its relation to turnover is con
+ siderably weaker than is the case for the other three
+ performance measures. This observation is in line
+ with the arguments presented above. More than in
+ the other measures, in the net result the positive
+ effects of turnover, such as economizing on costs,
+ are expressed. Consequently, if the management of
+ our temp agency were to estimate the effects of
+ turnover using the three traditional measures, the
+ estimate of its disadvantages would be too high.
+
+ Performance or change in performance. An
+ other choice to be made concerned the question of
+ whether the effect of turnover manifests itself in
+ level of performance or in change in performance.
+ The measures described above all relate to the av
+ erage results for an office over a given time period.
+ Differences in performance caused by factors in the
+ past and not caught by control variables might con
+ tinue to affect the dependent variable and thus the
+ relationships at stake. For this reason, some re
+ searchers consider a change in performance to be
+ the preferred criterion. Thus, Baron and coauthors
+ (2001: 1003-1007) analyzed the rise in sales of
+ Silicon Valley firms by taking the sales of the first
+ year of the period of research as a predictor for the
+
+ sales in the last year of the period. This is an ade
+ quate way of modeling change in performance. All
+ the variance in the dependent variable that already
+ existed in the first year is captured by the first-year
+ variable, so the remaining variance must be the
+ result of ensuing achievements. An additional ad
+ vantage of this procedure is that it automatically
+ corrects for differences between the offices that
+ show up in past performance.
+ We did not have a preference for one particular
+ dependent variable. Rather, it was our view that the
+ hypothesized effect of turnover, if robust, would
+ appear in both. In order to test this robustness, we
+ analyzed the data in both ways. Table 2 presents
+ the results of analyses in which the average level of
+ net result per office was the dependent variable;
+ Table 3 presents results in which we estimated the
+ change in results using Baron et al.'s (2001)
+ method. In the latter case, to avoid contamination,
+ we used the average result per office over the last
+ three years of the period as the dependent variable.
+ Causality. This important issue was the subject
+ of a preliminary analysis. An obvious objection to
+ the relationship presented by us is that it is not
+ turnover that causes performance, but performance
+ that causes turnover. This problem of causal inter
+ pretation is endemic to cross-sectional analysis and
+ can only be solved by presenting longitudinal data.
+ Following Koys's (2001) approach, we used the fact
+ that we had data covering several years and con
+ ducted two "mirrored" analyses, one in which
+ turnover preceded performance and one in which it
+ followed performance. Like Koys, we employed
+ cross-lagged regression analysis. We split the total
+ four-year period into two parts of two years each. If
+ the reversed-causality theory held, 1997-98 turn
+ over should have been more strongly related to
+ 1995-96 performance than the other way around.
+ The outcomes clearly show that this was not the
+ case. Regression tables cannot be presented be
+ cause of space limitations, but the results can be
+ summarized by the correlations. When turnover
+ rates preceded the four performance measures in
+ time, the correlations were -.34, -.35, -.34, -.15,
+ respectively. When this sequence was reversed, the
+ correlations dropped to -.02, -.03, -.01, -.03. We
+ therefore concluded that the performance of the
+ offices could indeed be seen as being influenced by
+ turnover and not as the cause of turnover.
+
+ Time lag. It may take some time before a firm's
+ performance reflects the effects of turnover. How
+ ever, as there is no compelling theoretical argument
+ with respect to the term within which these effects
+ should manifest themselves (almost immediately,
+ after a year, or after two years?), there is no a priori
+ reason for preferring an analysis with time lag over
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 282 Academy of Management Journal April
+
+ an analysis without time lag. Therefore, we per
+ formed both. If the curvilinear effect were robust, it
+ would show in both analyses. In the tables, the
+ panel labeled "A" gives the cross-sectional results
+ (over the whole four-year period), and "B" gives the
+ lagged results based on the division into two peri
+ ods mentioned above.
+
+ Control Variables
+
+ If, as we believe, the Abelson and Baysinger
+ curve is fundamental, its appearance should not be
+ dependent on extremely complex models with a
+ range of control variables. Few theoretically con
+ ceivable control variables are to be found in daily
+ practice, and requiring them would have greatly
+ reduced the practical value of our approach. We
+ wanted our analysis to be as straightforward as
+ possible, but three control variables remained in
+ evitable.
+
+ Absenteeism. Turnover and absenteeism owing
+ to sickness may be related if they are caused by a
+ common factor, such as high work pressure or bad
+ human relations, thereby obscuring the fact that
+ any negative effects are caused entirely by absen
+ teeism and not by turnover (cf. Morrow et al.,
+ 1999). Therefore, it is difficult but crucial to control
+ for absenteeism in an analysis of the effects of turn
+ over. The personnel files provided a percentage
+ based on the total number of calendar days lost to
+ sickness per year (corrected for part-time contracts;
+ pregnancy and maternity leaves were excluded).
+
+ Age. Younger people are more inclined to leave
+ jobs than older employees, and wages and salaries
+ (and thus employee costs) are generally age-related.
+ Controlling for the average age of the office staff
+ was therefore necessary for avoiding artificial
+ effects.
+
+ Region. As they do elsewhere, economic struc
+ tures and performance vary in different parts of The
+ Netherlands. These economic differences affected
+ the results of the offices studied, especially as the
+ temp business is strongly dependent on the nature
+ and volume of economic activity in its region. Also,
+ the level of turnover will be linked to the state of a
+ regional labor market. The Netherlands is com
+ monly seen as having an economic center (the
+ Randstad), a middle region, and an economic pe
+ riphery. In terms of this conventional regional clas
+ sification, 43 percent of the offices we studied were
+ located in the economic center, 39 percent were in
+ the middle area, and 18 percent were in the periph
+ ery. As expected, the data showed that the average
+ results of the offices varied according to the eco
+ nomic strength of their respective regions (net re
+ sults in the periphery were only 72 percent of the
+ average), and turnover was higher in the tight labor
+ market of the Randstad (18.5 percent as opposed to
+ 16.2 percent on average). Therefore, a regional clas
+ sification was included as a control variable in the
+ analysis.
+
+ RESULTS
+
+ Table 1 shows the descriptive statistics of the
+ variables that were included in the analysis. In the
+ table, one can observe negative correlations be
+ tween our performance measures and the turnover
+ rates. This is a first and preliminary indication that
+ the firm's top management assumptions were cor
+ rect. As one can see, no high correlations between
+ the independent variables exist (they only occur
+ between periodic variables that are entered in sep
+ arate models), so multicollinearity is not a problem.
+ Neither did we find other major violations of the
+
+ Correlations, Means, and Standard Deviations3
+
+ TABLE 1
+
+ Variable
+
+ Mean s.d.
+
+ 1. Turnover 16.2 5.7
+ 2. Turnover, 1995-1996 14.2 10.9 .64
+ 3. Absenteeism 3.9 2.1 .29 .22
+ 4. Absenteeism, 1995-96 3.8 3.3 .16 .14
+ 6. Regionb 2.2 0.7 .27 .08
+ 7. Netresultc 77.5 37.5 -.23 -.21
+ 8. Net result, 1995c 112.2 75.6 -.19 -.12
+ 9. Net result, 1996-98c 66.0 33.9 -.21 -.22
+ 10. Net result, 1997-98c 54.3 32.6 -.18 -.15
+
+ 5. Age 28.4 2.3 -.18 -.22
+
+ .81
+ .07
+ .21
+ .20
+ .16
+ .17
+ .14
+
+ a The period is 1995-98 unless otherwise is specified.
+ b Periphery = 1, middle region = 2, and center = 3.
+ c One thousand Dutch guilders per FTE in 1995 prices.
+
+ .02
+ .19
+ .12
+ .08
+ .12
+ .11
+
+ .05
+ .03
+ .03
+ .02
+ -.02
+
+ .19
+ .06
+ .32
+ .35
+
+ .79
+ .89
+ .72
+
+ .42
+ .20
+
+ .91
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 2004
+
+ Glebbeek and Bax
+
+ TABLE 2
+
+ 283
+
+ Results of Regression Analysis of the Effect of Employee Turnover on the Performance of the Offices3
+
+ A. Net Result, 1995-98
+
+ B. Net Result, 1997-98
+
+ Variable
+
+ Model 1
+
+ Model 2
+
+ Model 3 Model 4
+
+ Model 1
+
+ Model 2  Model 3  Model 4
+
+ Turnover13
+ Absenteeism0
+ Age
+ Region
+ Turnover squaredb
+
+ -.23*
+
+ .20+
+ .15
+ .01
+
+ .27**
+ .19*
+ .05
+ .30**
+
+ .17
+ -.19+
+ -.05
+
+ .31**
+
+ -.45
+
+ .15
+
+ -.15
+ -.09
+ -.05
+
+ -.17+
+ -.16+
+ -.08
+
+ .40*"
+
+ F
+ Adjusted R2
+
+ 6.3*
+ .05
+
+ 2.8*
+ .05
+
+ 4.8**
+ .12
+
+ 4.1**
+ .13
+
+ 2.4
+ .01
+
+ 1.2
+
+ .00
+
+ 6.0**
+ .15
+
+ a n = 110. Standardized coefficients are shown. Ordinary least squares regression analysis was used.
+ b Turnover 1995-96 for panel B.
+ c Absenteeism 1995-96 for panel B.
+
+ fp < .10
+ * p < .05
+ **p < .01
+
+ .22
+ -.16+
+ -.07
+
+ .40**
+ -.44*
+
+ 5.9**
+ .18
+
+ assumptions needed to conduct multiple regres
+ sion analysis.
+ We analyzed four models. The results are pre
+ sented in Tables 2 and 3. In model 1, the net results
+ of the offices are regressed against turnover only
+ (and of course against the net result in the first year,
+ when the change in performance is at stake). In
+ model 2 we added the control variables for absen
+ teeism and for the age of the office staff, and in
+ model 3 we introduced economic region. This pro
+ cedure allowed us to map the hypothesized rela
+ tionship. The negative correlation between turn
+ over and net result held if we controlled for age and
+ absenteeism, and even increased if we also consid
+
+ ered the regional factor. In model 3, turnover, ab
+ senteeism, and region all had significant, and ex
+ pected, effects on office performance. Either the
+ level of performance (Table 2) or the change in
+ performance (Table 3) can be used as the criterion.
+ The unstandardized regression coefficient (not
+ shown) of turnover in Table 2 indicates that a 1
+ percent increase in turnover equals a loss of 1,780
+ Dutch guilders, which is approximately 2.25 per
+ cent of one FTE employee's contribution to the net
+ result. From a management point of view, this is
+ quite substantial. Therefore, the volume of turnover
+ did have negative effects for the firm studied.
+
+ In model 4, we added curvilinearity to the anal
+
+ Results of Regression Analysis of the Effect of Employee Turnover
+
+ on the Change in Performance of the Offices*
+
+ TABLE 3
+
+ A. Net Result, 1996-98
+
+ B. Net Result, 1997-98
+
+ Variable
+
+ Model 1
+
+ Model 2 Model 3 Model 4 Model 1
+
+ Model 2 Model 3
+
+ Model 4
+
+ Net result, 1995
+ Turnover13
+ Absenteeism0
+ Age
+ Region
+ Turnover squaredb
+
+ .39**
+
+ -.13
+
+ .38**
+ -.12
+ -.08
+ -.01
+
+ .38**
+ .22*
+ .14+
+ .06
+ .43**
+
+ .38*'
+ .32
+ -.14
+ -.07
+ .44*'
+ -.56f
+
+ .18+
+ -.13
+
+ .18+
+ -.13
+ -.08
+ -.05
+
+ .19*
+ -.15+
+ -.15+
+ -.08
+
+ .41**
+
+ F
+ Adjusted R2
+
+ 12.7**
+ .18
+
+ 6.4**
+ .17
+
+ 11.8**
+ .33
+
+ 10.5**
+ .34
+
+ 3.1*
+ .04
+
+ 1.8
+ .03
+
+ 5.9**
+ .19
+
+ .20*
+ .25
+ -.15+
+ -.07
+
+ .41*'
+ -.45*
+
+ 6.0**
+ .22
+
+ a n = 110. Standardized coefficients are shown. Ordinary least squares regression analysis was used.
+ b Turnover, 1995-96, for panel B.
+ c Absenteeism, 1995-96, for panel B.
+
+ +p < .10
+ * p < .05
+ ** p < .01
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 284 Academy of Management Journal April
+
+ y sis, following the Abelson and Baysinger hypoth
+ esis. This was done in the conventional way, by
+ adding the squared term of turnover to the regres
+ sion equation. If the inverted U-curve is underly
+ ing, meaning that turnover is beneficial up to a
+ certain level and harmful after that point, then the
+ squared term should reflect this pattern by taking
+ the negative sign while the linear term becomes
+ positive. This is indeed shown in Tables 2 and 3.
+ Although the variance explained remained about
+ the same, the breaking down of the turnover vari
+ able suggested that it is predominantly an excessive
+ degree of turnover that had the negative effect on
+ performance. Both the cross-sectional (panel A)
+ and the longitudinal (panel B) analyses revealed
+ this pattern. The curvilinear effect most strongly
+ manifested itself when we allowed for a time lag.
+ This result may indicate that the costs of turnover
+ indeed are "hidden" and become apparent mainly
+ in the long run (Saylors & Sylvestre, 1994).
+
+ Do these findings provide enough evidence in
+
+ favor of our hypothesis? There may be some doubts
+ if one looks at significance. In all cases, after the
+ addition of the squared term, the linear effect be
+ comes positive, clearly pointing toward an inverted
+ U-shaped relationship. The coefficients are not sig
+ nificant, however. Moreover, the negative effect?
+ now captured by the squared term?fails to pass the
+ significance test in one of the four analyses. What
+ does this mean for the hypothesis?
+
+ First of all, model 4 may be overstretching our
+ data. Splitting up a significant effect into two par
+ tial effects with opposite signs reduces the chance
+ that these partial effects are independently signifi
+ cant. Requiring significance is asking a lot of the
+ statistical power of the test and, of course, when
+ there are only 110 cases, this power is limited.
+ More specifically, the analysis suggests that the
+ optimal turnover level in this firm lies between 6.3
+ and 9.9 percent. (This range is based on calculation
+ of the first derivative from the unstandardized co
+ efficients in the regressions of Table 2). Only be
+ tween 5.5 and 14 percent of the offices stayed be
+ low this level, which indicates that turnover was
+ generally too high in this firm. Thus, when the data
+ are graphed, the right part of the inverted U is
+ particularly apparent. This may help to explain the
+ lack of significance of the positive effects in model
+ 4. At the times when the offices are more evenly
+ distributed along the curve, negative and positive
+ effects should both be significant.
+
+ However, the above is speculation. We acknowl
+ edge that, by conventional standards, the results
+ are ambiguous. Curvilinearity is clearly indicated,
+ but the nature of this nonlinearity (inverted U or
+ otherwise) is only suggested by the regression co
+
+ efficients. We therefore offer the reader two possi
+ ble interpretations.
+
+ Our "strong interpretation" is that the changing
+ sign of the main effect indicates an inverted U
+ curve. Statistical insignificance only reflects the
+ lack of statistical power that follows from the fact
+ that there are a mere 110 cases, with only a minor
+ ity of these situated at the left of the top of the
+ curve.
+
+ On the other hand, our cautious interpretation is
+ that the insignificance of the positive effects indi
+ cates that they do not really deviate from zero. The
+ pattern of linear and squared terms thus only re
+ flects a kink in the curve. First, the effects of higher
+ turnover are neutral (a sort of plateau), and then
+ after a critical point a higher turnover rate becomes
+ unprofitable.
+
+ As we believe in the arguments put forward by
+ Abelson and Baysinger, we tend to accept the first
+ interpretation. Academic conventions regarding
+ the interpretation of statistical insignificance may,
+ however, call for the second, cautious, interpreta
+ tion. It is important to note, though, that both in
+ terpretations are at odds with the conventional
+ assumption that higher turnover should be unprof
+ itable all along the line.
+
+ DISCUSSION
+
+ The authors of human resource management
+ (HRM) textbooks will find our main results encour
+ aging. In that literature, turnover is often used as a
+ performance indicator (e.g., G?mez-Mej?a, Balkin,
+ & Cardy, 1995), implying that "it is generally
+ viewed as negatively related to organizational ef
+ fectiveness" (Phillips, 1996: 180). Consequently,
+ Phillips included this indicator in his six-item Hu
+ man Resources Effectiveness Index, stating that "an
+ excessive turnover rate clearly has a tremendous
+ negative impact on an organization's costs, and HR
+ programs designed to reduce turnover can result in
+ a tremendous bottom-line improvement" (Phillips,
+ 1996: 180). As usual, this author offers no hard
+ empirical evidence, although some bivariate corre
+ lations are presented in support of the index. The
+ author later acknowledges that the cost of turnover
+ is "an illusionary figure in most organizations"
+ (Phillips, 1996: 286), forcing analysts to rely on soft
+ data. As we observed before, this state of affairs is
+ explained by the fact that little is known, or indeed
+ could be known, about the empirical effects of em
+ ployee turnover, because relevant data sources are
+ not accessible.
+
+ Our analysis shows that turnover can have neg
+
+ ative effects on firm performance. Here we empha
+ size the word "can," since economic performance
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 2004 Glebbeek and Bax 285
+
+ depends on many factors that vary according to
+ type of firm and related circumstances. This depen
+ dence on many factors is also reflected in the weak
+ relation between the variables in our analysis: even
+ in the most elaborate model of Table 2, the variance
+ explained does not rise above 18.5 percent. It is
+ clear that, although employee turnover does ex
+ plain part of the variation in the performance of the
+ temporary agency offices studied here, other vari
+ ables affect their performance to a much greater
+ degree.
+
+ This last conclusion is of course also implied in
+ Abelson and Baysinger's model. If turnover effects
+ are inverted-U-shaped, they will not, on average, be
+ very large. We argued above that, although Abelson
+ and Baysinger laid down the fundamentals of a
+ theory of turnover effects, their work has gone
+ largely unnoticed in turnover research. We believe
+ this lack of notice can be attributed to a misdirected
+ operational foundation. We hope that, with our
+ research, based on a different empirical approach
+ and testing, this model will be granted the place in
+ management theory that it deserves.
+
+ Of course we acknowledge that, although curvi
+ linearity is clearly indicated, our results have not
+ yielded compelling evidence for the existence of
+ the inverted U-shaped curve. We believe the ab
+ sence of compelling evidence can be attributed to
+ the limitations of our study. The most important
+ limitation is the restricted time period. The data
+ pertain to the years 1995 through 1998, when The
+ Netherlands was economically booming. As a re
+ sult, most offices of our focal agency had to contend
+ with extraordinarily high turnover rates, and only a
+ few offices found themselves placed in the range
+ where a higher turnover would have led to better
+ results. The chances of testing the inverted U-curve
+ were thus reduced. It would therefore be good to
+ replicate this study in times of economic down
+ turn, when turnover figures are much lower and
+ many companies would welcome some mobility.
+ Yet the apparent curvilinearity already implies that
+ both researchers and textbook writers cannot safely
+ assume that a lower rate of turnover is always pref
+ erable to a higher rate.
+
+ This finding will complicate future research into
+ turnover. It implies that the conventional assump
+ tion is not generally justified. For research that only
+ includes turnover as a control variable, the solution
+ is simple: always add the squared term to the re
+ gression equation (just as labor economists make it
+ standard practice to include an age-squared term
+ when estimating wage equations or human capital
+ models). As for the use of turnover as a perfor
+ mance indicator, things are more complicated. The
+ conventional assumption that high turnover is del
+
+ eterious cannot simply be replaced by a universal
+ optimal turnover level, since this level depends on
+ circumstances. It would therefore be wise to work
+ at least with a motivated threshold value (specific
+ for a firm or industry) that indicates from which
+ point onwards turnover can be considered as a
+ negative indicator.
+
+ For everyday practice, HR managers should have
+ an idea what the optimal rate of turnover is for their
+ organization. In addition, however, they should be
+ aware that this optimal rate can be influenced. In
+ the spirit of Abelson and Baysinger, they can imag
+ ine a long list of factors that are likely to influence
+ turnover and retention costs. As some of these fac
+ tors are clearly within the scope of company policy,
+ managers can act to reduce these costs, thereby
+ softening the trade-off between flexibility and com
+ mitment. To find out more about this, researchers
+ should give priority to specifying the relationship
+ between turnover and performance with regard to
+ type of HR policy.
+ More specifically, the question whether some
+ types of HR policy are more vulnerable to turnover
+ than others must be asked. We think the answer
+ should be yes, as traditional "Tayloristic" practices
+ have always been inspired by the aim of immuniz
+ ing firms against worker mobility. In the present era
+ of "high-commitment HRM," firms may still fall
+ back on forms of standardization that reduce re
+ placement costs; or, alternatively, they may try to
+ devise the least expensive ways to retain their valu
+ able employees. The upshot of all this is that HR
+ policy should not only be directed at the level of
+ turnover, but also at the effects of turnover. Job
+ design, training policies, skills portfolios, and the
+ development of distinctive competencies all relate
+ to these turnover effects. If this conjecture is cor
+ rect, it will take our topic into the realms of busi
+ ness strategy and strategic human resource manage
+ ment.
+
+ The fact that the analysis proved possible with
+ data stemming from just one company is very en
+ couraging. Perhaps the necessary research agenda
+ can now be fully realized. Of course, the cultural
+ and structural characteristics of our temp agency,
+ with its many offices producing the same product
+ under similar conditions, offered an almost ideal
+ starting point for our research. An analysis like
+ ours should also be feasible in less ideal circum
+ stances, provided sufficiently appropriate control
+ variables can be found. Computerized personnel
+ files make these company records increasingly ac
+ cessible, and their analysis is a practical alternative
+ to costly survey research and multivariate bench
+ marking.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 286 Academy of Management Journal April
+
+ REFERENCES
+
+ Abelson, M. A., & Baysinger, B. D. 1984. Optimal and
+
+ dysfunctional turnover: Toward an organizational
+ level model. Academy of Management Review, 9:
+ 331-341.
+
+ Baron, J. N., Hannan, M. T., & Burton, M. D. 2001. Labor
+ pains: Change in organizational models and em
+ ployee turnover in young high-tech firms. American
+ Journal of Sociology, 106: 960-1012.
+
+ Dalton, D. R., Krackhardt, D. M., & Porter, L. W. 1981.
+ Functional turnover: An empirical assessment. Jour
+ nal of Applied Psychology, 66: 716-721.
+
+ G?mez-Mej?a, L. R., Balkin, D. B., & Cardy, R. L. 1995.
+ Managing human resources. Englewood Cliffs, NJ:
+ Prentice-Hall.
+
+ Griffeth, R. W., & Horn, P. W. 1995. The employee turn
+ over process. In K. M. Rowland & G. R. Ferris (Eds.),
+ Research in personnel and human resource man
+ agement, vol. 13: 245-293. Greenwich, CT: JAI
+ Press.
+
+ Griffeth, R. W., Horn, P. W., & Gaertner, S. 2000. A meta
+ analysis of antecedents and correlates of employee
+ turnover. Journal of Management, 26: 463-488.
+
+ Herman, R. 1997. Reducing costly employee turnover.
+
+ HR Focus, 74(6): 15-16.
+
+ Huselid, M. A. 1995. The impact of human resource
+ management practices on turnover, productivity,
+ and corporate financial performance. Academy of
+ Management Journal, 38: 635-672.
+
+ Hutchinson, S. T., Villalobos, J. R., & Beruvides, M. G.
+ 1997. Effects of high turnover in a serial assembly
+ environment. International Journal of Production
+ Research, 35: 3201-3223.
+
+ Koys, D. J. 2001. The effects of employee satisfaction,
+
+ organizational citizenship behavior, and turnover on
+ organizational effectiveness: A unit-level, longitudi
+ nal study. Personnel Psychology, 54: 101-114.
+
+ Lee, T. W., & Mowday, R. T. 1987. Voluntarily leaving an
+ organization: An empirical investigation of Steers
+ and Mowday's model of turnover. Academy of Man
+ agement Journal, 30: 721-743.
+
+ Mitchell, T. R., Holtom, B. C, Lee, T. W., Sablynski, C. J.,
+
+ & Erez, M. 2001. Why people stay: Using job embed
+ dedness to predict voluntary turnover. Academy of
+ Management Journal, 44: 1102-1121.
+
+ Mobley, W. H. 1982. Employee turnover: Causes, con
+ sequences, and control. Reading, MA: Addison
+ Wesley.
+
+ Morrow, P. C, McElroy, J. C, Laczniak, K. S., & Fenton,
+ J. B. 1999. Using absenteeism and performance to
+ predict employee turnover: Early detection through
+ company records. Journal of Vocational Rehavior,
+ 55: 358-374.
+
+ Mueller, C. W., & Price, J. L. 1989. Some consequences of
+ turnover: A work unit analysis. Human Relations,
+ 42: 389-402.
+
+ Phillips, J. J. 1996. Accountability in human resource
+
+ management. Houston: Gulf.
+
+ Sailors, J. F., & Sylvestre, J. 1994. Reduce the cost of
+ employee turnover. Journal of Compensation &
+ Renefits, 9(5): 32-34.
+
+ Staw, B. M. 1980. The consequences of turnover. Journal
+
+ of Occupational Rehaviour, 1: 253-273.
+
+ White, G. L. 1995. Employee turnover: The hidden drain
+
+ on profits. HR Focus, 72(1): 15-17.
+
+ Wild, R., & Dawson, A. 1972. Labour turnover: Theories
+ and remedial action. Bradford, England: MCB Ltd.
+ Williams, C. R. 1999. Reward contingency, unemploy
+ ment, and functional turnover. Human Resource
+ Management Review, 9: 549-576.
+
+ ??.
+
+ Arie C. Glebbeek (a.c.glebbeek@ppsw.rug.nl) is an asso
+ ciate professor of sociology at the University of Gro
+ ningen, The Netherlands, from which he obtained his
+ Ph.D., with an empirical study of labor market careers.
+ His primary research interests are the labor market, so
+ cioeconomic policy, and school-to-work transition. At
+ present he is one of the leaders of a national research
+ program on time competition and work stress.
+
+ Erik H. Bax is an associate professor of human resource
+ management at the University of Groningen, The Neth
+ erlands. He obtained his Ph.D., from that university with
+ a study of the relationship between long-term economic
+ development and social changes in The Netherlands. His
+ current research interests include organizational culture,
+ strategic HRM, work organization, and risk management.
+
+ A
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 22:55:23 UTC
+
+All use subject to http://about.jstor.org/terms
+

@@ -1,0 +1,3876 @@
+Strategic Management Journal
+Strat. Mgmt. J., 26: 25–45 (2005)
+Published online 28 October 2004 in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/smj.433
+
+WHERE DO CAPABILITIES COME FROM AND HOW
+DO THEY MATTER? A STUDY IN THE SOFTWARE
+SERVICES INDUSTRY
+SENDIL K. ETHIRAJ,1 PRASHANT KALE,1* M. S. KRISHNAN1 and
+JITENDRA V. SINGH2
+1 UniversityofMichiganBusinessSchool,AnnArbor,Michigan,U.S.A.
+2 The Wharton School of Business, University of Pennsylvania, Philadelphia,
+Pennsylvania,U.S.A.
+
+Recent years have witnessed a surge of interest in the notion of capabilities as an important
+source of competitive advantage. This recognition has, in turn, placed emphasis on the question
+of where and how these capabilities emerge and how they inﬂuence ﬁrm performance. The present
+paper is an attempt to address this question. Using a large sample of detailed project-level data
+from a leading ﬁrm in the global software services industry, we attempt to empirically study the
+importance of capabilities. We ﬁnd that two broad classes of capabilities are signiﬁcant. The
+ﬁrst class, which we label client-speciﬁc capabilities, is a function of repeated interactions with
+clients over time and across different projects. This learning from repeated interactions with a
+given client reduces project execution costs and helps improve project contribution. The second
+class, termed project management capabilities, is acquired through deliberate and persistent
+investments in infrastructure and systems to improve the ﬁrm’s software development process.
+Our empirical results suggest that the marginal returns to acquiring different capabilities may be
+different and an understanding of such trade-offs can improve ﬁrm decisions to improve and/or
+acquire such capabilities. We discuss the key contributions of our paper and the implications for
+future research on capabilities. Copyright  2004 John Wiley & Sons, Ltd.
+
+INTRODUCTION
+
+In recent years strategy scholars have increasingly
+agreed that non-imitable and non-substitutable or-
+ganizational capabilities (and resources) are a
+key source of inter-ﬁrm performance differences
+(Barney, 1991; Dosi, Nelson, and Winter, 2000;
+
+Keywords: organizational capabilities; ﬁrm performance;
+software services
+*Correspondence to: Prashant Kale, University of Michigan
+Business School, 701 Tappan Street, Room D4209, Ann Arbor,
+MI 48109, U.S.A. E-mail: kale@umich.edu
+
+Nelson, 1991; Rumelt, 1984; Wernerfelt, 1984).
+This recognition has, in turn, placed emphasis on
+the question of where and how these capabili-
+ties emerge and how they inﬂuence ﬁrm perfor-
+mance. Although there are a number of theoretical
+arguments about the characteristics of resources
+or capabilities that yield competitive advantage
+(Barney, 1991) and what prevents their imitation
+(Dierickx and Cool, 1989; Peteraf, 1993), we have
+limited understanding of where capabilities come
+from or what kinds of investment in money, time,
+and managerial effort is required in building them.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Received 10 December 2002
+Final revision received 4 June 2004
+
+
+26
+
+S. K. Ethiraj et al.
+
+it becomes important
+
+if the development of capabilities
+Furthermore,
+requires deliberate and sustained investment of
+ﬁnancial and managerial resources, both of which
+have alternative uses,
+to
+understand the costs and beneﬁts of such invest-
+ments. In other words, different capabilities may
+entail different ﬁnancial and managerial costs and
+yield dissimilar performance beneﬁts. The system-
+atic understanding of such trade-offs promises to
+enrich the theory and practice of strategy. This
+paper makes a modest attempt to systematically
+address some of these questions.
+
+This paper investigates two interrelated research
+questions: one, where do capabilities come from,
+and two, how do capabilities affect ﬁrm perfor-
+mance? We combine in-depth interview data with
+detailed, large sample, project-level data spanning
+a 6-year period from one ﬁrm in the Indian soft-
+ware services industry to carefully address both
+questions. In contrast with prior research, the rich,
+disaggregated project-level data about resource
+inputs, project characteristics, capability metrics,
+and proﬁtability that we collected allow us to delve
+deeper into the capabilities–performance link.
+
+Several reasons make the Indian software indus-
+try an attractive context for the study of ﬁrm
+capabilities. First, there is a widely shared view
+that much of the Indian software industry’s explo-
+sive growth over the last decade is accounted for
+by factor cost differences between India and the
+developed country markets (Arora et al., 2001;
+Nasscom, 2001). The implication is that perfor-
+mance differences are driven not by ﬁrm capabil-
+ity differences, but by country-level comparative
+cost advantages. While factor cost differences def-
+initely exist, even a cursory examination of the
+data suggests that ﬁrm-level explanations cannot
+be discounted. The Indian software services indus-
+try accounted for $6.2 billion of export revenues
+in 2000–01 (Nasscom, 2001). A telling statistic is
+that 0.8 percent (25 ﬁrms) of the ﬁrms in the indus-
+try (nearly 3000 ﬁrms) accounted for 60 percent of
+export revenues. Therefore, a relatively small set
+of ﬁrms growing at a compounded average annual
+rate of about 45–65 percent over the last decade
+accounts for much of the activity in the Indian
+software services industry. Our premise is that a
+detailed examination of the economics of one or
+more of these 25 ﬁrms can afford useful insight
+into the micro-foundations of the capabilities that
+underlie such sustained and robust growth in a
+competitive industry.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Building on research on ﬁrm capabilities in
+general and on our detailed ﬁeldwork and inter-
+views with the project managers of several ﬁrms in
+the software services industry, we argue that two
+sets of capabilities are important in the software
+services industry: client-speciﬁc capabilities and
+project management capabilities. Client-speciﬁc
+capabilities are a function of repeated interac-
+tion with a given client across multiple projects
+over time. They largely reﬂect tacit knowledge of
+the client’s business domain and operating rou-
+tines acquired through repeated interaction with
+the client. In contrast, project management capa-
+bilities are acquired through deliberate and per-
+sistent investments in infrastructure (systems and
+processes) and training to improve the ﬁrms’ soft-
+ware development processes. They reﬂect techni-
+cal capabilities in software design, development,
+and execution. The development of these capabil-
+ities rests not only on implicit learning-by-doing
+processes but also on deliberate, proactive invest-
+ments in building them. For example, drawing on
+industry experience, some scholars derived eco-
+nomic models to show that it makes economic
+sense for software vendors to initiate the ﬁrst
+project with a client at
+low prices even if it
+amounts to a modest loss on the project. The ﬁrst
+project serves as a platform for the development
+of client-speciﬁc and project management capa-
+bilities that help signiﬁcantly reduce costs in the
+long run and ultimately generate positive returns
+(Whang, 1995). In our empirical analyses, we esti-
+mate the marginal contribution, cross-sectionally
+and temporally, of the two capabilities to project
+proﬁtability.
+
+The study makes two principal contributions to
+the extant literature on capabilities. First, we argue,
+and empirically demonstrate, that ﬁrm capabili-
+ties are often context-speciﬁc and fruitful research
+in this area might emanate from enjoining an
+in-depth study of the capabilities speciﬁc to a
+context and careful empirical estimation of their
+signiﬁcance and value. The distinguishing feature
+of our work is that we conceptualize the notion
+of capabilities at a more micro-level within the
+ﬁrm, namely the project(s) which the ﬁrm exe-
+cutes for its clients, develop appropriate measures
+for these capabilities, and examine their evolution
+and impact on ﬁnancial performance. Second, we
+argue, and show, that not all capabilities provide
+the same marginal contribution to performance.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+27
+
+This is signiﬁcant because it suggests that if dif-
+ferent capabilities have different costs and beneﬁts
+associated with their development or acquisition,
+managers should pay attention to understanding
+these trade-offs in making investments in capabil-
+ity development. More broadly, our study advo-
+cates a shift in the debate from whether or not
+capabilities matter to ‘what’ capabilities matter and
+‘how.’
+
+The rest of the paper is organized as follows. In
+the next section, we brieﬂy outline the research lit-
+erature on capabilities and how capabilities drive
+performance differences. We then describe the
+Indian software industry context in some detail and
+develop our hypotheses. In the following section
+we describe the data, the measures, and empiri-
+cal estimation procedures. Finally, we present the
+results and discuss their implications for research
+on capabilities.
+
+THEORY
+
+What are capabilities and why are they
+important?
+The notion of capabilities can be traced back to
+Penrose (1959) and Andrews (1971), among oth-
+ers (see also Selznick, 1957). Penrose (1959: 25)
+suggested that resources consist of a bundle of
+potential services. While these resources or factor
+inputs are available to all ﬁrms, the ‘capability’
+to deploy them productively is not uniformly dis-
+tributed. Analogously, Andrews (1971) argued that
+the ‘distinctive competence’ of an organization is
+more than what it can do; it is what it can do
+particularly well. Building upon this earlier work,
+recent literature on the resource-based view con-
+ceptualizes resources and capabilities along two
+lines. One set of authors (see, for example, Barney,
+1991; Peteraf, 1993) tend to deﬁne resources rather
+broadly so as to ‘include all assets, capabilities,
+organizational processes, ﬁrm attributes, informa-
+tion, knowledge, etc.’ (Barney, 1991: 101). Other
+authors, however, have sought to clearly delin-
+eate between resources and capabilities (Amit and
+Schoemaker, 1993; Grant, 1991) by arguing that
+‘resources consist . . . of know-how that can be
+traded, ﬁnancial or physical assets, human capital
+etc. . . . [whereas] capabilities . . . refer to a ﬁrm’s
+capacity to deploy resources’ (Amit and Schoe-
+maker, 1993: 35). In this paper, we adopt the latter
+conceptualization of ﬁrm capabilities in developing
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+our arguments about where they come from and
+how they matter.
+
+These deﬁnitional and conceptual differences
+notwithstanding, strategy researchers agree that
+both resources and capabilities are essentially
+assets with rent-generating potential. The resource-
+based view literature largely emphasizes two kinds
+of rents1 they can generate. The ﬁrst parallels the
+textbook notion of (Ricardian) rents from scarce
+resources. Ownership of a scarce resource (say
+land in Manhattan) enables the owner to enjoy
+superior rents relative to competitors who do not
+own the resource (they lease the land). The scarcity
+rents here are rooted in the inelastic supply curve
+for the resource. In addition, there is the implicit
+condition that, all else being equal, the cost of own-
+ership is less than the lease cost. This means that
+at the time the scarce resource was acquired its
+price was less than its (future) marginal product
+(Peteraf, 1993).
+
+A second type of rent
+
+is quasi-rents (Klein,
+Crawford, and Alchian, 1978). Quasi-rents ‘are the
+excess of an asset’s value over its salvage value or
+its value in its next best use’ (Peteraf, 1993: 184).
+Quasi-rents are often associated with capabilities.
+The primary reason for this is that they are con-
+sidered to be a product of specialized assets that
+are embedded within the organizational context
+(Rumelt, 1987) such that their optimal deployment
+is contingent on the presence of other complemen-
+tary assets (e.g., managers, culture, technology) or
+even learning how to deploy the bundle of assets
+efﬁciently. Additionally, there is a cost involved in
+transferring this asset along with the complemen-
+tary assets to another ﬁrm, thereby reducing its
+productive value (Langlois, 1992). This difference
+in value is the quasi-rent accruing to the owner of
+the asset. Usually, quasi-rents are a function of the
+uncertainty about the production function underly-
+ing the deployment of resources (Rumelt, 1984). In
+this paper, our notion of capabilities reﬂects assets
+that can generate quasi-rents.
+
+Where do capabilities come from?
+Traditionally, strategy research has devoted lit-
+tle attention to the issue of where capabilities
+
+1 Note that Winter (1995) refers also to Schumpeterian rents—
+entrepreneurial rents or rents from innovation—and monopoly
+rents—rents from output restriction under inelastic demand.
+Since neither of these rents is associated with resources or
+capabilities we do not discuss them here.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+28
+
+S. K. Ethiraj et al.
+
+come from. Nelson and Winter (1982) made one
+of the early theoretical attempts to understand
+this question. They viewed the ﬁrm as bundles
+of path-dependent knowledge bases. Over time,
+ﬁrms’ knowledge, accumulated through ‘learning
+by doing,’ is embedded in bundles of ‘routines’
+that are likened to the genetic material of the ﬁrm.
+Routines, a central concept in evolutionary the-
+ory, involve repetitive patterns of activity, require
+investment in routine-speciﬁc human and physical
+capital, and are easily recognized as belonging to a
+class (Winter, 1990). An important element of their
+theory is the description of the ﬁrm as a historical
+entity, with productive knowledge being a result of
+endogenous, learning-by-doing processes. Conse-
+quently, this perspective sees ﬁrms as entities that
+possess heterogeneous capabilities as a function of
+their routines and search processes. These capabil-
+ities are rooted in the organizational skills and rou-
+tines that serve as organizational memory to repeti-
+tively execute the sequence of productive activities
+without trouble. At their core, these organizational
+skills and routines embody knowledge and compe-
+tence in carrying out the productive activities that
+the ﬁrm is engaged in. Building on the basic idea
+that history matters and that capabilities are rooted
+in contextually embedded knowledge underlying
+the production function, others have emphasized
+the signiﬁcance of absorptive capacity (Cohen and
+Levinthal, 1990) and asset stocks and ﬂows (Dier-
+ickx and Cool, 1989) in driving capabilities-based
+competition.
+
+Some researchers have also suggested that capa-
+bilities are not merely the result of tacit accu-
+mulation of experience embedded in routines and
+learning by doing. They are also the result of
+deliberate investments in organizational structure
+and systems to make constant improvements in
+those routines and practices (Zollo and Winter,
+2002). Organizations strive to adapt their oper-
+ating processes through proactive actions dedi-
+cated to process improvements. These may include
+explicit efforts to continuously learn and capture
+the lessons from prior experience of self or oth-
+ers (Collis, 1996; Zollo and Winter, 2002) and
+incorporate those lessons to make improvements in
+prevalent practices, or create formal mechanisms
+to coordinate and institutionalize the improvement
+efforts (Kale et al., 2002). Although the notion
+of making deliberate investments to improve ﬁrm
+capabilities may be understood uniformly by most
+ﬁrms, there are idiosyncratic ﬁrm-level differences
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+in the timing of this effort, the nature and amount
+of the investment and effort they undertake, and
+the internal organizational mind-set that supports
+this process. These differences may get reﬂected in
+signiﬁcant heterogeneity across ﬁrms with respect
+to the capabilities that result from this effort.
+
+is important
+
+In sum, it appears that in operationalizing the
+notion of capabilities it
+to show
+that: (1) capabilities involve the deployment of
+resources and there are strong theoretical reasons
+that undergird how and why they generate rents;
+(2) capabilities tend to evolve over time to reﬂect
+the joint effects of passive learning-by-doing and
+deliberate ﬁrm-level investments in learning and
+making improvements; and (3) capabilities are
+hard to imitate or easily acquire in factor markets
+and this forms the basis for rent generation.
+
+How do capabilities matter?
+The question ‘How do capabilities matter?’ is
+one that derives from the question posed earlier,
+‘Where do capabilities come from’? We argued
+above that capabilities reﬂect the evolutionary pro-
+cess of deliberate ﬁrm-speciﬁc investments and the
+largely tacit ‘learning-by-doing’ that ﬁrms engage
+in. This in turn results in heterogeneity of ﬁrms and
+the consequent differences in their performance.
+If we assume for the moment that ‘learning-by-
+doing’ is distributed uniformly2 among ﬁrms, then
+most of the ex post ﬁrm performance heterogeneity
+is in fact a function of differences in the delib-
+erate, ﬁrm-speciﬁc investments made (see Helfat,
+1994, for an excellent account of how differential
+R&D investments by a sample of petroleum ﬁrms
+led to ﬁrm heterogeneity). Differences in the ex
+post productive value of ﬁrm-speciﬁc investments
+suggest that ﬁrms face signiﬁcant ex ante trade-
+offs in their choices of ﬁrm-speciﬁc investments
+made to acquire certain capabilities. In the main,
+we expect that the trade-offs themselves are likely
+to vary between ﬁrms as well as within ﬁrms over
+time.
+
+Each ﬁrm needs to make a set of strategic
+choices that ﬁt together as a system (Porter, 1991).
+In making these choices, ﬁrms face signiﬁcant
+trade-offs, and the nature of the trade-offs can vary
+
+2 The assumption of uniformity in learning-by-doing is unrealis-
+tic simply because it is likely to be endogenous with the choices
+of ﬁrm-speciﬁc investments. In effect, this assumption is plau-
+sible only if we can separate out learning-by-doing from the
+choices about ﬁrm-speciﬁc investments.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+29
+
+over time as well. The trade-offs are primarily a
+function of the interdependencies between the var-
+ious strategic choices of the ﬁrm (Levinthal, 1997).
+When the choice to invest in acquiring a capabil-
+ity shares positive interactions with other choices
+within the ﬁrm, the marginal beneﬁt of acquiring
+the capability is likely to be higher than in the
+case when the choice shares negative interactions
+with other choices made by the ﬁrm. Simply put,
+different capabilities are likely to yield different
+marginal beneﬁts to the ﬁrms making the invest-
+ments in such capabilities. If indeed money and
+managerial time and effort are scarce and ﬁrms
+need to allocate these scarce resources among com-
+peting initiatives to acquire relevant capabilities,
+then it is of signiﬁcant theoretical and practical
+importance to understand the trade-offs they face
+in doing so. Theoretically speaking, the answer to
+this puzzle is rather obvious—managers should
+invest in acquiring capabilities that yield the great-
+est marginal returns to the investment. In prac-
+tice, however, such a cost–beneﬁt calculus is far
+from simple. We face formidable theoretical and
+empirical challenges because the interdependen-
+cies between the various strategic choices that a
+ﬁrm makes are often unknown and the impact on
+the ﬁrm of altering one choice can be unpredictable
+(Ethiraj and Levinthal, 2004). Moreover, as a ﬁrm
+attains critical
+its
+marginal returns to investing in the same capability
+might decline. Alternatively, the marginal returns
+to building other complementary capabilities might
+increase. In this paper, we make a modest attempt
+to examine the marginal returns to different capa-
+bilities, both cross-sectionally and temporally.
+
+levels on a given capability,
+
+Empirical research on capabilities
+
+The empirical
+literature on capabilities is fast
+growing and we can partition this body of work
+along two broad lines. The ﬁrst stream of work
+includes detailed historical accounts that
+track
+alternative choices made by ﬁrms and their perfor-
+mance outcomes. Several excellent papers in this
+tradition provide useful insight into the historical
+development and evolution of capabilities (e.g.,
+Iansiti and Khanna, 1995; Rosenbloom, 2000).
+Unfortunately, such methods do not permit the
+estimation of the signiﬁcance and value of capabil-
+ities. The second stream of research that includes
+large-sample empirical work has attempted to do
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+this. Even in this tradition, however, few stud-
+ies have managed to adequately capture the spirit
+of the idea. They usually fall short either in the
+choice of the independent variables employed to
+measure capabilities or the dependent variable used
+to measure performance. Many studies have mea-
+sured capabilities using aggregate indicators such
+as R&D intensity (e.g., Silverman, 1999) at the
+ﬁrm level. But if capabilities critically reside at the
+operational level within ﬁrms, aggregate ﬁrm-level
+measures may tend to mask much of the variance
+within ﬁrms.
+
+Some recent studies have identiﬁed and mea-
+sured more disaggregated capabilities to address
+this limitation. For instance, Henderson and Cock-
+burn (1994), using survey data attempted to get
+at more disaggregated measures of R&D capabil-
+ity at the program level. They measured archi-
+tectural competence (ability to integrate knowl-
+edge within the ﬁrm) and component competence
+(locally embedded knowledge) at the R&D pro-
+gram level to predict patenting productivity. Sim-
+ilarly, McGrath, MacMillan, and Venkataraman
+(1995) measured ﬁrm competence at pursuing new
+initiatives and identiﬁed that deftness and com-
+prehensiveness are important precursors to compe-
+tence acquisition and ultimately to the emergence
+of competitive advantage. These studies and others
+in this tradition (e.g., Schroeder, Bates, and Junt-
+tila, 2002), however, have been limited to assess-
+ing ﬁrm performance with disaggregated, non-
+ﬁnancial measures of performance such as patent-
+ing or survey-based self-reports of performance.
+This is not surprising given that it is extremely
+difﬁcult to relate disaggregated measures of capa-
+bilities to aggregate, ﬁnancial measures of ﬁrm
+performance. Makadok and Walker (2000), in a
+notable exception, examine the ﬁnancial returns
+to forecasting ability in the money fund industry.
+Along similar lines, Brush and Artz (1999) explore
+the trade-offs in various services offered by differ-
+ent ﬁrms and their impact on revenue per transac-
+tion in the veterinary medicine industry.
+
+Our study adopts an approach that is similar to
+this latter set of studies. We construct disaggre-
+gated, context-speciﬁc capability measures that are
+as close to the operational level as is practically
+possible and we construct disaggregated ﬁnancial
+measures of performance at the same operational
+level. We also track the evolution of these capa-
+bility measures over time. Most importantly, our
+study is distinctive from these prior studies in that
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+30
+
+S. K. Ethiraj et al.
+
+we examine the choices made by a single ﬁrm over
+time and evaluate the performance trade-offs or
+the marginal returns to different capabilities that it
+sought to build over a 6-year period. The follow-
+ing section develops the key hypotheses advanced
+in this study.
+
+OVERVIEW OF THE INDIAN
+SOFTWARE SERVICES INDUSTRY
+
+In this section we provide a brief overview of
+the Indian software services industry. We focus
+on the demand- and supply-side economics of the
+industry and attempt to draw out the nature and
+type of capabilities that might have the potential
+to generate rents.
+
+that
+
+The Indian software services industry is rela-
+tively young, with many of its most mature com-
+panies incorporated in the late-1970s and early
+1980s. The domestic market for IT services was
+always small and continues, even today, to account
+for only about 25–30 percent of the industry’s
+sales (Nasscom, 2001). The Indian industry re-
+ceived a big boost
+in the early 1990s when
+the demand for IT services in the developed
+world outstripped the available supply of skilled
+labor. India, which at
+time was graduat-
+ing 150,000 English-speaking engineers a year
+with only a limited demand for their services
+within the country, was well placed to take advan-
+tage of this opportunity. Companies in the devel-
+oped world began focusing on India to lever-
+age its low-cost, English-speaking IT manpower.
+The low levels of initial investment required to
+enter the software services business and the min-
+imal regulatory intervention from the Indian gov-
+ernment, created few,
+if any, entry barriers or
+constraints in these early years. Several hun-
+dred Indian ﬁrms were founded to exploit
+this
+opportunity and the industry witnessed very rapid
+growth. Overall, there was a general consensus
+that macro factors such as the access to large,
+low-cost, English-speaking technical manpower in
+India and improvements in IT-related infrastruc-
+ture (e.g., high-bandwidth communication lines)
+set up by private and state-owned enterprises pos-
+itively inﬂuenced the competitive advantage and
+growth of Indian companies (Arora et al., 2001;
+Nasscom, 2001).
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Demand for Indian software services
+
+Faced with a small and undeveloped domestic
+software services market, Indian software ﬁrms
+focused primarily on the export market. Their early
+work, however, was neither technologically very
+sophisticated nor critical
+to clients’ businesses.
+Clients usually did the high-end work such as
+requirement analysis and top-level design either
+in-house or through U.S.-based consultants. They
+outsourced the low-end, labor-intensive work such
+as low-level design, coding, testing, support and
+maintenance to Indian companies to leverage their
+low-cost activity base. Clients retained the high-
+end work in the early years either because their
+Indian vendors did not possess the requisite skills
+to undertake these activities or, even if they did,
+clients did not have sufﬁcient conﬁdence to entrust
+such activities to them. Thus, the origin of the
+Indian software industry was ﬁrmly rooted in
+performing low-end, technically less demanding
+and labor-intensive work for the global IT indus-
+try and exploiting labor cost arbitrage opportuni-
+ties between India and developed country markets
+(Nasscom, 2001).
+
+Over time, however, there was a change in this
+trend. The low entry barriers in the Indian software
+services industry triggered abnormally high levels
+of entry by new ﬁrms. Between 1989 and 1998,
+over 3000 software services ﬁrms were founded
+that aspired to serve export markets. Consequently,
+domestic competition in the labor market (i.e., for
+trained engineers) shot up. It was not enough any
+more to just possess low-cost labor resources and
+exploit arbitrage opportunities. Firms also needed
+to improve the productivity of labor to compete
+effectively in the market. Thus, some ﬁrms began
+a systematic push to build high-end software capa-
+bilities, move up the value chain, and improve rev-
+enue per employee ﬁgures. Consequently, the lead-
+ing Indian ﬁrms today are also the leading ﬁrms
+in the global market (see Market-Guide, 2002).
+
+Since the mid-1990s there has been a distinct
+shift in the nature of software projects executed by
+the leading Indian software ﬁrms. They gradually
+shifted their role from that of merely implement-
+ing a design provided by their overseas clients to
+becoming active participants in the design of the
+complete application product. As a consequence,
+they now span the full spectrum of jobs from
+highly labor-intensive code migration work such
+as the integration of old mainframe-based systems
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+31
+
+into new e-commerce platforms, or developing
+new code for pre-designed applications and soft-
+ware tools, to projects that involve both conceptual
+design and implementation of customer relation-
+ship applications and supply-chain management
+systems. The capacity to execute such a range of
+jobs enabled these ﬁrms to deliver end-to-end solu-
+tions and, thereby, lay claim to a larger share of
+the client’s IT budget and compete for it with lead-
+ing ﬁrms in the United States such as IBM and
+Accenture.
+
+Overall, while comparative cost advantages do
+exist for Indian software ﬁrms, they are by no
+means sufﬁcient or even sustainable. First,
+the
+nature of services provided by these ﬁrms involves
+specialized work (e.g., designing supply chain
+management systems or setting up trading ex-
+changes) that requires not only technical knowl-
+edge of software design but also an in-depth under-
+standing of the client’s industry and business pro-
+cess. Second, even ﬁrms such as IBM, Sapient, and
+Accenture have set up subsidiaries in India exploit-
+ing the same cost advantages. These subsidiaries
+undertake software projects involving both design
+and development on latest-technology platforms
+and business applications. This development not
+only supports the argument that Indian software
+teams are capable of executing these high-value
+projects but also erodes much of the Indian ﬁrms’
+traditional cost advantages.
+
+Supply of Indian software services3
+
+Two aspects of the Indian software services indus-
+try are critical
+to understanding its supply-side
+economics: (a) where and how the software devel-
+opment process is managed and organized; and
+(b) what type of contracts are used to provide the
+services. We elaborate below.
+
+Indian software ﬁrms have traditionally executed
+two types of projects: onsite and offshore. In onsite
+projects the Indian ﬁrm supplies software profes-
+sionals who possess the requisite technical skills
+that the clients demand. The entire project is then
+developed and executed at the clients’ site. In off-
+shore projects, in contrast, the Indian ﬁrm typically
+sends a few software professionals to the client
+
+3 The material here draws heavily from an excellent article on
+the Indian software industry by Arora et al. (2001).
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+site to understand its requirements and speciﬁca-
+tions, but thereafter the entire software is devel-
+oped in India. The post-development support and
+maintenance of the software is also carried out
+largely from India. In some cases, a hybrid of the
+two types is also observed. Obviously, the offshore
+development model is more cost effective due to
+labor market arbitrage. From a cost standpoint, the
+greater the proportion of work completed offshore,
+the lower the cost of project execution (Gopal
+et al., 2003). This is primarily because in onsite
+projects employees need to be paid in accordance
+with host country norms,4 which erodes a signiﬁ-
+cant proportion of the cost-based advantages that
+Indian ﬁrms enjoy.
+
+In the early days of the Indian software indus-
+try, Indian companies executed a majority of the
+projects onsite. This happened because, ﬁrst, the
+overseas clients had limited conﬁdence in the
+Indian ﬁrms’ ability to execute projects in confor-
+mance to their needs. Second, the Indian ﬁrms also
+had only a limited understanding of clients’ needs
+and often required close and regular interaction
+with the client. But, over time, as overseas clients
+developed conﬁdence in the software capabilities
+of their Indian vendors and the vendors, in turn,
+developed a better understanding of clients’ needs,
+it was possible to relocate the bulk of the project
+development activities to India to take full advan-
+tage of its low-cost development base. Improve-
+ments in the infrastructure for long-distance com-
+munication and data transfer facilitated this process
+as well.
+
+The second signiﬁcant feature of software ser-
+vices, both in India and worldwide, involves the
+type of contract adopted in software outsourcing
+arrangements. Contracts can be broadly classiﬁed
+into two categories: ﬁxed price and time & mate-
+rial (Banerjee and Duﬂo, 2000). In ﬁxed price
+contracts the vendor charges a ﬁxed fee for its
+services, which is usually negotiated before the
+start of the project. Although the vendor bears
+most of the risk in this case, efﬁcient project man-
+agement can yield potentially higher margins. In a
+
+4 In the United States, issue of H1B visas to overseas software
+professionals requires the sponsoring ﬁrm to certify that the pro-
+fessionals are being paid wages commensurate with what a U.S.-
+based employee with similar qualiﬁcations would obtain. This
+provision was introduced to discourage ﬁrms from substituting
+domestic labor with low-cost foreign labor, while allowing them
+to access specialized labor not easily available domestically.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+32
+
+S. K. Ethiraj et al.
+
+time & material (T&M) contract, the vendor pro-
+vides services at a pre-negotiated rate for every
+person-hour of effort expended on the project and
+receives payment either at the end of the project or
+at periodic intervals when project milestones are
+reached. Here, although a vendor is usually pro-
+tected against any cost and schedule overruns that
+may arise due to changes in client speciﬁcations,
+there is a concomitant reduction in incentives for
+the vendor to execute more efﬁciently.
+
+In the early years, most Indian software ﬁrms
+preferred T&M contracts. Since these contracts
+were behavioral, the client needed a safeguard that
+the Indian ﬁrm was not billing them more person-
+hours than was necessary to execute the project. So
+clients typically reduced their risk by negotiating
+hard on the price per person-hour. From the Indian
+vendor’s standpoint, reduced risk came at the cost
+of reduced margins. Therefore, for ﬁrms that had
+the capability to manage their projects efﬁciently
+and assume the risks,
+it made economic sense
+to move to a ﬁxed-price contract that potentially
+yielded higher margins. In ﬁxed-price contracts,
+clients often agreed to higher prices because such
+contracts reduced the need for behavioral monitor-
+ing and had strong penalties associated with delays
+or defects in project completion. Thus a combina-
+tion of improved project execution and manage-
+ment capabilities and the Indian ﬁrms’ impetus to
+improve proﬁt margins led to an increasing pref-
+erence for ﬁxed-price contracts.
+
+Overall, on the supply side the steady transition
+from onsite to offshore projects and from T&M
+to ﬁxed-price contracts meant that an increasing
+share of project management risk had to be borne
+by the Indian ﬁrms. This meant that
+the ﬁrms
+had to acquire the requisite capabilities to compete
+effectively. The following section elaborates what
+these capabilities were and how they played a
+critical role in Indian ﬁrms’ successful evolution.
+
+Capabilities of Indian software services ﬁrms
+
+Against the backdrop of the demand- and supply-
+side economics of the Indian software services
+industry, two broad sets of capabilities are critical.
+The ﬁrst is what we term client-speciﬁc capabil-
+ities. As software ﬁrms work with their clients
+over time they develop several client-speciﬁc pat-
+terns of interaction that become cost-effective over
+repeated interactions. For instance, one of the ﬁrms
+we interviewed mentioned that clients tend to have
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+fairly idiosyncratic ways of doing things and it
+takes some time to understand and appreciate this.
+One of this ﬁrm’s clients wanted a team of its
+employees to be stationed at the client site for
+3 months after completion of the project. Initially
+the Indian ﬁrm resisted such a demand since it
+led to increased costs. However, over a period of
+time, the ﬁrm was able to convince the client that
+it could provide the same quality of after-sales ser-
+vice with the support team based in India. This was
+possible because with repeated interaction with the
+same client over time software vendors not only
+develop a better understanding of the information
+infrastructure at the client site but also develop
+better clarity of how the software relates to the
+client’s business environment. Such knowledge is
+acquired through repeated interactions with the
+client over various stages of the development cycle
+such as requirements speciﬁcation, business pro-
+cess design, data preparation, software installation,
+debugging, and testing. Hence long-term relation-
+ships and repeated interactions with clients resulted
+in client-speciﬁc learning that had a positive effect
+on both revenues and costs.
+
+On the revenue side, clients were more will-
+ing to agree to higher prices on repeat projects
+as they developed conﬁdence in the capability of
+the Indian ﬁrm to execute projects per their speci-
+ﬁcations. We reckon that Indian ﬁrms were able to
+capture at least some of the switching costs faced
+by the client in ﬁnding a new vendor and build-
+ing a new working relationship. On the cost side,
+there was tangible cost reduction associated with
+working with a client over time. For instance, one
+of our interviewees pointed to a client who never
+speciﬁed requirements very clearly at the outset
+and tended to repeatedly come back and ask for
+new features after the project was delivered. While
+this tended to be disruptive initially and created
+problems for the Indian ﬁrm, over time it learned
+to work around this. Rather than deliver very ﬁn-
+ished projects, the vendor ﬁrm began to involve
+the client ﬁrm at the prototype stage itself and
+then started building in the client ﬁrm’s needs as
+the project went along. In this manner, they were
+able to avoid the post-delivery negotiations and
+completion delays and the associated costs. Such
+client-speciﬁc tailoring of projects also enhances
+the software ﬁrm’s understanding of the client’s
+business domain. Thus, repeat projects for clients
+helped develop important client-speciﬁc capabili-
+ties that contributed to higher proﬁts by reducing
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+33
+
+costs. Therefore, we hypothesize:
+
+Hypothesis 1: Development of client-speciﬁc
+capabilities based on repeated interaction with
+clients is positively related to project perfor-
+mance.
+
+and
+
+project management
+
+A second capability that is more fungible across
+clients and industry domains is the software devel-
+opment
+capability
+(Humphrey, 1989; Jalote, 1997). The following
+three capabilities are particularly important. (i)
+Software design and building capabilities: First,
+vendors must have the capability to understand the
+requirements of the client and design an appropri-
+ate system or architecture to address them. Second,
+they must possess the capability to efﬁciently and
+effectively build the code in conformance to the
+design and coordinate the entire code development
+process that
+is usually distributed across many
+teams and/or sites. These capabilities are usually
+reﬂected in the defects identiﬁed in the prod-
+uct/software during the design and development
+process. (ii) Effort estimation and management
+capabilities: Vendors have to be skilled not only in
+accurately assessing the requirements of the client
+but also in assessing the resource inputs or effort
+required to build and execute the project. They
+need to be able to identify appropriate resources
+(for instance, people with the necessary skill, expe-
+rience, availability, etc.) and create and use prior
+experience/data to arrive at accurate estimates of
+the resource/effort requirements. Further, they also
+require skills to ensure the effective management
+and deployment of the required resources. Poor
+capabilities in effort estimation and management
+are usually reﬂected in increased manpower cost
+and/or effort overrun. (iii) Schedule estimation and
+management capabilities: Once companies have
+a tentative idea of the resource inputs necessary
+to build and implement the project, they must be
+able to correctly estimate the duration and sched-
+ule for completing the project. They also need to
+possess the management skills to ensure that the
+project resources are garnered, deployed and man-
+aged to complete the project within the planned
+schedule. Again, poor capabilities on this dimen-
+sion are reﬂected in project completion delays and
+schedule slippages.
+
+Given the importance of the above capabili-
+in recent years ﬁrms have placed a great
+ties,
+deal of emphasis on software engineering and
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+project management and have been making invest-
+ments in improving their processes and capabili-
+ties. The Capability Maturity Model (CMM) devel-
+oped by the Software Engineering Institute (SEI)
+at Carnegie Mellon University is a widely adopted
+framework to improve software capabilities. Built
+on theories of quality and continuous process
+improvement, the CMM was ﬁrst initiated to pro-
+vide the Department of Defense a standard means
+for measuring contractor capability via its deﬁni-
+tion of process maturity (Humphrey, 1989). As the
+CMM became widely adopted as a standard quality
+process model in the defense sector, commercial
+organizations also began to investigate whether
+they could beneﬁt from the approach to software
+process improvement expressed in the CMM. In
+the last few years software process improvement
+based on the CMM has emerged as an integrated
+solution to the software problems in various cor-
+porations and empirical evidence in support of the
+same has been reported (Herbsleb et al., 1997;
+Krishnan, 1996).
+
+Recognizing the importance of project man-
+agement capabilities, several Indian ﬁrms have
+been the leaders in adopting CMM guidelines
+to improve their software development processes.
+According to SEI, in 2001, of the 42 companies
+worldwide certiﬁed as having attained a level-5
+capability, 25 are based out of India. Meeting
+these guidelines is not a trivial task. Firms need
+to make substantial
+investments in ﬁrm infras-
+tructure, systems, and human capital. The CMM
+speciﬁes ﬁve maturity levels, each consisting of
+several key process areas (KPAs), to assess an
+organization’s process capability by measuring the
+degree to which processes are deﬁned and man-
+aged (see Paulk et al., 1993: Figure 1). Firms ﬁrst
+need to do a detailed comparison of their devel-
+opment and project management processes with
+the CMM process quality framework and identify
+speciﬁc aspects that need to be improved. After
+making these organizational and process changes,
+software ﬁrms need to set up a rigorous metrics
+program to collect data to assess various aspects of
+their development process and institute audit sys-
+tems to track non-conformance of best practices,
+process deviations, and exceptions. Measurement-
+based feedback to improve process capability is
+achieved through monitoring and review forums
+to track improvements and make required changes
+on a regular basis.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+34
+
+S. K. Ethiraj et al.
+
+In addition, software ﬁrms need to invest in
+training programs to improve their process matu-
+rity under the CMM framework. The training
+activities mandated by CMM include ongoing
+training in both new technology and software pro-
+cess and project management skills for software
+developers and managers. To achieve higher lev-
+els of process maturity, ﬁrms need to organize
+rigorous training of all their employees not only
+with a view to improve their development/project
+management practices but also to institutionalize
+the entire capability improvement initiative (Paulk
+et al., 1993).
+
+The CMM framework offers generic guidelines
+for institutionalizing disciplined practices across
+various activities in software development. Since
+the nature of software development is such that
+software teams can quickly turn to ad hoc prac-
+tices, institutionalization of disciplined practices
+and continuous feedback-based improvements can
+evolve as a core project management capability
+of the ﬁrm. Overall, ﬁrms can eventually develop
+their software development and project manage-
+ment capabilities as a result of cumulative and
+integrated effort across the many process areas
+of CMM as described above. Eventually the pos-
+session of these capabilities should lead to bet-
+ter project-level performance for the ﬁrm. Past
+studies document the relationship between soft-
+ware and project management capabilities and pro-
+cesses and the quality of the products/services pro-
+vided as well as the efﬁciency in providing them
+(Herbsleb et al., 1997; Krishnan, 1996). Eventu-
+ally, we believe that these beneﬁts should result
+in improved project performance in terms of prof-
+itability. Therefore, we hypothesize:
+
+Hypothesis 2: Higher levels of project manage-
+ment capabilities will lead to higher levels of
+project performance
+
+While client-speciﬁc capabilities and project
+management capabilities are both positively related
+to project performance, they might differ in the
+marginal returns they generate. Even within the
+set of project management capabilities, it is possi-
+ble to observe some differences in their marginal
+returns. As argued earlier, differences in marginal
+returns may arise due to differences in the costs
+associated with developing these respective capa-
+bilities. Our empirical analysis can help shed light
+on whether that is indeed the case in our setting.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+To summarize the paper so far: We have sought
+to understand the origin, signiﬁcance, and value of
+ﬁrm capabilities. We ﬁrst argued that capabilities
+reﬂect the distinctive deployment of resources and
+also that they are contextually grounded. We then
+elaborated the speciﬁc capabilities that are impor-
+tant
+in the software services industry, namely,
+client-speciﬁc capabilities that arise in the con-
+text of repeated interactions with clients over time
+and project management capabilities that develop
+through deliberate and persistent investments in
+the effort and infrastructure to create them. While
+client-speciﬁc capabilities help reduce project exe-
+cution costs, project management capabilities help
+maintain low cost and high quality all along
+the software development and management value
+chain. These capabilities, in turn, provide oppor-
+tunities for rent generation for ﬁrms. We next turn
+our attention to the signiﬁcance and value of these
+capabilities as a matter for empirical investigation.
+
+METHODS
+
+Data
+
+We obtained detailed quantitative data at the pro-
+ject
+level from a leading world-class software
+services ﬁrm headquartered in India.5 Over
+90 percent of its revenues are export-based, of
+which more than 60 percent comes from North
+American clients. The dataset includes information
+on revenues,
+capability
+measures, and various project characteristics such
+as size, client industry, development platform, etc.,
+measured at the project level.
+
+inputs,
+
+factor
+
+cost,
+
+We have data on 227 projects executed by the
+ﬁrm over a 6-year period from 1996 to 2001. How-
+ever, after dropping single projects and projects
+with missing data, our sample was reduced to 138
+projects.6 The ﬁrm has executed these 138 projects
+for 57 different clients over the study period. Our
+dataset has 22 new clients for whom the ﬁrm exe-
+cuted its ﬁrst project during the study period and
+
+5 Since the dataset reveals the economics of the ﬁrm and has
+competitive implications, we are unable to reveal the identity of
+the ﬁrm.
+6 We found no statistically signiﬁcant differences between pro-
+jects with complete data and those with missing data for those
+variables for which we had complete information. This increased
+our conﬁdence that the analyzed data were not systematically
+different from the data on all the projects. The results reported
+in the paper are estimated using the sample of 138 projects.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+35
+
+35 repeat clients for whom the ﬁrst project was
+executed prior to the study period. The average
+number of projects executed per client is 2.385;
+the range is from a minimum of 2 to a maximum
+of 12 projects. Thus, our dataset comprises a panel
+of 57 clients for whom the ﬁrm has executed two
+or more projects during the study period.
+
+Model speciﬁcation and estimation
+
+We assume that the ﬁrm produces a single out-
+put, software services, using skilled labor. Since
+the software services business is highly labor-
+intensive, the scale of the ﬁrm’s operations and
+its costs depend almost exclusively on manpower.
+The ﬁrm’s proﬁt function from each project
+is
+given by
+
+= F (P , C(δ, κ))
+
+πij t
+
+where, πij t are the proﬁts from project i for client
+j in year t. This recognizes that proﬁtability can
+vary as a function of time, client characteristics,
+and project characteristics. P are the prices and C
+are the costs respectively of project i for client j
+in year t. Both prices and costs depend on project-
+speciﬁc characteristics, δ, such as size, complexity,
+duration, and type of contract. The last term in
+the equation, κ, captures the capabilities measures,
+which vary with client and time and also depend
+on project-speciﬁc characteristics δ.
+
+This reﬂects our hypotheses that capabilities
+tend to inﬂuence both the prices and costs of soft-
+ware services. As argued in the previous section,
+capabilities allow the ﬁrm to command a price pre-
+mium (shift the demand curve), and also reduce
+costs (shift the supply curve).
+
+We estimated the following equation using pro-
+
+ject-level data:
+
+log(πij t ) = β log(wij t ) + χ zij t
+
++ γ κij t
+
++ ε
+
+where the dependent variable, πij t, is project-level
+contribution (revenue minus cost), wij t is the vec-
+tor of input characteristics that determine costs,
+is a vector of project speciﬁc controls, and
+zij t
+κij t reﬂect the capability measures. The coefﬁcients
+on the logged variables are directly interpreted as
+elasticities, while the coefﬁcients on variables mea-
+sured in levels vary with the magnitude of the
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+variables.7 We only logged independent variables
+that did not have zero values and retained vari-
+ables with zero values as levels to avoid estimation
+difﬁculties.
+
+The equation above cannot be estimated using
+simple OLS since there are multiple projects
+per client. Any unobserved relationships among
+projects for a given client and the consequent
+heterogeneity across clients can contribute to het-
+eroskedasticity and bias the standard errors of the
+coefﬁcient estimates. The standard solution to this
+problem is either to use a GLS estimator and cor-
+rect for panel heteroskedasticity or employ OLS
+and account for the correlations within each panel
+(Wooldridge, 2002). In using OLS to estimate
+equations with panel data such as that employed
+in this paper,
+the usual practice is to employ
+a ﬁxed-effects speciﬁcation8 (Greene, 1997). The
+ﬁxed-effects model
+involves parameterizing the
+client-speciﬁc effects by including dummies for
+each client. We report the results of the estima-
+tion using, primarily, a ﬁxed-effects speciﬁcation.
+As a robustness check, we also report GLS with
+panel heteroskedasticity-corrected standard errors.
+In the ﬁxed-effects models the coefﬁcient esti-
+mates are interpreted as the amount of within-panel
+variation in the dependent variable (project per-
+formance) that is explained by the within-panel
+variation in the independent variables. Thus, the
+regression analysis relates changes in project con-
+tribution across different projects for a given client
+to changes in the independent variables after con-
+trolling for unobserved time-invariant effects, and
+the included controls.
+
+Measures
+
+Dependent variable
+
+Project contribution. The dependent variable is
+project contribution (revenues minus costs) mea-
+sured in Indian rupees (INR) recognized on the
+date of completion of the project. We chose to
+
+7 We explain our rationale for logging the dependent variable in
+the following section. Entering the variables in levels does not
+change the results. We report the results on the logged variables
+for ease of interpretation.
+8 We performed a Hausman test to choose between the random-
+effects and ﬁxed-effects models. The Hausman test on the
+full model yielded a chi-squared test statistic equal to 36.22
+(p ≤ 0.03), suggesting that the ﬁxed-effects model is preferred
+over the random-effects model.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+36
+
+S. K. Ethiraj et al.
+
+focus on the project level because the ﬁrm capa-
+bilities that we study primarily exist and evolve
+at the project level within ﬁrms. However, ﬁrm
+proﬁtability is essentially an aggregate of project-
+level contribution so we expect
+the correspon-
+dence between project and ﬁrm proﬁtability to be
+high. Project proﬁtability is an imperfect indica-
+tor of ﬁrm proﬁtability to the extent that it does
+not account for ﬁrm-level cost overheads. To be
+able to use this measure meaningfully we need
+to adjust the INR values both for inﬂation and
+INR–USD (U.S. dollar) exchange rate deprecia-
+tion over time.9 As we discovered, this is a far
+from simple problem, since identifying an appro-
+priate price index speciﬁc to an export-based soft-
+ware services ﬁrm is quite difﬁcult. Fortunately,
+we found that a simple solution is to take logs of
+the dependent variable and include year dummies
+in the regression estimation. This helps remove the
+effect of the adjustment factor from the parameters
+being estimated.10
+
+Independent variables
+
+a
+
+are
+
+capabilities
+
+Client-speciﬁc capabilities. As outlined earlier,
+client-speciﬁc
+function of
+repeated interactions with a given client. These
+repeated interactions may be a function of time
+(on a long project) or spread over several projects.
+We measured it in two ways. For each project in
+our dataset, we have information on whether the
+client is new (i.e., the ﬁrst project executed for that
+client) or a repeat client (i.e., the ﬁrm has executed
+projects for that client
+in the past). For each
+project in the dataset, we have a dummy variable,
+customer type, coded 0 if the ﬁrm has executed
+projects for the client in the past and coded 1 if it
+is the ﬁrst project executed for the client. Repeat
+clients are a proxy for client-speciﬁc capabilities
+the sign on
+developed by the ﬁrm. We expect
+
+9 The exchange rate depreciation over time is important since
+the ﬁrm incurs most of its costs (e.g., wages) in Indian rupees
+whereas its revenues are in U.S. dollars. Therefore, changes in
+the rupee–dollar exchange rates will also change the coefﬁcient
+estimates in the ﬁrm proﬁt function.
+10 For example, C2000 (contribution in year 2000) needs to be
+adjusted to the same units as C1996 (contribution in 1996). Usu-
+ally, C2000 is adjusted as C2000/P1996, where the denominator
+(P1996) is the appropriate index for adjustment. Taking logs,
+we obtain log(C2000)—log(P1996). Thus if we take logs on the
+dependent variable and include year dummies, the parameters
+are free of the adjustment factor. The year dummies absorb the
+adjustment factor, and since the year dummies are only controls
+the main results and our interpretation remain unaffected.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+this coefﬁcient will be negative. Since we also
+have panel data on each client in our sample (i.e.,
+data on multiple projects done for each client), we
+used it to estimate a client ﬁxed effect by including
+a dummy variable for each client. Though both
+measures are largely substitutes, the ﬁrst measure
+captures some information about past projects not
+included in our dataset, and the second produces a
+within-sample estimate of the client-speciﬁc effect.
+Since we cannot estimate a single parameter for the
+client ﬁxed effects, we only examine whether they
+are jointly signiﬁcant after controlling for input and
+project characteristics and time.
+
+Project management capabilities. Project capa-
+bilities are not client-speciﬁc. They are capabil-
+ities that can, by deﬁnition, be leveraged across
+clients, industry domains, and development plat-
+forms. We used three metric variables to measure
+project management capabilities. The ﬁrst variable
+measures the number of in-process defects iden-
+tiﬁed during the project execution phase. Since
+in-process defects can vary by size of the project,
+we normalized it by a project size measure (FP)
+described below.11 In-process defects, which mea-
+sure the defects detected in the product, reﬂect
+a ﬁrm’s software development and management
+capabilities. Further, there is evidence that the cost
+of ﬁxing defects in the early phases of software
+development can be substantially lower than the
+cost of ﬁxing them in the ﬁnal stages of software
+development (Jones, 1997). Hence we expect that
+lower in-process defects will lead to higher project
+contribution.
+
+A second variable measures effort overrun, i.e.,
+difference between actual person-months required
+to complete the project and person-months that
+were initially estimated. Effort overrun can affect
+project proﬁtability since project costs go up
+as effort
+increases. This measure reﬂects effort
+estimation and management capability. Effective
+project management
+involves minimizing such
+overruns. Since effort overrun is likely to vary
+directly with budgeted person-months, we normal-
+ized effort overrun by the budgeted person-months
+to estimate its main effect. The expected sign on
+this coefﬁcient is negative, i.e., higher effort over-
+run will lead to lower project contribution. It was
+
+11 The measure of project size, called function points (FP), is
+a composite measure of project size and complexity and is
+described in greater detail in the subsection below on the control
+variables included in the estimation.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+37
+
+entered as levels (rather than logs) since zero or
+negative values are possible.
+
+A third variable measures the extent of schedule
+slippage, i.e., delay in project completion date. It
+reﬂects schedule estimation and management capa-
+bility. Delays in project completion can adversely
+affect proﬁtability since the ﬁrm can incur contrac-
+tual penalties for delays and also bear increased
+labor costs. We expect the magnitude of sched-
+ule slippage to vary directly with expected project
+duration. To control for this, we normalized sched-
+ule slippage measured in days by project duration
+(also measured in days). The expected sign on this
+coefﬁcient is negative, i.e., higher schedule slip-
+page will lead to lower project contribution.
+
+In sum,
+
+the capabilities measures employed
+here reﬂect our view that capabilities are dis-
+tinct from either inputs or resources. While inputs
+or resources such as capital or labor are acces-
+sible by all ﬁrms at prevailing factor prices,
+capabilities reﬂect
+the deployment of resources
+(Makadok, 2001). Therefore, capability differences
+between ﬁrms are reﬂected in productivity differ-
+ences between them, and within ﬁrms in produc-
+tivity improvement over time. Thus, changes in the
+capability measures reﬂect changes in the produc-
+tivity of resources over time.
+
+Control variables
+
+We controlled for a variety of other variables
+that might impact project proﬁtability. We brieﬂy
+describe these variables below.
+
+Contract type. There are two types of contracts
+commonly used in the Indian software services
+industry: time & material (T&M) and ﬁxed price.
+As explained earlier, the role of project manage-
+ment capabilities may differ in the two types of
+contracts. Also, these contracts may vary in terms
+of their inﬂuence on project proﬁtability. To con-
+trol for the obvious effect of contract
+type on
+proﬁtability we included a dummy variable, where
+T&M contract was coded 0 and ﬁxed price was
+coded 1. In terms of the risk–return trade-off ﬁxed
+price projects are expected to yield superior project
+proﬁtability, suggesting an expectation of a posi-
+tive sign on the coefﬁcient.
+
+Project size and complexity. We expect project
+size to affect proﬁtability. Though we have no
+priors on this, we might reasonably expect that the
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+size–proﬁtability relationship might be increasing
+below the minimum efﬁcient scale and decreasing
+above the maximum efﬁcient scale. We employed
+a measure of project size, called function points
+(FP), to reﬂect a composite measure of project size
+and complexity.12 We logged the FP measure in
+our estimation and, as a result, the coefﬁcient can
+be interpreted as elasticity with respect to project
+proﬁtability.
+
+Team size. We also expect team size to have an
+effect on project proﬁtability. As above, we expect
+project proﬁtability will increase with team size
+when the team is too small and overworked and
+decrease when the team size is large enough to
+create coordination problems. Team size is logged
+in our model and can be interpreted as elasticity
+with respect to proﬁtability.
+
+Person-months. The team size measure is imper-
+fect since there may be attrition13 during the project
+or some members may work only part-time. This
+will cause the team size measure to be overstated.
+A more precise measure of project size is person-
+months of labor. This accounts for both team
+member attrition and part-time manpower usage.
+Person-months are entered as logs and can be inter-
+preted as elasticity with respect to proﬁtability.
+
+Project duration. Duration is an important con-
+trol variable since longer projects are more prone
+to cost overruns, either due to forecasting difﬁ-
+culties or employee attrition. We measure project
+duration as the actual months taken for project
+completion. This measure is entered in logs and
+can also be interpreted as elasticity with respect to
+project proﬁtability.
+
+Industry domains. The vendor ﬁrm we studied
+executed projects for clients in multiple industries.
+Since competition and appropriability conditions
+can vary by industry and the vendor’s capabili-
+ties may not be entirely fungible across industry
+
+12 Earlier measures of size and complexity tended to just count
+the number of lines of code in software and use it as a proxy. The
+problem with this measure is that the number of lines of code
+for a given application varies directly by software platform. For
+example, for a given application, the number of lines of code
+in Cobol is several times greater than the number of lines of
+code in Java. The FP measure is designed to be independent of
+programming language (see Albrecht and Gaffney, 1983).
+13 Employee attrition is historically very high in this industry,
+ranging from 10 to 30 percent per year.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+38
+
+S. K. Ethiraj et al.
+
+domains, we include industry dummies to con-
+trol for industry-speciﬁc differences. We included
+three dummy variables for ﬁnancial services, man-
+ufacturing, and marketing industries. The omitted
+category was ‘other.’
+
+Development platforms. Proﬁtability can also
+depend on the software platform on which the
+software is coded. The vendor is likely to face
+lower costs on platforms on which it has executed
+a number of prior projects and is likely to incur
+substantial learning and start-up costs on newer
+platforms. To account for this, we included four
+dummy variables to distinguish between Windows
+NT, Mainframe, Unix, and Web-based platforms.
+The omitted category was ‘other.’
+
+Time. We control for time in all our models using
+year dummies. The year dummies reﬂect the par-
+ticular year in which each project was started.
+(We also tested models using year dummies based
+on project completion year and found that
+the
+results did not change substantively.) This control
+is necessary to capture the variance in the depen-
+dent variable due to exchange rate ﬂuctuations and
+inﬂation. The time dummies are also important
+to account for any variation in the proportion of
+onsite and offshore projects that the ﬁrm has done
+over time. No projects in our dataset were exclu-
+sively onsite or offshore. Unfortunately, the ﬁrm
+did not have data at the project level on the pro-
+portion of work done onsite and offshore. The ﬁrm
+conﬁrmed that there were no dramatic differences
+across projects on the mix of onsite and offshore
+work. However, there has been some change in this
+mix over time. Thus including the year dummies
+also helps control for the change in the proportion
+of onsite and offshore work over time.
+
+RESULTS
+
+Table 1 presents the descriptive statistics and cor-
+relation matrix of the variables employed in the
+estimation. From the correlation matrix it is clear
+that all the control variables are signiﬁcantly pos-
+itively related to project contribution. We also
+note that the relationship between the capability
+measures and project contribution is negative as
+expected, though only the process defects variable
+is statistically signiﬁcant.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Table 2 presents the coefﬁcient estimates from
+the ﬁxed-effects panel regression analysis. The sec-
+ond column lists the predicted sign on the key
+independent variables in the model. The column
+labeled Model 1 presents results with just the con-
+trol variables in the model. The R2 for this model is
+highly signiﬁcant and the control variables account
+for about 66 percent of the variance in the data.14
+The model also includes the client ﬁxed effects.
+As expected, the client ﬁxed effect is strongly sig-
+niﬁcant, providing some prima facie evidence for
+client-speciﬁc learning and/or switching cost asso-
+ciated with repeat projects for a given client.15
+
+In Model 2A we added the customer type vari-
+able to the analysis. The model is again highly
+signiﬁcant and its adjusted R2 increases to about
+0.67. The customer type measure sought to cap-
+ture aspects of client-speciﬁc capabilities, such as
+specialized investments and learning from repeated
+interactions with the client.16 Though the sign on
+the coefﬁcient was in the expected direction, it was
+not statistically signiﬁcant. Note, however, that the
+client ﬁxed effect continues to be highly signiﬁcant
+even in Model 2A.
+
+To investigate the possibility that the client ﬁxed
+effect might be capturing variance in the cus-
+tomer type variable, we re-estimated the model
+by dropping the client ﬁxed effect. Since drop-
+ping the ﬁxed effect can bias the estimates, we
+employed a generalized least squares (GLS) model
+that allowed us to correct for heteroskedasticity
+within projects executed for a given client. These
+results, presented in Model 2B, conﬁrm our conjec-
+ture. The coefﬁcient on the customer type variable
+is negative and statistically signiﬁcant, suggesting
+that project contribution, on average, is lower for
+new clients as compared with repeat clients. This
+provides some conﬁdence that client-speciﬁc capa-
+bilities are related to project contribution.
+
+14 We tested for decreasing returns to project and team size
+by introducing their quadratic powers. The coefﬁcients were
+non-signiﬁcant, suggesting that
+the constant returns to scale
+assumption might be reasonable for this dataset.
+15 To check for multicollinearity, we computed the variance inﬂa-
+tion factor (VIF) indices and found that the person–months
+variable had a VIF of 4.42, followed by team size (2.97), size
+FP (2.46), and duration (2.36). The mean VIF for all indepen-
+dent variables was 2.51, alleviating multicollinearity concerns
+(Chatterjee, Hadi, and Price, 2000).
+16 In the dataset used for empirical estimation there is no evi-
+dence that revenues from repeat clients were systematically
+higher than that of ﬁrst-time projects after controlling for project
+characteristics. Revenues tended to remain constant after adjust-
+ing for inﬂation and exchange rate changes.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+39
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+.
+
+D
+S
+
+.
+
+n
+a
+e
+
+M
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+
+)
+8
+3
+1
+=
+N
+
+(
+
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+f
+o
+
+x
+i
+r
+t
+a
+m
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+d
+n
+a
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+.
+
+1
+
+e
+l
+b
+a
+T
+
+6
+0
+0
+0
+
+.
+
+∗
+
+6
+5
+2
+3
+0
+2
+0
+0
+−
+−
+
+.
+
+.
+
+3
+5
+0
+8
+8
+8
+0
+0
+0
+0
+0
+0
+−
+−
+−
+
+.
+
+.
+
+.
+
+∗
+
+3
+4
+0
+0
+
+.
+
+4
+4
+5
+0
+
+.
+
+2
+5
+0
+0
+
+.
+
+8
+3
+1
+0
+−
+
+.
+
+∗
+
+∗
+
+∗
+
+2
+0
+2
+5
+4
+4
+0
+9
+1
+1
+1
+1
+0
+0
+0
+0
+−
+−
+−
+−
+
+.
+
+.
+
+.
+
+.
+
+3
+5
+3
+0
+
+.
+
+6
+0
+0
+0
+
+.
+
+5
+1
+1
+0
+
+.
+
+3
+1
+1
+0
+
+.
+
+7
+0
+0
+
+.
+
+0
+
+4
+3
+0
+0
+
+.
+
+8
+2
+0
+0
+−
+
+.
+
+∗
+
+∗
+
+∗
+
+7
+1
+1
+
+.
+
+7
+8
+0
+
+.
+
+0
+
+8
+4
+1
+0
+
+.
+
+5
+7
+3
+
+3
+2
+0
+0
+0
+−
+
+.
+
+.
+
+8
+2
+0
+
+.
+
+0
+
+6
+3
+1
+0
+
+.
+
+0
+−
+
+∗
+
+∗
+
+∗
+
+5
+9
+1
+
+6
+7
+2
+
+.
+
+.
+
+5
+4
+0
+
+2
+0
+0
+
+.
+
+.
+
+8
+3
+0
+
+9
+4
+2
+
+.
+
+.
+
+0
+0
+0
+0
+0
+0
+−
+−
+−
+−
+−
+
+1
+3
+0
+
+1
+3
+0
+
+.
+
+.
+
+0
+0
+−
+
+∗
+
+∗
+
+∗
+
+∗
+
+9
+3
+6
+
+5
+3
+2
+
+1
+1
+4
+
+.
+
+.
+
+.
+
+2
+5
+0
+
+3
+4
+0
+
+9
+5
+0
+
+6
+5
+1
+
+.
+
+.
+
+.
+
+.
+
+0
+
+0
+0
+0
+−
+−
+
+0
+0
+0
+−
+−
+
+1
+8
+0
+
+7
+7
+0
+
+.
+
+.
+
+0
+
+0
+
+∗
+
+∗
+
+∗
+
+∗
+
+1
+4
+7
+
+0
+7
+4
+
+7
+7
+1
+
+2
+0
+3
+
+.
+
+.
+
+.
+
+.
+
+0
+
+0
+
+0
+0
+−
+
+4
+3
+0
+0
+
+.
+
+3
+3
+0
+
+7
+1
+1
+
+3
+1
+0
+
+.
+
+0
+
+.
+
+.
+
+0
+0
+−
+
+6
+0
+0
+
+6
+5
+0
+0
+0
+−
+
+.
+
+.
+
+∗
+
+∗
+
+∗
+
+∗
+
+∗
+
+9
+7
+6
+
+0
+7
+6
+
+6
+3
+5
+
+9
+6
+1
+
+8
+3
+6
+
+6
+2
+0
+
+7
+3
+0
+
+0
+8
+0
+
+1
+8
+0
+
+.
+
+.
+
+.
+
+0
+
+0
+
+0
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+0
+0
+−
+
+0
+0
+0
+0
+−
+−
+−
+
+9
+0
+0
+
+4
+4
+0
+
+.
+
+.
+
+0
+0
+−
+
+∗
+
+∗
+
+∗
+
+∗
+
+∗
+
+∗
+
+9
+8
+4
+0
+
+.
+
+9
+0
+6
+0
+
+.
+
+5
+7
+6
+0
+
+.
+
+9
+5
+4
+0
+
+.
+
+9
+0
+7
+4
+8
+1
+0
+7
+5
+3
+3
+1
+0
+2
+1
+0
+0
+0
+0
+0
+−
+−
+−
+−
+
+.
+
+.
+
+.
+
+.
+
+.
+
+0
+2
+1
+0
+
+.
+
+9
+8
+0
+0
+
+.
+
+7
+2
+0
+0
+
+.
+
+4
+1
+3
+
+1
+9
+4
+
+.
+
+1
+
+.
+
+1
+
+8
+6
+6
+0
+
+.
+
+1
+4
+0
+1
+
+.
+
+1
+0
+6
+
+7
+6
+3
+
+0
+8
+9
+
+3
+9
+0
+
+4
+7
+1
+
+0
+9
+4
+
+9
+7
+4
+
+.
+
+0
+
+.
+
+.
+
+0
+
+1
+
+.
+
+.
+
+.
+
+.
+
+0
+
+1
+
+0
+
+1
+
+—
+
+—
+
+5
+7
+8
+
+.
+
+4
+
+8
+5
+4
+6
+
+.
+
+7
+1
+1
+2
+
+.
+
+7
+7
+0
+
+.
+
+3
+
+4
+8
+8
+4
+
+.
+
+9
+5
+1
+0
+
+.
+
+0
+3
+6
+0
+
+.
+
+8
+1
+0
+0
+
+.
+
+0
+5
+0
+0
+
+.
+
+9
+0
+6
+0
+
+.
+
+.
+
+0
+5
+0
+9
+9
+9
+1
+
+—
+
+—
+
+)
+s
+h
+t
+n
+o
+m
+-
+n
+o
+s
+r
+e
+P
+(
+
+)
+e
+z
+i
+s
+m
+a
+e
+T
+(
+
+)
+n
+o
+i
+t
+u
+b
+i
+r
+t
+n
+o
+C
+
+(
+
+)
+e
+z
+i
+S
+(
+
+g
+o
+L
+
+g
+o
+L
+
+g
+o
+L
+
+g
+o
+L
+
+g
+o
+L
+
+e
+g
+a
+p
+p
+i
+l
+s
+
+e
+l
+u
+d
+e
+h
+c
+S
+
+n
+u
+r
+r
+e
+v
+o
+
+t
+r
+o
+f
+f
+E
+
+e
+p
+y
+t
+
+t
+c
+a
+r
+t
+n
+o
+C
+
+)
+n
+o
+i
+t
+a
+r
+u
+D
+
+(
+
+e
+p
+y
+t
+
+r
+e
+m
+o
+t
+s
+u
+C
+
+s
+t
+c
+e
+f
+e
+d
+
+s
+s
+e
+c
+o
+r
+P
+
+6
+9
+9
+1
+1
+Y
+0
+0
+2
+∗
+Y
+∗
+
+e
+g
+a
+p
+p
+i
+l
+s
+
+e
+l
+u
+d
+e
+h
+c
+S
+
+n
+u
+r
+r
+e
+v
+o
+
+t
+r
+o
+f
+f
+E
+
+r
+a
+e
+Y
+
+.
+r
+e
+w
+o
+l
+
+r
+o
+
+l
+e
+v
+e
+l
+
+5
+0
+
+.
+
+0
+
+t
+a
+
+t
+n
+a
+c
+ﬁ
+i
+n
+g
+i
+s
+
+s
+t
+n
+e
+i
+c
+ﬁ
+f
+e
+o
+c
+
+e
+t
+a
+c
+i
+d
+n
+i
+
+s
+k
+s
+i
+r
+e
+t
+s
+A
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+S. K. Ethiraj et al.
+
+40
+Table 2. Regression estimates (N = 138)
+
+Independent variables
+
+Customer type
+
+Process defects
+
+Schedule slippage
+
+Effort overrun
+Schedule slippage ∗ Y1996
+Effort overrun ∗ Y2001
+
+Pred.
+sign
+
+—
+
+—
+
+—
+
+—
+
+—
++
+
+Controls
+Contract type
+
+Project size (FP)a
+
+Team sizea
+
+Person monthsa
+
+Durationa
+
+Domain controls
+Platform controls
+Year effects
+Constant
+
+Adjusted R2
+N
+F -value
+Wald Chi-Sq.
+F -test for client ﬁxed effects
+
+Dependent variable: log (Contribution)
+
+Model 1 Model 2A Model 2B Model 3A Model 3B
+
+Model 4
+
+−0.841
+(0.538)
+
+−0.154∗∗ −0.687
+(0.531)
+(0.055)
+−0.037
+(−0.046)
+−3.493∗
+(1.582)
+−0.197∗
+(0.087)
+
+−0.309
+(0.202)
+0.108
+(0.096)
+0.057
+(0.272)
+0.675∗∗∗
+(0.175)
+0.233
+(0.23)
+Sig.
+Sig.
+Sig.
+1.459
+(1.063)
+0.66
+138
+11.04∗∗∗
+—
+2.06∗∗∗
+
+−0.289
+(0.201)
+0.103
+(0.095)
+0.074
+(0.282)
+0.602∗∗∗
+(0.179)
+0.258
+(0.228)
+Sig.
+Sig.
+Sig.
+1.033
+(0.982)
+0.672
+138
+10.51∗∗∗
+—
+1.82∗∗∗
+
+−0.463∗∗∗ −0.321†
+(0.193)
+(0.071)
+0.059
+0.092
+(0.111)
+(0.037)
+0.055
+0.041
+(0.088)
+(0.281)
+0.517∗∗∗
+0.731∗∗∗
+(0.071)
+(0.179)
+0.198∗
+0.363†
+(0.099)
+(0.221)
+Sig.
+Sig.
+Sig.
+1.985∗∗∗
+(0.366)
+—
+
+Sig.
+Sig.
+Sig.
+0.976
+(0.981)
+0.704
+9.50∗∗∗
+—
+1.78∗∗
+
+138
+
+138
+1641.72∗∗∗
+
+—
+
+—
+
+−0.118† −0.108
+(0.191)
+(0.07)
+−0.049∗∗ −0.038
+(−0.014)
+(−0.042)
+−2.734∗∗ −4.790∗∗∗
+(0.486) −0.823
+−0.166∗ −0.422∗∗∗
+(0.094)
+(0.037)
+7.355∗∗∗
+(1.873)
+0.297∗∗
+(0.118)
+−0.538∗∗∗ −0.512∗∗∗
+(0.071)
+0.012
+(0.037)
+0.237
+(0.085)
+0.598∗∗∗
+(0.062)
+0.250∗∗
+(0.079)
+Sig.
+Sig.
+Sig.
+1.712∗∗∗
+(0.291)
+—
+
+(0.14)
+0.119
+(0.083)
+0.118
+(0.189)
+0.477∗∗∗
+(0.137)
+0.278†
+(0.167)
+Sig.
+Sig.
+Sig.
+1.550∗
+(0.728)
+0.719
+8.82∗∗∗
+—
+1.72∗∗
+
+138
+
+—
+
+138
+2062.54∗∗∗
+
+—
+
+a Variables are logged.
+
+∗∗∗
+
+p ≤ 0.001;
+
+∗∗
+
+p ≤ 0.01;
+
+∗
+
+p ≤ 0.05; † p ≤ 0.10. Standard errors are reported in parentheses.
+
+In Model 3A, we included variables for the
+three project management capabilities. The over-
+all model continues to be signiﬁcant and accounts
+for about 70 percent of variance in the data.
+We ﬁnd that schedule slippage and effort over-
+run respectively are signiﬁcantly negatively related
+to project contribution, suggesting that improve-
+ment in project management capabilities is rent-
+generating at
+level. The coefﬁcient
+for in-process defects is not statistically signiﬁ-
+cant though its sign is in the expected direction.17
+We explored this result in discussions with project
+
+the project
+
+17 One reviewer suggested that we enter in-process defects as a
+binary variable given that the modal value is zero. When entered
+as a binary (1 or 0) variable, in-process defects was marginally
+signiﬁcant (at the 10% level).
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+managers. They reasoned that the identiﬁcation of
+defects during project execution is indeed a capa-
+bility since defects can be ﬁxed at
+lower cost
+during execution than if they were to be ﬁxed
+after the project was completed. In other words,
+higher values on the in-process defects measure
+might indicate better project management skills.
+On the ﬂip side, they also pointed out that an
+increase in the number of in-process defects tends
+to disrupt delivery schedules and negatively impact
+project proﬁtability. In sum, it seems that while in-
+process defects do reﬂect detection capability, they
+also expose some weakness in software design and
+execution capabilities; namely why these defects
+arose in the ﬁrst place. In the long run, we expect
+that defect detection capability might be positively
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+41
+
+related to project contribution, especially with
+repeat projects. However, the need to ﬁx defects
+during project execution can disrupt project sched-
+ules and increase project costs,
+leading to the
+observed result.
+
+In Model 3A, we also ﬁnd that the customer type
+variable remains non-signiﬁcant when the project
+management capabilities measures are included
+along with the client ﬁxed effects. Therefore, we
+again re-estimated the model by dropping the client
+ﬁxed effects. Model 3B reports the results of the
+GLS estimation with the correction for panel het-
+eroskedasticity. Not surprisingly, customer type
+though only marginally (p ≤
+turns signiﬁcant,
+0.09). The project management capabilities vari-
+ables, however, continue to be robustly signiﬁ-
+cant in the predicted direction. This result seems
+to suggest that the project management capabili-
+ties variables share some common variance with
+the client-speciﬁc capabilities measure. This runs
+counter to our hypothesis that they are each dis-
+tinct sets of capabilities. We discussed this result
+with industry experts, who suggested that by work-
+ing with a given client over time (i.e., repeat
+projects) the vendor ﬁrm gains a better understand-
+ing of the client’s needs and expectations. This, in
+turn, can help reduce effort overrun and sched-
+ule slippage accounting for the observed result.
+The managers in the software ﬁrm we studied
+tended to agree with this possible interpretation.
+Finally, we also performed a joint signiﬁcance test
+of the project management capabilities. We found
+that
+the three variables were jointly signiﬁcant
+(F = 3.23; p ≤ 0.01), reconﬁrming the indepen-
+dent, additional signiﬁcance of these variables in
+inﬂuencing project contribution.
+
+Models 3A and 3B suggest that decreases in
+schedule slippage and effort overrun respectively
+contribute to increases in project contribution. We
+further analyzed whether and how project man-
+agement capabilities evolved over time and how
+that affects contribution.18 We included an interac-
+tion term of schedule slippage with 1996 (the ﬁrst
+year of data) and effort overrun with 2001 (the
+last year of data).19 These results are reported in
+Model 4. The overall model continues to be highly
+
+18 Ideally we would have liked to examine the evolution of
+client-speciﬁc capability over time. It was not possible since
+client-speciﬁc capability is measured as a dummy variable, thus
+precluding an interaction term with time.
+19 We did not include an interaction term with capabilities and
+time as a continuous measure since this implies the assumption
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+signiﬁcant, accounting for about 72 percent of the
+variance in the data. As expected, we ﬁnd that
+the extent of effort overrun on projects is declin-
+ing over the 1996–2001 period and this decline
+is positively related to project performance. Con-
+trary to expectation, we found that schedule slip-
+page increased marginally during the 1996–2001
+period, which adversely affected project contribu-
+tion in the later years.
+
+To understand this result, we examined the data
+more closely and found three possible reasons
+that might explain it. First, the vendor steadily
+increased the number of ﬁxed price projects over
+the years and did not manage this transition well.
+As observed in our data, ﬁxed price projects
+exhibit greater schedule slippage than T&M pro-
+jects. This is also corroborated in the regres-
+sion results, where we ﬁnd T&M projects, con-
+trary to expectations, to be more proﬁtable than
+ﬁxed price projects. Second,
+in the ﬁxed price
+projects we found a greater difference between
+the team size and person-months measures. While
+team size reﬂects the maximum number of per-
+sons who worked on a given project, the person-
+months measure captures actual labor input in the
+project. At one extreme, if all members of the
+team worked full
+the
+team size and person-months would be identical.
+The divergence in the two measures appears when
+there is high turnover in the project teams. We
+found that the difference between the two mea-
+sures increased over the years, suggesting that an
+increase in project team turnover might account
+for the increase in schedule slippage. During the
+1996–2001 period, the attrition due to employee
+resignations ﬂuctuated between 9 and 16 percent.
+Increase in turnover directly contributes to sched-
+ule slippages since there is a set-up cost when
+new employees enter a project mid-way. Our
+discussions with company executives revealed a
+third reason for increase in schedule slippage:
+
+time on a given project
+
+that capabilities change linearly over time. We found no theo-
+retical or empirical basis for such an assumption. Our results,
+however, are robust to including year as a continuous variable.
+However, we were unable to include both interactions in the
+same model. The high correlations between the two interac-
+tion terms created estimation difﬁculties. Similarly, including
+an interaction effect of both capability measures with the same
+year (i.e., 1996 or 2001) created estimation problems since they
+were highly correlated. We switched the years to avoid this prob-
+lem. For completeness, an interaction of schedule slippage with
+2001 is negative and signiﬁcant, which is consistent with our
+interpretation.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+42
+
+S. K. Ethiraj et al.
+
+an increase in e-commerce-related projects in the
+post-1996 period. The e-commerce clients, in their
+effort to speedily set up their Web infrastructure,
+set aggressive project completion schedules that
+were difﬁcult for the company to meet. One or
+more of these three explanations account for the
+observed increase in schedule slippage that in turn
+contributed to reduced project proﬁtability.
+
+DISCUSSION
+
+We sought to examine two interrelated research
+questions in this paper: Where do capabilities
+come from and how do they affect ﬁrm perfor-
+mance? We made three main arguments in address-
+ing these questions. First, we suggested that capa-
+bilities involve the deployment of resources and
+they evolve over time through the joint effects
+of deliberate, persistent ﬁrm-speciﬁc investments
+and learning-by-doing. Second, we proposed that
+capabilities are context-speciﬁc and, therefore, we
+need to conceptualize and study them accordingly.
+In this paper, we looked at the software services
+industry and identiﬁed two important capabili-
+ties at the project level: client-speciﬁc capabilities
+and project management capabilities. Third, we
+argued that improvement in capabilities will result
+in improved project proﬁtability and that different
+capabilities yield different marginal beneﬁts.
+
+Our results are broadly supportive of our hy-
+potheses. In the software services industry we ﬁnd
+that capabilities contribute positively to project
+performance. The empirical evidence for the im-
+portance of client-speciﬁc capabilities was only
+modest. In models that included client ﬁxed effects
+we did not ﬁnd support for the effect of client-
+speciﬁc capabilities on contribution. However, in
+models that did not include the client ﬁxed effect,
+we found that projects for new clients, on aver-
+age, yield approximately 2 percent lower contri-
+bution than projects for repeat clients. In models
+including the client ﬁxed effect, it appears that the
+dummy variable capturing repeat or new clients is
+too coarse a measure to adequately reﬂect client-
+speciﬁc capabilities. An ideal measure of client-
+speciﬁc capabilities is a historical count of all the
+projects executed for a client (not just a count
+of projects within the sample period). Unfortu-
+nately, the ﬁrm was unable to provide these data.
+Nevertheless, the signiﬁcance of the client-speciﬁc
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+capabilities measure in the GLS model is indica-
+tive and might be useful to examine carefully in
+future research. In addition, we believe that the
+client ﬁxed effect might be also picking up some
+variance in the learning associated with repeated
+interaction with clients (Anand and Khanna, 2000).
+Project management capabilities were gener-
+ally predictive of higher project contribution.
+Two of the three measures of project manage-
+ment capabilities were statistically signiﬁcant. A
+1 percent increase in schedule slippage resulted
+in a 0.6 percent decline in project contribution.20
+A 1 percent
+increase in effort overrun causes
+a 0.1 percent decline in project contribution. It
+seems that
+the effect of effort overruns just
+increases labor cost and causes less damage to
+project contribution, whereas increases in sched-
+ule slippage triggers two independent and addi-
+tive increases in cost: labor costs and contractual
+penalties for late completion. Our results suggest
+that although both types of capabilities, namely
+schedule estimation and management, and effort
+estimation are signiﬁcantly related to performance,
+the former makes a higher marginal contribution
+to performance. Therefore, our results suggest that
+ﬁrms may be better off erring on the side of cau-
+tion and overstafﬁng their project teams rather than
+facing the prospect of a schedule slippage.
+
+Finally, we found some evidence for the evo-
+lution of capabilities over time and its impact on
+project contribution. We found that a tighter con-
+trol of effort overrun in projects in 2001 resulted
+in better project contribution as compared with
+projects in 1996–2000. On the other hand, we
+found that an increase in schedule slippage from
+1997 to 2001 has had a signiﬁcant negative effect
+on project contribution.21 This raises the value of
+improving the capability to better forecast sched-
+ules and stick to them.
+
+We believe our study of ﬁrm capabilities and
+their effects on performance in the software
+services industry raises several important issues.
+First, our study has sought to make the case that
+identifying the capabilities that are the sources of
+performance differences need to be contextually
+
+20 The semi-elasticities for the coefﬁcients on the capabilities
+= ∂F (X, β)/∂Xi βi with all the
+measures were computed as mi
+variables ﬁxed at their means.
+21 We avoid calculating semi-elasticities for the interaction terms.
+The typically high correlations between the main effect and the
+interaction effect result in imprecisely estimated coefﬁcients.
+As a result, computing accurate economic signiﬁcance of these
+coefﬁcients becomes difﬁcult.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+43
+
+It
+
+that
+
+seems
+
+grounded. Each industry is driven by its own
+demand- and supply-side economics, which also
+changes over time. It is important
+to take this
+into account while identifying and measuring
+capabilities.
+there are indeed
+signiﬁcant differences in the way the same ﬁrm
+deploys its resources, both across projects and over
+time. Holding project
+inputs and characteristics
+constant we found that an improvement in project
+management capabilities
+resulted in increases
+in project contribution. Put simply, our results
+demonstrate that project proﬁtability differences
+could be a function of differences in the way the
+same resources are deployed by the ﬁrm. Also,
+we found some evidence that an improvement
+in the productive deployment of resources over
+time yielded increases in project proﬁtability. This
+provides reason to take more seriously Penrose’s
+(1959) key insight that differential ﬁrm capabilities
+in productively deploying resources lie at the heart
+of ﬁrm performance differences.
+
+Second, it appears that measuring capabilities at
+more micro levels within a ﬁrm is quite promis-
+ing. It not only helps better estimate their eco-
+nomic signiﬁcance but also provides clear guide-
+lines to the ﬁrm on where and how it needs
+to improve its capabilities. Measures of capabil-
+ities at the aggregate ﬁrm level, while useful in
+identifying between-ﬁrm differences, provide lit-
+tle understanding of the micro-foundations of such
+inter-ﬁrm differences. As our study demonstrates,
+measurement of ﬁrm capabilities at
+the micro-
+level holds promise of enhancing our understand-
+ing ‘how’ and ‘why’ some ﬁrms perform better
+than others.
+
+Lastly, our analyses also show that the marginal
+returns to different capabilities are not uniform.
+Given scarce managerial resources, it is useful for
+ﬁrms ﬁrst to identify the capabilities that provide
+the highest marginal returns to performance and
+then direct the bulk of its resources to acquir-
+ing them. Building capabilities requires signiﬁ-
+cant and, often, irreversible commitment of real
+resources, both ﬁnancial and managerial. Deci-
+sions about which capabilities to acquire or build
+require due diligence in the analysis of costs and
+beneﬁts. Moreover, it is likely that different ﬁrms
+will face different costs and beneﬁts of acquiring
+the same capabilities given the interdependencies
+with various other organizational choices (Ethi-
+raj and Levinthal, 2004). For instance, for a ﬁrm
+that engages in relatively few repeat projects, the
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+marginal beneﬁt of client-speciﬁc capabilities is
+likely to be signiﬁcantly less than the marginal
+beneﬁt of project management capabilities (this
+would generally be the case for smaller or newer
+ﬁrms who are likely to have fewer repeat clients
+in their early years). The converse is likely to be
+true in the case of a ﬁrm that engages in a large
+number of repeat projects. In fact, the latter set of
+ﬁrms could also explore the feasibility of investing
+in creating deliberate and institutionalized mecha-
+nisms to build their client-speciﬁc capabilities than
+leaving it to tacit
+learning-by-doing. Our inter-
+views seem to support this contention. Finally, in
+our dataset, if we assume that the marginal cost
+of acquiring different project management capa-
+bilities is the same, our results suggest that the
+ﬁrm would be well advised to expend resources
+to improve schedule estimation and management
+capabilities so as to tightly manage schedule slip-
+pages. Improvements in this capability promise to
+yield higher marginal improvement in project con-
+tribution performance.
+
+LIMITATIONS AND DIRECTIONS FOR
+FUTURE RESEARCH
+
+In this paper we attempted to uncover the micro-
+foundations of capabilities and how they affect per-
+formance. Our study, like any study, suffers from
+some limitations. First, it is based on a single ser-
+vice industry with its own peculiar characteristics.
+It is not clear to what extent the substantive results
+of this paper are generalizable across industries. At
+the same time, as we have asserted above, capa-
+bilities are usually context-speciﬁc, i.e., industry-
+speciﬁc, and capabilities that are generalizable
+across industries are likely to be overly abstract
+and less useful as a guide to managerial action. A
+second limitation is that our study is based on data
+from a single ﬁrm. Ideally, we would have liked
+to include data from a few more ﬁrms. However,
+getting access to such detailed data of great com-
+petitive signiﬁcance is a difﬁcult challenge. In our
+case, this involved several years of data collection,
+ongoing negotiations with the ﬁrm concerned, and
+the signing of non-disclosure agreements. Third,
+since our analysis is based on data from only one
+ﬁrm we could not make any explicit inter-ﬁrm
+comparisons of competitive advantage. However,
+since the ﬁrm is among the top ﬁve ﬁrms in the
+industry on several dimensions such as growth
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+44
+
+S. K. Ethiraj et al.
+
+and total revenues it gives us some conﬁdence for
+drawing the capabilities–performance link.
+
+In spite of some of the data limitations out-
+lined above, some of the unique aspects of our
+dataset outweigh some of these disadvantages.
+One, the data on resource inputs (team size, experi-
+ence, etc.) and capabilities allow us to empirically
+measure Penrose’s (1959) key distinction between
+available resources (factor inputs such as labor)
+and how they are deployed (i.e., productivity of
+resources). Two, the data on project-level contri-
+bution suffer from relatively fewer problems asso-
+ciated with aggregate accounting data. Finally, our
+design allowed us to combine the depth and rich-
+ness of longitudinal, single-ﬁrm case studies with
+the rigor of large-sample empirical estimation.
+
+In conclusion, the paper attempted to take an
+initial step in teasing out the importance of capabil-
+ities and estimating their impact on performance.
+We hope that the spirit of this paper in advocating
+the importance of contextually grounded studies
+of ﬁrm capabilities will spur further research along
+these lines in other industries. The shift in research
+focus from whether or not capabilities matter to
+‘what’ capabilities matter and ‘how’ they matter
+promises to enrich our understanding of ﬁrm prof-
+itability differences.
+
+ACKNOWLEDGEMENTS
+
+We thank Rich Makadok, Phanish Puranam, and
+an anonymous referee for helpful comments on
+an earlier version of this paper. Errors and omis-
+sions remain our responsibility. Research funding
+for this project from the Mack Center for Tech-
+nological Innovation at the Wharton School and
+the William Davidson Institute and Mike and Mary
+Kay Hallman Fellowship at the Michigan Business
+School is gratefully acknowledged.
+
+REFERENCES
+
+Albrecht AJ, Gaffney JE. 1983. Software function, source
+lines of code, and development effort prediction: a
+software science validation. IEEE Transactions on
+Software Engineering SE-9(6): 639–648.
+
+Amit R, Schoemaker PJH. 1993. Strategic assets and
+organizational rent. Strategic Management Journal
+14(1): 33–46.
+
+Anand BN, Khanna T. 2000. Do ﬁrms learn to create
+value? The case of alliances. Strategic Management
+Journal 21(3): 295–315.
+
+Andrews K. 1971. The concept of Corporate Strategy.
+
+Richard D. Irwin: Homewood, IL.
+
+Arora A, Arunachalam VS, Asundi J, Fernandes R.
+2001. The Indian software services industry. Research
+Policy 30(8): 1267–1287.
+
+Banerjee AV, Duﬂo E. 2000. Reputation effects and the
+limits of contracting: a study of the Indian software
+industry. Quarterly Journal of Economics 115(3):
+989–1017.
+
+Barney J. 1991. Firm resources and sustained competitive
+
+advantage. Journal of Management 17(1): 99–120.
+
+Brush TH, Artz KW. 1999. Toward a
+the impact of
+
+contingent
+resource-based theory:
+information
+asymmetry on the value of capabilities in veterinary
+20(3):
+medicine. Strategic Management Journal
+223–250.
+
+Chatterjee S, Hadi AS, Price B.
+
+2000. Regression
+
+Analysis by Example (3rd edn). Wiley: New York.
+
+Cohen WM, Levinthal DA. 1990. Absorptive capacity:
+a new perspective on learning and innovation.
+Administrative Science Quarterly 35(1): 128–152.
+
+Collis DJ. 1996. Organizational capability as a source
+of proﬁt. In Organizational Learning and Competitive
+Advantage, Moingeon B, Edmondson A (eds). Sage:
+London; 139–163.
+
+Dierickx I, Cool K. 1989. Asset stock accumulation and
+sustainability of competitive advantage. Management
+Science 35(12): 1504–1512.
+
+Dosi G, Nelson RR, Winter SG. 2000.
+
+Introduction.
+In The Nature and Dynamics of Organizational
+Capabilities, Dosi G, Nelson RR, Winter SG (eds).
+Oxford University Press: New York; 1–22.
+
+Ethiraj S, Levinthal DA. 2004. Modularity and innova-
+tion in complex systems. Management Science 50(2):
+159–173.
+
+Gopal A, Sivaramakrishnan K, Krishnan MS, Mukhopad-
+hyay T. 2003. Determinants of contract choice in
+offshore software development. Management Science
+49(12): 1671–1683.
+
+Grant RM. 1991. The resource-based theory of competi-
+tive advantage: implications for strategy formulation.
+California Management Review 33(3): 114–135.
+
+Greene WH. 1997. Econometric Analysis
+
+(3rd edn).
+
+Prentice-Hall: Upper Saddle River, NJ.
+
+Helfat CE. 1994. Evolutionary trajectories in petroleum
+ﬁrm R&D. Management Science 40(12): 1720–1747.
+Henderson RM, Cockburn I. 1994. Measuring com-
+petence? Exploring ﬁrm effects in pharmaceutical
+research. Strategic Management Journal, Winter Spe-
+cial Issue 15: 63–84.
+
+Herbsleb J, Zubrow D, Goldenson D, Hayes W, Paulk M.
+1997. Software quality and the capability maturity
+model. Communications of the ACM 40(6): 30–40.
+
+Humphrey WS. 1989. Managing the Software Process.
+
+Addison-Wesley: Cambridge, MA.
+
+Iansiti M, Khanna T. 1995. Technological evolution,
+system architecture and the obsolescence of ﬁrm
+capabilities. Industrial and Corporate Change 4(2):
+333–361.
+
+Jalote P. 1997. An Integrated Approach to Software
+
+Engineering. Springer-Verlag: New York.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+
+
+Where Do Capabilities Come From and How Do They Matter?
+
+45
+
+Jones C. 1997. Software Quality: Analysis and Guidelines
+for Success. International Thomson Computer Press:
+Boston, MA.
+
+Kale P, Dyer JH, Singh H. 2002. Alliance capability,
+stock market returns and long-term alliance function:
+the role of the alliance function. Strategic Management
+Journal 23(8): 747–767.
+
+Klein B, Crawford RG, Alchian AA. 1978. Vertical
+integration, appropriable rents, and the competitive
+contracting process. Journal of Law and Economics
+21(2): 297–326.
+
+Krishnan MS. 1996. Cost and quality considerations
+in software product management. Doctoral disserta-
+tion, Graduate School of Industrial Administration,
+Carnegie Mellon University, Pittsburgh, PA.
+
+Langlois RN. 1992. Transaction cost economics in real
+time. Industrial and Corporate Change 1(1): 99–127.
+Levinthal DA. 1997. Adaptation on rugged landscapes.
+
+Management Science 43(7): 934–950.
+
+Makadok R. 2001. Toward a synthesis of the resource-
+based and dynamic-capability views of rent creation.
+Strategic Management Journal 22(5): 387–401.
+
+Makadok R, Walker G. 2000. Identifying a distinctive
+competence:
+the money
+fund industry. Strategic Management Journal 21(8):
+853–864.
+
+forecasting
+
+ability
+
+in
+
+Market-Guide. 2002. Software and programming compa-
+
+nies list. http://biz.yahoo.com/p/softwrttmd.html.
+
+McGrath RG, MacMillan IC, Venkataraman S. 1995.
+Deﬁning and developing a competence: a strategic
+process paradigm. Strategic Management Journal
+16(4): 251–275.
+
+Nasscom. 2001. The Indian Software Industry Report.
+
+Nasscom: New Delhi.
+
+Nelson RR. 1991. Why do ﬁrms differ, and how does
+it matter? Strategic Management Journal, Winter
+Special Issue 12: 61–74.
+
+Nelson RR, Winter S. 1982. An Evolutionary Theory of
+
+Economic Change. Belknap Press: Cambridge, MA.
+
+Paulk MC, Curtis B, Chrissin MB, Weber CV. 1993.
+IEEE
+
+Capability Maturity Model, Version 1.1.
+Software 10(4): 18–27.
+
+Penrose ET. 1959. The Theory of the Growth of the Firm.
+
+Wiley: New York.
+
+Peteraf MA. 1993. The cornerstones of competitive
+advantage: a resource-based view. Strategic Manage-
+ment Journal 14(3): 179–191.
+
+Porter ME. 1991. Towards a dynamic theory of strategy.
+Strategic Management Journal, Winter Special Issue
+12: 95–117.
+
+Rosenbloom RS. 2000. Leadership, capabilities, and
+technological change:
+the transformation of NCR
+in the electronic era. Strategic Management Journal
+21(10–11): 1083–1103.
+
+Rumelt RP. 1984. Toward a strategic theory of
+
+the
+ﬁrm. In Competitive Strategic Management, Lamb RB
+(ed.). Prentice-Hall: Englewood Cliffs, NJ; 556–570.
+Rumelt RP. 1987. Theory, strategy, and entrepreneurship.
+In The Competitive Challenge, Teece D (ed.).
+Ballinger: Cambridge, MA; 137–158.
+
+Schroeder RG, Bates KA, Junttila MA. 2002. A resource-
+based view of manufacturing strategy and the
+relationship to manufacturing performance. Strategic
+Management Journal 23(2): 105–117.
+
+Selznick P. 1957. Leadership in Administration: A
+Sociological Interpretation. Harper & Row: New
+York.
+
+Silverman BS.
+
+1999. Technological
+
+and
+toward
+the direction of corporate diversiﬁcation:
+an integration of
+the resource-based view and
+transaction cost economics. Management Science
+45(8): 1109–1124.
+
+resources
+
+Wernerfelt B. 1984. The resource-based view of the ﬁrm.
+
+Strategic Management Journal 5(2): 171–180.
+
+Whang S. 1995. Market provision of custom software:
+learning effects and low balling. Management Science
+41(8): 1343–1352.
+
+Winter S. 1990. Survival, selection, and inheritance in
+evolutionary theories of organization.
+In Organi-
+zational Evolution: New Directions, Singh JV (ed).
+Sage: New York; 269–297.
+
+Winter SG. 1995. The four Rs of proﬁtability: rents,
+resources, routines, and replication. In Resource-Based
+and Evolutionary Theories of the Firm: Towards a
+Synthesis, Montgomery CA (ed). Kluwer Academic:
+Boston, MA; 147–178.
+
+Wooldridge JM. 2002. Econometric Analysis of Panel
+
+Data. MIT Press: Cambridge, MA.
+
+Zollo M, Winter S. 2002. Deliberate
+
+learning and
+the evolution of dynamic capabilities. Organization
+Science 13(3): 339–351.
+
+Copyright  2004 John Wiley & Sons, Ltd.
+
+Strat. Mgmt. J., 26: 25–45 (2005)
+

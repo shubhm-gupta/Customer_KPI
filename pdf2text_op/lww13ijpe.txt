@@ -1,0 +1,2171 @@
+Int. J. Production Economics 146 (2013) 106–117
+
+Contents lists available at ScienceDirect
+
+Int. J. Production Economics
+
+journal homepage: www.elsevier.com/locate/ijpe
+
+Did reverse logistics practices hit the triple bottom line
+of Chinese manufacturers?
+Kee-hung Lai a,1, Sarah J. Wu b,2, Christina W.Y. Wong c,n
+a Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+b Gabelli School of Business, Fordham University, Bronx, NY 10458, USA
+c Business Division, Institute of Textiles and Clothing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 13 February 2012
+Accepted 3 March 2013
+Available online 14 March 2013
+
+Keywords:
+Triple bottom line
+Manufacturing
+China
+Reverse logistics
+
+Reverse logistics (RL) practices represent an important and emerging trend in China's manufacturing
+practices. An increasing number of Chinese manufacturers have integrated RL practices in their
+operations to develop sustainable competitive advantage. There are six broad aspects of practicing RL
+which include waste management, recycling, reuse, reprocessing, materials recovery, and design for RL.
+The literature remains unclear, in particular Chinese manufacturing context, as to how these RL practices
+are related to organizational bottom line with respect to operational, ﬁnancial, and social performance
+outcomes. Using survey data collected from Chinese export-oriented manufacturers, we applied
+seemingly unrelated regressions to determine if these six RL practices contribute to these three
+performance parameters simultaneously. The theory of production frontier is used to characterize the
+RL practices adoption and the performance implications. Our results indicate that the adoption of RL
+practices by Chinese manufacturers generates substantial environmental and ﬁnancial gains, but not
+social beneﬁts. This study extends the frontier of managerial knowledge for Chinese manufacturers by
+highlighting the emerging trends in RL practices and providing evidence on the business value of
+adopting RL practices.
+
+& 2013 Elsevier B.V. All rights reserved.
+
+1.
+
+Introduction
+
+China's success in manufacturing was primarily based on low
+labor cost. This cost advantage attracts companies from developed
+countries to relocate their production base to China or outsource
+production function to their Chinese manufacturer counterparts.
+After three decade of development based on low cost structure,
+there comes to a concern on the sustainability of such manufactur-
+ing practice in China. The rapid economic growth in the country will
+eventually lead Chinese manufacturers to lose their cost advantages
+as what was experienced in Hong Kong, Taiwan, Singapore, and
+South Korea.
+
+The country is also experiencing environmental degradation at
+catastrophic level due to industrial pollution where manufacturing
+is a major source and a solution is urgently needed. The increasing
+resources depletion together with the detrimental environmental
+burden due to productive activities have pressurized the Chinese
+
+n Corresponding author. Tel.: þ852 2766 6415.
+E-mail addresses: mike.lai@polyu.edu.hk (K.-h. Lai),
+
+jiwu@fordham.edu (S.J. Wu), tcchris@polyu.edu.hk,
+tcchris@inet.polyu.edu.hk (C.W.Y. Wong).
+
+1 Tel.: þ852 2766 7920.
+2 Tel.: þ1 718 817 4156; fax: þ1 718 817 5544.
+
+0925-5273/$ - see front matter & 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.ijpe.2013.03.005
+
+government to develop and implement stricter regulatory policies
+such as the Chinese version of RoHS (i.e., Restriction of Hazardous
+Substances). These, in turn, have prompted many Chinese manu-
+facturers to recognize the importance of ecological modernization,
+which stresses implementing innovative management practices to
+mitigate the environmental damage from the pursuit of proﬁtable
+growth (Lai et al., 2012).
+
+Serving as the global factory, Chinese manufacturers are increas-
+ingly expected to respond to the environmental quest of the interna-
+tional community to mitigate the damages caused by their produced
+items to other countries through better life cycle management of their
+merchandises from sourcing and manufacturing to distribution and
+disposal. In particular, export-oriented manufactures in China are
+encountering various institutional and operational pressures that
+prompt their adoption of green practices. For instance, regulations
+on environmental protection such as the Waste Electrical and Electro-
+nic Equipment (WEEE) and the End of life Vehicle (ELV) Directive in
+Europe as well as the local Cleaner Production Promotion Law and the
+Saving Energy Law are pressuring Chinese manufacturers to become
+more accountable for residual and ﬁnal products, long after the ﬁnal
+product is sold and in the hands of the customers. This regulatory
+pressure on environmental protection is particularly salient for
+Chinese manufacturers seeking to compete in the global market.
+The different stakeholders in the international community including
+
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+107
+
+customers, suppliers, and environmental groups expect manufacturers
+to reduce harms caused to the natural environmental by their
+products and operations.
+
+To tackle all these challenges and pursue sustainable develop-
+ment, Chinese manufacturers need to build other competitive
+advantages in their operations system. Increasingly, they realize
+that a production system should not be a one-way system; rather
+it is a two-way closed loop. In fact, in many instances, manufac-
+turers need to handle returned products which can be resulted
+from damaged or defective shipments, incorrect delivery, over-
+stocks, and customer return due to dissatisfaction. Reverse logis-
+tics (RL) is one of the innovative practices helpful for Chinese
+manufacturers to improve business performance while preserving
+the environment in the locality and the global community. It is a
+viable environmentally friendly management approach helpful for
+Chinese manufacturers to better utilize resources, reduce wastes,
+improve efﬁciency, and meet the social expectation for environ-
+mental conservation (Lai and Wong, 2012).
+
+One example to illustrate RL practices in Chinese manufacturing is
+the Haier group, a multinational consumer electronics and home
+appliances enterprise located in Qingdao. This company is proactive
+in various environmental management initiatives, for instance, green
+product development. With government's support, Haier launched a
+project to demonstrate how to handle end-of-life product manage-
+ment issues, including a site with an annual capacity to process
+200,000 used electronic products (Park et al., 2010). In 2007, a total
+of RMB $80 million (approx. US$12 million) was invested to
+construct the Haier recycling centre in Qingdao where 15% of the
+cost contributed by the government for this project. It was estimated
+that about 200,000 used home appliances, including TV sets, air
+conditioners and washing machines can be recycled per year in this
+center (Yang et al., 2008). This recycling center of Haier is classiﬁed as
+a “National-level wasted home appliances recycling demonstration
+site”(
+) and is the
+ﬁrst
+“Environmental protection education demonstration site”
+(
+
+) of China.
+
+Theoretically, adopting and implementing RL represent an
+attempt to develop new and innovative ways for environmental
+protection without compromising their capability to compete.
+Though anecdotal stories like Haier Group are encouraging, many
+Chinese manufacturers remain hesitant in investment decision on
+RL. One possible obstacle to diffuse RL among Chinese manufac-
+turers can be uncertainty on its triple bottom-line beneﬁts. The
+triple bottom-line essentially captures the intersection of social,
+economic, environmental, and social goals from the microeco-
+nomics standpoint. This study targets to evaluate how far Chinese
+manufacturers go along the line of sustainable development,
+providing insights of where to put more efforts speciﬁcally on RL
+to improve their chance for long-term success.
+
+2. Conceptualization of reverse logistics
+
+RL is a management approach whereby adopting companies can
+become more environmentally efﬁcient through recycling, reusing,
+and reducing the amount of materials used (Carter and Ellram, 1998).
+In the manufacturing context, it is deﬁned as the process by which
+a manufacturer systematically takes back previously shipped pro-
+ducts or parts from the point-of-consumption for possible recycling,
+remanufacturing, or disposal (Dowlatshahi, 2010). RL is helpful for
+extending the life of materials and products and hence reducing
+environmental burdens from industrial operations (Jayaraman and
+Luo, 2007). It involves the management of goods ﬂowing from their
+ﬁnal destination back to the point of origin with the objective to
+recover value or reduce waste (Rogers and Tibben-Lembke, 2001).
+Conventionally, manufacturers create value in the sequence from
+
+inbound logistics to operations, outbound logistics, marketing and
+sales, and ﬁnally to service in the value chain (Porter, 1985). Nowa-
+days, manufacturers are expected to assume the responsibility for
+environmental protection with particular respect to handling their
+end-of-life-cycle products, which requires collection, product recov-
+ery, or proper disposal (Zhu et al., 2008b).
+
+In recent years, there is a stream of research examining ways to
+develop manufacturing competencies (Koufteros et al., 2007) and
+that RL is found to improve the proﬁtability of manufacturers
+(Weeks et al., 2010). Using RL, manufacturers can systematically
+retrieve previously shipped products or parts from the consump-
+tion point back to the factory for possible product recycling. This
+management approach provides an alternative use of resources in
+a cost-effectively and ecologically friendly manner by extending a
+product's normal life beyond its traditional usage.
+
+According to Flapper et al. (2005), the types of RL in a close-loop
+supply chain can be classiﬁed as production-related, distribution-
+related, use-related, and end-of life. There are obsolete materials,
+production scraps, and production defects below preset quality
+levels in the production-related stage that require RL for handling
+the returned materials. During distribution, there can be commer-
+cial returns of products that are sold with a return option, wrong
+deliveries as the products are refused by customers because they
+are delivered too early or too late, or otherwise not conforming
+to speciﬁcation, and product recalls resulting from safety problems
+(e.g., food and automobile). A product currently in use may also
+need RL due to warranties and repair services. At the end-of-life
+stage, products are returned to the distributors or the original
+manufacturers because their components and materials can be
+valuable for reuse in other products, e.g., rare materials in electronic
+appliances. Previous research has also recognized the importance
+of greening the supply chain and the environmental management
+of product life cycle (Guide and Li, 2010; Klassen and Whybark,
+1999; Zhu et al., 2010).
+
+The concept of RL should be explored and integrated as a viable
+option in the product life cycle from product design to manufacturing
+to shipment to the ultimate consumers. In many instances, manu-
+facturers need to deal with returned products, which may be the
+result of damaged or defective shipments, incorrect shipments, over-
+stocks, and customer returns due to dissatisfaction, and take advan-
+tage of their residual value. Regulations on environmental protection
+are also pressing manufacturing enterprises to become more accoun-
+table for residual and ﬁnal products, long after the ﬁnal product is
+sold and in the hands of the customers (Zhu et al., 2010).
+
+Since the entry of China into the World Trade Organization
+(WTO) in November 2002, Chinese manufacturers have been
+increasingly confronted with competitive challenges including fast
+changing international customer tastes, technology acceleration,
+and environmental-based trade barriers in their operations envir-
+onment. The different stakeholders in the international community
+including customers, suppliers, and environmental groups also
+expect them to reduce damages caused to the natural environment
+by their products and operations. On the policy side, the Chinese
+government has increasingly emphasized corporate and industrial
+environmental measures through promoting the development of
+a circular economy in the country (Zhu et al., 2010). To tackle these
+challenges, Chinese manufacturers need to continuously develop
+new and innovative ways for environmental protection without
+compromising their capability to compete. There is growing interest
+on adopting RL in the manufacturing sector to gain cost efﬁciency
+while preserving the environment (Kenne et al., 2012).
+
+Better inventory control, reduced waste disposal cost as well as
+improved customer service and corporate image have been identiﬁed
+as potential beneﬁts that may accrue to enterprises competent in RL
+(Carter and Ellram, 1998; Chan and Chan, 2008; Marien, 1998).
+Previous studies have also identiﬁed the strategic importance of
+
+
+108
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+RL (Autry, 2005). By adopting RL, enterprises can be a differentiator
+through which they are able to achieve market advantages such as
+building a loyal customer base and attracting new ones (Jayaraman
+and Luo, 2007). Using an activity-based management methodology
+framework, Presley et al. (2007) investigated the design and devel-
+opment of the strategic sustainability evaluation framework consid-
+ering economic, environmental, and social dimensions for selection
+of reverse logistics service providers. Recently, Jack et al. (2010) found
+that resource commitments and contractual obligations positively
+inﬂuence RL capabilities and cost savings subsequently.
+
+Even though there are potential economic beneﬁts of RL, ﬁrms’
+traditional preoccupation with forward logistics, desires to “hide”
+inventory mistakes, low awareness of the magnitude of potential
+beneﬁts, and lack of a holistic approach to deal with RL activities are
+barriers limiting allocation of resources to support its implementation
+(Daugherty et al., 2001; Krumwiede and Sheu, 2002). Rogers and
+Tibben-Lembke (2001) reported a list of signiﬁcant difﬁculties curtail-
+ing the implementation of RL. These factors include the importance
+of RL relative to other issues, company policies, lack of RL information
+systems, competitive issues, management inattention, personnel
+resources, ﬁnancial resources, and legal issues. Stock (2001) also
+pointed out the possibility that some companies are unaware of the
+value of RL to proﬁtability and customer service, nor the beneﬁts
+associated with efﬁcient product returns. It is still not uncommon for
+companies to consider product returns as extra expenses incurred on
+top of their traditional forward logistics activities.
+
+Following Elkington's (1998, 2004) idea of triple bottom line, Carter
+and Rogers (2008) suggests that organizational sustainability, at
+a broader level, consists of three components: the natural environ-
+ment, society, and economic performance. The triple bottom line
+essentially reﬂects the intersection of social, environmental, and
+economic performance; a simultaneous consideration of the balance
+among economic, environmental, and social goals from the micro-
+economics standpoint. The literature on RL has explored the total
+supply chain view that considers the production, transportation and
+distribution of products to customers for the success of RL programs
+(Das and Chowdhury, 2012) and the links with JIT (Chan et al., 2010)
+and third party logistics (Min and Ko, 2008) in implementation. Yet, it
+has not addressed the critical question—whether companies adopting
+RL can balance and improve their performance outcomes in multiple
+dimensions? This question is particularly timely and important to
+Chinese manufacturers as they need to develop other competitive
+advantages than cost. As such, this study aims to empirically
+investigate whether Chinese manufacturers adopting RL actually
+achieve better performance in these three performance dimensions
+simultaneously. Put alternatively, has the win–win situation been
+achieved by adopting RL?
+
+The answer to this question will also help clarify and begin to
+resolve the debate surrounding the relationships between environ-
+mental and social performance on the one hand, and economic
+performance on the other. As pointed out by Hoffman and Bazerman
+(2005), the key to resolving this debate is the recognition that social
+and environmental behaviors could be proﬁt-compatible. When
+parties acknowledge this simple fact, it becomes easier to convince
+companies to adopt environmental and social initiatives that are
+mutually beneﬁcial.
+
+3. Theoretical development and hypotheses
+
+The conventional economic view suggests that any environmental
+improvement achieved by a ﬁrm transfers costs previously incurred
+by society back to the ﬁrm (Friedman, 1962; McGuire et al., 1988).
+Many scholars believe that environmental and social initiatives are
+costly undertakings. For instance, Walley and Whitehead (1994)
+stated that “win–win situations occur rarely as they are likely
+
+overshadowed by the total cost of a company's environmental
+program. Hence, environmental performance was expected to be
+negatively
+ultimately, ﬁnancial
+performance.
+
+operational
+
+linked
+
+and
+
+to
+
+Counter to this perspective, others have identiﬁed strategies in
+which environmental management can improve ﬁrm-level ﬁnancial
+performance and overall competitiveness (Porter and van der Linde,
+1995; Reinhardt, 1999). Poor environmental performance can even
+reduce a ﬁrm's market valuation (Klassen and McClaughlin, 1996;
+Konar and Cohen, 2001). Clarke (1994) indicated it is necessary to
+adopt a broader approach that focuses on basic change in products,
+services, and business strategies that offer opportunity ﬁnancially as
+well as ecologically. He believed that win–win situations will
+increasingly arise as energy process inevitably increase and as greater
+transparency allows stakeholders to see further along a supply chain.
+Though synergy is expected to enhance the corporate image,
+competitive advantage and marketing exposure, many organizations
+still look upon green initiatives as involving trade-offs between
+environmental and economic performance outcomes (Klassen and
+McClaughlin, 1996). The link between environmental management
+and ﬁnancial performance has been discussed for more than three
+decades, the results reported by empirical studies are often conﬂict-
+ing or ambiguous, fostering an ongoing debate in the literature
+(Corbett and Klassen, 2006).
+
+To reconcile the contradictory perspective, Porter and van der
+Linde (1995) argued that it is a static view to believe that there
+exists an inherent and ﬁxed trade-off between social beneﬁts and
+ﬁrms’ private cost for “being green”. That is, if technology, products,
+processes, and customer needs remain constant, that compliance to
+regulation raises cost and reduces competitiveness would be
+inevitable. However, companies operate in the dynamic environ-
+ment where they continuously ﬁnd innovative solutions to reduce
+the total cost of a product or increase its value. Such innovation
+requires companies to use inputs more productively – from raw
+materials to energy to labor – to offset the cost of improving
+environmental
+impact and avoid the impasse. Ultimately, this
+enhanced resource productivity allows a company to become more
+competitive. Porter and van der Linde's argument can be further
+elaborated by the theory of production frontier (TPF) since innova-
+tion is a major force to push the production frontier outward and
+opens up the opportunity to improve performance in multiple
+dimensions.
+
+3.1. Theory of production frontier
+
+In economic theory, a production frontier (PF) is deﬁned as the
+maximum output that can be produced from any given set of inputs
+under technical considerations (Samuelson, 1947). Schmenner and
+Swink (1998) extended PF to the ﬁeld of operations management by
+expanding “output” to include all dimensions of manufacturing
+performance (e.g., cost, product range, quality) and extending
+“technical considerations” to include all choices affecting the design
+and operations of a manufacturing unit. As such, a PF is deﬁned as
+the maximum performance that can be achieved by a manufactur-
+ing unit given a set of operating choices. Two types of PFs put
+constraints on a plant's performance. The asset frontier (AF) is
+formed by choices in plant design and investment. The operating
+frontier (OF) is formed and altered by changes in the choices in
+plant operations. Therefore, each plant's performance is immedi-
+ately bounded by its policies and procedures (i.e., OF) but ultimately
+bounded by its AF. Both frontiers are movable, however, shifting AF
+occurs less frequently than moving OF because it normally requires
+large capital investments and radical changes to the physical plant.
+Consequently, we focus on the movement of OF in this study.
+
+Schmenner and Swink (1998) differentiated two types of bene-
+ﬁcial movement of OF within the performance space: improvement
+
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+109
+
+Cost
+
+A
+Improvement
+
+A1
+
+A2
+
+Betterment
+
+Asset Frontier
+
+Performance
+
+Fig. 1. Assets frontier and operating frontier (adapted from Schmenner and Swink
+(1998)).
+
+and betterment. Improvement (from A to A1 in Fig. 1) is deﬁned as
+“increased plant performance in one of more dimensions without
+degradation in any other dimensions” (p. 109), which can be
+achieved by increasing utilization or efﬁciency so as to bring
+performance up to a pre-determined standard (i.e., closer to its
+OF). Betterment (from A1 to A2 in Fig. 1), on the other hand, refers
+to “altering manufacturing operating policies (e.g., adoption of best
+practices) in ways that move or change the shape of the OF”
+(p. 109). They used TPF to argue that if a plant is far from the AF,
+it has the potential
+to simultaneously provide higher levels
+of performance in multiple dimensions, and that pursuing one
+performance dimension is not at the sacriﬁce of another.
+
+3.2. Hypotheses development
+
+Applying the TPF to the context of RL, we can argue that ﬁrms
+adopting RL could gain performance in multiple dimensions
+through both improvement and betterment. First of all, adopting
+RL can be viewed as an endeavor to push the current OF outward
+the same way as JIT, TQM, and AMT do. These programs have been
+shown to dramatically enhance performance with little change in
+the amount or type of physical assets employed. By incorporating
+RL into a ﬁrm's forward supply chain, the ﬁrm can recapture value
+and recover asset from returned products (Guide, 2000) that push
+the OF outward. In addition, ﬁrms could learn while practicing RL
+and knowledge will be accumulated, disseminated over time, and
+stored in their procedures and rules as well as their less formal
+norms and social and communication patterns (Barney, 1991;
+March, 1991). This process transforms generic input factors into
+ﬁrms’ idiosyncratic capabilities/competencies that enable ﬁrms to
+coordinate activities and make use of
+their resources more
+effectively (Amit and Schoemaker, 1993). The more a capability is
+utilized, the more it can be reﬁned and the more sophisticated and
+difﬁcult to imitate it becomes. As such, the developed capability
+also could move a ﬁrm's OF outward and approach its AF.
+
+Meanwhile, a ﬁrm can enjoy the beneﬁt of improvement from
+removing inefﬁciencies in transformation processes. As resources
+are used to generate desirable products and/or services, waste is
+implicitly produced as by products during each step of the inte-
+grated supply chain process. For example, packaging is used to
+protect products from damage but becomes an undesired item once
+products are consumed. The economic waste is a sign that resources
+have been used incompletely, inefﬁciently, or ineffectively. In addi-
+tion, increased global competition, growing focus on environment-
+alism, shorter product life cycle, and potential revenue from resale
+encourage ﬁrms to process product returns at the end of their ﬁrst
+use for recycling, reuse, refurbishing, remanufacturing, or remarket-
+ing (Srivastava, 2007; Toffel, 2004). This results in reverse logistics
+where product returns represent a valuable resource to enhance
+resale revenue or reduce materials costs (Jayaraman and Luo, 2007).
+
+Therefore, RL represents a way to improve resource productivity by
+reducing and eliminating waste. This new view of waste as resource
+inefﬁciency evokes the quality revolution of the 1980s. Today defects
+are seen as a sign of inefﬁcient product and process design, not as an
+inevitable byproduct of manufacturing. The idea was a breakthrough
+which motivates companies to build quality into the entire process
+and use innovation to improve quality while actually lowering cost.
+Environmental issues are a natural extension of quality since waste
+often reveals ﬂaws in the product design or production process.
+While TQM deﬁnes defects in terms of customer requirements
+(Lai and Cheng, 2005), the environmental perspective tells us to
+deﬁne defects in terms of societal concerns. Where “zero defects”
+was a central tenet of TQM, “zero waste” is a signiﬁcant step beyond
+because waste is generated within a process or while using or
+disposing a product (Lai and Cheng, 2009). Any operational system
+that can minimize inefﬁciencies is also more environmentally
+sustainable (Corbett and Klassen, 2006). Put alternatively, taking
+care of various kinds of waste improves resource efﬁciency and
+makes a ﬁrm closer to its production frontier.
+
+Beyond these theoretical arguments, Porter and van der Linde
+(1995) provided several examples of how environmental conditions
+encouraged ﬁrms to use resources more efﬁciently and become
+more productive as a result. Hart (1995) provided a more detailed
+discussion of how a focus on environmental performance can be
+a competitive resource for ﬁrms. Larson et al. (2000) invoked the
+Schumpeterian notion of “creative destruction” to explain how
+ﬁrms, when forced to adopt a new perspective such as sustain-
+ability, become more innovative and end up discovering new goods
+and services. Wu and Dunn (1995) gave examples of how logistics
+managers can help preserve the environment while simultaneously
+meeting cost and efﬁciency objectives. Chan and Chan (2008) found
+in the Hong Kong mobile phone industry that ﬁrms implement
+RL systems to recapture value and recover asset, develop it as a
+strategic weapon, and be good corporate citizenship. For Chinese
+manufacturing, recognized the importance of ecological moderni-
+zation with green supply chain management of Chinese manufac-
+turers to green their operations (Zhu et al., 2011). Combining the
+prior arguments and empirical evidence, we propose the following
+hypothesis:
+
+H. Reverse logistics practices can simultaneously improve the environ-
+mental, ﬁnancial, and social performance of Chinese manufacturers.
+
+Speciﬁcally, we will test this hypothesis through several major
+RL activities. Carter and Ellram (1998) proposed a pyramid of RL
+practices. Resource reduction should be the ultimate goal in the
+RL process—minimizing materials used in a product and minimizing
+waste and energy achieved through the design of more environ-
+mentally efﬁcient products. Once the resource reduction option has
+been exhausted, the ﬁrm should attempt to maximize reuse,
+followed by recycling. Disposal should be the last option. In a survey
+study, Rogers and Tibben-Lembke (2001) listed the most common
+ways to get rid of returned products—resold “as is”, remanufacturing
+or refurbishing, recycling or landﬁll, repackaging, recovering primary
+materials. Stock (2001) stated that RL includes a combination of
+activities such as recycling, refurbishing, and repair as well as waste
+disposal. Prahinski and Kocabasoglu (2006) summarized four dis-
+position alternatives—reuse/resell, product upgrade (repackaging,
+repair, refurbish or remanufacturing), materials recovery (canniba-
+lization and recycling), and waste management (incineration and
+landﬁlling the product). Reviewing the above literature together
+with our ﬁeld observations from Chinese manufacturers, we identify
+various RL practices and broadly classify them into six categories:
+waste management, recycling, reuse, materials recovery, reprocess,
+and design for RL. The general hypothesis can be split into the
+following set of detailed hypotheses for testing.
+
+
+110
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+Waste is increasingly an environmental problem due to the rapid
+increase in production and consumption. There are wastes generated
+throughout a product life cycle when the product is discarded as
+useless or unwanted. In this regard, waste management is applied
+by companies to improve their materials ﬂows and to satisfy the
+requirements of different stakeholders (Heidrich et al., 2009). In
+a study of small- and medium-sized manufacturing enterprises, solid
+waste management activities are found to beneﬁt their performance
+(Sarkis and Dijkshoorn, 2007).
+In China, the ZTE corporation,
+a telecommunication equipment and network solution provider,
+pays attention to wastewater and solid wastes generated from
+operations, industrial processes and sanitation facilities in compli-
+ance with laws, regulations, and customer requirements. These
+wastes are to be characterized, monitored, controlled, and treated
+prior to discharge or disposal. We argue that waste management
+practices on incineration and landﬁlling can improve the perfor-
+mance of Chinese manufacturers.
+
+H1. Chinese manufacturers adopting waste management practices
+can simultaneously improve their environmental, ﬁnancial, and social
+performance.
+
+Recycling refers to the collection of used materials that can be
+disassembled and remanufactured into new products. In doing so,
+the wastes for landﬁll resulting from used products can be reduced
+with scarce natural raw materials better utilized. For example, Nike
+works with its materials suppliers to recycle factory wastes for new
+footwear manufacturing. Such practice enables Nike to cut down
+its waste disposed to landﬁll from 25% in 2007 to 13% in 2009, while
+beneﬁt from reduced purchase and consumption of new raw
+materials. The recycling of copper in support of sustainable devel-
+opment and the environmental protection is another such example
+on the value of recycling (Gomez et al., 2007). In China, Lenovo
+emphasizes close-loop recycling where the company recycles plastics
+from both end of life IT and non-IT sources to produce new products.
+Therefore, the practices on recycling used materials and collection of
+returned products can bring improvement beneﬁts to Chinese
+manufacturers:
+
+H2. Chinese manufacturers that adopt recycling practices can simulta-
+neously improve their environmental, ﬁnancial, and social performance.
+
+Reuse refers to collecting products or packaging materials to be
+cleaned, reﬁlled, and reused such as empty bottles for milk and beer.
+There are salvageable materials that can be reclaimed with opportu-
+nities for manufacturers to generate more revenue. It is therefore
+beneﬁcial for manufacturers to separate reusable products and part
+components and reuse them many times before their ﬁnal disposal or
+taking them to landﬁll. One example is the reuse of secondary
+packaging materials, which are used for shipment purpose. The reuse
+of packaging materials can bring economic beneﬁts to manufactures
+with the materials used repeatedly several times requiring less
+resources consumption. We have also seen the use of wood pallets
+repeatedly for shipment purpose. A study also found that increased
+reuse of products can reduce consumption of new products and
+materials, simultaneously reducing costs for consumers and deriving
+more value from existing products (Thomas, 2003). Further to
+recycling, Lenovo is committed to product reuse which offers asset
+recovery services and product take back and recycling programs.
+In 2011, this company managed the processing of 12,700 metric tons
+of customer returned computer equipment. For these returns, they are
+mainly reused as products or parts, recycled as materials, incinerated
+with waste to energy recovery. This line of reasoning suggests that:
+
+H3. Chinese manufacturers that reuse their products can simulta-
+neously improve their environmental performance, ﬁnancial, and social
+performance.
+
+Due to the value for reclaim, products should not be disposed
+to landﬁll unless all their reusable, remanufacturing, or recycling
+potentials are fully exploited. The object of product recovery is to
+capture the economic as well as ecological value of used products
+or materials for reducing wastes before their disposal (Thierry
+et al., 1995). Product recovery is a useful practice for closing the
+loop in the supply chain through which products are collected,
+reprocessed, and later redistributed to the customers (Beamon and
+Fernandes, 2004). One example is Tianzhong Electromechanical
+Company that collects used copiers for remanufacturing and sells
+them to emerging markets. This remanufacturing practice reduces
+new resources consumption for producing copiers, extends the
+lifespan of electronic goods, and beneﬁts the environment and
+economy. Due to the increasing number of vehicles, disposal of
+used tires is a signiﬁcant environmental issue. Recovery of used
+tires is an example to show the value of product recovery in
+reducing resources consumption and damages caused to the
+environment (Sasikumar et al., 2010). Recovering materials from
+returned products means lower frequency of product disposal and
+hence higher economic beneﬁts for ﬁrms and social beneﬁts for
+the environment. Another example to illustrate is the recovery of
+materials (e.g. copper) from discarded electric products such as
+printed circuit board (PCB) and air conditioners by Huaxin Green
+Spring Environmental Protection Company in Beijing. There are
+also opportunities for manufacturers to reduce costs in production,
+improve corporate reputation, and satisfy the escalating customer
+request on environmental protection (Toffel, 2004). Product recov-
+ery practices on disassembly,
+inspection of dissembled parts,
+recovery of reusable parts and their reuse in repairing, refurbish-
+ing, or remanufacturing of other products should allow manufac-
+turers to reap productivity and environmental gains. Accordingly,
+we suggest that
+
+H4. Chinese manufacturers that recover materials from returned
+products can simultaneously improve their environmental, ﬁnancial,
+and social performance.
+
+Manufacturers need to process many returned products even
+though they do not deal with consumers directly. These returns
+can be in the form of excessive stocks, end-of-season items, unsold
+or damaged goods, products that have been recalled, products sold
+with return option, and packaging materials for product shipment.
+With reprocessing, there are potentials to recover certain original
+value of the returned products. Manufacturers can choose to
+refurbish, remanufacture, repair, and reprocess returned products
+such as selling them to discounters or using them for spare parts.
+For example, Xerox reprocesses its reusable components and tests
+them for assuring their quality in conformance to the company's
+performance standards. The process of reuse, recovery, and repro-
+cessing resulted in savings of over $80 million started in 1993.
+In China, ZTE corporation also ensures the safe handling, move-
+ment, storage, use, recycling, and disposal of hazardous substances
+if they pose harms to the environment. Other than the considera-
+tion for customer satisfaction, reprocessing of returned products to
+speciﬁc quality would help manufactures to establish an envir-
+onmentally friendly image to the public with an environmental
+strategy to minimize waste. As such, we propose that:
+
+H5. Chinese manufacturers that reprocess returned products to
+speciﬁc quality could simultaneously improve their environmental
+performance, ﬁnancial performance as well as social performance.
+
+Eco-design of product has been considered an essential part of
+environmental management programs by manufacturing companies
+(Zhu et al., 2008a). This aspect of the design for RL emphasizes use of
+standardized materials and adoption of modular design. The envir-
+onmental damage caused by any product or materials should be
+
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+111
+
+mitigated at the design stage in such a way that product compo-
+nents are easy for disassembly for reuse and recycling. Pioneering
+companies have learnt that making product returns proﬁtable relies
+on design for RL (Krikke et al., 2004). In this way, manufacturers are
+able to disassemble component parts for capturing residual values
+of returned products due to the use of standardized materials and
+modular design. For instance, TCL, a white electronic home appli-
+ance manufacturer emphasizes energy consumption, health, and
+safety issues. All the color TV manufactured are energy-saving
+products with certiﬁcation consuming less than 3 W on sleeping
+mode. In recent years, the company uses optical injection technol-
+ogy with special high-gloss materials. Doing so helps reduce spray
+and other highly polluting processes and achieve zero-emission of
+waste water, gas and oil residue, lowering pollution and resources
+consumption per unit of output. The company also uses advanced
+disassembling technologies to transform solid wastes from used
+household appliances into renewable resources to provide raw
+materials and establish a circular economy-based manufacturing
+chain for its business. It has been argued that eco-designs necessary
+to close the loop in the supply chain (Zhu et al., 2008b). Design for
+RL is meant to address product functionality while simultaneously
+minimizing life-cycle environmental impact. Therefore, we hypothe-
+size that:
+
+H6. Chinese manufacturers that adopt design for RL could simul-
+taneously improve their environmental, ﬁnancial, and social
+performance.
+
+4. Research methodology
+
+& Bradstreet. In China, reverse logistics is at the beginning stage for
+manufacturing operations, not comparable to the maturity level by
+their western counterparts. We purposely chose to study export-
+oriented manufacturers as they are pioneers in RL practices due to
+the pressures induced by their international customers (Zhu et al.,
+2012). It is appropriate to study the export manufacturers to ensure
+sampling validity in sample selection that the respondent Chinese
+manufacturers possess operational RL practices in their activities.
+
+We used a key-informant survey design and collected the execu-
+tive names, and their respective company name, address, and phone
+number to facilitate our primary data collection. We sent a survey
+package, including the questionnaire, prepaid self-addressed reply
+envelop, and a cover letter explaining the research to each target
+informant. We followed up the mailing by phoning or emailing
+the informants to ask for their receipt of the package, to reiterate the
+research objectives, and to highlight the importance of their reply.
+We waited for 2 weeks for the informants to reply and sent out the
+second mailing of survey package to the ones who had not replied.
+We repeated the follow-up phone calls and emails 2 weeks after the
+second mailing, and sent out the third survey package to the
+non-respondents after 2 weeks. The data collection was concluded
+3 weeks after the last mailing. The survey resulted in 134 returned
+questionnaires, representing the response rate of 16.7%. However, six
+returned questionnaires have signiﬁcant missing data, resulting in
+an effective response rate of 16%, which is comparable with other
+environmental-related studies having executives as informants
+and survey-based environmental research (Wong et al., 2012b; in
+press). The proﬁle of the responded Chinese manufacturers is
+summarized in Appendix A.
+
+4.1. Sample and data collection
+
+4.2. Common method biasand non-response bias
+
+The six hypotheses are tested by survey data collected from a
+sample of Chinese manufacturers during 2008–2010. We are inter-
+ested in evaluating the performance implications of RL practices in
+China for a number of reasons. First, China's manufacturing industry
+has been important in providing a wide variety of products to
+markets in different countries. While environmental protection
+becomes an international issue, many countries impose regulations
+ranging from restricting materials used in products to mandating
+extended producer responsibility to take back end-of-life products.
+The implementation of RL can be useful for Chinese manufacturers to
+improve their performance by having access to these markets.
+Second, due to inﬂation, the cost of supplies increases continuously.
+RL serves as an opportunity that allows Chinese manufacturers to
+save costs in sourcing new materials by retrieving resalable products
+and recovering reusable components and parts (Martin et al., 2010).
+Third, China has been criticized for giving rise to serious environ-
+mental issues due to its rapid pace of industrialization and irrespon-
+sible environmental operations of manufacturers.
+
+Following the procedures of questionnaire development by
+Gerbing and Anderson (1988), we ﬁrst conducted exploratory inter-
+views with 35 executives of Chinese manufacturers to understand
+RL practices in the industry. The interview revealed that RL practices
+become increasingly important for manufacturers to compete.
+Second, based on an extensive review of previous literature and
+the interviews ﬁndings, we developed the measurement items and
+pretested the survey instrument with six executives and ﬁve
+academics in the discipline to assess the relevancy, phrasing, and
+comprehensiveness of the measurement. We reﬁned the measure-
+ment and conducted a pilot test to 30 executives. Using the data
+collected from the pilot test, we conducted an exploratory factor
+analysis to purify the scales and further reﬁned the survey instru-
+ment to ﬁnalize the questionnaire.
+
+To administer the mass survey, we randomly drew a sample of
+800 export-oriented Chinese manufacturers from the database Dun
+
+There is potential of common method bias in this study due to
+data collection from a single informant and we took two tests to
+check for such possibility. We followed Podsakoff et al. (2003) and
+conducted Harmon's one-factor using the exploratory factor analy-
+sis on all the measurement items in the ﬁnalized questionnaire.
+The results show that the measurement items clustered into more
+than one factor, with eigenvalue greater than 1.0. Moreover,
+we tested if a marker variable, which is a variable that is not
+theoretically related to any variable in the study, is related to the
+variables in this study. We used “ﬁrm ownership type” as the
+marker variable. The results show that “ﬁrm ownership type” is not
+signiﬁcantly related to the variables in the study, providing evidence
+that common method variance is not a serious issue in this study.
+We followed Armstrong and Overton (1977) to check for potential
+of non-response bias. First, we used the extrapolation method and
+compared the responses between the ﬁrst and second mailings.
+We found that the ﬁrst and second mailings have shown no statistical
+difference at po0.05. Second, we compared the ﬁrm size (i.e., number
+of employees) between the respondent and non-respondent ﬁrms
+using the objective data we have collected from the directory.
+The t-test results indicate no signiﬁcant difference between the two
+groups at po0.05. These results collectively suggest that non-
+response bias did not seem to be a problem in this study.
+
+4.3. Construct measurements
+
+Following the discussion in the prior section, we speciﬁcally
+examine six constructs of RL practices. The measurement for each
+of them (as shown in Table 1) covers the major activities in each
+practice based upon the literature review and our expert interview
+results. As such, the way that the constructs are developed indicates
+they are formative and composite in nature, that is, the measurement
+items inﬂuence the construct and the construct is a combination of
+the measurement items (Bollen and Lennox, 1991). The respondents
+
+
+112
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+Table 1
+Constructs and measurements of reverse logistics practices.
+
+Constructs
+
+Measurements
+
+Factor Loadings
+
+Reliabilitya
+
+% of variance explained
+
+Please indicate the extent to which your ﬁrm performs the following revere logistics practices to your products(1—not at all, 2—little, 3—moderate, 4—some, 5—to
+a great extent)
+
+Waste management
+
+Incineration—burning to ash
+Landﬁlling
+
+Recycle
+
+Reuse
+
+Reprocess
+
+Collection of returned products recycle
+
+Reuse
+Separation of reusable products
+Separation of reusable parts
+
+Refurbish
+Remanufacture
+Repair
+Reprocess
+
+Materials recovery
+
+Disassembly
+
+Inspection of dissembled parts
+Recover reusable parts and reuse them in repairing, refurbishing,
+or remanufacturing of other products
+
+Design for RL
+
+Use of standardized materials
+Adoption of modular design
+
+0.87
+0.87
+
+0.85
+0.85
+
+0.94
+0.93
+0.80
+
+0.91
+0.88
+0.83
+0.78
+
+0.90
+
+0.98
+0.78
+
+0.87
+0.87
+
+0.69
+
+0.61
+
+0.87
+
+0.87
+
+76.36
+
+72.09
+
+79.97
+
+72.40
+
+0.80
+
+71.43
+
+0.66
+
+74.87
+
+a Cronbach α is presented for constructs with more than two measurement items. Otherwise, correlations are presented.
+
+were asked to indicate the extent to which their organizations
+perform the following practices to their products from 1—not at all
+to 5—to a great extent. Constructs’ unidimensionality and reliability
+were checked in SPSS via factor analysis and reliability analysis as
+shown in Table 1. Mean values of constructs were extracted for the
+later regression analysis.
+
+The impact of RL practices on performance is examined via three
+aspects—environmental performance, ﬁnancial performance, and
+social performance. We use operational performance as a proxy
+for environmental performance for two major reasons. First, those
+decisions that inﬂuence environmental performance also have
+a direct impact on operational performance as they are related to
+resource productivity. For instance, changing a product design to
+make it easy for disassembly will reduce waste, and it will also open
+up an opportunity to improve product quality. Second, environ-
+mental performance inﬂuenced by operational decisions may vary
+dramatically across companies. Some manufacturing sectors such as
+automobiles generate much air emission, and other sectors such as
+chemicals discharge much polluted water. Consequently, it is not
+feasible to develop reﬂective measures for environmental perfor-
+mance. In contrast, operational performance can be relatively easily
+measured by the standard dimensions.
+
+The constructs and measurements for performance are sum-
+marized in Table 2. The respondents were asked to indicate the
+extent to which their organizations perform in operational, ﬁnan-
+cial, and social performance after adopting RL. Social performance,
+operational performance and ﬁnancial performance were checked
+for unidimensionality and reliability in SPSS via factor analysis and
+reliability analysis (Table 2). Mean values were extracted for each
+performance dimension in the later regression analysis.
+
+4.4. Regression model
+
+Since we test whether RL practices could achieve the win–win
+situation along multiple performance aspects, performance variables
+were viewed as a system. That is, any operations decision could
+generate an impact on any of the performance variables. As such, we
+employed seemingly unrelated regressions (SUR), which was ﬁrst
+
+proposed by Zellner (1962). SUR is a class of multivariate regression
+with correlated error terms. Originally applied in micro-economic
+contexts, SUR is now widely used in many research areas (Wang and
+Kockelman, 2007).
+
+A distinctive feature of SUR models is that they comprise several
+regression equations, each having its own dependent variable and
+potentially different sets of exogenous explanatory variables. Each
+equation is a valid linear regression on its own and can be estimated
+separately, which is why the system is called seemingly unrelated.
+Yet, in fact, the error terms across the equations are assumed to
+be correlated. Normally, the model can be estimated equation-by-
+equation using standard ordinary least squares, and consistent
+estimates can be obtained. But in SUR models the error terms from
+different equations are correlated. Moreover, according to the
+general theory of the least square method, which takes covariances
+of errors into account, such systems should be solved as a whole set
+of equations. Otherwise, the minimal variance of the errors in
+estimated regression parameters cannot be achieved, that is, they
+are generally not as efﬁcient as the SUR estimates, which amounts
+to feasible generalized least squares with a speciﬁc form of the
+variance–covariance matrix (Lado et al., 2004).
+
+In this study, three regression models were run simultaneously
+for each RL practice construct with the control variables. The SUR
+models can be expressed in a general form as:
+
+8><
+>:
+
+social performance ¼ β0 þβ1RLþβ2 employeesþβ3 sales
+operations performance ¼ γ0 þγ1RLþγ2 employeesþγ3 sale
+financial performance ¼ φ0 þφ1RLþφ2 employeesþφ3 sale,
+
+where RL represents each of the six reverse logistics practices.
+
+We only consider the impact of each RL on performance in each
+set of SUR because of two reasons. First, each manufacturer may
+choose to use or focus on different sets of RL practices but not all of
+them are based on its product, process, major markets, or compe-
+titive environment. Some are more concerned about the individual
+effect of RL rather than the overall effect. Second, since some
+manufacturers may use more than one of them at the same time
+there could be high correlations among RL practices. We would run
+
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+113
+
+Table 2
+Constructs and measurements of performance dimensions.
+
+Constructs
+
+Measurements
+
+Factor loadings
+
+Reliabilitya
+
+% of variance explained
+
+Please indicate the extent to which you agree or disagree with the statements on performance impacts after adopting reverse logistics practices. (1—strongly
+
+disagree, 3—neutral, 5—strongly agree)
+
+Operational performance
+
+Financial performance
+
+Signiﬁcantly improved product quality
+Signiﬁcantly improved lead time
+Improved position in marketplace
+Developed better products
+Reduced waste in production
+Improved chances of selling products in international markets
+
+Decrease of disposal costs
+Increase of revenue from resale
+Effective in handling recovery of assets related to our returned products
+Effective in handling cost containment related to our returned products
+Reduction of inventory investment
+
+Social performance
+
+Improve our ﬁrm's service quality
+Improve our corporate image
+
+0.83
+0.83
+0.88
+0.87
+0.78
+0.82
+
+0.84
+0.81
+0.85
+0.86
+0.88
+
+0.93
+0.93
+
+0.91
+
+69.74
+
+0.90
+
+71.70
+
+0.85
+
+87.18
+
+a Cronbach α is presented for constructs with more than two measurement items. Otherwise, correlations are presented.
+
+into multicolinearity if all of them were included in the regression
+model as a set of independent variables.
+
+In order to assess the actual contribution from RL practices to
+performance, we control the effect from the size of the company to
+performance. Though they are not the interest of the study, control
+variables are believed to have an inﬂuence to the dependent variables.
+For instance, large companies tend to be more proﬁtable and have
+more slack resources to deploy for the implementation of adminis-
+trative innovations, such as quality management (Kull and Wacker,
+2010; Naor et al., 2010), mass customization (Huang et al., 2010), and
+in our case, reverse logistics. One could argue that performance
+disparity largely come from the size of the company, but not from the
+adoption of RL practices. With control variables in the regression
+model, we can clearly separate the performance impacts between the
+size of the company and RL practices.
+
+Size of the company is operationalized by annual sales and the
+number of employees (Ettlie, 1995; Donaldson, 2001). Since they
+suffered from a severe non-normality problem, LOG transforma-
+tion has been conducted for correction and both of them sig-
+niﬁcantly improved.
+
+5. Major results and discussions
+
+Correlation among the RL constructs and performance con-
+structs was reported in Table 3. As can be seen, RL practices are
+highly correlated.
+
+SUR were performed in STATA. Table 4 reports the SUR results of
+six RL practices on performance outcome variables. The results can
+be summarized in three different patterns. First, practicing waste
+management cannot improve a manufacturer's operational and
+ﬁnancial performance and may even hurt its social performance.
+H1 was not supported. Second, recycle, reprocess, and recovery
+practices improve operations and ﬁnancial performance but have
+not contributed to the improvement of social performance. Thus,
+H2, H4, and H5 were partially supported. Third, reuse practices and
+design for RL not only improve operations performance and
+ﬁnancial performance substantially, but also enhance social perfor-
+mance (po0.1). As such, H3 and H6 were supported. Control
+variables were not signiﬁcant in most of the cases.
+
+Overall, the ﬁndings indicate that RL practices except waste
+management practices could positively inﬂuence a manufacturing
+enterprise's environmental and ﬁnancial performance. In addition,
+reuse and design for RL could generate a signiﬁcant positive perfor-
+mance impact in all three performance dimensions, which strongly
+
+supports the idea of triple bottom line.The results are discussed based
+on these observed patterns.
+
+First, the results from Table 4 showed that only practicing waste
+management cannot improve a manufacturer's operational and
+ﬁnancial performance and may even hurt its social performance.
+That means waste management is the last resort in RL practice. In the
+past, manufacturers have not had much incentive to refurbish
+returned products. Returns were a liability to be disposed of as
+cheaply as possible, often by sending them to the local landﬁll.
+Increasing restrictions on what can be placed in a landﬁll and the cost
+of landﬁlling have made disposal a less attractive option. Meanwhile,
+the rate at which products become obsolete has also increased and
+manufacturers generate more unsalable products. Throwing away
+substantial amounts of these items is a costly and unacceptable
+option to undertake. Therefore, manufacturers need to proactively
+look for ways to recover more value from those products or avoid
+generating waste in the system in order to boost their performance.
+Second, the results also demonstrated strong evidence that
+recycle, reprocess, and recovery practices improve operations and
+ﬁnancial performance but have not contributed to the improvement
+of social performance. Though we did not ﬁnd these practices hit the
+triple bottom line, the results were still promising because manu-
+facturers are hesitant to adopt RL practices due to the potential
+negative impact on their ﬁnancial performance.Our ﬁndings will
+mitigate this concern and encourage more manufacturing enterprises
+to seriously consider many of the RL options due to the improved
+resource productivity and better resource utilization. The ﬁndings
+also complement the conclusions from many existing studies.
+For example, Derwall et al. (2005) found that ﬁrms with environ-
+mentally responsible practices consistently experience better stock
+market performance than others, a phenomenon that cannot be
+explained in the usual risk-return paradigm of capital market theory
+but that is consistent with this notion of recurrent but unpredictable
+beneﬁts. Corbett and Klassen (2006) conjectured that the beneﬁt to
+operations management theory and practices of adopting an envir-
+onmental perspective are subject to the “law of the expected
+unexpected side beneﬁts”. That is, adopting an environmental
+perspective is beneﬁcial but that these beneﬁts usually materialize
+in unexpected forms and hence are usually greater after the fact than
+can be accurately predicted in advance. This is consistent with
+Crosby's (1979) claim that “quality is free”.
+
+Surprisingly, recycle, reprocess and recovery practices were not
+found to improve social performance. It seems that RL inﬂuences
+ﬁnancial performance in a different way on social performance.
+The ﬁnancial performance is affected by RL in a variety of ways.
+
+
+114
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+Table 3
+Correlation among the major constructs.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+1. Waste management
+2. Recycle
+3. Reuse
+4. Reprocess
+5. Material recovery
+6. Design for RL
+7. Operational performance
+8. Financial performance
+9. Social performance
+10. Annual sales
+11. Total employees
+
+n po0.05.
+nn po0.01.
+
+1
+0.35**
+0.42**
+0.41**
+0.62**
+0.27**
+0.09
+0.10
+0.15
+0.04
+0.03
+
+1
+0.67**
+0.58**
+0.59**
+0.49**
+0.22*
+0.27**
+0.16
+0.05
+0.06
+
+1
+0.73**
+0.64**
+0.65**
+0.33**
+0.34**
+0.16
+0.08
+−0.06
+
+Table 4
+SUR results of reverse logistics practices on performance.
+
+1
+0.69**
+0.54**
+0.20*
+0.26**
+0.05
+0.12
+−0.10
+
+1
+0.48**
+0.17
+0.22**
+0.02
+0.07
+−0.09
+
+1
+0.26**
+0.23**
+0.17
+0.02
+−0.16
+
+1
+0.46**
+0.46**
+0.11
+0.04
+
+1
+0.64**
+0.22*
+0.14
+
+1
+0.19*
+0.19*
+
+1
+0.57**
+
+1
+
+Hypothesis
+
+Independent variables
+
+Dependent variables
+
+Social performance
+
+Operational performance
+
+Financial performance
+
+H1
+
+H2
+
+H3
+
+H4
+
+H5
+
+H6
+
+The impact of waste management
+
+The impact of recycle practice
+
+The impact of reuse practice
+
+The impact of reprocess practices
+
+The impact of recovery practice
+
+The impact of design for reverse logistics
+
+Waste management
+Employee
+Sales
+
+Recycle
+Employee
+Sales
+
+Reuse
+Employee
+Sales
+
+Reprocess
+Employee
+Sales
+
+Recovery
+Employee
+Sales
+
+Design for RL
+Employee
+Sales
+
+−0.16 (0.04)
+1.00 (0.17)
+0.22 (0.28)
+
+0.07 (0.22)
+0.88 (0.23)
+0.21 (0.33)
+
+0.11 (0.09)
+1.22 (0.10)
+0.13 (0.53)
+
+0.03 (0.61)
+1.17 (0.12)
+0.16 (0.47)
+
+0.01 (0.95)
+0.97 (0.19)
+0.21 (0.32)
+
+0.13 (0.03)
+1.38 (0.06)
+0.12 (0.57)
+
+0.09 (0.26)
+−0.16 (0.82)
+0.22 (0.28)
+
+0.14 (0.015)
+−0.28 (0.69)
+0.22 (0.28)
+
+0.22 (0.001)
+0.06 (0.93)
+0.14 (0.48)
+
+0.12 (0.06)
+0.07 (0.92)
+0.15 (0.47)
+
+0.12 (0.09)
+−0.01 (0.99)
+0.18 (0.38)
+
+0.17 (0.003)
+0.20 (0.78)
+0.16 (0.44)
+
+0.08 (0.29)
+0.34 (0.63)
+0.34 (0.09)
+
+0.17 (0.002)
+0.18 (0.78)
+0.34 (0.08)
+
+0.23 (0.001)
+0.63 (0.35)
+0.24 (0.20)
+
+0.17 (0.005)
+0.72 (0.30)
+0.22 (0.26)
+
+0.1 6(0.02)
+0.55 (0.43)
+0.28 (0.15)
+
+0.15 (0.006)
+0.72 (0.30)
+0.27 (0.17)
+
+Note: Coefﬁcients are reported with p-value in the parentheses.
+
+When waste is minimized as part of environmental management,
+it results in better utilization of natural resources, improved efﬁciency
+and higher productivity, and reduced operating costs. It could also
+usher in tremendous marketing advantage, and leads to improved
+revenue,
+increased market share, and new market opportunity.
+Similarly, greening of production process results in minimization of
+pollution, a form of inefﬁciency, re-use of materials, and recycling
+initiatives. This leads to savings in raw materials, water and energy
+usage and thus brings competitive and economic performance.
+However, social performance related to corporate image may be
+more inﬂuenced by marketing function instead of operations func-
+tion. Manufacturers need to effectively communicate with their
+stakeholders regarding what kinds of RL practices they actually use
+and what the positive impacts are. Otherwise, RL practices may fail to
+improve social performance.
+
+Last, the results indicated that reuse practices and design for RL
+not only improve operations performance and ﬁnancial perfor-
+mance substantially, but also enhance social performance (po0.1).
+That is, implementing these practices does not preclude achieving
+one goal at the expense of the other and manufacturing enterprises
+could reach the triple bottom line. Tibben-Lembke (2002) under-
+lined that development is an excellent time to begin considering the
+RL implications of the product's design. In recent years, much has
+
+been learned about the importance of considering the manufactur-
+ing and logistics implications of design decisions, which has given
+rise to the ﬁelds of design for manufacturing and design for logistics.
+For instance, automakers such as BMW are paying attention in their
+design process to how cars can be disassembled at the end of their
+life, known as design for disassembly. Using postponement strategy
+as design for logistics, computer makers such as Hewlett-Packard
+reduce unused shipment space, save transportation costs, and lower
+the carbon footprint generated in the shipment process.
+
+Reuse seems to be a superior practice than recycle, reprocess, and
+recovery practice. While recycling gives discarded materials a new
+life after some chemical or physical processes, reuse employs the
+same item multiple times in its original form so that little is discarded
+(Wu and Dunn, 1995). As such, reuse is a more cost effective and
+ecologically friendly practice by extending products’ normal
+life
+cycles. Moreover, this practice can be easily identiﬁed by the
+customers and link with corporate image since it keeps the original
+form of the product. For instance, Kodak single-used camera can be
+reused nine times. Customers when buying this type of camera have
+already realized that this is a reused product. In contrast, customers
+are not aware of whether a product used is a recycled item (whether
+a can of Coca-cola uses recycled can), whether a company extracts
+valuable items from returned products and use it in the production.
+
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+115
+
+Likewise, customers may not know products that have gone through
+reprocess (e.g., remanufacturing, refurbish, repair) when making
+a purchase. As discussed before, to improve social performance, a
+manufacturer may need to strengthen its ability to inform customers
+about its RL practices.
+
+6. Conclusions and limitations
+
+According to Prahinski and Kocabasoglu (2006), research on RL is
+important because: (1) there is a high volume of product returns
+where some industries need to handle returns at over 50% of their
+sales; (2) the potential to generate revenue from sales in secondary
+and global markets from previously discarded products is promising;
+(3) business enterprises are increasingly required to effectively man-
+age their entire life of the product due to regulatory requirements
+in the European Union and the United States; (4) the responsibility
+to take back products containing hazardous wastes is increasingly
+requested by consumers; (5) environmental alternatives such as
+repackaging, remanufacturing, and recycling become more sustainable
+due to limited and expensive landﬁll capacity. Many business enter-
+prises such as BMW, General Motors, and Hewlett-Packard have
+realized the beneﬁt of adopting RL where these enterprises have their
+manufacturing operations in China. For instance, recognizing the value
+of product recovery, BMW has set a direction to design a “totally
+reclaimable” automobile, in which all the components can be recov-
+ered, reconditioned, and reused. With RL, this carmaker can reap the
+dual beneﬁts of cost reduction due to purchasing less new compo-
+nents and improved corporate image as a socially responsible business
+(Thierry et al., 1995). Alternatively, enterprises that are less attentive to
+RL may lose the opportunity to earn revenue from product recycling
+or remanufacturing, while risking damages to their corporate and
+brand image (Jayaraman and Luo, 2007).
+
+Yet, the literature of RL is more descriptive and anecdotal (Carter
+and Ellram, 1998; Wu and Dunn, 1995), with case studies being
+widely used (Lau and Wang, 2009). Little empirical work has
+addressed reverse process (Prahinski and Kocabasoglu, 2006). Many
+examine only relatively narrow aspects, lacking a holistic view of RL
+(Pokharel and Mutha, 2009). Dowlatshahi’s review (2005) indicated
+that many of studies on RL are general, piece-meal, and practitioner-
+oriented, and did not provide an in-depth analysis and integration
+of RL topics. This study contributes to the existing body of knowledge
+in the following ways. First, it provides a theoretical framework to
+examine the performance implications of RL practices. Particularly,
+it draws on the TPF to build the argument for the impacts of RL on
+environmental, social, and economical performance outcomes. Sec-
+ond, it investigates a broad range of RL activities in manufacturing
+enterprises and that the performance implications of the RL practices
+in different performance dimensions are shown.
+
+The results provide Chinese manufacturers with empirical evi-
+dence on the business value of adopting RL. As China is gradually
+losing its cost advantage in production, this study shows that a
+potential new competitive advantage could be built upon RL prac-
+tices for sustainable economic development. Recycle, reuse, recovery,
+reprocess, and design for RL all demonstrate favorable impact to
+environment and ﬁnancial performance. This study also provides
+important guidelines for manufacturing enterprises in adopting RL
+practices. A manufacturer may hurt its image by only implementing
+the very basic RL practices such as waste management. Product
+design has to be integrated with RL to reap performance improve-
+ment all around.
+
+There are several limitations of our study ﬁndings that should be
+cautious in interpretation. Nevertheless, these issues provide fertile
+ground for future studies to extend this line of research. First, the SUR
+models provide a snapshot of the RL-performance links for Chinese
+manufacturers. A longitudinal study will be a useful complement to
+
+understand how the different RL practices evolve and contribute
+performance beneﬁts to manufacturer adopters in the longer term.
+Further research can also extend by investigating the success stories
+or factors of Chinese manufacturers on their RL practices. There can
+also be richer insights if this investigation is extended to other
+industrial contexts such as retailing (Lai et al., 2010) and shipping and
+transport logistics (Ng et al., 2013; Wong et al., 2012a). Second, export
+and trade in the international market is an important driver for
+Chinese manufacturers to implement environmental management
+practices such as RL. In many instances, Chinese manufacturers are
+coerced to comply with environmental regulations before their
+products are allowed entry into foreign markets such as the
+European Community Directive on Waste Electrical and Electronic
+Equipment (WEEE) for product take-back obligation. Further studies
+may examine the relative emphases of individual RL activities in
+implementation and their performance contributions under changing
+regulatory environmental requirements for international
+trade.
+The factors that prompt manufacturers to pursue RL or not and their
+underlying considerations can be investigated. Third, there can be
+contingent factors on management practices such as just-in-time
+principles and quality assurance determining the outcomes of RL
+activities. It is useful to investigate how these other management
+practices collectively affect the bottom-line of manufacturers imple-
+menting RL. Lastly, RL activities require active participation of both
+upstream and downstream partners in the supply chain to be
+successfully implemented. The leadership of manufacturers to pro-
+mote and diffuse the RL activities in the supply chain is crucial for
+achieving the desired outcomes. Supply chain coordination can be a
+promising topic for further investigation (Wong et al., 2009; C.W.Y.
+Wong et al., 2011; C.Y. Wong et al., 2011).
+
+Acknowledgments
+
+The authors are grateful to two anonymous reviewers for their
+helpful comments on an earlier version of this manuscript. This
+research is partially supported by the Research Grants Council of
+Hong Kong Special Administrative Region, China (GRF 5455/11).
+Wong is partially supported by The Hong Kong Polytechnic University
+(Grant no. A-PL75).
+
+Appendix A. Proﬁle of the respondents.
+
+Respondents
+(%)
+
+Company
+characteristics
+
+Respondents
+
+(%)
+
+Company
+characteris-
+tics
+
+Number of
+
+employees
+
+1–10
+
+11–50
+
+14.8
+
+33.6
+
+51–100
+
+35.9
+
+101–500
+
+4500
+
+6.3
+
+2.3
+
+Product type
+
+Tobacco
+products
+Petroleum
+reﬁning and
+related
+industries
+Rubber and
+miscellaneous
+plastic products
+Leather and
+leather
+products
+
+4.7
+
+1.6
+
+7.0
+
+1.6
+
+25
+
+
+116
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+Stone, clay,
+glass, and
+concrete
+products
+Apparel and
+other ﬁnished
+products made
+from fabrics
+and similar
+products
+Lumber and
+wood products
+
+Fabricated and
+metal products
+
+Paper and
+allied products
+Industrial,
+commercial,
+machinery, and
+computer
+equipment
+Printing,
+publishing, and
+allied
+industries
+Electronic and
+other electrical
+equipment and
+components
+
+7.8
+
+2.3
+
+6.3
+
+3.1
+
+1.6
+
+1.6
+
+3.1
+
+Unknown
+
+7.0
+
+Total annual
+
+sales (million
+USD)
+o$10
+
+4$10–$20
+
+13.3
+
+31.3
+
+4$20–$50
+
+35.2
+
+4$50–$100
+
+10.9
+
+4$100
+Unknown
+
+2.3
+7.0
+
+References
+
+Amit, R., Schoemaker, P.J., 1993. Managing assets and skills: a key to sustainable
+
+competitive advantage. Strategic Management Journal 31 (1), 91–106.
+
+Armstrong, J.S., Overton, R.S., 1977. Estimating nonresponse bias in mail surveys.
+
+Journal of Marketing Research 14 (4), 396–402.
+
+Autry, C.W., 2005. Formalization of reverse logistics programs: a strategy for
+managing liberalized returns. Industrial Marketing Management 34 (7), 749–757.
+Barney, J., 1991. Firm resources and sustained competitive advantage. Journal of
+
+Management, 17(1); p. 99–120.
+
+Beamon, B.M., Fernandes, C., 2004. Supply-chain network conﬁguration for product
+
+recovery. Production Planning & Control 15 (3), 270–281.
+
+Bollen, K.A., Lennox, R., 1991. Conventional wisdom on measurement: a structural
+
+equation perspective. Psychological Bulletin 110 (2), 305–314.
+
+Carter, C.R., Ellram, L.M., 1998. Reverse logistics: a review of the literature and
+framework for future investigation. Journal of Business Logistics 19 (1), 85–102.
+Carter, C.R., Rogers, D.S., 2008. A framework of sustainable supply chain manage-
+ment: moving toward new theory. International Journal of Physical Distribution
+& Logistics Management 38 (5), 360.
+
+Chan, F.T.S., Chan, H.K., 2008. A survey on reverse logistics system of mobile phone
+
+industry in Hong Kong. Management Decision 46 (5), 702–708.
+
+Chan, H.K., Yin, S.Z., Chan, F.T.S., 2010. Implementing just-in-time philosophy to
+Journal of Production
+
+International
+
+reverse logistics systems: a review.
+Research 48 (21), 6293–6313.
+
+Clarke, R.A., 1994. The challenge of going green—comment by Clarke. Harvard
+
+Business Review 72 (4), 37–38.
+
+Corbett, C.J., Klassen, R.D., 2006. Extending the horizons: environmental excellence
+as key to improving operations. Manufacturing & Service Operations Manage-
+ment 8 (1), 5–22.
+
+Crosby, P.B., 1979. Quality is Free. McGraw-Hill, New York, NY.
+Das, K., Chowdhury, A.H., 2012. Designing a reverse logistics network for optimal
+International
+
+collection, recovery and quality-based product-mix planning.
+Journal of Production Economics 135 (1), 209–221.
+
+Daugherty, P.J., Autry, C.W., Ellinger, A.E., 2001. Reverse logistics: the relationship
+between resource commitment and program performance. Journal of Business
+Logistics 22 (1), 107.
+
+Derwall, J., Guenster, N., Bauer, R., Koedijk, K., 2005. The eco-efﬁciency premium
+
+puzzle. Financial Analysts Journal 61 (2), 51–63.
+
+Donaldson, L., 2001. The Contingency Theory of Organizations. Thousand Oaks, CA;
+
+Sage Publications.
+
+Dowlatshahi, S., 2005. A strategic framework for the design and implementation of
+Journal of
+
+remanufacturing oepraitons in reverse logistics.
+Production Research 43 (16), 3455–3480.
+
+International
+
+Dowlatshahi, S., 2010. A cost–beneﬁt analysis for the design and implementation of
+Journal of
+
+reverse logistics systems: case studies approach.
+Production Research 48 (5), 1361–1380.
+
+International
+
+Elkington, J., 1998. Cannibals with Forks: The Triple Bottom Line of the 21th
+
+Century. New Society Publishers, Stoney Creek, CT.
+
+Elkington, J., 2004. Enter the triple bottom line. In: Henriques, A., Richardson,
+J. (Eds.), The Triple Bottom Line: Does It All Add Up?. Earthscan, London, pp. 1–16.
+J.E., 1995. Product-process development integration in manufacturing.
+
+Ettlie,
+
+Management science 41 (7), 1224–1238.
+
+Flapper, S.D.P., Van Nunen, J.A.E.E., Wassenhove, L.N.V., 2005. Managing Closed-
+
+loop Supply Chains. Springer, New York.
+
+Friedman, M., 1962. Capitalism and Freedom. University of Chicago, Chicago, IL.
+Gerbing, D.W., Anderson, J.C., 1988. An updated paradigm for scale development
+Journal of Marketing
+
+incorporating unidimensionality and its assessment.
+Research 25 (2), 186–192.
+
+Gomez, F., Guzman, J.I., Tilton, J.E., 2007. Copper recycling and scrap availability.
+
+Resources Policy 32 (4), 183–190.
+
+Guide, V.D.R.J., 2000. Production planning and control
+
+for remanufacturing:
+Journal of Operations Management
+
+industry practice and research needs.
+18 (4), 467–483.
+
+Guide, V.D.R.J., Li, J., 2010. The potential for cannibalization of new products sales by
+
+remanufactured products. Decision Sciences 41 (3), 547–572.
+
+Hart, S.L., 1995. A natural-resource-based view of the ﬁrm. Academy of Manage-
+
+ment Review 20 (4), 986–1014.
+
+Heidrich, O., Harvey, J., Tollin, N., 2009. Stakeholder analysis for industrial waste
+
+management systems. Waste Management 29 (2), 965–973.
+
+Hoffman, A.J., Bazerman, M.H., 2005. Changing Environmental Practices: Under-
+standing and Overcoming the Organizational and Psychological Barriers.
+Harvard Business School Working Paper.
+
+Huang, X., Kristal, M.M., Schroeder, R., 2010. The impact of organizational structure
+on mass customization capability: a contingency view. Production and Opera-
+tions Management 19 (5), 515–530.
+
+Jack, E.P., Powers, T.L., Skinner, L., 2010. Reverse logistics capabilities: antecedents
+and cost savings. International Journal of Physical Distribution & Logistics
+Management 40 (3), 228–246.
+
+Jayaraman, V., Luo, Y., 2007. Creating competitive advantages through new value
+creation: a reverse logistics perspective. The Academy of Management
+Perspectives 21 (2), 56–73.
+
+Kenne, J.P., Dejax, P., Gharbi, A., 2012. Production planning of a hybrid manufactur-
+ing–remanufacturing system under uncertainty within a closed-loop supply
+chain. International Journal of Production Economics 135 (1), 81–93.
+
+Klassen, R., McClaughlin, C., 1996. The impact of environmental management on
+
+ﬁrm performance. Management Science 42 (8), 1199–1214.
+
+Klassen, R.D., Whybark, D.C., 1999. Environmental management in operations: the
+
+selection of environmental technologies. Decision Sciences 30 (3), 601–631.
+
+Konar, S., Cohen, M.A., 2001. Does the market value environmental performance?
+
+Review of Economics and Statististics 83 (2), 281–289.
+
+Koufteros, X.A., Cheng, T.C.E., Lai, K.H., 2007. “Black-box” and “gray-box” supplier
+integration in product development: antecedents, consequences and the mod-
+erating role of ﬁrm size. Journal of Operations Management 25 (4), 847–870.
+
+Krikke, H., le Blanc, I., van de Velde, S., 2004. Product modularity and the design of
+
+closed-loop supply chains. California Management Review 46 (2), 23–39.
+
+Krumwiede, D.W., Sheu, C., 2002. A model for reverse logistics entry by third-party
+
+providers. Omega 30 (5), 325–333.
+
+Kull, T.J., Wacker,
+
+J.G., 2010. Quality management effectiveness in Asia: the
+
+inﬂuence of culture. Journal of Operations Management 28 (3), 223–239.
+
+Lado, N., Martinez-Roz, E., Valenzuela, A., 2004. Identifying successful marketing
+strategy by export regional destination. International Marketing Review 21 (6),
+573–597.
+
+Lai, K.-H., Wong, C.W.Y., 2012. Green logistics management and performance: some
+empirical evidence from Chinese manufacturing exporters. Omega—Interna-
+tional Journal of Management Science 40 (3), 267–282.
+
+Lai, K.H., Cheng, T.C.E., 2005. Effects of quality management and marketing on
+
+organizational performance. Journal of Business Research 58 (4), 446–456.
+Lai, K.H., Cheng, T.C.E., 2009. Just-in-Time Logistics. Gower Publishing, England.
+Lai, K.H., Cheng, T.C.E., Tang, A.K.Y., 2010. Green retailing: factors for success.
+
+California Management Review 52 (2), 6–31.
+
+Lai, K.H., Wong, C.W.Y., Cheng, T.C.E., 2012. Ecological modernisation of Chinese
+export manufacturing via green logistics management and its regional implica-
+tions. Technological Forecasting and Social Change 79 (4), 766–770.
+
+Larson, A.L., Teisberg, E.O., Johnson, R.R., 2000. Sustainable business: opportunity
+
+and value creation. Interfaces 30 (3), 1–12.
+
+Lau, K.H., Wang, Y., 2009. Reverse logistics in the electronic industry of China:
+
+a case study. Supply Chain Management 14 (6), 447.
+
+March, J.G., 1991. Exploration and exploitation in organizational learning. Organiza-
+
+tion Science, 2(1); p. 71–87.
+
+Marien, E.J., 1998. Reverse logistics as competitive strategy. Supply Chain Manage-
+
+ment Review 14 (1), 43–52.
+
+
+K.-h. Lai et al. / Int. J. Production Economics 146 (2013) 106–117
+
+117
+
+Martin, P., Guide, V.D.R.J., Craighead, C.W., 2010. Supply chain sourcing in remanu-
+facturing operations: an empirical investigation of remake versus buy. Decision
+Sciences 41 (2), 301–324.
+
+McGuire, J.B., Sungren, A., Schneeweis, T., 1988. Corporate social responsibility and
+
+ﬁrm performance. Academy of Management Journal 31 (4), 854–872.
+
+Min, H., Ko, H.J., 2008. The dynamic design of a reverse logistics network from the
+perspective of third-party logistics service providers. International Journal of
+Production Economics 113 (1), 176–192.
+
+Naor, M., Linderman, K., Schroeder, R., 2010. The globalization of operations in
+Eastern and Western countries: unpacking the relationship between national
+and organizational culture and its impact on manufacturing performance.
+Journal of Operations Management 28 (3), 194–205.
+
+Ng, M.K.M., Lun, Y.H.V., Lai, K.H., Cheng, T.C.E., 2013. Research on shipping studies.
+
+International Journal of Shipping and Transport Logistics 5 (1), 1–12.
+
+Park, J., Sarkis, J., Wu, Z.H., 2010. Creating integrated business and environmental
+value within the context of China's circular economy and ecological moder-
+nization. Journal of Cleaner Production 18 (15), 1494–1501.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.-Y., Podsakoff, N.P., 2003. Common method
+biases in behavioral research: a critical review of the literature and recom-
+mended remedies. Journal of Applied Psychology 88 (5), 879–903.
+
+Pokharel, S., Mutha, A., 2009. Perspectives in reverse logistics: a review. Resources
+
+Conservation and Recycling 53 (4), 175–182.
+
+Porter, M., 1985. Competitive Advantage: Creating and Sustaining Superior
+
+Performance.
+
+Porter, M.E., van der Linde, C., 1995. Green and competitive. Harvard Businss
+
+Review 73 (5), 120–134.
+
+Prahinski, C., Kocabasoglu, C., 2006. Empirical research opportunities in reverse supply
+
+chains. Omega—International Journal of Management Science 34 (6), 519–532.
+
+Presley, A., Meade, L., Sarkis,
+
+J., 2007. A strategic sustainability justiﬁcation
+methodology for organizational decisions: a reverse logistics illustration.
+International Journal of Production Research 45 (18–19), 4595–4620.
+
+Reinhardt, F.L., 1999. Bringing the environment down to earth. Harvard Business
+
+Review 77 (4), 149–179.
+
+Rogers, D., Tibben-Lembke, R., 2001. An examination of reverse logistics practices.
+
+Journal of Business Logistics 22 (2), 129–148.
+
+Samuelson, P., 1947. Foundations of Economic Analysis. Harvard University Press,
+
+Cambridge, MA.
+
+Sarkis, J., Dijkshoorn, J., 2007. Relationships between solid waste management
+performance and environmental practice adoption in Welsh small and
+medium-sized enterprises (SMEs). International Journal of Production Research
+45 (21), 4989–5015.
+
+Sasikumar, P., Kannan, G., Haq, A.N., 2010. A multi-echelon reverse logistics
+network design for product recovery—a case of truck tire remanufacturing.
+International
+Journal of Advanced Manufacturing Technology 49 (9–12),
+1223–1234.
+
+Schmenner, R.W., Swink, M.L., 1998. On theory in operations management. Journal
+
+of Operations Management 17 (1), 97–113.
+
+Srivastava, S.K., 2007. Green supply chain management: a state-of-the-art literature
+
+review. International Journal of Management Reviews 9 (1), 53–80.
+
+Stock, J.R., 2001. The 7 deadly sins of reverse logistics. Material Handling Manage-
+
+ment 56 (3), 5–11.
+
+Thierry, M., Salomon, M., Vannunen, J., Vanwassenhove, L., 1995. Strategic issues in
+product recovery management. California Management Review 37 (2), 114–135.
+Thomas, V.M., 2003. Product self-management: evolution in recycling and reuse.
+
+Environmental Science & Technology 37 (23), 5297–5302.
+
+Tibben-Lembke, R., 2002. Life after death: reverse logistics and the product life
+cycle. International Journal of Physical Distribution & Logistics Management
+32 (3–4), 223–244.
+
+Toffel, M.W., 2004. Strategic management of product recovery. California Manage-
+
+ment Review 46 (2), 120–141.
+
+Walley, N., Whitehead, B., 1994. It's not easy being green. Harvard Business Review
+
+72 (2), 46–52.
+
+Wang, X., Kockelman, K.M., 2007. Speciﬁcation and estimation of a spatially and
+temporally autocorrelated seemingly unrelated regression model: application
+to crash rate in China. Transportation 34 (3), 281–300.
+
+Weeks, K., Gao, H.M., Alidaeec, B., Rana, D.S., 2010. An empirical study of impacts of
+production mix, product route efﬁciencies on operations performance and
+proﬁtability: a reverse logistics approach. International Journal of Production
+Research 48 (4), 1087–1104.
+
+Wong, C.W.Y., Lai, K.-H., Cheng, T.C.E., 2009. Complementarities and alignment of
+information systems management and supply chain management. Interna-
+tional Journal of Shipping and Transport Logistics 1 (2), 156–171.
+
+Wong, C.W.Y., Lai, K.H., Lun, Y.H.V., Cheng, T.C.E., 2012a. A study on the antecedents
+of supplier commitment in support of logistics operations. International Journal
+of Shipping and Transport Logistics 4 (1), 5–16.
+
+Wong, C.W.Y., Lai, K.H., Shang, G., Lu, C.S., Leung, T.K.P., 2012b. Green operations and
+the moderating role of environmental management capability of suppliers on
+manufacturing ﬁrm performance. International Journal of Production Economics
+140 (1), 283–294.
+
+Wong, C. W. Y., Lai, K. H., Cheng, T. C. E., Lun, V. Y. H., 2011. The roles of stakeholder
+support and procedure-oriented management on asset recovery. International
+Journal of Production Economics, 135(2), 584–594.
+
+Wong, C.W.Y., Wong, C.Y., Boon-itt, S. Green service practices: performanc eimpli-
+cationand the role of environmental management systems. Service Science.
+10.1287/serv.1120.0037, in press.
+
+Wong, C.Y., Boon-itt, S., Wong, C.W.Y., 2011. The contingency effects of environ-
+mental uncertainty on the relationship between supply chain integration and
+operational performance. Journal of Operations Management 29 (6), 604–615.
+Wu, H.-J., Dunn, S.C., 1995. Environmentally responsible logistics systems. Interna-
+
+tional Journal of Physical Distribution & Logistics Management 25 (2), 20.
+
+Yang, J.X., Lu, B., Xu, C., 2008. WEEE ﬂow and mitigating measures in China. Waste
+
+Management 28 (9), 1589–1597.
+
+Zellner, A., 1962. An efﬁcient method of estimating seemingly unrelated regression
+equations and tests of aggregation bias. Journal of the American Statistical
+Association 57, 500–509.
+
+Zhu, Q.H., Geng, Y., Lai, K.H., 2010. Circular economy practices among Chinese
+manufacturers varying in environmental-oriented supply chain cooperation
+and the performance implications. Journal of Environmental Management 91
+(6), 1324–1331.
+
+Zhu, Q.H., Geng, Y., Sarkis,
+
+J., Lai, K.H., 2011. Evaluating green supply chain
+management among Chinese manufacturers from the ecological modernization
+perspective. Transportation Research Part E—Logistics and Transportation
+Review 47 (6), 808–821.
+
+Zhu, Q.H., Sarkis, J., Cordeiro, J.J., Lai, K.H., 2008a. Firm-level correlates of emergent
+green supply chain management practices in the Chinese context. Omega—
+International Journal of Management Science 36 (4), 577–591.
+
+Zhu, Q.H., Sarkis, J., Lai, K.H., 2008b. Green supply chain management implications
+for “closing the loop”. Transportation Research Part E—Logistics and Transpor-
+tation Review 44 (1), 1–18.
+
+Zhu, Q.H., Sarkis, J., Lai, K.H., 2012. Green supply chain management innovation
+diffusion and its relationship to organizational improvement: an ecological
+modernization perspective. Journal of Engineering and Technology Manage-
+ment 29 (1), 168–185.
+

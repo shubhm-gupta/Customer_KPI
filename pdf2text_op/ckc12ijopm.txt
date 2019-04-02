@@ -1,0 +1,12235 @@
+              
+
+City Research Online
+
+City, University of London Institutional Repository
+
+Citation: Chiang, C.Y., Kocabasoglu-Hillmer, C. & Suresh, N. (2012). An empirical 
+investigation of the impact of strategic sourcing and flexibility on firm's supply chain agility. 
+International Journal of Operations and Production Management, 32(1-2), pp. 49-78. doi: 
+10.1108/01443571211195736 
+
+This is the published version of the paper. 
+
+This version of the publication may differ from the final published 
+version. 
+
+Permanent repository link:  http://openaccess.city.ac.uk/17085/
+
+Link to published version: http://dx.doi.org/10.1108/01443571211195736
+
+Copyright and reuse: City Research Online aims to make research 
+outputs of City, University of London available to a wider audience. 
+Copyright and Moral Rights remain with the author(s) and/or copyright 
+holders. URLs from City Research Online may be freely distributed and 
+linked to.
+
+City Research Online:            http://openaccess.city.ac.uk/            publications@city.ac.uk
+
+
+International Journal of Operations and Production Management
+
+ 
+
+ 
+
+An Empirical Investigation of the Impact of Strategic 
+Sourcing and Flexibility on Firm’s Supply Chain Agility 
+
+F
+
+Journal:  International Journal of Operations and Production Management 
+
+o
+
+Manuscript ID:  IJOPM-Oct-2010-0330.R2 
+
+r 
+
+Manuscript Type:  Research Paper 
+P
+
+Keywords:  Agility, Supply chain management, Purchasing, Operations strategy 
+
+e
+
+e
+
+r 
+
+R
+
+e
+
+v
+i
+e
+
+w
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+
+ 
+ 
+
+ 
+
+
+Page 1 of 64
+
+International Journal of Operations and Production Management
+
+An Empirical Investigation of the Impact of Strategic Sourcing and Flexibility 
+
+on Firm’s Supply Chain Agility 
+
+ 
+
+Abstract 
+
+ 
+
+Purpose  –  The  objective  of  this  study  is  to  investigate  two  potentially  key  drivers  of  a  firm’s 
+
+supply  chain  agility,  namely  strategic  sourcing  and  firm’s  strategic  flexibility.  Despite  some 
+
+theoretical  and  conceptual  works  suggesting  that  some  elements  of  these  two  constructs  may 
+
+relate to agility, this has not  yet been assessed together empirically. This study aims to address 
+
+this gap in the literature. 
+
+Design/Methodology/approach  -  This  study  involves  an  empirical  investigation  of  a  theory-
+
+F
+
+based  model  based  on  the  competence-capability  framework,  and  a  dynamic  capabilities 
+
+o
+
+theoretical perspective, where the internal competencies of strategic sourcing and firm’s strategic 
+
+flexibility  relate  to  the  dynamic  capability  of  the  firm’s  supply  chain  agility. This  investigation 
+
+r 
+
+P
+
+also  includes  the  testing  of  a  possible  mediation  effect  of  firm’s  strategic  flexibility  on  the 
+
+relationship between strategic sourcing and the firm’s supply chain agility. The model is tested 
+
+e
+
+utilizing data from 144 U.S. manufacturing firms via partial least square (PLS) methodology. 
+
+e
+
+r 
+
+R
+
+Findings  –  The  results  of  the  empirical  study  indicated  that  both  strategic  sourcing  and  firm’s 
+
+strategic flexibility were significantly related to the firm’s supply chain agility. In addition, while 
+
+a full mediation effect was not found on the part of strategic flexibility, there was evidence for 
+
+partial mediation. 
+
+e
+
+Research  limitations/implications  –  Given  that  the  data  is  from  specific  U.S.  industries,  the 
+
+generalizability  of  current  findings  to  other  industries  or  countries  may  require  additional 
+
+v
+i
+e
+
+investigation.  
+
+Originality/value – Given the attention paid to agility in terms of its importance to responding 
+
+w
+
+to business uncertainty, and more recently, as an important capability in managing supply chain 
+
+disruption  risks,  this  paper  investigates  how  strategic  sourcing  and  flexibility  can  contribute  to 
+
+agility.  
+
+Key  words:  Supply  Chain  Management;  Strategic  Sourcing;  Strategy  Development;  Partial 
+
+Least Squares 
+
+Paper type:  Research paper    
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+International Journal of Operations and Production Management
+
+Page 2 of 64
+
+INTRODUCTION 
+
+Supply chain agility has received increasing attention over the last decade due to two important 
+
+developments.  First,  firms  have  increasingly  been  competing  in  business  environments 
+
+characterized by short product life cycles, globally extended supply chains, and volatile demand 
+
+patterns. Second, issues relating to supply chain disruption risk have been gaining prominence. 
+
+Given  such  developments,  the  cultivation  of  supply  chain  agility  has  been  suggested  as  an 
+
+effective response strategy (Braunscheidel and Suresh, 2009; Lee, 2004; Swafford et al., 2006). 
+
+Research on issues surrounding flexibility, agility and responsiveness has been of topical 
+
+F
+
+interest  to  both  academics  and  practitioners.  One  of  the  key  developments  in  this  context  has 
+
+o
+
+r 
+
+been  the  recognition  that  the  terms  flexibility  and  agility  have  been  used  somewhat 
+
+interchangeably  in  the  past.  Accordingly,  a  new  research  stream  investigating  the  differences 
+
+P
+
+between  flexibility  and  agility  has  emerged  in  the  context  of  improving  the  competitiveness  of 
+
+e
+
+firms operating in volatile business conditions. Among the recent works, study of Swafford et al. 
+
+(2006) considered flexibility-agility to have a competence-capability relationship (Prahalad and 
+
+Hammel,  1990),  where  competence  is  about  “what  an  organization  can  do  particularly  well” 
+
+R
+
+(Andrews,  1987),  and  capability  is  defined  as  “appropriately  adapting,  integrating,  and 
+
+e
+
+reconfiguring internal  and external organizational skills, resources, and  functional competences 
+
+e
+
+r 
+
+to  match  the  requirements  of  a  changing  environment”  (Teece  et  al.,  1997).  This  raises  issues 
+
+relating  to  the  fit  of  a  competence  with  the  needs  of  an  organization  facing  fast-changing 
+
+w
+
+demands in the marketplace.  
+
+This  framework  has  subsequently  been  used  in  other  studies  on  flexibility  and  agility 
+
+(e.g., Braunscheidel and Suresh, 2009; Li and Ogunmokun, 2008). It has been recognized that a 
+
+system can be flexible without being agile, while an agile system is definitely flexible (Prahalad 
+
+and  Hammel,  1990).  In  line  with  these  developments,  flexibility  is  defined  in  this  study  as:  a 
+
+competence built by an organization to be able to change or react with little penalty in time, cost, 
+
+or performance (Swafford et al., 2006) whereas a “firm’s supply chain agility” is defined as: the 
+
+ 
+
+1 
+
+v
+i
+e
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 3 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+r 
+
+P
+
+capability  of  the  ﬁrm,  internally,  and  in  conjunction  with  its  key  suppliers  and  customers,  to 
+
+adapt  or  respond  in  a  speedy  manner  to  a  changing  marketplace,    contributing  to  agility  of  the 
+
+extended  supply  chain  (Braunscheidel  and  Suresh,  2009).  In  other  words,  while  flexibility 
+
+concerns  the  manager  in  terms  of  what  kind  of  processes  should  be  designed,  what  kind  of 
+
+resources  should  be  obtained  and  what  investments  made  to  reduce  time,  cost  or  performance 
+
+penalties  to  adjust  to  changes,  agility  is  more  specifically  about  whether  the  organization  has 
+
+made investments that are aligned with the competitive demands of the environment. 
+
+In  addition to flexibility-agility linkage, a second emerging stream of research has been 
+
+F
+
+on how different sourcing strategies may contribute to the agility of a firm. Christopher (2000) 
+
+o
+
+was an early work recognizing the linkages between sourcing, flexibility and agility. Paulraj and 
+
+Chen  (2007)  concluded  that  firms  become  more  agile  with  enhanced  strategic  buyer-supplier 
+
+e
+
+r 
+
+relationships. Ledyard and Keough (2007) described the case of a firm which augmented agility 
+
+e
+
+through better information sharing with its suppliers. Swafford et al. (2006) found that sourcing 
+
+flexibility has a positive and direct impact on agility. However, with the exception of Khan and 
+
+Pillania  (2008),  the  above  studies  in  this  stream  have  investigated  the  influence  of  various 
+
+R
+
+elements  of  strategic  purchasing  with  agility,  without  considering  them  comprehensively  under 
+
+e
+
+the  construct  of  strategic  sourcing.  In  the  work  of  Khan  and  Pillania  (2008),  flexibility  is  not 
+
+considered as a separate construct, and it was shown that strategic sourcing has a positive impact 
+
+v
+i
+e
+
+on supply chain agility and business performance. In Kocabasoglu and Suresh (2006), the notion 
+
+w
+
+of  strategic  sourcing  is  defined  as  a  construct  consisting  of  four  sub-constructs:  strategic 
+
+purchasing,  inter-functional  integration  of  purchasing,  information  sharing  with  suppliers,  and 
+
+supplier  development.  We  utilize  this  comprehensive  construct  of  strategic  sourcing  for  the 
+
+current study. Table 1 provides a summary of past research studies which have partially explored 
+
+the  linkages  between  the  three  constructs  of  strategic  souring,  flexibility  and  agility.  It  is  seen 
+
+from Table 1 that only four studies address the issue of agility, based on various antecedents.  
+
+ 
+
+2 
+
+
+International Journal of Operations and Production Management
+
+Page 4 of 64
+
+Comparisons of the Impact of Strategic Sourcing and Flexibility on Agility 
+
+TABLE 1 
+
+Work 
+
+Antecedent 
+
+Narasimhan 
+
+and Das 
+(1999a) 
+
+Das (2001) 
+
+Intermediate 
+
+variables 
+
+Modif.  
+Flexibility 
+
+Volume 
+
+Strategic  
+Sourcing 
+
+ 
+
+Advanced 
+
+Flexibility 
+
+Manufacturing 
+
+Technology 
+
+New Prod.  
+Flexibility 
+
+F
+Purchasing 
+Competence 
+
+Modif.  
+Flexibility 
+
+o
+ 
+
+r 
+
+Mix 
+
+Flexibility 
+
+Advanced 
+
+Manufacturing 
+
+Technology 
+
+New 
+
+P
+Product 
+e
+Flexibility 
+
+DV 
+
+Conclusion 
+
+Mfg. Cost 
+Reduction 
+
+Strategic sourcing assists in 
+achievement of modification 
+flexibilities, which has a 
+positive impact on new product 
+flexibility and mfg. cost 
+reduction. 
+
+Fit with 
+Business 
+Strategy 
+
+ 
+
+Firm 
+
+Performance 
+
+ 
+
+Mfg.  
+
+Priorities 
+
+A framework linking 
+purchasing competence and 
+advanced mfg. technology with 
+mfg. flexibility and mfg. 
+flexibility with agility.-related 
+practices. A positive connection 
+between mfg. flexibility and 
+agility activities was found. 
+
+Procurement  
+ Flexibility 
+
+Swafford et 
+al. (2006) 
+
+Mfg.  
+
+Flexibility 
+
+Distribution   
+Flexibility 
+
+Strategic  
+
+Buyer-supplier 
+Relationships 
+
+Information 
+Technology 
+
+Paulraj and 
+Chen (2007) 
+
+Khan and 
+Pillania 
+(2008) 
+
+Strategic  
+Sourcing 
+
+Braunscheidel 
+
+Orientation 
+
+Market  
+
+and Suresh 
+
+(2009) 
+
+ 
+
+Learning  
+Orientation 
+
+  
+
+ 
+
+ 
+e
+
+r 
+
+Supply  
+Chain  
+Agility 
+
+R
+
+e
+
+Degree of flexibility present in 
+procurement / sourcing and 
+mfg. process has direct and 
+positive impact on supply chain 
+agility while distribution/ 
+logistics process only provides 
+an indirect impact. 
+
+External 
+Logistics 
+Integration 
+
+ 
+
+Internal 
+
+Integration 
+
+External 
+
+Integration 
+
+External 
+Flexibility 
+
+v
+i
+e
+
+Agility 
+
+Strategic buyer-supplier 
+relationships and information 
+technology engender external 
+logistics integration, which in 
+w
+turn, enhance agility 
+performance. 
+
+Performance 
+
+SC  
+
+Agility 
+
+Org.  
+
+Performance 
+
+Strategic sourcing has positive 
+impact on both supply chain 
+agility and organizational 
+performance. 
+
+Supply 
+Chain 
+Agility 
+
+Internal integration, external 
+integration, and external 
+flexibility were examined to 
+have positive influences on the 
+firm's supply chain agility. 
+
+3 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 5 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+ 
+
+Given  these  developments,  it  is  of  significant  interest  currently  to  investigate  the 
+
+influence  of  strategic  sourcing  alongside  flexibility  on  supply  chain  agility,  with  all  three 
+
+constructs  defined  comprehensively.  This  study  is  also  based  on  a  theoretical  platform  that 
+
+considers  strategic  sourcing  and  flexibility  as  internal  competences  which  may  lead  to  the 
+
+capability of agility. In addition to this competence-capability relationship, we consider agility as 
+
+a dynamic capability, drawing from the theory of dynamic capabilities (Teece et al., 1997; Teece 
+
+2007),  which  extends  both  resource-based  view  (RBV)  of  the  firm  and  the  competence-
+
+capability perspective.   
+
+F
+
+This work contributes to the research literature on agility in the following ways. First, it 
+
+o
+
+examines the antecedents of a firm’s agility in the supply chain context more broadly than prior 
+
+studies. A few past studies have investigated the relationship individually between sub-elements 
+
+of  strategic  sourcing  and  agility,  between  firm-level  flexibilities  and  firm-level  agility,  and 
+
+e
+
+between strategic sourcing and firm-level flexibilities. This study considers all three key factors 
+
+(strategic  sourcing,  flexibility  and  agility)  together.  Secondly,  this  study  examines  these 
+
+relationships  within  a  theoretical  framework  of  competence-capability  relationship,  utilizing  a 
+
+R
+
+dynamic  capability  perspective.  This  study  also  explores  whether  flexibility  is  a  possible 
+
+e
+
+mediator  between  strategic  sourcing  and  agility,  affecting  the  direct  relationship  between 
+
+e
+
+r 
+
+r 
+
+P
+
+v
+i
+e
+
+strategic sourcing and agility.  
+
+From a methodology point of view, this study applies structural equation modeling to test 
+
+w
+
+the relationship among the three constructs, and a method for testing mediation effects. Thirdly, 
+
+this  research  considers  the  influence  of  contextual  factors  such  as  firm  size,  manufacturing 
+
+process, and the product characteristics, in order to examine the robustness of the relationships in 
+
+various  business  settings.  Prior  works  such  as  Swafford  et  al.  (2006),  Khan  and  Pillania  (2008) 
+
+and  Braunscheidel  and  Suresh  (2009)  did  not  consider  influences  from  the  external  environment, 
+
+product nature, or production process.  
+
+The next section provides the theoretical background and model development, including 
+
+definition of the constructs and the rationale for the research hypotheses. The following section 
+
+4 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 6 of 64
+
+describes  data  collection  and  research  methodology.  A  discussion  of  survey  results  and 
+
+managerial  implications  of  the  results  are  provided  next.  Finally,  the  conclusions,  limitations, 
+
+and future research issues are mentioned in the last section. 
+
+ 
+
+THEORETICAL BACKGROUND AND MODEL DEVELOPMENT 
+
+In  this  study,  strategic  sourcing  and  the  firm’s  strategic  flexibility  (FSF)  are  explored  as  two 
+
+major  antecedent  competences  for  the  enhancement  of  the  firm’s  supply  chain  agility  (FSCA), 
+
+which  is  viewed  as  a  dynamic  capability.  In  addition,  FSF  is  also  investigated  as  a  possible 
+
+mediator  that  may  influence  the  relationship  between  strategic  sourcing  and  FSCA.  The 
+
+F
+
+o
+
+theoretical model postulated is shown in Figure 1. The definitions for the various constructs and 
+
+r 
+
+P
+
+the  rationale  for  the  hypothesized  model  structure  are  outlined  below,  after  first  describing  the 
+
+theoretical underpinnings.  
+
+e
+
+A  dynamic  capabilities  perspective  (DCP)  refers  to  the  ability  of  a  firm  to  achieve  new 
+
+------- Insert Figure 1 Approximately Here ------- 
+
+e
+
+r 
+
+forms of competitive advantage by renewing competences to achieve congruence with changing 
+
+R
+
+business environments (Teece et al. 1997; Teece 2007). The DCP is a framework which extends 
+
+e
+
+and  applies  both  resource-based  view  (RBV)  and  the  competence-capabilities  perspective  to 
+
+explain  the  sources  of  firm-level  competitive  advantage  over  time  (Teece  et  al.,  1997;  Teece 
+
+v
+i
+e
+
+2007). DCP explains how firms create value by developing relevant organizational processes and 
+
+w
+
+structures  to  leverage  relationship  assets.  Dynamic  capabilities,  which  continuously  create, 
+
+extend,  upgrade,  and  protect  the  firm’s  unique  asset  base,  are  capabilities  that:  (1)  sense  and 
+
+shape  opportunities  and  threats,  (2)  seize  chances,  and  (3)  maintain  competitiveness  through 
+
+enhancing,  combining,  protecting,  and  reconfiguring  the  organization’s  intangible  and  tangible 
+
+assets. This framework assumes that firms with dynamic capabilities are able to provide timely 
+
+response,  and  rapid,  flexible  product  innovation,  coupled  with  the  management  capability  to 
+
+effectively coordinate and redeploy organizational competencies. DCP has also been applied in 
+
+the context of new technologies and related processes. For instance, in Wheeler (2002), DCP was 
+
+5 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 7 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+invoked to demonstrate that digital network technology (including Internet) in organizations is a 
+
+dynamic  capability  which  enables  firms  to  create  customer  value  in  volatile  environments.  A 
+
+description of this application was also provided by Zahra and George (2002).  
+
+Model Constructs and Sub-Constructs 
+
+The  first  major  construct  in  Figure  1  pertains  to  strategic  sourcing.  The  concept  of  strategic 
+
+sourcing has evolved over the past two decades. Strategic sourcing is defined as “the process of 
+
+designing  and  managing  supply  networks  in  line  with  operational  and  organizational 
+
+performance objectives” (Narasimhan and Das, 1999) and is measured by the four sub-constructs 
+
+F
+
+of  strategic  purchasing,  internal  integration,  information  sharing,  and  supplier  development 
+
+o
+
+(Kocabasoglu and Suresh, 2006). The survey items for each of these sub-constructs are adopted 
+
+from Kocabasoglu and Suresh (2006), and the four sub-constructs are explained below. 
+
+Strategic  purchasing:  Considering  increasing  uncertainty  in  the  business  environment  due  to 
+
+e
+
+globalization, outsourcing and shorter product life cycles, purchasing can play a major role as a 
+
+boundary spanning function that has ties both within the firm and with several business partners 
+
+(Kocabasoglu and Suresh, 2006). In this study, strategic purchasing is defined as a demonstration 
+
+R
+
+of  the  strategic  role  of  purchasing  in  the  firm’s  long-term  planning  and,  as  explained  further 
+
+e
+
+e
+
+r 
+
+r 
+
+P
+
+v
+i
+e
+
+below, this is posited to have a bearing on supply chain agility. 
+
+Internal  integration:  It  has  been  shown  that  when  firms  consider  the  purchasing  function  in  a 
+
+strategic  role,  internal  communication  between  purchasing  and  other  departments  occurs  more 
+
+w
+
+frequently and deeply (Krafcik, 1988). Integration with other departments was found to be more 
+
+frequent within firms in which purchasing managers took a proactive role (Cavinato, 1991; Reck 
+
+and Long, 1988) and it improves business performance (Eng, 2005; Sislian and Satir, 2000). Our 
+
+definition  for  internal  integration  is  the  presence  of  cross-functional  communication  between 
+
+purchasing and other functions, and integrated decision making activities.  
+
+Information  sharing  with  suppliers:  Communication  and  information  sharing  are  effective 
+
+means  to  maintain  mutually  beneficial  long-term  relationships  which  improve  supply  chain 
+
+performance  (Monczka  et  al.,  1998;  Paulraj  et  al.,  2008;  Stank  et  al.,  1999).  A  comprehensive 
+
+6 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 8 of 64
+
+review of information sharing in supply chains is available in Sahin and Robinson (2002). In this 
+
+study, information sharing with suppliers refers to coordination and information sharing behavior. 
+
+Supplier  development:  The  practice  of  supplier  development  is  aimed  at  strengthening 
+
+relationships with key suppliers so that risk of opportunistic behavior is limited. Dyer and Singh 
+
+(1998)  and  Dwyer  et  al.  (1987)  claimed  that  if  firms  invest  in  relationship-specific  assets  and 
+
+have  shared  know-how,  opportunistic  risk  is  decreased  and  such  relationships  might  improve 
+
+performance and reduce uncertainty. In this study, the definition of supplier development follows 
+
+Krause (1999) as being any activity that a buyer undertakes to improve a supplier’s performance 
+
+F
+
+and/or capabilities to meet the buyer’s short-term or long-term supply needs.   
+
+o
+
+Many past studies have investigated the impact of various aspects of strategic sourcing on 
+
+r 
+
+P
+
+e
+
+r 
+
+business  performance,  but  rarely  on  business  agility.  Strategic  purchasing  has  been  shown  to 
+
+enhance  financial  performance  (Carr  and  Pearson,  1999;  Chen  et  al.,  2004;  Kerlinger,  1973), 
+
+e
+
+business  performance  (Gonzalez-Benito,  2007),  supply  chain  performance  (Paulraj  and  Chen, 
+
+2007), and customer responsiveness (Chen et al., 2004). Strong buyer-supplier relationships have 
+
+also been seen to improve supply chain agility (Paulraj and Chen, 2007) and enhance knowledge 
+
+R
+
+transfer  between  supply  chain  partners  (Squire  et  al.,  2009).  It  also  has  been  established  that 
+
+e
+
+better  information  sharing  with  suppliers  improves  flexibility  and  responsiveness  of  the  supply 
+
+chain  (Schmenner  and  Tatikonda,  2005;  Stevenson  and  Spring,  2007).  Finally,  supplier 
+
+v
+i
+e
+
+development has been shown to have a positive relationship on supplier’s performance (Krause 
+
+w
+
+et  al.,  2000).    However,  the  focus  of  interest  in  the  current  study  is  on  the  impact  of  strategic 
+
+sourcing on the agility dimension.  
+
+The  second  major  construct  in  the  model  shown  in  Figure  1  pertains  to  the  firm’s 
+
+strategic  flexibility  (FSF).  Over  the  years,  many  studies  have  categorized  various  types  of 
+
+flexibility. Vokurka and O’Leary-Kelly (2000) provided definitions and a review of various types 
+
+of  manufacturing  flexibility.  In  recent  years,  the  emphasis  has  shifted  from  manufacturing 
+
+flexibility to supply chain flexibility. Vickery et al. (1999) argued that supply chain flexibility is 
+
+composed  of  five  customer-focused  flexibilities:  product,  volume,  responsiveness  to  target 
+
+7 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 9 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+markets,  launch,  and  access  flexibilities.  They  found  that  firms  with  stronger  supply  chain 
+
+flexibility  demonstrated  better  business  performance.  Among  the  five  flexibility  dimensions, 
+
+volume and launch flexibilities were more linked to time-based performance measures. Sanchez 
+
+and Perez (2005) identified ten supply chain flexibility dimensions, which were categorized into 
+
+a framework of three layers: aggregate (supply chain), system (company) and basic (shop floor) 
+
+levels. They found that firms tend to devote more efforts on the development of basic flexibilities 
+
+like  volume  flexibility  and  product  flexibility  than  on  aggregate  flexibilities.  However,  it  is 
+
+aggregate  flexibility,  including  launch  flexibility,  sourcing  flexibility,  response  flexibility,  and 
+
+F
+
+access  flexibility,  which  is  more  positively  related  to  firm  performance.  Hence  they  concluded 
+
+o
+
+that firms should emphasize more on these high-level, strategic flexibilities.  
+
+Stevenson and Spring (2007) provided a conceptual hierarchy of flexibilities in a supply 
+
+r 
+
+P
+
+e
+
+r 
+
+chain,  consisting  of  four  layers:  operational,  tactical,  strategic,  and  supply  chain  flexibilities. 
+
+e
+
+However,  no  empirical  research  was  performed  to  investigate  the  effectiveness  of  these 
+
+flexibilities. Zhang et al. (2002; 2003) developed a framework for value chain flexibility based 
+
+on competence and capability theory. This was tested to explore the relationships among flexible 
+
+R
+
+competence  (machine,  labor,  material  handling,  and  routing  flexibilities),  flexible  capability 
+
+e
+
+v
+(volume flexibility and mix flexibility), and customer satisfaction.  
+i
+e
+
+The  notion  of  strategic  flexibility  introduced  by  Worren  et  al.  (2002)  was  product  and 
+
+technology  design  oriented.  They  measured  strategic  flexibility  by:  1)  model  variety,  2)  model 
+
+w
+
+introduction  rate,  and,  3)  new  product  introduction  rate.  Hitt  et  al.  (1998)  argued  that  firms 
+
+require  strategic  flexibility  to  survive  in  an  environment  characterized  by  rapid  technological 
+
+change.  Tachizawa  and  Thomsen  (2007)  suggested  that  supply  flexibility  has  a  strategic 
+
+influence as well. Beckman (1990) considered that product flexibility and process flexibility are 
+
+two types of production resource flexibility.   
+
+The  current  research  focuses  on  the  issue  of  flexibility  from  a  strategic  perspective,  by 
+
+taking  into  account  the  competence-capability  framework  and  an  integrative  approach  to 
+
+strategic  flexibility.  We  measure  strategic  flexibilities  as  being  those  which  are  inter-firm  or 
+
+8 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 10 of 64
+
+intra-firm  flexibilities  which  constitute  important  factors  to  enhance  a  firm’s  flexibility 
+
+competence.  This  construct  recognizes  the  linkages  with  strategic  sourcing,  and  hence  supply 
+
+flexibility was also considered within strategic flexibility. Thus, this construct, referred to as the 
+
+firm’s  strategic  flexibility  (FSF)  comprises:  1)  supply  flexibility,  2)  product  design-related 
+
+flexibility, and 3) process-related flexibilities. These three sub-constructs are defined below. 
+
+Supply flexibility:  Duclos et al. (2003) defined supply flexibility as the ability to meet changing 
+
+needs  from  customers  and  changing  supply  of  products,  including  mix,  volume,  product 
+
+variations  and  new  products.  Sanchez  and  Perez  (2005)  defined  sourcing  flexibility  as  a  firm’s 
+
+F
+
+ability  to  find  alternative  suppliers  for  different  raw  materials  and  components.  Swafford  et  al. 
+
+o
+
+(2006)  defined  sourcing  flexibility  as  the  availability  of  a  range  of  options  and  the  ability  to 
+
+r 
+
+P
+
+e
+
+r 
+
+effectively  exploit  them  so  as  to  respond  to  changing  requirements  related  to  the  supply  of 
+
+purchased components. Similarly, Tachizawa and Thomsen (2007) considered supply flexibility 
+
+e
+
+as  an  ability  to  respond  in  a  timely  and  cost-effective  manner  to  changing  requirements  of 
+
+purchased  components.  In  the  current  study,  supply  flexibility  is  defined  as  the  buyer’s  (focal 
+
+company)  evaluation  of  major  suppliers’  ability  to  satisfy  the  buyer’s  dynamically  changing 
+
+R
+
+specifications in terms of quality, time, and product mix.  
+
+e
+
+Product  design-related  flexibility:  This  is  an  aggregate  concept  consisting  of  three  individual 
+
+product  design-related  manufacturing  flexibilities:  new  product  design  flexibility,  modification 
+
+v
+i
+e
+
+flexibility, and mix flexibility. Sanchez (1995) stated that product flexibility increases the range 
+
+w
+
+of  products  which  a  production  system  can  process  and  reduces  the  cost  and  time  required  to 
+
+switch  production  resources.  We  thus  define  the  product  design-related  flexibility  as  the 
+
+competence of the system to develop new products, make minor design  change,  and adjust the 
+
+product mix to satisfy the dynamic market demand in timely and cost-effective manner.  
+
+Process-related  flexibility:  Sanchez  (1995)  argued  that  process-related  flexibility  enhances  the 
+
+ability of a production system to deal with internal or supply contingencies and increases the rate 
+
+and  cost  efficiency  of  capacity  utilization.  In  the  current  study,  process-related  flexibility  is 
+
+considered to include volume flexibility, process flexibility, and labor flexibility. Thus, we define 
+
+9 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 11 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+process-related  flexibility  as  an  internal  competence  to  adjust  the  production  processes  and 
+
+volumes based on the changing needs of the marketplace. 
+
+The third major construct in the research model refers to the firm’s supply chain agility 
+
+(FSCA).  Consistent  with  the  recent  work  of  Braunscheidel  and  Suresh  (2009),  FSCA  in  this 
+
+study is defined as the capability of the ﬁrm, internally, and in conjunction with its key suppliers 
+
+and customers, to adapt or respond in a speedy manner to a changing marketplace, contributing 
+
+to  agility  of  the  extended  supply  chain.  FSCA  consists  of:  1)  customer  responsiveness,  2) 
+
+demand  response,  and  3)  joint  planning.  The  survey  items  for  the  three  sub-constructs  are 
+
+F
+
+adapted  from  Kocabasoglu  (2002),  and  Braunscheidel  and  Suresh  (2009).  The  specific  scale 
+
+o
+
+items for these measures can be seen in the Appendix.  
+
+r 
+
+P
+
+Following  the  above  definitions  for  the  constructs  and  sub-constructs  in  the  model,  we 
+
+next develop hypotheses for the various relationships in the proposed model structure.  
+
+e
+
+Impact of Strategic Sourcing on FSCA 
+
+e
+
+Past research has suggested that some of the elements of strategic sourcing are positively related 
+
+to agility (Khan and Pillania, 2008; Mason et al., 2002; Narasimhan and Das, 1999b; Paulraj and 
+
+R
+
+Chen,  2007).  This  relationship  has  been  attributed  to  enhanced  buyer-seller  relationships, 
+
+e
+
+r 
+
+facilitating  the  exchange  of  demand  and  supply  information,  and  helping  to  develop  inter-
+
+organizational  trust.  However,  while  some  of  the  links  between  various  elements  of  strategic 
+
+sourcing  and  agility  have  been  established,  the  construct  of  strategic  sourcing  as  a  whole  by 
+
+w
+
+collectively  considering  its  sub-dimensions  of  strategic  purchasing,  internal  integration, 
+
+information  sharing,  and  supplier  development  has  not  been  investigated  before.  Likewise,  the 
+
+notion  of  agility  is  expanded  in  the  current  study  to  the  firm’s  supply  chain  agility  (FSCA), 
+
+composed  of 
+
+the  sub-dimensions  of 
+
+joint  planning,  demand  response,  and  customer 
+
+responsiveness. In addition, this notion of agility and the antecedent of firm’s strategic flexibility 
+
+(FSF)  are  viewed  in  a  competence-capability  relationship,  providing  an  opportunity  for  an 
+
+enhanced understanding of these relationships. 
+
+One  of  the  four  sub-constructs  of  strategic  sourcing  is  strategic  purchasing,  as  stated 
+
+10 
+
+ 
+
+v
+i
+e
+
+
+International Journal of Operations and Production Management
+
+Page 12 of 64
+
+earlier. Strategic purchasing reflects a strategic and proactive role on the part of the purchasing 
+
+function,  enabling  the  purchasing  function  to  work  closely  and  collaboratively  with  selected 
+
+suppliers  in  various  planning  processes.  Similarly,  strategic  purchasing  gives  the  purchasing 
+
+function  the  ability  to  communicate  market  demand  changes  quickly  to  suppliers,  which  may 
+
+enable  suppliers  to  understand  and  plan  to  meet  the  changing  supply  needs  of  the  organization 
+
+and    help  the  organization  be  responsive  to  their  customers’  needs  and  expectations.  Likewise, 
+
+internal  integration  sub-construct  of  strategic  sourcing  provides  the  purchasing  function  the 
+
+ability  to  recognize  changing  requirements  in  earlier  stages  when  developing  new  products  or 
+
+F
+
+while facing changes in the existing product mix, and giving timely information to suppliers and 
+
+o
+
+enabling them to respond effectively. In addition, internal integration enables different functions 
+
+r 
+
+P
+
+within the firm to share information seamlessly, enabling faster and more coordinated responses 
+
+to changing environments.  
+
+e
+
+Similar  positive  relationships  can  also  be  expected  between  the  other  sub-constructs  of 
+
+e
+
+strategic  sourcing  and  FSCA.  The  sub-construct  of  information  sharing  with  suppliers  reflects 
+
+the ability of the organization and its suppliers to acquire information on marketplace changes as 
+
+R
+
+well as current supply chain inventory levels, which should enable them to collectively develop 
+
+e
+
+r 
+
+demand response strategies and improve customer responsiveness. The sub-construct of supplier 
+
+development  reflects  a  strengthening  of  the  relationships  with  key  suppliers,  enabling 
+
+v
+i
+e
+
+organizations  to  help  suppliers  build  responsiveness  capabilities  that  are  more  aligned  with 
+
+w
+
+market needs. With these expected relationships among the strategic sourcing elements and the 
+
+FSCA components, we hypothesize a causal relationship between strategic sourcing and FSCA:  
+
+Hypothesis 1.  Strategic sourcing has a positive impact on a firm’s supply chain agility. 
+
+Impact of Strategic Sourcing on FSF   
+
+The second hypothesis is aimed at investigating the relationship between strategic sourcing and 
+
+the firm’s strategic flexibility (FSF), which was defined above as consisting of supply flexibility, 
+
+product design-related flexibility and process-related flexibility. 
+
+ 
+
+11 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 13 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+Some  prior  studies  have  confirmed  some  positive  relationships  between  elements  of 
+
+strategic sourcing and a few flexibility measures (e.g., Narasimhan and Das, 1999a; Das, 2001). 
+
+Das (2001), for instance, has shown that internal integration of purchasing may improve product 
+
+design-related flexibility. Likewise, it may be surmised that stronger external integration, enabled 
+
+by  strategic  sourcing,  may  result  in  more  effective  co-design  of  products  and  processes  with 
+
+suppliers and, in the process, may help build strategic flexibility. However, many of the possible 
+
+relationships between various elements of strategic sourcing and strategic flexibility are yet to be 
+
+fully investigated.  
+
+F
+
+The  positive  linkage  between  strategic  purchasing  and  supply  flexibility  aspect  may  be 
+
+o
+
+expected. Strategic purchasing helps the firm to identify the most appropriate supply base for its 
+
+needs.  It  enables  a  firm  to  implement  flexible  sourcing,  and  to  reconfigure  the  supply  chain 
+
+continuously  in  line  with  changing  flexibility  requirements  (Tachizawa  and  Thomsen,  2007). 
+
+e
+
+Supplier  selection  based  on  flexibility  and  internal  collaboration  are  two  major  practices  in 
+
+r 
+
+P
+
+pursuit  of  this  strategy.  Development  of  long-term  buyer-supplier  relationships,  information 
+
+sharing,  and  supplier  development,  etc.  may  all  be  expected  to  contribute  towards  supply 
+
+R
+
+flexibility. There is also a significant role for suppliers as input providers with the advent of just-
+
+e
+
+in-time  (JIT)  systems.  Supplier’s  role  in  supporting  operational  goals  such  as  flexibility  has 
+
+become important in JIT systems. Thus, strategic purchasing may be expected to improve several 
+
+v
+i
+e
+
+dimensions of a firm’s supply flexibility. Likewise, internal integration, information sharing and 
+
+w
+
+supplier development sub-constructs of strategic sourcing may also be expected to be positively 
+
+related  to  supply  flexibility  aspect.  Information  sharing  aspect  of  strategic  sourcing  allows  for 
+
+improved  supplier  responsiveness,  due  to  suppliers  being  able  to  work  with  more  complete 
+
+information,  contributing  to  supply  flexibility  (Tachizawa  and  Thomsen,  2007).  Better 
+
+information  sharing  can  help  suppliers  align  their  plans  with  the  needs  of  the  buying  firm  and 
+
+allow  for  better  preparedness  and  response  on  the  part  of  suppliers  to  changing  needs,  thus 
+
+resulting in increased supply flexibility.  
+
+In  addition,  strategic  purchasing,  reflecting  a  strategic  orientation  and  authority  for  the 
+
+12 
+
+ 
+
+e
+
+r 
+
+
+International Journal of Operations and Production Management
+
+Page 14 of 64
+
+purchasing function, has been shown to improve product design-related flexibility by improving 
+
+new design, mix and product modification flexibility (Das, 2001).  The link between information 
+
+sharing  and  process  related  flexibility  has  been  partially  validated  by  Narasimhan  and  Das 
+
+(1999a), who showed that information sharing specifically improved volume flexibility, which is 
+
+a  part  of  process-related  flexibility.  Information  sharing  and  supplier  development  were  also 
+
+examined by Suarez et al. (1996) on how they enable the suppliers to quickly respond to product 
+
+feature  changes  and  improve  the  new  design  flexibility  and  modification  flexibility  for  the 
+
+buying company. 
+
+F
+
+Thus, it may be expected that process-related flexibility may be positively influenced by 
+
+o
+
+strategic sourcing. Volume flexibility, process flexibility, and labor flexibility are considered to 
+
+r 
+
+P
+
+v
+i
+e
+
+measure the process-related flexibility. Volume flexibility is improved when the supplier has the 
+
+ability to respond quickly and efficiently to unexpected changes through enhanced relationships 
+
+e
+
+created from sharing information and supplier development (Narasimhan and Das, 1999a). 
+
+e
+
+Supplier development sub-construct of strategic sourcing may help a buying firm support 
+
+the  development  of  its  supplier’s  process  flexibility,  the  ability  to  produce  efficiently  in  small 
+
+R
+
+quantities, etc. Past research has also shown it to be positively related to product design related 
+
+e
+
+r 
+
+flexibility (Narasimhan and Das, 1999a; Suarez et al. 1996). Similar to the case of information 
+
+sharing,  the  relationship  between  supplier  development  and  process-related  flexibility  has  been 
+
+partially  validated.  Thus,  based  on  the  above  fragmented  findings,  and  expected  relationships, 
+
+w
+
+the second hypothesis is advanced as: 
+
+Hypothesis 2: Strategic sourcing has a positive impact on a firm’s strategic flexibility. 
+
+Impact of FSF on FSCA 
+
+Flexibility has been stated to be a major antecedent of  agility in recent  research  (Aitken  et  al., 
+
+2002; Swafford et al., 2006). It may be expected that a firm’s strategic flexibility may influence 
+
+all three elements of FSCA, joint planning, demand response and customer responsiveness. For 
+
+instance,  supply  flexibility  aspect  of  FSF  may  be  expected  to  strongly  influence  joint  planning 
+
+aspect  of  FSCA.  When  the  supplier  can  consistently  satisfy  the  buyer’s  requirement,  trust  and 
+
+13 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 15 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+stronger relationship are created between the firms so that the buying company is motivated to 
+
+work  closely  with  the  supplier.  In  addition,  supply  flexibility  ensures  that  the  suppliers  are 
+
+capable  of  supporting  organizations  for  their  changing  supply  needs,  thus  improving  demand 
+
+response and customer responsiveness aspects of FSCA. Krause and Scannell (2002) suggested 
+
+that the imperative of working closely is a required foundation for joint planning and many other 
+
+supply  chain  practices.  Hence,  through  the  development  of  trust,  supply  flexibility  may  have  a 
+
+positive  impact  on  the  level  of  joint  planning.  Similarly,  demand  response  and  customer 
+
+responsiveness aspects of FSCA may be influenced by supply flexibility. Supply flexibility may 
+
+F
+
+enable  fast  response  to  demand  variations  and  customer  requirement  in  dynamic  markets, 
+
+o
+
+characterized by short product life cycles, more product variety, and customization, and may thus 
+
+r 
+
+positively influence demand response and customer responsiveness. .  
+
+P
+
+Likewise,  design-related  flexibility  may  be  expected  to  significantly  affect,  primarily 
+
+e
+
+demand  response  and  customer  responsiveness  aspects  of  FSCA.  The  trend  towards  shorter 
+
+product life cycles, more product variety, and increased pressure for customized products is well 
+
+recognized  and  firms  that  have  adequate  levels  design-related-flexibility  may  be  more  in  line 
+
+R
+
+with their customers’ needs, thus contributing to demand response and customer responsiveness. 
+
+e
+
+e
+
+r 
+
+v
+i
+e
+
+The  third  aspect  of  FSF,  process-related  flexibility  may  provide  a  firm  the  ability  to 
+
+change its production plan and product designs in response to new information about changing 
+
+demand  trends  and  customization.  Manufacturers  adopting  a  push  strategy  make  production 
+
+w
+
+plans  several  periods  before  demand  is  observed  so  that  it  may  be  hard  to  change  from  one 
+
+product  to  the  other.  And  even  for  supply  chains  that  utilize  a  pull  strategy  downstream,  it  is 
+
+unlikely  that  the  entire  chain  can  benefit  from  this  strategy.  Under  such  limitations,  firms  with 
+
+superior process-related flexibility may more efficiently meet changing demands. Thus, a strong 
+
+linkage  between  process-related  flexibility  and  demand  response  and  customer  responsiveness 
+
+aspects of FSCA may be expected.  
+
+Thus, all three FCF sub-constructs may be expected to have positive impacts on demand 
+
+response  and  customer  responsiveness  dimensions  of  FSCA.  Flexibility  and  agility  have 
+
+14 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 16 of 64
+
+frequently been discussed together, as overlapping concepts in much of past research (e.g. Aitken 
+
+et  al.,  2002).  A  clear  distinction  between  these  two  concepts  and  empirically  validation  of  the 
+
+resulting constructs is of recent origin (Swafford et al., 2006). In the current study, we investigate 
+
+the  relationship  between  FSF  and  FSCA  more  comprehensively,  and  thus  the  above  arguments 
+
+lead to the following hypothesis:   
+
+Hypothesis  3:  A  firm’s  strategic  flexibility  has  a  positive  impact  on  the  firm’s  supply 
+
+chain agility. 
+
+ 
+
+Mediation Effect of Flexibility 
+F
+
+The above three hypotheses are aimed at investigating the relationship between every two of the 
+
+e
+
+r 
+
+R
+
+o
+
+r 
+
+P
+
+three major constructs. However, in order to investigate the mediation effect of FSF, which may 
+
+or  may  not  enhance  the  influence  of  strategic  sourcing  on  FSCA,  it  is  necessary  to  conduct  a 
+
+comparison between the direct and the indirect impacts of strategic sourcing on FSCA. 
+
+e
+
+ 
+
+Fisher  (1997)  argued  that  a  supply  chain  has  both  a  physical  distribution  and  market 
+
+mediation  function.  While  the  physical  distribution  function  focuses  on  getting  the  products  to 
+
+the market efficiently, the market mediation function is primarily related to scanning the market 
+
+to make sure that a firm (or a set of firms in the supply chain) seizes opportunities in the market 
+
+e
+
+by  synchronizing  the  demand  with  their  supply.  This  raises  the  following  question  about  the 
+
+exact nature of the relationship between strategic sourcing and FSCA. If one considers only the 
+
+v
+i
+e
+
+physical function, strategic sourcing can be primarily seen as comprehending procurement needs 
+
+w
+
+of an organization and ensuring the arrival of supplies consistent with these needs. If one focuses 
+
+on  the  market  mediation  aspect,  the  question  becomes  whether  there  is  additional  information 
+
+that  purchasing  can  collect,  given  its  boundary  spanning  role  and  its  relationships  with  other 
+
+firms  regarding  the  market,  which  may  help  a  firm  synchronize  the  supply  with  end-customer 
+
+demands  better.  If  the  former  scenario  applies,  one  may  expect  flexibility  to  fully  mediate  the 
+
+relationship between strategic sourcing and agility since the positive or negative contributions of 
+
+strategic  sourcing  will  be  fully  absorbed  by  the  internal  operations.  If,  on  the  other  hand, 
+
+purchasing has a role in market mediation, one would not expect to see full mediation. 
+
+ 
+
+15 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 17 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+No prior study, to the best of our knowledge, has considered this issue. Khan and Pillania 
+
+(2008)  tested  only  the  direct  influence  of  the  implementation  of  strategic  sourcing  on  supply 
+
+chain  agility.  The  possible  mediating  effects  of  flexibility  in  this  relationship  has  not  been 
+
+considered in past research. Thus we formulate the following hypothesis:  
+
+Hypothesis  4:  There  is  a  significant  mediation  effect  from  FSF  on  the  relationship 
+
+between strategic sourcing and the firm’s supply chain agility. 
+
+ 
+
+Control Variables 
+
+Four control variables are considered in this study: 1) firm size, 2) type of production process, 3) 
+
+F
+
+product seasonality, and  4) product perishability.  It may be expected that  firm size may  have a 
+
+o
+
+negative relationship with FSCA. Cohen and Klepper (1992) claimed that small firms have more 
+
+r 
+
+creativity  and  agility,  while  larger  firms  may  be  bureaucratic.  Firm  size,  thus,  may  have  a 
+
+P
+
+negative  impact  on  the  development  of  FSCA.  Rogers  (1995)  suggested  that  firm  size  is 
+
+e
+
+commonly  applied  as  a  control  variable  to  serve  as  a  surrogate  measure  of  total  resources  and 
+
+organization structure. Prior studies have used either sales or the number of full time employees 
+
+(FTE) to measure firm size. In this study, the number of FTE is applied.  
+
+R
+
+Production  process,  the  second  control  variable,  included  engineer-to-order,  make-to-
+
+e
+
+order,  assemble-to-order,  and  make-to-stock  process  types.  Lee  (1996)  asserted  that  production 
+
+e
+
+r 
+
+process  is  strongly  related  to  the  level  of  customization  and  the  level  of  inventory,  either  as 
+
+work-in-process or the final product. Lamming et al. (2000) suggested that high inventory level, 
+
+w
+
+which  implies  mass  production  and  less  customization,  may  be  necessary  to  develop  agility  in 
+
+response of market dynamics. Based on this logic, it is expected that the production process may 
+
+have an influence on the model relationships.  
+
+Product seasonality and product perishability are two causes for demand uncertainty. van 
+
+Hoek et al. (2001) suggested that agility is important to create competitive advantages in current 
+
+dynamic market characterized with uncertain demand. Likewise, Baker (2008) stated that agility 
+
+is needed to cope with the demand uncertainty caused by seasonality, short product life cycles, 
+
+and consumer demand fluctuations. Firms facing strong demand uncertainty may be more likely 
+16 
+
+ 
+
+v
+i
+e
+
+
+International Journal of Operations and Production Management
+
+Page 18 of 64
+
+to implement an agility developing strategy. Hence, product seasonality and product perishability 
+
+are expected to have an influence on the model relationships.    
+
+ 
+
+RESEARCH METHODOLOGY 
+
+To develop the survey instrument, an extensive literature review was first conducted to identify 
+
+scales  used  in  past  literature  that  were  shown  to  have  strong  validity  and  reliability.  The  first 
+
+draft  of  this  survey  instrument  was  tested  through  reviews  and  semi-structured  interviews  with 
+
+supply  chain  professionals,  business  consultants  and  academics  in  U.S.  and  Netherlands.  The 
+
+survey  was  sent  to  the  interviewees  in  advance.  During  interviews  lasting  between  30  to  90 
+
+F
+
+minutes, the interviewees were asked to provide suggestions to improve the clarity of the survey, 
+
+the format and the time required for completing the questionnaire. The survey was then refined 
+
+based  on  the  suggestions  received.  A  pilot  study  was  then  conducted  and  the  results  were 
+
+o
+
+r 
+
+P
+
+e
+
+e
+
+r 
+
+R
+
+analyzed to ensure avoidance of systematic bias in the survey instrument. 
+
+ 
+
+The specific questions for each variable, the sources and anchors for the questions in final 
+
+survey instrument are provided in the Appendix. In addition to items relating directly to the three 
+
+major research constructs, several questions for the contextual factors were selected to serve as 
+
+e
+
+control variables. A 5-point Likert scale was used, with two different schemes: very low to very 
+
+v
+i
+high, and strongly disagree to strongly agree, as shown in the Appendix.  
+e
+
+The  respondents  for  the  final  survey  were  selected  from  senior  supply  chain  and 
+
+w
+
+purchasing executives of manufacturing firms in the U.S. who were members of the Institute for 
+
+Supply  Management  (ISM).  Senior-level  executives  were  deemed  to  be  at  a  sufficiently  high 
+
+level in the organizational hierarchy to have supply chain-level visibility and knowledge. High-
+
+ranking  respondents,  with  sufficient  level  of  seniority  tend  to  be  more  reliable  sources  of 
+
+information than their subordinates, in accordance with Phillips (1981) and numerous other past 
+
+studies. In accordance with Dillman's (1978) guidelines for mail surveys, a mailing package was 
+
+sent,  which  included  a  letter  of  support  from  ISM,  a  cover  letter  from  the  investigators  of  this 
+
+study, the questionnaire, and a paid return envelope. A reminder postcard was mailed two weeks 
+
+ 
+
+17 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 19 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+later. The survey was sent to 1972 potential respondents, after which 144 valid responses were 
+
+obtained  with  a  response  rate  7.3%,  which  is  consistent  with  other  empirical  studies  using 
+
+complex  survey  instrument.  For  instance,  the  response  rate  was  7.25%  in  the  study  of  Kristal, 
+
+Huang, and Roth (2010); 6.4% in Tan and Vonderembse (2006), etc. One method for testing non-
+
+response bias is to test for significant differences between the responses of early and late waves 
+
+of  returned  surveys  via  t-tests  (Armstrong  and  Overton,  1977).  We  utilized  this  approach  of 
+
+comparing early and late respondents in terms of demographic variables (e.g. annual sales, full 
+
+time equivalent employees). The t-tests yielded no statistically significant differences among the 
+
+F
+
+demographic variables. 
+
+o
+
+The survey respondents were from firms belonging to SIC codes 34 to 38. It can be seen 
+
+that the respondents were primarily from firms in either the growth or maturity stages of their life 
+
+cycles. Regarding firm size, the annual sales for most firms was 20 to 99.99 million, or 100 to 
+
+e
+
+499.99 million dollars. About 50% of the responding firms carried less than 500 stock keeping 
+
+r 
+
+P
+
+units (SKUs) as finished products. A summary of the respondent profile is provided in Table 2.  
+
+To  investigate  the  relationships  among  the  major  constructs  by  using  the  partial  least 
+
+R
+
+squares (PLS) technique, SmartPLS 2.0 (Ringle et al., 2005) was used to assess the measurement 
+
+e
+
+model  and  structural  model.  PLS  analysis  was  chosen  because  it  can  analyze  all  paths  at  once 
+
+(Barclay  et  al.,  1995;  Gefen  et  al.,  2000)  and  does  not  require  a  large  sample  size  (Gefen  and 
+
+v
+i
+e
+
+Straub,  2005).  To  test  the  relationships,  all  measurement  items  were  standardized  and  missing 
+
+w
+
+values were replaced by sample means to examine validity, reliability, and statistical power. The 
+
+bootstrapping method was used, which approximates the sampling distribution of an estimator by 
+
+re-sampling with replacement from the original sample (Moore and McCabe, 2005; Temme et al., 
+
+2006), to derive more reliable results. The size of subsamples to run the bootstrapping technique 
+
+followed the suggestions in Efron and Tibshirani (1998, p.52). 
+
+To test second-order constructs in the model, a repeated indicators approach, also known 
+
+as  the  hierarchical  component  model  (Wold,  1982)  was  used.  This  technique  is  widely  used  to 
+
+estimate higher order constructs for PLS studies (Wilson, 2007; Zhang et al., 2006). The impacts 
+
+18 
+
+ 
+
+e
+
+r 
+
+
+International Journal of Operations and Production Management
+
+Page 20 of 64
+
+of each factor were represented by the path coefficients and corresponding levels of significance. 
+
+ 
+
+ 
+
+TABLE 2 
+
+Sample Demographics  
+
+Category 
+
+Freq. 
+
+% 
+
+Category 
+
+Freq.  % 
+
+One 
+
+Two 
+
+3 - 10 
+
+F
+
+10+ 
+
+52 
+
+16 
+
+38 
+
+32 
+
+36.11 
+
+11.11 
+
+26.39 
+
+22.22 
+
+No. of 
+Manufacturing 
+Plants 
+
+< 20 
+
+Annual 
+Sales 
+(Million) 
+
+20 - 99.99 
+
+100 - 499.99 
+
+Missing  
+
+o
+6 
+
+4.17 
+
+ 
+
+Introduction 
+
+r 
+
+1 
+
+0.69 
+
+P
+
+12 
+
+52 
+
+42 
+
+15 
+
+18 
+21 
+
+80 
+
+29 
+
+14 
+
+34 
+
+8.63 
+
+37.41 
+
+30.22 
+
+10.79 
+
+12.95 
+14.58 
+
+55.56 
+
+20.14 
+
+9.72 
+
+23.61 
+
+21 
+
+33 
+
+ 7 
+
+14.58 
+
+22.92 
+
+4.86 
+
+MTO 
+
+49 
+
+34.03 
+
+No. of 
+FTEs 
+
+101 - 1000 
+
+1001 - 5000 
+
+500 - 1000 
+
+> 1000 
+< 100 
+
+> 5000 
+
+ETO 
+
+36 
+25.00 
+e
+97 
+67.36 
+
+e
+
+3.47 
+
+r 
+
+3.47 
+
+5 
+
+5 
+
+38 
+
+38 
+
+18 
+
+50 
+
+26.39 
+
+26.39 
+
+12.50 
+
+34.72 
+
+R
+Process 
+e
+Type 
+
+ATO 
+
+MTS 
+
+v
+i
+e
+
+Missing 
+
+w
+
+RESEARCH RESULTS  
+
+Growth 
+
+Maturity 
+
+Decline 
+
+Missing  
+
+< 100 
+
+100 - 499 
+
+500 - 999 
+
+1000 + 
+
+Stage of Main 
+Product in Its 
+Life Cycle 
+
+No. of SKUs 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Measurement Model 
+
+Figure  1  provides  overall  results  for  the  hypothesized  model.  A  good  model  fit  in  PLS  is  seen 
+
+when there are significant path coefficients, acceptable R2 values, and good construct reliability 
+
+(Gefen et al., 2000). This is seen in Figure 1. The predictability of the model, reflected by the R2 
+
+values, is another important determinant of the strength of the model (Chin, 1998; Komiak and 
+
+Benbasat, 2004). The R2 value for the second-order variables are acceptable (25% for FSCA and 
+
+19 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 21 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+r 
+
+P
+
+13% for FSF) when compared to the R2 values seen in past empirical research studies in supply 
+
+chain management.   
+
+ 
+
+For  the  assessment  of  reliability,  composite  reliability  and  average  variance  extracted 
+
+(AVE), shown in Table 3 are the two main measurements used in this study. Composite reliability 
+
+does  not  assume  that  all  indicators  are  equally  weighted  (Chin,  1998)  which  implies  that 
+
+composite  reliability  may  be  more  appropriate  to  measure  reliability.  Composite  reliability  is 
+
+recommended to be larger than 0.7 (Barclay et al., 1995; Fornell and Larcker, 1981). The other 
+
+measure,  AVE,  denotes  the  amount  of  variance  that  a  construct  captures  from  its  indicators 
+
+F
+
+relative  to  the  amount  due  to  measurement  error  (Chin,  1998).  For  the  first-order  factor,  the 
+
+o
+
+recommended minimal critical value for AVE is 0.5 (Hu et al., 2004). The composite reliability 
+
+v
+i
+e
+
+and AVE values shown  in Table 3 are seen to meet these  criteria though  the AVE for demand 
+
+response is relatively smaller than the desired value. 
+
+e
+
+Convergent  validity  is  the  ability  of  items  in  a  scale  to  converge  or  load  together  as  a 
+
+e
+
+single  construct.  It  is  measured  by  examining  individual  loadings  for  each  block  of  indicators. 
+
+The  standardized  loadings  should  be  greater  than  0.7,  implying  that  the  indicators  share  more 
+
+R
+
+variance  with  their  respective  latent  variable  than  with  error  variance.  A  lower  bound  of  0.50 
+
+e
+
+r 
+
+may  be  sufficient  (Chin,  1998).  Table  4  provides  a  list  of  standardized  loadings  for  each 
+
+construct, and it is seen that they are above the acceptable minimum values. As for second-order 
+
+constructs, convergent validity is established by having path coefficients that are significant, and 
+
+w
+
+greater  than  0.7,  between  each  1st  order  construct  and  the  corresponding  2nd  order  construct 
+
+(Fornell and Larcker, 1981). All the path coefficients in this study are statistically significant and 
+
+greater than 0.5. Although the numerical value for several path coefficients do not satisfy the 0.7 
+
+critical value, since these 2nd-order constructs were  considered in prior studies, we believe that 
+
+the level of convergent validity is acceptable.  
+
+Discriminant  validity  represents  how  well  each  item  factor  links  to  its  hypothesized 
+
+construct  relative  to  others  (Kerlinger,  1973;  Swafford  et  al.,  2006).  Discriminant  validity  is 
+
+estimated  through:  1)  cross-loadings,  and  2)  the  relationship  between  correlations  among  first-
+
+20 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 22 of 64
+
+order constructs and the square roots of AVE (Chin, 1998; Fornell and Larcker, 1981). The cross-
+
+loadings  shown  in  Table  5  exhibit  adequate  levels  of  discriminant  validity  for  each  construct. 
+
+Every item factor in the highlighted areas of Table 5 shows strong loadings to the corresponding 
+
+latent  construct  and  low  loadings  to  other  constructs.  The  relationship  between  square  roots  of 
+
+the  AVE  values  and  the  correlations  among  first-order  latent  constructs  support  the  same 
+
+conclusion.  In  Table  3,  it  is  seen  that  the  square  roots  of  AVE  (bold  numbers  in  diagonal)  are 
+
+greater than the correlations among the constructs (off-diagonal values).  
+
+To test for common method bias, the analytical approach proposed by Liang et al., (2007) 
+
+F
+
+was  adopted.  Based  on  the  insignificant  test  results  obtained,  it  was  concluded  that  common 
+
+o
+
+method bias was not a concern in the study. 
+
+r 
+
+P
+
+Structural Model 
+
+The results from evaluation of the structural model are reported in Figure 1 and Table 6. First, in 
+
+e
+
+Figure 1, it can be seen that the standardized path coefficient from strategic sourcing to FSCA is 
+
+e
+
+r 
+
+significant (0.347; p < 0.01). Thus, a high level of strategic sourcing is seen to result in a high 
+
+level of FSCA, lending  support to H1. Likewise, the path coefficient from strategic sourcing to 
+
+R
+
+FSF  is  also  significant  (0.353;  p  <  0.05),  supporting  the  notion  that  strategic  sourcing  has  a 
+
+e
+
+positive  impact  on  the  level  of  FSF.  Hence,  H2  is  supported.  The  standardized  path  coefficient 
+
+from FSF to FSCA is also statistically significant with a path coefficient of 0.229 (p < 0.05). This 
+
+v
+i
+e
+
+result lends support to hypothesis H3 that a high level of FSF significantly contributes towards a 
+
+w
+
+high level of FSCA. Thus, it can be stated that the level of FSCA is positively influenced by both  
+
+implementation of strategic sourcing and the improvement of the levels of FSF. 
+
+ 
+
+21 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 23 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+
+ 
+
+ 
+
+ 
+
+SS 
+
+SP 
+
+IN 
+
+IS 
+
+SD 
+
+FSF 
+
+SF 
+
+DF 
+
+PF 
+
+FSCA 
+
+CR 
+
+DR 
+
+JP 
+
+Firm Size 
+
+Perishability 
+
+Process 
+
+Seasonality 
+
+ 
+
+0.865 
+
+0.925 
+
+0.763 
+
+0.896 
+
+0.855 
+
+0.743 
+
+0.828 
+
+0.829 
+
+0.768 
+
+0.773 
+
+0.848 
+
+0.704 
+
+0.811 
+
+Reliability (Composite Reliability and AVEs) & Correlations among Latent Variables 
+
+TABLE 3 
+
+Composite 
+reliability 
+
+AVE 
+
+SS 
+
+IN 
+
+IS 
+
+SD 
+
+FSF 
+
+SF 
+
+DF 
+
+PF 
+
+FSCA 
+
+CR 
+
+DR 
+
+JP 
+
+SP 
+
+ 
+
+0.355 
+
+0.804 
+
+0.518 
+
+0.742 
+
+0.596 
+
+0.897 
+
+0.753 
+
+0.680 
+
+F
+
+0.576 
+
+0.771 
+
+0.666 
+
+0.658 
+
+0.255 
+
+0.353 
+
+0.618 
+
+0.427 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.720 
+
+ 
+
+0.861 
+
+0.218 
+
+0.314 
+
+0.323 
+
+or P
+
+0.220 
+
+0.205 
+
+0.044 
+
+0.300 
+
+0.057 
+
+0.481 
+
+0.438 
+
+0.404 
+
+e
+
+0.001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.816 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.247 
+
+0.505 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.391 
+
+0.762 
+
+0.786 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.619 
+
+-0.098 
+
+-0.085 
+
+0.528 
+
+0.241 
+
+0.091 
+
+-0.008 
+
+0.022 
+
+0.291 
+
+0.441 
+
+0.276 
+
+0.195 
+
+0.653 
+
+0.220 
+
+0.141 
+
+0.080 
+
+0.454 
+
+0.147 
+
+0.146 
+
+0.041 
+
+0.373 
+
+0.518 
+
+-0.194 
+
+0.140 
+
+0.686 
+
+er R
+
+0.413 
+
+0.228 
+
+0.281 
+
+0.362 
+
+0.169 
+
+0.359 
+
+0.102 
+
+0.109 
+
+0.082 
+
+0.787 
+
+0.201 
+
+0.220 
+
+0.727 
+
+0.388 
+
+0.086 
+
+0.175 
+
+0.540 
+
+0.276 
+
+0.181 
+
+0.085 
+
+0.816 
+
+0.808 
+
+0.593 
+
+0.541 
+
+0.300 
+
+0.278 
+
+0.465 
+
+0.501 
+
+ 
+
+0.108 
+
+0.076 
+
+0.013 
+
+0.040 
+
+0.177 
+
+0.098 
+
+0.062 
+
+0.208 
+
+0.078 
+
+-0.032 
+
+-0.159 
+
+-0.145 
+
+-0.102 
+
+-0.129 
+
+-0.069 
+
+0.060 
+
+0.073 
+
+0.086 
+
+0.027 
+
+-0.004 
+
+0.099 
+
+0.102 
+
+0.000 
+
+0.302 
+
+0.155 
+
+0.361 
+
+0.155 
+
+e
+vie
+
+-0.028 
+
+0.153 
+
+0.009 
+
+0.049 
+
+-0.196 
+
+-0.079 
+
+-0.039 
+
+-0.073 
+
+-0.075 
+
+0.121 
+
+0.610 
+
+0.367 
+
+0.674 
+
+0.176 
+
+0.684 
+
+0.250 
+
+0.160 
+
+0.770 
+
+-0.036 
+
+0.109 
+
+0.050 
+
+0.062 
+
+0.123 
+
+-0.066 
+
+0.020 
+
+-0.032 
+
+0.051 
+
+0.046 
+
+-0.042 
+
+w
+
+0.075 
+
+0.017 
+
+-0.016 
+
+-0.092 
+
+0.025 
+
+-0.014 
+
+-0.207 
+
+0.119 
+
+0.074 
+
+0.113 
+
+0.080 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Construct 
+
+Firm Size 
+
+ 
+14 
+15  Perishability 
+16 
+17  Seasonality 
+
+Process 
+
+15 
+
+16 
+
+14 
+
+ 
+
+0.066 
+
+ 
+
+ 
+
+0.007 
+
+-0.192 
+
+-0.038 
+
+0.079 
+
+-0.173 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note 1: although one correlation (shown in Italic) between CR and FSCA construct is 
+larger than the corresponding square root of AVE, this technique applies merely to 
+investigate discriminant validity among first-order construct.
+
+ 
+
+22 
+
+
+International Journal of Operations and Production Management
+
+Page 24 of 64
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+ 
+
+ 
+
+ 
+
+TABLE 4 
+
+Convergent Validity (Item Loading) 
+
+Construct 
+
+Sub-Construct 
+
+Factor 
+
+Strategic Sourcing 
+
+(SS) 
+
+Strategic Purchasing (SP) 
+
+Internal Integration (IN) 
+
+Information Sharing (IS) 
+
+F
+
+Supplier Development (SD) 
+
+o
+
+ 
+
+r 
+
+P
+
+ 
+
+Supply Flexibility (SF) 
+
+Firm’s Strategic 
+Flexibility (FSF) 
+
+Firm’s Supply Chain 
+
+Agility (FSCA) 
+
+e
+Product Design-related 
+
+Process-related Flexibility (PF) 
+
+Flexibility (DF) 
+e
+
+r 
+
+ 
+
+R
+
+Customer Responsiveness (CR) 
+
+e
+
+Demand Response (DR) 
+
+SP1 
+SP2 
+SP3 
+IN1 
+IN2 
+IN3 
+IS1 
+IS2 
+IS3 
+SD1 
+SD2 
+SD3 
+SF1 
+SF2 
+SF3 
+DF1 
+DF2 
+DF3 
+PF1 
+PF2 
+PF3 
+CR1 
+CR2 
+CR3 
+v
+i
+DR1 
+DR2 
+e
+DR3 
+JP1 
+JP2 
+JP3 
+
+Joint Planning (JP) 
+
+w
+
+Note: *** Significant at 0.01 level; ** significant at 0.05 level 
+
+Loading 
+0.903*** 
+0.918*** 
+0.870*** 
+0.698*** 
+0.687*** 
+0.771*** 
+0.889*** 
+0.916*** 
+0.773*** 
+0.690*** 
+0.897*** 
+0.846*** 
+0.690*** 
+0.857*** 
+0.800*** 
+0.761* 
+0.719* 
+0.873** 
+0.646*** 
+0.681*** 
+0.838*** 
+0.718*** 
+0.813*** 
+0.885*** 
+0.553*** 
+0.559*** 
+0.863*** 
+0.612*** 
+0.837*** 
+0.839*** 
+
+23 
+
+
+Page 25 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+   
+
+SP1 
+
+SP2 
+
+SP3 
+
+IN1 
+
+IN2 
+
+IN3 
+
+IS1 
+
+IS2 
+
+IS3 
+
+SD1 
+
+SD2 
+
+SD3 
+
+SF1 
+
+SF2 
+
+SF3 
+
+DF1 
+
+DF2 
+
+DF3 
+
+PF1 
+
+PF2 
+
+PF3 
+
+CR1 
+
+CR2 
+
+CR3 
+
+DR1 
+
+DR2 
+
+DR3 
+
+JP1 
+
+JP2 
+
+JP3 
+
+     SP 
+
+0.903 
+
+0.918 
+
+0.870 
+
+0.450 
+
+0.425 
+
+0.384 
+
+0.296 
+
+0.291 
+
+0.244 
+
+0.110 
+
+0.250 
+
+0.154 
+
+0.244 
+
+0.314 
+
+0.152 
+
+-0.021 
+
+-0.022 
+
+0.014 
+
+0.067 
+
+0.111 
+
+0.192 
+
+0.025 
+
+0.122 
+
+0.042 
+
+-0.060 
+
+-0.106 
+
+TABLE 5   
+
+Cross-loading Among Variables 
+     SD 
+     PF 
+
+     DF 
+
+     SF 
+
+-0.066 
+
+-0.065 
+
+-0.097 
+
+0.063 
+
+0.079 
+
+-0.127 
+
+-0.005 
+
+-0.035 
+
+0.048 
+
+-0.149 
+
+-0.140 
+
+-0.190 
+
+-0.009 
+
+0.101 
+
+0.087 
+
+0.761 
+
+0.719 
+
+0.873 
+
+     IN 
+
+0.566 
+
+0.506 
+
+0.472 
+
+0.699 
+
+0.687 
+
+0.771 
+
+0.279 
+
+0.260 
+
+0.272 
+
+     IS 
+
+0.343 
+
+0.234 
+
+0.283 
+
+0.171 
+
+0.181 
+
+0.307 
+
+0.889 
+
+0.916 
+
+0.773 
+
+0.155 
+
+F
+
+0.255 
+
+0.236 
+
+0.104 
+
+0.238 
+
+0.087 
+
+0.073 
+
+0.284 
+
+0.434 
+
+0.400 
+
+0.409 
+
+0.690 
+
+0.419 
+o
+0.477 
+
+0.897 
+
+0.846 
+
+0.385 
+
+0.330 
+
+0.403 
+
+r 
+
+0.244 
+
+0.309 
+
+0.263 
+
+0.230 
+
+0.035 
+
+-0.042 
+
+0.109 
+
+0.374 
+
+0.368 
+
+0.298 
+
+0.264 
+
+0.332 
+
+0.354 
+
+0.690 
+
+0.857 
+
+P
+
+0.300 
+
+0.802 
+
+-0.239 
+
+e
+
+-0.004 
+
+-0.011 
+
+-0.142 
+
+-0.112 
+
+e
+
+0.152 
+
+0.244 
+
+0.132 
+
+0.042 
+
+0.109 
+
+-0.020 
+
+0.039 
+
+0.074 
+
+-0.012 
+
+0.036 
+
+0.027 
+
+0.154 
+
+-0.017 
+
+0.058 
+
+0.255 
+
+0.000 
+
+-0.101 
+
+0.060 
+
+0.118 
+
+0.247 
+
+0.420 
+
+0.253 
+
+0.052 
+
+0.110 
+
+0.099 
+
+0.054 
+
+0.090 
+
+0.008 
+
+0.080 
+
+0.300 
+
+0.312 
+
+0.357 
+
+0.097 
+
+0.062 
+
+0.188 
+
+0.133 
+
+0.153 
+
+0.185 
+
+0.104 
+
+0.106 
+
+0.259 
+
+0.646 
+
+0.681 
+
+0.838 
+
+0.071 
+
+0.041 
+
+0.093 
+
+0.160 
+
+0.259 
+
+0.059 
+
+0.224 
+
+0.098 
+
+0.108 
+
+r 
+
+0.037 
+
+0.339 
+
+0.060 
+
+0.250 
+
+0.076 
+R
+0.066 
+
+0.167 
+
+0.206 
+
+0.285 
+
+0.200 
+
+e
+
+0.112 
+
+0.013 
+
+0.150 
+v
+0.211 
+i
+0.016 
+e
+
+0.073 
+
+0.023 
+
+-0.077 
+
+0.024 
+
+0.120 
+
+     CR 
+
+0.105 
+
+0.151 
+
+0.126 
+
+0.145 
+
+0.114 
+
+0.095 
+
+0.153 
+
+0.194 
+
+0.145 
+
+0.223 
+
+0.180 
+
+0.194 
+
+0.204 
+
+0.253 
+
+0.145 
+
+0.143 
+
+0.147 
+
+0.117 
+
+-0.016 
+
+0.066 
+
+0.718 
+
+0.813 
+
+0.885 
+
+0.214 
+
+0.133 
+
+0.340 
+
+-0.045 
+
+-0.008 
+
+-0.019 
+
+-0.010 
+
+-0.065 
+
+-0.049 
+
+-0.094 
+
+0.189 
+
+0.181 
+
+0.225 
+
+0.281 
+
+0.086 
+
+0.103 
+
+0.296 
+
+0.214 
+
+0.173 
+
+0.306 
+
+0.273 
+
+0.496 
+
+0.120 
+
+0.234 
+
+0.388 
+
+0.501 
+
+0.148 
+
+0.125 
+
+0.273 
+
+0.399 
+
+0.038 
+
+w
+0.139 
+
+0.098 
+
+-0.020 
+
+-0.088 
+
+0.073 
+
+0.204 
+
+0.241 
+
+0.215 
+
+ 
+
+TABLE 6 
+
+Path Coefficients for Overall Hypothesized Model 
+
+-0.122 
+
+-0.080 
+
+     DR 
+
+0.165 
+
+0.155 
+
+0.070 
+
+0.103 
+
+0.038 
+
+-0.037 
+
+0.047 
+
+0.061 
+
+0.163 
+
+0.031 
+
+0.115 
+
+0.106 
+
+-0.005 
+
+0.183 
+
+0.162 
+
+     JP 
+
+0.285 
+
+0.241 
+
+0.277 
+
+0.093 
+
+0.129 
+
+0.344 
+
+0.400 
+
+0.430 
+
+0.370 
+
+0.228 
+
+0.490 
+
+0.464 
+
+0.366 
+
+0.229 
+
+0.279 
+
+-0.033 
+
+-0.066 
+
+-0.037 
+
+-0.006 
+
+0.042 
+
+0.123 
+
+0.100 
+
+0.053 
+
+0.143 
+
+0.275 
+
+0.441 
+
+0.553 
+
+0.559 
+
+0.863 
+
+0.104 
+
+0.154 
+
+0.109 
+
+-0.025 
+
+0.006 
+
+0.129 
+
+0.232 
+
+0.308 
+
+0.101 
+
+0.198 
+
+0.019 
+
+-0.006 
+
+0.215 
+
+0.612 
+
+0.837 
+
+0.839 
+
+ 
+
+SP 
+
+IN 
+
+IS 
+
+SD 
+
+FSF 
+
+SS 
+
+0.753***  0.680***  0.771***  0.658***  0.353** 
+
+SF 
+
+ 
+
+DF 
+
+ 
+
+ 
+
+0.347*** 
+
+PF 
+
+FSCA 
+
+CR 
+
+DR 
+
+JP 
+
+0.762*** 
+
+0.518*** 
+
+0.686*** 
+
+0.229** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.818*** 
+
+0.610*** 
+
+0.684*** 
+
+Note: FSF: Firm’s strategic flexibility; FSCA: Firm’s supply chain agility 
+
+*** Significant at 0.01 level;   ** Significant at 0.05 level 
+
+ 
+
+24 
+
+FSF 
+
+FSCA 
+
+ 
+
+ 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 26 of 64
+
+ 
+
+ 
+
+In order to test for the mediation effects of FSF (Hypothesis 4), the guidelines of Baron 
+
+and  Kenny  (1986)  were  followed:  two  separate  models,  as  shown  in  Figure  1,  needed  to  be 
+
+assessed: one with FSF and one without FSF, in order to assess the direct path coefficient of the 
+
+relationship  between  strategic  sourcing  and  FSCA.  This  procedure  has  also  been  adopted  in  
+
+many  other  studies  e.g.,  Shamir  et  al.  (1998).  This  procedure  states  three  conditions  for  the 
+
+presence  of  a  full  mediation  effect:  1)  variations  in  level  of  the  independent  variable  (strategic 
+
+sourcing)  significantly  account  for  variations  in  the  presumed  mediator  (FSF),  2)  variations  in 
+
+F
+
+the mediator (FSF) significantly account for variations in the dependent variable (FSCA), and, 3) 
+
+o
+
+when  the  paths  between  independent  variable  and  mediator,  and  between  mediator  and 
+
+r 
+
+P
+
+dependent  variable  are  controlled,  a  previously  significant  relation  between  the  independent 
+
+variable (strategic sourcing) and dependent variable (FSCA) is no longer significant. 
+
+e
+
+Table  7  shows  the  results  for  the  two  PLS  models:  the  hypothesized  model  with 
+
+e
+
+mediation  effect  and  the  alternate  model  without  FSF  to  assess  the  direct  effects  of  strategic 
+
+sourcing  on  FSCA.  In  the  alternate  model,  strategic  sourcing  was  analyzed  as  the  only 
+
+R
+
+independent  variable.  Firm  size,  production  process,  product  seasonality,  and  product 
+
+e
+
+r 
+
+perishability were considered as control variables in both models. It can be seen in Table 7 that 
+
+the path coefficients for the hypothesized model are both positive and significant. The alternate 
+
+v
+i
+e
+
+PLS model indicates that FSCA is positively and significantly related to strategic sourcing. Our 
+
+w
+
+results  meet  the  first  two  conditions,  requiring  FSF  to  be  influenced  by  strategic  sourcing,  and 
+
+FSCA to be significantly affected by FSF. However, the results do not meet the third necessary 
+
+condition that the path coefficient between strategic sourcing and FSCA becomes insignificant or 
+
+at  least  reduced.  Since  the  path  coefficient  between  strategic  sourcing  and  FSCA  remains  as 
+
+significant and strong, it can be concluded that a full mediation effect of FSF does not exist.  
+
+ 
+
+ 
+
+25 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 27 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+Standardized Path Coefficients for Testing for Mediation Effect of FSF 
+
+TABLE 7 
+
+ 
+
+Hypothesized Model  Alternate Model without FSF 
+
+Strategic Sourcing 
+
+0.346** 
+
+0.428*** 
+
+FSF 
+
+0.344*** 
+
+ 
+
+Note: *** Significant at 0.01 level;   ** Significant at 0.05 level 
+
+ 
+
+ 
+
+ 
+
+On the other hand, according to Sosik et al. (2009), partial mediation exists when the path 
+
+F
+
+coefficients between the predictor variable, strategic sourcing, and the intervening variable, FSF, 
+
+o
+
+and between the intervening variable and outcome variable,  FSCA, are  significant. Thus, since 
+
+the direct path and the two mediating paths were both significant, a partial mediation effect can 
+
+stated to exist, and thus H4 is supported for a partial mediation effect.  
+
+e
+
+The path coefficients for all four control variables are positive but insignificant, as seen in 
+
+e
+
+Figure  1.  The  values  for  the  path  coefficient  from  firm  size,  production  process,  product 
+
+r 
+
+seasonality, and product  perishability to FSCA  are 0.07, 0.01, 0.08, and 0.02, respectively. The 
+
+R
+
+insignificant  path  coefficients  imply  that  these  factors  do  not  influence  the  relationships  in  the 
+
+e
+
+proposed  model.  The  model  relationships  among  strategic  sourcing,  strategic  flexibility  and 
+
+r 
+
+P
+
+agility were thus found to be robust, regardless of the settings of the contextual variables. 
+
+  
+
+w
+DISCUSSION & MANAGERIAL IMPLICATIONS 
+
+The research  results are  discussed below in the following order.  First, the relationship between 
+
+strategic sourcing and a firm’s supply chain agility (FSCA) is discussed. The impact of strategic 
+
+sourcing on a firm’s strategic flexibility (FSF) is described next, followed by an examination of 
+
+the relationship between FSF and FSCA. The mediation effect of FSF, which was not found to 
+
+exist, is discussed next, followed by a discussion on the influence of contextual factors on FSCA. 
+
+Impact of Strategic Sourcing on FSCA  
+
+Strategic  sourcing,  consisting  of  strategic  purchasing,  internal  integration,  information  sharing, 
+
+ 
+
+26 
+
+v
+i
+e
+
+
+International Journal of Operations and Production Management
+
+Page 28 of 64
+
+and supplier development, were found to be direct antecedents of FSCA, explaining a significant 
+
+portion of the variance in the FSCA construct. In addition, strategic sourcing was also found to 
+
+have  an  indirect  relationship  to  FSCA  through  FSF.  These  results  empirically  validate  the 
+
+assertions made by Das (2001), Paulraj and Chen (2007), and Khan and Pillania (2008) that the 
+
+adoption of strategic sourcing may be a contributing factor for supply chain agility. The results 
+
+support the notion that the implementation of strategic sourcing enhances a firm’s supply chain 
+
+agility  (FSCA)  in  order  to  adapt  or  respond  in  a  speedy  manner  to  marketplace  changes,  both 
+
+before and after the changes have occurred.   
+
+F
+
+From a dynamic capabilities perspective, Teece  et  al. (1997) suggested that competitive 
+
+o
+
+advantages  result  from  a  firm’s  distinctive  processes,  specific  asset  positions,  and  evolutionary 
+
+r 
+
+P
+
+v
+i
+e
+
+path.  Strategic  sourcing,  especially  enhanced  buyer-supplier  relationships  through  information 
+
+sharing and supplier development practices, may be regarded  as a  competence and expected to 
+
+e
+
+improve  performance  and  competitiveness.  More  specifically,  strategic  sourcing  is  also 
+
+considered  a  structural  asset  for  external  linkages  in  dynamic  capabilities  and,  thus,  has  an 
+
+important bearing on how competencies and capabilities co-evolve and develop. Hence, FSCA is 
+
+R
+
+seen  to  be  a  critical  dynamic  capability  in  a  volatile  environment,  consistent  with  earlier  
+
+e
+
+e
+
+r 
+
+assertions (e.g., Agarwal et al., 2007).  
+
+Strategic  purchasing  helps  to  select  a  group  of  strategic  suppliers  to  develop  a  possible 
+
+long-term  partnership.  Internal  integration  enables  purchasing  to  understand  the  needs  of  other 
+
+w
+
+functions like design, R&D and production. These two elements of strategic sourcing provide a 
+
+basis  for  the  company  to  connect  its  internal  functions  with  external  partners  through  one 
+
+strategic  and  informative  purchasing  function.  Information  sharing  and  supplier  development 
+
+then enhances the relationship between the firm and its selected suppliers. The close relationship 
+
+and  the  strategic  role  of  purchasing,  thus,  provide  a  foundation  to  conduct  joint  planning, 
+
+response to market demand change,  and satisfy  specific  customer  requirements on the product. 
+
+These  associations  are  examined  through  the  correlations  between  factors.  Thus,  firms  can 
+
+strengthen FSCA and improve the performance through the implementation of strategic sourcing.   
+
+27 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 29 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+Impact of Strategic Sourcing on FSF  
+
+FSF was also found to be affected by the adoption of strategic sourcing. We found that strategic 
+
+sourcing  has  significant  and  positive  influence  on  product  design-related  flexibility  (mix 
+
+flexibility,  new  design  flexibility,  and  modification  flexibility),  process-related  flexibility 
+
+(volume flexibility and labor flexibility), and supply flexibility. These results mostly satisfy our 
+
+expectations  in  studying  the  relationship  between  strategic  sourcing  and  the  internal  strategic 
+
+flexibility competence, which serves as the foundation for the competence-capability mechanism 
+
+in flexibility-agility relationship.  
+F
+
+The only inconclusive relationship observed was between strategic sourcing and machine 
+
+o
+
+flexibility within process-related flexibilities. This result is consistent with the arguments made 
+
+by Narasimhan and Das (1999a) that strategic sourcing may not have a bearing on machine and 
+
+labor  flexibilities.  However,  a  positive  association  was  found  between  strategic  sourcing  and 
+
+e
+
+multi-functionality of labor.  
+
+Impact of FSF on FSCA  
+
+e
+
+r 
+
+FSF  was  found  to  be  an  antecedent  of  FSCA.  This  part  of  the  investigation  confirms  past 
+
+R
+
+findings that flexibility is a valid antecedent to develop agility under the competence/capability 
+
+e
+
+paradigm (e.g. Swafford et al., 2006). Yet, this study extends past research beyond the focal firm 
+
+r 
+
+P
+
+a little more to the supply chain level by evaluating supply flexibility in addition to the flexibility 
+
+v
+i
+e
+
+within the focal firm.  
+
+w
+
+Impact of Mediation Effect of Flexibility  
+
+In this study, two causal paths were investigated between strategic sourcing and FSCA. The first 
+
+is a direct path connecting the two factors while the other considers FSF as a mediator, linking 
+
+strategic sourcing and FSCA. Prior studies have investigated relationships among selected pairs 
+
+of  sub-constructs  of  these  three  factors,  but  none  has  explored  mediation  effects  of  flexibility. 
+
+The  results  demonstrate  that  the  direct  effect  of  strategic  sourcing  on  FSCA  is  greater  than  the 
+
+indirect influence through FSF. Thus, although it might be concluded that the implementation of 
+
+strategic  sourcing  in  itself  contributes  significantly  and  directly  to  external-facing  FSCA,  FSF 
+
+28 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 30 of 64
+
+does  have  a  partially  mediating  influence  on  the  enhancement  of  FSCA.  This  is  a  new  finding 
+
+resulting from the current study.  
+
+ 
+
+CONCLUSIONS 
+
+A  firm’s  supply  chain  agility  is  a  critical  capability  for  survival  in  today’s  dynamic  business 
+
+environments.  Given  this  fact,  this  work  examined  the  antecedent  role  of  strategic  sourcing  in 
+
+building FSCA and investigated the influence of contextual factors on the FSCA. Building on the 
+
+foundations of works such as Kocabasoglu and Suresh (2006), Swafford et al. (2006), Khan and 
+
+Pillania  (2008),  and  Braunscheidel  and  Suresh  (2009),  this  research  extended  our  current 
+
+F
+
+o
+
+understanding of FSCA in the following ways.  
+
+r 
+
+P
+
+Strategic  sourcing  was  examined  in  conjunction  with  the  firm’s  strategic  flexibility,  as 
+
+antecedents  of  FSCA.  This  study  applied  dynamic  capabilities  theoretical  perspective  and  the 
+
+e
+
+competence-capability  relationship  to  construct  and  examine  the  relationships  among  the  three 
+
+e
+
+r 
+
+latent factors. To the best of our knowledge this is the first in the research stream of supply chain 
+
+agility  to  utilize  these  theoretical  bases.  The  findings  also  showed  that  strategic  sourcing  has  a 
+
+R
+
+greater  influence  on  FSCA  than  FSF.  In  addition,  the  mediation  effect  of  FSF  was  not  to  be 
+
+e
+
+significant.  This  finding  adds  to  the  findings  of  previous  studies,  which  primarily  focused  on 
+
+only  two  of  the  three  variables  considered  at  a  time.  For  example,  in  Swafford  et  al.  (2006), 
+
+v
+i
+e
+
+supply  chain  process  flexibility  was  proposed  to  directly  contribute  to  the  development  of 
+
+w
+
+internal  supply  chain  agility.  Khan  and  Pillania  (2008)  investigated  the  relationship  between 
+
+strategic  sourcing  and  supply  chain  agility.  Braunscheidel  and  Suresh  (2009)  tested  the 
+
+relationship  between  FSCA  and  organizational  practices  and  provided  a  more  comprehensive 
+
+formation for FSCA.  
+
+This  study  also  examined  the  influence  of  contextual  factors  on  FSCA.  This  research 
+
+responds  to  van  der  Vaart  and  van  Donk's  (2008)  call  to  investigate  the  effect  of  business 
+
+conditions in survey studies. Through path analysis, none of the investigated contextual variables 
+
+presented  a  significant  impact  on  FSCA.  Hence  it  can  be  stated  that  a  manufacturing  firm  can 
+
+ 
+
+29 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 31 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+augment  business  agility  through  strategic  sourcing  and  flexibility  initiatives  regardless  of  the 
+
+specific  business  conditions  or  business  characteristics  such  as  firm  size  is,  production  process 
+
+used, and whether the products offered have seasonality or perishability characteristics.  
+
+Since  FSCA  research  is  still  in  its  early  stages,  a  set  of  reliable  and  generally-accepted 
+
+measurements are still under development. This study was based on US manufacturing firms. As 
+
+another  possible  future  extension,  it  may  be  important  to  understand  whether  similar 
+
+relationships are observed in service industries. Service industries have significant influences in 
+
+every supply chain to fulfill end consumer demand and to develop the supply chain agility.  It is 
+
+F
+
+of great value to consider service industries such as the retail sector, when discussing the issues 
+
+o
+
+of supply chain agility. In addition, considering the importance of FSCA to survive in a dynamic 
+
+market, it is critical to identify other antecedent factors by considering other manufacturing and 
+
+r 
+
+P
+
+non-manufacturing practices and organizational perspectives.   
+
+e
+
+Some  of  the  common  limitations  of  survey-based  research  apply  to  this  study  as  well. 
+
+e
+
+These include, for instance, the limitations arising from reliance on key informants and the need 
+
+for further research improvements in the assessment and reduction of common methods variance. 
+
+R
+
+Furthermore,  the  survey  data  are  cross-sectional,  which  may  limit  the  predictive  ability  of  the 
+
+e
+
+r 
+
+conclusions over time. In addition, due to the limited number of observations in the survey data, 
+
+this  study  might  only  partially  revalidate  the  finding  so  prior  works.  Likewise,  there  may  be 
+
+v
+i
+e
+
+other  limitations  arising  from  the  methods  applied.  The  use  of  PLS  is  still  relatively  in  the 
+
+w
+
+nascent stages, despite its strong theoretical groundings. PLS is often used when faced with small 
+
+sample sizes, in conjunction with bootstrapping. In such cases, the stability of path coefficients 
+
+may be reduced since bootstrapping is strongly influenced by the variation in the original sample.  
+
+ 
+References: 
+ 
+Agarwal, A., R. Shankar and M. K. Tiwari (2007), "Modeling agility of supply chain", Industrial 
+
+Marketing Manageent, Vol.36 No.4, pp.443 - 457. 
+
+Aitken,  J.,  M.  Christopher  and  D.  R.  Towill  (2002),  "Understanding,  implementing  and 
+exploiting  agility  and  leanness",  International  Journal  of  Logistics  Research  and 
+Applications, Vol.5 No.1, pp.59 - 74. 
+
+30 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 32 of 64
+
+Andrews, K. (1987), The Concept of Corporate Strategy, 3rd edn. Dow Jones-Irwin, Homewood, 
+
+IL.  
+
+Armstrong, J.S. and T. S. Overton (1977), “Estimating non-response bias in mail surveys”, 
+
+Journal of Marketing Research, Vol.4 No.3, pp. 396–402. 
+
+Baker, P. (2008), "The design and operation of distribution centres within agile supply chains", 
+
+International Journal of Production Economics, Vol.111 No.1, pp.27 - 41. 
+
+Barclay, D., R. Thompson and C. Higgins (1995), "The partial least squares (PLS) approach to 
+causal modeling: Personal computer adoption and use and illustration", Technology Studies 
+Vol.2 No.2, pp.285 - 309. 
+
+Baron,  R.  M.  and  D.  A.  Kenny  (1986),  "The  moderator-mediator  variable  distinction  in  social 
+psychological  research:  Conceptual,  strategic,  and  statistical  considerations",  Journal  of 
+Personality and Social Psychology, Vol.51 No.6, pp.1173 - 1182. 
+
+e
+
+r 
+
+Braunscheidel, M. J. and N. C. Suresh (2009), "The organizational antecedents of a firm's supply 
+chain agility for risk mitigation and response", Journal of Operations Management, Vol.27 
+No.2, pp.119 - 140. 
+
+F
+
+Carr,  A.  S.  and  J.  N.  Pearson  (1999),  "Strategically  managed  buyer-supplier  relationships  and 
+
+performance outcomes", Journal of Operations Management, Vol.17 No.5, pp.497 - 519. 
+
+Cavinato, J. L. (1991), "Evolving procurement organizations: Logistics implications", Journal of 
+
+o
+
+r 
+
+Business Logistics, Vol.13 No.1, pp.22 - 44. 
+
+P
+
+Chen,  I.  J.,  A.  Paulraj  and  A.  A.  Lado  (2004),  "Strategic  purchasing,  supply  management,  and 
+
+firm performance", Journal of Operations Management, Vol.22 No.5, pp.439 - 531. 
+
+e
+
+Chin, W. W. (1998), "Issues and opinion on structural equation modeling", MIS Quarterly, Vol.22 
+
+No.1, pp.vii - xvi. 
+
+Christopher,  M.  (2000),  "The  agile  supply  chain:  Competing  in  volatile  markets",  Industrial 
+
+Marketing Management, Vol.29 No.1, pp.37 - 44. 
+
+Christopher,  M.  and  D.  R.  Towill  (2000),  "Supply  chain  migration  from  lean  and  functional  to 
+agile  and customised",  Supply  Chain  Management:  An  International  Journal, Vol.5 No.4, 
+pp.206 - 213. 
+
+e
+
+R
+
+Cohen, W. M. and S. Klepper (1992), "The tradeoff between firm size and diversity in the pursuit 
+
+of technological progress", Small Business Economics, Vol.4 No.1, pp.1 - 14. 
+
+Das, A. (2001), "Towards theory building in manufacturing flexibility", International Journal of 
+
+v
+i
+e
+
+Production Research, Vol.39 No.18, pp.4153 - 4177. 
+
+Dillman,  D.  A.  (1978),  Mail  and  Telephone  Surveys:  The  Total  Design  Methods,  Wiley 
+
+w
+
+Interscience, New York. 
+
+Droge,  C.,  J.  Jayaram  and  S.  K.  Vickery  (2004),  "The  effects  of  internal  versus  external 
+integration practices on time-based performance and overall firm performance", Journal of 
+Operations Management, Vol.22 No.6, pp.557 - 573. 
+
+Duclos,  L.  K.,  R.  J.  Vokurka  and  R.  R.  Lummus  (2003),  "A  conceptual  model  of  supply  chain 
+
+flexibility", Industrial Manageent & Data Systems, Vol.103 No.6, pp.446 - 456. 
+
+Dwyer, F. R., P. H. Shurr and S. Oh (1987), "Developing buyer-seller relationships", Journal of 
+
+Marketing, Vol.51 No.2, pp.11 - 27. 
+
+Dyer,  J.  H.  and  H.  Singh  (1998),  "The  relational  view:  Cooperative  strategy  and  sources  of 
+interorganizational competitive advantage", Academy of Management Review, Vol.23 No.4, 
+pp.660 - 679. 
+
+Efron, B. and R. J. Tibshirani (1998), An Introduction to the Bootstrap, Chapman & Hall / CRC, 
+
+Florida. 
+
+Eng,  T.  Y.  (2005),  "The  influence  of  a  firm's  cross  functional  orientation  on  supply  chain 
+
+performance", Journal of Supply Chain Management, Vol.41 No.4, pp.4 - 16. 
+
+31 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 33 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+r 
+
+Fisher,  M.  L.  (1997),  "What  Is  the  Right  Supply  Chain  for  Your  Product?,"  Harvard  Business 
+
+Review, Vol. 75 Issue 2, p105-116. 
+
+Fornell,  C.  and  D.  Larcker  (1981),  "Evaluating  structural  equation  models  with  onobservable 
+
+variables and measurement error", Journal of Marketing Research, Vol.18 pp.39 - 50. 
+
+Frohlich,  M.  T.  and  J.  R.  Dixon  (2001),  "A  taxonomy  of  manufacturing  strategies  revisited", 
+
+Journal of Operations Management, Vol.19 No.5, pp.541 - 558. 
+
+Gefen, D., D. W. Staub and M. Boudreau (2000), "Structural equation modeling and regression: 
+guideliness  for  research  practice",  Communications  of  the  Association  for  Information 
+Systems, Vol.1 No.7, pp.1 - 78. 
+
+Gefen,  D.  and  D.  Straub  (2005),  "A  practical  guide  to  factorial  validity  using  PLS-Graph: 
+Tutorial  and  annotated  example",  Communications  of  the  Association  for  Information 
+Systems, Vol.16 No.July, pp.91 - 109. 
+
+Gonzalez-Benito,  J.  (2007),  "A  theory  of  purchasing's  contribution  to  business  performance", 
+
+Journal of Operations Management, Vol.25 No.4, pp.901 - 917. 
+
+F
+
+Hitt,  M.  A.,  B.  W.  Keats  and  S.  M.  Demarie  (1998),  "Navigating  in  the  new  competitive 
+landscape:  building  strategic  flexibility  and  competitive  advantage  in  the  21st  century", 
+Academy of Management Executive, Vol.12 No.4, pp.22 - 42. 
+
+o
+
+Hu, X., Z. Lin, A. B. Whinston and H. Zhang (2004), "Hope or hype: On the viability of escrow 
+services  as  trusted  third  parties  in  online  action  environments",  Information  Systems 
+Research, Vol.15 No.3, pp.236 - 249. 
+
+P
+
+Jack, E. P. and A. Raturi (2002), "Sources of volume flexibility and their impact on performance", 
+
+e
+
+Journal of Operations Management, Vol.20 No.5, pp.519 - 548. 
+
+e
+
+Jin,  B.  (2004),  "Achieving  an  optimal  global  versus  domestic  sourcing  balance  under  demand 
+uncertainty",  International  Journal  of  Operations  &  Production  Management,  Vol.24 
+No.12, pp.1292 - 1305. 
+
+r 
+
+Kerlinger, F. N. (1973), Foundations of Behavioral Research, Holt, Rinehart, and Winston, Inc., 
+
+R
+
+New York. 
+
+e
+
+Khan,  A.  K.  and  R.  K.  Pillania  (2008),  "Strategic  sourcing  for  supply  chain  agility  and  firms' 
+performance:  A  study  of  Indian  manufacturing  sector",  Management  Decision,  Vol.46 
+No.10, pp.1508 - 1530  
+
+Kocabasoglu, C. and N. C. Suresh (2006), "Strategic sourcing: An empirical investigation of the 
+concept  and  its  practices  in  U.S.  manufacturing  firms",  Journal  of  Supply  Chain 
+Management, Vol.42 No.2, pp.4 - 16. 
+
+w
+
+Komiak,  S.  Y.  X.  and  I.  Benbasat  (2004),  "Understanding  customer  trust  in  agent-mediated 
+electronic  commerce,  web-mediated  electronic  commerce,  and  traditional  commerce", 
+Information Technology and Management, Vol.5 No.1-2, pp.181 - 207. 
+
+v
+i
+e
+
+Krafcik,  J.  F.  (1988),  "Triumph  of  the  lean  production  system",  Sloan  Management  Review, 
+
+Vol.30 No.1, pp.41 - 52. 
+
+Krause, D. R. (1999), "The antecedents of buying firms' efforts to improve suppliers", Journal of 
+
+Operations Management, Vol.17 No.2, pp.205 - 224. 
+
+Krause,  D.  R.,  T.  V.  Scannell  and  R.  J.  Calantone  (2000),  "A  structural  analysis  of  the 
+effectiveness  of  buying  firms'  strategies  to  improve  supplier  performance",  Decision 
+Sciences, Vol.31 No.1, pp.33 - 55. 
+
+Kristal,  M.  M.,  X.  Huang  and  R.  G.  Schroeder  (2010),  "  The  effect  of  an  ambidextrous  supply 
+chain strategy on combinative competitive capabilities and business performance", Journal 
+of Operations Management, Vol.28 No.5, pp.415 - 429. 
+
+Lamming,  R.,  T.  Johnsen,  J.  Zheng  and  C.  Harland  (2000),  "An  initial  classification  of  supply 
+network",  International  Journal  of  Operations  &  Production  Management,  Vol.20  No.6, 
+32 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 34 of 64
+
+pp.675 - 691. 
+
+Ledyard,  M.,  &  Keough,  B.  (2007).  "Demand-driven  supply  chain  meets  offshoring",  Supply 
+
+Chain Management Review, Vol.11 No.5, pp.11 - 12. 
+
+Lee,  H.  L.  (1996),  "Effective  inventory  and  service  management  through  product  and  process 
+
+redesign", Operations Research, Vol.44 No.1, pp.151 - 159. 
+
+Lee, H. L. (2004), "The triple-a supply chain", Harvard Business Review, Vol.82 No.10, pp.102 - 
+
+112. 
+
+Li,  L.-Y.  and  G.  O.  Ogunmokun  (2008),  "  An  empirical  study  of  manufacturing  flexibility  of 
+exporting firms in China: How do strategic and organizational contexts matter?", Industrial 
+Marketing Management, Vol.37 No.6, pp.738 - 751. 
+
+Liang, H., N. Saraf, Q. Hu and Y. Xue (2007), "Assimilation of enterprise systems: The effect of 
+institutional pressures and the mediating role of top management", MIS Quarterly, Vol.31 
+No.1, pp.59 - 87. 
+
+Mason, S. J., M. H. Cole, B. T. Ulrey and L. Yan (2002), "Improving electronics manufacturing 
+supply chain agility through outsourcing", International Journal of Physical Distribution & 
+Logistics Management, Vol.32 No.7, pp.610 - 620. 
+
+o
+
+F
+
+Monczka,  R.  M.,  K.  J.  Petersen,  R.  B.  Handfield  and  G.  L.  Ragatz  (1998),  "Success  factors  in 
+strategic  supplier  alliances:  The  buying  company  perspective",  Decision  Sciences,  Vol.29 
+No.3, pp.553 - 576. 
+
+r 
+
+P
+
+Moore, D. S. and G. P. Mccabe (2005), Introduction to the Practice of Statistics, W. H. Freeman,  
+Narasimhan, R. and A. Das (1999a), "An empirical investigation of the contribution of strategic 
+sourcing to manufacturing flexibilities and performance", Decision Sciences, Vol.30 No.3, 
+pp.683 - 718. 
+
+e
+
+e
+
+Narasimhan,  R.  and  A.  Das  (1999b),  "Manufacturing  agility  and  supply  chain  management 
+
+practices", Production & Inventory Management Journal, Vol.40 No.1, pp.7 - 10. 
+
+Narasimhan, R. S. Talluri and A. Das (2004), “Exploring flexibility and execution competencies 
+
+R
+
+of manufacturing firms", Journal of Operations Management, Vol.22 No.1, pp.91 - 106. 
+
+Norrman, A., & Jansson, U. (2004). Ericsson's proactive supply chain risk management approach 
+
+e
+
+r 
+
+v
+i
+e
+
+after a serious sub-supplier accident. International Journal of Physical Distribution & 
+Logistics Management, 34(5), 434 - 456. 
+
+Paulraj, A. and I. J. Chen (2007), "Strategic buyer-supplier relationships, information technology 
+and  external  logistics  integration",  Journal  of  Supply  Chain  Management,  Vol.43  No.2, 
+pp.2 - 14. 
+
+w
+
+Paulraj, A., A. A. Lado and I. J. Chen (2008), "Inter-organizational communication as a relational 
+competency:  Antecedents  and  performance  outcomes  in  collaborative  buyer-supplier 
+relationships", Journal of Operations Management, Vol.26 No.1, pp.45 - 64. 
+
+Pickett,  C.  (2006),  "Prepare  for  supply  chain  disruptions  before  they  hit",  Harvard  Business 
+
+Review, Vol.47 No.6, pp.22 - 25. 
+
+Phillips, L.W. (1981), “Assessing measurement error in key informant reports: A methodological 
+note on organizational analysis in marketing”, Journal of Marketing Research, Vol.18 No.4, 
+pp. 395–415. 
+
+Prahalad,  C.  K.  and  G.  Hamel  (1990),  "The  core  competence  of  the  corporation",  Harvard 
+
+Business Review, Vol.May - June pp.79 - 91. 
+
+Reck, R. E. and B. G. Long (1988), "Purchasing: A competitive weapon ", Journal of Purchasing 
+
+and Materials Management, Vol.24 No.3, pp.2 - 8. 
+
+Rogers, E. M. (1995), Diffusion of Innovations, Free Press, New York. 
+Sahin,  F.  and  E.  P.  Robinson  (2002),  "Flow  coordination  and  information  sharing  in  supply 
+chains: Review, implications, and directions for future research", Decision Sciences, Vol.33 
+33 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 35 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+No.4, pp.505 - 536. 
+
+Sanchez,  A.  M.  and  M.  P.  Perez  (2005),  "Supply  chain  flexibility  and  firm  performance:  A 
+conceptual model and empirical study in the automotive industry", International Journal of 
+Operations & Production Management, Vol.25 No.7, pp.681 - 700. 
+
+Sanchez, R. (1995), "Strategic flexibility in product competition", Strategic Management Journal, 
+
+Vol.16 No.1, pp.135 - 159. 
+
+Schmenner,  R.  W.  and  M.  V.  Tatikonda  (2005),  "Manufacturing  process  flexibility  revisited", 
+International  Journal  of  Operations  &  Production  Management,  Vol.25  No.12,  pp.1183  - 
+1189. 
+
+Shamir,  B.,  E.  Zakay,  E.  Breinin  and  M.  Popper  (1998),  "Correlates  of  charismaic  leader 
+behavior  in  military  units:  Subordinates'  attitudes,  unit  characteristics,  and  superiors' 
+appraisals of leader performance", Academy of Management Journal, Vol.41 No.4, pp.387 - 
+409. 
+
+Sislian, E. and A. Satir (2000), "Strategic sourcing: A framework and a case study", Journal of 
+
+F
+
+Supply Chain Management, Vol.36 No.3, pp.4 - 11. 
+
+Sosik, J. J., S. S. Kahai and M. J. Piovoso (2009), “Silver bullet or voodoo statistics? A primer 
+for  using  the  partial  least  squares  data  analytic  technique  in  group  and  organization 
+research”, Group & Organization Management, Vol.34 No.1, pp. 5-36. 
+
+o
+
+r 
+
+Squire, B., P. Cousins and S. Brown (2009), "Cooperations and knowledge transfer within buyer-
+supplier  relationships:  The  moderating  properties  of  trust,  relationship  duration  and 
+supplier perforemance", British Journal of Management, Vol.20 No.4, pp.461 - 477. 
+
+P
+
+e
+
+Stank, T., M. Crum and M. Arango (1999), "Benefits of interfirm coordination in food industry 
+
+supply chain", Journal of Business Logistics, Vol.20 No.2, pp.21 - 41. 
+
+Stevenson,  M.  and  M.  Spring  (2007),  "Flexibility  from  a  supply  chain  perspective:  Definition 
+and review", International Journal of Operations & Production Management, Vol.27 No.7, 
+pp.685 - 713. 
+
+R
+
+Suarez,  F.  F.,  M.  Cusumano  and  C.  H.  Fine  (1996),  "An  empirical  study  of  manufacturing 
+flexibility in printed circuit board assembly", Operations Research, Vol.44 No.1, pp.223 - 
+240. 
+
+e
+
+Swafford, P. M., S. Ghosh and N. Murthy (2006), "The antecedents of supply chain agility of a 
+firm:  Scale  development  and  model  testing",  Journal  of  Operations  Management,  Vol.24 
+No.2, pp.170 - 188. 
+
+v
+i
+e
+
+Tan, C. L. and Vonderembse, M. A. (2006), " Mediating effects of computer-aided design usage: 
+From concurrent engineering to product development performance", Journal of Operations 
+Management, Vol.24 No.5, pp.494 - 510. 
+
+w
+
+Teece, D. J., G. Pisano and A. Shuen (1997), "Dynamic capabilities and strategic management", 
+
+Strategic Management Journal, Vol.18 No.7, pp.509 - 533. 
+
+van  Der  Vaart,  T.  and  D.  P.  van  Donk  (2008),  "A  critical  review  of  survey-based  research  in 
+supply  chain  integration",  International  Journal  of  Production  Economics,  Vol.111  No.1, 
+pp.42 - 55. 
+
+van  Hoek,  R.  I.,  A.  Harrison  and  M.  Christopher  (2001),  "Measuring  agile  capabilities  in  the 
+supply  chain",  International  Journal  of  Operations  &  Production  Management,  Vol.21 
+No.1/2, pp.126 - 147. 
+
+Vickery, S. N., R. Calantone and C. Droge (1999), "Supply chain flexibility: An empirical study", 
+
+Journal of Supply Chain Management, Vol.35 No.3, pp.16 - 24. 
+
+Vokurka,  R.  J.  O.  L.-K.,  S.W.  (2000),  "A  review  of  empirical  research  on  manufacturing 
+
+flexibility", Journal of Operations Management, Vol.18 No.4, pp.485 - 501. 
+
+Wheeler, B. C. (2002). NEBIC: A dynamic capabilities theory for assessing net-enablement. 
+
+34 
+
+ 
+
+e
+
+r 
+
+
+International Journal of Operations and Production Management
+
+Page 36 of 64
+
+Information Systems Research, 13(2), 125 - 146. 
+
+Worren,  N.,  K.  Moore  and  P.  Cardona  (2002),  "Modularity,  strategic  flexibility,  and  firm 
+performance:  A  study  of  the  home  appliance  industry",  Strategic  Management  Journal, 
+Vol.23 No.12, pp.1123 - 1140. 
+
+Zahra, S. A., & George, G. (2002). The net-enabled business innovation cycle and the evolution 
+
+of dynamic capabilities. Information Systems Research, 13(2), 147 - 150. 
+
+Zhang, Q., M. A.  Vonderembse and J. S.  Lim (2002), "Value chain flexibility:  A dichotomy of 
+competence  and  capability",  International  Journal  of  Production  Research,  Vol.40  No.3, 
+pp.561 - 583. 
+
+Zhang,  Q., M. A. Vonderembse and J. S. Lim (2003), "Manufactuirng flexibility: Defining and 
+analyzing  relationships  among  competence,  capability,  and  customer  satisfation",  Journal 
+of Operations Management, Vol.21 No.2, pp.173 - 191. 
+
+ 
+ 
+
+ 
+
+F
+
+o
+
+r 
+
+P
+
+e
+
+e
+
+r 
+
+R
+
+e
+
+v
+i
+e
+
+w
+
+35 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 37 of 64
+
+International Journal of Operations and Production Management
+
+Major-Construct 
+
+Sub-Construct 
+
+ 
+
+Factor 
+
+Source 
+
+Appendix.  Measurement scales for major constructs. 
+
+Strategic  
+Purchasing (SP) 
+
+Internal 
+Integration (IN) 
+
+Information 
+Sharing (IS) 
+
+Supplier 
+Development (SD) 
+
+Supply Flexibility 
+(SF) 
+
+Product Design-
+related Flexibility 
+(DF) 
+
+Process-related 
+Flexibility (PF) 
+
+Purchasing personnel are included in concurrent engineering teams* 
+
+SP1  Top management emphasizes purchasing function’s strategic role* 
+
+SP2  Purchasing is viewed as equal to other functions by the CEO* 
+
+SP3  Purchasing is involved in corporate-level strategic planning* 
+
+F
+
+IN1 
+
+There is frequent communication between purchasing and other 
+departments within our firm* 
+
+or P
+
+IN2 
+
+IN3 
+
+IS1 
+
+IS2 
+
+Purchasing executives receive cross-functional training* 
+
+Production schedule information sharing with supplier ** 
+
+Synchronized scheduling of production with suppliers ** 
+
+IS3  Cost information sharing with supplier ** 
+
+SD1  Financial assistance to the suppliers ** 
+
+e
+
+er R
+
+SD2  Technological assistance to the suppliers ** 
+
+SD3  Training in quality issues to suppliers’ personnel ** 
+
+SF1  Suppliers show better quality of conformance to specifications* 
+
+SF2  Suppliers are able to accept late ‘mix’ changes in orders* 
+
+e
+vie
+
+w
+
+SF3 
+
+Suppliers are able to supply newly designed or modified parts without 
+excessive time/cost penalties* 
+
+DF1 
+
+It takes us a long time for us to introduce new products* 
+
+DF2 
+
+It takes a long time to accommodate minor design changes* 
+
+DF3 
+
+It takes a long time for us to change our product mix* 
+
+PF1 
+
+It takes us a long time to vary production by 20%* 
+
+PF2  Most of our workers can handle multiple machines* 
+
+PF3  We frequently utilize job rotation for workers* 
+
+Kocabasoglu & Suresh 
+(2006) 
+
+Sanchez (2005); 
+Kocabasoglu (2002) 
+
+Kocabasoglu (2002); 
+Braunscheidel & Suresh 
+(2009) 
+
+Das (2001); Kocabasoglu 
+(2002) 
+
+36 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+
+Strategic Sourcing 
+
+Firm’s Strategic 
+
+Flexibilities 
+
+ 
+
+
+International Journal of Operations and Production Management
+
+Page 38 of 64
+
+Customer 
+Responsiveness 
+(CR) 
+
+PF4  There are pools of identical machines for most processes in the factory* 
+
+PF5  Changes in machining processes can be handled by existing machines* 
+
+CR1  Responsiveness to firm’s immediate customer** 
+
+CR2  Satisfaction of our end customers in the supply chain** 
+
+CR3  Responsiveness to expectations of  end customers in the supply chain ** 
+
+Firm’s Supply 
+Chain Agility 
+
+Demand Response 
+(DR) 
+
+Joint Planning (JP) 
+
+Control Variables 
+
+Braunscheidel & Suresh 
+(2009) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DR1 
+
+F
+
+Our supply chain is capable of responding to market demand by providing 
+a wide range of product 
+Our supply chain is able to leverage the competencies of our partners to 
+respond to market demands** 
+
+DR2 
+
+DR3  Our supply chain is capable of forecasting market demand** 
+
+or P
+
+JP1 
+
+Joint-problem solving with our supplier is** 
+
+JP2  Representation of our suppliers in product design teams** 
+
+JP3 
+
+Involvement of key suppliers in continuous improvement program** 
+
+e
+
+er R
+
+Firm Size: Number of Full-time Employees (As shown in Table 4) 
+
+Production Process (1: ETO  2: MTO 3: ATO 4: MTS) 
+
+Product Seasonality (1: non-seasonal; 7: seasonal) 
+
+Product Perishability (1: non-perishable; 7: perishable) 
+
+e
+vie
+
+* 1-Strongly Disagree; 5-Strongly Agree / ** 1-Very Low; 5-Very High 
+
+w
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+37 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+
+
+Page 39 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Supply 
+Flexibility 
+
+ 
+
+Product 
+Design-
+related 
+Flexibility 
+
+ 0.76 *** 
+
+ 0.52*** 
+ 
+
+      FSF 
+R2 = 0.13 
+
+F
+
+or P
+
+0.353** 
+
+Process-
+related 
+Flexibility 
+
+0.69*** 
+ 
+
+ Customer 
+Responsiv
+eness 
+
+ 
+Demand 
+Response 
+
+ 0.229** 
+
+0.82*** 
+ 
+
+ FSCA 
+
+R2 = 0.25 
+
+ 
+Joint 
+Planning 
+
+ 0.61*** 
+ 
+
+0.68***
+**
+
+ 0.02 
+
+e
+
+er R
+
+0.347*** 
+
+ 0.08 
+
+e
+vie
+
+ 0.01 
+
+Product 
+
+Seasonality 
+
+w
+
+0.07 
+
+Product 
+
+Perishability 
+
+Strategic 
+Purchasing 
+
+Internal 
+integration 
+
+Information 
+Sharing 
+
+0.75*** 
+
+0.68*** 
+
+Stratetic 
+Sourcing 
+
+0.77*** 
+
+ 0.66*** 
+ 
+
+Supplier 
+Development 
+
+Production 
+
+Process 
+
+Firm Size 
+
+FIGURE 1:  Hypothesized Model Structure & Results 
+
+H4:  A partial mediation effect exists from FSF on the relationship between strategic sourcing and FSCA. 
+
+Note: *** Significant at 0.01 level;   ** Significant at 0.05 level 
+
+ 
+
+38 
+
+
+International Journal of Operations and Production Management
+
+Page 40 of 64
+
+RESPONSES TO REVIEWER 
+
+ 
+Responses to Reviewer 1: 
+ 
+Responses to Comments under “Other Remarks” 
+1. Hypotheses - the hypotheses (especially H1 - H3) are not new, and most of them have been 
+tested. 
+
+We  thank  the  reviewer  for  this  comment.  We  seem  to  have  given  the  wrong  impression 
+somehow  that  H1-H3  are  not  new.  In  the  revised  manuscript,  we  have  now  more  clearly 
+brought out the new contributions of the study in the Introduction, as follows:  
+
+• This study is based on a theoretical platform that considers both strategic sourcing and 
+flexibility  as  internal  competences  which  may  lead  to  the  dynamic  capability  of  agility. 
+This is a new, theory-based aspect in this stream of research. 
+
+F
+
+• In  addition  to  the  above  competence-capability  theoretical  framework,  we  consider 
+supply  chain  agility  as  a  dynamic  capability,  drawing  from  the  theory  of  dynamic 
+capabilities  (Teece  et  al.,  1997;  Teece  2007),  which  extends  both  resource-based  view 
+(RBV) of the firm and the competence-capability perspective.  This is again new. 
+
+o
+
+r
+ 
+
+• This study examines the  antecedents of a firm’s agility in the supply chain context more 
+broadly  than  prior  studies.  The  limited  past  studies  on  agility  have  investigated  the 
+relationship  between  sub-elements  of  strategic  sourcing  and  agility;  or  sub-elements  of 
+firm-level  flexibilities  and  agility.  This  study  considers  all  three  key  factors  (strategic 
+sourcing, flexibility and agility) together.  
+
+e
+
+e
+
+P
+
+• We  have  also  relied  on  broader  definitions  for  all  three  constructs,  unlike  past  studies 
+which have been based on sub-elements of these constructs, and based the study on more 
+comprehensive  definitions  of  the  constructs,  and  tested  the  relationships  in  a  broader 
+framework.  
+
+R
+
+r
+ 
+
+• From  a  methodology  point  of  view,  this  study  applies  structural  equation  modelling  to 
+test  the  relationship  among  the  three  constructs,  and  a  method  for  testing  mediation 
+effects in this context.  
+
+• This  research  considers  the  influence  of  contextual  factors  such  as  firm  size, 
+manufacturing  process,  and  the  product  characteristics,  in  order  to  examine  the 
+relationships in various business settings in contrast to prior studies such as Swafford et 
+al. (2006), Khan and Pillania (2008) and Braunscheidel and Suresh (2009). 
+
+w
+
+e
+
+v
+i
+e
+
+• This  study  also  introduces  discussion  on  the  interdependence  and  balance  between 
+purchasing  and  manufacturing  activities  and  how  they  jointly  contribute  to  agile  supply 
+chains.   
+
+• Flexibility  and  agility  have  frequently  been  discussed  as  interchangeable  terms  in  past 
+literature (e.g. Aitken et al., 2002). A separation and clear distinction between flexibility 
+and  agility  have  been  conceptualized  and  empirically  validated  only  quite  recently,  in 
+studies such as (Swafford et al., 2006) and in this study. 
+
+• Likewise, in various other parts of the paper, we have now attempted to clearly bring out 
+
+the new aspects investigated in this paper.  
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 41 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+r
+ 
+
+2. Research limitations section - The authors listed some trivia limitations such as the ability 
+to generalize findings to other industries and country, but failed to mention the more severe 
+problems of the research - both methodology and analysis related issues. 
+
+Thanks…. We have added a few more substantive limitations in the end.   
+
+ 
+3. This manuscript is extremely long (47 pages!).  The introduction is almost 4 pages long. 
+ 
+Yes,  indeed….  The  previous  manuscript  was  quite  long.  We  noticed  redundancies  in  the 
+Literature Review and Model Development sections, and elsewhere. We have now eliminated 
+the  Literature  Review  section,  moving  its  contents  to  Introduction  and  Model  Development 
+stages,  and  eliminating  duplications.  This  also  conforms  to  the  format  of  more  recent 
+empirical research papers.  We also combined Figures1 and 2, etc.  
+
+The revised manuscript is now only 31 pages of text, including the tables which are 
+placed within the text. We kept the tables within the text to conform to IJOPM format.  The 
+References and one figure come after this.   
+ 
+4. Why used PLS and not Lisrel, Mplus or EQS? 
+
+F
+
+o
+
+The  primary  reason  for  using  the  partial  least  squares  (PLS),  rather  than  the  covariance-
+based  technique  of  structural  equation  modelling  (SEM)  was  the  small  sample  size.  This 
+issue,  and  some  other  aspects  of  PLS  that  made  it  the  preferred  methodology  is  expanded 
+upon in the subsequent paragraphs.  
+
+e
+
+P
+
+e
+
+Similar to covariance-based SEM, the structural and measurement models under PLS 
+(Wold, 1966; Lohmohller, 1989; Chin, 1998a, b; 2001) consist of three sets of relations: (a) 
+The  inner  (structural)  model,  which  specifies  the  relationships  between  latent  variables,  (b) 
+The  outer  (measurement)  model,  which  specifies  the  relationships  between  the  latent 
+variables and their associated observed variables, and (c) The weight relations upon which 
+the case values for the latent variables can be estimated. 
+
+r
+ 
+
+R
+
+e
+
+v
+i
+e
+
+The  PLS  method  is  designed  to  maximize  prediction  rather  than  fit  (Anderson  and 
+Gerbing, 1988). That is, PLS differs in its approach from other structural equation modelling 
+techniques such as LISREL in that it tests the strength of individual component relationships 
+rather  than  the  overall  fit  of  a  proposed  model  to  observed  covariances  amongst  all  of  the 
+variables.  PLS  uses  a  series  of  interdependent  ordinary  least  squares  (OLS)  regressions  to 
+minimize  residual  variances,  placing  minimal  demands  on  data  in  terms  of  measurement 
+scales,  sample  size,  and  distributional  assumptions  (Chin,  1998b;  Fornell  and  Bookstein, 
+1982;  Wold,  1982).  PLS  is  also  a  conservative  modelling  approach  that  tends  to 
+underestimate  rather  than  overestimate  path  coefficients  (Dijkstra,  1983),  reducing  the 
+likelihood  of  Type  1  errors  in  hypothesis  testing  (Bagozzi  et  al.,  1991).  We  can  infer  the 
+relative strength of relationships among variables by their path loadings. We can also judge 
+the extent to which variation in one set of variables might help explain variance in a variable 
+of  interest,  through  the  R2  calculated  by  the  program.  As  with  multiple  regression,  the 
+predictive  powers  of  PLS  can  help  in  refining  theory  by  showing  which assumed  predictors 
+have substantive links to outcomes.  
+
+w
+
+Partial least squares (PLS) is preferable to covariance-based SEM in cases where the 
+sample  size  is  relatively  small  (Bagozzi  et  al.,  1991;  Hulland,  1999).  Earlier  work  has 
+demonstrated that PLS is capable of providing provide unbiased estimates with small sample 
+sizes (Chin and Newsted, 1999; Falk and Miller, 1992). Of course, the larger the sample, the 
+more stable the parameter estimates, yet there is no agreement as to the  minimum required 
+
+
+International Journal of Operations and Production Management
+
+Page 42 of 64
+
+sample size. A standard rule of thumb for PLS suggests a sample size equivalent to the larger 
+of the following: (a) ten times the number of indicators for the scale with the largest number 
+of  formative  (causal)  indicators;  or  (b)  ten  times  the  largest  number  of  structural  paths 
+directed at a particular construct in the structural model (Chin, 1998b). 
+
+Due to these characteristics, PLS has been used in several other studies in operations 
+and supply chain management (e.g. Camison and Lopez, 2010; Jeffers, 2010; Johnston et al., 
+2004;  Morgan  et  al.,  2007;  Ordanini  and  Rubera,  2008;  Raymond  and  St-Pierre,  2005; 
+Rosenzweig, 2009). 
+
+ 
+
+References: 
+Anderson, J.C. and D. W. Gerbing, (1988), “Structural equation modelling in practice: a 
+
+review and recommended two step approach”, Psychological Bulletin 103 (3), 411–
+423. 
+
+Bagozzi, R.P., Yi, Y., Singh, S., 1991. On the use of structural equation models in 
+
+F
+
+experimental designs: two extensions. International Journal of Research in Marketing 
+8 (2), 125–140. 
+
+o
+
+Camisón, C. and López, A.V. 2010. “An examination of the relationship between 
+
+manufacturing flexibility and firm performance: The mediating role of innovation,” 
+International Journal of Operations & Production Management, 30(8), pp. 853-878 
+
+Chin, W.W. (1998a), “Issues and opinion on structural equation modelling”, MIS Quarterly, 
+
+P
+
+Vol. 22 No. 1, pp. 7-16. 
+
+e
+
+Chin, W.W. (1998b), “The partial least squares approach to structural equation modelling”, 
+
+r
+ 
+
+in Marcoulides, G.A. (Ed.), Modern Methods for Business Research, Lawrence 
+Erlbaum Associates, Mahwah, NJ, pp. 295-336. 
+
+e
+
+Chin, W.W. (2001), PLS-graph User’s Guide. Version 3.0, University of Houston. 
+ Chin W.W. and P.R Newsted (1999), Structural equation modeling analysis with small 
+
+samples using Partial Least Squares. In: R.H. Hoyle, Editor, Statistical strategies for 
+small sample research, Sage Publications, London, pp. 308–341. 
+
+R
+
+Dijkstra, T., 1983. Some comments on maximum likelihood and partial least squares 
+
+e
+
+methods. Journal of Econometrics 22 (1/2), 67–90. 
+
+Falk,R.F. and Miller,N.B. (1992),APrimer for SoftModeling,University ofAkron 
+
+r
+ 
+
+v
+i
+e
+
+Press,Akron,OH. 
+
+Fornell, C., Bookstein, F.L., 1982. Two structural equation models: LISREL and PLS applied 
+
+to consumer exit-voice theory. Journal of Marketing Research 19, 440–452. 
+
+w
+
+Hulland, J., 1999. The use of partial least squares in strategic management research: a 
+
+review of four recent studies. Strategic Management Journal 20 (2), 195–204. 
+
+Jeffers, P.I. 2010. “Embracing sustainability: Information technology and the strategic 
+
+leveraging of operations in third-party logistics,” International Journal of Operations 
+& Production Management, 30(3), pp. 260-287 
+
+Johnston, D.A., McCutcheon, D.M., Stuart, F.I., Kerwood, H., 2004. Effects of supplier trust 
+
+on performance of cooperative supplier relationships. Journal of Operations 
+Management 22(1), 23–38. 
+
+Lohmohller, J.B. (1989), Latent Variables Path Modelling with Partial Least Squares, 
+
+Physica-Verlag, Heidelberg. 
+
+Morgan, N., Kaleka, A. and Gooner, R.A. 2007. Focal supplier opportunism in supermarket 
+retailer category management,” Journal of Operations Management, 25(2), pp. 512-
+527 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 43 of 64
+
+International Journal of Operations and Production Management
+
+Ordanini, A. and Rubera, G. 2008. “Strategic capabilities and internet resources in 
+
+procurement: A resource-based view of B-to-B buying process,” International 
+Journal of Operations & Production Management,  28(1), pp. 27-52.    
+
+Raymond, L. and St-Pierre, J. 2005. “Antecedents and performance outcomes of advanced 
+
+manufacturing systems sophistication in SMEs,” International Journal of Operations 
+& Production Management, 25(6), pp. 514-533. 
+
+Rosenzweig, E.D. 2009, “A contingent view of e-collaboration and performance in 
+
+manufacturing,”Journal of Operations Management, 27(6), pp. 462-478 
+
+Wold, H. (1966), “Nonlinear estimation by iterative least squares procedures”, in David, 
+
+F.N. (Ed.), A Festchrift for J. Neyman, Wiley, New York, NY, pp. 411-44. 
+
+Wold, H., 1982. Soft modeling: the basic design and some extensions. In: Joreskog, K.G., 
+
+Wold, H. (Eds.), Systems Under Indirect Observation. Part II. North-Holland 
+Publishing Co., New York, pp. 1–54. 
+
+ 
+5. The sample size of 144 cases is very small, and the low. 7.3% response rate is a serious 
+concern. Was non-response bias tested? 
+
+F
+
+o
+
+One  method  for  testing  non-response  bias  is  to  test  for  significant  differences  between  the 
+responses  of  early  and  late  waves  of  returned  surveys  via  t-tests  (Armstrong  and  Overton, 
+1977).  We  utilized  this  approach,  comparing  early  and  late  respondents  in  terms  of 
+demographic variables (e.g. annual sales, full time equivalent (FTE)). The t-tests yielded no 
+statistically  significant  differences  among  the  demographic  variables  as  can  be  seen  in  the 
+table below. This is now mentioned in the manuscript. 
+
+r
+ 
+
+e
+
+P
+
+ 
+References:   
+Armstrong, J.S., Overton, T.S., (1977) “Estimating non-response bias in mail surveys,” 
+
+e
+
+r
+ 
+
+Journal of Marketing Research 4, pp. 396–402. 
+
+R
+
+e
+
+v
+i
+e
+
+w
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+International Journal of Operations and Production Management
+
+Page 44 of 64
+
+ 
+
+ 
+
+Group Statistics 
+
+ID 
+
+N 
+
+Mean 
+
+Std. Deviation 
+
+Std. Error Mean 
+
+C12 
+
+>= 119 
+
+< 119 
+
+21 
+
+97 
+
+3.00 
+
+2.58 
+
+1.265 
+
+1.116 
+
+.276 
+
+.113 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C12 
+
+Equal variances assumed 
+
+Equal variances not assumed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C13 
+
+Equal variances assumed 
+
+Equal variances not assumed 
+
+ 
+
+F
+
+Variances 
+
+Levene's Test for Equality of 
+
+Independent Samples Test 
+
+ 
+
+Sig. 
+
+or Peer R
+
+27.155 
+
+1.536 
+
+1.416 
+
+.127 
+
+.168 
+
+.837 
+
+116 
+
+df 
+
+ 
+
+t 
+
+Sig. (2-tailed)  Mean Difference 
+
+ 
+
+.043 
+
+F 
+
+ 
+
+Group Statistics 
+
+t-test for Equality of Means 
+
+95% Confidence Interval of the 
+
+Difference 
+
+Std. Error 
+Difference 
+
+Lower 
+
+Upper 
+
+.423 
+
+.423 
+
+.275 
+
+.298 
+
+-.122 
+
+-.189 
+
+.968 
+
+1.035 
+
+evie
+
+t-test for Equality of Means 
+
+w
+
+Levene's Test for Equality of 
+
+Variances 
+
+ 
+
+Independent Samples Test 
+
+ 
+
+F 
+
+ 
+
+Sig. 
+
+t 
+
+df 
+
+Sig. (2-tailed)  Mean Difference 
+
+.274 
+
+.602 
+
+ 
+
+.632 
+
+.622 
+
+119 
+
+28.582 
+
+.529 
+
+.539 
+
+.126 
+
+.126 
+
+.199 
+
+.202 
+
+-.268 
+
+-.288 
+
+.520 
+
+.539 
+
+95% Confidence Interval of the 
+
+Difference 
+
+Std. Error 
+Difference 
+
+Lower 
+
+Upper 
+
+ID 
+
+N 
+
+Mean 
+
+Std. Deviation 
+
+Std. Error Mean 
+
+C13 
+
+>= 119 
+
+< 119 
+
+21 
+
+100 
+
+3.29 
+
+3.16 
+
+.845 
+
+.825 
+
+.184 
+
+.083 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+
+Page 45 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+6. When was data collected? 
+
+The data was collected in 2002. We do recognize that the data set was collected 8 or 9 
+years  ago.  However,  we  respectfully  submit  that  the  research  results  based  on  this 
+data  set  will  still  be  of  value  to  academic  and  practitioner  communities.  We  would 
+also  expect  these  results  to  be  conservative  as  the  need  for  supply  chain  agility  has 
+increased over this time span. 
+ 
+7. Page 22, some citations are not provided in the references.  For example, Huang 
+and Roth (2010) & Tan and Vonderembse (2006). 
+
+We apologize…. All references have now been updated. 
+ 
+8. Page 22 and Table 2, what do you mean by "firms in growth or maturity stages of 
+their life cycles"? I thought product life cycles apply to product, not the firms. 
+
+F
+
+o
+
+We apologize for the mistake and concur with the reviewer that it is the product’s life 
+cycle that is the focus. We reworded “Product life cycle stage” as “The stage of the 
+product in its life cycle” to clarify. 
+r
+ 
+
+We used Stanton’s definition of a product’s life cycle as “the stages a product 
+goes through from its introduction, to its growth and maturity, to its eventual decline 
+and  death  (withdrawal  from  the  market  or  deletion  from  the  company’s  offerings) 
+(Stanton, 191, pg. 643). This position is also reflected in our specific survey question, 
+which was:  What stage of the product life cycle is your main product currently in? 
+
+e
+
+P
+
+Reference:  
+
+e
+
+r
+ 
+
+ Stanton, W.J., Etzel, M.J., and Walker, B.J., 1991. Fundamentals of marketing, 9th 
+ed. McGraw-Hill, New York: NY.  
+ 
+9. Page 24, what are the PLS fit indices? 
+
+R
+
+e
+
+PLS is a components-based approach to structural modelling (Chin et al., 2003).  The 
+structural  and  measurement  models  under  PLS  consist  of  three  sets  of  relations:  a) 
+the  inner  (structural)  model  which  specifies  the  relationships  between  latent 
+variables;  b)  the  outer  (measurement)  model  which  specifies  the  relationships 
+between  the  latent  variables  and  their  associated  observed  variables;  and,  c)  the 
+weight relations upon which the case values for the latent variables can be estimated 
+(Chin,  1998a,  b).  In  PLS,  a  good  model  fit  is  established  with  significant  path 
+coefficients, acceptably high R2 values and internal consistency (construct reliability) 
+being  above  0.7  for  each  construct  (Gefen  et  al.,  2000).  Unlike  covariance-based 
+structural equation modelling, PLS does not use fit indices.  
+
+v
+i
+e
+
+w
+
+This standard way of applying PLS can be seen in numerous other studies in 
+operations and supply chain management such as: Camison and Lopez (2010), Jeffers 
+(2010), and Ordanini and Rubera (2008). 
+
+References: 
+Chin, W. W. 1998a. Partial least squares approach to structural equation modeling. 
+
+In I. G. A. Marcoulides (Ed.), Modern Methods for Business Research (pp. 
+295-336.). Mahwah, New Jersey: Lawrence Erlbaum Associates. 
+
+Chin, W. W., 1998b. Issues and opinion on structural equation modeling. MIS 
+
+Quarterly  22 (1). 
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+International Journal of Operations and Production Management
+
+Page 46 of 64
+
+Chin, W. W., Marcolin, B. L., & Newsted, P. R., 2003. A partial least squares latent 
+variable modeling approach for measuring interaction effects: results from a 
+monte carlo simulation study and voice mail emotion/adoption study. 
+Information Systems Research  14 (2), 189-217. 
+
+ Gefen, D., Straub, D. W., & Boudreau, M., 2000. Structural equation modeling and 
+
+regression: Guidelines for research practice. Communications of the 
+Association for Information Systems  4 (7). 
+
+Camison, C., & Lopez, A. V. (2010). An Examination of the Relationship Between 
+Manufactuirng Flexibility and Firm Performance. International Journal of 
+Operations & Production Management, 30(8), 853 - 878. 
+
+Jeffers, P. I. (2010). Embracing sustainability: Information technology and the 
+strategic leveraging of operations in third-party logistics. international 
+Journal of Operations & Production Management, 30(3), 260 - 287. 
+
+Ordanini, A., & Rubera, G. (2008). Strategic capabilities and internet resources in 
+
+procurement: A resource-based view of B-to-B buying process. International 
+Journal of Operations & Production Management, 28(1), 27 - 52. 
+
+F
+
+o
+
+ 
+10. Page 24, The authors argued that the composite reliability and AVE shown in 
+Table 3 met the reliability assessment criteria, despite that four out of 13 constructs 
+has AVE lower than 0.5. All the three second-order constructs (strategic sourcing, 
+strategic flexibility, and supply chain agility) fall in this group.  Shouldn't this be an 
+indication that there is a problem with the constructs? 
+
+r
+ 
+
+P
+
+e
+
+We thank the referee for this insightful comment. We searched the literature to 
+
+reexamine our understanding of this aspect.  
+
+e
+
+r
+ 
+
+As expected, we found that factor loadings, composite reliability, and average 
+variance  extracted  (AVE)  are  three  measures  widely  used  for  the  analysis  of 
+measurement reliability (e.g., Sosik, et al. 2009, p.21, 3rd paragraph).   
+
+R
+
+For the first two measures, factor loadings of indicators for the corresponding 
+latent  variable  exceeding  0.6,  and  composite  reliability  developed  by  Werts  et  al. 
+(1974) of over 0.7 have been suggested to ensure measurement reliability (Sosik, et al. 
+2009).  
+
+e
+
+v
+i
+e
+
+In  our  study,  all  thirteen  factor  loadings,  except  the  one  for  product  design-
+related  flexibility  are  above  the  0.6  threshold,  while  the  results  of  composite 
+reliability are all satisfied with the 0.7 cutoff point.  
+
+w
+
+However, for the third measure, AVE, the AVEs for 4 out of the 13 constructs 
+are indeed lower than the suggested 0.5 value. The AVE measure, created by Fornell 
+and  Larcker  (1981)  assesses  predictiveness  for  the  evaluation  of  PLS  model  (Chin, 
+1998, p.316). AVE attempts to measure the amount of variance that a latent variable 
+component  captures  from  its  indicators  relative  to  the  amount  due  to  measurement 
+error (p. 321, 1st paragraph).  Fornell and Larcker (1981) further suggested that AVE 
+can also be interpreted as a measure of reliability for the latent variable component 
+score (p.321, 3rd paragraph). 
+
+From  our  literature  review,  we  have  verified  that  not  all  three  criteria  must 
+satisfy  their  respective  criteria.  In  fact,  Chin  (1998,  p.325),  in  an  example  of  an 
+empirical  application  of PLS  showed  that to  conduct  a  PLS  analysis,  the  researcher 
+needs  to  first  ensure  the  individual  item  reliability,  which  implies  that  the 
+standardized loadings should be greater than 0.707. Once the individual reliabilities 
+
+
+Page 47 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+are  considered,  the  composite  reliability  is  considered  next  (p.326).  Chin  (1998) 
+tested  the  measurement  reliability  merely  based  on  the  two  criteria  mentioned  and 
+then,  (p.327)  moves  on  to  test  the  discriminant  validity  by  calculating  AVE  and 
+comparing  AVE  to  the  square  of  the  correlations  among  constructs.  As  a  matter  of 
+fact, our reliability test procedure is completely followed the methods of Chin (1998) 
+to conclude the reliability of our measurement model.  
+
+ 
+Moreover, we also notice that a  few prior studies (e.g., Cousins, 2005; Oltra 
+and Flor, 2010;Urgal-Gonzalez and Garcia-Vazquez, 2007), using covariance-based 
+SEM  techniques  like  LISREL,  reported  less  than  the  desired  reliability  test  results 
+suggested in Nunnally (1978).  
+
+Due to the above mentioned observations, we submit that the reliability of our 
+
+ 
+studied constructs is sufficiently adequate for this study.  
+
+ 
+
+References:  
+Chin, W. W. 1998. Partial least squares approach to structural equation modeling. In 
+
+F
+
+I. G. A. Marcoulides (Ed.), Modern Methods for Business Research (pp. 295-
+336.). Mahwah, New Jersey: Lawrence Erlbaum Associates. 
+
+o
+
+Cousins, P. D. (2005) “The alignment of appropriate firm and supply strategies for 
+
+competitive advantage.” International Journal of Operations and Production 
+Management. 25(5), pp.403 – 428. 
+
+P
+
+r
+ 
+
+Fornell, C., and D. Larcker (1981) “Evaluating structural equation models with 
+
+e
+
+unobservable variables and measurement error.” Journal of Marketing 
+Research, 18, pp. 39-50. 
+
+e
+
+Nunnally, J. C. (1978) “Psychometric Theory” 2nd ed., McGraw-Hill, New York, NY. 
+Oltra, M. J. and M. L. Flor (2010)”The moderating effect of business strategy on the 
+
+r
+ 
+
+relationship between operations strategy and firms’ results.” International 
+Journal of Operations and Production Management. 30(6), pp. 612 – 638. 
+
+R
+
+Sosik, J. J., Kahai, S. S. and M. J. Piovoso (2009) “Silver bullet or voodoo statistics?: 
+
+e
+
+A primer for using the partial least squares data analytic technique in group 
+and organization research.” Group & Organization Management. 34(1), 
+pp.5 – 36. 
+
+Urgal-Gonzalez, B. and J. M. Garcia-Vazquez (2007) “The strategic influence of 
+
+v
+i
+e
+
+structural manufacturing decisions.” International Journal of Operations and 
+Production Management. 27(6), pp.605 – 626. 
+
+w
+
+Werts, C. E., Linn, R. L., and K. G. Joreskog (1974) “Intraclass reliability estimates: 
+
+Testing structural assumptions.” Educational and Psychological 
+Measurement, 34, pp.25 – 33. 
+
+ 
+11. Some figures and tables were placed in the text while some are located at the end 
+of the chapter.  I think the placement of the figures and tables should be consistent. 
+
+We apologize for the inconsistency.  The figures have now been moved to the end of 
+the  paper,  while  all  the  Tables  are  within  the  text,  conforming  to  IJOPM  format 
+guidelines.  We also noticed redundancy in Figure 1 and 2, and so we have combined 
+both figures into just one figure. 
+ 
+Response to Comments under “Additional Questions”: 
+1. Originality:  Does the paper contain new and significant information adequate to 
+justify publication?: The relationships among strategic sourcing, flexibility and supply 
+chain agility have been explored quite extensively.  Indeed, the authors have 
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+International Journal of Operations and Production Management
+
+Page 48 of 64
+
+identified quite a few of these studies.  This paper concluded that strategic sourcing 
+affects strategic flexibility and supply chain agility, and strategic flexibility affects 
+supply chain agility.  These findings have been concluded in the literature.  Citing 
+Frohlich and Dixon (2001) the authors argued that their study contributed to the 
+literature by replicating past research results. In my opinion, the marginal contribution 
+of this research is too insignificant to justify publication in IJOPM. 
+ 
+We sincerely believe that this study makes useful and timely contributions. But we do 
+acknowledge  that  they  were  not  laid  out  effectively  in  the  earlier  version.  In 
+particular,  we  did  not  quite  convey  the  current  gaps  in  literature,  and  the  new 
+contributions we have made. As stated under the response to the first comment above, 
+we have: 
+
+• This  study  is  based  on  a  theoretical  platform  that  considers  both  strategic 
+sourcing  and  flexibility  as  internal  competences  which  may  lead  to  the  dynamic 
+capability of agility. This is a new aspect. 
+
+F
+
+o
+
+• In  addition  to  the  above  competence-capability  theoretical  framework,  we 
+consider supply chain agility as a dynamic capability, drawing from the theory of 
+dynamic  capabilities  (Teece  et  al.,  1997;  Teece  2007),  which  extends  both 
+resource-based view (RBV) of the firm and the competence-capability perspective.  
+This is again new. 
+
+r
+ 
+
+P
+
+e
+
+• This study examines the antecedents of a firm’s agility in the supply chain context 
+more  broadly  than  prior  studies:  the  limited  past  studies  on  agility  have 
+investigated  the  relationship  between  sub-elements  of  strategic  sourcing  and 
+agility; or sub-elements of firm-level flexibilities and agility. This study considers 
+all three key factors (strategic sourcing, flexibility and agility) together.  
+
+r
+ 
+
+e
+
+v
+i
+e
+
+• We  have  also  relied  on  broader  definitions  for  all  three  constructs,  unlike  past 
+studies which have been based on sub-elements of these constructs, and based on 
+more comprehensive definitions of the constructs, and tested the relationships in a 
+broader framework.  
+
+e
+
+R
+
+• From  a  methodology  point  of  view,  this  study  applies  structural  equation 
+modelling  to  test  the  relationship  among  the  three  constructs,  and  a  method  for 
+testing mediation effects.  
+
+• This  research  considers  the  influence  of  contextual  factors  such  as  firm  size, 
+manufacturing  process,  and  the  product  characteristics,  in  order  to  examine  the 
+relationships  in  various  business  settings  in  contrast  to  prior  studies  such  as 
+Swafford  et  al.  (2006),  Khan  and  Pillania  (2008)  and  Braunscheidel  and  Suresh 
+(2009). 
+
+w
+
+• This  study  also  introduces  discussion  on  the  interdependence  and  balance 
+between purchasing and manufacturing activities and how they jointly contribute 
+to agile supply chains.   
+
+• Flexibility  and  agility  have  frequently  been  discussed  as  interchangeable  terms 
+(e.g.  Aitken  et  al.,  2002),  yet  a  separation  between  these  concepts  has  been 
+conceptualized  and  empirically  validated  only  quite  recently  (Swafford  et  al., 
+2006). 
+
+• Likewise,  in  various  other  parts  of  the  paper,  we  have  now  attempted  to  clearly 
+
+bring out the new aspects investigated in this paper.  
+
+
+Page 49 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+ 
+3. Methodology:  Is the paper's argument built on an appropriate base of theory, 
+concepts or other ideas?  Has the research or equivalent intellectual work on which 
+the paper is based been well designed?  Are the methods employed appropriate?:  
+ 
+
+a.  The paper's argument was not built on theory (such as the transaction cost 
+
+economics or resource-based).   
+
+Actually,  we  did  base  our  study  on  the  theoretical  aspects  of  competence-
+capability framework. In addition, we also based it on the dynamic capability 
+theory  proposed  by  Teece  et  al.  (1997).  It  is  just  that  we  did  not  clearly 
+highlight this in our earlier version of the manuscript. 
+
+F
+
+o
+
+r
+ 
+
+The  dynamic  capability  perspective  is  derived  from  and  is  an 
+outgrowth  of  the  resourced  based  view  (RBV)  and  presents  the  sources  of 
+firm-level  competitive  advantage  over  time  in  dynamic  situations.  We  have 
+described  the  above  theoretical  aspects  right  at  the  beginning  of  Section  3: 
+Model  Development.  In  that  section,  we  explained  the  dynamic  capabilities 
+perspective (DCP) as the ability of a firm to achieve new forms of competitive 
+advantage  by  renewing  competences  to  achieve  congruence  with  changing 
+business environments (Teece et al. 1997; Teece 2007). Our model is build on 
+the  dynamic  capability  theory  as  we  explain  how  companies  use  strategic 
+sourcing and strategic flexibility to build supply chain agility, which can help 
+them: (a) sense and shape opportunities and threats, (b) seize chances, and (c) 
+maintain  competitiveness  through  enhancing,  combining,  protecting,  and 
+reconfiguring  the  organization’s  intangible  and  tangible  assets.  Dynamic 
+capabilities  theory  is  now  increasingly  applied  in  operations  management 
+research.  Some  examples  of  this  emerging  literature  include  (Holcomb  and 
+Hitt, 2007; Smart et al., 2007; Witcher et al., 2008). 
+
+r
+ 
+
+e
+
+e
+
+P
+
+R
+
+References: 
+Holcomb, T. R. and Hitt, M. A. (2007), “Toward a model of strategic 
+
+e
+
+v
+i
+e
+
+outsourcing.” Journal of Operations Management; Vol. 25 No 2, pp. 464 – 
+481. 
+
+Smart, P., Bessant, J. and Gupta, A. (2007), “Towards technological rules for 
+
+designing innovation networks: A dynamic capabilities view.” 
+International Journal of Operations & Production Management, Vol 27 
+No 10, pp. 1069 – 1092. 
+
+w
+
+Witcher, B. J., Chau, V. S., and Harding P., (2008), “Dynamic capabilities: 
+
+Top executive audits and hoshin Kanri at Nissan South Africa.” 
+International Journal of Operations & Production Management, Vol 28 
+No 6, pp. 540 – 561. 
+
+b.  I have some serious concerns regarding the survey instrument, data collection, 
+
+and statistical analysis used in this paper.  I could not understand why the 
+survey instrument was designed and tested in the U.S. and Netherland when 
+the population frame of the student was in the U.S.  What is the purpose of 
+testing it in Netherland? 
+
+It  so  happened  that  two  of  the  authors  involved  in  this  research  were 
+interacting  actively  with  supply  chain  academics  &  purchasing  professionals 
+in the Netherlands. The early part of the survey development took place while 
+the two of us were in the Netherlands (one of us was a Visiting professor in a 
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+International Journal of Operations and Production Management
+
+Page 50 of 64
+
+Dutch  university).  Subsequently,  after  returning  to  US,  the  survey  was 
+administered to professionals in the US. No other special reasons  existed for 
+the choice of the two  countries, and we respectfully submit that this does not 
+affect  the  research  results  in  any  way.  On  the  contrary,  we  have  benefitted 
+much from the academics and practitioners with whom we had an opportunity 
+to  interact  outside  of  the  US.  One  of  the  experts  we  interacted  with  during 
+survey development was also the author of a widely-used text book in Europe 
+and one who provided us access to many practitioners relevant to this study.  
+ 
+
+c.  There are several fatal flaws in the survey instrument and data used to test the 
+hypotheses. First of all, the survey instrument measured perception, not actual 
+implementation of the measured items.  What was done to ensure that 
+respondents’ perceptions are accurate representation of actual practices? Was 
+data collected from a second respondent in the same firm to cross validate the 
+responses?   
+
+F
+
+o
+
+r
+ 
+
+We  did  not  collect  data  from  a  second  respondent  in  the  same  firm  to  cross 
+validate the responses. As in studies such as Frohlich and Westbrook (2002), 
+it was felt that these were managers with enough seniority to know about their 
+companies’  upstream  and  downstream  integration  and  performance.  High-
+ranking respondents, with sufficient level of seniority tend to be more reliable 
+sources  of  information  than  their  subordinate  rank,  in  accordance  with 
+Phillips  (1981).  This  is  also  consistent  with  numerous  past  survey-based 
+research  studies  in  supply  chain  management  (e.g.,  Swafford  et  al.,  2006a,b; 
+Braunscheidel and Suresh, 2009; Camison and Lopez, 2010). As a result, the 
+single source employed in the study was deemed to be able to provide reliable 
+and valid responses regarding the supply chain as a whole.  
+
+r
+ 
+
+e
+
+e
+
+P
+
+References: 
+Braunscheidel, M. J. and N. C. Suresh (2009), "The Organizational 
+
+R
+
+e
+
+Antecedents of a Firm's Supply Chain Agility for Risk Mitigation and 
+Response", Journal of Operations Management, Vol.27 No.2, pp.119 - 140. 
+
+Camison, C., & Lopez, A. V. (2010). An Examination of the Relationship 
+
+Between Manufactuirng Flexibility and Firm Performance. International 
+Journal of Operations & Production Management, 30(8), 853 - 878. 
+
+v
+i
+e
+
+Phillips, L.W. (1981) “Assessing measurement error in key informant reports: 
+a methodological note on organizational analysis in marketing.” Journal of 
+Marketing Research, Vol. 18 No 4, pp. 395–415. 
+
+w
+
+Swafford,  P.  M.,  Ghosh,  S.  and  Murthy,  N.  N.,  (2006a)  “A  framework  for 
+assessing  value  chain  agility.”  International  Journal  of  Operations  & 
+Production Management, Vol. 26 No 2, pp. 118 – 140. 
+
+Swafford,  P.  M.,  Ghosh,  S.  and  Murthy,  N.,  (2006b)  “The  antecedents  of 
+supply  chain  agility  of  a  firm:  Scale  development  and  model  testing.” 
+Journal of Operations Management, Vol. 24 No 2, pp. 170 – 188. 
+
+ 
+
+d.  To make matter worse, the sampling frame targeted ISM’s purchasing and 
+supply managers when a large portion of the questions were operations and 
+logistics oriented.   I am doubtful that purchasing and supply managers are 
+knowledgeable about the firms’ strategic flexibility (supply flexibility, product 
+design, and process flexibility) and agility (customer responsiveness, demand 
+response, and joints planning). For example, some of the operations oriented 
+
+
+Page 51 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+survey questions asked the respondents how long it takes to introduce new 
+products, to accommodate design change, and to change product mix (these 
+are items measuring the first-order product design flexibility construct).  There 
+are similar concerns with all the other first-order constructs measuring supply 
+chain flexibility and supply chain agility. 
+
+In  addition  to  the  points  mentioned  above,  for  the  previous  comment,  we 
+would  like  to  add  the  following.  High-level  Purchasing  and  supply  chain 
+executives have been shown to be more conversant with external aspects and 
+demands  on  manufacturing  situations  than  manufacturing  managers,  and 
+manufacturing  executives  are  generally  aware  of  fewer  sourcing  issues 
+(Narasimhan  and  Das,  1999).  Similarly,  in  Braunscheidel  and  Suresh  (2009) 
+it  was  also  pointed  out  that  these  executives  with  sufficient  seniority  tend  to 
+know  about  the  firms’  upstream  and  downstream  integration  aspects  and 
+performance. The respondents employed in our study are also consistent with 
+most  past  survey-based  research  works  in  the  supply  chain  management. 
+Finally,  the  survey  instrument  was  not  overly  technical  and  did  not  require 
+detailed  knowledge  of  manufacturing  process/equipment,  just  as  in  studies 
+such  as  Narasimhan  and  Das  (1999).  This  is  certainly  a  point  for  future 
+refinements  for  research  in  this  area.  Hence,  we  submit  that  the  responses 
+from the purchasing executives and supply managers are valid and reliable. 
+ 
+References: 
+Braunscheidel, M. J. and N. C. Suresh (2009), "The Organizational 
+
+r
+ 
+
+e
+
+o
+
+F
+
+P
+
+Antecedents of a Firm's Supply Chain Agility for Risk Mitigation and 
+Response", Journal of Operations Management, Vol.27 No.2, pp.119 - 140. 
+
+e
+
+r
+ 
+
+ 
+Narasimhan, R. and A. Das (1999a), "An Empirical Investigation of the 
+Contribution of Strategic Sourcing to Manufacturing Flexibilities and 
+Performance", Decision Sciences, Vol.30 No.3, pp.683 - 718. 
+
+e
+
+R
+
+ 
+
+e.  Another major concern of this study is how the research model was 
+
+v
+i
+e
+
+operationalized.  The authors used 3 indicators to measure each first-order 
+construct (Appendix).  For example, are (1) top management emphasizes 
+purchasing function's strategic role, (2) purchasing is viewed as equal to other 
+functions by the CEO, and (3) purchasing is involved in corporate-level 
+strategic planning (Appendix) adequate measure of the strategic purchasing 
+construct? In order to properly measure strategic purchasing of a firm, I would 
+expect to enquire whether there is a strategic alliance relationship between the 
+buyer and supplier, supplier certification program, and supplier performance 
+evaluation system, among others.  Similar problem exists for all the other first-
+order constructs.   
+
+w
+
+The scales for the research constructs and survey instrument employed in this 
+study are mostly derived from existing studies.  For example, the construct of 
+strategic  sourcing  and  the  questions  asked  in  the  questionnaire  are  adopted 
+from  Kocabasoglu  and  Suresh  (2006).  We  do  agree  with  the  reviewer  that 
+there may be other indicators which can be considered to present the concept 
+of  the  corresponding  construct.  We  submit  that  this  might  be  true  for  most 
+other  empirical  studies  in  the  past  in  this  research  stream.  We  will  keep  this 
+factor in mind in our future research efforts. 
+
+
+International Journal of Operations and Production Management
+
+Page 52 of 64
+
+ 
+
+f.  Using 3 indicators per construct also preclude the authors' ability to use the 
+
+two-step modeling approach to assess the fit of the structural model 
+independently of the measurement models because the degrees of freedom for 
+each measurement model will be negative (see references below). 
+Byrne, B. M. (1998).  Structural equation modeling with Lisrel, Prelis, and 
+Simplis: Basic concepts, applications, and programming. Lawrence Erlbaum 
+Associates, Mahwah, New Jersey. 
+Schumacker, R. E., & Lomax, R. G. (1996).  A beginner's guide to structural 
+equation modeling. Lawrence Erlbaum Associates, Mahwah, New Jersey. 
+
+F
+
+In PLS modeling, a universal fit measure, like model χ2 for covariance-based 
+SEM using maximum likelihood estimation and other similar fit indices is not 
+utilized (Chin, 1998; Tenenhaus et al., 2005) though one global goodness-of-
+fit  criterion  which  mainly  serves  a  diagnostic  purpose,  has  been  proposed 
+(Wetzels  et  al.,  2009).  As  mentioned  above  for  comment  #9,  using  PLS,  the 
+evaluation  of  the  fit  of  a  structural  model  depends  merely  on  the  analysis  of 
+the  predictability  of  the  endogenous  constructs  and  the  strength  of  the 
+relationships  between  the  constructs  (Camison  and  Lopez,  2010).  The 
+predictability  of  the  endogenous  constructs  is  evaluated  by  means  of  the  R2 
+value for the endogenous variables. The strength of the relationships between 
+the  constructs  is  assessed  through  the  path  coefficients  (β)  and  the 
+corresponding significant level. 
+
+r
+ 
+
+e
+
+o
+
+P
+
+e
+
+Unlike  traditional  SEM  approach  used  in  Lisrel,  the  degrees  of 
+freedom  for  measure  model  is  measured  as  “the  number  of  bootstrapping 
+size  –  1”  (Henseler  et  al.,  2009)  which  is  999  in  this  study  since  the 
+boostrapping size considered in this study is 1000 subsamples, which is larger 
+than the suggested 500 subsample size suggested by Chin (2001) and used by 
+Camison and Lopez (2010). 
+
+r
+ 
+
+R
+
+e
+
+References: 
+
+Chin, W. W. (1998) The Partial Least Squares Approach to Structural 
+Equation Modeling. In Modern Business Research Methods, G. A. 
+Marcoulides (ed.), Mahwah, NJ: Lawrence Erlbaum Associates, pp. 295 – 
+336. 
+
+w
+
+v
+i
+e
+
+Chin, W. W. (2001) PLS-Graph User’s Guide Version 3.0., Houston, TX: Soft 
+
+Modeling Inc. 
+
+Henseler, J., Ringle, C.M., & Sinkovics, R.R. (2009). The Use of Partial Least 
+
+Squares Path Modeling in International Marketing. Advances in 
+International Marketing 20, pp. 277-319. 
+
+Tenenhaus, M., Vinzi, V. E., Chatelin, Y.-M., and Lauro, C. (2005) PLS Path 
+Modeling. Computational Statistics and Data Analysis 48(1), pp. 159-205. 
+
+Wetzels, M., Odekerken-Schroder, G. & van Oppen, C. (2009) Using PLS path 
+
+modeling for assessing hierarchical construct models: Guidelines and 
+empirical illustration. MIS Quarterly 33(1), pp. 177-195. 
+
+ 
+
+4. Results:   Are results presented clearly and analysed appropriately?  Do the 
+conclusions adequately tie together the other elements of the paper?:  
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 53 of 64
+
+International Journal of Operations and Production Management
+
+a.  Results are well-presented, but I am doubtful of using PLS to analyze the 
+
+research model.  I believe the model would not converge if the authors used 
+Lisrel, MPlus or EQS due to the small sample size. 
+
+As  explained  in  one  of  our  responses,  we  have  chosen  PLS  over  covariance-
+based  SEM  because  it  has  been  suggested  as  a  methodology  appropriate  for 
+smaller  samples  sizes  (Bagozzi  et  al.,  1991;  Hulland,  1999)  and  the  fact  that 
+research  has  shown  it  to  be  capable  of  providing  unbiased  estimates  with 
+small  sample  sizes  (Chin  and  Newsted,  1999;  Falk  and  Miller,  1992).  Our 
+sample size does satisfy the rule of thumb for required sample sizes in PLS.  
+References: 
+Bagozzi, R.P., Yi, Y., Singh, S., 1991. On the use of structural equation models 
+
+in experimental designs: two extensions. International Journal of 
+Research in Marketing 8 (2), 125–140. 
+
+ Chin, W. W. and P.R Newsted (1999), “Structural equation modeling analysis 
+
+F
+
+with small samples using Partial Least Squares.” In: R.H. Hoyle, 
+Editor, Statistical strategies for small sample research, Sage 
+Publications, London, pp. 308–341. 
+
+o
+
+Falk,R.F. and Miller,N.B. (1992),APrimer for SoftModeling,University 
+
+r
+ 
+
+ofAkron Press,Akron,OH. 
+
+Hulland, J., 1999. The use of partial least squares in strategic management 
+
+P
+
+research: a review of four recent studies. Strategic Management 
+Journal 20 (2), 195–204. 
+
+e
+
+e
+
+r
+ 
+
+5. Implications for research, practice and/or society:  Does the paper identify clearly 
+any implications for research, practice and/or society?  Does the paper bridge the 
+gap between theory and practice? How can the research be used in practice 
+(economic and commercial impact), in teaching, to influence public policy, in 
+research (contributing to the body of knowledge)?  What is the impact upon society 
+(influencing public attitudes, affecting quality of life)?  Are these implications 
+consistent with the findings and conclusions of the paper?: I am doubtful of the 
+research methodology and survey instrument; hence, I am reluctant to recommend 
+whether the implications are consistent with the findings and conclusions of the 
+paper. 
+
+v
+i
+e
+
+e
+
+R
+
+ 
+
+We hope that the numerous changes we have now made in the paper, address the 
+issues  the  reviewer  had  in  terms  of  the  contribution  of  the  research  and  the 
+empirical study. 
+
+w
+
+ 
+We thank the referee for the perceptive comments which, we feel, have served to 
+significantly strengthen the manuscript.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+International Journal of Operations and Production Management
+
+Page 54 of 64
+
+Responses to Reviewer: 2 
+ 
+Responses to Questions under “Comments”: 
+
+1.      Define "agility" in the introduction - how is it different from flexibility? You'll 
+also therefore need to explain your definition of "flexibility" 
+
+We  thank  the  reviewer  for  this  suggestion,  since  the  distinction  between  these  two 
+concepts is critical for this study. As a result, we added a section in the Introduction 
+(at the bottom of the first page of Introduction) where flexibility is defined early as the 
+ability “to change or react with little penalty in time, cost, or performance” (Upton, 
+1994)  whereas  agility  is  defined  as  the  capability  of  the  ﬁrm,  internally,  and  in 
+conjunction  with  its  key  suppliers  and  customers,  to  adapt  or  respond  in  a  speedy 
+manner to a changing marketplace contributing to agility of the extended supply chain 
+(Braunscheidel and Suresh, 2009). 
+
+References: 
+Braunscheidel, M. J. and N. C. Suresh (2009), "The organizational antecedents of a 
+
+F
+
+firm's supply chain agility for risk mitigation and response", Journal of 
+Operations Management, Vol.27 No.2, pp.119 - 140. 
+
+o
+
+Upton, D. M. (1994), “The management of manufacturing flexibility”, California 
+
+r
+ 
+
+Management Review, pp. 72- 89. 
+
+P
+
+ 
+2.      Explicitly explain the difference between competence and capability 
+
+e
+
+R
+
+e
+
+r
+ 
+
+In  line  with  the  reviewer’s  request,  we  used  the  explanations  given  by  Teece  et  al. 
+(1997) in their seminal article, where they discuss competencies vs. capabilities. They 
+explain  competence  as:  “When  firm-specific  assets  are  assembled  in  integrated 
+clusters  spanning  individuals  and  groups  so  that  they  enable  distinctive  activities  to 
+be  performed,  these  activities  constitute  organizational  routines  and  processes”. 
+Thus,  competence  is  “what  an  organization  can  do  particularly  well”  (Andrews, 
+1987). But while this competence is unique, it provides that company profit potential 
+only when it is linked to the needs of the market. Thus, Teece et al. (1997) suggested 
+that  capabilities  are  about  “appropriately  adapting,  integrating,  and  reconfiguring 
+internal and external organizational skills, resources, and functional competences to 
+match the requirements of a changing environment.” In other words, capabilities are 
+about matching the organization’s abilities with the market’s needs. 
+ 
+References: 
+Andrews, K. (1987). The Concept of Corporate Strategy (3rd ed.). Dow Jones-Irwin, 
+
+v
+i
+e
+
+e
+
+w
+
+Homewood, IL. 
+
+Teece,  D.  J.,  G.  Pisano  and  A.  Shuen  (1997).  ‘Dynamic  capabilities  and  strategic 
+
+management’, Strategic Management Journal, 18(7), pp. 509–533. 
+
+ 
+3.      The arguments for H1 and H2 are very similar; there needs to be a clearer 
+distinction; 
+
+We  thank  the  reviewer  for  this  comment.  We  have  strengthened  arguments  for 
+hypotheses 1 and 2 (and also the other two hypotheses) and clarified their differences 
+by taking the following steps: 
+
+In line with one of the reviewer’s earlier comments,  
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 55 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+a)  We  provide  definitions  for  all  three  constructs,  this  provides  a  clear 
+delineation  of  the  flexibility  and  agility  constructs  also  helping  establish  a 
+clear difference on how strategic sourcing relates to flexibility vs. agility 
+
+b)  We  explain  the  difference  between  competence  and  capability  thereby  again 
+
+separating the flexibility and agility constructs. 
+
+c)  We  rearrange  the  hypotheses  section  to  bring  out  the  differences  in  the 
+hypotheses  section  and  bringing  out  that  strategic  sourcing  relates  to  agility 
+by  ensuring  that its  operations  is  aligned  to  the needs  of  the  market  whereas 
+its  role  in  improving  flexibility  is  primarily  due  to  the  fact  that  suppliers 
+provide  key  input  to  a  firm’s  operations  and  poor  supply  management  can 
+seriously disrupt operations, etc. 
+
+ 
+
+4.      For both H1 and H2, there should be more explanation of why the relationships 
+are hypothesized in addition to providing references that support these 
+relationships.  There is some explanation but not enough. 
+
+F
+
+o
+
+We  have  rewritten  the  sections  related  to  Hypothesis  1  and  2,  and  provided  more 
+explanations in response to this comment of the referee. . 
+ 
+5.      Again, there is not a very clear distinction between agility and flexibility, so it is 
+difficult to see the significance of the argument for H3.  
+
+r
+ 
+
+P
+
+e
+
+e
+
+As stated before, the definitions of flexibility and agility are now in the Introduction, 
+especially  relating  them  in  a  competence-capability  framework  helped  us  strengthen 
+our  argument  for  H3.  It  should  be  stated  that  this  is  why  we  consider  this  study  be 
+timely,  only  recently  have  these  concepts  been  clearly  separated,  and  the  constructs 
+defined, measured and empirically validated. 
+ 
+6.      The argument for H4 is not well developed.  Again, the authors need to explain 
+why there should be a mediation effect. What would it mean for FSF to mediate the 
+relationship between strategic sourcing and agility, and why would you expect there 
+to be such an effect? 
+
+r
+ 
+
+e
+
+R
+
+To  respond  to  this  request,  we  considered  the  role  of  purchasing  in  physical 
+distribution versus market mediation as defined by Fisher (1997), and introduced the 
+following in the development of H4: 
+ 
+
+w
+
+Fisher (1997) argued that a supply chain has both a physical distribution and 
+market mediation function. While the physical distribution function focuses on getting 
+the  products  to  the  market  efficiently,  the  market  mediation  function  is  primarily 
+related to scanning the market to make sure that a firm (or a set of firms in the supply 
+chain)  seizes  opportunities  in  the  market  by  synchronizing  the  demand  with  their 
+supply.  This  raises  the  following  question  about  the  exact  nature  of  the  relationship 
+between  strategic  sourcing  and  FSCA.  If  one  considers  only  the  physical  function, 
+strategic sourcing can be primarily seen as comprehending procurement needs of an 
+organization  and  ensuring  the  arrival  of  supplies  consistent  with  these  needs.  If  one 
+focuses  on  the  market  mediation  aspect,  the  question  becomes  whether  there  is 
+additional information that purchasing can collect, given its boundary spanning role 
+and  its  relationships  with  other  firms  regarding  the  market,  which  may  help  a  firm 
+synchronize  the  supply  with  end-customer  demands  better.  If  the  former  scenario 
+applies, one may expect flexibility to fully mediate the relationship between strategic 
+sourcing and agility since the positive or negative contributions of strategic sourcing 
+
+v
+i
+e
+
+
+International Journal of Operations and Production Management
+
+Page 56 of 64
+
+will be fully absorbed by the internal operations. If on the other hand, if purchasing 
+has a role in market mediation, one would not expect to see full mediation. 
+
+Reference: 
+Fisher, M. L. (1997) What Is the Right Supply Chain for Your Product?, Harvard 
+
+Business Review, Vol. 75 Issue 2, p105-116. 
+
+ 
+7.      One control variable that seems to be missing is industry.  The authors 
+apparently have SIC codes for their respondents, so it would not seem to be difficult 
+to control for industry.  Different industries have very different characteristics, and 
+those characteristics would likely affect agility and flexibility.  
+
+In  response  to  this  suggestion,  we  reanalyzed  the  relationships  among  the  proposed 
+research constructs, adding industry as a control variable. The path coefficients and 
+corresponding significance level among constructs are provided below. 
+
+F
+
+o
+
+r
+ 
+
+P
+
+e
+
+e
+
+r
+ 
+
+R
+
+e
+
+v
+i
+e
+
+w
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 57 of 64
+
+International Journal of Operations and Production Management
+
+ 
+
+ 
+
+SS 
+
+FSF 
+
+FSCA 
+
+Firm Size 
+
+Perishablility 
+
+Process 
+
+SIC 
+
+Seasonality 
+
+SP 
+
+IN 
+
+IS 
+
+SD 
+
+FSF 
+
+SF 
+
+DF 
+
+PF 
+
+FSCA 
+
+CR 
+
+DR 
+
+JP 
+
+0.753*** 
+
+0.680** 
+
+0.771*** 
+
+0.658*** 
+
+0.353** 
+
+ 
+
+ 
+
+ 
+
+0.346*** 
+
+ 
+
+0.762*** 
+
+0.518*** 
+
+0.686*** 
+
+0.224** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.819*** 
+
+0.608*** 
+
+0.682*** 
+
+ 
+
+ 
+
+ 
+
+F
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or Peer R
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note: *** is significant at 0.01 level; ** is significant at 0.05 level; * is significant at 0.1 level 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.069 
+
+-0.019 
+
+-0.018 
+
+0.082 
+
+0.080 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evie
+
+w
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+
+International Journal of Operations and Production Management
+
+Page 58 of 64
+
+The results shown above are pretty similar to the results presented in Table 6 (P.27 in 
+original submission). The path coefficients between each control variable and FSCA 
+are all insignificant and close to zero.  
+ 
+8.      It seems that there should have been some direct measure of demand uncertainty 
+instead of two variables that might be related to demand uncertainty.  
+ 
+We  could  have  considered  one  of  the  two  following  options  with  regards  to  demand 
+uncertainty: 
+
+1.)  Taken  a  measure  of  demand  uncertainty  from  economics,  such  as  a  variable 
+driven  by  changes  in  sales.  We  preferred  not  to,  since  this  variable  assumes 
+that there was enough capacity to absorb the variability. 
+
+2.)  Taken  a  well  established  construct  such  as  dynamism  or  munificence.  While 
+this  was  seriously  considered,  we  had  to  abandon  the  idea  given  that  the 
+survey was already quite long.  
+
+F
+
+ 
+We do believe that perishability and seasonality are to alternative measures, given the 
+large body work on fast fashion (e.g. Fisher and Raman, 1996), where the product is 
+both perishable and seasonal.  
+
+o
+
+r
+ 
+
+P
+
+Reference: 
+Fisher, M., and Raman, A., 1996, “Reducing the cost of demand uncertainty through 
+accurate response to early sales,” Operations Research, 44( 1), pp. 87-99.    
+ 
+9.      A response rate of 7.3% is low, even if the authors have been able to find other 
+published studies with comparably low response rates.  Also, the authors did not 
+appear to have tested for non-response bias, which is important with such a low 
+response rate. 
+
+r
+ 
+
+e
+
+e
+
+R
+
+One method for testing non-response bias is to test for significant differences between 
+the responses of early and late waves of returned surveys via t-tests (Armstrong and 
+Overton,  1977).  We  utilized  this  approach  comparing  early  and  late  respondents  in 
+terms of demographic variables (e.g. annual sales, full time equivalent (FTE)). The t-
+tests yielded no statistically significant differences among the demographic variables 
+as can be seen in the table below. 
+
+v
+i
+e
+
+e
+
+References: 
+Armstrong, J.S., Overton, T.S., (1977) “Estimating non-response bias in mail 
+
+w
+
+surveys,” Journal of Marketing Research 4, pp. 396–402. 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 59 of 64
+
+International Journal of Operations and Production Management
+
+ 
+
+ 
+
+Group Statistics 
+
+ID 
+
+N 
+
+Mean 
+
+Std. Deviation 
+
+Std. Error Mean 
+
+C12 
+
+>= 119 
+
+< 119 
+
+21 
+
+97 
+
+3.00 
+
+2.58 
+
+1.265 
+
+1.116 
+
+.276 
+
+.113 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C12 
+
+Equal variances assumed 
+
+Equal variances not assumed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C13 
+
+Equal variances assumed 
+
+Equal variances not assumed 
+
+ 
+
+F
+
+Variances 
+
+Levene's Test for Equality of 
+
+Independent Samples Test 
+
+ 
+
+Sig. 
+
+or Peer R
+
+27.155 
+
+1.536 
+
+1.416 
+
+.127 
+
+.168 
+
+.837 
+
+116 
+
+df 
+
+ 
+
+t 
+
+Sig. (2-tailed)  Mean Difference 
+
+ 
+
+.043 
+
+F 
+
+ 
+
+Group Statistics 
+
+t-test for Equality of Means 
+
+95% Confidence Interval of the 
+
+Difference 
+
+Std. Error 
+Difference 
+
+Lower 
+
+Upper 
+
+.423 
+
+.423 
+
+.275 
+
+.298 
+
+-.122 
+
+-.189 
+
+.968 
+
+1.035 
+
+evie
+
+t-test for Equality of Means 
+
+w
+
+Levene's Test for Equality of 
+
+Variances 
+
+ 
+
+Independent Samples Test 
+
+ 
+
+F 
+
+ 
+
+Sig. 
+
+t 
+
+df 
+
+Sig. (2-tailed)  Mean Difference 
+
+.274 
+
+.602 
+
+ 
+
+.632 
+
+.622 
+
+119 
+
+28.582 
+
+.529 
+
+.539 
+
+.126 
+
+.126 
+
+.199 
+
+.202 
+
+-.268 
+
+-.288 
+
+.520 
+
+.539 
+
+95% Confidence Interval of the 
+
+Difference 
+
+Std. Error 
+Difference 
+
+Lower 
+
+Upper 
+
+ID 
+
+N 
+
+Mean 
+
+Std. Deviation 
+
+Std. Error Mean 
+
+C13 
+
+>= 119 
+
+< 119 
+
+21 
+
+100 
+
+3.29 
+
+3.16 
+
+.845 
+
+.825 
+
+.184 
+
+.083 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+International Journal of Operations and Production Management
+
+Page 60 of 64
+
+10.     Another potential issue is the possibility of common method bias as a result of 
+using a single respondent.  One possible check for this problem is Harman's one-
+factor test.  
+
+Yes,  indeed…  the  test  for  common  method  bias  is  needed  for  survey-based  research 
+work. Liang et al. (2007) (Appendix E, page 85 – 87), based on Podsakoff et al. (2003) 
+and Williams et al. (2003), suggested a method to test the common method bias under 
+the PLS program as quoted below: 
+
+“According  to  Williams  et  al.  (2003),  evidence  of  common  method  bias  can  be 
+obtained by examining the statistical significance of factor loadings of the method 
+factor  and  comparing  the  variances  of  each  observed  indicator  explained  by  its 
+substantive  construct  and  the  method  factor.  The  squared  values  of  the  method 
+factor  loadings  were  interpreted  as  the  percent  of  indicator  variance  caused  by 
+method,  whereas  the  squared  loadings  of  substantive  constructs  were  interpreted 
+as the percent of indicator variance caused by substantive constructs. If the method 
+factor  loadings  are  insignificant  and  the  indicators’  substantive  variances  are 
+substantially  greater  than  their  method  variances,  we  can  conclude  that  common 
+method bias is unlikely to be a serious concern. “ 
+
+F
+
+o
+
+r
+ 
+Test results for Common Method Bias 
+
+ 
+
+Method Factor Loading 
+
+Construct 
+
+Indicator 
+
+CR 
+
+ 
+
+ 
+
+DF 
+
+ 
+
+ 
+
+DR 
+
+ 
+
+ 
+
+IN 
+
+ 
+
+ 
+
+IS 
+
+ 
+
+ 
+
+JP 
+
+ 
+
+ 
+
+PF 
+
+ 
+
+ 
+
+SD 
+
+ 
+
+ 
+
+SF 
+
+ 
+
+CR1 
+
+CR2 
+
+CR3 
+
+DF1 
+
+DF2 
+
+DF3 
+
+DR1 
+
+DR2 
+
+DR3 
+
+IN1 
+
+IN2 
+
+IN3 
+
+IS1 
+
+IS2 
+
+IS3 
+
+JP1 
+
+JP2 
+
+JP3 
+
+PF1 
+
+PF2 
+
+PF3 
+
+SD1 
+
+SD2 
+
+SD3 
+
+SF1 
+
+SF2 
+
+0.880*** 
+
+0.804*** 
+
+0.770*** 
+
+0.805*** 
+
+0.581*** 
+
+0.731*** 
+
+0.732*** 
+
+0.736*** 
+
+0.774*** 
+
+0.656*** 
+
+0.906*** 
+
+0.960*** 
+
+0.701*** 
+
+0.719*** 
+
+0.888*** 
+
+0.710*** 
+
+0.582*** 
+
+0.786*** 
+
+0.809*** 
+
+0.829*** 
+
+0.850*** 
+
+0.781*** 
+
+0.599*** 
+
+0.888*** 
+
+P
+
+Substantive Factor 
+
+Loading (R1) 
+e
+0.631*** 
+
+R12 
+
+0.399 
+
+0.801 
+
+0.895*** 
+
+e
+
+0.774 
+
+r
+ 
+
+0.646 
+
+0.592 
+
+R
+
+0.647 
+
+0.337 
+
+e
+
+(R2) 
+
+0.171** 
+
+-0.158** 
+
+0.008 
+
+-0.023 
+
+-0.017 
+
+0.038 
+
+-0.003 
+
+R22 
+
+0.029 
+
+0.025 
+
+0.000 
+
+0.001 
+
+0.000 
+
+0.001 
+
+0.000 
+
+0.035 
+
+0.025 
+
+0.002 
+
+0.015 
+
+0.023 
+
+0.000 
+
+0.003 
+
+0.007 
+
+0.013 
+
+0.009 
+
+0.031 
+
+0.007 
+
+0.003 
+
+0.011 
+
+0.026 
+
+0.003 
+
+0.006 
+
+0.027 
+
+0.003 
+
+0.535 
+
+-0.188*** 
+
+0.536 
+
+0.158** 
+
+v
+i
+-0.040 
+e
+-0.122 
+
+0.600 
+
+0.542 
+
+0.431 
+
+0.821 
+
+0.921 
+
+0.492 
+
+0.516 
+
+0.789 
+
+0.504 
+
+0.338 
+
+0.618 
+
+0.654 
+
+0.687 
+
+0.723 
+
+0.610 
+
+0.359 
+
+0.788 
+
+0.153** 
+
+w
+
+-0.020 
+
+-0.052 
+
+0.085 
+
+-0.113 
+
+-0.092 
+
+0.176** 
+
+-0.084 
+
+-0.056 
+
+0.104* 
+
+-0.161** 
+
+0.051 
+
+0.080 
+
+0.164* 
+
+-0.051 
+
+
+Page 61 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+ 
+
+SP 
+
+ 
+
+ 
+
+Average 
+
+SF3 
+
+SP1 
+
+SP2 
+
+SP3 
+
+ 
+
+0.850*** 
+
+0.848*** 
+
+0.981*** 
+
+0.862*** 
+
+0.785 
+
+0.722 
+
+0.718 
+
+0.962 
+
+0.743 
+
+0.627 
+
+-0.090 
+
+0.079 
+
+-0.090* 
+
+0.012 
+
+-0.003 
+
+0.008 
+
+0.006 
+
+0.008 
+
+0.000 
+
+0.011 
+
+Note: *** is significant at 0.01 level; ** is significant at 0.05 level; * is significant at 0.1 level 
+
+As  seen  from  the  results  in  the  above  table,  the  common  method  bias  test 
+results  show  that  average  variance  of  the  substantive  factor  loading  (0.627)  is  62 
+times  more  than  that  of  the  method  factor  loading  (0.011).  Moreover,  most  method 
+factor loadings are insignificant. Hence, we consider that the common method bias is 
+less likely to be a concern.  
+
+References: 
+Liang, H., Saraf, N., Hu, Q., & Xue, Y. (2007). Assimilation of Enterprise Systems: 
+
+F
+
+The Effect of Institutional Pressures and the Mediating Role of Top 
+Management. MIS Quarterly, 31(1), 59 - 87. 
+
+Podsakoff, P., MacKenzie, S., Lee, J., & Podsakoff, N. (2003). Common Method 
+
+o
+
+Biases in Behavioral Research: A Critical Review of the Literature and 
+Recommended Remedies. Journal of Applied Psychology, 88(5), 879 - 903. 
+
+r
+ 
+
+Williams, L. J., Edwards, J. R., & Vandenberg, R. J. (2003). Recent Advances in 
+
+P
+
+Causal Modeling Methods for Organizational and Management Research. 
+Journal of Management, 29(6), 903 - 936. 
+
+e
+
+ 
+11.     Why did the authors use PLS instead of structural equation modeling?  
+
+e
+
+The  primary  reason  for  using  the  partial  least  squares  (PLS)  rather  than  the 
+covariance-based  of  technique  structural  equation  modeling  (SEM)  was  the  small 
+sample  size.  This  issue  and  some  other  aspects  of  PLS  that  made  it  the  preferred 
+methodology is expanded upon in the subsequent paragraphs.  
+
+R
+
+r
+ 
+
+e
+
+Similar  to  covariance-based  SEM,  the  structural  and  measurement  models 
+under  PLS  (Wold,  1966;  Lohmohller,  1989;  Chin,  1998a,  b;  2001)  consist  of  three 
+sets  of  relations:  The  inner  (structural)  model,  which  specifies  the  relationships 
+between  latent  variables,  (b)  The  outer  (measurement)  model,  which  specifies  the 
+relationships  between  the  latent  variables  and  their  associated  observed  variables, 
+and (c) The weight relations upon which the case values for the latent variables can 
+be estimated. 
+
+v
+i
+e
+
+w
+
+The PLS method is designed to maximize prediction rather than fit (Anderson 
+and  Gerbing,  1988).  That  is,  PLS  differs  in  its  approach  from  other  structural 
+equation  modeling  techniques  such  as  LISREL  in  that  it  tests  the  strength  of 
+individual component relationships rather than the overall fit of a proposed model to 
+observed  covariances  amongst  all  of  the  variables.  PLS  uses  a  series  of 
+interdependent  ordinary  least  squares  (OLS)  regressions  to  minimize  residual 
+variances, placing minimal demands on data in terms of measurement scales, sample 
+size,  and  distributional  assumptions  (Chin,  1998b;  Fornell  and  Bookstein,  1982; 
+Wold,  1982).  PLS  is  also  a  conservative  modeling  approach  that  tends  to 
+underestimate  rather  than  overestimate  path  coefficients  (Dijkstra,  1983),  reducing 
+the  likelihood  of  Type  1  errors  in  hypothesis  testing  (Bagozzi  et  al.,  1991).  We  can 
+infer the relative strength of relationships among variables by their path loadings. We 
+can also judge the extent to which variation in one set of variables might help explain 
+variance in a variable of interest, through the R2 calculated by the program. As with 
+
+
+International Journal of Operations and Production Management
+
+Page 62 of 64
+
+multiple  regression,  the  predictive  powers  of  PLS  can  help  in  refining  theory  by 
+showing which assumed predictors have substantive links to outcomes.  
+
+Partial  least  squares  (PLS)  is  preferable  to  covariance-based  SEM  in  cases 
+where  the  sample  size  is  relatively  small  (Bagozzi  et  al.,  1991;  Hulland,  1999). 
+Earlier  work  has  demonstrated  that  PLS  capable  of  providing  provide  unbiased 
+estimates with small sample sizes (Chin and Newsted, 1999; Falk and Miller, 1992). 
+Of course, the larger the sample, the more stable the parameter estimates, yet there is 
+no agreement as to the minimum required sample size. A standard rule of thumb for 
+PLS suggests a sample size equivalent to the larger of the following: (a) ten times the 
+number  of  indicators  for  the  scale  with  the  largest  number  of  formative  (causal) 
+indicators;  or  (b)  ten  times  the  largest  number  of  structural  paths  directed  at  a 
+particular construct in the structural model (Chin, 1998b). 
+
+Due  to  these  characteristics  PLS  has  been  used  in  several  other  studies  in 
+operations  and  supply  chain  management  (e.g.  Camison  and  Lopez,  2010;  Jeffers, 
+2010;  Johnston  et  al.,  2004;  Morgan  et  al.,  2007;  Ordanini  and  Rubera,  2008; 
+Raymond and St-Pierre, 2005; Rosenzweig, 2009) 
+
+F
+
+o
+
+References: 
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modelling in practice: a 
+
+r
+ 
+
+review and recommended two step approach. Psychological Bulletin 103 (3), 
+411–423. 
+
+P
+
+Bagozzi, R.P., Yi, Y., Singh, S., 1991. On the use of structural equation models in 
+
+e
+
+v
+i
+e
+
+experimental designs: two extensions. International Journal of Research in 
+Marketing 8 (2), 125–140. 
+
+e
+
+Camisón, C. and López, A.V. 2010. “An examination of the relationship between 
+
+manufacturing flexibility and firm performance: The mediating role of 
+innovation,” 
+International Journal of Operations & Production Management, 30(8), pp. 
+853-878 
+
+e
+
+R
+
+Chin, W.W. (1998a), “Issues and opinion on structural equation modelling”, MIS 
+
+r
+ 
+
+Quarterly, Vol. 22 No. 1, pp. 7-16. 
+
+Chin, W.W. (1998b), “The partial least squares approach to structural equation 
+
+modelling”, in Marcoulides, G.A. (Ed.), Modern Methods for Business 
+Research, Lawrence Erlbaum Associates, Mahwah, NJ, pp. 295-336. 
+
+Chin, W.W. (2001), PLS-graph User’s Guide. Version 3.0, University of Houston. 
+Chin and Newsted, 1999 W.W. Chin and P.R Newsted, Structural equation modeling 
+
+w
+
+analysis with small samples using Partial Least Squares. In: R.H. Hoyle, 
+Editor, Statistical strategies for small sample research, Sage Publications, 
+London (1999), pp. 308–341. 
+
+Dijkstra, T., 1983. Some comments on maximum likelihood and partial least squares 
+
+methods. Journal of Econometrics 22 (1/2), 67–90. 
+
+Falk,R.F. and Miller,N.B. (1992),APrimer for SoftModeling,University ofAkron 
+
+Press,Akron,OH. 
+
+Fornell, C., Bookstein, F.L., 1982. Two structural equation models: LISREL and PLS 
+
+applied to consumer exit-voice theory. Journal of Marketing Research 19, 
+440–452. 
+
+Hulland, J., 1999. The use of partial least squares in strategic management research: 
+
+a review of four recent studies. Strategic Management Journal 20 (2), 195–
+204. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+
+Page 63 of 64
+
+International Journal of Operations and Production Management
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+
+Jeffers, P.I. 2010. “Embracing sustainability: Information technology and the 
+
+strategic leveraging of operations in third-party logistics,” International 
+Journal of Operations & Production Management, 30(3), pp. 260-287 
+Johnston, D.A., McCutcheon, D.M., Stuart, F.I., Kerwood, H., 2004. Effects of 
+
+supplier trust on performance of cooperative supplier relationships. Journal of 
+Operations Management 22(1), 23–38. 
+
+Lohmohller, J.B. (1989), Latent Variables Path Modelling with Partial Least Squares, 
+
+Physica-Verlag, Heidelberg. 
+
+Morgan, N., Kaleka, A. and Gooner, R.A. 2007. Focal supplier opportunism in 
+
+supermarket retailer category management,” Journal of Operations 
+Management, 25(2), pp. 512-527 
+
+Ordanini, A. and Rubera, G. 2008. “Strategic capabilities and internet resources in 
+
+procurement: A resource-based view of B-to-B buying process,” International 
+Journal of Operations & Production Management,  28(1), pp. 27-52.    
+
+Raymond, L. and St-Pierre, J. 2005. “Antecedents and performance outcomes of 
+advanced manufacturing systems sophistication in SMEs,” International 
+Journal of Operations & Production Management, 25(6), pp. 514-533. 
+
+F
+
+o
+
+Rosenzweig, E.D. 2009, “A contingent view of e-collaboration and performance in 
+
+r
+ 
+
+P
+
+manufacturing,”Journal of Operations Management, 27(6), pp. 462-478 
+
+Wold, H. (1966), “Nonlinear estimation by iterative least squares procedures”, in 
+
+David, F.N. (Ed.), A Festchrift for J. Neyman, Wiley, New York, NY, pp. 411-
+44. 
+
+e
+
+Wold, H., 1982. Soft modeling: the basic design and some extensions. In: Joreskog, 
+
+K.G., Wold, H. (Eds.), Systems Under Indirect Observation. Part II. North-
+Holland Publishing Co., New York, pp. 1–54. 
+
+e
+
+R
+
+ 
+12.     The test for mediation can include a partial mediation, where there can still be a 
+significant relationship between the predictor variable (SS) and the outcome variable 
+(FSCA) when the hypothesized mediator variable (FSF) is included in the 
+model.  Partial mediation is indicated when the magnitude of the effect from the 
+predictor to the outcome variable is reduced.  That appears to be the situation 
+here.  The magnitude of the standardized coefficient for SS, while significant in both 
+models, decreases from 0.428 to 0.347.  The literature is not clear on the extent to 
+which the magnitude must be decreased to allow a conclusion of partial mediation, 
+but the authors should investigate this possibility.  I would suggest that the authors 
+consult the literature on mediation and partial mediation to guide them on this issue. 
+
+v
+i
+e
+
+e
+
+w
+
+r
+ 
+
+In addition to the full mediation effect described in Baron and Kenny (1986), Sosik et 
+al. (2009) suggested the existence of partial mediation effect under PLS. One formal 
+approach to test the existence of mediation effect is to examine whether the product of 
+the two mediating paths is significantly different from zero (MacKinnon et al., 2002). 
+Sobel  test  (Sobel  1982)  is  the  most  common  tool  used  for  such  a  test.  However,  this 
+test  is  not  able  to  be  applied  in  this  study  because  the  path  coefficients  are  not 
+independent  since  PLS  is  used.  Moreover,  under  PLS,  there  are  no  unstandardized 
+path coefficients as required to run Sobel test. 
+
+Sosik  et  al.  (2009)  considered  that  partial  mediation  exists  when  the  path 
+coefficients  between  the  predictor  variable,  strategic  sourcing,  and  the  intervening 
+variable, FSF, and between the intervening variable and outcome variable, FSCA, are 
+significant.  In  other  words,  if  the  direct  path  and  the  two  mediating  paths  were 
+significant,  a  partial  mediation  effect  should  be  concluded.  In  this  study,  the  path 
+
+
+International Journal of Operations and Production Management
+
+Page 64 of 64
+
+coefficients are both significant (0.346 and 0.344) and the partial mediation effect is 
+concluded. 
+
+References: 
+Baron, R. M. and D. A. Kenny (1986), "The moderator-mediator variable distinction 
+
+in social psychological research: Conceptual, strategic, and statistical 
+considerations", Journal of Personality and Social Psychology, Vol.51 No.6, 
+pp.1173 - 1182. 
+
+MacKinnon, D. P., Lockwood, C. M., Hoffman, J. M., West, S. G., & Sheets, V. 
+(2002). A comparison of methods to test the significance of the mediated 
+effect. Psychological Methods, 7, 83-104. 
+
+Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in structural 
+
+equation models. In S. Leinhardt (Ed.), Sociological methodology 1982 (pp. 
+290-312). Washington, DC: American Sociological Association. 
+
+Sosik, J. J., S. S. Kahai, and M. J. Piovoso (2009), “Silver bullet or voodoo statistics? 
+
+F
+
+A primer for using the partial least squares data analytic technique in group 
+and organization research”, Group & Organization Management, Vol 34 No 
+1, pp. 5-36. 
+
+o
+
+ 
+ 
+We thank this referee for the perceptive comments which, we feel, have served to 
+greatly strengthen the manuscript. 
+
+P
+
+r
+ 
+
+e
+
+e
+
+r
+ 
+
+R
+
+e
+
+v
+i
+e
+
+w
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+

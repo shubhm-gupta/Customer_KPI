@@ -1,0 +1,2181 @@
+Int. J. Production Economics 160 (2015) 120–132
+
+Contents lists available at ScienceDirect
+
+Int. J. Production Economics
+
+journal homepage: www.elsevier.com/locate/ijpe
+
+Exploring the relationship between leadership, operational practices,
+institutional pressures and environmental performance: A framework
+for green supply chain
+Rameshwar Dubey a,1, Angappa Gunasekaran b,n, Sadia Samar Ali c,2
+a Symbiosis Institute of Operations Management, Symbiosis International University, Plot No. A-23, Shravan Sector, CIDCO, New Nashik 422008, India
+b Charlton College of Business, University of Massachusetts Dartmouth, North Dartmouth, MA 02747-2300, USA
+c Fortune Institute of International Business, Rao Tula Ram Marg, Vasant Vihar, New Delhi 110057, India
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 23 February 2014
+Accepted 3 October 2014
+Available online 16 October 2014
+
+Keywords:
+Green supply chain management
+Total Quality Management
+Supplier Relationship Management
+Institutional pressures
+Conﬁrmatory factor analysis
+Hierarchical regression analysis
+
+The aim of the paper is to test the impacts of supplier relationship management (SRM) and total quality
+management (TQM) on environmental performance under the inﬂuence of
+leadership and the
+moderation effect of institutional pressures (IP). The study investigates these effects using a pre-
+tested structured questionnaire. Data was collected using a split survey method using a modiﬁed version
+of Dillman's (2007) total design method with 187 and 174 complete and usable responses for the
+respective parts. We performed non-response bias before checking assumptions such as constant
+variance and normality. We further checked reliability and construct validity using conﬁrmatory factor
+analysis and hierarchical regression analyses for hypothesis testing. We ﬁnd that constructs and
+indicators of our theoretical framework meet the criteria, and ﬁnd them to be a good ﬁt based on
+conﬁrmatory factor analysis and ﬁt indices output. The hierarchical regression analyses outputs suggest
+that all our hypotheses are supported, which further supports the extant literature. Our present study is
+unique in terms of scope and contribution to SCM and OM theory and practice. The study has tested
+empirically the research calls of various researchers and extended them to green supply chain networks.
+Our ﬁndings support institutional theory.
+
+& 2014 Elsevier B.V. All rights reserved.
+
+1.
+
+Introduction
+
+The growing concern towards protecting the environment has
+now transferred into green policies (e.g. Sarkis et al., 2011;
+Gunasekaran and Gallear, 2012). Today, green manufacturing has
+become common jargon used by almost one-third of manufactur-
+ing specialists and researchers. This is, perhaps, inevitable. There is
+a dire need for companies, and especially those engaged in
+manufacturing activities, to take a proactive, rather than a reactive,
+approach in this regard. According to a report released by UNEP
+(2011), global manufacturing industry consumes 35 per cent of the
+total electricity consumed worldwide and is responsible for 20 per
+cent of the world's CO2 emissions, which is detrimental to all life
+on earth. The effect of this argument is to draw attention towards
+green manufacturing.
+
+n Corresponding author. Tel.: þ1 508 999 9187; fax: þ1 508 999 8646.
+E-mail addresses: rameshwardubey@gmail.com (R. Dubey),
+
+agunasekaran@umassd.edu (A. Gunasekaran),
+sadiasamarali@gmail.com (S. Samar Ali).
+
+1 Tel.: þ91 253 2379960x39, Mobile: þ91 8600417738.
+2 Mobile: þ91 9650691133.
+
+http://dx.doi.org/10.1016/j.ijpe.2014.10.001
+0925-5273/& 2014 Elsevier B.V. All rights reserved.
+
+In recent years, researchers have shown increasing interest in
+environmentally friendly manufacturing practices (Choi et al.,
+2012). While there is a rich body of literature on green manufac-
+turing and its implementation (e.g. Bierma and Waterstraat, 1999;
+Vachon and Klassen, 2006; Hsu and Hu, 2009; Bai and Sarkis,
+2010; Ku et al., 2010; Testa and Iraldo, 2010; Lo et al., 2012; van
+Hoof and Lyon, 2013), there is little literature which has attempted
+to study leadership and operational practices' impacts on environ-
+mental performance. Few studies utilize a theory-focused
+approach to understand the role of key factors of green manufac-
+turing in environmental performance. Drawing on the literature
+on leadership (e.g. Siaminwe et al., 2005; Stone, 2006; Brown and
+Stone, 2007; Van Berkel, 2007; Deif, 2011; Despeisse et al., 2012;
+Law and Gunasekaran 2012; Singh et al., 2012; Dües et al., 2013;
+van Hoof and Lyon, 2013), supplier relationship management (e.g.
+Bierma and Waterstraat, 1999; Vachon and Klassen, 2006; Hsu and
+Hu, 2009; Bai and Sarkis, 2010; Ku et al., 2010; Testa and Iraldo,
+2010; van Hoof and Lyon, 2013), total quality management (e.g.
+Pauli, 1997; Murovec et al., 2012; Prajogo et al., 2012; Pereira-
+Moliner et al., 2012), institutional theory (DiMaggio and Powell,
+1983; Clemens and Douglas, 2006; Yu et al., 2006; Zhu and Sarkis,
+2007; Sarkis et al., 2011) and environmental performance (e.g. Zhu
+
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+121
+
+and Sarkis, 2004; Wagner and Schaltegger, 2004; Schoenherr,
+2012; Lo et al., 2012), we develop a theoretical framework to
+explain the impact of leadership, supplier relationship manage-
+ment and total quality management on environmental perfor-
+mance under the inﬂuence of institutional pressures. Extending
+the ﬁndings of Kanji and Wong (1999), who proposed a business
+excellence model for supply chain management, we submit that
+institutional pressures can further moderate the impact of the
+implementation of green manufacturing practices.
+
+While it is reasonable to assume that leadership, supplier
+relationship management and total quality management under
+the moderation effect of institutional pressures will be critical to
+environmental performance, and this will therefore be inﬂuential
+in the adoption of environmentally friendly practices by the
+rubber industry, we submit that a theoretical explanation of that
+adoption phase is still underdeveloped. Theory-based empirical
+studies with a focus on the period post-adoption of environmen-
+tally friendly practices by the rubber industry are clearly called for.
+By empirically validating a theoretically derived green supply
+chain model, this study offers three major contributions to the
+literature on green supply chain management.
+
+First, the present study investigates the model under the lens of
+organizational theory, in particular institutional theory, which is in
+its infancy stage (Ketchen and Hult, 2007). Glover et al. (2014), in
+one recent study, investigated sustainable practices across the dairy
+supply chain using institutional theory perspective. The study has
+provided an interesting insight into institutional pressures and their
+impacts on the implementation of environmental practices.
+
+Second, this study calls for recognition of the need for a green
+supply chain model for the rubber industry; and third, we extend
+the prior research on adoption of environmentally friendly prac-
+tices in the manufacturing sector through an industry-speciﬁc
+examination of the rubber industry. Our decision to test our
+proposed model with respect to the rubber industry was guided
+by two aspects. First, researchers have conducted many studies on
+sectors such as automotive, automotive components, chemicals,
+electronic goods manufacturing and oil & gas. However, to our
+knowledge we have not come across any such studies in the context
+of the rubber manufacturing sector, which is one of the largest
+sectors and one of the major sources of carbon emissions after
+transportation, deforestation, cement, steel and oil reﬁning. Second,
+we received support from one of the Indian rubber manufacturing
+companies to undertake a research project with respect to the
+Indian rubber sector and its efforts towards GSCM practices. The
+Indian rubber sector comprises 30 large ﬁrms, along with over 3500
+classed as MSMEs (Micro, Small and Medium Enterprises), with the
+latter together accounting for more than 30 per cent of energy
+consumption and thus disproportionately responsible for CO2
+emissions due to obsolete technology and lack of oversight.
+
+Based on the preceding discussions we have derived our research
+
+objectives as:
+
+(i) To empirically validate our proposed theoretical framework.
+To empirically validate our theoretical framework, we adopt
+conﬁrmatory factor analysis (CFA). The CFA analysis helps us
+to check the validity of our theoretical framework. Second, to
+further test our research hypotheses, we adopt hierarchical
+regression analysis (HRA) as opposed to structural equation
+modeling.
+
+(ii) To provide recommendations for the rubber industry, which is
+aspiring to implement green supply chain management (GSCM)
+or may already have implemented a GSCM framework.
+As discussed, the focus of the present study on the rubber
+industry is this paper's unique contribution. The recommenda-
+tions may help the rubber industry to outline strategies to
+improve their environmental performance.
+
+(iii) To outline further research directions.
+
+We feel that our research has its own limitations; however,
+our limitations can be overcome and the research further
+extended to advance the existing literature.
+
+The rest of the paper is organized as follows. In the next
+section, we will synthesize the theoretical foundations of the
+study. In Section 3, we illustrate our research framework and
+develop our research hypotheses accordingly. In Section 4, we
+discuss the research design, including questionnaire design, pre-
+testing and data collection. In Section 5, we will perform psycho-
+metric properties testing and hypothesis testing. In Section 6, we
+will conclude and discuss the theoretical and practical implica-
+tions, as well as considering the limitations of the study and
+further research directions.
+
+2. Related research
+
+To begin with,
+
+it is very important to understand ‘Green
+Manufacturing’ and its dimensions. There are many deﬁnitions
+and arguments, but as the literature conﬁrms, the processes of
+manufacturing or production create great quantities of wastes, in
+the form of solids, liquids and gases, which are harmful to the
+earth and to life supported by the earth. In order to minimize the
+harmful effects of
+these wastes, companies need to deploy
+innovative manufacturing practices which blend technology, cul-
+ture, leadership and policies, at an economical cost such that ﬁrms
+are not overburdened with excessive costs of production which
+would force them to outsource, which is the present scenario in
+the western part of the world (e.g. WCED, 1987; Porter and Van der
+Linde, 1995; Azzone and Noci, 1998; Sikdar and Howell, 1998;
+Montalvo Corral, 2003; Van Berkel, 2007; Balan et al., 2007; Zeng
+et al., 2010; Chaabane et al., 2012; Deif, 2011; De Giovanni and
+Esposito Vinzi (2012); Boltic et al., 2013; Dües et al., 2013).
+
+2.1. Dimensions of green manufacturing
+
+Green manufacturing is associated with manufacturing produc-
+tion practices which use more environmentally-friendly resources
+and provide maximum output with little or no waste or pollution
+in production (Gopalakrishnan et al., 2012; Baines et al., 2012).
+Green manufacturing includes implementing the best resources
+available to industry, which can in the long run lead to competitive
+advantage by increasing efﬁciency through increasing production
+quality and output at optimum cost (Fullerton et al., 2008). Green
+manufacturing can lead to reduced usage of raw materials, reduc-
+tion in energy consumption, fewer manufacturing steps, and lower
+environmental and occupational safety expenses, along with an
+improved corporate image (Porter and Van der Linde, 1995).
+Challenges associated with e Interplay of Governance Mechanisms
+in Complex Procurement Projecgreen manufacturing include
+meeting customer demands for environmentally sound products,
+development of recycling schemes, minimization of materials use,
+and selection of materials with low environmental
+impacts
+(Florida, 1996). The practices that constitute green manufacturing
+are Lean Manufacturing (e.g. Farish, 2009; Franchetti et al., 2009;
+Deif, 2011; Dües et al., 2013); Total Quality Management (TQM)
+(e.g. Pauli, 1997; Murovec et al., 2012; Prajogo et al., 2012; Pereira-
+Moliner et al., 2012; Gavronski et al., 2011); Supplier Relationship
+Management (SRM) (e.g. Bierma and Waterstraat, 1999; Vachon
+and Klassen, 2006; Hsu and Hu, 2009; Bai and Sarkis, 2010; Ku
+et al., 2010; Testa and Iraldo, 2010; van Hoof and Lyon, 2013);
+Leadership (Siaminwe et al., 2005; Stone, 2006; Brown and Stone,
+2007; Van Berkel, 2007; Deif, 2011; Dües et al., 2013; van Hoof and
+Lyon, 2013; Despeisse et al., 2012); and Technologies for cleaner
+
+
+122
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+production/green manufacturing (e.g. Sikdar and Howell, 1998;
+Zhang et al., 2013; van Hoof and Lyon, 2013). Dillon and Fischer
+(1992) argued that integration and understanding of production
+operations and managerial functions for personnel is necessary for
+green manufacturing to progress ideas. There are a few prerequi-
+sites for green manufacturing, which are sometimes hard to
+explain and quantify.
+
+Due to rapid concern about global warming and pollution,
+industrial practices are emerging as challenges for the global
+environment (Sundarakani et al., 2010). Johansson and Winroth
+(2009) conducted an empirical study with a new approach,
+comparing lean manufacturing and green manufacturing. Accord-
+ing to institutional theory companies sometimes, under pressure
+from stakeholders, adopt practices which are environmentally
+friendly and beneﬁcial to society. Mimetic isomorphism occurs
+due to an uncertain environment that leads one ﬁrm to mimic
+other ﬁrms' practices, which they perceive to be beneﬁcial for
+their business (Kauppi, 2013; Zsidisin et al., 2005). Normative
+isomorphism occurs due to professionalization, which is a product
+of the educational backgrounds of the managers and legitimation
+in the cognitive base (DiMaggio and Powell, 1983).
+
+Similarly, economic variants,
+
+i.e. frequency-based imitation,
+trait-based imitation and outcome-based imitation, lead towards
+institutional isomorphism. Thus, economic efﬁciency and proﬁt
+maximization are a better ﬁt with OM and SCM paradigms
+(Ketokivi and Schroeder, 2004). Without environmental aware-
+ness,
+it is difﬁcult to implement green practices. Regulatory,
+competitive, and marketing pressures have led to increased
+environmental awareness and are the drivers of green supply
+chain management (GSCM) (Zhu et al., 2005; Sarkis et al., 2011).
+For example, Chinese manufacturers have taken proactive mea-
+sures in closing the supply chain loop by adopting GSCM practices.
+From the preceding discussion, we can see the importance of
+concepts like lean manufacturing, TQM, supplier relationship,
+training and development, and leadership. Lean manufacturing
+also focuses on waste minimizations. The concept has its root in
+the Toyota Production Systems (TPS), and revolutionized the
+manufacturing practices during the 1960s and 1970s. By the
+1990s almost every leading manufacturing company had
+embraced lean manufacturing as a strategy. However, with the
+passage of time the quality of product became the foremost
+objective of the companies and soon their focus shifted to
+customer satisfaction. In spite of several similarities, the TQM
+literature is different from lean literature in terms of scope,
+concept and methodologies (Anvari et al., 2011). However, TQM
+scores over lean manufacturing in terms of its holistic view.
+It focuses on customers and includes every aspect of an organiza-
+tion. Second,
+lean manufacturing fails to offer any concrete
+solution when demand or supply uncertainty is high. In such
+scenario the TQM philosophy is at least not constrained due to
+environmental uncertainty. However, we are not underestimating
+the merit of lean manufacturing. In our context, keeping the
+present demand and supply uncertainty and customer's interest
+in mind, we prefer TQM philosophy over lean manufacturing. The
+supplier relationship is an integral constituent of both TQM and
+lean manufacturing. Past research supports the positive impacts
+of supplier relationship management on GSCM implementation
+(e.g. Ku et al., 2010; Testa and Iraldo, 2010; van Hoof and Lyon, 2013).
+The role of leadership is pivotal to such initiatives, where output and
+the beneﬁts realized may not be tangible.
+
+2.2. TQM and its impact on green manufacturing practices
+
+Besterﬁeld (1995) deﬁned TQM as both a philosophy and a set of
+guiding principles that represents the foundation of a continuously
+improving organization. It integrates fundamental management
+
+techniques, existing improvement efforts and technical tools under
+a disciplined approach. In a seminal article, Zhu and Sarkis (2004)
+investigated the impact of quality management, as one of their
+constructs, on green supply chain practices. According to Newman
+and Hanna (1996), integration of TQM with environmental issues
+may have a pervasive impact on operations management. Just as
+TQM pursues global solutions to other quality problems, it offers
+mechanisms for ﬁnding global solutions to the environmental
+quandary of today's manufacturers (Pun, 2006). In recent years
+the integration of TQM and environmental issues has attracted
+major attention from researchers (e.g. Prajogo et al., 2012; Pereira-
+Moliner et al., 2012; Gavronski et al., 2011). In our study we have
+identiﬁed one of the operational practices which may impact green
+manufacturing practices.
+
+2.3. SRM and its impact on green manufacturing practices
+
+In recent years, SRM has attracted huge interest among
+academia and practitioners. Companies who want to successfully
+integrate manufacturing with environmental issues should be able
+to ﬁnd suppliers who have minimized their environmental impact
+without reducing the quality of their product or raising costs
+signiﬁcantly (Luthra et al., 2013). SRM results in lower inventory
+level, cost and higher accuracy (Luthra et al., 2010). The green
+suppliers can be the greatest assets of the organization, but poor
+choice can make them the greatest liability also (Agarwal and
+Vijayvargy, 2012).
+
+2.4. SRM, TQM and green manufacturing practices
+
+(e.g. Bierma
+
+in western economies
+
+Supplier relationship management with partners has played a
+pivotal role in the successful implementation of green manufac-
+turing practices
+and
+Waterstraat, 1999; Vachon and Klassen, 2006; Hsu and Hu,
+2009; Bai and Sarkis, 2010; Ku et al., 2010; Testa and Iraldo,
+2010; van Hoof and Lyon, 2013), and even Indian manufacturers
+have realized the potential beneﬁts of supplier relationship man-
+agement (e.g. Thakkar et al., 2008; Mohanty and Gahan, 2012).
+However, the role of supplier relationship management in imple-
+mentation of green supply chain practices in India needs to be
+further studied. Further, in recent years, ﬁrms in western countries
+that have integrated TQM philosophy with green manufacturing
+practices have shown superior performance (e.g. Pauli, 1997;
+Murovec et al., 2012; Prajogo et al., 2012; Pereira-Moliner et al.,
+2012; Gavronski et al., 2011).
+
+2.5. Green manufacturing leads to superior ﬁrm performance
+
+That green manufacturing has helped ﬁrms to achieve superior
+performance is supported by the literature (e.g. Pauli, 1997; Farish,
+2009; Franchetti et al., 2009; Deif, 2011; Murovec et al., 2012;
+Prajogo et al., 2012; Pereira-Moliner et al., 2012; Gunasekaran and
+Spalanzani, 2012; Dües et al., 2013; Gavronski et al., 2011). The
+literature deﬁnes performance as the combination of environmen-
+tal performance (e.g. reduction in CO2, SO2, NOx; converting waste
+into more useful products; reuse or recycling after use; increase in
+product quality; increase in customer satisfaction) and business
+performance (e.g. increase in market share; increase in proﬁt-
+ability; increase in ROI; increase in ROA; improvement in inven-
+tory turnover, etc.).
+
+However, in the present study we will conﬁne our research to
+environmental performance. We have identiﬁed literatures which
+have supported green supply chain management practices and
+their positive impact on environmental performance (e.g. Zhu et al.,
+2005; Zhu et al., 2008; Kim et al., 2011; Bhateja et al., 2012; Seman
+et al. (2012); Gangele and Verma (2011); Whitelock, 2012).
+
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+123
+
+2.6. Research gaps
+
+Though previous studies have indicated the importance of the
+integration of TQM and SCM to achieving competitive advantage
+(e.g. Kanji and Wong, 1999; Gunasekaran and McGaughey, 2003;
+Tutuncu and Kucukusta, 2008; Vanichchinchai and Igel, 2009;
+Talib et al., 2010), nevertheless there is a scarcity of studies which
+have studied the combined effects of TQM and SRM on supply
+chain network design which is environmentally friendly. Second,
+the moderation effect of institutional pressures has been studied
+in GSCM networks by Zhu and Sarkis (2007); however the
+moderation effect of institutional pressures on SRM and TQM to
+inﬂuence environmental performance at aggregated level was not
+explored. Consequently, there is need for such studies in the
+context of green supply chain network design.
+
+3. Theoretical framework and hypotheses development
+
+Supplier relationship management is pivotal to the success of a
+green purchasing programme. The ﬁrm has to form a bond with
+their suppliers and motivate them to supply eco-friendly and non-
+hazardous raw materials, for example by training and educating
+them to adopt ISO 14001:2004. Firms which create pressure on
+their suppliers and review periodically to monitor progress are
+seen to adopt green practices successfully. Supplier collaboration
+results in developing eco-friendly products faster than relying
+solely on the in-house R&D team. Good partnership practices
+create transparency and hence the costs involved in developing
+the eco-friendly raw materials are visible, and therefore the risk of
+over spending is reduced. Motivating suppliers to maintain inven-
+tory at their works and issuing an open purchase order/contract so
+that the material is supplied in time to meet the production
+demand saves inventory carrying cost of ﬁrm.
+In one of the
+seminal works in this area, Kanji and Wong (1999) proposed a
+‘business excellence model for SCM’ where they investigated how
+leadership drives TQM initiatives to improve collaboration to
+achieve superior performance in a supply chain network. We
+would like to further investigate this model under the moderation
+effect of institutional pressures (e.g. Zhu and Sarkis, 2007; Wu
+et al., 2012). Consequently, we propose a theoretical framework as
+shown in Fig. 1.
+
+3.1. Leadership
+
+Top management of different supply chain members of a
+supply chain network, from supplier's supplier through manufac-
+turers, transporters, distributors and retailers, must align their
+objectives in the direction of customer interest, therefore taking
+environmental factors into consideration. Kanji and Wong (1998,
+1999) consider leadership as the base of the pyramid in the TQM
+model. Leadership has been identiﬁed as a driver of TQM philo-
+sophy (e.g. Beer, 2003; Lakshman, 2006; Karaszewski, 2010; Rui
+et al., 2010) as it helps in building a quality culture and fostering
+
+Institutional 
+Pressures
+
+Environmental
+Performance
+
+Leadership
+
+SRM
+
+TQM
+
+Fig. 1. GSCM business model.
+
+collaboration among supply chain network partners (Gunasekaran,
+1999; Yusuf et al., 2007). Leadership is key driver of GSCM
+initiatives. Sharif and Irani (2012), in one of their research studies,
+outlined how leadership can help an organization to successfully
+achieve environmental performance in a supply chain network.
+Leadership is about establishing environmental policies and goals
+to provide resources and training, and to stimulate improvement.
+It involves establishing practices with a long term vision for the
+ﬁrm, driven by changing customer requirements; as opposed to
+internal management control. We therefore hypothesize the
+following:
+
+H1. Leadership positively impacts TQM implementation;
+
+H2. Leadership positively impacts SRM with supply chain partners.
+
+3.2. Supplier relationship management (SRM)
+
+The collaborative partnership among supply chain partners in a
+supply chain network improves coordination (Kanji and Wong,
+1999) and reduces bull-whip effect in the network (Lee et al.,
+1997). Supply chain collaboration is deﬁned as shared efforts to
+achieve common goal (Cannella and Ciancimino, 2010). Relation-
+ship management across the supply chain network has helped
+ﬁrms to achieve green objectives like reducing carbon emissions
+across the supply chain network (Aberdeen Group, 2008; van den
+Broek and van den Broek-Serlé, 2010), helps in TQM implementa-
+tion (Gunasekaran, 1999; Mahapatra and Khan, 2006) and also
+assists in the successful implementation of green practices in the
+supply chain network (Bierma and Waterstraat, 1999; Vachon and
+Klassen, 2006; Hsu and Hu, 2009; Bai and Sarkis, 2010; Ku et al.,
+2010; Testa and Iraldo, 2010; van Hoof and Lyon, 2013). Supplier
+relationship management is about involving suppliers in decision
+making, technological development and meeting customer expec-
+tations through collaboration. It includes information, risk and
+proportionate proﬁt sharing. We therefore hypothesize:
+
+H3. SRM positively impacts TQM implementation;
+
+H4. SRM positively impacts environmental performance.
+
+3.3. Total quality management
+
+Total Quality Management is a philosophy according to which a
+ﬁrm aims to deliver quality products or services to customers.
+TQM is a continuous process of improvement for individuals,
+groups of people and whole ﬁrms; it encompasses a set of four
+principles (delight the customer, management by fact, people-
+based management, and continuous improvement) and eight core
+concepts (customer satisfaction, internal customers are real, all
+work is process, measurement, teamwork, people make quality,
+continuous improvement cycle, and prevention) (Kanji and Wong,
+1998).
+It can be concluded that TQM is a philosophy and a
+systematic activity to improve the value and quality of the
+products and services offered to customers through maximization
+of the potential of all stakeholders. In the past, researchers have
+highlighted the role of TQM in helping ﬁrms to achieve green
+objectives by reducing wastage, recycling wastes and reducing
+carbon emissions (e.g. Prajogo et al., 2012; Pereira-Moliner et al.,
+2012; Gavronski et al., 2011). Wiengarten and Pagell (2012), in one
+of their research studies, highlighted the importance of quality
+management practices on environmental performance. TQM mea-
+sures the ability to improve product quality, improve coordination
+and reduce variability across the supply chain network. It helps to
+build a mind-set among the partners across the network which
+aims to reduce cost by minimizing wastages resulting from
+transport, overproduction and defects. We therefore hypothesize:
+
+
+124
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+H5. TQM positively impacts environmental performance.
+
+3.4. Moderation effect of institutional pressures
+
+Recent years have seen an increasing role of institutional
+theory in the ﬁelds of OM and SCM (Kauppi, 2013). According to
+Scott (2008), institutional theory suggests that external forces
+motivate ﬁrms to undertake similar strategic actions. Under institu-
+tional theory, ﬁrms are not only proﬁt-seeking entities, but also
+recognize the importance of achieving social legitimacy (Suchman,
+1995). Institutional theory has two main forms, an economic variant
+and a social variant (Ketokivi and Schroeder, 2004). The mechan-
+isms identiﬁed are coercive, mimetic and normative, which lead
+towards institutional isomorphism (DiMaggio and Powell, 1983).
+The coercive mechanism consists of formal or informal pressures
+created on ﬁrms by other ﬁrms on which they are dependent and
+by expectations from the society (Kauppi, 2013; DiMaggio and
+Powell, 1983).
+
+GSCM can be used as an environmental tool to improve the
+ﬁrm's environmental image and gain competitiveness within the
+international business arena (Zhu et al., 2008). Greening any
+supply chain involves institutionalizing environmental principles
+in the design and operation of the supply chain. We have already
+described the importance of environmental principles for achiev-
+ing eco-efﬁciency and building environmentally friendly organiza-
+tions, and emphasis is placed on the application of such principles
+in the product lifecycle (Tsoulfas and Pappis, 2006). It is very
+important for any practising manager to understand the links
+between GCSM practices, and environmental and economic per-
+formance for successful GSCM implementation. Environmental
+pressure act as a driver for successful GSCM practices. Market
+and regulatory pressures, including environmental pressures, help
+an organization to improve as they are believed to inﬂuence
+eco-design and green purchasing. Manufacturers facing greater
+regulatory pressures tend to implement green purchasing and
+investment recovery policies. Competitive pressure signiﬁcantly
+improves the economic beneﬁts available from adoption of differ-
+ent GSCM practices (Zhu et al., 2007). In one study Wong et al.
+(2012) studied the moderation effect of environmental manage-
+ment and green operations on manufacturing ﬁrm performance.
+However, we further extend this research from an institutional
+theory perspective.
+Institutional pressure drives organizations
+to adopt environmental management initiatives; for example,
+Wu et al. (2012) studied the impact of GSCM drivers on GSCM
+practices under the moderation effect of institutional pressures,
+with reference to Taiwan's textile industry. Hence, we submit that
+institutional pressures have a moderation effect on the impact of
+SRM and TQM on environmental performance. However, one can
+argue that there are reasons why institutional pressure is not
+regarded as a mediating variable. Very often researchers get
+confused between moderating, mediating and controllable vari-
+ables. However, a proper understanding and critical review further
+helps to resolve the conﬂicts. Similarly,
+in our case we have
+enough literature which supports the moderation role of institu-
+tional pressure. In a study Kennedy and Fiss (2009) explored the
+motivation behind implementation of TQM in an organization.
+Liu et al. (2010) investigated the moderation effect of institutional
+pressures on ﬁrm intention to implement internet-based supply
+chain. Rogers et al., (2007) investigated the supplier development
+programme from an institutional theory perspective. Institutional
+Pressure measures the coercive, mimetic and normative pressures
+which drive GSCM adoption. It is measured in terms of regulatory
+pressure, market pressure, brand consciousness and proﬁt motive,
+which lead to institutional isomorphism. Based on our discussions
+we therefore hypothesize that:
+
+H6. Institutional pressures have moderation effect on SRM impact
+on environmental performance.
+
+H7. Institutional pressures have moderation effect on TQM impact
+on environmental performance.
+
+Here, we consider three dimensions which shape institutional
+theory, i.e. coercive pressure, normative pressure and mimetic
+pressure (DiMaggio and Powell, 1983). The coercive isomorphism
+is due to both formal and informal pressures exerted on organiza-
+tions by other organizations (e.g. buyers, government agencies,
+regulatory norms etc.) due to expectations from society (DiMaggio
+and Powell, 1983). In situations where buyers are strong and
+supply market strength is low, a company can exercise coercion to
+serve its own interest by demanding that partners adopt its
+favorable operational practices (Kraljic, 1983; Liu et al., 2010).
+Companies are under pressures from government, customers and
+other stakeholders to implement best practices. Normative iso-
+morphism occurs as a result of professionalization, which is
+deﬁned as “the collective struggle of members of an occupation
+to deﬁne the working conditions and their methods to work and in
+future guide the future professionals through legitimacy” (Liang
+et al., 2007). Mimetic isomorphism results from the mimicking
+action of other organizations' actions. An organization mimics the
+actions of others when there is lack of clarity in organizational
+goals, where there is environmental uncertainty, or where the
+technology is not well understood (DiMaggio and Powell, 1983;
+Liang et al., 2007).
+
+Coercive isomorphism is due to external pressures created by
+stakeholders (e.g. buyers, government agencies, regulatory norms
+etc.) due to varying expectations from society (DiMaggio and
+Powell, 1983). In order to live up to the expectations of the
+stakeholders, the top management completely mediates between
+coercive isomorphism and supplier relationship management
+practices in a green supply chain network. Zhu et al. (2007)
+investigated the impact of coercive pressures on top management
+behaviors, which play a critical role in formulating procurement
+policies in line with institutional norms. We therefore can further
+hypothesize as follows:
+
+H6a. Coercive pressure has moderation effect on SRM impact on
+SRM impact;
+
+H7a. Coercive pressure has moderation effect on TQM impact on
+environmental performance.
+
+Normative isomorphism arises due to professional codes,
+which expect professionals to follow very speciﬁc guidelines. We
+have discussed in our preceding section how top management
+plays a linking role in implementing professional codes and how,
+through proper training and regular workshops, young managers
+assimilate the professionalization.
+In our study we therefore
+assume the complete mediation role of top management in
+translating normative pressures into supplier relationship man-
+agement practices in a green supply chain network. We therefore
+hypothesize this as:
+
+H6b. Normative pressure has moderation effect on SRM impact on
+SRM impact;
+
+H7b. Normative pressure has moderation effect on TQM impact
+on environmental performance.
+
+Mimetic isomorphism results results from mimicking action
+of an organization. When an organization lacks clarity in terms of
+goals, or environmental uncertainty is high (i.e. high demand
+uncertainty, high supply uncertainty and high technology uncer-
+tainty), in such a situation the top management tends to replicate
+the existing trend in the industry. Thus the supplier relationship
+
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+125
+
+management practices of such organizations are aligned as per
+existing current practices in similar organizations. We therefore
+hypothesize based on our preceding discussions as follows:
+
+H6c. Mimetic pressure has moderation effect on SRM impact on
+SRM impact;
+
+H7c. Normative pressure has moderation effect on TQM impact on
+environmental performance.
+
+3.5. Environmental performance
+
+Environmental performance measures the ability of the ﬁrm
+to reduce carbon dioxide, SO2, NOx and other harmful gas
+emissions resulting from activities across the supply chain net-
+work. Environmental performance is deﬁned as the relationship
+between the organization and the environment. It includes the
+environmental effects of resources consumed, the environmental
+impacts of the organizational process, the environmental impli-
+cations of its products and services, the recovery and processing
+of products and meeting legal environmental requirements.
+The environmental initiatives include ISO 14000 certiﬁcation,
+pollution prevention, recycling of materials, and waste reduction
+(Schoenherr, 2012).
+
+4. Research design
+
+4.1. Questionnaire design
+
+In developing a questionnaire with which to conduct the
+survey, we began with a review of the extensive literature on
+the ﬁve main concepts – which included leadership, relationship
+management with their partners, TQM, institutional pressures and
+environmental performance – to identify the key issues, and
+developed a draft measurement instrument based on those used
+by other researchers. In the ﬁeld of quality management, a number
+of researchers have used questionnaire surveys as instruments for
+empirical study. These included, for example, Kanji and Wong
+(1999), Vachon and Klassen (2006), Hsu and Hu (2009), Bai and
+Sarkis (2010), Zhu and Sarkis (2007), Flynn et al. (1994), Kauppi
+(2013), DiMaggio and Powell (1983), Saraph et al. (1989), Kaynak
+(2003) and Blauw and During (1990). Resulting from the intensive
+literature review, the questionnaire is consolidated into two
+sections:
+
+Section 1: Includes questions on indicators of leadership, TQM,
+relationship management with their partners and institutional
+pressures. This section has 25 items in total. The objective of this
+section is to gauge the perceptions of the practitioners who were
+our target respondents. The respondents were asked to rate on a
+ﬁve-point Likert scale (where 1¼Strongly Disagree and 5¼
+Strongly Agree).
+
+Section 2: Includes questions on environmental performance.
+It has six items. The objective of this section is to gauge the
+perceptions of the respondents, who are environmental managers
+in their respective companies. Respondents were asked to rate
+on a ﬁve-point Likert scale (where 1¼Strongly Disagree, and
+5¼Strongly Agree).
+
+4.2. Measures
+
+Measures were adopted or modiﬁed from scales established in
+extant research to avoid scale proliferation. We used multi-item
+measures of constructs for our proposed theoretical framework in
+order to improve reliability, reduce measurement error, ensure
+greater variability among survey individuals and improve validity
+(Churchill, 1979). Each construct was operationalized using at least
+
+three items for measurement and analyzed using conﬁrmatory
+factor analysis (Hair et al., 2006; Anderson and Gerbing, 1988).
+The items included in the ﬁnal questionnaire were pretested
+with six experts drawn from industry and academia to check the
+content validity. We have incorporated all the suggestions of the
+experts. The suggestions were mainly related to the wording of
+the questionnaire and some items regarding relationships with
+partners. We did not disclose constructs to the respondents to
+eliminate respondent bias, as we will discuss in the data
+collection section. We have presented our constructs, their
+measures and literature support in a tabulated form as shown
+in Table 1 as:
+
+Indicators representing independent variables in our frame-
+work were captured using a 5-point Likert scale, from strongly
+disagree to strongly agree. Additional control variables were used
+to account for extraneous effects – speciﬁcally, ﬁrm size as the
+dummy variable (Chen and Paulraj, 2004). In our case we have not
+taken into consideration the nature of
+the industry, as we
+restricted our study to the rubber and rubber equipment manu-
+facturing sector.
+
+4.3. Sampling
+
+information provided by All
+
+There are over 3500 licensed rubber goods manufacturing
+ﬁrms in India which are practising green supply chain practices,
+based on initial
+India Rubber
+Association (AIRA). Target respondents are senior managers of
+each ﬁrm. We estimated our target sample size using the
+formula of Yamne (1967) , according to which we determined
+a sample size of roughly 358 to give a 95 per cent conﬁ-
+dence level.
+
+However, other recent studies in the OM and SCM area (e.g.
+Schoenherr and Mabert, 2011; Braunscheidel and Suresh, 2009)
+have demonstrated that a sample size of 150 is sufﬁcient to test
+research hypotheses (Hair et al., 2006).
+
+4.4. Data collection
+
+Data was collected through an electronic survey, using a split
+survey method (Podsakoff et al., 2003). In our case, we divided the
+questionnaire into two parts. The ﬁrst part of the questionnaire
+consisted of items related to leadership, supplier relationship
+management, TQM and institutional pressure (i.e. regulatory
+norms and market pressure); the second part consisted of items
+related to environmental performance.
+
+The survey was sent to targeted individuals in procurement
+departments to respond to questions related to their relationships
+with partners. These individuals were requested to pass on the
+remaining questions to their colleagues from quality and human
+resource departments to complete the questions related to TQM,
+leadership and institutional pressures. The second part of the
+questionnaire was sent to environmental managers of the same
+ﬁrms, as they are more knowledgeable about questions related to
+environmental performance. The split survey method allowed us
+to address the most informed respondents to answer our ques-
+tions. Prior
+respondents were assured that
+responses would not be revealed.
+
+to questioning,
+
+Our initial survey frame consisted of 358 ﬁrms situated
+throughout India and was compiled from a database provide by
+All India Rubber Association (AIRA). This database was chosen to
+reach a high number of executives of sufﬁcient seniority and
+knowledge to answer the split survey. Data collection was con-
+ducted using a modiﬁed version of Dillman's (2007) total design
+method. Overall, we received 187 complete and usable responses
+for the ﬁrst part and 174 complete and usable responses for the
+second part. The ﬁrm response rate is therefore 187/358¼52.23%
+
+
+126
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+Table 1
+Constructs of theoretical framework and their measures
+
+Constructs
+
+Leadership (L)
+
+Reference
+
+Items
+
+Kanji and Wong (1999), Podsakoff et al. (1990, 1996)
+and Laohavichien et al. (2011)
+
+Institutial pressure (IP)
+
+DiMaggio and Powell (1983), Zhu and Sarkis (2007)
+and Kauppi (2013)
+
+Supplier relationship (SRM)
+
+Zsidisin and Siferd, (2001), Carter and Jennings, 2004
+and Hong and Phitayawejwiwat (2005)
+
+Does your company have a well-deﬁned environmental policy.
+Is every employee aware about the ﬁrm's environmental policy.
+Does top management support environmental programs.
+Top management has approved special fund for investment in cleaner
+technologies.
+Does senior managers show positive attitude towards green practices.
+Does senior managers motivate and support new ideas received from junior
+executives.
+Are employees recognized for innovative ideas and awarded on a periodic basis.
+
+Is regional pollution control board pressurizing the ﬁrm to adopt green practices.
+Does Government regulations provide clear guidelines in controlling pollution
+level.
+Does pollution control board strictly monitors the pollution level of ﬁrm on a
+periodic basis.
+Does green practices decrease incidence of penalty fee charged by pollution control
+board.
+Are maximum sales of company export oriented.
+Are foreign customers more sensitive towards green practices.
+
+Does green practices improve customer satisfaction.
+Do your ﬁrm recover end of life products from customers.
+Do your customers appreciate eco friendly products.
+Is environmental criteria considered while selecting suppliers.
+Do your ﬁrm consider environment collaboration with suppliers.
+Do your ﬁrm have technological integration with suppliers.
+Do your ﬁrm train and educate suppliers in implementing ISO 14001.
+Is environmental audit for suppliers done periodically.
+
+Total quality management
+
+(TQM)
+
+Blauw and During, (1990), Kanji and Wong (1999),
+Kaynak (2003), Gavronski et al. (2011)
+
+Firm have successfully implemented Total Quality Management.
+Does green practices promote product quality.
+
+Environmental performance
+
+(EP)
+
+Zhu and Sarkis (2004) and Wagner and Schaltegger
+(2004)
+
+Green practices reduce solid waste generation.
+Efﬂuent meets CPCB norms by converting into green operations.
+Does green practices reduce environmental accidents and health hazards.
+Does green practices decrease of cost of raw materials.
+Does green practices reduce the inventory levels.
+Does green practices reduce cost for energy consumption.
+
+Table 2
+Respondent proﬁle
+
+Number of employees
+
+Percentage distribution
+
+o250
+250–1000
+41000
+
+Cadre
+
+Top management
+Middle management
+
+39.57%
+26.74%
+33.69%
+
+36.30%
+63.70%
+
+and the split survey ratio is 174/187¼93.04%. Here, the split ratio
+is relatively high but the response rate was slightly lower than we
+initially expected. However, the sample size is sufﬁcient enough to
+test the research hypotheses developed in this study (Hair et al.,
+2006), and is comparable to the response rate achieved in other
+recent research investigating supply chain and operations man-
+agement topics. As the questionnaire was part of a larger research
+project which ran to 6 pages in total, this may explain the below-
+average response rate. During our follow up with respondents who
+were senior managers, they revealed that they are quite reluctant
+to engage in external surveys. They revealed that in recent years,
+companies in India have formulated policies not to respond to any
+external survey that is not routed through proper channels. Over-
+all, 36.3 per cent of the total respondents belonged to top
+management and 63.7 per cent to middle management. The
+proﬁles of the respondents are shown in Table 2.
+
+4.5. Non-response bias
+
+Non-response bias is the difference between the responses of
+the early respondents and late respondents (Lambert and
+Harrington, 1990). Some of the eminent statisticians and experts
+in survey methods (e.g. Armstrong and Overton, 1977) have
+provided the scientiﬁc argument behind conducting non-
+response bias testing, irrespective of response rate. To account
+for non-response bias, we have compared the responses of early
+and late waves of returned surveys (Armstrong and Overton, 1977;
+Lambert and Harrington, 1990; Chen and Paulraj, 2004). The ﬁnal
+sample was ranked according to the dates the responses were
+received and split into equally sized groups. We compared the ﬁrst
+30 per cent of respondents (early-wave group) against the last 30
+per cent of respondents. Comparison analysis was based on eight
+randomly selected variables: t-tests performed on the two groups
+yielded no statistically signiﬁcant differences (at 95% conﬁdence
+intervals). From this we conclude that non-response bias is not a
+major issue.
+
+5. Data analysis
+
+5.1. Assessment of psychometric properties
+
+It is pertinent to test the assumptions like constant variance,
+existence of outliers and normality before we determine reliability
+and validity of the measurement items. We used plots of residuals
+by predicted values and statistics of skewness and kurtosis.
+
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+127
+
+To detect multivariate outliers, we used Mahalanobis distances of
+predicted variables (Stevens, 1984; Cohen et al., 2003). The
+maximum absolute values of the skewness and kurtosis of the
+items were found to be 1.496 and 1.169, respectively. These values
+are well within the limits recommended by past research (uni-
+variate skewnesso2, kurtosiso7) (Curran et al., 1996). For testing
+multivariate normality, we applied Mardia's (1970) coefﬁcients of
+multivariate skewness and kurtosis, which were found to be non-
+signiﬁcant (po0.05), indicating multivariate normality. Neither
+the plots nor the statistics indicated any signiﬁcant deviances from
+assumptions.
+
+5.1.1. Exploratory factor analysis
+
+First, we conducted factor analysis by entering all variables
+used in analysis into principal component analysis (varimax
+rotation). The Kaiser–Meyer–Olkin measure of sample adequacy
+is 0.73. The test reduced all the variables into ﬁve independent
+parsimonious factors with Eigen's value greater than 1.0, explain-
+ing 68.6% of the total variance. The ﬁrst latent variable explained
+nearly 27.53% of the total variance, thus common method bias is
+not a serious issue. Furthermore, all four factors contained vari-
+ables which were apparently interpretable. The solution was
+viable. We have further attempted to give a meaning to the stable
+structure as shown in Table 3. Variables with higher loadings were
+considered more important and have greater inﬂuence on the
+name or label selected to present a factor (Hair et al., 2006).
+
+Table 3
+Constructs and their reliability indicators, SCR and AVE.
+
+Scale
+
+Items
+
+5.1.2. Conﬁrmatory factor analysis
+
+After we had checked the assumptions, we used conﬁrmatory
+factor analysis to establish convergent validity and discriminant
+validity (Fornell and Larcker, 1981). Table 3 provides values of
+standardized factor loadings (λ), scale composite reliability (SCR)
+and average variance extracted (AVE).
+
+The Table 3 output suggests that standardized factor loadings of
+indicators,SCR and AVE are well above than speciﬁed lower value
+(i.e. λi should be ideally greater than 0.7 and must be Z0.5,
+SCRZ0.7 and AVEZ0.5).
+
+We can therefore conclude that constructs of our theoretical
+framework possess convergent validity. To determine discriminant
+validity, we have derived inter-factors correlation matrix and
+modiﬁed it as per (Fornell and Larcker 1981), suggestions as shown
+in Table 4.
+
+Table 4
+Discriminant validity.
+
+Constructs
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Leadership (1)
+SRM (2)
+TQM (3)
+Inst. Pressure (IP) (4)
+Environmental Perf. (EP) (5)
+
+0.875n
+0.442nn
+0.376nn
+0.482nn
+0.396nn
+
+0.898n
+0.421nn
+0.392nn
+0.345nn
+
+0.905n
+0.324nn
+0.336nn
+
+0.885n
+0.438nn
+
+0.804n
+
+n Square root of AVE.
+nn Correlation coefﬁcient.
+
+Factor
+loadings
+
+SCR
+
+AVE
+
+Leadership (L) Chronbach's Alpha: 0.947
+
+Does your company have a well-deﬁned environmental policy
+Is every employee aware about the ﬁrm's environmental policy
+Does top management support environmental programs
+Top management has approved special fund for investment in cleaner
+technologies
+Does senior managers show positive attitude towards green practices
+Does senior managers motivate and support new ideas received from junior
+executives
+Are employees recognized for innovative ideas and awarded on a periodic basis 0.868
+
+0.927
+0.904
+0.848
+0.879
+
+0.845
+0.861
+
+Institutial pressure (IP) Chronbach's Alpha: 0.885 Is regional pollution control board pressurizing the ﬁrm to adopt green
+
+Supplier relationship (SRM) Chronbach's Alpha:
+
+0.960
+
+practices
+Does Government regulations provide clear guidelines in controlling pollution
+level
+Does pollution control board strictly monitors the pollution level of ﬁrm on a
+periodic basis
+Does green practices decrease incidence of penalty fee charged by pollution
+control board
+Are maximum sales of company export oriented
+Are foreign customers more sensitive towards green practices
+
+Does green practices improve customer satisfaction
+Do your ﬁrm recover end of life products from customers
+Do your customers appreciate eco friendly products
+Is environmental criteria considered while selecting suppliers
+Do your ﬁrm consider environment collaboration with suppliers
+Do your ﬁrm have technological integration with suppliers
+Do your ﬁrm train and educate suppliers in implementing ISO 14001
+Is environmental audit for suppliers done periodically
+
+Total quality management (TQM) Chronbach's
+
+Alpha: 0.715
+
+Firm have successfully implemented Total Quality Management
+Does green practices promote product quality
+
+Environmental performance (EP) Chronbach's
+
+Alpha: 0.881
+
+Green practices reduce solid waste generation
+Efﬂuent meets CPCB norms by converting into green operations
+Does green practices reduce environmental accidents and health hazards
+Does green practices decrease of cost of raw materials
+Does green practices reduce the inventory levels
+Does green practices reduce cost for energy consumption
+
+0.905
+
+0.83
+
+0.887
+
+0.83
+
+0.928
+0.928
+
+0.821
+0.837
+0.869
+0.904
+0.952
+0.897
+0.947
+0.948
+
+0.905
+0.905
+
+0.88
+0.823
+0.875
+0.541
+0.858
+0.798
+
+0.93601
+
+0.768151
+
+0.934961 0.784327
+
+0.948883 0.806677
+
+0.961549 0.819025
+
+0.83573
+
+0.647167
+
+
+128
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+From Table 4, we can see that the absolute values for entries
+marked (nn) (correlation coefﬁcient) are lower than the absolute
+value of square root of AVE entries (n). This suggests that the
+constructs possess discriminant validity (Fornell and Larcker,
+1981). We have also estimated the ﬁt indices for the overall
+measurement model; Normed Chi-Square¼0.6, which suggests
+that χ2/dfr2, represent a better ﬁt (Hu and Bentler, 1999). There
+are other indices like RMSEA which was found 0.08 which suggest
+that model is a better ﬁt.
+
+5.2. Hypotheses tests
+
+We tested our research hypotheses using hierarchical regres-
+sion analysis. This technique is considered most appropriate and a
+more conservative technique, as opposed to the covariance-based
+method, due to the complexity of the model and available data
+points, and the great robustness of the technique (Gefen et al.,
+2000). We present our hierarchical regression analysis output in
+Table 5.
+
+The hierarchical regression analysis output shows that each
+linkage of the theoretical framework under the effect of the
+controlling variable, e.g. size of the ﬁrm in terms of employees,
+is supported statistically. The R2 values for each research hypoth-
+esis are found to be between 0.586 and 0.796, with F-statistics
+well above critical value Fcr (2172)¼3, shows that model is very
+strong. The VIF statistic is found to be less than 4, which suggests
+that the hierarchical regression output is free from multicollinear-
+ity effect (Hair et al., 2006); and Durbin–Watson statistic is found
+to be between 1.5 and 2.5, which suggests the hierarchical
+regression output
+(Field,
+2005).The unstandardized β co-efﬁcient of path (L-TQM) is
+0.957, which is found to be statistically signiﬁcant at (po0.05),
+indicating that leadership is a positive determinant of successful
+implementation of TQM. The results clearly support previous
+ﬁndings (e.g. Kanji and Wong 1999; Rui et al., 2010).
+
+is free from auto-correlation effect
+
+In the case of the second hypothesis, unstandardized β coefﬁ-
+cient of path (L-SRM) is 0.953, which is statistically signiﬁcant at
+(po0.05), indicating that leadership is signiﬁcantly important for
+building supplier relationship management. The top management
+commitment towards building SRM may help to improve colla-
+boration to achieve the objective of minimizing the impact of poor
+coordination in supply chain network design and achieving a more
+sustainable network without sacriﬁcing their proﬁt margin. This
+result clearly supports the previous ﬁndings (e.g. Gunasekaran,
+1999; Reichheld, 2003; Yusuf et al., 2007; Dües et al., 2013; van
+Hoof and Lyon, 2013; Despeisse et al., 2012).
+For the third hypothesis, unstandardized β coefﬁcient of path
+(SRM-TQM), is 0.749 which is statistically signiﬁcant at (po0.05),
+suggesting that SRM is a positive determinant of successful TQM
+implementation. The ﬁrm may achieve better results, in terms of
+customer satisfaction by offering better quality products or services,
+through supplier collaboration at minimum cost. The result supports
+previous ﬁndings (e.g. Gunasekaran, 1999; Yusuf et al., 2007;
+Wiengarten and Pagell, 2012).
+
+Regarding the fourth hypothesis, unstandardized β coefﬁcient
+of path (SRM-EP) is 0.474, statistically signiﬁcant at (po0.05),
+suggesting that the ﬁrm may achieve superior environmental
+performance which can be measured in terms of reduction in
+solid waste generation, helping to meet CPCB norms, reducing
+health and environmental hazards, reducing emissions of harmful
+gases, reducing raw materials costs and helping to save energy.
+The statistical ﬁnding clearly supports other recent ﬁndings (e.g.
+Seman et al., 2012; Gangele and Verma, 2011; Whitelock, 2012;
+Kim et al., 2011).
+For the ﬁfth hypothesis, unstandardized β coefﬁcient of path
+(TQM-EP) is 0.530, statistically signiﬁcant at (po0.05), suggest-
+ing that ﬁrms which have implemented TQM may achieve super-
+ior environmental performance. TQM fosters cooperation among
+supply chain partners (Kanji and Wong, 1999; Gunasekaran and
+McGaughey, 2003; Talib et al., 2010) and leads to superior supply
+chain performance. Our ﬁndings suggest that TQM is a positive
+and signiﬁcant determinant of environmental performance clearly
+supports previous ﬁndings (e.g. Pauli, 1997; Murovec et al., 2012;
+Prajogo et al., 2012; Pereira-Moliner et al., 2012; Gavronski et al.,
+2011).
+
+In our sixth hypothesis and seventh hypothesis we have three
+sub-hypotheses. However, our exploratory factor analysis suggests
+that all the three institutional pressures identiﬁed by DiMaggio
+and Powell (1983) and subsequently further supported by other
+researchers (e.g. Zhu and Sarkis, 2007; Sarkis et al., 2011) are
+loaded on a single factor. Thus we reclassiﬁed all three pressures
+as a single pressure (i.e. institutional pressure).
+For the sixth hypothesis, unstandardized β coefﬁcient of path
+(IP*SRM-EP) is 0.135, statistically signiﬁcant at (po0.05), sug-
+gesting that SRM has a positive impact under the moderation
+effect of institutional pressure (i.e. the coercive pressure, the
+normative pressure and mimetic pressure loaded on a single
+factor), which suggests that market pressure and regulatory norms
+have positive impacts. SRM focuses on improving coordination in
+supply chain networks through information sharing and collabora-
+tion improves environmental performance by reducing solid waste
+generation and helps in mitigating risk due to harmful emissions
+of gases like CO2, NOx, SOx and VOCs (Volatile Organic Compounds)
+which can be generated by the rubber industry. Inherent problems
+can be rectiﬁed if procurement policies can be aligned with
+environmental norms. For this, leaders of both companies need
+to assess the win-win situation and sensitize their team members
+to adapt to the global need for environmentally friendly products.
+This ﬁnding of ours supports the ﬁndings of Zhu and Sarkis (2007),
+Zhu et al. (2012a,b).
+For the seventh hypothesis, unstandardized β coefﬁcient of
+path (IP*TQM-EP) is 0.112, statistically signiﬁcant at (po0.05),
+suggesting that TQM has a positive impact under the moderation
+effect of institutional pressure, which suggests that market pres-
+sure and regulatory norms have positive impacts. However, an
+interesting observation can be made based on the moderation
+regression output; the relative difference between the magnitude
+of unstandardized β co-efﬁcient of path (TQM-EP) is negative, i.e.
+
+Table 5
+Hierarchical regression analysis.
+
+Hypothesis
+
+H1:L-TQM
+H2:L-SRM
+H3:SRM-TQM
+H4:SRM-EP
+H5:TQM-EP
+H6:IPnSRM-EP
+H7:IPnTQM-EP
+
+R2
+
+0.796
+0.692
+0.661
+0.586
+0.633
+0.601
+0.658
+
+F statistics Fcr¼3
+
+β
+
+t-Statistic
+
+p-Value
+
+Durbin–Watson statistic
+
+VIF
+
+Supported/Rejected
+
+333.280
+192.110
+166.963
+120.789
+147.346
+128.963
+164.865
+
+0.957
+0.953
+0.749
+0.474
+0.530
+0.112
+0.135
+
+25.133
+18.930
+17.689
+14.947
+16.558
+15.460
+17.540
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+1.664
+1.526
+1.918
+1.785
+1.755
+1.562
+1.508
+
+1.033
+1.033
+1.033
+1.033
+1.043
+1.065
+1.061
+
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+129
+
+the impact of TQM on EP was more pronounced than the impact of
+TQM on EP under the moderation effect of institutional pressure
+(IP). However, in recent years TQM has been regarded as a guiding
+principle of the ﬁrm, and as such TQM is often implemented long
+before the ﬁrm realizes the need for a sustainable supply chain.
+Those ﬁrms that have implemented TQM successfully have found
+themselves in a more comfortable position to achieve a sustain-
+able supply chain network. However, we do not deny the initial
+impact of regulatory and market pressures on the implementation
+of TQM to achieve superior environmental performance.
+It is
+therefore crystal clear that ﬁrms who have implemented TQM
+will achieve superior quality, which further leads them to achieve
+the more recently established goal, i.e. superior EP. The ﬁndings of
+our study further support the research ﬁndings of, Wiengarten and
+Pagell (2012).
+
+6. Conclusion
+
+In this paper, we empirically investigated the links between
+leadership, SRM, TQM and environmental performance in green
+supply chain or sustainable supply chain network design. More-
+over, we further examined the moderation effect of IP on links
+connecting SRM and EP, and TQM and EP, respectively, under the
+effect of controllable variables such as the size of the ﬁrm. Our
+work further strengthens and reﬁnes empirical work on the
+integration of SRM and TQM in a green supply chain network
+and on the application of institutional theory in the ﬁelds of OM
+and SCM, answering previous calls for research (Talib et al., 2011;
+Kauppi 2013). Overall, our study helps to test, empirically, the
+‘Business Excellence Model for Supply Chain Management’ (Kanji
+and Wong, 1999), and the model of Gunasekaran and McGaughey
+(2003) in the context of green supply chain network design or the
+sustainable supply chain, tests which are necessary at this time. In
+addition, we have attempted to understand the possible linkage
+between institutional theory and GSCM theory.
+
+6.1. Unique contributions
+
+6.1.1.
+
+Implications and contributions to theory
+
+With this study, we provide further evidence that supplier
+relationship management and TQM integration under the inﬂu-
+ence of leadership and moderation effect of institutional pressures
+(IP) may help ﬁrms, as one of their goals, to achieve environmental
+performance. The role of institutional pressures in affecting adop-
+tion of green supply chain practices is well discussed in the
+literature (e.g. Zhu et al., 2005; Zhu and Sarkis, 2007; Wu et al.,
+2012). What is less well understood is how institutional pressures
+affect the process of integration of leadership, supplier relation-
+ship management and total quality management on environmen-
+tal performance. Three key aspects of this study signify our
+contribution to the theory of green supply chain management.
+First, the study attempts to focus on post-implementation of green
+supply chain management practices in the context of the supply
+chain network. These ﬁndings extend the past work of e.g. Kanji
+and Wong (1999), Gunasekaran and McGaughey (2003) and Talib
+et al. (2011). The present study ﬁndings further support the studies
+of, for example, Wiengarten and Pagell (2012) and Wu et al.
+(2012).
+
+Second, this study integrates institutional pressures and the
+inﬂuence of leadership on operational practices to improve envir-
+onmental performance in one model, and reconciles inﬂuences
+that the literature had previously presumed to be independent.
+In the extant literature, top management, institutional pressures
+and operational practices are rarely studied together. Further, our
+
+study supports the ﬁndings of Sharif and Irani (2012). It further
+extends environmental supply chain leadership theory.
+
+Third, we have further empirically tested our proposed model
+from data collected from the rubber industry. Our study has
+provided an interesting revelation. In our ﬁndings we have seen
+that all three institutional pressures were found to be loaded on a
+single factor and the items of mimetic pressures were dropped due
+to low standardized factor loadings (i.e.o0.5). In the case of the
+rubber industry the regulatory and normative pressures are
+signiﬁcant in comparison to mimetic pressures. To our knowledge
+this is ﬁrst study focusing on the rubber industry, where an
+empirical study was conducted to investigate the integration of
+SRM and TQM in a green supply chain network.
+
+Thus, we contribute to the literature by addressing the need to
+obtain a more holistic understanding of the distinct relationships
+among competencies (i.e. leadership, SRM); response alternatives
+(i.e. TQM); and performance outcomes
+(i.e. environmental
+performance).
+
+6.1.2.
+
+Implications and contributions to practice
+
+Many of our ﬁndings offer guidance to management and supply
+chain practitioners. By conducting this empirical study, we estab-
+lished evidence, beyond the anecdotal, that ﬁrms indeed beneﬁt
+from SRM and TQM integration under the inﬂuence of leadership
+in green supply chain networks. Thereby, we provide insights for
+managers into supply chain sustainability and quality manage-
+ment. Moreover, our results strengthen the notion of those
+managers who believe in the integration of TQM and SCM for
+improving environmental performance for achieving sustainability
+of the supply chain network. It also helps to resolve the debate in
+the mind of those managers who believe in TQM for quality and
+SRM for better coordination. However, if the SRM competency of
+the ﬁrm is integrated with the guiding philosophy of the ﬁrm, i.e.
+TQM, the ﬁrm can achieve superior environmental performance by
+reducing emissions of harmful gases and reducing wastage in the
+entire supply chain network, preventing waste which is non-
+recyclable and the disposal of which will lead to further environ-
+mental degradation.
+
+We appreciate that the idea of recommending organizations to
+align leadership with operational practices, under the moderation
+effect of institutional pressures, sounds ill-advised because most of
+the literature in green supply chain management has critically
+argued that institutional pressures is not sufﬁcient enough to
+explain the divergent nature of organizational change (e.g. Zhu
+et al., 2005; Delmas and Toffel, 2010). However, it should be noted
+that our ﬁndings are based on those rubber manufacturing units
+that had already invested signiﬁcant resources in green supply
+chain practices. Therefore our study is most relevant for such
+companies who want to embrace green supply chain practices in
+developing countries. From this perspective we view institutional
+pressures as positive and beneﬁcial to those rubber manufacturing
+units struggling to reap beneﬁts from their failed endeavors in
+embracing “green” in their supply chain network.
+
+6.2. Limitations and further research directions
+
+As with any research, our study is subject to several limitations
+that need to be taken into consideration when interpreting the
+results. Based on the legal structure of the ﬁrms in our sample and
+related conﬁdentiality requirements concerning corporate infor-
+mation, we did not have the ability to collect a sufﬁcient amount of
+subjective data, which would have been desirable, especially with
+regard to environmental performance measures.
+
+Second, we have collected data at one point of time. Conse-
+quently, causality cannot be established without longitudinal data.
+
+
+130
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+Third, the present study was conducted on the rubber industry in
+an Indian context. Therefore, results may not be easily transferable
+to other regions and sectors. Fourth, in our study we have selected
+only an environmental performance measure as a dependent
+variable. Dimensions like ﬁnancial performance and social beneﬁts
+were not included. Thus, in future it is recommended to further
+extend the present study based on the work of Figge and Hahn
+(2012), and this can further intensify the present study.
+
+In future, it is recommended to extend this study to other
+industries, and institutional theory can further be extended by
+developing scales. In the present study we have considered only
+regulatory and market pressures. There is further scope to explore
+more dimensions under social and economic variants of institu-
+tional pressures. In this way, a more detailed investigation can be
+conducted. Second, the present model can be further studied using
+other performance measures, e.g. ﬁnancial performance and social
+beneﬁts. Third, the present study can be further analyzed using
+vested interest theory (Miller et al., 2013). Caution should be used
+when generalizing our ﬁndings to other contexts in which differ-
+ent leadership styles and institutional pressures emerge.
+
+Acknowledgments
+
+The authors would like to thank the anonymous reviewers for
+their constructive and helpful comments which helped to improve
+the presentation of the paper considerably.
+
+References
+
+Aberdeen Group, 2008. Supply chain network design: architecting a green future.
+〈http://aberdeen.com/Aberdeen-Library/5037/RB-green-supply-network.aspx〉
+(accessed 02.02.14.).
+
+Agarwal, G., Vijayvargy, L., 2012. Green supplier assessment in environmentally
+responsive supply chains through analytical network process (Hong Kong,
+14–16 March). Proc. Int. Multi Conf. Eng. Comput. Sci. 2012 (2), 1–6.
+
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a
+
+review and recommended two-step approach. Psycholog. Bull. 103 (3), 411.
+
+Anvari, A., Ismail, Y., Hojjati, S.M.H., 2011. A study on total quality management and
+lean manufacturing: through lean thinking approach. World Appl. Sci. J. 12 (9),
+1585–1596.
+
+Armstrong, J.S., Overton, T.S., 1977. Estimating nonresponse bias in mail surveys.
+
+J. Market. Res. 14 (3), 396–402.
+
+Azzone, G., Noci, G., 1998. Identifying effective PMSs for the deployment of ‘Green’
+
+manufacturing strategies. Int. J. Oper. Prod. Manag. 8 (6), 308–335.
+
+Bai, C., Sarkis, J., 2010. Greener supplier development: analytical evaluation using
+
+rough Set theory. J. Clean. Prod. 17 (2), 255–264.
+
+Baines, T., Brown, S., Benedettini, O., Ball, P., 2012. Examining green production and
+its role within the competitive strategy of manufacturers. J. Ind. Eng. Manag. 15
+(1), 53–87. http://dx.doi.org/10.3926/jiem.405.
+
+Balan, S., Vrat, P., Kumar, P., 2007. A strategic decision model for the justiﬁcation of
+supply chain as a means to improve national development index. Int. J. Technol.
+Manag. 40 (1), 69–86.
+
+Beer, M., 2003. Why total quality management programs do not persist: the role of
+management quality and implications for leading a TQM transformation*. Dec.
+Sci. 34 (4), 623–642.
+
+Besterﬁeld, D.H., 1995. Total Quality Management. Prentice Hall Inc., New Jersey.
+Bhateja, A.K., Babbar, R., Singh, S., Sachdeva, A., 2012. Study of the critical factor
+ﬁnding's regarding evaluation of green supply chain performance of indian
+scenario for manufacturing sector. Int. J. Comput. Eng. Manag. 15 (1), 74–80.
+
+Bierma, T.J., Waterstraat, F.L., 1999. Cleaner production from chemical suppliers:
+
+understanding shared savings contracts. J. Clean. Prod. 7 (2), 145–158.
+
+Blauw, J.N., During, W.E., 1990. Total quality control in Dutch industry. Qual. Progr.
+
+February, 50–52.
+
+Boltic, Z., Ruzic, N., Jovanovic, M., Savic, M., Jovanovic, J., Petrovic, S., 2013. Cleaner
+industry:
+
+production aspects of tablet coating process in pharmaceutical
+problem of VOCs emission. J. Clean. Prod. 44, 123–132.
+
+Braunscheidel, M.J., Suresh, N.C., 2009. The organizational antecedents of a ﬁrm's
+supply chain agility for risk mitigation and response. J. Oper. Manag. 27 (2),
+119–140.
+
+Brown, G., Stone, L., 2007. Cleaner production in New Zealand: taking stock.
+
+J. Clean. Prod. 15 (8), 716–728.
+
+Cannella, S., Ciancimino, E., 2010. Up-to-date supply chain management: the
+coordinated (S, R) order-up-to. In: Dangelmaier, W., Blecken, A., Delius, R.,
+Klöpfer, S. (Eds.), Advanced Manufacturing and Sustainable Logistics. Springer,
+Berlin and Heidelberg, pp. 175–185.
+
+Carter, C.R., Jennings, M.M., 2004. The role of purchasing in corporate social
+
+responsibility: a structural equation analysis. J. Bus. Logist. 25 (1), 145–186.
+
+Chaabane, A., Ramudhin, A., Paquet, M., 2012. Design of sustainable supply chains
+
+under the emission trading scheme. Int. J. Prod. Econ. 135 (1), 37–49.
+
+Chen, I.J., Paulraj, A., 2004. Towards a theory of supply chain management: the
+
+constructs and measurements. J. Oper. Manag. 22 (2), 119–150.
+
+Choi, T.M., Lo, C.K., Wong, C.W., Yee, R.W., 2012. Green manufacturing and
+distribution in the fashion and apparel industries. Int. J. Prod. Econ. 135 (2), 531.
+Churchill Jr., G.A., 1979. A paradigm for developing better measures of marketing
+
+constructs. J. Market. Res. 16 (1), 64–73.
+
+Clemens, B., Douglas, T.J., 2006. Does coercion drive ﬁrms to adopt ‘voluntary’green
+initiatives? Relationships among coercion, superior ﬁrm resources, and volun-
+tary green initiatives. J. Bus. Res. 59 (4), 483–491.
+
+Cohen, J., Cohen, P., West., S.G., Aiken, L.S., 2003. Applied Multiple Regression/
+Correlation Analysis for the Behavioural Sciences, 3rd ed.. Erlbaum, Hillsdale, NJ.
+J.F., 1996. The robustness of test statistics to
+nonnormality and speciﬁcation error in conﬁrmatory factor analysis. Psycholog.
+Methods 1 (1), 16–19.
+
+Curran, P.J., West, S.G., Finch,
+
+Deif, A.M., 2011. A system model for green manufacturing. J. Clean. Prod. 19 (14),
+
+1553–1559.
+
+De Giovanni, P., Esposito Vinzi, V., 2012. Covariance versus component-based
+estimations of performance in green supply chain management. Int. J. Prod.
+Econ. 135 (2), 907–916.
+
+Delmas, M.A., Toffel, M.W., 2010.
+
+Institutional Pressures and Organizational
+Characteristics: Implications for Environmental Strategy No. 11-050. Harvard
+Business School, Boston, MA.
+
+Despeisse, M., Ball, P.D., Evans, S., Levers, A., 2012. Industrial ecology at factory
+
+level–a conceptual model. J. Clean. Prod. 31, 30–39.
+
+Dillman, D., 2007. Mail and Internet Surveys: The Tailored Design Method. Wiley,
+
+New York.
+
+Dillon, P.S., Fischer, K., 1992. Environmental management in Corporations: Methods
+and motivations. Enter for Environmental Management. Tufts Center for
+Environmental Management, Medford, MA.
+
+DiMaggio, P.J., Powell, W.W., 1983. The iron cage revisited: institutional isomorphism
+
+and collective rationality in organizational ﬁelds. Am. Sociolog. Rev., 147–160.
+
+Dües, C.M., Tan, K.H., Lim, M., 2013. Green as the new lean: how to use lean
+practices as a catalyst to greening your supply chain. J. Clean. Prod. 40, 93–100.
+Farish, M., 2009. Plants that are green [Toyota's lean manufacturing]. Eng. Technol.
+
+4 (3), 68–69.
+
+Field, A.P., 2005. Discovering Statistics Using SPSS, 2nd ed.. Sage, London.
+Figge, F., Hahn, T., 2012. Is green and proﬁtable sustainable? Assessing the trade-off
+between economic and environmental aspects. Int. J. Prod. Econ. 140 (1),
+92–102.
+
+Flynn, B.B., Schroeder, R.G., Sakakibara, S., 1994. A framework for quality manage-
+ment research and an associated measurement instrument. J. Oper. Manag. 11
+(4), 339–366.
+
+Florida, R., 1996. Lean and Green: the move to environmentally conscious
+
+manufacturing. Calif. Manag. Rev. 39 (1), 80–105.
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unob-
+
+servable variables and measurement error. J. Market. Res. 18 (1), 39–50.
+
+Franchetti, M., Bedal, K., Ulloa, J., Grodek, S., 2009. Lean and green-industrial
+engineering methods are natural stepping stones to green engineering. Ind.
+Eng. 41 (9), 24–29.
+
+Fullerton, D., Leicester, A., Smith, S., 2008. Environmental Taxes: Prepared for the
+Report of a Commission on Reforming the Tax System for the 21st Century,
+chaired by Sir James Mirrlees. Accessed at: 〈http://www.ifs.org.uk/mirrleesre-
+view/reports/environment.pdf〉.
+
+Gavronski, I., Klassen, R.D., Vachon, S., Nascimento, L.F.M.D., 2011. A resource-based
+view of green supply management. Transp. Res. Part E: Logist. Transp. Rev. 47
+(6), 872–885.
+
+Gangele, A., Verma, A., 2011. The investigation of green supply chain management
+practices in pharmaceutical manufacturing industry through waste minimiza-
+tion. Int. J. Ind. Eng. Technol. 3 (4), 403–415.
+
+Gefen, D., Straub, D.W., Boudreau, M.C., 2000. Structural equation modeling and
+regression: guidelines for research practice. Commun. Assoc. Inform. Syst. 4 (7),
+1–70.
+
+Glover, J.L., Champion, D., Daniels, K.J., Dainty, A.J.D., 2014. An Institutional Theory
+perspective on sustainable practices across the dairy supply chain. Int. J. Prod.
+Econ. 152, 102–111.
+
+Gopalakrishnan, K., Yusuf, Y.Y., Musa, A., Abubakar, T., Ambursa, H.M., 2012.
+Sustainable supply chain management: a case study of British Aerospace
+(BAe) Systems. Int. J. Prod. Econ. 140 (1), 193–203.
+
+Gunasekaran, A., Gallear, D., 2012. Special issue on sustainable development of
+
+manufacturing and services. Int. J. Prod. Econ. 140 (1), 1–6.
+
+Gunasekaran, A., 1999. Enablers of total quality management implementation in
+
+manufacturing: a case study. Total Qual. Manag. 10 (7), 987–996.
+
+Gunasekaran, A., McGaughey, R.E., 2003. TQM is suppy chain management. TQM
+
+Mag. 15 (6), 361–363.
+
+Gunasekaran, A., Spalanzani, A., 2012. Sustainable of manufacturing services:
+
+investigation for research and applications. Int. J. Prod. Econ. 140 (1), 35–47.
+
+Hair, J.F., Tatham, R.L., Anderson, R.E., Black, W., 2006. Multivariate Data Analysis. 6.
+
+Prentice Hall, Upper Saddle River, NJ: Pearson.
+
+Hong, J.W., Phitayawejwiwat, S., 2005. The impact of ISO 9000 certiﬁcation on
+
+quality management practices in Thailand. J. Ind. Technol. 21 (1), 1–6.
+
+Hsu, C.W., Hu, A.H., 2009. Applying hazardous substance management to supplier
+
+selection using analytic network process. J. Clean. Prod. 17 (2), 255–264.
+
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+131
+
+Hu, L.T., Bentler, P.M., 1999. Cutoff criteria for ﬁt indexes in covariance structure
+analysis: conventional criteria versus new alternatives. Struct. Equat. Model:
+Multidisc. J. 6 (1), 1–55.
+
+Johansson, G., Winroth, M., 2009. Lean vs. Green manufacturing: similarities and
+differences. Proceedings of 16th International Annual EurOMA Conference
+(June 14–17, Göteborg).
+
+Kanji, G.K., Wong, A., 1998. Quality culture in the construction industry. Total Qual.
+
+Manag. 9 (4–5), 133–140.
+
+Kanji, G.K., Wong, A., 1999. Business excellence model for supply chain manage-
+
+ment. Total Qual. Manag. 10 (8), 1147–1168.
+
+Kauppi, K., 2013. Extending the use of institutional theory in operations and supply
+chain management research: review and research suggestions. Int. J. Oper.
+Prod. Manag. 33 (10), 1318–1345.
+
+Karaszewski, R., 2010. Leadership in global business environment through a vision
+
+creation process. TQM J. 22 (4), 399–409.
+
+Kaynak, H., 2003. The relationship between total quality management practices and
+
+their effects on ﬁrm performance. J. Oper. Manag. 21 (4), 405–435.
+
+Kennedy, M.T., Fiss, P.C., 2009. Institutionalization, framing, and diffusion: the logic
+of TQM adoption and implementation decisions among US hospitals. Acad.
+Manag. J. 52 (5), 897–918.
+
+Ketchen Jr, D.J., Hult, G.T.M., 2007. Bridging organization theory and supply chain
+management: the case of best value supply chains. J. Oper. Manag. 25 (2),
+573–580.
+
+Ketokivi, M.A., Schroeder, R.G., 2004. Strategic, structural contingency and institu-
+tional explanations in the adoption of innovative manufacturing practices.
+J. Oper. Manag. 22 (1), 63–89.
+
+Kim, J.H., Youn, S., Roh, J.J., 2011. Green supply chain management orientation and
+ﬁrm performance: evidence from South Korea. Int. J. Serv. Oper. Manag. 8 (3),
+283–304.
+
+Kraljic, P., 1983. Purchasing must become supply management. Harv. Bus. Rev. 61
+
+(5), 109–117.
+
+Ku, C.Y., Chang, C.T., Ho, H.P., 2010. Global supplier selection using fuzzy
+analytic hierarchy process and fuzzy goal programming. Qual. Quant. 44 (4),
+623–640.
+
+Laohavichien, T., Fredendall, L.D., Cantrell, R.S., 2011. Leadership and quality manage-
+
+ment practices in Thailand. Int. J. Oper. Prod. Manag. 31 (10), 1048–1070.
+
+Lakshman, C., 2006. A theory of leadership for quality: lessons from TQM for
+
+leadership theory 1. Total Qual. Manag. Bus. Excell. 17 (1), 41–60.
+
+Podsakoff, P.M., MacKenzie, S.B., Moorman, R.H., Fetter, R., 1990. Transformational
+leader behaviors and their effects on followers' trust in leader, satisfaction, and
+organizational citizenship behaviors. Leadership Q. 1 (2), 107–142.
+
+Porter, M.E., Van der Linde, C., 1995. Green and competitive: ending the stalemate.
+
+Harv. Bus. Rev. 73 (5), 120–134.
+
+Prajogo, D., Chowdhury, M., Yeung, A.C., Cheng, T.C.E., 2012. The relationship
+between supplier management and ﬁrm's operational performance: a multi-
+dimensional perspective. Int. J. Prod. Econ. 136 (1), 123–130.
+
+Pun, K.F., 2006. Determinants of environmentally responsible operations: a review.
+
+Int. J. Qual. Reliab. Manag. 23 (3), 279–297.
+
+Reichheld, F.F., 2003. The one number you need to grow. Harv. Bus. Rev. 81 (12),
+
+46–55.
+
+Rui, C., Emerson, M., Luis, L., 2010. Transformational leadership and TQM imple-
+
+mentation. Adv. Manag. 3 (6), 7–18.
+
+Rogers, K.W., Purdy, L., Safayeni, F., Duimering, P.R., 2007. A supplier development
+program: rational process or institutional image construction? J. Oper. Manag.
+25 (2), 556–572.
+
+Saraph, J.V., Benson, P.G., Schroeder, R.G., 1989. An instrument for measuring the
+
+critical factors of quality management. Dec. Sci. 20 (4), 810–829.
+
+Sarkis, J., Zhu, Q., Lai, K.H., 2011. An organizational theoretic review of green supply
+
+chain management literature. Int. J. Prod. Econ. 130 (1), 1–15.
+
+Schoenherr, T., Mabert, V.A., 2011. An exploratory study of procurement strategies
+for multi‐item RFQs in B2B markets: antecedents and impact on performance.
+Prod. Oper. Manag. 20 (2), 214–234.
+
+Schoenherr, T., 2012. The role of environmental management in sustainable
+business development: a multi-country investigation. Int. J. Prod. Econ. 140
+(1), 116–128.
+
+Scott, W.R., 2008. Institutions and Organizations: Ideas and Interests, 3rd ed.. Sage
+
+Publications, Los Angeles, CA.
+
+Seman, N.A.A., 2012. Green supply chain management: a review and research
+
+direction. Int. J. Manag. Value Supply Chains 3 (1), 1–18.
+
+Sharif, A.M., Irani, Z., 2012. Supply chain leadership. Int. J. Prod. Econ. 140 (1),
+
+57–68.
+
+Siaminwe, L., Chinsembu, K.C., Syakalima, M., 2005. Policy and operational
+constraints for the implementation of cleaner production in Zambia. J. Clean.
+Prod. 13 (10), 1037–1047.
+
+Sikdar, S.K., Howell, S.G., 1998. On developing cleaner organic unit processes.
+
+J. Clean. Prod. 6 (3), 253–259.
+
+Lambert, D.M., Harrington, T.C., 1990. Measuring nonresponse bias in customer
+
+Singh, A., Singh, B., Dhingra, A.K., 2012. Drivers and barriers of green manufacturing
+
+service mail surveys. J. Bus. Logist. 11 (2), 5–25.
+
+practices: a survey of Indian industries. Int. J. Eng. Sci. 12 (1), 5–19.
+
+Lee, H.L., Padmanabhan, V., Whang, S., 1997. The bullwhip effect in supply Chains1.
+
+Stevens, J.P., 1984. Outliers and inﬂuential data points in regression analysis.
+
+Sloan Manag. Rev. 38 (3), 93–102.
+
+Liang, H., Saraf, N., Hu, Q., Xue, Y., 2007. Assimilation of enterprise systems: the
+effect of institutional pressures and the mediating role of top management. MIS
+Q. 31 (1), 59–87.
+
+Liu, H., Ke, W., Wei, K.K., Gu, J., Chen, H., 2010. The role of institutional pressures
+and organizational culture in the ﬁrm's intention to adopt internet-enabled
+supply chain management systems. J. Oper. Manag. 28 (5), 372–384.
+
+Lo, C.K., Yeung, A.C., Cheng, T.C.E., 2012. The impact of environmental management
+systems on ﬁnancial performance in fashion and textiles industries. Int. J. Prod.
+Econ. 135 (2), 561–567.
+
+Luthra, S., Garg, D., Haleem, A., 2013. Identifying and ranking of strategies to
+implement green supply chain management in Indian manufacturing industry
+using analytical hierarchy process. J. Ind. Eng. Manag. 6 (4), 930–962.
+
+Luthra, S., Kumar, V., Kumar, S., Haleem, A., 2010. Green supply chain management
+issues: a literature review approach. J. Inform., Knowl. Res. Mech. Eng. 1 (1), 12–20.
+Mahapatra, S.S., Khan, M.S., 2006. A methodology for evaluation of service quality
+using neural networks. Proc. Int. Conf. Glob. Manufact. Innov. 27–29, 1–9 (July).
+Mardia, K.V., 1970. Measures of multivariate skewness and Kurtosis with applica-
+
+tions. Biometrika 57 (3), 519–530.
+
+Miller, C.H., Adame, B.J., Moore, S.D., 2013. Vested interest theory and disaster
+
+preparedness. Disasters 37 (1), 1–27.
+
+Mohanty, M.K., Gahan, P., 2012. Buyer supplier relationship in manufacturing
+industry – ﬁndings from indian manufacturing sector. Bus. Intell. J. 5 (2),
+319–333.
+
+Montalvo Corral, C., 2003. Sustainable production and consumption systems—
+cooperation for change: assessing and simulating the willingness of the ﬁrm to
+adopt/develop cleaner technologies. The case of the In-Bond industry in
+northern Mexico. J. Clean. Prod. 11 (4), 411–426.
+
+Murovec, N., Erker, R.S., Prodan, I., 2012. Determinants of environmental invest-
+
+ments: testing the structural model. J. Clean. Prod. 37, 265–277.
+
+Newman, W.R., Hanna, M.D., 1996. An empirical exploration of the relationship
+between manufacturing strategy and environmental management: two com-
+plementary models. Int. J. Oper. Prod. Manag. 16 (4), 69–87.
+
+Pauli, G., 1997. Zero emissions: the ultimate goal of cleaner production. J. Clean.
+
+Prod. 5 (1), 109–113.
+
+Pereira-Moliner, J., Claver-Cortés, E., Molina-Azorín, J.F., José Tarí, J., 2012. Quality
+management, environmental management and ﬁrm performance: direct and
+mediating effects in the hotel industry. J. Clean. Prod. 37, 82–92.
+
+Podsakoff, P.M., MacKenzie, S.B., Bommer, W.H., 1996. Transformational leader
+behaviors and substitutes for leadership as determinants of employee satisfac-
+tion, commitment, trust, and organizational citizenship behaviors. J. Manag. 22
+(2), 259–298.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y., Podsakoff, N.P., 2003. Common method
+biases in behavioral research: a critical review of the literature and recom-
+mended remedies. J. Appl. Psychol. 88 (5), 879.
+
+Psycholog. Bull. 95 (2), 334.
+
+Stone, L.J., 2006. Limitations of cleaner production programmes as organisational
+involvement and
+
+II. Leadership, support, communication,
+
+change agents.
+programme design. J. Clean. Prod. 14 (1), 15–30.
+
+Suchman, M.C., 1995. Managing legitimacy: strategic and institutional approaches.
+
+Acad. Manag. Rev. 20 (3), 571–610.
+
+Sundarakani, B., De Souza, R., Goh, M., Wagner, S.M., Manikandan, S., 2010.
+Modeling carbon footprints across the supply chain. Int. J. Prod. Econ. 128 (1),
+43–50.
+
+Talib, F., Rahman, Z., Qureshi, M.N., 2011. A study of total quality management and
+supply chain management practices. Int. J. Prod. Perform. Manag. 60 (3),
+268–288.
+
+Talib, F., Rahman, Z., Qureshi, M.N., 2010. Integrating total quality management and
+supply chain management: similarities and beneﬁts. IUP J. Supply Chain Manag.
+7 (4), 26–44.
+
+Testa, F.,
+
+Iraldo, F., 2010. Shadows and lights of GSCM (Green Supply Chain
+Management): determinants and effects of these practices based on a multi-
+national study. J. Clean. Prod. 18 (10), 953–962.
+
+Thakkar, J., Kanda, A., Deshmukh, S.G., 2008. Interpretive structural modeling (ISM)
+of IT-enablers for Indian manufacturing SMEs. Inform. Manag. Comput. Secur.
+16 (2), 113–136.
+
+Tsoulfas, G.T., Pappis, C.P., 2006. Environmental principles applicable to supply
+
+chains design and operation. J. Clean. Prod. 14 (18), 1593–1602.
+
+Tutuncu, O., Kucukusta, D., 2008. The role of supply chain management in quality
+
+management system for hospitals. Int. J. Manag. Perspect. 1 (1), 31–39.
+
+UNEP, 2011. Towards a Green Economy: Pathways to Sustainable Development and
+Poverty Eradiction. 〈http://www.unep.org/greeneconomy〉 (accessed 11.12.12).
+Vachon, S., Klassen, R.D., 2006. Green project partnership in the supply chain: the
+
+case of the package printing industry. J. Clean. Prod. 14 (6), 661–671.
+
+Vanichchinchai, A., Igel, B., 2009. Total quality management and supply chain
+
+management: similarities and differences. TQM J. 21 (3), 249–260.
+
+Van Berkel, R., 2007. Cleaner production and eco-efﬁciency in Australian small
+
+ﬁrms. Int. J. Environ. Technol. Manag. 7 (5), 672–693.
+
+van den Broek, F., van den Broek-Serlé, N., 2010. Green Supply Chain Management,
+Marketing Tool or Revolution?. Breda/Zoetermeer, The Netherlands 〈http://www.
+logistiek.nl/PageFiles/12981/008_logistiek-download-LOGNWS109613D01.pdf〉
+(accessed 02.02.14).
+
+van Hoof, B., Lyon, T.P., 2013. Cleaner production in small ﬁrms taking part in
+
+Mexico's sustainable supplier program. J. Clean. Prod. 41, 270–282.
+
+Wagner, M., Schaltegger, S., 2004. The effect of corporate environmental strategy
+choice and environmental performance on competitiveness and economic
+performance: an empirical study of EU manufacturing. Eur. Manag. J. 22 (5),
+557–572.
+
+Whitelock, V.G., 2012. Alignment between green supply chain management
+
+strategy and business strategy. Int. J. Procur. Manag. 5 (4), 430–451.
+
+
+132
+
+R. Dubey et al. / Int. J. Production Economics 160 (2015) 120–132
+
+Wiengarten, F., Pagell, M., 2012. The importance of quality management for the
+success of environmental management initiatives. Int. J. Prod. Econ. 140 (1),
+407–415.
+
+Wong, C.W., Lai, K.H., Shang, K.C., Lu, C.S., Leung, T.K.P., 2012. Green operations and
+the moderating role of environmental management capability of suppliers on
+manufacturing ﬁrm performance. Int. J. Prod. Econ. 140 (1), 283–294.
+
+World Commission for Environment and Development (WCED), 1987. Our Com-
+
+mon Future. Oxford University Press, Oxford.
+
+Wu, J., Dunn, S., Forman, H., 2012. A study on Green supply chain management
+practices among large corporations. J. Supply Chain Oper. Manag. 10 (1),
+182–194.
+
+Wu, G.C., Ding, J.H., Chen, P.S., 2012. The effects of GSCM drivers and institutional
+pressures on GSCM practices in Taiwan's textile and apparel industry. Int. J.
+Prod. Econ. 135 (2), 618–636.
+
+Yu, J., Welford, R., Hills, P., 2006. Industry responses to EU WEEE and ROHS
+Directives: perspectives from China. Corp. Social Responsib. Environ. Manag. 13
+(5), 286–299.
+
+Yusuf, Y., Gunasekaran, A., Dan, G., 2007. Implementation of TQM in China and
+organisation performance: an empirical investigation. Total Qual. Manag. 18 (5),
+509–530.
+
+Zeng, S.X., Meng, X.H., Yin, H.T., Tam, C.M., Sun, L., 2010.
+
+Impact of cleaner
+
+production on business performance. J. Clean. Prod. 18 (10), 975–983.
+
+Zhang, F., Rio, M., Allais, R., Zwolinski, P., Carrillo, T.R., Roucoules, L., Buclet, N., 2013.
+Toward an systemic navigation framework to integrate sustainable develop-
+ment into the company. J. Clean. Prod. 54, 199–214.
+
+Zhu, Q., Sarkis, J., Lai, K.H., 2008. Green supply chain management implications for
+
+“closing the loop”. Transp. Res. Part E: Logist. Transport. Rev. 44 (1), 1–18.
+
+Zhu, Q., Sarkis, J., Lai, K.H., Geng, Y., 2008. The role of organizational size in the
+adoption of green supply chain management practices in China. Corp. Social
+Responsib. Environ. Manag. 15 (6), 322–337.
+
+Zhu, Q., Sarkis, J., 2007. The moderating effects of institutional pressures on
+emergent green supply chain practices and performance. Int. J. Prod. Res. 45
+(18–19), 4333–4355.
+
+Zhu, Q., Sarkis, J., 2004. Relationships between operational practices and perfor-
+mance among early adopters of green supply chain management practices in
+Chinese manufacturing enterprises. J. Oper. Manag. 22 (3), 265–289.
+
+Zhu, Q., Sarkis, J., Geng, Y., 2005. Green supply chain management in China:
+pressures, practices and performance. Int. J. Oper.Prod. Manag. 25 (5), 449–468.
+Zhu, Q., Sarkis, J., Lai, K.H., 2012a. Examining the effects of green supply chain
+management practices and their mediations on performance improvements.
+Int. J. Pro. Res. 50 (5), 1377–1394.
+
+Zhu, Q., Sarkis, J., Lai, K.H., 2012b. Green supply chain management innovation
+diffusion and its relationship to organizational improvement: an ecological
+modernization perspective. J. Eng. Techno. Manag. 29 (1), 168–185.
+
+Zsidisin, G.A., Melnyk, S.A., Ragatz, G.L., 2005. An institutional theory perspective of
+business continuity planning for purchasing and supply management. Int. J.
+Prod. Res. 43 (16), 3401–3420.
+
+Zsidisin, G.A., Siferd, S.P., 2001. Environmental purchasing: a framework for theory
+
+development. Eur. J. Purch. Supply Manag. 7 (1), 61–73.
+

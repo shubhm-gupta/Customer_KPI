@@ -1,0 +1,2164 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Determinants of the Firm to Acquire ISO14001 Certificate 
+
+  and Market Valuation of the Certified Firm ∗
+
+ 
+
+ 
+
+October 29, 2003 
+
+Discussion Paper No. 03-06 
+
+Akira Hibiki 
+
+National Institute for Environmental Studies and Tokyo Institute of Technology, 
+
+16-1 Onogawa, Tukuba, Ibaraki, 305-0053 Japan 
+
+ 
+ 
+
+Masato Higashi 
+Bank of Japan 
+
+2-1-1, Nihonbashi-Hongokucho, Chuo-ku, Tokyo 103-8660 Japan 
+
+ 
+ 
+
+Akimi Matsuda 
+
+Department of Economics, New York University 
+
+269 Mercer Street, 7th Floor, NY, NY 10003 
+
+ 
+ 
+
+                
+
+                              
+∗  Correspondence to: Akira Hibiki, The National Institute for Environmental Studies, 16-1 Onogawa, Tsukuba, 
+Ibaraki, 305-0053, Japan, Telephone +81-298-50-2510, Facsimile +81-298-50-2960 and E-mail: 
+hibiki@nies.go.jp. 
+ 
+
+1
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+Determinants of the Firm to Acquire ISO14001 Certificate   
+
+and Market Valuation of the Certified Firm 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Abstract 
+
+ 
+This paper examines the incentives for a firm to acquire an ISO14001 certificate and 
+the  effect  of  such  an  acquisition  on  the  market  value  of  the  firm.  We  show  that  the 
+firms  with  a  larger  size,  larger  export  ratio,  higher  profitability  and  higher  R&D 
+expenditure have more incentive to acquire the ISO14001 certificate. Further, firms in 
+Medicaments,  Metal,  Transportation  Equipment,  Precision  Machinery,  and  Other 
+Manufacturing have less incentive for the acquisition. In addition, after controlling for 
+sample  selection  bias,  we  found  that  the  introduction  of  the  ISO14001  certification 
+system  contributes  to  a  statistically  significant  increase  in  the  market  value  of  the 
+firms  by  11%  to  14%.  Our  results  suggest  that  the  stock  market  gives  firms  the 
+incentive to acquire the ISO14001 certificate. 
+ 
+Keywords:  ISO14001,  Environmental  Management  System  (EMS),  Tobin’s  q,  Market 
+Valuation, Probit Model 
+ 
+ 
+ 
+
+ 
+
+2
+
+
+ 
+
+1. INTRODUCTION 
+
+Although governments in many countries have traditionally relied mainly on mandatory environmental 
+regulations, economic instruments such as environmental taxes and charges, economic supports and emission 
+trading  are  drawing  increasing  attention.  This  is  because  these  economic  instruments  are  considered  to 
+minimize the cost to protect the environment and to be more efficient in reducing pollutant emission. 
+
+ 
+
+However, because of the difficulty of reaching a public consensus on introducing environmental taxes 
+and emission trading systems, governments have given attention to a “voluntary” approach as an alternative or 
+as a complement to the present system. Above all, there is a growing belief in the need to provide firms with the 
+flexibility to set their own technical goals and to achieve environmental targets. These movements have led to 
+reliance on policies promoting voluntary action by firms, such as voluntary programs, voluntary agreements 
+between firms and the government on environmental targets, and certified environmental management systems. 
+The  adoption  of  an  environmental  management  system  (EMS),  one  form  of  voluntary  action 
+contributing to environmental protection, is often expected to help firms identify their environmental goals and 
+reduce energy consumption, polluting waste, and the risk of future environmental liability.  
+
+ 
+
+ 
+
+Recently, the number of facilities and firms that have introduced certified EMSs, such as ISO(the 
+International Organization for Standardization) 14001 and  EMAS(the Eco-Management and Audit Scheme), 
+has been increasing.  Corresponding to the promotion of self-regulating environmental behavior, increasing 
+attention has been paid to the mechanisms underlying firms’ incentive.1 Understanding why firms actively seek 
+ISO14001 certificates is a very interesting topic. Because firms are expected to pursue profit maximization, 
+voluntary  actions  to  promote  environmental  achievement,  such  as  the  adoption  of  the  ISO14001,  seems 
+inconsistent with the firms’ ultimate aim.  
+
+The  ISO14001  is  particularly  interesting  to  analyze  for  several  reasons.  First,  the  number  of 
+ISO14001-certified facilities overwhelms that of EMAS-certified facilities and continues to grow very rapidly.2 
+As of June 2003, the world total of certified facilities was 46,836 and the number of certified facilities in Japan 
+was 12,392, nearly 25% of the world total, which far surpasses the world’s second most certified nation, Spain, 
+
+                                                   
+
+1 Previous studies, such as Arora and Cason [2, 3], and DeCanio and Watkins [7], among others, have used logit models to analyze 
+
+what determines firms’ decisions to undertake voluntary action to contribute to environmental protection. However, most of these 
+
+studies focus on U.S. voluntary programs such as Green Lights’ 33/50 programs. DeCanio and Watkins [7] investigated what 
+
+determined over 9000 U.S. firms to participate in the Green Lights Program. They found that firm-specific variables, such as firm 
+
+size, earnings, and insider shareholding significantly affect the firm’s participation decision. Arora and Cason [2, 3] attempted to 
+
+explain firms’ participation decisions in the EPA’s 33/50 program by their size, financial characteristics, and so on. They found 
+
+that firm size and industry effects significantly affect the firms’ decisions, whereas financial variables, such as debt ratios, are 
+
+insignificant in explaining firms’ decisions. 
+
+2 For example, in the three years between December 1999 and June 2003, the number of ISO14001-certified facilities in Japan 
+
+grew about fourfold, from 2881 to 12,392 (Japanese Standards Association [14]). 
+
+ 
+
+3
+
+
+ 
+
+with 3960 certified facilities.3 (ISO World [12]). Second, the ISO14001 is a process standard, not a technical 
+standard, and it can be applied to a broad category of industries, allowing us to analyze the behavior of firms in 
+a more general sense.4  
+
+In spite of such rapid diffusion of the ISO14001, there are only a few studies analyzing its performance 
+and adoption by firms or facilities (Nakamura, et al. [22] and Welch et al. [24]). Such studies usually focus on 
+the motivation of the firm or facility to be certified. However, they pay little attention to issues such as the 
+performance  of  the  ISO14001,  whether  the  acquisition  of  the  ISO14001  certificate  is  rewarded  in  the 
+marketplace, and whether the adoption of an ISO14001 certificate contributes to environmental improvements. 
+Hence, the ISO14001s are still not well understood quantitatively.  
+
+From an environmental policy perspective, it is important to explore the performance of the stock 
+market in the context of the ISO14001, that is, whether the stock market values certified firms. This is because 
+the valuation of the market is related to the incentive of firms to voluntarily act to protect the environment. If 
+investors expect that the certified firms have a positive effect in reducing current and future pollution and that 
+the  adoption  of  the  ISO14001  will  lead  in  the  future  to  lower  risk  of  environmental  liability  and  higher 
+profitability, then the firm’s market value will appreciate in accordance with stock market prices. Then, firms 
+are strongly motivated to adopt the ISO14001.  
+
+The purposes of this study are (1) to explore what factors determine whether Japanese manufacturing 
+firms adopt the ISO14001, and (2) to explore whether the stock market values the acquisition of ISO14001 
+certificates and thus gives firms an incentive to adopt the ISO14001. 
+
+Section  2  gives  a  brief  overview  of  theoretical  considerations,  and  presents  two  models  on  the 
+determinants  of  the  decision  and  market  valuation.  Section  3  describes  the  dataset  and  analyzes  the 
+characteristics of variables. Section 4 presents new empirical evidence for the models. Section 5 draws some 
+broad conclusions.  
+
+ 
+
+ 
+
+2. MODELS 
+
+We analyze two issues: first, the determinants of Japanese manufacturing firms adopting the ISO14001, 
+
+and second, whether the stock market values the acquisition of the ISO14001. 
+
+ 
+
+2.1 A model for the decision of firms to acquire an ISO14001 certificate 
+
+With  regard  to  the  first  issue,  a  firm’s  motivational  analysis,  there  are  a  few  empirical  studies. 
+Nakamura et al. [22] and Welch et al. [24], the pioneering studies in this field, explored the determinants of 
+firms acquiring an ISO14001 certificate.  
+
+Nakamura et al. [22] used data collected from a questionnaire sent to randomly selected firms from the 
+
+                                                   
+
+3 Japan and Spain were followed by Germany, with 3820 certified facilities, the U.S with 3032, Sweden with 2961, and the U.K. 
+
+with 2917. 
+
+4 For a more detailed description of the ISO14001, see Welch et al. [24].  
+
+ 
+
+4
+
+
+ 
+
+Japanese  manufacturing  firms  listed  in  the  First  Section  of  the  Tokyo  Stock  Exchange.  Estimation  results 
+showed that firm size, the average age of firm employees, the export ratio, and the debt ratio affect the decision 
+making  of  the  firms  to  be  certified.  In  addition,  they  concluded  that  polluting  industries  are  keener  than 
+less-polluting industries to adopt the ISO14001. Further, advertising is statistically significant only under some 
+specifications and thus has only limited effects on firms’ decision making.  
+
+Welch et al. [24] focused on four industries in Japan: chemical, electronics, electric machinery, and 
+electric power. They studied which of three broadly accepted reasons for the adoption of ISO14001 (regulation, 
+competitive  advantage,  and  social  responsibility)  plays  a  larger  role  in  each  type  of  industry.  Using  data 
+collected  from  a questionnaire  sent to  the facilities,  they  showed  that  the early adopters  tend  to be  larger, 
+greener, and less driven by external pressure such as regulatory, competitive, or media pressures. 
+
+In these previous studies, only a limited dataset was available or used. For example, Welch et al. [24] 
+focused on only the four most certified industries. Nakamura et al. [22] used only a part of samples available by 
+randomly selecting firms from the original dataset to carry out the questionnaire survey. In addition, these 
+analyses were based on data collected before the end of 1999 (1997 for Nakamura et al. [22] and 1999 for 
+Welch  et  al.  [24]).  However,  since  that  date,  the  number  of  certified  facilities  has  quadrupled  in  Japan. 
+Moreover, although it is positive that Welch et al. [24], unlike Nakamura et al. [22] and our study, explored the 
+facility’s incentive for the adoption, they did not use data on the business and financial performance of the firms, 
+to which the facilities belong, because of data unavailability. Hence, they did not take into account the effect of 
+firms’ business and financial performance on the decision making.  
+
+To  solve  these  problems,  we  use  data  from  March  2002,  including  the  financial  and  business 
+performance data of all (rather than randomly selected) Japanese manufacturing firms listed in the First Section 
+of the Tokyo Stock Exchange. 
+
+The firm is supposed to determine whether to acquire a certificate5 based on the net benefit, including 
+economic and non-economic factors, from the acquisition of the certificate. The ith firm’s net benefit from the 
+acquisition, Bi, is specified as follows: 
+
+B
+i
+
+=
+
+X
+
+εθ +
+i
+i
+1
+1
+
+1
+
+ 
+
+(1) 
+
+where ε1i is normally distributed with mean 0 and standard deviation of σ1, and we denote X1i as a vector of 
+exogenous variables for the ith firm, including firm attributes such as size and profitability.  
+In practice, Bi is unobservable and what we observe is the firm’s choice decision: 
+
+DISO
+
+1=i
+
+ if 
+
+iB
+
+> 0 
+
+                                                   
+
+5 In our study, following Nakamura et al. [22], we define a firm as “certified” if at least one of the facilities belonging to it acquires 
+
+the ISO14001certificate. 
+
+ 
+
+5
+
+
+DISO
+
+0=i
+
+ otherwise 
+
+ 
+
+(2) 
+
+where DISOi is a dummy variable, with DISOi = 1 indicating that the firm has acquired the ISO14001 certificate 
+and DISOi = 0 indicating that it has not obtained it. 
+
+Given this specification, the probability of the acquisition decision of the firm is given by: 
+
+P
+i
+
+=
+
+Pr
+
+ob
+
+(
+
+DISO
+
+=
+
+|1
+
+X
+
+)
+
+=
+
+Pr
+
+ob
+
+(
+ε
+i
+1
+
+−>
+
+X
+
+θ
+i
+1
+1
+
+i
+1
+
+i
+
+1)
+(
+−Φ−=
+
+X
+
+θ
+i
+1
+1
+
+)
+
+ 
+
+(3) 
+
+where Φ(.) denotes the cumulative normal function.6
+
+ 
+
+2.2 A model for the valuation of the market 
+
+Although some previous studies analyzed the effect of the environmental performance of publicly traded 
+firms on their market value, no previous study examined the effect of the adoption of ISO14001 on the market 
+value of firms. 
+
+Earlier literature on the effect of environmental performance on market valuation found some evidence 
+of a relationship between an indication of bad (good) environmental performance by a firm (e.g. oil spills, toxic 
+release) and a lower (higher) market valuation. Klassen and McLaughlin [16] observed a statistically significant 
+negative abnormal return when there was a media report involving bad environmental news on the firm, such as 
+oil spills, and Hamilton [9] observed a similar phenomenon with respect to the toxic release inventory (TRI) 
+announcement  in  1989.  Klassen  and  McLaughlin  [16]  also  found  a  positive  return  when  firms  achieved 
+environmental success. 
+
+Konar and Cohen [18], who went beyond the event studies and used a more objective measure of 
+environmental performance, found that bad environmental performance has a significant negative effect on the 
+intangible asset value of publicly traded firms and that a higher level of toxin emission results in a significant 
+economic loss by the firm. In addition, they found that the trend is more conspicuous in heavily polluting 
+industries. 
+
+In our study, we investigated the effect of acquiring the ISO14001 certificate on the market value of 
+the  firm.  The  firm’s  action  in  contributing  to  environmental  protection  is  expected  to  affect  the  future 
+profitability of the firm by reducing the future risk of environmental liability. Therefore, if the adoption of the 
+ISO14001 can contribute to the establishment of a good image, so that firms are viewed as environmentally 
+sound and at less risk of future environmental liability, the ISO14001 can be supposed to increase the firm’s 
+current market value. This is because, for the purpose of this study, we should pay attention to the stock price or 
+the market value of the firm rather than the current financial performance over time, as in Hirsch and Seaks [10] 
+and Konar and Cohen [18]. 
+
+As in previous studies, we rely on the assumption of an efficient capital market (Fama [8]) and explore 
+
+                                                   
+
+6 Without loss of generality, we normalize σ1 = 1. 
+
+ 
+
+6
+
+
+ 
+
+the relation between Tobin’s q as the market value of a firm and the ISO14001 certification status.7
+
+The market value of a firm can be disaggregated into its tangible and intangible assets (Konar and 
+Cohen [18]). We follow this approach because we believe that intangible assets are more directly influenced by 
+environmental action and the image of a firm. Tangible assets consist of the replacement value of property, 
+plant and equipment, cash, inventory, and so on. Intangible assets are valued based broadly on “reputation” and 
+the “valued added” to a firm through its efforts at product differentiation (e.g. patents, trademarks, brand names, 
+and the good image of a firm). These “reputation” factors can affect value both positively and negatively. For 
+example, well-made commercials may contribute to the higher value of an intangible asset, whereas news of 
+corruption by a firm can lower the value of the firm. Therefore, it is natural to think that the environmentally 
+friendly image or action of a firm directly affects intangible assets. In this context, the market may view the 
+adoption of an ISO14001 certificate as a sign that the risk of future liability due to pollution has been reduced. 
+Thus, the adoption of the certificate improves the public image of a firm and results in an increase in investor 
+confidence.  
+
+The market value of the firm can be written as: 
+
+VMV
+
+=
+
+T V
++
+I
+
+ 
+
+(4) 
+
+where MV is the market value of the firm, and VT and VI are the portions of the firm value attributable to the 
+tangible assets and the intangible assets of the firm respectively. We measure the value of the tangible assets as 
+the replacement cost (RC) of the firm, which is estimated using accounting-based values for the assets of the 
+firm. As subcomponents of VT and VI are not observable, we need to undertake some manipulations. From 
+equation (4) and the definition of Tobin’s q, Tobin’s q can be expressed as: 
+
+q
+
+=
+
+MV
+RC
+
+V
+I+=
+RC
+
+1
+
+ 
+
+We hypothesize that the Tobin’s q of the firm i is affected by the decision to acquire an ISO14001 
+certificate, as well as by the attributes of the firm, such as size and profitability. To estimate the effects of 
+various factors on the Tobin’s q of the firms, we postulate the model as follows:  
+
+q
+
+i
+
+=
+
+X
+
+2
+
+αθ
+i
+
++
+
+2
+
+DISO
+i
+
++
+
+ε
+2
+
+i
+
+ 
+
+ (5) 
+
+where we denote qi as the Tobin’s q of the firm i, ε2i as a random error term following a normal distribution, X2i 
+as a vector of the firm i, containing the explanatory and control variables such as the attributes of the firm, and 
+DISOi as the same dummy variable shown in (2). 
+
+We should note that the decision of the firm to acquire an ISO14001 certificate, DISOi, cannot be 
+
+                                                   
+
+7 Under an efficient capital market, if the investors expect that more polluting firms with greater future risks of environmental 
+
+liability will gain less profit in the future, their current stock price or their current market value will decrease. 
+
+ 
+
+7
+
+
+ 
+
+treated as exogenous, because the decision is likely to be affected by the same observable and unobservable 
+factors that determine qi. For example, given an unpredicted positive technological shock, a firm may be more 
+likely to obtain the certificate, simply because it will be easier for them to acquire the certificate. At the same 
+time, the firm’s market value will be positively affected by the improvement in productivity. To correct for a 
+bias due to self-selection in the estimation of the equation (5), we use the two-step procedure suggested by Lee 
+
+and Trost [19] and Barnow et al. [4]. First, we calculate the predicted probability 
+
+iPˆ
+
+ of the ith firm, as indicated 
+
+in equation (3), using the estimation results from the model for the decision of the firm to adopt the ISO14001 
+
+certificate. Then, after replacing DISO
+
+i in equation (5) with 
+
+iPˆ
+
+, we estimate equation (6) by linear least squares, 
+
+regressing q
+
+i on predicted probability as an explanatory variable, as well as X2i. Thus, we obtain: 
+
+q
+
+i
+
+=
+
+X
+
+~
+(ˆ~
+P
+γθ
+i
+i
+2
+
++
+
+2
+
+DISO
+i
+
+~)1
++=
+ξ
+i
+
+ 
+
+(6) 
+
+where we denote 
+
+~
+iξ
+
+as an error term with
+
+|~(
+E iξ
+
+2 =X
+
+)
+
+0
+
+. 
+
+With regard to the specification of Tobin’s q, Hirsch and Seaks [10] found it is more likely that market 
+value determinants have multiplicative effect on q . Thus, the semi-log linear specification is preferable to the 
+linear specification. Hence, for comparison, we estimate an alternative to equation (6), as follows: 
+
+ln
+
+q
+
+i
+
+=
+
+2iX
+
+(ˆ
+P
+γθ
+i
+
++
+
+2
+
+DISO
+i
+
++=
+
+)1
+
+ξ
+i
+
+ 
+
+(7) 
+
+where similarly we denote 
+
+iξ
+
+as an error term with 
+
+E iξ
+(
+
+|
+
+2 =X
+
+)
+
+0
+
+. 
+
+ 
+
+ 
+
+3. DATA and VARIABLES 
+
+We focus on the publicly held firms in the manufacturing industry in the first section of the Tokyo Stock 
+Exchange. After eliminating missing values from the samples, the total number of samples for the analysis was 
+573 on March 31, 2002.8 Most of the data were obtained from Nikkei Needs, whereas the information on the 
+ISO14001 certificate status of facilities was obtained from the Japanese Standard Association [14]. 
+
+ 
+
+3.1 Variables used in the model I, the effect of the decision behavior of the firm on the ISO14001 acquisition 
+
+We explore how current and future profitability, size, financial performance, product type, composition 
+of shareholders, the degree of the contact with consumers, and some other factors affect the decision of the firm 
+
+                                                   
+
+8 On March 31, 2002, there were 1,511 firms in all industries and 673 firms in the manufacturing industry in the first section of the 
+
+Tokyo Stock Exchange.  
+
+ 
+
+8
+
+
+to be certified in the model.  
+
+The  decision  to  adopt  the  ISO14001  is  made  primarily  at  the  facility  level.  Therefore,  all  of  the 
+facilities that belong to a firm do not necessarily adopt the ISO14001. In our study, following Nakamura et al. 
+[22], we define a firm that has at least one certified facility among all its facilities as “a certified firm”.9 The 
+variables used in the estimations and the definitions are listed in Table 1. 
+
+ 
+
+ 
+
+Variable 
+
+DISO 
+PSR 
+DR 
+S 
+SG 
+C 
+CG 
+N 
+ER 
+IS 
+GS 
+FS 
+
+AD 
+RD 
+CTR 
+
+Table 1: Variables and the Definitions 
+
+Name 
+
+Definition 
+
+Dummy variable of ISO14001 adoption  Equal  to  1,  if  a  firm  has  adopted  ISO14001  and  0, 
+
+Current profit-sales ratio 
+
+Debt ratio 
+Annual Sales 
+Sales growth 
+
+Capital 
+
+Capital growth 
+
+Employee 
+
+Export sales-gross sales ratio 
+
+Share of stock held by individual 
+
+stockholders 
+
+Share of stock held by government 
+
+Share of stock held by foreign 
+
+stockholders 
+Advertising 
+
+R&D 
+
+Capital turnover ratio 
+
+otherwise 
+Current profit divided by sales 
+Debt divided by capital 
+
+― 
+Growth rate of sales in a year 
+― 
+
+Growth rate of capital in a year 
+The number of workers 
+Export sales divided by sales 
+Stock  held  by  individual  investors  divided  by  total 
+stock 
+Stock held by government divided by total stock 
+Stock held by foreign investors divided by total stock
+Sum  of  advertising  expenditure in three consecutive 
+years 
+Sum of R&D expenditure in three consecutive years 
+Sales divided by capital 
+
+  
+
+We use profitability (PSR), debt ratio (DR), capital growth (CG), sales growth (SG), and rate of capital 
+turnover (CTR) as proxies of the current profitability of a firm, the financial soundness, the productivity of 
+capital, the expected growth, and the potential productivity growth, respectively. The number of employees at a 
+firm (N) is used to control for differences in the size of firms. Acquisition of the ISO14001 certificate involves 
+some substantial fixed costs, which become less significant for larger facilities. Therefore, firm size may affect 
+the firms’ decision regarding adoption. 
+
+The adoption of the ISO14001 may depend on how much of the firm’s products are exported (ER), as 
+more  export-oriented  firms  might obtain greater  benefits  from  adoption if  their trade partners  are  keen on 
+environmental  protection.  Thus,  they  would  be  more  interested  in  obtaining  an  internationally  recognized 
+certificate that would act as a visible sign for their foreign partners. Therefore, we use ER to control for the 
+
+                                                   
+
+9 The analysis of facilities’ motivations by Welch et al. [24], among others, could be more realistic if the business and financial 
+
+performance data of their “parent” firm were available. However, we apply this assumption to this analysis because of the data 
+
+limitation and the linkage of this model with the analysis on Tobin’s q. 
+
+ 
+
+9
+
+
+ 
+
+degree of the firms’ export-orientation. 
+
+The composition of shareholders may also affect the decision making of a firm, because different types 
+of shareholders have different perspectives and information. There are four types of shareholders, individual 
+investors  (IS),  government  (GS),  financial  institutions,  and  foreign  investors  (FS).  We  use  proportions  of 
+shareholding by individual investors, by government, and by foreign investors as proxy variables representing a 
+composition of shareholders.  
+
+We use advertisement expenditure (AD) as a proxy for the degree of contact with consumers. Firms 
+with larger AD expenditure are more likely to retain close contact with final consumers and the public, and thus 
+are more likely to internalize environmental values held by the public.  
+
+We use R&D expenditure (R&D) as a proxy representing the future perspective of a firm, which means 
+that firms with a larger R&D have a longer-term perspective. Hence, the firms with larger R&D are supposed to 
+be more interested in becoming certified to avoid the future risk of environmental liability and to increase their 
+expected longer-term profit. 
+
+Ideally, AD and R&D should be stock measures. However, because of data limitation and our inability 
+to obtain comparable data in most of the cases, we measure the AD (R&D) variable by summing the AD (R&D) 
+expenditure of a firm in three consecutive years between 1999 and 2002.10
+
+We use industry dummies as proxy variables representing the industry-wide effects. For example, 
+these dummies control for the possibility that firms in a heavy-polluting industry might have more incentive to 
+be certified to avoid future environmental liability and to obtain public acceptance for their production and their 
+location.11 12  
+
+ 
+
+3.2 Variables used for the model of market valuation 
+
+In this model, we explore how the current and potential profitability of the firm, the market type, the 
+acquisition of the ISO14001, and so on, affect the market valuation of the firm. The data and variables used in 
+this model are explained above and as follows. 
+
+We should note here that some of the data used in both estimations retain different interpretations. For 
+example,  as  we  mentioned  before,  R&D  represents  forward-looking  behavior  by  a  firm  in  the  context  of 
+
+                                                   
+
+10 We use the fiscal year, taking data from April 1999 to March 2002. We sum R&D and AD over three years and the variables are 
+
+discounted using a GDP deflator relating to these three years.  
+
+11 We have 15 categories of industries, as indicated in Table 4, and we set electronic machinery as a base industry when defining 
+
+industry dummy variables.  
+
+12 We could use one year lagged variables for all explanatory variables as it is more reasonable to assume that the firm’s ISO14001 
+
+acquisition decision depends on the characteristics of the firm in the previous years. However, as each firm has been certified in a 
+
+different year, such an assumption regarding the decision timing is artificial. We are simply presenting a snapshot view of the 
+
+diffusion process. Using panel data analysis, we could take into consideration the fact that firms obtained ISO14001 certificates at 
+
+different points of time. This topic is left for future research. 
+
+ 
+
+10
+
+
+adopting  the  ISO14001  (equation  (6)),  whereas  it  measures  the  future  profitability  of  the  firms  in  the 
+determination of Tobin’s q (equation (7)). Such variables are listed in Table 2.  
+
+ 
+
+ 
+
+Variables 
+
+R&D 
+AD 
+
+ 
+
+Table 2: Variables with Different Interpretations 
+Equation (6) 
+
+Equation (7) 
+
+Foresightedness 
+Degree of contact with the final consumer (public 
+pressure) 
+
+Future profitability 
+Degree of product differentiation and brand 
+value. 
+
+The Market Value of the Firm 
+
+ 
+
+The value of the stock is calculated using the account-end stock market price multiplied by the number of 
+shares outstanding (MSV) on March 31, 2002. The values of long-term debt and short-term debt (DV) for the 
+firm are obtained from Nikkei Needs. Therefore, the market value of the firm is calculated as follows: 
+
+MV
+
+=
+
+MSV
+
++
+
+DV
+
+ 
+
+ 
+
+The Replacement Cost of the Firm 
+
+The  replacement  cost  of  the  firm  is  calculated  as  the  sum  of  liquid  assets  (LA),  property,  plant  and 
+
+equipment (PPE), and investment (I), as follows: 
+
+RC
+
+=
+
+LA
+
++
+
+PPE
+
++
+
+I
+
+ 
+
+In addition, we use current profit ratio, sales growth, capital growth, capital turnover ratio, the number 
+of workers at a firm, export sales–gross sales ratio, advertising expenditure, R&D expenditure, and industry 
+dummies as independent variables. 
+
+Comanor and Wilson [6] showed that firms in more concentrated industries have a higher Tobin’s q. 
+Because of the unavailability of consistent concentration data, we use the industry dummies as the proxy for the 
+market  condition.  Industry  dummies  also  represent  the  other  industry-wide  effects.  For  example,  these 
+dummies control for the possibilities that a lower Tobin’s q in a heavy-polluting industry might be due to more 
+investment on pollution-control equipment. 
+
+Tables 3 shows the basic statistics of the samples, whereas Table 4 reports the total number of samples 
+and the number of certified firms in each industry in the total samples. The number of total samples and the 
+number of certified firms are 573 and 345, respectively, and the share of certified firms is 60.2%.13 The shares 
+of certified firms in paper and pulp, rubber, non-ferrous metal and electric machinery are higher, whereas their 
+shares in metal and other manufacturing industries are relatively lower. 
+
+ 
+
+                                                   
+
+13 The share of certified firms is 31.6% in Nakamura et al. [22] and the share of the certified facilities is 48% in Welch et al. [24]. 
+
+ 
+
+11
+
+
+Table 3: Descriptive Statistics (Means and Standard Deviations) 
+
+ 
+
+Variable 
+
+Unit 
+
+MV 
+
+RC 
+
+q 
+
+DISO 
+
+PSR 
+
+DR 
+
+SG 
+
+N 
+
+ER 
+
+FS 
+
+IS 
+
+GS 
+
+RD 
+
+AD 
+
+C 
+
+CG 
+
+SL 
+
+billion yen 
+
+billion yen 
+
+*** 
+
+*** 
+
+*** 
+
+*** 
+
+*** 
+
+Thousand 
+
+*** 
+
+*** 
+
+ 
+
+*** 
+
+billion yen 
+
+billion yen 
+
+billion yen 
+
+*** 
+
+billion yen 
+
+CTR 
+
+*** 
+
+All firms 
+350.700 
+
+(1,032.000)* 
+
+236.400 
+(540.500) 
+
+1.231 
+(0.717) 
+0.602 
+(0.5) 
+0.06314 
+(0.074) 
+1.585 
+(2.135) 
+1.052 
+(0.200) 
+2.797 
+(5.684) 
+0.152 
+(0.197) 
+0.0819 
+(0.100) 
+0.3256 
+(0.157) 
+0.00003 
+(0.00042) 
+26.272 
+(97.561) 
+5.939 
+(17.103) 
+113.819 
+(299.180) 
+
+1.037 
+(0.204) 
+195.845 
+(502.165) 
+
+2.199 
+(2.129) 
+
+* Standard deviations are reported in parentheses 
+
+Certified firms
+
+Non-certified firms 
+
+510.342 
+
+(1,290.730) 
+
+338,553 
+(672.797) 
+1.27087 
+(0.662) 
+
+1 
+— 
+
+0.064195 
+(0.065) 
+1.57369 
+(1.763) 
+1.04982 
+(0.124) 
+3.904 
+(7.022) 
+0.1789 
+(0.200) 
+0.099081 
+(0.108) 
+0.27982 
+(0.146) 
+
+0.000010714 
+(0.00010) 
+40.316 
+(123.608) 
+
+8.198 
+(21.098) 
+161.068 
+(374.669) 
+1.04436 
+(0.177) 
+279.835 
+(625.935) 
+2.18807 
+(1.958) 
+
+109,059 
+(244.247) 
+81.740 
+(100.904) 
+1.17095 
+(0.791) 
+
+0 
+– 
+
+0.061545 
+(0.087) 
+1.60158 
+(2.603) 
+1.05632 
+(0.278) 
+1.123 
+(1.420) 
+0.11209 
+(0.186) 
+0.056025 
+(0.080) 
+0.39478 
+(0.147) 
+
+0.000066141 
+(0.00066) 
+
+5.022 
+(8.773) 
+2.520 
+(6.558) 
+42.324 
+(65.500) 
+1.0247 
+(0.239) 
+68,755 
+(121,429) 
+2.2153 
+(2.369) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+12
+
+
+Table 4: Number of All Firms and of Certified Firms in Each Industry 
+
+ 
+
+Industry 
+
+Food 
+Textile 
+
+Paper and Pulp 
+
+Chemical, oil and coal products 
+
+Medicaments 
+
+Rubber 
+
+Glass and Clay 
+
+Steel 
+
+Non-ferrous Metals 
+
+Metal 
+
+General Machinery 
+Electric Machinery 
+
+Transportation Equipment 
+
+Precision Machinery 
+Other Manufacturing 
+
+Total 
+
+Variable  Number of firmsNumber of certified firms 
+D_FOOD 
+D_TXT 
+D_P&P 
+D_CHEM 
+D_MEDI 
+D_RUB 
+D_G&C 
+D_STL 
+D_NFM 
+D_MTL 
+D_GMN 
+
+30 
+13 
+7 
+50 
+20 
+7 
+12 
+11 
+10 
+9 
+47 
+86 
+21 
+9 
+13 
+345 
+
+53 
+24 
+10 
+80 
+32 
+8 
+18 
+23 
+14 
+26 
+88 
+118 
+31 
+17 
+31 
+573 
+
+— 
+
+D_TE 
+D_PM 
+D_OMF 
+
+— 
+
+ 
+
+ 
+4.1 A model for the Acquisition of the ISO14001 certificate 
+
+4. ESTIMATION RESULTS 
+
+The estimation results for the discrete choice model articulated in equations (1) and (2) are shown in 
+Table 5. The parameters for DR, SG, FS, GS, AD, CTR and some industry dummies are insignificant even at 
+10%, but the other parameters are significant. The proportion correctly classified is 75.4%.14  
+
+The positive coefficient on PSR and the negative one on its square mean that more profitable firms 
+have more incentive to be certified. Likewise, the positive coefficient on N and the negative one on its square 
+mean  that  larger  firms  have  more  incentive  to  be  certified.  Again,  the  positive  coefficient  on  ER  and  the 
+negative one on its square mean that more export-oriented firms have more incentive to be certified. However, 
+in all cases, as profitability, firm size, and the share of exports increase, the likelihood of the firm voluntarily 
+acquiring the certificate increases at a decreasing rate.  
+
+By contrast, the parameter for the debt ratio is insignificant and we find that financial soundness does 
+not affect the firm’s decision to be certified. This same result was reported in previous studies – for example, 
+Arora and Cason [2] found that financial soundness does not affect firms’ self-regulating behavior in regard to 
+participation in voluntary environmental protection programs, such as the EPA’s 33/50 program.  
+
+With regard to the variables relating to the stockholder’s share, the coefficient on IS is significantly 
+negative, whereas the coefficients on GS and FS are insignificant. This means that for firms where a greater 
+proportion of shares is held by an individual investor, there is less incentive to be certified than for those firms 
+
+                                                   
+
+14 We conducted a Likelihood Ratio Test and rejected the null hypothesis that all coefficients are zero at the 1% significance level 
+
+(χ2 = 219.0447).  
+
+ 
+
+13
+
+
+ 
+
+that have a range of financial, government, and foreign investors.  
+
+The  positive  coefficient  on  R&D  indicates  that  firms  with  larger  R&D  expenditure  have  more 
+incentive to be certified. However, the parameter on advertising expenditure is insignificant, indicating that 
+consumer pressure does not necessarily affect the decision of the firm.15
+
+The signs of the coefficients on industry dummies for Medicaments, Metal, Transportation Equipment, 
+Precision Machinery and Other Manufacturing are significantly negative, whereas the coefficients on the other 
+industry dummies are insignificant. This indicates that firms in the specified industries have less incentive to be 
+certified  than  firms  in  the  other  industries.  The  firms  with  the  least  incentive  to  be  certified  are  in  Other 
+Manufacturing, followed, in order, by firms in Precision Machinery, Medicaments, Transportation Equipment, 
+and Metal. 
+
+ 
+
+Table 5: Estimation Results for the ISO14001 Certificate Acquisition Model 
+
+Variable  Estimated Coefficient Standard
+P-value Variable Estimated CoefficientStandard 
+  P-value
+Error
+Error 
+[.312]
+0.303  
+[.025]D_FOOD -0.306  
+1.843 **
+PSR 
+[.509]
+-0.219  
+0.332  
+5.807 *** [.004]D_TXT 
+PSR2
+[.736]
+0.475  
+[.323]D_P&P
+0.053  
+-0.161  
+DR 
+[.431]
+0.225  
+[.542]D_CHEM -0.177  
+0.364  
+SG 
+[.050]
+0.354 ** 
+-0.692  
+0.069 *** [.002]D_MEDI
+N 
+[.584]
+0.002 *** [.000]D_RUB
+0.382  
+0.697  
+N2
+[.733]
+0.372  
+1.028 *** [.001]D_G&C
+0.127  
+ER 
+[.130]
+0.349  
+1.517 *** [.010]D_STL 
+-0.530  
+ER2
+[.930]
+[.116]D_NFM -0.038  
+0.914  
+0.433  
+FS 
+[.089]
+0.331 * 
+-0.563  
+0.512 *** [.000]D_MTL
+IS 
+[.133]
+0.212  
+-0.318  
+[.222]D_GMN
+GS 
+[.053]
+0.008 *** [.004]D_TE 
+-0.654  
+0.337 * 
+RD 
+0.371 * 
+-0.725  
+[.269]D_PM 
+0.011  
+[.051]
+AD 
+0.301 *** [.004]
+[.405]D_OMF
+0.054  
+-0.858  
+CTR 
+0.514  
+[.187]Percent Correctly Classified 
+  0.754
+CONSTANT 
+
+4.122  
+-16.816  
+0.052  
+-0.222  
+0.220  
+-0.007  
+3.267  
+-3.918  
+-1.436  
+-2.043  
+-478.610  
+0.023  
+0.012  
+-0.045  
+0.678  
+
+392.258  
+
+*** significantly different from 0 at 1%; ** significantly different from 0 at 5%; * significantly different from 0 at 10% 
+ 
+4.2 A model for Tobin’s q 
+
+The estimation results for equations (6) and (7) are shown in Table 6. As for equation (6), the parameters 
+for predicted probability of ISO14001 acquisition, PSR square and ER are significant at the 5%, 1%, and 10% 
+significance level, respectively. The sign on the predicted probability of ISO14001 acquisition is positive. This 
+implies  that  the  market  values  environmentally  friendly  behavior  by  firms  and  that  the  acquisition  of  the 
+ISO14001 certificate increases the valuation of the firm. The sign on PSR square is positive, as expected, 
+although the parameter for PSR is insignificant. The sign on ER is also positive. These results indicate that 
+higher profitability and higher ER increase the valuation of the firm. It is likely that the market expects that the 
+
+                                                   
+
+15 This finding coincides with the finding by Arora and Cason [2] 
+
+ 
+
+14
+
+
+ 
+
+recession, which has been affecting the Japanese economy for a long time, does not affect firms with a higher 
+ER so adversely as it does less export-oriented firms.  
+
+The parameters for SG, CG, and CTR are significant at the 10%, 1%, and 5% significance levels, 
+respectively,  with  positive  signs.  These  variables,  which  are  proxies  for  current  and  expected  growth  and 
+productivity, are positively correlated with the valuation of the firm, as is expected.  
+
+The parameters for N and AD are insignificant, indicating that the size of the firm and the closeness of 
+the firm’s product to the consumer do not affect the market value of the firm. In addition, the parameter for 
+R&D  is  insignificant,  which  means  the  market  values  that  R&D  is  not  necessarily  linked  to  the  future 
+profitability. 
+
+Industry  dummies  represent  the  market  condition  and  the  industry  effects.  The  parameters  for 
+dummies of non-ferrous metal and of precision machinery are significant at the 1% and 5% levels, respectively, 
+with positive signs. All other significant dummies, for steel, general machinery, and transportation equipment, 
+are significant at the 10% level with negative signs. The parameters for the other dummies are insignificant. 
+
+ 
+
+Table 6: Estimation Results for the Tobin’s q Model 
+
+Equation (6) 
+
+Equation (7) 
+
+Variable 
+
+Standard 
+
+Standard 
+
+  P-value
+*** [.000]
+P(DISO=1) 
+**  [.011]
+PSR 
+*** [.000]
+PSR2
+**  [.034]
+SG 
+* 
+[.072]
+ER 
+[.892]
+ 
+N 
+[.329]
+ 
+R&D 
+ 
+[.150]
+AD 
+*** [.000]
+CG 
+*** [.000]
+CTR 
+[.877]
+ 
+D_FOOD 
+ 
+[.152]
+D_TXT 
+ 
+[.111]
+D_P&P 
+**  [.046]
+D_CHEM 
+**  [.047]
+D_MEDI 
+[.065]
+* 
+D_RUB 
+* 
+[.075]
+D_G&C 
+**  [.014]
+D_STL 
+* 
+[.068]
+D_NFM 
+*** [.010]
+D_MTL 
+**  [.027]
+D_GMN 
+*** [.005]
+D_TE 
+[.083]
+* 
+D_PM 
+ 
+[.344]
+D_OMF 
+*** [.000]
+CONSTANT 
+2R  
+   
+Adjusted
+*** significantly different from 0 at 1%; ** significantly different from 0 at 5%; * significantly different from 0 at 10% 
+
+Estimated 
+Coefficient 
+0.303 
+0.886  
+6.155  
+0.138  
+0.136  
+-0.001  
+0.0003  
+0.0016  
+0.238  
+0.031  
+-0.009  
+-0.098  
+-0.157  
+-0.090  
+0.128  
+-0.202  
+-0.137  
+-0.174  
+0.155  
+-0.181  
+-0.097  
+-0.175  
+[.056]D_TE 
+0.135  
+[.051]D_PM 
+[.285]D_OMF 
+-0.061  
+[.208]CONSTANT -0.628  
+   
+0.455  
+
+P-value Variable 
+** [.035]P(DISO=1)
+ 
+[.325]PSR 
+*** [.000]PSR2
+[.053]SG 
+* 
+* 
+[.055]ER 
+[.612]N 
+ 
+[.264]R&D 
+ 
+ 
+[.288]AD 
+*** [.010]CG 
+** [.030]CTR 
+[.692]D_FOOD 
+ 
+[.282]D_TXT 
+ 
+[.249]D_P&P 
+ 
+[.236]D_CHEM 
+ 
+[.616]D_MEDI 
+ 
+[.174]D_RUB 
+ 
+[.155]D_G&C 
+ 
+* 
+[.089]D_STL 
+*** [.003]D_NFM 
+* 
+[.071]D_MTL 
+** [.024]D_GMN 
+* 
+* 
+ 
+ 
+
+Estimated 
+Coefficient 
+0.268  
+0.660  
+14.090  
+0.245  
+0.281  
+-0.005  
+0.0007  
+0.0023  
+0.330  
+0.027  
+-0.045  
+-0.143  
+-0.220  
+-0.104  
+0.063  
+-0.287  
+-0.212  
+-0.232  
+0.483  
+-0.245  
+-0.191  
+-0.231  
+0.293  
+-0.133  
+0.260  
+0.373  
+
+Error 
+0.066  
+0.346  
+1.055  
+0.065  
+0.075  
+0.005  
+0.0003  
+0.0011  
+0.066  
+0.006  
+0.058  
+0.068  
+0.098  
+0.045  
+0.065  
+0.109  
+0.077  
+0.070  
+0.085  
+0.070  
+0.044  
+0.062  
+0.077  
+0.064  
+0.106  
+   
+
+Error 
+0.127  
+0.670  
+2.043  
+0.126  
+0.146  
+0.010  
+0.0006  
+0.0022  
+0.127  
+0.012  
+0.113  
+0.133  
+0.191  
+0.088  
+0.125  
+0.211  
+0.149  
+0.136  
+0.164  
+0.135  
+0.084  
+0.120  
+0.150  
+0.124  
+0.206  
+   
+
+Adjusted
+
+2R
+
+   
+
+ 
+
+ 
+
+15
+
+
+ 
+
+With regard to the estimation results for the alternative specification, equation (7), as are reported in 
+Table 6, the parameter for predicted probability of ISO14001 acquisition is significant at the 1% with a positive 
+sign again. Hence, the result in the alternative specification also shows that the market values environmentally 
+friendly behavior by firms.  
+
+The parameters for CG and CTR are also significant at 1%, while the parameters for SG and ER are 
+significant at 5% and 10%, respectively. The signs on these parameters are positive, which is the same result as 
+in the estimation for equation (6). We found a convex relation between Tobin’s q and profitability, as the result 
+shows that the coefficients on the linear and quadratic terms of PSR are both positive and significant. The 
+specifications of equations (6) and (7) produce similar results except for some industry dummies.  
+
+A larger number of industry dummies are significant in equation (7), including all those that were 
+significant  in  the  specification  of  equation  (6).  Only  food,  textile,  pulp,  and  other  manufacturing  were 
+insignificant. The parameters for dummies of non-ferrous metal, precision machinery, and medicaments are 
+positive. All the other significant dummies retain negative signs. 
+
+Finally, to estimate the economic value of the certified environmental management system for the 
+market, we calculated the increase in expected market value of the firms due to introduction of the ISO14001 to 
+the current system, using the estimation results. The increase in the expected market value is estimated to be 
+11% from the specification of equation (6) and 13.5% from the specification of equation (7), as indicated in 
+Table 7.  
+ 
+
+Table 7: The Contribution of the ISO14001 to Market Valuation 
+
+From Equation (6) 
+
+ 
+
+   
+
+From Equation (7) 
+
+Average of Estimated 
+q when ISO14001 is 
+
+present (A) 
+
+Average of 
+
+Estimated q when 
+ISO14001 is absent 
+
+(B) 
+
+Tobin's 
+
+q 
+
+Average of Estimated
+q when ISO14001 is 
+
+ Average of Estimated 
+q when ISO14001 is 
+
+present (A)’ 
+
+absent (B) ’ 
+
+0.978 
+
+0.808 
+
+ 
+
+ 
+The contribution of the ISO14001 measured 
+by q
+
+ 
+
+1.231
+
+   
+
+ 
+
+ = (A)-(B) =0.17 (D)
+
+The contribution of the ISO14001 measured 
+by MV
+ = Average RC*(D)/Average  MV
+  =0.1099
+
+ 
+
+1.17 
+
+0.97 
+
+ 
+
+ 
+The contribution of the ISO14001 measured 
+by q
+ = (A)-(B) =0.17
+The contribution of the ISO14001 measured 
+by MV
+= Average RC*(D)’/Average  MV
+ =0.1349
+
+(D)
+'
+
+ 
+Table 8 shows differences across industries in the extent to which the ISO14001 contributes to market 
+value. The advantage of introduction of the ISO14001 is relatively small in metal, transportation equipment, 
+and precision machinery, which is consistent with the estimation of industrial dummies obtained in the probit 
+estimation. Significantly, all these industries retain larger negative coefficients on their dummy variables (Table 
+5), which implies that the probability of adopting the ISO14001 certificate is relatively small in these three 
+
+ 
+
+16
+
+
+industries.  
+
+ 
+
+Table 8: The Contribution of the ISO14001 by Industry 
+
+ 
+
+ 
+
+Food 
+Textile 
+Paper and Pulp 
+Chemical, oil and coal 
+products 
+Medicaments 
+Rubber 
+Glass and Clay 
+Steel 
+Non-ferrous Metals 
+Metal 
+General Machinery 
+Electric Machinery 
+Transportation 
+Equipment 
+Precision Machinery 
+Other Manufacturing 
+ 
+ 
+
+ 
+
+Contribution of ISO measured by MV 
+
+Equation (6) 
+0.119 
+0.135 
+0.181 
+
+0.140 
+0.076 
+0.220 
+0.134 
+0.126 
+0.135 
+0.105 
+0.118 
+0.112 
+
+0.077 
+0.078 
+0.112 
+
+5. CONCLUSIONS 
+
+Contribution of ISO measured by MV 
+
+Equation (7) 
+
+0.141 
+0.137 
+0.182 
+
+0.155 
+0.147 
+0.226 
+0.144 
+0.119 
+0.115 
+0.099 
+0.134 
+0.124 
+
+0.118 
+0.089 
+0.151 
+
+The introduction of the certified environmental management system, ISO14001, is expected to play an 
+important role in environmental protection. Despite this, few empirical studies have been conducted on the 
+factors that determine the adoption of the ISO14001 certificate. In this paper, we explore the impact of adopting 
+the ISO14001 on the financial market, as well as analyzing firms’ incentives to adopt ISO14001. 
+
+In previous studies on this topic, limited datasets were available or used. For example, Welch et al. [24] 
+focused on only the four most certified industries. Unlike Nakamura et al. [22] and this study, Welch et al. [24] 
+explored the certified facilities’ incentives for adopting the ISO14001. However, as data were unavailable, they 
+were not able to analyze the effect on the decision-making process of the business and financial performance of 
+the firms to which the certified facilities belong. Nakamura et al. [22] randomly selected firms from a dataset to 
+carry out questionnaire surveys, and thus use only part of the samples available. Even more significantly, both 
+these analyses were based on data collected before the end 1999, but since that date, the number of certified 
+facilities in Japan has been rapidly increasing.  
+
+To solve these problems, we used more recent data, dating from March 2002, which includes financial 
+and business performance data for all (rather than randomly selected) Japanese manufacturing firms listed in the 
+First Section of the Tokyo Stock Exchange. In our study, using these data for a large sample of firms, we 
+explored the characteristics of the firms that determine the acquisition of the ISO14001 certificate. In addition, 
+ 
+
+17
+
+
+ 
+
+we  examined  whether  the  stock  market  values  such  voluntary  action  by  the  firm  to  contribute  towards 
+environmental protection. 
+
+From the estimation results, we found that the firms with a larger size, larger export ratio, higher 
+profitability and higher R&D expenditure have more incentive to acquire the ISO14001 certificate. Further, 
+firms in Medicaments, Metal, Transportation Equipment, Precision Machinery, and Other Manufacturing have 
+less incentive for the acquisition.  
+
+In  addition,  we  observed, after  controlling  for  sample  selection  bias, that  the  stock market  values 
+voluntary action that contributes to environmental protection. Thus, the acquisition of the ISO14001 certificate 
+increases the market value of a firm, reflecting an expected reduction in the potential risk of environmental 
+liabilities. We also found that the introduction of the ISO14001 certification system contributes to an increase in 
+the market value of the firms of between 11% and 14%, depending on specifications.  
+
+Our results suggest that the stock market gives firms the incentive to voluntarily acquire the ISO14001 
+certificate because it gives firms better access to credit markets. There are several possible reasons why the 
+ISO14001 certificate status of a firm has been positively incorporated in market valuation. One of the biggest 
+factors is that possession of the certificate is a simple and obvious proof of “environmentalist” firms, which will 
+have a lower risk of environmental liabilities and lower adjustment costs if environmental policy is tightened in 
+the future. 
+
+Finally, we should note that these estimations might be overestimated. The adoption of the ISO14001 
+is one of the tools contributing to the protection of the environment. Certified firms  might adopt different 
+environmental management tools at the same time and be aggressive in reducing pollution. Hence, adoption of 
+the ISO14001 might become a proxy of such behavior. Thus, in this study, the effects of the ISO14001 on 
+Tobin’s q, which indicates the market valuation of the firm, might also include the effects of adopting different 
+tools and undertaking pollution reducing practices. Nevertheless, we believe that our results remain valid in 
+exploring the motivations for firms to self-regulate their behavior to ensure environmental protection and in 
+analyzing whether the Japanese stock market values such environmentally sound behavior. 
+
+We consider that our results provide evidence in support of the voluntary approach as an effective 
+environmental policy instrument that can take advantage of the market incentive mechanism. Our results are 
+important,  because  voluntary  approaches,  such  as  the  certified  environmental  management  system,  the 
+voluntary  environmental  protection  program,  can  offer  certain  advantages  over  mandatory  regulations  that 
+impose  technology  restrictions  or  environmental  taxes.  First,  the  voluntary  approach  allows  flexibility  in 
+reaching  the  firm’s  environmental  goals,  and  thus  may  be  more  efficient  in  minimizing  the  cost  of 
+environmental  protection.  Second,  it  may  reduce  information  costs  and  the  administrative  burden  on 
+environmental  authorities.  Finally,  it  avoids  a  lengthy  political  process  that  would  be  necessary  for  public 
+acceptance of mandatory regulations and environmental taxes.  
+
+We  propose  that  policies  such  as  information  disclosure  of  firms’  pollution  emissions,  or  the 
+introduction  of  a  ranking  system  of  firms  and  their  products,  based  on  their  pollution  and  environmental 
+soundness, will play an important role in enabling the market to value firms. Thus, it will motivate firms to 
+actively self-regulate to ensure environmental protection. 
+
+From the environmental policy perspective, it is important to understand fully several issues related to 
+the ISO14001. We believe that the following important questions should form the basis for future research: first, 
+ 
+
+18
+
+
+ 
+
+what  properties  of  the  ISO14001  make  it  possible  to  reward  firms  in  the  marketplace;  second,  will  the 
+ISO14001 fulfill its promise as an instrument of environmental policy and contribute to pollution reduction; and 
+finally, why is the ISO14001 far more prevalent in Japan than in the rest of the world.  
+
+ 
+
+6. ACKNOWLEDGMENTS 
+
+ 
+The  authors  thank  Eric  Welch,  Yoichiro  Higuchi  and  Tetsuya  Shimane  for  their  helpful  comments  and 
+suggestions.  We  are  also  grateful  to  Naoto  Takeba  for  helping  us  throughout  the  research  process.  All 
+remaining errors are ours. This research was funded by the Global Environment Research Fund of the Ministry 
+of the Environment in Japan. 
+
+ 
+
+19
+
+
+References 
+
+ 
+
+[1]  W. R. Q. Anton, G. Deltas and M. Khanna, Environmental Management Systems: Do They Improve 
+
+Environmental Performance?, J. Environ. Econom. Management, forthcoming. 
+
+[2]  S. Arora and T. N. Cason, An Experiment in Voluntary Environmental Regulation: Participation in 
+
+EPA’s 33/50 Program, J. Environ. Econom. Management, 28(2), (1995) 271-286. 
+
+[3]  S.  Arora  and  T.  N.  Cason,  Why  Do  Firms  Volunteer  to  Exceed  Environmental  Regulations? 
+
+Understanding Participation in EPA’s 33/50 Program, Land Econom., 72(4), (1996) 413-432.  
+
+[4]  B. S. Barnow, G. C. Cain, and A. S. Goldberger, Issue in the analysis of selectivity bias, in W. 
+Stromdorfer and G. Farkas (Eds.) Evaluation Studies Review Annual), Sage Press, Beverly Hills, 
+1981, pp. 43-59.  
+
+[5]  I. Cockburn and Z. Griliches, Industry Effects and the Appropriability Measures in the Stock Markets 
+
+Valuation of R&D and Patents, Amer. Econom, Rev., 78(2), (1988) 419-423.  
+
+[6]  W. S. Comanor and T. A. Wilson, Advertising, Market Structure and Performance, Rev. Econom. 
+
+Statist., 49, (1967) 423-440.  
+
+[7]  S. J. DeCanio, and W. E. Watkins, Investment in Energy Efficiency: Do the Characteristics of Firms 
+
+Matter?, Rev. Econom. Statist., 80, (1998) 95-107.  
+
+[8]  E.  Fama,  Efficient  Capital  Markets:  Review  of  Theory  and  Empirical  Evidence,  J.  Finance,  25, 
+
+(1970) 383-417.  
+
+[9]  J. T. Hamilton, Pollution as News: Media and Stock Market Reactions to Toxics Release Inventory 
+
+Data, J. Environ. Econom. Management, 28(1), (1995) 98-113. 
+
+[10] B. T. Hirsch and T. G. Seaks, Functional Form in Regression Models of Tobin’s q, Rev. Econom. 
+
+Statist., 75(2), (1993) 381-385. 
+
+[11] M.  A.  Hirschery  and  J.  J.  Weygandt,  Amortization  Policy  for  Advertising  and  Research  and 
+
+Development Expenditures, J. Accounting Res., 23(1), (1985) 326-335.  
+
+[12] ISO  World,  “The  number  of  ISO  14001/EMAS  Registration  of  the  World,”  available  at 
+
+<http://www.ecology.or.jp/isoworld/english/analy14k.htm> (2003). 
+
+[13] A. B. Jaffe, Technological Opportunity and Spillovers of R&D: Evidence from Firm Patens, Profits 
+
+and Market Value, Amer. Econom. Rev., 76(5), (1986) 984-1001. 
+
+[14] Japanese 
+
+Standard 
+
+Association, 
+
+“ISO9000s/ISO14000s,” 
+
+available 
+
+at<http://www.jsa.or.jp/iso/iso14000_05.asp> (2003) (in Japanese) 
+
+[15] M.  Khana  and  L.  A.  Damon,  EPA’s  Voluntary  33/50  Program:  Impact  on  Toxic  Releases  and 
+
+Economic Performance of Firms, J. Environ. Econom. Management, 37, (1999) 1-25. 
+
+[16] R. D. Klassen and C. P. McLaughlin, The Impact Environmental Management on Firm Performance, 
+
+Management Sci., 42(8), (1996) 1199-1214.  
+
+[17] S. Konar and M. A. Cohen, Information as Regulation: The Effect of Community Right to Know 
+
+Laws on Toxic Release, J. Environ. Econom. Management, 32(1), (1997) 109-124.  
+
+[18] S. Konar and M. A. Cohen, Does the Market Value Environmental Performance?, Rev. Econom. 
+
+Statist., 83(2), (2001) 281-289. 
+
+[19] L. Lee and R. P. Trost, Estimation of Some Limited Dependent Variable Models with Application to 
+
+20
+
+ 
+
+ 
+
+
+ 
+
+Housing Demand, J. Econometrics, 8, (1978) 357-382. 
+
+[20] E. B. Lindenberg and S. A. Ross, Tobin’s q Ratio and Industrial Organization, J. Bus., 54(1), (1981) 
+
+1-32. 
+
+[21] P. Megna and D. C. Mueller, Profit Rates and Intangible Capital, Rev. Econom. Statist., 73(4), (1991) 
+
+632-642. 
+
+[22] M. Nakamura, T. Takahashi and I. Vertinsky, Why Japanese Firms Choose to Certify: A Study of 
+Managerial Responses to Environmental Issues, J. Environ. Econom. Management, 42 (1), (2001) 
+23-52/ 
+
+[23] C. J. Simon and M. W. Sullivan, The Measurement and Determinants of Brand Equity: a Financial 
+
+Approach, Marketing Sci., 12(1), (1993) 28-52. 
+
+[24] E.W. Welch, Y. Mori and M. Aoyagi-Usui, Voluntary Adoption of ISO14001 in Japan: Mechanism, 
+
+Stages and Effects, Bus. Strat. Env., 11, (2002) 43-62.  
+
+[25] E.W. Welch, A. Rana, and Y. Mori, The Promises and Pitfalls of ISO14001 for Competitiveness and 
+Sustainability: A Comparison of Japan and the United States, Greener Management International: J. 
+Corporate Environ. Strat. Pract., forthcoming.  
+
+ 
+  
+
+ 
+
+21
+

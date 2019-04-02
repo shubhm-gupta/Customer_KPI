@@ -1,0 +1,4480 @@
+Journal of Business Logistics, 2015, 36(1): 69–87
+© Council of Supply Chain Management Professionals
+
+doi: 10.1111/jbl.12070
+
+The Effects of Cross-Functional Integration on Proﬁtability, Process
+Efﬁciency, and Asset Productivity
+Morgan Swink1 and Tobias Schoenherr2
+1Texas Christian University
+2Michigan State University
+
+W e employ information processing theory (IPT) to posit beneﬁcial impacts of internal integration on ﬁrm proﬁtability and its underlying
+
+components of process efﬁciency and asset productivity. We further hypothesize that these effects are greater for ﬁrms that operate
+wider spans of supply chain processes. These expectations are tested with the combination of two different data sources: primary data collected
+to gauge levels of internal integration, and secondary data collected from ﬁnancial reports including proﬁtability performance and related ﬁnan-
+cial ratios. The results provide evidence that internal integration mainly affects proﬁts by driving process efﬁciencies. These efﬁciencies appear
+to be especially signiﬁcant in sales, general, and administrative related costs for ﬁrms that have broad process spans. In contrast, the data analy-
+sis offers no evidence of a relationship between internal integration and asset productivity. Based on these ﬁndings, we point out important
+implications for the applicability of IPT in explaining the effects of internal integration, and identify a call for action for practitioners. Overall,
+our study enhances both the rigor and relevance of internal integration research by grounding it in IPT, by utilizing objectively reported ﬁnan-
+cial data, by identifying speciﬁc cost beneﬁts, and by studying the impact of process span as an important contingency.
+
+Keywords:
+productivity; empirical study
+
+internal
+
+(cross-functional)
+
+integration;
+
+information processing theory; ﬁnancial data; proﬁtability; process efﬁciency; asset
+
+INTRODUCTION
+
+integration,
+
+Internal integration, also known as cross-functional, inter-func-
+tional, and inter-departmental
+is deﬁned as the
+mutual alignment of cross-functional interdependencies through
+interaction,
+information sharing, and collaboration (Kahn and
+Mentzer 1998; Morash and Clinton 1998; Pagell 2004). Research
+into the effects of internal integration is still emerging, often only
+descriptive, and lacking deep theoretical grounding (a summary
+of past research is provided in Appendix A). More rigor and rel-
+evance is needed (Frankel and Mollenkopf 2013), particularly
+regarding internal
+integration’s performance impacts. From the
+perspective of practice, many supply chain managers perceive
+that their companies have become proﬁcient in external integra-
+tion, but not in internal integration (Poirier et al. 2008). Organi-
+zational, political, and resource-related challenges make high
+levels of integration difﬁcult to achieve and maintain, and current
+research falls short of providing the strong evidence needed to
+make a solid business case for investments in organizational
+changes, training, and technologies typically required. Demon-
+strated impacts on proﬁt metrics, as studied in this research, are
+needed to convince managers of the beneﬁts associated with
+internal integration (cf. Timme and Williams-Timme 2000; Man-
+rodt et al. 2005; Ellinger et al. 2011).
+
+This research article documents our efforts to extend work on
+internal integration. We study the impact of internal integration
+on proﬁtability, through process efﬁciency and asset speciﬁcity.
+Speciﬁcally, we add rigor and relevance to the study of internal
+integration by deeply grounding our expectations in information
+
+Corresponding author:
+Morgan Swink, Neeley School of Business, Texas Christian Univer-
+sity, TCU Box 298530, Fort Worth, TX 76129, USA; E-mail: m.
+swink@tcu.edu
+
+processing theory (IPT), by measuring achieved (rather
+than
+expected) internal integration, by investigating the direct effects
+of internal integration on objectively reported measures of ﬁnan-
+cial performance, and by studying supply chain process span as
+an important contingency that moderates integration’s effects.
+This work thus signiﬁcantly extends past research efforts which
+have often lacked a theoretical anchor, have exclusively relied
+upon perceptual measures of performance, and have largely
+ignored contingency factors other than external integration and
+uncertainty. From a managerial perspective, by demonstrating
+bottom-line beneﬁts, we issue a call for practitioners to become
+more internally integrated, with a focus on the apparent transac-
+tional beneﬁts that integration provides.
+
+Our arguments relating internal integration to proﬁtability, pro-
+cess efﬁciency and asset productivity are grounded in the IPT
+(Galbraith 1974). Speciﬁcally, we view internal integration as a
+key information processing capability that reduces both uncer-
+tainty and equivocality, thus enabling better process efﬁciency
+and asset productivity. Such capability is posited to be especially
+valuable in today’s complex, dynamic, and hypercompetitive
+market environment. Internal
+integration helps workers across
+functions to process gathered information better and faster, to
+develop a shared understanding, and distribute it
+to the most
+appropriate constituents within the ﬁrm, thus providing an impor-
+tant infrastructural support for value-creating processes. In addi-
+tion, by developing an integrative foundation for processing and
+sharing information, the bounded rationality (Williamson 1985)
+of workers is likely reduced, enabling better decision making.
+
+Building upon the arguments above, we contribute to research
+and practice by developing a more precise theory of IPT and its
+applicability to internal integration. In addition, the results of the
+study suggest even ﬁner-grained applications of
+the theory.
+While we conﬁrm the positive association of internal integration
+with proﬁtability return-on-assets [ROA] through better process
+efﬁciencies, the association of internal integration with greater
+
+
+70
+
+M. Swink and T. Schoenherr
+
+asset productivity is not supported. These ﬁndings suggest that
+internal
+integration beneﬁts apply more to transactional and
+transformational efﬁciencies reﬂected by labor and material costs,
+rather than to utilization or other productivity factors reﬂected by
+capital costs. We further ﬁnd that the association of internal inte-
+gration with proﬁt
+is magniﬁed by ﬁrms’ process spans. The
+added beneﬁts of integration for ﬁrms with wider process spans
+appear to be mainly a product of better transactional efﬁciencies
+reﬂected by lower sales, general, and administrative (SG&A)
+costs.
+
+These ﬁndings contribute to the understanding of internal inte-
+gration by adding speciﬁcity and a novel perspective on its
+effects. In addition, the ﬁndings provide guidance for managers
+regarding what they should expect, and how they should measure
+the impacts of internal integration efforts. We thus extend the
+empirical corroboration and conﬁrmation of a concept considered
+to be fundamental to supply chain management (SCM).
+
+The remainder of this paper proceeds as follows. First, we
+review key tenets of IPT and substantiate its application to our
+research. In addition, we review extant work on internal integra-
+tion and demonstrate the need for more rigor and relevance in its
+study. Second, we develop a set of hypotheses relating internal
+integration to various ﬁnancial performance measures, and pro-
+vide arguments for the moderating role of process span. Our
+expectations are grounded in IPT. Third, we describe the meth-
+odology applied to test our hypotheses, including an overview of
+the data collection and sample, and the measures. Fourth, we
+report the statistical analyses and results, followed by exploratory
+extensions and robustness tests. Fifth, we discuss our results and
+highlight their implications, especially in terms of how we have
+enhanced the rigor and relevance of internal integration’s study,
+and how our results extend the IPT. And sixth, we conclude our
+work with a summary,
+including limitations, and avenues for
+future research.
+
+INFORMATION PROCESSING THEORY AND
+INTERNAL INTEGRATION
+
+Information processing theory
+
+IPT views organizations as entities that aim to efﬁciently gather,
+interpret, synthesize, and coordinate information (Burns and
+Wholey 1993). Underlying this notion is the assumption that
+ﬁrms are open social systems that face uncertainties (Tushman
+and Nadler 1978). This condition creates the need for informa-
+tion processing mechanisms. Galbraith (1974) suggests three
+ways to manage low levels of uncertainty: coordination by rules
+or programs, hierarchy, and coordination by targets and goals.
+However, if uncertainty levels exceed the processing capabilities
+of these routine mechanisms, Galbraith (1974) maintains that
+organizations can either reduce the need for information process-
+ing (via the creation of slack resources, buffers, and self-con-
+tained tasks) or increase the capacity to process information (via
+investment in vertical information systems and creation of lateral
+relations).
+
+The IPT provides a useful lens to investigate the link between
+internal integration and ﬁnancial performance (proﬁtability, pro-
+cess efﬁciency and asset productivity) in three important ways.
+
+life cycles,
+
+First, today’s competitive and dynamic environment is character-
+ized by shortening product
+increasing customer
+expectations, heightening competition, and decreasing margins
+(Weick and Quinn 1999). As such, dealing with uncertainty has
+become a primary concern for managers (Merschmann and
+Thonemann 2011). Information can be gathered from suppliers
+and customers as a means to reduce or manage uncertainties
+(Kahn et al. 2006). However, ﬁrms also need internal informa-
+tion processing capabilities in order to interpret and channel
+externally collected information to the most appropriate internal
+stakeholders (Schoenherr and Swink 2012). Moreover, divisional
+organizational structures can also create uncertainties within a
+ﬁrm. For example, when interdependent departments conduct
+planning and decision making independently, one unit
+is left
+with uncertainty about another department’s actions. In contrast,
+integrative organizational structures (e.g., cross-functional teams,
+an example of lateral relations) clarify interdependencies and
+build information processing capabilities (Tushman and Nadler
+1978). Such structures, along with other integrative lateral pro-
+cesses and vertical information systems, reduce uncertainties by
+giving organizations the ability to share and structure information
+for best use.
+
+Second, adaptations of the IPT include the notion of equivo-
+cality, along with uncertainty, as a driver of information process-
+ing needs. Once managers acquire information, deciding on the
+best action might not be as straightforward as it would seem.
+The meaning of information can be unclear and subject to differ-
+ent interpretations (Daft and Macintosh 1981), representing what
+has been termed equivocality (Daft and Weick 1984). Informa-
+tion thus needs to be processed, that is, sense-making needs to
+take place, and a common understanding needs to be developed.
+Again,
+to enable
+such information processing, thereby helping to promote a shared
+interpretation of
+information among various decision makers
+(Daft and Lengel 1986).
+
+integration mechanisms are thought
+
+internal
+
+Third, due to the boundary spanning nature of SCM decisions,
+decision makers need to consider various other functions and
+departments within the ﬁrm (Swink et al. 2007). However,
+because of potential limitations in experience, myopic perspec-
+tives, and the limited availability of information, departmental
+decision makers are often subject to bounded rationality (Galbra-
+ith 1973). This means that their access, interpretations, and appli-
+cations of information are bounded by the limits imposed by
+organizational position, experience, and perspective. Internal inte-
+gration serves to reduce and overcome bounded rationality, as it
+enables a wider range of personnel to participate in joint evalua-
+tions and planning for the use of knowledge content. In addition,
+internal
+integration promotes collaboration between functional
+areas within the ﬁrm, thereby leading to greater goal alignment,
+cross-fertilization,
+ultimately,
+improved organizational performance (Schoenherr and Swink
+2012).
+
+experience,
+
+broadened
+
+and
+
+the IPT serves as a useful
+
+By addressing these three organizational challenges collec-
+tively,
+frame for describing the
+impacts of information processing capability on organizational
+effectiveness. In the context of this research, we use arguments
+from the IPT to develop expectations regarding the association
+of internal
+integration with ﬁrm proﬁtability, as explained by
+improvements in process efﬁciency and asset productivity.
+
+
+Effects of Cross-Functional Integration
+
+71
+
+The need for more rigor and relevance in the study of
+internal integration
+
+(cross-functional)
+
+integration enables better
+
+Internal
+intra-ﬁrm
+alignment across functions through enhanced information shar-
+ing, collaboration, utilization of each department’s strengths and
+competencies, and work toward common goals (Schoenherr and
+Swink 2012). Greater connectivity and coordination across ﬁrm
+functions can break down the “silo” mentality and local optimi-
+zation, fostering a process view and enabling global optimization
+(Lawrence and Lorsch 1967). Through internal integration, func-
+tional specialists obtain a broader and more informed picture of
+ﬁrm processes and objectives (Keller 2001), and are more likely
+to understand and utilize ﬁrm resources located in different
+departments.
+
+internal
+
+While these broad tenets are fairly well accepted, more rigor
+and relevance is needed in the study of internal
+integration,
+speciﬁcally as it relates to performance. Appendix A provides a
+summary of research studies that have speciﬁcally addressed
+the effects of
+integration on performance outcomes.
+These foundational studies make important contributions to
+knowledge in SCM (see the column “Findings” in Appen-
+dix A). However, a readily apparent shortcoming in the body
+of literature is the varying levels of focus and deﬁnition repre-
+sented in operationalizations of internal integration. For exam-
+ple, Stank et al. (1999) and Ellinger et al. (2000) study only
+the integration of marketing and logistics, and Springinklee and
+Wallenburg (2012) consider only the integration of the logistics
+and the production functions, where other studies are broader
+in the scopes of inter-departmental integration that they address.
+Moreover, operationalizations of internal integration in some of
+these studies assess the presence or absence of infrastructural
+enablers of integration (e.g., presence of information systems)
+(Gattiker and Goodhue 2004) rather than assessing levels of
+achieved integration. Several researchers note the importance of
+measuring achieved,
+integration (Pagell
+2004; Springinklee and Wallenburg 2012; Turkulainen and Ke-
+tokivi 2012).
+
+than intended,
+
+rather
+
+internal
+
+in many studies,
+
+Another limitation of prior works on internal
+
+integration is
+the frequent absence of a strong theoretical grounding for the
+researchers’ expectations. Arguments relating internal
+integra-
+tion to performance are,
+limited to restate-
+ments of what
+integration is, for example, alignment,
+better communication and cooperation, richer information shar-
+ing, more intense interactions, etc. Few statements are provided
+that identify the means by which these attributes of integration
+are linked to speciﬁc performance elements. Exceptions include
+Wong et al. (2011) and Germain and Iyer (2006), who rely on
+process-oriented views to argue for internal integration’s role in
+the elimination of resource redundancies and nonvalue-added
+activities. Others have highlighted the value of
+information
+access for improved decision making as an important beneﬁt of
+internal integration (Stank et al. 1999; Germain and Iyer 2006).
+Schoenherr and Swink (2012) employ IPT as a means for
+explaining the information-driven beneﬁts of internal
+integra-
+tion. We extend these foregoing ideas, applying additional rigor
+to the theoretical development of arguments tying internal inte-
+gration to performance (van Weele and van Raaij 2014).
+
+All of the studies described in Appendix A address relation-
+ships of internal integration to some aspect of organizational per-
+formance. However, it should be noted that the primary focus of
+some studies is the indirect or moderating effect of internal inte-
+gration on dimensions of operational performance (e.g., relative
+cost, quality, etc.), rather than its potential direct effect on ﬁrm
+proﬁtability (Narasimhan and Kim 2002; Germain and Iyer 2006;
+Schoenherr and Swink 2012). Moreover, associations of internal
+integration to immediate operational outcomes tend to be more
+strongly represented in the literature than associations with ﬁnan-
+cial performance. For instance, researchers have associated inter-
+nal
+integration with greater logistics performance (Stank et al.
+1999, 2001b; Ellinger et al. 2000; Sanders and Premus 2005;
+Germain and Iyer 2006), greater supply chain agility/responsive-
+ness (Braunscheidel and Suresh 2009; Flynn et al. 2010), and
+better quality, delivery, ﬂexibility and cost performance (Sanders
+and Premus 2005; Wong et al. 2011; Schoenherr and Swink
+2012).
+
+Of the few studies that assessed the impact of internal integra-
+tion on ﬁnancial performance, both signiﬁcant and non-signiﬁ-
+cant relationships are evident (e.g., Rodrigues et al. 2004). While
+Flynn et al. (2010) and Chen et al. (2007) ﬁnd a positive associ-
+ation of internal integration with overall business performance
+(an amalgam of sales, proﬁt, and growth indicators), associations
+of internal integration with ﬁnancial measures are not signiﬁcant
+in studies by Ellinger et al. (2000) and Germain and Iyer (2006).
+One reason for these inconsistent results may be the studies’ use
+of self-reported, perceptual ﬁnancial metrics measured on ordinal
+or interval scales, often amalgamated into single factor scores.
+Obtaining objective measures is difﬁcult, and the use of percep-
+tual measures has been shown to be valid in many empirical
+research settings. Nevertheless, perceptual measures of perfor-
+mance are subject to certain biases, and they provide little basis
+for concrete comparisons or projections of objectively measured
+impacts (Ketokivi and Schroeder 2004; Wall et al. 2004). The
+lack of evidence of direct ﬁnancial beneﬁts of internal integration
+leaves open the opportunity to provide a more compelling case
+for investments in internal integration.
+
+A ﬁnal
+
+indication of the nascent nature of research in this
+area is that few contingencies regarding the effects of internal
+integration have been identiﬁed. Several researchers have tested
+interactions of internal integration with forms of external inte-
+gration (Germain and Iyer 2006; Flynn et al. 2010; Schoenherr
+and Swink 2012; Williams et al. 2013), and one study has
+examined environmental uncertainty (Wong et al. 2011). How-
+ever, ﬁrm structural characteristics that may amplify or dampen
+the impacts of
+integration have not been examined.
+Such work is needed to establish boundary conditions on
+expectations and developing theories related to internal integra-
+tion.
+
+internal
+
+In sum, many research studies have addressed internal integra-
+tion, offering foundational concepts and correlating managerial
+perceptions of integration and performance. To add relevance
+and rigor to the study of internal integration, we build upon these
+works to offer a more theoretically grounded set of arguments,
+and to address some of their limitations. Namely, we investigate
+the impacts of achieved integration on objectively measured
+aspects of ﬁnancial performance (proﬁtability, process efﬁciency,
+
+
+72
+
+M. Swink and T. Schoenherr
+
+and asset productivity), utilizing secondary data sources. In addi-
+tion, we test the moderating effect of a ﬁrm’s supply chain pro-
+cess span, in order to develop further insights into the nature and
+limits of integration’s effects.
+
+THEORY DEVELOPMENT AND HYPOTHESES
+
+integration)
+internal
+
+Rapid change has become the norm in today’s business envi-
+ronment. As a result, companies face increasing levels of
+uncertainty (Weick and Quinn 1999; Merschmann and Thone-
+mann 2011). The IPT suggests that high levels of uncertainty
+can be managed through buffers (e.g., slack capacity,
+inven-
+tory) or through enhanced information processing capabilities
+(Galbraith 1973). Accordingly, we
+(e.g.,
+internal
+maintain that
+integration serves as a replacement for
+asset-intensive buffers, and that it reduces process inefﬁciencies
+that arise from uncertainty, equivocality, and the bounded
+rationality of decision makers.
+integration enables
+organizations to more effectively gather and process dispersed
+information,
+to
+the most appropriate internal constituents,
+thereby enabling
+decision makers to make more robust and optimal strategies.
+Galbraith (1974) speciﬁcally refers to the power of “integrating
+roles” in this regard. More integrated decision making regard-
+ing resource applications and process planning is expected to
+positively impact a ﬁrm’s proﬁtability, which is often opera-
+tionalized as ROA.
+
+to make sense of it, and then to distribute it
+
+Internal
+
+More speciﬁcally, achieved internal integration improves inter-
+faces between internal functions, leading to enhanced communi-
+cation, coordination and collaboration (Pagell 2004). According
+to Galbraith (1973), internal integration is achieved through lat-
+eral relations and vertical information systems; examples include
+team-oriented structures, cross-functional planning processes,
+rotational job assignments, liaison roles, and integrated informa-
+tion systems (Stevens 1989; Gattiker and Goodhue 2004). In
+describing IPT, Galbraith (1973) maintains that such lateral rela-
+tions and vertical information systems work together to enhance
+the information processing capacity of the organization. Given
+this capacity,
+information travels faster and more accurately
+through internally integrated processes, enabling greater agility
+and ensuing adaptation of strategy (Galbraith 1974). Addition-
+reductions in equivocality and bounded rationality can
+ally,
+enhance visibility and inter-departmental
+interactions aimed at
+rationalizing redundant resources and duplications of effort. Inter-
+nal integration may further foster unique relationships between
+individuals in the ﬁrm, going beyond simple or mechanistic con-
+nections. In an ideal setting, a community is created to share,
+combine and integrate functional expertise (Rosenzweig et al.
+2003).
+
+These information processing and collaborative beneﬁts of
+achieved internal integration, as expressed in the IPT, explain
+why we expect
+integration to be associated with greater ﬁrm
+proﬁtability. Such integration is complex, difﬁcult, and requires
+considerable time, effort,
+trust and conviction (Ellinger et al.
+2006; Richey et al. 2010). The rare ﬁrms that are able to achieve
+high levels of internal integration are expected to enjoy signiﬁ-
+cant proﬁtability advantages by virtue of their superior informa-
+tion processing capacities.
+
+H1: Internal integration is positively associated with ﬁrm
+
+proﬁtability (ROA).
+
+rigor
+
+to our
+
+investigation, we consider
+
+The foregoing hypothesis posits a high level
+
+relationship
+between internal integration and ﬁrm proﬁtability (ROA). To add
+further
+relationships
+between internal integration and two key components of proﬁt-
+ability, process efﬁciency and asset productivity. These compo-
+nents of proﬁtability are typically measured by return-on-sales
+(ROS) and asset
+respectively (Kinney and
+Wempe 2002).1 We ﬁrst focus on ROS, which is regarded as a
+gauge of a ﬁrm’s efﬁciency (Income/Sales) (Kinney and Wempe
+2002). For a given level of sales, ROS is improved by making
+processes more efﬁcient in ways that serve to lower various cost
+elements,
+including costs of goods sold (COGS) and SG&A
+costs; these two cost categories often represent the majority of a
+ﬁrm’s operating costs, and as such, they have been studied inten-
+sely (Levesque et al. 2012).
+
+turnover
+
+(ATO),
+
+Consistent with tenets of IPT, we expect that the information
+integration lead to
+processing capabilities afforded by internal
+greater process efﬁciencies. Speciﬁcally, a central
+trade-off in
+organizational design involves the beneﬁts of specialization and
+local responsiveness in divisionalized forms, versus the beneﬁts
+of control, standardization, and efﬁciency in centralized forms
+(Galbraith 1973). Internal integration, however, provides mecha-
+nisms to afford efﬁciencies through greater
+immediacy and
+breadth of information processing, while preserving some degree
+of departmental specialization and autonomy (Chen et al. 2007).
+Integration mechanisms serve to automate or eliminate cross-
+departmental
+transactions and data translations, and similarly
+reduce other process “wastes” associated with functional silos
+(Swink et al. 2007); for example, both planning and execution
+processes involving various stakeholders can be streamlined. As
+a result we expect reductions in overhead costs associated with
+the management of inter-departmental communications and indi-
+rect costs associated with planning and coordination. In addition,
+we expect that direct costs of execution will be lowered by inter-
+nal integration through a higher quality of planning. For exam-
+ple, more
+and
+operations planning) foster more complete goal alignment and
+more global resource optimization, leading to lower processing
+costs. Thus, internal integration should yield greater process efﬁ-
+ciencies (ROS) as reﬂected in COGS and SG&A.
+
+integrated planning processes
+
+(e.g.,
+
+sales
+
+In addition, a central tenet of IPT is that information process-
+ing capacity is necessitated by uncertainty and interdependence,
+which work together to create “unexpected events” and “excep-
+tion scenarios” (Galbraith 1973). An organization can invest in
+slack resources to buffer itself against these incidents. However,
+it is often better off when it uses lateral and vertical mechanisms
+to reduce uncertainty and to rationalize interdependencies, thus
+preventing unexpected problems that require work-arounds (Gal-
+braith 1974). For example, communication of, and commitment
+to, a single plan (as opposed to independently developed depart-
+mental plans) should lead to more internally consistent and syn-
+chronized actions (e.g., purchases and production schedules),
+thereby eliminating process costs associated with responses to
+
+1ROA = ROS 9 ATO.
+
+
+Effects of Cross-Functional Integration
+
+73
+
+unexpected events (Sheremata 2000). Such costs include expedit-
+ing, rework, costs associated with raising and lowering resource
+capacities, and other transition costs. Global, integrated optimiza-
+tion also promotes balance across decisions made in departments
+with incompatible metrics and goals. For example, production
+functions typically pursue large batch schedules and low invento-
+ries, while logistics functions emphasize small batches and high
+service levels (Pyke and Cohen 1993; Arshinder and Deshmukh
+2008). We posit that internal integration enables information pro-
+cessing required to balance such competing objectives. In these
+ways, internal integration should lead to greater process efﬁcien-
+cies.
+
+H2: Internal integration is positively associated with
+
+process efﬁciency (ROS).
+
+In contrast to ROS, ATO is regarded as an indicator of pro-
+ductivity (Kinney and Wempe 2002). As such, ATO is improved
+by more productive uses of assets, both current assets (e.g., cash,
+inventory) and ﬁxed assets (e.g., plant, property, and equipment).
+ATO is essentially an output-over-input productivity measure
+(Sales/Assets). We suggest
+integration enables
+improved utilization of both current and ﬁxed assets, thus pro-
+ducing greater ATO.
+
+internal
+
+that
+
+(Galbraith
+
+interdependencies
+
+Our arguments are founded in IPT’s premise that internal inte-
+gration is a substitute for buffers needed to protect an organiza-
+tion from detrimental events stemming from uncertainty and
+unrecognized
+1974). Through
+improved planning processes and greater coordination of depart-
+mental plans and actions, internal integration likely lowers the
+need for asset buffers such as cash and inventory (Swink et al.
+2007). For example, we suggest
+joint
+planning and coordination should lead to less volatile cash ﬂows
+in purchases, as well as less uncertainty in both demand and sup-
+ply. Hence, safety stocks of cash and product inventories could
+then be reduced. Fewer current assets (cash and inventory) would
+be needed to hedge against uncertainties, poor or incomplete
+planning, forecast errors, and so on. In essence, enhanced visibil-
+ity and associated ability to better plan and forecast via internal
+integration is exchanged for inventory (cf. Wang and Wei 2007).
+According to the tenets of IPT, this is accomplished via effective
+information processing and sense-making that occurs via internal
+integration.
+
+that cross-departmental
+
+In the same way, we suggest
+
+that more complete planning
+made possible through internal integration should produce pro-
+duction and logistics schedules that allow asset managers to more
+fully utilize existing ﬁxed assets. Consistent with IPT, faster,
+more complete, and more accurate information processing capac-
+ity gives asset managers more advanced notice of the need to
+scale asset resources up or down (cf. Wang and Wei 2007), lead-
+ing to better overall utilization over time. Better decision making
+is enabled by a reduction in bounded rationality achieved via
+internal integration—a better mutual understanding and compre-
+hension can be accomplished (Sheremata 2000). Internal integra-
+tion also gives asset managers a voice in demand and supply
+planning, thereby enabling them to veto or modify decisions that
+would lead to rapid shocks or other volatilities that create
+extreme loads on productive assets. In these ways, internal inte-
+gration provides for creativity and coordination mechanisms
+
+(Galbraith 1974) that should lessen the need for buffer capacity,
+and lead to higher levels of asset productivity.
+
+H3: Internal integration is positively associated with asset
+
+productivity (ATO).
+
+internal
+
+According to the above arguments,
+
+integration pro-
+vides greater connectivity and coordination across ﬁrm functions
+(Galbraith 1974). We would expect that these beneﬁts are more
+important in organizations that comprise greater levels of supply
+chain process span. Akin to the notion of vertical integration,
+process span reﬂects the breadth and diversity of business activi-
+ties conducted by a ﬁrm (Swink and Way 1995). From a supply
+chain perspective, process span is evident in the breadth of sup-
+ply chain activities (i.e., manufacturing, distribution, retailing) in
+which the ﬁrm is engaged. Since the internal organizations of
+ﬁrms with greater process span include a broader mix of dispa-
+rate business activities and associated functional perspectives
+(Swink and Way 1995), we suggest that the potential beneﬁt of
+internal integration is greater in these settings.
+
+Our argument is grounded in IPT’s notion that internal inte-
+gration is motivated by the desire to reduce bounded rationality
+(Bergh 1998). Personnel who work in different functions occupy
+different thought worlds, pursue different objectives, and have
+different priorities. They are boundedly rational
+(Williamson
+1985), meaning they have biased preferences, and they lack full
+information when making decisions. Personnel occupying more
+disparate business activities are likely to have more disparate
+scopes of rationality. For instance, managers of retail operations
+have different perspectives than managers of manufacturing oper-
+ations. Since internal integration enables an organization to better
+synthesize information, put it into context, and facilitate more
+comprehensive decision-making,
+it works to reduce bounded
+rationality (Alexander 1991).
+
+Several researchers point to internal integration as a remedy
+the bounded rationality of organizational actors in ﬁrms
+for
+whose operations encompass broad sets of processes (Chikan
+2001; Schoenherr and Swink 2012). For example, Chikan (2001)
+integration makes operations smoother by
+argues that
+internal
+decreasing internal
+transaction costs associated with managing
+diverse, interdependent functions. Pagell (2004) argues that, by
+improving information ﬂows, collaborations, and awareness of
+functional interdependencies and biases, internal integration fos-
+ters better intra-ﬁrm, cross-functional goal alignment and better
+utilization of each function’s strengths and competencies. Consis-
+tent with IPT, the “processing” of information is enhanced.
+
+Our rationale is further grounded in the belief that, in a con-
+text where one can inﬂuence more value-adding processes (i.e.
+with greater process span), the beneﬁts of internal integration for
+greater performance are magniﬁed (since much more can be pos-
+itively effectuated by enhanced visibility and coordination made
+possible via internal integration). A greater breadth of activities
+is integrated, and associated information is shared, enhancing the
+decision making capabilities of supply chain managers,
+likely
+yielding better performance. Parallels can be found in prior
+research that has associated a greater span of control with an
+increase in the volume of decision inputs (Melnyk et al. 2004).
+Support is also provided by studies that have postulate the bene-
+ﬁts of integration between marketing and logistics (Chen et al.
+
+
+74
+
+M. Swink and T. Schoenherr
+
+2007), and between logistics and production (Gimenez and Ven-
+tura 2005).
+
+Finally, a ﬁrm that controls a variety of supply chain activities
+may be more prone to divisionalize tasks (e.g., have the manu-
+facturing function separate from the distribution function). We
+expect that, in environments characterized by wider process span,
+the potential derived via internal integration is magniﬁed, due to
+the ability to beneﬁcially impact many more functions and con-
+stituents. A shared understanding can be developed across the
+functions, and task coordination can be enhanced (Stank et al.
+1999). Such information processing capacity can even break
+down the “silo” mentality and reduce tendencies for local optimi-
+zation,
+thus enabling more global optimization (Lawrence and
+Lorsch 1967). Through internal integration, functional specialists
+obtain a broader and more informed picture of ﬁrm processes
+and objectives (Keller 2001), and are more likely to understand
+and utilize ﬁrm resources located in different departments (these
+represent key beneﬁts postulated by IPT). Accordingly, we
+expect
+integration are magniﬁed
+when a ﬁrm’s activities span a broader set of supply chain opera-
+tional processes.
+
+the beneﬁts of internal
+
+that
+
+H4: Supply chain process span positively moderates the
+
+association of internal integration with (a) ﬁrm proﬁt-
+ability (ROA), (b) process efﬁciency (ROS), and (c)
+asset productivity (ATO).
+
+METHODOLOGY
+
+Data collection and sample
+
+The foregoing hypotheses are tested by making use of both pri-
+mary and secondary data sources. We analyze primary data col-
+lected in multiple rounds of the Global Survey of Supply Chain
+Progress, administered in 2007, 2008, and 2011 (surveys con-
+ducted in other years did not include internal integration vari-
+ables). These surveys were co-sponsored by the authors,
+the
+Council of Supply Chain Management Professionals, Computer
+Science Corporation, and the magazines Supply Chain Manage-
+ment Review and Supply Chain Europe. In addition, we matched
+the survey data with the ﬁrms’ ﬁnancial records found in COM-
+PUSTAT, a database containing ﬁnancial information on publicly
+traded ﬁrms.
+
+Survey invitations were sent to supply chain executives and
+managers in procurement, operations, and logistics functions
+drawn from readers of the Supply Chain Management Review,
+clients of the Computer Sciences Corporation’s supply chain
+consulting division, and a list of former participants of supply
+chain executive education programs at a large Midwestern uni-
+versity. The survey was further advertised on the journal and
+participating corporate websites. A total of 609 usable responses
+were received, 141 for 2007, 262 for 2008, and 206 for 2011.
+
+Survey respondents’ ﬁrms were matched to their ﬁnancial
+records in COMPUSTAT. The availability of data was limited
+due to the fact that some of the survey respondents did not pro-
+vide company name information, and many were from privately
+held and/or non-U.S. ﬁrms. Nevertheless, a total of 115 respon-
+
+dents could successfully be matched to their ﬁrms’ ﬁnancial
+records. The distribution of records across the three years of data
+collection is 30 unique companies from 2007, 32 unique compa-
+nies from 2008, and 47 unique companies from 2011. Six com-
+panies were represented in more than one year; we averaged the
+responses for these six observations.
+
+Overall, the sampled ﬁrms represent many different industries;
+the largest categories include process manufacturing (13.9%),
+consumer goods (10.4%), discrete manufacturing (11.3%), and
+retail (13.9%). A total of 73.0% of the ﬁrms were involved in
+manufacturing, 32.2% were involved in retail, and 73.9% were
+involved in distribution. All respondent ﬁrms were involved in at
+least one of these three supply chain activities, and 39.1% also
+identiﬁed additional business activities in which they were
+engaged (e.g., services, research and development/design). The
+sample includes a wide range of ﬁrm sizes; annual sales ranged
+from $12M to $393B. Quartile cutoffs were $2.1B, $7.9B, and
+$24.9B, respectively.
+
+Respondents to the survey were supply chain executives
+embedded in ﬁrms located throughout the world. Based on the
+key informant approach, we screened the responses and elimi-
+nated informants whose titles were not directly related to a sup-
+ply chain function (Wall et al. 2004). We obtained responses
+from individuals holding a range of managerial positions, includ-
+ing executive managers (C-level executive, Executive Vice Presi-
+dent, Senior Vice President, and Vice President—29.6%), upper
+managers (Senior Director, Director, Head—36.5%), managers
+(Senior Manager, Manager—24.3%), and various other positions
+(Analyst, Buyer, Planner, Specialist—9.6%). This distribution
+indicates that a large majority of respondents (90.4%) held a rank
+of manager or higher, suggesting that they have relevant knowl-
+edge regarding the survey content.
+
+Based on the survey design,
+
+the total number of contacted
+potential respondents who met our criteria is unknown, making
+the calculation of a response rate not possible. Therefore, we
+used respondent data and general industry information to assess
+response biases and sample representativeness. Speciﬁcally, in a
+ﬁrst test we compared the mean ROA values of the sampled
+ﬁrms with their respective industry median values; the difference
+was not statistically signiﬁcant (p = .474). In a second test we
+assessed differences in the responses for all measurement items
+across early (ﬁrst 25%) and late respondents (last 25%) in each
+survey (Armstrong and Overton 1977). Again, none of the differ-
+ences were statistically signiﬁcant. Hence, we conclude that non-
+response bias is not a serious concern.
+
+Measures
+
+Measures for internal integration were collected via the survey.
+Our work focuses on the role of internal integration in managing
+on-going supply chain planning and execution; we therefore omit
+integration efforts related to product development and technology
+innovation (e.g., Handﬁeld et al. 1999; Dr€oge et al. 2004; Kouft-
+eros et al. 2005, 2010; Narasimhan et al. 2010). The items for
+our study, which were adapted from prior research (Narasimhan
+and Kim 2002; Koufteros et al. 2005), assess the extent to which
+intra-ﬁrm functional teams (operations, logistics, sales, market-
+ing, supply management) work together to accomplish supply
+chain planning and execution (Schoenherr and Swink 2012). As
+
+
+Effects of Cross-Functional Integration
+
+they tap directly into the underlying notions of IPT as
+such,
+articulated by Galbraith (1973, 1974). Respondents were pre-
+sented with a set of statements to which they were asked to indi-
+cate their degree of agreement on a 5-point Likert
+scale
+(Appendix B).
+
+To measure supply chain process span, the surveys assessed
+the simultaneous ownership of several SCM activities, including
+manufacturing, distribution, and retail (Stearns et al. 1995). We
+asked respondents to indicate whether manufacturing, distribu-
+tion, and retail activities, respectively, were conducted by the
+ﬁrm. We computed a process span score of 1, 2, or 3 based on
+the number of activities conducted by the ﬁrm.
+
+For the dependent variables, we computed ROA, ROS, and
+ATO values using data supplied by the COMPUSTAT database.
+ROA is calculated as operating income (Sales—COGS—SG&A
+expense) divided by total net assets. Note that we ignored
+expenses such as taxes, depreciation, and extraordinary items in
+order to assess operating performance more directly, and to limit
+the possibility of outliers due to extraneous causes (Hendricks and
+Singhal 1997). ROS is calculated as operating income divided by
+sales. ATO is calculated as sales divided by total net assets. In
+order to explore the components of these performance ratios, we
+also computed gross margin (GM = 1—COGS/Sales), the margin
+for selling, general and administrative expenses (SGAM = 1—
+(CAT = Sales/Current
+SG&A/Sales),
+Assets), and the plant, property, and equipment proportion of ﬁxed
+asset turns (PPET = Sales/Net Plant, Property, and Equipment). In
+order to account for variances in these measures over time, we
+computed an average for each of the performance scores for
+each respondent over two years, the year of the survey and the
+immediate subsequent year. Averaging over
+two years helps
+smooth out some of the variance in performance due to general
+economic conditions in any given year. To control for industry
+differences, we adjusted each of the dependent variable scores
+for each company by subtracting the median value of each variable
+for all the companies listed in the sample company’s industry
+(three-digit Standard Industrial Classiﬁcation). Thus, adjusted
+ROAi = ROAi   ROAmedian.
+
+turnover
+
+current
+
+asset
+
+In addition to these primary variables, several control vari-
+ables were collected, via both the survey and the COMPU-
+STAT database. To control for ﬁrm size and time frame of the
+data, we included the log-transformed sales of the company,
+and two dummy variables indicating the year in which the sur-
+vey was conducted. To control for halo effects, we included a
+survey question asking the respondent to indicate his/her ﬁrm’s
+overall level of supply chain competence, relative to other ﬁrms
+in the industry. In addition, we included a three-item scale ask-
+ing respondents to indicate their ﬁrm’s usage level of informa-
+tion technologies
+these
+factors helps to separate the effects of achieved internal integra-
+tion from respondents’ overall positive feelings about the orga-
+nization, and from the effects of
+supporting infrastructural
+technologies.
+
+(see Appendix B). Controlling for
+
+To further isolate the contribution of internal integration from
+extraneous effects, we controlled for supplier integration and cus-
+tomer integration (Flynn et al. 2010). Supplier integration refers
+to coordination and information sharing activities with key sup-
+pliers, leading to, for instance, more effective planning and fore-
+casting (Bowersox et al. 1999; Ragatz et al. 2002). Customer
+
+Table 1: Conﬁrmatory factor analysis results
+
+Construct
+
+Variable Loading
+
+Std.
+Error
+
+Critical
+
+ratio
+
+Internal
+integration
+a = .873
+CR = .891
+AVE = .578
+
+Supplier
+integration
+a = .827
+CR = .861
+AVE = .557
+Customer
+integration
+a = .785
+CR = .827
+AVE = .500
+
+II1
+II2
+II3
+II4
+II5
+II6
+SI1
+SI2
+SI3
+SI4
+SI5
+CI1
+CI2
+CI3
+CI4
+CI5
+
+.729
+.749
+.728
+.789
+.633
+.759
+.652
+.870
+.655
+.653
+.678
+.756
+.772
+.777
+.428
+.573
+
+–
+.187
+.175
+.195
+.180
+.190
+–
+.209
+.198
+.223
+.209
+–
+.279
+.224
+.243
+.214
+
+–
+5.796
+5.638
+6.097
+4.900
+5.870
+–
+5.486
+4.557
+4.542
+4.686
+–
+5.789
+5.828
+3.239
+4.354
+
+75
+
+R2
+
+.531
+.560
+.530
+.622
+.401
+.575
+.425
+.757
+.430
+.426
+.460
+.572
+.595
+.604
+.183
+.329
+
+Note AVE, average variance extracted; CI, customer integration; CR,
+composite reliability; II, internal integration; SI, supplier integration.
+
+integration is deﬁned as close collaboration and information shar-
+ing with key customers, yielding strategic insight
+into market
+expectations and enabling a more efﬁcient and effective response
+to customer needs (Swink et al. 2007; Wong et al. 2011). Items
+for supplier and customer integration were adapted from prior
+research (Koufteros et al. 2005; Li et al. 2005; Swink et al.
+2007), and assessed the degree to which more involved, synchro-
+nized and proactive relationships are sought with suppliers or
+customers (Schoenherr and Swink 2012). These two variables
+were included only in the 2007 and 2008 surveys.
+
+Finally, we recognized the potential mismatch between the
+reporting units for the surveys and for the ﬁnancial data. The
+ﬁnancial data represent performance for the entire ﬁrm, whereas
+survey respondents may have given information pertaining to all
+or only a part of the ﬁrm. To control for this effect, we included
+a question asking the respondent to indicate the organizational
+level that his/her responses represented (see Appendix B). This
+question, which we used as a control variable in a robustness
+test, was included only in the 2007 and 2008 surveys.
+
+Validity and reliability of the multi-item scales were assessed
+via approaches suggested by Anderson and Gerbing (1988). Spe-
+ciﬁcally, the adaptation of the measurement items from extant
+research, and their subsequent reﬁnement with academics and
+industry professionals, ensured content validity. The coefﬁcients
+estimated from the sample data loaded signiﬁcantly on their
+underlying construct, being indicative of convergent validity
+(Table 1). Discriminant validity was established by the square-
+roots of the average variance extracted (AVE) being greater than
+the corresponding correlations. Reliability was provided by satis-
+factory Cronbach’s alpha and composite reliability values. A
+composite score was computed for each factor by averaging the
+scores of the factor items. Summary statistics and correlations
+are provided in Table 2.
+
+
+76
+
+M. Swink and T. Schoenherr
+
+*
+*
+*
+9
+7
+3
+
+.
+
+1
+
++
+7
+7
+1
+
+3
+3
+0
+ 
+
+.
+
+.
+
+1
+
+5
+4
+1
+
+.
+
+3
+1
+0
+
+.
+
+9
+3
+0
+
+.
+
+1
+
++
+9
+5
+1
+
+.
+
+5
+6
+0
+
+.
+
+*
+*
+4
+6
+2
+
+.
+
+*
+*
+2
+6
+3
+
+.
+
+1
+
+*
+6
+0
+2
+
+.
+
+0
+0
+1
+
+.
+
+*
+*
+*
+8
+2
+4
+
+.
+
+2
+4
+0
+ 
+
+1
+0
+1
+ 
+
+.
+
+.
+
+1
+
+*
+9
+2
+2
+
+.
+
++
+2
+7
+1
+
+.
+
+1
+9
+0
+
+.
+
+8
+5
+0
+
+.
+
++
+0
+7
+1
+
+5
+2
+0
+ 
+
+.
+
+.
+
+1
+
+*
+*
+*
+0
+6
+5
+
+.
+
+1
+
+6
+1
+1
+
+.
+
+3
+8
+0
+
+.
+
+8
+6
+0
+
+.
+
+*
+*
+8
+5
+2
+
+.
+
+8
+5
+0
+
+.
+
+5
+3
+1
+
+.
+
+*
+*
+1
+9
+2
+
+.
+
+4
+2
+1
+
+.
+
+9
+7
+0
+
+.
+
+1
+
+6
+1
+1
+
+9
+3
+0
+ 
+
+.
+
+.
+
+*
+*
+*
+8
+2
+3
+
+.
+
+8
+3
+0
+ 
+
+.
+
+5
+6
+0
+
+.
+
+*
+7
+9
+1
+ 
+
++
+9
+6
+1
+ 
+
+.
+
+.
+
+1
+
+2
+2
+0
+
+.
+
+0
+2
+0
+
+.
+
+0
+7
+1
+
+.
+
+*
+2
+9
+1
+
+.
+
+1
+2
+1
+ 
+
+5
+0
+0
+ 
+
+7
+5
+0
+ 
+
+.
+
+.
+
+.
+
+*
+*
+*
+8
+9
+7
+
+.
+
+1
+
+*
+*
+*
+3
+3
+7
+
+.
+
+*
+*
+*
+3
+4
+5
+
+.
+
+1
+
+*
+*
+*
+3
+3
+4
+
+.
+
+0
+8
+0
+ 
+
+.
+
+*
+*
+*
+0
+8
+3
+
+.
+
++
+8
+6
+1
+
+.
+
+*
+1
+0
+2
+
+.
+
+*
+2
+2
+2
+
+.
+
+2
+5
+1
+
+.
+
+6
+6
+0
+
+.
+
+*
+*
+*
+3
+6
+4
+
+.
+
+*
+*
+3
+0
+3
+
+.
+
+*
+*
+8
+8
+2
+
+.
+
+9
+5
+1
+
+.
+
+0
+9
+0
+
+4
+3
+0
+ 
+
+1
+1
+0
+ 
+
+.
+
+.
+
+.
+
+9
+1
+1
+
+3
+1
+0
+ 
+
+.
+
+.
+
+1
+0
+1
+
+.
+
+6
+7
+1
+
+.
+
+5
+1
+3
+
+.
+
+7
+8
+2
+
+.
+
+3
+9
+1
+
+.
+
+3
+3
+7
+
+.
+
+9
+5
+4
+1
+
+.
+
+9
+8
+4
+
+.
+
+5
+1
+
+8
+6
+7
+
+.
+
+3
+3
+6
+
+.
+
+2
+4
+8
+
+.
+
+7
+5
+5
+
+.
+
+9
+6
+0
+1
+
+.
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+v
+e
+D
+d
+t
+S
+
+n
+a
+e
+M
+
+4
+1
+0
+ 
+
+.
+
+2
+4
+0
+
+.
+
+2
+8
+0
+
+3
+4
+0
+ 
+
+.
+
+.
+
+4
+8
+0
+
+.
+
+2
+7
+1
+
+.
+
+0
+4
+3
+3
+
+.
+
+5
+8
+1
+3
+
+.
+
+3
+4
+8
+
+.
+
+1
+
+5
+4
+8
+3
+
+.
+
+5
+7
+0
+2
+
+.
+
+6
+4
+3
+3
+
+.
+
+n
+o
+i
+t
+a
+r
+g
+e
+t
+n
+i
+
+l
+a
+n
+r
+e
+t
+n
+I
+
+n
+a
+p
+s
+
+s
+s
+e
+c
+o
+r
+p
+
+C
+S
+
+A
+O
+R
+j
+d
+a
+
+S
+O
+R
+j
+d
+a
+
+M
+G
+j
+d
+a
+
+M
+A
+G
+S
+j
+d
+a
+
+O
+T
+A
+j
+d
+a
+
+T
+A
+C
+j
+d
+a
+
+T
+E
+P
+P
+j
+d
+a
+
+.
+
+1
+
+.
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+5
+
+.
+
+6
+
+.
+
+7
+
+.
+
+8
+
+.
+
+9
+
+e
+s
+u
+
+y
+g
+o
+l
+o
+n
+h
+c
+e
+T
+
+e
+c
+n
+e
+t
+e
+p
+m
+o
+c
+
+C
+S
+
+s
+e
+l
+a
+S
+g
+o
+L
+
+.
+
+0
+1
+
+.
+
+1
+1
+
+.
+
+2
+1
+
+;
+n
+i
+a
+h
+c
+
+y
+l
+p
+p
+u
+s
+
+,
+
+C
+S
+
+;
+s
+e
+l
+a
+s
+-
+n
+o
+-
+n
+r
+u
+t
+e
+r
+
+,
+
+S
+O
+R
+
+;
+s
+t
+e
+s
+s
+a
+-
+n
+o
+-
+n
+r
+u
+t
+e
+r
+
+,
+
+A
+O
+R
+
+;
+r
+e
+v
+o
+n
+r
+u
+t
+
+t
+n
+e
+m
+p
+i
+u
+q
+e
+
+d
+n
+a
+
+,
+
+y
+t
+r
+e
+p
+o
+r
+p
+
+,
+t
+n
+a
+l
+p
+
+,
+
+T
+E
+P
+P
+
+;
+n
+i
+g
+r
+a
+m
+
+s
+s
+o
+r
+g
+
+,
+
+M
+G
+
+;
+r
+e
+v
+o
+n
+r
+u
+t
+
+t
+e
+s
+s
+a
+
+t
+n
+e
+r
+r
+u
+c
+
+,
+
+T
+A
+C
+
+;
+r
+e
+v
+o
+n
+r
+u
+t
+
+t
+e
+s
+s
+a
+
+,
+
+O
+T
+A
+
+:
+s
+e
+t
+o
+N
+
+.
+
+n
+i
+g
+r
+a
+m
+
+s
+e
+s
+n
+e
+p
+x
+e
+
+e
+v
+i
+t
+a
+r
+t
+s
+i
+n
+i
+m
+d
+a
+
+.
+
+1
+
+.
+
+<
+
+p
++
+
+,
+
+5
+0
+
+.
+
+<
+
+d
+n
+a
+
+p
+*
+
+,
+l
+a
+r
+e
+n
+e
+g
+
+,
+g
+n
+i
+l
+l
+e
+s
+
+,
+
+M
+A
+G
+S
+
+,
+1
+0
+.
+
+<
+
+p
+*
+*
+
+,
+1
+0
+0
+.
+
+<
+
+p
+*
+*
+*
+
+STATISTICAL ANALYSIS AND RESULTS
+
+We use ordinary least squares regression analyses to test our
+hypotheses. Table 3 summarizes the results for the regression
+models. For each dependent variable, three regression models are
+presented: model 1 includes the control variables, model 2 adds
+the main effects of process span and internal integration, and
+model 3 adds the interaction between process span and internal
+integration. We remind the reader that all dependent variables
+have been adjusted by subtracting industry median values in
+order to control for extraneous industry effects.
+
+Hypothesis tests
+
+H1 suggests that internal integration is positively associated with
+ROA. In model ROA2, the standardized beta coefﬁcient of internal
+integration is positive and highly signiﬁcant (b = .330, p < .01),
+providing strong support for H1. Regarding the control variables,
+only the survey year dummy variables are signiﬁcant, being posi-
+tively associated with ROA. The R-squared for the model
+is
+20.4%. We consider this amount of explained variance to be sub-
+stantial, especially given the wide number of potential contributors
+to overall ﬁrm proﬁtability. In addition, the F-value indicates that
+the model is highly signiﬁcant.
+
+H2 suggests a positive and signiﬁcant
+
+inﬂuence of internal
+integration on ROS, which represents the efﬁciency aspect of
+overall ﬁrm performance. The results provide support for H2, as
+the coefﬁcient in model ROS2 is signiﬁcant (b = .263, p < .05).
+As before, the survey year dummies are the only control vari-
+ables that are signiﬁcant
+in the ROS models. The R-squared
+value for the ROS2 model is 14.1% (again a substantial amount
+of explained variance) and the F-value indicates that the model
+is signiﬁcant.
+
+H3 posits a positive inﬂuence of internal integration on pro-
+ductivity, as measured by ATO. This relationship is not sup-
+ported by our data (b = .072, ns). While the R-squared value for
+the ATO2 model is 9.7% (driven by the time frame control vari-
+able for 2008), the F-values indicate that the model is not statis-
+tically signiﬁcant.
+
+H4a–c state that supply chain process span positively moder-
+ates the effects of internal integration on each of the foregoing
+performance variables, respectively. Model ROA3 in Table 3
+shows that the interaction of process span and internal integration
+is positive and signiﬁcant (b = .210, p < .05), thus supporting
+H4a. The model also experienced a signiﬁcant increase in vari-
+ance explained, with the R-squared value of ROA3 being 24.5%.
+The comparable coefﬁcients in models ROS3 and ATO3 are not
+signiﬁcant, and provide no support for H4b and H4c (variance
+explained did not improve for both models, and was at 15.0%
+and 11.2%, respectively).
+
+Exploratory tests of associations with components of
+efﬁciency and productivity
+
+To bring further insight into how internal integration might affect
+the underlying process structures that drive ROS and ATO, we
+assessed the inﬂuence of internal integration on their major com-
+ponents. For ROS,
+these components include mid-level proﬁt
+measures addressing two major cost/expense categories, GM
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+d
+n
+a
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+
+y
+r
+a
+m
+m
+u
+S
+
+:
+2
+
+e
+l
+b
+a
+T
+
+
+Effects of Cross-Functional Integration
+
+77
+
+Table 3: Regressions of adjusted return-on-assets (ROA), return-on-sales (ROS), and asset turnover (ATO) on predictors
+
+ROA1
+
+ROA2
+
+ROA3
+
+ROS1
+
+ROS2
+
+ROS3
+
+ATO1
+
+ATO2
+
+ATO3
+
+LogSales
+Year08
+Year11
+Technology use
+SC competence
+SC process span
+Internal integration
+SC process span 9 Internal integration
+R-squared
+Adjusted R-squared
+F
+
+.161
+.265*
+.230*
+ .108
+.154
+
+.089
+.042
+1.913+
+
+.088+
+.281*
+.251*
+ .150
+.043
+.154+
+.330**
+
+.204
+.146
+3.518**
+
+.074
+.265*
+.242*
+ .151
+.072
+.114
+.323**
+.210*
+.245
+.182
+3.862***
+
+.146
+.196+
+.243*
+ .062
+.012
+
+.059
+.011
+1.240
+
+.086
+.214+
+.264*
+ .095
+ .077
+.151
+.263*
+
+.141
+.079
+2.266*
+
+.081
+.207+
+.260*
+ .095
+ .063
+.131
+.259*
+.103
+.150
+.080
+2.126*
+
+.050
+.225*
+.037
+.053
+.190
+
+.046
+.226+
+.031
+.044
+.164
+ .046
+.072
+
+.091
+.046
+2.010+
+
+.097
+.032
+1.503
+
+.056
+.229*
+.030
+.045
+.147
+ .026
+.080
+ .127
+.112
+.039
+1.533
+
+Notes: SC, supply chain.
+***p < .001, **p < .01, *p < .05, +p < .1.
+
+Table 4: Regressions of components of return-on-sales: adjusted gross (GM) margin and adjusted sales, general, and administrative
+expense (SGAM) margin, on predictors
+
+LogSales
+Year08
+Year11
+Technology use
+SC competence
+SC process span
+Internal integration
+SC process span 9 Internal integration
+R-squared
+Adjusted R-squared
+F
+
+Notes: SC, supply chain.
+*p < .05, +p < .1.
+
+GM1
+ .112
+.049
+.164
+.029
+ .070
+
+.040
+ .004
+.916
+
+GM2
+ .174+
+.068
+.192+
+.007
+ .158
+.221*
+.235*
+
+.137
+.080
+2.417*
+
+GM3
+ .173+
+.069
+.192+
+.007
+ .160
+.226*
+.236*
+ .022
+.137
+.072
+2.103*
+
+SGAM1
+
+SGAM2
+
+SGAM3
+
+.238*
+.227*
+.261*
+ .048
+ .062
+
+.099
+.057
+2.349*
+
+.243*
+.226*
+.256*
+ .053
+ .066
+ .048
+.027
+
+.102
+.042
+1.697
+
+.236*
+.215*
+.250*
+ .053
+ .033
+ .096
+.018
+.219*
+.146
+.081
+2.229*
+
+(i.e., 1   Cost of Goods Sold/Sales) and SG&A expense margin
+(SGAM). Table 4 provides regression results for these two mea-
+sures of cost efﬁciency. Interestingly,
+the results indicate that
+internal integration is signiﬁcantly associated with improved GM
+(see models GM2 and GM3). However, the interaction of inter-
+nal integration with supply chain process span is signiﬁcantly
+positive only for SGAM (see model SGAM3).
+
+We further investigated relationships between internal integra-
+tion and components of ATO that measure productivities of two
+primary asset classes, CAT and PPET. The results, shown in
+Table 5,
+integration on
+CAT is not signiﬁcant. Similarly, the association of internal inte-
+gration with PPET is also not statistically signiﬁcant.
+
+the inﬂuence of internal
+
+indicate that
+
+Robustness test
+
+As a robustness check of the ﬁndings against possible confounds
+and sampling issues, we repeated the regression analyses for
+
+adjusted ROA,
+this time adding three additional control vari-
+ables. Some ﬁrms may pursue multiple integration efforts simul-
+taneously. Accordingly, we added controls for customer and
+supplier integration. As mentioned in the Methodology section
+above, we also recognized the possibility of reporting effects due
+to mismatches between the unit
+for which the respondents
+reported and the unit for which ﬁnancial data were available. To
+address this issue, we included the control variable for organiza-
+tional reporting level. Data for these control variables were only
+available in the 2007 and 2008 surveys, so the analyses are lim-
+ited to those samples. However, the test using this subset of the
+data allows a check of the robustness of the results to sampling
+issues.
+
+Table 6 shows the regression results. None of the additional
+control variables are signiﬁcant. However, the main and interac-
+tion effects of
+integration on adjusted ROA remain
+strongly signiﬁcant. These ﬁndings suggest that the support for
+the hypotheses is robust to the identiﬁed issues.
+
+internal
+
+
+78
+
+M. Swink and T. Schoenherr
+
+Table 5: Regressions of components of asset turnover: current asset turnover (CAT) and plant, property, and equipment turnover
+(PPET), on predictors
+
+LogSales
+Year08
+Year11
+Technology use
+SC competence
+SC process span
+Internal integration
+SC process span 9 Internal integration
+R-squared
+Adjusted R-squared
+F
+
+Notes: SC, supply chain.
+**p < .01, *p < .05, +p < .1.
+
+CAT1
+
+.150
+.203+
+.121
+.041
+.013
+
+.044
+.000
+1.006
+
+CAT2
+
+.114
+.213+
+.141
+.036
+ .023
+.178+
+.080
+
+.081
+.021
+1.341
+
+CAT3
+
+.118
+.216+
+.142
+.035
+ .032
+.192+
+.083
+ .063
+.085
+.015
+1.221
+
+PPET1
+
+.023
+ .078
+ .281*
+.039
+.222*
+
+.120
+.075
+2.699*
+
+PPET2
+
+.037
+ .089
+ .318**
+.021
+.177+
+ .229*
+.141
+
+.182
+.123
+3.083**
+
+PPET3
+
+.041
+ .087
+ .318**
+.021
+.169
+ .221*
+.144
+ .053
+.185
+.117
+2.716**
+
+Table 6: Regressions of return-on-assets (ROA) on predictors
+including additional control variables, 2007 and 2008 data only
+
+LogSales
+Year08
+Organizational level
+Technology use
+SC competence
+Customer integration
+Supplier integration
+SC process span
+Internal integration
+SC process span 9 Internal
+integration
+R-squared
+Adjusted R-squared
+F
+
+ROA1
+
+ROA2
+
+ROA3
+
+.115
+.341*
+ .080
+.115
+ .175
+.214
+ .069
+
+.029
+.405**
+ .035
+.099
+ .172
+.025
+ .158
+.103
+.434**
+
+.012
+.384**
+ .031
+.112
+ .140
+.009
+ .112
+.100
+.381**
+.237*
+
+.181
+.082
+1.827***
+
+.317
+.207
+2.886**
+
+.368
+.253
+3.201**
+
+Notes: SC, supply chain.
+***p < .001, **p < .01, *p < .05.
+
+DISCUSSION AND IMPLICATIONS
+
+We designed this study to extend prior research and practice per-
+taining to internal integration. While the importance of internal
+integration is largely unquestioned, much scholarly work on
+internal integration has been descriptive, has offered limited theo-
+retical development, and has failed to provide strong evidence
+for the relationship between internal
+integration and proﬁt. In
+addition, managers feel that actual practice has much room for
+improvement (Poirier et al. 2008). Within this context, we add
+rigor and relevance to the study of internal integration by mea-
+suring achieved internal
+integration, by deeply grounding our
+expectations in IPT, by investigating the direct effect of internal
+integration on performance using objectively reported ﬁnancial
+metrics, and by studying the contingency of supply chain process
+
+span. Two of our hypotheses are supported, one is partially sup-
+ported, and one failed to receive support. The insights from these
+ﬁndings, as described below, provide intriguing implications for
+the applicability of IPT to the study of internal integration. Of
+particular interest is the differentiated impact of internal integra-
+tion on various ﬁnancial performance measures, enabling us to
+propose a more speciﬁc theory of internal integration through the
+lens of IPT.
+
+Grounding our expectations in IPT, we ﬁrst theorized the posi-
+tive association of internal
+integration with proﬁtability, mea-
+sured by ROA (H1). The data strongly support this hypothesis,
+consistent with the assertion that enhanced information process-
+ing capabilities are provided by internal
+integration (Galbraith
+1973). Internal integration is achieved when supporting organiza-
+tional infrastructures and processes enable the effective and accu-
+rate processing of information,
+including its dissemination to
+appropriate constituents within the ﬁrm. This enhances visibility,
+reduces uncertainty, and enables effective decision making. Inte-
+gration mechanisms, such as the use of teams, also provide for
+give-and-take discussions of new information; thus clariﬁcations
+can be made, equivocality can be addressed, and bounded ratio-
+nality can be overcome. Through processing information in these
+ways, more comprehensive situation assessments can be made,
+better deployments of resources can be initiated, functional goals
+and plans can be better aligned, and redundancies and uncer-
+tainty buffers can be reduced. In these ways, proﬁtability (ROA)
+can be increased.
+
+In order to add rigor and relevance to the investigation of
+internal
+integration’s impact on ROA, we sought additional
+insight into the ﬁnancial evidence for the various beneﬁts iden-
+tiﬁed above. Accordingly, we independently theorized and
+tested the positive association of
+integration with
+ROA’s components: ROS (H2, process efﬁciency) and ATO
+(H3, asset productivity). The support for our second hypothesis
+suggests that internal integration produces greater planning and
+process efﬁciencies, as evidenced by higher levels of ROS. In-
+frastructural mechanisms afforded by internal
+integration can
+streamline, improve, and potentially automate information ﬂows,
+
+internal
+
+
+Effects of Cross-Functional Integration
+
+79
+
+thus reducing both direct execution costs and indirect overhead
+costs.
+
+thus lowering direct costs. In contrast,
+
+Our ﬁne-grained analyses provide evidence of
+
+integration
+beneﬁts for both direct and indirect cost elements, as reﬂected
+in higher GM and SGAM, respectively. The GM ﬁnding dem-
+onstrates the positive inﬂuence of internal
+integration on the
+percent of total sales revenue the ﬁrm retains after considering
+all COGS. This comports well with the efﬁciency arguments
+founded in IPT; internal integration offers information process-
+ing mechanisms that enable the ﬁrm to operate more efﬁ-
+ciently,
+the efﬁciency
+effects of internal
+integration on SGAM appear to be signiﬁ-
+cant only for ﬁrms that operate broader sets of supply chain
+business processes. From an IPT perspective, this again makes
+sense; where GM is primarily a measure of the efﬁciency in
+the usage of direct
+resources (material purchases and direct
+labor expenses), SGAM reﬂects efﬁciencies in indirect pro-
+cesses, including the management of transactions, coordination
+costs, overhead costs, and indirect labor costs. It seems sensi-
+ble under an IPT perspective that indirect costs are raised by
+the number of different business processes that the ﬁrm man-
+ages, as the number and breadth of uncertainties are raised,
+and the potential
+for competing functional biases (bounded
+rationality) is heightened. Information processing capacity pro-
+vided by internal
+integration is therefore likely to be more
+important
+in broad-span ﬁrms, as a means to manage these
+added challenges.
+
+Collectively, these ﬁndings suggest that, for ﬁrms with both
+narrow and wide scopes of process span, operating process efﬁ-
+ciencies gained through internal integration apply to direct cost
+savings in areas of purchase costs, direct labor costs, logistics
+costs directly attributable to speciﬁc products, and other elements
+of COGS. The IPT perspective suggests that these direct cost
+savings reﬂect greater process efﬁciencies from more accurate,
+consistent, and synchronized actions across procurement, produc-
+tion, and delivery. However, ﬁrms that engage in wider sets of
+business activities might also expect to see beneﬁts from internal
+integration in areas of indirect costs, which include corporate
+overheads, managerial salaries, systems costs, and other elements
+of SG&A. Greater information processing capacity is thought to
+make the transactional and coordination processes that absorb
+these types of costs more efﬁcient. The importance of our contri-
+bution lies in the conﬁrmation of the logical arguments devel-
+oped and grounded in IPT, offering a level of theorizing that
+delves deeper into the underlying rationales. Speciﬁcally, we
+have identiﬁed an important boundary condition pertaining to the
+applicability of IPT. Beneﬁts derived from information process-
+ing capabilities materialize in greater SGAM only among ﬁrms
+with greater process span, due to their need to coordinate across
+a broader mix of functions.
+
+internal
+
+Our ﬁndings for process efﬁciency gains are in line with fore-
+going researchers that have suggested the boundary-spanning nat-
+ure of
+integration improving the interface between
+functions (e.g., Swink et al. 2007; Schoenherr and Swink 2012).
+The IPT suggests that this can be accomplished through the use
+of speciﬁc rules and programs, or by creating lateral relations
+through teams,
+liaison roles, and social networks (Galbraith
+1974). The formal nature of such structures enables the sharing
+of information across functional boundaries, while at the same
+
+independence. All
+
+In addition, cross-departmental
+
+these efforts
+time upholding departmental
+serve to reduce uncertainty regarding environmental and competi-
+tive conditions, and uncertainty in cross-departmental interdepen-
+dencies.
+interactions and data
+ﬂows can be streamlined, reducing organizational redundancy
+and duplication of effort. Increased visibility in company pro-
+cesses and available information enables more cohesive and
+coordinated decision making, and better planning, reducing non-
+value-added activities. The cumulative effect of associated efﬁ-
+ciency gains across affected processes is to lower operating costs,
+and thus improve ROS.
+
+Our third hypothesis, which theorized the effect of internal
+integration on asset productivity, is not supported by the data.
+This is true for the ATO measure, as well as for the underlying
+productivity elements that we explored, that is, CAT and PPET.
+We based our expectations on the IPT-inspired argument
+that
+more integrated planning processes should lower the need for
+buffer assets, and also enable higher levels of asset utilization
+(Narasimhan and Kim 2002; Rodrigues et al. 2004; Wong et al.
+2011). An explanation for the lack of a signiﬁcant ﬁnding may
+be that structural changes to physical assets are necessary to
+effectuate asset productivity improvements, and managers are
+either reluctant to make these changes, or are unaware that they
+can do so. For example, changes to plant, property, and equip-
+ment are not made easily or quickly, they typically occur in large
+chunks, and they take time to ramp up. While managers may
+observe steady, incremental improvements to direct and indirect
+costs as internal integration grows and planning improves, they
+may ﬁnd it more difﬁcult to implement step-function changes to
+physical capacity needed to attain capital cost improvements. We
+might expect that changes to current asset levels (inventories and
+cash) would be easier to make, yet opportunities for lowering
+such buffer assets might go unrecognized. Policy changes in
+these areas might also be resisted by personnel (e.g., marketing
+in the case of inventory, and ﬁnance in the case of cash) who
+view the changes as risky, especially if drops in uncertainty lev-
+els are not readily apparent. Overall, costs of capital are not as
+visible as costs of labor and materials, and so improvements to
+asset productivity may lag more transparent
+improvements to
+process efﬁciencies. It would be interesting for future research to
+examine our speculations regarding these effects. The larger
+implication that should be examined in future research is that
+internal integration beneﬁts appear to apply more towards efﬁ-
+ciency gains,
+than toward asset-oriented productivity
+gains.
+
+rather
+
+Our fourth hypothesis received mixed support. While supply
+chain process span positively moderated the relationship between
+internal integration and ROA, the moderation effect was signiﬁ-
+cant for none of the more speciﬁc cost elements, except for
+SGAM. As we explained above, the moderation effect of process
+span makes good sense as it pertains to SG&A processes, as
+these are the indirect and overhead processes that must often
+consolidate and rationalize inputs from varied business functions.
+It
+is not possible to determine whether these SGAM beneﬁts
+account for all of the signiﬁcant moderating effect at the ROA
+level, or if other small effects in other cost categories also accu-
+mulate to drive the signiﬁcant ROA result. We can say that the
+impacts of process span seem to be most salient in the elements
+associated with SG&A.
+
+
+80
+
+M. Swink and T. Schoenherr
+
+Table 7: Observations, calls to action, and future research
+
+Observations
+
+Internal integration is
+positively associated with
+ROA and ROS
+
+Internal integration is not
+associated with ATO
+
+Selective moderation of
+process span
+
+Applicability of IPT
+
+Calls to action and future research
+
+(cid:129) Does internal integration contribute to the generation of a supportive company culture that creates
+(cid:129) What other (less obvious) beneﬁts can be derived from internal integration that have not been
+
+greater ROA/ROS?
+
+investigated?
+
+(cid:129) Are asset productivities slower to develop as a result of internal integration, or are the effects truly
+(cid:129) Are certain internal integration practices more effective in generating certain performance outcomes
+
+not signiﬁcant?
+
+than others? For example, is formal internal integration more effective than informal internal
+integration?
+
+(cid:129) What internal integration practices are impacting which performance outcomes, and why? A more
+
+detailed investigation of speciﬁc practices and performance outcomes is needed
+
+(cid:129) What other factors moderate the relationship between internal integration and performance?
+(cid:129) Can additional mediating and moderating variables explain prior counterintuitive and contradictory
+
+ﬁndings?
+
+(cid:129) What are the speciﬁc effects of reductions in uncertainty, equivocality, and bounded rationality? Do
+these factors impact process efﬁciency more than asset productivity?
+(cid:129) Are there competing theories that would better explain these effects?
+(cid:129) Do IPT arguments also apply to external integration?
+(cid:129) What would IPT say about other outcomes of internal integration such as organizational ﬂexibility
+
+and changes to corporate culture?
+
+Note: ATO, asset turnover; IPT, information processing theory; ROA, return-on-assets; ROS, return-on-sales.
+
+Our post hoc analysis provides another
+
+interesting result.
+While the effects of internal integration remain signiﬁcant and
+substantial, effects of external integration appear to be mostly
+non-signiﬁcant (at least in the subset of data for which we had
+measures of external
+integration). The apparent differences in
+effects of internal versus external integration uncovered in this
+study suggest the need for future research to make comparative
+examinations of
+the independent and potentially interacting
+effects of different integration efforts on ﬁnancial performance.
+
+Signiﬁcant variation in the levels of achieved integration rep-
+resented in our sample suggests that integration opportunities are
+often either ignored or are difﬁcult to achieve. This is in line
+with recent studies that argued for internal integration requiring
+signiﬁcant organizational commitment (Ellinger et al. 2006; Ri-
+chey et al. 2010). As such, our ﬁnding solidiﬁes the potential for
+internal integration as a distinctive source of advantage.
+
+From a meta-theoretical perspective, our study adds both rigor
+and relevance to prior research that has investigated the inﬂuence
+of internal integration on performance. Most importantly, prior
+studies have consistently employed only perceptual measures of
+performance, collected via surveys (van der Vaart and van Donk
+2008; see Appendix A for empirical studies). For example,
+respondents were asked to indicate whether they judged their
+performance as being above or below the industry average (e.g.,
+Germain and Iyer 2006). We complement this inherently subjec-
+tive measure in the present research by objective ﬁnancial data
+from ﬁrms’ ﬁnancial records. To the best of our knowledge, the
+
+present research is the ﬁrst to utilize externally-collected perfor-
+mance measures to assess the impact of integration. This contri-
+bution provides empirical corroboration of a concept considered
+fundamental to SCM, and thus adds rigor to the investigation of
+internal integration and its effect on performance. As noted by
+Douglas and Craig (2005) and van Weele and van Raaij (2014),
+replicatory studies aimed at validating theory in different con-
+texts are essential for ascertaining the predictive validity and gen-
+eralizability of
+for ensuring rigor and
+relevance. From an even broader perspective, our research con-
+tributes to the scarce but emerging research in logistics and SCM
+that considers proﬁt measures drawn from external databases
+(Melnyk et al. 2004; Ellinger et al. 2011), alleviating concerns
+pertaining to common method bias.
+
+theory, as well as
+
+the lack thereof)
+
+This study also calls attention to the variety of theoretical
+lenses (or
+that have been drawn upon to
+develop expectations and explicate ﬁndings pertaining to internal
+integration. Such theoretical diversity can be useful, yet much of
+the foregoing theory is limited in that it addresses integration
+effects only vaguely and at rather high levels. Our study provides
+more concrete logical arguments that apply IPT to potential efﬁ-
+ciencies and productivities. Moreover, we use this theoretical
+lens to formulate speciﬁc hypotheses regarding process efﬁciency
+and asset productivity, as well as the moderating role of supply
+chain process span. Prior studies have not addressed performance
+effects at
+this level of speciﬁcity, nor have they tested such
+effects using unambiguous ﬁnancial data. In Table 7, we provide
+
+
+Effects of Cross-Functional Integration
+
+81
+
+more speciﬁc calls to action for managers and future research
+opportunities for academics, derived from our ﬁndings.
+
+From a practical perspective, we provide evidence for the sig-
+niﬁcant ﬁnancial value of internal integration, and offer motiva-
+tion for practitioners to pursue such efforts. We clariﬁed this link
+with commonly-accepted ﬁnancial metrics, as called for by Ellin-
+ger et al. (2011). The backing of integration beneﬁts by quantiﬁ-
+able results should help practitioners in making the case for the
+importance of internal
+integration. The lack of such evidence
+may explain, at least in part, deﬁciencies in internal integration
+perceived by managers (Poirier et al. 2008).
+
+Our results suggest that the potential effects of internal inte-
+gration are quite substantial. The data indicate that a ﬁrm that
+has a level of internal integration one standard deviation higher
+than other ﬁrms enjoys a 6.7 percentage points larger GM, an
+8.2 points larger ROS, and a 5.7 points larger ROA. These val-
+ues represent 25%, 76%, and 57% improvements over the sam-
+ple average values of these proﬁtability metrics, respectively.
+Hence, our results suggest
+that considerable improvements in
+proﬁts can come from greater internal integration. The promise
+of such gains should offer further motivation for managers to
+pursue process efﬁciencies from related investments.
+
+Our ﬁndings serve as a call to managers, especially to those
+who already “believe” in the value of internal integration, but
+who lack company support for implementation of the necessary
+organizational and technological changes. Our study provides
+hard evidence for the ﬁnancial beneﬁts of internal integration.
+In addition, our ﬁndings suggest that managers should look, at
+least initially, for improvements in direct process costs (COGS)
+as a result of internal integration, and recognize that asset pro-
+ductivities and associated capital cost
+improvements may take
+longer to materialize, if at all. Accordingly, we would expect
+improvements to show up on the income statement more than
+on the balance sheet. Because the creation of integration struc-
+tures (relationships and systems) mainly affects intangible fac-
+tors
+(information ﬂows, planning, decision making, cross-
+functional relations), managers will need to make measurements
+of
+tracking improvements in
+cost outcomes, but also evaluating changes in the quality of
+planning and collaboration across functions. We suggest
+that
+both types of measures are needed in order to build an appre-
+ciation of
+integration’s full effects, and to estimate its true
+return on investment. We thus issue a call to be persistent in
+the pursuit of
+internal
+rewards
+appear to be substantial.
+
+integration impacts intentional,
+
+integration, as the ﬁnancial
+
+CONCLUSION
+
+internal
+
+Most scholarly work in the domain of internal integration has
+been descriptive and theoretically underdeveloped (Frankel and
+Mollenkopf 2013). In addition, no previous research has utilized
+externally collected ﬁnancial data to assess the impact of integra-
+tion. Furthermore, while supply chain managers perceive their
+companies to have reached proﬁcient levels of external integra-
+tion, this is not the case for internal integration (Poirier et al.
+2008). We have aimed to overcome limitations
+in extant
+research, and have answered the question of whether internal
+integration concretely affects ﬁnancial performance. Our hypoth-
+eses on the effects of internal integration on performance metrics
+are grounded in IPT. Accordingly, we theorized and conﬁrmed
+the positive inﬂuence of
+integration on proﬁtability
+(ROA) and related process efﬁciencies (ROS, GM, and SGAM).
+This corroborates expectations inherent
+to IPT, and provides
+practical motivation for managers. However, our arguments asso-
+ciating internal integration with improved asset productivity are
+not supported. We provided possible explanations for this result.
+Although this research signiﬁcantly advances the rigor and rele-
+vance of internal integration research within the logistics and SCM
+domain, its contributions are tempered by its limitations, which
+also provide opportunities for future research. First, our sample
+relies mostly on large, publicly-traded U.S.-based ﬁrms, and the
+results are therefore not necessarily transferable to smaller enter-
+prises or ﬁrms that are not publicly-traded, or to other countries or
+cultures. Future research is encouraged to replicate our study in
+different contexts and countries to identify potential differences.
+We can imagine, for example, that the degree of individualism/col-
+lectivism associated with a certain culture has an inﬂuence on the
+efﬁcacy of internal integration in inﬂuencing performance out-
+comes. Second, our sample is restricted by the limited availability
+of ﬁnancial data for only a subset of companies represented in
+three surveys. We also note the potential mismatch between the
+reporting units for the surveys and the ﬁnancial data. While we
+aimed to control for this mismatch and our results were robust, we
+recognize this mismatch as a limitation. Future research is encour-
+aged to pursue such study with a more targeted data collection
+effort, maximizing the participation of publicly-traded ﬁrms for
+which ﬁnancial data are readily accessible. And third, our data are
+comprised of ﬁrms primarily in manufacturing, distribution, and
+retail industries. The ﬁndings are therefore not necessarily general-
+izable to other industries. It is our hope that the present research
+serves as a motivation for further investigation in this area.
+
+
+82
+
+APPENDIX A
+
+M. Swink and T. Schoenherr
+
+EMPIRICAL STUDIES OF ASSOCIATIONS BETWEEN INTERNAL SUPPLY CHAIN INTEGRATION (AS AN
+INDIVIDUAL CONSTRUCT) AND PERFORMANCE
+
+Operationalization of
+internal integration
+
+Theoretical foundation
+
+measures (all perceptual)
+
+Findings
+
+Performance/outcome
+
+Braunscheidel and
+Suresh 2009
+
+Frequency and richness
+of inter-departmental
+communications
+
+Marketing and learning
+orientation lead to
+internal integration
+
+External integration
+External ﬂexibility
+Supply chain agility
+
+Chen et al. 2007
+
+Ellinger et al. 2000
+
+Flynn et al. 2010
+
+Germain and Iyer
+2006
+
+Gimenez and
+Ventura 2005
+
+Lee et al. 2007
+
+Cross-functional
+interactions involving
+working together in
+teams and sharing
+resources
+
+Marketing-logistics
+effectiveness of
+interdepartmental
+relations
+
+Real-time data visibility
+and information
+system integration,
+interdepartmental
+meetings and teams
+Collaboration and
+uniﬁed process control
+through committees,
+teams, and liaisons
+
+Interdepartmental
+collaboration brings
+departments into a
+cohesive organization
+
+Firm performance
+(amalgam of customer
+satisfaction, sales, proﬁt
+margin, return-on-assets)
+
+Better communication
+enables more cohesive
+responses to customer
+needs
+
+Processes are improved
+by cooperation,
+information sharing,
+joint planning
+
+Processes gain
+efﬁciencies from
+reduction in nonvalue-
+added activities and
+better information
+access
+
+Distribution service
+Financial performance
+(amalgam of proﬁtability,
+sales growth, customer
+satisfaction)
+Operational performance
+(responsive service)
+Business performance
+(amalgam of proﬁt and
+growth measures)
+Logistical performance
+(delivery and inventory)
+Financial performance
+(amalgam of proﬁt and
+growth)
+
+Teamwork and joint
+planning between
+logistics-production
+and logistics-marketing
+
+Integration improves
+interdepartmental
+relations and
+coordination
+
+Absolute performance
+(cost, stock-out, and lead
+time reductions)
+
+Departments have easy
+access to operational
+data from an integrated
+database
+
+No explicit theory
+
+Cost containment
+Reliability
+
+Internal integration
+inﬂuences external
+integration and is
+associated with supply
+chain agility
+Marketing/logistics
+integration is
+associated with ﬁrm-
+wide integration,
+which is associated
+with ﬁrm performance
+Internal integration is
+related to distribution
+service, but not
+ﬁnancial performance
+
+Internal integration is
+related to both
+business and
+operational
+performance
+Internal integration
+affects logistical
+performance both
+directly and through
+interaction with
+customer integration,
+but it is not directly
+associated with
+ﬁnancial performance
+Logistics-production
+integration is
+positively associated
+with performance only
+for weak collaboration
+relationships
+Internal integration is
+associated with cost
+containment
+
+Continued.
+
+
+Effects of Cross-Functional Integration
+
+Table : (Continued)
+
+Narasimhan and Kim
+2002
+
+Operationalization of
+internal integration
+
+Real-time data visibility
+and information
+system integration,
+interdepartmental
+meetings
+
+Rodrigues et al.
+2004
+
+Sanders and Premus
+2005
+
+Schoenherr and
+Swink 2012
+
+Linkage through
+extensive use of cross-
+functional teams,
+information sharing,
+and process orientation
+
+Cross-functional
+collaboration in
+planning, integrated
+database, shared
+operations information
+Personnel from multiple
+functions work
+together to accomplish
+planning and execution
+
+Springinklee and
+Wallenburg 2012
+
+Stank et al. 1999
+
+Manufacturing and
+distribution activities
+are seamless, aligned,
+and performed
+smoothly
+Frequency of
+collaborative
+marketing/logistics
+interactions
+
+83
+
+Theoretical foundation
+
+measures (all perceptual)
+
+Findings
+
+Performance/outcome
+
+Economies of scope
+integration disperses
+risks from diversity
+and complexity
+stemming from
+unrelated
+diversiﬁcation
+
+Integration improves
+asset utilization
+through reduced
+redundancies,
+economies of scale,
+and differentiation of
+core competencies
+No explicit theory
+
+Information processing
+theory—internal
+integration provides
+capability to absorb
+and exploit
+information collected
+via external integration
+efforts
+
+Integration enables the
+rationalization of
+production and
+distribution
+interdependencies
+Interdepartmental
+interactions facilitate
+responsiveness
+
+Sales growth
+Market share growth
+Proﬁtability
+
+Logistics performance
+
+Internal integration is
+directly associated
+with all three
+performance variables
+and positively
+moderates curvilinear
+relationships between
+product and market
+diversiﬁcation and
+performance
+Internal integration is
+not signiﬁcantly
+associated with
+performance
+
+Firm performance
+(amalgam of cost, quality,
+product introduction,
+delivery speed)
+
+Internal integration is
+positively associated
+with ﬁrm performance
+
+Quality
+Delivery
+Flexibility
+Cost
+
+Distribution service
+
+Logistics performance
+Marketing/logistics
+effectiveness
+
+Internal integration is
+directly associated
+with all dimensions of
+operational
+performance. It
+positively moderates
+the relationships of
+external integration to
+delivery and ﬂexibility
+performance
+Internal integration is
+positively associated
+with distribution
+service performance
+
+Certain elements of
+collaborative
+integration are
+associated with
+logistics performance
+and marketing/logistics
+effectiveness
+
+Continued.
+
+
+84
+
+Table : (Continued)
+
+Stank et al. 2001a
+
+Wong et al. 2011
+
+Operationalization of
+internal integration
+
+Combination of
+organizational
+uniﬁcation,
+standardization,
+simpliﬁcation, metrics
+compliance, and
+structural performance
+improvements
+Collective responsibility
+across functions via
+integrated systems and
+emphasis on
+information and
+physical ﬂows
+
+M. Swink and T. Schoenherr
+
+Theoretical foundation
+
+measures (all perceptual)
+
+Findings
+
+Performance/outcome
+
+Linking and
+synchronizing
+internally-performed
+processes improves
+logistical performance
+
+Range of logistics
+outcomes
+
+Integration reduces
+redundancy and
+wasted resources,
+facilitates knowledge
+sharing, allows better
+coordination of
+capacity
+
+Quality
+Delivery
+Flexibility
+Cost
+
+Internal integration is
+associated with overall
+logistics performance,
+speciﬁcally logistics
+cost, delivery
+dependability, order
+ﬁll capability, and
+inventory turns
+Internal integration is
+directly associated
+with all dimensions of
+operational
+performance.
+Environmental
+uncertainty positively
+moderates the
+relationship between
+internal integration and
+cost and quality
+performance
+
+APPENDIX B
+
+QUESTIONNAIRE ITEMS
+
+INTERNAL INTEGRATION
+
+Extent to which intra-ﬁrm functional teams (operations, logistics,
+sales, marketing, supply management) work together to accom-
+plish supply chain planning and execution. Please rate your level
+of agreement with the following statements describing internal
+integration activities (1–5; Strongly agree—Strongly disagree).
+
+a. Functional teams are aware of each other’s responsibilities (II1)
+b. Functional teams have a common prioritization of customers in
+case of supply shortages and how allocations will be made (II2)
+information is regularly exchanged
+
+c. Operational and tactical
+
+between functional teams (II3)
+
+d. Purchasing decisions are based on plans agreed upon by all
+
+functional teams (II4)
+
+1 SCM is not a strength relative to others in our industry
+2 Our SCM competence is below the average for our industry
+3 Our SCM competence is at about the average for our industry
+4 Our SCM competence is above the average for our industry
+5 We are one of a few leaders in SCM in our industry
+
+TECHNOLOGY USE
+
+What processes and associated technologies are you using to
+advance your supply chain evolution and drive results? (1 = little
+or no usage; 2 = early stages of usage; 3 = we are experienced
+users)
+
+a. Execution systems/practices (WMS, TMS, ERP)
+b. Relationship management systems (CPFR, CRM, SRM)
+c. Strategic planning systems (Business & Supply Chain Intelli-
+
+gence, PLM, Network Optimization)
+
+e. All functional teams use common product roadmaps and other
+
+SUPPLY CHAIN PROCESS SPAN
+
+procedures to guide product launch (II5)
+
+f. Performance metrics promote rational trade offs among cus-
+
+tomer service and operational costs (II6)
+
+SUPPLY CHAIN COMPETENCE
+
+How would you rate your ﬁrm’s overall level of supply chain
+competence?
+
+Please indicate all the activities that are included in your ﬁrm.
+(cid:129) Manufacturing
+(cid:129) Retail
+(cid:129) Distribution
+(cid:129) Other (please specify)
+
+
+Effects of Cross-Functional Integration
+
+ITEMS INCLUDED IN 2007 AND 2008
+QUESTIONNAIRES ONLY
+
+Supplier integration
+
+Extent to which planning and execution incorporate and are syn-
+chronized with suppliers’ capabilities. Please rate your level of
+agreement with the following statements describing supplier inte-
+gration activities (1–5; Strongly agree—Strongly disagree)
+
+a. We pursue supplier relationships and involvement
+
+that go
+
+beyond operational transactions (SI1)
+
+b. Our plans address individual suppliers’ capabilities (SI2)
+c. We synchronize our activities with those of key suppliers (SI3)
+d. We exchange operational information with suppliers (SI4)
+e. We are constantly exploring new working relationships with
+
+suppliers (SI5)
+
+Customer integration
+
+Extent to which speciﬁc customers and their needs are incorpo-
+rated into planning and execution activities. Please rate your
+level of agreement with the following statements describing cus-
+tomer integration activities (1–5; Strongly agree—Strongly dis-
+agree)
+
+a. We pursue customer relationships and involvement
+
+that go
+
+beyond sales transactions (CI1)
+
+b. Our plans address individual customer’s requirements (CI2)
+c. We synchronize our activities with those of key customers
+
+(CI3)
+
+d. We have clearly deﬁned roles and responsibilities for manag-
+
+ing customer relationships (CI4)
+
+e. We are constantly exploring new working relationships with
+
+customers (CI5)
+
+Organizational level
+
+Describe the organization for which you are responding.
+(cid:129) Corporate
+(cid:129) Group, multiple division
+(cid:129) Division, wholly owned subsidiary or SBU (Strategic Business
+
+Unit)
+
+REFERENCES
+
+Alexander, J.A. 1991. “Adaptive Change in Corporate Control
+
+Practices.” Academy of Management Journal 34(1):162–93.
+
+Anderson, J.C., and Gerbing, D.W. 1988. “Structural Equation
+Modeling in Practice: A Review and Recommended Two-
+Step Approach.” Psychological Bulletin 103(3):411–23.
+
+Armstrong,
+
+J.C.,
+
+“Estimating
+Nonresponse Bias in Mail Surveys.” Journal of Marketing
+Research 14(3):396–402.
+
+and Overton, T.S.
+
+1977.
+
+Arshinder, A.K., and Deshmukh, S.G. 2008. “Supply Chain
+Coordination: Perspectives, Empirical Studies and Research
+Directions.” International Journal of Production Economics
+115(2):316–35.
+
+85
+
+Bergh, D.D. 1998.
+
+“Product-Market Uncertainty, Portfolio
+Restructuring, and Performance: An Information-Processing
+and Resource-Based View.” Journal of Management 24
+(2):135–55.
+
+Bowersox, D.J., Closs, D.J., and Stank, T.P. 1999. 21st Century
+Logistics: Making Supply Chan Integration a Reality.
+Lombard, IL: Michigan State University, Council of Logistics
+Management.
+
+Braunscheidel, M.J., and Suresh, N.C. 2009. “The Organizational
+Antecedents of a Firm’s Supply Chain Agility for Risk
+Mitigation
+of Operations
+Management 27(2):119–40.
+
+Response.”
+
+Journal
+
+and
+
+Burns, L.R.,
+
+and Wholey, D.R.
+
+and
+Abandonment of Matrix Management Programs: Effects of
+Organizational
+Interorganizational
+Networks.” Academy of Management Journal 36(1):106–38.
+
+Characteristics
+
+“Adoption
+
+1993.
+
+and
+
+Chen, H., Mattioda, D.D., and Daugherty, P.J. 2007. “Firm-Wide
+Integration and Firm Performance.” International Journal of
+Logistics Management 18(1):5–21.
+
+Chikan, A. 2001. “Integration of Production and Logistics in
+Principle, in Practice and in Education.” International Journal
+of Production Economics 69(2):129–40.
+
+Daft, R.L., and Lengel, R.H. 1986. “Organizational Information
+and Structural Design.”
+
+Requirements, Media Richness
+Management Science 32(5):554–71.
+
+Daft, R.L., and Macintosh, N.B. 1981. “A Tentative Exploration
+Into the Amount and Equivocality of Information Processing
+in Organizational Work Units.” Administrative Science
+Quarterly 26(2):207–24.
+
+Daft, R.L., and Weick, K.E. 1984. “Toward a Model of
+of
+
+Interpretation Systems.” Academy
+
+Organizations
+Management Review 9(2):284–95.
+
+as
+
+Douglas, S.P., and Craig, C.S. 2005. “On Improving the
+Conceptual Foundations of International Marketing Research.”
+Journal of International Marketing 14(1):1–22.
+
+Dr€oge, C., Jayaram, J., and Vickery, S.K. 2004. “The Effects of
+Internal Versus External Integration Practices on Time-Based
+Performance and Overall Firm Performance.” Journal of
+Operations Management 22(6):557–73.
+
+Ellinger, A.E., Daugherty, P.J., and Keller, S.B. 2000. “The
+Relationship Between Marketing/Logistics Interdepartmental
+Integration and Performance in U.S. Manufacturing Firms: An
+Empirical Study.” Journal of Business Logistics 21(1):1–22.
+
+Ellinger, A.E., Keller, S.B., and Hansen, J.D. 2006. “Bridging
+the Divide Between Logistics and Marketing: Facilitating
+Collaborative Behavior.” Journal of Business Logistics 27
+(2):1–27.
+
+Ellinger, A.E., Natarajarathinam, M., Adams, F.G., Gray, J.B.,
+“Supply Chain
+Hofman, D.,
+Management Competency and Firm Financial Success.”
+Journal of Business Logistics 32(3):214–26.
+
+and O’Marah, K. 2011.
+
+Flynn, B., Huo, B., and Zhao, X. 2010. “The Impact of Supply
+Chain Integration on Performance: A Contingency and
+Conﬁguration Approach.” Journal of Operations Management
+28(1):58–71.
+
+Frankel, R.,
+
+and Mollenkopf, D. 2013.
+
+“Cross-Functional
+Integration: Enhancing Rigor and Relevance.” Journal of
+Business Logistics, Call
+for Papers. http://onlinelibrary.
+wiley.com/journal/10.1002/%28ISSN%292158-1592
+
+
+86
+
+M. Swink and T. Schoenherr
+
+Galbraith,
+
+J.R.
+
+1973. Designing Complex Organizations.
+
+Reading, MA: Addison-Wesley.
+
+Galbraith, J.R. 1974. “Organization Design: An Information
+
+Processing View.” Interfaces 4(3):28–36.
+
+Li, S., Rao, S.S., Ragu-Nathan, T.S., and Ragu-Nathan, B. 2005.
+“Development and Validation of a Measurement Instrument
+for Studying Supply Chain Practices.” Journal of Operations
+Management 23(6):618–41.
+
+Gattiker, T.F., and Goodhue, D.L. 2004. “Understanding the
+Local-Level Costs
+Through
+Organizational Information Processing Theory.” Information
+and Management 41(4):431–43.
+
+and Beneﬁts
+
+ERP
+
+of
+
+Germain, R., and Iyer, K.N.S. 2006. “The Interaction of Internal
+and Downstream Integration and Its Association With
+Performance.” Journal of Business Logistics 27(2):29–52.
+
+Gimenez, C., and Ventura, E. 2005. “Logistics-Production,
+Logistics-Marketing and External Integration: Their Impact on
+Performance.”
+Journal of Operations and
+Production Management 25(1):20–38.
+
+International
+
+Handﬁeld, R.B., Ragatz, G.L., Petersen, K.J., and Monczka,
+in New Product
+
+R.M.
+Development.” California Management Review 42(1):59–82.
+
+“Involving
+
+Suppliers
+
+1999.
+
+Hendricks, K.B., and Singhal, V.R. 1997. “Does Implementing
+an Effective TQM Program Actually Improve Operating
+Performance? Empirical Evidence From Firms That Have
+Won Quality Awards.” Management Science 43(9):1258–74.
+
+Kahn, K.B., Maltz, E.N., and Mentzer, J.T. 2006. “Demand
+Collaboration: Effects on Knowledge Creation, Relationships,
+and Supply Chain Performance.”
+Journal of Business
+Logistics 27(2):191–221.
+
+Kahn, K.B., and Mentzer, J.T. 1998. “Marketing’s Integration
+With Other Departments.” Journal of Business Research 42
+(1):53–62.
+
+Keller, R. 2001. “Cross-Functional Project Groups in Research
+and New Product Development: Diversity, Communications,
+Job Stress, and Outcomes.” Academy of Management Journal
+44(3):547–55.
+
+Ketokivi, M.A., and Schroeder, R.G. 2004. “Perceptual Measures
+of Performance: Fact or Fiction?” Journal of Operations
+Management 22(3):247–64.
+
+Kinney, M.R., and Wempe, W.F. 2002. “Further Evidence on
+the Extent and Origins of JIT’s Proﬁtability Effects.” The
+Accounting Review 77(1):203–25.
+
+Koufteros, X., Vonderembse, M., and Jayaram, J. 2005. “Internal
+Integration for Product Development: The
+and
+
+and External
+Contingency Effects
+Platform Strategy.” Decision Sciences 36(1):97–133.
+
+of Uncertainty, Equivocality,
+
+Koufteros, X.A., Rawski, G.E.,
+
+2010.
+“Organizational
+Integration for Product Development: The
+Effects on Glitches, On-Time Execution of Engineering Change
+Orders, and Market Success.” Decision Sciences 41(1):49–80.
+
+and Rupak, R.
+
+Lawrence, P.R., and Lorsch, J.W. 1967. Organization and
+Environment: Managing Differentiation and Integration.
+Boston, MA: Graduate School of Business Administration,
+Harvard University.
+
+Lee, C.W., Kwon, I.G., and Severance, D. 2007. “Relationship
+Between Supply Chain Performance and Degree of Linkage
+Among Supplier, Internal Integration, and Customer.” Supply
+Chain Management: An International Journal 12(6):444–52.
+
+Levesque, M., Joglekar, N., and Davies, J. 2012. “A Comparison
+of Revenue Growth at Recent-IPO and Established Firms:
+The Inﬂuence of SG&A, R&D and COGS.” Journal of
+Business Venturing 27(1):47–61.
+
+Manrodt, K.B., Gibson, B.J.,
+
+2005.
+Communicating the Value of Supply Chain Management to
+Your CEO. Chicago: Council of Supply Chain Management
+Professionals.
+
+and Rutner,
+
+S.
+
+Melnyk, S.A., Stewart, D.M., and Swink, M. 2004. “Metrics and
+Performance Measurement
+in Operations Management:
+Dealing With the Metrics Maze.” Journal of Operations
+Management 22(4):209–18.
+
+Merschmann, U., and Thonemann, U.W. 2011. “Supply Chain
+Flexibility, Uncertainty and Firm Performance: An Empirical
+Analysis of German Manufacturing Firms.” International
+Journal of Production Economics 130(1):43–53.
+
+Morash, E.A.,
+
+and Clinton, S.R.
+
+“Supply Chain
+Integration: Customer Value Through Collaborative Closeness
+Versus Operational Excellence.” Journal of Marketing Theory
+and Practice 6(4):104–20.
+
+1998.
+
+Narasimhan, R., and Kim, S.W. 2002. “Effect of Supply Chain
+Integration on the Relationship Between Diversiﬁcation and
+Performance: Evidence From Japanese and Korean Firms.”
+Journal of Operations Management 20(3):303–23.
+
+Narasimhan, R., Swink, M., and Viswanathan, S. 2010. “On
+Decisions for Integration Implementation: An Examination of
+Complementarities Between Product-Process Technology
+Integration and Supply Chain Integration.” Decision Sciences
+41(2):355–72.
+
+the
+
+Pagell, M. 2004. “Understanding the Factors That Enable and
+Inhibit
+Integration of Operations, Purchasing and
+Logistics.” Journal of Operations Management 22(5):459–87.
+Poirier, C.C., Swink, M.L., and Quinn, F.J. 2008. “Sixth
+Annual Global Survey of Supply Chain Progress: Still
+Chasing the Leaders.” Supply Chain Management Review
+12(7):26–32.
+
+Pyke, D.F.,
+
+and
+
+Cohen, M.A.
+
+“Performance
+Characteristics
+Production-
+Distribution Systems.” European Journal of Operational
+Research 68(1):23–48.
+
+Stochastic
+
+Integrated
+
+1993.
+
+of
+
+Ragatz, G.L., Handﬁeld, R.B., and Peterson, K.J. 2002. “Beneﬁts
+Associated With Supplier
+Integration Into New Product
+Development Under Conditions of Technology Uncertainty.”
+Journal of Business Research 55(5):389–400.
+
+Richey, R.G., Jr., Roath, A.S., Whipple, J.M., and Fawcett, S.E.
+2010. “Exploring a Governance Theory of Supply Chain
+Management: Barriers and Facilitators to Integration.” Journal
+of Business Logistics 31(1):237–56.
+
+Rodrigues, A.M., Stank, T.P., and Lynch, D.F. 2004. “Linking
+Strategy, Structure, Process, and Performance in Integrated
+Logistics.” Journal of Business Logistics 25(2):65–94.
+
+of
+
+Rosenzweig, E.D., Roth, A.V., and Dean, J.W., Jr. 2003. “The
+on Competitive
+Inﬂuence
+Capabilities and Business Performance: An Exploratory Study
+of Consumer Products Manufacturers.” Journal of Operations
+Management 21(4):437–56.
+
+Integration Strategy
+
+an
+
+Sanders, N.R., and Premus, R. 2005. “Modeling the Relationship
+Between IT Capability, Collaboration, and Performance.”
+Journal of Business Logistics 26(1):1–24.
+
+
+Effects of Cross-Functional Integration
+
+87
+
+Schoenherr, T., and Swink, M. 2012. “Revisiting the Arcs of
+Integration: Cross-Validations and Extensions.” Journal of
+Operations Management 34(1–2):99–115.
+
+Sheremata, W.A. 2000. “Centrifugal and Centripetal Forces in
+Radical New Product Development Under Time Pressure.”
+Academy of Management Review 25(2):389–408.
+
+Springinklee, M., and Wallenburg, C.M. 2012. “Improving
+Distribution
+Effective
+Production and Logistics Integration.” Journal of Business
+Logistics 33(4):309–23.
+
+Performance
+
+Through
+
+Service
+
+Stank, T.P., Daugherty, P.J.,
+
+“Marketing/Logistics
+International Journal of Logistics Management 10(1):11–33.
+
+1999.
+Integration and Firm Performance.”
+
+and Ellinger, A.E.
+
+Stank, T.P., Keller, S.B., and Closs, D.J. 2001a. “Performance
+Integration.”
+
+Beneﬁts
+Transportation Journal 41(2/3):32–46.
+
+Logistical
+
+Supply
+
+Chain
+
+of
+
+Stank, T.P., Keller, S.B., and Daugherty, P.J. 2001b. “Supply
+Chain Collaboration and Logistics Service Performance.”
+Journal of Business Logistics 22(1):29–48.
+
+Stearns, T.M., Carter, N.M., Reynolds, P.D., and Williams, M.L.
+1995. “New Firm Survival: Industry, Strategy, and Location.”
+Journal of Business Venturing 10(1):23–42.
+
+Stevens, G.C.
+
+Supply Chain.”
+International Journal of Physical Distribution and Logistics
+Management 19(8):3–8.
+
+“Integrating
+
+1989.
+
+the
+
+Swink, M., Narasimhan, R., and Wang, C. 2007. “Managing
+Beyond the Factory Walls: Effects of Four Types of Strategic
+Integration on Manufacturing Plant Performance.” Journal of
+Operations Management 25(1):148–64.
+
+Swink, M., and Way, M. 1995. “Manufacturing Strategy:
+Propositions, Current Research, Renewed Directions.”
+International
+and Production
+Management 15(7):4–26.
+
+of Operations
+
+Journal
+
+Timme, S.G., and Williams-Timme, C. 2000. “The Financial-
+SCM Connection.” Supply Chain Management Review 7
+(4):30–37.
+
+Turkulainen, V., and Ketokivi, M. 2012. “Cross-Functional
+Integration and Performance – What Are the Real Beneﬁts?”
+International
+and Production
+Management 32(4):447–67.
+
+of Operations
+
+Journal
+
+Tushman, M.L., and Nadler, D.A. 1978. “Information Processing
+in Organizational Design.”
+
+as
+Academy of Management Review 3(3):613–24.
+
+an Integrating Concept
+
+van der Vaart, T., and van Donk, D. 2008. “A Critical Review
+on Survey-Based Research in Supply Chain Integration.”
+International Journal of Production Economics 111(1):42–55.
+van Weele, A.J., and van Raaij, E.M. 2014. “The Future of
+Purchasing
+and Supply Management Research: About
+Relevance and Rigor.” Journal of Supply Chain Management
+50(1):56–72.
+
+Wall, T.B., Jonathan, M., Patterson, M., Wood, S.J., Sheehan,
+M., Clegg, C.W., and West, M. 2004. “On the Validity of
+Subjective Measures of Company Performance.” Personnel
+Psychology 57(1):95–118.
+
+Wang, E.T.G.,
+
+and Wei, H.
+
+2007.
+
+Governance Value Creation: Coordinating for
+
+“Interorganizational
+Information
+
+Visibility and Flexibility in Supply Chains.” Decision
+Sciences 38(4):647–74.
+
+Weick, K.E., and Quinn, R.E. 1999. “Organizational Change and
+
+Development.” Annual Review of Psychology 50(1):361–86.
+
+Williams, B.D., Roh, J., Tokar, T., and Swink, M. 2013.
+“Leveraging Supply Chain Visibility for Responsiveness: The
+Moderating Role
+of
+Operations Management 31(7/8):543–54.
+
+Integration.”
+
+Internal
+
+Journal
+
+of
+
+Williamson, O.E. 1985. The Economic Institutions of Capitalism.
+
+New York: The Free Press.
+
+Wong, C.Y., Boon-Itt, S., and Wong, C.W.Y. 2011. “The
+Contingency Effects of Environmental Uncertainty on the
+Relationship Between
+and
+Operational Performance.” Journal of Operations Management
+29(6):604–15.
+
+Supply Chain
+
+Integration
+
+SHORT BIOGRAPHIES
+
+Morgan Swink (PhD Indiana University) is the Eunice and
+James L. West Chaired Professor of Supply Chain Management
+in the Neeley School of Business at Texas Christian University.
+He also serves as the Executive Director of the Supply and
+Value Chain Center in the Neeley School. He teaches in areas of
+supply chain management, project management, innovation man-
+agement, and operations strategy. Dr. Swink’s current research
+projects address cutting edge competencies in supply chain man-
+agement, ﬁnancial impacts of supply chain management, supply
+chain organizational structures, innovation initiatives and project
+success factors, collaborative integration, and co-development
+partnerships. Dr. Swink is the former Co-Editor in Chief for the
+Journal of Operations Management, a top academic supply chain
+management journal. He is currently the president-elect for the
+Decision Sciences Institute. He has co-authored two supply chain
+operations text books, one managerial book on supply chain
+excellence, and more than 50 articles in a variety of academic
+and managerial journals. He has won several awards for excel-
+lence in both undergraduate and MBA teaching. Dr. Swink con-
+sults and leads executive workshops and seminars in supply
+chain management best practices, cross-organizational
+integra-
+tion, project management, operational ﬂexibility, and break-
+through thinking for innovation and productivity.
+
+Tobias Schoenherr (PhD Indiana University – Bloomington)
+is Associate Professor in the Broad College of Business at Mich-
+igan State University. His research focuses on strategic supply
+management,
+including strategic sourcing, and leveraging the
+supply base. He has more than 40 journal publications, which
+include publications in Management Science, Journal of Opera-
+tions Management, Journal of Business Logistics, Production
+and Operations Management, Decision Sciences, and Journal of
+Supply Chain Management. He is an Associate Editor for the
+Journal of Operations Management and Decision Sciences, and
+serves on several Editorial Review Boards, including the Journal
+of Business Logistics and IEEE Transactions on Engineering
+Management.
+

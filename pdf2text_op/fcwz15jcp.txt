@@ -1,0 +1,1830 @@
+Journal of Cleaner Production 113 (2016) 781e791
+
+Contents lists available at ScienceDirect
+
+Journal of Cleaner Production
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j c l e p r o
+
+Environmental management systems and ﬁnancial performance:
+the joint effect of switching cost and competitive intensity
+Taiwen Feng a, *, Di Cai b, Dan Wang c, Xiaodi Zhang a
+a School of Management, Northwestern Polytechnical University, Xi'an, China
+b School of Management, Shandong University, Ji'nan, China
+c Monash Business School, Monash University, Melbourne, Australia
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 18 March 2015
+Received in revised form
+7 November 2015
+Accepted 15 November 2015
+Available online 24 November 2015
+
+Keywords:
+Environmental management systems
+Switching cost
+Competitive intensity
+Financial performance
+
+Despite the importance of environmental management systems, previous ﬁndings on its relationship
+with ﬁnancial performance are inconsistent. This study aims to investigate how the relationship between
+environmental management systems and ﬁnancial performance is moderated by switching cost,
+competitive intensity and their interaction drawing on contingency theory and an interactional
+perspective. We conducted two waves of survey to collect data from 214 Chinese manufacturing ﬁrms
+and employed hierarchical moderated regression analysis to test the research hypotheses. The results
+reveal that there is a positive relationship between environmental management systems and ﬁnancial
+performance. This relationship is negatively moderated by switching cost and is positively moderated by
+competitive intensity. In addition, switching cost and competitive intensity have a negative joint
+moderating effect on the relationship between environmental management systems and ﬁnancial per-
+formance. This study advances environmental management systems research by identifying the market
+conditions that augment or constrain the impact of environmental management systems on ﬁnancial
+performance.
+
+© 2015 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Along with the increasing environmental regulations, govern-
+ment pressures and green marketing opportunities, research on
+environmental management systems (EMSs) has steadily expanded
+(Cong and Wei, 2010, 2012; Sroufe, 2003; Lo et al., 2012; von
+Malmborg, 2002). An EMS refers to a series of activities relating
+to internal policies including collecting, assessing, planning and
+implementing, which inﬂuence the organization and its relation-
+ships with the natural environment (Feng et al., 2014). However,
+the existing empirical research has not yet reached a consensus on
+the relationship between EMSs and ﬁnancial performance. Some
+studies indicated that EMSs enhance ﬁnancial performance due to
+improved corporate image, quality green products, and reduced
+internal cost through eco-friendly new technologies (e.g., Sroufe,
+2003; Darnall et al., 2008; Chan et al., 2012), while others failed
+
+* Corresponding author. Tel.: þ86 13572190964.
+
+E-mail addresses: typhoonfeng@gmail.com (T. Feng), caidi@sdu.edu.cn (D. Cai),
+
+dan.wang@monash.edu (D. Wang), forche@tom.com (X. Zhang).
+
+http://dx.doi.org/10.1016/j.jclepro.2015.11.038
+0959-6526/© 2015 Elsevier Ltd. All rights reserved.
+
+to ﬁnd a signiﬁcant relationship (e.g., Baker and Sinkula, 2005). The
+inconsistent previous ﬁndings call for additional research into
+contingency factors that may explain under what conditions EMSs
+inﬂuence ﬁnancial performance. In other words, it is important to
+understand whether the relationship between EMSs and ﬁnancial
+performance depends upon particular contingencies.
+
+In this study, we suggest that market factors need to be taken
+into consideration when examining the EMSseﬁnancial perfor-
+mance relationship, because the opportunities and constraints of
+adopting EMSs are greatly determined by market conditions
+(Darnall et al., 2008). Also, the successful transformation of EMSs
+into improved ﬁnancial performance depends on a proactive focus
+on customer behaviors and market competition (Chan et al., 2012).
+To clarify the nature of the EMSseﬁnancial performance rela-
+tionship, contingency theory and the interactional perspective are
+adopted. According to contingency theory, scholars should pay
+more attention to the potential inﬂuence of market conditions
+when investigating the performance effects of EMSs (Hatch and
+Cunliffe, 2006).
+In addition, the interactional perspective in-
+dicates that the interaction between dispositions and situations
+
+
+782
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+can explain the organizational behavior better than dispositions or
+situations separately (Pfeffer, 1997). This perspective suggests that
+different situational factors should be considered simultaneously
+when explaining how organizational characteristics affect orga-
+nizational performance. Drawing upon these two theoretical
+perspectives, we propose that market factors may moderate the
+relationship between EMSs and ﬁnancial performance. This issue
+is crucial but remains mostly overlooked in previous studies on
+EMSs.
+
+We focus on two market contingencies, switching cost (SC) and
+competitive intensity (CI), which manifest the nature of ﬁrms' re-
+lationships with their customers and competitors respectively.
+Resource-based view (RBV) suggests that a ﬁrm should leverage its
+heterogeneous resources to better meet customer needs and
+restrict market competition to achieve a sustained competitive
+advantage (Peteraf and Barney, 2003; Sirmon et al., 2007). Thus, a
+ﬁrm's competitive advantage and performance gained from EMSs
+may be inﬂuenced by the behaviors of its customers and compet-
+itors. In addition, according to the strategic analysis perspective,
+customers and competitors are the most important market players
+that inﬂuence the strategic choices of a ﬁrm (Grant, 2010). Thus,
+customers and competitors are likely to affect the performance
+effects of the ﬁrm's strategic choices (Zhou and Li, 2010). Based on
+these theoretical perspectives, SC and CI may be the most impor-
+tant market contingencies inﬂuencing ﬁrms' adoption and imple-
+mentation of EMSs, and their abilities to proﬁt
+from such
+management systems.
+
+Furthermore,
+
+it is likely to be inappropriate to isolate the
+moderating effects of SC and CI when investigating the perfor-
+mance effects of EMSs, because customer switching and market
+competition often coexist for a ﬁrm and may act concurrently
+(Seiders et al., 2005). Therefore, it is necessary to simultaneously
+consider the separate and joint moderating effects of SC and CI.
+Moreover, Lumpkin and Dess (2001) suggested that the moderating
+effect of environmental hostility on the relationship between
+entrepreneurial orientation and performance may be inﬂuenced by
+other contingency factors. Similarly, the effect of CI may be inﬂu-
+enced by other factors such as SC because ﬁrms have to compete for
+customers. Thus, examining the combined moderating roles of SC
+and CI may extend our understanding on when EMSs impact
+ﬁnancial performance and may offer rich and useful implications to
+practitioners. To the best of our knowledge, few studies have
+examined how these two essential market factors jointly inﬂuence
+the EMSseﬁnancial performance relationship.
+
+To ﬁll these research gaps and gain new insights into the per-
+formance effects of EMSs, we address two important questions: (1)
+How SC and CI play contingency roles to moderate the relationship
+between EMSs and ﬁnancial performance; (2) How SC and CI jointly
+moderate the relationship between EMSs and ﬁnancial perfor-
+mance. The purpose of this study is to examine whether and how
+the performance effects of EMSs depend on SC, CI, and/or their
+combination. Our research contributes to the EMSs literature by
+clarifying two types of market conditions (i.e., SC and CI) that in-
+ﬂuence the relationship between EMSs and ﬁnancial performance.
+The ﬁndings of our research highlight that the effect of EMSs on
+performance is not necessarily positive but may vary according to
+the combined inﬂuence of SC and CI. Thus, this study provides
+insightful implications for both theory and practice.
+
+The remainder of this study is organized as follows. In the next
+section, we develop research hypotheses. Then, research methods
+employed in this study are described and the analysis results are
+depicted. Following that, we discuss the implications of the ﬁnd-
+ings for theory and practice. Finally, conclusions are drawn, with
+further discussion in regards to the limitations of this study and
+suggestions for future research.
+
+2. Theoretical background and research hypotheses
+
+By integrating RBV with contingency theory, we propose that
+the relationship between EMSs and ﬁnancial performance may
+depend on certain market conditions, particularly SC and CI. Fig. 1
+presents the conceptual model, which highlights the moderating
+effects of SC, CI, and their combined effect on the EMSseﬁnancial
+performance relationship. Fig. 1 also delineates the research hy-
+potheses developed in our research.
+
+2.1. EMSs and ﬁnancial performance
+
+When investigating the performance effect of EMSs, ﬁnancial
+performance and social performance are two important aspects of
+consideration (Baird et al., 2012). While ﬁnancial performance
+concerns more about the proﬁts and material beneﬁts created by a
+ﬁrm, social performance focuses on a ﬁrm's relationship with the
+society (Baird et al., 2012; Waddock and Graves, 1997). Although
+the focuses of these two types of ﬁrm performance are different,
+some scholars argued that they are interrelated with each other
+(Beurden and Gossling, 2008).
+
+EMSs may represent part of social performance, since it dem-
+onstrates a ﬁrm's commitment to social responsibility through
+minimizing environmental impacts of its operations (Darnall et al.,
+2008). As its objectives and outcomes greatly enhance a ﬁrm's
+environmental protection and positive image building towards
+stakeholders, existing literature revealed that EMSs are positively
+related to social performance (Darnall et al., 2008). To complement
+previous research, this study speciﬁcally focuses on the relation-
+ship between EMSs and ﬁnancial performance, and how this rela-
+tionship is moderated by contingency factors in order to provide
+further explanation to inconsistent ﬁndings in previous research
+(Baker and Sinkula, 2005; Chan et al., 2012; Darnall et al., 2008;
+Vachon and Klassen, 2008; Yang et al., 2010).
+
+An EMS involves commitments for pollution prevention, build-
+ing environmental policies or planning, implementing activities to
+deal with environmental concerns, measuring and assessing po-
+tential environmental impacts, establishing quantiﬁable goals to
+reduce environmental
+impacts, reviewing the implementation
+progress, and making adjustment to ensure the achievement of
+environmental goals (Coglianese and Nash, 2001; Yang et al., 2010).
+Although EMSs adoption is costly, several previous studies sug-
+gested that ﬁrms can proﬁt from EMSs implementation (Sroufe,
+2003; Darnall et al., 2008; Chan et al., 2012) in several ways.
+
+First, EMSs adoption may help ﬁrms gain government support to
+respond to external pressures (Darnall et al., 2008). As not every
+ﬁrm has adequate internal resources required for EMSs imple-
+mentation, regulators usually provide grants and technical assis-
+tance to encourage ﬁrms to adopt EMSs (Dahlstr€om et al., 2003).
+The government-sponsored grants and technical assistance are
+useful for ﬁrms to mitigate costs associated with EMSs adoption. By
+implementing EMSs proactively, ﬁrms can also have access to
+regulators more easily and be more qualiﬁed to participate in
+
+Switching Cost
+
+Competitive
+
+Intensity
+
+H2
+
+H4
+
+H3
+
+Environmental
+Management
+
+Systems
+
+H1
+
+Financial
+
+Performance
+
+Fig. 1. Conceptual model.
+
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+783
+
+government-sponsored EMS programs (Darnall and Edwards,
+2006). Moreover, ﬁrms are likely to establish greater external
+legitimacy and corporate image through responding to institutional
+pressures of protecting the environment (De Bakker et al., 2002;
+Sroufe, 2003; Zhang et al., 2008). Because of the enhanced
+external legitimacy and corporate image, ﬁrms adopting EMSs can
+beneﬁt from charging a premium price and increased customer
+loyalty. Such corporate image is an intangible asset which allows
+ﬁrms to market their EMSs as selling points for their products, thus
+differentiating their products from competitors (Bansal and Hunter,
+2003; Darnall et al., 2008).
+
+Second, according to RBV of the ﬁrm, EMSs are strategic re-
+sources that can help a ﬁrm gain competitive advantage and ach-
+ieve better performance (Menguc and Ozanne, 2005; Russo and
+Fouts, 1997). Klassen and Whybark (1999) argued that adopting
+EMSs may allow ﬁrms to access unique resources and capabilities.
+Firms with sufﬁcient resources and capabilities are more likely to
+minimize their environmental impacts. In addition, since EMSs
+encourage information sharing and joint problem solving when
+addressing environmental issues, a ﬁrm's knowledge-based skills
+will be developed and enhanced (Darnall et al., 2008). By devel-
+oping knowledge-based capitals, ﬁrms can achieve greater success
+at reducing environmental protection costs (Christmann, 2000),
+gaining an advantage over competitors and winning customers (Lo
+et al., 2012; Vachon and Klassen, 2008).
+
+Finally, EMSs may help ﬁrms gain competitive advantage
+through providing cost savings opportunities (Yang et al., 2010;
+Sroufe, 2003). EMSs encourage ﬁrms to establish environmental
+planning throughout the full range of the ﬁrm's activities, from raw
+materials acquisition, through manufacture, to product distribution
+to minimize the lifecycle costs of their products and develop new
+products with lower life-cycle costs (Melnyk et al., 2003). Menguc
+and Ozanne (2005) found that ﬁrms attempting to reduce phys-
+ical waste or dispose of physical waste through environmental-
+friendly ways, may reduce costs and improve proﬁtability.
+Recently, Wong et al. (2012) suggested that the use of reusable
+components and parts extracted from returned products offers cost
+saving opportunities for ﬁrms. Hence, we propose the following
+hypothesis:
+
+H1. There is a positive relationship between EMSs and ﬁnancial
+performance.
+
+2.2. The moderating effect of SC
+
+SC represents an obstacle for customers to change their product
+providers (Wathne et al., 2001), and it is a crucial factor that de-
+termines the competitiveness of a market environment (Jones et al.,
+2002). SC is deﬁned as the costs that consumers have to pay during
+the process of switching from one product provider to another
+(Anton et al., 2007; Yee et al., 2010). When customers switch
+product providers they need to bear various costs ranging from
+time spent searching for and evaluating potential alternatives,
+learning how to operate new product, and building relationship
+with the new provider to the beneﬁts lost by changing provider
+(Jones et al., 2002; Yee et al., 2010).
+
+SC moderates the effects of EMSs on ﬁrms' ﬁnancial perfor-
+mance due to the following logics. If a customer perceives SC as low,
+dissatisfaction with the ﬁrm will motivate his/her intention to
+switch product provider. Thus, ﬁrms adopting EMSs may attract
+more customers and improve the repeat purchase rate based on
+their superior public image and green products. However, if a
+customer perceives SC as high, he/she may become less sensitive to
+its provider's behaviors (Yee et al., 2010). This will potentially
+prohibit socially responsible ﬁrms to intentionally make more
+
+proﬁt due to the relatively ﬁxed supplierecustomer relationships
+(Friedl and Wagner, 2012). Since high SC discourages changing the
+current provider, thereby yielding less proﬁt incentive for ﬁrms to
+actively adopt EMSs. Therefore, when SC is low rather than high,
+EMSs may lead to greater performance. Therefore, we hypothesize:
+
+H2. SC negatively moderates the relationship between EMSs and
+ﬁnancial performance.
+
+2.3. The moderating effect of CI
+
+CI is another important factor determining the competitiveness
+of market environment, which reﬂects the level of competition
+among ﬁrms (Auh and Menguc, 2005; Tsai and Yang, 2013).
+Enhanced CI features greater competition among incumbents, and
+fewer opportunities for further growth (Auh and Menguc, 2005; Li
+et al., 2008). When CI is low, ﬁrms can operate with their existing
+systems to take full advantage of the transparent predictability of
+their own behavior (Auh and Menguc, 2005). However, more
+intense competition will force ﬁrms to adapt their operational
+strategies accordingly. When the competition is intense, ﬁrms will
+need to undertake proactive activities, such as looking for new
+ways to compete and exploring differentiation based on eco-
+friendly procedures and products to escape from price or promo-
+tion wars.
+
+We posit that CI may also moderate the relationship between
+EMSs and ﬁnancial performance for three major reasons. First,
+differentiation is likely to mitigate the potential threat of compe-
+tition (Tsai and Yang, 2013). Firms adopting EMSs are likely to build
+differentiation advantages (Bansal and Hunter, 2003; Darnall et al.,
+2008). EMSs adoption may also increase customer loyalty through
+improved ﬁrm image and product quality. Thus, ﬁrms imple-
+menting EMSs are more capable of winning price or promotion
+wars. Second, information processing theory suggests that ﬁrms
+adopting EMSs are in a favorable position since they can rapidly
+acquire and interpret a wide range of competitor information and
+utilize the information to develop creative responses to environ-
+mental issues (Tsai and Yang, 2013). As competition intensiﬁes, the
+need to gather and analyze competitor information will be heated.
+Hence, increased competition in markets may place a premium on
+EMSs. Third, with the rising of global environmental concerns,
+customers are increasingly demanding for eco-friendly products
+from their suppliers (Banerjee et al., 2003). Thus, if a ﬁrm can
+implement EMSs to come up with new solutions to reduce the
+negative environmental impacts of its operations and/or products,
+the performance effects of EMSs will be even more salient under a
+condition of high rather than low level of CI (Chan et al., 2012).
+Based on these arguments, it is predicted:
+
+H3. CI positively moderates the relationship between EMSs and
+ﬁnancial performance.
+
+2.4. The joint moderating effects of SC and CI
+
+In addition to their independent moderating effects, SC and CI
+may jointly moderate the relationship between EMSs and ﬁnancial
+performance. Since customer switching and market competition
+often coexist in the market and may act together (Seiders et al.,
+2005), these two factors are likely to have a synergistic moder-
+ating effect on the degree to which EMSs contribute to ﬁnancial
+performance. Moreover, environmental dynamism and hostility
+may interactively inﬂuence the effectiveness of organizational
+strategic decisions (Luo and Park, 2001). Lee et al. (2001) also
+suggested that SC becomes more important when there are a great
+
+
+784
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+number of alternative providers in a market. We thus conjecture
+that SC and CI may interactively affect the impact of EMSs on
+ﬁnancial performance. In other words, the moderating effect of
+each of these two factors is likely to be dependent on the other.
+
+Furthermore, separating the impacts of each contingent factor
+may underestimate the complex forms of interaction and may thus
+oversimplify the actual situations under which EMSs inﬂuence
+ﬁnancial performance (Tsai and Yang, 2013). In contrast, when
+considered simultaneously, SC and CI may “yield a more inter-
+pretable and theoretically interesting pattern than any of the fac-
+tors would show in isolation” (Rousseau and Fried, 2001, p. 4). From
+an interactional perspective, we examine how the interaction of SC
+and CI affects the performance effects of EMSs. An interactional
+perspective here suggests that the combination of SC and CI will
+form a set of market conditions according to the levels of the two
+variables and that these different market conditions may have
+different inﬂuences on the performance effects of EMSs. Since the
+four kinds of different market conditions (i.e., low and high levels of
+SC and CI) may generate different opportunities, constraints and
+challenges in a market, the strength of the relationship between
+EMSs and ﬁnancial performance may vary across these market
+conditions. At one extreme, under the condition of low SC and high
+CI, ﬁrms should gain the most beneﬁt by implementing EMSs. If
+customers can switch to a new provider with a low cost and
+competitors can begin price or promotion wars rapidly, ﬁrms are
+most likely to realize the maximum value of their EMSs adoption
+because they can better take advantage of customer switching and
+can provide products that are more differentiated than their
+competitors.
+
+At the opposite extreme, under the condition of high SC and low
+CI, the effect of EMSs on ﬁnancial performance diminishes. When
+customer switching is costly and competition is not intense, ﬁrms
+implementing EMSs may improve performance but only to a lesser
+degree. Therefore, it may be less cost effective for a ﬁrm to adopt
+EMSs under such conditions. Situated between these two extremes,
+the remaining two conditions (i.e., low SC with low CI and high SC
+
+with high CI) may have an intermediate effect on the strength of the
+relationship between EMSs and ﬁnancial performance. However,
+few studies have investigated which of these two factors has a
+stronger effect on the effectiveness of organizational decisions. In
+this study, we suggest that SC may have a greater inﬂuence on the
+performance effects of EMSs because attracting and retaining cus-
+tomers require innovative activities such as EMSs within the ﬁrm,
+whereas CI may not always justify EMSs as ﬁrms can achieve
+competitive advantages through other approaches (Benner and
+Tushman, 2003; Tsai and Yang, 2013). This speculation is also
+supported by Henard and Szymanski's (2001) ﬁnding that meeting
+customer needs has a greater impact on new product performance
+than competition does. Therefore, we conjecture that EMSs may
+improve ﬁnancial performance to a larger degree under the con-
+dition of low SC and low CI than under the condition of high SC and
+high CI. These arguments lead to the following hypothesis:
+
+H4. SC and CI have a negative joint moderating effect on the
+relationship between EMSs and ﬁnancial performance.
+
+3. Methods
+
+3.1. Data collection
+
+Because of China's size and economic diversity, we strategically
+chose ﬁve provinces or municipalities that represent different
+economic levels and are geographically diverse: Shaanxi, Shan-
+dong, Beijing, Jiangsu and Guangdong. Shaanxi, a traditional in-
+dustrial province in northwestern inland China, represents a
+relatively early stage of economic reform and market formation.
+Shandong and Jiangsu are located in the Bohai Sea Coastal Region
+and in the Yangtze River Delta respectively, and both enjoy a rela-
+tively high degree of economic development. Beijing and Guang-
+dong are located in the Bohai Sea Coastal Region and in the afﬂuent
+Pearl River Delta respectively, reﬂect the average level of economic
+development. These ﬁve provinces are representative of the various
+
+Fig. 2. The locations of sampled provinces or municipalities.
+
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+785
+
+regions of China. The locations of sampled provinces or munici-
+palities are shown in Fig. 2.
+
+To obtain a representative sample of ﬁrms, we randomly
+selected ﬁrms from the China Business Yellow Pages. In each
+province, we randomly chose 150 ﬁrms, and in total, 750 ﬁrms were
+sampled. The selected ﬁrms represent a wide range of industries,
+including communication and computers related equipment, ma-
+chinery, transport equipment, electrical machinery and equipment,
+and rubber and plastics, among others. An initial telephone enquiry
+was conducted before the formal survey, and 246 ﬁrms agreed to
+participate in the survey. In each selected ﬁrm two key informants
+were identiﬁed to ﬁll out the questionnaire. The key informants
+typically held positions such as CEO/president, vice president, or
+director in charge of marketing and purchasing, and were knowl-
+edgeable about the ﬁrm's internal and external processes. Existing
+environmental literature has used subjective perceptions of re-
+spondents to operationalize performance (e.g. Chan et al., 2012;
+Lopez-Gamero et al., 2010; Youn et al., 2013). The main reason is
+that respondents were more open to offering their perceptions
+rather than offering precise quantitative data (Aragon-Correa et al.,
+2008; Lopez-Gamero et al., 2010).
+
+In this study, we conducted two waves of survey. At T1, in-
+formants reported EMSs, SC, CI, market turbulence and ﬁrm inno-
+vativeness. The questionnaire together with a covering letter
+explaining our research objectives and ensuring conﬁdentiality was
+then mailed to one respondent identiﬁed in the ﬁrm. We also
+indicated that if the informant felt that it was difﬁcult for him/her
+to answer certain questions, he/she could recommend a more
+appropriate person to answer those questions. Three follow-up
+calls and mailings were made at 2, 4, and 8 weeks to improve the
+response rate. During the survey, about 200 follow-up calls were
+made and 100 follow-up letters were sent. At T2, about 1.5 years
+after T1, we asked another informant in each ﬁrm to respond to the
+scales of ﬁnancial performance.
+
+Finally, we received 214 valid questionnaires. Among them, 53
+were from Shandong (24.8%), 50 were from Shaanxi (23.3%), 39
+were from Beijing (18.2%), 38 were from Guangdong (17.8%), and 34
+were Jiangsu (15.9%). These ﬁrms covered a wide range of owner-
+ship types,
+including state-owned and controlled enterprises
+(27.3%), privately owned and controlled enterprises (35.8%), and
+joint ventures (36.9%). The response rate was 28.5%. The response
+rate for this study is comparable to or better than other survey-
+based studies in environmental strategy management (e.g., 24.7%
+in Darnall et al., 2008; 21.4% in Yang et al., 2010).
+
+To test for non-response bias, the sample was split into two
+groups based on the time they returned the questionnaire
+(Armstrong and Overton, 1977). We compared number of em-
+ployees, annual sales and all variables used in this study between
+early and late responses. No signiﬁcant differences were found
+between them at the signiﬁcance level of 0.05, suggesting that non-
+response bias was not an issue.
+
+3.2. Measures
+
+We measured the variables through adopting or adapting
+existing scales that have been validated in previous studies. Since
+the scales used in this study were adopted or adapted from English
+literature, we used the translation and back-translation approach to
+develop the Chinese version of those measures. Before the formal
+survey, eight managers that are familiar with the operational
+practices in China and three experiential researchers that are well
+versed in both English and Chinese reviewed the questionnaire to
+improve clarity and resolve any unfamiliar or unclear wording. We
+pre-tested the initial version of
+the questionnaire with ten
+randomly selected ﬁrms in Xi'an. Managers from top- or middle-
+
+level positions within their organizations evaluated the clarity
+and understandability of the scales. Based on the managers' feed-
+back, we further reﬁned the survey questions and completed the
+ﬁnal version of the questionnaire.
+
+All of the measures were seven-point Likert scales. The in-
+formants were requested to indicate the extent to which they
+agreed with the scale items by providing scores from “1 ¼ strongly
+disagree” to “7 ¼ strongly agree” or by evaluating the performance
+measures on a scale ranging from “1 ¼ very low” to “7 ¼ very high”.
+The value of each construct is the average of individual item's rat-
+ing. The measurement items used in this study are presented in
+Appendix A.
+
+This study measured EMSs as the extent to which an organiza-
+tion implements environmental practices. The scale for EMSs
+consisted of seven items that were adopted from Yang et al. (2010).
+We measured SC as the costs that a customer has to pay during the
+process of switching from one ﬁrm to another. Corresponding to
+Yee et al. (2010), we applied four items to measure SC. CI refers to
+the degree of competition in an industry. It was measured using six
+items adapted from Auh and Menguc (2005). We measured ﬁnan-
+cial performance as a ﬁrm's ﬁnancial and market performance
+relative to those of
+its major competitors. The seven items
+measuring ﬁnancial performance were taken from Li et al. (2009)
+and Flynn et al. (2010).
+
+When testing the hypothesized relationships, we controlled for
+factors that might confound the effects. This study
+several
+measured ﬁrm size by the logarithm of the number of employees.
+Firm age was measured as the logarithm of the number of years
+since the ﬁrm's establishment. This study measured market tur-
+bulence as the rate of change in customer demands. Our scale for
+market turbulence consisted of four items that were adapted from
+Germain et al. (2008). The scale for ﬁrm innovativeness was
+adapted from Panayides and VenusLun (2009) and was assessed by
+ﬁve items.
+
+3.3. Construct reliability and validity
+
+We ﬁrstly conducted a conﬁrmatory factor analysis (CFA) by
+linking each item to its intended construct using the maximum
+likelihood estimation method in LISREL 8.80. The ﬁt indices for the
+CFA model indicated a good ﬁt of the model to the data based on the
+recommended criteria: c2/df < 3 (Hekman et al., 2009), NNFI > 0.90,
+CFI > 0.90, RMSEA < 0.08 and SRMR < 0.08 (Hair et al., 2010). We
+then assessed the degree of internal consistency among the items
+of each construct with Cronbach's alpha reliability coefﬁcient in
+SPSS 21.0. The Cronbach's alpha values for the constructs ranged
+from 0.891 to 0.972 (see Table 1), all of which exceeded the rec-
+ommended 0.70 threshold (Hair et al., 2010). For evaluating reli-
+ability, we calculated composite reliability (CR) and Corrected Item-
+Total Correlation (CITC). The recommended criterion for them is
+0.60 and 0.30 respectively (Fornell and Larcker, 1981; Kerlinger,
+1986). The results in Table 1 provide evidence that all constructs
+have sufﬁcient reliability.
+
+Furthermore, we assessed the content validity, convergent val-
+idity and discriminant validity. The content validity of the con-
+structs was ensured by the extensive literature review, feedback
+from executives and academicians and the pilot test. The conver-
+gent and discriminant validity of the scales were examined using
+the method recommended by Fornell and Larcker (1981).
+
+The factor loading of each scale item was statistically signiﬁcant
+(p < 0.001) and above 0.60, which indicated adequate convergent
+validity of each construct (Fornell and Larcker, 1981). We also
+assessed convergent validity of each construct using average vari-
+ance extracted (AVE). The AVE values for the constructs ranged
+from 0.684 to 0.894, all of which were greater than the 0.50
+
+
+786
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+Table 1
+Statistics of the measurement analysis.
+
+Constructs
+
+Scale items
+
+Standardized factor loadings
+
+CITC range of the underlying items
+
+Cronbach's a
+
+Composite reliability
+
+Environmental management systems
+
+Switching cost
+
+Competitive intensity
+
+Financial performance
+
+Market turbulence
+
+Firm innovativeness
+
+EMS1
+EMS2
+EMS3
+EMS5
+EMS7
+
+SC1
+SC2
+SC3
+SC4
+
+CI1
+CI2
+CI3
+CI5
+
+FP1
+FP3
+FP4
+FP5
+FP6
+
+MT1
+MT2
+MT3
+MT4
+
+FI1
+FI2
+FI3
+FI5
+
+0.89
+0.96
+0.92
+0.95
+0.93
+
+0.94
+0.96
+0.97
+0.92
+
+0.73
+0.90
+0.87
+0.82
+
+0.89
+0.90
+0.82
+0.81
+0.73
+
+0.92
+0.90
+0.97
+0.98
+
+0.95
+0.94
+0.92
+0.90
+
+0.913
+0.935
+0.900
+0.934
+0.908
+
+0.925
+0.917
+0.949
+0.921
+
+0.700
+0.797
+0.808
+0.779
+
+0.643
+0.786
+0.852
+0.862
+0.809
+
+0.918
+0.897
+0.947
+0.954
+
+0.928
+0.936
+0.902
+0.908
+
+Fit indices: c2(284) ¼ 721.42, NNFI ¼ 0.93, CFI ¼ 0.95, RMSEA ¼ 0.076 and SRMR ¼ 0.072.
+
+0.972
+
+0.970
+
+0.971
+
+0.971
+
+0.891
+
+0.896
+
+0.918
+
+0.915
+
+0.972
+
+0.971
+
+0.967
+
+0.966
+
+threshold (Bagozzi and Yi, 1988). These results suggested that each
+construct exhibited good convergent validity.
+
+According to Fornell and Larcker (1981), if the AVE values for any
+two constructs are greater than the corresponding squared corre-
+lation estimate, the discriminant validity between the two con-
+structs is veriﬁed. The results in Table 2 demonstrated that the
+square roots of the AVE values for each pair of the constructs were
+greater than the corresponding correlation estimate, indicating
+discriminant validity between the constructs. Moreover, we also
+assessed the discriminant validity of the constructs with chi-square
+difference tests and conﬁdence intervals for the inter-construct
+correlation estimates (Anderson and Gerbing, 1988). The results
+of the ﬁfteen chi-square difference tests in the CFA models indi-
+cated that for each of the ﬁfteen pairs of constructs, the chi-square
+value obtained for the constrained model was signiﬁcantly greater
+than the chi-square value obtained for the unconstrained model,
+which ensures the discriminant validity between any two of the
+constructs. In addition, we calculated the conﬁdence interval (±two
+standard errors) around the correlation estimate between any two
+constructs. The results showed that none of the ﬁfteen conﬁdence
+intervals included 1.0, further demonstrating discriminant validity.
+
+Table 2
+Properties of measurement scales.
+
+3.4. Common method variance
+
+This study used several procedures suggested by Podsakoff et al.
+(2003) to reduce and evaluate the possibility of common method
+variance (CMV). First, the independent/moderating and dependent
+variables were based on data collecting at different points of time
+and from different informants. Thus, the inﬂuence of CMV can be
+reduced. Second, the order of the questions was mixed by putting
+the items of each construct on different pages with items of the
+other constructs to reduce the contextual inﬂuences. Third, we
+conducted an exploratory factor analysis (EFA) to determine
+whether a single factor explained the majority of the variance
+among the constructs. The results showed that six factors were
+necessary to account for the variances in these constructs and that
+the ﬁrst factor explained less than 50% of the variance (37.0% of
+87.4%). Thus, CMV was not a signiﬁcant concern in this study.
+Fourth, we carried out CFA for Harman's single-factor analysis.
+Harman's
+yielded
+c2(299) ¼ 6359.49 (compared with c2(284) ¼ 721.42 for the CFA
+model). The ﬁt indicated that several distinct factors exist in our
+research, which further suggested that CMV is not a serious
+
+single-factor model
+
+variables
+
+of
+
+Constructs
+
+Mean
+
+S.D.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+0.931
+1. Environmental management systems
+ 0.200**
+2. Switching cost
+3. Competitive intensity
+0.379***
+4. Financial performance
+0.429***
+ 0.017
+5. Market turbulence
+6. Firm innovativeness
+0.638***
+7. Firm size
+0.179**
+8. Firm age
+0.056
+Note: *a ¼ 0.05; **a ¼ 0.01; ***a ¼ 0.001; square root of AVE is on the diagonal.
+
+4.754
+4.021
+5.016
+4.998
+3.659
+4.993
+5.715
+2.446
+
+1.088
+1.498
+1.005
+0.919
+1.303
+1.103
+1.572
+0.787
+
+0.945
+0.221**
+0.037
+0.620***
+0.012
+0.071
+0.047
+
+0.827
+0.252***
+0.355***
+0.512***
+0.286***
+0.173*
+
+0.840
+0.146*
+0.456***
+0.120
+0.126
+
+0.946
+0.108
+0.132
+0.138*
+
+0.937
+0.215**
+0.040
+
+0.500***
+
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+787
+
+problem. Finally, we reexamined the measurement model by add-
+ing a method factor in addition to the traits (Cote and Buckley,
+1987). The results of the method factor model indicated that the
+model ﬁt indices were only marginally improved (NNFI by 0.01 and
+CFI by 0.01), with the common method factor accounting for 2.74%
+of the total variance. In addition, the factor loadings were still
+signiﬁcant in spite of the inclusion of a method factor, indicating
+that the model was robust (Flynn et al., 2010).
+
+4. Analysis and results
+
+In this study, hierarchical moderated regression analysis was
+employed to test the hypotheses. We entered the control variables
+into the regression equation in model 1, all three predictors in
+model 2, three two-way interactions in model 3, and the three-way
+interaction in model 4. The results of the regression analysis are
+shown in Table 3. As presented in Table 3, the relationship between
+EMSs and ﬁnancial performance is positive and signiﬁcant
+(b ¼ 0.228, p < 0.05). Thus, H1 is supported. This is consistent with
+the ﬁndings in previous studies (e.g., Sroufe, 2003; Darnall et al.,
+2008; Chan et al., 2012). Following previous studies (e.g., Hekman
+et al., 2009; Shalley et al., 2009), we ﬁrst assessed the results of
+H4. As illustrated in Table 3, the increase in R2 from model 3 to
+model 4 is 0.009, and it is signiﬁcant (p < 0.10), which indicates that
+the addition of the three-way interaction among EMSs, SC, and CI
+signiﬁcantly increased 0.9% of the explanation of variance in
+ﬁnancial performance. In addition, model 4 in Table 3 reveals that
+the coefﬁcient for the three-way interaction effect is negative and
+signiﬁcant (b ¼  0.159, p < 0.10). These ﬁndings provide support for
+H4.
+
+To further check the nature of the three-way interaction, we
+calculated the slopes of the simple regression equations of ﬁnancial
+performance on EMSs for each of the four types of market condi-
+tions of low and high levels of SC and CI (i.e., one standard deviation
+below and above their respective means) and examined whether
+each simple slope was signiﬁcantly different from zero (Aiken and
+West, 1991). Because the sample size in our study is not particularly
+large, we follow the suggestions of previous studies (Bing et al.,
+2007; Sauley and Bedeian, 1989) in using 0.10 as the signiﬁcance
+level to increase the chances of detecting the effects of interactions.
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+ 
+l
+a
+i
+c
+n
+a
+n
+i
+F
+
+Low SC, Low CI
+High SC, Low CI
+
+Low SC, High CI
+High SC, High CI
+
+Low EMSs
+
+EMSs
+
+High EMSs
+
+Fig. 3. Joint moderating effects of SC and CI on the relationship between EMSs and
+ﬁnancial performance.
+
+The results of the slope tests showed that the effect of EMSs on
+performance was the most positive and signiﬁcant under low SC
+and high CI (simple slope ¼ 0.828, p < 0.001); the second most
+positive and signiﬁcant effect occurred under low SC and low CI
+(simple slope ¼ 0.147, p < 0.10); the least positive effect occurred
+under high SC and high CI (simple slope ¼ 0.035, p > 0.10); and the
+effect was negative but insigniﬁcant happened under high SC and
+low CI (simple slope ¼  0.108, p > 0.10). In this study, we also
+graphed the four preceding simple regression lines following
+Dawson and Richter's (2006) approach. As depicted in Fig. 3, the
+different slopes of these simple regression lines indicate that the
+effects of EMSs on ﬁnancial performance are different across the
+different kinds of market conditions of SC and CI.
+
+Furthermore, Fig. 3 illustrates that the positive slope of ﬁnancial
+performance that regressed on EMSs under low SC and high CI is far
+greater than the positive slope under high SC and high CI. To test
+whether the difference between this pair of simple slopes is
+signiﬁcantly different from zero, we conducted a supplementary
+analysis of slope difference following Dawson and Richter's (2006)
+method. The results indicate that the simple slope under low SC
+and high CI is signiﬁcantly greater than the simple slope under high
+
+Table 3
+Results of hierarchical moderated regression analysis.
+
+Variables
+
+Control variables
+
+Firm size
+Firm age
+Market turbulence
+Firm innovativeness
+
+Main effects
+
+Environmental management systems (EMSs)
+Switching cost (SC)
+Competitive intensity (CI)
+
+Two-way interactions
+
+EMSs  SC
+EMSs  CI
+SC  CI
+
+Three-way interaction
+
+EMSs  SC  CI
+
+F
+R2
+DR2
+F change for DR2
+
+Note:
+
+ya ¼ 0.10; *a ¼ 0.05; **a ¼ 0.01; ***a ¼ 0.001.
+
+Model 1
+
+y
+
+ 0.049
+0.121
+0.087
+0.453***
+
+15.501***
+0.229
+
+Model 2
+
+ 0.049
+0.116
+0.111
+0.301**
+
+0.228*
+0.017
+ 0.038
+
+9.884***
+0.251
+0.023
+y
+2.083
+
+Model 3
+
+ 0.046
+0.072
+0.213*
+0.286**
+
+0.308**
+ 0.099
+ 0.011
+
+ 0.285***
+0.160*
+y
+0.154
+
+9.686***
+0.323
+0.072
+7.157***
+
+Model 4
+
+ 0.042
+0.079
+0.234*
+0.332**
+
+0.267**
+ 0.062
+ 0.058
+
+ 0.310***
+0.244**
+0.183*
+
+y
+
+ 0.159
+9.138***
+0.332
+0.009
+2.800
+
+y
+
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+788
+SC and high CI (Db ¼ 0.793, p < 0.001). This ﬁnding shows that
+EMSs generate much higher performance when SC is low and CI is
+high than when both SC and CI are high.
+
+Finally, we examined H2 and H3. However, we did not interpret
+the two-way interactions because their effects on ﬁnancial per-
+formance depend on a variable that is not included in the interac-
+tion if the effect of three-way interaction is signiﬁcant (Aiken and
+West, 1991). In Table 3, we found that the increase in R2 from
+model 2 to model 3 is signiﬁcant (DR2 ¼ 0.072, p < 0.001). Model 3
+reveals that the coefﬁcient for the two-way interaction between
+EMSs and SC is negative and signiﬁcant (b ¼  0.285, p < 0.001).
+Thus, H2 is supported. Moreover, model 3 indicates that the coef-
+ﬁcient for the two-way interaction between EMSs and CI is positive
+and signiﬁcant (b ¼ 0.160, p < 0.05). This result provides support for
+H3.
+
+5. Discussion and managerial implications
+
+5.1. Discussion
+
+risks of
+
+implementing EMSs,
+
+In this study, we aim to advance the environmental strategy
+literature by simultaneously examining the individual and joint
+moderating effects of SC and CI on the relationship between EMSs
+and ﬁnancial performance. The results reveal that both SC and CI
+have independent moderating effects on the EMSseﬁnancial per-
+formance relationship. This ﬁnding is consistent with the argument
+of Zhu and Sarkis (2007) that ﬁrms should implement environ-
+mental practices to achieve improved performance in highly
+competitive markets. This study also indicates that, as expected,
+when SC is low and CI is high, EMSs have the most positive impact
+on ﬁnancial performance. Interestingly, the performance effect of
+EMSs becomes negative when SC is high and CI is low. This high-
+lights the potential
+including
+increased costs in human resources and management, especially
+when costs for a customer switching to another product or service
+provider is high and market competition is low. These ﬁndings
+show distinct impacts of EMSs on ﬁnancial performance under the
+simultaneous inﬂuence of SC and CI. Further inspection of four
+simple regression lines (see Fig. 3) illustrates how the direction and
+magnitude of the EMSseﬁnancial performance relationship are
+affected by SC and CI concurrently. In speciﬁc, when SC is high, the
+performance effect of EMSs goes from negative to positive as the
+level of CI increases. The ﬁnding that the positive relationship be-
+tween EMSs and ﬁnancial performance is not signiﬁcant in the
+context of high SC and high CI is surprising but plausible because
+loyal customers coupled with frequent price or promotion wars are
+likely to neutralize the potential beneﬁts of EMSs. Moreover, when
+SC is high and CI is low, EMSs could be detrimental to performance
+because the proﬁts from EMSs cannot be sufﬁcient to remedy the
+costs of adopting EMSs. It appears that ﬁerce market competition
+strengthens the necessity of EMSs adoption under less customer
+switching conditions. In other words, the ability of proﬁting from
+EMSs for ﬁrms that operate in markets with high customer SC may
+depend greatly on whether the competition is intense or not.
+
+Similarly, when SC is low, the positive performance effect of
+EMSs increases with the level of CI. These ﬁndings reveal that CI
+may have consistently positive moderating effect on the relation-
+ship between EMSs and ﬁnancial performance regardless of the
+level of SC. However, CI alone may be insufﬁcient because excessive
+competition may render the adoption of EMSs unproﬁtable for
+ﬁrms when the level of SC is high. Although implementing EMSs
+may be beneﬁcial due to a differentiation advantage, “intense
+competition produces pressure on ﬁrms to improve efﬁciency and
+lower prices, which may lead to tighter margins” (Tsai and Yang,
+2013, pp. 1288). Thus, adopting EMSs may not enhance
+
+performance under conditions of high CI and high SC. However, if
+SC is low such competition will be coupled with frequent customer
+switching behaviors. Under this condition, implementing EMSs
+appears to be relatively beneﬁcial for ﬁrms because the value of
+differentiation increases.
+
+Furthermore, when CI is low, the performance effect of EMSs
+decreases with the level of SC. This ﬁnding indicates that ﬁrms with
+idiosyncratic resources, such as EMSs, will not be able to continue
+to exploit these resources to gain a competitive advantage if their
+markets remain relatively high on customer switching and low on
+competition. Similarly, when CI is high, the performance effect of
+EMSs decreases considerably with the level of SC, and the effect is
+the most positive at a low level of SC while it is the least positive at a
+high level of SC. These ﬁndings are remarkable because the previ-
+ous EMSs research on the moderating effects of SC and CI are quite
+limited and has not investigated how the individual moderating
+effect of either SC or CI is dependent on each other. Overall, it ap-
+pears that SC and CI jointly interact with EMSs to inﬂuence the level
+of ﬁnancial performance.
+
+5.2. Theory contributions
+
+Our research contributes to EMSs research in several ways. First,
+this study highlights the important roles of SC and CI in jointly
+inﬂuencing the economic value of EMSs. Our ﬁndings reveal that SC
+and CI synergistically moderate the positive effect of EMSs on
+performance. The performance effect of EMSs becomes increasingly
+positive as SC decreases and CI increases concurrently. The highest
+level of ﬁnancial performance is generated when EMSs and CI are
+high and SC is low. That is, EMSs play an important role in helping
+ﬁrms to be prosperous within a market characterized by low SC and
+high CI. These ﬁndings provide support to the contingent RBV,
+which demonstrates that the value of a ﬁrm's unique resources may
+depend upon relevant environmental conditions (Aragon-Correa
+and Sharma, 2003). In addition, our ﬁndings also serve as sup-
+porting evidence for the dynamic capabilities perspective, which
+suggests that a ﬁrm should align its resources and capabilities with
+the requirements of
+to achieve
+competitive advantage (Teece, 2007). EMSs can help ﬁrms recon-
+ﬁgure their unique resources, and thus, the importance of EMSs is
+ampliﬁed in a market of low SC and intense competition.
+
+the business environment
+
+Second, our ﬁndings further indicate that the performance ef-
+fect of EMSs is contingent on the levels of SC and CI. Contrary to
+traditional wisdom, higher level of EMSs is not always better.
+Although EMSs contribute substantially to performance under
+conditions of low SC and high CI, ﬁrms cannot proﬁt from EMSs
+under conditions of high SC and low CI. In essence, SC and CI jointly
+form the boundary conditions and limit the value of EMSs. From the
+perspective of strategic ﬁt (Grant, 2010; Zajac et al., 2000), the level
+of EMSs should ﬁt with the speciﬁc market conditions that are
+formed by SC and CI to enhance performance.
+
+Third, this study suggests that EMSs are more effective when
+adapting to SC than when coping with CI. The performance effect of
+EMSs is positive and signiﬁcant when both SC and CI are low, while
+it is insigniﬁcant when both SC and CI are high. That is, low SC
+justiﬁes the implementation of EMSs rather than intense compe-
+tition. Moreover,
+the performance effect of EMSs is further
+augmented by the combination of SC and CI. In other words, the
+contribution of EMSs under either SC or CI depends on the level of
+the other. Thus, our ﬁndings suggest that the increase in the value
+of EMSs that occurs due to SC (CI) will be limited unless strong
+competition (low SC) is also present.
+
+Finally, the results of our research reveal that the coexistence of
+SC and CI generates different forms of interactions that inﬂuence
+the effect of EMSs on ﬁnancial performance differently. These
+
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+789
+
+ﬁndings could serve as supporting evidence that SC and CI work
+together to inﬂuence the effectiveness of organizational decisions.
+Thus, this study shows that distinguishing environmental factors
+and examining their joint effects using an interactional perspective
+may be particularly useful for offering important theoretical and
+managerial insights.
+
+5.3. Managerial implications
+
+Our ﬁndings provide practical guidelines for managers. First,
+this study suggests that EMSs is critical for ﬁrms that pursue to
+enhance ﬁnancial performance in markets with low SC and intense
+competition. To ensure success under such complex market con-
+ditions, ﬁrms should cultivate a culture for proactive management
+of their operations, processes and products to minimize negative
+environmental impacts. Managers should encourage employees to
+commit to continuous environmental improvement programs to
+exploit opportunities and neutralizing threats confronting their
+ﬁrms. In addition, managers should be closely involved in the
+process of EMSs implementation, and support EMSs initiatives.
+
+Second, managers should pay attention to customer switching
+behaviors and competitor actions when evaluating the values of
+EMSs. Disregarding either customer intelligence or competitor in-
+telligence will weaken a ﬁrm's ability to proﬁt from EMSs. Since
+implementing EMSs may be costly and risky, managers should align
+their ﬁrms' EMSs efforts with the requirements of environmental
+conditions. If ﬁrms adopting EMSs do not correctly predict and
+interpret varying trends with respect to both customer behaviors
+and competitor actions, they are likely to implement EMSs in the
+wrong time and/or at improper levels.
+
+Third, managers should also be informed that the value of
+EMSs differs across different kinds of market conditions and may
+fail to achieve success under high SC and low CI. To effectively
+allocate and utilize resources, a ﬁrm should match the level of
+EMSs with its particular market conditions. In a market with low
+SC and high CI, a ﬁrm needs to be proactive to adopt EMSs if it
+wants to transform market threats into favorable opportunities.
+However, in a market with less customer switching behavior and
+high competition, a ﬁrm does not need to be very active in
+implementing EMSs because the effect of EMSs on performance is
+rather weak. Under such a scenario, ﬁrms should slow or cut some
+of their investments in activities related to EMSs. Furthermore,
+managers should be aware that EMSs has no inﬂuence on ﬁnancial
+performance in a market with high SC and low competition. In this
+situation,
+the differentiation advantage of EMSs disappears
+because of the relative high loyalty of customers. In sum, man-
+agers should adapt their ﬁrms' degree of EMSs implementation to
+ﬁt with changing market conditions and to take advantage of the
+opportunities created by these conditions in order to achieve
+superior performance.
+
+6. Conclusions, limitations and future directions
+
+6.1. Conclusions
+
+Findings in this study reveal that there is a positive relation-
+ship between EMSs and ﬁnancial performance. This relationship
+is negatively moderated by SC and is positively moderated by CI.
+In addition, SC and CI have a negative joint moderating effect on
+the relationship between EMSs and ﬁnancial performance. Thus,
+this study underpins the important role of market conditions
+in inﬂuencing the performance effect of EMSs. Market conditions
+such as SC and CI also inﬂuence the relationship between
+EMSs and ﬁnancial performance jointly. Overall, this study sig-
+nals the important role of market conditions and calls for
+
+further attention to market conditions as potential moderators
+when investigating the relationship between EMSs and ﬁnancial
+performance.
+
+6.2. Limitations and future directions
+
+This research has some limitations that provide opportunities
+for future research. First, this study used self-reported subjective
+data in each ﬁrm. This approach may generate CMV issues and
+inﬂated the relationship between EMSs and ﬁnancial performance.
+This limitation should be taken into account when interpreting our
+ﬁndings. However, self-reported data are not inherently ﬂawed and
+CMV concerns may be overstated, especially given the complex
+nature of the interaction effects in our study. Despite the results of
+statistical remedies which suggest that CMV issues are not sufﬁ-
+ciently serious, future research could use multiple data sources to
+enhance the reliability of our ﬁndings. For example, future studies
+may combine subjective and objective measures of ﬁnancial
+performance.
+
+Second, our study examines the joint moderating effects of SC
+and CI. However, other factors, such as environmental uncertainty
+and learning orientation may also affect the relationship between
+EMSs and ﬁnancial performance. Future research therefore could
+examine whether and how interactions of other environmental and
+organizational factors inﬂuence the impact of EMSs on ﬁnancial
+performance. A conﬁgurational approach should also be followed
+to gain more insightful ﬁndings. Additionally, future researchers
+could investigate whether the moderating effects of SC and CI
+depend on any additional factors, such as the stage of a ﬁrm's in-
+dustry lifecycle to enrich the research implications.
+
+Third, we only focused on ﬁnancial performance in this study. In
+addition to ﬁnancial performance, investigating the impact of EMSs
+on other forms of ﬁrm performance (e.g., operational performance
+and social performance) may provide more insightful ﬁndings.
+Future studies could consider the inﬂuence of EMSs on other forms
+of ﬁrm performance to enrich and extend the literature on envi-
+ronment management.
+
+Finally, the underlying mechanisms through which EMSs in-
+ﬂuence ﬁnancial performance (i.e., the possible mediator) are still
+not well addressed. To the best of our knowledge, little research has
+empirically investigated this important issue. Future research may
+provide useful insights into management practices by exploring
+why and how other factors, such as customer satisfaction may serve
+as the pathways that mediate the link between EMSs and ﬁnancial
+performance.
+
+Acknowledgements
+
+Our thanks go to the editor and the three anonymous referees.
+This work was supported by the Natural Science Foundation of
+China under Grant (No. 71302090), the National Social Science
+Foundation of China (No. 15BGL073), the Humanity and Social
+Science Youth foundation of Ministry of Education of China (No.
+13YJC630031), and the Ph.D. Programs Foundation of Ministry of
+Education of China (No. 20136102120066).
+
+Appendix A. List of measurement items
+
+Environmental management systems
+
+EMS1: The business plan includes an extensive, detailed section
+that describes our objectives for environmental management
+EMS2: New environmental issues are continually identiﬁed and
+evaluated for their long-term impact
+
+
+790
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+EMS3: We have a responsibility to make environmental de-
+mands on our suppliers (e.g., recycle content of packaging, sol-
+vent emissions, etc.)
+EMS4: We provide our suppliers with detailed, written envi-
+ronmental requirements1
+EMS5: Environmental lifecycle assessment has been used to
+redesign our product or manufacturing process
+EMS6: Formal plans and procedures are in place to identify and
+respond to potential environmental accidents1
+EMS7: A formal, detailed system is used to consider environ-
+mental issues at the beginning of every manufacturing process
+change
+
+FI3: We are creative in the methods of operation in the supply
+chain
+FI4: We frequently introduce new products or services1
+FI5: We often improve the supply chain management process
+
+References
+
+Aiken, L.S., West, S.G., 1991. Multiple Regression: Testing and Interpreting In-
+
+teractions. Sage Publications, Newbury Park, CA.
+
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a
+review and recommended two-step approach. Psychol. Bull. 103 (3), 411e423.
+Anton, C., Camarero, C., Carrero, M., 2007. Analysing ﬁrms' failures as determinants
+of consumer switching intentions: the effect of moderating factors. Eur. J. Mark.
+41 (1/2), 135e158.
+
+Aragon-Correa, J.A., Sharma, S., 2003. A contingent resource-based view of proac-
+
+Switching cost
+
+Customers have to pay a high cost …
+
+SC1: For searching and evaluating information of alternative
+product providers before changing product provider
+SC2: To learn new product after changing product provider
+SC3: To build new relationships after changing product provider
+SC4: For the beneﬁts lost by changing product provider
+
+Competitive intensity
+
+CI1: Competition in our industry is cutthroat
+CI2: There are many “promotion wars” in our industry
+CI3: Any action that a company takes, others can make a
+response swiftly
+CI4: Price competition is a hallmark of our industry1
+CI5: One hears of a new competitive move almost every day
+CI6: Our competitors are relatively strong1
+
+Financial performance
+
+FP1: Return on investment
+FP2: Return on assets1
+FP3: Return on sales
+FP4: Net proﬁt margin
+FP5: Growth in sales
+FP6: Growth in proﬁt
+FP7: Growth in market share1
+
+Market turbulence
+
+MT1: The volumes of demand are difﬁcult to predict
+MT2: Customer demand ﬂuctuates drastically from week to
+week
+MT3: Sales forecasts are likely to be inaccurate
+MT4: Market trends are difﬁcult to monitor
+
+Firm innovativeness
+
+FI1: Improvement and innovation are pervasive in our supply
+chain management
+FI2: New ways and techniques are often used in our supply chain
+management
+
+1 Items are deleted after reliability or validity analysis.
+
+tive corporate environmental strategy. Acad. Manag. Rev. 28 (1), 71e88.
+
+Aragon-Correa,
+
+J.A., Hurtado-Torres, N., Sharma, S., García-Morales, V.J., 2008.
+Environmental strategy and performance in small ﬁrms: A resource-based
+perspective. Journal of Environmental Management 86 (1), 88e103.
+
+Armstrong, J.S., Overton, T., 1977. Estimating non-response bias in mail surveys.
+
+Journal of Marketing Research 14 (3), 396e402.
+
+Auh, S., Menguc, B., 2005. Balancing exploration and exploitation: the moderating
+
+role of competitive intensity. J. Bus. Res. 58 (12), 1652e1661.
+
+Bagozzi, R.P., Yi, Y., 1988. On the evaluation of structural equation models. J. Acad.
+
+Mark. Sci. 16 (1), 74e94.
+
+Baird, P.L., Geylani, P.C., Roberts, J.A., 2012. Corporate social and ﬁnancial perfor-
+mance re-examined: industry effects in a linear mixed model analysis. J. Bus.
+Ethics 109 (3), 367e388.
+
+Baker, W.E., Sinkula, J.M., 2005. Environmental marketing strategy and ﬁrm per-
+formance: effects on new product performance and market share. J. Acad. Mark.
+Sci. 33 (4), 461e475.
+
+Banerjee, S.B., Iyer, E.S., Kashyap, R.K., 2003. Corporate environmentalism: ante-
+
+cedents and inﬂuence of industry type. J. Mark. 67 (2), 106e122.
+
+Bansal, P., Hunter, T., 2003. Strategic explanations for the early adoption of ISO
+
+14001. J. Bus. Ethics 46 (3), 289e299.
+
+Benner, M.J., Tushman, M.L., 2003. Exploitation, exploration, and process manage-
+ment: the productivity dilemma revisited. Acad. Manag. Rev. 28 (2), 238e256.
+Beurden, P.V., Gossling, T., 2008. The worth of values e a literature review on the
+relation between corporate social and ﬁnancial performance. J. Bus. Ethics 82
+(2), 407e424.
+
+Bing, M.N., LeBreton, J.M., Davison, H.K., Migetz, D.Z., James, L.R., 2007. Integrating
+implicit and explicit social cognitions for enhanced personality assessment: a
+general framework for choosing measurement and statistical methods. Organ.
+Res. Methods 10 (2), 346e389.
+
+Chan, R.Y.K., He, H., Chan, H.K., Wang, W.Y.C., 2012. Environmental orientation and
+corporate performance: the mediation mechanism of green supply chain
+management and moderating effect of competitive intensity. Ind. Mark. Manag.
+41 (4), 621e630.
+
+Christmann, P., 2000. Effects of ‘best practices’ of environmental management on
+cost competitiveness: the role of complementary assets. Acad. Manag. J. 43 (4),
+663e880.
+
+Coglianese, C., Nash, J., 2001. Regulating from the inside: Can environmental
+management systems achieve policy goals? Resources for the Future, Wash-
+ington, DC.
+
+Cong, R.G., Wei, Y.M., 2010. Potential impact of (CET) carbon emissions trading on
+China's power sector: a perspective from different allowance allocation options.
+Energy 35 (9), 3921e3931.
+
+Cong, R.G., Wei, Y.M., 2012. Experimental comparison of impact of auction format
+
+on carbon allowance market. Renew. Sustain. Energy Rev. 16 (6), 4148e4156.
+
+Cote, J.A., Buckley, M.R., 1987. Estimating trait, method, and error variance: gener-
+
+alizing across 70 construct validation studies. J. Mark. Res. 24 (3), 315e318.
+
+Dahlstr€om, K., Howes, C., Leinster, P., Skea, J., 2003. Environmental management
+systems and company performance: assessing the case for extending risk-based
+regulation. Eur. Environ. 13 (4), 187e203.
+
+Darnall, N., Henriques, I., Sadorsky, P., 2008. Do environmental management sys-
+tems improve business performance in an international setting? J. Int. Manag.
+14 (4), 364e376.
+
+Darnall, N., Edwards, D., 2006. Predicting the cost of environmental management
+system adoption: the role of capabilities, resources and ownership structure.
+Strat. Manag. J. 27 (4), 301e320.
+
+Dawson, J.F., Richter, A.W., 2006. Probing three-way interactions in moderated
+multiple regression: development and application of a slope difference test.
+J. Appl. Psychol. 91 (4), 917e926.
+
+De Bakker, F.G., Fisscher, O.A., Brack, A.J., 2002. Organizing product-oriented envi-
+J. Clean. Prod. 10 (5),
+
+ronmental management from a ﬁrm's perspective.
+455e464.
+
+Feng, T., Zhao, G., Su, K., 2014. The ﬁt between environmental management systems
+
+and organisational learning orientation. Int. J. Prod. Res. 52 (10), 2901e2914.
+
+Flynn, B.B., Huo, B., Zhao, X., 2010. The impact of supply chain integration on per-
+formance: a contingency and conﬁguration approach. J. Oper. Manag. 28 (1),
+58e71.
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unob-
+
+servable variables and measurement error. J. Mark. Res. 18 (1), 29e50.
+
+
+T. Feng et al. / Journal of Cleaner Production 113 (2016) 781e791
+
+791
+
+Friedl, G., Wagner, S.M., 2012. Supplier development or supplier switching? Int. J.
+
+Prod. Res. 50 (11), 3066e3079.
+
+Germain, R., Claycomb, C., Dr€oge, C., 2008. Supply chain variability, organizational
+structure, and performance: the moderating effect of demand unpredictability.
+J. Oper. Manag. 26 (5), 557e570.
+
+Grant, R.M., 2010. Contemporary Strategy Analysis, seventh ed. John Wiley & Sons
+
+Ltd., West Sussex, UK.
+
+Hair, J.F., Black, W.C., Babin, B.J., Anderson, R.E., 2010. Multivariate Data Analysis:
+Inc., Upper Saddle
+
+a Global Perspective, seventh ed. Pearson Education,
+River, NJ.
+
+Hatch, M.J., Cunliffe, A.L., 2006. Organization Theory: Modern, Symbolic, and
+
+Postmodern Perspectives, second ed. Oxford University Press, New York.
+
+Hekman, D.R., Bigley, G.A., Steensma, H.K., Hereford, J.F., 2009. Combined effects of
+organizational and professional identiﬁcation on the reciprocity dynamic for
+professional employees. Acad. Manag. J. 52 (3), 506e526.
+
+Henard, D.H., Szymanski, D.M., 2001. Why some new products are more successful
+
+than others. J. Mark. Res. 38 (3), 362e375.
+
+Jones, M.A., Mothersbaugh, D.L., Beatty, S.E., 2002. Why customers stay: measuring
+the underlying dimensions of services switching costs and managing their
+differential strategic outcomes. J. Bus. Res. 55 (6), 441e450.
+
+Kerlinger, F., 1986. Foundations of Behavioral Research. Holt, Rinehart, and Winston,
+
+New York.
+
+Klassen, R.D., Whybark, D.C., 1999. The impact of environmental technologies on
+
+manufacturing performance. Acad. Manag. J. 42 (6), 599e615.
+
+Lee, J., Lee, J., Feick, L., 2001. The impact of switching costs on the customer sat-
+isfactioneloyalty link: mobile phone service in France. J. Serv. Mark. 15 (1),
+35e48.
+
+Li, J.J., Poppo, L., Zhou, K.Z., 2008. Do managerial ties in China always produce
+value? Competition, uncertainty, and domestic vs. foreign ﬁrms. Strat. Manag. J.
+29 (4), 383e400.
+
+Li, Y.H., Huang, J.W., Tsai, M.T., 2009. Entrepreneurial orientation and ﬁrm perfor-
+mance: the role of knowledge creation process. Ind. Mark. Manag. 38 (4),
+440e449.
+
+Lo, C.K., Yeung, A.C., Cheng, T.C.E., 2012. The impact of environmental management
+systems on ﬁnancial performance in fashion and textiles industries. Int. J. Prod.
+Econ. 135 (2), 561e567.
+
+Lopez-Gamero, M.D., Molina-Azorín, J.F., Claver-Cortes, E., 2010. The potential of
+environmental regulation to change managerial perception, environmental
+management, competitiveness and ﬁnancial performance. J. Clean. Prod. 18
+(10), 963e974.
+
+Lumpkin, G.T., Dess, G.G., 2001. Linking two dimensions of entrepreneurial orien-
+tation to ﬁrm performance: the moderating role of environment and industry
+life cycle. J. Bus. Ventur. 16 (5), 429e451.
+
+Luo, Y., Park, S.H., 2001. Strategic alignment and performance of market-seeking
+
+MNCs in China. Strat. Manag. J. 22 (2), 141e155.
+
+Melnyk, S.A., Sroufe, R.P., Calantone, R., 2003. Assessing the impact of environ-
+mental management systems on corporate and environmental performance.
+J. Oper. Manag. 21 (3), 329e351.
+
+Menguc, B., Ozanne, L.K., 2005. Challenges of the “green imperative”: a natural
+resource-based approach to the environmental orientationebusiness perfor-
+mance relationship. J. Bus. Res. 58 (4), 430e438.
+
+Panayides, P.M., VenusLun, Y.H., 2009. The impact of trust on innovativeness and
+
+supply chain performance. Int. J. Prod. Econ. 122 (1), 35e46.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y., Podsakoff, N.P., 2003. Common method
+variance in behavioral research: a critical review of the literature and recom-
+mended remedies. J. Appl. Psychol. 88 (5), 879e903.
+
+Rousseau, D.M., Fried, Y., 2001. Location, location, location: contextualizing orga-
+
+nizational research. J. Organ. Behav. 22 (1), 1e13.
+
+Russo, M.V., Fouts, P.A., 1997. A resource-based perspective on corporate environ-
+
+mental performance and proﬁtability. Acad. Manag. J. 40 (3), 534e559.
+
+Sauley, K.S., Bedeian, A.G., 1989. 05: a case of the tail wagging the distribution.
+
+J. Manag. 15 (2), 335e344.
+
+Seiders, K., Voss, G.B., Grewal, D., Godfrey, A.L., 2005. Do satisﬁed customers buy
+more? Examining moderating inﬂuences in a retailing context. J. Mark. 69 (4),
+26e43.
+
+Shalley, C.E., Gilson, L.L., Blum, T.C., 2009. Interactive effects of growth need
+strength, work context, and job complexity on self-reported creative perfor-
+mance. Acad. Manag. J. 52 (3), 489e505.
+
+Sirmon, D.G., Hitt, M.A., Ireland, R.D., 2007. Managing ﬁrm resources in dynamic
+environments to create value: looking inside the black box. Acad. Manag. Rev.
+32 (1), 273e292.
+
+Sroufe, R., 2003. Effects of environmental management systems on environmental
+
+management practices and operations. Prod. Oper. Manag. 12 (3), 416e431.
+
+Teece, D.J., 2007. Explicating dynamic capabilities: the nature and micro founda-
+J. 28 (13),
+
+(sustainable) enterprise performance. Strat. Manag.
+
+tions of
+1319e1350.
+
+Tsai, K.H., Yang, S.Y., 2013. Firm innovativeness and business performance: the joint
+moderating effects of market turbulence and competition. Ind. Mark. Manag. 42
+(8), 1279e1294.
+
+Vachon, S., Klassen, R.D., 2008. Environmental management and manufacturing
+performance: the role of collaboration in the supply chain. Int. J. Prod. Econ. 111
+(2), 299e315.
+
+von Malmborg, F.B., 2002. Environmental management systems, communicative
+
+action and organizational learning. Bus. Strat. Environ. 11 (5), 312e323.
+
+Waddock, S.A., Graves, S.B., 1997. The corporate social performanceeﬁnancial per-
+
+formance link. Strat. Manag. J. 18 (4), 303e319.
+
+Wathne, K.H., Biong, H., Heide, J.B., 2001. Choice of supplier in embedded markets:
+
+relationship and marketing program effects. J. Mark. 65 (2), 54e66.
+
+Wong, C.W., Lai, K.H., Shang, K.C., Lu, C.S., Leung, T.K.P., 2012. Green operations and
+the moderating role of environmental management capability of suppliers on
+manufacturing ﬁrm performance. Int. J. Prod. Econ. 140 (1), 283e294.
+
+Yang, C.L., Lin, S.P., Chan, Y.H., Sheu, C., 2010. Mediated effect of environmental
+management on manufacturing competitiveness: an empirical study. Int. J.
+Prod. Econ. 123 (1), 210e220.
+
+Yee, R.W.Y., Yeung, A.C.L., Cheng, T.C.E., 2010. An empirical study of employee loy-
+alty, service quality and ﬁrm performance in the service industry. Int. J. Prod.
+Econ. 124 (1), 109e120.
+
+Youn, S., Yang, M.G.M., Hong, P., Park, K., 2013. Strategic supply chain partnership,
+environmental supply chain management practices, and performance out-
+comes: an empirical study of Korean ﬁrms. J. Clean. Prod. 56, 121e130.
+
+Zajac, E.J., Kraatz, M.S., Bresser, R.K., 2000. Modeling the dynamics of strategic ﬁt: a
+
+normative approach to strategic change. Strat. Manag. J. 21 (4), 429e453.
+
+Zhang, B., Bi, J., Yuan, Z., Ge, J., Liu, B., Bu, M., 2008. Why do ﬁrms engage in
+environmental management? An empirical study in China. J. Clean. Prod. 16
+(10), 1036e1045.
+
+Zhou, K.Z., Li, C.B., 2010. How strategic orientations inﬂuence the building of dy-
+
+Peteraf, M.A., Barney, J.B., 2003. Unraveling the resource-based tangle. Manag.
+
+namic capability in emerging economies. J. Bus. Res. 63 (3), 224e231.
+
+Decis. Econ. 24 (4), 309e323.
+
+Pfeffer, J., 1997. New Directions for Organization Theory: Problems and Prospects.
+
+Oxford University Press, New York, NY.
+
+Zhu, Q., Sarkis, J., 2007. The moderating effects of institutional pressures on
+emergent green supply chain practices and performance. Int. J. Prod. Res. 45
+(18e19), 4333e4355.
+

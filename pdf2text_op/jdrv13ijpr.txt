@@ -1,0 +1,2103 @@
+International Journal of Production Research,  2013
+Vol. 51, No. 8, 2527–2547,
+
+http://dx.doi.org/10.1080/00207543.2012.720727
+
+Unpacking IT use and integration for mass customisation: a service-dominant logic view
+
+Thawatchai Jitpaiboona, David D. Dobrzykowskib*, T.S. Ragu-Nathanb and Mark A. Vonderembseb
+
+aDepartment of Information Systems & Operations Management, Miller College of Business, Ball State University,
+
+Muncie, IN, USA; bInformation Operations and Technology Management Department,
+
+College of Business and Innovation, University of Toledo, Toledo, OH, USA
+
+(Received 7 December 2011; final version received 6 August 2012)
+
+Significant changes in customer demands for individualised offerings are causing firms to move away from
+mass production strategies toward customisation. Many firms struggle in this migration because the
+requirements for mass customisation (MC) differ greatly from those needed for mass production. As firms
+strive to optimise their interactions with customers and suppliers to produce highly customised offerings at
+near mass production prices, IT use along with customer and supply integration are important organisational
+competencies. Research studies explore many facets of MC but, in regard to IT use for customer and supplier
+integration, most focus on specific activities within the product design and development process. This study
+extends the IT-enabled organisational capabilities line of research, using data collected from 220
+manufacturers, to explore IT use in a comprehensive sense for planning, infrastructural, and operational
+activities in various business processes intended to achieve MC. These findings suggest that comprehensive IT
+use can enhance a firm’s integration efforts with customers and suppliers. These factors, in turn, drive
+operational performance and MC, which lead to firm performance. Grounded in service-dominant logic
+(SDL) theory, these findings provide theoretical and empirical support to explain why customer integration
+may be a driving force in MC.
+
+Keywords: integration; IT-enabled organisational capabilities; mass customisation; service-dominant logic
+
+1. Introduction
+
+Markets are changing rapidly because customers expect new, innovative, differentiate products that are suited to
+their evolving individual needs and tastes (Piller et al. 2004, Chen and Chen 2008). These customer-centric markets
+emphasise quick access to low cost, customised products rather than standardised, mass-produced goods (Duray
+2002, Tu et al. 2004a, Aydin and Gu¨ ngo¨ r 2005, Liu et al. 2012). ‘‘The MC concept is simple, providing personalised
+products at reasonable prices,’’ (Duray 2002, p. 314). While the concept may be simple, coupling manufacturing
+systems designed for efficient mass production with requirements for customisation has proven to be challenging
+(Yassine et al. 2004, Ben-Arieh et al. 2009, Cattani et al. 2010). Highly distributed, global manufacturing systems
+increase the need for information coordination with customers and suppliers and contribute to the challenges of
+achieving mass customisation (MC) (Liu et al. 2008). Understanding that a customer’s unique requirements are
+fundamental to MC has led firms to view customers as strategic partners in the value creation process (Piller et al.
+2004). At the same time, the role of suppliers has become critical because they are asked to design, produce, and
+deliver a large number of differentiated parts and components in small quantities with short lead times and high
+quality (Pine 1993, Tu et al. 2001). As the number of parts in the value chain increases and global sourcing expands,
+the decisions required to coordinate activity expand geometrically so it is not surprising that MC is characterised by
+intense information flow in the value chain (Piller et al. 2004).
+
+Companies use information technology (IT) to connect with customers, enabling them to recognise individual
+preferences, tailor products accordingly, produce in a timely manner, and sell at a reasonable price (Sophie Lee et al.
+2000). IT allows firms to work closely with suppliers, sharing accurate and timely information related to product
+designs, process improvements, and delivery activities so strategic goals, operational performance targets, and
+customisation objectives are attained (Tracey et al. 1999, Dean et al. 2009). These trends have led scholars to suggest
+IT as a key antecedent to MC (Tu et al. 2004a, Bateman and Cheng 2006). This notion is consistent with the
+IT-enabled organisational capabilities literature which suggests that researchers should look beyond the direct
+
+*Corresponding author. Email: david.dobrzykowski@utoledo.edu
+
+ß 201 Taylor & Francis
+
+3 
+
+
+2528
+2
+
+T. Jitpaiboon et al.
+
+effects of IT on firm performance, and unpack ways in which IT enables key organisational capabilities, such as MC
+(for example Pavlou and El Sawy 2006, Rai et al. 2006, Benitez-Amado et al. 2010a, Ghobakhloo et al. 2011). Many
+studies investigating IT and MC have focused on product development (Tan and Vonderembse 2006) or product
+design (Yassine et al. 2004), suggesting that IT can have a positive influence on MC. These studies bring valuable
+understanding to specific IT-related activities, such as information processing, information coordination, and
+information integration within the specific context of product development (see Yassine et al. 2004). However,
+opportunity remains to extend scholarly research in IT and MC to a broader context which includes the managerial
+practices and organisational infrastructure needed for success (Tu et al. 2004a) such as customer and supplier
+integration.
+
+At a high level, this study addresses an important gap in the literature by exploring key intervening variables
+capable of linking IT use and firm performance in the context of MC (Albadvi et al. 2007). In doing so, this research
+informs ‘‘the elusive link between IT and financial performance [which] calls for further research into intermediate
+organisational variables through which IT may influence firm performance,’’ (Tanriverdi 2005, p. 311). Specifically,
+the present study investigates how the use of IT for a comprehensive set of strategic, operational, and infrastructural
+activities can influence managerial practices related to customer and supplier integration. These factors impact MC
+as well as operational and firm performance. This study acknowledges and explores the strategic aspects of IT in
+working with customers and suppliers to make complicated, strategic decisions that improve performance.
+
+2. Theoretical framework and hypothesis development
+
+In the 1987 book, Future Perfect, Stanley Davis coined the term ‘‘mass customisation’’. However, it was Pine (1993)
+who is credited with bringing MC into the operations management field. The concept quickly gained relevance as
+recognised by Lau (1995) who suggests that MC may be the basis of the next industrial revolution. Since Davis
+(1987), scholars have advanced definitions for MC that centre on the ability of a firm to produce a variety of
+customised products quickly, on a large scale, and at a mass production cost (Pine 1993). More specifically, Pine
+(1993), Tu et al. (2001), and others claim that MC is the ability to design, produce, and deliver products quickly to
+meet specific customer needs at a price close to mass production. Researchers suggest that MC is possible because IT
+reduces the trade-off between variety and productivity and provides transparent communication between a firm and
+its trading partners (Tu et al. 2001).
+
+IT is an impetus for a new logic in value creation that centres on collaboration with customers and suppliers
+(Day 2006). This concept, service-dominant logic (SDL), posits that the focus is shifting away from tangibles (skills,
+information, and knowledge) toward intangibles (interactivity, connectivity, and ongoing relationships (Vargo and
+Lusch 2004)). Today, customers and suppliers are no longer external recipients of value created within the focal
+firm, but instead are ‘‘co-creators of value in a network,’’ (Lo Nigro et al. 2006, Schmenner et al. 2009, p. 343).
+Value co-creation has emerged as IT has enabled real time, comprehensive information exchange that facilitates
+integration with customers and suppliers (Lambert and Garcia-Dastugue 2006, Liang et al. 2010). MC is one of the
+phenomena feeding this value co-creation logic (Day 2006, Zhang and Chen 2008). Scholars recognise that the
+‘‘Mass Customisation environment and the transition of customers from being service [value] recipients to service
+[value] co-producers are closely intertwined,’’ (Kalaignanam and Varadarajan 2006, p. 170). Thus, IT enables
+process integration that leads to the development of a higher-order capability for MC and improved firm
+performance (see Rai et al. 2006, Wu et al. 2006, Ghobakhloo et al. 2011).
+
+In advancing MC research, scholars have developed measures for MC (Tu et al. 2001), explored strategies such
+as postponement (Su et al. 2005), created configurational approaches to MC (Duray et al. 2000), and examined
+tactics including better practices for inventory control, planning, and channel management (Duray 2004). In
+contributing to this body of research, the present study explores IT across a variety of business activities and
+processes. Specifically,
+it examines the necessary relationships among IT use (the planning, operational and
+infrastructural perspectives), customer and supplier integration, MC, operational performance, and firm
+performance. These relationships are illustrated in the framework in Figure 1 and are examined through the
+customer value co-creation scholarly stream (Piller et al. 2004). In this way, IT use (including infrastructure)
+influences firm performance mediated by intangible capabilities such as the management of knowledge assets from
+customers and suppliers, as well as operational capabilities (Huang et al. 2006). This is consistent with the business
+value generation process framework put forth by Melville et al. (2004) conceptualising linkages among IT use,
+
+
+International Journal of Production Research
+
+32529
+
+IT  
+use
+(ITU)
+
+H1 
+
+H2 
+
+Customer 
+integration 
+
+(CI) 
+
+H4 
+
+Mass 
+
+customisation 
+
+(MC) 
+
+H6 
+
+Operational 
+performance 
+
+(OP) 
+
+H5 
+
+Supplier 
+integration 
+
+(SI) 
+
+H3 
+
+H8 
+
+H7 
+
+Firm 
+
+performance 
+
+(FP) 
+
+Figure 1. Theorised mass customisation framework.
+
+Table 1. Construct definitions and literature.
+
+Variable
+
+IT use
+
+Customer
+
+integration (CI)
+
+Supplier
+
+integration (SI)
+
+Mass
+
+customisation
+(MC)
+
+Operational
+
+performance
+(OP)
+
+Definition
+
+Literature
+
+The extent to which firms apply computer and
+
+Narasimhan and Kim (2001), Sabherwal and
+
+information technology to support
+infrastructure and operational decision
+making and assist in planning.
+
+The extent to which purchasers take part in
+value-creating activities and processes that
+had previously been in the domain of the
+firm.
+
+The extent to which vendors form cooperative
+relationships by taking part in activities and
+processes that had previously been in the
+domain of the firm.
+
+The extent to which a firm demonstrates the
+ability to produce a variety of customised
+products quickly, at a scale and cost
+comparable to mass production.
+
+The extent to which a firm achieves its
+
+operational goals, specifically related to
+delivery reliability, process flexibility, cost
+leadership, innovation, and product quality.
+
+Chan (2001)
+
+Wikstrom (1996), Koufteros et al. (2005)
+
+Narasimhan and Das (1999), Petersen et al.
+
+(2005a), Petersen et al. (2005b)
+
+Kotha (1995), Duray et al. (2000), Tu et al.
+(2001), Tu et al. (2004b), Liu et al. (2012)
+
+Khurana and Talbot (1998), Roth (1998),
+
+Frohlich and Westbrook (2002),
+Rosenzweig et al. (2003), Liu et al. (2012)
+
+Firm performance
+
+The extent to which a firm fulfils its market
+
+Narasimhan and Kim (2002), Rosenzweig
+
+(FP)
+
+and financial goals.
+
+et al. (2003)
+
+business processes, business process performance, and finally organisational performance. Table 1 provides a
+definition for each variable and summarises the literature.
+
+2.1 Service-dominant logic theory
+
+SDL and its core theme value co-creation are gaining traction in the operations management literature (Schmenner
+et al. 2009). Specifically, the goods dominant view is giving way to a paradigm that emphasises the influential role of
+the customer in co-creating value in an integrative process that develops and delivers products that better meet the
+needs of the customer (Vargo and Lusch 2004). The mass production approach placed the customer outside of the
+value creation process (Prahalad and Ramaswamy 2004). From this perspective, each company reserves a position
+
+
+2530
+4
+
+T. Jitpaiboon et al.
+
+in the value chain with suppliers providing inputs while the focal firm adds value to the product before advancing it
+downstream (Normann and Ramirez 1993). Porter’s (1980) value chain epitomised the unilateral role of the focal
+firm in value creation (Prahalad and Ramaswamy 2004). Today, firms don’t simply add value, they strive to develop
+value creation systems consisting of ‘‘suppliers, business partners, allies, and customers [who] work together to
+co-produce value,’’ (Normann and Ramirez 1993, p. 66).
+
+Co-creating value is based on the notion that knowledge is a key source of competitive advantage (Vargo and
+Lusch 2004). Value co-creation requires an integrated set of economic actors who use IT to motivate this integration
+(Prahalad and Ramaswamy 2004). Thus, ‘‘the efficacy of a MC strategy depends on the technological skills and
+resources at the disposal of the firm to harness a vast amount of information about customers, tailor the product to
+meet the needs of individual customers, and deliver customised products,’’ (Kalaignanam and Varadarajan 2006,
+p. 176). Bateman and Cheng (2006) highlight these as key areas for integration for the firm – IT use, MC, and
+manufacturing capabilities. In this way, IT lays a foundation for ‘‘customer-oriented production systems [to] allow
+the individual customer to specify product characteristics,’’ thereby participating in value co-creation (Aydin and
+Gu¨ ngo¨ r 2005, p. 1144).
+
+2.2 IT use
+
+IT is sometimes viewed as back-office support that is limited to automating clerical functions and creating exception
+reports (Kim and Narasimhan 2002). But, IT can have a strategic role and a direct and favourable impact on value
+creation by building linkages with a firm’s customers and suppliers (Soroor et al. 2009) that lead to better products,
+enhanced productivity, higher quality, better equipment utilisation, reduced space needs, and increased flexibility
+(Kim and Narasimhan 2002). Porter and Millar (1985) asserted that IT use has a significant influence on activities of
+the firm by creating more value for customers, integrating information and material flows, and facilitating the
+development of new value chains. This occurs through the use of a variety of IT applications ranging from strategic
+(planning) to operations (Soroor et al. 2009).
+
+Narasimhan and Kim (2001) propose measuring information systems (IS) utilisation with three sub-constructs:
+(1) IS for infrastructural support (for example, accounting information systems and office information systems);
+(2) IS for value creation management (for example, production plan and process control, sales and price
+management, and inventory and warehouse management), and (3) IS for logistical operations (for example,
+transportation management, automatic ordering, and warehouse location selection). They make two primary
+arguments regarding the strategic use of IS. First, the role of IS must be raised from information processing to value
+chain transformation. Second, IS should not only automate and improve the physical aspect of value creating
+activities, but should create and optimise the structural connections among customers and suppliers.
+
+Building on the work of Narasimhan and Kim (2001), this study defines IT use as the extent to which firms apply
+computers and IT to support infrastructure and operational decision making and assist in strategic planning.
+Network designs and office information systems are types of IT infrastructure that enable firms to reduce costs by
+automating clerical functions. Such efficiencies can benefit customers, but may do so without being explicitly
+apparent (Narasimhan and Kim 2001). For example, production scheduling and inventory control were previously
+managed by operators, but now are handled with automated IT systems that improve outcomes and lower costs.
+Another way firms benefit from IT use is to capture and organise information for strategic decision making. Shortell
+and Zajac (1990, p.828) suggest that a firm’s IT ‘‘planning system provides the basis for deciding what new markets
+to pursue.’’ Kyobe (2004) purports that IT planning plays a significant role in developing core and distinctive
+competencies, which enable a firm to create competitive advantage. Thus, IT use has three sub-constructs: planning
+IT, operational IT, and infrastructural IT. Portions of the instrument from Narasimhan and Kim (2001) are adapted
+for the operational IT and infrastructural IT sub-constructs. The planning IT sub-construct was developed for this
+study.
+
+Planning IT is the extent to which a firm uses IT to formulate, justify, and improve long-range business planning
+and decision making (see Soroor et al. 2009). Planning IT is how well an organisation uses IT for strategic reasons
+such as long-term planning, proactiveness and internal and external analysis (Sabherwal and Chan 2001). It includes
+long-term technology plans, budget plans, investment justification, capacity plans, project analysis, competitor
+analysis, and industry study.
+
+Operational IT is the extent to which a firm uses IT for monitoring, justifying, improving, and controlling day-
+to-day operational decision processes (Sabherwal and Chan 2001). This captures IT use for value creation activities
+
+
+International Journal of Production Research
+
+52531
+
+(Narasimhan and Kim 2001). Operational IT usage promotes the improvement of daily operations to meet
+operational goals (for example, production and quality control, warehouse and space management, customer and
+supplier relationship management, inventory management, material planning, and order fulfilment).
+
+Infrastructural IT is the extent to which a firm uses IT to facilitate information sharing and data communication,
+recommend standards for IT architecture, implement security, and coordinate work activities within the firm.
+It concerns the improvements of information systems and information sharing to harmonise the efforts of managers
+from different parts of the organisation, and it enables them to make decisions that are consistent with company
+goals (for example, setting up data communication facilities, planning and control systems, and disaster recovery
+system).
+
+2.3 Customer and supplier integration
+
+Lambert and Garcia-Dastugue (2006, p. 150) point out that ‘‘failure to integrate activities effectively will hinder
+management’s ability to make the entire value system work (Normann and Ramirez 1993).’’ Integrative
+relationships can be facilitated by the continuous automation and standardisation of internal logistics functions,
+efficient information sharing, and strategic linkages with suppliers and customers. Scholars such as Narasimhan and
+Kim (2002) have examined outcomes of such integration, including performance. Their instrument has three
+dimensions: (1) integration across the supply chain, (2) a company’s integration with customers, and (3) a
+company’s integration with suppliers. Considering the interface of IT, Frohlich and Westbrook (2002) and
+Frohlich (2002) studied the effect of web-based integration on operational performance. They measured
+web-based integration as: e-integration with suppliers and customers. This study builds upon these studies to
+explore customer integration and supplier integration. The instruments for these measures are adapted
+from Frohlich (2002), Frohlich and Westbrook (2002), Koufteros et al. (2005), Peterson et al. (2005a), and
+Peterson et al. (2005b).
+
+Customer integration (CI) is the extent to which purchasers take part in value creating activities and processes
+that previously had been in the domain of a firm (Wikstrom 1996). This includes assessing customer needs and
+tailoring internal activities to meet them (Koufteros et al. 2005). When firms know their customers and become
+committed to understanding and meeting their needs, a strong bond is forged between firms and their customers.
+Integration ensures that the voice of the customer is heard and incorporated into a firm’s outputs.
+
+Supplier integration (SI) is the extent to which vendors form cooperative relationships by taking part in activities
+and processes that had previously been in the domain of the firm. It is characterised by a long-term commitment
+between the collaborators, open communication, and mutual trust. Supplier partnerships involve participants early
+in the product life cycle; thus ensuring early supplier involvement in product design and access to superior supplier
+technologies (Narasimhan and Das 1999, Petersen et al. 2005a, 2005b).
+
+2.4 Mass customisation
+
+Boynton et al. (1994) further developed the MC concept by comparing it with mass production, invention, and
+continuous improvement in a product/process change grid. This illustrates the movement away from mass
+production, suitable for stable environments, toward MC, viewed as more effective in dynamic environments.
+Recognising the important role of speed, Tu et al. (2001) define MC as the ability to produce differentiated products
+with cost effectiveness, volume effectiveness, and responsiveness. Steger-Jensen and Svensson (2004) describe MC as
+involving processes and organisational structures aimed at providing varied and many times individually customised
+goods and services at low costs typically found in mass produced products. Consistent with the literature
+(Kotha 1995, Duray et al. 2000, Steger-Jensen and Svensson 2004, Tu et al. 2004a, 2004b), this study develops a
+measure of MC capability manifested in customisation volume effectiveness – the ability to add product variety
+without sacrificing production volume, customisation responsiveness – the ability to reorganise manufacturing
+process quickly in response to customer requirements, and customisation cost-effectiveness – the ability to
+customise products without increasing manufacturing costs. This study defines MC as the extent to which a firm
+demonstrates the ability to produce a variety of customised products quickly, at a scale and cost comparable to mass
+production.
+
+
+2532
+6
+
+T. Jitpaiboon et al.
+
+2.5 Operational performance
+
+Operational performance (OP) indicators are often used to measure the effects of CI and SI activities on functional
+outcomes. Considerable agreement exists among academics that the performance of manufacturers can be evaluated
+by one or more competitive priorities (Hayes and Wheelwright 1984, Christiansen et al. 2003). Competitive priorities
+are often organised into five areas: quality, delivery, cost, flexibility, and innovation. For example, Taps and Steger-
+Jensen (2007) examined order winners and manufacturing capabilities such as flexibility, delivery reliability, cost
+efficiency, and product innovation. Frohlich and Westbrook (2002) studied the effects of the type of web-based
+demands and supply integration. They used OP as a dependent variable. The benefits of such integration included
+faster delivery time, reduced transaction costs, greater profitability, and higher inventory turnover. Research
+indicates that integration is positively related to capabilities such as quality, delivery, flexibility, and/or cost
+(Khurana and Talbot 1998, Roth 1998, Liu et al. 2012). Consistent with prior research, this study defines OP as the
+extent to which a firm achieves its operational goals, specifically related to delivery reliability, process flexibility,
+cost leadership, innovation, and product quality.
+
+2.6 Firm performance
+
+Firm performance (FP) is the extent to which a firm fulfils its market and financial goals. Wisner (2003) studies the
+effects of supply chain management strategy on FP, which can be measured by market share, return on assets,
+overall product quality, overall competitive position, and overall customer service level. FP is a key outcome
+measure given that a firm’s manufacturing capabilities such as cost, quality, flexibility, and delivery can be linked to
+its competitive priorities (Taps and Steger-Jensen 2007). Rosenzweig et al. (2003) used four items to measure
+business performance including pre-tax return on assets, percentage of revenues from new products, overall
+customer satisfaction, and business unit sales growth. Frohlich (2002) used two items to measure e-business
+performance: annual percent of procurement using the Internet and annual percent of sales/turnover using the
+Internet. Narasimhan and Kim (2002) used sales growth and market share growth with a three-year look-back,
+profitability, return on investment, return on assets, revenue growth, financial liquidity, and net profit to measure
+FP. With concern for rigor, and consistent with previous scholarly work, herein FP is measured by customer
+retention rate, sales growth, return on investment, production throughput time, and overall competitive position.
+
+2.7 Research hypotheses
+
+As shown in Figure 1, firms that seek better performance in today’s customer-centric market may pursue MC.
+In doing so, information integration, facilitated by IT at the strategic and operational levels, should occur among
+supply chain partners (Sabherwal and Chan 2001).
+
+2.7.1 IT use, customer integration, supplier integration, and operational performance
+
+IT can provide planning support, critical infrastructure, and clerical activities that allow firms to function in an
+inter-organisational context. IT systems benefit firms by facilitating innovation through enhanced marketing and
+sales (Miles and Snow 1978) and greater operational harmony with supply chain partners (Sabherwal and Chan
+2001). Value can also result from knowledge gained by sharing information and applying technology to enable the
+supply chain to analyse and respond effectively to customer expectations (Paiva et al. 2008).
+
+Responsiveness to customers comes as the result of internal and external integration (Tracey 2004). Internal
+integration has been shown to be an antecedent of external integration (Tan and Tracey 2007), perhaps owing to the
+need for a firm to possess the internal capacity to process external information (Tu et al. 2006). For example,
+customer information can only be effectively used when a firm is internally integrated with systems such as ERP for
+production planning and control (Turowski 2002). This is consistent with Devaraj et al. (2007) who found that IT
+technology for advanced planning and scheduling can lead to both customer integration and supplier integration
+(see also Kim et al. 2006, Rai et al. 2006). Integration enhances the firm’s capability to cope with growing quality
+expectations, sophisticated customer demands, and other critical issues (Carter and Narasimhan 1996, Lo Nigro
+et al. 2006). As firms move toward integrated customer and supplier activities, IT can facilitate order fulfilment
+(Dean et al. 2009). Customers and suppliers favour IT to communicate order specifications and other information
+among firms. As a result, electronic inter-connectivity has become a competitive necessity to reduce cost and
+
+
+International Journal of Production Research
+
+72533
+
+improve service (Bhatt 2000). Simulation techniques have even been employed to test the phenomenon as
+Gangopadhyay and Huang (2004) show that advances in IT are key drivers of integrations and make information
+sharing possible.
+
+Through the use of networks, shared databases, and other IT systems, duplicate activities can be eliminated, thus
+preventing errors, reducing cycle time in product development, and improving communication as firms move closer
+to the customer (Lo Nigro et al. 2006). These activities serve as a foundation, enabling customers to participate in an
+essential dimension of MC that of value co-creation (Piller et al. 2004, see also Prahalad and Ramaswamy 2004,
+Steger-Jensen and Svensson 2004). These supply chain practices can be enhanced by sharing information with
+suppliers (Zhou and Benton 2007, Dean et al. 2009). This is consistent with value co-creation’s emphasis on
+knowledge, and Day’s (2006) suggestion that IT enables universal connectivity to knowledge that was previously
+dispersed among customers and suppliers and therefore difficult to reach. This is consistent with Callaway and
+Dobrzykowski (2009, p.228), who suggest that ‘‘IT now connects, enables, and even motivates customers to
+participate in value creation (Prahalad and Ramaswamy 2004).’’ Therefore, the following hypotheses are developed.
+
+H1. Firms with a high level of IT use have a high level of customer integration.
+H2. Firms with a high level of IT use have a high level of supplier integration.
+
+In addition to being important for CI and SI, IT use impacts OP because it improves internal planning,
+scheduling, decision making, and control (Soroor et al. 2009). IT use enables cross-functional integration, which
+creates an environment where actors have access to the information, knowledge, and resources necessary for value
+co-creation (Lambert and Garcia-Dastugue 2006). Such environments are referred to as value dense (Normann and
+Ramirez 1993). In the context of value co-creation, scholars have suggested that ‘‘density is the new operations,’’
+(Vargo and Akaka 2009, p.39). This sheds light on how internal activities have a direct impact on the firm’s ability
+to improve efficiency and performance. In this way, IT is an enabler of key operational capabilities (Melville et al.
+2004, Huang et al. 2006) such as innovation (Tarafdar and Gordon 2007, Benitez-Amado et al. 2010a) and cost
+efficiency (Liang et al. 2010), and its impact OP should be assessed separately from the impact of integration on OP.
+This is similar to Bharadwaj et al. (2007) who found that IT use as well as supply chain coordination are positively
+related to operational performance. Having this relationship in the model provides further evidence that the impact
+of external integration on OP is valid. Therefore, the following hypothesis is developed.
+
+H3. Firms with a high level of IT use have a high level of operational performance.
+
+2.7.2 Customer integration and mass customisation
+
+In MC, integration with customers is done in an effort to understand their distinctive requirements. This makes CI
+essential for providing a platform that enables information exchange and value co-creation (Piller et al. 2004, Merle
+et al. 2010). A focus on value co-creation is facilitated through customer intimacy (Lambert and Garcia-Dastugue
+2006). It seems self-evident that firms seeking MC must interact with the customer, otherwise what objectives/
+outcomes would guide the customisation process? This process is more than just asking what the customer wants
+because in many cases customers are bounded by what they know and believe to be possible. As a result, it is
+important to involve customers in product development so the firm is able to understand how and for what purposes
+the customers use the firm’s products. This is supported by Tu et al. (2004b) who found that customer closeness is
+positively related to MC. CI can lead to product ideas that are quite different from the standard product and from
+what other customers want. It is also important to seek follow-up feedback from customers and to use this
+information to change how the firm meets changing customer requirements. Considering value co-creation, this is
+consistent with the findings of Zhang and Chen (2008) who found that CI enhances the firm’s ability to provide
+what the customer wants. Similarly, Kim et al. (2006) found that inter-firm coordination facilitates responsiveness to
+customer needs. Thus, the following hypothesis is proposed.
+
+H4. Firms with a high level of customer integration have a high level of mass customisation.
+
+2.7.3 Supplier integration and operational performance
+
+Work practices, such as integrative activities with suppliers, as well as IT use are posited to influence operational
+performance (Melville et al. 2004). Several research studies (for example, Narasimhan and Jayaram 1998, Frohlich
+and Westbrook 2002, Devaraj et al. 2007) show the close relationship between supplier’s capability/performance and
+
+
+2534
+8
+
+T. Jitpaiboon et al.
+
+the firm’s OP. These studies support the claim that having suppliers involved in production planning, product
+development, and logistics improves supplier performance, which, in turn, improves OP. Further, Rosenzweig et al.
+(2003) examined supply chain integration and found no direct link to customer satisfaction or sales growth.
+‘‘Rather, it appears that the benefits of integration must first be translated into operational capabilities, such as
+product quality, delivery reliability, process flexibility, and cost,’’ (Devaraj et al. 2007, p.1204). This notion is
+likewise supported by Kim et al. (2006) who found that the relationship among inter-firm coordination and
+firm performance is mediated by the responsiveness of the supply chain, an intangible asset of the firm (see also
+Huang et al. 2006). Therefore, the following hypothesis is developed.
+
+H5. Firms with a high level of supplier integration have a high level of operational performance.
+
+2.7.4 Operational performance, mass customisation and firm performance
+
+Part of the foundation for achieving MC is the ability to achieve flexibility while attaining cost leadership, high
+product quality, delivery reliability, and innovation. These factors, which are the essential elements of OP, are vital
+for MC implementation success. So, MC not only requires the firm to integrate customer wants and needs, achieving
+MC also requires the firm to attain these factors in its internal operational processes. This is supported by Liu et al.
+(2006) who, in their high performance manufacturing (HPM) research project, found that many operational
+practices such as feedback to the shop floor, autonomous maintenance, cellular manufacturing, multifunction
+(flexible) employees, and continuous improvement and learning are associated with MC. Further,
+in their
+international study of value co-creation in MC, Hong et al. (2010, p. 566) surveyed over 700 manufacturers and
+provided empirical support for the notion ‘‘that firms in pursuit of MC must first develop flexible and efficient
+processes (Alfnes and Strandhagen 2000) prior to benefiting from IT.’’ Certainly, flexibility is key to MC
+(Huang et al. 2010). Flexibility, innovation, and quick response provide the variety, custom fit, high performance,
+and speed that customers expect (Chen and Chen 2008). Cost, quality, and delivery enable cost effectiveness, volume
+effectiveness, and responsiveness. These attributes are enabled by SI (Zhou and Benton 2007) and position the
+firm to respond effectively as a co-creator of value with the customer. Therefore, the following hypothesis
+is developed.
+
+H6. Firms with a high level of operational performance have a high level of mass customisation.
+
+In addition to having direct, positive, and significant impacts on MC, the elements of OP also have direct,
+positive, and significant impacts on FP. For example, flexibility enables a firm to be more responsive to its
+customers and thus more competitive in the marketplace (Brabazon et al. 2010). Without considering the need for
+customisation, as firms achieve high product quality and delivery reliability, customers are better satisfied so they
+are more loyal and buy more products leading to sales growth. Cost reduction is a key aim for MC (Ben-Arieh et al.
+2009), and innovation strengthens the firm’s position vis-a` -vis its competitors. As such, IT enabled intangible
+capabilities can improve firm performance (Huang et al. 2006, Kim and Cavusgil 2009). Additionally, considering
+the focus of this paper, IT has been shown to influence FP, mediated by dimensions of OP such as agility or
+flexibility (Vickery et al. 2010). Therefore, the following hypothesis is developed.
+
+H7. Firms with a high level of operational performance have a high level of firm performance.
+
+2.7.5 Mass customisation and firm performance
+
+FP is included as an endogenous dependent variable to address the question: will MC actually create higher value
+for the firm? This remains a concern as firms shift from a mass production to an MC strategy. With mass
+production, firms take advantage of economies of scale arising from long production runs and large orders/
+shipments. Some firms have opted to reduce inventory and carrying cost by postponing the final configuration of a
+product until customer requirements become clearer (Alderson 1960). This enables the firm to achieve Pine’s (1993)
+goal for MC by providing enough variety of services so that most customers can find what they want at a reasonable
+price. Another approach centres on involving customers at early stages of product design and manufacturing
+(Rabinovich et al. 2003). In this way, firms can produce a differentiated product that meets customer need, avoid
+product obsolescence and its associated costs (Pine 1993), and achieve better FP. Kotha (1995) provides empirical
+evidence that customers believe that custom products have higher value. In addition, timely and accurate customer
+information reduces the need for forecasting and the associated costs and errors. The process of value co-creation
+
+
+International Journal of Production Research
+
+92535
+
+provides value for both suppliers and customers in MC (Normann and Ramirez 1993, Piller et al. 2004). This value
+results from the enablement of customisation, an intangible asset of the firm, and is expected to translate into FP
+(Huang et al. 2006). These higher-order MC capabilities bring theoretical as well as practical benefit to the firm
+(Ettlie and Ward 1997, Rai et al. 2006, Wu et al. 2006). Therefore, the following hypothesis is developed.
+
+H8. Firms with a high level of mass customisation have a high level of firm performance.
+
+3. Research methodology
+
+Instrument development for all constructs was carried out in three phases: (1) literature review to identify the
+domain of the constructs and generate the initial measurement items (Churchill 1979), (2) review by academic and
+management experts, and (3) Q-sort (Moore and Benbasat 1991) using manufacturing managers. The Q-sort results
+indicate acceptable convergence with the inter-judge raw agreement scores of 91%, overall placement ratio of items
+93%, and the Kappa scores of 90%. The final survey items used in this study can be found in Appendix A.
+
+A cross-sectional self-administered mail survey was conducted. A sample was obtained from the Society of
+Manufacturing Engineers (SME), an internationally known organisation of manufacturing managers and engineers.
+The initial mailing list of 4000 was randomly selected from the SME members in the East North Central and West
+North Central regions. A total of 579 surveys did not reach the targeted respondents because of incorrect addresses,
+235 responses stated that they would not participate and 14 surveys were returned empty. This left 3172 in the
+eligible sample of which 220 surveys were returned providing usable responses. Thus, the response rate for the
+survey is 6.94% (or 220/3172). A response rate of this size is typical in large-scale surveys that require information
+from managers (Pflughoeft et al. 2003, Li et al. 2005, Devaraj et al. 2007, Braunscheidel and Suresh 2009).
+Respondents were primarily employees holding the title of manager or supervisor (80.5%). Of these, 12.3% reported
+the title of CEO or director with the balance reporting general management positions consisting of COOs, chief
+manufacturing engineers, and vice presidents, among others. A self-assessment item measured each respondent’s
+level of computer literacy ranging from 1: know nothing about computers, to 10: expert computer user. In an
+attempt to test for bias between novice and expert computer users, the sample was bifurcated at the mean (m¼ 7.32)
+and all of the variables under study were examined using t-tests. None of the variables in the model produced
+statistically significant results indicating no difference between the novice and expert computer user groups. In terms
+of industry, 71.81% of respondents represented rubber and plastic products (SIC 30), fabricated metal products
+(SIC 34), industrial machinery and equipment (SIC 35), transportation equipment (SIC 37), and other miscellaneous
+manufacturing industries (SIC 39). Annual sales ranged from $10 to over $100 million for 65% of responding firms,
+with 24.1% generating 4 $100 million.
+Non-response bias was tested by comparing results from the first (n¼ 148) and second (n¼ 72) mailings. This is a
+commonly used method for testing non-response bias in operations management research (for examples, see
+Narasimhan and Kim 2001, Tu et al. 2004b, Li et al. 2005, Swafford et al. 2006). Chi-square tests were performed on
+sales volume and t-tests were performed on the summated scale of each construct (Armstrong and Overton 1977).
+The results indicate no significant difference in the data between the early and late responders, suggesting that the
+data is representative of the population.
+
+3.1 Empirical results and hypothesis testing
+
+Structural equation modelling (SEM) was employed to assess the measurement and structural properties of the
+model (James et al. 1982, Swafford et al. 2006). This analysis was conducted using partial least squares (PLS). PLS
+has long been employed in operations management research (see Sambamurthy and Chin 1994, Lee 1997) and its
+general popularity is growing (Henseler et al. 2009). Recent examples of similar studies include Braunscheidel and
+Suresh (2009) who used PLS to examine the influence of internal and external integration on supply chain agility,
+and Rosenzweig (2009) who explored relationships among e-collaboration, operational performance, and business
+performance. The increased popularity of PLS may be owing to its advantages over co-variance-based
+SEM approaches in studies:
+(3)
+testing complex models, and (4) possessing a predictive orientation (Fornell 1982, Hsu et al. 2006,
+Henseler et al. 2009).
+
+(1) exploring new theoretical bases,
+
+(2) analysing smaller sample sizes,
+
+
+2536
+10
+
+T. Jitpaiboon et al.
+
+Table 2. Measurement model factor loadings.
+
+First order construct
+
+Indicators
+
+First order loadings ()
+
+Indicators
+
+First order loadings ()
+
+Planning IT use (PIT)
+5 indicator items
+
+Operational IT use (OIT)
+6 indicator items
+
+Infrastructural IT use (IIT)
+4 indicator items
+Customer integration (CI)
+4 indicator items
+Supplier integration (SI)
+6 indicator items
+
+Mass customisation (MC)
+7 indicator items
+
+Delivery reliability (DR)
+4 indicator items
+Process flexibility (PF)
+4 indicator items
+Cost leadership (CL)
+5 indicator items
+
+Innovation (IN)
+4 indicator items
+Product quality (PQ)
+4 indicator items
+Firm performance (FP)
+4 indicator items
+
+PIT1
+PIT2
+PIT3
+OIT1
+OIT2
+OIT3
+IIT1
+IIT2
+CI1
+CI2
+SI1
+SI2
+SI3
+MC1
+MC2
+MC3
+MC4
+DR1
+DR2
+PF1
+PF2
+CL1
+CL2
+CL3
+IN1
+IN2
+PQ1
+PQ2
+FP1
+FP2
+
+0.82
+0.82
+0.84
+0.82
+0.77
+0.82
+0.89
+0.88
+0.72
+0.79
+0.78
+0.85
+0.78
+0.77
+0.74
+0.83
+0.77
+0.77
+0.83
+0.82
+0.76
+0.57
+0.88
+0.85
+0.82
+0.81
+0.86
+0.82
+0.74
+0.79
+
+PIT4
+PIT5
+
+OIT4
+OIT5
+OIT6
+IIT3
+IIT4
+CI3
+CI4
+SI4
+SI5
+SI6
+MC5
+MC6
+MC7
+
+DR3
+DR4
+PF3
+PF4
+CL4
+CL5
+
+IN3
+IN4
+PQ3
+PQ4
+FP3
+FP4
+
+0.82
+0.81
+
+0.85
+0.77
+0.62
+0.74
+0.67
+0.80
+0.79
+0.82
+0.83
+0.81
+0.80
+0.81
+0.76
+
+0.93
+0.89
+0.85
+0.73
+0.90
+0.93
+
+0.82
+0.67
+0.86
+0.81
+0.77
+0.85
+
+Second order analysis for IT use and operational performance
+
+First order factor
+
+Planning IT use
+Operational IT use
+Infrastructural IT use
+
+IT use second
+
+order loadings ()
+
+First
+
+order factor
+
+Operational performance
+second order loadings ()
+
+0.80
+0.78
+0.81
+
+Delivery reliability
+Process flexibility
+Cost leadership
+Innovation
+Product quality
+
+0.72
+0.66
+0.80
+0.82
+0.82
+
+Note: All coefficients are statistically significant.
+
+4. Measurement model results
+
+Content validity was determined through a comprehensive review of the literature, Q-sort, and assessment by a
+panel of practitioners and academics to ensure that measurement items covered the domain of the construct
+(Nunnally 1978, Churchill 1979). Cronbach’s 
+, composite reliability, and average variance extracted (AVE) were
+used to test reliability. See Table 2.
+
+Convergent validity can be assessed by examining the individual item loadings on their theorised latent variables
+(Swafford et al. 2006). Table 2 displays the standardised item loadings for the measurement models under study
+(Swafford et al. 2006) as well as the path coefficients between the first and second order models (Braunscheidel and
+Suresh 2009). All item loadings are sufficient to demonstrate convergent validity. An additional test of convergent
+validity is provided by assessing AVE values for each construct (Segars 1997). A review of Table 3 reveals that all
+constructs display AVE values 40.50, thus providing further evidence of convergent validity.
+
+Evidence of discriminant validity exists if the AVE of each construct is greater than the square of the correlations
+(Braunscheidel and Suresh 2009). An acceptable alternative suggests that the square root of a construct’s AVE
+
+
+Table 3. Reliability analysis (n¼ 220).
+
+International Journal of Production Research
+
+112537
+
+Scale
+
+IT use
+
+Planning IT
+Operational IT
+Infrastructure IT
+
+Customer integration
+Supplier integration
+Mass customisation
+Operational performance
+
+Delivery reliability
+Process flexibility
+Cost leadership
+Innovation
+Product quality
+Firm performance
+
+Cronbach’s
+
+ min 0.70
+
+Composite
+
+reliability min 0.70
+
+Average variance
+extracted min 0.50
+
+0.71
+0.88
+0.87
+0.81
+0.78
+0.90
+0.90
+0.83
+0.88
+0.80
+0.87
+0.79
+0.86
+0.80
+
+0.91
+0.90
+0.88
+0.86
+0.92
+0.92
+
+0.92
+0.87
+0.91
+0.86
+0.90
+0.87
+
+0.67
+0.61
+0.64
+0.60
+0.66
+0.62
+
+0.73
+0.63
+0.66
+0.62
+0.70
+0.63
+
+Table 4. Discriminant validity (square root of AVE on diagonal in bold).
+
+Planning IT
+
+Operational IT
+
+Infrastructural IT
+
+Customer
+integration
+
+Supplier
+
+integration
+
+Mass
+
+customisation
+
+Planning IT
+Operational IT
+Infrastructural IT
+Customer integration
+Supplier integration
+Mass customisation
+Delivery reliability
+Process flexibility
+Cost leadership
+Innovation
+Product quality
+Firm performance
+
+0.819
+0.457
+0.464
+0.278
+0.245
+0.228
+0.039
+0.188
+0.311
+0.245
+0.217
+0.215
+
+0.781
+0.454
+0.236
+0.248
+0.149
+0.268
+0.179
+0.252
+0.229
+0.239
+0.226
+
+Delivery
+reliability
+
+Process
+flexibility
+
+Delivery reliability
+Process flexibility
+Cost leadership
+Innovation
+Product quality
+Firm performance
+
+0.854
+0.371
+0.313
+0.335
+0.394
+0.227
+
+0.794
+0.432
+0.443
+0.479
+0.322
+
+0.800
+0.225
+0.301
+0.191
+0.158
+0.151
+0.230
+0.263
+0.292
+0.198
+
+Cost
+
+0.775
+0.539
+0.373
+0.202
+0.333
+0.348
+0.368
+0.356
+0.276
+
+leadership
+
+Innovation
+
+0.812
+0.248
+0.189
+0.165
+0.316
+0.358
+0.213
+0.254
+
+Product
+quality
+
+0.787
+0.180
+0.634
+0.380
+0.351
+0.330
+0.381
+
+Firm
+
+performance
+
+0.812
+0.599
+0.542
+0.454
+
+0.787
+0.614
+0.472
+
+0.837
+0.499
+
+0.794
+
+should be greater than the correlations between constructs (Fornell and Larcker 1981, Chin 1998, Koufteros 1999,
+Koufteros et al. 2001). Table 4 displays the correlations between all latent constructs. The square root of the AVE
+for each construct is bolded and can be found on the diagonal. Each is greater than the value of the correlations in
+its corresponding row and column.
+
+Finally, it is important to control for common method bias (CMB) prior to evaluating the structural model.
+CMB can prove problematic in studies that employ survey method from single respondents for data collection by
+inflating or deflating the relationships among variables (causing both Type I and Type II errors) (Podsakoff et al.
+2003). Thus, certain preventive measures were undertaken during the data collection consistent with Rosenzweig
+(2009). The data were also statistically tested for the presence of CMB following data collection. Harman’s (1967)
+
+
+2538
+12
+
+T. Jitpaiboon et al.
+
+Table 5. Structural model resultsy.
+
+Hypothesis
+
+Coefficient
+
+t-value
+
+H1: IT use –4 customer integration
+H2: IT use –4 supplier integration
+H3: IT use –4 operational performance
+H4: Customer integration –4 mass customisation
+H5: Supplier integration –4 operational performance
+H6: Operational performance –4 mass customisation
+H7: Operational performance –4 firm performance
+H8: Mass customisation –4 firm performance
+Notes: ***¼ p 5 0.01; **¼ p 5 0.05.
+yFirm size was employed as a control variable for all endogenous variables.
+
+0.34***
+0.33***
+0.19**
+0.25***
+0.32***
+0.37***
+0.30***
+0.26***
+
+4.49
+4.74
+2.48
+3.85
+4.56
+6.72
+4.90
+3.60
+
+single-factor test is often used to assess CMB (Rosenzweig 2009). In this study, the data do not appear to fit the
+single-factor model, nor does one factor account for a substantial amount of variance. Next, the single-method-
+factor test advocated by Podsakoff et al. (2003) was employed. After controlling for the effects of the latent method
+factor, all of the path loadings of the hypothesised items remained statistically significant on their target constructs
+and the average item variance explained by the substantive constructs was substantially greater than those linked to
+the latent method factor. Further, only a few of the latent method factor coefficients were statistically significant.
+Thus, the presence of CMB is unlikely (Podsakoff et al. 2003, Rosenzweig 2009).
+
+5. Structural model results
+
+The results from assessment of the structural model appear in Table 5. Firm size was included in the structural
+model as a control variable for all of the endogenous variables. All hypothesised relationships are statistically
+significant at p 5 0.05 level or better, while firm size was not statistically significant on any of the endogenous
+variables in the model. Hypothesis 1 is supported (
+ ¼ 0.34, t¼ 4.49), which suggests that IT use has a direct impact
+on CI. Hypothesis 2 is supported (
+ ¼ 0.33, t¼ 4.74), which lends support that IT use has a direct impact on SI.
+Hypothesis 3 is supported at the p 5 0.05 level (
+ ¼ 0.19, t¼ 2.48), which indicates that a high level of IT use leads to
+a high level of OP. Hypothesis 4 is supported (
+¼ 0.25, t¼ 3.85) indicating a high level of CI leads to a high level of
+MC. Hypothesis 5 is supported (
+¼ 0.32, t¼ 4.56). This suggests that a high level of SI leads to a high level of OP.
+Hypothesis 6 is supported (
+¼ 0.37, t¼ 6.72), which lends support to the claim that OP is positively related to MC.
+Hypothesis 7 is supported (
+¼ 0.30, t¼ 4.90), which implies that OP may have a direct effect on FP. Finally,
+Hypothesis 8 is supported (
+¼ 0.26, t¼ 3.60), which implies that MC may have a direct effect on FP. PLS offers
+researchers the advantage of providing R2 values for all endogenous variables in the structural model. The R2 value
+is an estimate of the degree to which the endogenous variable is explained by its predictor(s). In the present model,
+R2 values range from 0.11 to 0.27 (CI¼ 0.11, SI¼ 0.11, MC¼ 0.27, OP¼ 0.17, and FP¼ 0.23) suggesting that the
+variables in the model provide a reasonable explanation for the phenomena under study. These R2 values are
+comparable to other similar studies of supply chain integration (see Rai et al. 2006, Braunscheidel and Suresh 2009).
+
+5.1 Mediation testing
+
+The structural model includes mediation variables (for example, CI, SI, MC, and OP). Menor et al. (2007) describe
+mediation variables as accounting ‘‘for the relation between the predictor and the criterion [variables],’’ (Baron and
+Kenny 1986, p.1176). Additional testing began with the a priori conceptualisation of the structural model path
+relationships based upon theory (SDL – value co-creation) and literature (James et al. 1982). Following Menor et al.
+(2007), direct paths were added to the original mediation relationships. For example, ITU was linked to MC, SI
+linked to FP, CI linked to FP, and so forth. Per Menor et al. (2007, p. 568), ‘‘the mediation effects are then evaluated
+based on changes to the effect of the predictor variable on the criterion variable after controlling for an intervening
+variable (Judd and Kenny 1981).’’ A detailed description of this procedure can be found in James et al. (2006). The
+analysis reveals none of the direct paths added in the revised model produced statistically significant results.
+
+
+Table 6. T-test results of high and low mass customisers.
+
+International Journal of Production Research
+
+132539
+
+Variables
+High MC firms (m 4 3.28, n¼ 129)
+Low MC firms (m 5 3.28, n¼ 91)
+t-value
+
+Planning
+
+IT use
+
+3.72
+3.41
+2.74***
+
+Operational
+
+Infrastructural
+
+IT use
+
+3.93
+3.74
+1.71*
+
+IT use
+
+3.41
+3.19
+1.76*
+
+Customer
+integration
+
+Supplier
+
+integration
+
+3.61
+3.12
+5.33***
+
+2.87
+2.66
+1.98**
+
+Note: ***Significant at p 5 0.01; **significant at p 5 0.05; *significant at p 5 0.1; anchors: 1 (low), 5 (high).
+
+Furthermore, all of the relationships hypothesised in the original model remained significant. This provides evidence
+in support of the mediation relationships conceptualised in the original structural model.
+
+5.2 Mean testing of high and low mass customisers
+
+Further analysis is required to assist managers concerned with making decisions that are capable of advancing their
+firms’ interest in MC. In other words, a contextual question is worthy of consideration: are all firms implementing
+these practices or are these practices more widely adopted by effective mass customisers? This is particularly relevant
+given that studies have shown differences in IT use given differing product goals (Durmusoglu and Barczak 2011).
+In an attempt to inform this curiosity, the sample was bifurcated into high and low MC performers. This was done
+by dividing the sample at the mean of MC (m¼ 3.28). The value is also the sample median. This resulted in a high
+MC group (n¼ 129) and a low MC group (n¼ 91). T-tests were conducted to examine mean differences
+between these groups for planning IT use, operational IT use, infrastructural IT use, CI, and SI. The results
+appear in Table 6.
+The results show that the mean differences between high and low MC groups are highly significant (p 5 0.01) for
+planning IT use (t-value¼ 2.74) and CI (t-value¼ 5.33). SI (t-value¼ 1.98) is also significant at p 5 0.05, and
+operational IT use (t-value¼ 1.71) and infrastructural IT use (t-value¼ 1.76) are marginally significant (p 5 0.1).
+This not only shows important differences between the high and low MC groups, it also indicates that planning IT
+use is greater in the high MC group than the low MC group. This seems logical because most manufacturers
+regardless of the need for MC have adapted IT for operational and infrastructural uses. The high MC group appears
+to recognise the value of planning IT use in working effectively with customers and suppliers to achieve the needed
+integration.
+
+6. Discussion and implications
+
+Underpinned by the IT-enabled organisational capabilities literature stream and service-dominant logic, this paper
+provides a research framework to understand how IT can be deployed in a broad and comprehensive way to achieve
+CI and SI that facilitates MC, OP, and overall FP. From a scholarly perspective, this builds upon the opportunity
+identified by Tu et al. (2004a) for exploring how IT can be an enabler of MC. In doing so, these findings unpack a
+meaningful role for IT use in achieving financial performance in the developing context of MC (Tanriverdi 2005).
+This extends the IT-enabled capabilities literature and positions MC as a higher order organisational capability
+(Pavlou and El Sawy 2006, Rai et al. 2006, Wu et al. 2006, Benitez-Amado et al. 2010b, Ghobakhloo et al. 2011).
+The results of the study also build upon and compliment previous literature (such as Yassine et al. 2004, Albadvi
+et al. 2007), and can assist practitioners in a number of important ways.
+
+The results suggest that IT use for planning, infrastructural, and operational actions can enhance a firm’s
+integration efforts with its customers and suppliers. The ability to integrate with external partners is consistent with
+and expands upon the understanding brought forth by Yassine et al. (2004) who suggested that firms can use IT for
+information coordination and knowledge sharing in new product design. In addition, the t-test suggests that
+planning IT use is more important for MC than is operational or infrastructural IT use. This is meaningful because
+(1) it raises the use of IT from the operational to the planning level, consistent with the suggestion of Narasimhan
+and Kim (2001), and (2) it extends IT use for MC to business processes beyond the NPD context of Yassine et al.
+(2004). As a result, managers who seek to achieve higher levels of integration with customers and suppliers can
+
+
+2540
+14
+
+T. Jitpaiboon et al.
+
+assume a more holistic view when making IT investment decisions, while those who are intently focused on MC are
+well served to place particular emphasis on planning IT use. Building upon Yassine et al. (2004), who suggested that
+managers pursue a balanced IT strategy, this study provides direction for managers regarding which activities and
+IT-enabled business processes can be targeted for such investment.
+
+Second, the comprehensive definitions employed in this study for IT use, CI, and SI provide insight into the
+specific business processes and practices that managers can expect to enhance. These include customer demand
+management, product development, distribution, and customer follow up. Additionally, it supports the work of
+previous scholars such as Yassine et al. (2004) who suggest that the exchange of explicit information alone is
+insufficient for MC and rather requires broader action to incorporate and integrate such information. Also
+important for managers, these results provide useful insights into how IT can be deployed to support suppliers in
+manufacturing, production planning, product development, logistics, inter-organisational crossover activities, and
+business plan preparation.
+
+Third, the findings support the claim that CI impacts MC. To achieve customisation, firms should involve
+customers in product design, production, and distribution activities. These communications are two-way with a firm
+seeking information about customer wants and, more importantly, how customers use the firm’s product (Vargo
+and Lusch 2006) so the firm can see beyond current applications to provide products customers may not articulate.
+Customers should also understand the capabilities of the firm so they can understand what is possible. The
+knowledge gained from CI accompanies the need to link with suppliers. Most firms depend heavily on suppliers for
+parts, components, and services. SI affects cost, quality, flexibility, delivery, and innovation, and has a direct impact
+on the firm’s ability to achieve customised solutions in a timely manner and a low cost. Again, the t-test results add
+value for managers seeking MC by drawing attention to the importance of CI and SI.
+
+SDL theory implies an active role for both customers and suppliers. In this approach, a value dense environment
+is created where customers have access to information, knowledge, and any other resources necessary to define and
+create value (Normann and Ramirez 1993). If this customer-centric shift is indeed underway, these (t-test) results
+would suggest that the importance of CI may have primacy over SI. Knowing this would be important to managers
+seeking to invest in customer relationship and supplier relationship management technologies.
+
+Fourth, in spite of the link between CI and MC, SI still has a substantial impact on OP. To strengthen support
+for this relationship, the research model included the direct impact of IT use on OP. This impact, which is
+documented in the IT and manufacturing literature, is included to ensure that the impact of SI on OP is in addition
+to what can be achieved through IT use. Both relationships are significant at the p 5 0.05 level for IT on OP and
+p 5 0.01 for SI on OP, which provides evidence for the link from SI to OP. While suppliers’ actions impact the firm’s
+OP, it is the firm’s OP that has a direct and statistically significant impact on MC. The firm’s cost, quality,
+flexibility, delivery, and innovation strongly influence the firm’s ability to achieve MC. This further illuminates the
+research of Alfnes and Strandhagen (2000), Liu et al. (2006), and Hong et al. (2010). The firm’s OP, in turn,
+significantly affects overall FP.
+
+Finally, MC has a direct and positive impact on FP. Not only does this provide evidence to motivate continued
+efforts for MC but, in investigating the direct effects, the findings suggest that CI does in fact mediate the
+relationship between IT use and MC. For managers, this provides additional support not only for IT investment,
+but also for effort in the area of integration.
+
+7. Limitations and future research
+
+While this research makes significant contributions from both a theoretical and practical point of view, it has
+limitations. Though this study adequately measures important types of IT use, other key variables are extant which
+are worthy of study, such as the quality of IT use (potentially measured in terms of IT investment), IT personnels’
+skill, and/or intensity (frequency of usage). It is also possible that the measurement items for integration may be
+limited because CI and SI may not be the only factors. However, to preserve parsimony in measurement, this study
+includes only these two variables. Second, individual respondents (manufacturing managers and top managers) were
+asked to respond to many issues including IT use, CI, SI, MC, OP, and FP. The use of a single respondent may
+generate some measurement inaccuracy. Although these biases may be minimised by the sample size in this study,
+future research should seek to utilise multiple respondents from each participating organisation in an effort to
+enhance the reliability of research findings. Third, the response rate of approximately 7%, while comparable to
+similar studies (see Tu et al. 2001, Tu et al. 2004b, Li et al. 2005, Tan and Tracey 2007), is less than hoped for.
+
+
+International Journal of Production Research
+
+152541
+
+A possible cause of the low response rate is the length of questionnaire. Because of time constraints, executives are
+less likely to participate in a lengthy survey. This issue can be addressed by reducing the number of items in the
+questionnaire and focusing on the areas requiring further clarification. Finally, customer characteristics vary based
+on customer type, such as those of industrial clients versus individual consumers. These differences may influence
+the nature of integration relationships. While the present study explores these customer types in an aggregate sense,
+future research exploring them in a bifurcated fashion may yield interesting insights, particularly for Internet-based
+or service firms.
+
+Overall, this study confirms that IT use affects MC capabilities through CI, SI, and OP. Although it is widely
+recognised that technology is a key enabler of CI and SI leading to successful MC, the types of technology used to
+enhance cooperative relationships between a focal firm and its suppliers represents a missing link. Future research
+should pay special attention to the types of technologies used to enhance CI and SI. Future research should also
+examine how these relationships work for large versus small firms as well as firms in different industries.
+
+References
+
+Albadvi, A., Keramati, A., and Razmi, J., 2007. Assessing the impact of information technology on firm performance
+infrastructures and business processes reengineering.
+
+considering the role of intervening variables: organizational
+International Journal of Production Research, 45 (12), 2697–2734.
+
+Alderson, W., 1960. Marketing behavior and executive action. Harvard Business Review, 38 (3), 122.
+Alfnes, E. and Strandhagen, J., 2000. Enterprise design for mass customization: the control model methodology. International
+
+Journal of Logistics: Research and Applications, 3 (2), 111–125.
+
+Armstrong, J.S. and Overton, T.S., 1977. Estimating nonresponse bias in mail surveys. Journal of Marketing Research, 14 (3),
+
+396–402.
+
+Aydin, A.O. and Gu¨ ngo¨ r, A., 2005. Effective relational database approach to represent bills-of-materials. International Journal of
+
+Production Research, 43 (6), 1143–1170.
+
+Baron, R.M. and Kenny, D.A., 1986. The moderator–mediator variable distinction in social psychological research: conceptual,
+
+strategic, and statistical considerations. Journal of Personality and Social Psychology, 51 (6), 1173–1182.
+
+Bateman, R.J. and Cheng, K., 2006. Extending the product portfolio with ‘‘devolved manufacturing’’: methodology and case
+
+studies. International Journal of Production Research, 44 (16), 3325–3343.
+
+Ben-Arieh, D., Easton, T., and Choubey, A.M., 2009. Solving the multiple platforms configuration problem. International
+
+Journal of Production Research, 47 (7), 1969–1988.
+
+Benitez-Amado, J., Llorens-Montes, F.J., and Perez-Arostegui, M.N., 2010a. Information technology-enabled intrapreneurship
+
+culture and firm performance. Industrial Management and Data Systems, 110 (4), 550–566.
+
+Benitez-Amado, J., Perez-Arostegui, M.N., and Tamayo-Torres, J., 2010b. Information technology-enabled innovativeness and
+
+green capabilities. Journal for Computer Information Systems, 51 (2), 87–96.
+
+Bharadwaj, S., Bharadwaj, A., and Bendoly, E., 2007. The performance effects of complementarities between information
+
+systems, marketing, manufacturing, and supply chain processes. Information Systems Research, 18 (4), 437–453.
+
+Bhatt, G.D., 2000. An empirical examination of the effects of information systems integrations on business process improvement.
+
+International Journal of Operations and Production Management, 20 (11), 1331–1359.
+
+Boynton, A.C., Zmud, R.W., and Jacobs, G.C., 1994. The influence of IT management practice on IT use in large organizations.
+
+MIS Quarterly, 18 (3), 299–318.
+
+Brabazon, P.G., et al., 2010. Mass customization in the automotive industry: comparing interdealer trading and reconfiguration
+
+flexibilities in order fulfillment. Production and Operations Management, 19 (5), 489–502.
+
+Braunscheidel, M. and Suresh, N., 2009. The organizational antecedents of a firm’s supply chain agility for risk mitigation and
+
+response. Journal of Operations Management, 27 (2), 119–140.
+
+Callaway, S.K. and Dobrzykowski, D.D., 2009. Service-oriented entrepreneurship: service-dominant logic in green design and
+
+healthcare. Service Science, 1 (4), 225–240.
+
+Carter, J.R. and Narasimhan, R., 1996. Purchasing and supply management: future directions and trends. Journal of Supply
+
+Chain Management, 32 (4), 2–12.
+
+Cattani, K.D., Dahan, E., and Schmidt, G.M., 2010. Lowest cost may not lower total cost: using ‘‘spackling’’ to smooth mass-
+
+customized production. Production and Operations Management, 19 (5), 531–545.
+
+Chen, J. and Chen, F., 2008. Adaptive scheduling and tool flow control in flexible job shops. International Journal of Production
+
+Research, 46 (15), 4035–4059.
+
+Chin, W.W., 1998. Issues and opinion on structural equation modeling. MIS Quarterly, 22 (1), 7–16.
+
+
+2542
+16
+
+T. Jitpaiboon et al.
+
+Christiansen, T., et al., 2003. A mapping of competitive priorities, manufacturing practices, and operational performance in
+groups of Danish manufacturing companies. International Journal of Operations and Production Management, 23 (10),
+1163–1184.
+
+Churchill Jr, G.A., 1979. A paradigm for developing better measures of marketing constructs. Journal of Marketing Research,
+
+16 (1), 64–73.
+
+Davis, S., 1987. Future perfect. Reading, MA: Addison-Wesley Publishing.
+Day, G., 2006. Achieving advantage with a service-dominant logic. In: R. Lusch and S. Vargo, eds. The service-dominant logic of
+
+marketing. Armonk, NY: M.E. Sharpe, 139–149.
+
+Dean, P.R., Tu, Y.L., and Xue, D., 2009. An information system for one-of-a-kind production. International Journal of
+
+Production Research, 47 (4), 1071–1087.
+
+Devaraj, S., Krajewski, L., and Wei, J., 2007. Impact of e-business technologies on operational performance: the role of
+
+production information integration in the supply chain. Journal of Operations Management, 25 (6), 1199–1216.
+
+Duray, R., 2002. Mass customization origins: mass or custom manufacturing. International Journal of Operations and Production
+
+Management, 22 (3), 314–318.
+
+Duray, R., 2004. Mass customizers use of inventory, planning techniques and channel management. Production Planning and
+
+Control, 15 (4), 412–421.
+
+Duray, R., et al., 2000. Approaches to mass customization: configurations and empirical validation. Journal of Operations
+
+Management, 18 (6), 605–625.
+
+Durmusoglu, S.S. and Barczak, G., 2011. The use of information technology tools in new product development phases: analysis
+of effects on new product innovativeness, quality, and market performance. Industrial Marketing Management, 40 (2),
+321–330.
+
+Ettlie, J. and Ward, P., 1997. U.S. Manufacturing in the early 1990s: the chase and challenge. Business Strategy Review, 8 (4),
+
+53–59.
+
+Fornell, C., 1982. A second generation of multivariate analysis: an overview. In: C. Fornell, ed. A second generation of
+
+multivariate analysis. New York: Praeger, 1–21.
+
+Fornell, C. and Larcker, D.F., 1981. Evaluating structural equation models with unobservable variables and measurement error.
+
+Journal of Marketing Research, 18 (1), 39–50.
+
+Frohlich, M.T., 2002. E-integration in the supply chain: barriers and performance. Decision Sciences, 33 (4), 537–555.
+Frohlich, M.T. and Westbrook, R., 2002. Demand chain management in manufacturing and services: web-based integration,
+
+drivers, and performance. Journal of Operations Management, 20 (6), 729–745.
+
+Gangopadhyay, A. and Huang, Z., 2004. Studying the value information sharing in e-business supply chain management.
+
+Journal of International Technology and Information Management, 13 (1), 49–60.
+
+Ghobakhloo, M., et al., 2011. Electronic commerce-enabled supply chain process integration and business value. Journal of
+
+Systems and Information Technology, 13 (4), 344–368.
+
+Harman, H., 1967. Modern factor analysis. Chicago: University of Chicago Press.
+Hayes, R.H. and Wheelwright, S.C., 1984. Restoring our competitive edge: competing through manufacturing. Hoboken, NJ: John
+
+Wiley and Sons.
+
+Henseler, J., Ringle, C., and Sinkovics, R., 2009. The use of partial least squares path modeling in international marketing.
+
+New Challenges to International Marketing, 20, 277–319.
+
+Hong, P.C., Dobrzykowski, D.D., and Vonderembse, M.A., 2010. Integration of supply chain IT and lean practices for mass
+customization: benchmarking of product and service focused firms. Benchmarking: an International Journal, 17 (4),
+561–592.
+
+Hsu, S.H., Chen, W.H., and Hsieh, M.J., 2006. Robustness testing of PLS, LISREL, EQS, and ANN-based SEM for measuring
+
+customer satisfaction. Total Quality Management, 17 (3), 355–371.
+
+Huang, S.M., et al., 2006. An empirical study of relationship between IT investment and firm performance: a resource-based
+
+perspective. European Journal of Operational Research, 173 (3), 984–999.
+
+Huang, X., Kristal, M.M., and Schroeder, R.G., 2010. The impact of organizational structure on mass customization capability:
+
+a contingency view. Production and Operations Management, 19 (5), 515–530.
+
+James, L.R., Mulaik, S.A., and Brett, J.M., 1982. Causal analysis: assumptions, models and data. Beverly Hills: Sage.
+James, L.R., Mulaik, S.A., and Brett, J.M., 2006. A tale of two methods. Organizational Research Methods, 9 (2), 233–244.
+Judd, C.M. and Kenny, D.A., 1981. Process analysis: estimating mediation in treatment evaluations. Evaluation Review, 5 (5),
+
+602–619.
+
+Kalaignanam, K. and Varadarajan, R., 2006. Customers as co-producers. In: R. Lusch and S. Vargo, eds. The service-dominant
+
+logic of marketing. Armonk, NY: M.E. Sharpe, 166–179.
+
+Khurana, A. and Talbot, B., 1998. The internationalization process model through the lens of the global color picture tube
+
+industry. Journal of Operations Management, 16 (2–3), 215–239.
+
+Kim, D. and Cavusgil, E., 2009. The impact of supply chain integration on brand equity. Journal of Business and Industrial
+
+Marketing, 24 (7), 496–505.
+
+
+International Journal of Production Research
+
+172543
+
+Kim, D., Cavusgil, S.T., and Calantone, R.J., 2006. Information system innovations and supply chain management: channel
+
+relationships and firm performance. Journal of the Academy of Marketing Science, 34 (1), 40–54.
+
+Kim, S.W. and Narasimhan, R., 2002. Information system utilization in supply chain integration efforts. International Journal of
+
+Production Research, 40 (18), 4585–4609.
+
+Kotha, S., 1995. Mass customization: implementing the emerging paradigm for competitive advantage. Strategic Management
+
+Journal, 16 (S1), 21–42.
+
+Koufteros, X., 1999. Testing a model of pull production: a paradigm for manufacturing research using structural equation
+
+modeling. Journal of Operations Management, 17 (4), 467–488.
+
+Koufteros, X., Vonderembse, M., and Jayaram, J., 2005. Internal and external integration for product development: the
+
+contingency effects of uncertainty, equivocality, and platform strategy. Decision Sciences, 36 (1), 97–133.
+
+Koufteros, X., Vonderembse, M.A., and Doll, W., 2001. Concurrent engineering and its consequences. Journal of Operations
+
+Management, 19 (1), 97–115.
+
+Kyobe, M.E., 2004. Investigating the strategic utilization of IT resources in the small and medium-sized firms of the eastern free
+
+state province. International Small Business Journal, 22 (2), 131–158.
+
+Lambert, D. and Garcia-Dastugue, S.J., 2006. Cross-functional business processes
+
+implementation of
+service-dominant logic. In: R. Lusch and S. Vargo, eds. The Service-Dominant Logic of Marketing. Armonk, NY: M.E.
+Sharpe, 150–165.
+
+the
+
+for
+
+Lau, S.R.M., 1995. Mass customization: the next industrial revolution. Industrial Management, 37 (5), 18–19.
+Lee, D., 1997. The impact of poor performance on risk-taking attitudes: a longitudinal study with a PLS causal modeling
+
+approach. Decision Sciences, 28 (1), 59–80.
+
+Li, S., et al., 2005. Development and validation f a measurement instrument for studying supply chain management practices.
+
+Journal of Operations Management, 23 (6), 618–641.
+
+Liang, T.P., You, J.J., and Liu, C.C., 2010. A resource-based perspective on information technology and firm performance: a
+
+meta analysis. Industrial Management and Data Systems, 110 (8), 1138–1158.
+
+Liu, X., et al., 2008. Manufacturing perspective of enterprise application integration: the state of the art review. International
+
+Journal of Production Research, 46 (16), 4567–4596.
+
+Liu, J., Shah, R., and Schroeder, R., 2006. Linking work design to mass customization: a sociotechnical systems perspective.
+
+Decision Sciences, 37 (4), 519–545.
+
+Liu, J., Shah, R., and Schroeder, R., 2012. The relationships among functional integration, mass customisation, and firm
+
+performance. International Journal of Production Research, 50 (3), 677–690.
+
+Lo Nigro, G., Bruccoleri, M., and Perrone, G., 2006. Negotiation in distributed production planning environments. International
+
+Journal of Production Research, 44 (18–19), 3743–3758.
+
+Melville, N., Kraemer, K., and Gurbaxani, V., 2004. Review: information technology and organizational performance: an
+
+integrative model of IT business value. MIS Quarterly, 28 (2), 283–322.
+
+Menor, L., Kristal, M.M., and Rosenzweig, E., 2007. Examining the influence of operational intellectual capital on capabilities
+
+and performance. Manufacturing and Service Operations Management, 9 (4), 559–578.
+
+Merle, A., et al., 2010. Perceived value of mass-customized product and mass customization experience for individual consumers.
+
+Production and Operations Management, 19 (5), 503–514.
+
+Miles, R.E. and Snow, C.C., 1978. Organizational strategy, structure, and process. New York: McGraw-Hill.
+Moore, G.C. and Benbasat, I., 1991. Development of an instrument to measure the perceptions of adopting and information
+
+technology innovation. Information Systems Research, 2 (3), 192–222.
+
+Narasimhan, R. and Das, A., 1999. An empirical investigation of the contribution of strategic sourcing to manufacturing
+
+flexibilities and performance. Decision Sciences, 30 (3), 683–718.
+
+Narasimhan, R. and Jayaram, J., 1998. Casual linkages in supply chain management: an exploratory study of North American
+
+manufacturing firms. Decision Sciences, 29 (3), 579–605.
+
+Narasimhan, R. and Kim, S.W., 2001. Information system utilization strategy for supply chain integration. Journal of business
+
+logistics, 22 (2), 51–75.
+
+Narasimhan, R. and Kim, S.W., 2002. Effect of supply chain integration on the relationship between diversification and
+
+performance: evidence from Japanese and Korean firms. Journal of Operations Management, 20 (3), 303–323.
+
+Normann, R. and Ramirez, R., 1993. From value chain to value constellation: designing interactive strategy. Harvard Business
+
+Review, 71 (4), 65–77.
+
+Nunnally, J.C., 1978. Psychometric Theory. NY: McGraw Hill.
+Paiva, E., Roth, A., and Fensterseifer, J., 2008. Organizational knowledge and the manufacturing strategy process: a resource-
+
+based view analysis. Journal of Operations Management, 26 (1), 115–132.
+
+Pavlou, P.A. and El Sawy, O.A., 2006. From IT leveraging competence to competitive advantage in turbulent environments: the
+
+case of new product development. Information Systems Research, 17 (3), 198–227.
+
+Petersen, K.J., Handfield, R.B., and Ragatz, G.L., 2005a. Supplier integration into new product development: coordinating
+
+product, process, and supply chain design. Journal of Operations Management, 23 (3–4), 371–388.
+
+
+2544
+18
+
+T. Jitpaiboon et al.
+
+Petersen, K.J., Ragatz, G.L., and Monczka, R.M., 2005b. An examination of collaborative planning effectiveness and supply
+
+chain performance. Journal of Supply Chain Management, 41 (2), 14–25.
+
+Pflughoeft, K.A., et al., 2003. Multiple conceptualizations of small business web use and benefit. Decision Sciences, 34 (3),
+
+467–512.
+
+Piller, T.F., Moeslein, K., and Stotko, C.M., 2004. Does mass customization pay? An economic approach to evaluate customer
+
+integration. Production Planning and Control, 15 (4), 435–444.
+
+Pine II, B.J., 1993. Mass Customization: the new frontier in business competition. Boston, MA: Harvard Business School Press.
+Podsakoff, P.M., et al., 2003. Common method biases in behavioral research: a critical review of the literature and recommended
+
+remedies. Journal of Applied Psychology, 88 (5), 879–903.
+
+Porter, M.E., 1980. Competitive strategy: techniques for analyzing industries and competitors. New York, NY: The Free Press.
+Porter, M.E. and Millar, V.E., 1985. How information gives you competitive advantage. Harvard Business School, 63 (4),
+
+149–161.
+
+Prahalad, C. and Ramaswamy, V., 2004. Co-creation experiences: the next practice in value creation. Journal of Interactive
+
+Marketing, 18 (3), 5–14.
+
+Rabinovich, E., Dresner, M.E., and Evers, P.T., 2003. Assessing the effects of operational processes and information systems on
+
+inventory performance. Journal of Operations Management, 21 (1), 63–80.
+
+Rai, A., Patnayakuni, R., and Seth, N., 2006. Firm performance impacts of digitally enabled supply chain integration
+
+capabilities. MIS Quarterly, 30 (2), 225–246.
+
+Rosenzweig, E.D., 2009. A contingent view of e-collaboration and performance in manufacturing. Journal of Operations
+
+Management, 27 (6), 462–478.
+
+Rosenzweig, E.D., Roth, A.V., and Dean Jr, J.W., 2003. The influence of an integration strategy on competitive capabilities and
+business performance: an exploratory study of consumer products manufacturers. Journal of Operations Management,
+21 (4), 437–456.
+
+Roth, A.V., 1998. The second generation of quality: global supply chain integration in Japan and the United States.
+
+In: J.W. Cortada and J.A. Woods, eds. The quality yearbook. NY: McGraw-Hill, 38.1–38.44.
+
+Sabherwal, R. and Chan, Y., 2001. Alignment between business and IS strategies: a study of prospectors, analyzers and
+
+defenders. Information Systems Research, 12 (1), 11–33.
+
+Sambamurthy, V. and Chin, W.W., 1994. The effects of group attitudes toward alternative GDSS designs on the decision-making
+
+performance of computer-supported groups. Decision Sciences, 25 (2), 215–241.
+
+Schmenner, R.W., et al., 2009. Too much theory, not enough understanding. Journal of Operations Management,
+
+27 (5), 339–343.
+
+Segars, A.H., 1997. Assessing the unidimensionality of measurement: a paradigm and illustration within the context of
+
+information systems research. Omega, 25 (1), 107–121.
+
+Shortell, S.M. and Zajac, E.J., 1990. Perceptual and archival measures of Miles and Snow’s strategic types: a comprehensive
+
+assessment of reliability and validity. Academy of Management Journal, 33 (4), 817–832.
+
+Sophie Lee, C.H., Barua, A., and Whinston, A.B., 2000. The complementary of mass customization and electronic commerce.
+
+Economic Innovation New Technology, 9 (2), 81–109.
+
+Soroor, J., Tarokh, M.J., and Keshtgary, M., 2009. Preventing failure in IT-enabled systems for supply chain management.
+
+International Journal of Production Research, 47 (23), 6543–6557.
+
+Steger-Jensen, K. and Svensson, C., 2004. Issue of mass customisation and supporting IT-solutions. Computers in Industry,
+
+54 (1), 83–103.
+
+Su, J.C.P., Chang, Y.L., and Ferguson, M., 2005. Evaluation of postponement structures to accommodate mass customization.
+
+Journal of Operations Management, 23 (3–4), 305–318.
+
+Swafford, P.M., Ghosh, S., and Murthy, N., 2006. The antecedents of supply chain agility of a firm: scale development and
+
+model testing. Journal of Operations Management, 24 (2), 170–188.
+
+Tan, C. and Tracey, M., 2007. Collaborative new product development environments:
+
+implications for supply chain
+
+management. Journal of Supply Chain Management, 43 (3), 2–15.
+
+Tan, C. and Vonderembse, M., 2006. Mediating effects of computer-aided design usage: from concurrent engineering to product
+
+development performance. Journal of Operations Management, 24 (5), 494–510.
+
+Tanriverdi, H., 2005. Information technology relatedness, knowledge management capability, and performance of multibusiness
+
+firms. MIS Quarterly, 29 (2), 311–334.
+
+Taps, S.B. and Steger-Jensen, K., 2007. Aligning supply chain design with manufacturing strategies in developing regions.
+
+Production Planning & Control, 18 (6), 475–486.
+
+Tarafdar, M. and Gordon, S.R., 2007. Understanding the influence of information systems competencies on process innovation:
+
+a resource-based view. Journal of Strategic Information Systems, 16 (4), 353–392.
+
+Tracey, M., 2004. A Holistic approach to new product development: new insights. Journal of Supply Chain Management, 40 (4),
+
+37–55.
+
+
+International Journal of Production Research
+
+192545
+
+Tracey, M., Vonderembse, M.A., and Lim, J., 1999. Manufacturing technology and strategy formulation: keys to enhance
+
+competitiveness and improving performance. Journal of Operations Management, 17 (4), 411–429.
+
+Tu, Q., et al., 2004b. Measuring modularity-based manufacturing practices and their impact on mass customization capability: a
+
+customer-driven perspective. Decision Sciences, 35 (2), 147–168.
+
+Tu, Q., et al., 2006. Absorptive capacity: enhancing the assimilation of time-based manufacturing practices. Journal of Operations
+
+Management, 24 (5), 692–710.
+
+Tu, Q., Vonderembse, M.A., and Ragu-Nathan, T.S., 2001. The impact of time-based manufacturing practices on mass
+
+customization and value to customer. Journal of Operations Management, 19 (2), 201–217.
+
+Tu, Q., Vonderembse, M.A., and Ragu-Nathan, T.S., 2004a. Manufacturing practices: antecedents to mass customization.
+
+Production Planning and Control, 15 (4), 373–380.
+
+Turowski, K., 2002. Agent-based e-commerce in case of mass customization. International Journal of Production Economics,
+
+75 (1–2), 69–81.
+
+Vargo, S. and Akaka, M., 2009. Service-dominant logic as a foundation for service science: clarifications. Service Science Journal,
+
+1 (1), 32–41.
+
+Vargo, S. and Lusch, R., 2004. Evolving to a new dominant logic for marketing. The Journal of Marketing, 68 (1), 1–17.
+Vickery, S.K., et al., 2010. Supply chain information technologies and organisational
+
+initiatives: complementary versus
+International Journal of Production Research, 48 (23),
+
+independent effects on agility and firm performance.
+7025–7042.
+
+Wikstrom, S., 1996. Value creation by company-consumer interaction. Journal of Marketing Management, 12 (5), 359–374.
+Wisner, J.D., 2003. A structural equation model of supply chain management strategies and firm performance. Journal of
+
+Business Logistics, 24 (1), 1–26.
+
+Wu, F., et al., 2006. The impact of information technology on supply chain capabilities and firm performance: a resource-based
+
+view. Industrial Marketing Management, 35 (4), 493–504.
+
+Yassine, A., et al., 2004. Investigating the role of IT in customized product design. Production Planning and Control, 15 (4),
+
+422–434.
+
+Zhang, X. and Chen, R., 2008. Examining the mechanism of the value co-creation with customers. International Journal of
+
+Production Economics, 116 (2), 242–250.
+
+Zhou, H. and Benton, W., 2007. Supply chain practice and information sharing. Journal of Operations Management, 25 (6),
+
+1348–1365.
+
+Appendix A. Measurement of research constructs (dropped items in italics)
+IT Use (ITU): The following situations describe the extent to which the manufacturing department uses information technology
+(IT) for strategic (planning), operational, and infrastructural purposes. Please circle the appropriate number to indicate the
+extent to which you agree or disagree with each statement as applicable to your unit. (Scale: 1-strongly disagree; 2-disagree;
+3-neutral; 4-agree; 5-strongly agree.)
+
+In our manufacturing department, we use IT for. . .
+Planning IT (PIT)
+
+PIT1
+PIT2
+PIT3
+PIT4
+PIT5
+PIT6
+
+Long-term technology justification and planning
+Budget justification and planning
+Investment justification and planning
+Long-term capacity planning
+Long-term project planning
+Project feasibility analysis
+
+Operational IT (OIT)
+
+OIT1
+OIT2
+OIT3
+OIT4
+OIT5
+OIT6
+OIT7
+
+Daily production control
+Daily product quality control
+Daily products distribution management
+Daily product movement planning
+Daily material requirement planning
+Daily warehouse/space management
+Daily inventory management
+
+
+2546
+20
+
+T. Jitpaiboon et al.
+
+Infrastructural IT (IIT)
+
+IIT1
+
+IIT2
+IIT3
+IIT4
+IIT5
+
+Plant layout management and control (for example, locations of machines/tools, line configuration, safety staircase)
+
+Floor plan management (for example, material flow in/out plans, space management)
+Setting up advanced manufacturing technology (for example, CAD/CAM, Robots, EDI)
+Setting up security services (for example, control room, video camera, automatic door, intercom)
+Setting up information disaster recovery system (for example, disk redundancy, backup facility)
+
+Customer and Supplier Integration (CI and SI): The following statements describe the extent to which the manufacturing
+department interacts with its customers and suppliers. Please circle the appropriate number to indicate the extent to which you
+agree or disagree with each statement as applicable to your unit. (Scale: 1-very low; 2-low; 3-moderate; 4-high; 5-very high.)
+
+CI1
+
+CI2
+CI3
+CI4
+CI5
+SI1
+SI2
+SI3
+SI4
+SI5
+SI6
+
+The willingness of customers to share their market demands
+
+The participation level of customers in product development processes
+The participation level of customers in finished goods distribution processes
+The extent of follow-up with customers for feedback
+The participation level of customers in manufacturing processes
+The participation level of suppliers in manufacturing processes
+The participation level of suppliers in production planning processes
+The participation level of suppliers in product development processes
+The participation level of suppliers in logistics processes
+The level of crossover of activities between our firm and our suppliers
+The level of supplier involvement in preparing our business plans
+
+Mass customisation (MC): The following statements measure firm’s capability to customise products inexpensively and
+quickly. Please circle the appropriate number that best indicates your perception of the relative capabilities of your firm as
+compared to the industry average. (Scale: 1-very low; 2-low; 3-moderate; 4-high; 5-very high.)
+
+MC1
+MC2
+MC3
+MC4
+MC5
+MC6
+MC7
+MC8
+MC9
+
+Our capability of customising products at low cost is
+Our capability of translating customer requirements into technical designs quickly is
+Our capability of adding product variety without increasing cost is
+Our capability of customising products while maintaining a large volume is
+Our capability of setting up for a different product a low cost is
+Our capability of adding product variety without sacrificing overall production volume is
+Our capability of changeover to a different product quickly is
+Our capability of customising products on a large scale is
+Our capability of responding to customisation requirements quickly is
+
+Operational performance (OP): The following statements describe typical operational performance objectives for a firm.
+Please circle the number that best indicates the level of your firm’s attainment of each objective. (Scale: 1-strongly disagree;
+2-disagree; 3-neutral; 4-agree; 5-strongly agree.)
+
+Delivery reliability (DR)
+
+DR1
+DR2
+DR3
+DR4
+
+Deliver materials/components/products as promises.
+Provide fast delivery.
+Provide on-time delivery.
+Provide reliable delivery.
+
+Process flexibility (PF)
+
+PF1
+PF2
+PF3
+PF4
+PF5
+PF6
+
+Make rapid design changes.
+Make rapid production volume changes.
+Make rapid changeover between product lines.
+Process both large and small orders.
+Produce a variety of different products.
+Increase capacity utilisation.
+
+
+International Journal of Production Research
+
+212547
+
+Cost leadership (CL)
+
+CL1
+CL2
+CL3
+CL4
+CL5
+
+Produce materials/components/products at low cost.
+Reduce production cost.
+Reduce inventory cost.
+Reduce unit cost.
+Increase labour productivity.
+
+Innovation (IN)
+
+IN1
+IN2
+IN3
+IN4
+
+Develop new ways of customer service.
+Develop new forms of shop floor management.
+Develop new ways of supply chain management.
+Develop new process technologies.
+
+Product quality (PQ)
+
+PQ1
+PQ2
+PQ3
+PQ4
+
+Provide better product performance.
+Provide product conformance to specifications.
+Improve product reliability.
+Reduce defective rate.
+
+Firm performance (FP): The following statements measure overall performance of your firm. Please circle the appropriate
+number that best indicates the level of your firm’s overall performance. (Scale: 1-very low; 2-low; 3-moderate; 4-high; 5-very
+high.)
+
+FP1
+
+FP2
+FP3
+FP4
+FP5
+
+Customer retention rate.
+
+Sales growth.
+Return on investment.
+Overall competitive position.
+Production throughput times.
+
+
+Copyright of International Journal of Production Research is the property of Taylor & Francis Ltd and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for individual use.
+

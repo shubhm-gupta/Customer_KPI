@@ -1,0 +1,5657 @@
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+OrganizationScience
+Vol. 19, No. 1, January–February 2008, pp. 56–68
+issn 1047-7039(cid:1) eissn 1526-5455(cid:1) 08(cid:1) 1901(cid:1) 0056
+
+informs ®
+
+doi 10.1287/orsc.1070.0294
+© 2008 INFORMS
+
+Managing the Impact of Employee Turnover on
+Performance: The Role of Process Conformance
+
+Zeynep Ton, Robert S. Huckman
+
+Harvard Business School, Boston, Massachusetts 02163
+
+{zton@hbs.edu, rhuckman@hbs.edu}
+
+We examine the impact of employee turnover on operating performance in settings that require high levels of knowledge
+
+exploitation. Using 48 months of turnover data from U.S. stores of a major retail chain, we ﬁnd that, on average,
+employee turnover is associated with decreased performance, as measured by proﬁt margin and customer service. The effect
+of turnover on performance, however, is mitigated by the nature of management at the store level. The particular aspect of
+management on which we focus is process conformance—the extent to which managers aim to reduce variation in store
+operations in accordance with a set of prescribed standards for task performance. At high-process-conformance stores,
+managers use discipline in implementing standardized policies and procedures, whereas at low-process-conformance stores,
+managers tolerate deviations from these standards. We ﬁnd that increasing turnover does not have a negative effect on
+store performance at high-process-conformance stores; at low-process-conformance stores, the negative effect of turnover
+is pronounced. Our results suggest that, in settings where performance depends on the repetition of known tasks, managers
+can reduce turnover’s effect by imposing process discipline through standard operating procedures.
+
+Key words: employee turnover; process management; knowledge exploitation; retail operations
+History: Published online in Articles in Advance December 11, 2007.
+
+Introduction
+
+1.
+Employee turnover in organizations has received sub-
+stantial attention from both academics and managers.
+Much of this attention has been focused on understand-
+ing its causes. Implicit in this approach is the assumption
+that turnover is driven by certain identiﬁable character-
+istics of workers, tasks, ﬁrms, and markets, and that, by
+developing policies to address these characteristics, man-
+agers might reduce the occurrence of turnover in their
+respective organizations. As noted by several observers,
+however, the consequences of turnover have received
+signiﬁcantly less attention from researchers (Staw 1980,
+Mobley 1982, Glebbeek and Bax 2004). This lack of
+academic attention is particularly surprising given that
+industry studies have estimated the cost of turning over
+one employee earning $8 per hour at $3,500 to $25,000.1
+In this paper, we address this latter issue through empir-
+ical examination of the impact of turnover on operating
+performance at stores in a large retail chain.
+
+We focus our empirical analysis on the retail industry
+for several reasons. First, retail accounts for a substan-
+tial portion of employment in the United States. Accord-
+ing to the National Retail Federation, in 2003 retailers
+in the United States employed more than 23 million
+people, nearly one out of every ﬁve American work-
+ers. Second, most retailers operate with very high levels
+of employee turnover, which makes retailing an impor-
+tant context in which to study this phenomenon. Finally,
+retail provides a setting in which performance tends to
+
+depend on the repetition of known tasks rather than
+on innovation. The difference between repetition and
+innovation evokes March’s (1991) distinction between
+exploitation and exploration. The relevance of this dis-
+tinction is addressed in the development of our hypothe-
+ses later in this paper.
+
+Our ﬁrst objective is to determine the magnitude
+and direction of turnover’s effect on operating perfor-
+mance in settings characterized by knowledge exploita-
+tion. Prior research on this question has offered mixed
+conclusions based on both theoretical and empirical
+analysis. For example, while many have argued that
+turnover has negative effects on operating performance
+due to the disruption of existing routines (Dalton and
+Todor 1979, Bluedorn 1982) or the loss of an employee’s
+accumulated experience (Argote and Epple 1990, Nelson
+and Winter 1982, Polanyi 1966), others have suggested
+that ﬁrms may beneﬁt from the innovative thinking or
+increased motivation that new workers bring to a job
+(Abelson and Baysinger 1984, Mowday et al. 1982, Staw
+1980). These conﬂicting views suggest that the effect of
+turnover on performance may depend on the nature of
+the environment in which turnover occurs.
+
+Our second objective is to examine whether managers
+can mitigate the effect of turnover on operating perfor-
+mance. This question is particularly relevant for settings
+that operate with high levels of turnover. The aspect of
+management in which we are most interested is pro-
+cess conformance—the extent to which managers aim to
+
+56
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+57
+
+reduce variation in store operations in accordance with
+a set of prescribed standards for task performance.
+
+Our study design takes advantage of the fact that we
+are able to examine longitudinal observations of store-
+level performance across sites that are owned and oper-
+ated by the same parent company. We are thus able to
+control for ﬁrm-level characteristics (e.g., employment
+policies, training procedures, etc.) that may otherwise
+confound a multiﬁrm analysis of turnover’s impact on
+performance. As part of their common ownership, all of
+the stores in this chain are instructed to follow the same
+standards for task performance. The extent to which
+store managers enforce these standards, however, varies
+across sites. We take advantage of this variation in the
+degree of process conformance across otherwise simi-
+lar stores to examine the extent to which the impact of
+turnover can be managed.
+
+Using data from 268 stores over 48 months, we show
+that, on average, turnover is associated with decreased
+store performance, as measured by proﬁt margin and
+customer service. These average effects are not large.
+We also show that turnover has a nonlinear effect on per-
+formance, with low-turnover stores being more affected
+by turnover
+than high-turnover stores. Finally, we
+ﬁnd that, at high-process-conformance stores, turnover
+does not decrease store performance, whereas at low-
+process-conformance stores,
+turnover does decrease
+store performance.
+
+This paper proceeds as follows. Section 2 discusses
+the theoretical motivation for our hypotheses. Section 3
+describes the empirical setting, data and measures, and
+empirical models. Section 4 presents and discusses our
+results, and §5 concludes.
+
+2. Theoretical Motivation
+As mentioned above, the prior literature on the effects
+of turnover provides a mixed picture in terms of both
+theory and empirical results. Several studies suggest that
+turnover decreases operating performance. While rec-
+ognizing the possibility of an optimal rate of turnover,
+Huselid (1995) assumes that low rates of turnover are
+preferable to high rates. Glebbeek and Bax (2004) refer
+to Huselid’s claim as the “conventional assumption of
+turnover research” (p. 279).
+
+Much of this negative effect stems from the direct
+costs of turnover, such as those involved with severance
+and the recruitment and training of new employees (Staw
+1980, Darmon 1990, Hom and Griffeth 1995). In addi-
+tion, turnover has been associated with several indirect
+costs. First, ﬁrms may experience operational disrup-
+tion (Staw 1980, Mobley 1982) following the depar-
+ture of key employees. This could be due to either the
+loss of the ﬁrm-speciﬁc human capital that resides in
+departing employees (Becker 1962) or the loss of the
+social capital embedded in workers’ relationships to each
+
+other and the organization (Leana and Van Buren 1999,
+Dess and Shaw 2001). A second source of indirect costs
+is the demoralization of employees who remain with
+a ﬁrm (Staw 1980, Steers and Mowday 1981, Mobley
+1982). This demoralization may be due to the loss of a
+respected colleague or the fact that turnover may require
+additional work to be absorbed by remaining employ-
+ees whose capacity is already stretched (Mowday et al.
+1982).
+
+Despite substantial evidence regarding turnover’s neg-
+ative consequences for ﬁrms, several studies—including
+many of those above—note offsetting positive effects.
+For example, the economic perspective on turnover sug-
+gests that
+turnover reﬂects the beneﬁcial aspects of
+worker mobility, such as the improvement of matches
+between employees and ﬁrms over time (Jovanovic
+1979). Organizational psychologists have also claimed
+that workers’ efforts may be highest when they ﬁrst
+join an organization and may decrease over time (Staw
+1980). These conﬂicting views concerning the effects
+of turnover suggest that one must not view turnover
+as a monolithic concept, but rather as a contingent
+phenomenon. The relevant question thus becomes not
+whether turnover has positive or negative effects on
+performance, but rather under what conditions it
+is
+more harmful or beneﬁcial to the ﬁrm (Osterman 1987).
+Numerous studies have examined the dimensions along
+which turnover’s impact on performance may vary.
+These dimensions include the absolute level of turnover
+itself (Bluedorn 1982, Abelson and Baysinger 1984),
+the degree to which the departing employee is respected
+by his colleagues who remain with the ﬁrm (Mowday
+et al. 1982), the departing employee’s tenure with the
+ﬁrm (Staw 1980), the degree to which turnover is vol-
+untary for the worker (Bluedorn 1982), the degree to
+which turnover is predictable (Price 1977, Staw 1980),
+and the organizational structure of the ﬁrm in which
+turnover occurs (Carley 1992, Argote 1999, Rao and
+Argote 2006).
+
+One of the most commonly noted moderators of
+turnover’s effect on performance is the nature of the
+task being performed. Most studies considering the mod-
+erating role of task characteristics draw on some vari-
+ant of the distinction that is clearly stated in March’s
+(1991) comparison: “between the exploration of new
+possibilities and the exploitation of old certainties”
+(p. 71, emphasis added). March suggests that, in situa-
+tions involving exploration, the addition of novice work-
+ers may actually increase knowledge levels within the
+ﬁrm—not because of the expertise of these new workers,
+but rather because of the increased variety of perspec-
+tives they introduce to the organization.
+
+Several studies provide support for the beneﬁts of
+turnover in settings requiring exploration or innovation.
+Dalton and Todor (1979) and Staw (1980) note that
+the worker mobility implied by turnover may serve as
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+58
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+a source of new knowledge for ﬁrms. Furthermore, an
+experimental study by Argote et al. (1995) ﬁnds that,
+although the average effect of turnover on work group
+performance is negative, this effect is less pronounced
+for complex tasks than for simple tasks. They attribute
+this difference in turnover’s effect to the fact that the per-
+formance of complex tasks requires greater innovation
+(i.e., exploration) than simpler tasks requiring repetition
+(i.e., exploitation).
+
+We maintain that performance in retail chain settings,
+such as the setting considered in this study, is more
+accurately characterized as requiring exploitation than
+exploration. We refer to March’s choice of terms to
+describe exploitation (e.g., reﬁnement, production, efﬁ-
+ciency,
+implementation, execution) versus exploration
+(e.g., search, variation, risk taking, experimentation,
+discovery,
+innovation) (March 1991). As Winter and
+Szulanski (2001) also argue, companies that operate
+multiple units often evolve from a phase of exploration
+during which they experiment with different approaches,
+to a phase of exploitation during which they “freeze the
+design” and replicate the established approaches. As a
+result, the performance at mature retail chains is highly
+dependent on the successful execution of known activi-
+ties such as processing of incoming inventory, shelving
+merchandise, responding to customer queries, and trans-
+acting sales on the cash registers.
+
+In this environment, we expect employee turnover to
+have a negative effect on ﬁrm performance due to oper-
+ational disruption from employee departures, additional
+work that must be absorbed by remaining employees,
+and the loss of tacit knowledge and accumulated experi-
+ence held by departing employees. While activities such
+as shelving merchandise may beneﬁt from increased
+effort of new employees, we expect this positive effect to
+be outweighed by the negative effects of turnover. Based
+on this characterization and the prior literature, we arrive
+at our ﬁrst hypothesis:
+
+Hypothesis 1. In settings requiring high levels of
+knowledge exploitation, turnover will, on average, have
+a negative effect on operating performance.
+
+To the extent that the hypothesized negative effect
+of turnover on operating performance in exploitation-
+based settings exists, we are interested in understand-
+ing the tools that managers might use to mitigate these
+effects. Below, we argue that one management lever in
+this regard is process conformance—the degree to which
+managers aim to reduce variation in operations in accor-
+dance with a set of prescribed standards for task perfor-
+mance. This concept is similar to notions of attention to
+detail and adherence to rules and procedures (Naveh and
+Erez 2004). Several researchers claim that a process con-
+formance approach may be appropriate in settings that
+produce standardized products or services (Levitt 1972,
+
+Bowen and Lawler 1992, Adler and Cole 1993, Sitkin
+et al. 1994, Bowen and Lawler 1995, Adler et al. 1999).
+In support of the role of process conformance in mit-
+igating turnover’s effect on performance, Argote and
+Epple (1990) state that “turnover may matter more in
+organizations where jobs are not standardized and pro-
+cedures do not exist for transmitting knowledge to new
+members” (p. 922). In motivating our second hypothesis,
+we note that this quote uses the word “may,” suggest-
+ing that the role of such standardization in mitigating
+turnover’s negative effects merits empirical examination.
+We also stress a point that is important to our analysis,
+though not addressed in the above quote—that standard-
+ization is a necessary but not sufﬁcient condition for
+process conformance. In our setting, the level of stan-
+dardization as designated by the corporate ofﬁce is the
+same at all 268 stores, each of which is instructed to
+follow the policies and procedures described in the 334-
+page corporate manual. Because the chain uses central-
+ized planning, compliance with standards is important
+from the perspective of the corporate ofﬁce. The extent
+to which store managers enforce these standards, how-
+ever, differs considerably across sites. While some store
+managers are quite disciplined in implementing these
+prescribed standards (high-process-conformance stores)
+others are more tolerant of deviations from these stan-
+dards (low-process-conformance stores).
+
+In our retail setting, to the extent that stores operate
+with a high degree of process conformance, we expect
+that knowledge concerning task performance will be
+transferred more easily to new employees (i.e., it will
+be less likely to be lost when employees depart). This
+expectation leads to our second hypothesis:
+
+Hypothesis 2. In settings requiring high levels of
+the level of process confor-
+knowledge exploitation,
+mance will moderate the impact of turnover on operat-
+ing performance. In particular, stores with lower levels
+of process conformance will be more negatively affected
+by turnover than stores with higher levels of process
+conformance.
+
+3. Research Design
+3.1. Empirical Setting
+We test our hypotheses using data from Borders Group
+(Borders), a Fortune 500 retailer of entertainment prod-
+ucts such as books, CDs, and DVDs. At the end of 2003,
+Borders operated 445 superstores (under the name Bor-
+ders) and about 720 mall-based stores (under the name
+Waldenbooks), and employed approximately 32,000 peo-
+ple. In this study, we focus solely on Borders super-
+stores (hereafter called Borders stores). Like most retail-
+ers, Borders stores experience high levels of employee
+turnover. Between 1999 and 2002, the average annual
+full-time employee turnover across Borders stores ranged
+from 49% to 69%, and the average annual part-time
+employee turnover ranged from 94% to 114%.
+
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+59
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Borders stores provide an ideal setting in which to
+examine whether the impact of turnover on performance
+can be moderated by process conformance. Because
+Borders uses centralized merchandise planning, it has
+developed standard operating procedures across all of
+its stores. This standardization supports customer ser-
+vice efforts at the store level. For example, computer
+terminals at Borders stores allow customers to check the
+availability and location of speciﬁc books. The success
+of this system depends on books being shelved in spe-
+ciﬁc sections, as prescribed by the corporate standards.
+The shelving standards, as well as other standard oper-
+ating procedures, are described in a 334-page policy and
+process handbook. Although all stores are instructed to
+conform to these standards, we observed during our store
+visits that the extent of conformance varies across sites.
+While some store managers impose discipline in con-
+forming to prescribed standards, others tolerate devia-
+tions. For example, at one store, in violation of shelving
+standards salespeople organized art books by artist rather
+than by author. The manager of that store noted
+
+we don’t shelve art books like other Borders stores do.
+Our salespeople are extremely brainy. Other stores don’t
+shelve by artist, they shelve by author. Like some of titles
+up there, I don’t know which artists they are and look in
+the computer, and it’s like a Degas book, and I wouldn’t
+know that by looking at it, but the salespeople know.
+So they put titles with Degas that don’t have the word
+“Degas” in the name. They do that with biographies as
+well. If a biography doesn’t have a name of a person
+they will know that and say, “Hey, this is a biography
+about this person. I’m going to shelve it with this per-
+son’s work.”
+At another store, salespeople placed overstocked
+books underneath display tables on the selling ﬂoor
+instead of placing them in appropriate storage areas.
+Similar to the above example, the store manager was
+well aware of this violation and even encouraged it, as
+she thought it saved her salespeople time in restocking
+shelves.
+
+This approach, however, was not consistent across
+stores. In fact, we asked another store manager why
+he did not encourage his employees to deviate from
+shelving standards when they disagreed with them. He
+replied, “That’s exactly how books get lost at a store.” In
+a related vein, a ﬁve-year employee at another store told
+us that, while she often did not agree with the shelving
+standards, it was clear to her that she was expected to
+follow them. While picking up the new merchandise that
+arrived at the store, she pointed at two books that were
+related to the bestselling book The Da Vinci Code, and
+observed
+
+this one goes to “Christianity,” but this one is in “meta-
+physical.” See, that’s another dumb thing. We don’t keep
+them together in sections. This is not our thinking, but
+this is what we are asked to do. The label says Christian-
+ity, so I’ll put it in Christianity.
+
+3.2. Data and Measures
+Our sample includes data from all 268 Borders stores
+that opened before August 1999. We obtained monthly
+turnover and performance data for each store from 1999
+to 2002. Below, we describe our measures of store per-
+formance, employee turnover, and process conformance.
+We then describe our empirical analysis and the asso-
+ciated control variables. Summary statistics and simple
+correlations among all variables used in our analysis are
+provided in Tables 1 and 2, respectively. We note that
+Table 2 should be interpreted with caution, as it uses
+pooled observations from the 268 sites across 48 time
+periods.
+
+3.2.1.
+
+Store Performance. We examine turnover’s
+effect on two measures of store performance. The ﬁrst,
+customer service score, is a subjective measure. Each
+store is shopped once a month by a mystery shopper.
+These shoppers ﬁll out a form that includes approxi-
+mately 50 questions about the store environment and
+customer service interactions.2
+
+A store’s overall customer service score is based on
+the mystery shopper’s answers to these questions. Our
+second performance measure, proﬁt margin (operating
+income divided by sales), is an objective measure of
+ﬁnancial performance. We prefer this measure to other
+measures of ﬁnancial performance, such as total sales or
+total proﬁt, as these latter measures are affected by the
+absolute level of activity at the store. In many instances,
+the absolute level of activity depends on factors that
+are beyond the control of the store manager, such as
+weather conditions, corporate promotions, author sign-
+ings, or idiosyncratic special events. Because it is dif-
+ﬁcult to account for the impact of all of these external
+factors, we use proﬁt margin as a performance measure
+that controls for differences in the absolute level of activ-
+ity across stores.
+
+Table 1 Summary Statistics (Sample of 268 Stores Across
+
+48 Months)
+
+N
+
+Mean
+
+Std. dev.
+
+Min
+
+Max
+
+Customer
+
+service score
+
+Proﬁt margin
+RPL
+Store conditions∗
+Full-time turnover
+Part-time turnover
+Total turnover
+Turnover of
+managers
+
+Total payroll ($)
+Proportion full
+Percent of
+
+unemployment
+
+Number of
+
+11(cid:2)325
+
+85(cid:3)07
+
+100
+
+27(cid:3)78
+
+11(cid:3)21
+9(cid:3)91% −93(cid:3)65% 55(cid:3)66%
+4(cid:3)30% 100(cid:3)00%
+37(cid:3)00
+0(cid:3)00% 50(cid:3)00%
+0(cid:3)00% 250(cid:3)00%
+0(cid:3)00% 85(cid:3)19%
+0
+
+7(cid:3)44%
+87(cid:3)70% 12(cid:3)70%
+11(cid:3)33
+75(cid:3)43
+4(cid:3)37%
+5(cid:3)37%
+7(cid:3)49% 10(cid:3)50%
+5(cid:3)32%
+5(cid:3)48%
+0(cid:3)022
+0(cid:3)149
+
+99(cid:3)20
+
+2
+
+63,759
+0(cid:3)62
+4(cid:3)29
+
+21,437
+0(cid:3)13
+1(cid:3)73
+
+10,416
+0(cid:3)18
+1(cid:3)10
+
+273,653
+
+1(cid:3)00
+19(cid:3)30
+
+12(cid:2)717
+10(cid:2)343
+714
+12(cid:2)718
+12(cid:2)709
+12(cid:2)717
+12(cid:2)722
+
+12(cid:2)711
+12(cid:2)717
+12(cid:2)717
+
+12(cid:2)715
+
+0(cid:3)99
+
+0(cid:3)97
+
+0
+
+6
+
+competitors
+∗Store conditions is observed at a store-year level.
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+60
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+Table 2 Pearson Correlations (p-Values Reported Below Correlation Coefﬁcients)
+
+Customer
+service
+
+Proﬁt
+margin
+
+Full-time Part-time
+turnover
+turnover
+
+Total
+
+Turnover of
+turnover managers
+
+Total
+payroll
+
+Proportion
+
+full
+
+Unemployment Competitors
+
+1
+
+score
+
+Proﬁt margin
+
+Customer service
+
+1
+−0(cid:3)022
+0(cid:3)022
+0(cid:3)002 −0(cid:3)048
+Full-time turnover
+0(cid:3)871 <0(cid:3)0001
+Part-time turnover −0(cid:3)011 −0(cid:3)066
+0(cid:3)161
+0(cid:3)248 <0(cid:3)0001 <0(cid:3)0001
+0(cid:3)007 −0(cid:3)060
+0(cid:3)389
+0(cid:3)441
+0(cid:3)436 <0(cid:3)0001 <0(cid:3)0001 <0(cid:3)0001
+−0(cid:3)033 −0(cid:3)004
+0(cid:3)028
+
+Total turnover
+
+0(cid:3)048
+
+1
+
+1
+
+Turnover of
+managers
+
+1
+
+0(cid:3)0313
+
+1
+
+Total payroll
+
+Proportion full
+
+Unemployment
+
+Competitors
+
+0(cid:3)002
+0(cid:3)001
+0(cid:3)001
+0(cid:3)650 <0(cid:3)0001
+−0(cid:3)020 −0(cid:3)022
+0(cid:3)287 −0(cid:3)018
+0(cid:3)059
+0(cid:3)013
+0(cid:3)024
+<0(cid:3)001 <0(cid:3)0001
+0(cid:3)038
+0(cid:3)046 −0(cid:3)110 −0(cid:3)004
+0(cid:3)169
+0(cid:3)0421
+<0(cid:3)0001 <0(cid:3)0001
+<0(cid:3)0001 <0(cid:3)0001
+0(cid:3)684
+−0(cid:3)031 −0(cid:3)090
+−0(cid:3)223 −0(cid:3)072 −0(cid:3)089
+0(cid:3)000 <0(cid:3)0001
+<0(cid:3)0001 <0(cid:3)0001 <0(cid:3)0001
+−0(cid:3)043 −0(cid:3)051
+−0(cid:3)024
+0(cid:3)006 −0(cid:3)036
+0(cid:3)369 <0(cid:3)0001 <0(cid:3)0001 <0(cid:3)0001
+0(cid:3)007
+
+0(cid:3)037
+<0(cid:3)0001
+0(cid:3)004
+0(cid:3)693
+−0(cid:3)005
+0(cid:3)553
+0(cid:3)003
+0(cid:3)771
+
+1
+
+1
+
+0(cid:3)0418
+<0(cid:3)0001
+−0(cid:3)0408
+0(cid:3)0565
+<0(cid:3)0001 <0(cid:3)0001
+−0(cid:3)0923
+<0(cid:3)0001
+
+0(cid:3)008
+0(cid:3)361
+
+1
+−0(cid:3)072
+<0(cid:3)0001
+
+1
+
+3.2.2. Employee Turnover. Employees voluntarily
+leave Borders stores for a variety of reasons including
+career changes, geographical moves, pursuit of educa-
+tional opportunities, or retirement. As shown in Figure 1,
+across all Borders stores, employee turnover tends to be
+highest during the month of August due to employees’
+leaving Borders to return to school.
+
+Given the nature of the performance measures we
+observe, we focus on turnover of employees who per-
+form day-to-day operational activities at the stores and
+exclude employees who are engaged in ofﬁce coordi-
+nation or community relations activities. In addition,
+we focus solely on permanent employees. Like most
+retailers, Borders hires temporary employees during
+high-trafﬁc periods (e.g., holiday shopping in Decem-
+ber). These temporary employees are excluded in our
+In addition, Borders reports employees’
+measures.3
+departures only when they leave the company perma-
+nently. Consequently, our turnover measures do not track
+store transfers. Finally, we note that most turnover at
+Borders stores is voluntary. Though we would have
+liked to distinguish between voluntary and involuntary
+turnover, we were not able to obtain the data required to
+make such distinctions.
+
+We calculate the turnover rate in a particular period
+as the number of employees who left a store during
+that period divided by the average number of employees
+working at the store during that period. While there are
+several other methods for calculating employee turnover
+(Mobley 1982, Price 1977), our measure is widely used
+and allows for comparability to earlier ﬁndings (Price
+
+1977, Glebbeek and Bax 2004, Shaw et al. 2005). As
+shown in Table 1, average monthly full-time turnover
+in our sample is 4.4%, while average monthly part-time
+turnover is 7.5%.
+
+3.2.3. Process Conformance. To assess the level of
+process conformance at stores, we use two measures
+that are regularly tracked by Borders management. The
+ﬁrst measure, internally called store conditions, is taken
+quarterly and measures conformance to a wide range of
+processes. The second measure, internally called returns
+pull list, or RPL, is taken monthly and measures confor-
+mance to a speciﬁc process. Below we describe each of
+the measures and explain how we use them to create a
+composite measure of process conformance.
+
+3.2.4.
+
+Store Conditions. Borders classiﬁes its stores
+into different regions, each of which is led by a regional
+manager. Regional managers regularly make store vis-
+its to assess the performance of stores and to set goals
+for store managers. Once a quarter, each store’s regional
+manager also performs a thorough inspection of its con-
+formance to a wide range of processes. The inspec-
+tion covers four categories: books, café, music and
+video, and store operations. Each category is divided
+into multiple sections. For example, the book category
+is divided into ﬁve sections: alphabetization, shelf orga-
+nization, endcaps, overstock, and product ﬂow. Each of
+these sections is further divided into different items. The
+alphabetization section, for example,
+includes overall
+alphabetization, category-critical alphabetization, biog-
+raphy alphabetization, and alphabetization when an
+author has multiple books.
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+61
+
+Figure 1 Full-Time and Part-Time Employee Turnover at Borders, 1999–2002
+
+15
+
+13
+
+11
+
+9
+
+7
+
+5
+
+)
+
+%
+
+(
+ 
+r
+e
+v
+o
+n
+r
+u
+t
+ 
+e
+e
+y
+o
+p
+m
+E
+
+l
+
+3
+
+Feb-99
+
+Part-time turnover
+Full-time turnover
+
+M ay-99
+
+Aug-99
+
+Nov-99
+
+Feb-00
+
+M ay-00
+
+Aug-00
+
+Nov-00
+
+Feb-01
+
+M ay-01
+
+Aug-01
+
+Nov-01
+
+Feb-02
+
+M ay-02
+
+Aug-02
+
+Nov-02
+
+Time
+
+Stores receive a score for each of the items. The aver-
+age of these scores determines the score for the speciﬁc
+section. Speciﬁc section scores are ﬁrst multiplied by a
+weighting scale and then added up to create the total
+store conditions score.
+
+3.2.5. Returns Pull List. The second component of
+our composite measure of process conformance is a
+store’s RPL score. In this setting, retailers are allowed
+to return unsold books to the publishers for a full refund
+minus the costs of shipping and handling. Processing
+returns is a major task at Borders stores: a typical
+store returns approximately 110,000 units, or 40% of its
+inventory, every year. At the beginning of each month,
+Borders’s corporate ofﬁce sends a returns list to each
+store. The standard operating procedures require stores
+to return all books on the list to the retailer’s distribu-
+tion centers by the end of the month. At the end of each
+returns period, the stores receive a returns conformance
+score (internally called an RPL score), based on the
+number of units returned divided by the total number of
+units that were supposed to be returned. The returns pro-
+cess, described in detail in the policy and process book,
+involves ﬁnding the books, packing them, and shipping
+them to the distribution centers.
+
+RPL scores do not affect stores’ short-term ﬁnancial
+performance because inventory management is central-
+ized at Borders. Because stores do not pay for the books
+they carry, they do not receive a payment when they
+return the books. In addition, RPL performance is not
+used by corporate management to evaluate store man-
+ager performance. Consequently, maximizing the RPL
+score is not necessarily a high priority for store man-
+agers. Precisely because RPL is not a high priority, it
+reﬂects the degree to which store managers place empha-
+sis on process conformance. In this sense, RPL is similar
+to activities such as preventative machine maintenance
+
+in manufacturing plants. Preventative maintenance often
+is neither tracked nor used to evaluate plant perfor-
+mance, nor used to compensate plant managers. It does,
+however, reﬂect managerial attention to process con-
+formance; managers who place the greatest emphasis
+on process conformance are likely to ensure that pre-
+ventative maintenance is performed as scheduled, while
+those who are less concerned with process conformance
+may sacriﬁce preventative maintenance for other press-
+ing tasks at
+like preventative
+maintenance, although returning books does not have an
+immediate effect on performance, it may have a longer-
+term and indirect effect on store performance. Removing
+books that do not sell well from the selling ﬂoor allows
+stores to use the limited shelf space for books that sell
+better, presumably leading to higher sales.
+
+the plant. In addition,
+
+3.2.6. Composite Measure of Process Conformance.
+To develop our composite measure of process con-
+formance, we use the average store conditions score
+and the average RPL score for each store for each
+year.4 Using these scores, we calculate the mean and
+standard deviation of store conditions and RPL scores
+across all Borders stores for each year. For each store,
+we then standardize the yearly store conditions and
+RPL scores by subtracting the mean and dividing by
+the standard deviation. We combine these standardized
+scores to create the composite process conformance
+measure. Using this measure, we rank stores and divide
+them into high-process-conformance and low-process-
+conformance stores. We use these two categories—
+rather than using process conformance as a continuous
+variable—to account for the fact that process confor-
+mance is a proxy for high and low levels of process
+conformance rather than a precise measure of this under-
+lying variable. As such, we are reluctant to suggest that
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+62
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+small variations in process conformance scores repre-
+sent a meaningfully different level of process confor-
+mance. Furthermore, our simple categorization simpli-
+ﬁes the interpretation of our empirical results.
+
+3.3. Empirical Model
+We estimate the following equation using ordinary least
+squares (OLS) to test for the effect of employee turnover
+on various dimensions of store performance:
+
+Performanceimy
+
+= (cid:1)i + (cid:3)y + (cid:5)m + (cid:7)1 Employee Turnoverimy
+
++ Ximy(cid:7)2 + (cid:9)imy(cid:10)
+
+(1)
+
+We estimate versions of (1) using several different mea-
+sures of employee turnover. In our initial model, we use
+separate variables for part-time and full-time turnover.
+Given the similarity between the tasks performed by
+these two types of employees in this setting, we also
+estimate (1) using a single turnover measure for both
+types of workers, which we refer to as total turnover.
+Regardless of whether we split or combine full- and
+part-time turnover, we measure each value in two ways.
+First, we measure turnover over the one-month period
+ranging from the 15th day of the prior month to the
+15th day of the current month. We use this time period
+due to the uncertainty surrounding the speed with which
+one would expect turnover to affect performance. Using
+turnover lagged by one month may be misleading if
+the effects of turnover occur immediately. Alternatively,
+using turnover in the current month would be problem-
+atic if performance effects occur with a lag. We use our
+measure as a compromise between these two extremes.
+To address concerns about the potential noise in monthly
+levels of turnover, we also estimate our models using a
+measure of turnover during the prior three months.
+
+In addition to employee turnover, (1) includes a vec-
+tor, Ximy, that contains several store-level variables that
+vary over time. These include an indicator for turnover
+by store managers during the current month (to con-
+trol for management changes);5 full-time employees as
+a percentage of total employees (to control for employee
+mix); total store payroll (to control for the total amount
+of labor used by the store); the number of competitors
+in the local market;6 and the unemployment rate in the
+store’s metropolitan statistical area (to control for labor
+supply).7 We would have liked to control for average
+employee tenure at the store. We were not able, however,
+to obtain these data from the company.
+
+This speciﬁcation also includes ﬁxed effects for each
+store (cid:11)(cid:1)i(cid:12), each year (cid:11)(cid:3)y(cid:12) from 1999 to 2002, and each
+month (cid:11)(cid:5)m(cid:12) of the calendar year. Store ﬁxed effects con-
+trol for time-invariant, unobserved heterogeneity across
+stores8 (Hausman and Taylor 1981), which might oth-
+erwise affect both employee turnover and store perfor-
+mance, leading to biased estimates. The year effects
+
+control for changes over time in factors such as eco-
+nomic conditions and corporate policies, while the
+calendar-month effects control for seasonality.
+
+To make sure that turnover is not endogenous to per-
+formance, we asked store managers, store employees,
+and corporate managers what drives turnover at Borders
+stores. None of the managers we interviewed mentioned
+poor store performance as a driver of employee turnover.
+Furthermore, they noted that involuntary turnover due
+to the poor performance of individual employees is
+quite rare. Finally, several of our empirical models use
+lagged measures of turnover to reduce concerns of endo-
+geneity. Nevertheless, to test whether employee turnover
+remains endogenous, we examine the effect of past store
+performance on employee turnover. We use one-month
+and two-month lags for both customer service and proﬁt
+margin. The results, not reported in our paper, show no
+evidence of signiﬁcant effect of either measure of store
+performance on employee turnover. The absence of sig-
+niﬁcant effects in the reverse regressions is reassuring,
+and suggests that we need not be overly concerned about
+the exogeneity of our turnover measure.
+
+Several have hypothesized that
+
+the relationship
+between employee turnover and performance is nonlin-
+ear (Price 1977, Bluedorn 1982). To determine whether
+the effect of turnover on performance depends on the
+level of turnover at the stores, we estimate models in
+which we interact monthly turnover with two categories
+for the average level of turnover—high and low—at the
+stores. This model appears below:
+
+Performanceimy
+
+= (cid:1)i + (cid:3)y + (cid:5)m + (cid:7)1 Employee Turnoverimy
+
++ (cid:7)2 Employee Turnoverimy
+∗ High TurnoverimyXimy(cid:7)4 + (cid:9)imy(cid:10)
+
+(2)
+
+The high- and low-turnover categories were assigned by
+ranking and dividing the stores into halves based on their
+turnover in each year. We also estimate versions of (2)
+where we divide stores into three categories based on
+their yearly turnover performance—high, medium, and
+low. The results (not reported in this paper) are very
+similar to those using two categories.
+
+Finally, to determine whether process conformance
+moderates the relationship between turnover and per-
+formance, we estimate models in which the level of
+employee turnover is interacted with the two categories
+of process conformance—high and low. This model
+appears below:
+
+Performanceimy
+= (cid:1)i + (cid:3)y + (cid:5)m + (cid:7)1 Employee Turnoverimy
++ (cid:7)2 Employee Turnoverimy
+∗High Process Conformanceiy+Ximy(cid:7)4+(cid:9)imy(cid:10)
+
+(3)
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+63
+
+As a test of robustness, we also estimate a version of (3)
+where we divide stores into three categories based on
+their yearly process conformance performance—high,
+medium, and low. In addition, we also estimate versions
+of (3) where we use yearly RPL scores, yearly store con-
+ditions scores, and variations in RPL as single measures
+of process conformance.9
+
+4. Results and Discussion
+4.1. Average Effect of Turnover on Performance
+
+4.1.1. Customer Service. Table 3 presents the esti-
+mates for our basic model with customer service score as
+the dependent variable. Columns 1 and 2 suggest that, on
+average, monthly turnover has a negative, but insigniﬁ-
+cant, impact on customer service. When turnover is mea-
+sured over the prior three months, however, the effects
+remain negative and are signiﬁcant at conventional levels
+(Columns 3 and 4). In terms of magnitude, these effects
+
+Table 3 Regressions Testing the Average Effect of Employee
+Turnover on Customer Service Score (Standard Errors
+Shown in Parentheses)
+
+Variable
+
+1
+
+2
+
+3
+
+4
+
+Dependent variable: Customer
+
+service score
+
+are not large—an increase of one-standard deviation10
+in full-time turnover and part-time turnover at an aver-
+age store lead to reductions of 0.33 and 0.20 points in
+customer service scores, respectively (0.4% and 0.2%
+relative to the average score of 85.1 points). Using total
+turnover, the impact of an increase of one standard devi-
+ation is a reduction of 0.39 points (0.5% relative to the
+average score).
+
+rates
+
+suggest an insigniﬁcant
+
+4.1.2. Proﬁt Margin. Table 4 provides analogous
+results for regressions in which proﬁt margin is the
+dependent variable. Again, the results using one-month
+turnover
+relationship
+between turnover and performance (Columns 1 and 2).
+Using turnover rates for the prior three months, we again
+ﬁnd negative and signiﬁcant effects of turnover on per-
+formance. An increase of one standard deviation in full-
+time turnover at an average store leads to reductions
+of 0.2 percentage points in proﬁt margin (2.72% rel-
+ative to the average value of 7.44%). With respect to
+total turnover, the impact of an increase of one standard
+
+Table 4 Regressions Testing the Average Effect of Employee
+
+Turnover on Proﬁt Margin (Standard Errors In
+Parentheses)
+
+Dependent variable: Proﬁt margin
+
+2
+
+3
+
+4
+
+Variable
+1
+Percent of full-time turnover −0(cid:3)011
+(cid:5)0(cid:3)011(cid:6)
+0(cid:3)002
+(cid:5)0(cid:3)005(cid:6)
+
+Percent of part-time turnover
+
+Percent of total turnover
+
+Percent of full-time turnover
+
+0(cid:3)281
+(cid:5)1(cid:3)897(cid:6)
+Percent of part-time turnover −0(cid:3)471
+(cid:5)0(cid:3)780(cid:6)
+
+Percent of total turnover
+
+−1(cid:3)775
+(cid:5)1(cid:3)813(cid:6)
+
+Percent of full-time turnover
+
+(3 months)
+
+Percent of part-time turnover
+
+(3 months)
+
+Percent of total turnover
+
+(3 months)
+
+Any manager turnover
+
+during period?
+
+Percent of full-time
+
+employees
+Total payroll
+
+(in ten thousands)
+
+Number of local
+
+competitors
+
+Percent of local
+unemployment
+
+Store ﬁxed effects?
+Calendar month
+ﬁxed effects?
+
+Year ﬁxed effects?
+
+−0(cid:3)614
+(cid:5)0(cid:3)730(cid:6)
+−1(cid:3)708
+(cid:5)1(cid:3)341(cid:6)
+0(cid:3)587∗∗∗
+−0(cid:3)151
+0(cid:3)567∗
+(cid:5)0(cid:3)311(cid:6)
+−0(cid:3)026
+(cid:5)0(cid:3)138(cid:6)
+
+−0(cid:3)602
+(cid:5)0(cid:3)730(cid:6)
+−1(cid:3)757
+(cid:5)1(cid:3)332(cid:6)
+0(cid:3)581∗∗∗
+−0(cid:3)150
+0(cid:3)573∗
+(cid:5)0(cid:3)311(cid:6)
+−0(cid:3)032
+(cid:5)0(cid:3)137(cid:6)
+
+Yes
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes
+
+−3(cid:3)569∗∗∗
+(cid:5)1(cid:3)033(cid:6)
+−1(cid:3)064∗∗
+(cid:5)0(cid:3)510(cid:6)
+
+−0(cid:3)369
+(cid:5)0(cid:3)738(cid:6)
+−1(cid:3)677
+(cid:5)1(cid:3)420(cid:6)
+0(cid:3)549∗∗∗
+−0(cid:3)160
+0(cid:3)431
+(cid:5)0(cid:3)358(cid:6)
+0(cid:3)021
+(cid:5)0(cid:3)145(cid:6)
+
+Yes
+Yes
+
+Yes
+
+−4(cid:3)274∗∗∗
+(cid:5)1(cid:3)154(cid:6)
+−0(cid:3)389
+(cid:5)0(cid:3)739(cid:6)
+−1(cid:3)771
+(cid:5)1(cid:3)400(cid:6)
+0(cid:3)555∗∗∗
+−0(cid:3)160
+0(cid:3)425
+(cid:5)0(cid:3)358(cid:6)
+0(cid:3)025
+(cid:5)0(cid:3)146(cid:6)
+
+Yes
+Yes
+
+Yes
+
+Percent of full-time turnover
+
+(3 months)
+
+Percent of part-time turnover
+
+(3 months)
+
+Percent of total turnover
+
+(3 months)
+
+Any manager turnover
+
+during period?
+
+Percent of full-time
+
+employees
+Total payroll
+
+(in ten thousands)
+
+Number of local
+
+competitors
+
+Percent of local
+unemployment
+
+Store ﬁxed effects?
+Calendar month ﬁxed
+
+effects?
+
+Year ﬁxed effects?
+
+−0(cid:3)023
+(cid:5)0(cid:3)015(cid:6)
+
+−0(cid:3)022∗∗∗
+(cid:5)0(cid:3)006(cid:6)
+−0(cid:3)0002
+(cid:5)0(cid:3)0033(cid:6)
+
+−0(cid:3)004
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)007
+(cid:5)0(cid:3)011(cid:6)
+
+−0(cid:3)005∗
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)002
+(cid:5)0(cid:3)010(cid:6)
+
+−0(cid:3)021∗∗∗
+(cid:5)0(cid:3)006(cid:6)
+−0(cid:3)005∗
+−0(cid:3)004
+(cid:5)0(cid:3)003(cid:6)
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)005
+0(cid:3)000
+(cid:5)0(cid:3)010(cid:6)
+(cid:5)0(cid:3)010(cid:6)
+−0(cid:3)006∗∗∗ −0(cid:3)006∗∗∗ −0(cid:3)006∗∗∗ −0(cid:3)006∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+(cid:5)0(cid:3)001(cid:6)
+−0(cid:3)028∗∗∗ −0(cid:3)028∗∗∗ −0(cid:3)027∗∗∗ −0(cid:3)027∗∗∗
+(cid:5)0(cid:3)003(cid:6)
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)004∗∗∗ −0(cid:3)004∗∗∗ −0(cid:3)004∗∗∗ −0(cid:3)004∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+(cid:5)0(cid:3)001(cid:6)
+
+(cid:5)0(cid:3)001(cid:6)
+
+(cid:5)0(cid:3)001(cid:6)
+
+(cid:5)0(cid:3)003(cid:6)
+
+(cid:5)0(cid:3)003(cid:6)
+
+(cid:5)0(cid:3)001(cid:6)
+
+(cid:5)0(cid:3)001(cid:6)
+
+Yes
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes
+
+11,318
+0(cid:3)3916
+
+Observations
+10,567
+Adjusted R2
+0(cid:3)3700
+Notes. ∗, ∗∗, ∗∗∗ denote statistical signiﬁcance at the 10%, 5%,
+and 1% levels, respectively. Standard errors are heteroskedasticity
+robust and clustered by store. Regressions include a constant term
+not shown in the table.
+
+11,321
+0(cid:3)3919
+
+10,565
+0(cid:3)3701
+
+12,702
+0(cid:3)7908
+
+Observations
+11,928
+Adjusted R2
+0(cid:3)7947
+Notes. ∗, ∗∗, ∗∗∗ denote statistical signiﬁcance at the 10%, 5%,
+and 1% levels, respectively. Standard errors are heteroskedasticity
+robust and clustered by store. Regressions include a constant term
+not shown in the table.
+
+11,926
+0(cid:3)7949
+
+12,709
+0(cid:3)7890
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+64
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+deviation is 2.41%, relative to the average proﬁt margin,
+and amounts to $11,700 of lost proﬁt per store per year.
+This seemingly modest negative effect on proﬁt margin,
+however, is economically signiﬁcant for the company.
+A loss of $11,700 proﬁt per store amounts to a total
+loss of $3.1 million for 268 stores, or approximately
+6% of the net income that came from Borders stores in
+1999.11
+
+Although our ﬁndings are sensitive to the length of
+time over which turnover is observed, the results from
+Tables 3 and 4 provide some support for Hypothesis 1.
+Using turnover rates for the prior three months, on aver-
+age, turnover has a negative effect on both measures of
+store performance. We note that the results using sepa-
+rate measures of full- and part-time turnover and a single
+measure of total turnover are very similar. In subsequent
+sections, we discuss our results using the measure of
+total turnover only.
+
+4.2. Nonlinear Effect of Employee Turnover
+Columns 1 and 2 in Table 5 present estimates of (2)
+with customer service as the dependent variable, and
+Columns 3 and 4 provide similar estimates of models
+with proﬁt margin as the dependent variable. For all
+
+Table 5 Regressions Testing the Nonlinear Effect of
+
+Employee Turnover on Both Measures of
+Performance (Standard Errors in Parentheses)
+
+Dependent variable:
+
+Customer service
+
+Dependent variable:
+
+Proﬁt margin
+
+1
+
+Variable
+Percent of total turnover −3(cid:3)720∗
+(cid:5)2(cid:3)036(cid:6)
+8(cid:3)052∗∗∗
+(cid:5)3(cid:3)292(cid:6)
+
+Percent of total turnover
+
+∗ High turnover
+
+3
+
+−0(cid:3)038∗∗
+(cid:5)0(cid:3)018(cid:6)
+0(cid:3)062∗∗∗
+(cid:5)0(cid:3)021(cid:6)
+
+2
+
+−4(cid:3)266∗∗∗
+(cid:5)1(cid:3)224(cid:6)
+−0(cid:3)057
+(cid:5)1(cid:3)774(cid:6)
+
+−0(cid:3)605
+(cid:5)0(cid:3)729(cid:6)
+−1(cid:3)814
+(cid:5)1(cid:3)334(cid:6)
+0(cid:3)569∗∗∗
+(cid:5)0(cid:3)150(cid:6)
+0(cid:3)589∗
+(cid:5)0(cid:3)311(cid:6)
+−0(cid:3)037
+(cid:5)0(cid:3)137(cid:6)
+
+Yes
+Yes
+
+Yes
+
+−0(cid:3)390
+−0(cid:3)004
+(cid:5)0(cid:3)739(cid:6)
+(cid:5)0(cid:3)003(cid:6)
+−1(cid:3)769
+−0(cid:3)007
+(cid:5)1(cid:3)401(cid:6)
+(cid:5)0(cid:3)011(cid:6)
+0(cid:3)555∗∗∗ −0(cid:3)006∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+(cid:5)0(cid:3)160(cid:6)
+−0(cid:3)028∗∗∗
+0(cid:3)425
+(cid:5)0(cid:3)003(cid:6)
+(cid:5)0(cid:3)358(cid:6)
+−0(cid:3)004∗∗∗
+0(cid:3)025
+(cid:5)0(cid:3)001(cid:6)
+(cid:5)0(cid:3)146(cid:6)
+
+Yes
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes
+
+4
+
+−0(cid:3)024∗∗∗
+(cid:5)0(cid:3)01(cid:6)
+0(cid:3)022∗∗
+(cid:5)0(cid:3)010(cid:6)
+
+−0(cid:3)005∗
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)001
+(cid:5)0(cid:3)010(cid:6)
+−0(cid:3)006∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+−0(cid:3)027∗∗∗
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)004∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+
+Yes
+Yes
+
+Yes
+
+Percent of total turnover
+
+(3 months)
+
+Percent of total turnover
+
+(3 months)
+∗ High turnover
+
+Any manager turnover
+
+during period?
+
+Percent of full-time
+
+employees
+Total payroll
+
+(in ten thousands)
+
+Number of local
+
+competitors
+
+Percent of local
+unemployment
+
+Store ﬁxed effects?
+Calendar month ﬁxed
+
+effects?
+
+Year ﬁxed effects?
+
+11,321
+0(cid:3)3922
+
+10,567
+0(cid:3)3699
+
+Observations
+11,928
+Adjusted R2
+0(cid:3)7949
+Notes. ∗, ∗∗, ∗∗∗ denote statistical signiﬁcance at the 10%, 5%,
+and 1% levels, respectively. Standard errors are heteroskedasticity
+robust and clustered by store. Regressions include a constant term
+not shown in the table.
+
+12,709
+0(cid:3)7893
+
+measures of turnover, we ﬁnd that the impact of turnover
+on performance is negative at low-turnover stores for
+both customer service and proﬁt margin. Using customer
+service as the dependent variable, high-turnover stores
+show an effect of turnover that is 8.1 points greater than
+the effect for low-turnover stores using monthly mea-
+sures of turnover. The combined effect of turnover of
+4.33 (=−3(cid:10)72 + 8(cid:10)05) for high-turnover stores is not
+signiﬁcantly different from zero. Similarly, using proﬁt
+margin as the dependent variable, high-turnover stores
+show effects of turnover that are 0.06 and 0.02 percent-
+age points greater than the effect for low-turnover stores
+using monthly and three-month measures of turnover,
+respectively. Again, the combined effects of turnover
+for high-turnover stores are not signiﬁcantly different
+from zero. Overall, our results show that
+the effect
+of turnover on performance is worse for low-turnover
+stores than for high-turnover stores. This is consistent
+with Price’s (1977) prediction and a recent empirical
+study of turnover in the trucking and concrete pipe
+industries (Shaw et al. 2005).
+
+4.3. Moderating Effect of Process Conformance
+Table 6 presents estimates of (3) with customer service
+and proﬁt margin as the dependent variable.12 Regardless
+of whether we use customer service (Columns 1 and 2)
+or proﬁt margin (Columns 3 and 4) as the performance
+variable, our results are similar. The effect of turnover
+for low-process conformance stores is negative and sig-
+niﬁcant. This negative effect is offset as we move to
+stores with high levels of process conformance. Using
+both monthly and three-month measures of turnover, the
+effects for high-process conformance stores are signif-
+icantly higher than those for low-process conformance
+stores. The combined effects for the high- conformance
+group are not signiﬁcantly different from zero in any
+of the four columns. For example, when using monthly
+turnover, and examining the effect of turnover on cus-
+tomer service,
+for
+high-process conformance stores of 4.431 (=−7(cid:10)777 +
+12(cid:10)208) in Column 1 is not signiﬁcantly different from
+zero. Note that we obtained very similar results when
+we divided stores into high-, medium-, and low-process
+conformance categories.
+
+the combined effect of
+
+turnover
+
+In Table 7, we report results in which we replace our
+composite measure of process conformance with three
+separate measures of process conformance—high yearly
+RPL scores, high yearly store conditions scores, and
+high variation in RPL. The ﬁrst two measures were cre-
+ated by ranking stores with respect to their yearly RPL
+and yearly store condition scores and dividing them into
+high- and low-RPL and high- and low-store conditions
+categories, respectively. Regardless of whether we use
+high-RPL or high-store conditions, we obtain similar
+results. The effect of turnover on both customer service
+and proﬁt margin for stores that are in low categories is
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+65
+
+Table 6 Regressions Testing Process Conformance as a
+
+Moderator of Turnover’s Effect on Customer Service
+Score and Proﬁt Margin (Standard Errors in
+Parentheses)
+
+Dependent variable:
+
+Customer service
+
+Dependent variable:
+
+Proﬁt margin
+
+1
+
+Variable
+Percent of total turnover −7(cid:3)777∗∗
+(cid:5)3(cid:3)257(cid:6)
+12(cid:3)208∗∗∗
+(cid:5)3(cid:3)803(cid:6)
+
+Percent of Total turnover
+∗ High conformance
+Percent of total turnover
+
+3
+
+−0(cid:3)031∗∗
+(cid:5)0(cid:3)014(cid:6)
+0(cid:3)056∗∗∗
+(cid:5)0(cid:3)021(cid:6)
+
+2
+
+−6(cid:3)262∗∗∗
+(cid:5)1(cid:3)865(cid:6)
+5(cid:3)088∗∗∗
+(cid:5)1(cid:3)993(cid:6)
+
+(3 months)
+
+Percent of total turnover
+(3 months)
+∗ High conformance
+Any manager turnover
+
+during period?
+
+Percent of full-time
+
+employees
+Total payroll
+
+(in ten thousands)
+
+Number of local
+Percent of competitors
+Percent of local
+unemployment
+
+Store ﬁxed effects?
+Calendar month ﬁxed
+
+effects?
+
+Year ﬁxed effects?
+
+−0(cid:3)404
+(cid:5)1(cid:3)019(cid:6)
+−4(cid:3)076∗∗
+(cid:5)1(cid:3)891(cid:6)
+0(cid:3)610∗∗∗
+(cid:5)0(cid:3)172(cid:6)
+0(cid:3)630∗
+(cid:5)0(cid:3)381(cid:6)
+−0(cid:3)199
+(cid:5)0(cid:3)199(cid:6)
+
+Yes
+Yes
+
+Yes
+
+−0(cid:3)064
+−0(cid:3)003
+(cid:5)1(cid:3)033(cid:6)
+(cid:5)0(cid:3)004(cid:6)
+−4(cid:3)083∗∗
+−0(cid:3)009
+(cid:5)2(cid:3)031(cid:6)
+(cid:5)0(cid:3)011(cid:6)
+0(cid:3)587∗∗∗ −0(cid:3)009∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+(cid:5)0(cid:3)179(cid:6)
+−0(cid:3)030∗∗∗
+0(cid:3)407
+(cid:5)0(cid:3)003(cid:6)
+(cid:5)0(cid:3)458(cid:6)
+−0(cid:3)003∗∗∗
+0(cid:3)123
+(cid:5)0(cid:3)001(cid:6)
+(cid:5)0(cid:3)212(cid:6)
+
+Yes
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes
+
+4
+
+−0(cid:3)036∗∗∗
+(cid:5)0(cid:3)008(cid:6)
+0(cid:3)031∗∗∗
+(cid:5)0(cid:3)010(cid:6)
+
+−0(cid:3)004
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)005
+(cid:5)0(cid:3)011(cid:6)
+−0(cid:3)009∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+−0(cid:3)029∗∗∗
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)003∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+
+Yes
+Yes
+
+Yes
+
+7,452
+0(cid:3)3771
+
+8,508
+0(cid:3)7936
+
+6,709
+0(cid:3)3693
+
+Observations
+7,750
+Adjusted R2
+0(cid:3)7945
+Notes. ∗, ∗∗, ∗∗∗ denote statistical signiﬁcance at the 10%, 5%,
+and 1% levels, respectively. Standard errors are heteroskedasticity
+robust and clustered by store. Regressions include a constant term
+not shown in the table.
+negative and signiﬁcant. This negative effect is offset as
+we move to stores in the high categories. These similar
+results with models based on the individual components
+of our composite measure provide support for our main
+ﬁndings.
+
+We add the third measure—high variation in RPL—
+under the assumption that stores with high levels of pro-
+cess conformance will be characterized not only by high
+RPL levels but also by low variation in RPL levels across
+time. We divide stores into high- and low-variation RPL
+categories using the standard deviation of their monthly
+RPL scores in a year. As reported in Columns 3 and 6
+of Table 7, the effect of turnover for stores in the low-
+variation RPL category is negative and signiﬁcant. This
+negative effect is even more pronounced for stores that
+are in the high-variation RPL category, supporting our
+hypothesis that the effect of turnover is worse for low-
+conformance stores.
+
+5. Conclusion
+The ﬁrst objective of this study is to examine the effect
+of turnover on operating performance in settings that
+require high levels of knowledge exploitation (March
+
+1991). Our longitudinal analysis of Borders stores shows
+that, on average, increased employee turnover is asso-
+ciated with decreased store performance, as measured
+by customer service score and proﬁt margin. Consis-
+tent with Price (1977), we also ﬁnd that turnover has
+a nonlinear effect on performance, with low-turnover
+stores being more affected by turnover
+than their
+high-turnover counterparts. At low-turnover stores, the
+average employee has a high level of accumulated expe-
+rience. Consequently, an employee’s departure would be
+expected to have a large effect on performance because
+the store loses an employee with substantial experience.
+At high-turnover stores, however, the average employee
+has a lower level of accumulated experience. As such,
+employee turnover would be expected to have a smaller
+effect on store performance because turnover simply
+replaces one inexperienced employee with another.
+
+The second objective of our work is to contribute to
+the study of employee turnover as a contingent phe-
+nomenon. Our analysis shows that the effect of turnover
+on operating performance is mitigated by the nature of
+store management. Speciﬁcally, the negative effect of
+turnover on performance is more pronounced at stores
+where managers choose a low-process-conformance
+approach. For example, an increase of one standard devi-
+ation in total
+turnover at a low-process-conformance
+store leads to a 3.8% decrease in proﬁt margin. However,
+at high-process-conformance stores, where employees
+consistently follow prescribed standard operating proce-
+dures, increasing turnover does not lead to a decrease in
+store performance.
+
+We claim that, at high-process-conformance stores,
+there is a consistent approach to task performance and, as
+a result, knowledge resides in existing routines (Nelson
+and Winter 1982) at those sites. It is, therefore, easier to
+transfer knowledge to new employees, and the disruption
+of existing routines following an employee departure
+is small (Argote 1999). At
+low-process-conformance
+stores, however, there is greater variation across employ-
+ees in how tasks are performed. As a result, knowledge
+resides in employees rather than in organizational rou-
+tines. The knowledge of these workers is thus likely to
+be lost when they leave the ﬁrm.
+
+Our study has implications for managing knowl-
+edge in organizations. Our ﬁndings suggest that stor-
+ing knowledge in organizational routines rather than in
+employees represents one approach to mitigating the
+negative consequences of turnover on organizational per-
+formance. This approach may be particularly effective in
+exploitation-oriented settings that experience high levels
+of turnover.
+
+Like most studies of this type, ours is not without
+its caveats. First, we examine a single ﬁrm in a single
+industry. As a result, our ﬁndings may not generalize to
+other settings, even those characterized by similar levels
+of knowledge exploitation. Nonetheless, our focus on a
+
+
+66
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+Table 7 Regressions Testing Various Measures of Process Conformance as Moderators of Turnover’s Effect on Customer
+
+Service Score and Proﬁt Margin (Standard Errors in Parentheses)
+
+Variable
+
+Percent of total turnover (3 months)
+
+∗ High store conditions
+
+Percent of total turnover (3 months)
+Percent of Total turnover (3 months)∗ High RPL
+
+Percent of total turnover (3 months)
+
+∗ High RPL variation
+
+Any manager turnover during period?
+
+Percent of full-time employees
+
+Total payroll
+
+(in ten thousands)
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+Number of local competitors
+
+Percent of local unemployment
+
+Store ﬁxed effects?
+Calendar month ﬁxed effects?
+Year ﬁxed effects?
+
+Dependent variable: Customer service
+
+Dependent variable: Proﬁt margin
+
+(1)
+
+−5(cid:3)754∗∗∗
+(cid:5)1(cid:3)677(cid:6)
+3(cid:3)679∗
+(cid:5)1(cid:3)960(cid:6)
+
+−0(cid:3)094
+(cid:5)1(cid:3)033(cid:6)
+−4(cid:3)006∗∗
+(cid:5)2(cid:3)036(cid:6)
+0(cid:3)590∗∗∗
+(cid:5)0(cid:3)179(cid:6)
+0(cid:3)460
+(cid:5)0(cid:3)474(cid:6)
+0(cid:3)107
+(cid:5)0(cid:3)211(cid:6)
+Yes
+Yes
+Yes
+
+(2)
+
+−5(cid:3)223∗∗∗
+(cid:5)1(cid:3)235(cid:6)
+
+3(cid:3)771∗∗∗
+(cid:5)1(cid:3)542(cid:6)
+
+−0(cid:3)319
+(cid:5)0(cid:3)740(cid:6)
+−1(cid:3)899
+(cid:5)1(cid:3)404(cid:6)
+0(cid:3)541∗∗∗
+(cid:5)0(cid:3)159(cid:6)
+0(cid:3)435
+(cid:5)0(cid:3)358(cid:6)
+0(cid:3)029
+(cid:5)0(cid:3)145(cid:6)
+Yes
+Yes
+Yes
+
+(3)
+
+−2(cid:3)4919∗
+(cid:5)1(cid:3)363(cid:6)
+
+−2(cid:3)891∗∗
+(cid:5)1(cid:3)456(cid:6)
+−0(cid:3)305
+(cid:5)0(cid:3)729(cid:6)
+−1(cid:3)811
+(cid:5)1(cid:3)376(cid:6)
+0(cid:3)540∗∗∗
+(cid:5)0(cid:3)160(cid:6)
+0(cid:3)407
+(cid:5)0(cid:3)352(cid:6)
+0(cid:3)014
+(cid:5)0(cid:3)143(cid:6)
+Yes
+Yes
+Yes
+
+(4)
+
+−0(cid:3)033∗∗∗
+(cid:5)0(cid:3)008(cid:6)
+0(cid:3)024∗∗
+(cid:5)0(cid:3)010(cid:6)
+
+−0(cid:3)005
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)004
+(cid:5)0(cid:3)011(cid:6)
+−0(cid:3)009∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+−0(cid:3)028∗∗∗
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)003∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+Yes
+Yes
+Yes
+
+(5)
+
+−0(cid:3)028∗∗∗
+(cid:5)0(cid:3)00(cid:6)
+
+0(cid:3)028∗∗∗
+(cid:5)0(cid:3)011(cid:6)
+
+−0(cid:3)005
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)001
+(cid:5)0(cid:3)010(cid:6)
+−0(cid:3)007∗∗∗
+(cid:5)0(cid:3)002(cid:6)
+−0(cid:3)027∗∗∗
+(cid:5)0(cid:3)003(cid:6)
+−0(cid:3)004∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+Yes
+Yes
+Yes
+
+(6)
+
+−0(cid:3)01419∗∗
+(cid:5)0(cid:3)006(cid:6)
+
+−0(cid:3)010∗
+(cid:5)0(cid:3)005(cid:6)
+−0(cid:3)005
+(cid:5)0(cid:3)003(cid:6)
+0(cid:3)000
+(cid:5)0(cid:3)005(cid:6)
+−0(cid:3)007∗∗∗
+(cid:5)0(cid:3)002(cid:6)
+−0(cid:3)027∗∗∗
+(cid:5)0(cid:3)002(cid:6)
+−0(cid:3)004∗∗∗
+(cid:5)0(cid:3)001(cid:6)
+Yes
+Yes
+Yes
+
+Observations
+Adjusted R2
+Notes. ∗, ∗∗, ∗∗∗ denote statistical signiﬁcance at the 10%, 5%, and 1% levels, respectively. Standard errors are heteroskedasticity robust
+and clustered by store. Regressions include a constant term not shown in the table.
+
+10,567
+0(cid:3)3705
+
+11,928
+0(cid:3)7951
+
+11,928
+0(cid:3)7948
+
+10,567
+0(cid:3)3703
+
+6,709
+0(cid:3)3688
+
+7,750
+0(cid:3)7942
+
+single ﬁrm allows us to avoid having to control for het-
+erogeneity across stores in ownership. We thus avoid
+having to control for unobservable ﬁrm-level factors that
+are correlated with both performance and turnover. Fur-
+thermore, our ﬁndings may be applied to other forms of
+retailing as well as to other settings—such as call cen-
+ters, hospitals, and food services—that operate with high
+levels of employee turnover. According to the Bureau
+of Labor Statistics (2005a), employee turnover rates in
+the retail industry and in the accommodation and food
+services industries were 55.1% and 75.4%, respectively,
+in 2005.13 These turnover rates include turnover of all
+employees (e.g., workers who perform daily operational
+activities as well as managers and assistant managers).
+Turnover rates for workers who perform operational
+activities are likely to be even higher. At many fast-food
+chains, for example, employee turnover rates of 200% a
+year for hourly workers are common (White 2005). Fur-
+thermore, workers performing daily operational activi-
+ties in these industries represent a signiﬁcant portion of
+the workforce in the United States.14
+
+Second, we cannot distinguish between voluntary and
+involuntary turnover. Borders managers maintain that
+most turnover at their stores is voluntary and, as a result,
+they do not systematically track the causes of turnover for
+store employees. To the extent that involuntary turnover
+
+and process conformance are correlated, the moderating
+effect of process conformance may be partly due to the
+involuntary nature of turnover at these stores. Although
+we do not have any reason to believe that there is more
+involuntary turnover at high-process-conformance stores,
+we are not able to test this relationship with our data.
+
+Third, our data do not allow us to determine whether a
+store’s level of process conformance is the result of man-
+agerial policy or employee will. For example, we are not
+able to observe whether a store has low process confor-
+mance because its manager decides not to enforce corpo-
+rate standards or because its frontline employees decide
+not to act in accordance with mandates from the store
+manager. Regardless of the underlying cause of low con-
+formance, our study highlights the impact of its occur-
+rence on the effect that turnover has on performance.
+
+Fourth, it is possible that there is an alternative expla-
+nation of our results. Speciﬁcally, employees at stores
+with low process conformance may be more skilled in
+selling books and interacting with customers than they
+are in following standardized processes. Because these
+employees directly affect customer service, and thus
+sales and proﬁt, their departure may disproportionately
+hurt operational performance at stores with low process
+conformance. This explanation is unlikely in our setting.
+We ﬁnd that stores with high process conformance have
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+67
+
+higher average customer service scores than those with
+low process conformance (88.2 versus 86.6). This dif-
+ference of 1.6 points is statistically signiﬁcant at the
+1% level.15 As a result, our setting does not appear to
+be characterized by a trade-off between customer ser-
+vice and process conformance. Furthermore, we have
+no reason to believe that, at stores with low process
+conformance, employees who leave are more customer
+service and sales oriented than are those employees
+who stay. Although we are unable to observe individual
+employees’ inclinations toward process conformance or
+customer service, we expect some degree of similarity
+across employees within a store, especially given that
+hiring at a store is generally done by a single manager.
+Finally, it is not obvious that our ﬁndings translate to
+a more exploration-oriented setting in which there may
+exist a trade-off between process conformance and per-
+formance measures, such as customer service. In such
+settings, a push toward greater process conformance and
+standardization will likely limit process ﬂexibility; the
+theoretical effects of this trade-off on overall store or
+ﬁrm performance are not clear. As such, our ﬁndings
+are most applicable to exploitation-oriented settings (i.e.,
+those settings in which the returns to having consistent
+and replicable processes are greater than those to having
+a high level of ﬂexibility).
+
+Despite these caveats, our study has important man-
+agerial
+implications. To reduce the costs associated
+with employee turnover, most recommend that managers
+focus on reducing the level of turnover. Here we sug-
+gest that, in certain settings, managers may also be able
+to reduce the turnover’s effect (regardless of its absolute
+level) by focusing on process management and the cre-
+ation of standard operating procedures. Our ﬁndings sug-
+gest that the current managerial and ﬁnancial resources
+dedicated to reducing the occurrence of turnover might
+be redirected, at least in part, to improving the ﬁrm’s
+ability to manage turnover’s impact.
+
+Acknowledgments
+The authors thank Linda Argote and three anonymous review-
+ers for their thoughtful suggestions that helped improve this
+paper. The authors are grateful to Lee Fleming, Susan Kulp,
+Ananth Raman, Noel Watson, and Steven Wheelwright for
+providing feedback on earlier drafts. The authors also thank
+participants in the Technology and Operations Management
+Seminar at Harvard Business School for helpful comments,
+and they acknowledge support from the Division of Research
+and Faculty Development.
+
+Endnotes
+1For example, see Sasha Corporation (2007) for a list of stud-
+ies that estimate the cost of turnover.
+2Examples of questions relating to the customer service envi-
+ronment:
+
+• Was area outside the door and around the display win-
+
+dows clean and neat?
+
+• Were facilities in the restroom in working order?
+• Were bookshelves fully stocked, without gaps or the back
+
+of shelves showing?
+Examples of questions relating to customer service interac-
+tions:
+
+• Did any employee initiate verbal acknowledgment or
+
+greet you while you were in the store?
+
+• Was at least one employee visible and approachable at
+
+the information desk?
+
+• Did employees make additional item suggestions?
+
+3We note that the distinction between permanent and tem-
+porary employees is not the same as that between full-time
+and part-time employees. Permanent employees are those who
+are employed for an unspeciﬁed duration; they are considered
+either full time or part time based on the number of hours they
+work each week. Temporary employees are hired for a speci-
+ﬁed period of time (e.g., one month). During that period, they
+may work in either a full- or part-time basis.
+4We had access to monthly RPL scores. We were not able,
+however, to obtain quarterly store conditions scores. We were
+able to collect data only on average store conditions scores for
+each year.
+5We also repeated our analysis using store manager turnover
+during the past three months. Although the magnitude of the
+store manager turnover coefﬁcient as well as its signiﬁcance
+changed slightly in different models, the direction remained
+the same. We do not report the results using this alternative
+measure of store manager turnover.
+6Managers at Borders consider Barnes & Noble and other Bor-
+ders stores in the area as the main competitors to a speciﬁc
+Borders store. Consequently, Borders tracks the opening and
+closing of Barnes & Noble and other Borders stores near each
+existing Borders store.
+7Unemployment data were obtained from the Bureau of Labor
+Statistics.
+8In this setting, these unobserved, time-invariant aspects of a
+store include factors such as physical size and layout.
+9Variation in RPL scores was calculated using monthly RPL
+scores for each store.
+10The standard deviation of three-month turnover using pooled
+observations from all cross sections and time periods is 0.109
+for full-time employee turnover, 0.242 for part-time turnover,
+and 0.101 for total turnover. The standard deviation of three-
+month turnover within a store varies from 0.024 to 0.245 for
+full-time turnover, from 0.067 to 0.801 for part-time turnover,
+and from 0.033 to 0.27 for total employee turnover. In inter-
+preting our results, we use the standard deviation of turnover
+within an average store.
+11In 1999, Borders Group’s net income was $90.3 million.
+Approximately 60% of the company’s sales came from Bor-
+ders stores. If we assume a similar share of the proﬁts, Bor-
+ders stores contributed to about $54 million in proﬁt. We note
+that the 2.72% decrease in a store’s proﬁt margin leads to a
+larger decrease in corporate net income as the former does not
+include part of the selling, general, and administrative (SG&A)
+expenses (it
+includes store labor, which is reported under
+SG&A), it also does not include other investment expenses or
+taxes.
+12Note that the number of observations dropped signiﬁcantly,
+as we were able to obtain only three years of data for store
+conditions.
+
+
+68
+
+Ton and Huckman: Managing the Impact of Employee Turnover on Performance
+Organization Science 19(1), pp. 56–68, © 2008 INFORMS
+
+13The turnover rate is the number of total separations as a
+percent of total employment in these industries.
+14According to the Bureau of Labor Statistics (2005b), retail
+salespeople, cashiers, food preparation and serving workers
+(including waiters and waitresses), and cooks in fast-food
+chains accounted for 13.9 million employees, or about 10.6%
+of total employment in 2005.
+15We do not observe a difference in average proﬁt margins
+between high-conformance and low-conformance stores.
+
+References
+Abelson, M., B. Baysinger. 1984. Optimal and dysfunctional turnover:
+Toward an organizational level model. Acad. Management Rev.
+9(2) 331–341.
+
+Adler, P., R. Cole. 1993. Designed for learning: A tale of two auto
+
+plants. Sloan Management Rev. 34(3) 85–94.
+
+Adler, P., B. Goldoftas, D. Levine. 1999. Flexibility versus efﬁciency?
+A case study of model changeovers in the Toyota production
+system. Organ. Sci. 10(1) 43–68.
+
+.
+)
+s
+(
+r
+o
+h
+t
+u
+a
+
+e
+h
+t
+
+o
+t
+
+y
+s
+e
+t
+r
+u
+o
+c
+
+.
+/
+g
+r
+o
+.
+s
+m
+r
+o
+f
+n
+i
+.
+s
+a
+n
+r
+u
+o
+j
+/
+/
+:
+p
+t
+t
+h
+
+l
+
+t
+
+a
+
+a
+
+Argote, L. 1999. Organizational Learning: Creating, Retaining and
+
+s
+a
+
+l
+
+e
+b
+a
+
+y
+p
+o
+c
+
+l
+i
+
+a
+v
+a
+
+i
+
+s
+h
+
+t
+
+t
+
+d
+e
+u
+b
+i
+r
+t
+s
+d
+
+i
+
+d
+n
+a
+
+l
+
+e
+c
+i
+t
+r
+a
+
+i
+
+s
+h
+
+t
+
+o
+
+t
+
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+
+i
+
+,
+s
+e
+c
+
+i
+
+i
+l
+
+o
+p
+
+i
+
+n
+o
+s
+s
+m
+r
+e
+p
+
+i
+
+d
+n
+a
+
+s
+t
+h
+g
+i
+r
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+i
+
+,
+
+n
+o
+
+i
+t
+
+l
+
+s
+d
+o
+h
+
+a
+m
+r
+o
+n
+
+f
+
+i
+
+S
+M
+R
+O
+F
+N
+
+I
+
+l
+
+a
+n
+o
+
+i
+t
+i
+
+d
+d
+A
+
+Transferring Knowledge. Kluwer, New York.
+
+Argote, L., D. Epple. 1990. Learning curves in manufacturing. Science
+
+247 920–924.
+
+Argote, L., C. Insko, N. Yovetich, A. Romero. 1995. Group learning
+curves: The effects of turnover and task complexity on group
+performance. J. Appl. Soc. Psych. 25(6) 512–529.
+
+Becker, G. 1962. Investment in human capital: A theoretical analysis.
+
+J. Political Econom. 70(5) 9–49.
+
+Bluedorn, A. 1982. The theories of turnover: Causes, effects, and
+
+meaning. Res. Sociol. Organ. 1 75–128.
+
+Bowen, D., E. Lawler. 1992. The empowerment of service workers:
+What, why, how and when. Sloan Management Rev. 33(3) 31–40.
+Bowen, D., E. Lawler. 1995. Empowering service employees. Sloan
+
+Management Rev. 36(4) 73–84.
+
+Bureau of Labor Statistics. 2005a. Job openings and labor turnover
+
+survey. U.S. Department of Labor, Washington, D.C.
+
+Bureau of Labor Statistics. 2005b. May 2005 National occupational
+employment and wage estimates. U.S. Department of Labor,
+Washington, D.C.
+
+Carley, K. 1992. Organizational
+
+learning and personnel
+
+turnover.
+
+Organ. Sci. 3(1) 20–46.
+
+Dalton, D., W. Todor. 1979. Turnover turned over: An expanded and
+
+positive perspective. Acad. Management Rev. 4(2) 225–235.
+
+Darmon, R. 1990. Identifying sources of turnover costs: A segmental
+
+approach. J. Marketing 54(2) 46–56.
+
+Dess, G., J. Shaw. 2001. Voluntary turnover, social capital, and orga-
+nizational performance. Acad. Management Rev. 26(3) 446–456.
+Glebbeek, A., E. Bax. 2004. Is high employee turnover really harm-
+ful? An empirical test using company records. Acad. Manage-
+ment J. 47(2) 277–286.
+
+Hom, P., R. Griffeth. 1995. Employee Turnover. South-Western Pub-
+
+lishing, Cincinatti, OH.
+
+Huselid, M. 1995. The impact of human resource management prac-
+tices on turnover, productivity, and corporate ﬁnancial perfor-
+mance. Acad. Management J. 38(3) 635–672.
+
+Jovanovic, B. 1979. Job matching and the theory of turnover. J. Polit-
+
+ical Econom. 87(5) 972–990.
+
+Leana, C., H. Van Buren. 1999. Organizational social capital and
+employment practices. Acad. Management Rev. 24(3) 538–555.
+
+Levitt, T. 1972. Production-line approach to services. Harvard Bus.
+
+Rev. 50(4) 41–52.
+
+March, J. 1991. Exploration and exploitation in organizational learn-
+
+ing. Organ. Sci. 2(1) 71–87.
+
+Mobley, W. 1982. Employee Turnover: Causes, Consequences, and
+
+Control. Addison-Wesley, Reading, MA.
+
+Mowday, R., L. Porter, R. Steers. 1982. Employee-Organization
+Linkages: The Psychology of Commitment, Absenteeism, and
+Turnover. Academic Press, New York.
+
+Naveh, E., M. Erez. 2004. Innovation and attention to detail
+
+in
+the quality improvement paradigm. Management Sci. 50(11)
+1576–1586.
+
+Nelson, R., S. Winter. 1982. An Evolutionary Theory of Economic
+
+Change. Harvard University Press, Cambridge, MA.
+
+Osterman, P. 1987. Turnover, employment security, and the per-
+formance of the ﬁrm. M. Kleiner, R. Block, M. Roomkin,
+S. Salsburg, eds. Human Resources and the Performance of the
+Firm. BNA Press, Washington, D.C.
+
+Polanyi, M. 1966. The Tacit Dimension. Anchor Day Books, New
+
+York.
+
+Price, J. 1977. The Study of Turnover. Iowa State University Press,
+
+Ames, IA.
+
+Rao, R., L. Argote. 2006. Organizational learning and forgetting: The
+effects of turnover and structure. Eur. Management Rev. 3(2)
+77–85.
+
+Sasha Corporation. 2007. http://www.sashacorp.com/turnframe.html.
+
+Shaw, J., N. Gupta, J. Delery. 2005. Alternative conceptualizations of
+the relationship between voluntary turnover and organizational
+performance. Acad. Management J. 48(1) 50–68.
+
+Sitkin, S., K. Sutcliffe, R. Schroeder. 1994. Distinguishing control
+from learning in total quality management: A contingency per-
+spective. Acad. Management Rev. 19(3) 537–564.
+
+Staw, B. 1980. The consequences of turnover. J. Occupational Behav.
+
+1(4) 253–273.
+
+Steers, R., R. Mowday. 1981. Employee turnover and post-decision
+
+accommodation processes. Res. Organ. Behav. 3 235–281.
+
+White, E. 2005. To keep employees, Domino’s decides it’s not all
+about pay. Pizza chain attacks turnover by focusing on man-
+agers. Wall Street Journal (February 17) A1.
+
+Hausman, J., W. Taylor. 1981. Panel data and unobservable individual
+
+Winter, S., G. Szulanski. 2001. Replication as strategy. Organ. Sci.
+
+effects. Econometrica 49(6) 1377–1398.
+
+12(6) 730–743.
+
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+

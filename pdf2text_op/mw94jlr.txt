@@ -1,0 +1,873 @@
+Unions and Productivity:
+Evidence from  Academe
+
+MARK  MEADOR  and  STEPHEN  J.  K.  WALTERS
+Loyola  College  in Maryland,  Baltimore,  MD  21210
+
+In order to test competing hypotheses about the effect of unions on labor productivity,
+we  examine  research performance  in  a  sample  of  889  Ph.D.-granting  departments
+(175  unionized)  in public  universities.  We find no  support for  the  hypothesis  that
+unions enhance productivity  in academe. If we compare union and nonunion depart-
+ments endowed with (sample) mean amounts of labor and capital, we find that union-
+ization is associated with a 17 percent  reduction in output of published articles and a
+9 percent  reduction in peers'  survey evaluations of a department's  level of scholarly
+achievement.
+
+Introduction
+
+I. 
+Theory  has spawned  conflicting  predictions  about unionism's  effect  on  productivity.
+The traditional view was that unions damaged productivity  via restrictive work rules,
+featherbedding,  and  disruptive  strikes  or  other  adversarial  tactics.  More  recently,
+however,  Freeman  (1976)  and Freeman  and Medoff  (1984)  advanced  the  hypothesis
+that unions may enhance productivity. In their formulation,  unions constitute a desir-
+able  "voice/response"  mechanism  which  can  improve  worker  morale  and  coopera-
+tion,  reduce  labor  turnover,  negotiate  improvements  in  the  organization  of  the
+workplace, or otherwise reduce X-inefficiency  in affected  firms.
+
+In recent years, many investigators have tried to determine whether favorable  or
+unfavorable  union  productivity  effects  predominate.  At  present,  it  appears  that
+studies concluding that unions enhance productivity outnumber those concluding that
+unions  reduce  (or  have  no  effect  on)  productivity.  One  oft-cited  study  is  by  Brown
+and Medoff  (1978), who applied a production function  framework  to 1972 cross-state
+data on 20 two-digit  SIC industries and concluded that unionization  increased  output
+per worker by about 22 percent (approximately  the same percentage, incidentally, by
+which  unions  raised  wages  in  their  sample).  Subsequent  researchers  have  applied
+the  Brown-Medoff  methodology  to particular  industries. For  example,  Clark  (1980)
+analyzed  establishment  data  for  the U.S. cement  industry  and concluded  that  union-
+ization  raised productivity  six to eight percent; Allen  (1984)  analyzed  data from  the
+1972 Census of  Construction  Industries  and concluded  that  unions raised  productiv-
+ity  (measured  by  valued  added  per  employee,  adjusted  for  interarea  construction
+price  differences)  by  17 to  22  percent.'  On  the  other  hand,  Clark  (1984)  analyzed
+
+JOURNAL OF LABOR  RESEARCH
+Volume XV,  Number 4  Fall  1994
+
+
+374 
+
+JOURNAL OF LABOR RESEARCH
+
+data on over 900 product-line businesses and found  no favorable  productivity  effects,
+and Hirsch and Link (1984) reached a similar conclusion for a sample of  19 two-digit
+SIC  manufacturing  industries.  Finally,  Warren  (1985)  analyzed  time  series  data  for
+U.S.  manufacturing  over  1948-1973  and  found  that  union  membership  significantly
+decreased average labor productivity.
+
+We might conclude that these results  simply  confirm  the commonsensical  view
+that  unions can have different  productivity  effects  in different  contexts. Before  clos-
+ing  the  case,  however,  we  should  note  that  the  methodology  and  data  underlying
+most  of  these  studies  contain  some  important  limitations.  Studies  based  on  the
+Brown-Medoff  approach  may, for example, be picking up favorable  union  productiv-
+ity  effects  that  are  primarily  a result  of  union/nonunion  wage  differentials.  And  the
+data used in all prior studies are afflicted  by what may be termed "survivorship bias,"
+i.e.,  because  they  are  burdened  by  above-competitive  union  wage  rates,  unionized
+firms must be more efficient  if they are to survive in the long run. In sum, the empiri-
+cal literature on the productivity effects  of unions is not as substantial as it appears.
+
+We think, then, that the investigation must continue, and that a study of academic
+research  productivity  may  —  because  union  wage  effects  and  survivorship  bias  are
+comparatively  unimportant  in  academe —  provide  some  uniquely  valuable  insights.
+Section  II outlines the limitations of prior research  in a bit more detail. In section  III
+we describe  our  model, data, and  methodology.  Later  sections present  our  empirical
+results and summary remarks.
+
+II.  Critiques of the Prior Evidence
+A  good  deal  of  the  empirical  literature  on  unions'  productivity  effects  relies  on  the
+methodology  originated  by Brown  and Medoff  (1978), which  began  with  a  modified
+Cobb-Douglas production  function
+
+Q = AK"{L„ + cLJ^-^, 
+
+(1)
+
+where  Q = output,  K = capital, L^ = nonunion  labor, L^  -  union  labor, a = elasticity
+of output with respect to capital (0 < a < 1), and i4 is a technical efficiency  parameter.
+The  parameter  c converts  union  labor  units  into  nonunion  labor  units  and  "reflects
+differences  in the productivity  of  union  and nonunion  labor. If  c is  greater  than  1.0,
+union  labor is more productive than  nonunion  labor; if c is less than  1.0,  union  labor
+is more productive than nonunion labor" (Brown and Medoff,  1978, p. 360).
+
+But,  as  Reynolds  (1986)  has  pointed  out,  in  this  specification  c  is  simply  the
+
+ratio of the marginal product of union labor to that of nonunion  labor:
+
+= [0(1 -  ä)Q]l[L^ + cLJ,  and 
+
+,so 
+
+(2)
+
+(3)
+
+(4)
+
+
+MARK MEADOR and STEPHEN J, K, WALTERS 
+
+375
+
+Reynolds  further  observes  that,  if  all  firms  maximize  profits,  the  marginal  product
+per  dollar  spent  on  union  labor  will  equal  the  marginal  product  per  dollar  spent  on
+nonunion labor, or, alternatively:
+
+[dQ/dLJ/[dQ/dLJ  = wJw^, 
+
+(5)
+
+where wjw^  is the ratio of union to nonunion wage rates. Thus, c =  wjw^.
+
+Reynolds argues, therefore,  that estimated  versions of equation (1) above convey
+
+no useful  information  about unions' real productivity  effects:
+
+[T]he alleged pro-productivity effects  of unionizatioti , , , must shift marginal pro-
+ductivity  schedules  rightward,  ceteris  paribus, making  a given  total  amount of
+unionized  labor  more  productive  than  a demographically  identical  amount of
+nonunionized  labor working with the same capital. Such a situation  would induce
+each unionized firm to employ  more labor than otherwise at a given union price
+premium, but the firm would still move along downward-sloping marginal produc-
+tivity schedules to establish an equality between value marginal products and input
+prices. Conversely, a c greater than  1,0  is consistent with  leftward  shifts  in  firms
+marginal labor productivity schedules , , , because firms reestablish the  first-order
+conditions [for profit maximization] in response to any monopoly price differential.
+Estimates of c are of no consequence  in discovering  the independent  impact of
+unionization  on productivity  hecause there is no way to statistically  separate ob-
+served marginal  productivity  differentials  from  union/nonunion  price  differentials
+(Reynolds, 1986, pp, 445-46),
+
+In the view of Addison and Hirsch (1989), Reynolds's critique does not invalidate
+all the studies that use the Brown-Medoff  methodology. They observe that movements
+along  a  stationary  labor  demand  schedule  imply  a changing  ratio  of  labor  to  other
+inputs; since the production function  studies control for capital inputs and labor qual-
+ity, they  argue  that  the  studies  measure  vertical  shifts  in  the  labor  demand  schedule
+resulting  from  union  productivity  effects,  Addison  and  Hirsch  agree,  however,  that
+these studies are afflicted  by what might be called "survivorship bias," In their words:
+
+[U]nion firms facing higher wage rates must be more productive if they are to sur-
+vive in the long run. Hence the union productivity  effect  is not being measured
+across a representative sample of firms. Rather, only those firms that have survived
+by increasing productivity  (a shift  in the [labor] demand  schedule) sufficiently  to
+offset  higher union wages are observed. Measurement of union productivity  differ-
+entials from  among a sample of surviving firms thus overstates  the productivity
+effect of unions on a representative firm (Addison and Hirsch, 1989, p, 75),
+
+Lovell, Sickles, and Warren  (1988) note that the productivity  estimates  reported
+by  Brown  and Medoff  (and  their followers)  are upwardly  biased  for  another  reason.
+To  derive  a  linear  estimating  equation,  Brown-Medoff  applied  a  first-order  Taylor
+series  approximation  to the  intrinsically  nonlinear  explanatory  variable  representing
+union  membership. The resulting measured  union  productivity  effect  was, according
+to Lovell, Sickles, and Warren, about  15 percent higher than that derived from  a more
+accurate nonlinear model.
+
+
+376 
+
+JOURNAL OF LABOR RESEARCH
+
+Unfortunately,  then,  it  appears  there  is  very  little  reliable  evidence  about  the
+productivity  effects  of  unions.^ In  the  words  of  Addison  and  Hirsch:  "We  conclude
+that there is no compelling  evidence that, in general, the net effect  of unions on pro-
+ductivity is positive or negative. . ..  Estimated  union-nonunion  productivity  differen-
+tials may result from  an entangling of union productivity, price, and wage effects.  Or
+we may be observing the outcome of  a competitive process in which  less  productive
+unionized  enterprises  have  been  selected  out  of  the  system"  (Addison  and  Hirsch,
+1989, p. 83).
+
+Clearly, more empirical research on this topic is needed. In this paper, we exam-
+ine research productivity  in 889 Ph.D.-level  academic departments (175 of which are
+unionized)  in  public  universities.  This  sample  of  data  has  some  unique  attributes
+which  should enable us to avoid  some of the pitfalls  of earlier  studies of the produc-
+tivity effects  of unions.
+
+First,  it  is unlikely  that  survivorship  bias  is an  important  source  of  variation  in
+productivity  in  this  industry. While  it is true  that  academic  programs  are  terminated
+on occasion, such terminations are quite rare and commonly limited to nontraditional
+academic  disciplines  (which  are  not  among  the  fields  included  in  our  data  sample).
+And  failure  of  an entire  institution  (especially  a public  one)  is virtually  unknown  in
+this segment of the higher education  industry.
+
+Second,  the  union  wage  effect  is quite  small  in  academe.  Barbezat  (1989),  for
+example, has measured the proportional  salary  advantage of unionized faculty  mem-
+bers  at  1.3  to  1.6  percent  (after  controlling  for  numerous  professional  characteris-
+tics).-' This  suggests that  any perceptible  productivity  effect  of unions  in academe is
+not  merely  a  movement  along  a  stable  marginal  product  curve  but  is,  in  fact,  the
+result of a shift  in such a curve.
+
+In  sum,  then,  our  data  set  permits  a  relatively  pure  test  of  the  traditional  vs.
+"voice/response"  theories  of  unionism.  In  addition,  our  methodology  allows  for  the
+possibility  that  unionization  affects  the  slope  parameters  of  the  production  function
+as  well  as  the  efficiency  parameter  in  the  intercept  term.  In  contrast  to  Brown  and
+Medoff  (who had data on the percentage of unionized  laborers in each  subject  indus-
+try), we have data on individual academic departments (i.e., "firms"), which are orga-
+nized  as either union  or nonunion  entities. Thus, following  the suggestion  of Warren
+(1985), we employ  appropriate  interaction  terms in our estimated  equations  in  order
+to observe  not just  unions'  effects  on the efficiency  of  labor inputs, but  their  effects
+on the efficiency  of capital inputs as well.
+
+III.  Model, Data, and Methodology
+Institutions  of  higher  education  are  multiproduct  firms,  and  research  output  is just
+one portion  of  any  academic  department's  total  output  (see, e.g.,  Cohn  et al.,  1989).
+That is, in academe
+
+Q=f(R,T,S), 
+
+(6)
+
+
+MARK MEADOR and STEPHEN J. K. WALTERS 
+
+377
+
+where  Q is the total output of a department's  faculty  members; R is research  output;
+T  is  teaching  output;  and  S  is  institutional  or  community  service  output.  Note  also
+(see, e.g.. Graves et al., 1982) that
+
+R^g{K,L,A^,AT.,As,W^,Wj,Ws), 
+
+(7)
+
+where ÍT is a vector of  capital  inputs  available to a department's  faculty  members; L
+is  a  vector  of  labor  inputs; A^,  Aj,  and  A^  are  department  members'  abilities  in
+research,  teaching,  and  service,  respectively;  and  W¡^, Wj,  and  M^  are  the  depart-
+ment's relative remunerations to output of research, teaching, and service.
+
+In order to simplify  equation  (7) for purposes of empirical testing, however, we
+make the following  assumptions. First,  we assume that teaching  and service  outputs
+exhibit  little  variation  across  departments;  therefore,  the  relative  remunerations  to
+these outputs exhibits  little variation  as well. This would be hopelessly  unrealistic  if
+our data  encompassed  all  academic  institutions,  but  we thiiik  it is tolerably  realistic
+for  our  sample  of  Ph.D.-granting  departments  in  public  institutions.  Such  depart-
+ments cannot impose unusually heavy teaching and service requirements if they hope
+to  attract  and  retain  faculty  capable  of  performing  the  type  of  research  typically
+required  to attract doctoral  students and sustain  a program. Further, by confining  our
+study  to public  institutions,  we reduce  the amount  of  variation  in output  that  results
+entirely from  variation in institutional  mission. It is possible that the mission (as well
+as  the  resource  base)  of  a representative  private  institution  is  significantly  different
+from  that  of  a public one — e.g.,  public  universities  may expect  more (or  different)
+teaching  or  service  than  better-endowed  private  schools.'* We submit,  however,  that
+since our sample includes only departments in public institutions, this source of vari-
+ation in output is greatly reduced.^
+
+Second,  since valid  measures  of  the relative abilities  of department  members  at
+research,  teaching,  and  service  are  simply  not  available,  we  assume  them  to  be
+uniformly  — or at least randomly — distributed across departments. Again, we think
+that  the  nature  of  our  data  sample  makes  this  a  reasonable  assumption.  All  Ph.D.-
+level  departments  presumably  attempt  to  attract  and  retain  high-quality,  research-
+oriented,  terminally-qualified  faculty.  Among  these  departments,  then,  significant
+variation  in  any  "objective"  measure  of  raw  ability  (e.g., possession  of  the Ph.D.)  is
+unlikely. Any such variation would be further  reduced by our focus on public  institu-
+tions. It  may be  argued  that private  schools  (with  their richer  endowments  and,  per-
+haps,  lighter  teaching  and  service  burdens)  might  hire  the  most  able  faculty,  but,
+again, this  potential  source of  interdepartmental  variation  in  productivity  is  reduced
+in our data sample.
+
+We use data compiled by the Conference  Board of Associated Research Councils
+(1982), which  gathered  data  on  departments  with doctoral  programs  in  32  academic
+disciplines  so that the relative quality  of  these programs  could  be assessed. In  22 of
+these disciplines, the data include two alternative  measures of departmental  research
+output useful  for estimating a version of equation (7).
+
+
+378 
+
+JOURNAL OF LABOR RESEARCH
+
+One measure,  which  we denote  as  /í¡,  is simply  a raw  count of journal  articles
+published by a department. In the social sciences, articles that appeared during  1978-
+1980 in journals covered by the Social Science  Citation Index were counted. In engi-
+neering  and the mathematical, physical, or biological  sciences, articles that  appeared
+during  1978-1979 in journals covered by the Science  Citation Index were counted. A
+second  measure  of  research  output,  which  we  denote  as  /?2,  is  the  Conference
+Board's  survey  of  the  mean  rating  of  the  "scholarly  competence  and  achievements"
+of a department's  faculty.^
+
+Clearly, neither output  measure is perfect.  Not all articles are of equal  length or
+have  equal  significance.  We  might  prefer,  therefore,  a  count  of  standardized  pages
+published,  or  a  citations-weighted  article  count,  to  our  Ry  But  even  a  length-  or
+impact-adjusted  count  may  inaccurately  measure  research  productivity  in  certain
+cases.  Some  disciplines,  for  example,  place  far  greater  emphasis  on  publication  of
+books or monographs  than  articles; in other fields, the best measure  of research  out-
+put may be patents awarded. Another problem  is that the Conference  Board  counted
+articles  over  a  relatively  brief  period.  Academic  research  often  involves  a  lengthy
+gestation  period  culminating  in  a  surge  of  publication  activity,  and  there  are  many
+fields for  which  the normal publication  "cycle" exceeds the limited  time over  which
+the Conference  Board gathered  its data. Table  1 shows the variation  in average  num-
+ber  of  articles  per  faculty  member  per  year  across  disciplines.  In  civil  engineering,
+for  example, the  average faculty  member  publishes  0.30  articles  per  year —  or  one
+every 3.33 years — far greater than the two-year counting period used by the Confer-
+ence  Board.  If  a department's  observed  level  of  productivity  is  the  sum  of  "perma-
+nent" and "transitory" components, shortening  the counting  period  may increase  the
+likelihood  that  a "transitory"  phenomenon  will  lead  to under-  or  overestimates  of  a
+department's true productivity.
+
+Our /?2, on the other hand, has many of the virtues and vices of standard  surveys
+of program quality. It is true that /îj  is simply a "consensus opinion" about the schol-
+arly  achievements  of  a department's  faculty,  and evaluators'  opinions  may  be  based
+on  out-of-date  information  or may  be influenced  by factors  unrelated  to their  peers'
+research. On the other hand, surveys give evaluators an opportunity  to weigh the sig-
+nificance  of published  research — of  all types — in forming  their opinions. What  is
+more,  survey  respondents  can  weigh  a lifetime  of  contributions  to a discipline,  and
+are not forced  to consider only what a particular faculty  member has done lately. We
+cannot  say with certainty  that /?2  is necessarily  superior to R^ as a measure of  long-
+term research output, but we think it is clear that it has some attributes that Ä,  lacks.
+(And, as Table  1 shows, the two measures  are positively  and significantly  correlated
+for  all  22 disciplines  in  this  study). In consequence,  we estimate  a version  of  equa-
+tion (7) using both measures of research output.
+
+The  Conference  Board  study  also  contains  department-level  data  on  four  key
+
+inputs — two types of labor input and two types of capital input:
+
+Lj  =  the number of full-time  faculty  in a department as of December,  1980;
+
+
+MARK MEADOR and STEPHEN J. K. WALTERS 
+
+379
+
+Table  1
+
+Variation in Individual Publication Performance for  22 Disciplines;
+Correlation between Total Publications in a Department (R^) and
+
+Survey Ratings on Scholarly Achievements of a Department's Faculty
+
+(R2), for  889 Departments in Public Universities
+
+Field
+
+Anthropology
+Biochemistry
+Botany
+Cell Biology
+Chemical  Engineering
+Chemistry
+Civil  Engineering
+Computer Science
+Economics
+Electrical  Engineering
+Geography
+Geosciences
+Mathematics
+Mechanical  Engineering
+Microbiology
+Physics
+Physiology
+Political  Science
+Psychology
+Sociology
+Statistics
+Zoology
+
+*Pearson correlation  coefficient
+
+Articles per faculty
+member per year
+
+Correlation*
+
+between /?, and R2
+
+0.60
+2.45
+1.05
+3.00
+0.45
+1.84
+0.30
+0.98
+0.68
+0.49
+0.45
+1.27
+0.56
+0.30
+1.27
+1.60
+0.52
+0.64
+1.02
+0.81
+0.60
+0.45
+
+0.72
+0.84
+0.37
+0.63
+0.65
+0.76
+0.67
+0.74
+0.67
+0.81
+0.79
+0.72
+0.79
+0.77
+0.62
+0.86
+0.68
+0.73
+0.72
+0.81
+0.57
+0.60
+
+
+380 
+
+JOURNAL OF LABOR RESEARCH
+
+¿2 =  the  number  of  enrolled  full-  or  part-time  doctoral  students  in  a  depart-
+
+ment as of December,  1980;
+
+Kj =  a composite index  (values ranging  from  -3  to -f-3) describing  the  size of
+
+the library^ in the university in which the department is located; and
+
+^2 =  the fraction  of a department's members holding research  grants from  the
+Alcohol,  Drug  Abuse,  and  Mental  Health  Administration,  the  National
+Institutes of Health, or the National Science Foundation  at any time dur-
+ing  1978-1980,
+
+Given the preceding  assumptions,  simplifications,  and  data, we  would  estimate
+
+the following  equation:
+
+(8)
+where  all  variables  are  as  previously  defined  and  M  is  a randomly  distributed  error
+term.
+
++ äK^+eK2  + u, 
+
+R-a-irbL^-i-cL2 
+
+In order to determine if unionization  is significantly  related to academic research
+productivity, however, we apply the familiar  specification  for  the Chow  test to equa-
+tion  (8), We include  a union  dummy  variable  (U = 1, if  unionized)  and  the  dummy
+times each of the explanatory  variables in the regressions to allow for the  estimation
+of separate union/nonunion  intercepts and slope coefficients.  Thus, we have:
+
+^^ 
+
+2 
+
+^ 
+
+(9)
+
+In  this  formulation,  a  is  the  intercept  coefficient  for  nonunion  departments  and  the
+slope coefficients  b, c,  d,  and  e represent  the  marginal  effects  on research  output  of
+our measures of labor and capital in nonunion departments,^ As such, we expect that
+b,  c,  d,  and  e  all  will  be  significantly  positive.  The  value  of  a'  is  the  incremental
+effect  of  unionization  on  the  intercept  coefficient;  the  incremental  effects  of  union-
+ization on the productivity of Lj, L2, íTj, and K2 are represented by b',  c', d',  and  e',
+respectively. If unionization  has no overall effect  on research  productivity, a',b',  c',
+d',  and e'  all should equal zero,
+
+IV,  Empirical  Results
+Table  2  contains  OLS  estimates  of  equation  (9)  for  both  available  measures  of
+research  output, K[  and ^2- Each regression  is estimated  with pooled  cross-sectional
+data  from  22 academic  disciplines.  Because  there  are  significant  differences  among
+discipline  means  for  most  of  the  variables  in  the  model,  we  include  discipline
+dummy  variables  in the pooled  regressions. Thus, our estimates  are based  on  devia-
+tions  from  discipline  means  rather  than  overall  sample  means. The  dummies  allow
+for  separate  discipline  intercepts  and  are  designed  to  pick  up  discipline-specific
+effects  on either /?[ or /?2 that are not explained by the basic model.^
+
+The  results  reported  in  Table  2  indicate  that  there  is  a  significant  relationship
+between  unionization  and  both  our  measures  of research  output.  In  both  the R^  and
+
+
+MARK MEADOR and STEPHEN J. K. WALTERS
+
+OLS Estimates of Equation (9) for  Two Measures of Research Output,
+
+(n=889)
+
+Table 2
+
+381
+
+and R2
+
+Coefficient,
+Independent
+Variable
+
+a'U
+
+b'L^U
+
+cL,
+
+dK,
+
+d' i
+
+e' K^U
+
+Adjusted/? 2
+F-statistic
+
+Dependent
+Variable: R,
+
+Dependent
+Variable; R j
+
+5.45
+(1.32)
+0.572 ***
+(8.00)
+-0.0331
+(0.214)
+0.156***
+(7.36)
+-0.0844 **
+(2.08)
+4.39 ***
+(5.14)
+-3.38
+(1.43)
+0.Í98***
+(4.51)
+-0.123*
+(1.66)
+0.631
+3.30 ***
+
+-0.213 **
+(2.16)
+0.0197  ***
+
+(11.6)
+
+0.00560
+(1.52)
+0.00432  ***
+(8'.58)
+-0.001825 *
+(1.89)
+0.230 ***
+
+(11.3)
+-0.156***
+(2.77)
+0.0162  ***
+
+(15.5)
+
+0.000161
+(0.910)
+0.723
+4.68 ***
+
+•  (*•,  ***) Significant  at  10% (5%, 1%)  level
+Notes: Regressions  are  estimated  with  discipline  dummies,  which  are  not  reported.  Absolute  values  of  (-statistics  are
+reported  in parentheses below the estimated coefficients.  The repotted  F-statistic  is for the null hypothesis that  a',
+b'. c', d'.  and e' are jointly equal to 0.
+
+^2  regressions,  the  null  hypothesis  that  unionization  has  no overall  effect,  i.e.,  that
+a'  = b'  = c'  = d'  = e'  = 0, is rejected  at a one percent significance  level. Note  further
+that seven of the ten unionization coefficients  are negative; none of the three positive
+coefficients  are significant  at a ten percent  level. In the R^ regression,  b',  c\  d',  and
+e'  all carry  a negative sign, with c'  and e'  significant  at the five percent  and ten per-
+cent  levels. In  the R2 regression,  a\  c',  and  d'  are significantly  negative  at  the five,
+ten,  and  one  percent  levels.  In  sum,  we  find  no  evidence  to  suggest  that  unions
+improve  efficiency  in  academe  —  via  a  "voice/response"  mechanism  or  any  other.
+Indeed, our data support the traditional view that unions do not enhance productivity
+but reduce it, diminishing the marginal productivity of both labor and capital.
+
+
+382 
+
+JOURNAL OF LABOR RESEARCH
+
+To get a rough idea as to unions' net contribution to research output, we can use
+our estimates  of a',  b',  c',  d',  and  e'  to calculate  the incremental  effect  of  unioniza-
+tion on each output measure at the overall sample means of L,, Lj' ^l» ^nd Xj. Based
+on our /?j regression, we find that a unionized department with mean input character-
+istics  will  produce  4.45  fewer  publications  per  year  than  a comparable  nonunion
+department.  Relative  to  the  overall  sample  mean  of  25.2  publications  per  year,  this
+represents a 17.4 percent reduction. Based on our R^ regression, unionization  is asso-
+ciated  with  a 0.254  reduction  in  the  index  of  scholarly  achievement.  Relative  to  the
+overall sample mean index value of 2.83, this represents a reduction of 8.98 percent.
+
+V.  Summary and Conclusions
+Previous  empirical  tests  of  unions'  effects  on  productivity  are  afflicted  with  several
+important  problems.  While  many  such  studies  have  concluded  that  unions  increase
+labor  productivity  —  perhaps  because  unions  constitute  an  efficiency-enhancing
+"voice/response" mechanism — it is possible that these estimates are (a) the result of
+unions'  effects  on wages or (b) the outcome of a dynamic process in which less pro-
+ductive  unionized  firms  are  "selected  out," and  thus  are  under-represented  in cross-
+sectional data.
+
+We think that a study of unionism in academe is relatively free of such problems.
+Note  first  that  several  studies  document  that  the  union  wage  premiun\  is  small  in
+academe  —  as  little  as  1.3  to  1.6  percent,  according  to  Barbezat  (1989).  Absent  a
+union wage effect,  then, we can have greater confidence  that any observed union pro-
+ductivity  effect  in  our  sample  is  not  merely  a  movement  along  a  stable  marginal
+product  curve but rather a result of a shift  in such a curve. Note also that  we restrict
+our  analysis  to  Ph.D.-level  departments  residing  in  public  institutions;  since  the
+"failure"  of  such  programs  is  an  extraordinarily  rare  event,  it  is  unlikely  that  our
+results  are  affected  by  the  problem  of  "survivorship  bias"  that  afflicts  other  cross-
+sectional studies.
+
+We  examine  research  productivity  using  two  alternative  measures  of  faculty
+research  output  (a count  of published  articles, and a peer evaluation  of the  scholarly
+achievements of faculty); our methodology allows for the possibility that unionization
+affects  the slope parameters of the production functions  as well as the intercept terms.
+We find no support in our data for  the hypothesis that unions enhance productivity  in
+academe. Seven of the ten unionization parameters in our equations are negative; five
+of  these  parameters  are  significant  at generally  accepted  confidence  levels. None of
+the three positive unionization parameters are significant. If we compare departments
+with amounts of labor and capital equal to the mean values for our sample, we calcu-
+late  that  unionization  reduces  output  of  published  articles  by  about  17 percent,  and
+reduces a more subjective measure of scholarly achievement by about 9 percent.
+
+One  explanation  for  these results  is that  unions, though  they  do not raise  aver-
+age  academic  salaries  by  very  much,  may  alter the distribution  of  returns  to  faculty
+members.  Indeed,  Barbezat  (1989)  found  that  unionization  increases  the  retum  to
+
+
+MARK MEADOR and STEPHEN J. K. WALTERS 
+
+383
+
+seniority  and  decreases  the  retum  to  several  measures  of  merit,  including  an  indi-
+vidual's output of published books and articles. Clearly, when the pecuniary retum to
+research  falls  relative to other  activities,  we should  expect  less research  and  more of
+the other activities.
+
+The key question is what these other activities might be. If unions simply substi-
+tute the passage of time (i.e., seniority)  for  research  output as a criterion  in compen-
+sation  decisions,  then  we  might  conclude  that  unions'  negative  effect  on  research
+productivity  is  inefficient,  leading  to  the  substitution  of,  say,  leisure  for  academic
+output. It is possible, however, that unionization  produces  an alteration  in the output
+mix  of  faculty.  We  are  aware  of  one  case  (though  not  at  a  Ph.D.-level  institution)
+where  a  newly-unionized  faculty  voted  to  require  all  full-time  professors  to  hold  a
+minimum of nine office  hours per week. To the extent that this work rule was a bind-
+ing  constraint,  it  may  have  reduced  research  output  but  increased  the  quantity  or
+quality of teaching output.
+
+Future  research  should  be  aimed  at  determining  whether  such  output  substitu-
+tion is a significant  feature  of academic  unions and, if it is, whether this  substantially
+alters the conclusion  that faculty  unions reduce  efficiency.  One promising  avenue of
+inquiry  is  the  nonparametric  production  frontier  approach  pioneered  by  Fare  et  al.
+(1985), and used by Bymes et al. (1985) to assess the impact of unions on productivity
+in surface  coal  mining. The nonparametric  approach  is readily  applicable  to a multi-
+product  setting,  and  also  may  allow  us  to  identify  the  composition  of  any  union/
+nonunion  productivity  differential  (e.g.,  technical  efficiency  vs.  scale  efficiency)  as
+well  as  its  magnitude  and  direction.  Such  inquiry  is, however,  beyond  the  scope  of
+the present paper.
+
+
+384 
+
+JOURNAL OF LABOR  RESEARCH
+
+NOTES
+
+'Additional  studies  that  applied  the Brown-Medoff  methodology  and found  positive  union  productivity
+effects  include Frantz (1976). Connerton et al. (1983), Allen (1986.  1987), and Register (1988).
+
+^Studies  which  eschew  the Brown-Medoff  methodology  are rare. One such, by Ehrenberg  et al. (1983),
+could detect no significant  union productivity  effect  in a sample of cross-sectional  data on 260 municipal
+libraries. Byrnes et al. (1988) applied a novel mathematical programming  technique to two samples of data
+on  U.S. surface  coal  mines; they  found  a large and significant  positive  union  productivity  effect  in both.
+Only the former  study, however, is prospectively free of survivorship bias.
+
+•'This  is broadly  consistent  with  earlier  studies  of the faculty  union  wage  effect.  For example.  Hu  and
+Leslie (1982) concluded that positive wage effects  disappear after  adjusting  for differences  in cost of living,
+and  Freeman  (1978)  found  that the union  salary  premium  was a mere  four  percent  by 1976-1977. though
+he estimated it had been about ten percent in 1970-1971.
+
+••Cohn et al. (1989) found  significant  differences  between the cost structures of public and private universi-
+ties, though de Groot et al. (1991) found no significant  effects  of ownership on production  efficiency.
+
+'Note  also that even if there is significant  remaining  variation  in nature of mission  and input quality,  this
+will only affect  our results if these factors are correlated  with  unionization.
+
+*The Conference Board asked survey respondents lo "check the box next to the term that most closely cor-
+responds to your judgment of the quality of faculty" in specific  departments, considering  "only the schol-
+arly  competence  and achievements  of the faculty."  The descriptive  terms  were  "distinguished."  "strong."
+"good."  "adequate,"  "marginal." "not sufficient  for doctoral  education."  and "don't  know  well  enough to
+evaluate." The survey was conducted  with great care. The population of evaluators equaled or exceeded 20
+percent of the faculty  population  in the programs  under evaluation.  Each evaluator  was asked to consider
+no more than 50 programs in her or his discipline (and none was asked to consider his or her own institu-
+tion).  All but ten percent of the evaluators  were  provided  all names  of faculty  members  associated  with
+each program under review.
+
+^The index scores are actually a weighted  average of ten measures which the Conference  Board found (by
+means of principle  component  analysis)  to be most  closely  related  to library  size. The ten measures are:
+volumes  added and held,  microforms  held, current  serials received,  expenditures for library  materials, for
+binding, and for salaries, other operating expenditures, professional  staff, and nonprofessional  staff.
+
+^Typically, production  functions  are assumed  to be multiplicative,  and estimable  linear  functional  forms
+are  obtained  by taking  logarithms  of all variables.  In this  case,  however,  several  of our series  include
+observations that are less than or equal to zero. Rather than impose arbitrary transformations  to remove the
+negative and zero values, we estimate the models using data without any logarithmic  transformations.
+
+^Although the separate discipline intercepts are not reported  in Table 2, the discipline intercepts differ sig-
+nificantly  in both  the /?, and i?2 regressions. Based on the t\uU hypothesis that each discipline shares the
+same intercept, relevant F-statistics  are 19.7 for the R^ regression  and 18.7 for the Äj regression; both are
+significant  at the one percent level.
+
+REFERENCES
+
+Addison, John T. and Barry T. Hirsch. "Union  Effects  on Productivity. Profits, and Growth: Has the Long
+
+Run Arrived?" Joumai  of Labor Economics 7 (January  1989): 72-Í05.
+
+Allen, Steven G. "Unionized Construction  Workers Are More Productive." Quarterly Journal of Economics
+
+99 (May 1984): 251-74.
+
+.  "The Effect  of Unionism  on Productivity  in Privately  and Publicly  Owned  Hospitals and
+
+Nursing Homes''  Journal of Labor Research 7 (Winter  1986): 59-68.
+
+
+MARK MEADOR and STEPHEN J, K, WALTERS 
+
+385
+
+_,  "Can  Union  Labor  Ever  Cost  Less?"  Quarterly  Journal  of  Economics  102  (May  1987):
+
+347-73,
+
+Barbezat,  Debra A, "The Effect  of Collective  Bargaining on Salaries in Higher Education," Industrial and
+
+Labor Relations Review 42 (April  1989): 443-55,
+
+Brown,  CharJes  and  James  L,  Medoff,  "Trade  Unions  in  the  Production  Process," Journal  of  Political
+
+Economy 86 (June  1978): 355-78,
+
+Bymes, Patricia, Rolf Fare, Shawna Grosskopf,  and C, A, Knox Lovell, "The Effect  of Unions on Produc-
+
+tivity: U,S, Surface Mining of Coal," Management Science 34 (September  1988): 1037-53,
+
+Carnegie  Foundation  for  the  Advancement  of  Teaching,  The Control of  the  Campus.  Lawrenceville,  NJ:
+
+Princeton University Press, 1982,
+
+Clark, Kim B, "The Impact of Unionization  on Productivity: A Case Study," Industrial and Labor Relations
+
+Review 34 (July  1980): 466-84,
+
+_,  "Unionization  and  Firm  Performance:  The  Impact  on  Profits,  Growth,  and  Productivity,"
+
+American  Economic Review 74 (December  1984): 893-919,
+
+Cohn,  Elchanan,  Sherrie  L, W, Rhine,  and  Maria  C,  Santos,  "Institutions  of  Higher  Education  as  Multi-
+Product  Firms: Economies  of  Scale and Scope," Review of Economics and Statistics 71 (May  1989):
+284-90,
+
+Conference  Board  of  Associated  Research  Councils,  Committee  on  an  Assessment  of  Quality-Related
+Characteristics  of Research-Doctorate  Programs  in the United  States, Jones, L,V,, G,  Lindzey, and P,
+E, Coggeshall  (eds,). An Assessment of Research-Doctorate Programs in the United States, Vols,  1-5,
+Washington, D,C,: National Academy Press, 1982,
+
+Connerton, Marguerite, Richard B, Freeman, and James L, Medoff,  "Industrial  Relations and  Productivity:
+
+A Study of the U,S, Bituminous Coal Industry," Mimeo, Harvard University, 1983,
+
+Dayal,  Sahab,  "Collective  Bargaining  Among  Academic  Professionals:  An  Analysis  of  Issues  and  Out-
+
+comes," Joumal  of Collective Negotiations in the Public Sector  18 (1989): 207-16,
+
+de  Groot,  Hans,  Walter  W,  McMahon,  and  J,  Fredericks  Volkwein,  "The  Cost  Structure  of  American
+
+Research Universities," Review of Economics and Statistics 13 (August  1991): 424-31,
+
+Ehrenberg, Ronald G,, Daniel R, Sherman, and Joshua L, Schwarz, "Unions and Productivity  in the Public
+Sector:  A Study  of  Municipal  Libraries," Industrial and Labor  Relations Review 36  (January  1983):
+199-213,
+
+Fare,  Rolf,  Shawna  Grosskopf,  and  C,  A,  Knox  Lovell,  The Measurement  of  Efficiency  of  Production.
+
+Hingham, Mass,: Kluwer-Nijhoff,  1985,
+
+Frantz, John,  "The  Impact  of  Trade  Unions  on  Productivity  in  the  Wood  Household  Furniture  Industry,"
+
+Honors thesis. Harvard University, 1976,
+
+Freeman,  Richard  B,  "Individual  Mobility  and  Union  Voice  in  the  Labor  Market," American  Economic
+
+Review 66 (May  1976): 361-68,
+
+,  "Should  We  Organize?  The  Effects  of  Faculty  Unionism  on  Academic  Compensation,"
+
+Working Paper No, 301, National Bureau of Economic Research, November  1978,
+
+and James Medoff,  What Do Unions Do? New York: Basic Books, 1984,
+
+Graves,  Philip  E,,  James  R,  Marchand,  and  Randall  Thompson,  "Economics  Departmental  Rankings:
+Research  Incentives, Constraints, and  Efficiency,"  American  Economic  Review 11  (December  1982):
+1131-41,
+
+Hirsch,  Barry  T,  and  Albert N, Link, "Unions, Productivity, and  Productivity  Growth," Journal of  Labor
+
+Research 5 (Winter  1984): 29-37,
+
+
+386 
+
+JOURNAL OF LABOR RESEARCH
+
+Hu, Teh Wei, and Larry  L. Leslie. "The Effects  of Collective  Bargaining on College Faculty  Salaries  and
+
+Compensaûon"  Applied Economics  14 (June  1982): 269-77.
+
+Jordan, John M., Mark Meador, and  Stephen J. K. Walters. "Effects  of Department  Size and  Organization
+on  the  Research  Productivity  of  Academic  Economists." Economics  of  Education  Review  1  (1988):
+252-55.
+
+_.  "Academic  Research  Productivity,  Department  Size  and  Organization:  Further  Results."
+
+Economics of Education Review 8 (1989): 345-52.
+
+Laband,  David N. "An Evaluation  of 50  'Ranked'  Economics Departments — by Quantity and Quality of
+Faculty  Publication  and Graduate  Student Productivity." Southem  Economic Joumal  52 (July  1985):
+216-40.
+
+Lovell, C. A.  Knox,  Robin  C.  Sickles, and  Ronald  S.  Warren, Jr.  "The  Effects  of  Unionization  on  Labor
+
+Productivity: Some Additional Evidence." Joumal  of Labor Research 9 (Winter  1988): 55-63.
+
+Ormsby, Joseph G.,  and  L.arry  R. Watts. "The  Effect  of  Umonization  on Organiiational  Commitmenv. A
+Longitudinal  Study  of a University  Faculty." Joumal  of  Collective Negotiations  in the Public  Sector
+18 (1989): 327-36.
+
+Register, Charles A. "Wages, Productivity, and Costs in Union and Nonunion Hospitals." Joumal  of Labor
+
+Research 9 (Fall  1988): 325-45.
+
+Reynolds, Morgan O. Power and Privilege: Labor  Unions in America. New York: Universe,  1984.
+
+'Trade  Unions  in  the  Production  Process  Reconsidered."  Joumal  of  Political Economy  94
+
+(April  1986): 443-47.
+
+Warren,  Ronald  S.  "The  Effect  of  Unionization  on  Labor  Productivity:  Some  Time-Series  Evidence."
+
+Joumal  of Labor Research 6 (Spring  1985): 199-207.
+
+Wessels,  Walter  J.  "The  Effects  of  Unions  on  Employment  and  Productivity:  An  Unresolved  Conflict."
+
+Joumal  of Labor Economics 3 (January  1985): 101-108.
+
+
+Copyright of Journal of Labor Research is the property of Springer Science & Business Media
+B.V. and its content may not be copied or emailed to multiple sites or posted to a listserv
+without the copyright holder's express written permission. However, users may print,
+download, or email articles for individual use.
+
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are linked to publications on ResearchGate.
+

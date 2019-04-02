@@ -1,0 +1,2280 @@
+CENTRE 
+
+for 
+
+ECONOMIC PERFORMANCE
+
+DISCUSSION PAPER NO.376
+
+November 1997
+
+HOW TO COMPETE:
+
+THE IMPACT OF WORKPLACE PRACTICES AND
+
+INFORMATION TECHNOLOGY ON PRODUCTIVITY
+
+S. Black and L. Lynch
+
+
+ABSTRACT
+
+Using  data  from  a  unique  nationally  representative  sample  of
+businesses,  the  Educational  Quality  of  the  Workforce  National
+Employers  Survey  (EQW-NES),  matched  with  the  Bureau  of  the
+Census’  Longitudinal  Research  Database  (LRD),  we  examine  the
+impact  of  workplace  practices,  information  technology  and  human
+capital investments on productivity.   We estimate an augmented Cobb
+Douglas production function with both cross section and panel data
+covering  the  period  of  1987S1993  using  both  within  and  GMM
+estimators.  We find that what is associated with higher productivity is
+not  so  much  whether  or  not  an  employer  adopts  a  particular  work
+practice, but rather how that work practice is actually implemented
+within  the  establishment.    We  also  find  that  those  unionized
+establishments  that  have  adopted  what  have  been  called  new  or
+‘transformed’ industrial relations practices that promote joint decision-
+making  coupled  with  incentive  based  compensation  have  higher
+productivity  than  other  similar  non-union  plants,  while  those
+businesses  that  are  unionized  but  maintain  more  traditional  labor
+management relations have lower productivity. We also find that the
+higher  the  average  educational  level  of  production  workers  or  the
+greater the proportion of non-managerial workers who use computers,
+the higher is plant productivity.  
+ 
+
+This paper was produced as part of the Centre’s 
+
+
+Industrial Relations Programme
+
+HOW TO COMPETE:
+
+THE IMPACT OF WORKPLACE PRACTICES AND
+
+INFORMATION TECHNOLOGY ON PRODUCTIVITY
+
+Sandra Black and Lisa Lynch
+
+
+NOVEMBER 1997
+
+
+Published by 
+
+Centre for Economic Performance
+
+London School of Economics and Political Science
+
+Houghton Street
+
+London WC2A 2AE
+
+© S. Black and L. Lynch, 1997
+
+ISBN 0 85328 560 8
+
+
+HOW TO COMPETE:
+
+THE IMPACT OF WORKPLACE PRACTICES AND
+
+INFORMATION TECHNOLOGY ON PRODUCTIVITY
+
+Sandra Black and Lisa Lynch
+
+Introduction
+
+Background Discussion
+
+The Data
+
+The Model
+
+Page
+
+            1
+
+            4
+
+            9
+
+          12
+
+The Results
+5.1 Cross Section Estimation
+5.2 Panel Data Two Step Estimation Based
+
+          16
+          16
+
+On Within Estimator
+
+5.3 Panel Data Two Step Estimation
+
+Based On GMM Estimator
+
+          20
+     
+  21
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Conclusion
+
+Endnotes
+Tables
+References 
+
+          24
+
+          25
+          27
+          33
+
+The Centre for Economic Performance is financed by the Economic
+and Social Research Council.
+
+
+ACKNOWLEDGEMENTS
+
+Part of the work reported herein was supported under the Education
+Research  and  Development  Center  program,  agreement  number
+R117Q00011-91, CFDA 84.117Q, as administered by the Office of
+Educational  Research  and  Improvement,  U.S.  Department  of
+Education.  This funding was administered through the National Center
+on the Educational Quality of the Workforce (EQW), University of
+Pennsylvania.  The authors have benefitted from comments by Martin
+Bailey,  Richard  Freeman,  Dale  Jorgenson,  John  Halitwanger  and
+participants in seminars at the Census Bureau, the London School of
+Economics,  the  Institute  for  Fiscal  Studies,  and  the  Universities  of
+Bristol,  Essex,  Mannheim,  Maryland,  Oxford,  and  Warwick.    We
+would especially like to thank Fabio Schiantarelli for his extensive
+comments on this paper and Steve Bond, Joyce Cooper, Wayne Gray,
+Arnie Reznek, and Steve Rudolph who provided much assistance on
+the data used in this project. The findings and opinions expressed in
+this report do not necessarily reflect the position or policies of OERI,
+the  U.S.  Department  of  Education,  the  Bureau  of  the  Census,  the
+Federal Reserve Bank of New York, or the Federal Reserve System.
+
+Lisa Lynch is at the Fletcher School of Law & Diplomacy, Tufts
+University  and  is  affiliated  to  the  NBER  and  Centre  for  Economic
+Performance. Sandra Black is at the Department of Economics, Harvard
+University and the Federal Reserve Bank of New York.
+
+
+HOW TO COMPETE:
+
+THE IMPACT OF WORKPLACE PRACTICES AND
+
+INFORMATION TECHNOLOGY ON PRODUCTIVITY
+
+Sandra Black and Lisa Lynch
+
+1.
+
+INTRODUCTION
+
+How do managerial decisions such as whether or not to adopt a Total
+Quality  Management  system  or  expand  an  employee  involvement
+program affect labor productivity?  Does the implementation of “high
+performance”  workplace  practices  ensure  better  firm  performance?
+Does the presence of a union hinder or enhance the probability of
+success associated with implementing these practices?  Do computers
+really  help  workers  to  be  more  productive?      These  questions  and
+others have been raised in recent years as many firms have reorganized
+or re-engineered their work sites from the old Fordist model of work
+organization to new ‘high performance’ work systems that decentralize
+decision-making within a firm.  Using data from a unique nationally
+representative sample of businesses S the Educational Quality of the
+Workforce National Employers Survey (EQW-NES)  S  we  begin  to
+examine these and other important questions about the determinants of
+productivity.   
+
+While there have been many studies on the impact of  capital
+investments  and  R&D  on  firm  or  establishment  productivity,  until
+recently  there  has  been  very  little  direct  analysis  of  the  impact  of
+workplace practices on productivity.  Some of these studies have also
+been hindered by problems such as low survey response rates, firm
+level  rather  than  establishment  level  productivity  data,  limited
+workplace  practice  data,  and  subjective  measures  of  productivity.
+Moreover, while there is ample micro-based evidence on the impact of
+human capital accumulation on individuals’ wages, much less is known
+about  the  direct  effect  of  human  capital  on  the  productivity  of
+businesses.  Finally, although there has been some research using firm
+data on the impact of computers on productivity, these studies have not
+been able to simultaneously control for workplace practices and human
+
+
+capital investments as we will be able to do.
+
+Our work builds upon this research by using a large nationally
+representative sample of manufacturing businesses.  Because of the
+survey design, we have detailed information on workplace practices
+(beyond  just  their  incidence),  human  capital  investments,  and  a
+measure of the diffusion of computer usage that can be matched with
+standard cross section and longitudinal measures of inputs and outputs
+of the production process. More specifically, the EQW-NES provides
+information on workplace practices such as total quality management
+systems, benchmarking, the diffusion of computer usage among non-
+managerial employees, recruitment strategies, the use of profit sharing
+and  the  extent  of  employee  participation  in  decision-making.    In
+addition, we have information on the average educational level of the
+establishment, the numbers of employees trained over two years, the
+types of training programs offered and where the training took place
+(on-the-job  or  off-the-job),  along  with  other  characteristics  of  the
+business such as whether or not it is unionized, employee turnover, the
+age  of  the  capital  stock,  and  the  demographic  composition  of  the
+workforce.  Finally, one design feature of the EQW-NES is that we are
+able to match it with the Bureau of the Census’ Longitudinal Research
+Database (LRD) so that we can utilize the panel data nature of the
+LRD.
+
+We first estimate a standard Cobb Douglas production function
+with cross section data that is augmented by our measures of workplace
+practices, information technology, and human capital investments.  We
+then estimate a production function on the LRD panel covering the
+period of 1987S1993 using both within and generalized method of
+moments  (GMM)  estimators  to  address  omitted  variable  and
+endogeneity bias.  The average residual over this period is then used as
+a measure of the establishment fixed effect and is regressed on our
+measures of workplace practices, human capital investments, diffusion
+of computer usage  and other employee and employer characteristics
+to determine their association with productivity.  In this way we try to
+see how the information on workplace practices we obtained in our
+
+2
+
+
+survey is related to which businesses did better or worse on average
+over the period 1988S1993.
+
+We find that workplace practices do matter, no matter how the
+production  function  is  estimated.    However,  we  find  that  what  is
+associated with higher productivity is not so much whether or not an
+employer adopts a particular work practice but rather how that work
+practice  is  actually  implemented  within  the  establishment.    For
+example, simply adopting a Total Quality Management system has an
+insignificant or negative impact on productivity unless the proportion
+of workers involved in regular decision-making within the plant is also
+high.  In other words, it is not so much what you say you do, but how
+you do it that matters.  
+
+relations  within 
+
+labor-management 
+
+We also find important differences across plants on the basis of
+the 
+type  of 
+the  plant.
+Establishments  with  more  traditional  unionized  labor  management
+relations with little or no direct participation of employees in decision-
+making have substantially lower productivity than unionized plants that
+have  adopted  new  workplace  practices  including  incentive  based
+compensation and greater employee participation in decision-making.
+In addition, these unionized plants perform much better than even non-
+union plants that have adopted similar high performance workplace
+practices.
+
+These findings suggest that establishment practices that encourage
+workers  to  think  and  interact  in  order  to  improve  the  production
+process  are strongly associated with increased firm productivity.  We
+find that the higher the average educational level of production workers
+within a plant, the more likely the plant has performed better than
+average  over  the  period  1988S1993.    In  addition,  although  the
+proportion of managerial workers who use computers has no impact on
+labor  productivity,  the  greater  the  proportion  of  non-managerial
+workers who use computers, the higher is plant productivity.  This has
+important implications concerning the potential impact of government
+programs  that  encourage  the  extension  of  profit  sharing  to  non-
+managerial  employees  and  employee  participation,  education,  and
+
+3
+
+
+computer  literacy.    The  paper  is  organized  as  follows:    Section  2
+contains a review of the literature on the impact of workplace practices
+on productivity, Section 3 describes the data used, Section 4 presents
+the model used for estimation, Section 5 reports results, and Section 6
+summarizes the main findings.
+
+2.
+
+BACKGROUND DISCUSSION
+
+Our paper is not the first to examine the impact of workplace practices
+on productivity of businesses, but much of the previous work on this
+topic has been limited in several ways.  Some of the most detailed work
+on the adoption and nature of new workplace practices has been done
+on a case study basis.  This includes work on auto plants by Krafcik
+(1988)  and  Womack,  Jones  and  Roos  (1991),  a  paper  mill  by
+Ichniowski (1992), two apparel plants by Berg, Appelbaum, Bailey,
+and Kalleberg (1996), and a regional phone company by Batt (1995).
+While these studies have provided us with a wealth of information on
+the chain of events that resulted in the adaptation of new workplace
+practices, it is difficult to generalize these results to a broader spectrum
+of the economy.  In particular, are the plants that get chosen for a case
+study  successful  because  of  their  new  workplace  practices  or  some
+other factor that cannot be controlled for in a case study?
+  
+One  solution  to  this  problem  is  to  conduct  a detailed intra-
+industry  study  of  the  adoption  of  workplace  practices  to  see  their
+impact  on  a  range  of  industry  specific  performance  measures.    The
+advantage of intra-industry studies is that one can collect a high degree
+of detailed information on the variation of practices within a sector and
+see how they are related to variations in performance.  Examples of
+intra-industry studies include work by Ichniowski, Shaw and Prennushi
+(1995) and Arthur (1994) on the steel industry, Kelley (1994 and
+1996) on the machine tool industry, and Bailey (1993) and Dunlop
+and  Weil  (1996)  on  the  apparel  industry.    By  examining  human
+resource practices associated with one specific production process it is
+possible to greatly reduce problems of underlying heterogeneity of
+
+4
+
+
+production processes.  Most of the intra-industry studies conclude that
+the adoption of a coherent system of new human resource management
+practices  such  as  flexible  job  definitions,  cross-training,  and  work
+teams,  along  with  extensive  reliance  on  incentive  pay,  results  in
+substantially higher levels of productivity than more traditional human
+resource management practices (less flexible, close supervision, hourly
+pay).  While these results represent an important contribution to the
+literature on workplace practices and productivity, it is not easy to
+generalize these findings for a broader segment of the economy.  
+
+Another  research  strategy  is  to  take  a  cross  section  of  a  more
+representative sample of firms and examine the impact of workplace
+practices on broader measures of performance such as productivity or
+profitability.  One example of this strategy is Ichniowski (1990) where
+he tests the hypothesis that a firm’s system of personnel policies can
+affect its economic performance.  To do so, he creates an index of
+human resource management practices that has a range of 1S9 based on
+a  11-question  survey  of  manufacturing  production  workers.    These
+questions measure the incidence of workplace practices such as the
+existence  of  formal  information  sharing  programs,  formal  training
+programs, merit pay, use of broad job design, and formal grievance
+procedures.  He concludes that there is a correlation between human
+resource management systems and business performance as measured
+by labor productivity or Tobin’s q.  Unfortunately his work is limited
+by a low overall response rate (6 per cent) in the survey from which he
+draws his subsample of manufacturing firms.  As a result, his sample is
+not representative of manufacturing firms and it is quite small (he has
+sales/labor ratios for only 126 firms and Tobin’s q for just 65 firms).
+In addition, since the survey only has information on the incidence of
+workplace practices, he is unable to examine how the diffusion of these
+practices affects productivity.  Finally, using an index of workplace
+practices  makes  it  difficult  to  determine  the  direct  impact  of
+implementing a formal training program versus expanding the role of
+employee participation in decision-making or introducing profit sharing
+on productivity.  
+
+5
+
+
+Huselid (1995) looks at the human resource practices of a cross-
+section of firms, and Huselid and Becker (1996) use the same data set
+with  an  additional  year  of  data.    Huselid  and  Becker  extend  the
+concepts developed by Ichniowski and measure factors such as the
+proportion  of  the  workforce  in  quality  circles  or  other  forms  of
+employee  participation,  the  proportion  eligible  to  receive  profit  or
+gainsharing, and the number of hours of training a typical employee
+will  get  in  a  year.    They  conclude  that  a  one-standard  deviation
+“improvement” in a firm’s human resource strategy (based on their
+index of human resource systems) is associated with a present value
+gain  in  cash  flow  and  firm  market  value  of  $15,000S$17,000  per
+employee.  
+
+Some limitations of this work include a low survey response rate
+(28 per cent in the cross section analysis and 20 per cent in the panel
+data), the sample is restricted to publicly held firms with more than 100
+employees, and the target respondent is not necessarily the plant or
+business site manager who actually implements the company human
+resource policies.  In addition, Huselid (1995) and Huselid and Becker
+(1996)  use  an  index  of  human  resource  practices,  which  leads  to
+ambiguities in the interpretation of the results.  The index is not based
+on  conceptual  groupings  but  is  the  result  of  statistical  clustering.
+Although it probably makes sense to combine subjective responses that
+are centered on a particular theme into an index, it is not clear when
+there  are  more  detailed  data  on  factors  such  as  the  proportion  of
+workers involved in decision-making as to why it is necessary to group
+these responses.  Because of the difficulty of interpretation, it seems
+advantageous to study workplace practices individually.
+
+Nevertheless,  there  is  a  burgeoning  theoretical  and  empirical
+debate  on  the  existence  of  synergies  in  bundles  of  human  resource
+management practices.  The theoretical work of Milgrom and Roberts
+(1995) and Kandel and Lazear (1992) and empirical studies by Huselid
+(1995), Delaney and Huselid (1996) and Ichniowski et al (1995) are
+important contributions in this area.  Milgrom and Roberts argue that
+the impact of a system of human resource practices will be greater than
+
+6
+
+
+the  sum  of  its  parts  because  of  the  synergistic  effects  of  bundling
+practices together.  Kandel and Lazear argue that introducing a profit
+sharing plan for all workers in a firm may have little or no impact on
+productivity unless it is linked with other practices that address the
+inherent  free  rider  problem  associated  with  corporate  wide  profit
+sharing  plans.    The  empirical  evidence  on  synergies  is  mixed,  with
+Huselid  and  Ichniowski  arguing  that  bundles  matter  more  than
+individual practices and Delaney and Huselid finding no evidence of
+bundles.    Empirically  we  have  opted  to  interact  a  wide  range  of
+practices with each other to see if there are interaction effects beyond
+the own effect of specific HR practices.  We believe that this is a less
+restrictive strategy than  arbitrarily grouping our businesses into three
+or  four  types  of  HR  practice  bundles  or  using  factor  analysis  to
+generate an index of HR practices.  As Osterman (1994) has shown, in
+spite of widespread diffusion in the 1980s of new workplace practices,
+U.S. companies use a range of combinations of workplace practices and
+as a result are not neatly classified into discrete types.
+
+As part of our analysis of the role of synergies in human resource
+management  practices,  we  also  look  at  the  impact  of  unions  on
+productivity  and  how  the  results  are  affected  by  the  interaction
+between  the  presence  of  unions  and  other  workplace  practices.
+Theoretically, the presence of unions can have a positive effect on
+labor productivity because they lower the costs of introducing new
+workplace practices.  This occurs because workers are more willing to
+participate in employee involvement programs since they feel the union
+will protect their employment security.  Agreements made between
+managers and workers may not be legally enforceable so the presence
+of unions, as discussed by Malcomson (1983), can address incentive
+compatibility problems that may arise at the workplace.  In addition,
+negotiations  that  management  undertakes  with  workers  about  the
+introduction  of  new  workplace  practices  are  less  expensive  if  the
+company  only  has  to  deal  with  union  specialists  rather  than  each
+individual worker.  
+
+On  the  other  hand,  unions  can  lower  productivity  if  they
+
+7
+
+
+constrain the choice set of management and pursue restrictive practices
+such as over manning rules.  Empirically, the evidence on the impact
+of unions on productivity is mixed.  Most empirical work has looked at
+industry level productivity and union density data or industry specific
+studies.    The  range  of  estimates  on  the  impact  of  unions  on  labor
+productivity runs from minus 3  per cent in Clark (1984) to plus 22 per
+cent in Brown and Medoff (1978) to no effect in Freeman and Medoff
+(1984).  We try to reconcile these disparate findings by interacting the
+union status of an establishment with other workplace practices.  In this
+way we try to distinguish between different types of labor management
+relations  S  traditional  and  new  S  and  their  impact  on  labor
+productivity.    The  only  other  paper  that  has  tried  to  do  something
+similar is by Cooke (1994) where he examines the interaction of union
+status, profit sharing and employee involvement on productivity in a
+sample of manufacturing establishments in Michigan in 1989.  
+
+Barron et al  (1994)  and  Bishop  (1994)  have  studied  the  link
+between human resource practices and productivity but use a subjective
+measure of productivity rather than output, labor productivity, total
+factor productivity, or value added.  Bartel (1989) uses more objective
+data (although the response rate of the survey is only 6 per cent) on
+firm output and sales but uses the Compustat II line of business data
+set.  Unfortunately, examining lines of business can result in some
+fairly high level of aggregation of both human resource practices and
+performance measures.  For example, in the early 1980s a company like
+Exxon would be classified as having only two lines of business in the
+Compustat II data set S petroleum and chemical.  Coming up with a
+summary measure for HRM practices at this level of aggregation may
+miss important variation across plants or business sites within a firm.
+It also mixes corporate headquarter practices with what is happening
+at the point of physical production of a product.  More generally, while
+there is a great degree of heterogeneity across employers in their HRM
+strategies, there may be almost as much variation in practices within
+multiple  establishment  firms.    Therefore,  conditional  on  data
+availability, we believe the preferable level of analysis for the issues we
+
+8
+
+
+wish to examine is at the establishment level. 
+
+Most of the micro work on education’s impact on individual firm
+productivity  has  been  more  indirect  or  focused  on  industry  level
+trends1.  Researchers have examined the impact of education on wages
+and from this inferred the effect of education on productivity. Empirical
+analysis on the returns to schooling suggests that an additional year of
+post high school education can raise wages of a worker from 5S12 per
+cent.  Therefore, researchers have assumed that productivity increases
+for a more highly educated workforce are of similar magnitude.  Again,
+one of the features of the EQW-NES is that we are able to construct a
+measure  of  the  average  educational  level  of  an  establishment  and
+directly examine its effect on productivity.
+
+Finally, the impact of computers on productivity and wages has
+been  analyzed  by  several  researchers,  but  nevertheless  remains  a
+controversial issue.  Research in the 1980s (e.g. Bailey and Gordon
+(1988))  found  little  impact  of  computers  on  trends  in  aggregate
+productivity growth, although more recent work by Oliner and Sichel
+(1994) argues that this is to be expected given that they represent such
+a small percentage of the capital stock.  However, researchers such as
+Brynjolfsson and Hitt (1993) who have used more micro-based data
+have found a positive relationship between computers and productivity.
+In addition, Alan Krueger (1993) found that workers who worked with
+computers  were  paid  approximately  15  per  cent  more  than  similar
+workers who did not work with computers.  However, none of these
+papers have the detailed information that we have in the EQW-NES to
+control  for  a  wider  range  of  factors  when  examining  the  impact  of
+computer usage on productivity.
+
+This paper seeks to address many of the limitations in previous
+work  on  the  impact  of  workplace  practices,  human  capital,  and
+information technology on productivity.  We examine a more objective
+measure  of  labor  productivity  using  a  data  set  that  is  more
+representative, has a higher response rate than most previous studies on
+the manufacturing sector, and contains very detailed information on
+specific employer practices.  We allow for a less restrictive bundling of
+
+9
+
+
+human resource management practices, match plant level practices with
+plant level outcomes, and use both cross section and longitudinal data
+to estimate production functions.
+
+3.
+
+THE DATA
+
+In order to understand the nature and importance of our contribution,
+it is useful to start with a description of the data set on which we base
+our empirical analysis.  The EQW National Employers Survey was
+administered by the US Bureau of the Census as a telephone survey in
+August and September 1994 to a nationally representative sample of
+more than 3,000 private establishments with more than 20 employees.
+The  survey  represents  a  unique  source  of  information  on  how
+employers recruit workers, organize work, invest in physical capital,
+and  utilize  education  and  training  investments. 
+  The  survey
+oversampled  establishments 
+the  manufacturing  sector  and
+establishments with over 100 employees.  Public sector employees,
+not-for-profit institutions, and corporate headquarters were excluded
+from the sample.  The target respondent in the manufacturing sector
+was the plant manager and in the non-manufacturing sector was the
+local  business  site  manager.    However,  the  survey  was  designed  to
+allow for multiple respondents so that information could be obtained
+from establishments that kept financial information such as the book
+value of capital or the cost of goods and materials used in production
+at a separate finance office (typically at corporate headquarters for
+multi-establishment  enterprises).    Computer  Assisted  Telephone
+Interviewing (CATI) was used to administer each survey, which took
+approximately 28 minutes to complete.
+
+in 
+
+The sample frame for the survey was the Bureau of the Census
+SSEL file, one of the most comprehensive and up-to-date listings of
+establishments  in  the  United  States.    While  the  survey  included
+establishments  in  both  the  manufacturing  and  non-manufacturing
+sectors, this paper examines responses from manufacturing respondents
+
+10
+
+
+only.  This is because we link this survey with the Census Longitudinal
+Research Database (LRD) that includes longitudinal information for
+manufacturing establishments only.  In other work (Lynch and Black
+(1995) and Black and Lynch (1996)), we analyze the cross sectional
+data  from  the  EQW-NES  for  both  manufacturing  and  non-
+manufacturing establishments.  
+
+The response rate in the EQW National Employers Survey for
+manufacturing establishments was 75 per cent, which is substantially
+higher than most other voluntary establishment surveys.  Probit analysis
+(available from the authors upon request) of the characteristics of non-
+respondents indicates that there was no significant pattern at the two
+digit industry level in the likelihood of participating in the survey.  The
+only  businesses  more  likely  not  to  participate  were  manufacturing
+establishments  with  more  than  1000  employees.    Of  the  1,831
+manufacturing establishments who participated in the survey, not all
+respondents completed all parts of the survey by the interview cutoff
+date of 1 October 1994.  Therefore, the final number of manufacturing
+establishments  in  the  sample  for  which  all  parts  of  the  survey  was
+completed were 1,621 establishments.  This represents a 66 per cent
+overall ‘completed’ survey response rate.  
+
+As mentioned above, we are able to match establishments in our
+survey  to  the  Longitudinal  Research  Database  (LRD).    The  LRD,
+housed  at  the  Center  for  Economic  Studies  at  the  Bureau  of  the
+Census, was created by longitudinally linking the establishment level
+data from the Bureau of the Census’ Annual Survey of Manufacturers
+(ASM).  The LRD data include information on shipments, materials,
+inventories, employment, expenditures on equipment and structures,
+book values of equipment and structures, and energy use (for more
+information on the LRD see Davis and Haltiwanger (1991)).  Because
+we are able to match the LRD with the EQW-NES, we can have annual
+establishment level data on inputs and outputs of production for the
+manufacturing employers in our survey.  
+
+Although we could, in theory, use data from the LRD from as far
+back as 1972, we restrict our analysis to just those establishments in
+
+11
+
+
+the LRD from 1987 through 19932.  We believe that this choice is a
+reasonable compromise between having a sufficiently large number of
+years of data to obtain an estimate of the establishment fixed effect, yet
+few  enough  to  allow  us  to  assume  that  some  of  the  workplace
+characteristics are more or less constant over this period.  Because of
+this balanced panel restriction, along with problems of missing data,
+our final estimation sample is reduced to 627 establishments.  The LRD
+is basically the universe of all manufacturing establishments with more
+than 250 employees but is only a sub-sample of establishments with
+less than 250 employees.  Therefore, by restricting our analysis to
+employers in the EQW-NES that were in the LRD from 1987 onwards
+we are more likely to omit smaller establishments and establishments
+that were ‘born’ after 1987.  However, this does not mean that our
+sample does not include smaller establishments.  In fact, almost 20 per
+cent of our observations in this restricted sample are on establishments
+with less than 100 employees.  In addition, we are able to compare
+some of the results in this paper with those obtained using a larger
+sample that does not impose these restrictions (see Black and Lynch,
+1996).
+
+4.
+
+THE MODEL
+
+We base our empirical analysis of the determinants of establishment
+productivity  on  an  augmented  Cobb  Douglas  production  function
+containing real sales (Y), labor (L), capital (K), materials (M), and our
+workplace  practices,  human  capital  and  information  technology
+variables.  We test the restriction implied by constant returns to scale
+and find that for our data this restriction is always accepted.  Therefore,
+our  reported  results  use  the  following  specification  which  imposes
+constant returns to scale (a complete set of all the estimated equations
+is available from the authors upon request):
+
+ln(Y/L)i = aln(K/L)i + ßln(M/L)i + d'Zi + ei
+
+(1)
+
+12
+
+
+and
+
+ln(Y/P)i = aln(K/P)i + ßln(M/P)i + ?ln(N/P)i + d'Zi + ei
+
+(2)
+
+where ei is an error term and d' is a vector of coefficients on Zi which
+are establishment specific workplace practices and characteristics of
+employees such as education and turnover.  In equation (1) we treat all
+workers  identically  and  in  equation  (2)  we  differentiate  between
+production workers (P) and non-production workers (N). 
+
+Before  discussing  in  more  detail  the  nature  of  our  empirical
+estimation, it is necessary to describe the construction of the input
+variables derived from the LRD.  Since we do not have a measure of the
+capital stock every year in the LRD we need to construct a measure.
+We  use  the  standard  perpetual  inventory  method  to  construct  an
+estimate of the value of the capital stock in each year starting from the
+book value in a base year and using the information on new investment
+together  with  an  estimate  of  the  portion  of  the  capital  stock  that
+depreciates each year.3  We chose the total book value of the capital
+stock in 1987 as our starting point.  We also tried using 1982 as the
+base year, however, we lose many observations when we do this.  In
+any case, when we do use 1982 as the base year, none of the empirical
+findings change very much.4  In addition, we check the sensitivity of our
+estimates  to  the  inclusion  of  end  of  period  or  beginning  of  period
+values of the capital stock.  Again, our empirical results are not very
+sensitive to this distinction.  Generally, we prefer results using the value
+of the beginning of period capital stock on the assumption that it takes
+time  before  new  capital  becomes  productive.    Finally,  we  do  not
+account for the value of assets sold, retired, scrapped or destroyed
+because these data are not available in the ASM after 1988.
+ 
+Total sales, capital, and material numbers were all adjusted using
+deflators from the NBER Productivity Database assembled by Eric
+Bartelsman and Wayne Gray (1995).  These deflators were constructed
+from 5-digit product deflators from BEA.  These are largely created
+from the Bureau of Labor Statistics’ (BLS) industry-based producer
+
+13
+
+
+prices which are extrapolated backwards using the old BLS product
+prices.  
+The  capital  deflator  was  created  by  first  generating a 3-digit
+  
+industry real net capital stock value.  The 3-digit data are converted to
+the 4-digit level by assuming that the industry-asset type flows are the
+same  for  all  4-digit  industries  within  a  3-digit  industry.    With  this
+information, 4-digit investment deflators were created for equipment
+and  structures  separately.    The  materials  deflator  was  created  by
+averaging together price deflators for 529 inputs (369 manufacturing
+industries and 160 non-manufacturing industries), using as weights the
+relative size of each industry’s purchases of that input in the Input-
+Output Tables.  The inflation in materials’ prices was calculated as a
+Tornquist index (weighting each product’s inflation rate by the average
+of the previous and current-year’s shares in total materials used). 
+
+The energy price deflator is based on each industry’s expenditures
+on six types of energy (electricity, residual fuel oil, distillates, coal,
+coke and natural gas).  These six types of energy represent 94.6 per
+cent of all energy expenditures by the manufacturing sector in 1976.
+They were a majority of the energy costs for all but one industry, and
+over 90 per cent of energy costs for 300 of the industries.
+
+Finally, since the deflator data were unavailable for 1993, we
+regressed  current  price  levels  (using  2-  or  3-digit  level  SIC  data,
+depending upon availability) on the previous year’s price level and the
+current year’s producer price index for stage of processing groupings
+from the BLS.  We then generated an imputed value for 1993 deflators
+using the predicted values from this regression.
+
+In addition to the effect on output of capital, labor and materials
+using data from the LRD, we also allow productivity to depend upon
+workplace  practices,  plant  specific  human  capital  measures,  the
+diffusion of information technology, employee turnover rates, age of
+the  establishment,  R&D  policy  in  the  firm,  age  distribution  of  the
+capital stock, and other characteristics of the establishments using data
+from the EQW-NES.  In spite of the fact that we are able to control for
+many  more  managerial  practices  than  most  previous  studies  on
+
+14
+
+
+productivity, our estimates may still be subject to omitted variable bias
+(see Griliches and Mairesse 1995) due to unobserved establishments
+characteristics that we are unable to control for.  Although we believe
+that the detailed information contained in our establishment survey
+allows us to extract much of the previously unobserved establishment
+specific effect, one can remove biases due to omitted but time-invariant
+establishment-specific effects using panel data (see Schmidt (1985) for
+a  discussion  on  using  panel  data  to  estimate  firm  level  efficiency).
+Consider the following equation:
+
+Yit= a'Xit + d'Zi + vi + eit
+
+(3)
+
+where Y is sales per production worker, a' is a vector of coefficients on
+capital per production worker, materials per production worker, and
+the number of non-production workers per production worker,  d' is
+our vector of coefficients on workplace practices from the EQW-NES
+survey, vi is an unobserved time invariant establishment fixed effect and
+eit  is  the  idiosyncratic  component  of  the  error  term.    If  we  take
+deviations from a firm’s mean or take first differences of equation (3),
+all firm observed and unobserved time invariant fixed effects drop out
+and we can remove the bias in estimating the coefficients in vector a'
+that occurs because of the omission of the establishment fixed effect.
+However, this means that we are unable to observe the impact of the
+observed but time invariant employer fixed effects such as workplace
+practices  and  educational  quality  of  the  workforce  on  labor
+productivity.  Therefore, we adopt the following two step procedure.
+In the first step we use the within estimator to obtain estimates of the
+coefficients  (a')  on  capital,  labor  and  materials  (Xit)  from  the
+1988S1993  LRD  panel.    Year-industry  specific  constants  are  also
+included  in  the  estimated  equation  to  allow  for  differential
+technological  progress  by  industry  and  control  for  industry-year
+specific business cycle effects that lead to differential intensity of use
+of the factors of production.  The use of the within estimator deals with
+the correlation between the choice of inputs and the firm specific-time
+
+15
+
+
+invariant  component  of  the  error  term.    However,  if  capital,
+employment, materials, and output are chosen simultaneously, or if
+there are measurement errors in the explanatory variables, the within
+estimator  will  be  inconsistent  (see  discussion  by  Griliches  and
+Hausman (1986)).  For this reason we have also estimated equation (3)
+by the Generalized Method of Moments technique (GMM), combining
+the equation in differences and levels.  This approach is an extension
+of Arellano and Bond (1991) along the lines suggested by Arellano and
+Bover (1995), and is implemented in the revised version of the DPD
+program by Arellano and Bond (1988)5.
+
+Next we generate predicted values of Yit - a'Xit = d'Zi + vi + eit using
+the within estimator or the GMM estimator of a' 6.  We then average
+that  value  over  the  period  1988S1993  for  each  business  to  get  an
+estimate of the firm specific-time invariant component of the residual7.
+We do this for a larger data set than in the second step because we are
+not constrained to have information on all of the workplace practices
+in  order  to  do  this  estimation.    By  including  a  larger  number  of
+observations we hope to improve the precision of our estimates for
+capital, labor and materials.  In the second step, we regress our average
+residual on the various human resource management practices, human
+capital  measures,  a  variable  to  capture  diffusion  of  information
+technology,  industry  dummies,  and  other  worker  and  employer
+characteristics we find in the EQW-NES in order to obtain estimates of
+d'. 
+
+One  advantage  of  this  two  step  procedure  relative  to  the
+estimation of the cross section production functions (which include
+workplace practices and establishment characteristics) is that we can
+address the issue of biases in the estimates of the coefficients of capital,
+labor,  and  materials  due  to  correlations  with  the  firm  specific-time
+invariant components of the error term, vi.  The GMM estimator can
+also  address  the  issue  of  biases  due  to  correlation  with  eit.    These
+advantages complement the fact that the panel allows us to bring more
+information  to  bear  in  estimating  capital,  labor  and  materials
+coefficients.  However, biases can still arise in estimating the d's in the
+
+16
+
+
+second step.  These biases will be discussed further below.
+
+5.
+
+THE RESULTS
+
+In this section we discuss the econometric results concerning the effect
+of workplace practices, establishment and worker characteristics on
+productivity.
+
+5.1 Cross Section Estimation8 
+
+Table 1 presents our cross section estimation of an augmented Cobb
+Douglas  production  function  with  constant  returns  to  scale  (this
+restriction was tested and accepted).  In equation (1) in the table we
+use the total number of workers as our measure of labor and then in
+equation  (2)  we  separate  employees  into  production  and  non-
+production workers.  Therefore, the dependent variable in the first
+regression is the log of annual sales per worker for 1993 while the
+dependent variable in equations (2) and (3) is the log of annual sales
+per production worker for 1993.  Equation (3) allows for interactions
+between various workplace practices.  The estimated coefficients on
+capital,  labor  and  materials  are  consistent  with  previous  estimation
+using the LRD through 1987 except that the coefficient on capital is
+rather small.   This may be due in large part to measurement error and
+we return to this issue in Table 3.  In terms of the variables we use from
+our survey, we find that investments in new technology are associated
+with significantly higher establishment productivity.  Although the age
+of the capital stock appears to have insignificant effects on productivity,
+the existence of a research and development center within the firm is
+associated with significantly higher productivity.  In addition, the more
+non-managerial  workers  who  use  computers, 
+the
+establishment’s productivity.  Interestingly, in results not reported here,
+the proportion of managers who use computers is never significant in
+
+the  higher 
+
+17
+
+
+any specification we tested.
+
+In Table 1, education has a significant impact on establishment
+productivity in equation (1) when the total number of workers is used
+as a measure of labor inputs.  The coefficient on average educational
+level for the establishment suggests that raising the average educational
+level of the establishment by 10 per cent (approximately one more year
+of school) would increase productivity by approximately 5 per cent.
+This  is  similar  to  findings  reported  in  Black  and  Lynch  (1996).
+However, the effect of education disappears when workers are divided
+into production and non-production workers in equations (2) and (3).
+In this sample, there is relatively little variation in education once you
+distinguish  between  production  and  non-production  workers.
+Production workers typically have just a high school degree while non-
+production workers have some college.  Employers appear to adjust the
+educational  quality  of  their  workforce  by  changing  the  mix  of
+production  and  non-production  workers  rather  than  hiring  more
+educated production workers.  Since there has been relatively little net
+new hiring in manufacturing in recent years, this finding makes sense.
+
+None  of  the  training  variables  we  tried  to  include  in  our
+regressions are statistically significant.  In previous work (Black and
+Lynch (1996)), using a larger sample of establishments, we found that
+the  proportion  of  time  spent  training  workers  off-the-job  raised
+establishment productivity in the manufacturing sector.  Unfortunately,
+in the EQW-NES we do not have a measure of the accumulated stock
+of training for all workers, only training done at two points of time S
+1990 and 1993.  This means that our estimates of the impact of training
+are most likely underestimates of the true returns to training.  But given
+our  finding  that  the  proportion  of  non-managerial  workers  using
+computers has a significant and positive relationship to establishment
+productivity, we conclude that human capital investments can have an
+important impact on labor productivity.  While new entrants into the
+labor market are more and more likely to have computer skills, new
+ways will have to be found to help incumbent workers acquire these
+
+18
+
+
+skills either through their employers or off-site at their local community
+colleges or training institutes.
+
+to 
+
+is  not  enough 
+
+Workplace  practices  have  very  interesting  effects  on  labor
+productivity.    In  particular,  we  find  that  simply  introducing  high
+performance  workplace  practices 
+increase
+establishment  productivity.    The  increased  employee  voice  that  is
+associated with these practices seems to be a necessary condition to
+making the practices effective.  For example, although almost three-
+quarters of all of the establishments in our sample have some form of
+a Total Quality Management (TQM) system in place, TQM is not itself
+associated with higher productivity.  Instead, the percentage of workers
+involved in regular decision-making meetings is positively related to
+labor productivity.  On average, about 54 per cent of employees in our
+sample  are  involved  in  some  sort  of  regular  meeting  to  discuss
+workplace issues.  Benchmarking9 and profit sharing for production
+workers, both considered high performance workplace practices, are
+also associated with higher establishment productivity, while higher
+employee turnover is associated with lower establishment productivity.
+
+Given  that  workplace  practices  are  related  to  establishment
+productivity, it is interesting to think about complementarities of these
+practices.  We tried a wide range of interaction effects and found that
+most were not even remotely significant.  However, equation (3) in
+Table  1  presents  results  when  we  interact  unionization  and  TQM,
+unionization  and  profit  sharing  for  non-managers,  the  percentage
+meeting  in  groups  and  profit  sharing  for  non-managers,  and  the
+percentage meeting in groups and TQM.  When these interactions are
+included,  the  own  effect  of  unionization  becomes  significant  and
+negative while the interactions of unionization and profit sharing for
+non-managers and unionization and TQM are significant and positive.
+This indicates that more traditional labor management relations, where
+employees have little voice in decision-making and pay is not linked to
+performance, is associated with lower establishment productivity.  At
+the same time, more cooperative unionized labor management relations
+
+19
+
+
+(where employees have a greater role in decision-making but also have
+part of their compensation linked to firm performance) are associated
+with higher labor productivity.  
+
+Other results of interest that are not reported in Table 1 include
+the lack of significance of the percentage of employees who are women
+or minorities.  In manufacturing, everything else held constant, we find
+that there seems to be little evidence of lower productivity associated
+with hiring a larger proportion of women or minorities.  In addition, we
+find that newer establishments have significantly higher productivity,
+all else constant, than older establishments.
+
+In Table 2, we take the regression coefficients from equation (3)
+in Table 1 and present some different prototype plants to see how
+various  combinations  of  workplace  practices  are  related  to  labor
+productivity.  We construct a base case which is a non-union multi-
+establishment  plant,  has  profit  sharing  for  managers  but  no  profit
+sharing for non-managers, no TQM, no benchmarking, 1 per cent of
+employees meeting regularly about work issues, 10 per cent of non-
+managerial workers using computers, 1 per cent of employees in self-
+managed teams, zero values for interaction terms and mean values for
+all  remaining  continuous  variables.    We  then  alter  some  of  the
+characteristics of this base case to see how labor productivity changes.
+If  we  make  the  plant  unionized  with  no  employee  involvement,
+productivity drops by 15 percentage points.  If instead we increase the
+percentage of non-managerial workers using computers from 10 per
+cent to 50 per cent, labor productivity increases almost 5 percentage
+points.  Introducing workplace practices associated with what have
+been called ‘high performance work systems’ has large and positive
+effects on productivity.  If we change the percentage of non-managers
+using computers to 50 per cent, have 50 per cent of workers meeting to
+discuss workplace issues regularly, profit sharing for non-managers, 30
+per cent of workers in self-managed teams, TQM, and benchmarking,
+labor productivity increases almost 11 percentage points.  Finally, if we
+introduce all of these ‘high performance workplace practices’ and make
+the plant unionized, productivity increases by 20 percentage points
+
+20
+
+
+above  the  base  case.    This  table  helps  highlight  the  synergies  of
+workplace practices.  In particular, those unionized firms who have
+succeeded in moving to a more cooperative labor management relations
+system which gives employees more voice in decision-making but at the
+same time links their compensation with performance have higher labor
+productivity.
+
+5.2 Panel Data Two Step Estimation Based on Within Estimator
+
+In this section we discuss how the results in Table 1 alter when we
+incorporate panel data on establishment inputs and outputs into the
+estimation  to  attempt  to  control  for  unobserved  time  invariant
+characteristics of the establishment.  Our first step is the estimation of
+a simple Cobb Douglas production function with establishment fixed
+effects using the panel data from the LRD that includes controls for
+capital, labor, materials, and industry by time dummies.   We again test
+and accept the restriction of constant returns to scale so our dependent
+variable is sales per production worker. 
+
+The estimates from the first stage estimation using the within
+estimator are reported in Table 3.  Again, capital is small although still
+significant and positive10.  Since we had to construct a measure of the
+capital stock there is likely to be significant measurement error in our
+proxy for the capital stock.  Using these first step estimates we then
+calculated the average residual for each establishment in the sample.
+The second column in Table 3 contains the second step results from
+regressing  the  average  residual  on  various  workplace  practices  and
+employee characteristics.  Again we see that the proportion of non-
+managerial workers using computers has a significant and positive effect
+on having higher than average productivity over the period 1988S1993.
+However, production workers’ education is now  positively related to
+those businesses that did better on average over this six year period.
+TQM  is  negatively  associated  to  the  average  residual,  while
+benchmarking  is  positively  associated.    Unionization  itself  has  no
+
+21
+
+
+significant effect on which businesses did better or worse on average,
+but the interaction of unionization and profit sharing for non-managers
+is associated with better than average performance.  In addition, we
+also  find  that  those  employers  who  cite  communication  skills  as  a
+priority in recruitment also did better than average over the period of
+1988S1993. These findings are consistent with the idea that increased
+employee voice is positively related to establishment productivity, and
+that new forms of labor-management relations are significantly related
+to better performing businesses.
+
+5.3  Panel Data Two Step Estimation Based on GMM Estimator
+
+While the fixed effects estimator corrects for the omitted variable bias
+associated with unobserved time invariant factors in the cross-section
+estimation, the fact that current values of capital, labor, and materials
+are simultaneously determined with output leads to an upward bias of
+the estimates.  However, measurement error in the capital and materials
+variables  may  be  biasing  our  first  step  estimates  of  the  vector  of
+coefficients a’ on capital, labor and materials.  In order to attempt to
+correct  for  this  endogeneity  bias,  we  use  generalized  method  of
+moments  (GMM)  techniques  to  instrument  for  capital,  labor,  and
+materials.
+
+It is important to note that if the coefficients in the equation using
+the  within  estimator  are  tainted  because  of  measurement  error,  we
+would  expect  to  see  larger  and  more  significant  coefficients  in  the
+GMM  first  differences  estimation.    This  is  in  fact  what  we  see  for
+capital.  If one calculates what our reported GMM estimates in Table
+3  imply  about  the  share  of  labor  (production  and  non-production
+workers) in value added (output minus materials costs), we find that
+labor accounts for two thirds of value added and capital one third.
+This is consistent with what we see in national income and product
+accounts.    Note  that  the  Hansen-Sargan  test  of  overidentifying
+restrictions does not suggest misspecification of the model.  When we
+
+22
+
+
+look at the second step estimates based the GMM estimation we see a
+generally similar pattern of results compared to the within estimator or
+even the cross section estimates presented in Table 1.  The only major
+changes  are  that  the  percentage  of  non-managers  using  computers
+becomes  insignificant,  as  does  the  measure  of  employee  turnover,
+although the sign and magnitudes are not inconsistent with previous
+estimates. 
+
+While our two-step procedure in Table 3 addresses the biases that
+may arise in estimating the vector of coefficients a’ on capital, labor
+and materials, it does not address biases that may arise in the second
+step when we estimate the vector of coefficients  d’ associated with
+observed workplace practices and characteristics.  These biases may be
+due to correlations between the second stage regressors and unobserved
+time  invariant  plant  level  characteristics  or  with  the  average  of  the
+idiosyncratic shocks (since the time period over which we average is
+relatively short).  Although we believe that our vector  d’ extracts a
+substantial part of the previously unobserved fixed effect and that most
+of the endogeneity issues are related to labor, capital and materials,
+these potential biases may be affecting our estimates of the impact of
+workplace  practices  on  labor  productivity.    For  example,  firms’
+decisions to adopt particular workplace practices may be related to
+business  performance,  although  it  is  unlikely  that  it  will  be
+performance  in  just  one  year.    If  employers  decide  to  adopt  a  new
+workplace  practice  in  times  of  trouble  because  it  becomes  less
+expensive to switch systems (as suggested theoretically by Caballero
+and Hammour (1994) and shown empirically for a sample of British
+employers by Nickell et al (1996)), then our coefficients on workplace
+practices will likely be biased downwards.  This would mean that it
+would be more difficult to find a positive effect of a workplace practice
+on labor productivity.  If instead, employers are more likely to adopt
+new  workplace  practices  when  times  are  very  good,  then  our
+coefficients will be biased upwards.  We believe that the theoretical
+and  empirical  support  for  this  latter  view  of  the  world  is  not  very
+strong.
+
+23
+
+
+An omitted variable that may be correlated with our workplace
+practices and consequently generate biases is managerial quality.  An
+argument could be that the presence of good managers is more likely
+to be observed in firms with ‘high performance’ workplace practices.
+Therefore,  what  looks  like  an  effect  of  workplace  practices  on
+productivity is just good management.  But if good managers are those
+who adopt incentive based compensation, get a higher proportion of
+their  workers  involved  in  decision-making,  and  train  a  higher
+proportion of workers to use computers, then the fact that we are able
+to include these variables explicitly as regressors in our analysis means
+that it is unlikely that there is much unobserved managerial quality left.
+One might think that having a follow-up survey on workplace
+practices  would  at  least  help  us  address  any  bias  associated  with
+unobserved but time invariant employer fixed effects.  Unfortunately,
+short panels on workplace practices are not going to be a magic elixir.
+First, workplace practices change very slowly, so if the period of time
+between surveys is not long enough there may be very few employers
+who change practices.  Second, measurement error affecting workplace
+practices will bias our coefficients downwards.  Huselid and Becker
+(1996) present estimates on the impact of measurement error on the
+coefficients on workplace practices on various firm outcome measures
+for a two period panel of 218 employers.  They find large measurement
+error (some variables containing 30S40 per cent error variance) and
+when they try to adjust for this they find their corrected coefficients on
+workplace  practices  are  similar  to  those  found  in  cross  section
+estimation.  In other words, the upward bias associated with omitted
+employer fixed effects is almost exactly offset in their sample with the
+downward bias associated with measurement error.  Clearly, a long
+panel  on  establishments  that  included  repeated  information  on
+workplace practices would be preferable so that we could use a GMM
+estimation procedure as we did on capital, materials and labor to adjust
+for endogeneity and omitted fixed effects biases.  Even though these
+types of data are unlikely to be produced in the near future, we believe
+our results shed some light on the impact of workplace practices and
+
+24
+
+
+information technology on productivity.
+
+25
+
+
+6.
+
+CONCLUSION
+
+New technologies and changing workplace practices have altered the
+nature and organization of work.  There have been many stories in the
+popular press about the successes associated with the introduction of
+high performance workplace systems and the revolution computers
+have caused on the job.  At the same time, the gains to completing a
+college degree relative to a high school diploma have doubled over the
+past fifteen years in response to what many have argued are the skill
+demands  associated  with  new  technologies  and  changing  work
+organization.  We have tried in this paper to get a better understanding
+of  how  workplace  practices,  human  capital  investments  and
+information technology are related to establishment productivity.  By
+using a large representative sample of businesses, we have been able to
+examine these factors on a broader cross section of employers unlike
+previous studies that have focused on one particular industry, product
+or even firm.  
+
+By  relying  on  detailed  measures  of  human  resource  practices
+included on their own and interacted with each other, rather than just
+using summary indices, we have been able to see that what appears to
+matter  most  for  productivity  is  how  HR  systems  are  implemented.
+Adopting a TQM system per se does not raise productivity.  Rather,
+allowing greater employee voice in decision-making is what seems to
+matter most for productivity.  Instituting a profit sharing system has a
+positive effect on productivity, but only when it is extended to non-
+managerial employees.  Finally, those unionized establishments that
+have adopted what have been called new or ‘transformed’ industrial
+relations practices that promote joint decision-making, coupled with
+incentive  based  compensation,  have  higher  productivity  than  other
+similar non-union plants, while those businesses that are unionized but
+maintain  more  traditional  labor  management  relations  have  lower
+productivity.
+
+26
+
+
+ENDNOTES
+
+1.
+
+2.
+
+3.
+
+See Jorgenson and Griliches (1967) and Jorgenson, Gallop and
+Fraumeni (1987) for a discussion of education, labor quality and
+productivity using industry level data, and the Bureau of Labor
+Statistics, US Department of Labor (1993) for a discussion about
+how educational attainment and workforce composition explain
+patterns of productivity growth from 1948S1990.
+
+Note that if an establishment changed ownership it would still be
+included in the sample.
+
+in other words:
+
+Kt = (1 - dt)Kt-1 + NIt  S where Kt is the real end-of-period capital
+stock,  dt  is  the  depreciation  rate,  and  Nit  is  real  capital
+expenditures.  The depreciation used is .1331 for machinery and
+.0343  for  buildings.    These  numbers  come  from  Hulten  and
+Wykoff, 1981.
+
+4. We also tried using the reported book value of the capital stock
+in each year as our measure of the capital stock.  The problem
+with  this  measure  is  that  it  does  not  take  into  account
+depreciation or price inflation.  In addition, in 1989, 1990, 1991,
+and 1993 the ASM did not include questions about the book
+value  of  the  capital  stock,  only  new  investment.    We  did  try
+various imputations of these data but the results do not seem very
+sensitive to the definition of the capital stock.
+
+5.
+
+If the error term is white noise one can use levels of capital, labor,
+materials, and sales lagged at least twice as instruments for the
+equations in differences.  For the equation in levels, differences
+of  these  variables  lagged  at  least  one  period  are  legitimate
+instruments under the additional assumption that the correlation
+between  the  level  of  the  variables  and  the  firm  specific-time
+invariant component of the error term is constant (see Arellano
+
+27
+
+
+and Bover (1995)).  The orthogonality condition associated with
+the equations in differences and levels are estimated jointly.
+
+6. We also subtract from Yit - a'Xit time by industry dummies.
+7.
+
+Note that eit are assumed to be zero mean disturbances so that
+averaging over time should eliminate (or at least very substantially
+reduce) its contribution to the residual.
+
+8.
+
+9.
+
+Note  that  the  results  differ  somewhat  from  those  reported  in
+Black and Lynch (1996) because we have restricted the sample
+to those establishment in the EQW-NES that are also in the LRD
+from 1987 through 1993.
+
+Benchmarking  involves  setting  targets  based  on  other  firms
+successes and attempting to meet these goals.  For example, a
+manufacturer might use a competitor’s or even another industry’s
+scrap rate to establish standards for their own scrap rate.
+
+10. The coefficients on capital, materials and non-production workers
+can not be exactly compared with those in Table 1 since the
+sample is different (and larger) in the first step in Table 3 than in
+Table 1.
+
+28
+
+
+Determinants of Labor ProductivitySCross Section Results
+
+TABLE 1
+
+Variable
+
+Log (Capital/Workers)
+
+Log (Materials/Workers)
+
+Log (Non-
+production/Production)
+
+% Equip < 1 yr.
+
+% Equip 1-4 yr. old
+
+R&D Center
+
+% Non-Managers using
+Computers
+
+Mean
+
+Eq. 1
+
+Coefficient
+(t-statistic)
+
+Eq. 2
+
+Coefficient
+(t-statistic)
+
+Eq. 3
+
+Coefficient 
+(t-statistic)
+
+.025*
+(1.76)
+
+.55**
+(29.49)
+
+-
+
+Technology
+
+6.9%
+
+19.6%
+
+.77
+
+36.01%
+
+.0014
+(0.763)
+
+.0011
+(1.49)
+
+0.064*
+(1.74)
+
+.0016**
+(3.27)
+
+Worker Characteristics
+
+.033**
+(2.24)
+
+.59**
+(30.01)
+
+.20**
+
+(12.085)
+
+.0004
+(0.222)
+
+.0013
+(1.53)
+
+.06*
+(1.64)
+
+.0014**
+(2.74)
+
+.034**
+(2.32)
+
+.59**
+(29.66)
+
+.21**
+(12.21)
+
+.0002
+(0.11)
+
+.001
+(1.29)
+
+.06
+(1.61)
+
+.0012**
+(2.42)
+
+-
+
+-
+
+Log (Average Education)
+
+Log (Avg Ed non-production
+workers)
+
+Log(Avg Ed Production
+Workers)
+
+2.54
+
+2.68
+
+2.51
+
+Turnover (% ees < year)
+
+9.9%
+
+.50*
+(1.91)
+
+-
+
+-
+
+-.003**
+(-2.16)
+
+.28
+(1.40)
+
+.18
+(0.56)
+
+-.002
+(-1.27)
+
+Use of High Performance Work Systems
+
+TQM
+
+Benchmarking
+
+Number of Managerial Levels
+
+.73
+
+.48
+
+2.9
+
+-.040
+(-1.159)
+
+.051**
+(1.96)
+
+.002
+(0.29)
+
+-.03
+(-0.78)
+
+.045
+(1.47)
+
+.003
+(0.39)
+
+.28
+(1.41)
+
+.23
+(0.74)
+
+-.002
+(-1.49)
+
+-.041
+(-1.172)
+
+.04
+(1.23)
+
+.002
+(0.28)
+
+
+Variable
+
+Mean
+
+Eq. 1
+
+Coefficient
+(t-statistic)
+
+Eq. 2
+
+Coefficient
+(t-statistic)
+
+Eq. 3
+
+Coefficient 
+(t-statistic)
+
+# employees per supervisor
+
+25.42
+
+% workers in self-managed
+teams
+
+14.6%
+
+-.0002
+(-0.27)
+
+.0006
+(1.10)
+
+Unionized
+
+% Workers meeting regularly
+in Groups
+
+Managers and Supervisors
+
+Production/Clerical/Technical
+
+Employee Voice
+
+.50
+
+53.9%
+
+.03
+
+(0.907)
+
+.0007*
+(1.93)
+
+Profit Sharing
+
+.78
+
+.63
+
+-.03
+(-0.64)
+
+.054
+(1.41)
+
+Recruitment Strategies
+
+Grades a top priority in
+recruitment 
+
+Communication a top priority
+in recruitment
+
+0.21
+
+0.74
+
+-.013
+(-0.377)
+
+.039
+(1.19)
+
+Interaction Terms
+
+union*profit sharing for 
+non-managerial workers
+
+union*tqm
+
+% meet*profit sharing for non-
+managerial workers
+
+% meet*tqm
+
+N=
+
+Adjusted R2=
+
+0.28
+
+0.37
+
+35.44
+
+42.61
+
+627
+
+-
+
+-
+
+-
+
+-
+
+.0002
+(0.25)
+
+.0006
+(1.02)
+
+.013
+(0.39)
+
+.0006*
+(1.68)
+
+-.05
+(-1.06)
+
+.07*
+(1.71)
+
+-.015
+(-0.40)
+
+.039
+(0.97)
+
+-
+
+-
+
+-
+
+-
+
+.0002
+(0.36)
+
+.0007
+(1.10)
+
+-.15**
+(-2.22)
+
+.0002
+(0.20)
+
+-.05
+(-1.09)
+
+.02
+(0.26)
+
+-.018
+(-0.49)
+
+.034
+(0.75)
+
+.133**
+(2.11)
+
+.11*
+(1.68)
+
+-.0004
+(-.052)
+
+.001
+(1.25)
+
+627
+
+0.84
+
+627
+
+0.78
+
+627
+
+0.84
+
+Note: t-statistics in parenthesis. ** denotes significant at the 5 per cent level and * denotes significant at the
+10 per cent level.  Estimated equations also includes a constant term, 2 digit SIC industry controls, age of
+the establishment, a dummy if the establishment is part of a multiple-establishment firm, the percentage of
+women employees, the percentage of minority employees, proportion of training done in-house, and a
+dummy variables if the primary product is exported.
+
+
+Table 2:  % Change in Labor Productivity From Base Case
+
+  
+
+HPW system Union
+
+20
+
+HPW system Non Union
+
+10.6
+
+Increase Computer Usage - Non Managers
+
+4.8
+
+Union no Employee Involvement
+
+-15
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Notes:
+
+Base Case: Non union, multi establishment plant, profit sharing for managers, no profit sharing
+for non-managers, no TQM, no benchmarking, 1% employees meeting regularly about work issues,
+10% nonmanagerial workers using computers, 1% employees in self-managed teams, zero values
+for interaction terms and mean values for all remaining continuous variables.
+
+Increase Computer Usage: Base case but increase to 50% non managers using computers in their
+job.
+
+HPW system: Base case but 50% of non-managers using computers, 50% of workers meeting to
+discuss workplace issues regularly, profit sharing for non-managers, 30% of workers in self-
+managed teams, TQM, and benchmarking.
+
+
+Determinants of Labor Productivity 1988S1993
+
+2-Step Estimates Using Within and GMM Estimators in the First
+
+TABLE 3
+
+Step
+
+(t-statistics in parenthesis)
+
+Within Estimator
+
+GMM Estimator
+
+Dependent Variable:
+
+Independent Variables:
+Log (Capital/production Workers)
+
+Log (Materials/Production Workers)
+
+Log (Non-production/Production)
+
+First Step
+
+Second Step
+
+First Step
+
+sales/
+prod. ee
+
+avg. residual
+
+1988S93
+
+sales/
+prod. ee
+
+.03**
+(3.16)
+
+0.61**
+(58.54)
+
+.07**
+(7.47)
+
+Technology
+
+.18**
+(4.24)
+
+.42**
+(9.38)
+
+.15**
+(4.36)
+
+Sargan
+
+test
+=44.8 
+[p=.25]
+
+% Equip < 1 yr.
+
+% Equip 1S4 yr. old
+
+R&D Center
+
+% Non-Managers using Computers
+
+.0001
+(0.05)
+
+.001
+(1.41)
+
+.05
+(1.33)
+
+.0015**
+(2.98)
+
+Worker Characteristics
+
+Log (Avg Ed non-production workers)
+
+Log(Avg Ed Production Workers)
+
+.47**
+(2.51)
+
+1.06**
+(3.64)
+
+Second
+Step
+
+avg.
+
+residual
+1988S93
+
+.0009
+(0.48)
+
+.001
+(1.07)
+
+.05
+(1.21)
+
+.0007
+(1.38)
+
+.32
+(1.60)
+
+.96**
+(3.05)
+
+
+(t-statistics in parenthesis)
+
+Within Estimator
+
+GMM Estimator
+
+First Step
+
+Second Step
+
+First Step
+
+Turnover (% ees < year)
+
+-.003**
+(-2.44)
+
+Use of High Performance Work Systems
+
+TQM
+
+Benchmarking
+
+Number of Managerial Levels
+
+# employees per supervisor
+
+% workers in self-managed teams
+
+Employee Voice
+
+Unionized
+
+% Workers meeting regularly in Groups
+
+Profit Sharing
+
+Managers and Supervisors
+
+Production/Clerical/Technical
+
+Recruitment Strategies
+
+Grades a top priority in recruitment 
+
+Communication a top priority in
+recruitment
+
+union*profit sharing for non-managerial
+employees
+
+Interaction Terms
+
+-.097*
+(-1.63)
+
+.055*
+(1.83)
+
+-.001
+(-0.17)
+
+-.001*
+(-1.70)
+
+-.000
+(-0.07)
+
+-.04
+(-0.58)
+
+.0007
+(0.97)
+
+-.04
+(-0.84)
+
+.009
+(0.13)
+
+-.008
+(-0.57)
+
+.044**
+(2.51)
+
+.13**
+(2.11)
+
+Second
+Step
+
+-.002
+(-1.34)
+
+-.15**
+(2.31)
+
+.06*
+(1.75)
+
+-.008
+(-1.13)
+
+-.0004
+(-0.53)
+
+.0002
+(0.35)
+
+-.11
+(-1.6)
+
+.0001
+(0.91)
+
+-.07
+(-1.46)
+
+.02
+(0.32)
+
+-.02
+(-1.24)
+
+.04*
+(1.90)
+
+.17**
+(2.60)
+
+
+(t-statistics in parenthesis)
+
+union*tqm
+
+% meet*profit sharing for non-
+managerial workers
+
+% meet*tqm
+
+Within Estimator
+
+GMM Estimator
+
+First Step
+
+Second Step
+
+First Step
+
+.03
+(0.47)
+
+-.0009
+(-1.27)
+
+.0006
+(0.77)
+
+Second
+Step
+
+.07
+(1.05)
+
+-.0006
+(-0.81)
+
+.001
+(1.46)
+
+0.09
+
+N for the First Stage = 984  
+
+N for the Second Stage=627
+
+Adjusted R2=
+
+0.24
+
+Note: T-statistics in parenthesis. ** denotes significant at the 5 per cent level and * denotes
+significant at the 10 per cent level.  First stage estimation also includes a constant term, year
+dummies, and 2 digit SIC industry controls interacted with the year dummies.  Second stage
+equations also include a constant term, 2 digit SIC industry controls, age of the establishment, a
+dummy if the establishment is part of a multiple-establishment firm, the percentage of women
+employees, the percentage of minority employees, proportion of training done in-house, and a
+dummy variables if the primary product is exported.  Appropriately lagged values of capital,
+labor, materials, and sales are used as instruments for the GMM estimator.  The Sargan test is
+distributed as ?2 with degrees of freedom equal to the number of instruments minus the number of
+estimated coefficients.
+
+
+REFERENCES
+
+Arellano, M. and S. Bond  (1988),  ‘Dynamic Panel Data Estimation
+using  DPD  S  A  Guide  for  Users’,  Institute  for  Fiscal  Studies
+Working Paper No.88/15.
+
+Arellano, M. and S. Bond (1991), ‘Some Tests of Specification for
+Panel  Data:  Monte  Carlo  Evidence  and  a  Application  to
+Employment Equations,’ Review of Economic Studies, Vol.58,
+pp.277S297.
+
+Arellano, M. and O. Bover (1995),  ‘Another Look at the Instrumental
+Variable Estimation of Error-Components Models’,  Journal of
+Econometrics, Vol.68, pp.29S51.
+
+Arthur,  J.  (1994),  ‘Effects  of  Human  Resource  Systems  on
+Manufacturing  Performance  and  Turnover’,  Academy  of
+Management Journal, Vol.37, pp.670S87.
+
+Bailey,  M.  and  R.  Gordon  (1988),  ‘The  Productivity  Slowdown,
+Measurement  Issues  and  the  Explosion  of  Computer  Power,’
+Brookings    Papers  on  Economic  Activity,  Vol.19,  No.2,
+pp.347S420.
+
+Bailey, T. (1993), ‘Organizational Innovation in the Apparel Industry’,
+
+Industrial Relations, Vol.32, pp.30S48.
+
+Barron, J., M. Berger and D. Black (1994), ‘How well do we measure
+
+training?’, Journal of Labor Economics, forthcoming.
+
+Bartel,  A.  (1992),  ‘Productivity  Gains  from  the  Implementation  of
+Employee Training Programs’, NBER Working Paper No.3893.
+
+Bartel, A. (1989), ‘Formal Employee Training Programs and Their
+
+35
+
+
+Impact on Labor Productivity:  Evidence from a Human Resource
+Survey’, NBER Working Paper No.3026.
+
+Bartelsman, E. J. and W. Gray (1995), ‘The NBER Manufacturing
+Productivity Database’, unpublished paper, Board of Governors
+of the Federal Reserve System (January).
+
+Batt,  R.  (1995),  ‘Performance  and  Welfare  Effects  of  Work
+Restructuring:  Evidence  from  Telecommunications  Services’,
+Ph.D.  dissertation,  MIT  Sloan  School  of  Management,
+Cambridge, MA.
+
+Berg,  P.,  E.  Appelbaum,  T.  Bailey,  and  A.  Kalleberg  (1996),  ‘The
+Performance  Effects  of  Modular  Production  in  the  Apparel
+Industry’, 
+
+Industrial Relations, Vol.35, pp.356S373.
+
+Bishop, J. (1994), ‘The Impact of Previous Training on Productivity
+and Wages’, in L. Lynch (ed), Training and the Private Sector:
+International  Comparisons,  University  of  Chicago  Press:
+Chicago.
+
+Black, S. E. and L. M. Lynch (1996), ‘Human Capital Investments and
+
+Productivity’, American Economic Review, May.
+
+ 
+Brown, C. and Medoff, J. (1978), ‘Trade Unions in the Production
+
+Process’, Journal of Political Economy, Vol.86, pp.355S78.
+
+Brynjolfsson, E. and L. Hitt (1993), ‘New Evidence on the Returns to
+Information  Systems’,  Working  Paper,  Sloan  School  of
+Management, MIT.
+
+Bureau of Labor Statistics, US Department of Labor (1993),  Labor
+Composition and U.S. Productivity Growth, 1948S90, Bulletin
+2426, US Government Printing Office, December.
+
+36
+
+
+Caballero, R. and M.L. Hammour (1994),  ‘The Cleansing Effects of
+Recessions’, American Economic Review, Vol.84, pp.1350S68.
+
+Clark, K. B. (1984),  ‘Unionization and Firm Performance: The Impact
+on  Profits,  Growth,  and  Productivity’,  American  Economic
+Review, Vol.74, December, pp.893S919.
+
+Cooke, W. (1994), ‘Employee Participation Programs, Group-Based
+Incentives,  and  Company  Performance:  A  Union-Nonunion
+Comparison’, Industrial  and  Labor  Relations  Review, Vol.47,
+pp.594S609.
+
+Davis, S. and J. Haltiwanger (1991), ‘Wage Dispersion Between and
+Within  US  Manufacturing  Plants:    1963S1986’,    Brookings
+Papers on Economic Activity; Microeconomics.
+
+Delany, J. and Huselid, M. (1996) ‘The Impact of Human Resource
+Management Practices on Perceptions of Performance in For-
+Profit and Nonprofit Organizations’,  Academy of Management
+Journal, in press.
+
+Dunlop,  J.  and  Weil,  D.  (1996)  ‘Diffusion  and  Performance  of
+Modular Production in the U.S. Apparel Industry’,  Industrial
+Relations, Vol.35, July, pp.334S354.
+
+Freeman,  R.  and  J.  Medoff  (1984),    What  Do  Unions  Do?,  Basic
+
+Books: New York.
+
+Griliches, Z. and J. A. Hausman (1986), ‘Errors in Variables in Panel
+
+Data’, Journal of Econometrics, Vol.31, pp.93S118.
+
+Griliches,  Z.  and  J.  Mairesse  (1995),  ‘Production  Functions:  The
+
+Search for Identification’, NBER Working Paper No.5067.
+
+37
+
+
+Hulten,  C.  and  F.  Wykoff  (1981),  ‘Measurement  of  Economic
+Depreciation’, in C.R.Hulten (ed), Depreciation, Information,
+and the Taxation of Income from Capital, Washington, D.C.,
+Urban Institute.
+
+Huselid, M. A. (1995),  ‘The Impact of Human Resource Management
+Practices  on  Turnover,  Productivity,  and  Corporate  Financial
+Performance’, Academy of Management Journal, Vol.38 No.3,
+pp.635S672.
+
+Huselid, M. A. and B. E. Becker (1996), ‘High Performance Work
+Systems and Firm Performance: Cross-Sectional Versus Panel
+Results’, Industrial Relations, Vol.35, pp.400S422.
+
+Ichniowski (1990), ‘Human Resource Management Systems and the
+Performance of U.S. Manufacturing Businesses’,  NBER Working
+Paper No.3449.
+
+Ichniowski (1992),  ‘Human Resource Practices and Productive Labor-
+Management Relations’, in D. Lewin, O. Mitchell, and P. Sherer
+(eds), Research Frontiers in Industrial Relations and Human
+Resources, pp.239S271.
+
+Ichniowski, K. Shaw and G. Prennushi (1995), ‘The Effects of Human
+Resource  Management  Practices  on  Productivity’,  NBER
+Working Paper No.5333, November.
+
+Jorgenson,  D.  and  Griliches,  Z.  (1967),  ‘The  Explanation  of
+Productivity  Change’,  Review  of  Economic  Studies,  Vol.34,
+pp.249S283.
+
+Jorgenson, D., F. Gallop and B. Fraumeni (1987), Productivity and
+
+U.S. Economic Growth, Harvard University Press.
+
+38
+
+
+Kandel, E. and E. Lazear (1992),  ‘Peer Pressure and Partnerships’,
+
+Journal of Political Economy, Vol.100, pp.801S817.
+
+Kelley, M. (1994),  ‘Information Technology and Productivity: The
+Elusive Connection’,  Management Science, Vol.40, pp.1406S25.
+
+Kelley, M. (1996),  ‘Participative Bureaucracy and Productivity in the
+Machined  Products  Sector’,  Industrial  Relations,  Vol.35,
+pp.374S399.
+
+Krafcik, J. (1988), ‘Triumph of the Lean Production System’,  Sloan
+
+Management Review, Vol.30, pp.41S52.
+
+Krueger,  A.  (1993),  ‘How  Computers  Have  Changed  the  Wage
+Structure:  Evidence  from  Micro  Data,  1984S1989’, Quarterly
+Journal of Economics, Feb. pp.33S60.
+
+Lynch, L. M. (1995), ‘A Needs Analysis of Training Data:  What do we
+want, what do we have, can we ever get it?’, in J.Haltiwanger, M.
+Manser  and  R.  Topel  (eds),  Labor  Statistics  Measurement
+Issues, NBER/University of Chicago Press, forthcoming.
+
+Lynch,  L.  M.  and  S.  E.  Black  (1995),  ‘Beyond  the  Incidence  of
+Training: Evidence from a National Employers Survey’, NBER
+Working Paper No.5231.
+
+Malcomson,  J.  (1983),  ‘Trade  Unions  and  Economic  Efficiency’,
+
+Economic Journal, Vol.93, pp.50S65.
+
+Milgrom,  P.  and  J.  Roberts  (1995),    ‘Complementarities  and  Fit:
+Strategy, structure and organizational change in manufacturing’,
+Journal of Accounting and Economics, Vol.19.  pp.179S208.
+
+Nickell, S., D. Nicolitsas and M. Patterson (1996), ‘Does Doing Badly
+
+39
+
+
+Encourage  Management  Innovation?’,  Oxford  Institute  for
+Economics and Statistics Working Paper, August.
+
+Oliner,  S.  and  D.  Sichel  (1994),  ‘Computers  and  Output  Growth
+Revisited:  How  Big  is  the  Puzzle?’,    Brookings  Papers  on
+Economic Activity, No.2, pp.273S317.
+
+Osterman, P. (1994),  ‘How Common is Workplace Transformation
+and Who Adopts It?’,  Industrial and Labor Relations Review,
+Vol.47, No.2, January, pp.173S187.
+
+Schmidt,  P.  (1985),  ‘Frontier  Production  Functions:  A  Review’,
+
+Econometric Reviews, No.4.
+
+Womack,  J.,  D.  Jones  and  D.  Roos  (1991),    The  Machine  that
+
+Changed the World,  Rawson/Macmillan: New York.
+
+40
+

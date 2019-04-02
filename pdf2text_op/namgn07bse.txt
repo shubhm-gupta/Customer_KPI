@@ -1,0 +1,1876 @@
+Business Strategy and the Environment
+Bus. Strat. Env. 16, 106–118 (2007)
+Published online 10 July 2006 in Wiley InterScience 
+(www.interscience.wiley.com) DOI: 10.1002/bse.476
+
+Relationship Between Environmental
+Performance and Financial
+Performance: an Empirical Analysis of
+Japanese Corporations
+
+Yuriko Nakao,1* Akihiro Amano,2 Kanichiro Matsumura,1 Kiminori Genba3 and 
+Makiko Nakano4
+1Graduate School of Policy Studies, Kwansei Gakuin University, Japan
+2University of Hyogo and Institute for Global Environmental Strategies, Kansai Research
+Centre, Japan
+3Graduate School of Engineering Management, Shibaura Institute of Technology, Japan
+4Graduate School of Economics, Kobe University, Japan
+
+ABSTRACT
+The hypotheses that a ﬁrm’s environmental performance has a positive impact on its
+ﬁnancial  performance  and  vice  versa  are  statistically  supported  by  Japanese  data.
+However, this tendency for two-way positive interaction appears to be only a relatively
+recent phenomenon. The tendency for realizing the two-way interaction is not limited
+to the top-scoring ﬁrms in terms of both ﬁnancial and environmental performance.
+On the contrary, this is also a trend that can be observed fairly generally. Obviously,
+when we consider only scores of those companies that published the relevant infor-
+mation in their environmental reports, and conduct the statistical causality test with
+such information as additional input to the pooled time-series and cross-section data
+of  ﬁnancial  performance,  the  results  become  more  strongly  signiﬁcant.  From  the
+recent experience of environmental policies in Japan, we infer that information-based
+environmental  policy  measures  are  effective  to  encourage  the  ongoing  transition
+toward a more sustainable market economy. Copyright © 2006 John Wiley & Sons,
+Ltd and ERP Environment.
+
+Received 16 March 2005; Revised 20 April 2005; Accepted 5 May 2005
+Keywords: environment–economy two-way interactions; environmental performance; corporate valuation; statistical causality test;
+information measures of environmental policy
+
+* Correspondence to: Yuriko Nakao, Graduate School of Policy Studies, Kwansei Gakuin University, Japan. E-mail: yuriko_nakao@hotmail.co.jp
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+
+Relationship Between Environmental Performance and Financial Performance
+
+107
+
+Introduction
+
+WITH THE TIGHTENING OF ENVIRONMENTAL REGULATIONS AND THE INCREASE IN PEOPLE’S
+
+environmental awareness in recent years, firms are being compelled to spend large amounts
+on  environmental  costs  through  measures  such  as  obtaining  ISO14001  certification, 
+investing in environmental equipment and developing environmentally friendly products.
+However, if we look at the trend over the past few years it appears that a growing number of firms regard
+such expenditure not as a ‘cost’ but as an ‘investment’ linked to corporate profit and place their efforts
+to tackle environmental issues as a corporate strategy. For example, according to the Environment-Friendly
+Company Survey by the Ministry of the Environment (2002, 2004), while 21.0 percent of listed corpo-
+rations replied in 1999 that for them tackling environmental issues was ‘one of their most important
+business  strategies  and  an  integral  part  of  their  business  activities’,  this  proportion  had  risen  to  27.1
+percent by 2003. Awareness among firms appears to be in a process of transition from perceiving envi-
+ronmental efforts as one factor affecting business performance to elevating such efforts to the position
+of  a  major  strategic  factor.  However,  this  may  not  necessarily  mean  that  market  conditions  in  Japan
+have  been  so  firmly  established  that  improvements  in  a  firm’s  environmental  performance  have  a 
+positive influence on its corporate profits.
+
+The present study provides a quantitative analysis on the basis of published data about the relation-
+ship between firms’ environmental performance and their financial performance.1 Specifically, the analy-
+sis has the following two goals:
+
+(1)
+
+to examine, by multiple linear regression analysis, whether environmental performance has a sig-
+nificantly positive influence on financial performance and
+
+(2) to examine, using a set of pooled time series and cross-section data, whether there is any statistical
+
+causality from economic performance to environmental performance, or vice versa.
+
+Data Preparation 1: Corporate Performance Indices
+
+Two preceding studies, Russo and Fouts (1997) and Konar and Cohen (2001), obtained the results that
+a  firm’s  environmental  performance  does  have  a  statistically  significant  positive  relationship  with  its
+financial performance. Following their approach, the first part of the present study attempts similar type
+of  hypothetical  testing  from  data  available  for  Japanese  firms.  In  Russo  and  Fouts  (1997),  return  on
+assets (ROA) is used as an economic performance index, while the Franklin Research and Development
+Corporation’s environmental rating is used as an environmental performance index. Konar and Cohen
+(2001), on the other hand, used two variables for environmental performance: Toxic Release Inventory
+emission levels, on the one hand, and pending environment-related litigations where the corporation is
+the defendant. For the variable concerning financial performance, they used Tobin’s q - 1. Tobin’s q is
+the ratio of the market value of a firm’s assets to the replacement value of the firm’s tangible assets, so
+that ‘q - 1’ represents the ratio of the market value of intangible assets to the value of tangible assets.
+Therefore, the question to be asked is whether the index expressing environmental performance can be
+a significant explanatory variable, together with these traditional variables, for a firm’s financial perfor-
+mance, i.e. whether the market acknowledges the value of environmental performance as a part of the
+firm’s intangible assets.
+
+1 In  this  paper  we  use  the  term  ‘financial’  to  represent  the  bottom  line  of  a  corporation  rather  than  a  traditional  concept  in  financial 
+accounting.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+108
+
+Y. Nakao et al.
+
+As explanatory variables, the present study uses ROA (return on assets) and ROE (return on equity),
+which are indices of a firm’s profitability. As market-valuation related variables, it also uses proxy vari-
+ables for intangible assets such as Tobin’s q - 1, and earnings per share.2 These two types of financial
+performance index were used because they would make it possible to examine which of the two alter-
+native  types  of  variable  represents  more  adequately  the  influence  of  environmental  performance  on
+firms’ financial aspects.
+
+It was decided to use the following variables to explain financial performance, since these were used
+in  the  two  previous  studies  and  data  are  readily  available:  (1)  company  scale,  sales;  (2)  growth,  rate  of
+increase in revenue (compared to previous year); (3) consumer relevancy, advertising expenses/sales; (4)
+R&D, R&D expenses/sales; (5) debt dependence, financial leverage;3 (6) sales/assets ratio, sales/total assets.
+As variables that represent environmental performance, Konar and Cohen (2001) used the Pollutant
+Release and Transfer Index and the number of environmental litigations. However, if these variables
+are  taken  from  corporate  environmental  reports,  the  problem  of  data  comparability  may  arise.4 The
+present study adopts a method that is closer to that of Russo and Fouts (1997) and uses the ‘scores’ of
+firms covered in the Nikkei Environmental Management Survey carried out each year since 1997 by the
+Nihon  Keizai  Shimbun.  This  survey  evaluates  how  firms  have  attempted  to  establish  organizational
+structure  and  functions  to  implement  environmental  measures  to  reduce  greenhouse  gas,  chemical
+material emissions and other wastes while improving business efficiency at the same time.
+
+Data Preparation 2: Range of Sample Firms and Sectoral Coverage
+
+As mentioned above, the present study uses as its environmental performance indices the ‘score’5 eval-
+uated in the Nikkei Environmental Management Survey reports compiled by Nihon Keizai Shimbun. The
+sample firms are taken from those firms (listed corporations6) covered in the survey, spreading over 19
+categories7 in the manufacturing sector (excluding the energy and construction industries).
+
+From the sixth (2002) and seventh (2003) Nikkei Environmental Management Surveys onwards, over-
+seas environmental management has also been assessed together with domestic environmental man-
+agement. For these two years, the sample firms are taken from firms whose overseas management was
+also assessed in the sixth and seventh Nikkei surveys, and the financial performance data are taken from
+the consolidated financial reports of 2002 and 2003. For these sample firms, the overseas environmental
+management score can also be used as environmental performance data. The analyses in the sections
+‘Estimated Results of Multiple Linear Regression Analysis’, ‘Comparison of Top-Scoring Thirty Firms
+and Those in the Lower Half’ and ‘Calculating Long-term Numerical Effects of Environmental Perfor-
+mance on Financial Performance’ are based on a set of panel data pooled from these two years.
+
+For the data from the five years during which there was no evaluation related to overseas performance
+ranking,  the  domestic  ranking  score  was  used  as  an  environmental  performance  index.  The  use  of
+Tobin’s q - 1 as a financial performance index necessitates that we use non-consolidated financial reports
+
+2 I.e. current operating profit divided by average number of shares outstanding.
+3 (Debt + minority equity + total shareholders’ equity; sum of two periods)/(total shareholders’ equity; sum of two periods).
+4 See, for example, Kanda and Kitamura (2004).
+5 The review items of the Nikkei Environmental Management Survey conducted by Nihon Keizai Shimbun have been somewhat different year
+by year. In the present study the indices from each year were re-categorized into five. In integrating the indices for five years, some indices
+were not included. They are ‘vision’ from the fifth, sixth and seventh surveys, ‘product and distribution measures’ from the fifth and sixth
+surveys and ‘product measures’ from the seventh survey.
+6 Firms listed on the Tokyo Stock Exchange, Osaka Securities Exchange, Nagoya Stock Exchange, JASDAQ and other new markets.
+7 Food, textiles, pulp/paper, chemicals, pharmaceuticals, petroleum, rubber, ceramic, iron and steel, non-ferrous metal/metal products, machin-
+ery, electric appliances, shipbuilding, automobiles, automobile parts, other transportation machinery, precision machinery, miscellaneous man-
+ufacturing industries, printing and light industries.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+Relationship Between Environmental Performance and Financial Performance
+
+109
+
+rather than the corporate group consolidated financial reports. Various financial data were taken from
+these reports for the years 1999–2003.8 The analysis in the section ‘Testing Statistical Causality’ is based
+on these five years’ data.
+
+Data sources are as follows: (1) environmental performance, Nikkei Environmental Management Survey
+Reports (Nihon Keizai Shimbun) published each year; (2) aggregate market value, Kaisha Shikiho (Japan
+Company Handbook: Quarterly); (3) basic financial data, Nikkei Financial Data CD-ROM (Nihon Keizai
+Shimbun); (4) sample firms’ financial statements.9
+
+Methods of Analysis
+
+The present study is based on two analytical methodologies. The study first tests a null hypothesis, using
+multiple linear regression analysis, that a firm’s environmental performance has no positive influence
+on its financial performance.10 It then tests a null hypothesis, using pooled cross-section and time series
+data, that there is a statistical causality from a firm’s environmental performance to its financial per-
+formance (or vice versa) in line with the Granger causality test methodology. The Granger causality test
+was originally proposed for time series models, but it has been extended to pooled panel data (Hurlin
+and Venet, 2001). From the limitation of data availability, the present study uses a simplified version of
+the method of Hurlin and Venet (2001).11
+
+In the first analysis, as explained in the previous section, a multiple regression equation is estimated
+
+with the following specification:
+
+(financial performance) = (constant term) + a1(rate of increase in revenue) 
+
++ a2(advertising expenses/sales ratio) + a3(R&D expenses/sales ratio)
++ a4(financial leverage) + a5(sales/total assets ratio) 
++ a6(environmental management score) + (error term).
+
+(1)
+
+Earnings per share, ROA, and Tobin’s q - 1 are used as explained variables, while overseas or domes-
+tic  environmental  management  indices,  depending  on  the  range  of  covered  firms,  are  used  for  envi-
+ronmental  management  scores.  The  expected  signs  on  explanatory  variables  are  as  follows:  rate  of
+increase in revenue, +; advertising expenses/sales ratio, +; R&D expenses/sales ratio, +; financial lever-
+age, -;  sales/total  assets  ratio, -;  environmental  management  score, +.  Sales/total  assets  ratio  is  con-
+sidered as a proxy variable for the reciprocal of the firm’s capital intensity. Since Japan’s international
+competitiveness is strong among capital intensive firms, the sign on this variable is expected to be -.
+In  the  second  analysis,  the  following  regression  equations  are  estimated  where  t designates  time
+
+period and p the degree of time-lag:
+
+8 The aggregate market value of stock used to calculate Tobin’s q - 1 is calculated from the number of shares issued by each parent company,
+since the consolidated number of outstanding shares was not available. For the sake of consistency, therefore, the financial data used for the
+larger sample were taken from non-consolidated financial statements. Japanese corporate financial reports record geographically split figures
+for some items such as turnover and operating profit but not for other items that we want to use in this analysis. Therefore, it was not possi-
+ble to separate out ‘domestic’ components. The proportion of overseas facility is fairly small in most cases, however.
+9 Sample firms’ financial statements were used to make up for missing data, or to supplement data not included in the Nikkei Financial Data.
+10 This method has been used by many authors with various dependent and explanatory variables. Data used for environmental performance
+indices are environmental and social ratings (Russo and Fouts, 1997; Butz and Plattner, 2000), total toxic chemical emissions (Konar and
+Cohen, 1997; Molloy et al., 2002), number of environmental law suits against the firm (Konar and Cohen, 1997), and penalties for incompli-
+ance against environmental law (Butz and Plattner, 2000). Data used for economic or financial indices are return on assets (Russo and Fouts,
+1997), Tobin’s q - 1 (Konar and Cohen, 1997), the Jensen-a values (Butz and Plattner, 2000), and holding period return of stocks (Molloy et
+al., 2002). The variable choice in this paper is largely determined by the availability of empirical data. Murphy (2002) provides a useful survey.
+11 Many authors are concerned with possible two-way relationships between the environmental and financial/economic performance and also
+the existence of common factors that affect both indices. See, for example, the discussion by Molloy et al. (2002). We consider that the idea
+of Granger’s statistical causality may be able to shed light on this problem.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+110
+
+(
+
+financial performance
+
+) = (
+constant term
+,
+i t
+Â
++
+
+b
+( )
+j
+
+=
+0
+
+(
+
+,
+p
+
+j
+
+) +
+,
+i t
+
+Â
+
+=
+1
+
+j
+
+,
+p
+
+( )
+j
+
+g
+
+(
+
+)
+financial performance
+,
+i t
+
+-
+
+j
+
+)
+environmental performance
+,
+i t
+
++ (
+
+)
+error term
+,
+i t
+
+-
+
+j
+
+(2)
+
+Y. Nakao et al.
+
+If the estimated value of coefficient b( j) does not differ significantly from zero, environmental perfor-
+mance does not significantly alter the financial performance and hence is not considered as a causal
+factor.
+
+In order to test this as a null hypothesis, the following subsidiary equation is estimated:
+
+(
+
+financial performance
+
+) = (
+constant term
+,
+i t
++(
+
+)
+error term
+,
+i t
+
+) +
+,
+i t
+
+Â
+
+g1
+=
+
+,
+p
+
+j
+
+( )
+j
+
+(
+
+)
+financial performance
+,
+i t
+
+-
+
+j
+
+The test statistic is expressed as an F-value:
+
+F
+
+=
+
+[
+(
+)
+RSS2 RSS1
+
+-
+
++(
+p
+
+]
+)
+1
+
+[
+RSS1
+
+(
+NT
+
+-
+
++(
+p
+
+]
+)
+1
+
+(2¢)
+
+(3)
+
+where RSS1 is the residual sum of squares in estimated Equation (2), RSS2 is the residual sum of squares
+in estimated equation (2¢), N is the number of firms and T is the number of years for which time series
+data are available.
+
+The statistic F follows the F-distribution with the degrees of freedom [p + 1, NT - (2p + 1)]. If this sta-
+tistic is not statistically significant, the null hypothesis that there is no causal relationship is accepted
+and environmental performance is deemed to have no causality relationship to financial performance.
+If the performance variables are interchanged, reverse causality relationship (i.e. from financial perfor-
+mance to environmental performance) can also be tested. In the following analysis, only the case where
+p = 1 is considered due to data limitation.
+
+Estimated Results of Multiple Linear Regression Analysis
+
+Table 1 presents estimated Equation (1) by taking earnings per share as a dependent variable and pooling
+2002 and 2003 data for 121 firms. Since advertising expenses/sales ratio was not significant in any esti-
+mation, it was eventually removed. Since data over two years were pooled, a fiscal year dummy variable
+was introduced, but their coefficients are not presented. The various explanatory variables have a plus
+or  minus  signs  as  expected  and,  apart  from  indices  for  domestic  management  system  and  domestic
+resource cycling, the environmental management indices have positive and statistically significant coef-
+ficients in every case. Overall, overseas environmental management indices exhibit better performance
+than domestic management indices. The data for the former index exhibit a much greater variance than
+the latter, and it may be the case that the overseas index reflects differences in environmental manage-
+ment among firms more clearly. The variances of overseas overall score and of domestic overall score
+from the pooled sample of two years were 9853 and 5205 respectively, the former being almost double
+the latter, and the p-value for the F-test was 9.2 ¥ 10-7.
+
+This first set of estimation results demonstrates that a firm’s environmental performance does make
+a positive contribution to its financial performance as long as we measure the latter by the Nikkei envi-
+ronmental management indices. Moreover, in the case of international corporations engaged in global
+activities, the contribution to the financial aspect of a firm’s performance is even more marked, a result
+that is in agreement with the results of surveys carried out in other countries.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+Relationship Between Environmental Performance and Financial Performance
+
+111
+
+Coefﬁcients and correlation coefﬁcient
+
+Rate of
+increase
+in revenue
+
+R&D 
+
+Sales/total
+
+expenses/sales
+
+ratio
+
+assets
+ratio
+
+Financial
+leverage
+
+Environmental
+management
+performance
+
+Constant
+
+term
+
+R2 adjusted
+for degree
+of freedom
+
+5.28*
+
+5.07*
+
+5.70**
+
+6.19**
+
+5.84*
+
+5.92*
+
+-72.7**
+
+-72.9**
+
+-0.153
+
+-0.118
+
+-70.9**
+
+-0.048
+
+-66.1*
+
+-0.103
+
+-75.3**
+
+-0.151
+
+-75.7**
+
+-0.098
+
+index
+
+3.61**
+
+3.45*
+
+2.98**
+
+2.44**
+
+3.30**
+
+0.271*
+
+6.47**
+
+-70.7**
+
+-0.072
+
+1.25
+
+5.99*
+
+6.41**
+
+-72.7**
+
+-0.130
+
+-73.8**
+
+-0.080
+
+2.95*
+
+1.64
+
+3.83**
+
+3.82**
+
+3.93**
+
+4.30**
+
+3.82**
+
+4.22**
+
+4.25**
+
+4.35**
+
+4.24**
+
+-34.4
+
+-24.2
+
+-8.13
+
+11.5
+
+-19.1
+
+-22.0
+
+61.0
+
+-38.2
+
+42.5
+
+0.171
+
+0.164
+
+0.151
+
+0.133
+
+0.161
+
+0.122
+
+0.107
+
+0.124
+
+0.111
+
+4.31**
+
+6.02*
+
+-74.0**
+
+-0.090
+
+3.18**
+
+-45.0
+
+0.126
+
+1. Overall overseas
+
+score
+
+2. Overseas
+
+management
+system
+
+3. Overseas
+
+pollution risk
+
+4. Overseas
+
+resource cycling
+system
+
+5. Overseas global
+
+warming measures
+
+6. Overall domestic
+
+score
+
+7. Domestic
+
+management
+system
+
+8. Domestic
+
+pollution risk
+
+9. Domestic
+
+resource cycling
+system
+
+10. Domestic
+
+global warming
+measures
+
+Table 1. Estimated results (dependent variable: earnings per share).
+** p < 0.01, *p < 0.05; sample size = 242.
+
+Table  2  shows  the  results  of  similar  tests  performed  with  Tobin’s  q - 1  as  the  dependent  variable.
+Whereas in Table 1 financial data from consolidated statements were used, Table 2 uses financial data
+from non-consolidated statements because of the need to calculate Tobin’s q - 1. It is for this reason
+that slightly fewer firms are covered. As in Table 1, when overseas scores were used, the coefficients for
+all the environmental performance indices were statistically significant at the p < 0.05 level. Another
+similarity to Table 1 was that the domestic scores were less significant than the overseas scores.
+
+Comparison of Top-Scoring 30 Firms and Those in the Lower Half
+
+What differences exist between the top 30 firms and those in the lower half in terms of environmental
+and  financial  performance?  Since  there  are  various  dimensions  in  environmental  performance  and
+financial performance, it may not be appropriate to conclude that there is generally a positive relation-
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+112
+
+Y. Nakao et al.
+
+Coefﬁcients and correlation coefﬁcient
+
+Rate of
+increase
+in revenue
+
+R&D 
+
+Sales/total
+
+expenses/sales
+
+ratio
+
+assets
+ratio
+
+Financial
+leverage
+
+Environmental
+management
+performance
+
+index
+
+Constant
+
+term
+
+R2 adjusted
+for degree
+of freedom
+
+1. Overall overseas
+
+0.003 91*
+
+0.0314**
+
+-0.0150
+
+-0.012 8
+
+0.000 99**
+
+-0.448**
+
+0.250
+
+0.003 76*
+
+0.0314**
+
+-0.0466
+
+-0.011 9
+
+0.008 84**
+
+-0.392*
+
+0.241
+
+3. Overseas pollution
+
+0.003 85*
+
+0.0314**
+
+risk
+
+4. Overseas resource
+
+0.004 28*
+
+0.0324**
+
+-0.0452
+
+-0.016 3
+
+0.008 84**
+
+-0.390*
+
+0.244
+
+-0.0309
+
+-0.008 37
+
+0.009 42**
+
+-0.452*
+
+0.245
+
+0.003 85*
+
+0.0321**
+
+-0.0395
+
+-0.015 7
+
+0.007 00*
+
+6. Overall domestic
+
+0.003 88*
+
+0.0326**
+
+-0.0478
+
+-0.019 8
+
+0.000 99*
+
+-0.309
+
+-0.553*
+
+0.232
+
+0.232
+
+0.003 73*
+
+0.0329**
+
+-0.0455
+
+-0.020 8
+
+0.010 2**
+
+0.241**
+
+0.243
+
+score
+
+2. Overseas
+
+management
+system
+
+cycling system
+
+5. Overseas global
+
+warming measures
+
+score
+
+7. Domestic
+
+management 
+system
+
+8. Domestic pollution
+
+0.003 94*
+
+0.0328**
+
+risk
+
+9. Domestic resource
+
+0.004 14*
+
+0.0321**
+
+cycling system
+
+10. Domestic global
+
+0.003 94*
+
+0.0325**
+
+warming measures
+
+-0.0361
+
+-0.016 0
+
+0.009 28
+
+-0.528
+
+0.222
+
+-0.0437
+
+-0.019 7
+
+0.008 38*
+
+-0.442*
+
+0.229
+
+-0.0379
+
+-0.017 9
+
+0.004 77
+
+-0.238
+
+0.215
+
+Table 2. Estimated results (dependent variable: Tobin’s q - 1).
+** p < 0.01, *p < 0.05; sample size = 234.
+
+ship  between  the  two  for  any  firm.  With  this  question  in  mind,  the  top  and  bottom  groups  were 
+compared to test whether any statistically significant differences existed between the two groups in 2003
+in terms of mean values for the variables used in the study. The results obtained are presented in Table
+3.
+
+This table shows the test results concerning the differences in mean values for the various variables
+between the two groups, where 278 sample firms were ranked in the order of overall score as obtained
+from the Nikkei environmental management surveys (simple average of 2002–2003 values), and the
+top 30 firms were categorized as a top group and firms in the lower half as a bottom group.
+
+For all variables except sales/assets ratio, the differences are significant at the p < 0.05 or p < 0.01
+levels in the expected direction. From the table it is clear that the differences in financial performance
+and  environmental  performance  between  firms  follow  the  same  trend  with  no  particular  difference
+depending on the indices. In other words, on the whole, top financial performers and top environmen-
+tal performers are on the same side. However, the fact that the results showed relatively small differ-
+ence in the index of global warming measures suggests that efforts to tackle global warming are a thorny
+issue for all firms in comparison with other environmental management problems.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+Top
+
+group’s
+mean
+value
+Bottom
+
+group’s
+mean
+value
+
+t-statistic
+p-value
+
+Relationship Between Environmental Performance and Financial Performance
+
+Tobin’s
+q - 1
+
+ROA
+
+Debt
+ratio
+
+Financial
+leverage
+
+Rate of
+increase
+
+in 
+
+revenue
+
+R&D
+
+expense
+
+ratio
+
+Sales/ Management
+assets
+system index
+ratio
+
+Pollution
+
+risk
+index
+
+Resource-
+cycling 
+index
+
+1.69
+
+5.4
+
+62.6
+
+1.62
+
+1.39
+
+8.87
+
+0.72
+
+58
+
+-0.00
+
+1.6
+
+150.9
+
+2.63
+
+7.98
+
+3.47
+
+0.94
+
+50
+
+58
+
+50
+
+57
+
+50
+
+113
+
+Global
+warming
+measures
+
+index
+
+55
+
+51
+
+20.74
+0.000** 0.000**
+
+6.89
+
+-3.33
+0.001**
+
+-3.15
+0.002**
+
+2.01
+0.046*
+
+7.64
+0.000**
+
+-1.05
+0.296
+
+4.02
+0.000**
+
+4.34
+0.000**
+
+3.39
+0.001**
+
+2.25
+0.026*
+
+Table 3. Comparison of top-scoring 30 ﬁrms and those in the lower half.
+If the t-value is positive, the mean value for the top group is larger, and vice versa.
+**p < 0.01, *p < 0.05.
+
+Testing Statistical Causality
+
+As in Table 2, for 278 firms for which Tobin’s q - 1 and ROA can be calculated from financial data in
+their non-consolidated statements, survey data were collected from the seventh back to the third Nikkei
+Environmental Management Survey Reports and, taking total domestic environmental score as an envi-
+ronmental performance index, statistical tests were performed concerning the hypothesis that statisti-
+cal  causality  relationship  exists  from  environmental  performance  indices  to  financial  performance
+indices,  or  vice  versa,  according  to  the  method  explained  in  the  section  ‘Methods  of  Analysis’.  The
+samples used in the estimation were pooled panel data for four years, three years and two years, respec-
+tively, with the latest set involving 2003 and 2002 data. For example, the data set in Table 4 I(1) is data
+for 278 firms as pooled over four years, where the dependent variable is Tobin’s q - 1 for which data
+were  pooled  over  four  years  and  the  explanatory  variables  are  Tobin’s  q - 1  lagged  one  year,  overall
+domestic score from the current year and the same variable lagged one year, all being pooled over four
+years.
+
+Table 4 presents the test statistics (F-values and P-values) obtained from the estimated results. For all
+estimated results, the sum of the estimated coefficients for the environmental performance indices for
+cases I and III, and the sum of estimated coefficients for financial performance indices for cases II and
+IV (i.e. coefficients for variables in the current and lagged one-year periods), were positive in sign.
+
+First, as far as the positive influence of environmental performance on financial performance is con-
+cerned, the null hypothesis was not rejected for panel data pooled over four years and three years, but
+it was rejected, at the p < 0.01 level, for the samples pooled over two years. This means that environ-
+mental  performance  does  not  have  a  beneficial  influence  on  financial  performance  in  samples  that
+include data for more distant past, whereas the relationship becomes clearer for more up-to-date data.
+Second,  turning  to  a  positive  relationship  in  the  opposite  direction,  where  a  good  financial  perfor-
+mance  might  provide  greater  extra  resources  to  spare  in  order  to  boost  environmental  performance,
+there were cases even among three-year pooled panel data in which the null hypothesis was rejected.
+Among two-year pooled panel data, at the p < 0.01 level, this hypothesis was rejected in all cases and a
+positively significant relationship recognized. It is also confirmed that a relationship in this direction
+exists from an earlier stage, which is certainly a more natural tendency than the other way round.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+114
+
+Y. Nakao et al.
+
+I: from environmental performance
+
+to ﬁnancial performance
+
+II: from ﬁnancial performance
+to environmental performance
+
+(1)
+
+2003–2000,
+2002–1999
+(N = 1112)
+
+F = 2.303
+P = 0.100
+F = 2.617
+P = 0.073
+
+(2)
+
+2003–2001,
+2002–2000
+(N = 834)
+
+F = 1.452
+P = 0.235
+F = 1.150
+P = 0.317
+
+(3)
+
+2003–2002,
+2002–2001
+(N = 556)
+
+F = 7.351
+P = 0.001**
+F = 5.926
+P = 0.003**
+
+(1)
+
+2003–2000,
+2002–1999
+(N = 1112)
+
+F = 1.305
+P = 0.272
+F = 1.722
+P = 0.179
+
+(2)
+
+2003–2001,
+2002–2000
+(N = 834)
+
+F = 7.100
+P = 0.001**
+F = 2.751
+P = 0.064
+
+(3)
+
+2003–2002,
+2002–2001
+(N = 556)
+
+F = 6.019
+P = 0.003**
+F = 4.961
+P = 0.007**
+
+Tobin’s q - 1
+
+Return on assets
+
+Table 4. Causality test between ﬁnancial performance and environmental performance.
+** p < 0.01, *p < 0.05; N denotes sample size.
+
+Putting together the above results, one may conclude that, whereas the trend for a good financial per-
+formance to improve environmental performance has already existed for some time, the trend in which
+a good environmental performance can improve financial performance is a relatively recent phenome-
+non  in  Japan.  The  same  conclusions  are  obtained  irrespective  of  whether  Tobin’s  q - 1  or  return  on
+assets is used as an index for the financial performance. In recent periods a mutual influence in both
+directions becomes apparent, a result that suggests that at the corporate level positive two-way interac-
+tions between the environment and economy are beginning to materialize.12
+
+Table 5 shows the results of similar causality tests on individual environmental management indices
+with Tobin’s q - 1 as the financial performance index. For three management indices other than the one
+related to global warming measures, positive two-way interactions are observed in the latest samples.
+Moreover, it is interesting that, where the environmental management is closely related to public health
+(see the results for pollution risk indices), the positive influence of financial performance on environ-
+mental performance has been highly significant from an earlier period.
+
+For the purpose of confirmation, tests similar to those for I and II in Table 4 were performed on the
+lower 200 firms, ignoring the top 78. In the test with four-year and three-year pooled data, significant
+results at the p < 0.05 level were not obtained. On the other hand, in the case of data pooled over the
+most recent two years, environmental performance had a significantly positive influence on financial
+performance, with F = 4.40 and p = 0.013. Consequently, it would appear that these relationships are
+not confined to the top firms, but tend to apply fairly broadly to the firms covered by the Nikkei envi-
+ronmental management surveys.
+
+Calculating Long-Term Numerical Effects of Environmental Performance on 
+Financial Performance
+
+From Tables 4 and 5, the estimation results for the most recent samples for which the positive influ-
+ence  of  environmental  performance  (environmental  management  index)  on  financial  performance
+(Tobin’s q - 1) was considered statistically significant at the p < 0.01 level are presented as follows. Values
+
+12 This result suggests that the causation from the environmental side to the financial side and vice versa may not always work simultaneously,
+as sometimes suggested by the ‘good management hypothesis.’ The idea of what is good management may change over time, as does the idea
+of what is good management for profitability, possibly with some inertia.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+Relationship Between Environmental Performance and Financial Performance
+
+115
+
+I: from environmental performance
+
+to ﬁnancial performance
+
+II: from ﬁnancial performance
+to environmental performance
+
+1. Management system
+
+(1) 2003–2000,
+2002–1999
+(N = 1112
+F = 2.859
+P = 0.036*
+
+(2) 2003–2001,
+
+(3) 2003–2002,
+
+(1) 2003–2000,
+
+(2) 2003–2001,
+
+2002–2000
+(N = 834)
+F = 1.679
+P = 0.170
+
+2002–2001
+(N = 556)
+F = 5.874
+P = 0.001**
+
+2002–1999
+(N = 1112)
+F = 2.583
+P = 0.052
+
+2002–2000
+(N = 834)
+F = 2.325
+P = 0.074
+
+,
+
+(3) 2003–2002
+2002–2001 
+(N = 556)
+F = 4.836
+P = 0.002**
+
+2. Pollution risk
+
+(1) 2003–2000,
+2002–1999
+(N = 1112)
+F = 2.424
+P = 0.064
+
+(2) 2003–2001,
+
+2002–2000
+(N = 834)
+F = 1.162
+P = 0.323
+
+(3) 2003–2002 
+2002–2001
+(N = 556)
+F = 7.797
+
+P = 0.000**
+
+,
+
+(1) 2003–2000,
+
+(2) 2003–2001,
+
+(3) 2003–2002,
+
+2002–1999
+(N = 1112)
+F = 7.545
+
+P = 0.000**
+
+2002–2000
+(N = 834)
+F = 4.728
+P = 0.003**
+
+2002–2001
+(N = 556)
+F = 7.400
+P = 0.000**
+
+3. Resource cycling
+
+(1) 2003–2000,
+2002–1999
+(N = 1112)
+F = 1.128
+P = 0.337
+
+(2) 2003–2001,
+
+(3) 2003–2002,
+
+(1) 2003–2000,
+
+(2) 2003–2001,
+
+2002–2000
+(N = 834)
+F = 0.513
+P = 0.673
+
+2002–2001
+(N = 556)
+F = 3.504
+P = 0.015*
+
+2002–1999
+(N = 1112)
+F = 0.749
+P = 0.523
+
+2002–2000
+(N = 834)
+F = 1.586
+P = 0.191
+
+(3) 2003–2002 
+2002–2001
+(N = 556)
+F = 2.833
+P = 0.038*
+
+4. Global warming measures
+
+(1) 2003–2000,
+2002–1999
+(N = 1112)
+F = 1.113
+P = 0.343
+
+(2) 2003–2001,
+
+(3) 2003–2002,
+
+(1) 2003–2000,
+
+(2) 2003–2001,
+
+2002–2000
+(N = 834)
+F = 0.602
+P = 0.614
+
+2002–2001
+(N = 556)
+F = 2.156
+P = 0.092
+
+2002–1999
+(N = 1112)
+F = 3.275
+P = 0.020*
+
+2002–2000
+(N = 834)
+F = 0.962
+P = 0.410
+
+(3) 2003–2002 
+2002–2001
+(N = 556)
+F = 1.490
+P = 0.216
+
+Table 5. Causality test between ﬁnancial performance and environmental performance.
+** p < 0.01, *p < 0.05; N denotes sample size.
+
+,
+
+,
+
+in parentheses under coefficients are t-values with an asterisk denoting p < 0.05 and a double asterisk
+p < 0.01.
+
+(
+
+Tobin’s 
+q
+
+-
+
+) = -
+1
+
+t
+
+.
+
++
+
+(
+0 1112 0 4595
+Tobin’s 
+.
+q
+* *
+)
+19 09
+
+(
+
+.
+
+-
+
+) +
+1
+-
+1
+
+t
+
+(
+overall score
+0 000898
+.
+*
+(
+)
+2 49
+.
+
+) -
+t
+
+(
+overall score
+0 000425
+.
+(
+)
+1 14
+.
+
+)
+-
+1
+t
+(4)
+
+2
+
+R
+Tobin’s 
+q
+
+(
+
+ adjusted = 0.411, Durbin-Watson statistic = 1.66, sample size = 556
+) = -
+-
+1
+
+)
+77 management system score
+t
+
++
+
+(
+
+.
+
+.
+
+t
+
+.
+
+-
+
+) +
+1
+-
+1
+
+(
+0 1619 0 4305
+Tobin’s 
+q
+* *
+)
+17 40
+
+0 008
+)
+(
+2 50
+.
+)
+-
+0.003 12 management system score
+t
+)
+(
+0 82
+
+(
+(
+
+-
+1
+
+.
+
+.
+
+t
+
+*
+
+(5)
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+116
+
+(
+
+Y. Nakao et al.
+
+2
+
+ adjusted = 0.374, Durbin-Watson statistic = 1.69, sample size = 556
+R
+Tobin’s 
+q
+
+Tobin’s 
+q
+
+) = -
+1
+
+-
+
+-
+
+.
+
+) +
+1
+-
+1
+
+t
+
+t
+
+(
+
+)
+.
+92 pollution risk score
+0 008
+t
+)
+(
+.
+3 07
+
+* *
+
+(6)
+
+.
+
++
+
+(
+0 2880 0 4286
+* *
+)
+(
+17 38
+(
+
+.
+
+)
+-
+0.000 98 pollution risk score
+t
+)
+(
+0 33
+
+.
+
+-
+1
+
+2
+
+R
+
+ adjusted = 0.378, Durbin-Watson statistic = 1.68, sample size = 556
+
+From these estimated equations, it is possible to calculate the extent of the long-run influence of envi-
+ronmental performance indices on financial performance indices. First, on the premise that the values
+for  various  variables  are  equal  in  the  long  run,  the  long-run  estimated  coefficients  from  the  above 
+equations can be calculated as 0.000 875 for the overall score, 0.009 92 for the management system
+score  and  0.0139  for  the  pollution  risk  score.  Next,  the  mean  values  for  the  278  firms  covered  by 
+the 2003 Nikkei environmental management surveys were 532 for the overall score, 53 for the manage-
+ment system score and 53 for the pollution risk score. In addition, the mean value of the Tobin’s q - 1’s
+denominator for the 278 firms in the same year was 453 711 (million yen). Therefore, for environmen-
+tal management indices, if the overall score is increased for example by 10 points and individual indices
+increased by one point each, then, the Tobin’s q - 1’s numerator, or the influence on the intangible asset
+value, would be 0.000 875 ¥ 10 ¥ 453 711 = 3970; 0.009 92 ¥ 453 711 = 4501; 0.0139 ¥ 453 711 = 6307
+(million  yen),  respectively.  In  other  words,  a  ten-point  increase  in  the  overall  score  would  raise, 
+on average, the value of intangible assets of the firm by 4 billion yen. Similarly, a one-point increase 
+in the management system score would lead to a 4.5 billion yen increase, and a similar increase in the
+pollution  risk  score  to  a  6.3  billion  yen  increase  in  the  value  of  intangible  assets  of  the  firm  on 
+average.
+
+Conclusions and Policy Implications
+
+Using five years’ financial data from approximately 300 listed firms as well as the results of the Nikkei
+environmental  management  surveys,  statistical  analyses  were  performed  to  test  the  hypothesis  that
+firms’ perceptions are changing so that they see attempts to tackle environmental issues not as a ‘cost
+factor’ but as an ‘important strategic factor’, and these perceptions are indeed supported by the market.
+The following conclusions were obtained from the analyses.
+
+(1) The hypotheses that a firm’s environmental performance has a positive impact on its financial per-
+formance and vice versa are supported by applying two types of statistical method to Japanese data.
+However,  this  tendency  for  positive  two-way  interactions  appears  to  be  only  a  relatively  recent 
+phenomenon.
+
+(2) The tendency for realizing the positive two-way interactions is not limited to the top-scoring firms
+in terms of both financial and environmental performance. On the contrary, this is also a trend that
+can be observed fairly generally among the firms covered by the Nikkei environmental management
+surveys.
+
+(3) Indices such as ROA, earnings per share and Tobin’s q - 1 were all useful in representing the finan-
+
+cial performance of the firm in the above tests.
+
+(4) As for the indices in Nikkei environmental management surveys, overseas environmental manage-
+ment indices do work better in reflecting a firm’s environmental performance than corresponding
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+Relationship Between Environmental Performance and Financial Performance
+
+117
+
+domestic environmental management indices. In addition, while the positive two-way interactions
+of the environment and economy was strongly in evidence for indices such as overall score, man-
+agement system index and pollution risk index, this positive trend was relatively weak for resource-
+cycling and global warming measure indices.
+
+(5) If a firm’s environmental performance is improved in such a way that the score for each individual
+index in the Nikkei environmental management surveys increased by one point or its overall score
+increased by 10 points, it is estimated that this would lead to a long-run increase in the firm’s intan-
+gible assets by roughly 4–6 billion yen.
+
+Environmental  economics  explains  that  environmental  problems  are  typical  examples  of  market
+failure where external environmental costs are not automatically internalized in the market system. The
+above results, however, suggest an emerging trend that will make it possible for the market mechanism
+as a whole, through mutually promoting public and private efforts to internalize the external costs, to
+overcome this failure.
+
+The  Ministry  of  Environment  (MoE)  in  Japan  has  pursued  vigorous  resource-cycling  and  chemical
+management measures since the middle of the 1990s. Major legislation and its implementation are as
+follows. (1) The Container and Packaging Recycling Law was enacted in 1995 and enforced for glass and
+PET bottles in 1997 and for paper and plastic packaging and containers in 2000. (2) The Home Appli-
+ance Recycling Law was enacted in 1998 and enforced in 2001. (3) The Food Waste Recycling Law was
+enacted in 2000 and enforced in 2001. (4) The Construction Material Recycling Law was enacted in
+2000  and  enforced  in  2002.  (5)  The  End-of-Life  Vehicle  Recycling  Law  was  enacted  in  2002  and
+enforced in 2005. (6) The PRTR Law was enacted in 1997 with step-by-step enforcement: firms’ man-
+agement in 2001, reporting in 2002 and disclosure in 2003. At the same time the MoE promoted pub-
+lication  of  environmental  reporting  and  adoption  of  an  environmental  accounting  system  by  firms
+through various guidelines and other publications starting from 1999.
+
+As a final exercise, we performed a statistical causality test like those in Tables 4 and 5 using the infor-
+mation  on  environmental  performance  of  only  those  companies  that  publish  relevant  environmental
+data in their environmental/social reports. For this purpose, we used the database managed by the Min-
+istry of Economy, Trade and Industry in Japan. The database, called Environmental Reporting Plaza,13
+collects  firms’  environmental/social  reports  for  various  sectors.  We  checked  the  companies  that  pub-
+lished  relevant  environmental  data  such  as  total  quantity  of  waste  recycling,  total  quantity  of  PRTR-
+related chemicals and environmental accounting data. A dummy variable for each category is constructed
+with the value 1 for a listing company and 0 for a company with no data. The environmental perfor-
+mance data used in our causality test program are then multiplied by the dummy variable and used as
+additional information.
+
+Table 6 summarizes the results. Compared with Table 5, positive contribution of environmental man-
+agement to the corporate bottom line is more highly significant and the relation has existed longer. Our
+study thus support the idea that governmental measures to encourage voluntary environmental infor-
+mation disclosure by private firms are effective informational instruments of environmental policy to
+encourage the transition toward a more sustainable market economic system.
+
+Acknowledgements
+
+The present study is part of research funded by the Ministry of the Environment for promotion of global environmental studies
+and conducted at Kansai Research Centre, Institute for Global Environmental Strategies. The authors wish to thank the anony-
+
+13 http://ecoreport.jemai.or.jp/ (in Japanese).
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+
+118
+
+Y. Nakao et al.
+
+(1) 2003–2000, 2002–1999
+
+(N = 1112)
+
+(2) 2003–2001, 2002–2000
+
+(N = 834)
+
+(3) 2003–2002, 2002–2001 
+
+(N = 556)
+
+F = 6.566
+P = 0.001**
+
+F = 2.424
+P = 0.064
+
+F = 1.128
+P = 0.337
+
+1 Resource cycling (recycling policy)
+
+F = 5.069
+P = 0.006**
+
+2. Pollution risk (PRTR system)
+
+F = 1.162
+P = 0.323
+
+3. Management system (environmental accounting guidelines)
+
+F = 0.513
+P = 0.673
+
+F = 11.634
+P = 0.000**
+
+F = 7.797
+
+P = 0.000**
+
+F = 3.504
+P = 0.015*
+
+Table 6. Causality test from environmental performance to ﬁnancial performance.
+** p < 0.01, *p < 0.05; N denotes sample size.
+
+mous referees of this journal for useful comments, which contributed to improve an earlier version of the present paper. They
+are also grateful to Professors Kanemi Ban of Osaka University and Hidenori Niizawa of the University of Hyogo for their
+helpful comments on an earlier draft.
+
+References
+
+Butz C, Plattner A. 2000. Socially Responsible Investment: a Statistical Analysis of Returns, Sarasin Basic Report.
+Hurlin C, Venet B. 2001. Granger Causality Tests in Panel Data Models with Fixed Coefficients, Draft, EURIsCO, Université Paris
+
+Dauphine.
+
+Kanda Y, Kitamura M. 2004. A study on comparability of environmental reports. In Corporate Environmental Reporting in Japan,
+Kokubu K, Hirayama K, Kansai Research Center (Institute for Global Environmental Strategies) (eds). Energy Conserva-
+tion Center: Tokyo; 51–87 (in Japanese).
+
+Konar S, Cohen MA. 2001. Does the market value environmental performance? Review of Economics and Statistics 83(2): 281–289.
+Ministry of the Environment. 2002. Environment-Friendly Company Survey of 2001 – Survey Report (in Japanese).
+Ministry of the Environment. 2004. Environment-Friendly Company Survey of 2003 – Survey Report (in Japanese).
+Molloy L, Erekson H, Gorman R. 2002. Exploring the Relationship between Environmental and Financial Performance, mimeo.
+Murphy CJ. 2002. The Profitable Correlation Between Environmental and Financial Performance: a Review of the Research. Light
+
+Green Advisors. http://www.lightgreen.com/files/pc.pdf
+
+Nihon  Keizai  Shimbun  and  Nikkei  Research  (eds).  2000.  The  3rd  ‘Nikkei  Environmental  Management  Survey’  Report.  Nihon
+
+Keizai Shimbun: Tokyo (in Japanese).
+
+Nihon  Keizai  Shimbun  and  Nikkei  Research  (eds).  2001.  The  4th  ‘Nikkei  Environmental  Management  Survey’  Report.  Nihon
+
+Keizai Shimbun: Tokyo (in Japanese).
+
+Nihon  Keizai  Shimbun  and  Nikkei  Research  (eds).  2002.  The  5th  ‘Nikkei  Environmental  Management  Survey’  Report.  Nihon
+
+Keizai Shimbun: Tokyo (in Japanese).
+
+Nihon  Keizai  Shimbun  and  Nikkei  Research  (eds).  2003.  The  6th  ‘Nikkei  Environmental  Management  Survey’  Report.  Nihon
+
+Keizai Shimbun: Tokyo (in Japanese).
+
+Nihon  Keizai  Shimbun  and  Nikkei  Research  (eds).  2004.  The  7th  ‘Nikkei  Environmental  Management  Survey’  Report.  Nihon
+
+Keizai Shimbun: Tokyo (in Japanese).
+
+Russo MV, Fouts PA. 1997. A resource-based perspective on corporate environmental performance and profitability. Academy
+
+of Management Journal 40(3): June 534–559.
+
+Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment
+
+Bus. Strat. Env. 16, 106–118 (2007)
+DOI: 10.1002/bse
+
+

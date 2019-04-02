@@ -1,0 +1,1878 @@
+MANAGEMENT SCIENCE
+Vol.  34. No.  9. September  1988
+
+Pnraed m US  A.
+
+THE  EFFECT  OF  UNIONS  ON  PRODUCTIVITY:
+
+U.S.  SURFACE  MINING  OF  COAL*
+
+PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF
+
+AND C.  A.  KNOX  LOVELL
+
+University  of North Carolina, Chapel Hill,  North Carolina 27514
+
+The purpose of this paper is to compare the abilities of two competing analytical techniques
+—mathematical programming and statistical regression—to shed light on the union/nonunion
+productivity  differential  in  U.S. surface  coal  mining.  The  programming  approach  has the
+virtues of being nonparametric (and thus extremely flexible) and of being able to provide a
+decomposition  of productivity  differentials  into three components—differences  in technical
+efficiency,  differences  in scale efficiency,  and differences  in con^stion. Identification  of these
+three components provides an aid to mam^ement in its search for the sources of, and  remedies
+for,  productivity  gaps. The econometric approach, on the other hand, is neither flexible nor
+does it provide such a decomposition; its chief virtue lies in the fact that, being stochastic, it
+allows for the presence of noise and measurement error that plagues most if not all empirical
+data. Thus, the two approaches have complementary virtues.
+
+The two techniques are used to investigate productivity in two samples of U.S. surface coal
+mines.  The  programming  approach finds a  lai^ge and  significant  positive  union/nonunion
+productivity differential. This differential  is due primarily to greater congestion occurring in the
+smaller nonunion mines in one sample, and to scale inefficiency in the smaller nonunion mines
+in the other sample. The econometric analysis finds nearly the same union/nonunion produc-
+tivity differential,  but sheds no light on the composition of, and thus the cure for, the  differ-
+ential.
+(EFFICIENCY;  MATHEMATICAL  PROGRAMMING;  STATISTICAL  ESTIMATION;
+UNIONIZATION)
+
+1.  In&'oduction
+
+It has been su^ested  by Freeman and Medoff (1979) that the neoclassical view of
+labor unions as using their monopoly power to raise wages, create resource misalloca-
+tion, and thereby to decrease productivity, is too narrow and may be misleading. They
+suggest that, through the provision of a collective voice mechanism, unions may reduce
+turnover, increase labor quality, and have the opposite imi^ct on productivity. The net
+effect  of these two contrary influences being uncertain, empirical testing is caU^  for.
+Indeed a quantification ofthe union/nonunion productivity differential would seem to
+be a necessary first step in the resolution of this important issue; only after the differen-
+tial has been measured can effort be redirected to a search for its monopoly power/col-
+lective voice roots.'
+
+The puipose of this paper is twofold. First, we seek to bring new empirical evidence to
+bear on the union/nonunion  productivity issue, by com(»ring productivity in union
+and nonunion mines in U.S. surface coal mining. The data tase consists of two geolc^-
+cally distinct  samples: a  1978 cross-section  of 84 midwestem  surface  mines, and an
+incomplete paael of 64 western surface rams& observed over all or part ofthe  period
+1975-1978 that provides a sample of size 113. In both samples we find productivity to
+be higher in union  mines than  in nonunion  mines, although the composition  of the
+productivity differential  is different  in the two samples. Thus we are able to document
+both direction and magnitude ofthe productivity differential. In addition, we are able to
+
+* Aaxpted by Arie Y. Lewin, former Dq>artmental Editor, received May 29, 1986. This paper has been
+
+with tte autte^s 2 months tat 2 reviaons.
+
+' M(K:h irftlM existii^ evidence is contistictory; it is surveyed by Freeman and Medoff (1984).
+
+1037
+
+0025-1909/88/34O9/lO37$01.25
+1988, TIK IK^UM  ctVtmtvmM  Sdencts
+
+
+1038  PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF  &  C.  A.  KNOX  LOVELL
+
+decompose the differential  into three sources to be described below. This decomposi-
+tion represents an important step beyond the usual direction/m^nitude finding that
+characterizes previous empirical stucUes. The significance of the decomposition lies in
+its ability  to  identify  distinct  components  of  the  productivity  differential  that  may
+eventually  be associated  with its monopoly  power/collective  voice roots that  would
+provide an explanation for the  differential.
+
+The second  purpose  of the  paper  is to compare  the  abilities of two very  different
+research strategies to quantify  and decompose the union/nonunion  productivity  dif-
+ferential.  The standard  approach  is to use econometric techniques to estimate a sto-
+chastic parametric production  function,  typically Cobb-Douglas, and to calculate the
+elasticity of unionization on output per unit of labor. This approach sheds light on the
+magnitude,  but  not  the composition,  of the productivity  differential.  An  altemative
+approach  is to use mathematical  programming techniques to bound, or envelop, the
+data with a nonstochastic nonparametric production frontier. This permits a compari-
+son of the productivity of each establishment and a decomposition  of measured pro-
+ductivity  into technical,  scale, and  congestion  components.^ This approach  has the
+distinct advantage of providing a nonparametric representation of production technol-
+ogy, the structure of which is determined by weak regularity conditions and by the data
+rather than by the investigator's choice of parametric form. Consequently it minimizes
+the likelihood that any union/nonunion productivity differential will be masked by the
+effects  of specification  error. The decomposition  of measured productivity also  offers
+the hope of associating observed union/nonunion  productivity differentials  with im-
+portant characteristics of production technology, and hence of providing guidance to
+management  searching  for  ways to enhance  productivity  in  each of the three  union
+contexts. The chief drawback of the nonparametric approach is that it is deterministic,
+with no allowance being made for noise and measurement error. Note, however, that
+the  strengths  of  the  programming  approach  are  the weaknesses  of  the  econometric
+approach,  and  conversely.  This  makes a  comparison  of the findings of the two ap-
+proaches of some  interest  from  a  methodological  standpoint.  From  an  institutional
+standpoint,  confidence  in  any  union/nonunion  productivity  differential finding de-
+pends on how closely the findings of two such disparate approaches agree.
+
+The paper is or^razsd  as follows. In §2 the theoretical underpinnings and the model-
+ling  framework  of  the  econometric  approach  are reviewed. In  §3 the  programming
+approach and  performance  measures are summarized.  The coal mining data are de-
+scribed in §4. The empirical findings of both the programming and the econometric
+approaches are presented and compared in §5. §6 concludes.
+
+2.  The Econometric Apprmich
+
+Since the influential  work of Brown and  Medoff  (1978), virtually aU econometric
+tests of the union/nonunion productivity differential have been based on the following
+model. Let production technolc^ be represented by the parametric production  func-
+tion
+
+(2.1)
+where  Q  is  output,  K  is  capital,  L« and  £„  are  nonunion  labor  and  union  labor,
+
+'', 
+
+^ The envelopment and productivity measurement stages of this a^Hoach have been cdled "data envelop-
+ment analysis" (DEA) by Chames, Cooper and their associates. See Oiames and Ox^jer (1985) for a »irvey
+and selective bibliography.  The decomposition  stage of this ajqjroach is not typicaUy a part of DEA; it is a
+logical extensimi  intencted to  characterize productivity scores in terms of the ^ructure (rf production tech-
+nology.
+
+
+EFFECT OF UNIONS  ON  PRODUCTIVITY 
+
+1039
+
+respectively, A  > 0, 0 < a  <  1, and /9 S  1  is a parameter reflecting  the productivity
+differential  between L« and L,. Next rewrite (2.1) as
+
+Q = <t,{K, Ln, Lu) = AK-L'-^l  + (/3 -  DP]'-", 
+
+(2.2)
+
+where I,  = £„ + £„ is total employed labor and P = LJL 
+employment. Dividing both sides of (2.2) by L and taking natural logarithms gives
+
+is the union  share in total
+
+(2.3)
+Applying the approximation relation In (1 + z) s  z to the last term on the right side of
+(2.3) yields
+
+l n ( ( 2 / L ) s l n^  + «ln(A:/L) + (l  - a ) ( / 3-  l)P, 
+
+(2.4)
+
+which is the core of the equation estimated by Brown and Medoff and by many others.
+The hypothesis of interest is /8 =  1  (no union productivity effect) against the two-sided
+alternative  j8 <  1 (a  negative  union  productivity  effect)  or /3 >  1 (a  positive  union
+productivity  effect).
+
+There are difficulties with (2.4) as a model for estimating union productivity  effects.
+First, the accuracy of the approximation of In [1 + (/S -  l)P] with [((8 -  l)P] deterio-
+rates as (8 diverges from  unity. Thus the larger is the union productivity effect in either
+direction, the larger is the approximation  error. Second, the Cobb-Douglas  specifica-
+tion restricts the elasticity of input substitution to unity, and so prejudges the ability of
+producers to substitute away from  higher-priced  union labor, and consequently con-
+strains the ability of the model to track the true productivity effect. Third, production is
+assumed to be efficient  regardless of the extent of unionization, and this precludes the
+exploration  of frequently  hypothesized  relationships  such as the contradictory  aigu-
+ments that unions create costly x-inefficiency,  or that costly unions shock management
+into reducing x-ineflBciency. Fourth, no decomposition of the productivity  differential
+is provided.
+
+All four of these difficulties can be addressed simultaneously. The next section shows
+how to accomplish this task, by constructing a nonparametric production frontier  for
+use as a standard against which to compute productivity across establishments having
+different  union status. The use of a frontier allows for a decomposition of productivity
+into different  types of efficiency,  and  the use of a  nonparametric  frontier  solves the
+functional  form and approximation error difficulties.
+
+3.  The Nonparametric Approach
+
+In this section we give a short description of the sequence of nonparametric models
+that we use. For a more complete discussion, see Fare, Grosskopf and  Lovell (1985)
+and Grosskopf( 1986).
+
+Assume there are k ratablishments, each producing a single output, u, using n inputs
+
+x = (xuX2,...,  Xn). Denote the(kX  1) vector of observed outputs by Jh., and denote
+the (k  X n)  matrix  of observed  inputs by N.  The research strategy is to construct  a
+sequence of* nonparametric frontier technolc^es of increasing generality which bound
+the data (M,  J»f) more and more closely. Linear pn^amming techniques are uaxi to
+construct these fi-ontier technologic, and to calculate the productivity of each estab-
+lishment relative to each technology. Relationships among the productivity  measures
+establish the sources of productivity differentials across establishments. Com(»risons of
+productivity measures across union and nonunion establishments then provide t^ts  of
+the union-productivity hypothesis.^
+
+' It s  not necesary ttat ^taMishments be aaegpdzed as either union or nonunion. The technique allows
+
+tfie  union vmkAOe to be "pocent nnkmixed" as well, in whidi case rankings of establishments by |»oductivity
+Mid by percent unionized can be compared.
+
+
+1040 
+
+PATRICIA  BYRNES.  ROLF  FARE,  SHAWNA  GROSSKOPF  & C. A. KNOX  LOVELL
+
+Our models can be summarized as
+
+min 6 
+
+subject to the output constraint
+
+(T.I)
+and  subject to a variety of input  constraints  and  constraints  on  the  intensity  vector
+z = ( z i , . . ., z*:) G 5?+. The input constraints are
+
+The intensity vector constraints are
+
+ii, 
+
+1 =1
+
+-Zz.^i, 
+
+(T.3(ii))
+
+zGJ^i, 
+
+2^, = 1. 
+1=1
+
+(T.3(iu))
+
+The  data  are  initially  enveloped  with a restrictive  technology  exhibiting  constant
+returns to scale (CRS)* and  strong disposability of inputs  (SDI).'  The  measure of
+productivity relative to this technology [K(u,x)]  is calculated by solving the program-
+ming problem
+
+K{u,x)  = mine 
+
+(3.1)
+The data are next enveloped with a slightly less restrictive technology, one satisfying
+nonincreasing returns to scale (NIRS)* and SDL The measure of productivity relative
+to this technology lW*(u,  x)]  is calculated by solving the programming problem
+
+(T.l),(T.2(i)),(T.3(i)). 
+
+s.t. 
+
+W*(u,x)  = mine 
+
+(3.2)
+In our third model we allow for variable returns to scale (VRS)^ and SDL The measure
+of productivity relative to this technology [W(u,x)]is  calculated by solving
+
+(T.l),(T.2(i)),(T.3(ii)). 
+
+s.t. 
+
+W(u,x)  = mind 
+
+(3.3)
+It is now possible to derive a measure of scale efficiency, which measures lost output
+due to deviation from  most productive scale size, i.e. from CRS. The measure of scale
+efficiency  [5'(«, x)] is given by
+
+(T.I), (T.2(i)), (T.3(iii)). 
+
+s.t. 
+
+S{u,x)^Kiu,x)/Wiu,x). 
+
+(3.4)
+
+•"CRS means that the set of (u, x) that satisfies the restrictions ofthe  technolc^ forms a cone: if (u, x)
+belongs to the technolc^y, then so does (Xu, Xx) if X g 0. Equiproportionate contractions and expanaons of
+^»bte  («, x) remain feasible.
+
+'  SDI means that if («, x)belongs to the technolo^, tlwn so does (u,x)ifxix.  Maiginal jAysical products
+are nonn^ative, isoquants have no backward-doping segments, and the technok^  contains no "unecono-
+mic" r^ons. The CoU>-E>ouglK production function (2.1) re|»iesents a technolc«y satisfying CRS and SDI.
+'  NIRS means that if (u, x) beioi^ to the technotc^, then so does (Xu, Xx) if 0 S X S 1. Equiproportionate
+
+contractions (but not necesarily expanaons) of fea»ble (u, x) remain  f^aUe.
+
+'  VRS may be inaweing, constant, or decreasing. The technolc^ exhibits IRS at (u, jc)e <?/{ =  {(«, x):
+
+z.*l£u,zJVSx,ze/{t,  Zf-iZ,«  l}if(X»,Xx)GInterior<?i?forl  < X <I  +<f{M-allc>ff,forsome<r>0.
+Tte technology exhibits DRSat(u,x)€G/;if(Xu,Xjr)EInterior(;/if(M'I  > X> 1-cfiM-an  (,0<(<ir,for
+some <r > 0.
+
+
+EFFECT OF UNIONS  ON  PRODUCTIVITY 
+
+1041
+
+From the preceding discussion it is clear that S(u,x)^ 
+I *=*K(u,
+x)  =  W{u,  x) <=»  the  technology  exhibits  CRS at (u, x). It also  follows  from  the
+preceding discussion that the nature of scale inefficiency  can be discovered by compar-
+ing Kiu,  x) and  W*{u,  x). Thus if 5(M, X) < 1  and K{u,  x) = W*(u,  x), then the
+technology exhibits increasing retums to scale (IRS) at (M, JC), while if 5(M, x) <  1 and
+lV*(u,  x),  then the technology exhibits decreasing retums to scale (DRS) at
+K{u,x)< 
+{u,x).
+
+1, and that S{u,x)= 
+
+The data are now enveloped with the least restrictive technology, one satisfying VRS
+and weak disposability  of inputs (WDI).* The measure of efficiency  relative to this
+technology [P(u,x)]  is calculated by solving the programming problem
+
+P{u,x)  = mine 
+
+s.t 
+
+(T.l),(T.2(ii)),(T.3(iii)). 
+
+(3.5)
+
+It is now possible to derive a measure of congestion, which measures lost output due
+to a lack of SDL Congestion occurs when an increase in the employment of a proper
+subset  of  inputs,  holding  constant  the  employment  of all  other  inputs, generates a
+reduction in output.' The measure of congestion [C{u, x)]  is given by
+
+C{u,x)=Wiu,x)/P(u,x). 
+
+(3.6)
+
+It is clear  that  C{u,  x) ^  1, and  that  C(M, x) =  1 *=» W(u,  x) = P(u,  x) *»»  the
+technology exhibits SDI at{u,x).  Moreover, it is possible to determine the source of
+congestion, that is, to identify  the proper subset of inputs that creates congestion, if it
+exists. Identification of the set of smallest fully congesting subsets of inputs proceeds as
+follows. Let J' and J'hea  partition of the set / ={ 1,...,«} of inputs into two parts and
+let x', x' and J^', JV* be the induced partitions of x and J^. Then compute
+
+W'{u,x)  = mine 
+
+s.t 
+
+(T.I), (T.2(iii)), (T.2(iv)),(T.3(iii)).  (3.7)
+
+If  W{u, x) =  W(u,  x) < P(u,  x), we say  that  J" = (J\J') 
+is a fully  congesting
+subvector. Moreover, if no proper nonempty subset of/"  is fully  congesting, then we
+call the set J' a minimal fully congesting subset of inputs. The set of all minimal fully
+congesting subsets (not  including the empty  set), is denoted  CJ, and  CJ is used to
+identify  inputs responsible for congestion.
+
+Finally, the measure of productivity relative to the most restrictive technology, the
+
+CRS-SDI technology, decomposes as
+
+K{u,x)  = Fiu,  x)-  5(w, x)•  C(u,  JC). 
+
+(3.8)
+
+Thus Ki u, x) is the product of technical efficiency relative to the VRS-WDI t«:hnology
+[P{u, JC)], scale efficiency  [S{u,  x)],  and congestion  [C(u,  JC)]. The nature of scale
+inefficiency  is determined  from  (3.4), and  the  source of congestion  is identified  by
+means of (3.7).
+
+' WDI means that if (u, x) belongs to the technology, so does («, Xx) for X £ 1. Maiginal physical products
+
+can be n^ative, isoquants can have backward-doping s^ments, and the techncrfogy can contain "unecono-
+mic" regions. However the size of these regions is limited by the ray monotonicity nature of WDI.
+
+' Formal treatments of congestion can be found in FBre and Svensson (1980) and FJIre and Grosski^f
+(1983). As tiie name implies, con^stion refers to an extreme input mix. one located in the uneconomic r^on
+of the technolc^ where WDI is satisfied but SDI is not  Borts and Midum (1962) noted that congestion h
+uneconomic in the sense that it is inconastent with-<»st minimizii^ behavior in the long run, an observation
+ficQuently  rqieated in the duality literature. However Btvts and Mi^an also noted that congestion migbt be
+an entirely economic consequent of product demand dufts in the (Hraence of fixity of a subset of inputs in
+the dKMt run. Reganlless of wlwther it is economic, howevw, congestion can occur whenever adjustmrat of a 
+suiset (rf inputs is constrained, whether by ^ort-mn fixity, or by lumixness, or by r^utecny or other extemal 
+constraint 
+
+|
+1-
+
+
+1042 
+
+PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF  &  C.  A.  KNOX  LOVELL
+
+4.  The Coal Mining Data
+
+The individual surface mine establishment data used to calculate and decompose the
+productivity measures are obtained from  a U.S. Department of Energy (DOE) annual
+survey sent to all mining operations producing at least  1,O(X) short tons of coal during
+the year.'" The data are comprised of two geologically distinct samples: a  1978 cross-
+section  of 84 Interior surface  mines and an incomplete panel of 64 Western  surface
+mines observed  over the period  1975-1978  that  provides a sample of size  113. The
+samples include all surface mines responding to the EXDE survey for which the union
+status of the mine's employees was known. "'^ A three-way classification  is employed:
+nonunionized, unionized but not affiliated  with the United Mine Workers of America
+(UMWA),  and  unionized  with  the  UMWA  affiliation.  This  classification  allows  a
+comparison  of the productivity of nonunion  and union mines, and an analysis of the
+productivity of UMWA and non-UMWA union mines. Table 1  provides a description
+of the two samples based on the union status classification.
+
+The Interior and West samples are not pooled in the empirical analysis, so that the
+productivity of individual mines is calculated relative to sampled mines in that region
+only. The reason for not pooling is that natural (geologic and topographic) conditions
+and the technology of surface  mining vary with geographic location. Surface  mining
+involves three procedures: (1) removal of overburden, the earth covering coal seams,
+using bulldozers, power shovels, wheel excavators and  draglines; (2)  coal extraction
+using drills,  power  shovels,  front-end  loaders and  trucks; and  (3)  land  reclamation
+using bulldozers, motor graders and carry-all scrapers. In the West, where seams are
+relatively  thick, and the amount of overburden that must be removed is relatively small
+compared to the amount of coal uncovered, open-pit mining is employed. Area-mining
+is the principal  method  employed  in the Interior, where rolling terrain  covers seams
+that  are  thin  and  deep  relative  to  those  in  the  West.  The  more  favorable  natural
+conditions in the West contribute to higher productivity there. Consequently the sepa-
+rate contributions of nature and union status to productivity can best be disentan^ed
+by keeping the two samples separate.''
+
+Descriptive statistics by region and union status are compiled in Table 2. The output
+variable (TOTPROD) has a much smaller mean value in the Interior than in the West.
+The mean values of the labor input (MINERHOUR), however, are fairly similar. The
+next six variables are the capital inputs. Since the ^uipment used to remove and return
+the overburden varies markedly by earth moving capacity, the first four capital inputs
+are  constructed  on  that  basis.  Earth  moving  capacity  is  dir^rtly  related  to  bucket
+capacity, which is the basis used to distinguish four sizes, with PSDLl  the number of
+
+'° DOE  Form  EIA-7,  "Bituminous  Coal  and  Lignite  Production  and  Mine  Operation."  This  survey  is
+comprehensive;  in  1978  respondents  to the  survey  accounted  for  approximately  90  percent  of  total  U.S.
+tonnage.
+
+'' The terms "Interior" and "West" refer to the two samites, and are two of the three major coal producing
+r^ons  of the U.S. The Interior sample includes surface  mines located in Arkansas, Illinois, Indiana, Iowa,
+Kansas,  Kentucky,  Missouri,  Oklahoma  and  Texas.  The  West  sam{rie  includes  sur&ce  mines  located  in
+Alaska,  Arizona,  Colorado,  Montana,  New  Mexico,  North  Dakota,  W a ^ n ^ on  and  Wyoming  (Utah  is
+excluded because all of its mines are underground mines). Deep minir^ isedominates in the third producing
+r^on,  Appalachia.  Institutional,  technoli^cal  and regulatory details are availaUe in Zimmerman  (1981).
+See also Byrnes, Fire and Grosskc^f (1984) for a nonparametric analysis of a small sample of Illinois strip
+mines not dassified by union status.
+
+'^ The union status of a mine is not a^ed on DOE Form EIA-7. It is based on the U.S. Department of Labor
+Mine  Safety  and  Health  Administration  mine  iaspeisac's  knowledge  of  the  union  statiu  of  the  mine's
+emirioyees. In some raises it is assumed tiiat if a company is unioni^d alt mines (^jer^ed by that company are
+unionized. For more on unions in «irbce mining see Zimmtxtiaa 
+
+(1981) and Navarro (1983).
+
+'^ The nature of tfw product is different, too. Cod mined in the IntniOT tends to have rdativeiy h^  sulfur
+
+and BTU omtent, wherras coal mined in the Wet  has rdatively low sulfiir and BTU  content
+
+
+EFFECT  OF  UNIONS  ON  PRODUCTIVITY
+
+1043
+
+TABLE 1
+
+Sample Description, by Union Status Class
+
+Sample Grouped By
+Mine's Union Status
+
+Nonunion
+
+Number of Mines
+Total Production*
+
+Other Union
+
+Number of Mines
+Total Production
+
+UMWA
+
+Number of Mines
+Total Production
+
+Total Sample
+
+Number of Mines
+Total Production
+
+Region Total in 1978
+Number of Mines
+Total Production
+
+Interior
+
+West [1978  figures]
+
+22
+
+2,277.95
+
+8
+
+15,448.00
+
+54
+
+47,116.15
+
+84
+
+64,842,10
+
+1215]
+
+1,643.26 [746.96]
+
+42 [10]
+
+88,541.33 [21,035,13]
+
+59 [14]
+
+108,059.21 [26,143.41]
+
+113 [29]
+
+198,243.80 [47,925.51]
+
+433
+
+102,822.00
+
+76
+
+134,100,00
+
+Notes: 'Total  production of all mines in the sample group is mea-
+sured in  1000 short tons of coal. For the West the total production of
+mines operating in  1978 is given in brackets for each group.
+
+Source: Energy  Information  Administration,  U.S. Department  of
+
+, Bituminous Coat and Lignite Production and Mine Operation.
+
+small power shovels and  draglines, and  PSDL2-PSDL4  the  number of lai^er power
+shovels and draglines, with PSDL4 the largest category. Two other capital variables are
+employed: DRILLS (the number of drills, front end loaders, and brooms weighted by
+value) and  RECCAP (the  number  of scrapers, bulldozers, and  graders weighted  by
+value). These describe the equipment used to remove coal and to reclaim mined areas,
+respectively. Based on the mean values of these variables, it is clear that Western mines
+are more productive; mines in the Interior use virtually the same amount of labor and
+(with the possible exception of PSDL3) more capital to mine less coal. This productiv-
+ity differential is attributable in part to re^onal differences in natural conditions, which
+are described in Table 2 by the thickness of the coal seams mined (BEDTHICK) and by
+the inverse of the amount of overburden removed (DEPTH ""')•''*
+
+Table 2 also shows substantial  variation  with  re^ject  to  union  status within  each
+sample. In the Interior, union  mines produce more coal than nonunion mines, using
+more labor and  more of  most types of capital.  Union  mines also have thicker coal
+seams, and more overburden  to remove to reach those thicker seams. The pattern is
+similar in the West, where union  mines use more labor and  more of most types of
+capital to produce more coal. They also remove more overburden to reach thicker coal
+seams. '* Two important  features emeige from an intra-sample comparison by union
+status. Union mines are larger than nonunion mines, and union mines face  different,
+but  neither  more  nor  less favorable,  natural  conditions  than  nonunion  mines. This
+
+"  DEPTH"' is used inaead of DEPTH so that both natural condition vmables are poatively related to
+output  Unfortunately  ttese  two natural  amdition  variables are  not directly  cranparable %:ross the two
+samples because of diferences in units of measurement for both variables. See TaUe 2.
+
+'' Variation in the mean value at BEDTHICK across tte three union status grcmps is statistic^y signiiicant
+
+in both sam{des. Variation in the mean value of DEPTH'' is not statistically sagnificant in either sample.
+
+
+1044  PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF  & C. A.  KNOX  LOVELL
+
+p p p p
+
+O O O  O
+
+p p p p
+
+p p p p
+p p p p
+
+•* o  •* •»
+
+p p p p
+
+8888
+o o o o
+
+8888
+o o o o
+
+8888
+o o o o
+
+CTs CN
+CN O
+
+o o — o
+
+r- o  00 00
+p ©  00 p
+-.-• d  d -•
+
+o o — o
+
+_  , Tt oo
+oo -^ oo oo
+CN 
+CN fS
+
+TT »o oc —
+•ri m  O  f*^
+I-- —. .-. 00
+-..  CN —
+
+o o o o
+
+vo Q  CS —
+OS O  VO ^
+c5 d d -^
+
+§8:oo cn
+OS oo
+d d d d
+
+oo —  f*^ 00 8888 8888 = 888
+
+—  CN O\
+
+.S,
+5
+
+Sa
+
+8888
+vo so f^ OS m  »n Ov rn o o o o
+
+8888
+o o d d
+
+8888
+o o o o
+
+•n O  O  CN
+O  — <n r~
+
+Ov 9 in
+•* vo  O
+CN  —
+
+o* in ^^ in
+—• rn .-.' c4
+r- —  Ov 00
+
+r^ -.- so
+O  cn CN
+•n Tf —
+CN  cn
+
+00 p — so
+d ~ — d
+
+O  -g- m so
+i~- p  P~ <n
+o  —• d  d
+
+o o — o
+
+p
+
+o d  —• d
+
+:8
+
+"3 2
+
+e
+
+
+EFFECT  OF  UNIONS  ON  PRODUCnVTTY
+
+1045
+
+o  p  o  p
+
+p  p  p  p
+
+p  p  p  p
+
+o  o  o  o
+
+•»  If  CS  <N
+Ov  <»>  O  O
+r-  r^ «  r5
+tt  ^  tn  o
+
+8 8 88
+o  o  o  o
+
+O  O  O  o
+
+o  o  o  o
+
+p  p  p  p
+
+p  p  p  p
+p
+
+p  p  p  p
+
+00  r^
+
+— r-
+r<^  00
+
+t^ 
+
+r^ 
+
+.-H—  00  o
+m m  *o
+
+8||8
+
+o  o  o  o
+
+o  o  o  o
+
+o  o  o  o
+
+o  o  o  o
+
+o  o  o  o
+00  00  00  00
+so  so  r^  t—
+—  -•  (N  r-i
+
+p  p  p  p
+O  TT in'  o
+
+o  o  o  o
+
+m  o  VO  o
+00  ^^  fl  00
+d  d  —• o
+
+-H  00  00  m
+
+O  —'  oo  —
+
+so  —  OS  —
+l~  -It  00 —
+1^  r<1  «  00
+
+so
+d  d  d  d
+
+—  fn  Os  m
+
+t  so
+
+
+1046  PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF  & C.  A.  KNOX  LOVELL
+
+makes  it  unlikely  that  any  observed  productivity  differentials  across union  status
+groups are the result of variation  in  natural conditions. This likelihood  is, however,
+explored further below.
+
+5.  Empirical  Results
+
+The basic issue is whether mines employing union labor operate more productively
+than mines employing nonunion labor, and whether mines affiliated  with the UMWA
+are more or less productive than mines having other union affiliations. In addition, the
+nonparametric  method  disaggregates  productivity  into  distinct  components,  and  so
+allows  the  exploration  of  specific  hypotheses  concerning  each  component,  such  as
+whether  unionization  "shocks"  management  into  reducing  technical  inefficiency,
+whether union  mines are more scale efficient  than  the smaUer nonunion  mines, and
+whether and for what reasons union mines are less congested than nonunion mines.
+
+A.  The Nonparametric Approach
+
+The first step is to  calculate  the  six performance  measures  developed  in  §3. The
+measures are calculated for the Interior and West samples separately, so as to allow the
+two samples to have different  frontier  technologies. '* Within each sample each of the
+six performance measures is calculated for every mine, although to conserve space only
+means and standard deviations are displayed in Table 3. The first column contains the
+composite productivity measure K{ u, x).  In the Interior sample variation in composite
+productivity across the three union status groups is statistically significant, with highest
+mean  productivity  occurring  in  mines  with  non-UMWA  union  labor,  followed  by
+UMWA  mines."  Moreover,  19 of  23  mines  having  productivity  scores  of  0.80  or
+higher are union  mines. For the sample as a whole, mean composite  productivity  is
+about 0.61, which suggests that nearly 40 percent of potential output is lost to  ineffi-
+ciency of one kind or another. The decomposition oiK{u,  x)  into its S(u,  x),  F{u,  x)
+and C{u,  x)  components shows congestion to be the primary source of inefficiency  in
+the Interior, although the relative importance ofthe three components varies by union
+status. Technical inefficiency poses no real problem for any union status group, and the
+uniformly high values of technical efficiency surest that unionization of Interior mines
+has neither created slack nor shocked management into reducing x-inefficiency.  Scale
+inefficiency  is serious only for nonunion mines, while congestion is a problem at both
+nonunion and UMWA mines.
+
+Union mines also have higher mean values of composite productivity than nonunion
+mines in the West sample, but with UMWA mines being more productive than other
+union mines. Thirty-three of 35 mines having productivity scores of 0.80 or higher are
+
+'^ A criticism frequently raised against (parametric or nonpanunebic) nonstochastic frontier models is that
+their structure, and any resulting inferences, are particularly sensitive to the existence of ostensibly productive
+outliers in the data base. This criticism  is valid in principle, and so both  samples have been searched  for
+productive outliers. None have turned  up; in each samide fully  20 percent of all mines appear in a basic
+solution at least once (i.e., have a composite productivity rating of 1.0). If this percentage were substantially
+smaller, say 5% or less, there might be cause for concern  that the empirical  results were being adversely
+influenced  by a small number of outliers that might contain measurement error. In this event chance-con-
+strained  programming techniques of Chames and Cooper (1959) might be iqiplied as a sort of sensitivity
+experiment. However a number as ^rgfi as 20% makes diis tedmique inadvisable.
+
+"  Significance of variation in any performance measure by union status is ev^uated usii% three tests. The
+first  test is an analysis of variance that compares union status groups on the basis ofthe within-group and the
+among-group variation in performance. The second test compares union status groups on the basis of their
+central  tendency,  as measured  by  the  median.  The third  te^  is a  Kniskal-Wallis test  that  compares the
+aructure ofthe distributions ofperformanceacroK  union status groups. AH three tests are significant for all 12
+union status comparisons, with tte exception ofF(u,  x) in the Interior and S{u, x)  in tiie W«t. Details are
+availaUe on  request.
+
+
+EFFECT  OF  UNIONS  ON  PRODUCTIVITY
+
+1047
+
+Efficiency Measure Means and Standard Deviations
+
+TABLE 3
+
+Sample
+
+K(u,x)
+
+W*(u, X)
+
+^u,x)
+
+S^u,x)
+
+F(u,x)
+
+C(u,x)
+
+Interior
+
+Nonunion
+
+(22)
+Other
+(8)
+
+UMWA
+
+(54)
+Total
+(84)
+
+West
+
+Nonunion
+
+(12)
+Other
+(42)
+
+UMWA
+
+(59)
+Total
+
+(113)
+
+0.4855
+(0.2311)
+0.9169
+(0.1359)
+0.6119
+(0.2605)
+0.6079
+(0.2675)
+
+0.3010
+(0.2897)
+0.4980
+(0.2443)
+0.7519
+(0.2170)
+0.6106
+(0.2818)
+
+0.4952
+(0.2361)
+0.9374
+(0.1165)
+0.6346
+(0.2551)
+0.6269
+(0.2659)
+
+0.3136
+(0.2887)
+0.5001
+(0.2431)
+0.8049
+(0.2003)
+0.6394
+(0.2893)
+
+0.6752
+(0.3043)
+0.9444
+(0.1064)
+0.6383
+(0.2561)
+0.6771
+(0.2723)
+
+0.3412
+(0.3169)
+0.5358
+(0.2681)
+0.8057
+(0.1999)
+0.6560
+(0.2911)
+
+0.7817
+(0.2425)
+0.9672
+(0.0469)
+0.9553
+(0.0668)
+0.9110
+(0.1547)
+
+0.9154
+(0.1056)
+0.9459
+(0.1017)
+0.9292
+(0.1100)
+0.9339
+(0.1061)
+
+0.9229
+(0.2040)
+0.9768
+(0.0657)
+0.9107
+(0.1997)
+0.9202
+(0.1917)
+
+0.8945
+(0.3304)
+0.7565
+(0.3090)
+0.9502
+(0.1147)
+0.8627
+(0.2472)
+
+0.7428
+(0.2829)
+0.9651
+(0.0670)
+0.7029
+(0.2188)
+0.7384
+(0.2387)
+
+0 4287
+(0.3036)
+0.7507
+(0.2451)
+0.8471
+(0.1735)
+0.7668
+(0.2497)
+
+union  mines. The  mean  composite efficiency  loss for  the West sample as a whole is
+virtually the same as for the Interior sample, and congestion remains the major source
+of efficiency loss, particularly among nonunion mines. Scale efficiency does npt vary by
+union status, and poses no problem. Technical efficiency does vary by union status, and
+poses no serious problem only at UMWA mines, suggesting that the shock effect  that
+was missing in the Interior exists in the West.
+
+Since  congestion  is  the  major  source  of  output  loss  in  both  samples,  and  of  the
+union/nonunion productivity differential  in the West, the source of that congestion is
+of considerable  interest.  The method  described  in  §3 is used to  isolate the  set of all
+minimal  fully  congesting  suteets  of  inputs  which  could  account  for  the  degree  of
+congestion calculated in the C{u,x)  measure for each mine. In Table 4 the number of
+mines in which any individual input appears in the set of all minimal fully congesting
+subsets is tabulated. The two inputs that appear most frequently  are the coal removal
+
+TABLE 4
+
+Congestion Analysis
+
+Number
+
+of
+
+congested
+
+mines
+
+10
+3
+45
+58
+
+to
+27
+47
+84
+
+Sample
+
+Interior
+
+Nonunion  (22)
+Other(8)
+UMWA (54)
+Total (84)
+
+West
+
+Nonunion  (12)
+Other(42)
+UMWA (59)
+Total (113)
+
+Number of mines in which each input appears in CJ
+
+MINERHOUR
+
+PSDLl
+
+PSDL2
+
+PSDL3
+
+PSDM
+
+DRILLS
+
+RECCAP
+
+6
+2
+32
+40
+
+9
+18
+19
+46
+
+5
+1
+23
+29
+
+0
+3
+7
+10
+
+2
+2
+36
+40
+
+0
+5
+18
+23
+
+0
+2
+11
+13
+
+0
+9
+II
+20
+
+0
+1
+14
+15
+
+0
+4
+5
+9
+
+9
+2
+40
+51
+
+9
+20
+34
+63
+
+5
+2
+34
+41
+
+9
+21
+35
+65
+
+
+1048 
+
+PATRiaA  BYRNES,  ROLF  FXRE,  S H A W NA  G R O K K O PF  &  C,  A,  KNOX  LOVELL
+
+and  reclamation  variables, DRILLS and  RECCAP. The lumpiness of these variables
+accounts for some of the congestion in both samples. Since small mines are more likely
+to experience lumpiness, this source of congestion is likely to be more severe in non-
+union  mines than  in  large  union  mines.  Moreover  the  land  reclamation  activity  is
+mandated by f^eral  and state legislation, and makes little or no contribution to coal
+production.  This  makes  it  very  likely  that  RECCAP,  and  any  other  input  used  in
+conjunction  with  RECCAP, will appear  frequently  in the set of minimal  congesting
+suteets of inputs. One of these  inputs is labor,  which  is employed  in virtually fixed
+proportions with the heavy machinery constituting RECCAP. And with only one ex-
+ception, UMWA mines in the West, RECCAP and MINERHOUR congest together. A
+second reason for the appearance of labor in the set of minimal congesting subsets of
+inputs is the  need to comply with mine safety regulations, such compliance being a very
+labor-intensive activity for all three union status groups.
+
+For the Interior sample it is deviation  from  optimal scale that is the major compo-
+nent of the union/nonunion  productivity differential.  The method described in §3 is
+used to determine whether each mine in both  samples operates under conditions of
+increasing, constant or decreasing returns to scale. A summary of these resxilts, indicat-
+ing the  frequency  with  which  increasing,  constant  or  decreasing  returns  to  scale is
+ol^erved  in each sample, appears in Table  S. In the Interior sample most  nonunion
+mines operate in the region of increasing returns to scale, whereas union mines operate
+much  more  frequently  in  the  region  of  nonincreasing  returns to  scale. In  the  West
+sample,  where  somewhat  less  scale  inefficiency  exists,  no  such  pattern  appears.  It
+follows that the union/nonunion productivity differential  in the Interior sample is due
+largely to the preponderance of inefficiently  small nonunion mines.
+
+Union mines are more productive than nonunion mines. This differential  has been
+attributed to union mines being less congested in the West sample, and to union mines
+being more scale-efficient in the Interior sample. However in both samples union mines
+are  endowed  with  significantly  thicker  coal  seams located  beneath  insignificantly
+greater  amounts of overburden.  Although natural  conditions do not  unambiguously
+favor union mines, it is nonetheless possible that a portion of the observed union/non-
+union productivity differential  is of geological origin. The problem is to disentangle the
+separate influences of union status and natural conditions on productivity.
+
+The proUem is resolved by r^ressing each of the six calculated efficiency  measures
+against the two natural condition variables and a pair of union status dummy variables
+
+TABLE 5
+
+Returns to Scale  Analysis
+
+Number of mines exhibiting
+
+Sami^
+
+IRS
+
+CRS
+
+DRS
+
+Interior
+
+Nonunion (22)
+Other (8)
+UMWA (54)
+Tot^ (84)
+
+West
+
+Nonuni(Hi(12)
+Other (42)
+UMWA (59)
+Total (113)
+
+15
+1
+11
+27
+
+6
+25
+8
+39
+
+1
+5
+14
+20
+
+1
+5
+20
+26
+
+6
+2
+29
+37
+
+5
+12
+31
+48
+
+
+EFFECT  OF  UNIONS  ON  PRODUCTIVITY
+
+1049
+
+in the two samples. The separate influences on productivity of natural conditions and
+union status can be inferred from the coefficients of regression models ofthe  form
+In
+
+BEDTHICK, + ajy In DEPTHr'  +
+
+, +  €y,, 
+
+(5.1)
+
++
+
+where i indexes mines and runs from  1  to 84 in the Interior and from  1  to  113 in the
+West;j = 1 , . . ., 6 indexes a type of performance measure; Zj, is the calculated value of
+the/th performance measure in the /th mine; tj, is a random disturbance; and Ul, and
+U2, are union status dummy variables defined by
+
+f 1 
+lO 
+
+{ 1 
+
+0 
+
+if mine / is nonunion.
+otherwise.
+if mine / h
+otherwise.
+
+is UMWA,
+
+(5.2)
+
+Results of the 12 regressions are displayed in Tables 6 and 7, for the Interior and West
+samples, respectively. It is clear that variation  in calculated  performance  measures is
+little  influenced  by  variation  in  the  two  natural  condition  variables.  The  estimated
+coefficient  of In BEDTHICK is insignificant in all  12 regressions. The estimated coeffi-
+cient of In DEPTH"' is insignificant in 6 of 12 regressions, and in 3 of 8 regressions in
+which a significant  portion of the variation in calculated performance is explained by
+the  model.  It  is equally  clear  that  variation  in  calculated  performance  measures  is
+
+TABLE 6
+
+Regression Results: Interior Sample (n -  84)
+
+Intercept
+
+In (BEDTHICK)
+
+In (DEPTH-')
+
+(oo)
+
+-2.32*
+1.07
+
+-2.15*
+1.06
+
+-2.82*
+1.09
+
+0.50
+0.54
+
+-1.47*
+0.75
+
+-1.35
+0.93
+
+(ai)
+
+0.14
+0.09
+
+0.14
+0.09
+
+0.15
+0.09
+
+-0.02
+0.04
+
+0.06
+0.06
+
+0.09
+0.08
+
+(as)
+
+-0.73*
+0.20
+
+-0.72*
+0.19
+
+-0.46*
+0.20
+
+-0.26*
+0.09
+
+-0.12
+0.14
+
+-0.35*
+0.17
+
+(F-Stat.)
+
+0.2061*
+(5.13)
+
+0.2110*
+(5.28)
+
+0.1555
+(3.64)
+
+0.2383*
+(6.18)
+
+0.0588
+(1.23)
+
+0.0992
+(2.18)
+
+-0.36*
+0.18
+
+-0.36*
+0.18
+
+-0.32
+0.18
+
+-0.05
+0.09
+
+-0.02
+0.13
+
+-0.29
+0.15
+
+0.30*
+0.15
+
+0.27
+0.15
+
+0.39*
+0.15
+
+-0.09
+0.08
+
+0.22*
+O.U
+
+0.17
+0.13
+
+Dependent
+Variable
+
+In K(u, x)
+
+Est. Coeff.
+St. Error
+
+In W* {u, X)
+Est. Coeff.
+St. Error
+In  W{u, X)
+
+Est. Coeff.
+St. Error
+In S(«, X)
+
+Est. Coeff.
+St. Error
+\nF(u,x)
+
+Est. Coeff.
+St. Error
+In Qu, X)
+
+Est. Coeff.
+St. Error
+
+Notes-. *Signiiicant at the 5% level.
+# The union ^atus dummy variaUes are d^ned as:
+
+Ul c
+
+1 
+
+U2-
+
+if Nonunion Status,
+
+otfierwise,
+
+if UMWA Status,
+
+1 
+
+.0  otherwise.
+
+
+1 0 50 
+
+PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF  &  C.  A,  KNOX  LOVELL
+
+TABLE 7
+
+Regression Results:  West Sample  (.n=  113)
+
+Intercept
+
+In (BEDTHICK)
+
+In (DEPTH  ')
+
+-0.48
+0.43
+
+-0.46
+0,40
+
+-0,40
+0,42
+
+-0,07
+0,13
+
+-0,34
+0,37
+
+-0,06
+0,34
+
+-0,01
+0,05
+
+-0.01
+0,05
+
+-0,01
+0,05
+
+-0,00
+0,02
+
+0,01
+0,05
+
+-0,02
+0,04
+
+(aj)
+
+-0.47*
+0,17
+
+-0,41*
+0,16
+
+-0,42*
+0.17
+
+-0,05
+0,05
+
+0,17
+0.15
+
+-0,59*
+0,13
+
+-0,09*
+0,04
+
+-0,11*
+0,03
+
+-0,10*
+0,04
+
+0,00
+0,01
+
+-0,05
+0,03
+
+-0,05
+0,03
+
+Dependent
+Variable
+
+In  K(u,x)
+
+Est, Coeff.
+St. Error
+In  W{u,  x)
+
+Est,  CoeS.
+St, Error
+In  W(u, X)
+
+Est, Coeff,
+St, Error
+In S(u,  x)
+
+Est, Coeff,
+St,  Error
+In F{u, X)
+
+Est, Coeff,
+St, Error
+
+In  C(u,x)
+
+Est, Coeff,
+St. Error
+
+Notes: *Significant  at the 5% level,
+#  The union status dummy variables are defined as:
+
+ri
+lo
+»  = (•
+10
+
+if Nonunion Status,
+
+otherwise.
+
+if UMWA Status,
+
+otherwise.
+
+U2#
+
+0.48*
+0.10
+
+0,56*
+0,09
+
+0.50*
+0,10
+
+-0,02
+0,03
+
+0,35*
+0.09
+
+0,15
+0.08
+
+(F-Stat.)
+
+0.4321*
+
+(20,54)
+
+0,5061*
+
+(27,66)*
+
+0.4431*
+
+(21.49)*
+
+0.0099
+(0,27)
+
+0,1710*
+(5.57)*
+
+0.3496*
+
+(14,51)*
+
+heavily influenced  by union status. The estimated coefficient  of the  union/nonunion
+dummy  variable  Ul  is consistently  negative  and  significant  in  both  samples.  The
+estimated  coefficient  of the  UMWA/other  dummy  variable  f/2  is negative  in  the
+Interior sample, positive in the West sample, and significant roughly half of the time. In
+both  sign  and  magnitude  these  union  status coefficients  are entirely  consistent  with
+earlier findings that ignored natural conditions. Consequently, controlling for the  ef-
+fects  of  natural  conditions  serves to reinforce earlier  conclusions.  Union  mines are
+more productive than nonunion mines. This difference is statistically s^ificant, and it
+is in no way dependent upon more favorable natural conditions.
+
+B.  The Econometric Approach
+
+The findings based on the nonparametric approach are largely corroborated by simi-
+lar findings based on the econometric approach. We implement the econometric ap-
+proach by ^timating regression models of the form
+In (Q/L)i  = In ^  + a,  In (K/L),  + aj In L, + aj In BEDTHICK,
+
+separately for each sample. The capital variable A^ is a value-weighted sum of tiie six
+capital inpute, and all other variables are as iwevioudy defined. '* R^ression results are
+
+"  We  have  also estimated  a  variety  of (Mher mocMs sugge^ed  by  Clark (1980),  indoding  mocfeis with
+disag^'^ated  caiNtal and inta%:tion terms invdvii^ the two dummy  vmial^s. The basic &ixy  of superior
+union performance revealed in Table 8 remains unchained. Details are availaUe cm reque^.
+
+€,  (5.3)
+
+
+EFFECT OF UNIONS  ON  PRODUCTIVITY 
+
+1051
+
+TABLE 8
+
+Regression Results for Econometric Model
+
+Coefficient  oP
+
+Interior
+
+Constant
+
+In (K/L)
+
+inL
+
+In BEDTHICK
+
+In DEPTH'
+
+Ul
+
+U2
+
+R^
+
+-4,956
+(-3,98)
+0,031
+(0,26)
+0,091
+(1,37)
+0,354
+(4,02)
+0,311
+(2,04)
+-0,181
+(-0,84)
+-0,303
+(-1,74)
+0,287
+
+West
+
+3,449
+(2,83)
+0,108
+(0,86)
+-0,562
+(-3,86)
+0,255
+(3,23)
+-0,456
+(-5,30)
+-0,840
+(-3,84)
+-0,381
+(-0,63)
+0.402
+
+•  Dependent  variable is In (QjL);  2-statistics
+
+are in parentheses,
+
+displayed in Table 8. The results are not very powerful in terms of goodness-of-fit,  but
+the parameter estimates do show the positive effect of unionization on productivity. In
+the Interior sample the estimated  coefficients  of both  union dummies are consistent
+with the findings ofthe  nonparametric analysis summarized in Tables 3 and 6. In the
+West  sample  the  estimated  coefficient  of  U\  is  consistent  with  the  nonparametric
+analysis of Tables 3 and 7, but the estimated coefficient  of Ul is not."
+
+The conclusion ofthe  parametric analysis is that unionized mines without UMWA
+affiliation  are more productive than unionized mines having UMWA affiliation, which
+in turn  are  more productive  than  non-unionized  mines. These  findings  are  broadly
+consistent  with  those  of  the  nonparametric  analysis  in  three  of  four  comparisons,
+despite the fact that they are based on a Cobb-Douglas description of technology that
+assumes the presence of SDI and the absence of VRS, and that imposes a greater degree
+of input substitutability than may exist in surface mining. This robustness of findings to
+variations in assumptions conceming the structure of technology is impressive.
+
+6.  Concloding Remarks
+
+The purpose of this study has been to compare the abilities of two different analytical
+techniques to shed light on the union/nonunion  productivity differential  in U.S. sur-
+face coal mining. The industry is of particular inter^t because ofthe diversity of union
+status  among  mines,  some  mines  having  collective  bargaining  ^reements  with  the
+UMWA, others with a number of other unions, and still others having no collective
+bargaining agreement with any union. This diversity of bargaining scenarios enhances
+the opportunity  to  identify  any  union/nonunion  productivity  differentials  that  may
+exist. A comparison  of the two analytical  tedmiques  is of inter^t  because they  are
+typically  viewed as competitors with different  and  lai]gely complementary  strengths.
+
+"In tte Interior sam|4e the imiriied c^ree (rf*homogeneity (1.09) is consistent with the nonparametric
+
+r«iiits of Tables 3 and 5. In the West sami^ tte imjdied degree (tf homc^endty (0,44) is too far below unity
+to be consstent  with tte  nonparametric  results, and tte  coefficient  of the DEPTH ~' vari:d>ie has the
+wrong ^ 1,
+
+
+1052 
+
+PATRICIA  BYRNES,  ROLF  FARE,  SHAWNA  GROSSKOPF  &  C.  A,  KNOX  LOVELL
+
+The mathematical  programming techniques featured  in this study have the virtues of
+being nonparametric, and thus highly flexible, and of being able to quantify  and de-
+compose productivity and its variation by union status. The decomposition property is
+particularly attractive since it provides guidance in the search for the sources of produc-
+tivity  variation.  The econometric  techniques employed  in  this  study  suffer  from  an
+inflexible  parametric representation of technology that restricts our ability to decom-
+pose productivity differentials, but they have the important advantage of accommodat-
+ing noise in the economic data being analyzed.
+
+The  mathematical  programming  techniques  reveal  a  large and  significant  union/
+nonunion  productivity  differential.  In the Interior sample most of this differential  is
+attributed to scale inefficiency  in the smaller nonunion mines. In the West sample the
+bulk of the differential is attributed to greater congestion occurring in the smaller, more
+labor-intensive, nonunion mines. These mines are much more likely to experience the
+lumpiness of the capital variable, and they are also more likely to be pushed into the
+"uneconomic region" of production by the input requirements of safety and environ-
+mental  legislation.  Even  though  this  legislation  is  directed  at  all  mines,  its  impact
+appears to be most severe in small nonunion mines. ^° In neither sample is the existence
+or the magnitude of the productivity differential  dependent  upon different  geological
+conditions that exist in the two types of mines.
+
+The conclusion of the econometric analysis is that non-UMWA union mines are the
+most productive, followed in order by UMWA mines and nonunion mines. This  find-
+ing is broadly consistent with the finding of the mathematical programming analysis,
+and inspires confidence in the general conclusion regarding union/nonunion  produc-
+tivity differentials in U.S. surface coal mining. Despite this broad consistency, however,
+the econometric approach is incapable of providing a decomposition of the productiv-
+ity  differential  into  its  technical,  scale and  congestion  components  without  using a
+more flexible parametric form to represent production technology. This is in our view
+the main weakness of the econometric approach.
+
+Two additional studies that would be of considerable value are unfortunately  ruled
+out  by a  lack  of appropriate  data  at the  level  of the  individual  mine. The first is a
+comparison of output per unit of input (or per unit of labor) and wages across the three
+union status groups. The second is a comparison of costs and/or profits across the three
+union status groups. Both nonparametric and econometric techniques have been devel-
+oped  for  this  purpose,  but  for  our  two  samples  the  requisite  input  price  data  are
+unavailable.^'
+
+^  Our  inefficiency  scores,  and  particulariy  their congestion  components,  may  appear  to  be  implausibly
+large, but two related findings of Neumann and Nelson (1982) may put our findings in perspective. Neumann
+and Nelson investigated the effects of the Coal Mine Health and Safety Act of  1969 on a sample of laiige and
+smalt underground mines. They find that compliance with the Act led to a  13% decline in labor productivity,
+and  that  the  impact  was  much  more  severe  in  small  mines  than  in  large  mines.  In  addition,  in  private
+correspondence,  an  environmental  impact  engineer with  Freeman  United  Coal Company,  a subsidiary  of
+General  Dynamics,  acknowlec^ed  that  the  productivity  scores  reported  here  were  quite  reasonable.  He
+attributes the low scores, and the low congestion scores in particular, to the dramatic effects of environmental
+and safety  r^ulation.  Still further documentation  of the deleterious effects of r%ulation  on productivity  in
+coal mining can be found in Harris (1985) and Nelson (1983),
+
+^' Center  for  Naval  Analyses,  Southern  Illinois  University  at  Caibondale,  and  the  Univeisity  of  North
+Carolina  at  Chapel  Hill.  Much  of  the  work  on  this  paper  was  done  while  the  authors  were  visiting  at
+Vanderbiit University and the Univeraty of Pennsylvania. Thanks go to these univemties tar tteir  ho^tal-
+ity, to the Coat R«earch Center at SIU-C for its flnandal suppoit, to John Myers for his assistance, to Ronald
+Warren  for his helpful  comments, to the  Man^ng  Editor, and to  three perceptive referees, one <rf° whose
+comments clarified and shortoied  tiK expodtion of §3.  ^  are absolved firom r^Kimiirility
+shortcomings.
+
+
+EFFECT  OF  UNIONS  ON  PRODUCTIVITY 
+
+1053
+
+References
+
+BORTS, G, H, AND  E, J, MiSHAN, "Exploring the 'Uneconomic Region' ofthe  Production Function," Rev.
+
+Economic Studies, 29, 3 (October  1962), 300-312,
+
+BROWN, C,  AND J,  MEDOFF, "Trade Unions in the Production Process," J. Political Economy, 86, 3 (June
+
+1978), 355-378,
+
+1959), 73-79,
+AND 
+
+BYRNES, P., R, FARE AND S, GROSSKOPF, "Measurii^ Productive Efficiency: An Application to Illinois Strip
+
+Mines," Management Sci., 30, 6 (June  1984), 671-681,
+
+CHARNES, A,  AND W,  W,  COOPER, "Chance Constrained Programming," Management Set., 6,  1 (October
+
+, "Preface to Topics in Data Envelopment Analysis," >4nn, Oper, J?«,, 2, 1 (1985),  1-36,
+CLARK, K,  B,, "Unionization and Productivity: Micro-Econometdc Evidence," Quart. J. Economics, 95,  4
+
+(December  1980), 613-639,
+
+FARE, R,  AND  S, GROSSKOPF,  "Measuring Congestion in Production," Z, Nationaldkonomie, 43 (1983),
+
+AND  C,  A,  K, LovELL, The Measurement of Efficiency of Production, KJuwer-Nijhoff, Boston,
+
+257-271,
+, 
+1985,
+AND L, SvENSSON, "Congestion  of Production  Factors," Econometrica,  48, 7 (November  1980),
+1745-1753,
+
+FliEEMAN, R, B, AND  J, MEDOFF, "The Two Faces of Unionism," Public Interest, 57 (Fall  1979), 69-93,
+
+AND 
+
+, What Do Unions Ddl, Basic Books, New York, 1984,
+
+GROSSKOPF, S, "The Role ofthe  Reference Technology in Measuring Productive Efficiency,"  Economic J.,
+
+96,  382 (1986), 499-513,
+
+HARRIS, R, A,, Coal Firms Under the  New  Social Regulation, Duke University Press, Durham, N.C, 1985,
+NAVARRO, P,, "Union Bargaining Power In the Coal Industry,  1945-1981," Industrial and  Labor Relations
+
+Rev., 36, 2 (January  1983), 214-229,
+
+NELSON, R, H,,  The  Making of Federal Coal Policy, Duke University Press, Durham, N,C,, 1983,
+NEUMANN, G,  R,  AND J,  P, NELSON, "Safety Regulation and Firm Size: Effects ofthe Coal Mine Health and
+
+Safety Act of 1969," /.  Law and Economics, 25, 2 (October  1982), 183-199,
+
+ZIMMERMAN, M,  B,, The U.S. Coal Industry—The Economics of Policy Choice, The MIT Press, Cambridge,
+
+MA,  1981,
+
+
+View publication stats
+View publication stats
+

@@ -1,0 +1,2548 @@
+Journal of Operations Management 28 (2010) 58–71
+
+Contents lists available at ScienceDirect
+
+Journal of Operations Management
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j o m
+
+The impact of supply chain integration on performance: A contingency
+and conﬁguration approach
+
+Barbara B. Flynn a, Baofeng Huo b,c,*,1, Xiande Zhao d,2
+a Kelley School of Business, Indiana University, 801 W. Michigan St., Indianapolis, IN 46202, United States
+b School of Management, Xi’an Jiaotong University, China
+c Centre for Supply Chain Management & Logistics, Li & Fung Institute of Supply Chain Management & Logistics, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+d Department of Decision Sciences and Managerial Economics, Faculty of Business Administration, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 15 February 2008
+Received in revised form 29 May 2009
+Accepted 8 June 2009
+Available online 17 June 2009
+
+Keywords:
+Supply chain integration
+Taxonomy
+Performance
+China
+Supply chain management
+
+This study extends the developing body of literature on supply chain integration (SCI), which is the
+degree to which a manufacturer strategically collaborates with its supply chain partners and
+collaboratively manages intra- and inter-organizational processes, in order to achieve effective and
+efﬁcient ﬂows of products and services, information, money and decisions, to provide maximum value to
+the customer. The previous research is inconsistent in its ﬁndings about the relationship between SCI
+and performance. We attribute this inconsistency to incomplete deﬁnitions of SCI, in particular, the
+tendency to focus on customer and supplier integration only, excluding the important central link of
+internal integration. We study the relationship between three dimensions of SCI, operational and
+business performance, from both a contingency and a conﬁguration perspective. In applying the
+contingency approach, hierarchical regression was used to determine the impact of individual SCI
+dimensions (customer, supplier and internal integration) and their interactions on performance. In the
+conﬁguration approach, cluster analysis was used to develop patterns of SCI, which were analyzed in
+terms of SCI strength and balance. Analysis of variance was used to examine the relationship between SCI
+pattern and performance. The ﬁndings of both the contingency and conﬁguration approach indicated
+that SCI was related to both operational and business performance. Furthermore, the results indicated
+that internal and customer integration were more strongly related to improving performance than
+supplier integration.
+
+ß 2009 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Researchers have long articulated the need for a close,
+integrated relationship between manufacturers and their supply
+chain partners (e.g., Lambert et al., 1978; Armistead and Mapes,
+1993). However, only recently has there been a call for a systematic
+approach to supply chain integration (SCI), as increasingly global
+competition has caused organizations to rethink the need for
+cooperative, mutually beneﬁcial supply chain partnerships (Lam-
+bert and Cooper, 2000; Wisner and Tan, 2000) and the joint
+improvement of inter-organizational processes has become a high
+priority (Zhao et al., 2008).
+
+* Corresponding author. Tel.: +1 317 278 8586; fax: +1 317 274 3312.
+
+E-mail addresses: bbﬂynn@iupui.edu (B.B. Flynn), bladehuo@hotmail.com
+
+(B. Huo), xiande@baf.msmail.cuhk.edu.hk (X. Zhao).
+
+1 Tel.: +852 3163 4493; fax: +852 3163 4492.
+2 Tel.: +852 2609 7650; fax: +852 2603 6840.
+
+0272-6963/$ – see front matter ß 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jom.2009.06.001
+
+The existing research on SCI, however, is characterized by
+evolving deﬁnitions and dimensions (Van der Vaart and van Donk,
+2008). While some focuses on the individual dimensions of SCI
+(Cousins and Menguc, 2006; Homburg and Stock, 2004; Koufteros
+et al., 2007), in particular customer and supplier integration, others
+use various omnibus deﬁnitions (Armistead and Mapes, 1993;
+Rosenzweig et al., 2003), examining SCI as a single construct. In
+addition, many conceptualizations of SCI are incomplete, leaving
+out the important central link of internal integration.
+
+These incomplete and evolving conceptualizations have led to
+inconsistent ﬁndings about the relationship between SCI and
+performance (e.g. Devaraj et al., 2007; Germain and Iyer, 2006; Das
+et al., 2006; Stank et al., 2001a). In order to fully understand SCI and
+its relationship to performance, there is a need to examine both
+how individual dimensions of SCI are related to different
+dimensions of performance, as well as how patterns of SCI are
+related to different dimensions of performance. This suggests
+taking both a contingency and a conﬁguration approach to
+studying SCI, echoing the appeal of Harland et al. (2007). In
+particular, it is important to apply both approaches within a single
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+59
+
+study, in order to determine whether the ﬁndings are due to the
+relationship between SCI and performance or are an artifact of the
+data collection and survey design.
+
+We build on this foundation, applying a contingency approach
+to examine the relationship between internal, customer and
+supplier integration and both operational and business perfor-
+mance. We suggest that customer and supplier integration
+moderate the relationship between internal
+integration and
+performance, building upon its foundation. We then apply a
+conﬁguration approach to delve more deeply into how the
+dimensions of SCI work together, in order to continue to learn
+about how various SCI patterns are related to performance. In
+relating SCI patterns to performance, we examine both operational
+and business performance measures, which allows drawing more
+comprehensive conclusions.
+
+An important question that this allows us to consider is whether
+SCI patterns that are either strong or balanced are more strongly
+related to speciﬁc performance measures, or whether organizations
+that have supply chains that are well integrated (strength) across the
+board (balance) will have better performance on all dimensions.
+These questions are important to decision makers because they
+provide insights about strategies for pursuing SCI.
+
+2. Theoretical background
+
+2.1. Deﬁnition of SCI
+
+The SCI construct is relatively new as an area of research,
+although there is an extensive body of research on unidimensional
+supply chain relationships, examining collaborative relationships
+between a manufacturer and either its customers or suppliers
+(Paulraj et al., 2008; Mabert and Venkataramanan, 1998; Spekman
+et al., 1998; Fawcett and Magnan, 2002). While some focus on dyadic
+relationships with supply chain partners (Lee and Whang, 2001),
+others focus on managing a supply chain as a single system, rather
+than attempting to individually optimize fragmented subsystems
+(Vickery et al., 2003; Naylor et al., 1999; Bowersox and Morash,
+1989; Hammer, 1990; Stevens, 1989). While some SCI deﬁnitions
+emphasize ﬂows of materials and parts, others focus more on ﬂows
+of information, resources and cash. Although these descriptions
+touch many of the critical elements of SCI, they are broad in focus. In
+addition, most fail to consider the strategic nature of SCI.
+
+We build upon the existing literature on the SCI construct,
+including the manufacturer (internal integration) and extending
+from it both directions (customer and supplier integration), and
+building upon its gaps to develop a parsimonious deﬁnition of SCI.
+The term ‘‘integration’’ is deﬁned as ‘‘the uniﬁed control of a
+number of successive or similar economic or especially industrial
+processes formerly carried on independently’’ (Webster’s 1966, p.
+1175). Applying this in a supply chain context, we deﬁne SCI as the
+degree to which a manufacturer strategically collaborates with its
+supply chain partners and collaboratively manages intra- and
+inter-organization processes. The goal is to achieve effective and
+efﬁcient ﬂows of products and services, information, money and
+decisions, to provide maximum value to the customer at low cost
+and high speed (Bowersox et al., 1999; Frohlich and Westbrook,
+2001; Naylor et al., 1999).
+
+This deﬁnition includes several important elements. First, we
+highlight the importance of strategic collaboration, which is an
+ongoing partnership to achieve mutually beneﬁcial strategic goals.
+It engenders mutual
+increases contract duration and
+encourages efﬁcient conﬂict resolution and sharing of information,
+rewards and risks (Ellram, 1990; Heide and John, 1990; Poirier and
+Reiter, 1996). While operational coordination can only lead to
+operational beneﬁts, strategic coordination provides both opera-
+tional and strategic beneﬁts (Sanders, 2008). This deﬁnition also
+
+trust,
+
+emphasizes intra- and inter-organization processes, since SCI is
+comprehensive and encompasses a variety of activities, including
+many that are focused on materials, transportation and admin-
+istrative tasks (Bowersox and Morash, 1989; Hillebrand and
+Biemans, 2003). Finally, we emphasize the customer-facing nature
+of SCI, stating that its primary objective is to provide maximum
+value for the customer.
+
+2.2. Dimensions of SCI
+
+Consideration of the dimensionality of SCI is important in
+understanding the way that the individual dimensions operate, as
+well as how they function jointly. Appendix A contains a summary of
+important previous studies investigating various dimensions of SCI.
+While some authors investigated SCI as a unidimensional construct
+(Armistead and Mapes, 1993; Marquez et al., 2004; Rosenzweig
+et al., 2003), others have broken SCI into internal and external
+integration (Campbell and Sankaranl, 2005; Morash and Clinton,
+1998; O’Leary-Kelly and Flores, 2002; Pagell, 2004; Petersen et al.,
+2005; Ragatz et al., 2002; Stank et al., 2001b; Stanley and Wisner,
+2001; Zailani and Rajagopal, 2005), and some have taken an even
+broader perspective, including multiple dimensions (Droge et al.,
+2004; Gimenez and Ventura, 2005; Koufteros et al., 2005;
+Narasimhan and Kim, 2002; Stank et al., 2001a; Vickery et al.,
+2003). While each of these dimensions represents an important
+aspect of SCI, there is a great deal of overlap between them, making it
+difﬁcult to untangle their relationships.
+
+We argue that the diverse dimensions of SCI can ultimately be
+collapsed into three dimensions: customer, supplier and internal
+integration. Customer and supplier integration are commonly
+referred to as external integration, which is the degree to which a
+manufacturer partners with its external partners to structure
+inter-organizational strategies, practices and processes into
+collaborative, synchronized processes (Stank et al., 2001b).
+Customer integration involves core competencies derived from
+coordination with critical customers, whereas supplier integration
+involves core competencies related to coordination with critical
+suppliers (Bowersox et al., 1999). In contrast, internal integration
+focuses on activities within a manufacturer. It is the degree to
+which a manufacturer structures its own organizational strategies,
+practices and processes into collaborative, synchronized processes,
+in order to fulﬁll its customers’ requirements (Cespedes, 1996;
+Kahn and Mentzer, 1996; Kingman-Brundage et al., 1995) and
+efﬁciently interact with its suppliers.
+
+Internal integration and external integration play different roles
+in the context of SCI. While internal integration recognizes that the
+departments and functions within a manufacturer should function
+as part of an integrated process, external integration recognizes the
+importance of establishing close, interactive relationships with
+customers and suppliers. Both perspectives are important in
+allowing supply chain members to act in a concerted way, to
+maximize the value of the supply chain.
+
+2.3. Contingency approach to SCI
+
+Contingency theory (Lawrence and Lorsch, 1967; Thompson,
+1967) argues that no theory or method can be applied in all
+instances, in other words, that there is no one best way to design an
+organization (Scott and Cole, 2000). It employs a reductionist
+approach, treating an organization as decomposable into inde-
+pendent elements (Sinha et al., 2005). The environment that an
+organization operates within shapes its structures and processes.
+This suggests that organizations should match their structures and
+processes to their environment, in order to maximize performance
+(Donaldson, 2001; Lawrence and Lorsch, 1967), and customers and
+suppliers are an important part of a manufacturer’s environment.
+
+
+60
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+Structural contingency theory (Chandler, 1962; Lawrence and
+Lorsch, 1967; Galbraith, 1973) suggests that how well an
+organization performs depends on the extent to which the strategy
+that it seeks to pursue is aligned with its design. This alignment
+between strategy and performance is described as ‘‘ﬁt’’ in the
+strategic management literature (Drazin et al., 1985; Venkatraman
+and Prescott, 1990; Milgrom and Roberts, 1995). Applied to SCI,
+structural contingency theory suggests that
+the individual
+dimensions of SCI should be aligned, in order to achieve the best
+performance.
+
+2.3.1. Relationship between internal integration and performance
+
+Just as internal ﬁt indicates consistency among structural
+characteristics within an organization (Drazin et al., 1985; Venkatra-
+man and Prescott, 1990; Milgrom and Roberts, 1995), internal
+integration recognizes that different departments and functional
+areas within a ﬁrm should operate as part of an integrated process.
+Because internal integration breaks down functional barriers and
+engenders cooperation in order to meet the requirements of
+customers, rather than operating within the functional silos
+associated with traditional departmentalization and specialization,
+it is expected to be related to performance. Although manufacturers
+may maintain a functional organization structure, customer orders
+ﬂow across functions and activities. When an order is delayed,
+customers do not care which function caused the delay; they simply
+want to know whether the order has been fulﬁlled. This calls for an
+integrated customer order fulﬁllment process, in which all involved
+activities and functions work together. Information sharing, joint
+planning, cross-functional teams and working together are impor-
+tant elements of this process.
+
+Selecting the appropriate performance measures is challenging,
+due to the inherent complexity and interdependence of supply
+chains. While Chen and Paulraj (2004a) argued that ﬁnancial
+performance should be the main measure of SC performance
+because of the shareholder proﬁt motive, others have described the
+limitations of relying solely on ﬁnancial measures of performance
+(Dixon et al., 1990; Eccles and Pyburn, 1992; Hall, 1983; Johnson
+and Kaplan, 1987; Skinner, 1971). Van Hoek (1998) and Beamon
+(1999) suggested that SC performance measurement should
+include operational indicators, such as customer service and the
+ability to respond to a changing environment. Neely et al. (1995)
+listed cost, time, quality, delivery and ﬂexibility as important
+measures of operational performance.
+
+Although some authors found no direct relationship between
+internal integration and operational performance (Koufteros et al.,
+2005; Gimenez and Ventura, 2005), others found a positive
+relationship between internal integration and operational perfor-
+mance, including process efﬁciency (Saeed et al., 2005) and logistics
+service performance (Germain and Iyer, 2006; Stank et al., 2001a,b).
+We argue that internal integration is the base for SCI and will be
+positively related to operational performance. Thus, we propose:
+
+H1a. Internal integration is positively related to the operational
+performance of the manufacturer within a supply chain.
+
+Stank et al. (2001b) described internal and customer integration
+as the most signiﬁcant differentiators of overall ﬁrm performance,
+and although the literature on the relationship between SCI and
+business performance is quite extensive (e.g. Droge et al., 2004;
+Frohlich and Westbrook, 2001, 2002; O’Leary-Kelly and Flores,
+2002; Rosenzweig et al., 2003; Swink et al., 2007; Zailani and
+Rajagopal, 2005), it is inconclusive. For example, while Droge et al.
+(2004) found that both internal and external integration were
+related to ﬁnancial performance and market share, Swink et al.
+(2007) found that the individual dimensions of SCI had differing
+impacts on business performance. More typical are studies that
+
+indirectly link SCI to business performance, for example, through
+improved product innovation (Koufteros et al., 2005) or opera-
+tional performance, or through a mediated or moderated relation-
+ship (Vickery et al., 2003; Rosenzweig et al., 2003; O’Leary-Kelly
+and Flores, 2002). Thus, we propose:
+
+H1b. Internal integration is positively related to the business
+performance of the manufacturer within a supply chain.
+
+2.3.2. Relationship of customer and supplier integration to
+performance
+
+According to structural contingency theory, external ﬁt
+indicates consistency between an organizational structure and
+the strategy it pursues in response to its external environment. As
+its external environment (in a supply chain, the characteristics of
+its customers and suppliers) changes, a manufacturer should
+respond by developing, selecting and implementing strategies to
+maintain ﬁt, not only among internal structural characteristics, but
+also with its external environment (Hambrick, 1983; Kotha and
+Nair, 1995; Tushman and Nadler, 1978). Thus, customer and
+supplier integration build on a manufacturer’s internal integration
+to form an important element of SCI.
+
+A close relationship between customers and the manufacturer
+offers opportunities for improving the accuracy of demand
+information, which reduces the manufacturer’s product design
+and production planning time and inventory obsolescence,
+allowing it to be more responsive to customer needs. Because
+customer integration generates opportunities for leveraging the
+intelligence embedded in collaborative processes,
+it enables
+manufacturers to reduce costs, create greater value and detect
+demand changes more quickly. Customer integration has been
+found to be related to customer satisfaction, both directly
+(Homburg and Stock, 2004) and indirectly, through its relationship
+to product development and innovation (Koufteros et al., 2005;
+Song and Di Benedetto, 2008).
+
+In an integrated supply chain, development of a strong strategic
+partnership with suppliers will facilitate their understanding and
+anticipation of the manufacturer’s needs, in order to better meet its
+changing requirements. This mutual exchange of information
+about products, processes, schedules and capabilities helps
+manufacturers develop their production plans and produce goods
+on time, improving delivery performance. By developing a good
+understanding of the manufacturer’s operations, suppliers achieve
+a high level of customer service, which,
+in turn, helps the
+manufacturers improve their customer service. Supplier integra-
+tion has been found to be related to product development
+performance (Petersen et al., 2005; Koufteros et al., 2007; Ragatz
+et al., 2002) and supplier communications performance (Cousins
+and Menguc, 2006). Others, however, have found no relationship
+between supplier integration and operational performance (Stank
+et al., 2001b) or a negative relationship (Koufteros et al., 2005;
+Stank et al., 2001a; Swink et al., 2007).
+
+The work of stage theorists suggests that internal integration is
+a prerequisite for both customer and supplier integration (Morash
+and Clinton, 1998). Their argument rests on the notion that
+external uncertainties and linkages must be internally absorbed
+into the proper places in an organization and that the primary
+impediment to achieving the beneﬁts of external SCI is intraorga-
+nizational barriers to internal integration. Customer and supplier
+integration extend internal integration’s elimination of functional
+silos to span across organizational boundaries. Thus,
+
+H2a. Customer and supplier integration are positively related to
+the operational performance of the manufacturer within a supply
+chain, given the relationship between internal integration and
+operational performance.
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+61
+
+H2b. Customer and supplier integration are positively related to
+the business performance of the manufacturer within a supply
+chain, given the relationship between internal integration and
+business performance.
+
+2.3.3. Moderating effects
+
+Contingency theory also suggests that individual dimensions of
+SCI will interact to affect performance. A manufacturer’s efforts in
+external supplier and customer integration help it take full
+advantage of its internal integration, in order to achieve better
+operational performance.
+
+Germain and Iyer (2006) found that the interaction between
+internal
+integration and customer integration was related to
+logistics performance, which in turn was related to ﬁnancial
+performance. Droge et al. (2004) found that internal integration
+moderated the effect of external integration on performance, and
+Devaraj et al. (2007) found that customer integration moderated
+the relationship between supplier integration and performance.
+We hypothesize two- and three-way interactions between the
+dimensions of SCI.
+
+H3a. Customer and supplier integration will moderate the rela-
+tionship between internal integration and operational perfor-
+mance.
+
+H3b. Customer and supplier integration will moderate the rela-
+tionship between internal integration and business performance.
+
+2.4. Conﬁguration approach
+
+Although the perspectives provided by the contingency
+approach contribute to the knowledge about SCI, this approach
+is somewhat limited. While it allows detailed examination of the
+relationship between the dimensions of SCI and performance, its
+reductionism causes it to be unable to handle complicated
+organizational phenomena from a holistic perspective. Because
+an organization is composed of many contingencies (Siggelkow,
+2001; Sinha et al., 2005), drawing conclusions about speciﬁc
+contingent relationships can be challenging. Results from a
+contingency approach can also be difﬁcult to interpret when
+some of the interactions are nonsigniﬁcant. A third issue related to
+the contingency approach is the multicollinearity between the
+independent variables that comprise a related construct like SCI
+that is often present.
+
+This suggests that additional analysis, based on a conﬁguration
+perspective, will be useful in analyzing the relationship between
+SCI and performance. Conﬁguration theory describes an organiza-
+tion as a set of interrelated activities. Rather than the pairwise
+the contingency approach focuses on, a
+relationships that
+conﬁguration approach views ﬁt
+‘‘gestalts’’ or
+conﬁgurations of various elements and their relationships (Drazin
+et al., 1985). The conﬁguration approach argues that, when
+organizational elements are consistent with each other, a holistic,
+rather than piecemeal, analysis should be applied (Miller, 1986;
+Ward et al., 1996). This approach is very useful in handling the co-
+alignment or ﬁt among multiple variables, such as the dimensions
+of SCI, and it is appropriate for handling complex relationships.
+
+in terms of
+
+2.4.1. Conﬁgurations of SCI
+
+The conﬁguration approach focuses on establishing patterns or
+proﬁles. According to conﬁguration theory (Miller, 1986), the
+alignment of strategy and systems or practices is reﬂected in the
+patterns observed in practice. This suggests a need to articulate
+emergent patterns of SCI. The inductive conﬁguration approach is
+data driven, applying an analytical approach to empirically
+
+develop a taxonomy. Taxonomies contribute to both theory and
+practice by providing ‘‘parsimonious descriptions which are useful
+in discussion, research and pedagogy’’ (Miller and Roth, 1994, p.
+286) and revealing ‘‘insights into the underlying structures of
+competition from the viewpoint of operations’’ (Zhao et al., 2006b,
+p. 622). They allow for the possibility of other patterns, which may
+have not been part of a theoretical typology, to emerge.
+
+Frohlich and Westbrook (2001) developed a taxonomy of
+different patterns or ‘‘arcs’’ of SCI and showed that they were
+related to performance differences. Their taxonomy included ﬁve
+types, including inward-, periphery- supplier-, customer- and
+outward-facing SCI types. It was based only on customer and
+supplier integration; it did not consider internal integration. In
+addition, their cutoff points were based on quartiles, so there are
+not necessarily signiﬁcant gaps between members of different
+groups. This suggests that an analytical grouping approach that
+develops groups based on signiﬁcant gaps between them, such as
+cluster analysis, may lead to a better understanding of various SCI
+patterns and how they are related to performance.
+
+Since different companies may place differing degrees of
+emphasis on the individual dimensions of SCI, various conﬁgura-
+tions of SCI exist. These patterns can be described in terms of their
+SCI strength and balance. SCI strength is the level or extent to which
+SCI activities are carried out. Many previous studies (Frohlich and
+Westbrook, 2001; Narasimhan and Kim, 2002; Petersen et al.,
+2005; Devaraj et al., 2007) have measured the strength of SCI,
+providing a benchmark for comparison. In contrast, SCI balance is
+the extent to which a company pays equal attention to all three
+dimensions of SCI. The literature indicates that manufacturers may
+not place equal emphasis on every dimension of SCI. While some
+may have well integrated internal systems, they may not have
+extended this approach to customers and suppliers, while others
+may be strong in customer or supplier integration and weaker in
+their internal integration.
+
+There is a need for a taxonomy which is based on signiﬁcant
+gaps between the groups, in order to have better insights about the
+relationship between SCI patterns and performance. In addition,
+the literature is notably lacking a taxonomy of SCI
+that
+incorporates internal integration, as well as customer and supplier
+integration. Thus, we propose:
+
+H4. An emergent taxonomy of manufacturers can be developed,
+based on their patterns of supplier, internal and customer inte-
+gration.
+
+2.4.2. Impact of SCI patterns on performance
+
+Conﬁguration theory suggests that the emergent patterns of SCI
+will be related to operational performance in different ways. It
+argues that organizations perform better when they develop better
+conﬁgurations of interconnected elements (Drazin et al., 1985;
+Sinha et al., 2005). For example, a SCI pattern which is stronger in
+customer integration is likely to have a stronger relationship to
+customer satisfaction than a pattern which is stronger in supplier
+integration. Furthermore, the relationship of SCI to performance
+may be determined by the pattern SCI, in terms of the strength and
+balance of the three dimensions. Therefore, we propose:
+
+H5a. The patterns of SCI are related to the operational performance
+of the manufacturer within a supply chain.
+
+Adding internal integration to the dimensions that Frohlich and
+Westbrook (2001) used in their taxonomy is expected to yield
+similar results, in terms of their relationship with performance,
+thus, we expect that manufacturers with the strongest overall SCI
+will have the best business performance. Supplier and internal
+integration help manufacturers reduce mistakes and waste,
+
+
+62
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+through information sharing and joint planning, which is directly
+related to business performance. Customer integration will help
+the manufacturer better understand customer requirements and
+better forecast customer demand, thus allowing the manufacturer
+to provide better quality products at lower cost and more ﬂexibly.
+These will, in turn, lead to better ﬁnancial performance by the
+manufacturer. Furthermore the effectiveness of SCI will be related
+to conﬁguration of the three SCI dimensions. Thus, we propose:
+
+H5b. The patterns of SCI are related to the business performance of
+the manufacturer within a supply chain.
+
+3. Research methodology
+
+3.1. Questionnaire design and measures
+
+We surveyed the literature to identify valid measures for
+related constructs and adapted existing scales to measure internal
+integration (Narasimhan and Kim, 2002), customer and supplier
+integration (Narasimhan and Kim, 2002; Morash and Clinton,
+1998), operational performance (Frohlich and Westbrook, 2001;
+Beamon, 1999; Vickery et al., 2003) and business performance
+(Narasimhan and Kim, 2002). When there were no reliable and
+valid existing measures, we developed new measures, based on our
+understanding of the constructs and our observations during
+company visits and interviews. The indicators were all measured
+using a seven-point Likert scale, where higher values indicated
+stronger integration or better performance. The complete scales
+are listed in Appendix B.
+
+Since the scales drawn from the literature were in English, the
+initial questionnaire was developed in English, then translated into
+Chinese by an operations management professor in China. The
+Chinese version was then translated back into English by another
+operations management professor, and the translated English
+version was checked against the original English version for
+discrepancies. In mainland China, we used the Chinese version of
+the questionnaire.
+In Hong Kong, a bilingual version of the
+questionnaire was used.
+
+There were two preliminary assessments of the questionnaire.
+First, we submitted the questionnaire to academicians and supply
+chain executives for their review. Next, we pre-tested it in a sample
+of ﬁfteen companies, which we visited to conduct face-to-face
+
+discussions. Based on the feedback, we modiﬁed the wording of
+some questions and added or deleted some, in order to ensure that
+the items were understandable and relevant to practices in China.
+
+3.2. Sampling and data collection
+
+Data were collected from manufacturing companies in China.
+Because of China’s size and economic diversity (Zhao et al., 2006a),
+we strategically selected ﬁve cities representing different stages of
+economic development. Chongqing is in the early stages of
+economic reform and market formation, while Tianjin reﬂects
+an average level. Guangzhou and Shanghai have enjoyed a higher
+degree of economic reform and marketization, and Hong Kong is
+one of the freest economies in the world. Although most Hong
+Kong companies house their manufacturing operations in main-
+land China, they use Hong Kong as the hub from which to control
+and direct the ﬂows of materials, ﬁnished goods, information,
+logistics and money.
+
+The research unit was the manufacturing company and its
+supply chain. To obtain a representative sample, we used the
+Yellow Pages of China Telecom in each of the four mainland China
+cities and the directory of the Chinese Manufacturers Association
+in Hong Kong as our sampling pool. For each randomly selected
+manufacturer, we identiﬁed a key informant, who typically had a
+title such as supply chain manager, CEO/president, vice president
+or director, and was knowledgeable about the company’s internal
+and external processes. We contacted the key informants by
+telephone, in order to obtain their preliminary agreement to
+participate.
+
+We mailed the questionnaire, along with a cover letter
+highlighting the study’s objectives and potential contributions.
+Follow-up telephone calls and mailings were used to improve the
+response rate (Frohlich, 2002) and address potential missing data
+issues. Out of 4569 companies contacted, a total of 1356
+questionnaires were distributed, and there were 617 usable
+questionnaires returned. The response rate was 13.5% based on
+the number of companies contacted via telephone and 45.5% based
+on the number of questionnaires distributed, comparable to other
+SCI studies (Devaraj et al., 2007; Koufteros et al., 2005; Rosenzweig
+et al., 2003; Swink et al., 2007). A proﬁle of the respondents is
+presented in Tables 1 and 2, indicating that they represent a variety
+of
+industries and their distribution is representative of the
+
+Table 1
+Proﬁles of responding companies.
+
+Industries
+Arts and crafts
+Building materials
+Chemicals and petrochemicals
+Electronics and electrical
+Food, beverage and alcohol
+Jewelry
+Metal, mechanical and engineering
+Pharmaceutical and medical
+Publishing and printing
+Rubber and plastics
+Textiles and apparel
+Toys
+Wood and furniture
+
+Sales
+<HK$5M
+HK$5–10M
+HK$10–20M
+HK$20–50M
+HK$50–100M
+HK$100 or more
+
+Overall
+
+n = 617
+
+Hong Kong
+
+n = 206
+
+Guangzhou
+
+n = 104
+
+Chongqing
+
+n = 104
+
+Shanghai
+
+n = 100
+
+Tianjin
+
+n = 103
+
+Percentage distribution
+
+1.9%
+5.0
+6.3
+13.1
+4.9
+0.5
+25.4
+1.8
+4.4
+6.6
+17.8
+1.3
+1.9
+
+0.5%
+1.9
+1.5
+13.6
+5.8
+1.0
+9.2
+2.4
+2.4
+9.2
+35.4
+3.9
+1.0
+
+Percentage distribution
+32.4%
+14.1
+12.4
+15.8
+10.2
+15.0
+
+9.1%
+9.1
+15.3
+22.2
+13.6
+30.7
+
+3.8%
+6.7
+8.7
+9.6
+5.8
+0.0
+28.8
+0.0
+1.9
+2.9
+14.4
+0.0
+3.8
+
+49.0%
+18.3
+4.8
+12.5
+9.6
+5.8
+
+4.8%
+8.7
+7.7
+11.5
+4.8
+0.0
+35.6
+3.8
+9.6
+2.9
+3.8
+0.0
+1.9
+
+33.7%
+12.5
+19.2
+16.3
+7.7
+10.6
+
+1.0%
+7.0
+8.0
+11.0
+1.0
+0.0
+42.0
+0.0
+7.0
+8.0
+10.0
+0.0
+0.0
+
+30.0%
+16.0
+12.0
+15.0
+15.0
+12.0
+
+1.0%
+3.9
+10.7
+19.4
+5.8
+1.0
+28.2
+1.9
+2.9
+7.8
+7.8
+0.0
+3.9
+
+56.3%
+18.4
+8.7
+8.6
+2.9
+4.9
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+63
+
+Table 2
+Respondent characteristics.
+
+Position
+
+% of
+respondents
+
+Years in current
+position
+
+% of
+respondents
+
+Top management
+Middle management
+
+Other
+
+39.9%
+56.9
+
+3.2
+
+1–3 years
+4–6 years
+
+7–12 years
+More than 12 years
+
+26.9%
+22.9
+
+24.6
+25.6
+
+concentration of industries in the cities studied. Most of the
+respondents have been in their position for more than three years;
+thus, they should be knowledgeable about the information
+requested.
+
+To assess potential late response bias, we compared early and
+late responses on their physical assets, annual sales and number of
+employees (Armstrong and Overton, 1977), with a t-test showing
+no signiﬁcant differences. Since there was a single informant per
+organization, the potential for common method bias was assessed.
+Analysis of Harmon’s single-factor test of common method bias
+(Podsakoff and Organ, 1986; Podsakoff et al., 2003; Hochwarter
+et al., 2004) revealed nine distinct factors with eigenvalues above
+or near 1.0, explaining 72.1% total variance. The ﬁrst factor
+explained 33.8% of the variance, which was not the majority of the
+total variance. It is acceptable for a study such as this, where the
+constructs are correlated, both conceptually and practically. To
+further assess common method bias, conﬁrmatory factor analysis
+was applied to Harman’s single-factor model (Sanchez and Brock,
+1996). The model’s ﬁt indices of x2 (986) = 11690.67, NNFI = 0.85,
+CFI = 0.86, RMSEA = 0.18 and SRMR = 0.13 were unacceptable and
+were signiﬁcantly worse than those of the measurement model.
+This suggests that a single factor is not acceptable, thus the
+common method bias is small. As a third test of common method
+bias, a measurement model including only the traits and one
+including a method factor, in addition to the traits, were tested
+(Widaman, 1985; Paulraj et al., 2008; Podsakoff et al., 2003;
+Williams et al., 1989). The results of the method factor model
+marginally improved model ﬁt (NFI by 0.01, NNFI by 0.01, CFI 0.01),
+with the common method factor accounting for 10.2% of the total
+variance. The path coefﬁcients of the trait factors and their
+signiﬁcance were similar between the two models, suggesting that
+they were robust, despite the inclusion of a method factor (Paulraj
+et al., 2008). This provides further indication that the common
+method bias is not a serious concern.
+
+3.3. Reliability and validity
+
+Each variable’s cumulative proportion was plotted against the
+cumulative proportion for several test distributions, revealing that
+the data appeared to be approximately normally distributed. The
+
+Table 3
+Descriptive statistics.
+
+scales were all reliable, with alpha values ranging from 0.84 to 0.94
+(see Table 3). Appendix B reveals that all items had strong loadings
+on the construct that they were intended to measure. The EFA
+results also indicate that all items have lower loadings on the
+constructs that they were not intended to measure. The results
+demonstrate construct unidimensionality. Content validity was
+established through a domain search of the literature, careful
+synthesis and critical evaluation of existing constructs and an
+iterative construct review by domain experts.
+
+We ﬁrst used CFA to evaluate convergent validity as suggested
+by O’Leary-Kelly and Vokurka (1998). Each measurement item was
+linked to its corresponding construct, and the covariance among
+the constructs was freely estimated. The model ﬁt indices were x2
+(976) = 4751.23, NNFI = 0.95, CFI = 0.95, RMSEA = 0.090 and
+SRMR = 0.070. Thus, the model was acceptable (Hu and Bentler,
+1999), indicating convergent validity (O’Leary-Kelly and Vokurka,
+1998). Furthermore, all factor loadings were greater than 0.50, the
+t-values were all greater than 2.0 (Droge et al., 2004; Koufteros
+et al., 2007; Narasimhan and Kim, 2002; Vickery et al., 2003), and
+each item’s coefﬁcient is greater than twice its standard error
+(Anderson and Gerbing, 1988), further demonstrating convergent
+validity. The estimates for the average variance extracted (AVE)
+were higher than 0.50 for four constructs, and 0.46 for the ﬁfth
+construct. While Fornell and Larcker (1981) suggested that the
+minimum AVE should be 0.50 and one of our constructs fall slightly
+below the minimum of 0.50, we satisﬁed the more detailed criteria
+set by several other studies as indicated above. Therefore our
+constructs have convergent validity.
+
+In order to assess discriminant validity, we built a constrained
+CFA model for every possible pair of latent constructs, in which the
+correlations between the paired constructs were ﬁxed to 1.0. This
+was compared with the original unconstrained model, in which the
+correlations among constructs were freely estimated. The x2
+difference demonstrated discriminant validity (Bagozzi et al.,
+1991; Chen and Paulraj, 2004b; O’Leary-Kelly and Vokurka, 1998).
+Furthermore, the average variance extracted (AVE) for each
+construct was greater than the squared correlation between that
+construct and the other constructs as suggested by Fornell and
+Larcker (1981), providing further evidence of discriminant validity.
+
+4. Results
+
+4.1. Contingency analysis of SCI
+
+Hierarchical regression analysis was used to test hypotheses 1–
+3. In the ﬁrst step, the direct effect of internal integration on
+operational and business performance was assessed. In the second
+step, we assessed the relationship of customer and supplier
+integration to operational or business performance, given the
+relationship between internal
+integration and operational or
+
+Correlation coefﬁcients
+
+Cronbach’s alpha
+
+Supplier
+integration
+
+Internal
+integration
+
+Customer
+integration
+
+Operational
+performance
+
+Business
+performance
+
+Supplier integration
+Internal integration
+Customer integration
+Operational performance
+Business performance
+
+Mean
+Standard deviation
+
+*p < 0.05. **p < 0.01.
+
+*** p < 0.001.
+
+1.00
+0.52***
+0.65***
+0.31***
+0.22***
+
+3.51
+1.41
+
+1.00
+0.59***
+0.40***
+0.35***
+
+4.05
+1.45
+
+1.00
+0.46***
+0.25***
+
+4.26
+1.26
+
+1.00
+0.31***
+
+5.43
+.97
+
+1.00
+
+3.99
+1.16
+
+0.94
+0.92
+0.90
+0.86
+0.94
+
+
+64
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+Table 4
+Regression results for operational performance.
+
+Model
+
+Independent variables
+
+1
+
+2
+
+3
+
+* p < 0.05, **p < 0.01.
+*** p < 0.001.
+
+Constant
+Internal integration
+
+Constant
+Internal integration
+Customer integration
+Supplier integration
+
+Constant
+Internal integration
+Customer integration
+Supplier integration
+II  CI interaction
+II  SI interaction
+CI  SI interaction
+II  CI  SI interaction
+
+b
+
+4.34
+.27
+
+3.78
+.14
+.27
+ .02
+
+3.55
+.16
+.30
+ .03
+.00
+.00
+ .06
+ .01
+
+t
+
+40.78***
+10.94***
+
+30.10***
+4.62***
+6.97***
+ .57
+
+19.90***
+4.75***
+7.47***
+ .93
+.15
+.10
+2.50*
+ .73
+
+R2
+
+.163
+
+.237
+
+.255
+
+F
+
+119.58***
+
+63.51***
+
+DR2
+
+–
+
+.074
+
+29.71***
+
+.017
+
+business performance. The third step assessed the relationship
+between two- and three-way interactions of internal, customer
+and supplier integration and operational or business performance,
+in order to determine whether there was a moderating effect.
+
+The results of the hierarchical regression analysis for opera-
+tional and business performance are contained in Tables 4 and 5.
+Table 4 indicates that there is a signiﬁcant direct relationship
+between internal integration and operational performance, sup-
+porting H1a. Adding customer and supplier integration to the
+model yielded a signiﬁcant change in R2, indicating that the
+addition of customer and supplier
+integration contributed
+signiﬁcantly to the predictive power of the model. However, only
+the coefﬁcient for customer integration was statistically signiﬁ-
+cant, indicating that customer integration was directly related to
+operational performance, given the relationship between internal
+integration and operational performance, while supplier integra-
+tion was not. Therefore, the results only partially supported
+hypothesis H2a.
+
+Adding the interaction terms further increased the predictive
+power of the regression model, which was statistically signiﬁcant.
+However, the interactions between customer or supplier integration
+and internal integration were not statistically signiﬁcant, while
+there was a signiﬁcant interaction between customer and supplier
+integration. Therefore, neither customer integration nor supplier
+integration moderated the relationship between internal integra-
+tion and operational performance, and H3a was not supported.
+
+Table 5 indicates that there is a direct positive relationship
+between internal integration and business performance, support-
+ing H1b. The addition of customer and supplier integration in step 2
+added very little to the predictive power of the model, and the
+change in R2 was not signiﬁcant. Similarly, the addition of the
+interaction terms in step 3 had very little effect. Thus H2b and H3b
+were not supported. Although internal integration was related to
+business performance, customer integration, supplier integration
+and their interactions were not.
+
+4.2. Conﬁguration analysis of SCI
+
+4.2.1. Emergent taxonomy of SCI
+
+H4 posits that an emergent taxonomy can be developed, based
+on the internal, supplier and customer integration of manufac-
+turers. Cluster analysis was used to classify the respondents into
+SCI patterns. Hierarchical clustering procedures determined the
+number of clusters that should be formed, then non-hierarchical
+clustering was applied to produce the ﬁnal clusters (Hair et al.,
+1998). The percentage of change in the agglomeration coefﬁcient
+was highest when the number of groups changed from ﬁve to four,
+indicating that ﬁve clusters were sufﬁcient (Fig. 1). A random
+sampling of dendrograms conﬁrmed that classiﬁcation using ﬁve
+clusters represented the best solution.
+
+In interpreting the results in Table 6 and Fig. 2, we examined SCI
+strength and balance. Two of the SCI patterns were stronger in
+
+Table 5
+Regression results for business performance.
+
+Model
+
+Independent variables
+
+1
+
+2
+
+3
+
+*p < 0.05. **p < 0.01.
+
+*** p < 0.001.
+
+Constant
+Internal integration
+
+Constant
+Internal integration
+Customer Integration
+Supplier integration
+
+Constant
+Internal integration
+Customer integration
+Supplier integration
+II  CI interaction
+II  SI interaction
+CI  SI interaction
+II  CI  SI interaction
+
+b
+
+2.85
+.28
+
+2.73
+.25
+.04
+.03
+
+2.53
+.27
+.05
+.05
+.02
+.01
+ .03
+ .01
+
+t
+
+21.91***
+9.29***
+
+17.00***
+6.42***
+.78
+.60
+
+11.00***
+6.33***
+.87
+1.02
+.71
+.29
+ .96
+ 1.08
+
+R2
+
+.123
+
+.126
+
+.131
+
+F
+
+86.24***
+
+29.38***
+
+DR2
+
+–
+
+.003
+
+13.08***
+
+.005
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+65
+
+Fig. 1. Change of percentage in agglomeration coefﬁcient.
+
+Supplier integration
+
+Internal integration
+
+Customer integration
+
+1.83
+4.06
+5.47
+2.36
+3.59
+
+2.02
+3.38
+5.43
+4.16
+5.24
+
+2.66
+4.28
+5.67
+3.63
+4.87
+
+492.03***
+
+400.66***
+
+244.55***
+
+n
+
+111
+151
+111
+108
+136
+
+Table 6
+Cluster centroids.
+
+Low uniform
+Medium uniform
+High uniform
+Medium customer leaning
+High customer leaning
+
+F
+
+*p < 0.05. **p < 0.01.
+
+*** p < 0.001.
+
+internal and customer integration than they were in supplier
+integration. We labeled these the Medium Customer Leaning and
+High Customer Leaning SCI patterns and describe them as
+unbalanced SCI patterns. The other three SCI patterns were
+balanced, with similar levels of customer, supplier and internal
+integration within each pattern. We labeled these the Low
+Uniform, Medium Uniform and High Uniform SCI patterns,
+reﬂecting their balance between customer, supplier and internal
+integration. Canonical discriminant analysis was used to identify
+the underlying dimensions which deﬁned the clusters. Table 7
+shows that the ﬁrst two functions had eigenvalues larger than 1,
+explaining 99.9% of the variance. Table 8 reveals that all three
+dimensions of SCI were important in forming Function 1, which
+divided the clusters into those with low (Low Uniform), medium
+(Medium Customer Leaning and Medium Uniform patterns) and
+high SCI (High Customer Leaning and High Uniform patterns).
+Thus, Function 1 represents SCI strength, and it was the greatest
+differentiator between the patterns.
+
+Function 2 reﬂects SCI balance, indicated by the positive loading
+of customer and internal integration and negative loading of
+supplier integration. It divides the patterns into those with greater
+(High, Medium and Low Uniform patterns) and less (High and
+Medium Customer Leaning patterns) SCI balance. Although
+statistically signiﬁcant, this difference between the patterns was
+
+weaker than their difference in SCI strength. Fig. 3 indicates that
+the clusters were differentiated from each other by the discrimi-
+nant functions representing SCI strength and SCI balance. Between
+96.3% and 98.7% of the respondents were correctly classiﬁed,
+indicating very high predictive ability. Thus, these patterns of SCI
+are independent and are not prone to misclassiﬁcation. We
+conclude that manufacturers can be clustered into groups with
+differing levels of SCI strength and balance, based on customer,
+supplier and internal integration, supporting H4.
+
+4.2.2. Relationship between SCI patterns and performance
+
+Analysis of variance was used to test the relationship between
+SCI patterns and performance. Table 9 indicates that there were
+statistically signiﬁcant differences in operational performance
+between the SCI patterns, supporting H5a. Scheffe post hoc analysis
+was used to determine differences between speciﬁc patterns. The
+High Uniform pattern had the best operational performance,
+followed by the High Customer Leaning pattern. This indicates that
+SCI strength was more strongly related to operational performance
+than SCI balance.
+Interestingly, there was not a signiﬁcant
+difference in operational performance between the High Uniform
+and High Customer Leaning patterns of SCI. Similarly, there was
+not a signiﬁcant difference in operational performance among the
+Medium Uniform, Low Uniform, and Medium Customer Leaning
+patterns of SCI.
+
+Table 9 also shows the relationship between SCI pattern and
+business performance, revealing that the High Uniform and High
+
+Table 7
+Discriminant analysis.
+
+Function
+
+Eigenvalue
+
+% of variance
+
+Cumulative %
+
+Canonical correlation
+
+1
+2
+3
+
+5.862
+1.055
+0.007
+
+84.7%
+15.2
+0.1
+
+84.7%
+99.9
+100.0
+
+0.924***
+0.717***
+0.086
+
+Fig. 2. Taxonomy of supply chain integration.
+
+*p < 0.05. **p < 0.01.
+
+*** p < 0.001.
+
+
+66
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+Table 8
+Standardized canonical discriminant function coefﬁcients.
+
+Function 1
+
+Function 2
+
+Customer integration
+Supplier integration
+Internal integration
+
+0.490
+0.613
+0.538
+
+0.047
+ 0.708
+0.779
+
+Fig. 3. Cluster centroids.
+
+Customer Leaning patterns had the best business performance, and
+that there was no signiﬁcant difference between them, supporting
+H5b. The Low Uniform pattern of SCI had the worst business
+performance score. Integration strength was more important than
+integration balance in business performance.
+
+5. Discussion
+
+We found that most of our hypotheses were supported or
+partially supported, broadly indicating that SCI
+is related to
+performance. Speciﬁcally, by applying the contingency approach,
+we found that internal integration was directly related to both
+business and operational performance and that customer integra-
+tion was directly related to operational performance. Although
+supplier integration was not directly related to either type of
+performance, the interaction of supplier and customer integration
+was related to operational performance.
+
+internal
+
+When we compare our results with those from previous
+research on SCI, our ﬁnding that
+integration was
+signiﬁcantly related to operational and business performance is
+consistent with several studies (Droge et al., 2004; Stank et al.,
+2001a,b; Germain and Iyer, 2006). Thus, our research reinforces the
+importance of internal integration in improving performance. This
+is an important ﬁnding, since much of the extant literature on SCI
+does not include internal integration as a dimension of SCI. Our
+ﬁnding that customer integration was signiﬁcantly related to
+operational performance is consistent with the ﬁndings of several
+previous studies (Germain and Iyer, 2006; Koufteros et al., 2005).
+However, Devaraj et al. (2007) found that customer integration did
+not have a signiﬁcant direct effect on operational performance, but
+only moderated the effect of supplier integration on operational
+
+Table 9
+Analysis of variance.
+
+performance. Our ﬁnding that supplier integration is not directly
+related to operational performance is supported by Stank et al.
+(2001a). In general, the literature on the relationship of supplier
+integration with performance has very mixed ﬁndings. While some
+studies (Koufteros et al., 2005; Swink et al., 2007) found that
+supplier integration was negatively related to certain aspects of
+operational performance, Devaraj et al. (2007) found a positive
+relationship between supplier integration and operational perfor-
+mance.
+
+The comparison of our research ﬁndings with those of previous
+studies indicates that examination of the effect of the individual
+dimensions of SCI on performance was not sufﬁcient. The
+relationship of SCI to performance can only be fully examined
+when all three dimensions of SCI are considered together. Studies
+which consider only one or two dimensions of SCI often lead to
+confusing results. For example, our analysis showed that supplier
+integration, in isolation, was signiﬁcantly related to operational
+and business performance, however, this analysis did not consider
+internal integration. The relationship between supplier integration
+and operational and business performance became insigniﬁcant
+when internal integration was added to the model. Furthermore,
+supplier and customer integration often have different relation-
+ships to performance. Therefore, studies that aggregate supplier
+and customer integration in a single construct (external integra-
+tion) may be drawing inaccurate conclusions.
+
+Our ﬁndings indicate that supplier integration is important to
+performance, but in a different way than internal and customer
+integration are. While customer integration was signiﬁcantly related
+to operational performance both directly and through its interaction
+with supplier integration, supplier integration was only signiﬁcant as
+part of the interaction term. Since the objective of SCI is to provide
+maximum value to the customer, the measurement of operational
+performance is necessarily customer-oriented. Supplier integration
+may not contribute to operational performance directly, but instead
+interacts with customer integration in improving operational
+performance, reﬂecting the importance of manufacturers’ integra-
+tion with both downstream and upstream supply chain partners. Our
+study also indicates that, while internal integration was positively
+related to business performance, supplier and customer integration
+were not directly related to business performance. This may be
+because customer and supplier integration are related to business
+performance through operational performance.
+
+Overall,
+
+the contingency approach reveals that
+
+internal
+integration forms the foundation upon which customer and
+supplier integration build. This suggests that companies should
+begin SCI with internal integration, laying the foundation for
+customer and supplier integration. This is a particularly important
+ﬁnding, since much of the prior research has failed to include
+internal integration, instead focusing only on customer and/or
+supplier integration. This suggests that the best approach to SCI is
+to start by developing internal integration capabilities and then to
+build external customer and supplier integration capabilities.
+
+The conﬁguration approach showed that the overall SCI
+construct was related to both operational and business perfor-
+mance. Because supply chain strength was more strongly related to
+performance than supply chain balance, the best performance was
+
+Medium customer
+leaning (cluster 1)
+
+High customer
+leaning (cluster 2)
+
+Operational performance
+Business performance
+
+5.18 (2,5)
+3.99 (3,5)
+
+5.79 (1,3,4)
+4.30 (3,4)
+
+Low uniform
+(cluster 3)
+
+4.96 (2,5)
+3.42 (1,2,5)
+
+Medium uniform
+(cluster 4)
+
+5.12 (2,5)
+3.73 (2,5)
+
+High uniform
+(cluster 5)
+
+6.12 (1,3,4)
+4.50 (1,3,4)
+
+F
+
+38.67***
+18.20***
+
+Numbers in parentheses indicate the cluster(s) from which that cluster is signiﬁcantly different at p < 0.05. *p < 0.05. **p < 0.01.
+
+*** p < 0.001.
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+67
+
+achieved by manufacturers which were strong across the board in
+internal, customer and supplier integration. However, because the
+High Customer Leaning pattern was indistinguishable from the
+High Uniform Pattern, in terms of its relationship to performance,
+this means that both patterns have a similar effect. Thus, if a
+manufacturer has limited resources or is early in its SCI efforts, it
+can start by establishing a foundation of internal integration, then
+follow on by developing strong customer integration. The ﬁnding
+that the emergent SCI patterns are related to different levels of
+performance provides signiﬁcant implications for companies to
+pursue the better performance through better SCI conﬁguration
+(Das et al., 2006; Frohlich and Westbrook, 2001).
+
+It is interesting to compare the results of our taxonomy, which
+included internal
+integration as a taxon, with Frohlich and
+Westbrook’s (2001) taxonomy, which did not include internal
+integration. Our High Uniform pattern is similar to their Outward-
+Facing pattern, which included the upper quartile of both customer
+and supplier integration, and our High Customer Leaning pattern is
+similar to Frohlich and Westbrook’s (2001) Customer-Facing pattern.
+Our Medium Uniform pattern is similar to their Periphery-Facing
+pattern, which includes the medium quartiles of customer and
+supplier integration, and our Low Uniform pattern is similar to their
+Inward-Facing pattern. Only our Medium Customer Leaning pattern
+did not correspond to any pattern in Frohlich and Westbrook’s (2001)
+taxonomy. Similarly, we found that a pattern corresponding to
+Frohlich and Westbrook’s (2001) Supplier-Facing pattern did not
+emerge in our taxonomy. However, our ﬁndings about the relation-
+ship between SCI patterns and performance generally support those
+of Frohlich and Westbrook (2001).
+
+insight
+
+The conﬁguration approach also reveals that the effect of SCI is
+cumulative, providing signiﬁcant
+for companies in
+implementing it. Improvements in SCI will not lead to improved
+operational performance, when the level of SCI is relatively low
+(from Low Uniform to Medium Customer Leaning or Medium
+Uniform). However, once a threshold level of SCI has been
+achieved, further improvements in SCI, even small improvements,
+will be associated with signiﬁcantly improved operational
+performance.
+
+The ﬁndings from the contingency approach and those from the
+conﬁguration approach are complementary. On one hand, the
+contingency approach found that internal and customer integra-
+tion are the differentiators of performance and that supplier
+integration is not directly related to performance. The non-
+signiﬁcant difference between the performance of the High
+Uniform pattern and that of the High Customer Leaning pattern
+in the conﬁguration approach echoes this contingent ﬁnding. On
+the other hand, the contingency approach found that each
+dimension of SCI and the interactions between them are related
+to performance, which was overlooked by the conﬁguration
+approach. However,
+the conﬁguration approach found that
+companies’ SCI pattern is related to performance and SCI capability
+is cumulative in improving performance, which was not revealed
+by the contingency approach. Thus, it is important that research on
+SCI continue to apply both a contingency and a conﬁguration
+approach to tease out all important relationships.
+
+6. Conclusions and limitations
+
+This study extends the existing research on SCI in several
+important ways. First, it adds to the literature by empirically
+testing the relationship between SCI and performance. In including
+both internal and external integration and their interactions, and
+incorporating both operational and business performance, this
+study adds greater comprehensiveness and richness to the SCI
+literature and enhances our understanding of the impact of SCI on
+performance.
+
+Second, this research describes SCI
+
+in three dimensions:
+internal, customer and supplier integration, ﬁnding that internal
+integration forms the foundation upon which customer and
+supplier integration build. It further develops a taxonomy of SCI
+based on internal, customer and supplier integration. Although
+Frohlich and Westbrook’s (2001) taxonomy identiﬁed ﬁve SCI
+patterns based on customer and supplier integration, internal
+integration was not included in their dimensions. Similarly,
+Devaraj et al. (2007) considered only supplier and customer
+integration, but did not include internal integration. Droge et al.
+(2004) considered internal and external integration, but did not
+break down external
+integration into customer and supplier
+integration, as we did. Our ﬁndings provide preliminary evidence
+of the importance of including internal integration in developing
+SCI patterns, as well as establishing a direct relationship between
+internal integration and performance. Internal integration pro-
+vides a vital link between customer integration and supplier
+integration, without which companies are unable to reap the full
+beneﬁts of their SCI efforts.
+
+Our ﬁndings extend the SCI
+
+literature by indicating the
+importance of SCI practices across industries in China. Previous
+related research has focused on other contexts, for example, the
+North American automotive industry (Droge et al., 2004; Devaraj
+et al., 2007). China has become a global manufacturing center and
+an attractive target for outsourcing by Western ﬁrms. Effective SCI
+can help make Chinese companies even more attractive supply
+chain partners through reduction of transaction costs. Chinese
+manufacturers can improve their business performance through
+enhancing integration of their own internal processes and with
+their customers and suppliers.
+
+While our study makes a signiﬁcant contribution to the SCI
+literature and has important implications for practice, there are
+some limitations and opportunities for future studies. First, this
+study uses a cross-sectional design. Because integration
+between customers, suppliers and manufacturers is developed
+over time, it will be fruitful for future research to examine the
+evolution of SCI patterns in a longitudinal fashion. Second,
+because the data were only collected from manufacturers, future
+studies can broaden their scope by collecting data from all
+supply chain partners, including suppliers, manufacturers and
+customers. Third, although this research provided some inter-
+esting ﬁndings about
+the relationship between SCI and
+performance in China, it is not clear whether these relationships
+will be the same in other countries. Future research should
+examine cross-cultural differences in the relationship between
+SCI and performance. In particular, studies which compare SCI in
+developed versus developing economies will be of interest.
+Finally, by focusing on various industries, company sizes and
+regions, we developed a broad picture of the relationship
+between SCI pattern and performance. However, these relation-
+ships may not be the same for all company sizes, industries or
+regions. Future research should examine the impact of these
+contextual factors on SCI patterns and their relationship with
+performance.
+
+Another interesting area of research is the factors that
+supplier and internal
+inﬂuence the degree of customer,
+integration in the SCI patterns. These factors may include
+factors such as the competitive environment, relationship
+commitment, trust, organizational characteristics and national
+culture. Likewise, the relationship between SCI and competitive
+performance is another potentially interesting area for future
+study. For example, Bowersox et al.’s (1999) work on the
+importance of SCI as a differentiator of overall performance,
+compared with other differentiating factors, could be extended
+to incorporate our taxonomy of SCI. In a similar vein, this
+taxonomy could be used to build on Swink et al.’s (2007) work to
+
+
+68
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+determine whether different patterns of SCI have differing
+impacts on competitive capabilities and performance.
+
+SCI is an increasingly important area of research, as supply
+chains become more widely dispersed across the globe. This
+research addresses some fundamental issues in SCI, as well as
+raising a number of critical research questions that remain to be
+resolved.
+
+Acknowledgement
+
+The authors would like to acknowledge the ﬁnancial support
+provided by the Research Grants Council (RGC) of Hong Kong and
+the Center for Supply Chain Management & Logistics, Li & Fung
+Institute of Supply Chain Management & Logistics, The Chinese
+University of Hong Kong.
+
+Appendix A. Summary of prior literature on the relationship between SCI and performance
+
+Study
+
+Dimensions of supply chain integration
+
+Performance
+
+Armistead and Mapes (1993)
+
+SCI
+
+Operational performance
+
+Cousins and Menguc (2006)
+
+Supplier integration
+
+Supplier’s operational/communication performance
+Supplier’s contractual conformance
+
+Das et al. (2006)
+
+Devaraj et al. (2007)
+
+Droge et al. (2004)
+
+Frohlich and Westbrook (2001)
+
+Germain and Iyer (2006)
+
+Gimenez and Ventura (2005)
+
+Supplier integration
+
+Supplier integration
+Customer integration
+
+Strategic design integration
+Design-process integration
+Supplier integration
+Customer integration
+
+Supplier integration
+Customer integration
+
+Internal integration
+Downstream integration
+
+Logistics-production integration
+Logistics-marketing integration
+External integration
+
+Homburg and Stock (2004)
+Johnson (1999)
+
+Customer integration
+Strategic integration
+
+Koufteros et al. (2007)
+
+Supplier integration
+
+Koufteros et al. (2005)
+
+Internal integration
+Customer integration
+Supplier product integration
+Supplier process integration
+
+Operational performance
+
+Operational performance
+
+Time to market
+Product responsiveness
+Firm performance
+
+Marketplace performance
+Productivity performance Non-productivity performance
+
+Logistics performance
+Financial performance
+
+Cost reduction
+Stock-out reduction
+Lead time reduction
+
+Customer satisfaction
+Financial performance
+
+Product innovation
+External quality
+
+Product innovation
+Quality
+Proﬁtability
+
+Marquez et al. (2004)
+
+SCI
+
+Operational and ﬁnancial effectiveness
+
+Morash and Clinton (1998)
+
+Intra-organizational process integration
+Inter-organizational collaborative/operational integration
+
+Total cost reduction strategy
+Differentiation strategy
+
+Narasimhan and Kim (2002)
+
+Internal integration
+
+Pagell (2004)
+
+Supplier integration
+Customer integration
+
+Internal integration
+
+Petersen et al. (2005)
+
+Supplier integration
+
+Ragatz et al. (2002)
+
+Supplier integration
+
+Rosenzweig et al. (2003)
+
+SCI
+
+Saeed et al. (2005)
+
+Stank et al. (2001a)
+
+Stank et al. (2001b)
+
+Swink et al. (2007)
+
+Internal integration
+External integration
+
+Customer integration
+Internal integration
+Supplier integration,
+Technology and planning
+Measurement integration
+Relationship integration
+
+Internal collaboration
+External collaboration
+
+Moderator of the relationship between international
+market/product diversiﬁcation and ﬁrm performance
+
+Performance
+
+Project team effectiveness
+Firm ﬁnancial performance
+Design performance
+
+Cycle time results
+
+Competitive capabilities
+Business performance
+
+Process efﬁciency
+Sourcing leverage
+
+Overall logistics performance
+
+Logistics service performance
+
+Strategic supplier integration
+Strategic customer integration
+
+Manufacturing competitive capabilities
+Business performance
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+69
+
+Appendix A (Continued )
+
+Study
+
+Dimensions of supply chain integration
+
+Performance
+
+Product-process technology integration
+Corporate strategy integration
+
+Vickery et al. (2003)
+
+SCI
+
+Customer service
+Financial performance
+
+Appendix B. Measurement items (with factor loadings)
+
+Customer integration (eigenvalue = 5.38). Please indicate the extent of integration or information sharing between your organization and
+
+your major customer in the following areas (1 = not at all; 7 = extensive).
+
+The level of linkage with our major customer through information networks.
+The level of computerization for our major customer’s ordering.
+The level of sharing of market information from our major customer.
+The level of communication with our major customer.
+The establishment of quick ordering systems with our major customer.
+Follow-up with our major customer for feedback.
+The frequency of period contacts with our major customer.
+Our major customer shares Point of Sales (POS) information with us.
+Our major customer shares demand forecast with us.
+We share our available inventory with our major customer.
+We share our production plan with our major customer.
+
+0.46
+0.46
+0.60
+0.75
+0.70
+0.65
+0.72
+0.64
+0.66
+0.59
+0.60
+
+Supplier integration (eigenvalue = 7.91). Please indicate the extent of integration or information sharing between your organization and your
+
+major supplier in the following areas (1 = not at all; 7 = extensive).
+
+The level of information exchange with our major supplier through information networks.
+The establishment of quick ordering systems with our major supplier.
+The level of strategic partnership with our major supplier.
+Stable procurement through network with our major supplier.
+The participation level of our major supplier in the process of procurement and production.
+The participation level of our major supplier in the design stage.
+Our major supplier shares their production schedule with us.
+Our major supplier shares their production capacity with us.
+Our major supplier shares available inventory with us.
+We share our production plans with our major supplier.
+We share our demand forecasts with our major supplier.
+We share our inventory levels with our major supplier.
+We help our major supplier to improve its process to better meet our needs.
+
+0.48
+0.42
+0.59
+0.57
+0.73
+0.76
+0.86
+0.84
+0.85
+0.85
+0.78
+0.81
+0.63
+
+Internal integration (eigenvalue = 6.19). Please indicate the degree of integration in the following areas (1 = not at all; 7 = extensive).
+
+Data integration among internal functions.
+Enterprise application integration among internal functions.
+Integrative inventory management.
+Real-time searching of the level of inventory.
+Real-time searching of logistics-related operating data.
+The utilization of periodic interdepartmental meetings among internal functions.
+The use of cross functional teams in process improvement.
+The use of cross functional teams in new product development.
+Real-time integration and connection among all internal functions from raw material management through production, shipping, and sales.
+
+0.65
+0.69
+0.78
+0.79
+0.76
+0.74
+0.79
+0.78
+0.66
+
+Operational performance (eigenvalue = 3.616). Please indicate the degree to which you agree to the following statements concerning your
+
+company’s performance with respect to your major customer (1 = strongly disagree; 7 = strongly agree).
+
+Our company can quickly modify products to meet our major customer’s requirements.
+Our company can quickly introduce new products into the market.
+Our company can quickly respond to changes in market demand.
+Our company has an outstanding on-time delivery record to our major customer.
+The lead time for fulﬁlling customers’ orders (the time which elapses between the receipt of customer’s order and the delivery of the goods) is short.
+Our company provides a high level of customer service to our major customer.
+
+0.78
+0.69
+0.77
+0.80
+0.78
+0.75
+
+Business performance (eigenvalue = 5.111). Please evaluate your company’s performance in the following areas relative to your primary/
+
+major competitors (1 = much worse; 7 = much better).
+
+Growth in sales.
+Return on sales.
+Growth in return on sales.
+Growth in proﬁt.
+Growth in market share.
+Return on investment (ROI).
+Growth in ROI.
+
+0.75
+0.88
+0.87
+0.85
+0.78
+0.88
+0.89
+
+
+70
+
+References
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a
+review and recommended two-step approach. Psychological Bulletin 103 (2),
+411–423.
+
+Armistead, C.G., Mapes, J., 1993. The impact of supply chain integration on operat-
+
+ing performance. Logistics Information Management 6 (4), 9–14.
+
+Armstrong, J.S., Overton, T.S., 1977. Estimating nonresponse bias in mail surveys.
+
+Journal of Marketing Research 14 (3), 396–402.
+
+Bagozzi, R.P., Yi, Y., Phillips, L.W., 1991. Assessing construct validity in organiza-
+
+tional research. Administrative Science Quarterly 36 (3), 421–458.
+
+Beamon, B.M., 1999. Measuring supply chain performance. International Journal of
+
+Operations & Production Management 19 (3), 275–292.
+
+Bowersox, D.J., Closs, D.J., Stank, T.P., 1999. 21st Century Logistics: Making Supply
+Chan Integration a Reality. Michigan State University, Council of Logistics
+Management.
+
+Bowersox, D.J., Morash, E.A., 1989. The integration of marketing ﬂows in channels of
+
+distribution. European Journal of Marketing 23 (20), 58–67.
+
+Campbell, J., Sankaranl, J., 2005. An inductive framework for enhancing supply chain
+integration. International Journal of Production Research 43 (16), 3321–3351.
+Cespedes, F., 1996. Beyond teamwork: how the wise can synchronize. Marketing
+
+Management 5 (1), 25–37.
+
+Chandler Jr., A.D., 1962. Strategy and Structure. MIT Press, Cambridge, MA.
+Chen, I.J., Paulraj, A., 2004a. Understanding supply chain management: critical
+research and a theoretical framework. International Journal of Production
+Research 42 (1), 131–163.
+
+Chen, I.J., Paulraj, A., 2004b. Towards a theory of supply chain management: the
+constructs and measurements. Journal of Operations Management 22 (2), 119–
+150.
+
+Cousins, P.D., Menguc, B., 2006. The implications of socialization and integration in
+supply chain management. Journal of Operations Management 24 (5), 604–620.
+Das, A., Narasimhan, R., Talluri, S., 2006. Supplier integration—ﬁnding an optimal
+
+conﬁguration. Journal of Operations Management 24 (5), 563–582.
+
+Devaraj, S., Krajewski, L., Wei, J.C., 2007. Impact of e-business technologies on
+operational performance: the role of production information in the supply
+chain. Journal of Operations Management 25 (6), 1199–1216.
+
+Dixon, J.R., Nanni, A.J., Vollmann, T.E., 1990. The New Performance Challenge—
+Measuring Operations for World-Class Competition. Dow Jones-Irwin, Home-
+wood, IL.
+
+Donaldson, L., 2001. The Contingency Theory of Organizations. Sage, Thousand
+
+Oaks, CA.
+
+Drazin, Robert, Van de Ven, Andrew, H., 1985. Alternative forms of ﬁt in contingency
+
+theory. Administrative Science Quarterly 30 (4), 514–539.
+
+Droge, C., Jayaram, J., Vickery, S.K., 2004. The effects of internal versus external
+integration practices on time-based performance and overall ﬁrm performance.
+Journal of Operations Management 22 (6), 557–573.
+
+Eccles, R.G., Pyburn, P.J., 1992. Creating a comprehensive system to measure
+
+performance. Management Accounting 74 (4), 41–44.
+
+Ellram, L., 1990. The supplier selection decision in strategic partnerships. Journal of
+
+Purchasing and Materials Management 26 (4), 8–14.
+
+Fawcett, S.E., Magnan, G.M., 2002. The rhetoric and reality of supply chain integra-
+tion. International Journal of Physical Distribution and Logistics Management
+32 (5), 339–361.
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unob-
+servable variables and measurement error. Journal of Marketing Research 18
+(1), 29–50.
+
+Frohlich, M.T., 2002. Techniques for improving response rates in OM survey
+
+research. Journal of Operations Management 20 (1), 53–62.
+
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an international study of
+supply chain strategies. Journal of Operations Management 19 (2), 185–200.
+
+Galbraith, J.R., 1973. Designing Complex Organizations. Addison-Wesley.
+Germain, R., Iyer, K.N.S., 2006. The interaction of internal and downstream inte-
+gration and its association with performance. Journal of Business Logistics 27
+(2), 29–53.
+
+Gimenez, C., Ventura, E., 2005. Logistics-production, logistics-marketing and exter-
+nal integration: their impact on performance. International Journal of Opera-
+tions & Production Management 25 (1), 20–38.
+
+Hair, J.F., Anderson, R.E., Tatham, R.L., Black, W.C., 1998. Multivariate Data Analysis.
+
+Prentice Hall, New Jersey.
+
+Hall, R.W., 1983. Zero Inventories. Dow-Jones Irwin, Homewood.
+Hambrick, D.C., 1983. High proﬁt strategies in mature capital goods industries: a
+
+contingency approach. Academy of Management Journal 26 (4), 687–707.
+
+Hammer, M., 1990. Reengineering work: don’t automate, obliterate. Harvard Busi-
+
+ness Review 68 (4), 104–112.
+
+Harland, C.M., Caldwell, N.D., Powell, P., Zheng, J., 2007. Barriers to supply chain
+information integration: SMEs adrift of eLands. Journal of Operations Manage-
+ment 25 (6), 1234–1254.
+
+Heide, J., John, J., 1990. Alliances in industrial purchasing: the determinants of joint
+action in buyer-supplier relationships. Journal of Marketing Research 27 (1),
+24–36.
+
+Hillebrand, B., Biemans, W.G., 2003. The relationship between internal and external
+cooperation: literature review and propositions. Journal of Business Research
+56 (9), 735–743.
+
+Hochwarter, W.A., James, M., Johnson, D., Ferris, F.R., 2004. The interactive effects of
+politics perceptions and trait cynicism on work outcomes. Journal of Leadership
+& Organizational Studies 10 (4), 44–57.
+
+Homburg, C., Stock, R.M., 2004. The link between salespeople’s job satisfaction and
+customer satisfaction in a business-to-business context: a dyadic analysis.
+Journal of Academy of Marketing Science 32 (2), 144–158.
+
+Hu, L., Bentler, P.M., 1999. Cutoff criteria for ﬁt indices in covariance structure
+analysis: conventional criteria versus new alternatives. Structural Equation
+Modeling 6 (1), 1–55.
+
+Johnson, H.T., Kaplan, R.S., 1987. Relevance lost-the rise and fall of management
+
+accounting. Canadian Business Review 14 (4), 48–50.
+
+Johnson, J.L., 1999. Strategic integration in industrial distribution channels: mana-
+ging the interﬁrm relationship as a strategic asset. Journal of Academy of
+Marketing Sciences 27 (1), 4–18.
+
+Kahn, K.B., Mentzer, J.T., 1996. Logistics and interdepartmental integration. Inter-
+national Journal of Physical Distribution and Logistics Management 26 (8), 6–
+14.
+
+Kingman-Brundage, J., George, W., Bowen, D., 1995. Service logic: achieving service
+system integration. International Journal of Service Industry Management 6 (4),
+20–39.
+
+Kotha, S., Nair, A., 1995. Strategy and environment as determinants of performance:
+evidence from the Japanese machine tool industry. Strategic Management
+Journal 16 (7), 497–518.
+
+Koufteros, X., Vonderembse, M., Jayaram, J., 2005. Internal and external integration
+for product development: the contingency effects of uncertainty, equivocality,
+and platform strategy. Decision Sciences 36 (1), 97–133.
+
+Koufteros, X.A., Cheng, T.C.E., Lai, K.H., 2007. Black-box and gray box supplier
+integration in product development: antecedents, consequences and the mod-
+erating role of ﬁrm size. Journal of Operations Management 25 (4), 847–870.
+Lambert, D.M., Cooper, M.C., 2000. Issues in supply chain management. Industrial
+
+Marketing Management 29 (1), 65–83.
+
+Lambert, D.M., Robeson, J.F., Stock, J.R., 1978. An appraisal of the integrated physical
+distribution management concept. International Journal of Physical Distribu-
+tion and Materials Management 9 (1), 74–88.
+
+Lawrence, P.R., Lorsch, J.W., 1967. Organization and Environment. Harvard Uni-
+
+versity Press, Cambridge MA.
+
+Lee, H.L., Whang, S., 2001. Winning the last mile of e-commerce. Sloan Management
+
+Review 42 (4), 54–62.
+
+Mabert, V.A., Venkataramanan, M.A., 1998. Special research focus on supply chain
+linkages: challenges for design and management in the 21st century. Decision
+Sciences 29 (1), 537–552.
+
+Marquez, A.C., Bianchi, C., Gupta, J.N.D., 2004. Operational and ﬁnancial effective-
+ness of e-collaboration tools in supply chain integration. European Journal of
+Operational Research 159 (2), 348–363.
+
+Milgrom, P., Roberts, J., 1995. Complementarities and ﬁt: strategy, structure and
+organizational change in manufacturing. Journal of Accounting and Economics
+19 (2/3), 179–208.
+
+Miller, D., 1986. Conﬁguration of strategy and structure: towards a synthesis.
+
+Strategic Management Journal 7 (3), 233–249.
+
+Miller, J.G., Roth, A.V., 1994. A taxonomy of manufacturing strategies. Management
+
+Science 40 (3), 285–304.
+
+Morash, E.A., Clinton, S.R., 1998. Supply chain integration: customer value through
+collaborative closeness versus operational excellence. Journal of Marketing
+Theory and Practice 6 (4), 104–120.
+
+Narasimhan, R., Kim, S.W., 2002. Effect of supply chain integration on the relation-
+ship between diversiﬁcation and performance: evidence from Japanese and
+Korean ﬁrms. Journal of Operations Management 20 (3), 303–323.
+
+Naylor, J.B., Naim, M.M., Berry, D., 1999. Leagility: integrating the lean and agile
+manufacturing paradigms in the total supply chain. International Journal of
+Production Economics 62 (1/2), 107–118.
+
+Neely, A., Gregory, M., Platts, K., 1995. Performance measurement system design.
+International Journal of Operations & Production Management 15 (4), 80–
+116.
+
+O’Leary-Kelly, S.W., Flores, B.E., 2002. The integration of manufacturing and market-
+ing/sales decisions: impact on organizational performance. Journal of Opera-
+tions Management 20 (3), 221.
+
+O’Leary-Kelly, S.W., Vokurka, R.J., 1998. The empirical assessment of construct
+
+validity. Journal of Operations Management 16 (4), 387–405.
+
+Pagell, M., 2004. Understanding the factors that enable and inhibit the integration of
+operations, purchasing and logistics. Journal of Operations Management 22 (5),
+459–487.
+
+Paulraj, A., Lado, A., Chen, J., 2008. Inter-organizational communication as a rela-
+tional competency: antecedents and performance outcomes in collaborative
+buyer–supplier relationships. Journal of Operations Management 26 (1), 45–64.
+Petersen, K., Handﬁeld, R., Ragatz, G., 2005. Supplier integration into new product
+development: coordinating product, process, and supply chain design. Journal
+of Operations Management 23 (3/4), 371–388.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y., Podsakoff, N.P., 2003. Common method
+bias in behavioral research: a critical review of the literature and recommended
+remedies. Journal of. Applied Psychology 88 (5), 879–903.
+
+Podsakoff, P.M., Organ, D.W., 1986. Self-reports of organizational research: pro-
+
+blems and prospects. Journal of Management 12 (4), 531–544.
+
+Poirier, C.C., Reiter, S.E., 1996. Supply Chain Optimization: Building the Strongest
+
+Total Business Network. Berrett-Koehler Publishers.
+
+Ragatz, G.L., Handﬁeld, R.B., Petersen, K.J., 2002. Beneﬁts associated with supplier
+integration into new product development under conditions of technology
+uncertainty. Journal of Business Research 55 (5), 389–400.
+
+Rosenzweig, E.D., Roth, A.V., Dean Jr., J.W., 2003. The inﬂuence of an integration
+strategy on competitive capabilities and business performance: an exploratory
+
+
+B.B. Flynn et al. / Journal of Operations Management 28 (2010) 58–71
+
+71
+
+study of consumer products manufacturers. Journal of Operations Management
+21 (4), 437–456.
+
+Saeed, K.A., Malhotra, M.K., Grover, V., 2005. Examining the impact of interorga-
+nizational systems on process efﬁciency and sourcing leverage in buyer–sup-
+plier dyads. Decision Sciences 36 (3), 365–396.
+
+Sanchez, J.I., Brock, P., 1996. Outcomes of perceived discrimination among hispanic
+employees: is diversity management a luxury or a necessity? Academy of
+Management Journal 39 (3), 704–719.
+
+Sanders, N.R., 2008. Pattern of information technology use: the impact on buyer-
+suppler coordination and performance. Journal of Operations Management 26
+(3), 349–367.
+
+Scott, W.R., Cole, R., 2000. Introduction. In: Cole, R., Scott, W.R. (Eds.), The Quality
+
+Movement and Organizational Theory. Sage, Thousand Oaks.
+
+Siggelkow, Nicholaj, 2001. Change in the presence of ﬁt: the rise, the fall and the
+renaissance of Liz Claiborne. Academy of Management Journal 44 (4), 838–857.
+Sinha, Kingshuk, K., Van de Ven, Andrew, H., 2005. Designing work within and
+
+between organizations. Organization Science 16 (4), 389–408.
+
+Skinner, W., 1971. The anachronistic factory. Harvard Business Review 49 (1), 61–
+
+70.
+
+Song, M., Di Benedetto, C.A., 2008. Supplier’s involvement and success of radical
+new product development in new ventures. Journal of Operations Management
+26 (1), 1–22.
+
+Spekman, R.E., Kamauff Jr., J.W., Myrh, N., 1998. An empirical investigation into
+supply chain management: a perspective on partnerships. International Journal
+of Physical Distribution and Logistics Management 28 (8), 630–650.
+
+Stank, T.P., Keller, S.B., Closs, D.J., 2001a. Performance beneﬁts of supply chain
+
+integration. Transportation Journal 41 (2), 31–46.
+
+Stank, T.P., Keller, S.B., Daugherty, P.J., 2001b. Supply chain collaboration and
+
+logistical service performance. Journal of Business Logistics 22 (1), 29–48.
+
+Stanley, L.L., Wisner, J.D., 2001. Service quality along the supply chain: implications
+
+for purchasing. Journal of Operations Management 19 (3), 287–306.
+
+Stevens, G.C., 1989. Integrating the supply chain. International Journal of Physical
+
+Distribution and Logistics Management 19 (8), 3–8.
+
+Swink, M., Narasimhan, R., Wang, C., 2007. Managing beyond the factory walls:
+effects of four types of strategic integration on manufacturing plant perfor-
+mance. Journal of Operations Management 25 (1), 148–164.
+
+Thompson, J.D., 1967. Organizations in Action. McGraw-Hill, New York, NY.
+Tushman, M.L., Nadler, D.A., 1978. Information processing as an integrating concept
+
+in organization design. Academy of Management Review 3 (3), 613–624.
+
+Van der Vaart, T., van Donk, D., 2008. A critical review on survey-based research in
+supply chain integration. International Journal of Production Economics 111
+(1), 42–55.
+
+Van Hoek, R.I., 1998. Measuring the unmeasurable-measuring and improving
+performance in the supply chain. Journal of Supply Chain Management 3 (4),
+187–192.
+
+Venkatraman, N., Prescott, J., 1990. Environment-strategy coalignment: an empiri-
+cal test of its performance implications. Strategic Management Journal 11 (1),
+1–23.
+
+Vickery, S.K., Jayaram, J., Droge, C., Calantone, R., 2003. The effects of an integrative
+supply chain strategy on customer service and ﬁnancial performance: an
+analysis of direct versus indirect relationships. Journal of Operations Manage-
+ment 21 (5), 523–539.
+
+Ward, P.T., Bickford, D.J., Leong, G.K., 1996. Conﬁgurations of manufacturing strat-
+egy, business strategy, environment, and structure. Journal of Management 22
+(4), 597–626.
+
+Webster’s Third New International Dictionary, 1966. William Benton, Chicago.
+
+Widaman, K., 1985. Hierarchically nested covariance structure models for multi-
+
+trait-multimethod data. Applied Psychological Measurement 9 (1), 1–26.
+
+Williams, L.J., Cote, J.A., Buckley, M.R., 1989. Lack of method variance in self-
+reported affect and perceptions at work: reality or artifact. Journal of Applied
+Psychology 74 (3), 462–468.
+
+Wisner, J.D., Tan, K.C., 2000. Supply chain management and its impact on purchas-
+
+ing. Journal of Supply Chain Management 36 (4), 33–42.
+
+Zailani, S., Rajagopal, P., 2005. Supply chain integration and performance: US versus
+
+East Asian companies. Supply Chain Management 10 (5), 379–393.
+
+Zhao, X., Flynn, B.B., Roth, A.V., 2006a. Decision sciences research in China: a critical
+review and research agenda—foundations and overview. Decision Sciences 37
+(4), 451–496.
+
+Zhao, X., Huo, B., Flynn, B.B., Yeung, J., 2008. The impact of power and relationship
+commitment on the integration between manufacturers and customers in a
+supply chain. Journal of Operations Management 26 (3), 368–388.
+
+Zhao, X., Sum, C.-C., Qi, Y., Zhang, H., Lee, T., 2006b. A taxonomy of manufacturing
+
+strategies in China. Journal of Operations Management 24 (5), 621–636.
+
+Dr. Barbara Flynn is the Richard M. and Myra Louise Buskirk professor of manufactur-
+ing management and director of the Center for International Business Education and
+Research (IU CIBER) at the Kelley School of Business at Indiana University. She received
+a DBA in operations management from Indiana University and an MBA from Marquette
+University. She is a fellow of the Decision Sciences Institute and recipient of the
+Distinguished Scholar Award from the Operations Management division of the Acad-
+emy of Management and the Dennis E. Grawoig Distinguished Service Award from the
+Decision Sciences Institute. Dr. Flynn has received over $1 million in research funding
+from the National Science Foundation, the U.S. Department of Education and the Center
+for Innovation Management Studies. She has published articles in Management Science,
+Decision Sciences, Journal of Operations Management, International Journal of Operations
+and Production Management and other leading journals, as well as a book and numerous
+book chapters. Dr. Flynn is founding editor of Decision Sciences Journal of Innovative
+Education and past Editor of Quality Management Journal. She is a past President of the
+Decision Sciences Institute and has held leadership positions in the Decision Sciences
+Institute, Academy of Management and American Society for Quality.
+
+Dr. Baofeng Huo is an assistant professor of operations management at the School of
+Management at Xi’an Jiaotong University and research fellow at Center for Supply
+Chain Management & Logistics, Li & Fung Institute of Supply Chain Management &
+Logistics, The Chinese University of Hong Kong. He received his PhD in operations
+management from The Chinese University of Hong Kong. His research interests are
+logistics and supply chain management. His research has been published in the Journal
+of Operations Management, International Journal of Operations and Production Manage-
+ment, International Journal of Production Economics, Business Horizon, and other journals.
+
+Dr. Xiande Zhao is professor of operations management at the Department of Decision
+Sciences and Managerial Economics and director of the Center for Supply Chain
+Management and Logistics, Li & Fung Institute of Supply Chain Management and
+Logistics, The Chinese University of Hong Kong. He received his PhD in business
+administration and MBA from the University of Utah, U.S.A. Prof. Zhao’s teaching
+and research interests are in the areas of supply chain management and service
+operations management. He has published over ﬁfty articles in refereed journals
+including the Journal of Operations Management, Journal of Consumer Research, Decision
+Sciences, European Journal of Operations Research, International Journal of Production
+Research and other journals.
+

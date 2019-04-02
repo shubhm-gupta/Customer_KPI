@@ -1,0 +1,2155 @@
+ 
+ 
+The Measurement and Determinants of Brand Equity: A Financial Approach
+Author(s): Carol J. Simon and  Mary W. Sullivan
+Source: Marketing Science, Vol. 12, No. 1 (Winter, 1993), pp. 28-52
+Published by: INFORMS
+Stable URL: http://www.jstor.org/stable/183736
+Accessed: 02-08-2017 20:44 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+INFORMS is collaborating with JSTOR to digitize, preserve and extend access to Marketing
+Science
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MARKETING SCIENCE
+ Vol. 12, No. 1, Winter 1993
+
+ Printed in U.S.A.
+
+ THE MEASUREMENT AND DETERMINANTS OF
+
+ BRAND EQUITY: A FINANCIAL APPROACH
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ University of Chicago
+
+ This paper presents a technique for estimating a firm's brand equity that is based on the financial
+
+ market value of the firm. Brand equity is defined as the incremental cash flows which accrue to
+ branded products over unbranded products. The estimation technique extracts the value of brand
+ equity from the value of the firm's other assets.
+
+ This technique is useful for two purposes. First, the macro approach assigns an objective value
+ to a company's brands and relates this value to the determinants of brand equity. Second, the
+ micro approach isolates changes in brand equity at the individual brand level by measuring the
+ response of brand equity to major marketing decisions.
+
+ Empirically, we estimate brand equity using the macro approach for a sample of industries
+
+ and companies. Then we use the micro approach to trace the brand equity of Coca-Cola and
+ Pepsi over three major events in the soft drink industry from 1982 to 1986.
+ (Brand Equity; Finance-based Estimation Technique; Brand Management; Advertising Policy)
+
+ 1. Introduction
+
+ It has long been recognized that brand names are valuable to companies, but only
+ recently have serious attempts been made to estimate their value (Farquhar 1989, Lipman
+ 1989). The current interest in brand valuation stems from the escalating costs of devel-
+ oping new brands, which has led to prevalent use of brand extension and international
+ expansion (Economist 1990, Tauber 1988). While brands are becoming more valuable,
+ there is a widespread sentiment that they are being mismanaged (Aaker 1991, Barwise
+ et al. 1989). Marketing managers believe that too much emphasis is being placed on
+ short-term performance. This misdirected focus could be reducing the long-run value of
+ brand assets (Leuthesser 1988). For example, promotions may be justified by the basis
+ of short-run cost recovery (Barwise et al. 1989), but the total benefits arising from mar-
+ keting activities are not captured by short-run sales and profits alone. A major obstacle
+ in abandoning a short-term outlook is the difficulty of measuring the impact of brand
+ investments on the long-term performance of the brand. Brand equity, correctly and
+ objectively measured, is the appropriate metric for evaluating the long-run impact of
+ marketing decisions.
+
+ This paper presents a new technique for estimating a firm's brand equity, derived from
+
+ financial market estimates of brand-related profits. Numerous alternative methods are
+ currently in use, but there little agreement as to their relative strengths and weaknesses
+ (Lipman 1989). In the remainder of this section, we discuss the major techniques that
+ have been proposed for estimating brand equity. We begin with an overview of the
+
+ 28
+
+ Copyright ( 1993, The Institute of Management Sciences/Operations Research Society of America
+
+ 0732-2399/93/1201/0028$01.25
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 29
+
+ method developed in this paper, motivating the features of a financial-market based
+ estimate of brand equity. We then briefly review five of the alternative techniques to
+ motivate important differences in our approach.1
+
+ Our technique uses the financial market value of the firm as a basis for valuing brand
+
+ equity. Our methodology is useful for two purposes. First, the macro approach assigns
+ an objective value to a company's brands and relates this value to the determinants of
+ brand equity. Second, the micro approach isolates changes in brand equity at the individual
+ brand level by measuring the response of brand equity to major marketing decisions.
+ Our methodology does not assign objective values to individual brand names of multi-
+ brand companies, although the conclusion discusses how our technique could be used
+ to provide rough estimates of individual brand values.
+
+ We define brand equity as the incremental cash flows which accrue to branded products
+
+ over and above the cash flows which would result from the sale of unbranded products.2
+ To implement this definition, we begin by estimating the current market value of the
+ firm. The market value of the firm's securities provides an unbiased estimate of the future
+ cash flows that are attributable to all of the firm's assets. Our methodology extracts the
+ value of a firm's brand equity from the value of the firm's other assets. The result is an
+ estimate of brand equity which is based on the financial market valuation of the firm's
+ future cash flows. The methodology has three important features: (1) Brand equity is
+ treated as an asset of the firm and the methodology objectively separates brand equity
+ from the other assets of the firm. (2) Brand equity is measured in a forward-looking
+ perspective, since market value of the firm's traded securities reflect an unbiased estimate
+ of future cash flows. (3) The value of a firm's brands changes as new information becomes
+ available in the market.
+
+ Specifically, we construct two empirical analyses to illustrate how the methodology
+
+ can be used to estimate brand equity. The macro approach estimates brand equity at the
+ firm level. Firm-level estimates of brand equity are of interest because they allow a firm
+ to compare the effectiveness of its portfolio of marketing policies to others in the industry.
+ One drawback of this approach is that it does not provide estimates of brand equity at
+ the individual brand level.
+
+ The micro approach isolates brand equity at the individual brand level by measuring
+ the response of brand equity to major marketing decisions. Since the value of a firm's
+ securities changes as new information hits the market, our estimate of firm-level brand
+ equity adapts to marketing decisions, such as new-product introductions and major ad-
+ vertising campaigns. A change in firm-level brand equity which is prompted by a brand-
+ level decision reflects the change in the value of the underlying brand. The micro approach
+ allows us to evaluate the impact of specific marketing decisions made by the firm and
+ its competitors. One disadvantage of this procedure is that stock market data are noisy,
+ so only major events will have a sufficiently large impact on brand equity to be detected.
+ In addition, this procedure requires a knowledge of when the stock market first learned
+ of the decision.
+
+ The first alternative approach, developed by Mahajan et al. (1990), measures brand
+ equity under conditions of acquisition and divestment. Their methodology is based on
+ the premise that brand equity is dependent on the ability of the owning company to
+ utilize the brand assets. It should be noted that the technique presented in our paper
+ estimates the value of a company's brand names in their current use, not their potential
+ value to another company.
+
+ The second alternative technique is based on the price premia commanded by a product.
+
+ A price premium is a proxy for the elasticity of demand, a measure of brand loyalty.
+
+ This summary draws heavily on Aaker ( 1991 ), Barwise et al. (1989), and Wentz and Martin (1989).
+
+ 2 The incremental cash flows are based on the value consumers place on branded products and on cost savings
+
+ brand equity generates through competitive advantages.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 30
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ While techniques that employ price premia are intuitively appealing, they can result in
+ biased estimates of brand equity. The first problem is that price premia capture only one
+ dimension of brand equity. Another dimension of brand equity is its ability to reduce
+ the marketing costs of current and future products. Marlboro cigarettes do not command
+ a price premium over most other brands (except generics), but it would be difficult to
+ argue that Marlboro, with a 25% market share worldwide, does not have considerable
+ brand equity. A second problem with this technique is that price premia often result
+ from high-quality physical attributes. Consequently, estimates of brand equity based on
+ price premia will be too high unless adjusted for the differential production costs. Third,
+ the price premium technique does not consider expected future profits from the brand
+ name. To the extent that the current price and marketing expenditures affect future
+ demand, estimates based on price premia will be biased.
+
+ The third alternative technique is based on the brand name's influence on customer
+ evaluation. This technique typically employs surveys of preference, attitude, or intent to
+ purchase. One problem with this approach is that there is no metric for translating cus-
+ tomer ratings into estimates of profits for the company. Furthermore, like the price
+ premium technique, it excludes expected future brand-related profits and fails to control
+ for differences in the costs of producing branded products.
+
+ The scanner-based measure of brand equity developed by Kamakura and Russell ( 1991 )
+
+ provides three measures of brand value. The first measure, perceived value, estimates
+ the value to consumers of the brand that cannot be explained by price and promotion.
+ The second measure, the dominance ratio, places an objective value on a brand's ability
+ to compete with other brands on price. The third measure, intangible value, provides a
+ measure of quality perceptions not attributable to physical attributes of a product. Ka-
+ makura and Russell's technique differs from the customer-evaluation technique because,
+ instead of using consumer surveys, they base their estimation on purchase histories from
+ scanner data. The use of secondary data allows them to objectively measure brand pref-
+ erence. One drawback is that since their technique relies on past and present purchase
+ patterns, it does not necessarily forecast future profits from brand names.
+
+ The fourth alternative technique estimates brand replacement cost, the cost of estab-
+
+ lishing a product with a new brand name. For example, if it costs $ 100 million to launch
+ a new product and the probability of success is 25%, then the expected cost of establishing
+ a comparable brand name is $400 million. This approach measures only one component
+ of brand equity-its value in launching new products. The method provides no infor-
+ mation about the value of brand equity in its current use from existing products.
+
+ A fifth alternative method is based on a brand-earnings multiplier. One such technique
+
+ multiplies brand "weights" by the average of the past three years' profits.3 The brand
+ weights are based on both historical data, such as brand share and advertising expenditures,
+ and individuals' judgments of other factors, such as stability of product category, brand
+ stability, and internationality. This technique will produce biased and inconsistent esti-
+ mates of brand equity due to its use of historical data, which do not accurately translate
+ into future earnings. Furthermore, reliance on individuals' judgments makes it difficult
+ to apply the technique consistently in different time periods or across companies.
+
+ Our technique overcomes several limitations inherent in other approaches. First, it
+ uses objective market-based measures, and thus permits comparisons over time and
+ across companies. Second, it implicitly incorporates the effect of market size and growth,
+ and any other factors that influence future profitability. Third, it accounts for both the
+ revenue-enhancing and the cost-reducing capabilities of brand equity.
+
+ The paper is organized as follows. Section 2 explains how financial market data can
+ be used to uncover the value of brand equity. Section 3 outlines the methodology. Section
+
+ 3 This technique, described in Wentz and Martin (1989), has been used by the Interbrand Group, a London-
+
+ based brand consulting firm.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 31
+
+ 4 presents the macro estimates of brand equity for a sample of industries and companies.
+ In Section 5, we provide an example of the micro approach that traces the brand equity
+ of Coca-Cola and Pepsi over three major events in the 1980s. Section 6 summarizes the
+ main results and discusses the strengths and limitations of our approach. We consider
+ how internal company data could be used to increase the scope of our method, and
+ identify fruitful avenues for further research.
+
+ 2. How Financial Markets Evaluate Brand Equity
+
+ The financial market value of a firm is based on the aggregate earning-power of its
+ assets, both tangible and intangible. From the perspective of financial markets, brand
+ equity is the capitalized value of the profits that result from associating that brand's name
+ with particular products or services.4 Our methodology first separates the value of a firm's
+ securities into tangible and intangible assets, then carves brand equity out from the other
+ intangible assets.
+
+ A road map to the taxonomy of a firm's assets will help to motivate our approach.
+ The tangible assets fall into three groups: ( 1 ) property, plant, and equipment, (2) current
+ assets, made up of inventories, marketable securities and cash, and (3) investments in
+ stocks and long-term bonds. The tangible assets, when valued at their market prices,
+ comprise the physical replacement value of the company. Hire labor, and the firm we
+ have described above is a basic going-concern; basic, in the sense that its products can
+ be produced using only the aforementioned tangible inputs, and these inputs can be
+ readily acquired in the marketplace. Since the firm's inputs and outputs can be readily
+ replicated, its product is not unique and it earns a rate of return commensurate with
+ that of its competitors. The firm described above has no brand equity, nor does it enjoy
+ a competitive advantage in the production or distribution of its goods.
+
+ Intangible assets are defined as any factors of production or specialized resources that
+
+ permit the company to earn cash flows in excess of the return on tangible assets. Intangible
+ assets augment the earning power of a firm's physical assets. Patents, trademarks, fran-
+ chises, R&D, and goodwill are all considered intangible assets; so too is brand equity.5
+ We can readily compute the total financial market value of a firm that has publicly
+ traded securities. Breaking down the assets into tangible and intangible components is
+ not as straightforward. The value of tangible assets can be estimated using accounting
+ book values and reported estimates of replacement costs (Hirschey and Weygandt 1985;
+ Lindenberg and Ross 1981 ). However, accounting measures are fundamentally inade-
+ quate for assessing the value of a firm's intangible assets. Research and development,
+ advertising, and promotional expenditures are not reported on the firm's balance sheet.
+ Instead, outlays on these intangibles are expensed in one period, although their benefits
+ are known to persist in future periods. A financial market-based, rather than accounting-
+ based, estimate of intangible assets is used in this study. The difference between the
+ financial market value of the firm and the value of its tangible assets is equal to intangible
+ assets.
+
+ This financial market based approach to brand valuation has many attractive aspects.
+
+ First and foremost, it has strong theoretical and empirical foundations in the efficient-
+ markets literature (Ross 1983; Fama 1970). The efficient-markets hypothesis predicts
+ that in a well-functioning capital market securities prices provide the best available un-
+ biased estimates of the value of a company's assets. That is, that the company's stock
+
+ 4 The capitalized value of profits equals the sum of the future profits, discounted in each period by a risk-
+
+ adjusted interest rate.
+
+ 5 It is obvious that not all of a firm's intangible assets are attributable to brand equity. A recent event illustrates
+ this point. The value of Liz Claiborne's company was influenced by both the brand equity associated with her
+ name and her ability as a designer. Both are intangible assets; the former is brand equity but the latter is not.
+ When Liz Claiborne retired, the value of the company declined because it lost her contribution as a designer.
+ This market experiment provided a natural way to separate the value of Claiborne's skill from the value of her
+ name. One of the objectives of our methodology is to separate brand assets from other intangible assets.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 32
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ price at any time "fully reflects" all available information on expected future cash flows
+ to stockholders.6
+
+ How does all of the available information get into the stock price? Essentially, new
+ information provides traders with arbitrage opportunities. If an advertising campaign
+ increases the expected future returns to the company's stock, the stock will be temporarily
+ undervalued. Traders who believe that the campaign was successful will buy more of the
+ stock today. Increased demand for the stock will cause its price to increase until the price
+ of the stock fully reflects the expected future returns from the new information. Included
+ in these expected future returns is the increased value of brand-related assets-i.e., brand
+ equity.
+
+ Any meaningful measure of brand equity must incorporate the impact of the brand
+
+ name on future profitability. The financial market's valuation of the firm is a "forward-
+ looking" measure, meaning that it incorporates the expected value of future returns. If
+ a new advertising campaign increases the future profitability of a product, the increase
+ is impounded into security prices as soon as the news is revealed. This gives our meth-
+ odology an advantage over those that use accounting rates of returns and historic measures
+ to estimate brand equity. For example, estimates that rely on the historic profits of branded
+ products are highly sensitive to assumptions made about future growth rates, leading to
+ widely divergent estimates of a brand's worth.
+
+ 3.1. Background and Motivation
+
+ 3. Methodology
+
+ In this section we outline our technique for extracting the value of brand equity from
+
+ the financial market value of the firm. We borrow from empirical studies quantifying
+ the intangible asset values of the firm as "Tobin's Q" (hereafter referred to as Q). Q is
+ defined as the ratio of the market value of the firm to the replacement cost of its tangible
+ assets (Tobin 1969, 1978). A value of Q greater than 1.0 indicates that the firm has
+ intangible assets. Brand equity is a specialized, intangible asset which augments the cash
+ flows of the firm. Hence the measured value of Q varies directly with accumulated brand
+ equity.
+
+ The method we develop parallels techniques used in the economic and financial lit-
+
+ eratures to compute the capitalized value of returns arising from a wide variety of intan-
+ gible factors of production. Smirlock et al. (1984) use Q to measure the capitalized value
+ of profits that arise from monopoly conditions as well as superior firm-specific assets.
+ Hirschey and Weygandt (1985) examine the underlying factors determining Q. They
+ posit that advertising and R&D expenditures are important determinants of the market
+ value of the firm, though not included on the balance sheet. They find that both advertising
+ and R&D intensities have positive and highly significant effects on Q values.
+
+ Lindenberg and Ross ( 1981 ) explore the relationship between Q and accounting mea-
+ sures of profitability. Their results indicate that consumer brand companies often have
+ Q values of significantly greater than one, while firms specializing in industrial products
+ or undifferentiated commodity goods had low estimated Q's.7 Many of the industries
+ with the highest estimated Q's contain firms that market differentiated products, suggesting
+ that Q is positively related to brand equity.
+
+ 6 The finance literature provides ample support for the efficient markets hypothesis. Fama (1970) provides
+ an excellent review of the theoretical and empirical literature and concludes that prices efficiently adjust to
+ publicly available information. There have been numerous refinements in the models and empirical methodology
+ and the results uniformly suggest that financial markets will incorporate the effect of marketing actions into the
+ financial value of the firm.
+
+ 7 For example, over 1960-1977 the average estimated Q for Coca-Cola was 4.2, and for Pepsico was 2.3. The
+
+ average Q for Kellogg measured 3.2, while General Foods received a Q of 2.1. greater than one. Conversely,
+ primary metals producers averaged Q values of 0.9, while paper products manufacturers had estimated Q's of
+ about 1.0.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 33
+
+ We identify three categories of intangible assets: (i) brand equity, (ii) the value of
+ other firm-specific factors not associated with brand equity, and (iii) market-specific
+ factors that lead to imperfect competition. This decomposition draws on the Tobin's Q
+ literature cited above and on cross-sectional studies on the determinants of firm profit
+ rates.8 Unlike previous studies which focused on (ii) and (iii), this paper asserts that a
+ major component of intangible asset value can be attributed to brand equity. The brand
+ equity estimates derived by our technique depend on the factors included as determinants
+ of brand equity. The factors we explicitly consider are detailed below.
+
+ Current and past advertising. Advertising can affect brand equity through brand as-
+ sociations, perceived quality, and use experience. Advertising that provides information
+ about verifiable attributes, such as price and physical characteristics, will influence brand
+ associations (Stigler 1961, Keller 1991). Heavy advertising can enhance perceived quality
+ for experience goods, the quality of which cannot be determined prior to purchase (Nelson
+ 1974). Positioning advertising creates brand associations and perceptions of quality by
+ emphasizing the desirable attributes of the brand (Aaker and Shansby 1982). Advertising
+ can also influence the way consumers learn about products. Hoch and Ha (1986) provide
+ experimental evidence that advertising influences consumers' perceptions of the products
+ when they experience it. Finally, advertising can make positive brand evaluations and
+ attitudes readily accessible in memory (Farquhar 1989).
+
+ The timing of advertising effects and their durability effects has been extensively studied
+ in the marketing literature.9 Most studies have focused on a distributed lag relation
+ between current product sales and advertising expenditures. Advertising may have a
+ long-term affect on sales that carries over multiple years (Peles 1971, Telser 1962, Palda
+ 1965) or the cumulative effects of advertising may be exhausted within a matter of
+ months (Bass and Clarke 1972; Montgomery and Silk 1972). Differences may depend
+ on the age and nature of the product, or may be artifacts of modeling and estimation
+ techniques.
+
+ Our study focuses on measuring the equity value of advertising (and other brand-
+
+ enhancing) expenditures, which is necessarily forward-looking. Advertising can be viewed
+ as an asset of the firm if its effects that last for more than one period and if advertising
+ generates positive net revenues for the firm. This distinction has important implications
+ for modeling and interpreting advertising dynamics. While much of the distributed lag
+ literature examines the relation between advertising flows and sales flows, we will em-
+ phasize the relation between advertising flows and the stocks of value (brand equity)
+ that they create.'? Our approach directly estimates the cumulative effects of advertising
+ based on forward-looking forecasts of brand-related profits.
+
+ We include current and lagged values of advertising in our model. The estimated
+
+ coefficient on current advertising will reflect the present discounted value of all the future
+ returns on this period's advertising. Lagged advertising expenditures are included for
+ several reasons. First, if the effects of advertising do not completely dissipate in a single
+ period, these stocks of advertising will generate returns in subsequent periods. Second,
+ the expected value of an advertising campaign may be revised over time. Finally, successful
+ advertising may generate feedback in ways that further enhance brand value. Givon and
+ Horsky (1990) note that some of the long-term effects of advertising can be attributed
+ to experience with the product, prompted by the initial advertising."
+
+ 8 A review of this literature is provided in Weiss ( 1971 ).
+ 9 A review of this literature with an eye to modeling techniques is provided in Hanssens et al. (1990).
+ 10 Garrick ( 1989) also argues that profitability rather than sales may be the appropriate criterion for evaluating
+
+ the success of advertising. Using scanner data, he finds that television advertising enhances profit margins for
+ 2-3 years.
+
+ '1 Based on the discussions of Clarke (1976) and Hanssens, et al. (1990) we posit that advertising should be
+
+ relatively short-lived. Revisions in expectations and feedback will likely be limited to a few years, if not a few
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 34
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ Age of the brand. We assume that the longer a brand has survived, the better the
+
+ ability of the firm to produce a consistent quality product that meets consumer expec-
+ tations. Because of this, the brand will benefit from greater awareness and loyalty. There
+ are relatively few surprises in consuming these goods. In support of this conjecture, Ries
+ and Trout (1986) report that of the 25 leading brands in the US in 1923, 20 were still
+ the top brands in their respective categories 60 years later.
+
+ Order of entry. The ability of a brand to establish a loyal customer base and charge
+ a price premium depends on competitive positioning. Both theoretical and empirical
+ research has considered the relationship between strategic positioning and order of market
+ entry. Schmalensee (1982) develops a theoretical model in which brand loyalty accrues
+ to the pioneering brand because consumers familiar with that brand perceive others to
+ be riskier. A number of empirical studies have found an inverse relation between order
+ of entry and market share (Robinson and Fornell 1985; Urban et al. 1986).
+
+ Current and past advertising share. Consumers' perceptions of a brand are influenced
+
+ by competitive positioning and competitors' advertising. Little (1979) argues that ad-
+ vertising models should control for competitors' advertising, since the advertising of one
+ brand can have a negative effect on the sales of other brands. Thomas (1989) finds that
+ own-brand advertising most strongly affects sales relative to the stock of advertising carried
+ out by competitors. The same reasoning can be extended to gauge the effect of competition
+ on brand equity. To reflect the impact of competitors' advertising, we include advertising
+ share variables, where advertising share is defined as
+
+ (own advertising)t/(total competitors' advertising )t .
+
+ 3.2. Methodology: Specifics
+
+ Capitalizing the cash flows attributed to total firm assets we can write the asset value
+
+ of the firm V* as follows:
+
+ V* = VT+ VI (1)
+
+ where VT is the value of the firm's tangible, nonspecific assets and VI is the value of the
+ firm's intangible assets. For publicly traded firms, V* is the sum of ( 1) the market value
+ of the common stock, (2) the market value of the preferred stock, (3) the market value
+ of the long-term debt, and (4) the market value of the short-term debt.
+
+ VT equals the replacement value of the firm's tangible assets. Replacement value is
+
+ defined as the current cost of purchasing an asset of equivalent productive ability.12
+ Intangible asset value is estimated as the difference between the financial market's val-
+ uation of the firm and the firm's replacement cost: VI = V* - VT. Since brand equity
+ is a component of intangible asset value, V1 serves as an upper bound for brand equity.
+
+ months. We report results for a one year (period) lag in the sections that follow. Longer lags have been tested
+ and are not generally significant, statistically or conceptually, for our sample.
+
+ 12 Replacement value adjusts for changes in the price level and technological advances. Accounting statements
+
+ typically reflect the historic cost of long-lived assets. Hence, the book values of plant, equipment and inventories
+ are likely to be biased. Since 1976, the SEC has required that firms note the replacement value of capital stock
+ and inventories on 10-k's. Prior to 1976, replacement cost can be estimated from 10-k's and balance sheets
+ following a technique employed by Lindenberg and Ross ( 1981 ) or alternatively techniques used by the National
+ Bureau of Economic Research (NBER) in compiling their R&D Master File. The R&D Master file describes a
+ panel of 2,600 publicly traded manufacturing firms for the years 1959-1988. Adjusted financial information
+ and information on research activities are included in the data set. The Lindenberg and Ross method has been
+ used in numerous subsequent Tobin's Q papers. See Smirlock et al. ( 1984), Wernerfelt and Montgomery ( 1988)
+ and Salinger (1984). The NBER data are used in Morck et al. (1988). Both techniques adjust for productivity
+ changes and estimates of real economic depreciation.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 35
+
+ The Components of V1. Three major categories of intangible assets can be identified:
+
+ VI=f(Vb, Vnb, Vind) (2)
+
+ where Vb is the value of brand equity, Vnb is the value of nonbrand factors that reduce
+ the firm's costs relative to competitors, such as R&D and patents, and Vind is the value
+ of industry-wide factors which permit monopoly profits, such as regulation.
+
+ Brand equity can be further divided into two components:
+
+ Vb = Vbl + Vb2 (3)
+
+ where Vbl is the value of the "demand-enhancing" component of brand equity, and Vb2
+ is the value of expected reductions in marketing costs that result from established brand
+ equity.
+
+ Vbl is influenced by factors that enhance the perceived quality of the brand, such as
+ advertising and positive experiences with the product. Returns to these investments will
+ take the form of price premia over the prices commanded by generic goods in the market.
+ These enhanced cash flows will be capitalized into the value of the firm, producing
+ intangible brand assets. The second component of brand equity, Vb2, is the value of the
+ marketing costs that are saved by promoting branded products. Recall that use of a brand
+ name confers a cost advantage in new product introductions and may permit the firms
+ to realize scale economies in distribution.
+
+ Combining the two components of brand equity with the nonbrand factors we can
+
+ write:
+
+ VI = (Vbl + Vb2) + Vnb + Vind. (4)
+
+ The following sections look in turn at the determinants of brand equity (VbI + Vb2),
+ nonbrand factors that give rise to cost advantages (Vnb), and anticompetitive industry
+ structures (Vind).
+
+ Decomposing VI. We begin by considering the determinants of Vbl. The Vbl com-
+
+ ponent of brand equity is a function of factors that influence the brand's perceived quality,
+ affecting consumer demand for the product. The ability of the brand to command a price
+ premium is related to advertising and quality expenditures. Empirically, we examine the
+ contribution of current and past levels of advertising expenditures to intangible asset
+ value. We use the age of the firm's dominant brand as a proxy for the product-quality
+ investments that generate loyalty and awareness.13
+
+ Next we consider the determinants of Vnb and Vb2, the components of intangible asset
+ value that affect a firm's market share. These components of intangible asset value reflect
+ both cost advantages and consumer demand. Firms that enjoy some competitive advan-
+ tage in producing their goods and services tend to grow large relative to their competitors.14
+
+ Consider first the brand equity related factors. The value of Vb2 stems from its marketing
+ cost advantages. The value results from having extensive brand awareness and a favorable
+ image. The process creating Vb2 is complex because there are many marketing actions
+ that develop brand-awareness. We use the order of market entry (ord) and the brand's
+ advertising expenditures relative to its competitors' (adshr) as proxies for information
+
+ 13 In the firm-level analysis we use firm level variables, while in the micro analysis, we use measures specific
+
+ to a particular brand. For advertising, this implies that aggregate expenditures on advertising and promotion
+ are used in the macro analysis, while the micro analysis relies on brand-specific advertising expenditures from
+ sources such as LNA. With respect to age, in the macro analysis we have either ( 1 ) the age of the brand associated
+ with the firm name, or (2) the length of time that the firm has been involved in its primary line of business,
+ which ever is shorter. In the micro-level analysis, the age of the specific brand is used.
+
+ 14 Specialized factors of production that result in lower costs are called Ricardian factors in the economics
+ literature. If firms differ in costs and/or productivity, there will be a direct relation between observed market
+ share and profitability. Demsetz ( 1973) and Peltzman (1977) provide theoretical and empirical support for this
+ proposition.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 36
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ expenditures and positioning advantages. Boulding and Staelin (1991 ) confirm the link
+ between lower costs and higher market share.
+
+ Superior technologies and specialized know-how confer non-brand-related cost ad-
+ vantages. These sources of superior productivity are unrelated to the existence of specific
+ brand names. We posit that the firm's technological advantages, capitalized in nb, are
+ related to patshr, the firm's share of patents relative to competitors and rndshr, the firm's
+ share of R&D expenditures.15
+
+ We can observe market share, however we cannot directly observe which component
+
+ of market share is attributable to brand equity. It is necessary to separate brand-related
+ factors which give rise to market share advantages from those specialized factors which
+ are unrelated to brand equity. The breakdown of Vnb + Vb2 must be estimated. Let Vb2
+ = f( Sb2) and Vnb = f( Snb) where Sb2 is the market share attributable to brand equity
+ and Snb is the market share attributable to nonbrand factors.
+
+ Combining the brand-related and non-brand-related factors in the market share equa-
+
+ tions:
+
+ S = Sb2 + Snb (5)
+ Sb2 = f(ord, adshr) (6)
+
+ Snb = f(patshr, rndshr) (7)
+
+ where S is the total market share of the brand.
+
+ To separate the market share attributable to brand factors from the market share
+ attributable to nonbrand factors, we will regress the observed market share on all of the
+ factors:
+
+ S = bo + bl *ord + b2*adshr + b3*patshr + b4*rndshr + e (8)
+ E(Sb2) = bi*ord + b2*adshr (9)
+ E(Snb) = bo + b3 *patshr + b4*rndshr + e (10)
+
+ where the b's are estimated regression coefficients and e is the estimated regression re-
+ sidual.16
+
+ Finally we discuss the determinants of Vind. Following the industrial organization
+ literature, a firm's pricing strategy and profitability are affected by industry structure and
+ the regulatory environment. Highly concentrated markets mean fewer competitors, greater
+ ease of collusion and, in general, may imply higher profit margins on goods sold. These
+ profits are capitalized into the intangible asset value of the firm ( Vnd). Two theories on
+ the relation between regulation and Vind deserve consideration. In practice, regulation
+ can impose barriers to entry, raising prices and profits."7 Alternatively, to the extent that
+ regulation policies anticompetitive practices, regulation may limit profit-taking and, hence,
+ reduce Vind.
+
+ Market concentration is proxied by the four-firm concentration ratio (CR4). The
+
+ presence of regulatory barriers to entry is captured using industry-specific dummy
+ variables.
+
+ 15 We adopt a conservative approach in quantifying brand equity. Technological factors may in fact enhance
+ brand equity. By excluding technological factors from brand-related market share, we admittedly understate
+ measured brand equity in some industries. Specifically, R&D and patents could be an important determinant
+ of brand equity when technological innovation is of utmost importance to consumers.
+
+ 16 We conservatively attribute the constant to nonbrand related factors. The decomposition is in part arbitrary.
+
+ It does not significantly affect any of our findings, nor does it affect the use of our measure in competitive
+ analyses or in the evaluation of brand equity over time.
+
+ 17 Some examples include the airline industry (Kahn 1988), security markets (Jarrell 1984), and pharma-
+
+ ceuticals (Peltzman 1973).
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 37
+
+ Putting it all together. The market share estimates E(Sb2) and E(Snb) serve as proxies
+
+ for the brand and nonbrand factors that reduce costs, enhance market share and contribute
+ to profitability. We combine Equations (4)-(10) to arrive at a reduced form structural
+ equation for estimating the determinants of intangible capital values:
+
+ VI = fi + fr*CR4 + f2*reg + f3*adv + f4*age
+
+ + s5*E(Sb2) + 66*E(Snb) + V (11)
+
+ where CR4 is the four-firm concentration ratio, reg is a dummy variable indicating pres-
+ ence or absence of regulation, adv equals advertising expenditures, both current and past,
+ and age is the age of the firm.18
+
+ Brand equity can be computed from the estimates of the structural equation as 19
+
+ Vb = ,f3*adv + f4*age + ^5*E(Sb2). (12)
+
+ 4.1. Characteristics of the Sample
+
+ 4. Estimates of Brand Equity
+
+ Following the methodology outlined in the previous section, Equations (8)-(12) were
+
+ used to estimate brand equity for a sample of 638 firms for the year 1985. The sample
+ was constructed to contain firms from a wide range of manufacturing industries, with a
+ wide range of consumer and industrial products, both branded and unbranded. Firms
+ meeting the following criteria were selected for the sample: (1) The firm was a public
+ corporation whose stock was listed on the NYSE, AMEX or NASDAQ, (2) the major
+ activity of the firm was classified as manufacturing (Standard Industrial Classifications
+ 20-39), (3) information on the firm's assets, advertising activities, R&D expenditures,
+ patents, sales and lines of business were available for the period 1981-1985 in the Com-
+ pustat and NBER data bases, (4) the firm did not acquire or divest of major business
+ units in 1984 or 1985, and (5) the firm was not merged or acquired by another firm in
+ 1984 or 1985.
+
+ Mergers, acquisitions and divestitures of major business lines pose special problems
+ since they are frequently accompanied by significant restructuring of the corporation and
+ repositioning of its products. We exclude firms with significant merger and acquisition
+ activity in order to better focus on internal activities, such as advertising and R&D, that
+ affect the value of the firm and its products.
+
+ Table 1 presents descriptive statistics on the characteristics of the sample. The variables
+
+ are described in the Appendix.
+
+ 4.2. Estimates of the Determinants of Market Share
+
+ Macro estimates of brand equity are derived from OLS estimates of Equations (8)
+
+ and (11). We present pooled cross-industry estimates in the body of the paper.20 We
+
+ 18 Note that equation ( 11 ) contains two types of advertising variables: adv and adshr. adv includes current
+ and past advertising expenditures, which are intended to capture the demand-enhancing component of brand
+ equity. The demand-enhancing component of brand equity should create value through price premia over
+ unbranded products. The other advertising variable, adshr, includes current and past advertising share relative
+ to competitors. The purpose of including adshr is to proxy for competitive marketing cost advantages. The cost-
+ advantage component of brand equity generated by adshr works through the market share of the brand: the
+ larger the component of market share caused by adshr, the larger the marketing cost advantage due to brand
+ equity.
+
+ 19 Admittedly, this specification understates the range of relevant marketing mix variables and their interre-
+ lationship. To the extent that omitted factors are correlated with advertising and promotion our specification
+ is an adequate proxy for the "true" model. Richer data are required to support a more detailed model.
+
+ 20 Standard diagnostics for the homoscedasticity of residuals were performed. Scaling and weighting trans-
+
+ formations, where required, are noted below.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 38
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ TABLE 1
+
+ Characteristics of the Firms in the Sample
+
+ Variable Mean Median Std. Deviation Range
+
+ Firm Value ($mill) 726 601 1560 25-92636
+
+ Tobin's Q 1.34 1.28 1.05 0.38-9.81
+
+ Advertising
+ Advertising 0.036 0.032 0.075 0-0.531
+ Firm Value
+
+ R&D  ~R&D _0.053 0.041 0.087 0-0.813
+
+ Firm Value
+
+ Patents 5.3 2 28 0-510
+
+ Market Share (%) 1.58 1.26 0.57 0.15-28.6
+
+ recognize that the coefficients on the structural equations may vary significantly across
+ industries in which the model is reestimated at the 2-digit SIC industry level. Results of
+ the industry-by-industry estimation are available from the authors.21
+
+ As discussed in the previous sections, both brand strength and technological or man-
+
+ agerial know-how will affect a firm's ability to command market share. Before estimating
+ the value of brand equity we must apportion market share into brand-related and non-
+ brand-related components.
+
+ Estimating the market share Equation (8) for our sample of firms, we obtained
+
+ S= 1.25 + 1.02 *adshr + 0.50 *adshr_l - 0.91 *ord
+
+ (2.75) (2.56) (1.99) (1.68)
+
+ + 0.02 *patshr + 0.53 *rndshr
+
+ (1.56) (2.79)
+
+ where R2 = 0.71 and the t-statistics are listed in parentheses.
+
+ As predicted both brand and nonbrand factors contribute to the observed market share
+
+ of the company. There is a direct, approximately one-for-one relationship between a
+ firm's share of advertising in the current year and its market share. Product awareness
+ generated by advertising extends beyond the first year. The positive significant coefficient
+ on lagged advertising suggests that promotion expenditures retain about half of their
+ original effectiveness into the second year. Early entrants enjoy sustained market share
+ advantages, as suggested by the negative coefficient on the order of entry variable. The
+ estimated coefficient implies approximately a one percent market share increase for the
+ first entrant relative to the last.22
+
+ Technological factors contribute to higher market shares by reducing production costs
+
+ or generating innovative products. Both R&D expenditures and the number of patents
+ owned by a firm tend to augment market shares. The technological ability captured in
+ these variables, however, has a smaller impact on market share than do the brand-related
+ factors.
+
+ From the estimates above and Equation (9), we can derive the estimate of the market
+
+ share attributable to brand equity:
+
+ 21 Pooling reduces the precision of the brand equity estimates. We can reject the hypothesis at a = 0.05 that
+
+ the coefficients on advertising and advertising share are equal across industries. With few exceptions, however,
+ the qualitative results are not affected by pooling. Hence, pooled results are presented to succinctly illustrate
+ how the methodology may be operationalized.
+
+ 22 A relatively broad definition of a market is used in this study. This will tend to reduce the size and significance
+
+ of the coefficients in the market share regression.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 39
+
+ Sb2 = 1.02*adshr, + 0.50*adshrt_, - 0.91 *ord. (14)
+
+ The market share attributable to brand equity Sb2 is used below in the brand equity
+
+ regressions.23
+
+ 4.3. Estimates of Brand Equity
+
+ Our representation of the factors that contribute to brand equity is given in Equation
+ (12). It is instructive to compare measured brand equity across companies of widely-
+ varying size. For that reason, brand equity is estimated as a percentage of tangible asset
+ value. We scale VI and all independent variables in Equation (15) by VT, i.e. the re-
+ placement value of the firm. Hence, Vl/VT is the transformed dependent variable.24
+
+ The estimated coefficients from this regression are
+
+ V, = 0.18 + 0.0111 *CR4 + 0.525 *adv + 0.0330 *adv,t_
+
+ (2.10) (0.58) (2.31) (0.89)
+
+ + 0.0026 *age + 0.0254 * Sb2 + 0.0318 Snb15)
+
+ (1.89) (2.17) (2.49)
+
+ where R2 = 0.39.
+
+ From the estimated coefficients, we derive brand equity as a fraction of the firm's
+
+ replacement value:
+
+ B* = 0.0525*adv, + 0.0330*adv,_l + 0.0026*age + 0.0254*5b2. (16)
+
+ The coefficients may be naturally interpreted as rates of return on "investments" in
+
+ brand assets. Hence, on average, there is a five percent return on advertising in the current
+ period. Prior period advertising expenditures reflect depreciation of advertising messages,
+ averaging approximately a three percent return across industries.
+
+ Table 2 reports the estimates of brand equity by industry.25 Intangible asset value is
+
+ also reported. It is interesting to note that not only do industry groups vary significantly
+ according to the importance of intangible assets, but the portion of intangible asset value
+ ascribed to brand equity also varies considerably. The average estimated brand equity
+ for the 638 firms in the sample was 19% of tangible asset value. The median brand equity
+ for the sample was 14%. Note that the industries that produce and sell consumer brand
+ products have much higher than average estimated brand equity. For example, in the
+ Food Products industry, the ratio of tangible assets to intangible assets is approximately
+ 2:1. Food processing is not a high technology industry. The cost advantages that one
+ firm has over another are likely to be based on superior distribution or managerial ability.26
+ However, food products are heavily branded. Our methodology attributes over 80% of
+ intangible asset value to brand-related activities in the food processing industries.
+
+ 23 A two-stage estimation technique is used because we are interested in observing the structural coefficients
+
+ in the market share equation and the coefficient on the share variable in the intangible asset equation. These
+ cannot be identified in reduced form estimation. Furthermore, given that the share variables are likely measured
+ with some error, the use of predicted share in the intangible asset equation will improve coefficient estimates.
+ In practice, two-stage model and the reduced form model yield very similar estimates of brand equity.
+
+ 24 VI/VT = (Tobin's Q) - 1. Scaling improves the econometric properties of the estimates. Without scaling,
+
+ the regression residuals are heteroscedastic. We scale by tangible assets rather than sales, as do Hirschey and
+ Weygandt (1985), to avoid feedback between our independent variables and the scaling variables. A sales
+ variable would be endogenous.
+
+ 25 Only one industry in our sample, pharmaceutical products (SIC 2834), is subject to significant regulation.
+ A dummy variable was added to the regression to examine whether the drug industry was characterized by
+ higher or lower levels of intangible asset value. The estimated coefficient on the dummy variable was small and
+ positive, but not statistically significant.
+
+ 26 Our methodology does not account for the effects of superior managerial ability. The value of either superior
+
+ or inferior managers will be captured in the residual of the VI regression. Our estimates of brand equity will be
+ unbiased under most assumptions on the effects that specific managers have on corporate value.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 40
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ TABLE 2
+
+ TABLE 3
+
+ Brand Equity (B*) and Intangible Asset Value (V ) by
+
+ Measured Brand Equity for Food Product
+
+ Industry (as a % of Firm Replacement Value)
+
+ Companies (as a % of Firm
+
+ 1985 Average
+
+ Replacement Value) 1985 Average
+
+ Industry (SIC) B* VI
+
+ Company B*
+
+ Food Products (20) 37 45
+ Tobacco (21) 46 30
+ Textile Mills (22) 9 20
+ Apparel (23) 61 73
+ Lumber and Wood Products (24) 20 18
+ Furniture and Fixtures (25) 11 15
+ Paper and Allied Products (26) -3 5
+ Printing and Publishing (27) 58 63
+ Chemicals (28) 34 81
+ Petroleum and Coal (29) -3 -18
+ Rubber and Misc. Plastic (30) 26 39
+ Leather (31) 28 30
+ Stone, Glass, and Clay (32) 0 -5
+ Primary Metals (33) 1 11
+ Fabricated Metals (34) -1 7
+ Nonelectric Machinery (35) 17 40
+ Electric Machinery (36) 22 47
+ Transportation Equipment (37) 20 28
+ Measure, Photo Equipment (38) 39 84
+ Miscellaneous Mfg. (39) 26 38
+
+ Anheuser Busch 35
+ Brown-Forman 82
+ Cadbury-Schwepps 44
+ Campbells 31
+ Dreyers Ice-Cream 151
+ General Mills 52
+ Heinz 62
+ Kellogg 61
+ Pillsbury 30
+ Quaker 59
+ Ralston-Purina 40
+ Sara Lee 57
+ Seagram 73
+ Smucker 126
+ Tootsie Roll 148
+
+ Conversely, consider the Chemical industry (SIC 28). This grouping includes Dow
+
+ Chemical and Squibb Pharmaceuticals, as well as Revlon Inc. and Avon Products. All
+ of these firms have high levels of intangible assets (high values of Q). As an industry, a
+ little over a third of intangible asset value is attributed to brand equity. There is consid-
+ erable variation in this split. In general, the stronger the consumer product orientation,
+ the more is measured brand equity. Dow Chemicals high intangible asset value is driven
+ by relatively high R&D expenditures, while Squibb enjoys strong patent protection as
+ well as healthy returns from R&D. For Avon and Revlon, on the other hand, more than
+ two-thirds of intangible asset value is attributed to brand-related factors.27
+
+ Finally, we examine our measure of brand equity for a sample of firms within one
+
+ broadly defined industry group. We choose Food Processing (SIC 20) because it included
+ companies with many of the most recognized consumer as well generic food processing
+ companies.
+
+ Table 3 reports the macro estimates of brand equity for several food products com-
+
+ panies. Estimates employ industry-specific coefficient estimates for the food products
+ industry, SIC 20.28
+
+ The high estimated brand equity of Tootsie Roll suggests that even though it may be
+
+ relatively easy to develop a "me-too" candy product, a considerable amount of the profits
+
+ 27 The industries with companies with highly visible brand names have the highest measured brand equity.
+
+ To demonstrate this, play the following game: calculate how long it takes you to think of the top brands in each
+ industry. How long does it take you to think of the top tobacco brand names? The stone, glass, and clay brand
+ names? It appears that there is an inverse correlation between the time it takes to remember the brands and
+ estimated brand equity.
+
+ 28 The market-share equation for the food-products industry is
+
+ S = bo - 1.03*ord + 1.28*adshrt + 0.60*adshr,_1 + 0.17*patshr + 0.63*rndshr.
+
+ The intangible asset equation for the food products industry is
+
+ VI = %o + 0.008*CR4 + 0.092*adv, + 0.044*advt_, + 0.008*age + 0.057*Sb2 + 0.061 Snb.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 41
+
+ ascribed to Tootsie Roll accrue directly from its strong brand name. Dreyer's Ice-Cream
+ markets premium ice-cream under its corporate brand name in western states and under
+ the Edy's brand name in eastern states. The premium ice-cream market exhibited high
+ rates of growth in the mid- and late-1980s, and Dreyer's was well positioned to take
+ advantage of expanding market opportunities. Measured in 1985, Dreyer's brand equity
+ captures the expected growth in the market and the success of the Dreyer brands. The
+ high brand equity of Brown-Forman undoubtedly comes mostly from Jack Daniel's
+ brand name. General Mill's macro-level brand equity is based on such brand names as
+ Betty Crocker, Bisquick, and Cheerios.
+
+ 5. The Impact of Marketing Events on Brand Equity
+
+ In this section we describe the micro approach to analyzing brand equity. This approach
+ allows us to determine the effect of"marketing events," such as the company's marketing
+ decisions, competitors' actions, and changes in market demand, on the firm's brand
+ equity. In a well-functioning securities market, any marketing event that affects cash
+ flows will cause a change in estimated brand equity as soon as the event is anticipated.
+ When the marketing event is a brand-level decision, the change in the firm's brand equity
+ can be attributed to a specific brand. To illustrate the micro approach, we analyze how
+ three marketing events in the 1980s affected the brand equity of Coca-Cola and Pepsico:
+ the introduction of Diet Coke in 1982, the approval of aspartame for use in soft drinks
+ in 1983, and the introduction of New Coke in 1985.
+
+ This analysis is similar to event studies that are commonly used to determine how
+
+ regulatory decisions, corporate takeovers, and marketing decisions affect the value of the
+ firm (Schwert 1981). For example, Jarrell and Peltzman (1985) use an event study to
+ show that drug and automobile recalls significantly effect the market value of the stricken
+ firms. In the marketing literature Horsky and Swyngedouwn (1987) examine the effect
+ of company name changes on stock returns. Chaney et al. (1991) analyze the impact of
+ new-product introductions on the market value of firms. Our methodology differs from
+ the traditional event-study approach in that we are concerned with how events specifically
+ affect brand equity. By removing the influence of nonbrand factors like R&D expenditures
+ and patent applications, we focus on the effect of brand-related factors rather than other
+ factors that could alter the value of the firm, but that do not influence brand equity.
+
+ We measure the impact of an event by comparing the value of brand equity at two
+
+ points in time: the first, before any "pre-event" information becomes available; the second,
+ some time after the event has been disclosed to the public, allowing "post-event" infor-
+ mation to be released. First we need to demarcate the time period over which the financial
+ markets received news of the event. The problem of setting the event window is not
+ trivial; it is often difficult for researchers to determine when a marketing action was first
+ anticipated by the financial markets and how long the market's response to the decision
+ is felt.
+
+ Selecting an early starting date is beneficial because it allows relevant information to
+
+ be captured in the estimate of brand equity. It is common for information about the
+ event to leak out before the first public announcement date. For example, securities
+ markets respond to information about merger negotiations on the day that they are
+ announced in the Wall Street Journal. There is evidence, as well, of a significant amount
+ of leakage in the preceding days or even weeks. For regulatory changes, the lead time is
+ usually longer, due to prolonged deliberations of committees or the results of extensive
+ studies.29 Consequently, event windows in cases of regulation start several months before
+
+ 29 See Jarrell and Poulsen (1989) for evidence of a significant leakage of information in mergers and acquisitions
+ in the month prior to announcement. Binder ( 1985) studies 20 regulatory events and finds systematic evidence
+ of information leakage beginning at least three months prior to the first announcement.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 42
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ announcement dates to capture public knowledge of the pre-event activities. Marketing
+ decisions are frequently leaked prior to the official announcements to the public, since
+ these decisions are preceded by batteries of surveys, market tests, and managerial delib-
+ erations. For example, new-product introductions in the computer industry are typically
+ anticipated by industry analysts months before the introduction.
+
+ Once the appropriate starting point is selected, it is necessary to pinpoint a final date
+
+ that permits the full impact of the event to be captured. Brand equity will subsequently
+ adjust to unanticipated responses by consumers and competitors. The final date should
+ be selected to capture the effect of these responses. For example, customer acceptance of
+ a new product might be higher or lower than initially expected.
+
+ Extending the event window too far in either direction reduces our ability to focus on
+
+ the specific event of interest. The wider the event window, the greater the probability
+ that other events will occur, confounding the measurement of the event being analyzed.
+
+ To determine whether other events could be driving the results of our event studies,
+
+ we conducted an extensive search of public sources, such as the Wall Street Journal
+ Index and the Business Periodicals Index. It does not appear that other important events
+ took place at the same time as our events of interest.30 Table 4 provides a list of the
+ marketing events for Coca-Cola and Pepsi from 1980 to 1985. The list includes all events
+ related to marketing the companies' soft drinks. The major events are in boldface type.
+
+ It is important to note that the efficient-markets hypothesis does not imply that investors
+ have perfect foresight about the effects of a marketing event. While there is ample support
+ for the proposition that securities prices incorporate unbiased forecasts of the future, it
+ is possible that the actual effects will turn out to be quite different, for reasons that were
+ unanticipated at the announcement date. By analyzing changes in brand equity and
+ market share after the event, it should be possible to determine whether original forecasts
+ were borne out.
+
+ Our objective in this section is to analyze the changes in brand equity of the two top
+
+ soft-drink producers from 1980 to 1986. The leading companies in the soft drink industry
+ make heavy use of brand names and advertising. In 1980, the estimated brand equity of
+ Coca-Cola was 55% of the company's market value, and was 39% for Pepsi. In the 1980s,
+ the soft drink industry experienced increasing demand and many new-product intro-
+ ductions. Overall, we find that Coca-Cola and Pepsico experienced major changes in
+ brands equity in response to three major events. Furthermore, the changes in brand
+ equity tended to precede changes in the companies' market shares.
+
+ The remainder of this section describes each of the three main events in the soft drink
+
+ industry in the 1980s. For each event, an event window is constructed. The changes in
+ brand equity for Pepsi and Coca-Cola are shown for each window. Also analyzed are the
+ companies' market shares in certain submarkets surrounding each event.
+
+ The introduction of Diet Coke has been touted as the most successful new product
+
+ introduction in the history of the beverage industry. It also initiated a major policy
+ change for Coca-Cola, since it was the first time that the company extended its corporate
+ name. The idea of marketing a diet soft drink bearing the Coke was not new-Coca-
+ Cola executives had discussed the possibility as early as 1964, the year in which Tab was
+ introduced.31 A major impediment in the decision to go ahead with the project was the
+ risk of damage to the Coke name by linking it with saccharin, a potentially cancer-
+ causing substance. The project was finally pushed through by the new CEO Roberto
+ Goizueto, who did not share the traditional corporate view that Coke should be a single-
+ product brand name.
+
+ There are three reasons we expect the Diet Coke introduction to affect Coca-Cola's
+ brand equity. First, the new product itself was very successful and, presumably, very
+ profitable. If the anticipated profits from Diet Coke stem from the Coke name, our
+
+ 30 We removed the days in which earnings announcements were made from our calculations.
+ 31 The details of this summary were taken from Oliver (1986), Chapter 7.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 43
+
+ TABLE 4
+
+ Marketing Events in the Soft Drink Industry
+
+ Coca-Cola
+
+ Pepsi
+
+ 1980 January
+
+ April
+ May
+
+ 1982 July
+
+ August
+
+ 1983 April
+ June
+
+ Diet Coke project is initiated
+ New Mr. Pibb formula
+ Coke is marketed in China
+
+ Diet Coke announced
+ Diet Coke introduced
+
+ Caffeine-free Coke introduced
+
+ July
+
+ Aspartame approved for use in soft
+
+ drinks
+
+ Searle signs contract with Coca-Cola
+
+ August
+ September
+
+ 1984 February
+
+ March Coca-Cola alters advertising so as to not
+
+ mislead consumers regarding use of
+ saccharin
+
+ Diet Coke overtakes 7-Up as the third
+ most popular soft drink in the U.S.
+
+ Caffeine-free Pepsi introduced
+
+ Scully leaves Pepsi
+ Burger King switches to Pepsi
+ Aspartame approved for use in soft
+
+ drinks
+
+ Searle signs contract with Pepsi
+
+ Slice introduced
+
+ May Coke changes formula to 100% corn
+
+ Advertisement with Jacksons
+
+ sweetener from sugar
+
+ June Minute Maid introduced
+ November Coke drops saccharin completely in
+
+ Pepsi first soft drink producer to drop
+
+ response to move by Pepsi
+
+ saccharin completely
+
+ 1985 February Cherry Coke introduced
+
+ April New Coke introduced
+
+ July Original Coke formula reintroduced as
+
+ Coke Classic
+
+ August Coca-Cola clothing
+ October Coca-Cola test markets a reformulated
+
+ version of Fresca
+
+ Pepsi changes formula to 100% corn
+
+ sweetener from sugar
+
+ Pepsi commercial with Geraldine
+
+ Ferraro
+
+ estimate of brand equity will increase. Second, if the link with saccharin was detrimental
+ to the Coke name, this would reduce the company's brand equity. Third, the change in
+ Coca-Cola's extension policy should affect brand equity, although it is not obvious ex
+ ante what the effect will be. It can be argued that allowing brand extension will increase
+ brand equity. If a company owns a valuable brand name and has a policy of never using
+ brand extension, the company is underutilizing a profitable asset. Alternatively, a policy
+ that results in the inappropriate extension of brands could reduce brand equity (Ries
+ and Trout 1986). Misuse of brand extension can damage a company's image and its
+ brand equity (John and Loken 1990).
+
+ By analyzing the changes in Coke and Pepsi's brand equity surrounding the introduction
+
+ of Diet Coke, we can determine how the event influenced the relative strength of the
+ Coke brand. If the introduction increased Coke's market share and profitability at Pepsi's
+ expense, then Pepsi's brand equity should decrease.
+
+ Figure 1 graphs the changes in brand equity for Coca-Cola and Pepsi over the event
+ window surrounding the introduction of Diet Coke.32 The announcement was made in
+ July 1982, and the event window extends from February 1982 to November 1982. The
+
+ 32 In each of the events, we calibrate the model using industry-level data for a period that overlaps the event
+
+ window.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 44
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ 1.7
+
+ 1.6 -
+
+ ? 1.5 - introduced
+
+ - July 1982: Diet Coke
+
+ 1.4 -
+
+ ._ 1.3- -
+
+ c 1.2 -
+
+ 1. -
+
+ 0.9 -
+
+ O Coke + Pepsi
+
+ Year
+
+ FIGURE 1. Brand Equity of Coca-Cola and Pepsico: Introduction of Diet Coke.
+
+ brand equity of both Coca-Cola and Pepsi have been normalized to unity at the beginning
+ of the event window. The brand equity of Coca-Cola began to increase three months
+ prior to the announcement, which suggests that there was leakage of information about
+ the forthcoming launch. When Diet Coke was publicly announced. Coca-Cola's brand
+ equity continued to increase. In October 1982, Coca-Cola's brand equity increased rapidly,
+ probably due to Diet Coke's strong initial performance.33 At the same time, Pepsi's brand
+ equity leveled off, then dropped dramatically in September 1982 after a brief increase in
+ August. This indicates that Diet Coke enhanced Coke's brand equity and put Pepsi at a
+ relative disadvantage. This is borne out by the change in market shares over the period.
+ Figure 2 shows that the market shares of Coca-Cola and Pepsi's diet brands were increasing
+ at about the same rate between 1981 and 1982. With the introduction of Diet Coke,
+ Coca-Cola's share of this market increased at a higher rate than before, while Pepsi's
+ growth leveled off. This shows that Pepsi was hurt by the introduction of Diet Coke and
+ by the change in Coca-Cola's brand extension policy.
+
+ The second major event we examine is the approval of aspartame for use in soft drinks
+ in July 1983.34 The introduction of aspartame had the potential to substantially expand
+ the market for diet soft drinks. Aspartame did not pose the health risks of saccharin.
+ Also, it tasted better than saccharin. New soft drinks bearing recognized brand names
+ would presumably be greeted with higher consumer acceptance. For this reason, estab-
+ lished brand names would reduce the cost of entering into the aspartame-sweetened diet
+ soft drink market. Immediately following the aspartame announcement, we predict that
+ the financial measures of brand equity derived in this study will adjust to reflect the
+ expected success of Coca-Cola and Pepsi in their expansion into aspartame-sweetened
+ soft drinks.
+
+ Figure 3 traces brand equity before and after the FDA's approval of aspartame for use
+
+ in soft drinks in July 1983. The event window extends from February 1983 to November
+
+ 33 Diet Coke achieved a 3.3% share of the entire soft drink market in its first full year after being introduced.
+ 34 The details of the approval of aspartame and its subsequent licensing to soft-drink producers were taken
+
+ from a series of Wall Street Journal articles.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 45
+
+ 13
+
+ 12 -
+
+ 11 -
+
+ 10 -
+
+ 9 -
+
+ 8-
+
+ Q)
+
+ a
+
+ 7-
+
+ ()
+
+ 6-
+
+ I 1
+
+ a
+
+ 5-
+
+ 4 -
+
+ 3 -
+
+ 2 -
+
+ 1 -
+
+ 0
+
+ 1982
+
+ 1983
+
+ 1984
+
+ 1985
+
+ 1986
+
+ 1987
+
+ 1988
+
+ O Coca-Cola
+
+ + Pepsico
+
+ FIGURE 2. Market Shares of the Diet Brands of Coca-Cola and Pepsico.
+
+ 1983. The brand equity of both companies was falling prior to the event. This may be
+ attributable to soft drink sales being lower than expected (Standard and Poors 1983).
+ Immediately after the announcement, Coca-Cola's brand equity increased. Pepsi's brand
+ equity started to increase in September when Pepsi signed a contract with Searle for the
+ Nutrisweet brand of aspartame. Brand equity for both Pepsi and Coke increased until
+
+ 0 o
+
+ 00
+
+ .)
+
+ 3
+
+ c
+
+ -
+
+ Q)
+
+ 0
+ >
+
+ 1.7
+
+ 1.6 -
+
+ 1.5 -
+
+ 1.4 -
+
+ 1.3 -
+
+ 1.2 -
+
+ 1.1 -
+
+ 1 -
+
+ 0.9 -
+
+ 0.8
+
+ feb83
+
+ - July 1983: Aspartame approved
+
+ for use in diet drinks
+
+ f,^^
+
+ rt I
+
+ I I
+
+ apr8 apr83
+
+ jun83
+
+ aug83
+
+ oct83
+
+ aug83
+
+ FIGURE 3. Brand Equity of Coca-Cola and Pepsico: Approval of Aspartame for Use in Soft Drinks.
+
+ O Coke
+
+ + Pepsi
+
+ Year
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 46
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ November 1983. The announcement had a larger impact on Coca-Cola than on Pepsi,
+ which is consistent with the fact that soft drinks comprised about 80% of Coca-Cola's
+ revenues, and only 40% of Pepsi's. Figure 2 shows that both Coca-Cola and Pepsi's shares
+ of the diet market increased after the approval of aspartame. For Pepsi, this increase
+ marked a change in their stagnant performance in 1982-1983 following the introduction
+ of Diet Coke.
+
+ The third major event was the introduction of New Coke in April 1985.35 Prior to
+ this, the original Coke formula had never been altered. Since the mid-1960s Coke had
+ lost market share to the sweeter-tasting Pepsi. Coca-Cola executives believed that by
+ repositioning their product to taste more like Pepsi, they could recapture market share.
+ Coca-Cola CEO Goizueta said that the decision was supported by almost 200,000 con-
+ sumer taste tests, which revealed a strong preference for the new formula. However, New
+ Coke formula was not well received by customers, and Coca-Cola decided to reintroduce
+ its old formula as Coke Classic in July 1985.
+
+ Whether the New Coke episode ultimately helped or hurt Coca-Cola has never been
+
+ resolved. Marketing experts differ in their opinions, with some calling it an admission
+ of failure and others, a brilliant move (Kilman 1985). On the one hand, since the initial
+ decision elicited an unfavorable reaction, we expect that the introduction of New Coke
+ would reduce Coca-Cola's brand equity. The event also put to question the ability of
+ Coca-Cola's management team. In addition, there was a loss in consumer confidence in
+ Coca-Cola's products. Finally, there were substantial costs involved in introducing New
+ Coke, which were not recovered by the new product's low sales. On the other hand, it
+ has been claimed that Coca-Cola came out ahead from the free publicity (Oliver 1986),
+ which could have increased brand equity through enhanced product awareness.
+
+ One expects Pepsi's brand equity to increase from the new Coke incident, for two
+
+ reasons. First, Coca-Cola's move was defensive, and Pepsi was perceived as having out-
+ maneuvered Coke. Second, the widespread publicity should have increased awareness of
+ the Pepsi name.
+
+ Figure 4 shows the impact on brand equity of Coca-Cola's decision to introduce New
+
+ Coke in April 1985. The event window extends from November 1984 to November 1985.
+ Coca-Cola's brand equity declined slightly after the announcement in April, then sta-
+ bilized. Pepsi's brand equity continued to increase, as it had been since January. It is
+ surprising that the announcement of New Coke had only a small effect in Coke's brand
+ equity. However, analyzing brand equity from the beginning of the window in November
+ 1984 reveals a possible explanation. Coca-Cola's brand equity started a three-month
+ downward trend in January 1985, while Pepsi's brand equity started to increase at the
+ same time. Perhaps not coincidentally, there was a meeting of Coca-Cola and McCann-
+ Erickson executives to plan the New Coke launch in January 1985. While the meet-
+ ing was supposed to be confidential, the drop in Coke's brand equity early in 1985
+ and Pepsi's simultaneous increase suggest that some information from this meeting
+ leaked out.
+
+ Figure 5 graphs the market shares of Coke and Pepsi's flagship products.36 The shares
+
+ of both products had been declining since 1981 as consumers began to substitute diet
+ soft drinks for regular soft drinks. In 1983, Pepsi's share stabilized, while Coke's position
+ continued to deteriorate. In 1985, the year that New Coke was introduced, Coke's share
+ increased, while Pepsi's decreased slightly. Apparently Coke's flagship products experi-
+ enced a large drop in share after the event, and the share was only partially recovered in
+ subsequent years. Overall, the changes in relative brand equity and market shares show
+ that Coca-Cola was hurt by introducing New Coke.
+
+ 35 This summary was constructed from Oliver (1986) and Benjamin and Mitchell ( 1988).
+ 36 For Coke, this includes original Coke, New Coke, and Coke Classic. For Pepsi, this includes only the
+
+ flagship Pepsi formula.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 47
+
+ 0
+
+ 0
+ \
+
+ u.-
+
+ a
+ 'o
+ c
+ 0
+
+ m
+
+ 5
+ 0
+
+ r3
+
+ >
+
+ 1.7
+
+ 1.6
+
+ 1.5
+
+ 1.4
+
+ 1.3
+
+ 1.2
+
+ 1.1
+
+ 1
+
+ 0.9
+
+ 0.8
+
+ nov84
+
+ jan85 mor85 moy85 jul85 sep85
+
+ nov85
+
+ 0 Coke
+
+ + Pepsi
+
+ Year
+
+ FIGURE 4. Brand Equity of Coca-Cola and Pepsico: Introduction of New Coke.
+
+ The results of this analysis demonstrate that the micro approach can be used to measure
+
+ the impact of brand-level decisions and other marketing events on estimated brand equity.
+ We found that Coca-Cola's brand equity increased when the Coke name was extended
+ to Diet Coke and that the brand equity of Pepsi was reduced. The approval of aspartame
+ for use in soft drinks resulted in higher brand equity for both Coke and Pepsi, due to the
+
+ Q)
+
+ 0
+ r
+ 0-
+
+ Q)
+ to
+ V
+ 2
+ C)
+ :E
+
+ 27
+
+ 26
+
+ 25
+
+ 24
+
+ 23
+
+ 22
+
+ 21
+
+ 20
+
+ 19
+
+ 18
+
+ 17
+
+ 1982
+
+ 1983 1984 1985 1986 1987
+
+ 1988
+
+ O Coca-Cola
+
+ + Pepsico
+
+ FIGURE 5. Market Shares of the Flagship Products of Coca-Cola and Pepsico.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 48
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ expected profitability of future aspartame-sweetened products. New Coke, the contro-
+ versial reformulation of Coke, reduced Coca-Cola's brand equity and increased Pepsi's.
+
+ 6. Implications, Limitations, and Extensions
+
+ We have presented a technique for placing an objective value on a company's brand
+
+ names. The technique was first demonstrated by estimating macro-level brand equity of
+ a sample of industries and a sample of firms. The results are in accordance with what
+ one would expect: the industries and companies with big brand names have high macro
+ estimates of brand equity. We further substantiated our methodology by showing that
+ micro estimates of changes in brand equity vary with marketing decisions and market
+ conditions.
+
+ Our study demonstrates that Wall Street does not ignore marketing factors. This is
+ important because marketers have been confused as to the extent to which marketing
+ decisions are captured by financial markets. Some have even claimed that brand equity
+ is ignored by investors. For example, in Maltz (1991) Dave Fredericks says "Brands are
+ [. . .] largely ignored by the financial community." We could not disagree more strongly.
+ The significance of the coefficients in the macro analysis and the response of brand equity
+ in the micro analysis show that marketing factors are reflected in stock prices.
+
+ Our estimates of brand equity could be improved by using confidential company-level
+
+ data. Specifically, more refined measures of market share and advertising would result
+ in more accurate estimates of brand equity. In addition, our measure of advertising could
+ be broken down to distinguish between types of promotional expenditures, or to include
+ such factors as sales force expenditures and marketing research expenditures. Since data
+ of this nature are largely proprietary they were not available for this study but would be
+ available to company insiders. Including these factors would improve estimates of brand
+ equity and would allow managers to answer puzzling questions about brand equity for-
+ mation. For example, does promotion increase or decrease brand equity? For industrial
+ companies, how much do sales force expenditures increase brand equity relative to ad-
+ vertising? Do companies that spend more on marketing research obtain more brand
+ equity for a given investment in advertising?
+
+ While we have estimated brand equity at the firm level in this paper, our macro tech-
+ nique could be extended to estimate approximations of brand equity for large individual
+ brands or brand categories using time series data. In this paper, our illustration of the
+ macro technique utilizes cross-sectional data to estimate firm-level brand equity with
+ industry-average coefficients. This technique can be modified to estimate brand-level
+ brand equity using company-average coefficients derived from time-series data. Data
+ availability and conceptual issues will guide estimation. The market value of the firm is
+ updated daily in financial markets. Hence, observations on the independent variable,
+ intangible asset value, are available over very short intervals. The firm will also need to
+ obtain time-series brand-level information on advertising, advertising share, age, order
+ of entry, and other factors. Whether weekly, monthly, or annual data should be used
+ depends on the durability of advertising expenditures and the variance of brand-devel-
+ opment expenditures from period to period.
+
+ Assume, for simplicity, that the factors affecting equity value in each of the brand
+
+ categories are independent. Then the following procedure will yield individual estimates:
+
+ For each brand i, estimate Equation ( 17), from Equation (8):
+
+ Sit = boi + bli*ordt + b2i*adshrit + b3i*patshrit + b4i* rndshrit + Ei. (17)
+
+ Then use the results in Equation ( 18 ), an aggregation of Equation ( 11 ):
+
+ N
+
+ Vit = ~ {3oi + l1i*CR4it+ f2i*regit + f3i*advit
+
+ i=1
+
+ + 04i* ageit + 35i*E(Sb2it) + 06i*E(Snbit) + vi}.
+
+ (18)
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 49
+
+ Alternative specifications-for example, incorporating interaction terms-would be
+
+ required to examine portfolio effects between brands or spillovers between brand cate-
+ gories. Furthermore, the firm should experiment with the lag structures on advertising
+ and advertising share variables to accommodate differences in the durability of advertising
+ expenditures.
+
+ Competitive insights can be gained by comparing the structural coefficients for the
+
+ firm-specific model with an industry model estimated over the same time period. If
+ company brand equity deviates from predictions made from industry estimates, our
+ technique could uncover whether the problem is due to low investments or poorly-
+ performing investments. If the industry-level and company-level estimates are the same,
+ then one could conclude that their brand investments are performing as well as the
+ industry average. In this case, the company's deviations in brand equity may be due to
+ differences in the levels of advertising or other factors. It is important to determine the
+ cause of the low brand equity before changing the advertising policy. This is a fruitful
+ area for future research.
+
+ The micro analysis allows the firm to monitor the market's response to its marketing
+ decisions and to its competitors' responses. The change in brand equity from a marketing
+ decision provides immediate feedback. For example, the introduction of Diet Coke wit-
+ nessed an increase in Coca-Cola's brand equity and a decrease of Pepsi's. This is not a
+ surprise, because Diet Coke has been accepted as one of the most successful new-product
+ introductions in the beverage industry. However, there has been considerable debate as
+ to effect of the introduction of New Coke on the Coke and Pepsi brands. With our micro
+ analysis, we determined that Coke's brand equity neither increased nor decreased in
+ response to the event, although Pepsi's brand equity increased. This suggests a competitive
+ loss for Coke.
+
+ Company insiders are privy to more of the circumstances that affect brand equity,
+
+ such as the results of test markets and managerial deliberations prior to the official an-
+ nouncement. A company could improve upon the event study analysis by setting more
+ accurate event windows, that is, event windows that capture the release of pre- and post-
+ event information.
+
+ There are several limitations of our technique for estimating brand equity. First, the
+
+ results reported in this paper are based on data aggregated to the corporate and major
+ line of business levels. Consequently, our macro approach estimates the aggregate value
+ of the company's brands and not the value of its individual brands. In practice, the
+ estimates could be refined by using brand-level data. This would permit the value of
+ individual brands to be estimated, for brands that comprise a sufficiently large fraction
+ of the company's revenue.37
+
+ Second, our micro approach is not appropriate for all events. Most amenable to this
+ type of analysis are major events that are not widely anticipated and hit the market within
+ a short period of time, such as new product introductions, policy changes, and major
+ advertising changes. Small events will not have a sufficient impact on the company's
+ profits to be separated from random changes in the company's brand equity. Events for
+ which information is released to the market gradually over a long period are similarly
+ unsuitable.
+
+ There are a myriad of techniques currently being used by companies to estimate brand
+ equity. The introduction reviewed several alternative techniques. To come up with a
+ comprehensive perspective on brand equity, estimates derived from our technique should
+ be compared to those from other techniques. For example, a company could use our
+ procedure described above for estimating individual brand equity, then compare the
+ estimates to price premia, consumer attitude surveys, and scanner-based measures.
+
+ 37 The minimum size brand suitable for analysis will differ across firms and industries. An initial guess is that
+
+ the brand should make up at least 5-10% of the company's revenue to offset stock market "noise."
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 50
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ To conclude, this research has demonstrated that brand equity comprises a large per-
+
+ centage of the total value of many firms. This underscores the need for effective marketing
+ within the company. Brands are assets that must be managed carefully in order to achieve
+ their maximum value.38
+
+ Acknowledgements. The authors would like to thank the Marketing Science Institute for sponsoring this
+
+ research and providing financial support. Simon is also grateful to the Centel Foundation/Robert P. Reuss
+ Faculty Research Fund for financial support. We gratefully acknowledge the suggestions of Patrick Barwise,
+ Mike Hanssens and two anonymous referees. The paper also benefitted from comments made by the participants
+ of MSI's workshops on brand equity, the 1990 and 1991 Marketing Science Conferences, and the Marketing
+ Workshop at the University of Chicago.
+
+ 38 This paper was received September 19, 1990 and has been with the authors 10 months for 2 revisions.
+
+ Processed by Dominique M. Hanssens, former Area Editor.
+
+ Appendix: Variable Definitions
+
+ adv: Advertising and selling expenditures of the firm (for the macro analysis) and of the brand (for the micro
+
+ analysis). Source: Compustat and 10-k's.
+
+ adshr: Advertising and selling expenditures divided by total expenditures by competitors in the same industry.
+
+ Source: Compustat and 10-k's.
+
+ age: In the macro analysis age is defined as either ( 1 ) the age of the brand associated with the firm name, or
+
+ (2) the length of time that the firm has been involved in its primary line of business, which ever is shorter. In
+ the micro-level analysis, the age of the specific brand is used. Source: Compustat, 10-k's, and annual reports.
+
+ CR4: The four-firm Concentration Ratio. CR4 equals the share of industry sales accounted for by the four
+
+ largest firms in the industry. Source: Compustat, 10-k's, and annual reports.
+
+ M: Financial market value of the firm. Equals the sum of the market values of the common stock, preferred
+
+ stock long term and short term debt. Where market values of the debt are not available, NBER estimates are
+ used. Where NBER estimates are unavailable, the book values have been used. Sources: NBER, Compustat,
+ CRSP.
+
+ mktshr: Market share. Equals firm sales divided by industry sales. Industries are defined according to 3-digit
+ SIC's except where 8 or more firms can be identified at the finer, 4-digit level. Source: Compustat, 10-k's, and
+ annual reports.
+
+ ord: Relative order of entry. Equals the order which the firm entered its major product market divided by
+
+ the number of firms in that market. Source: Moody's Industry and Stock Reports (various years).
+
+ patshr: Firm share of patents granted. Equals the number of patents owned by the firm divided by the total
+
+ number owned by competitors in the same industry. Source: NBER.
+
+ rndshr: Firm R&D stock divided by total stock of R&D controlled by competitors in the same industry. The
+
+ stock of R&D is estimated by NBER for each industry in the sample. Stock measures are calculated by adding
+ the present value of past R&D expenditures to current R&D spending. NBER estimates industry-specific rates
+ for the depreciation of R&D expenditures and uses these in their calculations of the stock of R&D. Source:
+ NBER, Compustat, 10-k's, and annual reports.
+
+ VT: Tangible asset value of the firm. Equals the replacement cost of the firm's physical assets (plant, equip-
+
+ ment, inventory) plus the value of cash and marketable securities. Source: Compustat, NBER and individual
+ firm 10-k's.
+
+ VI: Intangible asset value. Equals M - VT.
+
+ References
+
+ Aaker, David ( 1991 ), Managing Brand Equity, Free Press: New York.
+
+ and Gary Shansby (1982), "Positioning Your Product," Business Horizons (May-June), 56-62.
+
+ Barwise, Patrick, Christopher Higson, Andrew Likierman and Paul Marsh (1989), Accounting for Brands,
+
+ London: London Business School and The Institute of Chartered Accountants in England and Wales.
+
+ Bass, F. M. and D. Clarke (1972), "Testing Distributed Lag Models of Advertising Effects," Journal of Marketing
+
+ Research, 9, 298-308.
+
+ Benjamin, Daniel and Mark Mitchell (1988), "Quality-Assuring Price Premia: Classic Evidence from the Real
+
+ Thing," working paper number 46 (September).
+
+ Binder, John J. (1985), "Measuring the Effects of Regulation with Stock Price Data," Rand Journal of Economics,
+
+ 16 (Summer), 167-183.
+
+ Boulding, Bill and Rick Staelin ( 1991 ), "A Look on the Cost Side: Market Share and the Competitive Envi-
+
+ ronment," working paper (September).
+
+ Chaney, Paul, Timothy Devinney, and Russell Winer ( 1991 ), "The Impact of New Product Introductions on
+
+ the Market Value of Firms," Journal of Business, (October), forthcoming.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ MEASUREMENT AND DETERMINANTS OF BRAND EQUITY
+
+ 51
+
+ Clarke, Darral (1976), "Econometric Measurement of the Duration of Advertising Effect on Sales," Journal
+
+ of Marketing Research, 13 (November), 345-357.
+
+ Demsetz, H. ( 1973), "Industry Structure, Market Rivalry, and Public Policy," Journal of Law and Economics,
+
+ 16 (April), 1-9.
+
+ Economist (1990), "Brand-stretching Can be Fun-and Dangerous," (May 5), 77-80.
+ Fama, Eugene (1970), "Efficient Capital Markets: A Review of Theory and Empirical Work," Journal of
+
+ Finance, 25, 383-417.
+
+ Farquhar, Peter (1989), "Managing Brand Equity," Marketing Research, (September), 24-34.
+ Garrick, George (1989), "Properly Evaluating the Role of TV Advertising," mimeo, (April), New York: Ad-
+
+ vertising Research Foundation.
+
+ Givon, Moshe and Dan Horsky (1990), "Untangling the Effects of Purchase Reinforcement and Advertising
+
+ Carryover," Marketing Science, 9 (Spring), 171-187.
+
+ Hanssens, Dominique M., Leonard J. Parsons and Randall L. Schultz (1990), Market Response Models: Econo-
+
+ metric and Time Series Analysis, Boston, MA: Kluwer.
+
+ Hirschey, Mark and Jerry Weygandt (1985), "Amortization Policy for Advertising and Research and Development
+
+ Expenditures," Journal of Accounting Research, 23 (Spring), 326-335.
+
+ Hoch, Stephen and Young-Won Ha (1986), "Consumer Learning: Advertising and the Ambiguity of Product
+
+ Experience," Journal of Consumer Research, 13 (October), 221-233.
+
+ Horsky, Dan and Patrick Swyngedouwn (1987), "Does it Pay to Change Your Company's Name? A Stock
+
+ Market Perspective," Marketing Science, 6 (Fall), 320-335.
+
+ Jarrell, Gregg (1984), "Change at the Exchange: The Causes and Effects of Deregulation," Journal of Law and
+
+ Economics, 27 (October), 273-312.
+ and Sam Peltzman (1985), "The Impact of Product Recalls on the Wealth of Sellers," Journal of
+ Political Economy, 93 (June), 512-536.
+ and Annette Poulsen (1989), "Stock Trading Before the Announcement of Tender Offers: Insider
+ Trading or Market Anticipation?", Journal of Law, Economics, and Organizations, (Fall).
+
+ John, Deborah and Barbara Loken (1990), "Diluting Brand Equity: The Negative Impact of Brand Extensions,"
+
+ presented at the MSI workshop on Brand Equity, (February 1), Cambridge, MA.
+
+ Kahn, Alfred E. (1988), The Economics of Regulation: Principles and Institutions, Cambridge, MA: MIT Press.
+ Kamakura, Wagner and Gary Russell (1991), "Measuring Consumer Perceptions of Brand Quality with Scanner
+
+ Data: Implications for Brand Equity," MSI Technical Working Paper #91-122, (October).
+
+ Keller, Kevin Lane (1991), "Conceptualizing, Measuring, and Managing Customer-Based Brand Equity," MSI
+
+ Technical Working Paper #91-123, (October).
+
+ Kilman, Scott (1985), "Coca-Cola Co. to Bring Back Its Old Coke," Wall Street Journal, (July 11), 2.
+ Leuthesser, Lance (1988), "Defining, Measuring, and Managing Brand Equity," summary of MSI conference
+
+ in Austin, Texas, (March).
+
+ Lindenberg, Eric and Stephen Ross (1981), "Tobin's q Ratio and Industrial Organization," Journal of Business,
+
+ 54 (January), 1-32.
+
+ Lipman, Joanne (1989), "British Value Brand Names-Literally," Wall Street Journal, (February 9), B6.
+ Little, John (1979), "Aggregate Advertising Models: The State of the Art," Operations Research, 27 (July/
+
+ August), 629-667.
+
+ Mahajan, Vijay, Vithala Rao and Rajendra Srivastava (1990), "Development, Testing, and Validation of Brand
+
+ Equity Under Conditions of Acquisition and Divestment," presented at the MSI workshop on Brand
+ Equity, (February 1), Cambridge, MA.
+
+ Maltz, Eliot (1991), "Managing Brand Equity," MSI Conference Summary, Report #91-110 (April).
+ Montgomery, David and Alvin Silk (1972), "Estimating Dynamic Effects of Market Communications Expen-
+
+ ditures," Management Science, 18 (June).
+
+ Morck, Andrei Schleifer and Rob Vishny (1988), "Management Ownership and Market Valuation: An Empirical
+
+ Analysis," Journal of Financial Economics, 20 (January/March), 293-315.
+
+ Nelson, Phillip (1974), "Advertising as Information," Journal of Political Economy, 82 (July/August), 729-
+
+ 54.
+
+ Oliver, Thomas (1986), The Real Coke, The Real Story, New York: Penguin Books.
+ Palda, Kristian (1965), "The Measurement of Cumulative Advertising Effects," Journal of Business, 38 (April),
+
+ 162-79.
+
+ Peles, Y. (1971), "Rates of Amortization of Advertising Expenditures," Journal of Political Economy, 79
+
+ (October), 1032-1058.
+
+ Peltzman, S. (1973), "An Evaluation of Consumer Protection Legislation: The 1962 Drug Amendments,"
+
+ Journal of Political Economy, 81 (September/October), 1049-1091.
+ (1977), "The Gains and Losses From Industrial Concentration," Journal of Law and Economics, 20
+ (October), 229-63.
+
+ Ries, Al and Jack Trout (1986), Positioning: The Battle for Your Mind, New York: McGraw-Hill.
+ Robinson, William and Claus Fornell (1985), "Sources of Market Pioneer Advantages in Consumer Goods
+
+ Industries," Journal of Marketing Research, 22 (August), 305-317.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+
+
+ 52
+
+ CAROL J. SIMON AND MARY W. SULLIVAN
+
+ Ross, Stephen (1983), "Accounting and Economics," The Accounting Review, 58 (April), 375-380.
+ Salinger, M. A. (1984), "Tobin's Q, Unionization, and the Concentration-Profits Relationship," Rand Journal
+
+ of Economics, 15 (Summer), 159-170.
+
+ Schmalensee, Richard (1982), "Product Differentiation Advantages of Pioneering Brands," American Economic
+
+ Review, 72 (June), 349-365.
+
+ Schwert, William (1981), "Using Financial Data to Measure Effects of Regulation," Journal of Law and Eco-
+
+ nomics, 24 (April) 121-158.
+
+ Smirlock, Michael, Thomas Gilligan and William Marshall (1984), "Tobin's q and the Structure-Performance
+
+ Relationship," American Economic Review, 74 (December), 1051-1060.
+
+ Stigler, George ( 1961 ), "The Economics of Information," Journal of Political Economy and The Organization
+
+ of Industry, Homewood, IL: Irwin, 1968.
+
+ Standard and Poors (1983), Industry Surveys, (October), B76-82.
+ Tauber, Edward M. (1988), "Brand Leverage: Strategy for Growth in a Cost-Control World," Journal of Ad-
+
+ vertising Research, 28 (August/September), 26-30.
+
+ Telser, Lester (1962), "Advertising and Cigarettes," Journal of Political Economy, 70 (October), 471-499.
+ Thomas, Lacy Glenn (1989), "Advertising in Consumer Goods Industries: Durability, Economies of Scale,
+
+ and Heterogeneity," Journal of Law and Economics, 32 (April), 163-193.
+
+ Tobin, J. (1969), "A General Equilibrium Approach to Monetary Theory," Journal of Money, Credit, and
+
+ Banking, 1 (February), 15-29.
+ (1978), "Monetary Policies and the Economy: The Transmission Mechanism," Southern Economic
+ Journal, 37 (April), 421-31.
+
+ Urban, Glen L., Theresa Carter, Steven Gaskin and Zofia Mucha (1986), "Market Share Rewards to Pioneering
+
+ Brands: An Empirical Analysis and Strategic Implications," Management Science, 32 (June), 645-659.
+
+ Weiss, Leonard (1971), "Quantitative Studies of Industrial Organization," in Michael D. Intrilligator, Ed.,
+
+ Frontiers of Quantitative Economics, Amsterdam: North-Holland, 362-411.
+
+ Wentz, Laurel and Geoffrey Martin (1989), "How Experts Value Brands," Advertising Age, (January 16), 24.
+ Wernerfelt, Birger and Cynthia Montgomery (1988), "Tobins q and the Importance of Focus in Firm Perfor-
+
+ mance," American Economic Review, 78, 246-250.
+
+This content downloaded from 131.193.251.47 on Wed, 02 Aug 2017 20:44:34 UTC
+
+All use subject to http://about.jstor.org/terms
+

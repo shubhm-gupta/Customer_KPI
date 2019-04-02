@@ -1,0 +1,6888 @@
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+The Economic Value of Corporate Eco-Efficiency 
+
+Nadja Guenstera, Jeroen Derwalla,b,e, Rob Bauerb,c,e, Kees Koedijka,b,d,e* 
+
+RSM Erasmus University, Department of Financial Management 
+
+Maastricht University, Limburg Institute of Financial Economics (LIFE) 
+
+c. 
+
+ABP Investments 
+
+d. 
+
+e. 
+
+Centre for Economic Policy Research (CEPR) 
+
+European Centre for Corporate Engagement (ECCE) 
+
+a. 
+
+b. 
+
+ 
+
+ 
+
+ 
+ 
+
+Date: August 2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* Contact author:  
+Kees Koedijk 
+Department of Financial Management 
+RSM Erasmus University 
+PO BOX 1738 
+3000 DR Rotterdam 
+The Netherlands 
+Tel. (+31) 10 408 2790 
+Fax: (+31) 10 408 9017 
+E-mail address: ckoedijk@rsm.nl  
+ 
+Acknowledgements: 
+We thank Innovest Strategic Value Advisors, Mark Bremmer, Roderick Molenaar and Vishal Jadnanansing for 
+help with the data. We are grateful to Keith Ambachtsheer, Arnick Boons, Hans Dewachter, Mathijs van Dijk,, 
+Mark Flood, Abe de Jong, Lloyd Kurtz, Ronald Mahieu, Gerard Moerman, Arjen Mulder, Peter Roosenboom and 
+Mike Russo, for economic and technical comments on the paper. The paper benefited from useful comments of 
+participants of the 2005 Academy of Management Meetings, the 2005 FMA conference, and seminar participants 
+at RSM Erasmus University and the University of Köln. We appreciate the editorial assistance of Sandra Sizer. 
+We thank the U.S. Social Investment Forum and the Haas School of Business for awarding the paper the 2005 
+Moskowitz Prize and financial support. Finally, we thank The Foundation for Strategic Environmental Research 
+(MISTRA) and Inquire Europe for research grants. All remaining errors are the sole responsibility of the authors. 
+The views expressed in this paper are not necessarily shared by ABP Investments. 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+1
+
+The Economic Value of Corporate Eco-Efficiency 
+
+ 
+ 
+ 
+ 
+ 
+
+Abstract 
+This  study  adds  new  insights  to  the  long-running  corporate  environmental-financial 
+performance debate by focusing on the concept of eco-efficiency. Using a new database 
+of  eco-efficiency  ratings,  we  analyze  the  relation  between  eco-efficiency  and  financial 
+performance  from  1997  to  2004.  We  report  that  eco-efficiency  relates  positively  to 
+operating performance and market value. Moreover, our results suggest that the market’s 
+valuation of environmental performance has been time variant, which may indicate that 
+the market incorporates environmental information with a drift. Although environmental 
+leaders initially did not sell at a premium relative to laggards, the valuation differential 
+increased significantly over time. Our results have implications for company managers, 
+who evidently do not have to overcome a tradeoff between eco-efficiency and financial 
+performance,  and  for  investors,  who  can  exploit  environmental  information  for 
+investment decisions.          
+ 
+ 
+ 
+Keywords: Corporate Social Responsibility, Eco-Efficiency, Shareholder Value, Firm Value, 
+Firm Operating Performance, Management Policies, Capital Markets  
+JEL Classification: G1, G3, M14 
+ 
+ 
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+2
+
+ 
+ 
+1. Introduction 
+Fuelled  by  widely  reported  corporate  environmental  and  social  scandals,  managers  and 
+shareholders  are  now  showing  heightened  interest  in  the  concept  of  corporate  social 
+responsibility  (CSR).  Some  of  the  world’s  largest  institutional  asset  managers,  for  example, 
+those  at  CalPERS  in  the  U.S.,  Universities  Superannuation  Scheme  in  the  U.K.,  ABP  and 
+PGGM in the Netherlands, and AP7 in Sweden, are publicly demonstrating their commitment 
+to investing in companies that are deemed socially, morally, and environmentally responsible.  
+In  addition,  several  governmental  organizations  are  considering  the  introduction  of 
+corporate  reporting  standards  designed  to  accelerate  these  developments.  For  instance,  an 
+amendment to the 1995 Pension Act in the U.K., which was created in 2000, requires pension 
+funds to disclose how they consider social and environmental issues. 
+
+In  spite  of  greater  acceptance  of  corporate  social  responsibility  principles,  there  is  a 
+long-running debate on whether managers should incorporate CSR policies into their tactical 
+and strategic decisions. One intriguing question has been the source of this great controversy: 
+Can a firm do well while doing good? Most skeptics believe CSR is a vague construct that 
+requires organizations to raise operating costs and to give up shareholder wealth (e.g., Walley 
+and Whitehead, 1994). In contrast, scholars such as Fombrun et al. (2000), Porter and van der 
+Linde (1995), and Spicer (1978) posit that corporate social responsibility initiatives can lead to 
+reputational advantages, improvements in investors’ trust in the company, more efficient use of 
+resources, and new market opportunities, all of which could ultimately be perceived positively 
+by capital markets.  
+
+Corporate  environmental  performance  is  considered  an  important  component  of  the 
+CSR  construct,  and  its  potential  usefulness  as  a  forward-looking  measure  of  firm  financial 
+performance  has  gained  acceptance,  both  in  the  literature  and  in  practice.  Although  the 
+assessment of the CSR-financial performance relationship relies heavily on qualitative data and 
+subjective interpretation, the financial impact of environmental governance is easier to assess a 
+priori,  particularly  now  that  the  law  punishes  negative  environmental  performance  with 
+concrete  financial  penalties  more  than  ever  before.  For  example,  15  years  after  the  widely 
+reported  Exxon  Valdez  oil  spill  drama  in  Alaska,  a  federal  judge  recently  imposed  punitive 
+damages of more than $4 billion on the Exxon Mobil Corporation. 
+
+However,  several  scholars  have  stressed  that  the  financial  information  content  of 
+environmental  performance  is  not  evident  by  itself.  Among  others,  Hart  and  Ahuja  (1996), 
+King and Lenox (2002), and Russo and Fouts (1997) emphasize that companies can display 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+environmental awareness through “end-of-pipe” pollution control, where companies clean up 
+emissions  subsequent  to  the  production  process,  but  that  proactive  pollution  prevention 
+techniques embedded in the firm’s production processes are more likely to increase operating 
+efficiency and profitability.  
+
+3
+
+Building  on  these  assertions,  we  focus  on  the  concept  of  corporate  eco-efficiency,  a 
+concept that reflects the environmental governance of the firm beyond that which is indicated 
+by  elementary  environmental  compliance  and  pollution  control  policies.  Broadly,  we  can 
+define eco-efficiency as creating more value with fewer environmental resources resulting in 
+less environmental impact (for example, less pollution or natural resource exhaustion).   
+
+Using  a  comprehensive  database  of  firm-level  eco-efficiency  scores  produced  by 
+Innovest  Strategic  Value  Advisors,  we  examine  the  relationship  between  corporate  eco-
+efficiency and financial performance over the period 1997 to 2004. The eco-efficiency data we 
+use are made available on a monthly basis, allowing us to exploit statistical power. While the 
+eco-efficiency scores we study are based on multidimensional research and are now monitored 
+by  some  of  the  world’s  largest  institutional  investors,  the  data  have  not  yet  received  much 
+attention in the empirical literature.  
+
+By  means  of  an  accounting-based  and  a  market-based  measure,  we  capture  different 
+ways in which eco-efficiency influences financial performance. We use return on assets (ROA) 
+which represents operating performance and profitability, and Tobin’s q (Q), which proxies for 
+a company’s valuation. Q and ROA have several aspects in common but also differ in some 
+important respects. ROA is based on firms’ contemporaneous income, whereas Tobin’s q is a 
+forward-looking measure that reflects the intangible value investors assign to a company. Since 
+eco-efficiency  is  associated  with  both,  tangible  and  intangible  benefits,  discrepancies  might 
+occur between its relation to ROA and Q.  
+
+The  intangible  nature  of  the  benefits  of  eco-efficiency  makes  the  task  of  valuing 
+environmental governance complicated. Recent investment literature offers evidence that eco-
+efficiency is value-relevant but is incorporated slowly into a company’s stock price. Derwall et 
+al.  (2005)  compose  two  equity  portfolios  of  stocks  sorted  on  the  eco-efficiency  scores  and 
+assess their performance using elaborate performance attribution models. Their results suggest 
+that  companies  labeled  the  most  eco-efficient  significantly  outperformed  their  least  eco-
+efficient counterparts by approximately 6 percent per annum over the period 1995-2003 after 
+controlling for differences in risk, investment style and sector exposure. Their evidence seems 
+to contradict the widely held view that assets are priced efficiently. The abnormal returns could 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+be explained by a period of adjustment, where stocks of eco-efficient companies are initially 
+undervalued  and  undergo  a  positive  price  correction  subsequently.  Accordingly,  the  upward 
+trend in firm valuation generates anomalously high returns.  
+
+4
+
+ 
+ 
+
+The Derwall et al. (2005) results have interesting research implications suggesting that 
+the  relation  between  environmental  governance  and  firm  valuation  should  be  studied  in  a 
+multi-period  cross-sectional  framework.  If  stock  prices  did  not  accurately  incorporate 
+environmental  information  then  studies  on  the  market  valuation  of  corporate  environmental 
+management  that  implicitly  assume  market  efficiency  may  have  been  time-specific  and 
+difficult  to  generalize.  To  our  knowledge,  this  study  is  the  first  to  investigate  whether  the 
+market’s valuation of environmental performance has strengthened over time by using a unique 
+longitudinal sample of corporate eco-efficiency scores. We adopt a research design that allows 
+for an exploration into both static and dynamic empirical relationships. 
+
+The paper is organized as follows. First, in the next section, we give an overview of 
+prior related research, taking into consideration the financial variables of interest to this paper. 
+This  section  also  notes  several  limitations  encountered  in  the  literature  and  highlights  the 
+contribution of this study. Second, we outline several theoretical lines of reasoning pertaining 
+to the link between corporate social (environmental) performance and financial performance. 
+Third,  we  describe  the  database  used  for  measuring  corporate  eco-efficiency.  Finally,  we 
+discuss the empirical analysis and the results of our study.  
+ 
+2. Literature Overview 
+Researchers have long sought empirical evidence on the environmental-financial performance 
+link.  However,  studies  on  CSR  are  well  documented,  but  not  well  structured.  Griffin  and 
+Mahon  (1997)  and  Ullman  (1985),  among  others,  discuss  this  literature  and  point  out  that 
+methodological  inconsistencies  across  studies  make  most  evidence  incomparable  and 
+inconclusive.  In  this  section,  we  review  prior  research  while  keeping  in  mind  the  financial 
+variables central to this study: stock returns, firm value measured by Tobin’s q, and return on 
+assets.  
+ 
+2.1 Prior Evidence 
+The empirical literature relating the environmental component of CSR to stock performance 
+separates  into  three  subsets:  event  studies  that  explore  the  immediate  effects  of  social  or 
+environmental  performance  proxies  on  short-term  stock  price  variability;  cross-sectional 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+5
+
+ 
+ 
+regression analyses that attempt to establish a longer-term relationship between CSR and stock 
+returns; and portfolio studies that investigate the benefits of embedding CSR into investment 
+decisions. 
+ 
+To date, event studies provide the best evidence of a link between environmental and 
+stock market performance. This body of research, which includes studies by Hamilton (1995), 
+Klassen  and  McLaughlin  (1996),  and  Shane  and  Spicer  (1983)  suggests  that  although 
+environmental  pollution  figures  generally  tend  to  have  an  influence  on  stock  market 
+performance, there is also an asymmetrical stock return sensitivity to environmental news. For 
+example, Klassen and McLaughlin (1996) find evidence suggesting that a stock price increase 
+following positive environmental information about the firm is less strong than a price decline 
+in response to negative news. 
+  
+A second group of studies uses regression or correlation analysis to explore long-term 
+relationships between corporate environmental responsibility and stock returns. These studies 
+provide mixed support for the notion of a relationship between environmental performance and 
+shareholder  value.  Spicer  (1978)  reports  that  those  companies  in  the  U.S.  pulp  and  paper 
+industry that have better pollution control records have higher profitability figures and lower 
+stock betas, but both Chen and Metcalf (1980) and Mahapatra (1984) fail to confirm the idea 
+that  pollution  control  initiatives  are  rewarded  with  improved  stock  performance.  More 
+consistent  evidence  pertains  to  markets  outside  the  United  States,  for  which  Thomas  (2001; 
+U.K.) and Ziegler et al. (2002; Europe) document moderate evidence of a positive relationship 
+between environmental performance and stock returns. Portfolio research typically involves a 
+comparison  of  average  risk-adjusted  returns  between  two  or  more  mutually  exclusive 
+portfolios. These portfolios are constructed using a company characteristic as a discriminating 
+factor. Portfolios are usually evaluated by using a performance attribution model that controls 
+for  common  intervening  factors  known  to  influence  portfolio  performance.  Despite  the 
+popularity of this approach in the mainstream asset pricing literature (e.g., Fama and French, 
+1993), remarkably little research has applied environmental firm characteristics as a discerning 
+variable.  Among  the  few  exceptions,  research  by  Cohen  et  al.  (1997)  suggests  that  there  is 
+neither a premium nor a penalty for investing in environmental leader companies. On the other 
+hand, White (1996) finds that his “green” portfolio provides a significantly positive market-risk 
+adjusted return, while “brown” and “oatmeal” portfolios do not. Recent research by Derwall et 
+al.  (2005),  who  use  modern  performance  evaluation  techniques,  suggests  that  eco-efficient 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+6
+
+ 
+ 
+companies  jointly  provide  anomalously  positive  equity  returns  relative  to  their  less-eco 
+efficient peers over the period 1995-2003. 
+A relatively recent strand of research addresses the evidence on potential links between 
+ 
+environmental performance and firm value. Generally, the evidence is uniform and points to a 
+positive and significant relationship between environmental management policies and Tobin’s 
+q.  Dowell  et  al.  (2000)  separate  multinational  firms  in  their  U.S.  sample  into  three  groups: 
+firms that default internationally to (less stringent) local environmental standards; companies 
+that apply U.S. environmental standards on an international scale; and firms that adopt more 
+stringent standards than those required by U.S. law. Their results suggest that firms that adopt 
+higher, more stringent environmental criteria have a higher firm valuation than those that use 
+less stringent ones.  
+ 
+These findings are consistent with Konar and Cohen (2001), who suggest that firms that 
+are disposing of relatively smaller amounts of toxic chemicals, and those that are confronted 
+with  fewer  or  no  environmental  lawsuits,  tend  to  have  a  higher  Q.  King  and  Lenox  (2002) 
+further  expand  previous  research  by  disentangling  the  emissions  of  a  large  number  of  U.S. 
+firms into sub-aggregates. The important conclusion from their work is that waste prevention 
+and  future  firm  value  are  positively  associated,  but  that  pollution  reduction  efforts  by  other 
+means, such as “end-of-pipe” pollution treatment, do not affect Tobin’s q.  
+ 
+Another  massive  body  of  research  relies  on  operating  performance  measures, 
+predominantly  using  accounting  data.1  Not  surprisingly,  the  results  from  this  research  are 
+somewhat dependent on the choice of operating performance measure. A few empirical studies 
+are of particular concern to our work. Considerable interest has been shown in the company’s 
+return  on  assets  as  a  dependent  variable,  primarily  because  ROA  is  one  of  the  broadest 
+measures of firm operating performance. For example, Freedman and Jaggi (1988) investigate 
+the  relation  between  environmental  pollution  disclosure  and  several  accounting-based 
+performance indicators but find little evidence to support the conjecture that there is a clear-cut 
+and significant association. However, McGuire et al. (1988) show that, contrary to alternative 
+measures  in  their  study,  ROA  does  correlate  with  their  corporate  social  performance  index. 
+Russo  and  Fouts  (1997)  complement  previous  work,  suggesting  that  environmental 
+performance  is  positively  connected  with  ROA  but  also  that  this  association  is  more 
+pronounced  for  high-growth  industries.  Hart  and  Ahuja  (1996)  and  Waddock  and  Graves 
+
+                                                           
+1 For a detailed overview the reader is referred to Griffin and Mahon (1997) and Ullman (1985). 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+7
+
+ 
+ 
+(1997)  also  report  that  several  financial  measures,  including  ROA,  relate  significantly  to 
+environmental  performance  indicators,  but  express  some  doubts  regarding  the  direction  of 
+causality. In a more recent study, King and Lennox (2002) suggest that pollution prevention, 
+but not pollution treatment, causes higher return on assets.  
+ 
+2.2 Contribution to Existing Literature 
+While the research up to this point seems overwhelming at first glance, a substantial part of the 
+evidence  should  be  interpreted  with  caution.  Our  goal  in  this  paper  is  to  overcome  several 
+methodological limitations that are often encountered in the empirical literature. Broadly, our 
+enhancements pertain to the following areas.  
+ 
+First,  we  address  the  problem  of  choosing  an  appropriate  proxy  for  environmental 
+performance. Corporate social (environmental) responsibility is a broad construct that can only 
+be  assessed  with  multidimensional  indicators.  As  also  suggested  by  Waddock  and  Graves 
+(1997), the majority of related literature relies on measures that either lack sufficient depth and 
+detail  or,  alternatively,  are  too  noisy  to  be  fully  capable  of  measuring  corporate  social  or 
+environmental  performance.  In  addition,  as  underscored  by  Konar  and  Cohen  (2001),  most 
+previous research analyzes data that only point towards historical performance. In contrast, our 
+study builds on the concept of eco-efficiency, which is a more strictly defined construct and 
+can be quantified by using Innovest’s eco-efficiency rating methodology. As we explain, the 
+rating is not only intended to reflect historical environmental performance, but also to identify 
+future environmental risks and opportunities. 
+ 
+interpretation  of  financial 
+Our  second  contribution  concerns 
+performance criteria. We first use accounting-based and a market-based measures to assess the 
+different pathways leading environmental management to financial performance. Using return 
+on assets, we capture the association between environmental and operating performance. Via 
+Tobin’s q (Q), we capture the value investors assign to environmental policies. 
+ 
+Moreover, we then extend earlier studies that implicitly infer a static relation between 
+environmental management and performance based on market value measures. While Dowell 
+et  al.  (2000),  King  and  Lennox  (2002),  and  Konar  and  Cohen  (2001)  suggest  that 
+environmental  governance  is  positively  related  to  market  value  measures  of  performance, 
+recent  evidence  casts  doubt  on  whether  environmental  information  is  valued  accurately. 
+Derwall  et  al.  (2005)  point  to  an  anomalously  positive  stock  return  differential  between 
+environmental leaders and laggards, suggesting that environmental information is incorporated 
+
+the  choice  and 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+8
+
+ 
+ 
+slowly  into  stock  prices.  Their  results  motivate  us  to  analyze  whether  the  relation  between 
+environmental  performance  and  Tobin’s  q  has  strengthened  over  time.  The  environmental 
+database we study is unique in that it covers monthly environmental performance ratings for 
+more  than  eight  years.  Thus,  it  is  an  excellent  means  for  testing  time-varying  relationships. 
+Using a variant of the two-step modeling approach introduced by Fama and MacBeth (1973), 
+we are able to exploit the richness of information contained by both cross-sectional and time-
+series dimensions of the data.  
+ 
+3. Theoretical Debates and Hypotheses 
+For several decades, the academic community has postulated models and hypotheses that relate 
+corporate  social  and  environmental  responsibility  to  financial  performance,  mostly  with  the 
+intention to provide a framework that aligns CSR with shareholder value creation. Despite the 
+growing  academic  attention  on  the  CSR-financial  performance  relationship,  management 
+scientists  and  financial  economists  have  developed  their  ideas  in  this  area  almost 
+autonomously. Corporate management theories up to this point discuss many benefits to CSR, 
+but  leave  unexplained  questions  that  are  critically  relevant  to  shareholders  of  socially  and 
+environmentally  responsible  companies.  Modern  investment  theories  fill  that  gap.  In  this 
+section,  we  introduce  and  test  hypotheses  that  combine  management  and  financial  theories. 
+Both theories are critical for understanding how firms’ environmental management relates to 
+financial performance. 
+ 
+3.1 Management Theories 
+The CSR-financial performance relationship is the source of considerable debate. Theories in 
+the  management  literature  are  far  from  uniform  and,  as  pointed  out  by  Griffin  and  Mahon 
+(1997),  more  than  25  years  of  empirical  research  has  been  unable  to  overcome  long-lasting 
+theoretical divides. 
+
+The  roots  of  the  debates  go  back  decades.  During  the  1960s,  the  concepts  of  corporate 
+social  responsibility  and  socially  responsible  investing  were  gaining  momentum.  However, 
+opponents of CSR quite forcefully questioned the validity of CSR in the context of what they 
+believed is the purpose of the firm: maximizing shareholder wealth. In general, opponents of 
+the concept of CSR raise two critical points: 
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+9
+
+-  CSR  is  far  from  well  defined.  A  view  shared  by  many  skeptics,  including  Friedman 
+(1962), is that managers are unable to determine what the social responsibility of their 
+company is. Many managers believe that the only responsibility of the firm is to engage 
+in profitable activities. Shareholders themselves are capable of deciding whether their 
+stock income sufficiently represents social awareness.  
+
+-  CSR  is  expensive  and  decreases  shareholder  value.  At  least  partially  because  of  the 
+problem of determining the social responsibility of businesses, a common criticism of 
+CSR cites the financial dangers of adopting corporate social responsibility principles. 
+Several  critics  stress  that  CSR  initiatives  inherently  demand  significant  portions  of  a 
+company’s financial resources, but the potential financial benefits of such initiatives are 
+mostly in the distant future, if these benefits are evident at all (e.g., Henderson, 2002; 
+Walley and Whitehead, 1994). 
+
+ 
+
+Briefly, the main concern expressed by CSR skeptics is that the costs associated with corporate 
+social performance improvements are likely to outweigh the financial benefits, which makes 
+CSR inconsistent with the principles of shareholder wealth maximization. 
+
+In  contrast,  a  sizable  number  of  CSR  proponents  have  put  forward  a  long  list  of  the 
+advantages to corporate social responsibility. Their reasoning is that organizations can generate 
+significant  goodwill  and  new  market  opportunities  by  displaying  social  and  environmental 
+awareness (e.g., Fombrun et al., 2000; Hart and Ahuja, 1996; Porter and Van der Linde, 1995; 
+Russo and Fouts, 1997). However, there is a growing belief that the economic benefits depend 
+on the nature of environmental performance. More and more often, researchers argue that the 
+advantages resulting from social and environmental compliance with regulatory requirements 
+are  not  a  primary  source  of  competitive  advantage.  For  example,  the  mere  fact  of 
+environmental compliance hardly allows a company to distinguish itself from its competitors, 
+because most intra-industry peers are affected by compliance in a similar way. As pointed out 
+by Dowell et al. (2000), Hart and Ahuja (1996), and Russo and Fouts (1997), real benefits to 
+organizations are likely to come from more rigorous (i.e., proactive) forms of environmental 
+performance  that  require  both  changes  in  production  and  manufacturing  processes  and  a 
+forward-looking management style. Hillman and Keim (2001) add that CSR initiatives can pay 
+off, as long as these efforts are in the interest of the company’s primary stakeholders.  
+
+Conditional on these lines of reasoning, specific arguments in favor of CSR include: 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+10
+
+-  CSR  is  associated  with  reputational  benefits.  Several  scholars  suggest  that  adopting 
+corporate social responsibility policies may lead to improvements in the firm’s image 
+(e.g., Davis, 1973). Because the firm’s social performance record can proxy for labor 
+conditions, socially responsible companies gain a competitive advantage by improving 
+their  ability  to  attract  high-quality  employees.  Empirical  evidence  by  Turban  and 
+Greening (1996) strongly supports this line of reasoning. Apart from human-resource 
+benefits, other researchers, for instance, Vandermerwe and Oliff (1990), and Russo and 
+Fouts  (1997),  mention  the  possibility  that  reputational  advantages  result  in  sales 
+benefits,  because  customers  may  be  sensitive  to  social  issues.  Similarly,  reputational 
+increases may affect relationships with potential suppliers and lenders. 
+
+-  CSR can also serve as a proxy for management skills. Alexander and Buchholz (1978) 
+and  Bowman  and  Haire  (1975)  suggest  that  corporate  social  and  environmental 
+performance reflects management quality. A structural and dedicated CSR policy might 
+inherently  require  commitment  to  CSR  among  and  between  all  levels  of  the  firm  as 
+well as a forward-thinking, long-term-oriented management (Shrivastava (1995)).  
+
+-  CSR may also reflect (technological) innovativeness. For example, Porter and van der 
+Linde  (1995)  argue  that  poor  environmental  performance  is  a  sign  of  the  firm’s 
+operational  inefficiency,  which  ultimately  leads  to  competitive  disadvantages.  In 
+addition,  the  resource-based  view  towards  environmental  governance,  as  outlined  by 
+Russo  and  Fouts  (1997),  says  that  a  proactive  environmental  policy  within  the  firm 
+ultimately  requires  a  structural  change  in  production  and  service  delivery  processes. 
+This  redesign  involves  the  development,  acquisition,  and  implementation  of  new 
+technologies and may lead to economic advantages vis-à-vis competitors.  
+
+ 
+
+In fact, the resource-based view suggests that only pro-active environmental governance is a 
+source  of  financial  benefits,  which  will  be  unique  to  the  firm  and  difficult  to  obtain  by 
+competitors.  Since  eco-efficiency  closely  coincides  with  the  resource-based  view  in  that  it 
+represents pro-active environmental management, we arrive at the following hypothesis:  
+ 
+H1: Eco-efficiency relates positively to operating performance, ceteris paribus.  
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+3.2 Financial Theories 
+Now, more than ever before, financial-market participants have been paying attention to CSR. 
+Institutional  investors  are  demonstrating  their  interest  in  the  concepts  CSR  and  socially 
+responsible  investing  (SRI)  as  a  means  of  fulfilling  their  social  and  financial  obligations. 
+Recent estimates by the Social Investment Forum (2003) suggest that the market for socially 
+responsible investments currently covers approximately 12 percent of the market as a whole.  
+
+11
+
+Analogous  to  these  developments,  researchers,  starting  with  Moskowitz  (1972),  have 
+put forward theoretical frameworks that either support or reject the validity of CSR from an 
+investor perspective. These frameworks rely on established asset pricing theories which center 
+on the risk-return paradigm.  
+
+The risk-return paradigm is important because it highlights that managerial perspectives 
+towards CSR are only one part of the story. Although there is a tendency among management 
+scholars  to  believe  that  firms  are  doing  well  by  engaging  in  activities  that  increase  their 
+(intangible) value, financial theories add important insights on benefits from such activities in 
+terms of risk-adjusted returns to stockholders. Whether investors benefit from holding stocks of 
+socially responsible companies depends on how financial markets value CSR.  
+
+Hamilton, Jo, and, Statman (1993) note that financial markets may respond to corporate 
+
+social responsibility information in three different ways: 
+
+ 
+
+- 
+
+ 
+
+ 
+- 
+
+In scenario one, the market does not value corporate social responsibility. Investors 
+do not tie better social or environmental performance to lower risk. Consequently, 
+the expected stock returns of CSR leaders are no different from those of laggards, all 
+else  equal,  and  firm  value  is  independent  of  environmental  governance.  This 
+scenario would be supported empirically by evidence that a relation between CSR 
+and market-based measures of firm value is not statistically significant. This scenario 
+can apply to CSR as well as any of its subsets. When focused on the concept of eco-
+efficiency, the hypothesis that follows from this scenario can be stated as: 
+
+H2a: Eco-efficiency is not associated with firm value, ceteris paribus.  
+
+Contrary to scenario one, the second scenario predicts that investors do value CSR. 
+As suggested by Narver (1971), Shane and Spicer (1983) and Spicer (1978), firms 
+with a strong social or environmental performance record might be regarded as less 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+12
+
+risky  investments  compared  to  poor  environmental  performers.  In  the  risk-return 
+framework,  the  notion  that  social  and  environmental  leaders  are  less  risky 
+investments  than  laggards  implies  that  investors  demand  a  lower  return  on  these 
+firms’ stocks. Because investors assign a lower discount rate to expected future cash 
+flows of socially responsive companies, these firms have a higher value. We note 
+that  if  capital  markets  incorporate  information  related  to  CSR  efficiently,  we  can 
+assume that expected returns on stocks compensate investors fairly for the associated 
+risk, and that risk-adjusted stock returns are consistent with an equilibrium setting. 
+When  the  focus  is  on  the  economic  significance  of  corporate  eco-efficiency,  the 
+hypothesis consistent with the second scenario is stated as: 
+
+H2b: Eco-efficiency is positively associated with firm value, ceteris paribus. 
+
+Scenario three revolves around a disequilibrium. This scenario raises the possibility 
+that the paradigm is violated in practice and suggests that the market does not price 
+CSR  efficiently.  Investors  may  find  it  complicated  to  value  the  benefits  or  costs 
+associated  with  environmental  governance,  particularly  intangible  ones.  Whether 
+environmental  information  is  slowly  impounded  into  stock  prices  has  important 
+implications for both firm value and stock returns. Under the previous scenario, the 
+expected returns on environmental leaders firms, all else equal, should be lower than 
+those  of  environmental  laggards.  In  the  third  case,  however,  stocks  of  socially 
+responsible companies can be initially undervalued (overvalued) relative to those of 
+less  socially  responsible  companies  and  ultimately  produce  higher  (lower)  risk-
+adjusted returns. Recent empirical evidence by Derwall et al. (2005) indicates that 
+eco-efficient stock portfolios outperformed their least eco-efficient counterparts by 
+more than is suggested by investment risk, supporting an undervaluation hypothesis. 
+The Derwall et al. (2005) study motivates the following hypothesis: 
+
+H2c: The valuation differential between the most eco-efficient firms and the least eco-
+efficient firms increases over time, ceteris paribus.  
+
+ 
+
+ 
+- 
+
+ 
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+13
+
+ 
+ 
+Collecting  evidence  in  support  of  this  hypothesis  requires  that  we  analyze  the  market’s 
+valuation of firms’ CSR characteristics over time. The unique longitudinal dimension of the 
+environmental data in this study satisfies that condition. 
+ 
+4. Data 
+4.1 Eco-Efficiency Data 
+Among both managers and scholars, there is no consensus as to precisely what constitutes the 
+social  or  environmental  responsibility  of  the  firm.  Traditional  proxies  for  environmental 
+performance,  such  as  environmental  reports  by  third-party  organizations,  typically  rely  on 
+news  concerning  absolute  pollution  levels.  However,  these  indicators  of  environmental 
+responsibility address merely a single dimension of a company’s environmental performance 
+and usually reflect historical environmental events.  
+
+We focus on eco-efficiency. As noted earlier, we define a firm’s eco-efficiency as the 
+ability to create more value while using fewer environmental resources, such as water, air, oil, 
+coal and other limited natural endowments. Dowell et al. (2000) interpret eco-efficiency as the 
+ability  of  companies  to  minimize  pollution  by  improving  the  production  and  manufacturing 
+process.  This  form  of  environmental  responsibility  represents  proactive  environmental 
+management,  one  which  concentrates  on  good  environmental  performance  from  changes  in 
+operational efficiency, rather than by adopting standards for pollution control at the “end of the 
+pipe”.  
+
+Eco-efficiency usually measures the environmental performance of a firm in a relative 
+sense. To understand the difference between absolute and relative environmental performance, 
+consider,  for  example,  firms  that  operate  in  environmentally  sensitive  industries  such  as 
+mining,  energy,  or  chemicals.  In  absolute  terms,  these  firms  are  usually  regarded  as  poor 
+environmental  performers.  However,  at  the  intra-industry  level,  firms  facing  the  same 
+environmental challenges can still do well relative to competitors, and can benefit from this 
+financially. 
+
+We explore empirical relationships between eco-efficiency and several dimensions of 
+corporate financial performance. To do so, we use eco-efficiency scores developed by Innovest 
+Strategic  Value  Advisors.  Since  the  Innovest  data  have  received  little  attention  in  previous 
+research, by using Innovest’s data we can provide new evidence.  
+
+One  of  the  main  strengths  of  this  database  is  its  comprehensiveness.  Using  over  20 
+information sources, both quantitative and qualitative in nature, Innovest’s analysts evaluate a 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+14
+
+ 
+ 
+company  relative  to  its  industry  peers  via  an  analytical  matrix.  Companies  are  evaluated  by 
+more  than  60  criteria,  which  jointly  constitute  the  final  rating.  For  each  of  these  factors,  all 
+companies receive a (sub)score. As these variables are not considered equally important in the 
+overall assessment of eco-efficiency, each factor is weighted differently. For example, Innovest 
+analysts  consider  a  firm’s  environmental  product  development  as  more  important  than 
+certification by a third party that is devoted to promoting environmental awareness. The final 
+numerical rating analysts assign to a company is converted into a relative score based on the 
+total spread of scores in the sector to which the firm belongs.  
+
+  The eco-efficiency score reflects environmental performance in five fundamental areas. 
+The first broad area covers historical liabilities, which concern the risks (and opportunities) a 
+firm faces in consequence of past environmental behavior. Among other things, this category 
+covers  superfund  liabilities,  state  and  hazardous  waste  sites,  and  toxic  torts.  A  second 
+component represents contemporaneous operating risk, addressing risk exposures from events 
+that  are  more  recent.  This  category  includes,  for  example,  toxic  emissions,  product  risk 
+liabilities, waste discharges, and supply-chain management risk. The third area, which can be 
+labeled “sustainability and eco-efficiency risk,” pertains to the weakening of a firm’s material 
+sources of long-term profitability and competitiveness, and the potential future risks initiated 
+by  this  development.  This  area  spans  energy  intensity,  energy  efficiency,  the  durability  and 
+recyclability of the product life cycle, but also the extent to which companies are exposed to 
+changes in consumer values. The fourth area covered by the score concerns managerial risk 
+efficiency. This category represents the ability of the company to manage environmental risks 
+successfully,  as  can  be  witnessed  from,  e.g.,  the  quality  of  supply  chain  management, 
+environmental audit/accounting capacity, the strength of environmental management systems, 
+training  capacity.  The  last  dimension  involves  business  prospects  resulting  from  eco-
+efficiency, such as the degree to which businesses can reap future competitive advantages from 
+environmentally  driven  market  trends  and  profit  opportunities  provided  that  the  company’s 
+management has well-developed eco-efficiency policies. 
+
+From this brief overview, it becomes apparent that Innovest’s eco-efficiency measure is 
+intended to embody both ex post (i.e., historical and current) and ex ante (i.e., forward-looking) 
+dimensions of corporate eco-efficiency.  
+
+In this paper, we consider firms listed on the U.S. stock markets. As we also use various 
+financial  data,  we  match  the  Innovest  database  to  the  CRSP  U.S.  stock  database  and  to  the 
+Compustat U.S. Research database. We match by ticker, company name, and CUSIP number. 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+The resulting data set is survivor-bias-free in the sense that it includes not only firms that were 
+covered by Innovest recently, but also those which disappeared over time, for instance, due to 
+merger  or  bankruptcy.  Further  details  on  the  financial  data  will  be  given  in  the  appropriate 
+sections. 
+ 
+
+15
+
+Summary Statistics on Eco-Efficiency Scores 
+
+TABLE 1 
+
+The table summarizes the mean eco-efficiency and median scores, the standard deviation of the score, and the 
+number  of  firms  with  a  given  score,  observed  at  the  end  of  1996,  1998,  2000,  2002,  and  September  2004, 
+respectively. The Change column gives changes in these values over the beginning and the end of the sample 
+period. 
+
+ 
+
+ 
+3 
+ 
+
+ 
+ 
+ 
+ 
+46 
+39 
+39 
+43 
+46 
+37 
+28 
+ 
+
+ 
+3 
+ 
+
+ 
+ 
+ 
+ 
+19 
+13 
+28 
+28 
+27 
+27 
+12 
+ 
+
+Dec.-96 
+
+Dec.-98 
+
+Dec.-00 
+
+Dec.-02 
+
+Sept.-04 
+
+ 
+ 
+
+ 
+
+3.04 
+
+ 
+ 
+
+ 
+
+2.82 
+
+ 
+ 
+
+ 
+
+2.71 
+
+ 
+ 
+
+ 
+ 
+ 
+
+2.49 
+
+2.30 
+
+Change 
+
+(1996-2004) 
+
+ 
+ 
+ 
+
+-0.74 
+
+1.80 
+
+1.94 
+
+1.88 
+
+1.83 
+
+ 
+
+ 
+2 
+ 
+
+ 
+ 
+ 
+ 
+65 
+99 
+66 
+65 
+62 
+43 
+30 
+ 
+
+ 
+3 
+ 
+
+ 
+ 
+ 
+ 
+79 
+54 
+63 
+102 
+64 
+45 
+42 
+ 
+
+449 
+  
+
+ 
+2 
+ 
+
+1.68 
+
+ 
+ 
+ 
+ 
+71 
+133 
+109 
+70 
+67 
+49 
+20 
+ 
+
+ 
+
+ 
+
+1.00 
+
+0.03 
+
+ 
+ 
+ 
+ 
+52 
+120 
+81 
+42 
+40 
+22 
+8 
+ 
+
+365 
+
+154 
+  
+
+278 
+  
+
+430 
+  
+
+ 
+
+519 
+
+  
+
+  
+ 
+Eco-Efficiency Ratings 
+ 
+Mean Rating 
+ 
+Median Rating 
+ 
+Standard Deviation 
+ 
+ 
+Number of Companies 
+ 
+Eco-Efficiency = 0 
+Eco-Efficiency = 1 
+Eco-Efficiency = 2 
+Eco-Efficiency = 3 
+Eco-Efficiency = 4 
+Eco-Efficiency = 5 
+Eco-Efficiency = 6 
+ 
+Total 
+  
+
+ 
+ 
+ 
+
+ 
+We  convert  Innovest’s  seven  non-numerical  ratings  into  numerical  eco-efficiency  scores, 
+where the highest-ranked firms receive a rating equal to six and lowest-ranked firms receive a 
+rating of zero.  
+
+Table 1 shows some statistics on the eco-efficiency scores over time. These statistics 
+
+are merely descriptive and serve as some background for the analyses that follow.  
+
+The table shows results for five particular dates. We note that the last date covered by 
+Table 1 is September 2004, because the financial data are reported on a quarterly basis (i.e., we 
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+
+ 
+ 
+regress fourth-quarter financial measures on eco-efficiency scores that are dated September). 
+Over the period 1996-2004, the average rating decreases from 3.04 to 2.30. The median rating 
+decreases from 3 to 2. The standard deviation varies only mildly over time.  
+
+16
+
+ 
+ 
+
+The table also reports the frequency of the eco-efficiency score broken up into seven 
+categories. Statistics on the number of firms within each rating category explain the decrease in 
+average eco-efficiency rating. The number of firms that receive an eco-efficiency score below 
+3 increases more strongly compared to the number of firms that have a score of 4 or higher.  
+
+The  number  of  firms  in  the  sample  increases  considerably  over  time.  Our  data  set 
+includes scores for 154 companies at the end of December 1996 and 519 firms at the end of 
+September 2004. 
+ 
+4.2 Financial Data 
+To  accomplish  our  objective  of  investigating  the  association  between  eco-efficiency  and 
+several  dimensions  of  corporate  financial  performance,  we  first  analyze  the  connection 
+between eco-efficiency and operating performance. Our primary interest is in a broad measure 
+of operating performance that addresses both profitability and efficiency. Inspired by Barber 
+and Lyon (1996), we measure operating performance by the company’s return on assets. Our 
+set of control variables is similar to Waddock and Graves (1997). We control for the influence 
+of firm size and the firm’s riskiness. We measure size by the firm’s total assets and by total 
+sales.  The  debt-to-asset  ratio  represents  risk.  We  use  data  from  Compustat  to  construct  all 
+variables. 
+ 
+Next,  we  turn  our  attention  to  the  role  of  eco-efficiency  in  firm  valuation,  using  the 
+Tobin’s q measure. Following Kaplan and Zingales (1997), we compute Q as the market value 
+of assets divided by the book value of assets. The market value of assets is defined as the sum 
+of the book value of assets and the market value of common stock outstanding minus the sum 
+of the book value of common stock and balance sheet deferred taxes. Although there are more 
+sophisticated approaches to computing Q, we use the most efficient approximation to ensure 
+sufficient  data  availability  throughout  our  sample  period.  Further,  as  shown  by  Perfect  and 
+Wiles  (1994),  and  by  Chung  and  Pruitt  (1994),  this  proxy  for  Q  is  highly  correlated  with 
+estimates that are more complex.  
+Our  Tobin’s  q  analysis  accounts  for  potentially  confounding  influences.  Because 
+ 
+researchers  such  as  Hirsch  (1991)  show  that  recent  sales  growth  is  positively  related  to 
+company valuation, we include past two-year sales growth as a control variable. Furthermore, 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+17
+
+ 
+ 
+related work, including Dowell et al. (2000), King and Lenox (2002), and Konar and Cohen 
+(2001),  suggests  that  firm  value  is  positively  related  to  R&D  expenses.  To  parse  out  this 
+relationship, our control set contains research and development expenses scaled by sales as an 
+additional explanatory variable. To condition on differences in operating performance we use 
+return on assets (ROA). Following Gompers et al. (2003), we use the logarithm of the book 
+value  of  assets  to  account  for  differences  in  firm  size.  We  also  include  firm  age.  As  an 
+approximation of the firm’s age, we compute the difference between the first trading day and 
+the respective date of the analysis. Since the database “Exshare”, from which we retrieve the 
+first  trading  days,  was  established  in  November  1984,  we  lack  information  before  1984.  If 
+firms were founded before this date, we still assume that founding occurred in 1984.  
+ 
+Finally, we consider a dummy variable that is equal to unity if the firm is listed on the 
+Nasdaq exchange and zero otherwise. The dummy controls for atypically high Tobin’s q values 
+of Nasdaq firms that may have occurred during the stock market hype of the late nineties. We 
+construct all variables other than firm age using data from Compustat. 
+ 
+ 
+
+  
+
+Summary Statistics on Tobin’s q and ROA 
+
+TABLE 2 
+
+Cross-sectional statistics are reported for the first quarter of 1997, 1999, 2001, 2003 and the 
+last quarter of 2004. 
+
+  
+ 
+Tobin’s q (Q) 
+ 
+Mean Q 
+Median Q 
+Standard Deviation 
+Skewness 
+Kurtosis 
+ 
+Return on Assets (ROA) 
+ 
+Mean ROA 
+Median ROA 
+Standard Deviation 
+Skewness 
+Kurtosis 
+  
+
+ 
+
+1997 Q1 
+
+1999 Q1 
+
+2001 Q1 
+
+2003 Q1 
+
+2004 Q4 
+
+ 
+ 
+ 
+
+1.73 
+1.46 
+1.00 
+2.91 
+14.83 
+
+ 
+ 
+ 
+
+2.30 
+1.55 
+1.87 
+2.41 
+9.21 
+
+ 
+ 
+ 
+
+2.22 
+1.56 
+1.68 
+2.30 
+9.50 
+
+ 
+ 
+ 
+
+0.04 
+0.04 
+0.02 
+0.08 
+5.60 
+
+  
+
+ 
+ 
+ 
+
+0.04 
+0.03 
+0.03 
+0.38 
+5.90 
+
+  
+
+ 
+ 
+ 
+
+0.04 
+0.04 
+0.02 
+0.51 
+3.66 
+
+  
+
+ 
+
+ 
+ 
+ 
+
+1.75 
+1.30 
+1.16 
+2.68 
+13.29 
+
+ 
+ 
+ 
+
+0.03 
+0.03 
+0.02 
+0.89 
+6.42 
+
+ 
+
+ 
+ 
+ 
+
+1.99 
+1.61 
+1.23 
+2.68 
+13.36 
+
+ 
+ 
+ 
+
+0.04 
+0.03 
+0.02 
+0.59 
+5.16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+18
+
+ 
+ 
+To show the distribution of ROA and Q, Table 2 reports descriptive statistics pertaining to five 
+specific dates. The distribution of ROA is quite symmetric. Median and mean values for ROA 
+do  not  display  a  large  discrepancy,  being  similar  in  value  and  time  invariant.  As  for  the 
+distribution  of  Tobin’s  q,  we  can  see  that  there  is  some  non-normality  in  the  data.  Q  has  a 
+distribution that is peaked and leptokurtic, as indicated by the high values for skewness and 
+kurtosis. Arguably, the stock market fad of 2000 plays an important role in explaining the long 
+right tail in the Q data. Further, we observe differences in the cross-sectional median Q and the 
+mean Q over time. The median values for Tobin’s q remain relatively stable but mean values 
+are much higher during the technology boom and bust period. We alleviate potential problems 
+associated with non-normality by doing robustness tests after having industry-adjusted, taken 
+in logs, and trimmed the data, respectively. The dummy variable for companies listed on the 
+Nasdaq Stock Exchange captures potentially extreme Tobin’s q values during the technology 
+bubble. 
+ 
+5. Empirical Analysis  
+5.1 Eco-Efficiency and Return on Assets 
+In order to analyze the relation between eco-efficiency and operating performance, we follow 
+the  multivariate  model  of  Waddock  and  Graves  (1997).  Cross-sectional  analysis  is  most 
+suitable  for  testing  our  hypothesis.2  Since  our  data  are  longitudinal  in  nature,  periodical 
+regressions  can  be  performed.  We  estimate  the  following  cross-sectional  models  quarter  by 
+quarter from 1997 to 2004: 
+
+ 
+ROAit = αi + β1Eco-Efficiencyit + γit Xit + εit, 
+ROAit = αi + β0High Eco-Efficiencyit + β1Low Eco-Efficiencyit + γit Xit + εit, 
+
+     
+
+     
+
+ 
+
+        
+
+      (1) 
+      (2) 
+
+ 
+where ROAit denotes return on assets. We consider modeling both ROA and the firm’s ROA 
+relative to the industry median ROA. Eco-Efficiencyit in model (1) represents the firm’s eco-
+efficiency score. This model, therefore, assumes linear relations. To account for the possibility 
+of nonlinearity in the relation between eco-efficiency and our financial measures we develop 
+an alternative model. In specification (2), we replace the absolute eco-efficiency score with two 
+dummy variables that specify whether firm i is the most or the least eco-efficient. High Eco-
+
+                                                           
+2 At first glance, a plausible alternative approach could be a pooled model that allows for fixed effects and time-
+specific events. However, we rejected this setup due to a lack of time variation in firms’ eco-efficiency scores.  
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+19
+
+ 
+ 
+Efficiencyit (Low Eco-Efficiencyit) is equal to one if firm i is rated five or six (zero or one) at t, 
+and  zero  otherwise.  Xit  is  a  vector  of  control  variables  and  γ  is  a  vector  of  coefficients.  We 
+allow  for  permutations  of  the  regressors.  Candidate  control  variables  include  the  firm’s  size 
+measured either by total assets or by total sales, and the debt-to-asset ratio. Using a variant of 
+the Fama-MacBeth (1973) method, we compute time-series averages of the 32 cross-sectional 
+regression coefficients. We calculate corresponding t-statistics based on standard errors from 
+the 32 parameter estimates which we obtain for each variable.  
+Table 3 reports the time-series average coefficients and corresponding t-statistics. We 
+ 
+note that the coefficient estimates for all control variables are consistent with those reported by 
+Waddock  and  Graves  (1997).  With  the  exception  of  total  sales,  they  are  all  statistically 
+significant at the usual cut-off levels.  
+
+In  panel  A  of  Table  3,  we  report  coefficients  on  the  eco-efficiency  score.  Eco-
+Efficiency  it  has  a  coefficient  that  is  positive  and  significant  at  the  1  percent  level.  All 
+specifications indicate that the positive relation between eco-efficiency and ROA is robust to 
+changes in the set of dependent and control variables. The results of replacing Eco-Efficiencyit 
+with High Eco-Efficiencyit and Low Eco-Efficiencyit are shown in Panel B of Table 3. There is 
+weak  evidence  of  an  asymmetry  in  the  relation  between  eco-efficiency  and  operating 
+performance. Our estimates suggest that the underperformance of the least eco-efficient firms 
+(relative to the reference group) is almost twice as large as the outperformance of the most eco-
+efficient  companies.  Moreover, 
+the  operational  underperformance  associated  with 
+environmental  laggards  is  significant  at  the  1  percent  level  in  all  specifications.  The 
+outperformance of environmental leaders is marginally significant.  
+
+From an economic perspective, eco-efficiency relates sizably to operating performance. 
+The  increase  in  absolute  ROA  resulting  from  a  one-point  rise  in  eco-efficiency  ranking  is 
+estimated at 0.09 percent, ceteris paribus, which is about 2.2 percent of the sample average 
+ROA  we  observe  in  Table  2.  To  get  an  impression  of  the  asymmetrical  influence  of  eco-
+efficiency  on  operating  performance,  we  can  estimate  how  much  loss  in  ROA  a  firm  in  the 
+reference group (category 2, 3 and 4) would prevent by avoiding a low eco-efficiency ranking. 
+Panel B points out that the loss prevention amounts to about 0.32 percent, which is 8.4 percent 
+of the average ROA. The gain a firm can achieve by obtaining a high eco-efficiency rating is 
+0.14 percent, which is about 3.6 percent of the average ROA.  
+
+In  support  of  H1  we  find  a  positive  relation  between  eco-efficiency  and  operating 
+performance. Our evidence also suggests that the relation is asymmetric, for which we offer 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+Eco-Efficiency and Return on Assets (ROA): Fama-MacBeth (1973) Regressions 
+
+The table reports the Fama-MacBeth (1973) time-series mean coefficient and the corresponding t-statistic (in parentheses). Note: Low Eco-Efficiency = 1 if firm ranked ≤ 
+1. High-Eco-Efficiency =1 if firm ranked ≥ 5. To compute the difference between the coefficients, we subtract the Low Eco-Efficiency coefficient from the coefficient of 
+the High Eco-Efficiency dummy. The coefficients are multiplied by 100. Ind-Adj. ROA is industry-adjusted return on assets. The sample period is 1997-Q1 – 2004-Q4. 
+Significance at the 1%, 5%, and 10% level is indicated by ***, **, and *, respectively. 
+ 
+
+ 
+
+ 
+
+Fama-MacBeth Time-series Average Coefficients  
+
+TABLE 3 
+
+ROA 
+
+ 
+
+4.19*** 
+(26.70) 
+0.09*** 
+(8.05) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+  -4.74 E-6 ***
+
+(-11.81) 
+-3.17*** 
+(-6.45) 
+
+ 
+  
+
+Panel A: Equation (1) 
+ROA 
+
+Ind.Adj. ROA 
+
+ 
+
+ 
+
+Ind.Adj. ROA 
+
+ 
+
+0.20*** 
+(3.76) 
+0.09*** 
+(6.69) 
+
+ 
+
+4.17*** 
+(26.31) 
+0.08*** 
+(7.22) 
+
+ 
+
+0.20*** 
+(3.72) 
+0.08*** 
+(6.55) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   -2.23 E-6 *** 
+
+(-4.98) 
+-1.86*** 
+(-5.83) 
+
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-3.27*** 
+(-6.77) 
+-5.32 E-6  
+(-1.54) 
+
+ 
+
+ 
+
+-1.91*** 
+(-5.88) 
+-7.39 E-6 * 
+(-2.01) 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ROA 
+
+ 
+
+4.50*** 
+(27.42) 
+
+ 
+ 
+
+-0.34*** 
+(-7.45) 
+0.19** 
+(2.60) 
+
+0.52*** 
+(9.05) 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+-4.64 E-6 *** 
+(-10.90) 
+-3.20*** 
+(-6.38) 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Panel B: Equation (2) 
+ROA 
+
+Ind.Adj. ROA 
+
+ 
+ 
+
+ 
+
+0.51*** 
+(8.61) 
+
+ 
+ 
+
+-0.32*** 
+(-6.49) 
+0.11* 
+(1.75) 
+
+ 
+
+0.43*** 
+(6.98) 
+
+ 
+ 
+
+-2.17 E-6 *** 
+
+(-4.89) 
+-1.89*** 
+(-5.74) 
+
+ 
+  
+
+ 
+
+4.45*** 
+(26.50) 
+
+ 
+ 
+
+-0.31*** 
+(-6.63) 
+0.15** 
+(2.20) 
+
+ 
+
+0.46*** 
+(7.92) 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Ind.Adj. ROA 
+
+ 
+
+0.50*** 
+(8.24) 
+
+ 
+ 
+
+-0.31*** 
+(-6.33) 
+0.10 
+(1.64) 
+
+ 
+
+0.41*** 
+(6.86) 
+
+ 
+ 
+ 
+ 
+
+-3.31*** 
+(-6.69) 
+-4.70 E-6  
+(-1.30) 
+
+ 
+
+ 
+
+-1.94*** 
+(-5.80) 
+-6.25 E-6  
+(-1.69) 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+  
+ 
+Intercept 
+ 
+Eco-Efficiency 
+ 
+Low Eco-Efficiency  
+ 
+High Eco-Efficiency  
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+Difference: High-Low Eco-Efficiency 
+
+ 
+
+ 
+ 
+
+ 
+Control variables: 
+Book Value of Assets 
+ 
+Debt/Assets 
+ 
+Sales 
+  
+ 
+
+ 
+
+ 
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+
+two explanations. First, although our ratings are converted into numbers, they have no real unit 
+of measurement. Caveats associated with ordinal data could prevent us from accurately  
+measuring  differences  in  eco-efficiency  and  induce  false  suggestions  of  an  asymmetry.  A 
+second  explanation  is  that  the  negative  financial  impact  resulting  from  poor  environmental 
+governance  is  mostly  tangible  of  nature  and  therefore  visibly  reflected  in  operating 
+performance. Anecdotal evidence suggests that the clean-up costs associated with oil spills and 
+hazardous waste sides might directly decrease earnings. In addition, the reputational damage 
+resulting  from  environmental  accidents  can  lead  to  customer  boycotts  which  directly  affect 
+sales and profits. In contrast, strong environmental policies might largely be associated with 
+intangible benefits, such as strong management skills, technological innovativeness and brand 
+reputation that materialize slowly.  
+ 
+5.2 Eco-Efficiency and Firm Value 
+To  examine  empirically  the  relation  between  eco-efficiency  and  firm  valuation,  we  estimate 
+quarterly the following cross-sectional models:  
+ 
+ 
+ 
+ 
+In model (3), Qit denotes Tobin’s q for firm i in quarter t and Eco-Efficiencyit represents the 
+eco-efficiency rating of firm i at t. Xit is a vector of control variables and γ denotes a vector of 
+coefficients. In model (4), we replace Eco-Efficiencyit with two dummy variables that indicate 
+whether  firm  i  is  eligible  for  inclusion  in  a  high-ranked  portfolio  or  a  low-ranked  portfolio 
+similar  to  that  of  Derwall  et  al.  (2005).  The  variable  High  Eco-Efficiencyit  (Low  Eco-
+Efficiencyit) is equal to unity if firm i is rated five or six (zero or one), and zero otherwise.  
+Because  we  consider  several  model  specifications,  Xit  contains  permutations  of  the 
+ 
+following candidate regressors: the firm’s two-year sales growth, firm age, firms size measured 
+by  the  logarithm  of  the  book  value  of  total  assets,  return  on  assets,  R&D  spending,  an 
+interaction term between sales growth and R&D spending, and a dummy variable for Nasdaq 
+companies.  From  the  32  quarterly  regressions,  performed  over  the  period  January  1997  to 
+December 2004, we compute Fama-MacBeth (1973) time-series averages and their respective 
+t-statistics.  We  also  allow  for  some  variation  in  the  dependent  variable  by  repeating  the 
+
+ Qit = αi + β1 Eco-Efficiencyit + γit Xit + εit, 
+ 
+Qit = αi + β0 High Eco-Efficiencyit + β1Low Eco-Efficiencyit + γit Xit + εit,  
+
+     (3) 
+     (4) 
+
+    
+
+ 
+
+ 
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+Eco-Efficiency and Firm Value (Tobin’s q): Fama-MacBeth (1973) Regressions 
+
+TABLE 4 
+
+The table reports the Fama-MacBeth (1973) time-series mean coefficient and the corresponding t-statistic (in parentheses). Note: Low Eco-Efficiency = 1 if firm ranked ≤ 1. 
+High-Eco-Efficiency =1 if firm ranked ≥ 5. To compute the difference between the coefficients, we subtract the Low Eco-Efficiency coefficient from the coefficient of the High 
+Eco-Efficiency dummy. Ind.-adj. Q is the industry-adjusted Q. Sample period: 1997-Q1 – 2004-Q4. Significance at the 1%, 5%, and 10% level is indicated by ***, **, and *, 
+respectively.  
+
+ 
+
+ 
+
+Fama-MacBeth Time-series Average Coefficients  
+
+Panel A: Equation (3) 
+Log(Q) 
+
+Ind.Adj. Q 
+
+ 
+
+ 
+
+ 
+
+-0.78** 
+(-2.62) 
+0.05*** 
+(6.45) 
+
+0.49*** 
+(4.51) 
+0.03*** 
+(8.16) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  Trimmed Q 
+
+ 
+
+1.55*** 
+(4.93) 
+0.07*** 
+(5.35) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.15** 
+(2.30) 
+-0.02** 
+(-2.28) 
+-0.10*** 
+(-4.07) 
+38.89**** 
+(17.65) 
+
+ 
+
+ 
+
+0.13** 
+(2.10) 
+-0.02* 
+(-1.73) 
+1.85E-03 
+(0.10) 
+30.94*** 
+(19.02) 
+
+2.78E-03 
+(0.21) 
+
+-8.72E-03*** 
+
+(-3.30) 
+-0.05*** 
+(-6.48) 
+13.98*** 
+(22.91) 
+
+ 
+ 
+
+ 
+ 
+
+0.13* 
+(2.03) 
+-0.02** 
+(-2.37) 
+-0.09*** 
+(-3.86) 
+37.03*** 
+(16.76) 
+
+ 
+
+Q 
+
+1.59*** 
+(4.75) 
+0.07*** 
+(5.46) 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Difference: High-Low Eco-Efficiency 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+  
+ 
+Intercept 
+ 
+Eco-Efficiency 
+ 
+Low Eco-Efficiency  
+ 
+High Eco-Efficiency  
+ 
+ 
+
+ 
+ 
+Control variables: 
+Sales Growth 
+ 
+Firm Age 
+ 
+log(Book Value of Assets) 
+ 
+Return on Assets 
+  
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Panel B: Equation (4) 
+Log(Q) 
+
+Ind.Adj. Q 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Q 
+
+ 
+
+1.78*** 
+(4.89) 
+
+ 
+ 
+
+-0.28*** 
+(-8.96) 
+0.10** 
+(2.09) 
+
+ 
+
+0.39*** 
+(5.87) 
+
+ 
+ 
+
+0.15** 
+(2.29) 
+-0.02* 
+(-2.00) 
+-0.09*** 
+(-3.93) 
+38.85*** 
+(17.55) 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-0.70** 
+(-2.21) 
+
+ 
+ 
+
+-0.21*** 
+(-7.55) 
+6.02E-03 
+(0.18) 
+
+ 
+
+0.22*** 
+(5.60) 
+
+ 
+ 
+
+0.13** 
+(2.07) 
+-0.02 
+(-1.46) 
+8.73E-03 
+(0.48) 
+31.00*** 
+(18.88) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+0.57*** 
+(4.88) 
+
+ 
+ 
+
+-0.11*** 
+(-7.37) 
+0.07*** 
+(6.89) 
+
+ 
+
+0.17*** 
+(8.53) 
+
+ 
+ 
+
+2.07E-03 
+(0.15) 
+-0.01*** 
+(-3.10) 
+-0.05*** 
+(-6.40) 
+13.98*** 
+(22.58) 
+
+ 
+
+ 
+
+ 
+ 
+
+1.75*** 
+(5.06) 
+
+-0.29*** 
+(-8.59) 
+0.10** 
+(2.28) 
+
+  Trimmed Q 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.13** 
+(2.04) 
+-0.02** 
+(-2.06) 
+-0.09*** 
+(-3.73) 
+36.99*** 
+(16.61) 
+
+0.39*** 
+(5.89) 
+
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+estimation  of  (3)  and  (4)  using,  respectively,  an  industry-adjusted  Q  (Q  minus  the  industry 
+median Q), Q in logs, and a trimmed Q as a dependent variable. Trimming mitigates the effect 
+of potential outliers in Tobin’s q. We adopt the trimming approach of Collins et al. (1997) and 
+remove observations using the 0.995 percentile and the 0.005 percentile as upper and lower 
+boundaries. 
+
+Table 4 shows the results for the main model specifications. Panel A of Table 4 reports 
+the results of estimating equation (3). The first column of this panel reports the results of a 
+regression based on a standard, unmodified Q. The additional columns present the results of 
+using,  respectively,  industry-adjusted  Q  (Q  minus  the  industry  median  Q),  Q  in  logs,  and 
+trimmed  Q.  Taken  as  a  whole,  regardless  of  the  choice  of  the  dependent  variable,  the 
+coefficients  on  most  control  variables  (sales  growth,  size  and  ROA  and  firm  age)  are 
+significant  and  carry  signs  that  are  consistent  with  a  priori  expectations  and  with  previous 
+research. The only exceptions are the age variable, for which the coefficient weakens once we 
+use  industry-adjusted  Tobin’s  q,  and  the  sales  growth  variable,  which  becomes  insignificant 
+when we take the logarithm of Q as a dependent variable.  
+
+The observation most relevant to our study is that under all scenarios, the coefficient on 
+Eco-Efficiencyit is positive and statistically significant at the 1 percent level. Our estimate of 
+the  eco-efficiency  coefficient  (β1)  in  equation  (3)  is  approximately  0.07  when  Q  is  the 
+dependent  variable.  The  coefficient  decreases  due  to  rescaling  when  Q  is  taken  in  log,  but 
+remains highly significant. Furthermore, we note that neither industry adjustment nor trimming 
+of Tobin’s q affects the coefficient estimates substantially. The latter observation is important 
+because it suggests our results are not driven by outliers arising from, for instance, the stock 
+market crash of 2000. Overall, these parameter estimates support H2b. 
+
+Panel  B  of  Table  4,  adds  to  understanding  the  positive  association  between  eco-
+efficiency and Q. The panel reports the outcomes of replacing Eco-Efficiencyit with the dummy 
+variables High Eco-Efficiencyit and Low Eco-Efficiencyit (equation (4)). The results indicate a 
+slightly asymmetric relationship between eco-efficiency and Q: The negative coefficient on the 
+Low Eco-Efficiency dummy is larger in magnitude than the positive coefficient on the High 
+Eco-efficiency dummy. However, evidence of asymmetry varies across the specifications and 
+should  be  interpreted  with  care.  Most  important  to  our  research  question is the fact that the 
+most  eco-efficient  firms  have  a  significantly  higher  valuation  than  their  least  eco-efficient 
+counterparts.  
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+1
+
+To evaluate the robustness of the relationships further, we estimate additional models 
+that  include  different  sets  of  control  variables.  Table  5  presents  the  outcomes  for  these 
+alternative specifications. For reasons of comparison, we import the initial results pertaining to 
+equations  (3)  and  (4)  from  the  previous  table.  In  line  with  Konar  and  Cohen  (2001)  two 
+alternative models augment the first set of control variables by R&D expenditure. In the second 
+model, we also add an interaction term between sales growth and R&D expenditure. We note 
+that  the  inclusion  of  R&D  spending  decreases  our  sample  size  substantially,  since  this 
+information  was  not  available  for  a  large  number  of  firms.  The  last  alternative specification 
+expands the first model by the Nasdaq dummy.  
+
+In panel A, the results show that even in the presence of additional control variables, the 
+sensitivity of Q with respect to the eco-efficiency score remains positive and significant at the 
+1  percent  level.  The  coefficient  estimate  of  Eco-Efficiency  decreases  somewhat  once  we 
+include  R&D  spending  as  an  additional  control.  However,  because  limited  availability  of 
+(cross-sectional) R&D data induces a small sample problem, the results we find under the third 
+and fourth set of control variables should be interpreted with caution. 
+
+The  results  of  replacing  Eco-Efficiencyit  with  High  Eco-Efficiencyit  and  Low  Eco-
+Efficiencyit  are  given  in  Panel  B  of  Table  5.  Again,  the  evidence  supports  H2b.  After  the 
+inclusion of the additional control variables, the asymmetry weakens. Independent of the set of 
+control  variables,  we  find  a  significant  valuation  differential  between  the  most  eco-efficient 
+and the least eco-efficient firms.  
+
+In  order  to  assess  the  economic  significance  of  eco-efficiency,  we  can  estimate  how 
+much  a  firm  would  enjoy  an  increase  in  valuation  resulting  from  a  unit  increase  in  eco-
+efficiency ranking. Table 4, panel A, suggests that the impact of a one-point increase in eco-
+efficiency ranking on Tobin’s q amounts to 0.07, ceteris paribus, which is approximately 3.2 
+percent of the average Q we observe for all firms in the sample. To address the asymmetrical 
+influence  we  estimate  how  much  loss  in  Q  a  firm  in  the  reference  group  would  prevent  by 
+avoiding a low eco-efficiency ranking. Panel B suggests that the loss avoidance varies from 9 
+percent to 13 percent of the sample-average Q, depending on the choice of model. The gain 
+from receiving a high eco-efficiency rating is in the range of almost 0 to 7 percent.  
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+Eco-Efficiency and Firm Value: Robustness Checks 
+
+TABLE 5 
+
+The table reports the Fama-MacBeth (1973) time-series mean coefficient and the corresponding t-statistic (in parentheses). Note: Low Eco-Efficiency = 1 if firm ranked ≤ 1. 
+High-Eco-Efficiency =1 if firm ranked ≥ 5. To compute the difference between the coefficients, we subtract the Low Eco-Efficiency coefficient from the coefficient of the High 
+Eco-Efficiency dummy. Ind.-adj. Q is the industry-adjusted Q. Sample period: 1997-Q1 – 2004-Q4. Significance at the 1%, 5%, and 10% level is indicated by  ***,  **, and  *, 
+respectively.  
+
+ 
+
+ 
+
+Fama-MacBeth Time-series Average Coefficients  
+
+Panel A: Equation (3) 
+
+ 
+
+Panel B: Equation (4) 
+
+ 
+
+ 
+ 
+
+  
+
+Q 
+
+  
+
+ 
+
+1.59*** 
+(4.75) 
+0.07*** 
+(5.46) 
+
+ 
+
+ 
+ 
+
+ 
+  
+ 
+Intercept 
+ 
+Eco-Efficiency 
+ 
+Low Eco-Efficiency  
+ 
+High Eco-Efficiency 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Difference: High-Low Eco-Efficiency 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Control variables: 
+Sales Growth 
+ 
+Firm Age 
+ 
+log(Book Value of Assets) 
+ 
+Return on Assets 
+ 
+Research & Development (R&D) 
+ 
+R&D*Sales Growth 
+ 
+Nasdaq Dummy 
+  
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+0.15** 
+(2.30) 
+-0.02** 
+(-2.28) 
+-0.10*** 
+(-4.07) 
+38.89**** 
+(17.65) 
+
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+
+Q 
+
+0.62* 
+(2.02) 
+0.04*** 
+(4.45) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+  
+
+0.67*** 
+(3.61) 
+-0.01 
+(-0.91) 
+-0.05** 
+(-2.34) 
+41.11*** 
+(26.50) 
+9.48*** 
+(7.37) 
+
+ 
+ 
+
+ 
+ 
+
+Q 
+ 
+
+0.53* 
+(1.83) 
+0.04*** 
+(4.69) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-0.04 
+(-0.31) 
+-0.01 
+(-0.89) 
+-0.03 
+(-1.38) 
+41.18*** 
+(23.96) 
+7.91*** 
+(11.27) 
+10.66*** 
+(4.23) 
+
+ 
+  
+
+Q 
+ 
+
+0.65** 
+(2.55) 
+0.05*** 
+(4.95) 
+
+0.09* 
+(1.92) 
+
+-4.45E-03 
+(-0.55) 
+-0.03 
+(-1.60) 
+38.41*** 
+(20.05) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+  
+Q 
+ 
+
+1.78*** 
+(4.89) 
+
+ 
+ 
+
+ 
+
+ 
+
+-0.28*** 
+(-8.96) 
+0.10** 
+(2.09) 
+
+0.39*** 
+(5.87) 
+
+0.15** 
+(2.29) 
+-0.02* 
+(-2.00) 
+-0.09*** 
+(-3.93) 
+38.85*** 
+(17.55) 
+
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Q 
+
+0.72** 
+(2.27) 
+
+ 
+ 
+
+ 
+
+ 
+
+-0.12* 
+(-1.98) 
+0.13* 
+(1.72) 
+
+0.25*** 
+(4.73) 
+
+0.66*** 
+(3.51) 
+-0.01 
+(-0.71) 
+-0.05** 
+(-2.36) 
+41.12*** 
+(26.28) 
+9.62*** 
+(7.16) 
+
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+
+ 
+
+Q 
+
+0.63** 
+(2.09) 
+
+ 
+ 
+
+ 
+
+ 
+
+-0.13*** 
+(-2.78) 
+0.09 
+(1.56) 
+
+0.22*** 
+(4.74) 
+
+-0.03 
+(-0.22) 
+-0.01 
+(-0.70) 
+-0.03 
+(-1.42) 
+41.22*** 
+(24.05) 
+8.05*** 
+(10.95) 
+10.30*** 
+(4.21) 
+
+ 
+  
+
+Q 
+ 
+
+0.78*** 
+(2.81) 
+
+-0.17*** 
+(-5.23) 
+0.12** 
+(2.32) 
+
+0.29*** 
+(5.22) 
+
+0.09* 
+(1.88) 
+
+-3.38E-03 
+(-0.40) 
+-0.03 
+(-1.46) 
+38.43*** 
+(20.03) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+
+1.61*** 
+(6.45) 
+
+1.60*** 
+(6.18) 
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+1
+
+ 
+5.3 Eco-Efficiency and Firm Value: Tests for a Time-Varying Market Response 
+A positive (though potentially asymmetrical) relation between eco-efficiency and firm value 
+is consistent with the notion that eco-efficiency is a “priced” factor, i.e., that investors drive 
+up the value of environmental leaders by lowering their expected stock return and their cost-
+of-capital. However, up to this point, the association between Tobin’s q and eco-efficiency 
+does  not  reconcile  with  the  evidence  by  Derwall  et  al.  (2005)  that  eco-efficient  stock 
+portfolios  have  realized  anomalously  high  risk-adjusted  returns  relative  to  their  least  eco-
+efficient counterparts. Their results raise the possibility that the market has undervalued eco-
+efficient firms relative to less eco-efficient companies. In an equilibrium setting, the expected 
+returns on a group of eco-efficient companies can be lower than the returns on a group of less 
+eco-efficient companies because eco-efficient firms are deemed less risky. After adjustment 
+for these risk differences, there should be no abnormal difference in return. However, under 
+the  hypothesis  that  the  market  reacts  to  eco-efficiency  with  a  drift,  firms  can  be  under-  or 
+overvalued and risk-adjusted portfolio returns can be anomalous.  
+
+The  Derwall  et  al.  (2005)  zero  investment  portfolio  of  the  most  eco-efficient  firms 
+versus  the  least  eco-efficient  firms  earns  an  average  abnormal  return  in  the  order  of  2.2 
+percent  to  8.6  percent  per  annum  depending  on  the  portfolio  construction  method  and  the 
+performance attribution model used. By examining the sensitivity of Tobin’s q to corporate 
+eco-efficiency under each separate cross-sectional regression, we can investigate whether the 
+superior stock performance associated with eco-efficiency translates into a higher valuation 
+over time for eco-efficient companies relative to their eco-inefficient counterparts. We could 
+expect the abnormal returns associated with eco-efficient firms to induce an upward trend in 
+their Tobin’s q values.  
+
+To shed more light on the nature of the large return differential documented in Derwall 
+et al. (2005), we now exploit the attractive features of the Tobin’s q measure and of the Fama-
+MacBeth (1973) regression technique. First, we divide our sample period into two subperiods. 
+Table  6,  which  reports  regression  results  for  Tobin’s  q  broken  up  into  two  subsamples, 
+confirms our expectations. The table shows time-series average coefficients for the 1997-2000 
+and 2001-2004 periods, respectively. The subsample results indicate a strong time variation in 
+the difference between the coefficients on High Eco-Efficiency and Low Eco-Efficiency. In 
+the  later  subperiod,  eco-efficient  companies  were  selling  at  a  premium  more  than  twice  as 
+large as that in the earlier subperiod, consistent with a scenario that investors have changed 
+their view on the value of eco-efficiency.  
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+2
+
+Eco-Efficiency and Firm Value: Subperiod Results 
+
+TABLE 6 
+
+Reported are the time-series mean coefficients and the t-statistics (in parentheses) of the difference between 
+High Eco-Efficiency and Low Eco-Efficiency based on equation (4). Low Eco-Efficiency = 1 if firm ranked ≤ 
+1. High Eco-Efficiency =1 if firm ranked ≥ 5. To compute the difference between the coefficients, we subtract 
+the Low Eco-Efficiency coefficient from the coefficient of the High Eco-Efficiency dummy. The subperiods 
+are 1997-Q1 to 2000-Q4 and 2001-Q1 to 2004-Q4. Significance at the 1%, 5%, and 10% level is indicated by 
+***, **, and *, respectively. 
+
+ 
+ 
+  
+  
+ 
+ 
+Subperiod 1 
+ 
+Difference High-Low Eco-Efficiency 
+ 
+ 
+Subperiod 2 
+ 
+Difference High-Low Eco-Efficiency 
+ 
+ 
+Complete Period 
+ 
+Difference High-Low Eco-Efficiency 
+  
+  
+ 
+
+Fama-MacBeth Time-series Average Coefficients 
+
+Q 
+ 
+ 
+
+0.20* 
+(1.82) 
+
+ 
+
+0.57*** 
+(15.19) 
+
+ 
+
+0.39*** 
+(5.87) 
+
+ 
+
+ 
+
+Ind.Adj. Q 
+
+ 
+ 
+
+0.13* 
+(1.93) 
+
+ 
+
+0.31*** 
+(10.05) 
+
+ 
+
+0.22*** 
+(5.60) 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Log(Q) 
+
+ 
+ 
+
+0.08*** 
+(3.61) 
+
+ 
+
+0.26*** 
+(24.89) 
+
+ 
+
+0.17*** 
+(8.53) 
+
+ 
+ 
+
+0.22* 
+(1.90) 
+
+   Trimmed Q 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+0.56*** 
+(15.84) 
+
+0.39*** 
+(5.89) 
+
+ 
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+In  Table  7,  we  express  the  time-varying  market  response  to  eco-efficiency  by  estimating  a 
+trend in the relation between eco-efficiency and Tobin’s q. More specifically, we perform a 
+time-series  regression  using  the  differences  between  the  quarterly  estimates  of  the  cross-
+sectional  coefficients  on  the  two  dummy  variables  (β0  High  Eco-Efficiency  -  β1  Low  Eco-
+Efficiency)  as  the  dependent  variable  and  time  as  the  regressor.  To  account  for  potential 
+autocorrelation, we compute t-statistics based on Newey-West (1987) autocorrelation-robust 
+standard errors3. Table 7, Panel A, reports the annual increases in valuation differential based 
+on  the  specifications  described  in  Table  4,  whereas  Table  7,  Panel  B,  presents  those 
+corresponding to Table 5. Independent of the specification, we find that the trend in valuation 
+is  significantly  different  from  zero.  The  intercept  combined  with  the  time  coefficient 
+demonstrate  that  although  eco-efficient  firms  were  not  selling  at  a  relative  premium  at  the 
+beginning of the sample period, the premium increases strongly over time. Equally important 
+is  the  economic  interpretation  of  the  trend.  Our  estimates  of  the  trend  range  between  2.8 
+percent and 5 percent. These percentages resemble the abnormal returns outlined by Derwall 
+et al. (2005).  
+ 
+ 
+
+                                                           
+3 Since Newey-West (1987) standard errors might be overstated for small samples, we compute in addition 
+conventional standard errors. Our findings are similar and available upon request from the authors.  
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+3
+
+The subperiod results as well as the upward-sloping trend line support H2c. The time-varying 
+pattern may indicate that the value of eco-efficiency is not well understood by capital markets. 
+Although finding that environmental information is priced gradually seems to contradict the 
+notion that markets are efficient, our study is not the first to show that some information about 
+companies is slowly incorporated into stock prices. For example, there is evidence that stock 
+repurchases (Ikenberry et al., 1995) and dividend omissions (e.g., Michaely et al., 1995), all of 
+which are arguably more concrete events than environmental events, have a post-event drift.  
+Our results raise the idea that investors can exploit temporary mispricing of corporate 
+environmental performance criteria. At the very least, our results suggest the market shows 
+increased interest in information about the environmental management of the firm.  
+
+ 
+TABLE 7 
+
+Trend in Eco-Efficiency Premium 
+
+Based on the difference between β0 and β1 for each quarterly estimation of equation (4): Qit = αi + β0 High Eco-
+Efficiencyit + β1 Low Eco-Efficiencyit + γit Xit + εit, we estimate the time trend: β0 - β1 = α + β2 timet + εt , where 
+time  ranges  from  1  to  32.  We  compute  Newey-West  (1987)  adjusted  standard  errors.  Panel  A  reports  the 
+coefficients of time and the corresponding t-statistics for all specifications shown in Table 4. Panel B shows the 
+time trend coefficient and t-statistics for all estimations presented in Table 5. Significance at the 1%, 5%, and 
+10% level is indicated by ***, **, and *, respectively. 
+ 
+
+Panel A 
+  
+
+  
+
+  
+
+Intercept 
+
+Annual % Trend
+
+Q 
+ 
+
+Ind.Adj. Q 
+
+ 
+
+Log(Q) 
+
+ 
+
+Trimmed Q 
+
+  
+
+Panel B 
+
+  
+
+ 
+
+  
+
+Q 
+
+Q 
+ 
+Q 
+ 
+Q 
+
+-0.02 
+(-0.15) 
+-0.01 
+(-0.14) 
+0.01 
+(0.36) 
+-0.01 
+(-0.10) 
+
+ 
+  
+
+Intercept 
+
+-0.02 
+(-0.15) 
+-0.07 
+(-0.81) 
+-0.08 
+(-1.45) 
+-0.08 
+(-1.13) 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+4.32*** 
+(3.56) 
+2.42*** 
+(4.47) 
+3.83*** 
+(5.65) 
+4.30*** 
+(3.61) 
+
+  
+
+Annual % 
+
+Trend 
+4.98*** 
+(3.56) 
+3.34*** 
+(4.28) 
+3.16*** 
+(5.18) 
+3.93*** 
+(4.16) 
+
+
+ 
+ 
+
+ 
+ 
+
+4
+
+6. Conclusion 
+Can corporate environmental management be aligned with the economic objectives of a firm? 
+This study provides new answers to this question. Focusing on the concept of eco-efficiency, 
+we perform an extensive analysis on the relation between corporate eco-efficiency and several 
+dimensions of financial performance. Using a large database containing monthly scores for 
+the period December 1996 - December 2004, we find evidence suggesting that the virtues of a 
+strong corporate eco-efficiency policy can be significant from a financial perspective. 
+
+Our study points to a positive and slightly asymmetric relation between eco-efficiency 
+and operating performance. Firms that are deemed eco-efficient have only a slightly superior 
+return on assets than the control group. The least eco-efficient firms show strong operational 
+underperformance. Overall, our findings strongly reject the notion expressed by CSR skeptics, 
+that the benefits of adopting a strong environmental policy are unlikely to outweigh the costs. 
+Our study provides new evidence of a positive and time-varying relation between eco-
+efficiency and firm valuation as measured by Tobin’s q. An exploration into the time-varying 
+sensitivities of firm value with respect to the eco-efficiency scores shows that environmental 
+winner  companies  initially  did  not  trade  at  a  premium  relative  to  losers.  Over  time,  the 
+valuation  differential  between  winners  and  losers  widened  substantially.  The  observed 
+upward trend in relative firm valuation offers an explanation for recent evidence by Derwall 
+et  al.  (2005).  This  trend  suggests  that  the  shares  of  most  eco-efficient  firms  relative  to  the 
+least  eco-efficient  firms  were  initially  undervalued  but  later  experienced  an  upward  price 
+correction. At the very least, Tobin’s q regression results suggest, that these days, the market 
+assigns more value-relevance to environmental information about firms.  
+
+We believe the results of this paper have implications for both managers and investors. 
+Evidently, managers have little reason to worry that an environmental policy conflicts with 
+the company’s primary financial objectives. Investors may interpret our results as evidence 
+that corporate environmental performance is a potential source of information that helps them 
+generate superior excess returns. As for these excess returns, an important avenue for further 
+research  would  be  to  look  at  the  endurance  of  the  observed  upward  trend  in  the  valuation 
+differential between environmental winners and losers.  
+
+Hence,  although  this  study  asserts  that  the  observed  patterns  in  Tobin’s  q  reflect  a 
+correction for undervaluation of eco-efficient companies, it is forced to leave some important 
+questions unexplained. Will these patterns persist in the future? What does this imply about 
+future shareholder returns? 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+5
+
+REFERENCES 
+Alexander, G. J., Buchholz, R. A., 1978. Corporate Social Responsibility and Stock Market 
+
+Performance. Academy of Management Journal 21(3), 479-486. 
+
+Barber, B.M., Lyon, J.D., 1996. Detecting Abnormal Operating Performance: The Empirical 
+Power and Specification of Test Statistics. Journal of Financial Economics 41, 359-
+399 
+
+Bowman,  E.,  Haire,  M.,  1975.  A  Strategic  Posture  Towards  CSR.  California  Management 
+
+Review 18(2), 49-58. 
+
+Cohen,  M.A.,  Fenn,  S.A.,  Konar,  S.,  1997.  Environmental  and  Financial  Performance:  Are 
+
+They Related? Working Paper. 
+
+Collins, D.W., Maydew, E.L., Weiss, I.S., 1997. Changes in the Value-relevance of Earnings 
+and Book Values over the Past Forty Years. Journal of Accounting and Economics 24, 
+39-67. 
+
+Chen, K.H., Metcalf, R.W., 1980. The Relationship Between Pollution Control Record and 
+
+Financial Indicators Revisited. The Accounting Review 55(1), 168-177. 
+
+Chung, K.H., Pruitt, S., 1994. A Simple Approximation of Tobin’s q. Financial Management 
+
+23, 70-74. 
+
+Davis, K., 1973. The Case for and Against Business Assumption of Social Responsibilities. 
+
+Academy of Management Journal 16, 312-322. 
+
+Derwall, J., Guenster, N., Bauer, R., Koedijk, K., 2005. The Eco-Efficiency Premium Puzzle. 
+
+Financial Analysts Journal 61(2), 51-63. 
+
+Dowell,  G.A.,  Hart,  S.,  Yeung,  B.,  2000.  Do  Corporate  Global  Environmental  Standards 
+
+Create or Destroy Market Value? Management Science 46(8), 1059-1074. 
+
+Fama, E.F., MacBeth, J. D., 1973. Risk, Return and Equilibrium: Empirical Tests. Journal of 
+
+Political Economy 81, 607-636. 
+
+Fama, E.F., French, K.R., 1993. Common Risk Factors in the Returns on Stocks and Bonds. 
+
+Journal of Financial Economics 33, 3-56. 
+
+Fama, E.F., French, K.R., 1998. Value versus Growth: The International Evidence. Journal of 
+
+Finance 53(6), 1975-1999.  
+
+Fombrun, C.J., Gardberg, N.A., Barnett, M.L., 2000. Opportunity Platforms and Safety Nets: 
+Corporate  Citizenship  and  Reputational  Risk.  Business  and  Society  Review  105(1), 
+85-106. 
+
+Freedman, M., Jaggi, B., 1988. An Analysis of the Association between Pollution Disclosure 
+
+and Economic Performance. Accounting, Auditing and Accountability 1(2), 43-58. 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+6
+
+Friedman, M., 1962. Capitalism and Freedom. University of Chicago Press. Chicago 
+Griffin, J.J., Mahon, J.F., 1997. The Corporate Social Performance and Corporate Financial 
+Performance  Debate.  Twenty-Five  Years  of  Incomparable  Research.  Business  & 
+Society 36(1), 5-31. 
+
+Gompers,  P.,  Ishii,  M.,  Metrick,  A.,  2003.  Corporate  Governance  and  Equity  Returns,  The 
+
+Quarterly Journal of Economics 118(1), 107-155 
+
+Hamilton,  J.T.  1995.  Pollution  as  News:  Media  and  Stock  Market  Reactions  to  the  Toxics 
+Release  Inventory  Data.  Journal  of  Environmental  Economics  and  Management  28, 
+98-113. 
+
+Hamilton,  S.,  Jo,  H.,  Statman,  M.,  1993.  Doing  Well  While  Doing  Good?  The  Investment 
+Performance of Socially Responsible Mutual Funds. Financial Analysts Journal 49(6), 
+62-66. 
+
+Hart,  S.L.,  Ahuja,  G.,  1996.  Does  It  Pay  To  Be  Green?  An  Empirical  Examination  of  the 
+Relationship between Emission Reduction and Firm Performance. Business Strategy 
+and the Environment 5, 30-37. 
+
+Henderson,  D.,  2002.  Misguided  Virtue:  False  Notions  of  Corporate  Social  Responsibility. 
+
+Institute of Economic Affairs, London. 
+
+Hillman,  A.J.,  Keim,  G.D.,  2001.  Shareholder  Value,  Stakeholder  Management,  and  Social 
+
+Issues: What’s the Bottom Line? Strategic Management Journal 22, 125-139. 
+
+Hirsch,  B.T.,  1991.  Union  Coverage  and  Profitability  among  U.S.  Firms.  Review  of 
+
+Economics and Statistics 73 (1), 69-77. 
+
+Ikenberry, D., Lakonishok, J., Vermaelen, T., 1995. Market Underreaction to Open Market 
+
+Share Repurchases. Journal of Financial Economics 39(2), 181-208. 
+
+Kaplan  S.N.,  Zingales,  L.,  1997.  Do  Investment-Cash  Flow  Sensitivities  Provide  Useful 
+
+Measures of Financing Constraints? Quarterly Journal of Economics 112, 169-215. 
+
+King,  A.,  Lenox,  M.  2002.  Exploring  the  Locus  of  Profitable  Pollution  Reduction. 
+
+Management Science 48(2), 289-299. 
+
+Klassen, R.D., McLaughlin, C.P., 1996. The Impact of Environmental Management on Firm 
+
+Performance. Management Science 42(8), 1199-1214. 
+
+Konar, S, Cohen, M.A., 2001. Does the Market Value Environmental Performance? Review 
+
+of Economics and Statistics 83(2), 281-289. 
+
+Mahapatra, S., 1984. Investor Reaction to a Corporate Social Accounting. Journal of Business 
+
+Finance and Accounting 11(1), 29-40. 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+7
+
+McGuire,  J.  B.,  Sundgren,  A.,  Schneeweis,  T.,  1988.  Corporate  Social  Responsibility  and 
+
+Firm Financial Performance. Academy of Management Journal 31(4), 854-872. 
+
+Michaely,  R.,  R.  Thaler,  K.  Womack.,  1995.  Price  Reactions  to  Dividend  Initiations  and 
+
+Omissions. Journal of Finance 50(2), 573-608. 
+
+Moskowitz, M., 1972. Choosing Socially Responsible Stocks. Business and Society Review 
+
+1, 71-75.  
+
+Narver,  J.C.,  1971.  Rational  Management  Response  to  External  Effects.  Academy  of 
+
+Management Journal 14(1), 99-115. 
+
+Newey,  W.K.,  West,  K.D.,  1987.  A  Simple,  Positive  Semi-Definite  Heteroskedasticity  and 
+Autocorrelation  Consistent  Variance  Covariance  Matrix.  Econometrica  55(3),  703-
+708. 
+
+Perfect,  S.B.,  Wiles,  K.W.,  1994.  Alternative  Constructions  of  Tobin's  q:  An  Empirical 
+
+Comparison. Journal of Empirical Finance 1(3), 313-341. 
+
+Porter, M.E., van der Linde, C., 1995. Green and Competitive. Ending the Stalemate. Harvard 
+
+Business Review 73(5), 120-135. 
+
+Russo, M.V., Fouts, P.A., 1997. A Resource-Based Perspective on Corporate Environmental 
+
+Performance and Profitability. Academy of Management Journal 40(3), 534-559. 
+
+Shane,  P.B.,  Spicer,  B.H.,  1983.  Market  Response  to  Environmental  Information  Produced 
+
+Outside the Firm. The Accounting Review 58(3), 521-285. 
+
+Shrivastava, P., 1995. Ecocentric Management for a Risk Society. Academy of Management 
+
+Review 20, 118-137. 
+
+Social Investment Forum. 2003. 2003 Report on Socially Responsible Investing Trends in the 
+
+United States. http:// www.socialinvestment.org 
+
+Spicer, B. H., 1978. Investors, Corporate Social Performance and Information Disclosure: an 
+
+Empirical Study. The Accounting Review 53(4), 781-796. 
+
+Thomas, A., 2001. Corporate Environmental Policy and Abnormal Stock Price Returns: an 
+
+Empirical Investigation. Business Strategy and The Environment 10, 125-134. 
+
+Turban,  D.B.,  Greening,  D.W.,  1996.  Corporate  Social  Performance  and  Organizational 
+Attractiveness  to  Prospective  Employees.  Academy  of  Management  Journal  40(3), 
+658-672. 
+
+Ullman, A.E., 1985. Data in Search of a Theory: A Critical Examination of the Relationships 
+Among  Social  Performance,  Social  Disclosure,  and  Economic  Performance  of  U.S. 
+Firms. Academy of Management Review 10(3), 540-557. 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+
+
+ 
+ 
+
+ 
+ 
+
+8
+
+Vandermerwe,  S.,  Oliff,  M.D.,  1990.  Customers  Drive  Corporations  Green.  Long  Range 
+
+Planning 23(6), 3-9. 
+
+Waddock,  S.  A.,  Graves,  S.  B.,  1997.  The  Corporate  Social  Performance-Financial 
+
+Performance Link. Strategic Management Journal 18(4), 303-319.  
+
+Walley, N., Whitehead, B., 1994. It’s Not Easy Being Green. Harvard Business Review 72(3), 
+
+46-52. 
+
+White, M.A. 1996. Corporate Environmental Performance and Shareholder Value. Working 
+
+Paper WHI002. McIntire School of Commerce. 
+
+Ziegler,  A.,  Rennings,  K  Schröder,  M.,  2002.  The  Effect  of  Environmental  and  Social 
+Performance  on  the  Shareholder  Value  of  European  Stock  Corporations.  Working 
+Paper. Centre for European Economic Research (ZEW). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8
+2
+6
+5
+7
+6
+=
+t
+c
+a
+r
+t
+s
+b
+a
+m
+o
+c
+.
+n
+r
+s
+s
+/
+/
+:
+
+/
+
+p
+
+t
+t
+
+h
+
+i
+
+ 
+:
+t
+i
+s
+v
+ 
+e
+s
+a
+e
+p
+
+l
+
+ 
+,
+r
+e
+p
+a
+p
+
+ 
+s
+h
+
+i
+
+t
+ 
+f
+
+o
+
+i
+
+ 
+y
+p
+o
+c
+ 
+c
+n
+o
+r
+t
+c
+e
+e
+
+l
+
+ 
+
+n
+a
+
+ 
+r
+o
+F
+

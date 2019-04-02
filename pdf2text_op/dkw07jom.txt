@@ -1,0 +1,2199 @@
+Journal of Operations Management 25 (2007) 1199–1216
+
+www.elsevier.com/locate/jom
+
+Impact of eBusiness technologies on operational performance:
+
+The role of production information integration in the supply chain
+
+Sarv Devaraj 1, Lee Krajewski *, Jerry C. Wei 2
+
+Management Department, Mendoza College of Business, University of Notre Dame, Notre Dame, IN 46556, United States
+
+Available online 17 January 2007
+
+Abstract
+
+While the information technology (IT) literature is mixed regarding the direct beneﬁts of eBusiness technologies on
+performance, the impact of such technologies on supply chain practices remains largely an unexplored area of research. We
+hypothesize that while there may be no direct beneﬁt of eBusiness technologies on performance, these technologies might support
+customer integration and supplier integration in the supply chain, which in turn might impact operating performance.
+
+To examine our hypotheses, we collected data from respondents who focused their responses to a single major product the
+process that manufactures it, a signiﬁcant customer, and an important supplier. Our analyses showed that there was no direct beneﬁt
+of eBusiness technologies on performance; however these technologies supported customer integration and supplier integration.
+Further, supplier integration was found to positively impact cost, quality, ﬂexibility, and delivery performance; however there was
+no relationship between customer integration and performance. Consequently, there is a relationship between eBusiness
+technologies and supplier integration that leads to better performance. Further, there is an interactive effect between customer
+integration and supplier integration that supports the notion that ﬁrms that have both forms of integration, supported by eBusiness
+technologies, signiﬁcantly outperform the others.
+# 2007 Elsevier B.V. All rights reserved.
+
+Keywords: eBusiness technologies; Customer integration; Supplier integration; Operational performance; Supply chain management
+
+1. Introduction
+
+With the advent of new eBusiness technologies,
+ﬁrms have engaged in initiatives that link supply chain
+processes across enterprises to create efﬁciencies and
+gain a competitive edge. The thrust of investment in
+eBusiness technologies is to create a seamless integra-
+tion of entities in a supply chain, which calls for the
+sharing of accurate and timely information and the
+
+* Corresponding author. Tel.: +574 631 9063.
+
+E-mail addresses: sdevaraj@nd.edu (S. Devaraj),
+
+lkrajews@nd.edu (L. Krajewski), jwei@nd.edu (J.C. Wei).
+
+1 Tel.: +1 574 631 5074.
+2 Tel.: +1 574 631 5460.
+
+0272-6963/$ – see front matter # 2007 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jom.2007.01.002
+
+coordination of activities between business entities.
+Distorted information from one end of a supply chain to
+the other can lead to exaggerated order swings causing
+tremendous inefﬁciencies (Lee et al., 1997).
+
+it
+
+Despite the widespread adoption of eBusiness
+technologies,
+is not clear whether eBusiness
+technologies have a direct affect on supply chain
+in eBusiness
+performance. Certainly, ﬁrms invest
+technologies with the presumption that
+they will
+facilitate supply chain integration and that performance
+will
+‘‘supply chain
+planning,’’ ‘‘linkages with customers,’’ and ‘‘linkages
+with suppliers’’
+the greatest operational
+improvement opportunities, all of which are the
+capabilities most often transformed by eBusiness
+
+improve. Executives consider
+
+to offer
+
+
+1200
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+technologies in supply chain initiatives (D’Avanzo
+et al., 2003). Unfortunately, managerial expectations for
+these technologies have exceeded actual performance
+(Poirier and Quinn, 2003). Further, while the payoff
+from investing in information technologies has been a
+subject of long standing academic research and intense
+discussion, no clear conclusion has resulted. Payoffs
+from IT have been and continue to be open to debate in
+the literature, where it is called the ‘‘IT paradox’’
+(Brynjolfsson and Yang, 1996). Largely due to the
+nature of the research designs employed, this stream of
+research has not deﬁnitively attributed the impact of
+individual technologies on organizational performance
+(Lee and Barua, 1999; Devaraj and Kohli, 2003). A
+direct
+linkage between eBusiness technologies and
+supply chain performance still remains an elusive entity.
+Thus, the ﬁrst critical research question that this study
+seeks to address is ‘‘Do eBusiness technologies have a
+signiﬁcant impact on supply chain performance?’’
+
+One possible reason for the dissatisfaction with the
+performance of eBusiness technologies on the part of
+supply chain executives is that technology solutions were
+selected before certain process improvements were
+made, thereby diluting the paybacks for these invest-
+ments (Poirier and Quinn, 2003; Zhu and Kraemer,
+2002). A potential remedy may be the development of
+processes to improve integration, which can enhance
+relationships with distribution channel partners (John-
+son, 1999) or cultivate supplier capabilities (Krause et al.,
+1998). To realize these beneﬁts, ﬁrms use eBusiness
+technologies to engage in information sharing and other
+forms of collaboration between customers and suppliers
+that address the issues of production planning and
+scheduling of their products. We will refer to this speciﬁc
+form of integration as production information integra-
+tion. New eBusiness
+facilitate quick
+information sharing between downstream and upstream
+partners and enable companies like Dell Computer to
+‘‘trade inventory for
+(Milgrom and
+Roberts, 1988; Dell, 1999). Capturing and sharing
+real-time information has become essential to improving
+supply chain performance. Timely information sharing
+helps speed up decision making and often results in
+shorter lead times and smaller batch sizes (Cachon and
+Fisher, 2000).
+In addition to information sharing,
+eBusiness technologies also facilitate the collaboration
+of supply chain entities. Examples include jointly
+developing demand forecasting (Koloczyc, 1998; Aviv,
+2001) and vendor-managed inventory (VMI), also
+referred to as direct shipment or automatic replenishment
+(Buzzell and Ortmeyer, 1995; Cetinkaya and Lee, 2000;
+Kulp et al., 2004). Conceivably, if eBusiness technol-
+
+information’’
+
+technologies
+
+ogies for production planning and scheduling do not have
+a direct effect on ﬁrm performance, they may have an
+indirect effect on performance via their impact on the
+processes developed for supplier and customer produc-
+tion information integration. This possibility has not been
+addressed in the literature. Thus, our second research
+question is ‘‘Does production information integration
+constitute an important
+link in the pathway from
+eBusiness technology to supply chain performance?’’
+
+As indicated by Kauffman and Walden (2001), much
+of the existing eBusiness literature still relies heavily on
+case studies and anecdotes, with few empirical studies
+to measure Internet-based initiatives or gauge the scale
+of their impact on ﬁrm performance. Thus, there is a
+paucity of scientiﬁc analysis that clearly establishes the
+impact of eBusiness technology on strategic measures
+(Mukhopadhyay and Kekre, 2002). Since the evidence
+of both the success and failure of eBusiness initiatives
+has been generally anecdotal, we use a rigorous survey
+methodology in this paper to answer the two research
+questions. Speciﬁcally, we developed a set of hypoth-
+eses based on the literature to empirically test the
+pathway from eBusiness technology to performance,
+mediated by information integration. A unique aspect of
+our data set is that the respondents were asked to focus
+on their major product,
+the speciﬁc process that
+manufactures that product, the most important customer
+for the product, and the most important supplier for
+parts or components for the product. All data for the
+production information integration and performance
+variables were gathered in that context, which allowed
+the respondents to be speciﬁc about the value chain.
+
+2. Literature and hypotheses
+
+Our overarching premise is that eBusiness technol-
+ogies add value to supply chain operations by enhancing
+production information integration. The focus of this
+paper is to provide insight into how ﬁrms can realize the
+beneﬁts of those technologies. In this section we
+develop three constructs and a set of theory-based
+hypotheses on the role of eBusiness technologies in
+supply chain performance. These hypotheses are
+supported by three theories: resource-base view theory,
+the relational view theory, and the theory of swift and
+even ﬂow, which will be discussed later. We performed
+an extensive survey of the literature that spanned the
+three areas pertinent to this study: eBusiness capabil-
+ities, production information integration, and opera-
+tional performance. Table 1 is a concise summary of the
+representative references categorized by the three
+constructs mentioned above.
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1201
+
+Table 1
+Constructs and supporting literature
+
+eBusiness capabilities
+
+EBUSCUST
+
+(1) Customer buying online
+
+(2) Customer conﬁguration/customization
+
+(3) Customer online order tracking
+
+EBUSPUR
+
+(4) Find/select suppliers
+(5) Online purchasing/auctions
+
+EBUSCOLL
+
+(6) Web-based EDI
+
+(7) Collaboration on forecast, schedule,
+
+and replenishment
+
+(8) Advanced planning and
+
+scheduling (APS)
+
+Production information integration
+
+(1) Sales forecast
+
+(2) MPS
+
+(3) Inventory
+
+(4) Collaboration on net requirements
+
+(5) Supplier automatically
+
+replenishes inventory (VMI)
+
+Operational performance
+
+(1) Percent returns
+(2) Percent defects
+(3) Delivery speed
+
+(4) Delivery reliability
+
+(5) Production costs
+
+(6) Production lead time
+
+(7) Inventory turns
+(8) Flexibility
+
+Key references
+
+Frohlich and Westbrook (2002), Lancioni et al. (2000), Mukhopadhyay and Kekre (2002)
+and Zhu et al. (2004)
+Barua et al. (2004), Pﬂughoeft et al. (2003), Ranganathan et al. (2004) and Zhu and
+Kraemer (2002)
+Barua et al. (2004), Chen and Paulraj (2004), Frohlich and Westbrook (2002) and
+Zhu and Kraemer (2002)
+
+Barua et al. (2004), Pﬂughoeft et al. (2003), Zhu and Kraemer (2002) and Zhu et al. (2004)
+Barua et al. (2004), Poirier and Quinn (2003), Ranganathan et al. (2004) and Zhu and
+Kraemer (2002)
+
+Frohlich and Westbrook (2001), Hill and Scudder (2002), Mukhopadhyay and Kekre (2002)
+and Zhu and Kraemer (2002)
+Barua et al. (2004), Frohlich and Westbrook (2002) and Hill and Scudder (2002)
+
+Barua et al. (2004), Frohlich and Westbrook (2002) and Poirier and Quinn (2003)
+
+Barua et al. (2004), Cachon and Lariviere (2001), Frohlich and Westbrook (2001),
+Krajewski and Wei (2001) and Lee et al. (1997)
+Barua et al. (2004), Frohlich and Westbrook (2001), Krajewski and Wei (2001)
+and Lancioni et al. (2000)
+Barua et al. (2004), Frohlich and Westbrook (2001), Krajewski and Wei (2001),
+Lee et al. (1997) and Zhu and Kraemer (2002)
+Barua et al. (2004), Cachon and Lariviere (2001), Krajewski and Wei (2001),
+Lee et al. (1997) and Zhu and Kraemer (2002)
+Buzzell and Ortmeyer (1995) and Lee et al. (1997)
+
+Frohlich and Westbrook (2001), Poirier and Quinn (2003) and Rosenzweig et al. (2003)
+Frohlich and Westbrook (2001) and Rosenzweig et al. (2003)
+Buzzell and Ortmeyer (1995), Chen and Paulraj (2004), Frohlich and Westbrook (2001)
+and Frohlich and Westbrook (2002)
+Buzzell and Ortmeyer (1995), Chen and Paulraj (2004), Poirier and Quinn (2003)
+and Rosenzweig et al. (2003)
+Chen and Paulraj (2004), Frohlich and Westbrook (2001), Frohlich and Westbrook (2002),
+Poirier and Quinn (2003), Rosenzweig et al. (2003) and Zhu and Kraemer (2002)
+Buzzell and Ortmeyer (1995), Frohlich and Westbrook (2001), Ranganathan et al. (2004)
+and Rosenzweig et al. (2003)
+Frohlich and Westbrook (2001), Ranganathan et al. (2004) and Zhu and Kraemer (2002)
+Chen and Paulraj (2004) and Rosenzweig et al. (2003)
+
+2.1. eBusiness capabilities
+
+eBusiness capability is the ability of a ﬁrm to use
+technologies to share information, process
+Internet
+transactions, coordinate activities, and facilitate colla-
+boration with suppliers and customers. Clearly, tradi-
+tional modes of communication such as phone and fax
+are still used by many ﬁrms to do business with
+
+customers and suppliers. Nonetheless, we focus on
+eBusiness technologies because so little is known about
+their impact on performance (Devaraj and Kohli, 2003;
+Mukhopadhyay and Kekre, 2002). In addition, many
+ﬁrms are using the Internet to do business in their supply
+chains. Ninety percent of the respondents in a survey
+reported in Lancioni et al. (2000) used the Internet in
+some part of their supply chain program. Although
+
+
+1202
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+some ﬁrms have successfully integrated eBusiness
+technologies into their traditional bricks-and-mortar
+business models, many others still struggle with
+implementing and justifying eBusiness
+initiatives
+(Barua et al., 2000). The potential beneﬁts for supply
+chains, however, are signiﬁcant. Organizations use the
+web to improve customer relations by providing easier
+access to information, developing more ﬂexibility to
+respond to customer information requests, and speeding
+up the transaction time to shorten product cycles
+(Lederer et al., 2001). Information technology has vast
+potential
+to facilitate collaborative planning among
+supply chain partners by sharing information on
+demand forecasts and production schedules (Chen
+and Paulraj, 2004). Through the Internet, information
+technology also enhances supply chain efﬁciency by
+providing real-time information regarding product
+availability,
+inventory levels, shipment status, and
+production requirements
+(Radstaak and Ketelaar,
+1998; Lancioni et al., 2000; Chen and Paulraj, 2004).
+the
+relationship between information technology imple-
+mentation and productivity is determined in part by the
+use of
+Information technology that
+becomes a part of the production process is associated
+with productivity improvements, unlike information
+technology that only documents or collects information.
+The mere institution of traditional EDI no longer results
+in strategic beneﬁts to the supply chain; advancements
+such as fully integrated order-processing systems or
+electronic invoicing systems are also required (Mukho-
+padhyay and Kekre, 2002). The Internet, however, has
+enhanced traditional EDI systems by making them more
+ﬂexible and affordable to smaller businesses (Lancioni
+et al., 2000; Zhu and Kraemer, 2002; Zhu et al., 2004).
+Nonetheless, many ﬁrms have gone beyond the conﬁnes
+of EDI and incorporated a multitude of Internet-based
+technologies to facilitate the connections between
+customers and suppliers.
+
+Boone and Ganeshan (2001)
+
+indicate that
+
+technology.
+
+Our eBusiness capability construct includes a broad
+set of technologies that are being used by ﬁrms to
+manage their supply chains. Table 1 shows the eight
+technologies we address in this study. While many more
+technologies exist, this set is based on the literature of
+the research and practicing communities and relates
+nicely to the types of technology most ﬁrms are
+acquiring to advance their supply chain competency:
+inventory planning and optimization, web-based appli-
+cations, advanced planning and scheduling, and e-
+procurement systems (Poirier and Quinn, 2003). We
+classify the eight eBusiness technologies into three
+categories depending on their focus. The ﬁrst category
+
+the capability of
+
+of technologies focuses on the demand side, which we
+call EBUSCUST, and relates to allowing customers to
+order online, conﬁgure or customize products online,
+and check the status of orders online. The second set of
+technologies focuses on the supply side, which we call
+EBUSPUR, and addresses
+the
+company to ﬁnd and select suppliers online and
+purchase material
+through online auctions. Finally,
+the third set of technologies focuses on collaboration
+with customers or suppliers, which we call EBUS-
+COLL, and relates to web-based EDI, forecasting,
+inventory replenishment, and scheduling capabilities.
+Our eBusiness capability construct focuses on those
+technologies that conceivably relate to production
+information integration, which is the focus of this study.
+
+2.2. Production information integration
+
+Our production information integration construct
+embodies the nature of the information that is shared
+between entities in a supply chain and supported by the
+collaborative efforts that result in improved production
+information accuracy.
+Information sharing can be
+divided into demand oriented and supply oriented
+information sharing. Demand-oriented information
+sharing includes the sharing of real-time point-of-sales
+data, sales forecasts (Cachon and Lariviere, 2001; Aviv,
+2001), customer proﬁling, and customer relationship
+management (Frohlich and Westbrook, 2002). Supply-
+oriented integration includes inventory ordering poli-
+cies, inventory levels (Gavirneni et al., 1999) and master
+production schedules (Narasimhan and Das, 2001;
+Lancioni et al., 2000; Frohlich and Westbrook, 2001).
+Firms vary in the intensity of
+their production
+information integration depending upon the degree of
+Internet-based demand integration and the degree of
+Internet-based supply integration in their strategy.
+These strategies can range from little or no Internet-
+based integration to total integration from customers to
+suppliers (Frohlich and Westbrook, 2002; Straub et al.,
+2004).
+
+Collaborative planning efforts must be considered
+along with information sharing to get a complete picture
+of production information integration. One of the most
+often cited initiatives ﬁrms put in place to enhance
+supply chain performance is collaborative planning
+with key customers/suppliers (Poirier and Quinn, 2003).
+One such form of collaborative planning is VMI, which
+has been shown to be positively related to manufac-
+turer’s margins (Kulp et al., 2004). Conceivably,
+information sharing gives ﬁrms a ﬁrst step in supply
+chain integration; however,
+is the capability for
+
+it
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1203
+
+collaboration that separates the most successful ﬁrms
+from the rest of the pack.
+
+Integration with supply chain partners is reﬂected by
+the ﬁve measures that are included in our production
+information integration construct, shown in Table 1.
+Demand forecasts from the customer provide suppliers
+more visibility to plan for capacity and material
+requirements (Lee et al., 1997; Frohlich and Westbrook,
+2001). Further, sharing master production schedules
+with suppliers reduces forecast uncertainty and enables
+more detailed production quantity and timing (Lancioni
+et al., 2000; Wei and Krajewski, 2000; Krajewski and
+Wei, 2001). In addition, when a supplier has access to
+the customer’s inventory status, more precise replen-
+ishment production and shipment can be scheduled.
+
+A company invests in eBusiness technologies to
+facilitate more information sharing and collaboration
+with either its suppliers or its customers in the value
+chain. Web-based technologies that process purchase
+orders and track or expedite shipments are often cited as
+critical
+integration tools (Frohlich and Westbrook,
+2002; Chen and Paulraj, 2004; Barua et al., 2004). Thus,
+we expect that eBusiness capability will have a positive
+inﬂuence on production information integration.
+Further, as Frohlich and Westbrook (2001, 2002) point
+out, integration efforts can take place with customers
+and/or suppliers. Consequently, our production infor-
+mation integration construct applies to customers
+separately from suppliers, which we will refer to as
+customer integration and supplier integration, respec-
+tively. This discussion leads to the following hypoth-
+eses, all being equal.
+
+Hypothesis 1. eBusiness capability inﬂuences the
+degree of customer integration.
+
+Hypothesis 1a. EBUSCUST has a positive inﬂuence
+on the degree of customer integration.
+
+Hypothesis 1b. EBUSPUR has a positive inﬂuence on
+the degree of customer integration.
+
+Hypothesis 1c. EBUSCOLL has a positive inﬂuence
+on the degree of customer integration.
+
+Hypothesis 2. eBusiness capability inﬂuences the
+degree of supplier integration.
+
+Hypothesis 2a. EBUSCUST has a positive inﬂuence
+on the degree of supplier integration.
+
+Hypothesis 2b. EBUSPUR has a positive inﬂuence on
+the degree of supplier integration.
+
+Hypothesis 2c. EBUSCOLL has a positive inﬂuence
+on the degree of supplier integration.
+
+2.3. Operational performance
+
+There is growing empirical evidence suggesting that
+higher levels of integration along the supply chain are
+associated with greater potential beneﬁts. Armistead
+and Mapes (1993) use ﬁve items to measure strength of
+integration, including the extent of shared ownership of
+master production schedules and the level of informa-
+tion system integration. The results of their study
+indicated that increasing the level of integration does
+increase operating performance in quality, cost, delivery
+time, and ﬂexibility. Using data from 215 North
+American manufacturing ﬁrms, Narasimhan and
+Jayaram (1998) propose that supply chain integration
+impacts external customer responsiveness and internal
+manufacturing performance via the key linkage
+between sourcing and degree of manufacturing goal
+achievement. Johnson (1999) shows that strategic
+integration results in enhanced economic rewards for
+the customer (distributor) ﬁrm. Based on the data from
+57 tier-1 automotive suppliers, Vickery et al. (2003)
+found that customer service fully mediates the relation-
+ship between supply chain integration and ﬁrm
+performance. There was no signiﬁcant direct relation-
+ship to ﬁrm performance from supply chain integration,
+or from integrated information technology.
+
+While most studies in the literature focus on either
+the supply side or the demand side of integration,
+Frohlich and Westbrook (2001) address the question ‘‘Is
+it more important to link with suppliers, customers, or
+both?’’ Among the industrial goods manufacturers they
+surveyed,
+the ﬁrms with the greatest degree of
+integration, with both suppliers and customers, had
+the strongest performance improvement. In addition,
+ﬁrms that participated in the survey had a stronger
+degree of integration with their suppliers than with their
+customers in the following integrative activities: access
+to planning systems, sharing production plans, and
+knowledge of inventory mix/levels. In a separate but
+related study, Frohlich and Westbrook (2002) further
+distinguish web-based demand chain integration from
+supply chain integration. They report that manufactur-
+ing and services ﬁrms adopting both the demand
+integration and supply integration had the highest
+operational performance in delivery time, transaction
+costs, proﬁtability, and inventory turnover. Ranganathan
+et al. (2004) found signiﬁcant positive associations
+between the beneﬁts realized from web technologies
+and both internal assimilation and external diffusion of
+such technologies to suppliers.
+
+Rosenzweig et al. (2003) introduce supply chain
+integration intensity as a proxy variable for Frohlich and
+
+
+1204
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+Westbrook’s (2001) ‘‘arc of integration.’’ Their study
+involves a sample of 238 consumer products companies
+dominated by market leaders. They found no empirical
+evidence to support a direct effect between integration
+intensity and sales growth or customer satisfaction.
+Rather, it appears that the beneﬁts of integration must
+ﬁrst be translated into operational capabilities, such as
+product quality, delivery reliability, process ﬂexibility,
+and cost. In other words, these operational capabilities
+mediate the relationship between supply chain integra-
+tion and multiple measures of business performance.
+Our operational performance construct, shown in
+Table 1, also includes measures for cost, quality,
+delivery, and ﬂexibility. Therefore, based on the above
+arguments, we propose the following hypotheses.
+
+Hypothesis 3. A higher degree of customer integration
+leads to improved operational performance.
+
+Hypothesis 4. A higher degree of supplier integration
+leads to improved operational performance.
+
+2.4. Underlying theoretical support
+
+While the above discussion provides support for our
+research model, our study of the relationships between
+eBusiness capabilities, production information integra-
+tion, and operational performance is grounded on three
+theories: resource-based view (RBV), relational view,
+and theory of swift and even ﬂow. While the ﬁrst two
+theories have a basis in strategic management, the third
+one is rooted in operations management literature. The
+resources-based view (RBV) is based on the notion that
+a ﬁrm’s performance is founded on its unique resources
+and capabilities that are hard to imitate, such as resource
+heterogeneity and immobility (Wernerfelt, 1984;
+Barney, 1991; Peteraf, 1993). In the context of RBV,
+
+studies have shown that the ability of a ﬁrm to develop
+and exploit new technologies and organizational
+processes, including eBusiness capabilities, will lead
+to sustainable competitive advantages (Mata et al.,
+1995; Teece et al., 1997; Straub and Klein, 2001; Zhu
+and Kraemer, 2002; Zhu, 2004). RBV provides the
+underlying foundation for the development of our
+eBusiness construct because this construct describes a
+ﬁrm’s capability in eBusiness, which may be applied in
+a host of ways other than production information
+integration.
+
+From the perspective of the relational view, a ﬁrm’s
+critical resources may span its boundaries and be
+embedded in inter-ﬁrm resources and relationships
+(Dyer and Singh, 1998). This view takes the position
+that RBV tends to focus on the resources housed within
+a ﬁrm and, hence, overlooks the network of relation-
+ships in which the ﬁrm is embedded (Powell et al., 1996;
+Dyer, 1996, 1997). While the RBV theory tends to focus
+on the ﬁrm and understanding its competitive advantage
+from a resource perspective, the relational view theory
+focuses on the dyad or network relationships and
+processes (Straub et al., 2004; Chen and Paulraj, 2004).
+In this research, our production information integration
+construct is grounded on the relational view because we
+focus on a major product and its manufacturing process.
+We then investigate the intensity of integration speciﬁc
+to the product and process between the respondent ﬁrm
+and its customer, and between the respondent ﬁrm and
+its supplier, respectively.
+
+Finally, our study is also grounded in the operation
+management theory of swift and even ﬂow (Schmenner
+and Swink, 1998). The theory holds that the swifter and
+more even the ﬂow of materials through a process, the
+more productive that process is. Thus, productivity for
+any process rises with the speed by which the material
+
+Fig. 1. Hypothesized model.
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1205
+
+ﬂows through the process, and falls with the increases in
+the variability associated with the ﬂow. We postulate that
+strong eBusiness capabilities will lead to better produc-
+tion information integration with both the supplier and the
+customer. As a result, materials will ﬂow through the
+supply chain more swiftly and evenly and bring forth
+improved operational performance.
+
+Based on this discussion, Fig. 1 shows
+
+the
+
+hypothesized model.
+
+3. Research design
+
+3.1. Survey development
+
+The survey was created in several stages. Initially,
+we developed questions involving eBusiness capabil-
+ities, production information integration, and operating
+performance based on the literature (see Appendix A).
+Next, we asked eight managers to take the survey and
+give us their suggestions for improvement and clarity.
+Finally, as a result of that pre-test, we made a number of
+changes to the instrument.
+
+3.2. Sample
+
+The target audience for the survey was selected from
+the following industries and SIC codes: computer
+components and peripherals (SIC 357), printed circuit
+boards and semiconductors
+(SIC 367), electronic
+equipment and supplies (SIC 369), and automotive
+bodies and parts (SIC 371). These SIC codes are within
+the ranges of recent supply chain studies (Dyer, 1996,
+1997; Krause et al., 1998; Narasimhan and Das, 2001;
+Zhu and Kraemer, 2002; Chen and Paulraj, 2004). We
+used a stratiﬁed random sample of companies to ensure
+coverage of the target industries. The contact informa-
+tion was obtained from a professional database. To
+ensure that the respondent had expertise to accurately
+respond to the questions, we focused the survey on
+senior managers as key informants with titles such as
+‘Vice President,’ ‘Manager,’ or ‘Director’, and with
+functional areas of expertise such as ‘Operations’,
+‘Production’, or ‘Manufacturing’. Key informants were
+used to obtain all of the data used in this study for
+several reasons. First, operational performance data at
+the plant level is generally not available from any source
+other than company records which is privy only to key
+persons in the organization. Further, many of the
+questions in the survey required adequate knowledge
+about the eBusiness capability, information sharing in
+the supply chain, and performance. It is more likely that
+a limited number of individuals in the plant rather than
+
+somebody selected at random in the plant would
+generally have an adequate knowledge of, or access to,
+this information. Under these conditions, key infor-
+mants are commonly used to obtain the necessary data
+and enhance the likelihood of valid and reliable data
+(Huber and Power, 1985). Although key informants can
+provide reliable data as discussed above, consistent with
+prior research in operations management using key
+informants, inter-rater reliability cannot be assessed.
+
+The data collection process resulted in 120 usable
+responses. After accounting for undelivered surveys and
+incomplete responses, we obtained a useable or effective
+response rate of 8.4%. A priori, a low response rate was
+anticipated due to the length of the survey and the fact we
+focused on top-level managers (Pﬂughoeft et al., 2003).
+Nevertheless, the proportions among the SIC codes in the
+120 usable responses were close to the proportions in the
+surveys that were mailed out. This sample size is in
+comparable range with other respected empirical studies
+(Krause et al., 1998; Kulp et al., 2004). In general, the
+absolute size of the sample is more important than the
+proportion of the population sampled (Black, 1999;
+Fowler, 1993). Consequently, to ensure that our sample
+size was adequate, we used Verma and Goodale (1995)
+guidelines for computation of statistical power; for a
+medium effect sample size, the power is greater than 0.90
+at a signiﬁcance level of 0.05. The computation of
+statistical power yielded a value of 0.91.
+
+3.3. Respondent proﬁle
+
+About 55% of the responses came from companies
+with less than 250 employees (small), 18% from
+companies with between 250 and 500 employees
+(medium), and the remaining 27% from large companies
+more than 500 employees. In terms of the distribution of
+responses from the various industries, about 49.2% of the
+responses were from the automotives industry and the
+remaining 50.8% from the electronics and computer
+industry. The percentages of the industries within the
+sample distribution are very close to the percentages of
+the surveys that were originally mailed out. There was no
+statistical difference between the distribution of
+responses and the sample distribution at a 5% level of
+signiﬁcance.
+
+As a test of non-respondent bias, we compared the
+responses of early respondents with those that were
+collected from respondents by telephone solicitation
+(non-respondents in the ﬁrst round). A statistical test of
+the comparison between the two groups for
+the
+constructs employed in this study yielded no signiﬁcant
+difference.
+
+
+1206
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+3.4. Measures
+
+3.4.1. Construct validation
+
+Appendix A provides the scale items and the
+exploratory factor analysis (EFA) factor loadings of
+the items utilized in this study.
+
+construct
+
+capabilities. Our
+
+3.4.1.1. eBusiness
+for
+eBusiness capability has three categories as shown in
+Table 1: EBUSCUST, EBUSPUR, and EBUSCOLL.
+We examined the statistical properties of the scales in
+several ways. First, we performed a principal compo-
+nent factor analyses to examine if the underlying factor
+pattern for the eBusiness capabilities construct was
+consistent with the three categories mentioned above.
+The factor loadings using Varimax rotation are shown in
+Appendix A. All the items relating to eBusiness capa-
+bilities separate out into the three categories discussed
+above. A factor analysis of the constructs indicated that
+all
+items load onto a single factor with all factor
+loadings greater than 0.679, which are substantially
+above the minimum requirements of 0.40 (Nunnally and
+Bernstain, 1994; Gefen et al., 2000). Also there were no
+cross-loadings of any items on more than one compo-
+nent. In Table 2 we present evidence of this in terms of
+the factor loadings of the eight items of eBusiness
+capabilities. The eigen values are 2.093, 1.953, and
+1.372. An examination of the factor loadings, eigen
+values, as well as scree plots provided robust evidence
+of a three-factor solution to the eBusiness capabilities
+scale. Taken together, this is preliminary evidence of the
+convergent and divergent validity of the scales for
+eBusiness capabilities. The cumulative percent of
+variance extracted by this factor structure was 67.8%.
+We next examined the reliabilities of these scales as
+indicated by Cronbach’s alpha. The reliabilities for
+
+Table 2
+eBusiness capabilities—factor loadings
+
+EBUSCUST, EBUSPUR, and EBUSCOLL were 0.72,
+0.70, and 0.76, respectively, which is considered higher
+than the recommended threshold (Nunnally, 1978).
+
+3.4.1.2. Supplier integration. The items employed in
+the construct
+for supplier production information
+integration (SUPINTEG) are extracted from the
+literature as shown in Table 1. A factor analysis of
+the items measuring supplier integration revealed a
+single factor solution with factor loadings in excess of
+0.65 for each item. The percent of variance explained
+was 55.8%. Further, Cronbach’s alpha for the reliability
+of the scale was 0.80.
+
+3.4.1.3. Customer integration. Similar to the construct
+for supplier integration, our construct for customer
+production information integration (CUSINTEG) taps
+into the information sharing that takes place between
+the ﬁrm and its customers. The items for this construct
+were derived from the literature as shown in Table 1.
+The items loaded onto a single factor with factor
+loadings in excess of 0.67, providing evidence of the
+unidimensionality of the scale. The percent of variance
+explained was 53.4%. Reliability of this scale as
+assessed by Cronbach’s alpha was 0.78.
+
+performance
+
+3.4.1.4. Performance. Operational
+is
+typically assessed along the dimensions of cost, quality,
+ﬂexibility, and delivery (Vickery et al., 1993; Miller and
+Roth, 1994; Devaraj et al., 2004). The cohesiveness of
+the items measuring operational performance was very
+high; all items loaded onto a single factor with factor
+loadings greater than 0.61. The percent of variance
+extracted was 57.3%. The reliability of the scale for
+performance was also very high (Cronbach’s alpha of
+0.89). Thus, we treat operational performance as a
+unidimensional construct in our analyses.
+
+3.4.1.5. Control variables. We controlled for
+two
+variables that can also conceivably affect perfor-
+mance—type of industry and size of the ﬁrm (Zhu
+et al., 2004; Rosenzweig et al., 2003; Zhu and Kraemer,
+2002; Frohlich and Westbrook, 2002). Respondents to
+our survey were from the automotive and computers/
+electronics industries. Thus, we used an indicator
+variable to depict the industry classiﬁcation in our
+estimation models. Further, we also had information on
+the size of the ﬁrm (small—less than 250 employees,
+medium—between 250 and 500 employees, and
+large—greater than 500 employees). We used two
+indicator variables to capture the effect of the ﬁrm size
+on performance.
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1207
+
+3.4.2. Conﬁrmatory factor analysis
+
+Structural equation modeling was used to perform a
+conﬁrmatory factor analysis (CFA) for the measurement
+model. CFA allows for tests to be conducted for
+unidimensionality, convergent validity, and divergent
+validity of the scales employed in the study. Consistent
+with extant literature in eBusiness technologies (Zhu
+and Kraemer, 2002) we use EFA to develop the
+constructs and CFA to conﬁrm their properties.
+
+3.4.2.1. Unidimensionality. Unidimensionality is the
+extent to which empirical measures (indicators) are
+strongly associated with each other and represent a
+single concept. Tests for unidimensionality indicated
+that the factor loadings associated with constructs were
+statistically signiﬁcant ( p  0.01).
+
+3.4.2.2. Convergent validity. Convergent validity is
+the extent to which varying approaches to construct
+measurement yield same results (Campbell and Fiske,
+1959). The value for the Bentler–Bonentt coefﬁcient D
+(Bentler and Bonentt, 1980) was 0.91, indicating strong
+convergent validity.
+
+3.4.2.3. Discriminant validity. Discriminant validity
+assesses the extent to which a concept and its indicators
+differ from another concept and its indicators (Bagozzi
+et al., 1991). To test discriminant validity, we compare
+two CFA models: one in which the correlation of a pair
+of constructs is constrained to equal 1.0 (model-a), and
+another in which the correlation is free to vary (model-
+b). The chi-square difference test checks the statistical
+signiﬁcance of the statistic (chi-a minus chi-b) at
+p < 0.01 (Venkatraman, 1989). A statistically signiﬁ-
+cant value of (chi-a minus chi-b), with a threshold of
+32.0, demonstrates that
+the two constructs under
+consideration are distinct. This procedure is repeated
+for all pairs of scales in the instrument. For each pair of
+constructs,
+the chi-square test was statistically sig-
+niﬁcant ( p  0.01) providing support for discriminant
+validity of constructs in all the measurement models.
+
+3.4.2.4. Criterion validity. Criterion validity is the
+extent to which the items predict a set of criteria of
+interest. One way to assess this is to estimate the
+correlation between items used in the study with other
+measures that attempt to capture the same or similar
+criteria. As one example to illustrate criterion validity,
+we examined the correlation between the performance
+measures for delivery speed and delivery reliability with
+an objective measure of delivery performance (%
+products delivered on time) that was not used in this
+
+study. The correlation coefﬁcients were 0.59 and 0.61
+and very highly signiﬁcant ( p < 0.001). Another check
+examined the correlation between production lead time
+performance and an objective measure of manufactur-
+ing lead time in days. Again, the correlation was highly
+signiﬁcant with a correlation coefﬁcient of 0.27 and
+p < 0.001.
+
+3.4.3. Bias
+
+One of the potential sources of bias in survey
+research is common method variance. One of the
+procedures used to test for evidence suggesting the
+presence, or absence, of common method bias in a data
+set
+is the Harman’s one-factor test (Podsakoff and
+Organ, 1986). An exploratory factor analysis was
+performed on the variables of interest. If a single factor
+is obtained or if one factor accounts for a majority of the
+covariance in the independent and criterion variables,
+then the threat of common method bias is high. We
+performed such a factor analysis by combining the
+independent and dependent variables and did not
+observe a single factor
+structure that explained
+signiﬁcant covariance. This suggests that common
+method bias may not be a cause for concern in our
+sample.
+
+Another source of potential bias is the use of
+subjective data. According to Miller et al. (1997), two
+criteria where subjective data may be reliable and valid
+are: (a) questions do not require recall from distant past,
+and (b) informants are motivated to provide accurate
+information. We promised conﬁdentiality of data and
+highlighted the usefulness of the project. Further, we
+believe that respondents would try to respond as
+accurately as possible since we mailed a benchmarking
+report after the data were collected. Therefore, we
+minimized distortions in subjective data obtained from
+key informants.
+
+Given that the constructs employed in the study
+demonstrated good statistical properties, we proceeded
+to test the hypothesized research model shown in Fig. 1.
+
+4. Results
+
+We present descriptive statistics and the correlation
+matrix in Table 3. The correlations and descriptive
+statistics refer to the average of the items reﬂecting each
+construct. Structural Equation Model (SEM) analysis
+has been widely applied in the operations management,
+social sciences, and marketing literature. Researchers
+have recognized the advantages of SEM as a second-
+generation technique (Zhu and Kraemer, 2002; Pﬂugh-
+oeft et al., 2003; Carr and Pearson, 1999; Narasimhan
+
+
+1208
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+Table 3
+Descriptive statistics and correlations
+
+1. EBUSCUST
+2. EBUSPUR
+3. EBUSCOLL
+4. SUPINTEG
+5. CUSINTEG
+6. PERFORM
+
+Mean
+
+1.808
+2.358
+2.469
+3.992
+3.402
+4.925
+
+* Signiﬁcant at 0.10 level.
+** Signiﬁcant at the 0.05 level.
+*** Signiﬁcant at 0.01 level.
+
+Standard deviation
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1.029
+1.211
+1.222
+1.587
+1.404
+1.219
+
+1.000
+0.226**
+0.328***
+0.080
+0.088
+ 0.028
+
+1.000
+0.273***
+0.153*
+0.193**
+ 0.049
+
+1.000
+0.315***
+0.318***
+0.081
+
+1.000
+0.247***
+0.396***
+
+1.000
+ 0.049
+
+1.000
+
+and Jayaram, 1998). The SEM consists of two parts—
+the measurement model and the structural model. The
+measurement model (discussed earlier) assesses the
+adequacy of the measures used for theoretical con-
+structs employed in the study. The structural model, on
+the other hand, speciﬁes the relationship between
+constructs. Effectively, the SEM methodology incor-
+porates these two aspects to ascertain the ﬁt between the
+variance–covariance matrix observed in the sample data
+and that implied by the theoretical or research model.
+This ﬁt is expressed using measures of goodness-of-
+ﬁt index (GFI). It is standard practice to report several
+measures of GFI. The measures we report are goodness-
+of-ﬁt index (GFI) (Bentler and Bonentt, 1980), adjusted
+goodness-of-ﬁt index (AGFI) (Bagozzi and Yi, 1988),
+comparative ﬁt index (CFI) and normed ﬁt index (NFI)
+(Bentler and Bonentt, 1980), and the root mean square
+error of approximation (RMSEA)
+(Steiger, 1990).
+Values higher than 0.90 for GFI, CFI, and NFI are
+indicative of a good ﬁt (Gefen et al., 2000), while AGFI
+values higher than 0.80 suggest a good ﬁt of the
+hypothesized model. For RMSEA, a value less than 0.1
+is considered a good ﬁt, and a value less than 0.05 is
+considered a very good ﬁt of the data to the research
+model (Gefen et al., 2000; Steiger, 1990).
+
+We implemented the structural equation modeling
+using LISREL 8.50. The ﬁt indices for each model are
+listed in Table 4. Another advantage of the SEM
+methodology is that it enables us to test competing
+models. We tested the hypothesized model with another
+
+Table 4
+Model statistics
+
+Model
+
+Chi-square/d.f. GFI AGFI CFI NFI RMSEA
+
+Hypothesized
+
+1.33
+
+0.95 0.90
+
+0.93 0.88 0.05
+
+model
+
+Direct Effect
+
+2.36
+
+0.94 0.86
+
+0.89 0.82 0.09
+
+model
+
+competing model. According to the discussion of the
+resource-based view in Section 2.4, it is plausible that
+ﬁrms with eBusiness capabilities might in general have
+better performance,
+the production
+information integration achieved by eBusiness. Thus,
+we tested a model with a direct impact of eBusiness
+capabilities on performance. We call this model the
+Direct Effect model.
+
+regardless of
+
+The results for the hypothesized model indicate a
+good ﬁt between the variance–covariance matrix of the
+data and that implied by the model. This is indicated by
+the measures of ﬁt (GFI, AGFI, CFI, and NFI) all above
+the threshold values for a good model. The results in
+Table 4 suggest that the hypothesized model ﬁts better
+than the Direct Effect model. A more detailed
+examination of the additional paths between eBusiness
+capabilities and performance in the Direct Effect model
+indicates that none of the three dimensions of eBusiness
+capability were signiﬁcantly associated with perfor-
+mance. Thus, we ﬁnd evidence that there is no direct
+impact of eBusiness capabilities on performance. A ﬁrm
+that has a high degree of eBusiness capability is not
+necessarily experiencing better performance. Our
+results indicate that the ways in which these ﬁrms
+leverage their eBusiness capabilities is what determines
+if they also experience superior performance. This
+ﬁnding also responds to the IT literature on the paradox
+or the lack of impact of IT investment on performance
+(e.g., Hitt and Brynjolfsson, 1996; Porter, 2001; Vickery
+et al., 2003; Devaraj and Kohli, 2003).
+
+Next, we examined the relationships between
+constructs hypothesized in the earlier section. Fig. 2
+presents a graphical representation of the SEM models
+with their regression coefﬁcients for each construct. We
+observe support for the general idea that eBusiness
+capabilities affect the extent to which ﬁrms integrate
+production information with their suppliers. Hypotheses
+1b and 1c are supported by the data; EBUSPUR and
+EBUSCOLL positively inﬂuence the degree of supplier
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1209
+
+Fig. 2. Results of Structural Equation Model. ***Signiﬁcant at 0.01 level; **signiﬁcant at the 0.05 level; NS, not signiﬁcant.
+
+integration. However, there is no support for Hypothesis
+1a. Thus we observe support for Hypothesis 1 along two
+of the dimensions of eBusiness capabilities—purchas-
+ing and collaborative capabilities.
+
+Similar to the above set of relationships, there is
+support for the general idea that eBusiness capabilities
+affect the extent to which ﬁrms integrate production
+information with their customers. Hypotheses 2b and 2c
+are supported by the data; EBUSPUR and EBUSCOLL
+positively inﬂuence the degree of customer integration.
+However, similar to the results for supplier integration,
+Hypothesis 2a was not supported. The underlying
+dimension of eBusiness capability that
+relates to
+customer online ordering capability was not linked to
+supplier integration or customer integration. We discuss
+these results in greater detail in Section 5.1.
+
+The relationship between supplier production
+integration and ﬁrm performance was highly sig-
+niﬁcant,
+lending strong support for Hypothesis 3.
+However, an interesting and counter-intuitive result
+was that the relationship between customer integra-
+tion and performance was not statistically signiﬁcant
+(Hypothesis 4). While supplier production informa-
+tion integration was viewed as positively affecting
+performance, a similar
+true for
+customer production information integration. We
+investigate this phenomenon in greater detail
+in
+Section 5.2.
+
+result was not
+
+Finally, we included indicator variables to control
+for the size of the company as well as the type of
+industry. The control variables were not statistically
+signiﬁcant, but
+lends
+credibility to our results that after controlling for the
+size and industry type we still observe signiﬁcant
+relationships between the constructs employed in the
+study.
+
+their inclusion in the model
+
+5. Discussion
+
+This study addresses two important questions about
+the role of information technology in supply chain
+management: (1) do eBusiness technologies have a
+signiﬁcant impact on supply chain performance? (2)
+Does production information integration constitute an
+important link in the pathway from eBusiness technol-
+ogy to supply chain performance? Based on our results,
+we can say that eBusiness technologies do impact the
+production information integration in a supply chain.
+Further, supplier integration affects the operational
+performance of the ﬁrm. However, some results were
+surprising and need further analysis. In particular, we
+did not expect the EBUSCUST variable to drop out of
+the model. We also did not expect the lack of an
+association between customer integration and opera-
+tional performance. Finally, as supplier integration had
+such an important effect on operational performance,
+we did an analysis to ﬁnd out which performance
+measures were the most affected by it. We discuss these
+results next.
+
+5.1. eBusiness effects
+
+Our analysis indicated that eBusiness capability,
+assessed along the dimensions of customer ordering
+capability, purchasing capability, and supply chain
+collaboration capability, has no direct effect on
+operational performance. This result simply emphasizes
+the fact that having any capability is ineffective unless
+the ﬁrm also has the systems and processes in place to
+leverage the capability (Poirier and Quinn, 2003; Zhu
+and Kraemer, 2002). From a supply chain perspective,
+the capability for customer integration and supplier
+integration are the keys
+to achieving improved
+
+
+1210
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+integration, as measured by speciﬁc information ﬂows
+and collaborative efforts with customers, does not by
+itself relate to performance. While the independent
+impact of supplier integration might exist, what might
+be even more signiﬁcant is the combined or interactive
+effect of supplier and customer integration. To examine
+this conjecture, we test the statistical signiﬁcance of the
+interaction term in the model. To estimate the
+interaction effects, we ﬁrst employ the more established
+practice of estimating an ordinary least
+squares
+regression (OLS) with the interaction term captured
+as the product of the two types of integration. Results of
+the OLS regression with performance as the dependent
+variable are shown in Table 5. As can be observed, the
+impact of the interactive effect of supplier and customer
+production integration is highly signiﬁcant
+lending
+support to the notion that ﬁrms that exhibit both forms
+of
+integration outperform the others signiﬁcantly.
+Further evidence of the signiﬁcance of the interaction
+term is also observed as the increase in R-square after its
+inclusion. The R-square value increased from 18.6% to
+26.9% after we included the interaction term.
+
+We assessed multicollinearity issues that pose a threat
+to the validity of the analyses. An examination of the
+variance inﬂation factors (VIFs) indicated that all VIFs
+were less than 2. These are signiﬁcantly less than the
+threshold of 10 that is commonly viewed as indicative of
+multicollinearity. Further, we also looked at Belsley–
+Kuh–Welsch indices (Belsley et al., 1980) to reconﬁrm
+that we did not have multicollinearity problems.
+
+Finally, following Ping (1995) we estimated the
+interaction term within the context of a structural equation
+modeling framework and found statistical support for the
+signiﬁcance of the interaction between customer and
+supplier information integration. In the interests of
+brevity, we did not report the details of this analysis.
+
+Fig. 3 takes this analysis one step further. We
+low customer
+
+categorized the ﬁrms into high or
+
+operational performance with eBusiness technologies.
+Both types of integration require methods, procedures,
+and processes that go far beyond the mere capability to
+interact with customers over the Internet. However, it
+was unexpected to see that customer ordering capability
+(EBUSCUST) was not associated with either of the
+integration constructs. There are two possible reasons
+for not observing these relationships in our original
+sample. First, it is conceivable that this is a transient
+phenomenon and a large percentage of the ﬁrms
+represented by our sample have not yet incorporated the
+customer ordering capability. As ﬁrms mature in the use
+of the Internet, we could see many more of them
+developing customer ordering capabilities and, if so,
+that capability should support the ﬁrm’s production
+information integration efforts. Second, it is concei-
+vable that the predominance of the target population,
+represented by our sample, consists of ﬁrms that do not
+use (or need) customer ordering capability. Assessing
+which if any of these possibilities for customer ordering
+capability is present would be a useful
+future
+investigation.
+
+5.2. Production information integration
+
+The lack of a relationship between customer
+integration and operational performance seems to defy
+intuition. Certainly, the practitioner literature would
+have us believe that receiving production information
+from a customer and collaborating on future schedules
+and vendor-managed inventories should have a positive
+effect on performance. Nonetheless, our results lead us
+to believe otherwise. Frohlich and Westbrook (2002)
+showed that ﬁrms integrating both customers and
+suppliers perform better than ﬁrms integrating only one
+or the other. That concept could also apply here,
+in our study is that customer
+however
+
+the twist
+
+Table 5
+Interactive effect of customer integration and supplier integration
+
+Independent variables
+
+Interaction between
+
+supplier and customer
+
+Supplier
+Customer
+Size 1
+Size 2
+Industry
+R-square of model
+F-statistic
+
+Dependent variable
+performance
+
+0.29***
+
+0.39***
+ 0.11
+0.003
+ 0.05
+ 0.07
+26.9%
+6.92***
+
+*** Signiﬁcant at the 0.01 level.
+
+Fig. 3. Interaction effect on performance.
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1211
+
+integration intensity and high or low supplier integra-
+tion intensity depending on the ﬁrm’s scores relative to
+the median score for each construct. The operational
+performance score is the average of the ﬁrms in each
+quadrant.
+
+integration and high customer
+
+integration and high customer
+
+Two groupings have statistically signiﬁcant differ-
+ences in their operational performance at the 0.05 level
+of signiﬁcance: ﬁrms with high supplier integration and
+high customer integration (5.29) versus ﬁrms with low
+supplier
+integration
+(4.00); and ﬁrms with high supplier integration and
+low customer integration (4.96) versus ﬁrms with low
+supplier
+integration
+(4.00). Firms with low customer integration and high
+supplier
+integration do not experience operational
+performance signiﬁcantly better than ﬁrms that have
+low customer integration and low supplier integration.
+Apparently, if customer integration is left at a low level,
+most of the gains in performance can be achieved with
+low levels of supplier integration. The largest beneﬁt
+comes when both customer integration and supplier
+integration are at high levels. The synergistic effects of
+both forms of integration combine to produce the best
+outcome. However, why does a ﬁrm with low supplier
+integration and high customer integration have such
+poor performance? A possible answer resides in the
+anticipated beneﬁts of the Internet capability, which has
+been shown to be a driver for supply chain integration
+(Frohlich and Westbrook, 2002). The level of customer
+expectation rises relative to performance once a ﬁrm has
+established a capability to interact with customers via
+the Internet. Indeed, this level of expectation could
+translate to the ﬁrm’s management as they evaluate their
+own operational performance; they expect more of the
+process because the customer expects more. The actual
+performance, nonetheless, could be limited because the
+ﬁrm has not established an adequate level of supplier
+integration. While we agree that both forms of
+production information integration are best, our data
+
+Table 6
+One-way ANOVA results
+
+Performance measure
+
+Percent product returned by the customer
+Percent defects during production
+Delivery speed
+Delivery reliability
+Production costs
+Production lead time
+Inventory turns
+The ﬂexibility of the process
+
+indicate that developing high levels of customer
+integration without ﬁrst establishing supplier integration
+can result
+in lower levels of perceived operational
+performance. This ﬁnding is consistent with a recent
+study by Barua et al. (2004) who posit that the supplier-
+side ‘‘digitization’’, the online transactions and informa-
+tion exchanges, serves as a prerequisite for digitization on
+the customer-side. Without
+increasing supplier-side
+digitization, a ﬁrm may over-promise customers and
+then fail to deliver.
+
+5.3. Impact of supplier integration on performance
+
+The structural equation analyses and the OLS
+regression analyses outlined above use an aggregate
+measure of performance as the dependent variable.
+This is due to the statistical properties of the scale for
+performance supporting a unidimensional construct.
+From a managerial perspective, it would be useful to
+discover which measures have the strongest relation-
+ship to supplier integration. To address this issue, we
+conducted a one-way ANOVA with the
+items
+comprising the performance scale as the dependent
+variables and supplier integration as the independent
+variable.
+
+the dimensions
+
+The results of the one-way ANOVA are shown in
+Table 6. As can be seen all the dimensions considered
+in the performance scale are statistically signiﬁcant (at
+the 0.05 level of signiﬁcance). In decreasing order of
+signiﬁcance,
+that are related to
+supplier integration are delivery reliability, delivery
+speed, production costs, percent products returned by
+customer, production lead time, ﬂexibility of the
+process, percent defects during production, and
+inventory turns. That is, dimensions of performance
+related to aspects of delivery timing, cost, and quality
+problems discovered by the customer have a stronger
+relationship with supplier integration than the other
+dimensions.
+
+F-statistic
+
+Signiﬁcance (F-statistic)
+
+2.851
+2.465
+3.021
+3.247
+2.881
+2.713
+1.733
+2.538
+
+0.000
+0.001
+0.000
+0.000
+0.000
+0.000
+0.026
+0.000
+
+
+1212
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+6. Contributions and future research
+
+6.1. Key ﬁndings and managerial implications
+
+The results of this study provide insights into the
+design of effective value chains. A key ﬁnding is that
+eBusiness capability supports customer and supplier
+integration efforts. Our eBusiness capability construct
+focused on speciﬁc supply chain technologies that
+supported customer ordering, purchasing, and colla-
+boration between customers and suppliers. Firms
+should invest in eBusiness capabilities if they want to
+enhance
+their production information integration
+intensity. Nonetheless, ﬁrms should not try to justify
+investments in eBusiness technologies on the basis of
+their immediate impact on operational performance. To
+achieve operational performance advantages, the ﬁrm
+must also have the processes and procedures in place to
+use those capabilities.
+
+A second key ﬁnding is that operational perfor-
+mance, which affects the customer’s perception of the
+quality of the business relationship with the ﬁrm, can
+best be improved by intensifying the production
+information integration with customers and suppliers.
+This implies that increased exchanges of information
+such as sales forecasts, master production schedules,
+and inventory levels should result in better operational
+performance. In addition, ﬁrms should increase their
+collaboration with customers and suppliers regarding
+production requirements and move more toward
+vendor-managed inventory arrangements.
+
+A third key ﬁnding relates to the approach that
+should be used in designing an effective supply chain.
+Often there are budgetary considerations that limit ﬁrms
+from doing everything at once. When referring to
+production information integration, our study has
+indicated that it is best to develop supplier integration
+before customer integration, with the goal to have both
+in place for maximum operational performance. By ﬁrst
+developing supplier integration the ﬁrm establishes the
+capability to meet the performance expectations of its
+customers before engaging in customer integration.
+
+Finally, while supplier integration positively affects
+all dimensions of operational performance, it appears to
+have its greatest impact on delivery timing, costs, and
+quality.
+
+6.2. Research contributions
+
+The signiﬁcance of these ﬁndings resides in three
+research contributions of this study. First, the model we
+tested bridges the work of several other studies and
+
+veriﬁes some general ﬁndings. Zhu and Kraemer (2002)
+found that aggregate measures of ﬁrm performance such
+as total sales and proﬁt margins are too remote to be
+signiﬁcantly associated with e-commerce capability. In
+our study, we also found that eBusiness capability is not
+directly associated with operational performance;
+however it
+is mediated by production information
+integration, which is related to operational perfor-
+mance. Rosenzweig et al. (2003) showed that supply
+chain integration intensity is associated with competi-
+tive capabilities (which we call operational perfor-
+mance) and that competitive capabilities are associated
+with positive business performance. The present study
+has shown that supplier
+integration and customer
+integration have an interaction effect
+is more
+highly associated with operational performance than
+either taken alone. Finally, Frohlich and Westbrook
+(2002) proposed four web-based supply chain integra-
+tion strategies that
+incorporate different degrees of
+demand integration (which we call customer integra-
+tion) and supply integration and showed that they are
+linked to operational performance. We have also shown
+that various combinations of production information
+integration lead to varying levels of performance.
+However, our study has separated the web capability
+from speciﬁc forms of production information integra-
+tion to show the role that eBusiness capabilities play in
+the integration efforts. Consequently, a major contribu-
+tion of the study is that it is the ﬁrst study of supply
+chain integration that addresses the effects of eBusiness
+capability, production information integration, and
+operating performance in one theoretical framework.
+
+that
+
+Second, our ﬁndings indicated that eBusiness
+capabilities, by themselves, do not directly impact
+operational performance. Firms must develop a
+capability for customer and supplier integration to
+realize the beneﬁts of the new eBusiness technolo-
+gies. In addition, supplier integration should be at a
+high level before customer integration is developed
+if both capabilities cannot be developed simulta-
+neously. Customer
+integration by itself does not
+directly affect operational performance and must be
+implemented with supplier integration to realize its
+full potential.
+
+Finally, we developed new supply chain constructs
+for eBusiness capability, customer integration, and
+integration. Following the suggestions of
+supplier
+Rosenzweig et al.
+include
+technology capabilities and speciﬁc tactics for supplier
+and customer integration that allow us to better capture
+the nature of those constructs and their affect on supply
+chain performance.
+
+(2003), our measures
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1213
+
+6.3. Limitations and future research
+
+No empirical study is without limitations. To be
+fair, some of these limitations are true for cross-
+sectional survey research in general. First, while the
+hypothesized model represents our best predictions
+based on the arguments articulated in the section on
+hypothesis development, no causal claims can be
+made from our results due to the cross-sectional nature
+of the data employed in the study. Future studies might
+examine the relationships proposed here in greater
+detail and over time to provide support for a causal
+perspective. The second issue relates to our ability to
+generalize the results to other industries. Strictly, we
+can generalize our results to the automotive, compu-
+ters, and electronics industries. In addition, our sample
+had 73% of ﬁrms in the small to medium (SME) size
+category. While our ‘‘size’’ control variable was not
+signiﬁcant, it is conceivable that the results may be
+more reﬂective of SMEs. This may have had an
+inﬂuence on the results we had for the EBUSCUST
+construct, which we found to have no affect on the
+integration variables for the complete sample. None-
+theless, we believe there are interesting insights for
+industries that have similar demographics and supply
+chain and technology practices. A third limitation is
+that some of our results might be a function of the
+timing of the survey. Speciﬁcally, the lack of support
+for eBusiness
+relating to customer
+ordering capabilities might be due to the vast majority
+of companies in our sample not having implemented
+that technology at this point in time. However, this
+might change in the years to come, which implies that
+the relationship between customer-oriented eBusiness
+technologies and production information integration
+and consequently performance might be different than
+what we observed. Again, we believe this offers an
+opportunity to examine relationships hypothesized in
+this study as these technologies mature and ﬁnd
+greater acceptance and implementation in organiza-
+tions.
+
+technologies
+
+The topic of supply chain integration is still in its
+infancy. This study included only ﬁrst tier suppliers to the
+respondent ﬁrm. Future research should address the issue
+of how deep the integration should go. Information
+exchanges and collaborative efforts could extend to
+second and third tier suppliers, however we do not know if
+those efforts would result in signiﬁcant differences in
+operational performance. Further, the role of manufac-
+turing process capability remains to be explored. For
+example, it is conceivable that manufacturing process
+ﬂexibility is another mediating variable for eBusiness
+
+capability. Research could also explore the differences
+between SMEs and large ﬁrms in the relationships
+between eBusiness capabilities and production informa-
+tion integration. There are many opportunities for future
+research in this area.
+
+Appendix A. Appendix of survey items (with
+factor loadings)
+
+A.1. eBusiness capabilities
+
+Responses range from ‘Not Implemented’ to ‘Fully
+
+Implemented’.
+
+The following items
+
+relate to my company’s
+
+eBusiness capabilities in general:
+
+1. Allow customers to order products online (0.816).
+2. Allow customers to conﬁgure or customize products
+
+online (0.740).
+
+3. Allow customers to check the status of their orders
+
+online (0.752).
+
+4. Find and select suppliers online for commodity
+
+components (0.780).
+
+5. Purchasing materials
+
+through online
+
+auctions
+
+(0.839).
+
+6. Support web-based EDI (0.679).
+7. Enable collaboration with suppliers or customers on
+replenishment online
+
+forecasting, scheduling, or
+(0.888).
+
+8. Support advanced planning and scheduling (APS) for
+
+optimizing supply chain performances (0.847).
+
+A.2. Supplier production information integration
+
+Responses ranged on a seven-point Likert scale from
+
+‘Strongly Disagree’ to ‘Strongly Agree’:
+
+1. My company provides the following information
+
+items to the supplier:
+a. Sales forecast (0.651).
+b. Master production schedule (0.791).
+c. The inventory status (0.809).
+
+2. My company collaborates with the supplier to jointly
+develop the net requirements of the component that
+the supplier will need to deliver (0.723).
+
+3. My company authorizes the supplier to automatically
+
+replenish the inventory of the component (0.747).
+
+A.3. Customer production information integration
+
+Responses ranged on a seven-point Likert scale from
+
+‘Strongly Disagree’ to ‘Strongly Agree’:
+
+
+1214
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+its ﬁnal product
+
+1. The customer provides the following information
+to my company (if the
+about
+customer is a retailer, then the ﬁnal product is the
+same as the product you supply):
+a. Sales forecast (0.708).
+b. Master production schedule (0.788).
+c. The inventory status (0.761).
+
+2. The customer collaborates with my company to
+jointly develop the net requirements of the product
+that my company supplies (0.714).
+
+3. The customer authorizes my company to automati-
+cally replenish the inventory of the product my
+company supplies (0.678).
+
+A.4. Operational performance
+
+Please rate the performance of the Process along the
+
+following dimensions:
+
+Responses for the above questions ranged on a
+seven-point Likert Scale from ‘Not Very Good’ –
+‘Average’ – ‘Very Good’:
+
+1. Percent product returned by the customer (0.619).
+2. Percent defects during production (0.776).
+3. Delivery speed (0.865).
+4. Delivery reliability (0.839).
+5. Production costs (0.718).
+6. Production lead time (0.818).
+7. Inventory turns (0.644).
+8. The ﬂexibility of
+
+the process to accommodate
+changes to shipping schedules within the effective
+lead time of the product without the use of safety
+stock (0.742).
+
+References
+
+Armistead, C.G., Mapes, J., 1993. The impact of supply chain
+integration on operating performance. Logistics Information Man-
+agement 6 (4), 9–14.
+
+Aviv, Y., 2001. The effect of collaborative forecasting on supply chain
+
+performance. Management Science 47 (10), 1326–1343.
+
+Bagozzi, R.P., Yi, Y., 1988. On the evaluation of structural equation
+models. Journal of Academy of Marketing Science 16 (1),
+74–94.
+
+Bagozzi, R.P., Youjae, Y., Philips, L.W., 1991. Assessing construct
+validity in organizational research. Administrative Science Quar-
+terly 36, 421–458.
+
+Barney, J., 1991. Firm resources and sustained competitive advan-
+
+tages. Journal of Management 17 (1), 99–120.
+
+Barua, A., Whinston, A.B., Yin, F., 2000. Value and productivity in the
+
+Internet economy. IEEE Computer 33 (5), 102–105.
+
+Barua, A., Konana, P., Whinston, A.B., Yin, F., 2004. An empirical
+investigation of Net-enabled business value. MIS Quarterly 28 (4),
+585–620.
+
+Belsley, D.A., Kuh, E., Welsch, R.E., 1980. Regression Diagnostics.
+
+John Wiley & Sons, USA.
+
+Bentler, P.M., Bonentt, D.G., 1980. Signiﬁcance tests and goodness of
+ﬁt in the analysis of covariance structures. Psychological Bulletin
+88, 588–606.
+
+Black, T.J., 1999. Doing Quantitative Research in the Social Sciences.
+
+Sage, London.
+
+Boone, T., Ganeshan, R., 2001. The effect of information technology
+on learning in professional service organizations. Journal of
+Operations Management 19 (4), 485–495.
+
+Brynjolfsson, E., Yang, S., 1996. Information technology and pro-
+ductivity: a review of literature. Advances in Computers 43, 179–
+214.
+
+Buzzell, R.D., Ortmeyer, G., 1995. Channel partnerships streamlining
+
+distribution. Sloan Management Review 36 (3), 85–96.
+
+Cachon, G.P., Fisher, M., 2000. Supply chain management and the
+value of shared information. Management Science 46 (8), 1032–
+1048.
+
+Cachon, G.P., Lariviere, M.A., 2001. Contracting to assure supply:
+how to share demand forecasts in a supply chain. Management
+Science 47 (5), 629–646.
+
+Campbell, D.T., Fiske, D.W., 1959. Convergent and discriminant
+validity by the multitrait-multimethod matrix. Psychological Bul-
+letin 56, 81–105.
+
+Carr, A.S., Pearson, J.N., 1999. Strategically managed buyer–supplier
+relationships and performance outcomes. Journal of Operations
+Management 17 (5), 497–519.
+
+Cetinkaya, S., Lee, C.Y., 2000. Stock replenishment and shipment
+scheduling for vendor-managed inventory systems. Management
+Science 46 (2), 217–232.
+
+Chen, I., Paulraj, A., 2004. Towards a theory of supply chain manage-
+ment: the constructs and measurements. Journal of Operations
+Management 22 (2), 119–150.
+
+D’Avanzo, R., von Lewinski, H., Van Wassenhove, L.N., 2003. The
+link between supply chain and ﬁnancial performance. Supply
+Chain Management Review 40–47.
+
+Devaraj, S., Kohli, R., 2003. Performance impacts of information
+is actual usage the missing link? Management
+
+technology:
+Science 49 (3), 273–289.
+
+Devaraj, S., Hollingworth, D., Schroeder, R., 2004. Generic manu-
+facturing strategies and plant performance. Journal of Operations
+Management 22 (3), 313–333.
+
+Dell, M.S., 1999. Direct from Dell: Strategies that Revolutionized an
+
+Industry. Harper Collins, New York.
+
+Dyer, J.H., 1996. Specialized supplier networks as a source of
+competitive advantage: evidence from the auto industry. Strategic
+Management Journal 17 (4), 271–291.
+
+Dyer, J.H., 1997. Effective interﬁrm collaboration: how ﬁrms mini-
+mize transaction costs and maximize transaction value. Strategic
+Management Journal 18 (7), 535–556.
+
+Dyer, J.H., Singh, H., 1998. The relational view: cooperative strategy
+and sources of interorganizational competitive advantage. Acad-
+emy of Management Review 23 (4), 660–679.
+
+Fowler, F.J., 1993. Survey Research Methods, 2nd. ed. Sage, London.
+Frohlich, M.T., Westbrook, R., 2001. Arcs of integration: an interna-
+tional study of supply chain strategies. Journal of Operations
+Management 19 (2), 185–200.
+
+Frohlich, M.T., Westbrook, R., 2002. Demand chain management in
+manufacturing and services: web-based integration, drivers and
+performance. Journal of Operations Management 20 (4), 729–745.
+Gavirneni, S., Kapuscinski, R., Tayur, S., 1999. Value of information
+in capacitated supply chains. Management Science 45 (1), 16–24.
+
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+1215
+
+Gefen, D., Straub, D., Boudreau, M., 2000. Structural equation
+modeling and regression: guidelines for research practice. Com-
+munications of AIS 4 (7), 1–76.
+
+Hill, C.A., Scudder, G.D., 2002. The use of electronic data interchange
+for supply chain coordination in the food industry. Journal of
+Operations Management 20 (4), 375–387.
+
+Hitt, L.M., Brynjolfsson, E., 1996. Productivity, business proﬁtability,
+and consumer surplus: three different measures of information
+technology value. MIS Quarterly 20 (2), 121–142.
+
+Huber, G.P., Power, D.J., 1985. Retrospective reports of strategic-level
+managers: guidelines for increasing their accuracy. Strategic
+Management Journal 6, 171–180.
+
+Johnson, J., 1999. Strategic integration in industrial distribution
+channels: managing the interﬁrm relationship as a strategic asset.
+Journal of the Academy of Marketing Science 27, 4–18.
+
+Kauffman, R.J., Walden, E., 2001. Economics and electronic ecom-
+merce: survey and directions for research. International Journal of
+Electronic Commerce 5 (4), 5–116.
+
+Nunnally, J.C., 1978. Psychometric Theory, 2nd ed. McGraw-Hill,
+
+New York.
+
+Nunnally, J.C., Bernstain, I.H., 1994. Psychometric Theory, 32nd ed.
+
+McGraw-Hill, New York, NY.
+
+Peteraf, M.A., 1993. The cornerstone of competitive advantage: a
+resource-based view. Strategic Management Journal 14 (3), 170–
+191.
+
+Pﬂughoeft, K.A., Ramamurthy, K., Sooﬁ, E.S., Yasai-Ardekani, M.,
+Zahedi, F., 2003. Multiple conceptualizations of small business
+web use and beneﬁt. Decision Sciences 34 (3), 467–512.
+
+Ping, 1995. A pasimonious estimating technique for interaction and
+quadratic latent variables. Journal of Marketing Research 32, 336–
+347.
+
+Podsakoff, P.M., Organ, D.W., 1986. Self reports in organizational
+research: problems and prospects. Journal of Management 12 (4),
+531–544.
+
+Poirier, C.C., Quinn, F.J., 2003. A survey of supply chain progress.
+
+Supply Chain Management Review 40–47.
+
+Koloczyc, G., 1998. Retailers, suppliers push joint sales forecasting.
+
+Porter, M., 2001. Strategy and the Internet. Harvard Business Review
+
+Stores (June).
+
+79 (3), 63–78.
+
+Krajewski, L., Wei, J., 2001. The value of production schedule
+integration in supply chains. Decision Sciences 32 (4), 601–
+634.
+
+Krause, D.R., Hanﬁeld, R.B., Scannel, T.V., 1998. An empirical
+investigation of supplier development: reactive and strategic
+processes. Journal of Operations Management 17 (1), 39–58.
+
+Kulp, S.C., Lee, H.L., Ofek, E., 2004. Manufacturer beneﬁts from
+information integration with retail customers. Management
+Science 50 (4), 431–444.
+
+Lancioni, R.A., Smith, M.F., Oliva, T.A., 2000. The role of the Internet
+in supply chain management. Industrial Marketing Management
+29, 45–56.
+
+Lederer, A.L., Mirchandani, D.A., Sims, K., 2001. The search for
+strategic advantage from the World Wide Web. International
+Journal of Electronic Commerce 5 (4), 117–133.
+
+Lee, B., Barua, A., 1999. An integrated assessment of productivity and
+efﬁciency impacts of information technology investments: old
+data, new analysis and evidence. Journal of Productivity Analysis
+12 (1), 2143.
+
+Lee, H.L., Padmanabhan, V., Whang, S., 1997. Information distortion
+in a supply chain: the bullwhip effect. Management Science 43 (4),
+546–558.
+
+Mata, F., Fuerst, W., Barney, J., 1995. Information technology and
+sustained competitive advantage: a resource-based analysis. MIS
+Quarterly 19 (4), 487–505.
+
+Milgrom, P., Roberts, J., 1988. Communication and inventory as
+substitutes in organizing production. Scandinavian Journal of
+Economics 90 (3), 275–289.
+
+Miller, C.C., Cardinal, L.B., Glick, W.H., 1997. Retrospective reports
+in organizational research: a reexamination of recent evidence.
+Academy of Management Journal 40, 189–204.
+
+Miller, J.G., Roth, A.V., 1994. A taxonomy of manufacturing strategy.
+
+Management Science 40 (3), 285–304.
+
+Mukhopadhyay, T., Kekre, S., 2002. Strategic and operational beneﬁts
+of electronic integration in B2B procurement processes. Manage-
+ment Science 48 (10), 1301–1313.
+
+Narasimhan, R., Jayaram, J., 1998. Casual linkages in supply chain
+management: an exploratory study of North American manufac-
+turing ﬁrms. Decision Sciences 29 (3), 579–605.
+
+Narasimhan, R., Das, A., 2001. The impact of purchasing integration
+and practices on manufacturing performance. Journal of Opera-
+tions Management 19 (4), 593–609.
+
+Powell, W.W., Koput, K.W., Smith-Doerr, L., 1996. Inter-organiza-
+tional collaboration and the locus of innovation: networks of
+learning in biotechnology. Administrative Science Quarterly 41,
+116–145.
+
+Radstaak, B.G., Ketelaar, M.H., 1998. Worldwide Logistics: The
+Future of Supply Chain Services. Holland International Distribu-
+tion Council, Hague, The Netherlands.
+
+Ranganathan, C., Dhaliwal, J.S., Teo, T.S.H., 2004. Assimilation and
+diffusion of Web technologies in supply-chain management: an
+examination of key drivers and performance impacts. International
+Journal of Electronic Commerce 9 (1), 127–161.
+
+Rosenzweig, E.D., Roth, A.V., Dean, J.W., 2003. The inﬂuence of an
+integration strategy on competitive capabilities and business
+performance: an exploratory study of consumer products manu-
+facturers. Journal of Operations Management 21 (4), 437–456.
+
+Schmenner, R.W., Swink, M.L., 1998. On theory in operations
+management. Journal of Operations Management 17 (2), 97–113.
+Steiger, J.H., 1990. Structural model evaluation and modiﬁcation: an
+internal estimation approach. Multivariate Behavioral Research
+25, 173–180.
+
+Straub, D., Klein, R., 2001. E-competitive transformations. Business
+
+Horizons 44 (3), 3–12.
+
+Straub, D., Rai, A., Klein, R., 2004. Measuring ﬁrm performance at
+the network level: a nomology of the business impact of digital
+supply networks. Journal of Management Information Systems 21
+(1), 83–114.
+
+Teece, D.J., Pisano, G., Shuen, A., 1997. Dynamic capabilities and
+strategic management. Strategic Management Journal 18, 509–
+533.
+
+Venkatraman, N., 1989. The concept of ﬁt in strategy research: toward
+verbal and statistical correspondence. Academy of Management
+Review 14 (3), 423–444.
+
+Verma, R., Goodale, J.C., 1995. Statistical power in operations
+management research. Journal of Operations Management 13
+(2), 139–152.
+
+Vickery, S.K., Droge, C., Markland, R.E., 1993. Production compe-
+tence and business strategy: do they affect business performance?
+Decision Sciences 24 (2), 435–455.
+
+Vickery, S.K., Jayaram, J., Droge, C., Calantone, R., 2003. The effect
+of an integrative supply chain strategy on customer service and
+ﬁnancial performance: an analysis of direct vs. indirect relation-
+ships. Journal of Operations Management 21 (5), 523–539.
+
+
+1216
+
+S. Devaraj et al. / Journal of Operations Management 25 (2007) 1199–1216
+
+Wei, J., Krajewski, L., 2000. A model for comparing supply chain
+schedule integration approaches. International Journal of Produc-
+tion Research 38 (9), 2099–2123.
+
+Wernerfelt, B., 1984. A resource-based view of the ﬁrm. Strategic
+
+Management Journal 5, 171–180.
+
+Zhu, K., Kraemer, K.L., 2002. E-commerce metrics for net-enhanced
+organizations: assessing the value of e-commerce to ﬁrm perfor-
+mance in the manufacturing sector. Information Systems Research
+13 (3), 275–295.
+
+Zhu, K., Kraemer, K.L., Xu, S., Dedrick, J., 2004. Information
+technology payoff in e-business environments: an international
+perspective on value creation of e-business in the ﬁnancial
+services industry. Journal of Management Information Systems
+21 (1), 17–54.
+
+Zhu, K., 2004. The complementarity of information technology
+infrastructure and E-commerce capability: a resource-based
+assessment of their business value. Journal of Management Infor-
+mation Systems 21 (1), 167–202.
+
